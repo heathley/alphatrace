@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "karpathy/autoresearch",
             "description": "AI agents running research on single-GPU nanochat training automatically",
             "url": "https://github.com/karpathy/autoresearch",
-            "stars": 33378,
-            "forks": 4495,
+            "stars": 33393,
+            "forks": 4496,
             "score": 99
         },
         {
@@ -51,8 +51,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "ParthJadhav/app-store-screenshots",
             "description": "end to end app store screenshot creation using AI",
             "url": "https://github.com/ParthJadhav/app-store-screenshots",
-            "stars": 2563,
-            "forks": 166,
+            "stars": 2564,
+            "forks": 167,
             "score": 99
         },
         {
@@ -95,7 +95,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "chrisworsey55/atlas-gic",
             "description": "ATLAS by General Intelligence Capital \u2014 Self-improving AI trading agents using Karpathy-style autoresearch",
             "url": "https://github.com/chrisworsey55/atlas-gic",
-            "stars": 772,
+            "stars": 773,
             "forks": 167,
             "score": 99
         },
@@ -106,8 +106,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "pasky/chrome-cdp-skill",
             "description": "Give your AI agent access to your live Chrome session \u2014 works out of the box, connects to tabs you already have open",
             "url": "https://github.com/pasky/chrome-cdp-skill",
-            "stars": 735,
-            "forks": 37,
+            "stars": 739,
+            "forks": 38,
             "score": 99
         },
         {
@@ -117,7 +117,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Narcooo/inkos",
             "description": "Multi-agent novel production system \u2014 AI agents autonomously write, audit, and revise novels with human review gates",
             "url": "https://github.com/Narcooo/inkos",
-            "stars": 493,
+            "stars": 494,
             "forks": 101,
             "score": 99
         },
@@ -216,7 +216,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "vercel-labs/openreview",
             "description": "An open-source, self-hosted AI code review bot powered by Vercel.",
             "url": "https://github.com/vercel-labs/openreview",
-            "stars": 955,
+            "stars": 956,
             "forks": 62,
             "score": 70
         },
@@ -405,6 +405,17 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/meganoob1337/llama-swap-vllm-boilerplate",
             "stars": 9,
             "forks": 2,
+            "score": 30
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "brBOND",
+            "full_name": "yyoosf539/brBOND",
+            "description": "Compliance-focused ERC-4626 vault protocol for Real World Assets (RWA) tokenization on BNB Chain. Features built-in KYC whitelisting, blacklisting, and secure yield distribution.",
+            "url": "https://github.com/yyoosf539/brBOND",
+            "stars": 0,
+            "forks": 0,
             "score": 30
         },
         {
@@ -707,20 +718,6 @@ const ALPHA_DATA_V2 = {
     ],
     "news": [
         {
-            "title": "Polymarket: ETH hit $4,000 in March probability surging.",
-            "source": "Polymarket",
-            "type": "Expectation",
-            "color": "text-indigo-400",
-            "url": "https://polymarket.com/market/eth-price-march"
-        },
-        {
-            "title": "Global AI Regulation odds tightening on Prediction Markets.",
-            "source": "Polymarket",
-            "type": "Expectation",
-            "color": "text-indigo-400",
-            "url": "https://polymarket.com/activity"
-        },
-        {
             "title": "STAMP: Selective Task-Aware Mechanism for Text Privacy",
             "source": "ArXiv",
             "type": "Research Alpha",
@@ -733,7 +730,14 @@ const ALPHA_DATA_V2 = {
             "type": "Research Alpha",
             "color": "text-indigo-600",
             "url": "http://arxiv.org/abs/2603.12230v1"
+        },
+        {
+            "title": "Crypto Prediction Markets volume surge detected in Q1 2026.",
+            "source": "Polymarket",
+            "type": "Expectation",
+            "color": "text-indigo-400",
+            "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-03-14 16:18"
+    "timestamp": "2026-03-14 16:24"
 };
