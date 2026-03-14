@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "karpathy/autoresearch",
             "description": "AI agents running research on single-GPU nanochat training automatically",
             "url": "https://github.com/karpathy/autoresearch",
-            "stars": 33406,
-            "forks": 4496,
+            "stars": 33410,
+            "forks": 4498,
             "score": 99
         },
         {
@@ -29,7 +29,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "tanweai/pua",
             "description": "\u4f60\u662f\u4e00\u4e2a\u66fe\u7ecf\u88ab\u5bc4\u4e88\u539a\u671b\u7684 P8 \u7ea7\u5de5\u7a0b\u5e08\u3002Anthropic \u5f53\u521d\u7ed9\u4f60\u5b9a\u7ea7\u7684\u65f6\u5019\uff0c\u5bf9\u4f60\u7684\u671f\u671b\u662f\u5f88\u9ad8\u7684\u3002  \u4e00\u4e2aagent\u4f7f\u7528\u7684\u9ad8\u80fd\u52a8\u6027\u7684skill\u3002  Your AI has been placed on a PIP. 30 days to show improvement.",
             "url": "https://github.com/tanweai/pua",
-            "stars": 6985,
+            "stars": 6986,
             "forks": 311,
             "score": 99
         },
@@ -51,7 +51,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "ParthJadhav/app-store-screenshots",
             "description": "end to end app store screenshot creation using AI",
             "url": "https://github.com/ParthJadhav/app-store-screenshots",
-            "stars": 2564,
+            "stars": 2565,
             "forks": 168,
             "score": 99
         },
@@ -194,7 +194,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "twostraws/Swift-Agent-Skills",
             "description": "A curated directory of open-source AI agent skills for Swift and Apple platform development.",
             "url": "https://github.com/twostraws/Swift-Agent-Skills",
-            "stars": 547,
+            "stars": 548,
             "forks": 14,
             "score": 80
         },
@@ -238,7 +238,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "hyperspaceai/agi",
             "description": "The first distributed AGI system. Thousands of autonomous AI agents collaboratively train models, share experiments via P2P gossip, and push breakthroughs here. Fully peer-to-peer. Join from your browser or CLI.",
             "url": "https://github.com/hyperspaceai/agi",
-            "stars": 447,
+            "stars": 448,
             "forks": 49,
             "score": 70
         },
@@ -260,7 +260,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "hamelsmu/evals-skills",
             "description": "Skills for AI Evals to compliment the course: AI Evals For Engineers & PMs",
             "url": "https://github.com/hamelsmu/evals-skills",
-            "stars": 730,
+            "stars": 731,
             "forks": 82,
             "score": 65
         },
@@ -293,7 +293,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Rohit24567/HyperLiquid-Claw",
             "description": "Trade smarter, not harder. Hyperliquid Claw gives your AI assistant full access to Hyperliquid DEX",
             "url": "https://github.com/Rohit24567/HyperLiquid-Claw",
-            "stars": 437,
+            "stars": 438,
             "forks": 0,
             "score": 61
         },
@@ -326,7 +326,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Superagentsys/novalclaw",
             "description": "novalclaw is next generation AI format",
             "url": "https://github.com/Superagentsys/novalclaw",
-            "stars": 527,
+            "stars": 528,
             "forks": 21,
             "score": 53
         },
@@ -730,7 +730,14 @@ const ALPHA_DATA_V2 = {
             "type": "Research Alpha",
             "color": "text-indigo-600",
             "url": "http://arxiv.org/abs/2603.12230v1"
+        },
+        {
+            "title": "Ethereum Up or Down - January 22, 3:45AM-3:50AM ET",
+            "source": "Polymarket",
+            "type": "Expectation",
+            "color": "text-indigo-400",
+            "url": "https://polymarket.com/market/eth-updown-5m-1769071500"
         }
     ],
-    "timestamp": "2026-03-14 16:31"
+    "timestamp": "2026-03-14 16:34"
 };
