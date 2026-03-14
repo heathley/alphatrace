@@ -1,29 +1,55 @@
-# AlphaTrace AI 🛰️🧠
+# AlphaTrace AI 
 **"Don't follow the hype, follow the commits."**
 
-AlphaTrace AI is an autonomous Market Intelligence Engine built to detect early-stage crypto infrastructure through developer velocity, scientific research, and predictive signals.
+AlphaTrace AI is an autonomous **Market Intelligence Engine** designed to surface early-stage technical alpha by tracking developer velocity, academic research, and predictive market signals. 
+
+Built for the **Nous Research Hackathon 2026** 🏆
 
 ---
 
-### 🛰️ The Intelligence Core
-AlphaTrace aggregates high-signal data from four key layers:
-1. **GitHub Developer Protocol:** Tracking repositories in the last 14 days with precise narrative classification (AI Agents, zkML, DePIN, etc.).
-2. **Market Pulse:** Aggregated news feeds from CoinDesk, The Block, and CryptoPanic.
-3. **Research Hub:** Latest blockchain pre-prints from ArXiv.
-4. **Predictive Oracle:** Collective sentiment analysis via Polymarket.
+### Multimodal Signal Intelligence
+AlphaTrace aggregates and processes signals from four essential market layers:
 
-### 🔱 Built with Hermes Agent
-This project is a product of **Agentic Engineering** (Vibe Coding). Every architectural decision, from the **Alpha Score** (Forks-over-Stars velocity formula) to the **Nuclear Signal Purification** algorithm, was co-developed and implemented autonomously by **Hermes Agent**.
+1. **Developer Signals (GitHub)**  
+   Tracks newly created repositories over the last 14 days across technology sectors such as AI agents, multi-agent systems, zkML, DePIN, and RWA.
 
-### 📊 The Alpha Score Formula
-Unlike price, technical activity is a leading indicator. AlphaTrace prioritizes **Intent over Interest**:
-`SCORE = BASE + ( (STARS × 1) + (FORKS × 5) ) / VELOCITY_INDEX`
+2. **Ecosystem Signals (Market News)**  
+   Monitors real-time industry developments through aggregated feeds from sources such as CoinDesk, The Block, and CryptoPanic.
+
+3. **Research Signals (ArXiv)**  
+   Observes newly published academic papers related to cryptography, distributed systems, and AI agents.
+
+4. **Market Expectations (Prediction Markets)**  
+   Tracks probability signals from prediction markets such as Polymarket to understand collective expectations around major ecosystem events.
 
 ---
 
-### 🚀 Production & Automation
-- **Autonomous Sync:** Powered by GitHub Actions (running every hour).
-- **Frontend:** Premium Minimalist Analyst Dashboard (Tailwind/JS).
-- **Backend:** Python Logic with hyper-specific narrative filters.
+### ## Signal Filtering
+AlphaTrace applies a strict filtering pipeline to reduce noise:
+- **Crypto-Native Verification:** Automatically disqualifies non-industry projects (e.g., generic tools, FPS tweaks, PDF utilities).
+- **Narrative Isolation:** Prevents "AI Leakage" into other categories like DePIN or zkML using strict keyword-description validation.
 
-Designed for the **Nous Research Hackathon 2026**. 🏆
+---
+
+### Alpha Score Model
+AlphaTrace estimates developer momentum using a time-normalized scoring model.
+
+`SCORE = BASE(30) + ( (STARS × 0.5) + (FORKS × 2) ) / (DAYS + 3)`
+
+- **"A star signals interest; a fork signals intent."**
+- **Forks are weighted 4x more than stars** to focus on genuine engineering activity.
+- **Time Normalization:** The `DAYS + 3` factor stabilizes scores for extremely new repositories, filtering out short-term noise.
+
+---
+
+### Built with Hermes Agent
+This project was developed using an **agent-assisted engineering workflow** powered by Hermes Agent. Architectural design, taxonomy construction, and filtering logic were iteratively developed through agent collaboration.
+---
+
+### Production & Automation
+
+- **Automated Updates:** GitHub Actions runs the AlphaTrace signal pipeline on a scheduled basis.
+- **Data Pipeline:** `alpha_tracker.py` collects signals and updates `data/data.js`.
+- **Frontend:** Lightweight dashboard built with HTML, Tailwind CSS, and JavaScript.
+- **Data Sync:** Updated data is committed automatically and served to the dashboard.
+*Designed for the next generation of crypto and AI ecosystem analysts.*
