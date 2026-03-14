@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>AlphaTrace AI | Structural Analyst Dashboard</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@300;400;500;600;700;800&family=JetBrains+Mono:wght@400;600&display=swap" rel="stylesheet">
+    <style>
+        :root { --sidebar: #f8fafc; --bg: #ffffff; --accent: #6366f1; --border: #f1f5f9; }
+        body { font-family: 'Plus Jakarta Sans', sans-serif; background-color: var(--bg); color: #0f172a; overflow: hidden; -webkit-font-smoothing: antialiased; }
+        .sidebar { background-color: var(--sidebar); border-right: 1px solid #e2e8f0; }
+        .glass { background: rgba(255, 255, 255, 0.8); backdrop-filter: blur(12px); border: 1px solid #f1f5f9; }
+        .nav-btn { color: #64748b; transition: 0.2s; text-align: left; border-radius: 12px; }
+        .nav-btn:hover { color: var(--accent); background: rgba(99, 102, 241, 0.04); }
+        .nav-active { color: var(--accent); font-weight: 700; background: rgba(99, 102, 241, 0.08); }
+        .card { background: white; border: 1px solid #f1f5f9; border-radius: 32px; transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1); }
+        .card:hover { border-color: var(--accent); transform: translateY(-2px); box-shadow: 0 25px 50px -12px rgba(99, 102, 241, 0.08); }
+        .mono { font-family: 'JetBrains Mono', monospace; }
+        ::-webkit-scrollbar { width: 4px; }
+        ::-webkit-scrollbar-thumb { background: #e2e8f0; border-radius: 10px; }
+    </style>
+</head>
+<body class="flex h-screen overflow-hidden">
+    <!-- SIDEBAR -->
+    <aside class="sidebar w-72 flex flex-col p-8 h-full">
+        <div class="mb-12">
+            <h1 class="text-2xl font-black tracking-tight text-slate-900 italic italic">AlphaTrace</h1>
+            <p class="text-[9px] font-bold text-slate-400 tracking-[0.3em] mt-1 uppercase">Powered by Hermes Agent</p>
+        </div>
+        <nav class="space-y-6 flex-1 overflow-y-auto">
+            <div class="space-y-1">
+                <button onclick="filter('AI')" class="nav-btn flex items-center w-full px-4 py-3 text-[13px] font-bold group">
+                    AI
+                </button>
+            </div>
+            <button onclick="filter('zk / Privacy / zkML')" class="nav-btn w-full px-4 py-3 text-[13px] font-bold">zk / Privacy / zkML</button>
+            <button onclick="filter('DePIN')" class="nav-btn w-full px-4 py-3 text-[13px] font-bold">DePIN</button>
+            <button onclick="filter('RWA')" class="nav-btn w-full px-4 py-3 text-[13px] font-bold">RWA</button>
+            <button onclick="filter('Prediction Markets')" class="nav-btn w-full px-4 py-3 text-[13px] font-bold">Prediction Markets</button>
+            <button onclick="filter('Stablecoin Infrastructure')" class="nav-btn w-full px-4 py-3 text-[13px] font-bold">Stablecoin Infrastructure</button>
+                <button onclick="filter('Cross-chain / Interoperability')" class="nav-btn w-full px-4 py-3 text-[13px] font-bold">Cross-chain / Interop</button>
+        </nav>
+        <div class="mt-auto pt-6 border-t border-slate-100 text-[10px] font-bold text-slate-400 mono" id="sync-time">Global Sync: ONLINE</div>
+    </aside>
+
+    <main class="flex-1 h-screen overflow-y-auto p-12 bg-white relative">
+        <!-- TOP NAVIGATION -->
+        <div class="absolute top-8 right-12 flex items-center gap-4">
+            <a href="docs.html" class="flex items-center gap-2 px-4 py-2 bg-slate-50 border border-slate-100 rounded-xl hover:bg-slate-100 transition-all group">
+                <span class="text-[10px] font-black text-slate-400 uppercase tracking-widest group-hover:text-indigo-600">Methodology</span>
+                <span class="w-1 h-1 rounded-full bg-slate-300"></span>
+                <span class="text-[10px] font-bold text-slate-900 uppercase italic">Docs</span>
+            </a>
+        </div>
+        
+        <!-- TOP SECTION: TWO BLOCKS (AS REQUESTED) -->
+        <div class="grid grid-cols-12 gap-6 mb-16">
+            <div class="col-span-12 lg:col-span-4 bg-indigo-600 rounded-[2.5rem] p-8 text-white relative overflow-hidden">
+                <p class="text-[10px] font-black uppercase tracking-[0.2em] opacity-60 mb-2">Trending Narrative</p>
+                <h2 class="text-4xl font-black italic tracking-tighter" id="top-narrative">AI_AGENTS</h2>
+                <div class="mt-8"><span class="bg-white/20 px-3 py-1 rounded-full text-[10px] font-bold uppercase italic">Analyzing Live Data</span></div>
+                <div class="absolute right-[-20px] bottom-[-20px] opacity-10"><svg width="150" height="150" fill="white" viewBox="0 0 24 24"><path d="M12 2L4.5 20.29l.71.71L12 18l6.79 3 .71-.71z"/></svg></div>
+            </div>
+            
+            <div class="col-span-12 lg:col-span-8 bg-slate-50 border border-slate-100 rounded-[2.5rem] p-8">
+                <h3 class="text-[10px] font-black text-slate-400 uppercase tracking-[0.2em] mb-4">Latest Market Signals</h3>
+                <div class="space-y-3" id="market-news-list"></div>
+            </div>
+        </div>
+
+        <div class="max-w-4xl mx-auto space-y-12 pb-32">
+            <div class="flex justify-between items-end border-b border-slate-100 pb-6 mb-8">
+                <h2 class="text-[13px] font-black uppercase tracking-[0.4em] text-slate-900 italic italic" id="view-title">Trending Repos</h2>
+                <span class="text-[10px] font-bold text-slate-400 tracking-widest uppercase italic" id="scanned-count">Analyzing Activity...</span>
+            </div>
+            <div id="project-list" class="space-y-8"></div>
+        </div>
+    </main>
+
+    <script src="data/data.js"></script>
+    <script>
+        let currentFilter = 'ALL';
+        let aiExpanded = true;
+
+        function toggleAI() {
+            aiExpanded = !aiExpanded;
+            document.getElementById('ai-subs').style.display = aiExpanded ? 'block' : 'none';
+            document.getElementById('ai-arrow').style.transform = aiExpanded ? 'rotate(0deg)' : 'rotate(-90deg)';
+        }
+
+        function filter(tag) {
+            currentFilter = tag;
+            document.getElementById('view-title').innerText = tag === 'ALL' ? 'Strategic Insights' : tag;
+            render();
+        }
+
+        function render() {
+            if (typeof ALPHA_DATA_V2 === 'undefined') return;
+
+            document.getElementById('sync-time').innerText = `GLOBAL_SYNC: ${ALPHA_DATA_V2.timestamp}`;
+            
+            // News
+            document.getElementById('market-news-list').innerHTML = ALPHA_DATA_V2.news.map(n => `
+                <div class="bg-white p-4 rounded-2xl shadow-sm border border-slate-100 flex flex-col gap-1 cursor-pointer hover:border-indigo-500 hover:shadow-md transition-all group" onclick="window.open('${n.url}', '_blank')">
+                    <div class="flex items-center gap-3">
+                        <span class="text-[9px] font-black uppercase tracking-widest ${n.color} group-hover:opacity-100">${n.source}</span>
+                        <span class="w-1 h-1 rounded-full bg-slate-300"></span>
+                        <span class="text-[8px] font-bold text-slate-400 uppercase italic">${n.type}</span>
+                    </div>
+                    <p class="text-[14px] font-bold text-slate-800 tracking-tight leading-snug group-hover:text-indigo-600 transition-colors">${n.title}</p>
+                </div>
+            `).join('');
+
+            // Top Narrative
+            const heat = ALPHA_DATA_V2.projects.reduce((acc, p) => { acc[p.main_cat] = (acc[p.main_cat] || 0) + p.score; return acc; }, {});
+            const top = Object.entries(heat).sort((a,b) => b[1]-a[1])[0][0];
+            document.getElementById('top-narrative').innerText = top.replace(' NARRATIVES', '');
+
+            // Repos
+            const filtered = currentFilter === 'ALL' 
+                ? ALPHA_DATA_V2.projects 
+                : ALPHA_DATA_V2.projects.filter(p => p.main_cat === currentFilter || p.sub_cat === currentFilter || (currentFilter === 'AI' && p.main_cat === 'AI'));
+
+            document.getElementById('scanned-count').innerText = `${filtered.length} SIGNALS LOCKED`;
+            document.getElementById('project-list').innerHTML = filtered.sort((a,b) => b.score - a.score).map(p => {
+                // If sub_cat is null or missing, fallback to main_cat
+                const mainTag = (p.main_cat === 'AI' && p.sub_cat) ? p.sub_cat : p.main_cat;
+                
+                return `
+                <div class="card p-10 flex flex-col md:flex-row justify-between items-center gap-10 group cursor-pointer" onclick="window.open('${p.url}', '_blank')">
+                    <div class="flex-1 w-full">
+                        <div class="flex items-center gap-3 mb-4">
+                            <span class="bg-indigo-50 text-indigo-600 px-3 py-1 rounded-full text-[9px] font-black uppercase tracking-widest border border-indigo-100">${mainTag}</span>
+                            ${(p.sub_cat && p.main_cat !== 'AI') ? `<span class="text-[10px] font-black text-slate-300 uppercase tracking-widest italic">» ${p.sub_cat}</span>` : ''}
+                        </div>
+                        <h3 class="text-2xl font-black text-slate-900 group-hover:text-indigo-600 transition-colors uppercase italic italic tracking-tighter">${p.name}</h3>
+                        <p class="text-slate-500 text-[15px] mt-2 line-clamp-2 leading-relaxed font-medium opacity-80">${p.description}</p>
+                        <div class="flex items-center gap-6 mt-8 text-[9px] font-black uppercase tracking-widest text-slate-300 transition-colors group-hover:text-slate-400 italic italic">
+                            <span>Alpha Score: ${p.score}%</span>
+                            <span>Stars: ${p.stars}</span>
+                            <span class="mono tracking-tighter lowercase opacity-60">${p.full_name}</span>
+                        </div>
+                    </div>
+                    <div class="text-right">
+                        <div class="text-7xl font-black ${p.score > 85 ? 'text-indigo-600' : 'text-slate-100'} tracking-tighter italic italic italic">${p.score}</div>
+                    </div>
+                </div>
+                `;
+            }).join('');
+        }
+
+        render();
+    </script>
+</body>
+</html>
