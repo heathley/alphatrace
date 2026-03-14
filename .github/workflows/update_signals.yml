@@ -3,19 +3,21 @@ name: AlphaTrace Signal Sync
 on:
   schedule:
     - cron: '0 * * * *' # Every hour
-  workflow_dispatch: # Allow manual trigger
+  workflow_dispatch: # Manual trigger
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write # Crucial for pushing data updates back
     steps:
       - name: Checkout Repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Set up Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5
         with:
-          python-version: '3.9'
+          python-version: '3.10'
 
       - name: Install Dependencies
         run: |
@@ -34,4 +36,4 @@ jobs:
           git config --local user.name "AlphaTrace Oracle"
           git add data/data.js
           git commit -m "chore: sync global alpha signals [skip ci]" || echo "No changes to commit"
-          git push
+          git push origin main
