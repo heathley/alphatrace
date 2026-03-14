@@ -24,7 +24,7 @@ AlphaTrace aggregates and processes signals from four essential market layers:
 
 ---
 
-### ## Signal Filtering
+## Signal Filtering
 AlphaTrace applies a strict filtering pipeline to reduce noise:
 - **Crypto-Native Verification:** Automatically disqualifies non-industry projects (e.g., generic tools, FPS tweaks, PDF utilities).
 - **Narrative Isolation:** Prevents "AI Leakage" into other categories like DePIN or zkML using strict keyword-description validation.
