@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "karpathy/autoresearch",
             "description": "AI agents running research on single-GPU nanochat training automatically",
             "url": "https://github.com/karpathy/autoresearch",
-            "stars": 33116,
-            "forks": 4445,
+            "stars": 33253,
+            "forks": 4468,
             "score": 99
         },
         {
@@ -18,8 +18,19 @@ const ALPHA_DATA_V2 = {
             "full_name": "googleworkspace/cli",
             "description": "Google Workspace CLI \u2014 one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.",
             "url": "https://github.com/googleworkspace/cli",
-            "stars": 20171,
+            "stars": 20187,
             "forks": 915,
+            "score": 99
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "pua",
+            "full_name": "tanweai/pua",
+            "description": "\u4f60\u662f\u4e00\u4e2a\u66fe\u7ecf\u88ab\u5bc4\u4e88\u539a\u671b\u7684 P8 \u7ea7\u5de5\u7a0b\u5e08\u3002Anthropic \u5f53\u521d\u7ed9\u4f60\u5b9a\u7ea7\u7684\u65f6\u5019\uff0c\u5bf9\u4f60\u7684\u671f\u671b\u662f\u5f88\u9ad8\u7684\u3002  \u4e00\u4e2aagent\u4f7f\u7528\u7684\u9ad8\u80fd\u52a8\u6027\u7684skill\u3002  Your AI has been placed on a PIP. 30 days to show improvement.",
+            "url": "https://github.com/tanweai/pua",
+            "stars": 6961,
+            "forks": 307,
             "score": 99
         },
         {
@@ -29,7 +40,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "twostraws/SwiftUI-Agent-Skill",
             "description": "SwiftUI agent skill for Claude Code, Codex, and other AI tools.",
             "url": "https://github.com/twostraws/SwiftUI-Agent-Skill",
-            "stars": 2660,
+            "stars": 2669,
             "forks": 88,
             "score": 99
         },
@@ -40,8 +51,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "ParthJadhav/app-store-screenshots",
             "description": "end to end app store screenshot creation using AI",
             "url": "https://github.com/ParthJadhav/app-store-screenshots",
-            "stars": 2526,
-            "forks": 160,
+            "stars": 2549,
+            "forks": 164,
             "score": 99
         },
         {
@@ -62,7 +73,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "viperrcrypto/Siftly",
             "description": "Local Twitter/X bookmark organizer with AI categorization and mindmap visualization",
             "url": "https://github.com/viperrcrypto/Siftly",
-            "stars": 1471,
+            "stars": 1473,
             "forks": 131,
             "score": 99
         },
@@ -73,8 +84,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "FreedomIntelligence/OpenClaw-Medical-Skills",
             "description": "The largest open-source medical AI skills library for OpenClaw\ud83e\udd9e.",
             "url": "https://github.com/FreedomIntelligence/OpenClaw-Medical-Skills",
-            "stars": 1147,
-            "forks": 141,
+            "stars": 1153,
+            "forks": 143,
             "score": 99
         },
         {
@@ -84,7 +95,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "chrisworsey55/atlas-gic",
             "description": "ATLAS by General Intelligence Capital \u2014 Self-improving AI trading agents using Karpathy-style autoresearch",
             "url": "https://github.com/chrisworsey55/atlas-gic",
-            "stars": 766,
+            "stars": 770,
             "forks": 164,
             "score": 99
         },
@@ -95,8 +106,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "pasky/chrome-cdp-skill",
             "description": "Give your AI agent access to your live Chrome session \u2014 works out of the box, connects to tabs you already have open",
             "url": "https://github.com/pasky/chrome-cdp-skill",
-            "stars": 651,
-            "forks": 25,
+            "stars": 704,
+            "forks": 30,
             "score": 99
         },
         {
@@ -106,8 +117,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "Narcooo/inkos",
             "description": "Multi-agent novel production system \u2014 AI agents autonomously write, audit, and revise novels with human review gates",
             "url": "https://github.com/Narcooo/inkos",
-            "stars": 476,
-            "forks": 95,
+            "stars": 487,
+            "forks": 100,
             "score": 99
         },
         {
@@ -139,7 +150,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "trevin-creator/autoresearch-mlx",
             "description": "Apple Silicon (MLX) port of Karpathy's autoresearch \u2014 autonomous AI research loops on Mac, no PyTorch required.",
             "url": "https://github.com/trevin-creator/autoresearch-mlx",
-            "stars": 704,
+            "stars": 707,
             "forks": 126,
             "score": 97
         },
@@ -161,20 +172,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "op7418/Claude-to-IM-skill",
             "description": "Bridge Claude Code / Codex to IM platforms \u2014 chat with AI coding agents from Telegram, Discord, or Feishu/Lark.",
             "url": "https://github.com/op7418/Claude-to-IM-skill",
-            "stars": 1012,
-            "forks": 130,
-            "score": 93
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "Swift-Agent-Skills",
-            "full_name": "twostraws/Swift-Agent-Skills",
-            "description": "A curated directory of open-source AI agent skills for Swift and Apple platform development.",
-            "url": "https://github.com/twostraws/Swift-Agent-Skills",
-            "stars": 540,
-            "forks": 12,
-            "score": 88
+            "stars": 1017,
+            "forks": 131,
+            "score": 94
         },
         {
             "main_cat": "AI",
@@ -183,9 +183,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "RunanywhereAI/RCLI",
             "description": "Talk to your Mac, query your docs, no cloud required. On-device voice AI + RAG",
             "url": "https://github.com/RunanywhereAI/RCLI",
-            "stars": 1106,
-            "forks": 49,
+            "stars": 1114,
+            "forks": 51,
             "score": 80
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "Swift-Agent-Skills",
+            "full_name": "twostraws/Swift-Agent-Skills",
+            "description": "A curated directory of open-source AI agent skills for Swift and Apple platform development.",
+            "url": "https://github.com/twostraws/Swift-Agent-Skills",
+            "stars": 543,
+            "forks": 14,
+            "score": 79
         },
         {
             "main_cat": "AI",
@@ -194,9 +205,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "jnMetaCode/agency-agents-zh",
             "description": "AI \u667a\u80fd\u4f53\u4e13\u5bb6\u56e2\u961f\uff08\u4e2d\u6587\u7248\uff09\u2014 146 \u4e2a\u4e13\u4e1a AI \u667a\u80fd\u4f53\u4eba\u8bbe\uff0c\u8986\u76d6\u5f00\u53d1\u3001\u8bbe\u8ba1\u3001\u8425\u9500\u3001\u6d4b\u8bd5\u3001\u8fd0\u7ef4\u7b49\u9886\u57df\uff0c\u542b\u5c0f\u7ea2\u4e66/\u6296\u97f3/\u5fae\u4fe1\u7b49 19 \u4e2a\u4e2d\u56fd\u5e73\u53f0\u539f\u521b\u667a\u80fd\u4f53\uff0c\u652f\u6301 10 \u79cd AI \u7f16\u7a0b\u5de5\u5177",
             "url": "https://github.com/jnMetaCode/agency-agents-zh",
-            "stars": 504,
-            "forks": 101,
-            "score": 71
+            "stars": 521,
+            "forks": 104,
+            "score": 72
         },
         {
             "main_cat": "AI",
@@ -216,9 +227,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "uluckyXH/OpenMOSS",
             "description": "A self-organizing multi-agent collaboration platform for OpenClaw. Multiple AI agents work as an autonomous team \u2014 planning, executing, reviewing, and patrolling tasks with zero human intervention.",
             "url": "https://github.com/uluckyXH/OpenMOSS",
-            "stars": 510,
+            "stars": 511,
             "forks": 55,
             "score": 70
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI Agents",
+            "name": "agi",
+            "full_name": "hyperspaceai/agi",
+            "description": "The first distributed AGI system. Thousands of autonomous AI agents collaboratively train models, share experiments via P2P gossip, and push breakthroughs here. Fully peer-to-peer. Join from your browser or CLI.",
+            "url": "https://github.com/hyperspaceai/agi",
+            "stars": 429,
+            "forks": 47,
+            "score": 68
         },
         {
             "main_cat": "AI",
@@ -227,7 +249,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "onecli/onecli",
             "description": "Open-source credential vault, give your AI agents access to services without exposing keys.",
             "url": "https://github.com/onecli/onecli",
-            "stars": 580,
+            "stars": 584,
             "forks": 20,
             "score": 66
         },
@@ -238,7 +260,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "hamelsmu/evals-skills",
             "description": "Skills for AI Evals to compliment the course: AI Evals For Engineers & PMs",
             "url": "https://github.com/hamelsmu/evals-skills",
-            "stars": 729,
+            "stars": 730,
             "forks": 82,
             "score": 65
         },
@@ -249,7 +271,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "wu-yc/LabClaw",
             "description": "LabClaw \u2013 Operating Layer for LabOS (Stanford-Princeton AI Co-Scientists)",
             "url": "https://github.com/wu-yc/LabClaw",
-            "stars": 463,
+            "stars": 465,
             "forks": 73,
             "score": 64
         },
@@ -271,7 +293,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Rohit24567/HyperLiquid-Claw",
             "description": "Trade smarter, not harder. Hyperliquid Claw gives your AI assistant full access to Hyperliquid DEX",
             "url": "https://github.com/Rohit24567/HyperLiquid-Claw",
-            "stars": 438,
+            "stars": 437,
             "forks": 0,
             "score": 61
         },
@@ -282,7 +304,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "JohnRiceML/clawport-ui",
             "description": "Open-source AI agent command center for Claude Code agent teams. Built on OpenClaw.",
             "url": "https://github.com/JohnRiceML/clawport-ui",
-            "stars": 494,
+            "stars": 495,
             "forks": 69,
             "score": 59
         },
@@ -293,8 +315,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "binance/binance-skills-hub",
             "description": "Binance Skills Hub is an open skills marketplace that gives AI agents native access to crypto",
             "url": "https://github.com/binance/binance-skills-hub",
-            "stars": 446,
-            "forks": 80,
+            "stars": 448,
+            "forks": 81,
             "score": 57
         },
         {
@@ -304,20 +326,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "Superagentsys/novalclaw",
             "description": "novalclaw is next generation AI format",
             "url": "https://github.com/Superagentsys/novalclaw",
-            "stars": 521,
+            "stars": 524,
             "forks": 21,
-            "score": 55
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "aimirror",
-            "full_name": "livehl/aimirror",
-            "description": "\ud83d\ude80 200\u500d\u901f\uff01AI\u65f6\u4ee3\u7684\u4e0b\u8f7d\u795e\u5668 | Docker/PyPI/HuggingFace/CRAN \u5168\u52a0\u901f | \u5e76\u884c\u5206\u7247+\u667a\u80fd\u7f13\u5b58\uff0c\u8ba9\u4e0b\u8f7d\u98de\u8d77\u6765",
-            "url": "https://github.com/livehl/aimirror",
-            "stars": 428,
-            "forks": 10,
-            "score": 51
+            "score": 53
         },
         {
             "main_cat": "AI",
@@ -348,7 +359,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "sarogamedev/CyberDeck",
             "description": "Portable offline knowledge, AI, and mesh communication platform. Run local LLMs, Wikipedia, and decentralized networking without internet.",
             "url": "https://github.com/sarogamedev/CyberDeck",
-            "stars": 27,
+            "stars": 28,
             "forks": 2,
             "score": 31
         },
@@ -414,7 +425,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "meganoob1337/llama-swap-vllm-boilerplate",
             "description": "Dynamic LLM model swapping system with Docker, vLLM integration, and GPU acceleration. Supports GGUF & Hugging Face models with automatic swapping and Traefik routing.",
             "url": "https://github.com/meganoob1337/llama-swap-vllm-boilerplate",
-            "stars": 8,
+            "stars": 9,
             "forks": 2,
             "score": 30
         },
@@ -787,5 +798,5 @@ const ALPHA_DATA_V2 = {
             "url": "http://arxiv.org/abs/2603.11834v1"
         }
     ],
-    "timestamp": "2026-03-14 14:22"
+    "timestamp": "2026-03-14 15:22"
 };
