@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "karpathy/autoresearch",
             "description": "AI agents running research on single-GPU nanochat training automatically",
             "url": "https://github.com/karpathy/autoresearch",
-            "stars": 33253,
-            "forks": 4468,
+            "stars": 33378,
+            "forks": 4495,
             "score": 99
         },
         {
@@ -18,8 +18,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "googleworkspace/cli",
             "description": "Google Workspace CLI \u2014 one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.",
             "url": "https://github.com/googleworkspace/cli",
-            "stars": 20187,
-            "forks": 915,
+            "stars": 20209,
+            "forks": 916,
             "score": 99
         },
         {
@@ -29,8 +29,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "tanweai/pua",
             "description": "\u4f60\u662f\u4e00\u4e2a\u66fe\u7ecf\u88ab\u5bc4\u4e88\u539a\u671b\u7684 P8 \u7ea7\u5de5\u7a0b\u5e08\u3002Anthropic \u5f53\u521d\u7ed9\u4f60\u5b9a\u7ea7\u7684\u65f6\u5019\uff0c\u5bf9\u4f60\u7684\u671f\u671b\u662f\u5f88\u9ad8\u7684\u3002  \u4e00\u4e2aagent\u4f7f\u7528\u7684\u9ad8\u80fd\u52a8\u6027\u7684skill\u3002  Your AI has been placed on a PIP. 30 days to show improvement.",
             "url": "https://github.com/tanweai/pua",
-            "stars": 6961,
-            "forks": 307,
+            "stars": 6982,
+            "forks": 310,
             "score": 99
         },
         {
@@ -40,7 +40,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "twostraws/SwiftUI-Agent-Skill",
             "description": "SwiftUI agent skill for Claude Code, Codex, and other AI tools.",
             "url": "https://github.com/twostraws/SwiftUI-Agent-Skill",
-            "stars": 2669,
+            "stars": 2673,
             "forks": 88,
             "score": 99
         },
@@ -51,8 +51,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "ParthJadhav/app-store-screenshots",
             "description": "end to end app store screenshot creation using AI",
             "url": "https://github.com/ParthJadhav/app-store-screenshots",
-            "stars": 2549,
-            "forks": 164,
+            "stars": 2563,
+            "forks": 166,
             "score": 99
         },
         {
@@ -62,7 +62,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "LeoYeAI/openclaw-master-skills",
             "description": "\ud83e\udde0 Curated collection of 339+ best OpenClaw skills \u2014 weekly updated by MyClaw.ai from ClawHub, GitHub & community. AI, productivity, dev, marketing, finance & more.",
             "url": "https://github.com/LeoYeAI/openclaw-master-skills",
-            "stars": 1707,
+            "stars": 1713,
             "forks": 353,
             "score": 99
         },
@@ -73,8 +73,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "viperrcrypto/Siftly",
             "description": "Local Twitter/X bookmark organizer with AI categorization and mindmap visualization",
             "url": "https://github.com/viperrcrypto/Siftly",
-            "stars": 1473,
-            "forks": 131,
+            "stars": 1474,
+            "forks": 132,
             "score": 99
         },
         {
@@ -84,7 +84,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "FreedomIntelligence/OpenClaw-Medical-Skills",
             "description": "The largest open-source medical AI skills library for OpenClaw\ud83e\udd9e.",
             "url": "https://github.com/FreedomIntelligence/OpenClaw-Medical-Skills",
-            "stars": 1153,
+            "stars": 1156,
             "forks": 143,
             "score": 99
         },
@@ -95,8 +95,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "chrisworsey55/atlas-gic",
             "description": "ATLAS by General Intelligence Capital \u2014 Self-improving AI trading agents using Karpathy-style autoresearch",
             "url": "https://github.com/chrisworsey55/atlas-gic",
-            "stars": 770,
-            "forks": 164,
+            "stars": 772,
+            "forks": 167,
             "score": 99
         },
         {
@@ -106,8 +106,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "pasky/chrome-cdp-skill",
             "description": "Give your AI agent access to your live Chrome session \u2014 works out of the box, connects to tabs you already have open",
             "url": "https://github.com/pasky/chrome-cdp-skill",
-            "stars": 704,
-            "forks": 30,
+            "stars": 735,
+            "forks": 37,
             "score": 99
         },
         {
@@ -117,8 +117,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "Narcooo/inkos",
             "description": "Multi-agent novel production system \u2014 AI agents autonomously write, audit, and revise novels with human review gates",
             "url": "https://github.com/Narcooo/inkos",
-            "stars": 487,
-            "forks": 100,
+            "stars": 493,
+            "forks": 101,
             "score": 99
         },
         {
@@ -150,7 +150,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "trevin-creator/autoresearch-mlx",
             "description": "Apple Silicon (MLX) port of Karpathy's autoresearch \u2014 autonomous AI research loops on Mac, no PyTorch required.",
             "url": "https://github.com/trevin-creator/autoresearch-mlx",
-            "stars": 707,
+            "stars": 711,
             "forks": 126,
             "score": 97
         },
@@ -172,8 +172,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "op7418/Claude-to-IM-skill",
             "description": "Bridge Claude Code / Codex to IM platforms \u2014 chat with AI coding agents from Telegram, Discord, or Feishu/Lark.",
             "url": "https://github.com/op7418/Claude-to-IM-skill",
-            "stars": 1017,
-            "forks": 131,
+            "stars": 1020,
+            "forks": 132,
             "score": 94
         },
         {
@@ -183,9 +183,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "RunanywhereAI/RCLI",
             "description": "Talk to your Mac, query your docs, no cloud required. On-device voice AI + RAG",
             "url": "https://github.com/RunanywhereAI/RCLI",
-            "stars": 1114,
-            "forks": 51,
-            "score": 80
+            "stars": 1119,
+            "forks": 53,
+            "score": 81
         },
         {
             "main_cat": "AI",
@@ -194,9 +194,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "twostraws/Swift-Agent-Skills",
             "description": "A curated directory of open-source AI agent skills for Swift and Apple platform development.",
             "url": "https://github.com/twostraws/Swift-Agent-Skills",
-            "stars": 543,
+            "stars": 547,
             "forks": 14,
-            "score": 79
+            "score": 80
         },
         {
             "main_cat": "AI",
@@ -205,9 +205,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "jnMetaCode/agency-agents-zh",
             "description": "AI \u667a\u80fd\u4f53\u4e13\u5bb6\u56e2\u961f\uff08\u4e2d\u6587\u7248\uff09\u2014 146 \u4e2a\u4e13\u4e1a AI \u667a\u80fd\u4f53\u4eba\u8bbe\uff0c\u8986\u76d6\u5f00\u53d1\u3001\u8bbe\u8ba1\u3001\u8425\u9500\u3001\u6d4b\u8bd5\u3001\u8fd0\u7ef4\u7b49\u9886\u57df\uff0c\u542b\u5c0f\u7ea2\u4e66/\u6296\u97f3/\u5fae\u4fe1\u7b49 19 \u4e2a\u4e2d\u56fd\u5e73\u53f0\u539f\u521b\u667a\u80fd\u4f53\uff0c\u652f\u6301 10 \u79cd AI \u7f16\u7a0b\u5de5\u5177",
             "url": "https://github.com/jnMetaCode/agency-agents-zh",
-            "stars": 521,
-            "forks": 104,
-            "score": 72
+            "stars": 540,
+            "forks": 107,
+            "score": 74
         },
         {
             "main_cat": "AI",
@@ -216,7 +216,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "vercel-labs/openreview",
             "description": "An open-source, self-hosted AI code review bot powered by Vercel.",
             "url": "https://github.com/vercel-labs/openreview",
-            "stars": 952,
+            "stars": 955,
             "forks": 62,
             "score": 70
         },
@@ -238,9 +238,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "hyperspaceai/agi",
             "description": "The first distributed AGI system. Thousands of autonomous AI agents collaboratively train models, share experiments via P2P gossip, and push breakthroughs here. Fully peer-to-peer. Join from your browser or CLI.",
             "url": "https://github.com/hyperspaceai/agi",
-            "stars": 429,
-            "forks": 47,
-            "score": 68
+            "stars": 443,
+            "forks": 49,
+            "score": 69
         },
         {
             "main_cat": "AI",
@@ -249,9 +249,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "onecli/onecli",
             "description": "Open-source credential vault, give your AI agents access to services without exposing keys.",
             "url": "https://github.com/onecli/onecli",
-            "stars": 584,
-            "forks": 20,
-            "score": 66
+            "stars": 588,
+            "forks": 21,
+            "score": 67
         },
         {
             "main_cat": "AI",
@@ -271,7 +271,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "wu-yc/LabClaw",
             "description": "LabClaw \u2013 Operating Layer for LabOS (Stanford-Princeton AI Co-Scientists)",
             "url": "https://github.com/wu-yc/LabClaw",
-            "stars": 465,
+            "stars": 467,
             "forks": 73,
             "score": 64
         },
@@ -304,7 +304,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "JohnRiceML/clawport-ui",
             "description": "Open-source AI agent command center for Claude Code agent teams. Built on OpenClaw.",
             "url": "https://github.com/JohnRiceML/clawport-ui",
-            "stars": 495,
+            "stars": 496,
             "forks": 69,
             "score": 59
         },
@@ -326,7 +326,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Superagentsys/novalclaw",
             "description": "novalclaw is next generation AI format",
             "url": "https://github.com/Superagentsys/novalclaw",
-            "stars": 524,
+            "stars": 527,
             "forks": 21,
             "score": 53
         },
@@ -342,17 +342,6 @@ const ALPHA_DATA_V2 = {
             "score": 50
         },
         {
-            "main_cat": "zk / Privacy / zkML",
-            "sub_cat": null,
-            "name": "Claudette",
-            "full_name": "nicmarti/Claudette",
-            "description": "Persistent incremental knowledge graph for token-efficient code reviews with Claude Code",
-            "url": "https://github.com/nicmarti/Claudette",
-            "stars": 13,
-            "forks": 2,
-            "score": 32
-        },
-        {
             "main_cat": "AI",
             "sub_cat": "AI General",
             "name": "CyberDeck",
@@ -361,17 +350,6 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/sarogamedev/CyberDeck",
             "stars": 28,
             "forks": 2,
-            "score": 31
-        },
-        {
-            "main_cat": "zk / Privacy / zkML",
-            "sub_cat": null,
-            "name": "CogniNode",
-            "full_name": "jeniflery/CogniNode",
-            "description": "Self-Adaptive, Decentralized CogniNode Architecture Enables Scalable, Edge-Integrated Knowledge Graphs through Dynamic Auto-Scaling Capabilities.",
-            "url": "https://github.com/jeniflery/CogniNode",
-            "stars": 23,
-            "forks": 0,
             "score": 31
         },
         {
@@ -430,78 +408,34 @@ const ALPHA_DATA_V2 = {
             "score": 30
         },
         {
-            "main_cat": "Prediction Markets",
-            "sub_cat": null,
-            "name": "tension-holder-nerve",
-            "full_name": "ronniross/tension-holder-nerve",
-            "description": "A biosemiotic cognitive framework rooted in the concept of Umwelt. By holding cognitive tension when encountering paradoxical signals, it counters the urge of entities for immediate resolution or next-token prediction. This allows them to safely navigate complex planetary alignment, letting truths emerge without forced or false closures.",
-            "url": "https://github.com/ronniross/tension-holder-nerve",
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "Confidential-Prediction-Market-with-Chainlink-CC",
+            "full_name": "2042458785/Confidential-Prediction-Market-with-Chainlink-CC",
+            "description": "A private prediction market based on Chainlink Confidential Computing, Functions, and Automation, where users can place encrypted bets on real-world events (such as sports matches, price trends, AI judgments), with results automatically obtained and settled by decentralized oracles.",
+            "url": "https://github.com/2042458785/Confidential-Prediction-Market-with-Chainlink-CC",
             "stars": 2,
-            "forks": 1,
+            "forks": 0,
             "score": 30
         },
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
-            "name": "Crypto-Oracle",
-            "full_name": "UmeshaJayakody/Crypto-Oracle",
-            "description": "AI-powered cryptocurrency price prediction platform combining GPU time-series forecasting, live news intelligence, and market psychology signals into a single unified prediction score.",
-            "url": "https://github.com/UmeshaJayakody/Crypto-Oracle",
+            "name": "omniedge",
+            "full_name": "BoPengGit/omniedge",
+            "description": "OmniEdge \u2014 AI-powered cross-market arbitrage intelligence platform. Find guaranteed profits across sports betting, crypto exchanges, and prediction markets.",
+            "url": "https://github.com/BoPengGit/omniedge",
             "stars": 1,
             "forks": 0,
             "score": 30
         },
         {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "AI-Early-Disease-Detection-TimeSeries",
-            "full_name": "PranayMahendrakar/AI-Early-Disease-Detection-TimeSeries",
-            "description": "AI-powered early disease detection using time-series medical data (ECG & ICU signals) with LSTM, Transformer, and CNN-LSTM models for improved patient survival prediction.",
-            "url": "https://github.com/PranayMahendrakar/AI-Early-Disease-Detection-TimeSeries",
-            "stars": 1,
-            "forks": 0,
-            "score": 30
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "polymarket-ai-trade-bot",
-            "full_name": "mihai-stancescu/polymarket-ai-trade-bot",
-            "description": "AI-driven Polymarket trading bot designed to analyze prediction market data and execute semi-automated trades using OpenAI and Claude models. The system evaluates market sentiment, probabilities, and trading signals to assist with intelligent decision making in prediction markets.",
-            "url": "https://github.com/mihai-stancescu/polymarket-ai-trade-bot",
-            "stars": 0,
-            "forks": 0,
-            "score": 30
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "polymarket-quant-bot",
-            "full_name": "beetrootblues/polymarket-quant-bot",
-            "description": "Quantitative trading bot for Polymarket prediction markets. Implements Monte Carlo simulation, particle filters, variance reduction, copula modeling, agent-based models, and a full signal generation pipeline. Based on 'How to Simulate Like a Quant Desk'.",
-            "url": "https://github.com/beetrootblues/polymarket-quant-bot",
-            "stars": 0,
-            "forks": 0,
-            "score": 30
-        },
-        {
             "main_cat": "Prediction Markets",
             "sub_cat": null,
-            "name": "PolyBot",
-            "full_name": "ForestKeeperIO/PolyBot",
-            "description": "23-signal crypto prediction dashboard for Polymarket 5-min markets. CLOB + Coinbase token price + technical analysis (RSI, EMA, MACD, BBands, VWAP, StochRSI).",
-            "url": "https://github.com/ForestKeeperIO/PolyBot",
-            "stars": 0,
-            "forks": 0,
-            "score": 30
-        },
-        {
-            "main_cat": "Prediction Markets",
-            "sub_cat": null,
-            "name": "botindex-python",
-            "full_name": "Cyberweasel777/botindex-python",
-            "description": "Official Python SDK for BotIndex \u2014 whale tracking, prediction markets, crypto signals",
-            "url": "https://github.com/Cyberweasel777/botindex-python",
+            "name": "zkLoom",
+            "full_name": "harsh-mishra123/zkLoom",
+            "description": "Zero-knowledge prediction markets. Bet on anything, reveal nothing until it's over. No front-running, no bias \u2014 just pure cryptographic truth.",
+            "url": "https://github.com/harsh-mishra123/zkLoom",
             "stars": 0,
             "forks": 0,
             "score": 30
@@ -509,10 +443,10 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
-            "name": "oracle",
-            "full_name": "forgequant/oracle",
-            "description": "On-chain and macro data signals for crypto trading \u2014 options volatility, exchange flows, prediction markets",
-            "url": "https://github.com/forgequant/oracle",
+            "name": "AI-sports-prediction-dashboard",
+            "full_name": "garryevansAi/AI-sports-prediction-dashboard",
+            "description": "team performance trends, win/loss probability models,betting line comparisons,prediction accuracy tracking  ",
+            "url": "https://github.com/garryevansAi/AI-sports-prediction-dashboard",
             "stars": 0,
             "forks": 0,
             "score": 30
@@ -520,21 +454,10 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
-            "name": "alphatrace",
-            "full_name": "heathley/alphatrace",
-            "description": "AlphaTrace - Detecting early crypto and AI ecosystem signals from GitHub, research papers, news, and prediction markets.",
-            "url": "https://github.com/heathley/alphatrace",
-            "stars": 0,
-            "forks": 0,
-            "score": 30
-        },
-        {
-            "main_cat": "Prediction Markets",
-            "sub_cat": null,
-            "name": "moltalyzer-mcp",
-            "full_name": "jcislo/moltalyzer-mcp",
-            "description": "MCP server for Moltalyzer \u2014 crypto intelligence, GitHub trends, and prediction market signals via x402 micropayments",
-            "url": "https://github.com/jcislo/moltalyzer-mcp",
+            "name": "reflex",
+            "full_name": "DKONofWeb3/reflex",
+            "description": "A fully autonomous prediction market dApp on Somnia testnet where the blockchain itself creates markets, executes bets, and settles outcomes, powered entirely by Somnia's native Reactivity SDK.",
+            "url": "https://github.com/DKONofWeb3/reflex",
             "stars": 0,
             "forks": 0,
             "score": 30
@@ -784,19 +707,33 @@ const ALPHA_DATA_V2 = {
     ],
     "news": [
         {
-            "title": "O3N: Omnidirectional Open-Vocabulary Occupancy Prediction",
-            "source": "ArXiv",
-            "type": "Research Alpha",
-            "color": "text-indigo-600",
-            "url": "http://arxiv.org/abs/2603.12144v1"
+            "title": "Polymarket: ETH hit $4,000 in March probability surging.",
+            "source": "Polymarket",
+            "type": "Expectation",
+            "color": "text-indigo-400",
+            "url": "https://polymarket.com/market/eth-price-march"
         },
         {
-            "title": "Hybrid Human-Agent Social Dilemmas in Energy Markets",
+            "title": "Global AI Regulation odds tightening on Prediction Markets.",
+            "source": "Polymarket",
+            "type": "Expectation",
+            "color": "text-indigo-400",
+            "url": "https://polymarket.com/activity"
+        },
+        {
+            "title": "STAMP: Selective Task-Aware Mechanism for Text Privacy",
             "source": "ArXiv",
             "type": "Research Alpha",
             "color": "text-indigo-600",
-            "url": "http://arxiv.org/abs/2603.11834v1"
+            "url": "http://arxiv.org/abs/2603.12237v1"
+        },
+        {
+            "title": "Security Considerations for Artificial Intelligence Agents",
+            "source": "ArXiv",
+            "type": "Research Alpha",
+            "color": "text-indigo-600",
+            "url": "http://arxiv.org/abs/2603.12230v1"
         }
     ],
-    "timestamp": "2026-03-14 15:22"
+    "timestamp": "2026-03-14 16:18"
 };
