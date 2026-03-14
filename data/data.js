@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "karpathy/autoresearch",
             "description": "AI agents running research on single-GPU nanochat training automatically",
             "url": "https://github.com/karpathy/autoresearch",
-            "stars": 33042,
-            "forks": 4435,
+            "stars": 33116,
+            "forks": 4445,
             "score": 99
         },
         {
@@ -18,7 +18,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "googleworkspace/cli",
             "description": "Google Workspace CLI \u2014 one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.",
             "url": "https://github.com/googleworkspace/cli",
-            "stars": 20169,
+            "stars": 20171,
             "forks": 915,
             "score": 99
         },
@@ -29,7 +29,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "twostraws/SwiftUI-Agent-Skill",
             "description": "SwiftUI agent skill for Claude Code, Codex, and other AI tools.",
             "url": "https://github.com/twostraws/SwiftUI-Agent-Skill",
-            "stars": 2657,
+            "stars": 2660,
             "forks": 88,
             "score": 99
         },
@@ -40,8 +40,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "ParthJadhav/app-store-screenshots",
             "description": "end to end app store screenshot creation using AI",
             "url": "https://github.com/ParthJadhav/app-store-screenshots",
-            "stars": 2521,
-            "forks": 159,
+            "stars": 2526,
+            "forks": 160,
             "score": 99
         },
         {
@@ -51,7 +51,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "LeoYeAI/openclaw-master-skills",
             "description": "\ud83e\udde0 Curated collection of 339+ best OpenClaw skills \u2014 weekly updated by MyClaw.ai from ClawHub, GitHub & community. AI, productivity, dev, marketing, finance & more.",
             "url": "https://github.com/LeoYeAI/openclaw-master-skills",
-            "stars": 1706,
+            "stars": 1707,
             "forks": 353,
             "score": 99
         },
@@ -62,7 +62,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "viperrcrypto/Siftly",
             "description": "Local Twitter/X bookmark organizer with AI categorization and mindmap visualization",
             "url": "https://github.com/viperrcrypto/Siftly",
-            "stars": 1470,
+            "stars": 1471,
             "forks": 131,
             "score": 99
         },
@@ -73,8 +73,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "FreedomIntelligence/OpenClaw-Medical-Skills",
             "description": "The largest open-source medical AI skills library for OpenClaw\ud83e\udd9e.",
             "url": "https://github.com/FreedomIntelligence/OpenClaw-Medical-Skills",
-            "stars": 1144,
-            "forks": 140,
+            "stars": 1147,
+            "forks": 141,
             "score": 99
         },
         {
@@ -84,8 +84,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "chrisworsey55/atlas-gic",
             "description": "ATLAS by General Intelligence Capital \u2014 Self-improving AI trading agents using Karpathy-style autoresearch",
             "url": "https://github.com/chrisworsey55/atlas-gic",
-            "stars": 765,
-            "forks": 163,
+            "stars": 766,
+            "forks": 164,
             "score": 99
         },
         {
@@ -95,7 +95,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "pasky/chrome-cdp-skill",
             "description": "Give your AI agent access to your live Chrome session \u2014 works out of the box, connects to tabs you already have open",
             "url": "https://github.com/pasky/chrome-cdp-skill",
-            "stars": 629,
+            "stars": 651,
             "forks": 25,
             "score": 99
         },
@@ -106,8 +106,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "Narcooo/inkos",
             "description": "Multi-agent novel production system \u2014 AI agents autonomously write, audit, and revise novels with human review gates",
             "url": "https://github.com/Narcooo/inkos",
-            "stars": 470,
-            "forks": 91,
+            "stars": 476,
+            "forks": 95,
             "score": 99
         },
         {
@@ -150,7 +150,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "LeoYeAI/openclaw-backup",
             "description": "One-click backup & restore for OpenClaw instances \u2014 workspace, credentials, skills, agent history. Powered by MyClaw.ai",
             "url": "https://github.com/LeoYeAI/openclaw-backup",
-            "stars": 936,
+            "stars": 937,
             "forks": 263,
             "score": 96
         },
@@ -161,7 +161,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "op7418/Claude-to-IM-skill",
             "description": "Bridge Claude Code / Codex to IM platforms \u2014 chat with AI coding agents from Telegram, Discord, or Feishu/Lark.",
             "url": "https://github.com/op7418/Claude-to-IM-skill",
-            "stars": 1011,
+            "stars": 1012,
             "forks": 130,
             "score": 93
         },
@@ -172,7 +172,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "twostraws/Swift-Agent-Skills",
             "description": "A curated directory of open-source AI agent skills for Swift and Apple platform development.",
             "url": "https://github.com/twostraws/Swift-Agent-Skills",
-            "stars": 538,
+            "stars": 540,
             "forks": 12,
             "score": 88
         },
@@ -183,9 +183,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "RunanywhereAI/RCLI",
             "description": "Talk to your Mac, query your docs, no cloud required. On-device voice AI + RAG",
             "url": "https://github.com/RunanywhereAI/RCLI",
-            "stars": 1103,
+            "stars": 1106,
             "forks": 49,
-            "score": 79
+            "score": 80
         },
         {
             "main_cat": "AI",
@@ -194,7 +194,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "jnMetaCode/agency-agents-zh",
             "description": "AI \u667a\u80fd\u4f53\u4e13\u5bb6\u56e2\u961f\uff08\u4e2d\u6587\u7248\uff09\u2014 146 \u4e2a\u4e13\u4e1a AI \u667a\u80fd\u4f53\u4eba\u8bbe\uff0c\u8986\u76d6\u5f00\u53d1\u3001\u8bbe\u8ba1\u3001\u8425\u9500\u3001\u6d4b\u8bd5\u3001\u8fd0\u7ef4\u7b49\u9886\u57df\uff0c\u542b\u5c0f\u7ea2\u4e66/\u6296\u97f3/\u5fae\u4fe1\u7b49 19 \u4e2a\u4e2d\u56fd\u5e73\u53f0\u539f\u521b\u667a\u80fd\u4f53\uff0c\u652f\u6301 10 \u79cd AI \u7f16\u7a0b\u5de5\u5177",
             "url": "https://github.com/jnMetaCode/agency-agents-zh",
-            "stars": 499,
+            "stars": 504,
             "forks": 101,
             "score": 71
         },
@@ -227,7 +227,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "onecli/onecli",
             "description": "Open-source credential vault, give your AI agents access to services without exposing keys.",
             "url": "https://github.com/onecli/onecli",
-            "stars": 578,
+            "stars": 580,
             "forks": 20,
             "score": 66
         },
@@ -249,8 +249,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "wu-yc/LabClaw",
             "description": "LabClaw \u2013 Operating Layer for LabOS (Stanford-Princeton AI Co-Scientists)",
             "url": "https://github.com/wu-yc/LabClaw",
-            "stars": 462,
-            "forks": 72,
+            "stars": 463,
+            "forks": 73,
             "score": 64
         },
         {
@@ -293,7 +293,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "binance/binance-skills-hub",
             "description": "Binance Skills Hub is an open skills marketplace that gives AI agents native access to crypto",
             "url": "https://github.com/binance/binance-skills-hub",
-            "stars": 445,
+            "stars": 446,
             "forks": 80,
             "score": 57
         },
@@ -304,7 +304,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Superagentsys/novalclaw",
             "description": "novalclaw is next generation AI format",
             "url": "https://github.com/Superagentsys/novalclaw",
-            "stars": 520,
+            "stars": 521,
             "forks": 21,
             "score": 55
         },
@@ -787,5 +787,5 @@ const ALPHA_DATA_V2 = {
             "url": "http://arxiv.org/abs/2603.11834v1"
         }
     ],
-    "timestamp": "2026-03-14 13:55"
+    "timestamp": "2026-03-14 14:22"
 };
