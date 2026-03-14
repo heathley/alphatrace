@@ -9,7 +9,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     permissions:
-      contents: write # Crucial for pushing data updates back
+      contents: write
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v4
@@ -24,16 +24,26 @@ jobs:
           python -m pip install --upgrade pip
           pip install requests
 
-      - name: Run Scouter Engine
+      - name: Locate and Run Scouter Engine
         env:
           CRYPTOPANIC_API_KEY: ${{ secrets.CRYPTOPANIC_API_KEY }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: python alpha_tracker.py
+        run: |
+          # Akıllı arama: Dosya nerede olursa olsun bulup çalıştırır
+          PYTHON_FILE=$(find . -name "alpha_tracker.py" | head -n 1)
+          if [ -z "$PYTHON_FILE" ]; then
+            echo "Error: alpha_tracker.py not found in any folder!"
+            exit 1
+          fi
+          echo "Found file at: $PYTHON_FILE"
+          python "$PYTHON_FILE"
 
       - name: Commit and Push Changes
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "AlphaTrace Oracle"
-          git add data/data.js
+          # Değişen data.js dosyasını nerede olursa olsun yakalayıp kaydeder
+          DATA_FILE=$(find . -name "data.js" | head -n 1)
+          git add "$DATA_FILE"
           git commit -m "chore: sync global alpha signals [skip ci]" || echo "No changes to commit"
           git push origin main
