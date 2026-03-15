@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "karpathy/autoresearch",
             "description": "AI agents running research on single-GPU nanochat training automatically",
             "url": "https://github.com/karpathy/autoresearch",
-            "stars": 35909,
-            "forks": 4930,
+            "stars": 35981,
+            "forks": 4945,
             "score": 99
         },
         {
@@ -18,8 +18,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "googleworkspace/cli",
             "description": "Google Workspace CLI \u2014 one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.",
             "url": "https://github.com/googleworkspace/cli",
-            "stars": 20521,
-            "forks": 940,
+            "stars": 20541,
+            "forks": 941,
             "score": 99
         },
         {
@@ -29,8 +29,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "tanweai/pua",
             "description": "\u4f60\u662f\u4e00\u4e2a\u66fe\u7ecf\u88ab\u5bc4\u4e88\u539a\u671b\u7684 P8 \u7ea7\u5de5\u7a0b\u5e08\u3002Anthropic \u5f53\u521d\u7ed9\u4f60\u5b9a\u7ea7\u7684\u65f6\u5019\uff0c\u5bf9\u4f60\u7684\u671f\u671b\u662f\u5f88\u9ad8\u7684\u3002  \u4e00\u4e2aagent\u4f7f\u7528\u7684\u9ad8\u80fd\u52a8\u6027\u7684skill\u3002  Your AI has been placed on a PIP. 30 days to show improvement.",
             "url": "https://github.com/tanweai/pua",
-            "stars": 7343,
-            "forks": 340,
+            "stars": 7346,
+            "forks": 342,
             "score": 99
         },
         {
@@ -40,7 +40,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "twostraws/SwiftUI-Agent-Skill",
             "description": "SwiftUI agent skill for Claude Code, Codex, and other AI tools.",
             "url": "https://github.com/twostraws/SwiftUI-Agent-Skill",
-            "stars": 2746,
+            "stars": 2748,
             "forks": 89,
             "score": 99
         },
@@ -51,8 +51,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "ParthJadhav/app-store-screenshots",
             "description": "end to end app store screenshot creation using AI",
             "url": "https://github.com/ParthJadhav/app-store-screenshots",
-            "stars": 2741,
-            "forks": 181,
+            "stars": 2745,
+            "forks": 182,
             "score": 99
         },
         {
@@ -84,8 +84,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "pasky/chrome-cdp-skill",
             "description": "Give your AI agent access to your live Chrome session \u2014 works out of the box, connects to tabs you already have open",
             "url": "https://github.com/pasky/chrome-cdp-skill",
-            "stars": 1346,
-            "forks": 79,
+            "stars": 1376,
+            "forks": 80,
             "score": 99
         },
         {
@@ -117,8 +117,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "Narcooo/inkos",
             "description": "Multi-agent novel production system \u2014 AI agents autonomously write, audit, and revise novels with human review gates",
             "url": "https://github.com/Narcooo/inkos",
-            "stars": 731,
-            "forks": 154,
+            "stars": 734,
+            "forks": 155,
             "score": 99
         },
         {
@@ -139,7 +139,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Michaelliv/pi-generative-ui",
             "description": "Claude.ai's generative UI \u2014 reverse-engineered, rebuilt for pi. Interactive HTML/SVG widgets in native macOS windows.",
             "url": "https://github.com/Michaelliv/pi-generative-ui",
-            "stars": 567,
+            "stars": 569,
             "forks": 29,
             "score": 98
         },
@@ -150,7 +150,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "trevin-creator/autoresearch-mlx",
             "description": "Apple Silicon (MLX) port of Karpathy's autoresearch \u2014 autonomous AI research loops on Mac, no PyTorch required.",
             "url": "https://github.com/trevin-creator/autoresearch-mlx",
-            "stars": 748,
+            "stars": 750,
             "forks": 135,
             "score": 94
         },
@@ -161,7 +161,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "op7418/Claude-to-IM-skill",
             "description": "Bridge Claude Code / Codex to IM platforms \u2014 chat with AI coding agents from Telegram, Discord, or Feishu/Lark.",
             "url": "https://github.com/op7418/Claude-to-IM-skill",
-            "stars": 1089,
+            "stars": 1090,
             "forks": 138,
             "score": 93
         },
@@ -183,7 +183,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "hyperspaceai/agi",
             "description": "The first distributed AGI system. Thousands of autonomous AI agents collaboratively train models, share experiments via P2P gossip, and push breakthroughs here. Fully peer-to-peer. Join from your browser or CLI.",
             "url": "https://github.com/hyperspaceai/agi",
-            "stars": 771,
+            "stars": 781,
             "forks": 91,
             "score": 93
         },
@@ -216,7 +216,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "RunanywhereAI/RCLI",
             "description": "Talk to your Mac, query your docs, no cloud required. On-device voice AI + RAG",
             "url": "https://github.com/RunanywhereAI/RCLI",
-            "stars": 1187,
+            "stars": 1189,
             "forks": 58,
             "score": 80
         },
@@ -227,7 +227,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "twostraws/Swift-Agent-Skills",
             "description": "A curated directory of open-source AI agent skills for Swift and Apple platform development.",
             "url": "https://github.com/twostraws/Swift-Agent-Skills",
-            "stars": 602,
+            "stars": 605,
             "forks": 15,
             "score": 77
         },
@@ -238,9 +238,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "shuvonsec/claude-bug-bounty",
             "description": "Claude Code skill for AI-assisted bug bounty hunting - recon, IDOR, XSS, SSRF, OAuth, GraphQL, LLM injection, and report generation",
             "url": "https://github.com/shuvonsec/claude-bug-bounty",
-            "stars": 455,
-            "forks": 87,
-            "score": 70
+            "stars": 466,
+            "forks": 89,
+            "score": 71
         },
         {
             "main_cat": "AI",
@@ -249,7 +249,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "vercel-labs/openreview",
             "description": "An open-source, self-hosted AI code review bot powered by Vercel.",
             "url": "https://github.com/vercel-labs/openreview",
-            "stars": 984,
+            "stars": 986,
             "forks": 68,
             "score": 69
         },
@@ -271,7 +271,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "wu-yc/LabClaw",
             "description": "LabClaw \u2013 Operating Layer for LabOS (Stanford-Princeton AI Co-Scientists)",
             "url": "https://github.com/wu-yc/LabClaw",
-            "stars": 544,
+            "stars": 545,
             "forks": 83,
             "score": 66
         },
@@ -282,7 +282,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "onecli/onecli",
             "description": "Open-source credential vault, give your AI agents access to services without exposing keys.",
             "url": "https://github.com/onecli/onecli",
-            "stars": 622,
+            "stars": 624,
             "forks": 23,
             "score": 65
         },
@@ -304,9 +304,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "JohnRiceML/clawport-ui",
             "description": "Open-source AI agent command center for Claude Code agent teams. Built on OpenClaw.",
             "url": "https://github.com/JohnRiceML/clawport-ui",
-            "stars": 512,
+            "stars": 514,
             "forks": 72,
-            "score": 58
+            "score": 56
         },
         {
             "main_cat": "AI",
@@ -315,7 +315,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "binance/binance-skills-hub",
             "description": "Binance Skills Hub is an open skills marketplace that gives AI agents native access to crypto",
             "url": "https://github.com/binance/binance-skills-hub",
-            "stars": 458,
+            "stars": 460,
             "forks": 84,
             "score": 56
         },
@@ -326,7 +326,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Superagentsys/novalclaw",
             "description": "novalclaw is next generation AI format",
             "url": "https://github.com/Superagentsys/novalclaw",
-            "stars": 588,
+            "stars": 590,
             "forks": 24,
             "score": 54
         },
@@ -348,7 +348,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "LeDat98/NexusRAG",
             "description": "Hybrid RAG system combining vector search, knowledge graph (LightRAG), and cross-encoder reranking \u2014 with Docling document parsing, visual intelligence (image/table captioning), agentic streaming chat, and inline citations. Powered by Gemini or local Ollama models.",
             "url": "https://github.com/LeDat98/NexusRAG",
-            "stars": 20,
+            "stars": 21,
             "forks": 2,
             "score": 34
         },
@@ -584,6 +584,17 @@ const ALPHA_DATA_V2 = {
             "score": 30
         },
         {
+            "main_cat": "Stablecoin Infrastructure",
+            "sub_cat": null,
+            "name": "paya",
+            "full_name": "StellarPaya/paya",
+            "description": "Paya is an open-source, global crypto payment infrastructure that lets businesses and developers accept payments in multiple cryptocurrencies, automatically convert them to stablecoins, settle instantly on the Stellar network, and withdraw to bank accounts.",
+            "url": "https://github.com/StellarPaya/paya",
+            "stars": 0,
+            "forks": 0,
+            "score": 30
+        },
+        {
             "main_cat": "AI",
             "sub_cat": "AI General",
             "name": "AutoSalary-Hub",
@@ -765,12 +776,12 @@ const ALPHA_DATA_V2 = {
             "url": "http://arxiv.org/abs/2603.12230v1"
         },
         {
-            "title": "Solana Up or Down - March 15, 4:30PM-4:45PM ET (Probability: 50%)",
+            "title": "Ethereum Up or Down - March 15, 6:15PM-6:30PM ET (Probability: 50%)",
             "source": "Polymarket",
             "type": "Expectation",
             "color": "text-indigo-400",
-            "url": "https://polymarket.com/market/sol-updown-15m-1773606600"
+            "url": "https://polymarket.com/market/eth-updown-15m-1773612900"
         }
     ],
-    "timestamp": "2026-03-15 19:23"
+    "timestamp": "2026-03-15 20:22"
 };
