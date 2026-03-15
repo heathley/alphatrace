@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "karpathy/autoresearch",
             "description": "AI agents running research on single-GPU nanochat training automatically",
             "url": "https://github.com/karpathy/autoresearch",
-            "stars": 35981,
-            "forks": 4945,
+            "stars": 36062,
+            "forks": 4960,
             "score": 99
         },
         {
@@ -18,8 +18,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "googleworkspace/cli",
             "description": "Google Workspace CLI \u2014 one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.",
             "url": "https://github.com/googleworkspace/cli",
-            "stars": 20541,
-            "forks": 941,
+            "stars": 20550,
+            "forks": 943,
             "score": 99
         },
         {
@@ -29,7 +29,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "tanweai/pua",
             "description": "\u4f60\u662f\u4e00\u4e2a\u66fe\u7ecf\u88ab\u5bc4\u4e88\u539a\u671b\u7684 P8 \u7ea7\u5de5\u7a0b\u5e08\u3002Anthropic \u5f53\u521d\u7ed9\u4f60\u5b9a\u7ea7\u7684\u65f6\u5019\uff0c\u5bf9\u4f60\u7684\u671f\u671b\u662f\u5f88\u9ad8\u7684\u3002  \u4e00\u4e2aagent\u4f7f\u7528\u7684\u9ad8\u80fd\u52a8\u6027\u7684skill\u3002  Your AI has been placed on a PIP. 30 days to show improvement.",
             "url": "https://github.com/tanweai/pua",
-            "stars": 7346,
+            "stars": 7348,
             "forks": 342,
             "score": 99
         },
@@ -51,7 +51,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "ParthJadhav/app-store-screenshots",
             "description": "end to end app store screenshot creation using AI",
             "url": "https://github.com/ParthJadhav/app-store-screenshots",
-            "stars": 2745,
+            "stars": 2746,
             "forks": 182,
             "score": 99
         },
@@ -62,8 +62,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "LeoYeAI/openclaw-master-skills",
             "description": "\ud83e\udde0 Curated collection of 339+ best OpenClaw skills \u2014 weekly updated by MyClaw.ai from ClawHub, GitHub & community. AI, productivity, dev, marketing, finance & more.",
             "url": "https://github.com/LeoYeAI/openclaw-master-skills",
-            "stars": 1811,
-            "forks": 364,
+            "stars": 1812,
+            "forks": 365,
             "score": 99
         },
         {
@@ -73,7 +73,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "viperrcrypto/Siftly",
             "description": "Local Twitter/X bookmark organizer with AI categorization and mindmap visualization",
             "url": "https://github.com/viperrcrypto/Siftly",
-            "stars": 1482,
+            "stars": 1483,
             "forks": 132,
             "score": 99
         },
@@ -84,8 +84,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "pasky/chrome-cdp-skill",
             "description": "Give your AI agent access to your live Chrome session \u2014 works out of the box, connects to tabs you already have open",
             "url": "https://github.com/pasky/chrome-cdp-skill",
-            "stars": 1376,
-            "forks": 80,
+            "stars": 1423,
+            "forks": 82,
             "score": 99
         },
         {
@@ -106,8 +106,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "chrisworsey55/atlas-gic",
             "description": "ATLAS by General Intelligence Capital \u2014 Self-improving AI trading agents using Karpathy-style autoresearch",
             "url": "https://github.com/chrisworsey55/atlas-gic",
-            "stars": 799,
-            "forks": 169,
+            "stars": 800,
+            "forks": 170,
             "score": 99
         },
         {
@@ -117,8 +117,30 @@ const ALPHA_DATA_V2 = {
             "full_name": "Narcooo/inkos",
             "description": "Multi-agent novel production system \u2014 AI agents autonomously write, audit, and revise novels with human review gates",
             "url": "https://github.com/Narcooo/inkos",
-            "stars": 734,
-            "forks": 155,
+            "stars": 739,
+            "forks": 157,
+            "score": 99
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "pi-generative-ui",
+            "full_name": "Michaelliv/pi-generative-ui",
+            "description": "Claude.ai's generative UI \u2014 reverse-engineered, rebuilt for pi. Interactive HTML/SVG widgets in native macOS windows.",
+            "url": "https://github.com/Michaelliv/pi-generative-ui",
+            "stars": 570,
+            "forks": 30,
+            "score": 99
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "opencli",
+            "full_name": "jackwener/opencli",
+            "description": "Make any website your CLI. A powerful, AI-native runtime for seamless browser automation and dynamic web data extraction.",
+            "url": "https://github.com/jackwener/opencli",
+            "stars": 465,
+            "forks": 48,
             "score": 99
         },
         {
@@ -129,19 +151,19 @@ const ALPHA_DATA_V2 = {
             "description": "gnark-crypto-cmd \u2014 Interactive CLI for Consensys gnark-crypto library featuring elliptic curve cryptography (BN254, BLS12-381, BLS24, BW6), zero-knowledge proof primitives, FFT/KZG/MiMC/EdDSA operations, Go code generation, benchmarks, and BibTeX citation export",
             "url": "https://github.com/lauraevz6y70/gnark-crypto",
             "stars": 543,
-            "forks": 347,
+            "forks": 348,
             "score": 99
         },
         {
             "main_cat": "AI",
-            "sub_cat": null,
-            "name": "pi-generative-ui",
-            "full_name": "Michaelliv/pi-generative-ui",
-            "description": "Claude.ai's generative UI \u2014 reverse-engineered, rebuilt for pi. Interactive HTML/SVG widgets in native macOS windows.",
-            "url": "https://github.com/Michaelliv/pi-generative-ui",
-            "stars": 569,
-            "forks": 29,
-            "score": 98
+            "sub_cat": "AI Agents",
+            "name": "agi",
+            "full_name": "hyperspaceai/agi",
+            "description": "The first distributed AGI system. Thousands of autonomous AI agents collaboratively train models, share experiments via P2P gossip, and push breakthroughs here. Fully peer-to-peer. Join from your browser or CLI.",
+            "url": "https://github.com/hyperspaceai/agi",
+            "stars": 802,
+            "forks": 92,
+            "score": 95
         },
         {
             "main_cat": "AI",
@@ -150,7 +172,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "trevin-creator/autoresearch-mlx",
             "description": "Apple Silicon (MLX) port of Karpathy's autoresearch \u2014 autonomous AI research loops on Mac, no PyTorch required.",
             "url": "https://github.com/trevin-creator/autoresearch-mlx",
-            "stars": 750,
+            "stars": 754,
             "forks": 135,
             "score": 94
         },
@@ -178,17 +200,6 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
-            "sub_cat": "AI Agents",
-            "name": "agi",
-            "full_name": "hyperspaceai/agi",
-            "description": "The first distributed AGI system. Thousands of autonomous AI agents collaboratively train models, share experiments via P2P gossip, and push breakthroughs here. Fully peer-to-peer. Join from your browser or CLI.",
-            "url": "https://github.com/hyperspaceai/agi",
-            "stars": 781,
-            "forks": 91,
-            "score": 93
-        },
-        {
-            "main_cat": "AI",
             "sub_cat": null,
             "name": "openclaw-backup",
             "full_name": "LeoYeAI/openclaw-backup",
@@ -205,7 +216,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "jnMetaCode/agency-agents-zh",
             "description": "AI \u667a\u80fd\u4f53\u4e13\u5bb6\u56e2\u961f\uff08\u4e2d\u6587\u7248\uff09\u2014 151 \u4e2a\u4e13\u4e1a AI \u667a\u80fd\u4f53\u4eba\u8bbe\uff0c\u8986\u76d6\u5f00\u53d1\u3001\u8bbe\u8ba1\u3001\u8425\u9500\u3001\u6d4b\u8bd5\u3001\u8fd0\u7ef4\u7b49\u9886\u57df\uff0c\u542b\u5c0f\u7ea2\u4e66/\u6296\u97f3/\u5fae\u4fe1\u7b49 22 \u4e2a\u4e2d\u56fd\u5e73\u53f0\u539f\u521b\u667a\u80fd\u4f53\uff0c\u652f\u6301 10 \u79cd AI \u7f16\u7a0b\u5de5\u5177",
             "url": "https://github.com/jnMetaCode/agency-agents-zh",
-            "stars": 715,
+            "stars": 717,
             "forks": 141,
             "score": 83
         },
@@ -227,9 +238,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "twostraws/Swift-Agent-Skills",
             "description": "A curated directory of open-source AI agent skills for Swift and Apple platform development.",
             "url": "https://github.com/twostraws/Swift-Agent-Skills",
-            "stars": 605,
-            "forks": 15,
-            "score": 77
+            "stars": 608,
+            "forks": 16,
+            "score": 78
         },
         {
             "main_cat": "AI",
@@ -238,9 +249,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "shuvonsec/claude-bug-bounty",
             "description": "Claude Code skill for AI-assisted bug bounty hunting - recon, IDOR, XSS, SSRF, OAuth, GraphQL, LLM injection, and report generation",
             "url": "https://github.com/shuvonsec/claude-bug-bounty",
-            "stars": 466,
-            "forks": 89,
-            "score": 71
+            "stars": 472,
+            "forks": 92,
+            "score": 72
         },
         {
             "main_cat": "AI",
@@ -249,7 +260,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "vercel-labs/openreview",
             "description": "An open-source, self-hosted AI code review bot powered by Vercel.",
             "url": "https://github.com/vercel-labs/openreview",
-            "stars": 986,
+            "stars": 987,
             "forks": 68,
             "score": 69
         },
@@ -271,7 +282,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "wu-yc/LabClaw",
             "description": "LabClaw \u2013 Operating Layer for LabOS (Stanford-Princeton AI Co-Scientists)",
             "url": "https://github.com/wu-yc/LabClaw",
-            "stars": 545,
+            "stars": 548,
             "forks": 83,
             "score": 66
         },
@@ -282,7 +293,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "onecli/onecli",
             "description": "Open-source credential vault, give your AI agents access to services without exposing keys.",
             "url": "https://github.com/onecli/onecli",
-            "stars": 624,
+            "stars": 627,
             "forks": 23,
             "score": 65
         },
@@ -310,23 +321,12 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
-            "sub_cat": "AI Agents",
-            "name": "binance-skills-hub",
-            "full_name": "binance/binance-skills-hub",
-            "description": "Binance Skills Hub is an open skills marketplace that gives AI agents native access to crypto",
-            "url": "https://github.com/binance/binance-skills-hub",
-            "stars": 460,
-            "forks": 84,
-            "score": 56
-        },
-        {
-            "main_cat": "AI",
             "sub_cat": null,
             "name": "novalclaw",
             "full_name": "Superagentsys/novalclaw",
             "description": "novalclaw is next generation AI format",
             "url": "https://github.com/Superagentsys/novalclaw",
-            "stars": 590,
+            "stars": 591,
             "forks": 24,
             "score": 54
         },
@@ -337,7 +337,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "es617/claude-replay",
             "description": "Convert AI coding agent sessions (Claude Code, Cursor, Codex) into self-contained, embeddable HTML  replays",
             "url": "https://github.com/es617/claude-replay",
-            "stars": 513,
+            "stars": 515,
             "forks": 24,
             "score": 49
         },
@@ -348,9 +348,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "LeDat98/NexusRAG",
             "description": "Hybrid RAG system combining vector search, knowledge graph (LightRAG), and cross-encoder reranking \u2014 with Docling document parsing, visual intelligence (image/table captioning), agentic streaming chat, and inline citations. Powered by Gemini or local Ollama models.",
             "url": "https://github.com/LeDat98/NexusRAG",
-            "stars": 21,
+            "stars": 25,
             "forks": 2,
-            "score": 34
+            "score": 35
         },
         {
             "main_cat": "AI",
@@ -776,12 +776,12 @@ const ALPHA_DATA_V2 = {
             "url": "http://arxiv.org/abs/2603.12230v1"
         },
         {
-            "title": "Ethereum Up or Down - March 15, 6:15PM-6:30PM ET (Probability: 50%)",
+            "title": "Ethereum Up or Down - March 15, 9PM ET (Probability: 50%)",
             "source": "Polymarket",
             "type": "Expectation",
             "color": "text-indigo-400",
-            "url": "https://polymarket.com/market/eth-updown-15m-1773612900"
+            "url": "https://polymarket.com/market/ethereum-up-or-down-march-15-2026-9pm-et"
         }
     ],
-    "timestamp": "2026-03-15 20:22"
+    "timestamp": "2026-03-15 21:23"
 };
