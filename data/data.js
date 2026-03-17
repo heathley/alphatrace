@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "karpathy/autoresearch",
             "description": "AI agents running research on single-GPU nanochat training automatically",
             "url": "https://github.com/karpathy/autoresearch",
-            "stars": 40163,
-            "forks": 5538,
+            "stars": 40202,
+            "forks": 5550,
             "score": 99
         },
         {
@@ -18,7 +18,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "tanweai/pua",
             "description": "\u4f60\u662f\u4e00\u4e2a\u66fe\u7ecf\u88ab\u5bc4\u4e88\u539a\u671b\u7684 P8 \u7ea7\u5de5\u7a0b\u5e08\u3002Anthropic \u5f53\u521d\u7ed9\u4f60\u5b9a\u7ea7\u7684\u65f6\u5019\uff0c\u5bf9\u4f60\u7684\u671f\u671b\u662f\u5f88\u9ad8\u7684\u3002  \u4e00\u4e2aagent\u4f7f\u7528\u7684\u9ad8\u80fd\u52a8\u6027\u7684skill\u3002  Your AI has been placed on a PIP. 30 days to show improvement.",
             "url": "https://github.com/tanweai/pua",
-            "stars": 8278,
+            "stars": 8279,
             "forks": 398,
             "score": 99
         },
@@ -29,7 +29,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "twostraws/SwiftUI-Agent-Skill",
             "description": "SwiftUI agent skill for Claude Code, Codex, and other AI tools.",
             "url": "https://github.com/twostraws/SwiftUI-Agent-Skill",
-            "stars": 2877,
+            "stars": 2879,
             "forks": 93,
             "score": 99
         },
@@ -51,8 +51,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "pasky/chrome-cdp-skill",
             "description": "Give your AI agent access to your live Chrome session \u2014 works out of the box, connects to tabs you already have open",
             "url": "https://github.com/pasky/chrome-cdp-skill",
-            "stars": 2039,
-            "forks": 105,
+            "stars": 2040,
+            "forks": 106,
             "score": 99
         },
         {
@@ -62,7 +62,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Narcooo/inkos",
             "description": "Autonomous novel writing CLI agent \u2014 AI agents write, audit, and revise novels with human review gates",
             "url": "https://github.com/Narcooo/inkos",
-            "stars": 1418,
+            "stars": 1422,
             "forks": 291,
             "score": 99
         },
@@ -73,7 +73,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "jackwener/opencli",
             "description": "Make any website your CLI. A powerful, AI-native runtime for seamless browser automation and dynamic web data extraction.",
             "url": "https://github.com/jackwener/opencli",
-            "stars": 1335,
+            "stars": 1338,
             "forks": 113,
             "score": 99
         },
@@ -95,7 +95,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "jnMetaCode/agency-agents-zh",
             "description": "176 \u4e2a\u5373\u63d2\u5373\u7528\u7684 AI \u4e13\u5bb6\u4eba\u8bbe\uff08\u4e2d\u6587\u7248\uff09\u2014 \u8986\u76d6 17 \u4e2a\u90e8\u95e8\uff0c\u652f\u6301 Claude Code / OpenClaw / Cursor / Trae \u7b49 11 \u79cd\u5de5\u5177 | Chinese AI agent personas for dev tools",
             "url": "https://github.com/jnMetaCode/agency-agents-zh",
-            "stars": 1126,
+            "stars": 1127,
             "forks": 221,
             "score": 99
         },
@@ -128,7 +128,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "sstklen/trump-code",
             "description": "\ud83d\udd10 AI decoding Trump's posts \u00d7 stock market | AI \u89e3\u78bc\u5ddd\u666e\u63a8\u6587 \u00d7 \u7f8e\u80a1 | AI\u3067\u30c8\u30e9\u30f3\u30d7\u6295\u7a3f\u00d7\u682a\u5f0f\u5e02\u5834\u3092\u89e3\u8aad \u2014 31.5M models, 61.3% hit rate, open source",
             "url": "https://github.com/sstklen/trump-code",
-            "stars": 458,
+            "stars": 459,
             "forks": 49,
             "score": 95
         },
@@ -161,7 +161,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "op7418/Claude-to-IM-skill",
             "description": "Bridge Claude Code / Codex to IM platforms \u2014 chat with AI coding agents from Telegram, Discord, or Feishu/Lark.",
             "url": "https://github.com/op7418/Claude-to-IM-skill",
-            "stars": 1259,
+            "stars": 1260,
             "forks": 155,
             "score": 92
         },
@@ -172,7 +172,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Michaelliv/pi-generative-ui",
             "description": "Claude.ai's generative UI \u2014 reverse-engineered, rebuilt for pi. Interactive HTML/SVG widgets in native macOS windows.",
             "url": "https://github.com/Michaelliv/pi-generative-ui",
-            "stars": 699,
+            "stars": 702,
             "forks": 40,
             "score": 91
         },
@@ -183,7 +183,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "trevin-creator/autoresearch-mlx",
             "description": "Apple Silicon (MLX) port of Karpathy's autoresearch \u2014 autonomous AI research loops on Mac, no PyTorch required.",
             "url": "https://github.com/trevin-creator/autoresearch-mlx",
-            "stars": 808,
+            "stars": 809,
             "forks": 153,
             "score": 89
         },
@@ -194,8 +194,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "shuvonsec/claude-bug-bounty",
             "description": "Claude Code skill for AI-assisted bug bounty hunting - recon, IDOR, XSS, SSRF, OAuth, GraphQL, LLM injection, and report generation",
             "url": "https://github.com/shuvonsec/claude-bug-bounty",
-            "stars": 702,
-            "forks": 119,
+            "stars": 705,
+            "forks": 120,
             "score": 79
         },
         {
@@ -205,7 +205,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "RunanywhereAI/RCLI",
             "description": "Talk to your Mac, query your docs, no cloud required. On-device voice AI + RAG",
             "url": "https://github.com/RunanywhereAI/RCLI",
-            "stars": 1217,
+            "stars": 1219,
             "forks": 62,
             "score": 75
         },
@@ -227,7 +227,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "onecli/onecli",
             "description": "Open-source credential vault, give your AI agents access to services without exposing keys.",
             "url": "https://github.com/onecli/onecli",
-            "stars": 788,
+            "stars": 790,
             "forks": 32,
             "score": 68
         },
@@ -249,7 +249,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "uluckyXH/OpenMOSS",
             "description": "A self-organizing multi-agent collaboration platform for OpenClaw. Multiple AI agents work as an autonomous team \u2014 planning, executing, reviewing, and patrolling tasks with zero human intervention.",
             "url": "https://github.com/uluckyXH/OpenMOSS",
-            "stars": 611,
+            "stars": 612,
             "forks": 67,
             "score": 66
         },
@@ -260,7 +260,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "nidhinjs/prompt-master",
             "description": "Claude skill that writes the perfect prompts for any AI tool. Zero tokens or credits wasted & No re-prompts",
             "url": "https://github.com/nidhinjs/prompt-master",
-            "stars": 468,
+            "stars": 473,
             "forks": 43,
             "score": 65
         },
@@ -271,7 +271,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Forget-C/Jellyfish",
             "description": "\u4e00\u7ad9\u5f0f AI \u751f\u6210\u77ed\u5267\uff08\u7ad6\u5c4f\u77ed\u5267 / \u5fae\u77ed\u5267\uff09\u7684\u751f\u4ea7\u5de5\u5177 ,  \u4ece\u5267\u672c\u8f93\u5165 \u2192 \u667a\u80fd\u5206\u955c \u2192 \u89d2\u8272/\u573a\u666f/\u9053\u5177\u4e00\u81f4\u6027\u7ba1\u7406 \u2192 AI \u89c6\u9891\u751f\u6210 \u2192 \u540e\u671f\u526a\u8f91 \u2192 \u4e00\u952e\u5bfc\u51fa\u6210\u7247 . ",
             "url": "https://github.com/Forget-C/Jellyfish",
-            "stars": 576,
+            "stars": 577,
             "forks": 81,
             "score": 62
         },
@@ -304,7 +304,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "tophant-ai/ClawVault",
             "description": "OpenClaw Security Vault \u2014 Atomic \"claw\" control: every AI reach, within your sight.",
             "url": "https://github.com/tophant-ai/ClawVault",
-            "stars": 601,
+            "stars": 600,
             "forks": 10,
             "score": 56
         },
@@ -315,7 +315,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Superagentsys/novalclaw",
             "description": "novalclaw is next generation AI format",
             "url": "https://github.com/Superagentsys/novalclaw",
-            "stars": 653,
+            "stars": 655,
             "forks": 31,
             "score": 54
         },
@@ -337,7 +337,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "fjb040911/ai-rules",
             "description": "ai-rules is a governance framework designed to solve \"Architectural Decay\" in AI-driven development. It forces AI Agents (Cursor, Windsurf, Copilot) to respect your project's boundaries, UI libraries, and design patterns.",
             "url": "https://github.com/fjb040911/ai-rules",
-            "stars": 474,
+            "stars": 476,
             "forks": 15,
             "score": 49
         },
@@ -348,7 +348,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "livehl/aimirror",
             "description": "\ud83d\ude80 200\u500d\u901f\uff01AI\u65f6\u4ee3\u7684\u4e0b\u8f7d\u795e\u5668 | Docker/PyPI/HuggingFace/CRAN \u5168\u52a0\u901f | \u5e76\u884c\u5206\u7247+\u667a\u80fd\u7f13\u5b58\uff0c\u8ba9\u4e0b\u8f7d\u98de\u8d77\u6765",
             "url": "https://github.com/livehl/aimirror",
-            "stars": 380,
+            "stars": 379,
             "forks": 15,
             "score": 44
         },
@@ -776,12 +776,12 @@ const ALPHA_DATA_V2 = {
             "url": "http://arxiv.org/abs/2603.15457v1"
         },
         {
-            "title": "Bitcoin Up or Down - March 17, 10:30PM-10:35PM ET (Probability: 50%)",
+            "title": "Bitcoin Up or Down - March 18, 12:25PM-12:30PM ET (Probability: 50%)",
             "source": "Polymarket",
             "type": "Expectation",
             "color": "text-indigo-400",
-            "url": "https://polymarket.com/market/btc-updown-5m-1773801000"
+            "url": "https://polymarket.com/market/btc-updown-5m-1773851100"
         }
     ],
-    "timestamp": "2026-03-17 19:52"
+    "timestamp": "2026-03-17 20:33"
 };
