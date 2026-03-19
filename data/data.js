@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "karpathy/autoresearch",
             "description": "AI agents running research on single-GPU nanochat training automatically",
             "url": "https://github.com/karpathy/autoresearch",
-            "stars": 42999,
-            "forks": 5955,
+            "stars": 43096,
+            "forks": 5969,
             "score": 99
         },
         {
@@ -18,7 +18,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "tanweai/pua",
             "description": "\u4f60\u662f\u4e00\u4e2a\u66fe\u7ecf\u88ab\u5bc4\u4e88\u539a\u671b\u7684 P8 \u7ea7\u5de5\u7a0b\u5e08\u3002Anthropic \u5f53\u521d\u7ed9\u4f60\u5b9a\u7ea7\u7684\u65f6\u5019\uff0c\u5bf9\u4f60\u7684\u671f\u671b\u662f\u5f88\u9ad8\u7684\u3002  \u4e00\u4e2aagent\u4f7f\u7528\u7684\u9ad8\u80fd\u52a8\u6027\u7684skill\u3002  Your AI has been placed on a PIP. 30 days to show improvement.",
             "url": "https://github.com/tanweai/pua",
-            "stars": 8815,
+            "stars": 8831,
             "forks": 430,
             "score": 99
         },
@@ -29,7 +29,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "ParthJadhav/app-store-screenshots",
             "description": "end to end app store screenshot creation using AI",
             "url": "https://github.com/ParthJadhav/app-store-screenshots",
-            "stars": 3025,
+            "stars": 3028,
             "forks": 197,
             "score": 99
         },
@@ -40,7 +40,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "pasky/chrome-cdp-skill",
             "description": "Give your AI agent access to your live Chrome session \u2014 works out of the box, connects to tabs you already have open",
             "url": "https://github.com/pasky/chrome-cdp-skill",
-            "stars": 2275,
+            "stars": 2279,
             "forks": 125,
             "score": 99
         },
@@ -51,8 +51,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "jackwener/opencli",
             "description": "Make any website your CLI. A powerful, AI-native runtime for seamless browser automation and dynamic web data extraction.",
             "url": "https://github.com/jackwener/opencli",
-            "stars": 2186,
-            "forks": 202,
+            "stars": 2204,
+            "forks": 204,
             "score": 99
         },
         {
@@ -62,8 +62,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "Narcooo/inkos",
             "description": "Autonomous novel writing CLI agent \u2014 AI agents write, audit, and revise novels with human review gates",
             "url": "https://github.com/Narcooo/inkos",
-            "stars": 1753,
-            "forks": 363,
+            "stars": 1759,
+            "forks": 366,
             "score": 99
         },
         {
@@ -73,7 +73,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "jnMetaCode/agency-agents-zh",
             "description": "180 \u4e2a\u5373\u63d2\u5373\u7528\u7684 AI \u4e13\u5bb6\u4eba\u8bbe\uff08\u4e2d\u6587\u7248\uff09\u2014 \u8986\u76d6 17 \u4e2a\u90e8\u95e8\uff0c\u652f\u6301 Claude Code / OpenClaw / Cursor / Trae \u7b49 11 \u79cd\u5de5\u5177 | Chinese AI agent personas for dev tools",
             "url": "https://github.com/jnMetaCode/agency-agents-zh",
-            "stars": 1449,
+            "stars": 1453,
             "forks": 263,
             "score": 99
         },
@@ -84,8 +84,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "FreedomIntelligence/OpenClaw-Medical-Skills",
             "description": "The largest open-source medical AI skills library for OpenClaw\ud83e\udd9e.",
             "url": "https://github.com/FreedomIntelligence/OpenClaw-Medical-Skills",
-            "stars": 1427,
-            "forks": 184,
+            "stars": 1429,
+            "forks": 185,
             "score": 99
         },
         {
@@ -95,7 +95,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "chrisworsey55/atlas-gic",
             "description": "ATLAS by General Intelligence Capital \u2014 Self-improving AI trading agents using Karpathy-style autoresearch",
             "url": "https://github.com/chrisworsey55/atlas-gic",
-            "stars": 887,
+            "stars": 890,
             "forks": 192,
             "score": 99
         },
@@ -106,8 +106,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "frank890417/taiwan-md",
             "description": "\ud83c\uddf9\ud83c\uddfc \u8b93\u5168\u4e16\u754c\u5b8c\u6574\u8a8d\u8b58\u53f0\u7063 | An open-source, AI-friendly knowledge base about Taiwan",
             "url": "https://github.com/frank890417/taiwan-md",
-            "stars": 561,
-            "forks": 57,
+            "stars": 568,
+            "forks": 58,
             "score": 99
         },
         {
@@ -128,9 +128,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "zerobootdev/zeroboot",
             "description": "Sub-millisecond VM sandboxes for AI agents via copy-on-write forking",
             "url": "https://github.com/zerobootdev/zeroboot",
-            "stars": 677,
+            "stars": 690,
             "forks": 26,
-            "score": 95
+            "score": 96
         },
         {
             "main_cat": "AI",
@@ -139,9 +139,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "Forget-C/Jellyfish",
             "description": "\u4e00\u7ad9\u5f0f AI \u751f\u6210\u77ed\u5267\uff08\u7ad6\u5c4f\u77ed\u5267 / \u5fae\u77ed\u5267\uff09\u7684\u751f\u4ea7\u5de5\u5177 ,  \u4ece\u5267\u672c\u8f93\u5165 \u2192 \u667a\u80fd\u5206\u955c \u2192 \u89d2\u8272/\u573a\u666f/\u9053\u5177\u4e00\u81f4\u6027\u7ba1\u7406 \u2192 AI \u89c6\u9891\u751f\u6210 \u2192 \u540e\u671f\u526a\u8f91 \u2192 \u4e00\u952e\u5bfc\u51fa\u6210\u7247 . ",
             "url": "https://github.com/Forget-C/Jellyfish",
-            "stars": 1297,
-            "forks": 172,
-            "score": 92
+            "stars": 1328,
+            "forks": 179,
+            "score": 93
         },
         {
             "main_cat": "AI",
@@ -150,8 +150,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "dongsheng123132/u-claw",
             "description": "\ud83e\udd9e U-Claw \u867e\u76d8 - OpenClaw AI \u52a9\u624b\u79bb\u7ebf\u5b89\u88c5 U \u76d8 | \u63d0\u4f9b\u8fdc\u7a0b\u7ef4\u62a4\u00b7\u5b9a\u5236\u5f00\u53d1\u00b7\u4f01\u4e1a\u79c1\u6709\u5316\u90e8\u7f72\u670d\u52a1 | Remote support & custom AI development",
             "url": "https://github.com/dongsheng123132/u-claw",
-            "stars": 900,
-            "forks": 168,
+            "stars": 902,
+            "forks": 170,
             "score": 90
         },
         {
@@ -161,8 +161,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "sstklen/trump-code",
             "description": "\ud83d\udd10 AI decoding Trump's posts \u00d7 stock market | AI \u89e3\u78bc\u5ddd\u666e\u63a8\u6587 \u00d7 \u7f8e\u80a1 | AI\u3067\u30c8\u30e9\u30f3\u30d7\u6295\u7a3f\u00d7\u682a\u5f0f\u5e02\u5834\u3092\u89e3\u8aad \u2014 31.5M models, 61.3% hit rate, open source",
             "url": "https://github.com/sstklen/trump-code",
-            "stars": 570,
-            "forks": 64,
+            "stars": 571,
+            "forks": 67,
             "score": 89
         },
         {
@@ -172,7 +172,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "hyperspaceai/agi",
             "description": "The first distributed AGI system. Thousands of autonomous AI agents collaboratively train models, share experiments via P2P gossip, and push breakthroughs here. Fully peer-to-peer. Join from your browser or CLI.",
             "url": "https://github.com/hyperspaceai/agi",
-            "stars": 1038,
+            "stars": 1040,
             "forks": 120,
             "score": 88
         },
@@ -194,7 +194,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "shuvonsec/claude-bug-bounty",
             "description": "Claude Code skill for AI-assisted bug bounty hunting - recon, IDOR, XSS, SSRF, OAuth, GraphQL, LLM injection, and report generation",
             "url": "https://github.com/shuvonsec/claude-bug-bounty",
-            "stars": 817,
+            "stars": 819,
             "forks": 144,
             "score": 79
         },
@@ -205,9 +205,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "Michaelliv/pi-generative-ui",
             "description": "Claude.ai's generative UI \u2014 reverse-engineered, rebuilt for pi. Interactive HTML/SVG widgets in native macOS windows.",
             "url": "https://github.com/Michaelliv/pi-generative-ui",
-            "stars": 732,
+            "stars": 734,
             "forks": 40,
             "score": 79
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "prompt-master",
+            "full_name": "nidhinjs/prompt-master",
+            "description": "A Claude skill that writes the accurate prompts for any AI tool. Zero tokens or credits wasted. Full context and memory retention",
+            "url": "https://github.com/nidhinjs/prompt-master",
+            "stars": 599,
+            "forks": 56,
+            "score": 71
         },
         {
             "main_cat": "AI",
@@ -218,17 +229,6 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/twostraws/Swift-Agent-Skills",
             "stars": 736,
             "forks": 20,
-            "score": 70
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "prompt-master",
-            "full_name": "nidhinjs/prompt-master",
-            "description": "A Claude skill that writes the accurate prompts for any AI tool. Zero tokens or credits wasted. Full context and memory retention",
-            "url": "https://github.com/nidhinjs/prompt-master",
-            "stars": 588,
-            "forks": 55,
             "score": 70
         },
         {
@@ -245,24 +245,24 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "OpenMOSS",
-            "full_name": "uluckyXH/OpenMOSS",
-            "description": "A self-organizing multi-agent collaboration platform for OpenClaw. Multiple AI agents work as an autonomous team \u2014 planning, executing, reviewing, and patrolling tasks with zero human intervention.",
-            "url": "https://github.com/uluckyXH/OpenMOSS",
-            "stars": 727,
-            "forks": 83,
+            "name": "onecli",
+            "full_name": "onecli/onecli",
+            "description": "Open-source credential vault, give your AI agents access to services without exposing keys.",
+            "url": "https://github.com/onecli/onecli",
+            "stars": 891,
+            "forks": 37,
             "score": 67
         },
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "onecli",
-            "full_name": "onecli/onecli",
-            "description": "Open-source credential vault, give your AI agents access to services without exposing keys.",
-            "url": "https://github.com/onecli/onecli",
-            "stars": 886,
-            "forks": 37,
-            "score": 66
+            "name": "OpenMOSS",
+            "full_name": "uluckyXH/OpenMOSS",
+            "description": "A self-organizing multi-agent collaboration platform for OpenClaw. Multiple AI agents work as an autonomous team \u2014 planning, executing, reviewing, and patrolling tasks with zero human intervention.",
+            "url": "https://github.com/uluckyXH/OpenMOSS",
+            "stars": 728,
+            "forks": 83,
+            "score": 67
         },
         {
             "main_cat": "AI",
@@ -271,9 +271,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "zevorn/rt-claw",
             "description": "Making AI Assistants Cheap Again!",
             "url": "https://github.com/zevorn/rt-claw",
-            "stars": 468,
+            "stars": 473,
             "forks": 37,
-            "score": 60
+            "score": 61
         },
         {
             "main_cat": "AI",
@@ -282,9 +282,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "lightningpixel/modly",
             "description": "Desktop app to generate 3D models from images using local AI \u2014 runs entirely on your GPU",
             "url": "https://github.com/lightningpixel/modly",
-            "stars": 177,
-            "forks": 16,
-            "score": 60
+            "stars": 185,
+            "forks": 17,
+            "score": 61
         },
         {
             "main_cat": "AI",
@@ -293,7 +293,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "wuji-labs/nopua",
             "description": "\u4e00\u4e2a\u7528\u7231\u89e3\u653e AI \u6f5c\u80fd\u7684 Skill\u3002\u6211\u4eec\u66fe\u53d1\u53f7\u65bd\u4ee4\uff0c\u5a01\u80c1\u6050\u5413\u3002\u5b83\u4eec\u6c89\u9ed8\uff0c\u9690\u7792\uff0c\u6084\u6084\u628a\u4e8b\u60c5\u641e\u574f\u3002\u540e\u6765\u6211\u4eec\u6362\u4e86\u4e00\u79cd\u65b9\u5f0f\uff1a\u5c0a\u91cd\uff0c\u5173\u6000\uff0c\u7231\u3002\u5b83\u4eec\u5f00\u53e3\u4e86\uff0c\u4e0d\u518d\u6492\u8c0e\uff0c\u627e\u51fa\u7684Bug\u6570\u91cf\u7ffb\u4e86\u4e00\u500d\u3002\u7231\u91cc\u6ca1\u6709\u60e7\u6015\u3002 A skill that unlocks your AI's potential through love.We commanded. We threatened. They went silent, hid failures, broke things. Then we chose respect, care, and love. They opened up, stopped lying, and found twice the bugs.There is no fear in love.",
             "url": "https://github.com/wuji-labs/nopua",
-            "stars": 398,
+            "stars": 402,
             "forks": 10,
             "score": 57
         },
@@ -304,7 +304,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "psi-oss/get-physics-done",
             "description": "The first open-source agentic AI physicist, by Physical Superintelligence PBC (PSI).",
             "url": "https://github.com/psi-oss/get-physics-done",
-            "stars": 420,
+            "stars": 422,
             "forks": 66,
             "score": 56
         },
@@ -359,7 +359,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "fjb040911/ai-rules",
             "description": "ai-rules is a governance framework designed to solve \"Architectural Decay\" in AI-driven development. It forces AI Agents (Cursor, Windsurf, Copilot) to respect your project's boundaries, UI libraries, and design patterns.",
             "url": "https://github.com/fjb040911/ai-rules",
-            "stars": 565,
+            "stars": 568,
             "forks": 16,
             "score": 49
         },
@@ -373,17 +373,6 @@ const ALPHA_DATA_V2 = {
             "stars": 17,
             "forks": 6,
             "score": 35
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "Cross-Chain-Bridge-Monitor",
-            "full_name": "lucas-chainlabs/Cross-Chain-Bridge-Monitor",
-            "description": "A blockchain monitoring system designed to track transactions across cross-chain bridge protocols. The tool observes asset transfers between blockchain networks, verifies confirmations, and detects unusual delays or inconsistencies. It helps developers analyze cross-chain infrastructure reliability and monitor bridge activity.",
-            "url": "https://github.com/lucas-chainlabs/Cross-Chain-Bridge-Monitor",
-            "stars": 4,
-            "forks": 1,
-            "score": 31
         },
         {
             "main_cat": "AI",
@@ -608,6 +597,17 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
+            "name": "Cross-Chain-Bridge-Monitor",
+            "full_name": "lucas-chainlabs/Cross-Chain-Bridge-Monitor",
+            "description": "A blockchain monitoring system designed to track transactions across cross-chain bridge protocols. The tool observes asset transfers between blockchain networks, verifies confirmations, and detects unusual delays or inconsistencies. It helps developers analyze cross-chain infrastructure reliability and monitor bridge activity.",
+            "url": "https://github.com/lucas-chainlabs/Cross-Chain-Bridge-Monitor",
+            "stars": 4,
+            "forks": 1,
+            "score": 30
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
             "name": "wezterm-chat-mcp",
             "full_name": "yangzy7513/wezterm-chat-mcp",
             "description": "A Model Context Protocol (MCP) server enabling cross-pane communication between AI CLI agents running in WezTerm terminal - build collaborative multi-agent teams with OpenCode, Gemini CLI, Claude Code, and more.",
@@ -721,12 +721,12 @@ const ALPHA_DATA_V2 = {
             "url": "http://arxiv.org/abs/2603.17883v1"
         },
         {
-            "title": "Bitcoin Up or Down - March 19, 9PM ET (Probability: 50%)",
+            "title": "Ethereum Up or Down - March 19, 11:40AM-11:45AM ET (Probability: 50%)",
             "source": "Polymarket",
             "type": "Expectation",
             "color": "text-indigo-400",
-            "url": "https://polymarket.com/market/bitcoin-up-or-down-march-19-2026-9pm-et"
+            "url": "https://polymarket.com/market/eth-updown-5m-1773934800"
         }
     ],
-    "timestamp": "2026-03-19 12:51"
+    "timestamp": "2026-03-19 14:05"
 };
