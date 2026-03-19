@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "karpathy/autoresearch",
             "description": "AI agents running research on single-GPU nanochat training automatically",
             "url": "https://github.com/karpathy/autoresearch",
-            "stars": 43564,
-            "forks": 6034,
+            "stars": 43608,
+            "forks": 6036,
             "score": 99
         },
         {
@@ -30,7 +30,7 @@ const ALPHA_DATA_V2 = {
             "description": "end to end app store screenshot creation using AI",
             "url": "https://github.com/ParthJadhav/app-store-screenshots",
             "stars": 3048,
-            "forks": 199,
+            "forks": 200,
             "score": 99
         },
         {
@@ -40,7 +40,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "jackwener/opencli",
             "description": "Make any website your CLI. A powerful, AI-native runtime for seamless browser automation and dynamic web data extraction.",
             "url": "https://github.com/jackwener/opencli",
-            "stars": 2367,
+            "stars": 2371,
             "forks": 214,
             "score": 99
         },
@@ -51,7 +51,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "pasky/chrome-cdp-skill",
             "description": "Give your AI agent access to your live Chrome session \u2014 works out of the box, connects to tabs you already have open",
             "url": "https://github.com/pasky/chrome-cdp-skill",
-            "stars": 2295,
+            "stars": 2297,
             "forks": 125,
             "score": 99
         },
@@ -62,7 +62,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Narcooo/inkos",
             "description": "Autonomous novel writing CLI agent \u2014 AI agents write, audit, and revise novels with human review gates",
             "url": "https://github.com/Narcooo/inkos",
-            "stars": 1788,
+            "stars": 1789,
             "forks": 372,
             "score": 99
         },
@@ -84,7 +84,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Forget-C/Jellyfish",
             "description": "\u4e00\u7ad9\u5f0f AI \u751f\u6210\u77ed\u5267\uff08\u7ad6\u5c4f\u77ed\u5267 / \u5fae\u77ed\u5267\uff09\u7684\u751f\u4ea7\u5de5\u5177 ,  \u4ece\u5267\u672c\u8f93\u5165 \u2192 \u667a\u80fd\u5206\u955c \u2192 \u89d2\u8272/\u573a\u666f/\u9053\u5177\u4e00\u81f4\u6027\u7ba1\u7406 \u2192 AI \u89c6\u9891\u751f\u6210 \u2192 \u540e\u671f\u526a\u8f91 \u2192 \u4e00\u952e\u5bfc\u51fa\u6210\u7247 . ",
             "url": "https://github.com/Forget-C/Jellyfish",
-            "stars": 1445,
+            "stars": 1448,
             "forks": 195,
             "score": 99
         },
@@ -106,19 +106,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "chrisworsey55/atlas-gic",
             "description": "ATLAS by General Intelligence Capital \u2014 Self-improving AI trading agents using Karpathy-style autoresearch",
             "url": "https://github.com/chrisworsey55/atlas-gic",
-            "stars": 918,
-            "forks": 194,
-            "score": 99
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "zeroboot",
-            "full_name": "zerobootdev/zeroboot",
-            "description": "Sub-millisecond VM sandboxes for AI agents via copy-on-write forking",
-            "url": "https://github.com/zerobootdev/zeroboot",
-            "stars": 774,
-            "forks": 27,
+            "stars": 920,
+            "forks": 195,
             "score": 99
         },
         {
@@ -129,7 +118,7 @@ const ALPHA_DATA_V2 = {
             "description": "\ud83c\uddf9\ud83c\uddfc \u8b93\u5168\u4e16\u754c\u5b8c\u6574\u8a8d\u8b58\u53f0\u7063 | An open-source, AI-friendly knowledge base about Taiwan",
             "url": "https://github.com/frank890417/taiwan-md",
             "stars": 604,
-            "forks": 65,
+            "forks": 66,
             "score": 99
         },
         {
@@ -139,8 +128,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "mattprusak/autoresearch-genealogy",
             "description": "Structured prompts, vault templates, and archive guides for AI-assisted genealogy research. Built for Claude Code.",
             "url": "https://github.com/mattprusak/autoresearch-genealogy",
-            "stars": 548,
-            "forks": 37,
+            "stars": 560,
+            "forks": 39,
             "score": 99
         },
         {
@@ -153,6 +142,17 @@ const ALPHA_DATA_V2 = {
             "stars": 543,
             "forks": 347,
             "score": 99
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "zeroboot",
+            "full_name": "zerobootdev/zeroboot",
+            "description": "Sub-millisecond VM sandboxes for AI agents via copy-on-write forking",
+            "url": "https://github.com/zerobootdev/zeroboot",
+            "stars": 777,
+            "forks": 27,
+            "score": 93
         },
         {
             "main_cat": "AI",
@@ -183,7 +183,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "hyperspaceai/agi",
             "description": "The first distributed AGI system. Thousands of autonomous AI agents collaboratively train models, share experiments via P2P gossip, and push breakthroughs here. Fully peer-to-peer. Join from your browser or CLI.",
             "url": "https://github.com/hyperspaceai/agi",
-            "stars": 1045,
+            "stars": 1046,
             "forks": 120,
             "score": 88
         },
@@ -194,9 +194,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "nidhinjs/prompt-master",
             "description": "A Claude skill that writes the accurate prompts for any AI tool. Zero tokens or credits wasted. Full context and memory retention",
             "url": "https://github.com/nidhinjs/prompt-master",
-            "stars": 942,
-            "forks": 75,
-            "score": 86
+            "stars": 980,
+            "forks": 78,
+            "score": 88
         },
         {
             "main_cat": "AI",
@@ -206,7 +206,7 @@ const ALPHA_DATA_V2 = {
             "description": "Apple Silicon (MLX) port of Karpathy's autoresearch \u2014 autonomous AI research loops on Mac, no PyTorch required.",
             "url": "https://github.com/trevin-creator/autoresearch-mlx",
             "stars": 856,
-            "forks": 164,
+            "forks": 165,
             "score": 84
         },
         {
@@ -216,7 +216,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Michaelliv/pi-generative-ui",
             "description": "Claude.ai's generative UI \u2014 reverse-engineered, rebuilt for pi. Interactive HTML/SVG widgets in native macOS windows.",
             "url": "https://github.com/Michaelliv/pi-generative-ui",
-            "stars": 747,
+            "stars": 748,
             "forks": 43,
             "score": 81
         },
@@ -227,8 +227,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "shuvonsec/claude-bug-bounty",
             "description": "Claude Code skill for AI-assisted bug bounty hunting - recon, IDOR, XSS, SSRF, OAuth, GraphQL, LLM injection, and report generation",
             "url": "https://github.com/shuvonsec/claude-bug-bounty",
-            "stars": 828,
-            "forks": 145,
+            "stars": 829,
+            "forks": 146,
             "score": 80
         },
         {
@@ -238,9 +238,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "lightningpixel/modly",
             "description": "Desktop app to generate 3D models from images using local AI \u2014 runs entirely on your GPU",
             "url": "https://github.com/lightningpixel/modly",
-            "stars": 280,
-            "forks": 31,
-            "score": 70
+            "stars": 292,
+            "forks": 32,
+            "score": 72
         },
         {
             "main_cat": "AI",
@@ -250,7 +250,7 @@ const ALPHA_DATA_V2 = {
             "description": "LabClaw \u2013 Operating Layer for LabOS (Stanford-Princeton AI Co-Scientists)",
             "url": "https://github.com/wu-yc/LabClaw",
             "stars": 793,
-            "forks": 118,
+            "forks": 119,
             "score": 69
         },
         {
@@ -271,7 +271,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "uluckyXH/OpenMOSS",
             "description": "A self-organizing multi-agent collaboration platform for OpenClaw. Multiple AI agents work as an autonomous team \u2014 planning, executing, reviewing, and patrolling tasks with zero human intervention.",
             "url": "https://github.com/uluckyXH/OpenMOSS",
-            "stars": 739,
+            "stars": 740,
             "forks": 84,
             "score": 68
         },
@@ -282,7 +282,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "twostraws/Swift-Agent-Skills",
             "description": "A curated directory of open-source AI agent skills for Swift and Apple platform development.",
             "url": "https://github.com/twostraws/Swift-Agent-Skills",
-            "stars": 740,
+            "stars": 741,
             "forks": 20,
             "score": 67
         },
@@ -293,7 +293,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "zevorn/rt-claw",
             "description": "Making AI Assistants Cheap Again!",
             "url": "https://github.com/zevorn/rt-claw",
-            "stars": 496,
+            "stars": 499,
             "forks": 38,
             "score": 59
         },
@@ -315,7 +315,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "psi-oss/get-physics-done",
             "description": "The first open-source agentic AI physicist, by Physical Superintelligence PBC (PSI).",
             "url": "https://github.com/psi-oss/get-physics-done",
-            "stars": 428,
+            "stars": 429,
             "forks": 66,
             "score": 56
         },
@@ -337,7 +337,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "tophant-ai/ClawVault",
             "description": "OpenClaw Security Vault \u2014 Atomic \"claw\" control: every AI reach, within your sight.",
             "url": "https://github.com/tophant-ai/ClawVault",
-            "stars": 649,
+            "stars": 650,
             "forks": 10,
             "score": 54
         },
@@ -359,7 +359,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "fjb040911/ai-rules",
             "description": "ai-rules is a governance framework designed to solve \"Architectural Decay\" in AI-driven development. It forces AI Agents (Cursor, Windsurf, Copilot) to respect your project's boundaries, UI libraries, and design patterns.",
             "url": "https://github.com/fjb040911/ai-rules",
-            "stars": 584,
+            "stars": 586,
             "forks": 17,
             "score": 50
         },
@@ -674,6 +674,17 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
+            "name": "solfolk-lending",
+            "full_name": "illegalcall/solfolk-lending",
+            "description": "Cross-chain spoke lending protocol on Solana \u2014 Wormhole hub-and-spoke architecture with Anchor",
+            "url": "https://github.com/illegalcall/solfolk-lending",
+            "stars": 0,
+            "forks": 0,
+            "score": 30
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
             "name": "TokenMandate",
             "full_name": "mine-ston/TokenMandate",
             "description": "TokenMandate is a token-weighted governance engine for DeFi protocols, L1 networks, and cross-chain DAOs",
@@ -728,5 +739,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/market/bitcoin-up-or-down-march-19-2026-9pm-et"
         }
     ],
-    "timestamp": "2026-03-19 21:30"
+    "timestamp": "2026-03-19 22:22"
 };
