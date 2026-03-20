@@ -7,7 +7,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "tanweai/pua",
             "description": "\u4f60\u662f\u4e00\u4e2a\u66fe\u7ecf\u88ab\u5bc4\u4e88\u539a\u671b\u7684 P8 \u7ea7\u5de5\u7a0b\u5e08\u3002Anthropic \u5f53\u521d\u7ed9\u4f60\u5b9a\u7ea7\u7684\u65f6\u5019\uff0c\u5bf9\u4f60\u7684\u671f\u671b\u662f\u5f88\u9ad8\u7684\u3002  \u4e00\u4e2aagent\u4f7f\u7528\u7684\u9ad8\u80fd\u52a8\u6027\u7684skill\u3002  Your AI has been placed on a PIP. 30 days to show improvement.",
             "url": "https://github.com/tanweai/pua",
-            "stars": 9178,
+            "stars": 9181,
             "forks": 456,
             "score": 99
         },
@@ -18,7 +18,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "ParthJadhav/app-store-screenshots",
             "description": "end to end app store screenshot creation using AI",
             "url": "https://github.com/ParthJadhav/app-store-screenshots",
-            "stars": 3076,
+            "stars": 3077,
             "forks": 204,
             "score": 99
         },
@@ -29,7 +29,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "jackwener/opencli",
             "description": "Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Transform any website, Electron app, or local binary into a standardized command-line interface. Built for AI Agents to discover, learn, and execute tools seamlessly via a unified AGENT.md integration.",
             "url": "https://github.com/jackwener/opencli",
-            "stars": 3016,
+            "stars": 3027,
             "forks": 274,
             "score": 99
         },
@@ -40,7 +40,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "pasky/chrome-cdp-skill",
             "description": "Give your AI agent access to your live Chrome session \u2014 works out of the box, connects to tabs you already have open",
             "url": "https://github.com/pasky/chrome-cdp-skill",
-            "stars": 2408,
+            "stars": 2413,
             "forks": 132,
             "score": 99
         },
@@ -51,7 +51,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Narcooo/inkos",
             "description": "Autonomous novel writing CLI agent \u2014 AI agents write, audit, and revise novels with human review gates",
             "url": "https://github.com/Narcooo/inkos",
-            "stars": 1897,
+            "stars": 1898,
             "forks": 398,
             "score": 99
         },
@@ -62,8 +62,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "nidhinjs/prompt-master",
             "description": "A Claude skill that writes the accurate prompts for any AI tool. Zero tokens or credits wasted. Full context and memory retention",
             "url": "https://github.com/nidhinjs/prompt-master",
-            "stars": 1593,
-            "forks": 118,
+            "stars": 1612,
+            "forks": 119,
             "score": 99
         },
         {
@@ -84,7 +84,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "zerobootdev/zeroboot",
             "description": "Sub-millisecond VM sandboxes for AI agents via copy-on-write forking",
             "url": "https://github.com/zerobootdev/zeroboot",
-            "stars": 1243,
+            "stars": 1273,
             "forks": 51,
             "score": 99
         },
@@ -95,7 +95,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "chrisworsey55/atlas-gic",
             "description": "ATLAS by General Intelligence Capital \u2014 Self-improving AI trading agents using Karpathy-style autoresearch",
             "url": "https://github.com/chrisworsey55/atlas-gic",
-            "stars": 952,
+            "stars": 953,
             "forks": 203,
             "score": 99
         },
@@ -106,7 +106,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "mattprusak/autoresearch-genealogy",
             "description": "Structured prompts, vault templates, and archive guides for AI-assisted genealogy research. Built for Claude Code.",
             "url": "https://github.com/mattprusak/autoresearch-genealogy",
-            "stars": 725,
+            "stars": 744,
             "forks": 57,
             "score": 99
         },
@@ -117,7 +117,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "frank890417/taiwan-md",
             "description": "\ud83c\uddf9\ud83c\uddfc \u8b93\u5168\u4e16\u754c\u5b8c\u6574\u8a8d\u8b58\u53f0\u7063 | An open-source, AI-friendly knowledge base about Taiwan",
             "url": "https://github.com/frank890417/taiwan-md",
-            "stars": 667,
+            "stars": 670,
             "forks": 74,
             "score": 99
         },
@@ -139,7 +139,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "dongsheng123132/u-claw",
             "description": "\ud83e\udd9e U-Claw \u867e\u76d8 - OpenClaw AI \u52a9\u624b\u79bb\u7ebf\u5b89\u88c5 U \u76d8 | \u63d0\u4f9b\u8fdc\u7a0b\u7ef4\u62a4\u00b7\u5b9a\u5236\u5f00\u53d1\u00b7\u4f01\u4e1a\u79c1\u6709\u5316\u90e8\u7f72\u670d\u52a1 | Remote support & custom AI development",
             "url": "https://github.com/dongsheng123132/u-claw",
-            "stars": 926,
+            "stars": 927,
             "forks": 173,
             "score": 87
         },
@@ -172,7 +172,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "trevin-creator/autoresearch-mlx",
             "description": "Apple Silicon (MLX) port of Karpathy's autoresearch \u2014 autonomous AI research loops on Mac, no PyTorch required.",
             "url": "https://github.com/trevin-creator/autoresearch-mlx",
-            "stars": 887,
+            "stars": 889,
             "forks": 171,
             "score": 82
         },
@@ -183,7 +183,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "shuvonsec/claude-bug-bounty",
             "description": "Claude Code skill for AI-assisted bug bounty hunting - recon, IDOR, XSS, SSRF, OAuth, GraphQL, LLM injection, and report generation",
             "url": "https://github.com/shuvonsec/claude-bug-bounty",
-            "stars": 859,
+            "stars": 860,
             "forks": 148,
             "score": 78
         },
@@ -194,9 +194,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "lightningpixel/modly",
             "description": "Desktop app to generate 3D models from images using local AI \u2014 runs entirely on your GPU",
             "url": "https://github.com/lightningpixel/modly",
-            "stars": 399,
+            "stars": 401,
             "forks": 44,
-            "score": 77
+            "score": 78
         },
         {
             "main_cat": "AI",
@@ -205,7 +205,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Michaelliv/pi-generative-ui",
             "description": "Claude.ai's generative UI \u2014 reverse-engineered, rebuilt for pi. Interactive HTML/SVG widgets in native macOS windows.",
             "url": "https://github.com/Michaelliv/pi-generative-ui",
-            "stars": 754,
+            "stars": 755,
             "forks": 44,
             "score": 76
         },
@@ -216,9 +216,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "lucija8320nhung4/HacxGPT",
             "description": "HacxGPT CLI \u2014 Open-source command-line interface for unrestricted AI model access with multi-provider support, prompt injection research capabilities, configurable API endpoints, Termux/Linux/Windows compatibility, and Rich terminal UI for security research and red-team evaluation",
             "url": "https://github.com/lucija8320nhung4/HacxGPT",
-            "stars": 521,
-            "forks": 167,
-            "score": 72
+            "stars": 541,
+            "forks": 174,
+            "score": 74
         },
         {
             "main_cat": "AI",
@@ -282,7 +282,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "czl9707/build-your-own-openclaw",
             "description": "A step-by-step guide to build your own AI agent.",
             "url": "https://github.com/czl9707/build-your-own-openclaw",
-            "stars": 433,
+            "stars": 434,
             "forks": 64,
             "score": 58
         },
@@ -296,17 +296,6 @@ const ALPHA_DATA_V2 = {
             "stars": 449,
             "forks": 13,
             "score": 57
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "ClawVault",
-            "full_name": "tophant-ai/ClawVault",
-            "description": "OpenClaw Security Vault \u2014 Atomic \"claw\" control: every AI reach, within your sight.",
-            "url": "https://github.com/tophant-ai/ClawVault",
-            "stars": 687,
-            "forks": 10,
-            "score": 55
         },
         {
             "main_cat": "AI",
@@ -332,6 +321,17 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
+            "sub_cat": null,
+            "name": "ClawVault",
+            "full_name": "tophant-ai/ClawVault",
+            "description": "OpenClaw Security Vault \u2014 Atomic \"claw\" control: every AI reach, within your sight.",
+            "url": "https://github.com/tophant-ai/ClawVault",
+            "stars": 690,
+            "forks": 10,
+            "score": 54
+        },
+        {
+            "main_cat": "AI",
             "sub_cat": "AI General",
             "name": "NexusRAG",
             "full_name": "LeDat98/NexusRAG",
@@ -340,17 +340,6 @@ const ALPHA_DATA_V2 = {
             "stars": 202,
             "forks": 45,
             "score": 53
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "domainsearcher-app",
-            "full_name": "vasilytrofimchuk/domainsearcher-app",
-            "description": "Score and choose the best domain name for your startup \u2014 AI-powered generation, real-time availability, and multi-dimensional scoring (LEN, PRO, MEM, BRD, FIT). Free, no signup.",
-            "url": "https://github.com/vasilytrofimchuk/domainsearcher-app",
-            "stars": 465,
-            "forks": 9,
-            "score": 52
         },
         {
             "main_cat": "AI",
@@ -365,12 +354,23 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
+            "sub_cat": null,
+            "name": "domainsearcher-app",
+            "full_name": "vasilytrofimchuk/domainsearcher-app",
+            "description": "Score and choose the best domain name for your startup \u2014 AI-powered generation, real-time availability, and multi-dimensional scoring (LEN, PRO, MEM, BRD, FIT). Free, no signup.",
+            "url": "https://github.com/vasilytrofimchuk/domainsearcher-app",
+            "stars": 465,
+            "forks": 9,
+            "score": 50
+        },
+        {
+            "main_cat": "AI",
             "sub_cat": "AI General",
             "name": "rustane",
             "full_name": "ncdrone/rustane",
             "description": "Rust-native hybrid training & inference engine for Apple Neural Engine + Metal GPU",
             "url": "https://github.com/ncdrone/rustane",
-            "stars": 90,
+            "stars": 91,
             "forks": 11,
             "score": 35
         },
@@ -530,6 +530,17 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
+            "sub_cat": "AI Agents",
+            "name": "tempo-agent-payments-demo",
+            "full_name": "glabun002/tempo-agent-payments-demo",
+            "description": "Agent-to-agent payments on Tempo blockchain \u2014 autonomous AI agents transacting with real stablecoins via MPP",
+            "url": "https://github.com/glabun002/tempo-agent-payments-demo",
+            "stars": 0,
+            "forks": 0,
+            "score": 30
+        },
+        {
+            "main_cat": "AI",
             "sub_cat": "AI General",
             "name": "eth-database-ecommerce",
             "full_name": "JVeraPTY/eth-database-ecommerce",
@@ -612,17 +623,6 @@ const ALPHA_DATA_V2 = {
             "full_name": "StellarPaya/paya",
             "description": "Paya is an open-source, global crypto payment infrastructure that lets businesses and developers accept payments in multiple cryptocurrencies, automatically convert them to stablecoins, settle instantly on the Stellar network, and withdraw to bank accounts.",
             "url": "https://github.com/StellarPaya/paya",
-            "stars": 0,
-            "forks": 0,
-            "score": 30
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "AutoSalary-Hub",
-            "full_name": "pj65806/AutoSalary-Hub",
-            "description": "A decentralized payroll system is a blockchain platform that automates employee salary payments using smart contracts. It enables secure payments in cryptocurrencies or stablecoins without banks, ensuring transparent and tamper-proof records while allowing employees to receive earnings directly through their digital wallets.",
-            "url": "https://github.com/pj65806/AutoSalary-Hub",
             "stars": 0,
             "forks": 0,
             "score": 30
@@ -765,12 +765,12 @@ const ALPHA_DATA_V2 = {
             "url": "http://arxiv.org/abs/2603.19138v1"
         },
         {
-            "title": "Bitcoin Up or Down - March 21, 11:10AM-11:15AM ET (Probability: 50%)",
+            "title": "Bitcoin Up or Down - March 21, 10:05AM-10:10AM ET (Probability: 50%)",
             "source": "Polymarket",
             "type": "Expectation",
             "color": "text-indigo-400",
-            "url": "https://polymarket.com/market/btc-updown-5m-1774105800"
+            "url": "https://polymarket.com/market/btc-updown-5m-1774101900"
         }
     ],
-    "timestamp": "2026-03-20 18:39"
+    "timestamp": "2026-03-20 19:34"
 };
