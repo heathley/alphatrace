@@ -7,7 +7,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "tanweai/pua",
             "description": "\u4f60\u662f\u4e00\u4e2a\u66fe\u7ecf\u88ab\u5bc4\u4e88\u539a\u671b\u7684 P8 \u7ea7\u5de5\u7a0b\u5e08\u3002Anthropic \u5f53\u521d\u7ed9\u4f60\u5b9a\u7ea7\u7684\u65f6\u5019\uff0c\u5bf9\u4f60\u7684\u671f\u671b\u662f\u5f88\u9ad8\u7684\u3002  \u4e00\u4e2aagent\u4f7f\u7528\u7684\u9ad8\u80fd\u52a8\u6027\u7684skill\u3002  Your AI has been placed on a PIP. 30 days to show improvement.",
             "url": "https://github.com/tanweai/pua",
-            "stars": 9190,
+            "stars": 9195,
             "forks": 456,
             "score": 99
         },
@@ -18,7 +18,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "ParthJadhav/app-store-screenshots",
             "description": "end to end app store screenshot creation using AI",
             "url": "https://github.com/ParthJadhav/app-store-screenshots",
-            "stars": 3077,
+            "stars": 3079,
             "forks": 204,
             "score": 99
         },
@@ -29,8 +29,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "jackwener/opencli",
             "description": "Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Transform any website, Electron app, or local binary into a standardized command-line interface. Built for AI Agents to discover, learn, and execute tools seamlessly via a unified AGENT.md integration.",
             "url": "https://github.com/jackwener/opencli",
-            "stars": 3044,
-            "forks": 274,
+            "stars": 3052,
+            "forks": 275,
             "score": 99
         },
         {
@@ -40,7 +40,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "pasky/chrome-cdp-skill",
             "description": "Give your AI agent access to your live Chrome session \u2014 works out of the box, connects to tabs you already have open",
             "url": "https://github.com/pasky/chrome-cdp-skill",
-            "stars": 2416,
+            "stars": 2418,
             "forks": 132,
             "score": 99
         },
@@ -51,7 +51,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Narcooo/inkos",
             "description": "Autonomous novel writing CLI agent \u2014 AI agents write, audit, and revise novels with human review gates",
             "url": "https://github.com/Narcooo/inkos",
-            "stars": 1902,
+            "stars": 1904,
             "forks": 398,
             "score": 99
         },
@@ -62,8 +62,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "nidhinjs/prompt-master",
             "description": "A Claude skill that writes the accurate prompts for any AI tool. Zero tokens or credits wasted. Full context and memory retention",
             "url": "https://github.com/nidhinjs/prompt-master",
-            "stars": 1658,
-            "forks": 122,
+            "stars": 1686,
+            "forks": 123,
             "score": 99
         },
         {
@@ -84,8 +84,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "zerobootdev/zeroboot",
             "description": "Sub-millisecond VM sandboxes for AI agents via copy-on-write forking",
             "url": "https://github.com/zerobootdev/zeroboot",
-            "stars": 1338,
-            "forks": 53,
+            "stars": 1365,
+            "forks": 55,
             "score": 99
         },
         {
@@ -95,7 +95,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "chrisworsey55/atlas-gic",
             "description": "ATLAS by General Intelligence Capital \u2014 Self-improving AI trading agents using Karpathy-style autoresearch",
             "url": "https://github.com/chrisworsey55/atlas-gic",
-            "stars": 954,
+            "stars": 956,
             "forks": 203,
             "score": 99
         },
@@ -106,7 +106,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "mattprusak/autoresearch-genealogy",
             "description": "Structured prompts, vault templates, and archive guides for AI-assisted genealogy research. Built for Claude Code.",
             "url": "https://github.com/mattprusak/autoresearch-genealogy",
-            "stars": 763,
+            "stars": 770,
             "forks": 59,
             "score": 99
         },
@@ -150,7 +150,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "hyperspaceai/agi",
             "description": "The first distributed AGI system. Thousands of autonomous AI agents collaboratively train models, share experiments via P2P gossip, and push breakthroughs here. Fully peer-to-peer. Join from your browser or CLI.",
             "url": "https://github.com/hyperspaceai/agi",
-            "stars": 1090,
+            "stars": 1093,
             "forks": 122,
             "score": 86
         },
@@ -178,24 +178,24 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
-            "sub_cat": null,
-            "name": "claude-bug-bounty",
-            "full_name": "shuvonsec/claude-bug-bounty",
-            "description": "Claude Code skill for AI-assisted bug bounty hunting - recon, IDOR, XSS, SSRF, OAuth, GraphQL, LLM injection, and report generation",
-            "url": "https://github.com/shuvonsec/claude-bug-bounty",
-            "stars": 862,
-            "forks": 148,
-            "score": 78
-        },
-        {
-            "main_cat": "AI",
             "sub_cat": "AI General",
             "name": "HacxGPT",
             "full_name": "lucija8320nhung4/HacxGPT",
             "description": "HacxGPT CLI \u2014 Open-source command-line interface for unrestricted AI model access with multi-provider support, prompt injection research capabilities, configurable API endpoints, Termux/Linux/Windows compatibility, and Rich terminal UI for security research and red-team evaluation",
             "url": "https://github.com/lucija8320nhung4/HacxGPT",
-            "stars": 586,
-            "forks": 191,
+            "stars": 609,
+            "forks": 197,
+            "score": 79
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "claude-bug-bounty",
+            "full_name": "shuvonsec/claude-bug-bounty",
+            "description": "Claude Code skill for AI-assisted bug bounty hunting - recon, IDOR, XSS, SSRF, OAuth, GraphQL, LLM injection, and report generation",
+            "url": "https://github.com/shuvonsec/claude-bug-bounty",
+            "stars": 865,
+            "forks": 149,
             "score": 78
         },
         {
@@ -205,7 +205,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "lightningpixel/modly",
             "description": "Desktop app to generate 3D models from images using local AI \u2014 runs entirely on your GPU",
             "url": "https://github.com/lightningpixel/modly",
-            "stars": 403,
+            "stars": 404,
             "forks": 44,
             "score": 78
         },
@@ -238,7 +238,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "uluckyXH/OpenMOSS",
             "description": "A self-organizing multi-agent collaboration platform for OpenClaw. Multiple AI agents work as an autonomous team \u2014 planning, executing, reviewing, and patrolling tasks with zero human intervention.",
             "url": "https://github.com/uluckyXH/OpenMOSS",
-            "stars": 778,
+            "stars": 781,
             "forks": 91,
             "score": 68
         },
@@ -260,9 +260,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "twostraws/Swift-Agent-Skills",
             "description": "A curated directory of open-source AI agent skills for Swift and Apple platform development.",
             "url": "https://github.com/twostraws/Swift-Agent-Skills",
-            "stars": 759,
+            "stars": 760,
             "forks": 20,
-            "score": 64
+            "score": 65
         },
         {
             "main_cat": "AI",
@@ -271,20 +271,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "zevorn/rt-claw",
             "description": "Making AI Assistants Cheap Again!",
             "url": "https://github.com/zevorn/rt-claw",
-            "stars": 562,
+            "stars": 565,
             "forks": 41,
             "score": 60
         },
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "build-your-own-openclaw",
-            "full_name": "czl9707/build-your-own-openclaw",
-            "description": "A step-by-step guide to build your own AI agent.",
-            "url": "https://github.com/czl9707/build-your-own-openclaw",
-            "stars": 435,
-            "forks": 64,
-            "score": 58
+            "name": "OB1",
+            "full_name": "NateBJones-Projects/OB1",
+            "description": "Open Brain \u2014 The infrastructure layer for your thinking. One database, one AI gateway, one chat channel \u2014 any AI plugs in. No middleware, no SaaS.",
+            "url": "https://github.com/NateBJones-Projects/OB1",
+            "stars": 439,
+            "forks": 71,
+            "score": 60
         },
         {
             "main_cat": "AI",
@@ -326,7 +326,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "tophant-ai/ClawVault",
             "description": "OpenClaw Security Vault \u2014 Atomic \"claw\" control: every AI reach, within your sight.",
             "url": "https://github.com/tophant-ai/ClawVault",
-            "stars": 691,
+            "stars": 692,
             "forks": 10,
             "score": 54
         },
@@ -370,7 +370,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "ncdrone/rustane",
             "description": "Rust-native hybrid training & inference engine for Apple Neural Engine + Metal GPU",
             "url": "https://github.com/ncdrone/rustane",
-            "stars": 96,
+            "stars": 98,
             "forks": 11,
             "score": 35
         },
@@ -634,7 +634,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "lucas-chainlabs/Cross-Chain-Bridge-Monitor",
             "description": "A blockchain monitoring system designed to track transactions across cross-chain bridge protocols. The tool observes asset transfers between blockchain networks, verifies confirmations, and detects unusual delays or inconsistencies. It helps developers analyze cross-chain infrastructure reliability and monitor bridge activity.",
             "url": "https://github.com/lucas-chainlabs/Cross-Chain-Bridge-Monitor",
-            "stars": 5,
+            "stars": 4,
             "forks": 1,
             "score": 30
         },
@@ -765,12 +765,12 @@ const ALPHA_DATA_V2 = {
             "url": "http://arxiv.org/abs/2603.19138v1"
         },
         {
-            "title": "Bitcoin Up or Down - March 21, 9:40AM-9:45AM ET (Probability: 50%)",
+            "title": "Ethereum Up or Down - March 20, 10:25PM-10:30PM ET (Probability: 50%)",
             "source": "Polymarket",
             "type": "Expectation",
             "color": "text-indigo-400",
-            "url": "https://polymarket.com/market/btc-updown-5m-1774100400"
+            "url": "https://polymarket.com/market/eth-updown-5m-1774059900"
         }
     ],
-    "timestamp": "2026-03-20 21:25"
+    "timestamp": "2026-03-20 22:22"
 };
