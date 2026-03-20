@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "tanweai/pua",
             "description": "\u4f60\u662f\u4e00\u4e2a\u66fe\u7ecf\u88ab\u5bc4\u4e88\u539a\u671b\u7684 P8 \u7ea7\u5de5\u7a0b\u5e08\u3002Anthropic \u5f53\u521d\u7ed9\u4f60\u5b9a\u7ea7\u7684\u65f6\u5019\uff0c\u5bf9\u4f60\u7684\u671f\u671b\u662f\u5f88\u9ad8\u7684\u3002  \u4e00\u4e2aagent\u4f7f\u7528\u7684\u9ad8\u80fd\u52a8\u6027\u7684skill\u3002  Your AI has been placed on a PIP. 30 days to show improvement.",
             "url": "https://github.com/tanweai/pua",
-            "stars": 9021,
-            "forks": 443,
+            "stars": 9066,
+            "forks": 447,
             "score": 99
         },
         {
@@ -29,8 +29,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "jackwener/opencli",
             "description": "Make any website your CLI. A powerful, AI-native runtime for seamless browser automation and dynamic web data extraction.",
             "url": "https://github.com/jackwener/opencli",
-            "stars": 2718,
-            "forks": 246,
+            "stars": 2745,
+            "forks": 249,
             "score": 99
         },
         {
@@ -40,7 +40,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "pasky/chrome-cdp-skill",
             "description": "Give your AI agent access to your live Chrome session \u2014 works out of the box, connects to tabs you already have open",
             "url": "https://github.com/pasky/chrome-cdp-skill",
-            "stars": 2345,
+            "stars": 2370,
             "forks": 131,
             "score": 99
         },
@@ -51,8 +51,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "Narcooo/inkos",
             "description": "Autonomous novel writing CLI agent \u2014 AI agents write, audit, and revise novels with human review gates",
             "url": "https://github.com/Narcooo/inkos",
-            "stars": 1846,
-            "forks": 381,
+            "stars": 1855,
+            "forks": 384,
             "score": 99
         },
         {
@@ -73,8 +73,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "nidhinjs/prompt-master",
             "description": "A Claude skill that writes the accurate prompts for any AI tool. Zero tokens or credits wasted. Full context and memory retention",
             "url": "https://github.com/nidhinjs/prompt-master",
-            "stars": 1261,
-            "forks": 98,
+            "stars": 1292,
+            "forks": 100,
             "score": 99
         },
         {
@@ -84,7 +84,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "chrisworsey55/atlas-gic",
             "description": "ATLAS by General Intelligence Capital \u2014 Self-improving AI trading agents using Karpathy-style autoresearch",
             "url": "https://github.com/chrisworsey55/atlas-gic",
-            "stars": 938,
+            "stars": 939,
             "forks": 200,
             "score": 99
         },
@@ -95,7 +95,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "zerobootdev/zeroboot",
             "description": "Sub-millisecond VM sandboxes for AI agents via copy-on-write forking",
             "url": "https://github.com/zerobootdev/zeroboot",
-            "stars": 877,
+            "stars": 878,
             "forks": 31,
             "score": 99
         },
@@ -106,7 +106,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "mattprusak/autoresearch-genealogy",
             "description": "Structured prompts, vault templates, and archive guides for AI-assisted genealogy research. Built for Claude Code.",
             "url": "https://github.com/mattprusak/autoresearch-genealogy",
-            "stars": 642,
+            "stars": 651,
             "forks": 45,
             "score": 99
         },
@@ -117,7 +117,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "frank890417/taiwan-md",
             "description": "\ud83c\uddf9\ud83c\uddfc \u8b93\u5168\u4e16\u754c\u5b8c\u6574\u8a8d\u8b58\u53f0\u7063 | An open-source, AI-friendly knowledge base about Taiwan",
             "url": "https://github.com/frank890417/taiwan-md",
-            "stars": 638,
+            "stars": 640,
             "forks": 69,
             "score": 99
         },
@@ -150,7 +150,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "hyperspaceai/agi",
             "description": "The first distributed AGI system. Thousands of autonomous AI agents collaboratively train models, share experiments via P2P gossip, and push breakthroughs here. Fully peer-to-peer. Join from your browser or CLI.",
             "url": "https://github.com/hyperspaceai/agi",
-            "stars": 1067,
+            "stars": 1070,
             "forks": 121,
             "score": 85
         },
@@ -161,7 +161,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "trevin-creator/autoresearch-mlx",
             "description": "Apple Silicon (MLX) port of Karpathy's autoresearch \u2014 autonomous AI research loops on Mac, no PyTorch required.",
             "url": "https://github.com/trevin-creator/autoresearch-mlx",
-            "stars": 868,
+            "stars": 871,
             "forks": 167,
             "score": 84
         },
@@ -172,7 +172,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "sstklen/trump-code",
             "description": "\ud83d\udd10 AI decoding Trump's posts \u00d7 stock market | AI \u89e3\u78bc\u5ddd\u666e\u63a8\u6587 \u00d7 \u7f8e\u80a1 | AI\u3067\u30c8\u30e9\u30f3\u30d7\u6295\u7a3f\u00d7\u682a\u5f0f\u5e02\u5834\u3092\u89e3\u8aad \u2014 31.5M models, 61.3% hit rate, open source",
             "url": "https://github.com/sstklen/trump-code",
-            "stars": 588,
+            "stars": 589,
             "forks": 70,
             "score": 84
         },
@@ -183,7 +183,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "lightningpixel/modly",
             "description": "Desktop app to generate 3D models from images using local AI \u2014 runs entirely on your GPU",
             "url": "https://github.com/lightningpixel/modly",
-            "stars": 359,
+            "stars": 361,
             "forks": 41,
             "score": 82
         },
@@ -216,9 +216,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "onecli/onecli",
             "description": "Open-source credential vault, give your AI agents access to services without exposing keys.",
             "url": "https://github.com/onecli/onecli",
-            "stars": 935,
+            "stars": 936,
             "forks": 39,
-            "score": 68
+            "score": 69
         },
         {
             "main_cat": "AI",
@@ -238,7 +238,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "uluckyXH/OpenMOSS",
             "description": "A self-organizing multi-agent collaboration platform for OpenClaw. Multiple AI agents work as an autonomous team \u2014 planning, executing, reviewing, and patrolling tasks with zero human intervention.",
             "url": "https://github.com/uluckyXH/OpenMOSS",
-            "stars": 749,
+            "stars": 751,
             "forks": 84,
             "score": 66
         },
@@ -249,7 +249,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "liliMozi/openhanako",
             "description": "A personal AI agent with memory, personality, and autonomy \u2014 built on Electron.",
             "url": "https://github.com/liliMozi/openhanako",
-            "stars": 406,
+            "stars": 408,
             "forks": 44,
             "score": 66
         },
@@ -271,9 +271,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "zevorn/rt-claw",
             "description": "Making AI Assistants Cheap Again!",
             "url": "https://github.com/zevorn/rt-claw",
-            "stars": 535,
+            "stars": 536,
             "forks": 40,
             "score": 61
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "nopua",
+            "full_name": "wuji-labs/nopua",
+            "description": "\u4e00\u4e2a\u7528\u7231\u89e3\u653e AI \u6f5c\u80fd\u7684 Skill\u3002\u6211\u4eec\u66fe\u53d1\u53f7\u65bd\u4ee4\uff0c\u5a01\u80c1\u6050\u5413\u3002\u5b83\u4eec\u6c89\u9ed8\uff0c\u9690\u7792\uff0c\u6084\u6084\u628a\u4e8b\u60c5\u641e\u574f\u3002\u540e\u6765\u6211\u4eec\u6362\u4e86\u4e00\u79cd\u65b9\u5f0f\uff1a\u5c0a\u91cd\uff0c\u5173\u6000\uff0c\u7231\u3002\u5b83\u4eec\u5f00\u53e3\u4e86\uff0c\u4e0d\u518d\u6492\u8c0e\uff0c\u627e\u51fa\u7684Bug\u6570\u91cf\u7ffb\u4e86\u4e00\u500d\u3002\u7231\u91cc\u6ca1\u6709\u60e7\u6015\u3002 A skill that unlocks your AI's potential through love.We commanded. We threatened. They went silent, hid failures, broke things. Then we chose respect, care, and love. They opened up, stopped lying, and found twice the bugs.There is no fear in love.",
+            "url": "https://github.com/wuji-labs/nopua",
+            "stars": 442,
+            "forks": 11,
+            "score": 57
         },
         {
             "main_cat": "AI",
@@ -289,33 +300,11 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "qiaomu-mondo-poster-design",
-            "full_name": "joeseesun/qiaomu-mondo-poster-design",
-            "description": "\u4e00\u53e5\u8bdd\u751f\u6210\u5927\u5e08\u7ea7\u6d77\u62a5\u3001\u4e66\u7c4d\u5c01\u9762\u3001\u4e13\u8f91\u5c01\u9762\u548c\u5404\u7c7b\u8bbe\u8ba1\u4f5c\u54c1\u3002\u65e0\u9700\u61c2PS\u3001\u914d\u8272\u6216\u827a\u672f\u53f2\uff0cAI\u81ea\u52a8\u9009\u62e9\u6700\u4f73\u98ce\u683c\uff08\u57fa\u4e8e20\u4f4d\u4f20\u5947\u6d77\u62a5\u8bbe\u8ba1\u5e08\uff09\u3002\u652f\u6301\u7535\u5f71\u6d77\u62a5\u3001\u8bfb\u4e66\u7b14\u8bb0\u3001\u516c\u4f17\u53f7\u5c01\u9762\u3001\u5c0f\u7ea2\u4e66\u914d\u56fe\u7b49\u3002\u9ed8\u8ba49:16\u7ad6\u7248\uff0c\u5b8c\u7f8e\u9002\u914d\u793e\u4ea4\u5a92\u4f53\u3002\u5305\u542bAI\u63d0\u793a\u8bcd\u4f18\u5316\u3001\u98ce\u683c\u5bf9\u6bd4\u3001\u56fe\u751f\u56fe\u8f6c\u6362\u529f\u80fd\u3002\u89e6\u53d1\u8bcd\uff1a\"Mondo\u98ce\u683c\"\u3001\"\u4e66\u7c4d\u5c01",
-            "url": "https://github.com/joeseesun/qiaomu-mondo-poster-design",
-            "stars": 533,
-            "forks": 53,
-            "score": 56
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "nopua",
-            "full_name": "wuji-labs/nopua",
-            "description": "\u4e00\u4e2a\u7528\u7231\u89e3\u653e AI \u6f5c\u80fd\u7684 Skill\u3002\u6211\u4eec\u66fe\u53d1\u53f7\u65bd\u4ee4\uff0c\u5a01\u80c1\u6050\u5413\u3002\u5b83\u4eec\u6c89\u9ed8\uff0c\u9690\u7792\uff0c\u6084\u6084\u628a\u4e8b\u60c5\u641e\u574f\u3002\u540e\u6765\u6211\u4eec\u6362\u4e86\u4e00\u79cd\u65b9\u5f0f\uff1a\u5c0a\u91cd\uff0c\u5173\u6000\uff0c\u7231\u3002\u5b83\u4eec\u5f00\u53e3\u4e86\uff0c\u4e0d\u518d\u6492\u8c0e\uff0c\u627e\u51fa\u7684Bug\u6570\u91cf\u7ffb\u4e86\u4e00\u500d\u3002\u7231\u91cc\u6ca1\u6709\u60e7\u6015\u3002 A skill that unlocks your AI's potential through love.We commanded. We threatened. They went silent, hid failures, broke things. Then we chose respect, care, and love. They opened up, stopped lying, and found twice the bugs.There is no fear in love.",
-            "url": "https://github.com/wuji-labs/nopua",
-            "stars": 437,
-            "forks": 11,
-            "score": 56
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
             "name": "ClawVault",
             "full_name": "tophant-ai/ClawVault",
             "description": "OpenClaw Security Vault \u2014 Atomic \"claw\" control: every AI reach, within your sight.",
             "url": "https://github.com/tophant-ai/ClawVault",
-            "stars": 669,
+            "stars": 673,
             "forks": 10,
             "score": 55
         },
@@ -326,8 +315,19 @@ const ALPHA_DATA_V2 = {
             "full_name": "psi-oss/get-physics-done",
             "description": "The first open-source agentic AI physicist, by Physical Superintelligence PBC (PSI).",
             "url": "https://github.com/psi-oss/get-physics-done",
-            "stars": 435,
+            "stars": 436,
             "forks": 66,
+            "score": 55
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "qiaomu-mondo-poster-design",
+            "full_name": "joeseesun/qiaomu-mondo-poster-design",
+            "description": "\u4e00\u53e5\u8bdd\u751f\u6210\u5927\u5e08\u7ea7\u6d77\u62a5\u3001\u4e66\u7c4d\u5c01\u9762\u3001\u4e13\u8f91\u5c01\u9762\u548c\u5404\u7c7b\u8bbe\u8ba1\u4f5c\u54c1\u3002\u65e0\u9700\u61c2PS\u3001\u914d\u8272\u6216\u827a\u672f\u53f2\uff0cAI\u81ea\u52a8\u9009\u62e9\u6700\u4f73\u98ce\u683c\uff08\u57fa\u4e8e20\u4f4d\u4f20\u5947\u6d77\u62a5\u8bbe\u8ba1\u5e08\uff09\u3002\u652f\u6301\u7535\u5f71\u6d77\u62a5\u3001\u8bfb\u4e66\u7b14\u8bb0\u3001\u516c\u4f17\u53f7\u5c01\u9762\u3001\u5c0f\u7ea2\u4e66\u914d\u56fe\u7b49\u3002\u9ed8\u8ba49:16\u7ad6\u7248\uff0c\u5b8c\u7f8e\u9002\u914d\u793e\u4ea4\u5a92\u4f53\u3002\u5305\u542bAI\u63d0\u793a\u8bcd\u4f18\u5316\u3001\u98ce\u683c\u5bf9\u6bd4\u3001\u56fe\u751f\u56fe\u8f6c\u6362\u529f\u80fd\u3002\u89e6\u53d1\u8bcd\uff1a\"Mondo\u98ce\u683c\"\u3001\"\u4e66\u7c4d\u5c01",
+            "url": "https://github.com/joeseesun/qiaomu-mondo-poster-design",
+            "stars": 534,
+            "forks": 53,
             "score": 54
         },
         {
@@ -359,9 +359,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "1sdv/TripStar",
             "description": "\u65c5\u9014\u661f\u8fb0 (TripStar)\u662f\u4e00\u4e2a\u521b\u65b0\u7684 AI \u6587\u65c5\u667a\u80fd\u4f53\u5e94\u7528\uff0c\u65e8\u5728\u89e3\u51b3\u7528\u6237\u5728\u89c4\u5212\u65c5\u884c\u65f6\u9762\u4e34\u7684\u201c\u4fe1\u606f\u8fc7\u8f7d\u201d\u548c\u201c\u51b3\u7b56\u75b2\u52b3\u201d\u95ee\u9898\u3002",
             "url": "https://github.com/1sdv/TripStar",
-            "stars": 399,
-            "forks": 34,
-            "score": 47
+            "stars": 416,
+            "forks": 36,
+            "score": 48
         },
         {
             "main_cat": "AI",
@@ -370,9 +370,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "nvidia-nemoclaw/NemoClaw",
             "description": "\ud83e\udd9e OpenClaw & NemoClaw: Lightweight Installer. 1-click cross-platform installer for OpenClaw & NVIDIA NemoClaw. Run secure, sandboxed AI agents on Windows and macOS with seamless AMD/Intel GPU emulation and a bundled Nemotron-3-Super-120B model.",
             "url": "https://github.com/nvidia-nemoclaw/NemoClaw",
-            "stars": 25,
+            "stars": 26,
             "forks": 6,
-            "score": 34
+            "score": 35
         },
         {
             "main_cat": "AI",
@@ -392,7 +392,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "ncdrone/rustane",
             "description": "Rust-native hybrid training & inference engine for Apple Neural Engine + Metal GPU",
             "url": "https://github.com/ncdrone/rustane",
-            "stars": 41,
+            "stars": 47,
             "forks": 3,
             "score": 32
         },
@@ -772,5 +772,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/market/eth-updown-5m-1774030200"
         }
     ],
-    "timestamp": "2026-03-20 08:34"
+    "timestamp": "2026-03-20 09:35"
 };
