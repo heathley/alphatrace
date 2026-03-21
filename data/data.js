@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "tanweai/pua",
             "description": "\u4f60\u662f\u4e00\u4e2a\u66fe\u7ecf\u88ab\u5bc4\u4e88\u539a\u671b\u7684 P8 \u7ea7\u5de5\u7a0b\u5e08\u3002Anthropic \u5f53\u521d\u7ed9\u4f60\u5b9a\u7ea7\u7684\u65f6\u5019\uff0c\u5bf9\u4f60\u7684\u671f\u671b\u662f\u5f88\u9ad8\u7684\u3002  \u4e00\u4e2aagent\u4f7f\u7528\u7684\u9ad8\u80fd\u52a8\u6027\u7684skill\u3002  Your AI has been placed on a PIP. 30 days to show improvement.",
             "url": "https://github.com/tanweai/pua",
-            "stars": 9490,
-            "forks": 473,
+            "stars": 9517,
+            "forks": 475,
             "score": 99
         },
         {
@@ -18,8 +18,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "jackwener/opencli",
             "description": "Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Transform any website, Electron app, or local binary into a standardized command-line interface. Built for AI Agents to discover, learn, and execute tools seamlessly via a unified AGENT.md integration.",
             "url": "https://github.com/jackwener/opencli",
-            "stars": 3416,
-            "forks": 297,
+            "stars": 3444,
+            "forks": 299,
             "score": 99
         },
         {
@@ -30,7 +30,7 @@ const ALPHA_DATA_V2 = {
             "description": "Give your AI agent access to your live Chrome session \u2014 works out of the box, connects to tabs you already have open",
             "url": "https://github.com/pasky/chrome-cdp-skill",
             "stars": 2479,
-            "forks": 134,
+            "forks": 135,
             "score": 99
         },
         {
@@ -40,8 +40,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "Narcooo/inkos",
             "description": "Autonomous novel writing CLI agent \u2014 AI agents write, audit, and revise novels with human review gates",
             "url": "https://github.com/Narcooo/inkos",
-            "stars": 1955,
-            "forks": 409,
+            "stars": 1960,
+            "forks": 410,
             "score": 99
         },
         {
@@ -51,8 +51,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "nidhinjs/prompt-master",
             "description": "A Claude skill that writes the accurate prompts for any AI tool. Zero tokens or credits wasted. Full context and memory retention",
             "url": "https://github.com/nidhinjs/prompt-master",
-            "stars": 1876,
-            "forks": 132,
+            "stars": 1886,
+            "forks": 133,
             "score": 99
         },
         {
@@ -62,7 +62,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "zerobootdev/zeroboot",
             "description": "Sub-millisecond VM sandboxes for AI agents via copy-on-write forking",
             "url": "https://github.com/zerobootdev/zeroboot",
-            "stars": 1608,
+            "stars": 1617,
             "forks": 73,
             "score": 99
         },
@@ -73,7 +73,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "FreedomIntelligence/OpenClaw-Medical-Skills",
             "description": "The largest open-source medical AI skills library for OpenClaw\ud83e\udd9e.",
             "url": "https://github.com/FreedomIntelligence/OpenClaw-Medical-Skills",
-            "stars": 1487,
+            "stars": 1489,
             "forks": 196,
             "score": 99
         },
@@ -106,7 +106,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "mattprusak/autoresearch-genealogy",
             "description": "Structured prompts, vault templates, and archive guides for AI-assisted genealogy research. Built for Claude Code.",
             "url": "https://github.com/mattprusak/autoresearch-genealogy",
-            "stars": 813,
+            "stars": 815,
             "forks": 67,
             "score": 99
         },
@@ -118,7 +118,7 @@ const ALPHA_DATA_V2 = {
             "description": "\ud83c\uddf9\ud83c\uddfc \u8b93\u5168\u4e16\u754c\u5b8c\u6574\u8a8d\u8b58\u53f0\u7063 | An open-source, AI-friendly knowledge base about Taiwan",
             "url": "https://github.com/frank890417/taiwan-md",
             "stars": 693,
-            "forks": 74,
+            "forks": 75,
             "score": 99
         },
         {
@@ -139,9 +139,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "truongduy2611/app-store-preflight-skills",
             "description": "AI agent skill to scan iOS/macOS projects for App Store rejection patterns before submission",
             "url": "https://github.com/truongduy2611/app-store-preflight-skills",
-            "stars": 493,
+            "stars": 501,
             "forks": 23,
-            "score": 88
+            "score": 89
         },
         {
             "main_cat": "AI",
@@ -150,8 +150,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "lightningpixel/modly",
             "description": "Desktop app to generate 3D models from images using local AI \u2014 runs entirely on your GPU",
             "url": "https://github.com/lightningpixel/modly",
-            "stars": 455,
-            "forks": 52,
+            "stars": 459,
+            "forks": 53,
             "score": 85
         },
         {
@@ -161,8 +161,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "hyperspaceai/agi",
             "description": "The first distributed AGI system. Thousands of autonomous AI agents collaboratively train models, share experiments via P2P gossip, and push breakthroughs here. Fully peer-to-peer. Join from your browser or CLI.",
             "url": "https://github.com/hyperspaceai/agi",
-            "stars": 1138,
-            "forks": 126,
+            "stars": 1140,
+            "forks": 127,
             "score": 84
         },
         {
@@ -194,7 +194,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "sstklen/trump-code",
             "description": "\ud83d\udd10 AI decoding Trump's posts \u00d7 stock market | AI \u89e3\u78bc\u5ddd\u666e\u63a8\u6587 \u00d7 \u7f8e\u80a1 | AI\u3067\u30c8\u30e9\u30f3\u30d7\u6295\u7a3f\u00d7\u682a\u5f0f\u5e02\u5834\u3092\u89e3\u8aad \u2014 31.5M models, 61.3% hit rate, open source",
             "url": "https://github.com/sstklen/trump-code",
-            "stars": 612,
+            "stars": 613,
             "forks": 72,
             "score": 80
         },
@@ -206,7 +206,7 @@ const ALPHA_DATA_V2 = {
             "description": "Claude Code skill for AI-assisted bug bounty hunting - recon, IDOR, XSS, SSRF, OAuth, GraphQL, LLM injection, and report generation",
             "url": "https://github.com/shuvonsec/claude-bug-bounty",
             "stars": 876,
-            "forks": 153,
+            "forks": 154,
             "score": 76
         },
         {
@@ -216,20 +216,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "Michaelliv/pi-generative-ui",
             "description": "Claude.ai's generative UI \u2014 reverse-engineered, rebuilt for pi. Interactive HTML/SVG widgets in native macOS windows.",
             "url": "https://github.com/Michaelliv/pi-generative-ui",
-            "stars": 762,
+            "stars": 763,
             "forks": 44,
             "score": 72
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "OpenMOSS",
-            "full_name": "uluckyXH/OpenMOSS",
-            "description": "A self-organizing multi-agent collaboration platform for OpenClaw. Multiple AI agents work as an autonomous team \u2014 planning, executing, reviewing, and patrolling tasks with zero human intervention.",
-            "url": "https://github.com/uluckyXH/OpenMOSS",
-            "stars": 808,
-            "forks": 97,
-            "score": 67
         },
         {
             "main_cat": "AI",
@@ -238,8 +227,19 @@ const ALPHA_DATA_V2 = {
             "full_name": "liliMozi/openhanako",
             "description": "A personal AI agent with memory, personality, and autonomy \u2014 built on Electron.",
             "url": "https://github.com/liliMozi/openhanako",
-            "stars": 463,
+            "stars": 465,
             "forks": 55,
+            "score": 68
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "OpenMOSS",
+            "full_name": "uluckyXH/OpenMOSS",
+            "description": "A self-organizing multi-agent collaboration platform for OpenClaw. Multiple AI agents work as an autonomous team \u2014 planning, executing, reviewing, and patrolling tasks with zero human intervention.",
+            "url": "https://github.com/uluckyXH/OpenMOSS",
+            "stars": 810,
+            "forks": 97,
             "score": 67
         },
         {
@@ -249,7 +249,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "onecli/onecli",
             "description": "Open-source credential vault, give your AI agents access to services without exposing keys.",
             "url": "https://github.com/onecli/onecli",
-            "stars": 970,
+            "stars": 972,
             "forks": 40,
             "score": 65
         },
@@ -260,7 +260,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "twostraws/Swift-Agent-Skills",
             "description": "A curated directory of open-source AI agent skills for Swift and Apple platform development.",
             "url": "https://github.com/twostraws/Swift-Agent-Skills",
-            "stars": 767,
+            "stars": 768,
             "forks": 20,
             "score": 65
         },
@@ -271,9 +271,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "NateBJones-Projects/OB1",
             "description": "Open Brain \u2014 The infrastructure layer for your thinking. One database, one AI gateway, one chat channel \u2014 any AI plugs in. No middleware, no SaaS.",
             "url": "https://github.com/NateBJones-Projects/OB1",
-            "stars": 503,
+            "stars": 505,
             "forks": 84,
-            "score": 64
+            "score": 65
         },
         {
             "main_cat": "AI",
@@ -282,7 +282,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "zevorn/rt-claw",
             "description": "Making AI Assistants Cheap Again!",
             "url": "https://github.com/zevorn/rt-claw",
-            "stars": 589,
+            "stars": 591,
             "forks": 42,
             "score": 61
         },
@@ -311,23 +311,23 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
+            "name": "skales",
+            "full_name": "skalesapp/skales",
+            "description": "Free AI Desktop Agent for Windows, macOS & Linux - Automate email, calendar, browser, code generation. 13+ AI providers, Ollama, Telegram remote control. No Docker, no terminal. \ud83e\udd8e",
+            "url": "https://github.com/skalesapp/skales",
+            "stars": 462,
+            "forks": 77,
+            "score": 54
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
             "name": "qiaomu-mondo-poster-design",
             "full_name": "joeseesun/qiaomu-mondo-poster-design",
             "description": "\u4e00\u53e5\u8bdd\u751f\u6210\u5927\u5e08\u7ea7\u6d77\u62a5\u3001\u4e66\u7c4d\u5c01\u9762\u3001\u4e13\u8f91\u5c01\u9762\u548c\u5404\u7c7b\u8bbe\u8ba1\u4f5c\u54c1\u3002\u65e0\u9700\u61c2PS\u3001\u914d\u8272\u6216\u827a\u672f\u53f2\uff0cAI\u81ea\u52a8\u9009\u62e9\u6700\u4f73\u98ce\u683c\uff08\u57fa\u4e8e20\u4f4d\u4f20\u5947\u6d77\u62a5\u8bbe\u8ba1\u5e08\uff09\u3002\u652f\u6301\u7535\u5f71\u6d77\u62a5\u3001\u8bfb\u4e66\u7b14\u8bb0\u3001\u516c\u4f17\u53f7\u5c01\u9762\u3001\u5c0f\u7ea2\u4e66\u914d\u56fe\u7b49\u3002\u9ed8\u8ba49:16\u7ad6\u7248\uff0c\u5b8c\u7f8e\u9002\u914d\u793e\u4ea4\u5a92\u4f53\u3002\u5305\u542bAI\u63d0\u793a\u8bcd\u4f18\u5316\u3001\u98ce\u683c\u5bf9\u6bd4\u3001\u56fe\u751f\u56fe\u8f6c\u6362\u529f\u80fd\u3002\u89e6\u53d1\u8bcd\uff1a\"Mondo\u98ce\u683c\"\u3001\"\u4e66\u7c4d\u5c01",
             "url": "https://github.com/joeseesun/qiaomu-mondo-poster-design",
             "stars": 541,
             "forks": 54,
-            "score": 53
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "skales",
-            "full_name": "skalesapp/skales",
-            "description": "Free AI Desktop Agent for Windows, macOS & Linux - Automate email, calendar, browser, code generation. 13+ AI providers, Ollama, Telegram remote control. No Docker, no terminal. \ud83e\udd8e",
-            "url": "https://github.com/skalesapp/skales",
-            "stars": 459,
-            "forks": 76,
             "score": 53
         },
         {
@@ -359,8 +359,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "ncdrone/rustane",
             "description": "Rust-native hybrid training & inference engine for Apple Neural Engine + Metal GPU",
             "url": "https://github.com/ncdrone/rustane",
-            "stars": 121,
-            "forks": 13,
+            "stars": 123,
+            "forks": 14,
             "score": 36
         },
         {
@@ -674,6 +674,17 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
+            "name": "rwa-vault",
+            "full_name": "Yek666/rwa-vault",
+            "description": "RWA Vault is a decentralized protocol for real-world asset tokenization. It enables secure asset custody, automated valuation, and cross-chain interoperability, bridging traditional finance with DeFi. Powered by Chainlink.",
+            "url": "https://github.com/Yek666/rwa-vault",
+            "stars": 0,
+            "forks": 0,
+            "score": 30
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
             "name": "Foundry-Cross-Chain-Rebase-Token-demo",
             "full_name": "GOLIBJON-developer/Foundry-Cross-Chain-Rebase-Token-demo",
             "description": "This project implements a Cross-Chain Rebase Token protocol built with Solidity and Foundry.",
@@ -754,12 +765,12 @@ const ALPHA_DATA_V2 = {
             "url": "http://arxiv.org/abs/2603.19138v1"
         },
         {
-            "title": "Will the price of Bitcoin be between $76,000 and $78,000 on March 27? (Probability: 5%)",
+            "title": "Will the price of Bitcoin be between $78,000 and $80,000 on March 25? (Probability: 2%)",
             "source": "Polymarket",
             "type": "Expectation",
             "color": "text-indigo-400",
-            "url": "https://polymarket.com/market/will-the-price-of-bitcoin-be-between-76000-78000-on-march-27"
+            "url": "https://polymarket.com/market/will-the-price-of-bitcoin-be-between-78000-80000-on-march-25"
         }
     ],
-    "timestamp": "2026-03-21 13:38"
+    "timestamp": "2026-03-21 14:21"
 };
