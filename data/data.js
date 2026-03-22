@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "jackwener/opencli",
             "description": "Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Transform any website, Electron app, or local binary into a standardized command-line interface. Built for AI Agents to discover, learn, and execute tools seamlessly via a unified AGENT.md integration.",
             "url": "https://github.com/jackwener/opencli",
-            "stars": 4058,
-            "forks": 347,
+            "stars": 4105,
+            "forks": 351,
             "score": 99
         },
         {
@@ -18,7 +18,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "pasky/chrome-cdp-skill",
             "description": "Give your AI agent access to your live Chrome session \u2014 works out of the box, connects to tabs you already have open",
             "url": "https://github.com/pasky/chrome-cdp-skill",
-            "stars": 2530,
+            "stars": 2533,
             "forks": 138,
             "score": 99
         },
@@ -29,7 +29,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Narcooo/inkos",
             "description": "Autonomous novel writing CLI agent \u2014 AI agents write, audit, and revise novels with human review gates",
             "url": "https://github.com/Narcooo/inkos",
-            "stars": 2046,
+            "stars": 2050,
             "forks": 425,
             "score": 99
         },
@@ -40,7 +40,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "nidhinjs/prompt-master",
             "description": "A Claude skill that writes the accurate prompts for any AI tool. Zero tokens or credits wasted. Full context and memory retention",
             "url": "https://github.com/nidhinjs/prompt-master",
-            "stars": 2013,
+            "stars": 2017,
             "forks": 141,
             "score": 99
         },
@@ -51,7 +51,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "zerobootdev/zeroboot",
             "description": "Sub-millisecond VM sandboxes for AI agents via copy-on-write forking",
             "url": "https://github.com/zerobootdev/zeroboot",
-            "stars": 1717,
+            "stars": 1722,
             "forks": 78,
             "score": 99
         },
@@ -73,8 +73,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "mattprusak/autoresearch-genealogy",
             "description": "Structured prompts, vault templates, and archive guides for AI-assisted genealogy research. Built for Claude Code.",
             "url": "https://github.com/mattprusak/autoresearch-genealogy",
-            "stars": 857,
-            "forks": 69,
+            "stars": 859,
+            "forks": 70,
             "score": 99
         },
         {
@@ -84,7 +84,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "truongduy2611/app-store-preflight-skills",
             "description": "AI agent skill to scan iOS/macOS projects for App Store rejection patterns before submission",
             "url": "https://github.com/truongduy2611/app-store-preflight-skills",
-            "stars": 751,
+            "stars": 766,
             "forks": 37,
             "score": 99
         },
@@ -106,9 +106,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "frank890417/taiwan-md",
             "description": "\ud83c\uddf9\ud83c\uddfc \u8b93\u5168\u4e16\u754c\u5b8c\u6574\u8a8d\u8b58\u53f0\u7063 | An open-source, AI-friendly knowledge base about Taiwan",
             "url": "https://github.com/frank890417/taiwan-md",
-            "stars": 715,
+            "stars": 717,
             "forks": 77,
-            "score": 93
+            "score": 94
         },
         {
             "main_cat": "zk / Privacy / zkML",
@@ -128,7 +128,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "lightningpixel/modly",
             "description": "Desktop app to generate 3D models from images using local AI \u2014 runs entirely on your GPU",
             "url": "https://github.com/lightningpixel/modly",
-            "stars": 533,
+            "stars": 536,
             "forks": 61,
             "score": 85
         },
@@ -139,8 +139,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "dongsheng123132/u-claw",
             "description": "\ud83e\udd9e U-Claw \u867e\u76d8 - OpenClaw AI \u52a9\u624b\u79bb\u7ebf\u5b89\u88c5 U \u76d8 | \u63d0\u4f9b\u8fdc\u7a0b\u7ef4\u62a4\u00b7\u5b9a\u5236\u5f00\u53d1\u00b7\u4f01\u4e1a\u79c1\u6709\u5316\u90e8\u7f72\u670d\u52a1 | Remote support & custom AI development",
             "url": "https://github.com/dongsheng123132/u-claw",
-            "stars": 947,
-            "forks": 174,
+            "stars": 949,
+            "forks": 175,
             "score": 81
         },
         {
@@ -150,9 +150,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "wangziqi06/724-office",
             "description": "7/24 Office \u2014 Self-evolving AI Agent system. 26 tools, 3500 lines pure Python, MCP/Skill plugins, three-layer memory, self-repair, 24/7 production.",
             "url": "https://github.com/wangziqi06/724-office",
-            "stars": 538,
-            "forks": 56,
-            "score": 77
+            "stars": 543,
+            "forks": 58,
+            "score": 78
         },
         {
             "main_cat": "AI",
@@ -183,9 +183,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "NateBJones-Projects/OB1",
             "description": "Open Brain \u2014 The infrastructure layer for your thinking. One database, one AI gateway, one chat channel \u2014 any AI plugs in. No middleware, no SaaS.",
             "url": "https://github.com/NateBJones-Projects/OB1",
-            "stars": 620,
+            "stars": 626,
             "forks": 97,
-            "score": 68
+            "score": 69
         },
         {
             "main_cat": "AI",
@@ -194,7 +194,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "liliMozi/openhanako",
             "description": "A personal AI agent with memory, personality, and autonomy \u2014 built on Electron.",
             "url": "https://github.com/liliMozi/openhanako",
-            "stars": 480,
+            "stars": 481,
             "forks": 59,
             "score": 65
         },
@@ -205,7 +205,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "twostraws/Swift-Agent-Skills",
             "description": "A curated directory of open-source AI agent skills for Swift and Apple platform development.",
             "url": "https://github.com/twostraws/Swift-Agent-Skills",
-            "stars": 780,
+            "stars": 781,
             "forks": 20,
             "score": 63
         },
@@ -216,7 +216,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "zevorn/rt-claw",
             "description": "Making AI Assistants Cheap Again!",
             "url": "https://github.com/zevorn/rt-claw",
-            "stars": 635,
+            "stars": 637,
             "forks": 44,
             "score": 61
         },
@@ -234,11 +234,22 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
+            "name": "build-your-own-openclaw",
+            "full_name": "czl9707/build-your-own-openclaw",
+            "description": "A step-by-step guide to build your own AI agent.",
+            "url": "https://github.com/czl9707/build-your-own-openclaw",
+            "stars": 465,
+            "forks": 66,
+            "score": 56
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
             "name": "posterskill",
             "full_name": "ethanweber/posterskill",
             "description": "AI-assisted academic posters.",
             "url": "https://github.com/ethanweber/posterskill",
-            "stars": 402,
+            "stars": 403,
             "forks": 30,
             "score": 56
         },
@@ -249,7 +260,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "psi-oss/get-physics-done",
             "description": "The first open-source agentic AI physicist, by Physical Superintelligence PBC (PSI).",
             "url": "https://github.com/psi-oss/get-physics-done",
-            "stars": 516,
+            "stars": 521,
             "forks": 77,
             "score": 55
         },
@@ -260,19 +271,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "wuji-labs/nopua",
             "description": "\u4e00\u4e2a\u7528\u7231\u89e3\u653e AI \u6f5c\u80fd\u7684 Skill\u3002\u6211\u4eec\u66fe\u53d1\u53f7\u65bd\u4ee4\uff0c\u5a01\u80c1\u6050\u5413\u3002\u5b83\u4eec\u6c89\u9ed8\uff0c\u9690\u7792\uff0c\u6084\u6084\u628a\u4e8b\u60c5\u641e\u574f\u3002\u540e\u6765\u6211\u4eec\u6362\u4e86\u4e00\u79cd\u65b9\u5f0f\uff1a\u5c0a\u91cd\uff0c\u5173\u6000\uff0c\u7231\u3002\u5b83\u4eec\u5f00\u53e3\u4e86\uff0c\u4e0d\u518d\u6492\u8c0e\uff0c\u627e\u51fa\u7684Bug\u6570\u91cf\u7ffb\u4e86\u4e00\u500d\u3002\u7231\u91cc\u6ca1\u6709\u60e7\u6015\u3002 A skill that unlocks your AI's potential through love.We commanded. We threatened. They went silent, hid failures, broke things. Then we chose respect, care, and love. They opened up, stopped lying, and found twice the bugs.There is no fear in love.",
             "url": "https://github.com/wuji-labs/nopua",
-            "stars": 512,
+            "stars": 514,
             "forks": 14,
-            "score": 55
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "build-your-own-openclaw",
-            "full_name": "czl9707/build-your-own-openclaw",
-            "description": "A step-by-step guide to build your own AI agent.",
-            "url": "https://github.com/czl9707/build-your-own-openclaw",
-            "stars": 463,
-            "forks": 66,
             "score": 55
         },
         {
@@ -293,7 +293,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "my-claude-utils/clsh",
             "description": "Access your terminal and your AI agent from any device \u2014 phone, tablet, desktop.",
             "url": "https://github.com/my-claude-utils/clsh",
-            "stars": 340,
+            "stars": 341,
             "forks": 31,
             "score": 51
         },
@@ -326,7 +326,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "wentorai/Research-Claw",
             "description": "In the AI era, why can't everyone be a Principal Investigator?",
             "url": "https://github.com/wentorai/Research-Claw",
-            "stars": 370,
+            "stars": 373,
             "forks": 55,
             "score": 48
         },
@@ -404,17 +404,6 @@ const ALPHA_DATA_V2 = {
             "description": "TruthMarket is a web connected prediction market where outcomes are resolved using AI instead of traditional oracles. Users can create markets on real world events (e.g. BTC price targets), place bets, and rely on AI powered intelligent contracts to determine the outcome",
             "url": "https://github.com/shigolee/TruthMarket-AI-Powered-Prediction-Market",
             "stars": 1,
-            "forks": 0,
-            "score": 30
-        },
-        {
-            "main_cat": "Prediction Markets",
-            "sub_cat": null,
-            "name": "zkLoom",
-            "full_name": "harsh-mishra123/zkLoom",
-            "description": "Zero-knowledge prediction markets. Bet on anything, reveal nothing until it's over. No front-running, no bias \u2014 just pure cryptographic truth.",
-            "url": "https://github.com/harsh-mishra123/zkLoom",
-            "stars": 0,
             "forks": 0,
             "score": 30
         },
@@ -630,6 +619,17 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
+            "name": "soroban-crosschain-relayer",
+            "full_name": "Waves-Projects-Stellar/soroban-crosschain-relayer",
+            "description": "A cross-chain relayer protocol enabling interoperability between Soroban and external blockchains.",
+            "url": "https://github.com/Waves-Projects-Stellar/soroban-crosschain-relayer",
+            "stars": 0,
+            "forks": 0,
+            "score": 30
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
             "name": "Polkadot-Staking.github.io",
             "full_name": "Polkadot-Staking/Polkadot-Staking.github.io",
             "description": "Polkadot is a new generation blockchain protocol that simplifies cross-chain interoperability and communication by bringing multiple blockchains into one network. ",
@@ -739,5 +739,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/market/solana-up-or-down-march-24-2026-4am-et"
         }
     ],
-    "timestamp": "2026-03-22 12:37"
+    "timestamp": "2026-03-22 13:39"
 };
