@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "jackwener/opencli",
             "description": "Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Transform any website, Electron app, or local binary into a standardized command-line interface. Built for AI Agents to discover, learn, and execute tools seamlessly via a unified AGENT.md integration.",
             "url": "https://github.com/jackwener/opencli",
-            "stars": 4287,
-            "forks": 365,
+            "stars": 4300,
+            "forks": 366,
             "score": 99
         },
         {
@@ -29,7 +29,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Narcooo/inkos",
             "description": "Autonomous novel writing CLI agent \u2014 AI agents write, audit, and revise novels with human review gates",
             "url": "https://github.com/Narcooo/inkos",
-            "stars": 2073,
+            "stars": 2074,
             "forks": 429,
             "score": 99
         },
@@ -40,8 +40,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "nidhinjs/prompt-master",
             "description": "A Claude skill that writes the accurate prompts for any AI tool. Zero tokens or credits wasted. Full context and memory retention",
             "url": "https://github.com/nidhinjs/prompt-master",
-            "stars": 2038,
-            "forks": 145,
+            "stars": 2042,
+            "forks": 146,
             "score": 99
         },
         {
@@ -51,19 +51,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "zerobootdev/zeroboot",
             "description": "Sub-millisecond VM sandboxes for AI agents via copy-on-write forking",
             "url": "https://github.com/zerobootdev/zeroboot",
-            "stars": 1737,
-            "forks": 80,
-            "score": 99
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "atlas-gic",
-            "full_name": "chrisworsey55/atlas-gic",
-            "description": "ATLAS by General Intelligence Capital \u2014 Self-improving AI trading agents using Karpathy-style autoresearch",
-            "url": "https://github.com/chrisworsey55/atlas-gic",
-            "stars": 974,
-            "forks": 209,
+            "stars": 1740,
+            "forks": 81,
             "score": 99
         },
         {
@@ -73,7 +62,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "mattprusak/autoresearch-genealogy",
             "description": "Structured prompts, vault templates, and archive guides for AI-assisted genealogy research. Built for Claude Code.",
             "url": "https://github.com/mattprusak/autoresearch-genealogy",
-            "stars": 871,
+            "stars": 873,
             "forks": 72,
             "score": 99
         },
@@ -84,7 +73,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "truongduy2611/app-store-preflight-skills",
             "description": "AI agent skill to scan iOS/macOS projects for App Store rejection patterns before submission",
             "url": "https://github.com/truongduy2611/app-store-preflight-skills",
-            "stars": 817,
+            "stars": 820,
             "forks": 41,
             "score": 99
         },
@@ -111,6 +100,17 @@ const ALPHA_DATA_V2 = {
             "score": 95
         },
         {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "atlas-gic",
+            "full_name": "chrisworsey55/atlas-gic",
+            "description": "ATLAS by General Intelligence Capital \u2014 Self-improving AI trading agents using Karpathy-style autoresearch",
+            "url": "https://github.com/chrisworsey55/atlas-gic",
+            "stars": 974,
+            "forks": 209,
+            "score": 94
+        },
+        {
             "main_cat": "zk / Privacy / zkML",
             "sub_cat": null,
             "name": "gnark-crypto",
@@ -128,7 +128,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "wangziqi06/724-office",
             "description": "7/24 Office \u2014 Self-evolving AI Agent system. 26 tools, 3500 lines pure Python, MCP/Skill plugins, three-layer memory, self-repair, 24/7 production.",
             "url": "https://github.com/wangziqi06/724-office",
-            "stars": 585,
+            "stars": 590,
             "forks": 66,
             "score": 83
         },
@@ -150,7 +150,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "lightningpixel/modly",
             "description": "Desktop app to generate 3D models from images using local AI \u2014 runs entirely on your GPU",
             "url": "https://github.com/lightningpixel/modly",
-            "stars": 546,
+            "stars": 548,
             "forks": 62,
             "score": 79
         },
@@ -183,9 +183,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "NateBJones-Projects/OB1",
             "description": "Open Brain \u2014 The infrastructure layer for your thinking. One database, one AI gateway, one chat channel \u2014 any AI plugs in. No middleware, no SaaS.",
             "url": "https://github.com/NateBJones-Projects/OB1",
-            "stars": 644,
-            "forks": 104,
-            "score": 67
+            "stars": 651,
+            "forks": 105,
+            "score": 68
         },
         {
             "main_cat": "AI",
@@ -205,7 +205,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "twostraws/Swift-Agent-Skills",
             "description": "A curated directory of open-source AI agent skills for Swift and Apple platform development.",
             "url": "https://github.com/twostraws/Swift-Agent-Skills",
-            "stars": 786,
+            "stars": 787,
             "forks": 20,
             "score": 60
         },
@@ -216,7 +216,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "zevorn/rt-claw",
             "description": "Making AI Assistants Cheap Again!",
             "url": "https://github.com/zevorn/rt-claw",
-            "stars": 649,
+            "stars": 650,
             "forks": 46,
             "score": 59
         },
@@ -227,7 +227,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "psi-oss/get-physics-done",
             "description": "The first open-source agentic AI physicist, by Physical Superintelligence PBC (PSI).",
             "url": "https://github.com/psi-oss/get-physics-done",
-            "stars": 538,
+            "stars": 539,
             "forks": 81,
             "score": 56
         },
@@ -245,6 +245,17 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
+            "name": "build-your-own-openclaw",
+            "full_name": "czl9707/build-your-own-openclaw",
+            "description": "A step-by-step guide to build your own AI agent.",
+            "url": "https://github.com/czl9707/build-your-own-openclaw",
+            "stars": 474,
+            "forks": 66,
+            "score": 56
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
             "name": "AIComicBuilder",
             "full_name": "twwch/AIComicBuilder",
             "description": "  AI-powered animated comic generator \u2014 transform scripts into fully animated videos with AI-driven character design,    storyboarding, and video synthesis.  ",
@@ -256,23 +267,12 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "build-your-own-openclaw",
-            "full_name": "czl9707/build-your-own-openclaw",
-            "description": "A step-by-step guide to build your own AI agent.",
-            "url": "https://github.com/czl9707/build-your-own-openclaw",
-            "stars": 473,
-            "forks": 66,
-            "score": 56
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
             "name": "posterskill",
             "full_name": "ethanweber/posterskill",
             "description": "AI-assisted academic posters.",
             "url": "https://github.com/ethanweber/posterskill",
-            "stars": 405,
-            "forks": 30,
+            "stars": 406,
+            "forks": 31,
             "score": 56
         },
         {
@@ -293,8 +293,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "peters/horizon",
             "description": "GPU-accelerated spatial terminal observatory \u2014 manage terminals, AI agents, and dev tools on an infinite canvas",
             "url": "https://github.com/peters/horizon",
-            "stars": 361,
-            "forks": 15,
+            "stars": 363,
+            "forks": 16,
             "score": 51
         },
         {
@@ -326,7 +326,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "LeDat98/NexusRAG",
             "description": "Hybrid RAG system combining vector search, knowledge graph (LightRAG), and cross-encoder reranking \u2014 with Docling document parsing, visual intelligence (image/table captioning), agentic streaming chat, and inline citations. Powered by Gemini or local Ollama models.",
             "url": "https://github.com/LeDat98/NexusRAG",
-            "stars": 208,
+            "stars": 209,
             "forks": 47,
             "score": 49
         },
@@ -348,7 +348,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "epiral/agent-clip",
             "description": "AI Agent as a Pinix Clip \u2014 agentic loop with memory, tools, and vision",
             "url": "https://github.com/epiral/agent-clip",
-            "stars": 361,
+            "stars": 362,
             "forks": 24,
             "score": 44
         },
@@ -361,7 +361,7 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/ncdrone/rustane",
             "stars": 137,
             "forks": 16,
-            "score": 37
+            "score": 36
         },
         {
             "main_cat": "AI",
@@ -370,7 +370,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "nvidia-nemoclaw/NemoClaw",
             "description": "\ud83e\udd9e OpenClaw & NemoClaw: Lightweight Installer. 1-click cross-platform installer for OpenClaw & NVIDIA NemoClaw. Run secure, sandboxed AI agents on Windows and macOS with seamless AMD/Intel GPU emulation and a bundled Nemotron-3-Super-120B model.",
             "url": "https://github.com/nvidia-nemoclaw/NemoClaw",
-            "stars": 42,
+            "stars": 43,
             "forks": 8,
             "score": 35
         },
@@ -718,6 +718,20 @@ const ALPHA_DATA_V2 = {
     ],
     "news": [
         {
+            "title": "Performance Testing of ChaCha20-Poly1305 for Internet of Things and Industrial Control System devices",
+            "source": "ArXiv",
+            "type": "Research Alpha",
+            "color": "text-indigo-600",
+            "url": "http://arxiv.org/abs/2603.19150v1"
+        },
+        {
+            "title": "Implicit Patterns in LLM-Based Binary Analysis",
+            "source": "ArXiv",
+            "type": "Research Alpha",
+            "color": "text-indigo-600",
+            "url": "http://arxiv.org/abs/2603.19138v1"
+        },
+        {
             "title": "Bitcoin above 67,600 on March 22, 1PM ET? (Probability: 100%)",
             "source": "Polymarket",
             "type": "Expectation",
@@ -725,5 +739,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/market/bitcoin-above-67600-on-march-22-2026-1pm-et"
         }
     ],
-    "timestamp": "2026-03-22 18:29"
+    "timestamp": "2026-03-22 19:21"
 };
