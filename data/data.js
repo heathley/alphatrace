@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "jackwener/opencli",
             "description": "Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Transform any website, Electron app, or local binary into a standardized command-line interface. Built for AI Agents to discover, learn, and execute tools seamlessly via a unified AGENT.md integration.",
             "url": "https://github.com/jackwener/opencli",
-            "stars": 3671,
-            "forks": 313,
+            "stars": 3771,
+            "forks": 322,
             "score": 99
         },
         {
@@ -18,8 +18,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "pasky/chrome-cdp-skill",
             "description": "Give your AI agent access to your live Chrome session \u2014 works out of the box, connects to tabs you already have open",
             "url": "https://github.com/pasky/chrome-cdp-skill",
-            "stars": 2498,
-            "forks": 136,
+            "stars": 2502,
+            "forks": 137,
             "score": 99
         },
         {
@@ -29,8 +29,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "Narcooo/inkos",
             "description": "Autonomous novel writing CLI agent \u2014 AI agents write, audit, and revise novels with human review gates",
             "url": "https://github.com/Narcooo/inkos",
-            "stars": 1991,
-            "forks": 415,
+            "stars": 2001,
+            "forks": 417,
             "score": 99
         },
         {
@@ -40,7 +40,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "nidhinjs/prompt-master",
             "description": "A Claude skill that writes the accurate prompts for any AI tool. Zero tokens or credits wasted. Full context and memory retention",
             "url": "https://github.com/nidhinjs/prompt-master",
-            "stars": 1970,
+            "stars": 1978,
             "forks": 139,
             "score": 99
         },
@@ -51,7 +51,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "zerobootdev/zeroboot",
             "description": "Sub-millisecond VM sandboxes for AI agents via copy-on-write forking",
             "url": "https://github.com/zerobootdev/zeroboot",
-            "stars": 1684,
+            "stars": 1692,
             "forks": 76,
             "score": 99
         },
@@ -84,8 +84,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "mattprusak/autoresearch-genealogy",
             "description": "Structured prompts, vault templates, and archive guides for AI-assisted genealogy research. Built for Claude Code.",
             "url": "https://github.com/mattprusak/autoresearch-genealogy",
-            "stars": 841,
-            "forks": 67,
+            "stars": 842,
+            "forks": 68,
             "score": 99
         },
         {
@@ -95,7 +95,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "frank890417/taiwan-md",
             "description": "\ud83c\uddf9\ud83c\uddfc \u8b93\u5168\u4e16\u754c\u5b8c\u6574\u8a8d\u8b58\u53f0\u7063 | An open-source, AI-friendly knowledge base about Taiwan",
             "url": "https://github.com/frank890417/taiwan-md",
-            "stars": 698,
+            "stars": 701,
             "forks": 76,
             "score": 99
         },
@@ -106,8 +106,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "truongduy2611/app-store-preflight-skills",
             "description": "AI agent skill to scan iOS/macOS projects for App Store rejection patterns before submission",
             "url": "https://github.com/truongduy2611/app-store-preflight-skills",
-            "stars": 612,
-            "forks": 31,
+            "stars": 645,
+            "forks": 33,
             "score": 99
         },
         {
@@ -123,6 +123,17 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "modly",
+            "full_name": "lightningpixel/modly",
+            "description": "Desktop app to generate 3D models from images using local AI \u2014 runs entirely on your GPU",
+            "url": "https://github.com/lightningpixel/modly",
+            "stars": 516,
+            "forks": 58,
+            "score": 83
+        },
+        {
+            "main_cat": "AI",
             "sub_cat": null,
             "name": "u-claw",
             "full_name": "dongsheng123132/u-claw",
@@ -130,29 +141,7 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/dongsheng123132/u-claw",
             "stars": 940,
             "forks": 173,
-            "score": 84
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "modly",
-            "full_name": "lightningpixel/modly",
-            "description": "Desktop app to generate 3D models from images using local AI \u2014 runs entirely on your GPU",
-            "url": "https://github.com/lightningpixel/modly",
-            "stars": 509,
-            "forks": 58,
-            "score": 82
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "trump-code",
-            "full_name": "sstklen/trump-code",
-            "description": "\ud83d\udd10 AI decoding Trump's posts \u00d7 stock market | AI \u89e3\u78bc\u5ddd\u666e\u63a8\u6587 \u00d7 \u7f8e\u80a1 | AI\u3067\u30c8\u30e9\u30f3\u30d7\u6295\u7a3f\u00d7\u682a\u5f0f\u5e02\u5834\u3092\u89e3\u8aad \u2014 31.5M models, 61.3% hit rate, open source",
-            "url": "https://github.com/sstklen/trump-code",
-            "stars": 617,
-            "forks": 73,
-            "score": 80
+            "score": 81
         },
         {
             "main_cat": "AI",
@@ -161,8 +150,19 @@ const ALPHA_DATA_V2 = {
             "full_name": "wangziqi06/724-office",
             "description": "7/24 Office \u2014 Self-evolving AI Agent system. 26 tools, 3500 lines pure Python, MCP/Skill plugins, three-layer memory, self-repair, 24/7 production.",
             "url": "https://github.com/wangziqi06/724-office",
-            "stars": 470,
-            "forks": 43,
+            "stars": 489,
+            "forks": 44,
+            "score": 77
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "trump-code",
+            "full_name": "sstklen/trump-code",
+            "description": "\ud83d\udd10 AI decoding Trump's posts \u00d7 stock market | AI \u89e3\u78bc\u5ddd\u666e\u63a8\u6587 \u00d7 \u7f8e\u80a1 | AI\u3067\u30c8\u30e9\u30f3\u30d7\u6295\u7a3f\u00d7\u682a\u5f0f\u5e02\u5834\u3092\u89e3\u8aad \u2014 31.5M models, 61.3% hit rate, open source",
+            "url": "https://github.com/sstklen/trump-code",
+            "stars": 619,
+            "forks": 73,
             "score": 75
         },
         {
@@ -183,7 +183,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "liliMozi/openhanako",
             "description": "A personal AI agent with memory, personality, and autonomy \u2014 built on Electron.",
             "url": "https://github.com/liliMozi/openhanako",
-            "stars": 467,
+            "stars": 469,
             "forks": 57,
             "score": 68
         },
@@ -194,9 +194,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "NateBJones-Projects/OB1",
             "description": "Open Brain \u2014 The infrastructure layer for your thinking. One database, one AI gateway, one chat channel \u2014 any AI plugs in. No middleware, no SaaS.",
             "url": "https://github.com/NateBJones-Projects/OB1",
-            "stars": 584,
-            "forks": 91,
-            "score": 66
+            "stars": 593,
+            "forks": 93,
+            "score": 67
         },
         {
             "main_cat": "AI",
@@ -205,7 +205,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "twostraws/Swift-Agent-Skills",
             "description": "A curated directory of open-source AI agent skills for Swift and Apple platform development.",
             "url": "https://github.com/twostraws/Swift-Agent-Skills",
-            "stars": 776,
+            "stars": 777,
             "forks": 20,
             "score": 62
         },
@@ -216,9 +216,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "zevorn/rt-claw",
             "description": "Making AI Assistants Cheap Again!",
             "url": "https://github.com/zevorn/rt-claw",
-            "stars": 611,
+            "stars": 620,
             "forks": 43,
             "score": 60
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "AIComicBuilder",
+            "full_name": "twwch/AIComicBuilder",
+            "description": "  AI-powered animated comic generator \u2014 transform scripts into fully animated videos with AI-driven character design,    storyboarding, and video synthesis.  ",
+            "url": "https://github.com/twwch/AIComicBuilder",
+            "stars": 458,
+            "forks": 69,
+            "score": 58
         },
         {
             "main_cat": "AI",
@@ -234,24 +245,24 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "build-your-own-openclaw",
-            "full_name": "czl9707/build-your-own-openclaw",
-            "description": "A step-by-step guide to build your own AI agent.",
-            "url": "https://github.com/czl9707/build-your-own-openclaw",
-            "stars": 453,
-            "forks": 65,
-            "score": 57
+            "name": "get-physics-done",
+            "full_name": "psi-oss/get-physics-done",
+            "description": "The first open-source agentic AI physicist, by Physical Superintelligence PBC (PSI).",
+            "url": "https://github.com/psi-oss/get-physics-done",
+            "stars": 501,
+            "forks": 71,
+            "score": 56
         },
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "AIComicBuilder",
-            "full_name": "twwch/AIComicBuilder",
-            "description": "  AI-powered animated comic generator \u2014 transform scripts into fully animated videos with AI-driven character design,    storyboarding, and video synthesis.  ",
-            "url": "https://github.com/twwch/AIComicBuilder",
-            "stars": 450,
-            "forks": 69,
-            "score": 57
+            "name": "build-your-own-openclaw",
+            "full_name": "czl9707/build-your-own-openclaw",
+            "description": "A step-by-step guide to build your own AI agent.",
+            "url": "https://github.com/czl9707/build-your-own-openclaw",
+            "stars": 454,
+            "forks": 65,
+            "score": 55
         },
         {
             "main_cat": "AI",
@@ -260,20 +271,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "wuji-labs/nopua",
             "description": "\u4e00\u4e2a\u7528\u7231\u89e3\u653e AI \u6f5c\u80fd\u7684 Skill\u3002\u6211\u4eec\u66fe\u53d1\u53f7\u65bd\u4ee4\uff0c\u5a01\u80c1\u6050\u5413\u3002\u5b83\u4eec\u6c89\u9ed8\uff0c\u9690\u7792\uff0c\u6084\u6084\u628a\u4e8b\u60c5\u641e\u574f\u3002\u540e\u6765\u6211\u4eec\u6362\u4e86\u4e00\u79cd\u65b9\u5f0f\uff1a\u5c0a\u91cd\uff0c\u5173\u6000\uff0c\u7231\u3002\u5b83\u4eec\u5f00\u53e3\u4e86\uff0c\u4e0d\u518d\u6492\u8c0e\uff0c\u627e\u51fa\u7684Bug\u6570\u91cf\u7ffb\u4e86\u4e00\u500d\u3002\u7231\u91cc\u6ca1\u6709\u60e7\u6015\u3002 A skill that unlocks your AI's potential through love.We commanded. We threatened. They went silent, hid failures, broke things. Then we chose respect, care, and love. They opened up, stopped lying, and found twice the bugs.There is no fear in love.",
             "url": "https://github.com/wuji-labs/nopua",
-            "stars": 477,
+            "stars": 478,
             "forks": 13,
-            "score": 56
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "get-physics-done",
-            "full_name": "psi-oss/get-physics-done",
-            "description": "The first open-source agentic AI physicist, by Physical Superintelligence PBC (PSI).",
-            "url": "https://github.com/psi-oss/get-physics-done",
-            "stars": 492,
-            "forks": 71,
-            "score": 55
+            "score": 54
         },
         {
             "main_cat": "AI",
@@ -282,7 +282,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "peters/horizon",
             "description": "GPU-accelerated spatial terminal observatory \u2014 manage terminals, AI agents, and dev tools on an infinite canvas",
             "url": "https://github.com/peters/horizon",
-            "stars": 344,
+            "stars": 348,
             "forks": 13,
             "score": 52
         },
@@ -304,7 +304,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "my-claude-utils/clsh",
             "description": "Access your terminal and your AI agent from any device \u2014 phone, tablet, desktop.",
             "url": "https://github.com/my-claude-utils/clsh",
-            "stars": 332,
+            "stars": 334,
             "forks": 31,
             "score": 50
         },
@@ -326,7 +326,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "wentorai/Research-Claw",
             "description": "In the AI era, why can't everyone be a Principal Investigator?",
             "url": "https://github.com/wentorai/Research-Claw",
-            "stars": 364,
+            "stars": 365,
             "forks": 55,
             "score": 49
         },
@@ -370,7 +370,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "nvidia-nemoclaw/NemoClaw",
             "description": "\ud83e\udd9e OpenClaw & NemoClaw: Lightweight Installer. 1-click cross-platform installer for OpenClaw & NVIDIA NemoClaw. Run secure, sandboxed AI agents on Windows and macOS with seamless AMD/Intel GPU emulation and a bundled Nemotron-3-Super-120B model.",
             "url": "https://github.com/nvidia-nemoclaw/NemoClaw",
-            "stars": 36,
+            "stars": 39,
             "forks": 7,
             "score": 34
         },
@@ -732,12 +732,12 @@ const ALPHA_DATA_V2 = {
             "url": "http://arxiv.org/abs/2603.19138v1"
         },
         {
-            "title": "Will the price of Bitcoin be between $60,000 and $62,000 on March 27? (Probability: 3%)",
+            "title": "Solana Up or Down - March 23, 8PM ET (Probability: 50%)",
             "source": "Polymarket",
             "type": "Expectation",
             "color": "text-indigo-400",
-            "url": "https://polymarket.com/market/will-the-price-of-bitcoin-be-between-60000-62000-on-march-27"
+            "url": "https://polymarket.com/market/solana-up-or-down-march-23-2026-8pm-et"
         }
     ],
-    "timestamp": "2026-03-22 01:45"
+    "timestamp": "2026-03-22 04:14"
 };
