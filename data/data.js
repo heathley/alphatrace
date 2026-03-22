@@ -7,7 +7,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "jackwener/opencli",
             "description": "Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Transform any website, Electron app, or local binary into a standardized command-line interface. Built for AI Agents to discover, learn, and execute tools seamlessly via a unified AGENT.md integration.",
             "url": "https://github.com/jackwener/opencli",
-            "stars": 4308,
+            "stars": 4315,
             "forks": 367,
             "score": 99
         },
@@ -40,7 +40,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "nidhinjs/prompt-master",
             "description": "A Claude skill that writes the accurate prompts for any AI tool. Zero tokens or credits wasted. Full context and memory retention",
             "url": "https://github.com/nidhinjs/prompt-master",
-            "stars": 2048,
+            "stars": 2055,
             "forks": 146,
             "score": 99
         },
@@ -51,7 +51,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "zerobootdev/zeroboot",
             "description": "Sub-millisecond VM sandboxes for AI agents via copy-on-write forking",
             "url": "https://github.com/zerobootdev/zeroboot",
-            "stars": 1742,
+            "stars": 1748,
             "forks": 81,
             "score": 99
         },
@@ -73,7 +73,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "truongduy2611/app-store-preflight-skills",
             "description": "AI agent skill to scan iOS/macOS projects for App Store rejection patterns before submission",
             "url": "https://github.com/truongduy2611/app-store-preflight-skills",
-            "stars": 820,
+            "stars": 822,
             "forks": 41,
             "score": 99
         },
@@ -96,7 +96,7 @@ const ALPHA_DATA_V2 = {
             "description": "\ud83c\uddf9\ud83c\uddfc \u8b93\u5168\u4e16\u754c\u5b8c\u6574\u8a8d\u8b58\u53f0\u7063 | An open-source, AI-friendly knowledge base about Taiwan",
             "url": "https://github.com/frank890417/taiwan-md",
             "stars": 724,
-            "forks": 80,
+            "forks": 81,
             "score": 95
         },
         {
@@ -107,7 +107,7 @@ const ALPHA_DATA_V2 = {
             "description": "ATLAS by General Intelligence Capital \u2014 Self-improving AI trading agents using Karpathy-style autoresearch",
             "url": "https://github.com/chrisworsey55/atlas-gic",
             "stars": 975,
-            "forks": 209,
+            "forks": 210,
             "score": 94
         },
         {
@@ -128,7 +128,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "wangziqi06/724-office",
             "description": "7/24 Office \u2014 Self-evolving AI Agent system. 26 tools, 3500 lines pure Python, MCP/Skill plugins, three-layer memory, self-repair, 24/7 production.",
             "url": "https://github.com/wangziqi06/724-office",
-            "stars": 594,
+            "stars": 598,
             "forks": 66,
             "score": 83
         },
@@ -139,7 +139,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "dongsheng123132/u-claw",
             "description": "\ud83e\udd9e U-Claw \u867e\u76d8 - OpenClaw AI \u52a9\u624b\u79bb\u7ebf\u5b89\u88c5 U \u76d8 | \u63d0\u4f9b\u8fdc\u7a0b\u7ef4\u62a4\u00b7\u5b9a\u5236\u5f00\u53d1\u00b7\u4f01\u4e1a\u79c1\u6709\u5316\u90e8\u7f72\u670d\u52a1 | Remote support & custom AI development",
             "url": "https://github.com/dongsheng123132/u-claw",
-            "stars": 951,
+            "stars": 950,
             "forks": 175,
             "score": 81
         },
@@ -150,7 +150,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "lightningpixel/modly",
             "description": "Desktop app to generate 3D models from images using local AI \u2014 runs entirely on your GPU",
             "url": "https://github.com/lightningpixel/modly",
-            "stars": 553,
+            "stars": 555,
             "forks": 62,
             "score": 80
         },
@@ -183,8 +183,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "NateBJones-Projects/OB1",
             "description": "Open Brain \u2014 The infrastructure layer for your thinking. One database, one AI gateway, one chat channel \u2014 any AI plugs in. No middleware, no SaaS.",
             "url": "https://github.com/NateBJones-Projects/OB1",
-            "stars": 653,
-            "forks": 106,
+            "stars": 657,
+            "forks": 107,
             "score": 68
         },
         {
@@ -205,20 +205,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "twostraws/Swift-Agent-Skills",
             "description": "A curated directory of open-source AI agent skills for Swift and Apple platform development.",
             "url": "https://github.com/twostraws/Swift-Agent-Skills",
-            "stars": 788,
+            "stars": 789,
             "forks": 20,
             "score": 61
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "rt-claw",
-            "full_name": "zevorn/rt-claw",
-            "description": "Making AI Assistants Cheap Again!",
-            "url": "https://github.com/zevorn/rt-claw",
-            "stars": 651,
-            "forks": 46,
-            "score": 59
         },
         {
             "main_cat": "AI",
@@ -227,8 +216,19 @@ const ALPHA_DATA_V2 = {
             "full_name": "Shpigford/chops",
             "description": "Your AI agent skills, finally organized. A macOS app to browse, edit, and manage skills across Claude Code, Cursor, Codex, Windsurf, and Amp.",
             "url": "https://github.com/Shpigford/chops",
-            "stars": 342,
-            "forks": 18,
+            "stars": 347,
+            "forks": 19,
+            "score": 60
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "rt-claw",
+            "full_name": "zevorn/rt-claw",
+            "description": "Making AI Assistants Cheap Again!",
+            "url": "https://github.com/zevorn/rt-claw",
+            "stars": 654,
+            "forks": 46,
             "score": 59
         },
         {
@@ -239,7 +239,7 @@ const ALPHA_DATA_V2 = {
             "description": "The first open-source agentic AI physicist, by Physical Superintelligence PBC (PSI).",
             "url": "https://github.com/psi-oss/get-physics-done",
             "stars": 541,
-            "forks": 81,
+            "forks": 82,
             "score": 57
         },
         {
@@ -260,7 +260,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "czl9707/build-your-own-openclaw",
             "description": "A step-by-step guide to build your own AI agent.",
             "url": "https://github.com/czl9707/build-your-own-openclaw",
-            "stars": 475,
+            "stars": 476,
             "forks": 66,
             "score": 56
         },
@@ -293,7 +293,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "peters/horizon",
             "description": "GPU-accelerated spatial terminal observatory \u2014 manage terminals, AI agents, and dev tools on an infinite canvas",
             "url": "https://github.com/peters/horizon",
-            "stars": 364,
+            "stars": 367,
             "forks": 16,
             "score": 51
         },
@@ -304,7 +304,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "my-claude-utils/clsh",
             "description": "Access your terminal and your AI agent from any device \u2014 phone, tablet, desktop.",
             "url": "https://github.com/my-claude-utils/clsh",
-            "stars": 344,
+            "stars": 345,
             "forks": 31,
             "score": 51
         },
@@ -326,7 +326,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "vasilytrofimchuk/domainsearcher-app",
             "description": "Score and choose the best domain name for your startup \u2014 AI-powered generation, real-time availability, and multi-dimensional scoring (LEN, PRO, MEM, BRD, FIT). Free, no signup.",
             "url": "https://github.com/vasilytrofimchuk/domainsearcher-app",
-            "stars": 470,
+            "stars": 471,
             "forks": 9,
             "score": 48
         },
@@ -359,7 +359,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "ncdrone/rustane",
             "description": "Rust-native hybrid training & inference engine for Apple Neural Engine + Metal GPU",
             "url": "https://github.com/ncdrone/rustane",
-            "stars": 137,
+            "stars": 139,
             "forks": 16,
             "score": 36
         },
@@ -372,7 +372,7 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/nvidia-nemoclaw/NemoClaw",
             "stars": 43,
             "forks": 9,
-            "score": 35
+            "score": 34
         },
         {
             "main_cat": "AI",
@@ -739,5 +739,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/market/bitcoin-above-67600-on-march-22-2026-1pm-et"
         }
     ],
-    "timestamp": "2026-03-22 20:19"
+    "timestamp": "2026-03-22 21:20"
 };
