@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "jackwener/opencli",
             "description": "Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Transform any website, Electron app, or local binary into a standardized command-line interface. Built for AI Agents to discover, learn, and execute tools seamlessly via a unified AGENT.md integration.",
             "url": "https://github.com/jackwener/opencli",
-            "stars": 5177,
-            "forks": 426,
+            "stars": 5190,
+            "forks": 428,
             "score": 99
         },
         {
@@ -29,8 +29,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "Narcooo/inkos",
             "description": "Autonomous novel writing CLI agent \u2014 AI agents write, audit, and revise novels with human review gates",
             "url": "https://github.com/Narcooo/inkos",
-            "stars": 2212,
-            "forks": 451,
+            "stars": 2213,
+            "forks": 452,
             "score": 99
         },
         {
@@ -40,7 +40,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "nidhinjs/prompt-master",
             "description": "A Claude skill that writes the accurate prompts for any AI tool. Zero tokens or credits wasted. Full context and memory retention",
             "url": "https://github.com/nidhinjs/prompt-master",
-            "stars": 2157,
+            "stars": 2160,
             "forks": 158,
             "score": 99
         },
@@ -51,7 +51,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "zerobootdev/zeroboot",
             "description": "Sub-millisecond VM sandboxes for AI agents via copy-on-write forking",
             "url": "https://github.com/zerobootdev/zeroboot",
-            "stars": 1824,
+            "stars": 1826,
             "forks": 85,
             "score": 99
         },
@@ -62,7 +62,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "mattprusak/autoresearch-genealogy",
             "description": "Structured prompts, vault templates, and archive guides for AI-assisted genealogy research. Built for Claude Code.",
             "url": "https://github.com/mattprusak/autoresearch-genealogy",
-            "stars": 898,
+            "stars": 900,
             "forks": 75,
             "score": 99
         },
@@ -84,7 +84,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "frank890417/taiwan-md",
             "description": "\ud83c\uddf9\ud83c\uddfc \u8b93\u5168\u4e16\u754c\u5b8c\u6574\u8a8d\u8b58\u53f0\u7063 | An open-source, AI-friendly knowledge base about Taiwan",
             "url": "https://github.com/frank890417/taiwan-md",
-            "stars": 797,
+            "stars": 798,
             "forks": 94,
             "score": 95
         },
@@ -106,7 +106,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "wangziqi06/724-office",
             "description": "7/24 Office \u2014 Self-evolving AI Agent system. 26 tools, 3500 lines pure Python, MCP/Skill plugins, three-layer memory, self-repair, 24/7 production.",
             "url": "https://github.com/wangziqi06/724-office",
-            "stars": 681,
+            "stars": 685,
             "forks": 76,
             "score": 84
         },
@@ -117,8 +117,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "lightningpixel/modly",
             "description": "Desktop app to generate 3D models from images using local AI \u2014 runs entirely on your GPU",
             "url": "https://github.com/lightningpixel/modly",
-            "stars": 637,
-            "forks": 67,
+            "stars": 641,
+            "forks": 68,
             "score": 80
         },
         {
@@ -139,8 +139,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "NateBJones-Projects/OB1",
             "description": "Open Brain \u2014 The infrastructure layer for your thinking. One database, one AI gateway, one chat channel \u2014 any AI plugs in. No middleware, no SaaS.",
             "url": "https://github.com/NateBJones-Projects/OB1",
-            "stars": 706,
-            "forks": 117,
+            "stars": 708,
+            "forks": 116,
             "score": 69
         },
         {
@@ -161,7 +161,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Shpigford/chops",
             "description": "Your AI agent skills, finally organized. A macOS app to browse, edit, and manage skills across Claude Code, Cursor, Codex, Windsurf, and Amp.",
             "url": "https://github.com/Shpigford/chops",
-            "stars": 499,
+            "stars": 501,
             "forks": 26,
             "score": 67
         },
@@ -183,7 +183,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "twostraws/Swift-Agent-Skills",
             "description": "A curated directory of open-source AI agent skills for Swift and Apple platform development.",
             "url": "https://github.com/twostraws/Swift-Agent-Skills",
-            "stars": 803,
+            "stars": 804,
             "forks": 22,
             "score": 59
         },
@@ -194,7 +194,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "zevorn/rt-claw",
             "description": "Making AI Assistants Cheap Again!",
             "url": "https://github.com/zevorn/rt-claw",
-            "stars": 709,
+            "stars": 710,
             "forks": 47,
             "score": 59
         },
@@ -249,8 +249,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "ethanweber/posterskill",
             "description": "AI-assisted academic posters.",
             "url": "https://github.com/ethanweber/posterskill",
-            "stars": 410,
-            "forks": 33,
+            "stars": 412,
+            "forks": 34,
             "score": 54
         },
         {
@@ -277,6 +277,17 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
+            "sub_cat": null,
+            "name": "AI-Search-Hub",
+            "full_name": "minsight-ai-info/AI-Search-Hub",
+            "description": "One Query. All Search Skill. \u805a\u5408 Gemini\u3001Grok\u3001\u8c46\u5305\u3001\u5143\u5b9d\u7b49\u5e73\u53f0\u539f\u751f AI \u641c\u7d22\u80fd\u529b\uff0c\u514d\u8d39\u83b7\u53d6\u79d1\u6280\u8d8b\u52bf\u3001\u884c\u4e1a\u8206\u60c5\u3001\u70ed\u70b9\u8ffd\u8e2a\u3001\u65c5\u884c\u89c4\u5212\u3001\u65e5\u5e38\u95ee\u9898\u7edf\u4e00\u63a5\u8fdb\u81ea\u5df1\u7684 Agent \u4e0e\u5de5\u4f5c\u6d41\uff0c\u6307\u5b9a\u94fe\u63a5\u514d\u8d39\u722c\u53d6",
+            "url": "https://github.com/minsight-ai-info/AI-Search-Hub",
+            "stars": 400,
+            "forks": 26,
+            "score": 48
+        },
+        {
+            "main_cat": "AI",
             "sub_cat": "AI General",
             "name": "NexusRAG",
             "full_name": "LeDat98/NexusRAG",
@@ -300,22 +311,11 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "AI-Search-Hub",
-            "full_name": "minsight-ai-info/AI-Search-Hub",
-            "description": "One Query. All Search Skill. \u805a\u5408 Gemini\u3001Grok\u3001\u8c46\u5305\u3001\u5143\u5b9d\u7b49\u5e73\u53f0\u539f\u751f AI \u641c\u7d22\u80fd\u529b\uff0c\u514d\u8d39\u83b7\u53d6\u79d1\u6280\u8d8b\u52bf\u3001\u884c\u4e1a\u8206\u60c5\u3001\u70ed\u70b9\u8ffd\u8e2a\u3001\u65c5\u884c\u89c4\u5212\u3001\u65e5\u5e38\u95ee\u9898\u7edf\u4e00\u63a5\u8fdb\u81ea\u5df1\u7684 Agent \u4e0e\u5de5\u4f5c\u6d41\uff0c\u6307\u5b9a\u94fe\u63a5\u514d\u8d39\u722c\u53d6",
-            "url": "https://github.com/minsight-ai-info/AI-Search-Hub",
-            "stars": 399,
-            "forks": 26,
-            "score": 47
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
             "name": "ScienceClaw",
             "full_name": "beita6969/ScienceClaw",
             "description": "\ud83d\udd2c\ud83e\udd9e A self-evolving AI research colleague for scientists. 285 skills, zero hallucination, persistent memory.",
             "url": "https://github.com/beita6969/ScienceClaw",
-            "stars": 346,
+            "stars": 347,
             "forks": 35,
             "score": 46
         },
@@ -361,7 +361,7 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/nvidia-nemoclaw/NemoClaw",
             "stars": 49,
             "forks": 9,
-            "score": 35
+            "score": 34
         },
         {
             "main_cat": "AI",
@@ -540,17 +540,6 @@ const ALPHA_DATA_V2 = {
             "score": 30
         },
         {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "ExFlo",
-            "full_name": "EGABO-TECH/ExFlo",
-            "description": "ExFlo is an Agentic AI Travel OS that replaces fragmented apps with a seamless, autonomous \"Flow.\" Features a 24/7 AI Pilot for real-time coordination, MiniPay (Celo) for instant cUSD stablecoin payments to local vendors, and a \"One-Booking\" engine. Bridging global travelers and local growing and emerging economies via blockchain and AI.",
-            "url": "https://github.com/EGABO-TECH/ExFlo",
-            "stars": 0,
-            "forks": 0,
-            "score": 30
-        },
-        {
             "main_cat": "Stablecoin Infrastructure",
             "sub_cat": null,
             "name": "curiosity--mission---first-client-pipeline---crypto-payment-proof-of-concept-",
@@ -710,12 +699,12 @@ const ALPHA_DATA_V2 = {
             "url": "http://arxiv.org/abs/2603.20156v1"
         },
         {
-            "title": "Bitcoin Up or Down - March 24, 12AM ET (Probability: 50%)",
+            "title": "Solana Up or Down - March 23, 5:50PM-5:55PM ET (Probability: 50%)",
             "source": "Polymarket",
             "type": "Expectation",
             "color": "text-indigo-400",
-            "url": "https://polymarket.com/market/bitcoin-up-or-down-march-24-2026-12am-et"
+            "url": "https://polymarket.com/market/sol-updown-5m-1774302600"
         }
     ],
-    "timestamp": "2026-03-23 20:36"
+    "timestamp": "2026-03-23 21:30"
 };
