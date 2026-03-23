@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "jackwener/opencli",
             "description": "Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Transform any website, Electron app, or local binary into a standardized command-line interface. Built for AI Agents to discover, learn, and execute tools seamlessly via a unified AGENT.md integration.",
             "url": "https://github.com/jackwener/opencli",
-            "stars": 5089,
-            "forks": 420,
+            "stars": 5109,
+            "forks": 422,
             "score": 99
         },
         {
@@ -18,7 +18,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "pasky/chrome-cdp-skill",
             "description": "Give your AI agent access to your live Chrome session \u2014 works out of the box, connects to tabs you already have open",
             "url": "https://github.com/pasky/chrome-cdp-skill",
-            "stars": 2594,
+            "stars": 2595,
             "forks": 143,
             "score": 99
         },
@@ -29,8 +29,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "Narcooo/inkos",
             "description": "Autonomous novel writing CLI agent \u2014 AI agents write, audit, and revise novels with human review gates",
             "url": "https://github.com/Narcooo/inkos",
-            "stars": 2204,
-            "forks": 449,
+            "stars": 2207,
+            "forks": 450,
             "score": 99
         },
         {
@@ -40,7 +40,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "nidhinjs/prompt-master",
             "description": "A Claude skill that writes the accurate prompts for any AI tool. Zero tokens or credits wasted. Full context and memory retention",
             "url": "https://github.com/nidhinjs/prompt-master",
-            "stars": 2143,
+            "stars": 2147,
             "forks": 158,
             "score": 99
         },
@@ -51,7 +51,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "zerobootdev/zeroboot",
             "description": "Sub-millisecond VM sandboxes for AI agents via copy-on-write forking",
             "url": "https://github.com/zerobootdev/zeroboot",
-            "stars": 1800,
+            "stars": 1805,
             "forks": 84,
             "score": 99
         },
@@ -62,7 +62,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "mattprusak/autoresearch-genealogy",
             "description": "Structured prompts, vault templates, and archive guides for AI-assisted genealogy research. Built for Claude Code.",
             "url": "https://github.com/mattprusak/autoresearch-genealogy",
-            "stars": 891,
+            "stars": 893,
             "forks": 75,
             "score": 99
         },
@@ -95,8 +95,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "frank890417/taiwan-md",
             "description": "\ud83c\uddf9\ud83c\uddfc \u8b93\u5168\u4e16\u754c\u5b8c\u6574\u8a8d\u8b58\u53f0\u7063 | An open-source, AI-friendly knowledge base about Taiwan",
             "url": "https://github.com/frank890417/taiwan-md",
-            "stars": 785,
-            "forks": 92,
+            "stars": 789,
+            "forks": 94,
             "score": 94
         },
         {
@@ -106,8 +106,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "lightningpixel/modly",
             "description": "Desktop app to generate 3D models from images using local AI \u2014 runs entirely on your GPU",
             "url": "https://github.com/lightningpixel/modly",
-            "stars": 619,
-            "forks": 66,
+            "stars": 621,
+            "forks": 67,
             "score": 85
         },
         {
@@ -117,7 +117,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "wangziqi06/724-office",
             "description": "7/24 Office \u2014 Self-evolving AI Agent system. 26 tools, 3500 lines pure Python, MCP/Skill plugins, three-layer memory, self-repair, 24/7 production.",
             "url": "https://github.com/wangziqi06/724-office",
-            "stars": 663,
+            "stars": 669,
             "forks": 75,
             "score": 83
         },
@@ -128,7 +128,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "sstklen/trump-code",
             "description": "\ud83d\udd10 AI decoding Trump's posts \u00d7 stock market | AI \u89e3\u78bc\u5ddd\u666e\u63a8\u6587 \u00d7 \u7f8e\u80a1 | AI\u3067\u30c8\u30e9\u30f3\u30d7\u6295\u7a3f\u00d7\u682a\u5f0f\u5e02\u5834\u3092\u89e3\u8aad \u2014 31.5M models, 61.3% hit rate, open source",
             "url": "https://github.com/sstklen/trump-code",
-            "stars": 631,
+            "stars": 632,
             "forks": 78,
             "score": 72
         },
@@ -139,7 +139,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "NateBJones-Projects/OB1",
             "description": "Open Brain \u2014 The infrastructure layer for your thinking. One database, one AI gateway, one chat channel \u2014 any AI plugs in. No middleware, no SaaS.",
             "url": "https://github.com/NateBJones-Projects/OB1",
-            "stars": 693,
+            "stars": 694,
             "forks": 116,
             "score": 71
         },
@@ -150,7 +150,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Shpigford/chops",
             "description": "Your AI agent skills, finally organized. A macOS app to browse, edit, and manage skills across Claude Code, Cursor, Codex, Windsurf, and Amp.",
             "url": "https://github.com/Shpigford/chops",
-            "stars": 472,
+            "stars": 480,
             "forks": 23,
             "score": 70
         },
@@ -161,7 +161,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Michaelliv/pi-generative-ui",
             "description": "Claude.ai's generative UI \u2014 reverse-engineered, rebuilt for pi. Interactive HTML/SVG widgets in native macOS windows.",
             "url": "https://github.com/Michaelliv/pi-generative-ui",
-            "stars": 802,
+            "stars": 803,
             "forks": 45,
             "score": 67
         },
@@ -172,20 +172,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "liliMozi/openhanako",
             "description": "A personal AI agent with memory, personality, and autonomy \u2014 built on Electron.",
             "url": "https://github.com/liliMozi/openhanako",
-            "stars": 507,
+            "stars": 508,
             "forks": 61,
             "score": 64
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "rt-claw",
-            "full_name": "zevorn/rt-claw",
-            "description": "Making AI Assistants Cheap Again!",
-            "url": "https://github.com/zevorn/rt-claw",
-            "stars": 697,
-            "forks": 47,
-            "score": 61
         },
         {
             "main_cat": "AI",
@@ -201,11 +190,22 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
+            "name": "rt-claw",
+            "full_name": "zevorn/rt-claw",
+            "description": "Making AI Assistants Cheap Again!",
+            "url": "https://github.com/zevorn/rt-claw",
+            "stars": 699,
+            "forks": 47,
+            "score": 59
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
             "name": "AIComicBuilder",
             "full_name": "twwch/AIComicBuilder",
             "description": "  AI-powered animated comic generator \u2014 transform scripts into fully animated videos with AI-driven character design,    storyboarding, and video synthesis.  ",
             "url": "https://github.com/twwch/AIComicBuilder",
-            "stars": 544,
+            "stars": 545,
             "forks": 80,
             "score": 58
         },
@@ -227,7 +227,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "CodePhiliaX/youclaw",
             "description": "\ud83e\udd9e Your AI Personal Assistant.  An intelligent assistant with memory, skills, and scheduled tasks that truly understands you . Helping you tackle everything in work and life.",
             "url": "https://github.com/CodePhiliaX/youclaw",
-            "stars": 401,
+            "stars": 402,
             "forks": 111,
             "score": 56
         },
@@ -304,7 +304,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "minsight-ai-info/AI-Search-Hub",
             "description": "One Query. All Search Skill. \u805a\u5408 Gemini\u3001Grok\u3001\u8c46\u5305\u3001\u5143\u5b9d\u7b49\u5e73\u53f0\u539f\u751f AI \u641c\u7d22\u80fd\u529b\uff0c\u514d\u8d39\u83b7\u53d6\u79d1\u6280\u8d8b\u52bf\u3001\u884c\u4e1a\u8206\u60c5\u3001\u70ed\u70b9\u8ffd\u8e2a\u3001\u65c5\u884c\u89c4\u5212\u3001\u65e5\u5e38\u95ee\u9898\u7edf\u4e00\u63a5\u8fdb\u81ea\u5df1\u7684 Agent \u4e0e\u5de5\u4f5c\u6d41\uff0c\u6307\u5b9a\u94fe\u63a5\u514d\u8d39\u722c\u53d6",
             "url": "https://github.com/minsight-ai-info/AI-Search-Hub",
-            "stars": 393,
+            "stars": 396,
             "forks": 26,
             "score": 47
         },
@@ -315,7 +315,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "beita6969/ScienceClaw",
             "description": "\ud83d\udd2c\ud83e\udd9e A self-evolving AI research colleague for scientists. 285 skills, zero hallucination, persistent memory.",
             "url": "https://github.com/beita6969/ScienceClaw",
-            "stars": 344,
+            "stars": 345,
             "forks": 35,
             "score": 46
         },
@@ -331,15 +331,26 @@ const ALPHA_DATA_V2 = {
             "score": 43
         },
         {
+            "main_cat": "DePIN",
+            "sub_cat": null,
+            "name": "Mnemonic-Seed-Recovery-2026",
+            "full_name": "rockduke932/Mnemonic-Seed-Recovery-2026",
+            "description": "Professional BIP-39 seed phrase and password recovery tool for Bitcoin, Ethereum, and MetaMask. High-speed GPU-accelerated engine for lost crypto asset retrieval. 100% offline and secure.",
+            "url": "https://github.com/rockduke932/Mnemonic-Seed-Recovery-2026",
+            "stars": 68,
+            "forks": 0,
+            "score": 38
+        },
+        {
             "main_cat": "AI",
             "sub_cat": "AI General",
             "name": "rustane",
             "full_name": "ncdrone/rustane",
             "description": "Rust-native hybrid training & inference engine for Apple Neural Engine + Metal GPU",
             "url": "https://github.com/ncdrone/rustane",
-            "stars": 142,
-            "forks": 16,
-            "score": 36
+            "stars": 143,
+            "forks": 17,
+            "score": 37
         },
         {
             "main_cat": "AI",
@@ -359,7 +370,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "nuwax-ai/nuwax-backend",
             "description": "Enterprise-grade AI Agent Development and Operation Platform - Providing a complete solution for agent creation and distribution, knowledge base management, model proxy, memory system, and plugin ecosystem.",
             "url": "https://github.com/nuwax-ai/nuwax-backend",
-            "stars": 17,
+            "stars": 18,
             "forks": 4,
             "score": 31
         },
@@ -529,6 +540,17 @@ const ALPHA_DATA_V2 = {
             "score": 30
         },
         {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "ExFlo",
+            "full_name": "EGABO-TECH/ExFlo",
+            "description": "ExFlo is an Agentic AI Travel OS that replaces fragmented apps with a seamless, autonomous \"Flow.\" Features a 24/7 AI Pilot for real-time coordination, MiniPay (Celo) for instant cUSD stablecoin payments to local vendors, and a \"One-Booking\" engine. Bridging global travelers and local growing and emerging economies via blockchain and AI.",
+            "url": "https://github.com/EGABO-TECH/ExFlo",
+            "stars": 0,
+            "forks": 0,
+            "score": 30
+        },
+        {
             "main_cat": "Stablecoin Infrastructure",
             "sub_cat": null,
             "name": "curiosity--mission---first-client-pipeline---crypto-payment-proof-of-concept-",
@@ -688,12 +710,12 @@ const ALPHA_DATA_V2 = {
             "url": "http://arxiv.org/abs/2603.20156v1"
         },
         {
-            "title": "Bitcoin Up or Down - March 23, 11PM ET (Probability: 50%)",
+            "title": "Solana Up or Down - March 23, 1:30PM-1:35PM ET (Probability: 50%)",
             "source": "Polymarket",
             "type": "Expectation",
             "color": "text-indigo-400",
-            "url": "https://polymarket.com/market/bitcoin-up-or-down-march-23-2026-11pm-et"
+            "url": "https://polymarket.com/market/sol-updown-5m-1774287000"
         }
     ],
-    "timestamp": "2026-03-23 15:55"
+    "timestamp": "2026-03-23 16:52"
 };
