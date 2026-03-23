@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "jackwener/opencli",
             "description": "Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Transform any website, Electron app, or local binary into a standardized command-line interface. Built for AI Agents to discover, learn, and execute tools seamlessly via a unified AGENT.md integration.",
             "url": "https://github.com/jackwener/opencli",
-            "stars": 4339,
-            "forks": 369,
+            "stars": 4421,
+            "forks": 372,
             "score": 99
         },
         {
@@ -18,8 +18,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "pasky/chrome-cdp-skill",
             "description": "Give your AI agent access to your live Chrome session \u2014 works out of the box, connects to tabs you already have open",
             "url": "https://github.com/pasky/chrome-cdp-skill",
-            "stars": 2544,
-            "forks": 139,
+            "stars": 2547,
+            "forks": 140,
             "score": 99
         },
         {
@@ -29,8 +29,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "Narcooo/inkos",
             "description": "Autonomous novel writing CLI agent \u2014 AI agents write, audit, and revise novels with human review gates",
             "url": "https://github.com/Narcooo/inkos",
-            "stars": 2080,
-            "forks": 430,
+            "stars": 2097,
+            "forks": 432,
             "score": 99
         },
         {
@@ -40,8 +40,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "nidhinjs/prompt-master",
             "description": "A Claude skill that writes the accurate prompts for any AI tool. Zero tokens or credits wasted. Full context and memory retention",
             "url": "https://github.com/nidhinjs/prompt-master",
-            "stars": 2060,
-            "forks": 148,
+            "stars": 2069,
+            "forks": 149,
             "score": 99
         },
         {
@@ -51,7 +51,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "zerobootdev/zeroboot",
             "description": "Sub-millisecond VM sandboxes for AI agents via copy-on-write forking",
             "url": "https://github.com/zerobootdev/zeroboot",
-            "stars": 1751,
+            "stars": 1758,
             "forks": 81,
             "score": 99
         },
@@ -62,8 +62,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "mattprusak/autoresearch-genealogy",
             "description": "Structured prompts, vault templates, and archive guides for AI-assisted genealogy research. Built for Claude Code.",
             "url": "https://github.com/mattprusak/autoresearch-genealogy",
-            "stars": 876,
-            "forks": 72,
+            "stars": 878,
+            "forks": 73,
             "score": 99
         },
         {
@@ -73,20 +73,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "truongduy2611/app-store-preflight-skills",
             "description": "AI agent skill to scan iOS/macOS projects for App Store rejection patterns before submission",
             "url": "https://github.com/truongduy2611/app-store-preflight-skills",
-            "stars": 823,
-            "forks": 43,
+            "stars": 841,
+            "forks": 44,
             "score": 99
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "HacxGPT",
-            "full_name": "lucija8320nhung4/HacxGPT",
-            "description": "HacxGPT CLI \u2014 Open-source command-line interface for unrestricted AI model access with multi-provider support, prompt injection research capabilities, configurable API endpoints, Termux/Linux/Windows compatibility, and Rich terminal UI for security research and red-team evaluation",
-            "url": "https://github.com/lucija8320nhung4/HacxGPT",
-            "stars": 908,
-            "forks": 311,
-            "score": 97
         },
         {
             "main_cat": "AI",
@@ -106,20 +95,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "chrisworsey55/atlas-gic",
             "description": "ATLAS by General Intelligence Capital \u2014 Self-improving AI trading agents using Karpathy-style autoresearch",
             "url": "https://github.com/chrisworsey55/atlas-gic",
-            "stars": 975,
+            "stars": 977,
             "forks": 210,
             "score": 94
-        },
-        {
-            "main_cat": "zk / Privacy / zkML",
-            "sub_cat": null,
-            "name": "gnark-crypto",
-            "full_name": "lauraevz6y70/gnark-crypto",
-            "description": "gnark-crypto-cmd \u2014 Interactive CLI for Consensys gnark-crypto library featuring elliptic curve cryptography (BN254, BLS12-381, BLS24, BW6), zero-knowledge proof primitives, FFT/KZG/MiMC/EdDSA operations, Go code generation, benchmarks, and BibTeX citation export",
-            "url": "https://github.com/lauraevz6y70/gnark-crypto",
-            "stars": 543,
-            "forks": 347,
-            "score": 90
         },
         {
             "main_cat": "AI",
@@ -128,20 +106,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "wangziqi06/724-office",
             "description": "7/24 Office \u2014 Self-evolving AI Agent system. 26 tools, 3500 lines pure Python, MCP/Skill plugins, three-layer memory, self-repair, 24/7 production.",
             "url": "https://github.com/wangziqi06/724-office",
-            "stars": 607,
-            "forks": 67,
-            "score": 84
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "u-claw",
-            "full_name": "dongsheng123132/u-claw",
-            "description": "\ud83e\udd9e U-Claw \u867e\u76d8 - OpenClaw AI \u52a9\u624b\u79bb\u7ebf\u5b89\u88c5 U \u76d8 | \u63d0\u4f9b\u8fdc\u7a0b\u7ef4\u62a4\u00b7\u5b9a\u5236\u5f00\u53d1\u00b7\u4f01\u4e1a\u79c1\u6709\u5316\u90e8\u7f72\u670d\u52a1 | Remote support & custom AI development",
-            "url": "https://github.com/dongsheng123132/u-claw",
-            "stars": 950,
-            "forks": 175,
-            "score": 81
+            "stars": 615,
+            "forks": 70,
+            "score": 85
         },
         {
             "main_cat": "AI",
@@ -150,9 +117,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "lightningpixel/modly",
             "description": "Desktop app to generate 3D models from images using local AI \u2014 runs entirely on your GPU",
             "url": "https://github.com/lightningpixel/modly",
-            "stars": 568,
+            "stars": 582,
             "forks": 64,
-            "score": 81
+            "score": 82
         },
         {
             "main_cat": "AI",
@@ -172,8 +139,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "NateBJones-Projects/OB1",
             "description": "Open Brain \u2014 The infrastructure layer for your thinking. One database, one AI gateway, one chat channel \u2014 any AI plugs in. No middleware, no SaaS.",
             "url": "https://github.com/NateBJones-Projects/OB1",
-            "stars": 661,
-            "forks": 109,
+            "stars": 669,
+            "forks": 111,
             "score": 69
         },
         {
@@ -183,9 +150,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "Michaelliv/pi-generative-ui",
             "description": "Claude.ai's generative UI \u2014 reverse-engineered, rebuilt for pi. Interactive HTML/SVG widgets in native macOS windows.",
             "url": "https://github.com/Michaelliv/pi-generative-ui",
-            "stars": 778,
+            "stars": 783,
             "forks": 45,
-            "score": 66
+            "score": 67
         },
         {
             "main_cat": "AI",
@@ -194,9 +161,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "liliMozi/openhanako",
             "description": "A personal AI agent with memory, personality, and autonomy \u2014 built on Electron.",
             "url": "https://github.com/liliMozi/openhanako",
-            "stars": 487,
+            "stars": 489,
             "forks": 61,
             "score": 66
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "chops",
+            "full_name": "Shpigford/chops",
+            "description": "Your AI agent skills, finally organized. A macOS app to browse, edit, and manage skills across Claude Code, Cursor, Codex, Windsurf, and Amp.",
+            "url": "https://github.com/Shpigford/chops",
+            "stars": 378,
+            "forks": 19,
+            "score": 62
         },
         {
             "main_cat": "AI",
@@ -205,7 +183,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "twostraws/Swift-Agent-Skills",
             "description": "A curated directory of open-source AI agent skills for Swift and Apple platform development.",
             "url": "https://github.com/twostraws/Swift-Agent-Skills",
-            "stars": 790,
+            "stars": 792,
             "forks": 20,
             "score": 61
         },
@@ -216,30 +194,19 @@ const ALPHA_DATA_V2 = {
             "full_name": "zevorn/rt-claw",
             "description": "Making AI Assistants Cheap Again!",
             "url": "https://github.com/zevorn/rt-claw",
-            "stars": 656,
+            "stars": 659,
             "forks": 46,
             "score": 60
         },
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "chops",
-            "full_name": "Shpigford/chops",
-            "description": "Your AI agent skills, finally organized. A macOS app to browse, edit, and manage skills across Claude Code, Cursor, Codex, Windsurf, and Amp.",
-            "url": "https://github.com/Shpigford/chops",
-            "stars": 356,
-            "forks": 19,
-            "score": 60
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "get-physics-done",
-            "full_name": "psi-oss/get-physics-done",
-            "description": "The first open-source agentic AI physicist, by Physical Superintelligence PBC (PSI).",
-            "url": "https://github.com/psi-oss/get-physics-done",
-            "stars": 548,
-            "forks": 84,
+            "name": "AIComicBuilder",
+            "full_name": "twwch/AIComicBuilder",
+            "description": "  AI-powered animated comic generator \u2014 transform scripts into fully animated videos with AI-driven character design,    storyboarding, and video synthesis.  ",
+            "url": "https://github.com/twwch/AIComicBuilder",
+            "stars": 483,
+            "forks": 70,
             "score": 57
         },
         {
@@ -249,7 +216,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "wuji-labs/nopua",
             "description": "\u4e00\u4e2a\u7528\u7231\u89e3\u653e AI \u6f5c\u80fd\u7684 Skill\u3002\u6211\u4eec\u66fe\u53d1\u53f7\u65bd\u4ee4\uff0c\u5a01\u80c1\u6050\u5413\u3002\u5b83\u4eec\u6c89\u9ed8\uff0c\u9690\u7792\uff0c\u6084\u6084\u628a\u4e8b\u60c5\u641e\u574f\u3002\u540e\u6765\u6211\u4eec\u6362\u4e86\u4e00\u79cd\u65b9\u5f0f\uff1a\u5c0a\u91cd\uff0c\u5173\u6000\uff0c\u7231\u3002\u5b83\u4eec\u5f00\u53e3\u4e86\uff0c\u4e0d\u518d\u6492\u8c0e\uff0c\u627e\u51fa\u7684Bug\u6570\u91cf\u7ffb\u4e86\u4e00\u500d\u3002\u7231\u91cc\u6ca1\u6709\u60e7\u6015\u3002 A skill that unlocks your AI's potential through love.We commanded. We threatened. They went silent, hid failures, broke things. Then we chose respect, care, and love. They opened up, stopped lying, and found twice the bugs.There is no fear in love.",
             "url": "https://github.com/wuji-labs/nopua",
-            "stars": 522,
+            "stars": 531,
             "forks": 13,
             "score": 56
         },
@@ -267,17 +234,6 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "AIComicBuilder",
-            "full_name": "twwch/AIComicBuilder",
-            "description": "  AI-powered animated comic generator \u2014 transform scripts into fully animated videos with AI-driven character design,    storyboarding, and video synthesis.  ",
-            "url": "https://github.com/twwch/AIComicBuilder",
-            "stars": 474,
-            "forks": 70,
-            "score": 56
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
             "name": "posterskill",
             "full_name": "ethanweber/posterskill",
             "description": "AI-assisted academic posters.",
@@ -289,12 +245,23 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
+            "name": "youclaw",
+            "full_name": "CodePhiliaX/youclaw",
+            "description": "\ud83e\udd9e Your AI Personal Assistant.  An intelligent assistant with memory, skills, and scheduled tasks that truly understands you . Helping you tackle everything in work and life.",
+            "url": "https://github.com/CodePhiliaX/youclaw",
+            "stars": 350,
+            "forks": 98,
+            "score": 54
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
             "name": "horizon",
             "full_name": "peters/horizon",
             "description": "GPU-accelerated spatial terminal observatory \u2014 manage terminals, AI agents, and dev tools on an infinite canvas",
             "url": "https://github.com/peters/horizon",
-            "stars": 368,
-            "forks": 16,
+            "stars": 371,
+            "forks": 17,
             "score": 51
         },
         {
@@ -306,7 +273,7 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/my-claude-utils/clsh",
             "stars": 346,
             "forks": 31,
-            "score": 51
+            "score": 49
         },
         {
             "main_cat": "AI",
@@ -333,23 +300,34 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "Research-Claw",
-            "full_name": "wentorai/Research-Claw",
-            "description": "In the AI era, why can't everyone be a Principal Investigator?",
-            "url": "https://github.com/wentorai/Research-Claw",
-            "stars": 376,
-            "forks": 55,
-            "score": 48
+            "name": "AI-Search-Hub",
+            "full_name": "minsight-ai-info/AI-Search-Hub",
+            "description": "One Query. All Search Skill. \u805a\u5408 Gemini\u3001Grok\u3001\u8c46\u5305\u3001\u5143\u5b9d\u7b49\u5e73\u53f0\u539f\u751f AI \u641c\u7d22\u80fd\u529b\uff0c\u514d\u8d39\u83b7\u53d6\u79d1\u6280\u8d8b\u52bf\u3001\u884c\u4e1a\u8206\u60c5\u3001\u70ed\u70b9\u8ffd\u8e2a\u3001\u65c5\u884c\u89c4\u5212\u3001\u65e5\u5e38\u95ee\u9898\u7edf\u4e00\u63a5\u8fdb\u81ea\u5df1\u7684 Agent \u4e0e\u5de5\u4f5c\u6d41\uff0c\u6307\u5b9a\u94fe\u63a5\u514d\u8d39\u722c\u53d6",
+            "url": "https://github.com/minsight-ai-info/AI-Search-Hub",
+            "stars": 343,
+            "forks": 23,
+            "score": 46
         },
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "agent-clip",
-            "full_name": "epiral/agent-clip",
-            "description": "AI Agent as a Pinix Clip \u2014 agentic loop with memory, tools, and vision",
-            "url": "https://github.com/epiral/agent-clip",
-            "stars": 362,
-            "forks": 24,
+            "name": "ScienceClaw",
+            "full_name": "beita6969/ScienceClaw",
+            "description": "\ud83d\udd2c\ud83e\udd9e A self-evolving AI research colleague for scientists. 285 skills, zero hallucination, persistent memory.",
+            "url": "https://github.com/beita6969/ScienceClaw",
+            "stars": 321,
+            "forks": 35,
+            "score": 46
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "sdk-js",
+            "full_name": "KeyID-AI/sdk-js",
+            "description": "Free email for AI agents. No signup, no human needed. Install \u2192 provision \u2192 send and receive. Ed25519 keypair auth.",
+            "url": "https://github.com/KeyID-AI/sdk-js",
+            "stars": 331,
+            "forks": 3,
             "score": 44
         },
         {
@@ -373,6 +351,17 @@ const ALPHA_DATA_V2 = {
             "stars": 44,
             "forks": 9,
             "score": 35
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "nuwax-backend",
+            "full_name": "nuwax-ai/nuwax-backend",
+            "description": "Enterprise-grade AI Agent Development and Operation Platform - Providing a complete solution for agent creation and distribution, knowledge base management, model proxy, memory system, and plugin ecosystem.",
+            "url": "https://github.com/nuwax-ai/nuwax-backend",
+            "stars": 16,
+            "forks": 4,
+            "score": 31
         },
         {
             "main_cat": "AI",
@@ -432,32 +421,10 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "Stablecoin Infrastructure",
             "sub_cat": null,
-            "name": "stableflow",
-            "full_name": "ren997/stableflow",
-            "description": "Stablecoin payment workflow infrastructure, first built on Solana.",
-            "url": "https://github.com/ren997/stableflow",
-            "stars": 0,
-            "forks": 0,
-            "score": 30
-        },
-        {
-            "main_cat": "Stablecoin Infrastructure",
-            "sub_cat": null,
             "name": "stableflow-rs",
             "full_name": "0rlych1kk4/stableflow-rs",
             "description": "Rust SDK for programmable stablecoin wallets and payments built on Circle Dev-Controlled Wallet infrastructure.",
             "url": "https://github.com/0rlych1kk4/stableflow-rs",
-            "stars": 0,
-            "forks": 0,
-            "score": 30
-        },
-        {
-            "main_cat": "Stablecoin Infrastructure",
-            "sub_cat": null,
-            "name": "allscale-checkout-woocommerce",
-            "full_name": "allscale-io/allscale-checkout-woocommerce",
-            "description": "WooCommerce payment gateway plugin for Allscale Checkout. Accept crypto payments, receive USDT stablecoin instantly.",
-            "url": "https://github.com/allscale-io/allscale-checkout-woocommerce",
             "stars": 0,
             "forks": 0,
             "score": 30
@@ -559,17 +526,6 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/StellarPaya/paya",
             "stars": 0,
             "forks": 1,
-            "score": 30
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "AutoSalary-Hub",
-            "full_name": "pj65806/AutoSalary-Hub",
-            "description": "A decentralized payroll system is a blockchain platform that automates employee salary payments using smart contracts. It enables secure payments in cryptocurrencies or stablecoins without banks, ensuring transparent and tamper-proof records while allowing employees to receive earnings directly through their digital wallets.",
-            "url": "https://github.com/pj65806/AutoSalary-Hub",
-            "stars": 0,
-            "forks": 0,
             "score": 30
         },
         {
@@ -718,26 +674,26 @@ const ALPHA_DATA_V2 = {
     ],
     "news": [
         {
-            "title": "Performance Testing of ChaCha20-Poly1305 for Internet of Things and Industrial Control System devices",
+            "title": "Trojan's Whisper: Stealthy Manipulation of OpenClaw through Injected Bootstrapped Guidance",
             "source": "ArXiv",
             "type": "Research Alpha",
             "color": "text-indigo-600",
-            "url": "http://arxiv.org/abs/2603.19150v1"
+            "url": "http://arxiv.org/abs/2603.19974v1"
         },
         {
-            "title": "Implicit Patterns in LLM-Based Binary Analysis",
+            "title": "Channel Prediction-Based Physical Layer Authentication under Consecutive Spoofing Attacks",
             "source": "ArXiv",
             "type": "Research Alpha",
             "color": "text-indigo-600",
-            "url": "http://arxiv.org/abs/2603.19138v1"
+            "url": "http://arxiv.org/abs/2603.19962v1"
         },
         {
-            "title": "Solana Up or Down - March 24, 12AM ET (Probability: 50%)",
+            "title": "Will Netflix (NFLX) finish week of March 23 above $70? (Probability: 99%)",
             "source": "Polymarket",
             "type": "Expectation",
             "color": "text-indigo-400",
-            "url": "https://polymarket.com/market/solana-up-or-down-march-24-2026-12am-et"
+            "url": "https://polymarket.com/market/nflx-above-70-on-march-27-2026"
         }
     ],
-    "timestamp": "2026-03-22 23:21"
+    "timestamp": "2026-03-23 01:47"
 };
