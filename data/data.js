@@ -7,7 +7,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "jackwener/opencli",
             "description": "Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Transform any website, Electron app, or local binary into a standardized command-line interface. Built for AI Agents to discover, learn, and execute tools seamlessly via a unified AGENT.md integration.",
             "url": "https://github.com/jackwener/opencli",
-            "stars": 6094,
+            "stars": 6098,
             "forks": 491,
             "score": 99
         },
@@ -29,7 +29,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Narcooo/inkos",
             "description": "Autonomous novel writing CLI agent \u2014 AI agents write, audit, and revise novels with human review gates",
             "url": "https://github.com/Narcooo/inkos",
-            "stars": 2310,
+            "stars": 2313,
             "forks": 471,
             "score": 99
         },
@@ -40,8 +40,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "nidhinjs/prompt-master",
             "description": "A Claude skill that writes the accurate prompts for any AI tool. Zero tokens or credits wasted. Full context and memory retention",
             "url": "https://github.com/nidhinjs/prompt-master",
-            "stars": 2222,
-            "forks": 166,
+            "stars": 2224,
+            "forks": 167,
             "score": 99
         },
         {
@@ -62,7 +62,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "truongduy2611/app-store-preflight-skills",
             "description": "AI agent skill to scan iOS/macOS projects for App Store rejection patterns before submission",
             "url": "https://github.com/truongduy2611/app-store-preflight-skills",
-            "stars": 920,
+            "stars": 921,
             "forks": 50,
             "score": 99
         },
@@ -73,7 +73,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "mattprusak/autoresearch-genealogy",
             "description": "Structured prompts, vault templates, and archive guides for AI-assisted genealogy research. Built for Claude Code.",
             "url": "https://github.com/mattprusak/autoresearch-genealogy",
-            "stars": 910,
+            "stars": 912,
             "forks": 77,
             "score": 97
         },
@@ -84,7 +84,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "frank890417/taiwan-md",
             "description": "\ud83c\uddf9\ud83c\uddfc \u8b93\u5168\u4e16\u754c\u5b8c\u6574\u8a8d\u8b58\u53f0\u7063 | An open-source, AI-friendly knowledge base about Taiwan",
             "url": "https://github.com/frank890417/taiwan-md",
-            "stars": 850,
+            "stars": 851,
             "forks": 109,
             "score": 94
         },
@@ -95,8 +95,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "wangziqi06/724-office",
             "description": "7/24 Office \u2014 Self-evolving AI Agent system. 26 tools, 3500 lines pure Python, MCP/Skill plugins, three-layer memory, self-repair, 24/7 production.",
             "url": "https://github.com/wangziqi06/724-office",
-            "stars": 849,
-            "forks": 103,
+            "stars": 852,
+            "forks": 104,
             "score": 93
         },
         {
@@ -117,7 +117,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "lightningpixel/modly",
             "description": "Desktop app to generate 3D models from images using local AI \u2014 runs entirely on your GPU",
             "url": "https://github.com/lightningpixel/modly",
-            "stars": 680,
+            "stars": 681,
             "forks": 73,
             "score": 78
         },
@@ -139,8 +139,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "Shpigford/chops",
             "description": "Your AI agent skills, finally organized. A macOS app to browse, edit, and manage skills across Claude Code, Cursor, Codex, Windsurf, and Amp.",
             "url": "https://github.com/Shpigford/chops",
-            "stars": 585,
-            "forks": 30,
+            "stars": 591,
+            "forks": 31,
             "score": 69
         },
         {
@@ -150,7 +150,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "NateBJones-Projects/OB1",
             "description": "Open Brain \u2014 The infrastructure layer for your thinking. One database, one AI gateway, one chat channel \u2014 any AI plugs in. No middleware, no SaaS.",
             "url": "https://github.com/NateBJones-Projects/OB1",
-            "stars": 734,
+            "stars": 737,
             "forks": 122,
             "score": 68
         },
@@ -161,9 +161,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "K-Dense-AI/k-dense-byok",
             "description": "An AI co-scientist powered by Claude Scientific Skills running on your desktop.",
             "url": "https://github.com/K-Dense-AI/k-dense-byok",
-            "stars": 363,
+            "stars": 366,
             "forks": 42,
-            "score": 67
+            "score": 68
         },
         {
             "main_cat": "AI",
@@ -194,7 +194,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "zevorn/rt-claw",
             "description": "Making AI Assistants Cheap Again!",
             "url": "https://github.com/zevorn/rt-claw",
-            "stars": 765,
+            "stars": 766,
             "forks": 48,
             "score": 59
         },
@@ -260,7 +260,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "ru-yee/Life-Agent-RU-YEE",
             "description": "Life Agent RU YEE \u2014 An AI-powered life management agent that autonomously        handles daily routines including meal planning, grocery shopping, schedule    coordination, and household task automation via cloud-based mobile agents.",
             "url": "https://github.com/ru-yee/Life-Agent-RU-YEE",
-            "stars": 343,
+            "stars": 345,
             "forks": 31,
             "score": 51
         },
@@ -295,7 +295,7 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/vasilytrofimchuk/domainsearcher-app",
             "stars": 472,
             "forks": 10,
-            "score": 47
+            "score": 46
         },
         {
             "main_cat": "AI",
@@ -304,7 +304,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "beita6969/ScienceClaw",
             "description": "\ud83d\udd2c\ud83e\udd9e A self-evolving AI research colleague for scientists. 285 skills, zero hallucination, persistent memory.",
             "url": "https://github.com/beita6969/ScienceClaw",
-            "stars": 364,
+            "stars": 366,
             "forks": 37,
             "score": 46
         },
@@ -348,7 +348,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "nvidia-nemoclaw/NemoClaw",
             "description": "\ud83e\udd9e OpenClaw & NemoClaw: Lightweight Installer. 1-click cross-platform installer for OpenClaw & NVIDIA NemoClaw. Run secure, sandboxed AI agents on Windows and macOS with seamless AMD/Intel GPU emulation and a bundled Nemotron-3-Super-120B model.",
             "url": "https://github.com/nvidia-nemoclaw/NemoClaw",
-            "stars": 54,
+            "stars": 55,
             "forks": 9,
             "score": 35
         },
@@ -677,12 +677,12 @@ const ALPHA_DATA_V2 = {
             "url": "http://arxiv.org/abs/2603.22191v1"
         },
         {
-            "title": "Bitcoin Up or Down - March 25, 4:50AM-4:55AM ET (Probability: 50%)",
+            "title": "Will the price of Solana be between $130 and $140 on March 30? (Probability: 0%)",
             "source": "Polymarket",
             "type": "Expectation",
             "color": "text-indigo-400",
-            "url": "https://polymarket.com/market/btc-updown-5m-1774428600"
+            "url": "https://polymarket.com/market/will-the-price-of-solana-be-between-130-140-on-march-30"
         }
     ],
-    "timestamp": "2026-03-24 18:55"
+    "timestamp": "2026-03-24 19:50"
 };
