@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "jackwener/opencli",
             "description": "Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Transform any website, Electron app, or local binary into a standardized command-line interface. Built for AI Agents to discover, learn, and execute tools seamlessly via a unified AGENT.md integration.",
             "url": "https://github.com/jackwener/opencli",
-            "stars": 6098,
-            "forks": 491,
+            "stars": 6102,
+            "forks": 492,
             "score": 99
         },
         {
@@ -18,7 +18,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "pasky/chrome-cdp-skill",
             "description": "Give your AI agent access to your live Chrome session \u2014 works out of the box, connects to tabs you already have open",
             "url": "https://github.com/pasky/chrome-cdp-skill",
-            "stars": 2630,
+            "stars": 2631,
             "forks": 150,
             "score": 99
         },
@@ -29,7 +29,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Narcooo/inkos",
             "description": "Autonomous novel writing CLI agent \u2014 AI agents write, audit, and revise novels with human review gates",
             "url": "https://github.com/Narcooo/inkos",
-            "stars": 2313,
+            "stars": 2315,
             "forks": 471,
             "score": 99
         },
@@ -40,7 +40,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "nidhinjs/prompt-master",
             "description": "A Claude skill that writes the accurate prompts for any AI tool. Zero tokens or credits wasted. Full context and memory retention",
             "url": "https://github.com/nidhinjs/prompt-master",
-            "stars": 2224,
+            "stars": 2226,
             "forks": 167,
             "score": 99
         },
@@ -51,7 +51,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "zerobootdev/zeroboot",
             "description": "Sub-millisecond VM sandboxes for AI agents via copy-on-write forking",
             "url": "https://github.com/zerobootdev/zeroboot",
-            "stars": 1878,
+            "stars": 1880,
             "forks": 87,
             "score": 99
         },
@@ -62,7 +62,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "truongduy2611/app-store-preflight-skills",
             "description": "AI agent skill to scan iOS/macOS projects for App Store rejection patterns before submission",
             "url": "https://github.com/truongduy2611/app-store-preflight-skills",
-            "stars": 921,
+            "stars": 922,
             "forks": 50,
             "score": 99
         },
@@ -95,8 +95,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "wangziqi06/724-office",
             "description": "7/24 Office \u2014 Self-evolving AI Agent system. 26 tools, 3500 lines pure Python, MCP/Skill plugins, three-layer memory, self-repair, 24/7 production.",
             "url": "https://github.com/wangziqi06/724-office",
-            "stars": 852,
-            "forks": 104,
+            "stars": 855,
+            "forks": 106,
             "score": 93
         },
         {
@@ -117,8 +117,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "lightningpixel/modly",
             "description": "Desktop app to generate 3D models from images using local AI \u2014 runs entirely on your GPU",
             "url": "https://github.com/lightningpixel/modly",
-            "stars": 681,
-            "forks": 73,
+            "stars": 683,
+            "forks": 74,
             "score": 78
         },
         {
@@ -139,7 +139,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Shpigford/chops",
             "description": "Your AI agent skills, finally organized. A macOS app to browse, edit, and manage skills across Claude Code, Cursor, Codex, Windsurf, and Amp.",
             "url": "https://github.com/Shpigford/chops",
-            "stars": 591,
+            "stars": 595,
             "forks": 31,
             "score": 69
         },
@@ -150,7 +150,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "NateBJones-Projects/OB1",
             "description": "Open Brain \u2014 The infrastructure layer for your thinking. One database, one AI gateway, one chat channel \u2014 any AI plugs in. No middleware, no SaaS.",
             "url": "https://github.com/NateBJones-Projects/OB1",
-            "stars": 737,
+            "stars": 738,
             "forks": 122,
             "score": 68
         },
@@ -194,7 +194,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "zevorn/rt-claw",
             "description": "Making AI Assistants Cheap Again!",
             "url": "https://github.com/zevorn/rt-claw",
-            "stars": 766,
+            "stars": 764,
             "forks": 48,
             "score": 59
         },
@@ -216,7 +216,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "twwch/AIComicBuilder",
             "description": "  AI-powered animated comic generator \u2014 transform scripts into fully animated videos with AI-driven character design,    storyboarding, and video synthesis.  ",
             "url": "https://github.com/twwch/AIComicBuilder",
-            "stars": 577,
+            "stars": 578,
             "forks": 81,
             "score": 58
         },
@@ -238,7 +238,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "czl9707/build-your-own-openclaw",
             "description": "A step-by-step guide to build your own AI agent.",
             "url": "https://github.com/czl9707/build-your-own-openclaw",
-            "stars": 497,
+            "stars": 498,
             "forks": 71,
             "score": 54
         },
@@ -249,7 +249,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "ethanweber/posterskill",
             "description": "AI-assisted academic posters.",
             "url": "https://github.com/ethanweber/posterskill",
-            "stars": 418,
+            "stars": 419,
             "forks": 34,
             "score": 53
         },
@@ -260,7 +260,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "ru-yee/Life-Agent-RU-YEE",
             "description": "Life Agent RU YEE \u2014 An AI-powered life management agent that autonomously        handles daily routines including meal planning, grocery shopping, schedule    coordination, and household task automation via cloud-based mobile agents.",
             "url": "https://github.com/ru-yee/Life-Agent-RU-YEE",
-            "stars": 345,
+            "stars": 347,
             "forks": 31,
             "score": 51
         },
@@ -677,12 +677,12 @@ const ALPHA_DATA_V2 = {
             "url": "http://arxiv.org/abs/2603.22191v1"
         },
         {
-            "title": "Will the price of Solana be between $130 and $140 on March 30? (Probability: 0%)",
+            "title": "Bitcoin Up or Down - March 25, 4:50AM-4:55AM ET (Probability: 50%)",
             "source": "Polymarket",
             "type": "Expectation",
             "color": "text-indigo-400",
-            "url": "https://polymarket.com/market/will-the-price-of-solana-be-between-130-140-on-march-30"
+            "url": "https://polymarket.com/market/btc-updown-5m-1774428600"
         }
     ],
-    "timestamp": "2026-03-24 19:50"
+    "timestamp": "2026-03-24 20:35"
 };
