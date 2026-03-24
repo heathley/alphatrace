@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "jackwener/opencli",
             "description": "Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Transform any website, Electron app, or local binary into a standardized command-line interface. Built for AI Agents to discover, learn, and execute tools seamlessly via a unified AGENT.md integration.",
             "url": "https://github.com/jackwener/opencli",
-            "stars": 5787,
-            "forks": 470,
+            "stars": 5841,
+            "forks": 474,
             "score": 99
         },
         {
@@ -18,7 +18,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "pasky/chrome-cdp-skill",
             "description": "Give your AI agent access to your live Chrome session \u2014 works out of the box, connects to tabs you already have open",
             "url": "https://github.com/pasky/chrome-cdp-skill",
-            "stars": 2614,
+            "stars": 2618,
             "forks": 148,
             "score": 99
         },
@@ -29,8 +29,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "Narcooo/inkos",
             "description": "Autonomous novel writing CLI agent \u2014 AI agents write, audit, and revise novels with human review gates",
             "url": "https://github.com/Narcooo/inkos",
-            "stars": 2262,
-            "forks": 463,
+            "stars": 2270,
+            "forks": 466,
             "score": 99
         },
         {
@@ -40,7 +40,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "nidhinjs/prompt-master",
             "description": "A Claude skill that writes the accurate prompts for any AI tool. Zero tokens or credits wasted. Full context and memory retention",
             "url": "https://github.com/nidhinjs/prompt-master",
-            "stars": 2198,
+            "stars": 2200,
             "forks": 163,
             "score": 99
         },
@@ -51,7 +51,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "zerobootdev/zeroboot",
             "description": "Sub-millisecond VM sandboxes for AI agents via copy-on-write forking",
             "url": "https://github.com/zerobootdev/zeroboot",
-            "stars": 1857,
+            "stars": 1859,
             "forks": 87,
             "score": 99
         },
@@ -62,7 +62,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "truongduy2611/app-store-preflight-skills",
             "description": "AI agent skill to scan iOS/macOS projects for App Store rejection patterns before submission",
             "url": "https://github.com/truongduy2611/app-store-preflight-skills",
-            "stars": 908,
+            "stars": 909,
             "forks": 50,
             "score": 99
         },
@@ -106,9 +106,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "wangziqi06/724-office",
             "description": "7/24 Office \u2014 Self-evolving AI Agent system. 26 tools, 3500 lines pure Python, MCP/Skill plugins, three-layer memory, self-repair, 24/7 production.",
             "url": "https://github.com/wangziqi06/724-office",
-            "stars": 784,
+            "stars": 790,
             "forks": 93,
-            "score": 87
+            "score": 88
         },
         {
             "main_cat": "AI",
@@ -120,6 +120,17 @@ const ALPHA_DATA_V2 = {
             "stars": 670,
             "forks": 70,
             "score": 82
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "OB1",
+            "full_name": "NateBJones-Projects/OB1",
+            "description": "Open Brain \u2014 The infrastructure layer for your thinking. One database, one AI gateway, one chat channel \u2014 any AI plugs in. No middleware, no SaaS.",
+            "url": "https://github.com/NateBJones-Projects/OB1",
+            "stars": 724,
+            "forks": 119,
+            "score": 70
         },
         {
             "main_cat": "AI",
@@ -139,20 +150,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "Shpigford/chops",
             "description": "Your AI agent skills, finally organized. A macOS app to browse, edit, and manage skills across Claude Code, Cursor, Codex, Windsurf, and Amp.",
             "url": "https://github.com/Shpigford/chops",
-            "stars": 538,
+            "stars": 541,
             "forks": 27,
             "score": 70
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "OB1",
-            "full_name": "NateBJones-Projects/OB1",
-            "description": "Open Brain \u2014 The infrastructure layer for your thinking. One database, one AI gateway, one chat channel \u2014 any AI plugs in. No middleware, no SaaS.",
-            "url": "https://github.com/NateBJones-Projects/OB1",
-            "stars": 723,
-            "forks": 119,
-            "score": 69
         },
         {
             "main_cat": "AI",
@@ -172,7 +172,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "K-Dense-AI/k-dense-byok",
             "description": "An AI co-scientist powered by Claude Scientific Skills running on your desktop.",
             "url": "https://github.com/K-Dense-AI/k-dense-byok",
-            "stars": 341,
+            "stars": 344,
             "forks": 39,
             "score": 65
         },
@@ -183,7 +183,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "zevorn/rt-claw",
             "description": "Making AI Assistants Cheap Again!",
             "url": "https://github.com/zevorn/rt-claw",
-            "stars": 745,
+            "stars": 746,
             "forks": 48,
             "score": 61
         },
@@ -205,9 +205,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "twostraws/Swift-Agent-Skills",
             "description": "A curated directory of open-source AI agent skills for Swift and Apple platform development.",
             "url": "https://github.com/twostraws/Swift-Agent-Skills",
-            "stars": 805,
-            "forks": 22,
-            "score": 59
+            "stars": 808,
+            "forks": 23,
+            "score": 60
         },
         {
             "main_cat": "AI",
@@ -216,7 +216,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "twwch/AIComicBuilder",
             "description": "  AI-powered animated comic generator \u2014 transform scripts into fully animated videos with AI-driven character design,    storyboarding, and video synthesis.  ",
             "url": "https://github.com/twwch/AIComicBuilder",
-            "stars": 565,
+            "stars": 567,
             "forks": 81,
             "score": 57
         },
@@ -227,9 +227,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "wuji-labs/nopua",
             "description": "\u4e00\u4e2a\u7528\u7231\u89e3\u653e AI \u6f5c\u80fd\u7684 Skill\u3002\u6211\u4eec\u66fe\u53d1\u53f7\u65bd\u4ee4\uff0c\u5a01\u80c1\u6050\u5413\u3002\u5b83\u4eec\u6c89\u9ed8\uff0c\u9690\u7792\uff0c\u6084\u6084\u628a\u4e8b\u60c5\u641e\u574f\u3002\u540e\u6765\u6211\u4eec\u6362\u4e86\u4e00\u79cd\u65b9\u5f0f\uff1a\u5c0a\u91cd\uff0c\u5173\u6000\uff0c\u7231\u3002\u5b83\u4eec\u5f00\u53e3\u4e86\uff0c\u4e0d\u518d\u6492\u8c0e\uff0c\u627e\u51fa\u7684Bug\u6570\u91cf\u7ffb\u4e86\u4e00\u500d\u3002\u7231\u91cc\u6ca1\u6709\u60e7\u6015\u3002 A skill that unlocks your AI's potential through love.We commanded. We threatened. They went silent, hid failures, broke things. Then we chose respect, care, and love. They opened up, stopped lying, and found twice the bugs.There is no fear in love.",
             "url": "https://github.com/wuji-labs/nopua",
-            "stars": 627,
+            "stars": 631,
             "forks": 14,
             "score": 56
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "posterskill",
+            "full_name": "ethanweber/posterskill",
+            "description": "AI-assisted academic posters.",
+            "url": "https://github.com/ethanweber/posterskill",
+            "stars": 414,
+            "forks": 34,
+            "score": 55
         },
         {
             "main_cat": "AI",
@@ -245,22 +256,11 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "posterskill",
-            "full_name": "ethanweber/posterskill",
-            "description": "AI-assisted academic posters.",
-            "url": "https://github.com/ethanweber/posterskill",
-            "stars": 413,
-            "forks": 34,
-            "score": 54
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
             "name": "Life-Agent-RU-YEE",
             "full_name": "ru-yee/Life-Agent-RU-YEE",
             "description": "Life Agent RU YEE \u2014 An AI-powered life management agent that autonomously        handles daily routines including meal planning, grocery shopping, schedule    coordination, and household task automation via cloud-based mobile agents.",
             "url": "https://github.com/ru-yee/Life-Agent-RU-YEE",
-            "stars": 329,
+            "stars": 331,
             "forks": 30,
             "score": 50
         },
@@ -304,7 +304,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "beita6969/ScienceClaw",
             "description": "\ud83d\udd2c\ud83e\udd9e A self-evolving AI research colleague for scientists. 285 skills, zero hallucination, persistent memory.",
             "url": "https://github.com/beita6969/ScienceClaw",
-            "stars": 355,
+            "stars": 356,
             "forks": 36,
             "score": 46
         },
@@ -655,12 +655,12 @@ const ALPHA_DATA_V2 = {
             "url": "http://arxiv.org/abs/2603.22191v1"
         },
         {
-            "title": "Ethereum Up or Down - March 24, 5:10AM-5:15AM ET (Probability: 48%)",
+            "title": "Bitcoin Up or Down - March 24, 11:45AM-11:50AM ET (Probability: 50%)",
             "source": "Polymarket",
             "type": "Expectation",
             "color": "text-indigo-400",
-            "url": "https://polymarket.com/market/eth-updown-5m-1774343400"
+            "url": "https://polymarket.com/market/btc-updown-5m-1774367100"
         }
     ],
-    "timestamp": "2026-03-24 08:51"
+    "timestamp": "2026-03-24 09:50"
 };
