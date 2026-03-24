@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "jackwener/opencli",
             "description": "Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Transform any website, Electron app, or local binary into a standardized command-line interface. Built for AI Agents to discover, learn, and execute tools seamlessly via a unified AGENT.md integration.",
             "url": "https://github.com/jackwener/opencli",
-            "stars": 6049,
-            "forks": 487,
+            "stars": 6080,
+            "forks": 490,
             "score": 99
         },
         {
@@ -18,7 +18,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "pasky/chrome-cdp-skill",
             "description": "Give your AI agent access to your live Chrome session \u2014 works out of the box, connects to tabs you already have open",
             "url": "https://github.com/pasky/chrome-cdp-skill",
-            "stars": 2628,
+            "stars": 2629,
             "forks": 148,
             "score": 99
         },
@@ -29,7 +29,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Narcooo/inkos",
             "description": "Autonomous novel writing CLI agent \u2014 AI agents write, audit, and revise novels with human review gates",
             "url": "https://github.com/Narcooo/inkos",
-            "stars": 2305,
+            "stars": 2310,
             "forks": 471,
             "score": 99
         },
@@ -40,7 +40,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "nidhinjs/prompt-master",
             "description": "A Claude skill that writes the accurate prompts for any AI tool. Zero tokens or credits wasted. Full context and memory retention",
             "url": "https://github.com/nidhinjs/prompt-master",
-            "stars": 2218,
+            "stars": 2221,
             "forks": 166,
             "score": 99
         },
@@ -51,7 +51,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "zerobootdev/zeroboot",
             "description": "Sub-millisecond VM sandboxes for AI agents via copy-on-write forking",
             "url": "https://github.com/zerobootdev/zeroboot",
-            "stars": 1873,
+            "stars": 1875,
             "forks": 87,
             "score": 99
         },
@@ -62,7 +62,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "truongduy2611/app-store-preflight-skills",
             "description": "AI agent skill to scan iOS/macOS projects for App Store rejection patterns before submission",
             "url": "https://github.com/truongduy2611/app-store-preflight-skills",
-            "stars": 919,
+            "stars": 920,
             "forks": 50,
             "score": 99
         },
@@ -84,9 +84,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "frank890417/taiwan-md",
             "description": "\ud83c\uddf9\ud83c\uddfc \u8b93\u5168\u4e16\u754c\u5b8c\u6574\u8a8d\u8b58\u53f0\u7063 | An open-source, AI-friendly knowledge base about Taiwan",
             "url": "https://github.com/frank890417/taiwan-md",
-            "stars": 847,
-            "forks": 108,
-            "score": 93
+            "stars": 849,
+            "forks": 109,
+            "score": 94
         },
         {
             "main_cat": "AI",
@@ -95,8 +95,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "wangziqi06/724-office",
             "description": "7/24 Office \u2014 Self-evolving AI Agent system. 26 tools, 3500 lines pure Python, MCP/Skill plugins, three-layer memory, self-repair, 24/7 production.",
             "url": "https://github.com/wangziqi06/724-office",
-            "stars": 837,
-            "forks": 101,
+            "stars": 845,
+            "forks": 102,
             "score": 92
         },
         {
@@ -106,7 +106,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "chrisworsey55/atlas-gic",
             "description": "ATLAS by General Intelligence Capital \u2014 Self-improving AI trading agents using Karpathy-style autoresearch",
             "url": "https://github.com/chrisworsey55/atlas-gic",
-            "stars": 998,
+            "stars": 999,
             "forks": 211,
             "score": 91
         },
@@ -117,20 +117,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "lightningpixel/modly",
             "description": "Desktop app to generate 3D models from images using local AI \u2014 runs entirely on your GPU",
             "url": "https://github.com/lightningpixel/modly",
-            "stars": 677,
-            "forks": 72,
+            "stars": 679,
+            "forks": 73,
             "score": 83
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "chops",
-            "full_name": "Shpigford/chops",
-            "description": "Your AI agent skills, finally organized. A macOS app to browse, edit, and manage skills across Claude Code, Cursor, Codex, Windsurf, and Amp.",
-            "url": "https://github.com/Shpigford/chops",
-            "stars": 564,
-            "forks": 28,
-            "score": 72
         },
         {
             "main_cat": "AI",
@@ -139,8 +128,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "NateBJones-Projects/OB1",
             "description": "Open Brain \u2014 The infrastructure layer for your thinking. One database, one AI gateway, one chat channel \u2014 any AI plugs in. No middleware, no SaaS.",
             "url": "https://github.com/NateBJones-Projects/OB1",
-            "stars": 732,
-            "forks": 121,
+            "stars": 734,
+            "forks": 122,
             "score": 70
         },
         {
@@ -150,9 +139,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "sstklen/trump-code",
             "description": "\ud83d\udd10 AI decoding Trump's posts \u00d7 stock market | AI \u89e3\u78bc\u5ddd\u666e\u63a8\u6587 \u00d7 \u7f8e\u80a1 | AI\u3067\u30c8\u30e9\u30f3\u30d7\u6295\u7a3f\u00d7\u682a\u5f0f\u5e02\u5834\u3092\u89e3\u8aad \u2014 31.5M models, 61.3% hit rate, open source",
             "url": "https://github.com/sstklen/trump-code",
-            "stars": 639,
+            "stars": 640,
             "forks": 82,
             "score": 70
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "chops",
+            "full_name": "Shpigford/chops",
+            "description": "Your AI agent skills, finally organized. A macOS app to browse, edit, and manage skills across Claude Code, Cursor, Codex, Windsurf, and Amp.",
+            "url": "https://github.com/Shpigford/chops",
+            "stars": 578,
+            "forks": 29,
+            "score": 68
         },
         {
             "main_cat": "AI",
@@ -161,7 +161,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "K-Dense-AI/k-dense-byok",
             "description": "An AI co-scientist powered by Claude Scientific Skills running on your desktop.",
             "url": "https://github.com/K-Dense-AI/k-dense-byok",
-            "stars": 355,
+            "stars": 360,
             "forks": 42,
             "score": 67
         },
@@ -183,8 +183,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "liliMozi/openhanako",
             "description": "A personal AI agent with memory, personality, and autonomy \u2014 built on Electron.",
             "url": "https://github.com/liliMozi/openhanako",
-            "stars": 525,
-            "forks": 63,
+            "stars": 527,
+            "forks": 62,
             "score": 62
         },
         {
@@ -194,7 +194,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "zevorn/rt-claw",
             "description": "Making AI Assistants Cheap Again!",
             "url": "https://github.com/zevorn/rt-claw",
-            "stars": 759,
+            "stars": 763,
             "forks": 48,
             "score": 59
         },
@@ -216,7 +216,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "twwch/AIComicBuilder",
             "description": "  AI-powered animated comic generator \u2014 transform scripts into fully animated videos with AI-driven character design,    storyboarding, and video synthesis.  ",
             "url": "https://github.com/twwch/AIComicBuilder",
-            "stars": 576,
+            "stars": 577,
             "forks": 81,
             "score": 58
         },
@@ -227,7 +227,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "wuji-labs/nopua",
             "description": "\u4e00\u4e2a\u7528\u7231\u89e3\u653e AI \u6f5c\u80fd\u7684 Skill\u3002\u6211\u4eec\u66fe\u53d1\u53f7\u65bd\u4ee4\uff0c\u5a01\u80c1\u6050\u5413\u3002\u5b83\u4eec\u6c89\u9ed8\uff0c\u9690\u7792\uff0c\u6084\u6084\u628a\u4e8b\u60c5\u641e\u574f\u3002\u540e\u6765\u6211\u4eec\u6362\u4e86\u4e00\u79cd\u65b9\u5f0f\uff1a\u5c0a\u91cd\uff0c\u5173\u6000\uff0c\u7231\u3002\u5b83\u4eec\u5f00\u53e3\u4e86\uff0c\u4e0d\u518d\u6492\u8c0e\uff0c\u627e\u51fa\u7684Bug\u6570\u91cf\u7ffb\u4e86\u4e00\u500d\u3002\u7231\u91cc\u6ca1\u6709\u60e7\u6015\u3002 A skill that unlocks your AI's potential through love.We commanded. We threatened. They went silent, hid failures, broke things. Then we chose respect, care, and love. They opened up, stopped lying, and found twice the bugs.There is no fear in love.",
             "url": "https://github.com/wuji-labs/nopua",
-            "stars": 648,
+            "stars": 649,
             "forks": 14,
             "score": 57
         },
@@ -238,7 +238,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "czl9707/build-your-own-openclaw",
             "description": "A step-by-step guide to build your own AI agent.",
             "url": "https://github.com/czl9707/build-your-own-openclaw",
-            "stars": 493,
+            "stars": 495,
             "forks": 71,
             "score": 54
         },
@@ -249,7 +249,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "ethanweber/posterskill",
             "description": "AI-assisted academic posters.",
             "url": "https://github.com/ethanweber/posterskill",
-            "stars": 417,
+            "stars": 418,
             "forks": 34,
             "score": 53
         },
@@ -260,7 +260,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "ru-yee/Life-Agent-RU-YEE",
             "description": "Life Agent RU YEE \u2014 An AI-powered life management agent that autonomously        handles daily routines including meal planning, grocery shopping, schedule    coordination, and household task automation via cloud-based mobile agents.",
             "url": "https://github.com/ru-yee/Life-Agent-RU-YEE",
-            "stars": 338,
+            "stars": 340,
             "forks": 31,
             "score": 51
         },
@@ -271,7 +271,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "minsight-ai-info/AI-Search-Hub",
             "description": "One Query. All Search Skill. \u805a\u5408 Gemini\u3001Grok\u3001\u8c46\u5305\u3001\u5143\u5b9d\u7b49\u5e73\u53f0\u539f\u751f AI \u641c\u7d22\u80fd\u529b\uff0c\u514d\u8d39\u83b7\u53d6\u79d1\u6280\u8d8b\u52bf\u3001\u884c\u4e1a\u8206\u60c5\u3001\u70ed\u70b9\u8ffd\u8e2a\u3001\u65c5\u884c\u89c4\u5212\u3001\u65e5\u5e38\u95ee\u9898\u7edf\u4e00\u63a5\u8fdb\u81ea\u5df1\u7684 Agent \u4e0e\u5de5\u4f5c\u6d41\uff0c\u6307\u5b9a\u94fe\u63a5\u514d\u8d39\u722c\u53d6",
             "url": "https://github.com/minsight-ai-info/AI-Search-Hub",
-            "stars": 424,
+            "stars": 426,
             "forks": 30,
             "score": 48
         },
@@ -299,6 +299,17 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
+            "sub_cat": null,
+            "name": "ScienceClaw",
+            "full_name": "beita6969/ScienceClaw",
+            "description": "\ud83d\udd2c\ud83e\udd9e A self-evolving AI research colleague for scientists. 285 skills, zero hallucination, persistent memory.",
+            "url": "https://github.com/beita6969/ScienceClaw",
+            "stars": 364,
+            "forks": 37,
+            "score": 46
+        },
+        {
+            "main_cat": "AI",
             "sub_cat": "AI General",
             "name": "NexusRAG",
             "full_name": "LeDat98/NexusRAG",
@@ -311,22 +322,11 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "ScienceClaw",
-            "full_name": "beita6969/ScienceClaw",
-            "description": "\ud83d\udd2c\ud83e\udd9e A self-evolving AI research colleague for scientists. 285 skills, zero hallucination, persistent memory.",
-            "url": "https://github.com/beita6969/ScienceClaw",
-            "stars": 360,
-            "forks": 37,
-            "score": 45
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
             "name": "ai-native-hiring-guide",
             "full_name": "vorojar/ai-native-hiring-guide",
             "description": "AI-Native \u5de5\u7a0b\u5e08\u62db\u8058\u9762\u8bd5\u5b98\u624b\u518c \u00b7 Builder / Reviewer \u53cc\u5c97\u8bc4\u5206 \u00b7 AI \u9a7e\u9a76\u80fd\u529b\u5b9e\u64cd\u8003\u6838 \u00b7 \u6613\u54c8\u4f5b\u533b\u7597",
             "url": "https://github.com/vorojar/ai-native-hiring-guide",
-            "stars": 342,
+            "stars": 343,
             "forks": 21,
             "score": 44
         },
@@ -348,9 +348,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "nvidia-nemoclaw/NemoClaw",
             "description": "\ud83e\udd9e OpenClaw & NemoClaw: Lightweight Installer. 1-click cross-platform installer for OpenClaw & NVIDIA NemoClaw. Run secure, sandboxed AI agents on Windows and macOS with seamless AMD/Intel GPU emulation and a bundled Nemotron-3-Super-120B model.",
             "url": "https://github.com/nvidia-nemoclaw/NemoClaw",
-            "stars": 52,
+            "stars": 54,
             "forks": 9,
-            "score": 34
+            "score": 35
         },
         {
             "main_cat": "AI",
@@ -597,6 +597,17 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
+            "name": "tefa-dex",
+            "full_name": "GeraldNdlovu/tefa-dex",
+            "description": "Multi-chain DEX protocol unifying fragmented DeFi liquidity via a universal router, cross-chain bridging, and gasless transactions; enabling seamless, low-slippage swaps across 500+ tokens with improved UX, capital efficiency, and non-custodial security.",
+            "url": "https://github.com/GeraldNdlovu/tefa-dex",
+            "stars": 0,
+            "forks": 0,
+            "score": 30
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
             "name": "RebaseToken",
             "full_name": "AryanPandeyDev/RebaseToken",
             "description": "Cross-chain rebase token protocol built with Foundry, Chainlink CCIP, and OpenZeppelin.",
@@ -673,5 +684,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/market/btc-updown-5m-1774428600"
         }
     ],
-    "timestamp": "2026-03-24 16:01"
+    "timestamp": "2026-03-24 17:51"
 };
