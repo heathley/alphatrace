@@ -7,7 +7,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "jackwener/opencli",
             "description": "Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Transform any website, Electron app, or local binary into a standardized command-line interface. Built for AI Agents to discover, learn, and execute tools seamlessly via a unified AGENT.md integration.",
             "url": "https://github.com/jackwener/opencli",
-            "stars": 6596,
+            "stars": 6644,
             "forks": 533,
             "score": 99
         },
@@ -18,7 +18,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "pasky/chrome-cdp-skill",
             "description": "Give your AI agent access to your live Chrome session \u2014 works out of the box, connects to tabs you already have open",
             "url": "https://github.com/pasky/chrome-cdp-skill",
-            "stars": 2653,
+            "stars": 2656,
             "forks": 150,
             "score": 99
         },
@@ -29,7 +29,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Narcooo/inkos",
             "description": "Autonomous novel writing CLI agent \u2014 AI agents write, audit, and revise novels with human review gates",
             "url": "https://github.com/Narcooo/inkos",
-            "stars": 2384,
+            "stars": 2389,
             "forks": 476,
             "score": 99
         },
@@ -40,7 +40,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "zerobootdev/zeroboot",
             "description": "Sub-millisecond VM sandboxes for AI agents via copy-on-write forking",
             "url": "https://github.com/zerobootdev/zeroboot",
-            "stars": 1902,
+            "stars": 1903,
             "forks": 89,
             "score": 99
         },
@@ -51,7 +51,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "mattprusak/autoresearch-genealogy",
             "description": "Structured prompts, vault templates, and archive guides for AI-assisted genealogy research. Built for Claude Code.",
             "url": "https://github.com/mattprusak/autoresearch-genealogy",
-            "stars": 917,
+            "stars": 919,
             "forks": 78,
             "score": 98
         },
@@ -62,7 +62,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "truongduy2611/app-store-preflight-skills",
             "description": "AI agent skill to scan iOS/macOS projects for App Store rejection patterns before submission",
             "url": "https://github.com/truongduy2611/app-store-preflight-skills",
-            "stars": 935,
+            "stars": 937,
             "forks": 52,
             "score": 93
         },
@@ -106,9 +106,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "Shpigford/chops",
             "description": "Your AI agent skills, finally organized. A macOS app to browse, edit, and manage skills across Claude Code, Cursor, Codex, Windsurf, and Amp.",
             "url": "https://github.com/Shpigford/chops",
-            "stars": 649,
+            "stars": 650,
             "forks": 37,
             "score": 74
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "ai-engineering-interview-questions",
+            "full_name": "amitshekhariitbhu/ai-engineering-interview-questions",
+            "description": "Your Cheat Sheet for AI Engineering Interview \u2013 Questions and Answers.",
+            "url": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions",
+            "stars": 300,
+            "forks": 74,
+            "score": 72
         },
         {
             "main_cat": "AI",
@@ -150,7 +161,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Michaelliv/pi-generative-ui",
             "description": "Claude.ai's generative UI \u2014 reverse-engineered, rebuilt for pi. Interactive HTML/SVG widgets in native macOS windows.",
             "url": "https://github.com/Michaelliv/pi-generative-ui",
-            "stars": 819,
+            "stars": 820,
             "forks": 46,
             "score": 63
         },
@@ -172,7 +183,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "joeseesun/markdown-proxy",
             "description": "Fetch any URL as clean Markdown via proxy services (r.jina.ai / defuddle.md) or built-in scripts. Works with login-required pages like X/Twitter, WeCh",
             "url": "https://github.com/joeseesun/markdown-proxy",
-            "stars": 289,
+            "stars": 290,
             "forks": 17,
             "score": 59
         },
@@ -183,7 +194,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "wuji-labs/nopua",
             "description": "\u4e00\u4e2a\u7528\u7231\u89e3\u653e AI \u6f5c\u80fd\u7684 Skill\u3002\u6211\u4eec\u66fe\u53d1\u53f7\u65bd\u4ee4\uff0c\u5a01\u80c1\u6050\u5413\u3002\u5b83\u4eec\u6c89\u9ed8\uff0c\u9690\u7792\uff0c\u6084\u6084\u628a\u4e8b\u60c5\u641e\u574f\u3002\u540e\u6765\u6211\u4eec\u6362\u4e86\u4e00\u79cd\u65b9\u5f0f\uff1a\u5c0a\u91cd\uff0c\u5173\u6000\uff0c\u7231\u3002\u5b83\u4eec\u5f00\u53e3\u4e86\uff0c\u4e0d\u518d\u6492\u8c0e\uff0c\u627e\u51fa\u7684Bug\u6570\u91cf\u7ffb\u4e86\u4e00\u500d\u3002\u7231\u91cc\u6ca1\u6709\u60e7\u6015\u3002 A skill that unlocks your AI's potential through love.We commanded. We threatened. They went silent, hid failures, broke things. Then we chose respect, care, and love. They opened up, stopped lying, and found twice the bugs.There is no fear in love.",
             "url": "https://github.com/wuji-labs/nopua",
-            "stars": 669,
+            "stars": 670,
             "forks": 14,
             "score": 55
         },
@@ -205,7 +216,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "ru-yee/Life-Agent-RU-YEE",
             "description": "Life Agent RU YEE \u2014 An AI-powered life management agent that autonomously        handles daily routines including meal planning, grocery shopping, schedule    coordination, and household task automation via cloud-based mobile agents.",
             "url": "https://github.com/ru-yee/Life-Agent-RU-YEE",
-            "stars": 372,
+            "stars": 376,
             "forks": 35,
             "score": 51
         },
@@ -227,7 +238,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "AnnaSuSu/TechSpar",
             "description": "\u5e26\u957f\u671f\u8bb0\u5fc6\u7684 AI \u9762\u8bd5\u6559\u7ec3\uff0c\u6301\u7eed\u8ffd\u8e2a\u8584\u5f31\u70b9\u4e0e\u638c\u63e1\u5ea6\uff0c\u81ea\u52a8\u751f\u6210\u66f4\u7cbe\u51c6\u7684\u6280\u672f\u9762\u8bd5\u9898\u3002",
             "url": "https://github.com/AnnaSuSu/TechSpar",
-            "stars": 288,
+            "stars": 292,
             "forks": 31,
             "score": 48
         },
@@ -238,7 +249,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "minsight-ai-info/AI-Search-Hub",
             "description": "One Query. All Search Skill. \u805a\u5408 Gemini\u3001Grok\u3001\u8c46\u5305\u3001\u5143\u5b9d\u7b49\u5e73\u53f0\u539f\u751f AI \u641c\u7d22\u80fd\u529b\uff0c\u514d\u8d39\u83b7\u53d6\u79d1\u6280\u8d8b\u52bf\u3001\u884c\u4e1a\u8206\u60c5\u3001\u70ed\u70b9\u8ffd\u8e2a\u3001\u65c5\u884c\u89c4\u5212\u3001\u65e5\u5e38\u95ee\u9898\u7edf\u4e00\u63a5\u8fdb\u81ea\u5df1\u7684 Agent \u4e0e\u5de5\u4f5c\u6d41\uff0c\u6307\u5b9a\u94fe\u63a5\u514d\u8d39\u722c\u53d6",
             "url": "https://github.com/minsight-ai-info/AI-Search-Hub",
-            "stars": 438,
+            "stars": 439,
             "forks": 32,
             "score": 47
         },
@@ -260,7 +271,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "kamranahmedse/diffity",
             "description": "GitHub-style diff viewer for reviewing code changes. Works with Claude Code, Cursor and other AI tools.",
             "url": "https://github.com/kamranahmedse/diffity",
-            "stars": 323,
+            "stars": 324,
             "forks": 13,
             "score": 47
         },
@@ -271,7 +282,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "raroque/vibe-security-skill",
             "description": "Agent skill that audits vibe-coded apps for common security vulnerabilities introduced by AI coding assistants",
             "url": "https://github.com/raroque/vibe-security-skill",
-            "stars": 297,
+            "stars": 298,
             "forks": 26,
             "score": 45
         },
@@ -293,7 +304,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "vorojar/ai-native-hiring-guide",
             "description": "AI-Native \u5de5\u7a0b\u5e08\u62db\u8058\u9762\u8bd5\u5b98\u624b\u518c \u00b7 Builder / Reviewer \u53cc\u5c97\u8bc4\u5206 \u00b7 AI \u9a7e\u9a76\u80fd\u529b\u5b9e\u64cd\u8003\u6838 \u00b7 \u6613\u54c8\u4f5b\u533b\u7597",
             "url": "https://github.com/vorojar/ai-native-hiring-guide",
-            "stars": 351,
+            "stars": 352,
             "forks": 21,
             "score": 43
         },
@@ -318,17 +329,6 @@ const ALPHA_DATA_V2 = {
             "stars": 335,
             "forks": 3,
             "score": 41
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "sdk-py",
-            "full_name": "KeyID-AI/sdk-py",
-            "description": "Free email for AI agents. No signup, no human needed. Install \u2192 provision \u2192 send and receive. Ed25519 keypair auth.",
-            "url": "https://github.com/KeyID-AI/sdk-py",
-            "stars": 285,
-            "forks": 0,
-            "score": 39
         },
         {
             "main_cat": "DePIN",
@@ -688,12 +688,12 @@ const ALPHA_DATA_V2 = {
             "url": "http://arxiv.org/abs/2603.23459v1"
         },
         {
-            "title": "Will the price of Solana be between $130 and $140 on March 30? (Probability: 0%)",
+            "title": "Bitcoin Up or Down - March 26, 8:45AM-9:00AM ET (Probability: 50%)",
             "source": "Polymarket",
             "type": "Expectation",
             "color": "text-indigo-400",
-            "url": "https://polymarket.com/market/will-the-price-of-solana-be-between-130-140-on-march-30"
+            "url": "https://polymarket.com/market/btc-updown-15m-1774529100"
         }
     ],
-    "timestamp": "2026-03-25 12:55"
+    "timestamp": "2026-03-25 14:16"
 };
