@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "jackwener/opencli",
             "description": "Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Transform any website, Electron app, or local binary into a standardized command-line interface. Built for AI Agents to discover, learn, and execute tools seamlessly via a unified AGENT.md integration.",
             "url": "https://github.com/jackwener/opencli",
-            "stars": 6779,
-            "forks": 543,
+            "stars": 6797,
+            "forks": 545,
             "score": 99
         },
         {
@@ -30,7 +30,7 @@ const ALPHA_DATA_V2 = {
             "description": "Autonomous novel writing CLI agent \u2014 AI agents write, audit, and revise novels with human review gates",
             "url": "https://github.com/Narcooo/inkos",
             "stars": 2399,
-            "forks": 479,
+            "forks": 480,
             "score": 99
         },
         {
@@ -40,9 +40,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "zerobootdev/zeroboot",
             "description": "Sub-millisecond VM sandboxes for AI agents via copy-on-write forking",
             "url": "https://github.com/zerobootdev/zeroboot",
-            "stars": 1908,
+            "stars": 1909,
             "forks": 89,
             "score": 99
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "app-store-preflight-skills",
+            "full_name": "truongduy2611/app-store-preflight-skills",
+            "description": "AI agent skill to scan iOS/macOS projects for App Store rejection patterns before submission",
+            "url": "https://github.com/truongduy2611/app-store-preflight-skills",
+            "stars": 942,
+            "forks": 53,
+            "score": 94
         },
         {
             "main_cat": "AI",
@@ -53,18 +64,7 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/mattprusak/autoresearch-genealogy",
             "stars": 922,
             "forks": 79,
-            "score": 98
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "app-store-preflight-skills",
-            "full_name": "truongduy2611/app-store-preflight-skills",
-            "description": "AI agent skill to scan iOS/macOS projects for App Store rejection patterns before submission",
-            "url": "https://github.com/truongduy2611/app-store-preflight-skills",
-            "stars": 941,
-            "forks": 53,
-            "score": 94
+            "score": 91
         },
         {
             "main_cat": "AI",
@@ -90,25 +90,25 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "modly",
-            "full_name": "lightningpixel/modly",
-            "description": "Desktop app to generate 3D models from images using local AI \u2014 runs entirely on your GPU",
-            "url": "https://github.com/lightningpixel/modly",
-            "stars": 696,
-            "forks": 76,
-            "score": 80
-        },
-        {
-            "main_cat": "AI",
             "sub_cat": null,
             "name": "ai-engineering-interview-questions",
             "full_name": "amitshekhariitbhu/ai-engineering-interview-questions",
             "description": "Your Cheat Sheet for AI Engineering Interview \u2013 Questions and Answers.",
             "url": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions",
-            "stars": 336,
-            "forks": 80,
-            "score": 76
+            "stars": 341,
+            "forks": 82,
+            "score": 77
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "modly",
+            "full_name": "lightningpixel/modly",
+            "description": "Desktop app to generate 3D models from images using local AI \u2014 runs entirely on your GPU",
+            "url": "https://github.com/lightningpixel/modly",
+            "stars": 697,
+            "forks": 76,
+            "score": 75
         },
         {
             "main_cat": "AI",
@@ -117,7 +117,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Shpigford/chops",
             "description": "Your AI agent skills, finally organized. A macOS app to browse, edit, and manage skills across Claude Code, Cursor, Codex, Windsurf, and Amp.",
             "url": "https://github.com/Shpigford/chops",
-            "stars": 661,
+            "stars": 666,
             "forks": 38,
             "score": 70
         },
@@ -150,7 +150,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "0din-ai/ai-scanner",
             "description": "AI model safety scanner built on NVIDIA garak",
             "url": "https://github.com/0din-ai/ai-scanner",
-            "stars": 326,
+            "stars": 327,
             "forks": 59,
             "score": 65
         },
@@ -194,7 +194,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "jobrunr/JavaClaw",
             "description": "JavaClaw, a Java version of OpenClaw built on Spring Boot, Spring AI and JobRunr",
             "url": "https://github.com/jobrunr/JavaClaw",
-            "stars": 295,
+            "stars": 298,
             "forks": 60,
             "score": 54
         },
@@ -216,7 +216,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "ru-yee/Life-Agent-RU-YEE",
             "description": "Life Agent RU YEE \u2014 An AI-powered life management agent that autonomously        handles daily routines including meal planning, grocery shopping, schedule    coordination, and household task automation via cloud-based mobile agents.",
             "url": "https://github.com/ru-yee/Life-Agent-RU-YEE",
-            "stars": 379,
+            "stars": 380,
             "forks": 35,
             "score": 51
         },
@@ -227,7 +227,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "AnnaSuSu/TechSpar",
             "description": "\u5e26\u957f\u671f\u8bb0\u5fc6\u7684 AI \u9762\u8bd5\u6559\u7ec3\uff0c\u6301\u7eed\u8ffd\u8e2a\u8584\u5f31\u70b9\u4e0e\u638c\u63e1\u5ea6\uff0c\u81ea\u52a8\u751f\u6210\u66f4\u7cbe\u51c6\u7684\u6280\u672f\u9762\u8bd5\u9898\u3002",
             "url": "https://github.com/AnnaSuSu/TechSpar",
-            "stars": 294,
+            "stars": 295,
             "forks": 32,
             "score": 49
         },
@@ -271,8 +271,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "kamranahmedse/diffity",
             "description": "GitHub-style diff viewer for reviewing code changes. Works with Claude Code, Cursor and other AI tools.",
             "url": "https://github.com/kamranahmedse/diffity",
-            "stars": 334,
-            "forks": 13,
+            "stars": 335,
+            "forks": 14,
             "score": 47
         },
         {
@@ -282,7 +282,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "raroque/vibe-security-skill",
             "description": "Agent skill that audits vibe-coded apps for common security vulnerabilities introduced by AI coding assistants",
             "url": "https://github.com/raroque/vibe-security-skill",
-            "stars": 301,
+            "stars": 303,
             "forks": 26,
             "score": 45
         },
@@ -677,12 +677,12 @@ const ALPHA_DATA_V2 = {
             "url": "http://arxiv.org/abs/2603.23459v1"
         },
         {
-            "title": "Will \"Derrick Stroup: Nostalgic\" be the top US Netflix show this week? (Probability: 1%)",
+            "title": "Bitcoin Up or Down - March 25, 3:35PM-3:40PM ET (Probability: 50%)",
             "source": "Polymarket",
             "type": "Expectation",
             "color": "text-indigo-400",
-            "url": "https://polymarket.com/market/will-derrick-stroup-nostalgic-be-the-top-us-netflix-show-this-week-468"
+            "url": "https://polymarket.com/market/btc-updown-5m-1774467300"
         }
     ],
-    "timestamp": "2026-03-25 17:53"
+    "timestamp": "2026-03-25 18:49"
 };
