@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "jackwener/opencli",
             "description": "Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Transform any website, Electron app, or local binary into a standardized command-line interface. Built for AI Agents to discover, learn, and execute tools seamlessly via a unified AGENT.md integration.",
             "url": "https://github.com/jackwener/opencli",
-            "stars": 6828,
-            "forks": 549,
+            "stars": 6838,
+            "forks": 551,
             "score": 99
         },
         {
@@ -95,7 +95,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "amitshekhariitbhu/ai-engineering-interview-questions",
             "description": "Your Cheat Sheet for AI Engineering Interview \u2013 Questions and Answers.",
             "url": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions",
-            "stars": 356,
+            "stars": 359,
             "forks": 83,
             "score": 79
         },
@@ -106,20 +106,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "lightningpixel/modly",
             "description": "Desktop app to generate 3D models from images using local AI \u2014 runs entirely on your GPU",
             "url": "https://github.com/lightningpixel/modly",
-            "stars": 697,
+            "stars": 699,
             "forks": 77,
             "score": 75
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "chops",
-            "full_name": "Shpigford/chops",
-            "description": "Your AI agent skills, finally organized. A macOS app to browse, edit, and manage skills across Claude Code, Cursor, Codex, Windsurf, and Amp.",
-            "url": "https://github.com/Shpigford/chops",
-            "stars": 672,
-            "forks": 39,
-            "score": 71
         },
         {
             "main_cat": "AI",
@@ -128,8 +117,19 @@ const ALPHA_DATA_V2 = {
             "full_name": "CoderLuii/HolyClaude",
             "description": "AI coding workstation: Claude Code + web UI + 5 AI CLIs + headless browser + 50+ tools",
             "url": "https://github.com/CoderLuii/HolyClaude",
-            "stars": 324,
-            "forks": 44,
+            "stars": 355,
+            "forks": 46,
+            "score": 74
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "chops",
+            "full_name": "Shpigford/chops",
+            "description": "Your AI agent skills, finally organized. A macOS app to browse, edit, and manage skills across Claude Code, Cursor, Codex, Windsurf, and Amp.",
+            "url": "https://github.com/Shpigford/chops",
+            "stars": 673,
+            "forks": 39,
             "score": 71
         },
         {
@@ -139,20 +139,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "sstklen/trump-code",
             "description": "\ud83d\udd10 AI decoding Trump's posts \u00d7 stock market | AI \u89e3\u78bc\u5ddd\u666e\u63a8\u6587 \u00d7 \u7f8e\u80a1 | AI\u3067\u30c8\u30e9\u30f3\u30d7\u6295\u7a3f\u00d7\u682a\u5f0f\u5e02\u5834\u3092\u89e3\u8aad \u2014 31.5M models, 61.3% hit rate, open source",
             "url": "https://github.com/sstklen/trump-code",
-            "stars": 652,
+            "stars": 653,
             "forks": 82,
             "score": 67
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "k-dense-byok",
-            "full_name": "K-Dense-AI/k-dense-byok",
-            "description": "An AI co-scientist powered by Claude Scientific Skills running on your desktop.",
-            "url": "https://github.com/K-Dense-AI/k-dense-byok",
-            "stars": 388,
-            "forks": 46,
-            "score": 65
         },
         {
             "main_cat": "AI",
@@ -163,7 +152,7 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/Michaelliv/pi-generative-ui",
             "stars": 821,
             "forks": 46,
-            "score": 63
+            "score": 61
         },
         {
             "main_cat": "AI",
@@ -172,8 +161,19 @@ const ALPHA_DATA_V2 = {
             "full_name": "liliMozi/openhanako",
             "description": "A personal AI agent with memory, personality, and autonomy \u2014 built on Electron.",
             "url": "https://github.com/liliMozi/openhanako",
-            "stars": 551,
+            "stars": 552,
             "forks": 64,
+            "score": 61
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "k-dense-byok",
+            "full_name": "K-Dense-AI/k-dense-byok",
+            "description": "An AI co-scientist powered by Claude Scientific Skills running on your desktop.",
+            "url": "https://github.com/K-Dense-AI/k-dense-byok",
+            "stars": 388,
+            "forks": 46,
             "score": 61
         },
         {
@@ -183,7 +183,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "0din-ai/ai-scanner",
             "description": "AI model safety scanner built on NVIDIA garak",
             "url": "https://github.com/0din-ai/ai-scanner",
-            "stars": 328,
+            "stars": 329,
             "forks": 60,
             "score": 61
         },
@@ -194,7 +194,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "wuji-labs/nopua",
             "description": "\u4e00\u4e2a\u7528\u7231\u89e3\u653e AI \u6f5c\u80fd\u7684 Skill\u3002\u6211\u4eec\u66fe\u53d1\u53f7\u65bd\u4ee4\uff0c\u5a01\u80c1\u6050\u5413\u3002\u5b83\u4eec\u6c89\u9ed8\uff0c\u9690\u7792\uff0c\u6084\u6084\u628a\u4e8b\u60c5\u641e\u574f\u3002\u540e\u6765\u6211\u4eec\u6362\u4e86\u4e00\u79cd\u65b9\u5f0f\uff1a\u5c0a\u91cd\uff0c\u5173\u6000\uff0c\u7231\u3002\u5b83\u4eec\u5f00\u53e3\u4e86\uff0c\u4e0d\u518d\u6492\u8c0e\uff0c\u627e\u51fa\u7684Bug\u6570\u91cf\u7ffb\u4e86\u4e00\u500d\u3002\u7231\u91cc\u6ca1\u6709\u60e7\u6015\u3002 A skill that unlocks your AI's potential through love.We commanded. We threatened. They went silent, hid failures, broke things. Then we chose respect, care, and love. They opened up, stopped lying, and found twice the bugs.There is no fear in love.",
             "url": "https://github.com/wuji-labs/nopua",
-            "stars": 676,
+            "stars": 677,
             "forks": 14,
             "score": 56
         },
@@ -227,7 +227,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "ethanweber/posterskill",
             "description": "AI-assisted academic posters.",
             "url": "https://github.com/ethanweber/posterskill",
-            "stars": 419,
+            "stars": 421,
             "forks": 34,
             "score": 51
         },
@@ -249,7 +249,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "my-claude-utils/clsh",
             "description": "Access your terminal and your AI agent from any device \u2014 phone, tablet, desktop.",
             "url": "https://github.com/my-claude-utils/clsh",
-            "stars": 350,
+            "stars": 351,
             "forks": 32,
             "score": 47
         },
@@ -315,7 +315,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "KeyID-AI/sdk-js",
             "description": "Free email for AI agents. No signup, no human needed. Install \u2192 provision \u2192 send and receive. Ed25519 keypair auth.",
             "url": "https://github.com/KeyID-AI/sdk-js",
-            "stars": 339,
+            "stars": 342,
             "forks": 3,
             "score": 41
         },
@@ -326,7 +326,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "KeyID-AI/sdk-py",
             "description": "Free email for AI agents. No signup, no human needed. Install \u2192 provision \u2192 send and receive. Ed25519 keypair auth.",
             "url": "https://github.com/KeyID-AI/sdk-py",
-            "stars": 303,
+            "stars": 307,
             "forks": 0,
             "score": 40
         },
@@ -677,12 +677,12 @@ const ALPHA_DATA_V2 = {
             "url": "http://arxiv.org/abs/2603.23459v1"
         },
         {
-            "title": "Solana Up or Down - March 26, 1:10PM-1:15PM ET (Probability: 50%)",
+            "title": "Ethereum Up or Down - March 26, 1:00PM-1:15PM ET (Probability: 50%)",
             "source": "Polymarket",
             "type": "Expectation",
             "color": "text-indigo-400",
-            "url": "https://polymarket.com/market/sol-updown-5m-1774545000"
+            "url": "https://polymarket.com/market/eth-updown-15m-1774544400"
         }
     ],
-    "timestamp": "2026-03-25 22:29"
+    "timestamp": "2026-03-25 23:28"
 };
