@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "jackwener/opencli",
             "description": "Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Transform any website, Electron app, or local binary into a standardized command-line interface. Built for AI Agents to discover, learn, and execute tools seamlessly via a unified AGENT.md integration.",
             "url": "https://github.com/jackwener/opencli",
-            "stars": 6797,
-            "forks": 545,
+            "stars": 6804,
+            "forks": 546,
             "score": 99
         },
         {
@@ -29,8 +29,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "Narcooo/inkos",
             "description": "Autonomous novel writing CLI agent \u2014 AI agents write, audit, and revise novels with human review gates",
             "url": "https://github.com/Narcooo/inkos",
-            "stars": 2399,
-            "forks": 480,
+            "stars": 2400,
+            "forks": 481,
             "score": 99
         },
         {
@@ -40,7 +40,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "zerobootdev/zeroboot",
             "description": "Sub-millisecond VM sandboxes for AI agents via copy-on-write forking",
             "url": "https://github.com/zerobootdev/zeroboot",
-            "stars": 1909,
+            "stars": 1911,
             "forks": 89,
             "score": 99
         },
@@ -95,9 +95,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "amitshekhariitbhu/ai-engineering-interview-questions",
             "description": "Your Cheat Sheet for AI Engineering Interview \u2013 Questions and Answers.",
             "url": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions",
-            "stars": 341,
-            "forks": 82,
-            "score": 77
+            "stars": 346,
+            "forks": 83,
+            "score": 78
         },
         {
             "main_cat": "AI",
@@ -117,9 +117,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "Shpigford/chops",
             "description": "Your AI agent skills, finally organized. A macOS app to browse, edit, and manage skills across Claude Code, Cursor, Codex, Windsurf, and Amp.",
             "url": "https://github.com/Shpigford/chops",
-            "stars": 666,
+            "stars": 669,
             "forks": 38,
-            "score": 70
+            "score": 71
         },
         {
             "main_cat": "AI",
@@ -139,7 +139,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "K-Dense-AI/k-dense-byok",
             "description": "An AI co-scientist powered by Claude Scientific Skills running on your desktop.",
             "url": "https://github.com/K-Dense-AI/k-dense-byok",
-            "stars": 387,
+            "stars": 388,
             "forks": 46,
             "score": 65
         },
@@ -150,8 +150,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "0din-ai/ai-scanner",
             "description": "AI model safety scanner built on NVIDIA garak",
             "url": "https://github.com/0din-ai/ai-scanner",
-            "stars": 327,
-            "forks": 59,
+            "stars": 328,
+            "forks": 60,
             "score": 65
         },
         {
@@ -194,8 +194,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "jobrunr/JavaClaw",
             "description": "JavaClaw, a Java version of OpenClaw built on Spring Boot, Spring AI and JobRunr",
             "url": "https://github.com/jobrunr/JavaClaw",
-            "stars": 298,
-            "forks": 60,
+            "stars": 299,
+            "forks": 61,
             "score": 54
         },
         {
@@ -216,7 +216,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "ru-yee/Life-Agent-RU-YEE",
             "description": "Life Agent RU YEE \u2014 An AI-powered life management agent that autonomously        handles daily routines including meal planning, grocery shopping, schedule    coordination, and household task automation via cloud-based mobile agents.",
             "url": "https://github.com/ru-yee/Life-Agent-RU-YEE",
-            "stars": 380,
+            "stars": 383,
             "forks": 35,
             "score": 51
         },
@@ -271,9 +271,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "kamranahmedse/diffity",
             "description": "GitHub-style diff viewer for reviewing code changes. Works with Claude Code, Cursor and other AI tools.",
             "url": "https://github.com/kamranahmedse/diffity",
-            "stars": 335,
+            "stars": 336,
             "forks": 14,
-            "score": 47
+            "score": 46
         },
         {
             "main_cat": "AI",
@@ -315,7 +315,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "vibeeval/vibecosystem",
             "description": "121 agents, 223 skills, 49 hooks \u2014 AI software team built on Claude Code. No custom model. No custom API. Just good engineering.",
             "url": "https://github.com/vibeeval/vibecosystem",
-            "stars": 294,
+            "stars": 295,
             "forks": 22,
             "score": 43
         },
@@ -326,7 +326,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "KeyID-AI/sdk-js",
             "description": "Free email for AI agents. No signup, no human needed. Install \u2192 provision \u2192 send and receive. Ed25519 keypair auth.",
             "url": "https://github.com/KeyID-AI/sdk-js",
-            "stars": 334,
+            "stars": 335,
             "forks": 3,
             "score": 41
         },
@@ -677,12 +677,12 @@ const ALPHA_DATA_V2 = {
             "url": "http://arxiv.org/abs/2603.23459v1"
         },
         {
-            "title": "Bitcoin Up or Down - March 25, 3:35PM-3:40PM ET (Probability: 50%)",
+            "title": "Bitcoin Up or Down - March 26, 3:15PM-3:20PM ET (Probability: 50%)",
             "source": "Polymarket",
             "type": "Expectation",
             "color": "text-indigo-400",
-            "url": "https://polymarket.com/market/btc-updown-5m-1774467300"
+            "url": "https://polymarket.com/market/btc-updown-5m-1774552500"
         }
     ],
-    "timestamp": "2026-03-25 18:49"
+    "timestamp": "2026-03-25 19:42"
 };
