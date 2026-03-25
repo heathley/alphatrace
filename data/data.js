@@ -7,7 +7,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "jackwener/opencli",
             "description": "Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Transform any website, Electron app, or local binary into a standardized command-line interface. Built for AI Agents to discover, learn, and execute tools seamlessly via a unified AGENT.md integration.",
             "url": "https://github.com/jackwener/opencli",
-            "stars": 6812,
+            "stars": 6816,
             "forks": 548,
             "score": 99
         },
@@ -18,7 +18,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "pasky/chrome-cdp-skill",
             "description": "Give your AI agent access to your live Chrome session \u2014 works out of the box, connects to tabs you already have open",
             "url": "https://github.com/pasky/chrome-cdp-skill",
-            "stars": 2657,
+            "stars": 2658,
             "forks": 150,
             "score": 99
         },
@@ -29,7 +29,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Narcooo/inkos",
             "description": "Autonomous novel writing CLI agent \u2014 AI agents write, audit, and revise novels with human review gates",
             "url": "https://github.com/Narcooo/inkos",
-            "stars": 2400,
+            "stars": 2401,
             "forks": 482,
             "score": 99
         },
@@ -73,9 +73,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "wangziqi06/724-office",
             "description": "7/24 Office \u2014 Self-evolving AI Agent system. 26 tools, 3500 lines pure Python, MCP/Skill plugins, three-layer memory, self-repair, 24/7 production.",
             "url": "https://github.com/wangziqi06/724-office",
-            "stars": 879,
+            "stars": 880,
             "forks": 110,
-            "score": 89
+            "score": 90
         },
         {
             "main_cat": "AI",
@@ -95,9 +95,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "amitshekhariitbhu/ai-engineering-interview-questions",
             "description": "Your Cheat Sheet for AI Engineering Interview \u2013 Questions and Answers.",
             "url": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions",
-            "stars": 353,
+            "stars": 356,
             "forks": 83,
-            "score": 78
+            "score": 79
         },
         {
             "main_cat": "AI",
@@ -123,12 +123,23 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
+            "sub_cat": null,
+            "name": "HolyClaude",
+            "full_name": "CoderLuii/HolyClaude",
+            "description": "AI coding workstation: Claude Code + web UI + 5 AI CLIs + headless browser + 50+ tools",
+            "url": "https://github.com/CoderLuii/HolyClaude",
+            "stars": 296,
+            "forks": 40,
+            "score": 68
+        },
+        {
+            "main_cat": "AI",
             "sub_cat": "AI General",
             "name": "trump-code",
             "full_name": "sstklen/trump-code",
             "description": "\ud83d\udd10 AI decoding Trump's posts \u00d7 stock market | AI \u89e3\u78bc\u5ddd\u666e\u63a8\u6587 \u00d7 \u7f8e\u80a1 | AI\u3067\u30c8\u30e9\u30f3\u30d7\u6295\u7a3f\u00d7\u682a\u5f0f\u5e02\u5834\u3092\u89e3\u8aad \u2014 31.5M models, 61.3% hit rate, open source",
             "url": "https://github.com/sstklen/trump-code",
-            "stars": 650,
+            "stars": 652,
             "forks": 82,
             "score": 67
         },
@@ -201,23 +212,23 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
+            "name": "Life-Agent-RU-YEE",
+            "full_name": "ru-yee/Life-Agent-RU-YEE",
+            "description": "Life Agent RU YEE \u2014 An AI-powered life management agent that autonomously        handles daily routines including meal planning, grocery shopping, schedule    coordination, and household task automation via cloud-based mobile agents.",
+            "url": "https://github.com/ru-yee/Life-Agent-RU-YEE",
+            "stars": 390,
+            "forks": 35,
+            "score": 52
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
             "name": "posterskill",
             "full_name": "ethanweber/posterskill",
             "description": "AI-assisted academic posters.",
             "url": "https://github.com/ethanweber/posterskill",
             "stars": 419,
             "forks": 34,
-            "score": 51
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "Life-Agent-RU-YEE",
-            "full_name": "ru-yee/Life-Agent-RU-YEE",
-            "description": "Life Agent RU YEE \u2014 An AI-powered life management agent that autonomously        handles daily routines including meal planning, grocery shopping, schedule    coordination, and household task automation via cloud-based mobile agents.",
-            "url": "https://github.com/ru-yee/Life-Agent-RU-YEE",
-            "stars": 387,
-            "forks": 35,
             "score": 51
         },
         {
@@ -271,7 +282,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "raroque/vibe-security-skill",
             "description": "Agent skill that audits vibe-coded apps for common security vulnerabilities introduced by AI coding assistants",
             "url": "https://github.com/raroque/vibe-security-skill",
-            "stars": 304,
+            "stars": 305,
             "forks": 26,
             "score": 45
         },
@@ -299,23 +310,12 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "vibecosystem",
-            "full_name": "vibeeval/vibecosystem",
-            "description": "121 agents, 223 skills, 49 hooks \u2014 AI software team built on Claude Code. No custom model. No custom API. Just good engineering.",
-            "url": "https://github.com/vibeeval/vibecosystem",
-            "stars": 295,
-            "forks": 23,
-            "score": 43
-        },
-        {
-            "main_cat": "AI",
             "sub_cat": null,
             "name": "sdk-js",
             "full_name": "KeyID-AI/sdk-js",
             "description": "Free email for AI agents. No signup, no human needed. Install \u2192 provision \u2192 send and receive. Ed25519 keypair auth.",
             "url": "https://github.com/KeyID-AI/sdk-js",
-            "stars": 336,
+            "stars": 338,
             "forks": 3,
             "score": 41
         },
@@ -326,9 +326,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "KeyID-AI/sdk-py",
             "description": "Free email for AI agents. No signup, no human needed. Install \u2192 provision \u2192 send and receive. Ed25519 keypair auth.",
             "url": "https://github.com/KeyID-AI/sdk-py",
-            "stars": 299,
+            "stars": 300,
             "forks": 0,
-            "score": 39
+            "score": 40
         },
         {
             "main_cat": "DePIN",
@@ -677,12 +677,12 @@ const ALPHA_DATA_V2 = {
             "url": "http://arxiv.org/abs/2603.23459v1"
         },
         {
-            "title": "Solana Up or Down - March 26, 4:00PM-4:15PM ET (Probability: 50%)",
+            "title": "Solana Up or Down - March 26, 1:10PM-1:15PM ET (Probability: 50%)",
             "source": "Polymarket",
             "type": "Expectation",
             "color": "text-indigo-400",
-            "url": "https://polymarket.com/market/sol-updown-15m-1774555200"
+            "url": "https://polymarket.com/market/sol-updown-5m-1774545000"
         }
     ],
-    "timestamp": "2026-03-25 20:33"
+    "timestamp": "2026-03-25 21:33"
 };
