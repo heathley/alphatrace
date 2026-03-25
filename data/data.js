@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "jackwener/opencli",
             "description": "Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Transform any website, Electron app, or local binary into a standardized command-line interface. Built for AI Agents to discover, learn, and execute tools seamlessly via a unified AGENT.md integration.",
             "url": "https://github.com/jackwener/opencli",
-            "stars": 6804,
-            "forks": 546,
+            "stars": 6812,
+            "forks": 548,
             "score": 99
         },
         {
@@ -30,7 +30,7 @@ const ALPHA_DATA_V2 = {
             "description": "Autonomous novel writing CLI agent \u2014 AI agents write, audit, and revise novels with human review gates",
             "url": "https://github.com/Narcooo/inkos",
             "stars": 2400,
-            "forks": 481,
+            "forks": 482,
             "score": 99
         },
         {
@@ -51,7 +51,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "truongduy2611/app-store-preflight-skills",
             "description": "AI agent skill to scan iOS/macOS projects for App Store rejection patterns before submission",
             "url": "https://github.com/truongduy2611/app-store-preflight-skills",
-            "stars": 942,
+            "stars": 943,
             "forks": 53,
             "score": 94
         },
@@ -62,7 +62,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "mattprusak/autoresearch-genealogy",
             "description": "Structured prompts, vault templates, and archive guides for AI-assisted genealogy research. Built for Claude Code.",
             "url": "https://github.com/mattprusak/autoresearch-genealogy",
-            "stars": 922,
+            "stars": 923,
             "forks": 79,
             "score": 91
         },
@@ -95,7 +95,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "amitshekhariitbhu/ai-engineering-interview-questions",
             "description": "Your Cheat Sheet for AI Engineering Interview \u2013 Questions and Answers.",
             "url": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions",
-            "stars": 346,
+            "stars": 353,
             "forks": 83,
             "score": 78
         },
@@ -107,7 +107,7 @@ const ALPHA_DATA_V2 = {
             "description": "Desktop app to generate 3D models from images using local AI \u2014 runs entirely on your GPU",
             "url": "https://github.com/lightningpixel/modly",
             "stars": 697,
-            "forks": 76,
+            "forks": 77,
             "score": 75
         },
         {
@@ -117,8 +117,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "Shpigford/chops",
             "description": "Your AI agent skills, finally organized. A macOS app to browse, edit, and manage skills across Claude Code, Cursor, Codex, Windsurf, and Amp.",
             "url": "https://github.com/Shpigford/chops",
-            "stars": 669,
-            "forks": 38,
+            "stars": 670,
+            "forks": 39,
             "score": 71
         },
         {
@@ -172,9 +172,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "liliMozi/openhanako",
             "description": "A personal AI agent with memory, personality, and autonomy \u2014 built on Electron.",
             "url": "https://github.com/liliMozi/openhanako",
-            "stars": 549,
+            "stars": 551,
             "forks": 64,
-            "score": 60
+            "score": 61
         },
         {
             "main_cat": "AI",
@@ -183,7 +183,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "wuji-labs/nopua",
             "description": "\u4e00\u4e2a\u7528\u7231\u89e3\u653e AI \u6f5c\u80fd\u7684 Skill\u3002\u6211\u4eec\u66fe\u53d1\u53f7\u65bd\u4ee4\uff0c\u5a01\u80c1\u6050\u5413\u3002\u5b83\u4eec\u6c89\u9ed8\uff0c\u9690\u7792\uff0c\u6084\u6084\u628a\u4e8b\u60c5\u641e\u574f\u3002\u540e\u6765\u6211\u4eec\u6362\u4e86\u4e00\u79cd\u65b9\u5f0f\uff1a\u5c0a\u91cd\uff0c\u5173\u6000\uff0c\u7231\u3002\u5b83\u4eec\u5f00\u53e3\u4e86\uff0c\u4e0d\u518d\u6492\u8c0e\uff0c\u627e\u51fa\u7684Bug\u6570\u91cf\u7ffb\u4e86\u4e00\u500d\u3002\u7231\u91cc\u6ca1\u6709\u60e7\u6015\u3002 A skill that unlocks your AI's potential through love.We commanded. We threatened. They went silent, hid failures, broke things. Then we chose respect, care, and love. They opened up, stopped lying, and found twice the bugs.There is no fear in love.",
             "url": "https://github.com/wuji-labs/nopua",
-            "stars": 675,
+            "stars": 676,
             "forks": 14,
             "score": 56
         },
@@ -216,20 +216,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "ru-yee/Life-Agent-RU-YEE",
             "description": "Life Agent RU YEE \u2014 An AI-powered life management agent that autonomously        handles daily routines including meal planning, grocery shopping, schedule    coordination, and household task automation via cloud-based mobile agents.",
             "url": "https://github.com/ru-yee/Life-Agent-RU-YEE",
-            "stars": 383,
+            "stars": 387,
             "forks": 35,
             "score": 51
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "TechSpar",
-            "full_name": "AnnaSuSu/TechSpar",
-            "description": "\u5e26\u957f\u671f\u8bb0\u5fc6\u7684 AI \u9762\u8bd5\u6559\u7ec3\uff0c\u6301\u7eed\u8ffd\u8e2a\u8584\u5f31\u70b9\u4e0e\u638c\u63e1\u5ea6\uff0c\u81ea\u52a8\u751f\u6210\u66f4\u7cbe\u51c6\u7684\u6280\u672f\u9762\u8bd5\u9898\u3002",
-            "url": "https://github.com/AnnaSuSu/TechSpar",
-            "stars": 295,
-            "forks": 32,
-            "score": 49
         },
         {
             "main_cat": "AI",
@@ -271,7 +260,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "kamranahmedse/diffity",
             "description": "GitHub-style diff viewer for reviewing code changes. Works with Claude Code, Cursor and other AI tools.",
             "url": "https://github.com/kamranahmedse/diffity",
-            "stars": 336,
+            "stars": 337,
             "forks": 14,
             "score": 46
         },
@@ -282,7 +271,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "raroque/vibe-security-skill",
             "description": "Agent skill that audits vibe-coded apps for common security vulnerabilities introduced by AI coding assistants",
             "url": "https://github.com/raroque/vibe-security-skill",
-            "stars": 303,
+            "stars": 304,
             "forks": 26,
             "score": 45
         },
@@ -316,7 +305,7 @@ const ALPHA_DATA_V2 = {
             "description": "121 agents, 223 skills, 49 hooks \u2014 AI software team built on Claude Code. No custom model. No custom API. Just good engineering.",
             "url": "https://github.com/vibeeval/vibecosystem",
             "stars": 295,
-            "forks": 22,
+            "forks": 23,
             "score": 43
         },
         {
@@ -326,9 +315,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "KeyID-AI/sdk-js",
             "description": "Free email for AI agents. No signup, no human needed. Install \u2192 provision \u2192 send and receive. Ed25519 keypair auth.",
             "url": "https://github.com/KeyID-AI/sdk-js",
-            "stars": 335,
+            "stars": 336,
             "forks": 3,
             "score": 41
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "sdk-py",
+            "full_name": "KeyID-AI/sdk-py",
+            "description": "Free email for AI agents. No signup, no human needed. Install \u2192 provision \u2192 send and receive. Ed25519 keypair auth.",
+            "url": "https://github.com/KeyID-AI/sdk-py",
+            "stars": 299,
+            "forks": 0,
+            "score": 39
         },
         {
             "main_cat": "DePIN",
@@ -677,12 +677,12 @@ const ALPHA_DATA_V2 = {
             "url": "http://arxiv.org/abs/2603.23459v1"
         },
         {
-            "title": "Bitcoin Up or Down - March 26, 3:15PM-3:20PM ET (Probability: 50%)",
+            "title": "Solana Up or Down - March 26, 4:00PM-4:15PM ET (Probability: 50%)",
             "source": "Polymarket",
             "type": "Expectation",
             "color": "text-indigo-400",
-            "url": "https://polymarket.com/market/btc-updown-5m-1774552500"
+            "url": "https://polymarket.com/market/sol-updown-15m-1774555200"
         }
     ],
-    "timestamp": "2026-03-25 19:42"
+    "timestamp": "2026-03-25 20:33"
 };
