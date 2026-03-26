@@ -7,7 +7,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "jackwener/opencli",
             "description": "Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Transform any website, Electron app, or local binary into a standardized command-line interface. Built for AI Agents to discover, learn, and execute tools seamlessly via a unified AGENT.md integration.",
             "url": "https://github.com/jackwener/opencli",
-            "stars": 7532,
+            "stars": 7538,
             "forks": 601,
             "score": 99
         },
@@ -18,7 +18,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "pasky/chrome-cdp-skill",
             "description": "Give your AI agent access to your live Chrome session \u2014 works out of the box, connects to tabs you already have open",
             "url": "https://github.com/pasky/chrome-cdp-skill",
-            "stars": 2689,
+            "stars": 2690,
             "forks": 154,
             "score": 99
         },
@@ -29,7 +29,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "zerobootdev/zeroboot",
             "description": "Sub-millisecond VM sandboxes for AI agents via copy-on-write forking",
             "url": "https://github.com/zerobootdev/zeroboot",
-            "stars": 1936,
+            "stars": 1937,
             "forks": 90,
             "score": 99
         },
@@ -40,8 +40,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "alvinunreal/awesome-opensource-ai",
             "description": "Curated list of the best truly open-source AI projects, models, tools, and infrastructure.",
             "url": "https://github.com/alvinunreal/awesome-opensource-ai",
-            "stars": 878,
-            "forks": 66,
+            "stars": 905,
+            "forks": 68,
             "score": 99
         },
         {
@@ -51,8 +51,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "CoderLuii/HolyClaude",
             "description": "AI coding workstation: Claude Code + web UI + 5 AI CLIs + headless browser + 50+ tools",
             "url": "https://github.com/CoderLuii/HolyClaude",
-            "stars": 707,
-            "forks": 79,
+            "stars": 722,
+            "forks": 80,
             "score": 99
         },
         {
@@ -62,8 +62,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "elder-plinius/G0DM0D3",
             "description": "LIBERATED AI CHAT",
             "url": "https://github.com/elder-plinius/G0DM0D3",
-            "stars": 447,
-            "forks": 91,
+            "stars": 458,
+            "forks": 92,
             "score": 99
         },
         {
@@ -95,7 +95,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "frank890417/taiwan-md",
             "description": "\ud83c\uddf9\ud83c\uddfc \u8b93\u5168\u4e16\u754c\u5b8c\u6574\u8a8d\u8b58\u53f0\u7063 | An open-source, AI-friendly knowledge base about Taiwan",
             "url": "https://github.com/frank890417/taiwan-md",
-            "stars": 885,
+            "stars": 886,
             "forks": 119,
             "score": 86
         },
@@ -117,8 +117,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "amitshekhariitbhu/ai-engineering-interview-questions",
             "description": "Your Cheat Sheet for AI Engineering Interview \u2013 Questions and Answers.",
             "url": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions",
-            "stars": 470,
-            "forks": 96,
+            "stars": 473,
+            "forks": 97,
             "score": 83
         },
         {
@@ -128,7 +128,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "ryanstephen/lil-agents",
             "description": "tiny AI companions that live on your macOS dock",
             "url": "https://github.com/ryanstephen/lil-agents",
-            "stars": 371,
+            "stars": 374,
             "forks": 68,
             "score": 83
         },
@@ -139,9 +139,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "walter-grace/mac-code",
             "description": "mac code \u2014 Claude Code, but it runs on your Mac for free.   35B AI agent at 30 tok/s via Apple Silicon flash-paging. $0/month. ",
             "url": "https://github.com/walter-grace/mac-code",
-            "stars": 328,
+            "stars": 335,
             "forks": 29,
-            "score": 74
+            "score": 75
         },
         {
             "main_cat": "AI",
@@ -161,7 +161,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Shpigford/chops",
             "description": "Your AI agent skills, finally organized. A macOS app to browse, edit, and manage skills across Claude Code, Cursor, Codex, Windsurf, and Amp.",
             "url": "https://github.com/Shpigford/chops",
-            "stars": 753,
+            "stars": 754,
             "forks": 42,
             "score": 71
         },
@@ -227,7 +227,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "ru-yee/Life-Agent-RU-YEE",
             "description": "Life Agent RU YEE \u2014 An AI-powered life management agent that autonomously        handles daily routines including meal planning, grocery shopping, schedule    coordination, and household task automation via cloud-based mobile agents.",
             "url": "https://github.com/ru-yee/Life-Agent-RU-YEE",
-            "stars": 461,
+            "stars": 464,
             "forks": 44,
             "score": 54
         },
@@ -249,7 +249,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "ethanweber/posterskill",
             "description": "AI-assisted academic posters.",
             "url": "https://github.com/ethanweber/posterskill",
-            "stars": 424,
+            "stars": 425,
             "forks": 34,
             "score": 50
         },
@@ -260,9 +260,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "jonwiggins/optio",
             "description": "Workflow orchestration for AI coding agents, from task to merged PR.",
             "url": "https://github.com/jonwiggins/optio",
-            "stars": 334,
-            "forks": 16,
-            "score": 49
+            "stars": 343,
+            "forks": 19,
+            "score": 50
         },
         {
             "main_cat": "AI",
@@ -273,7 +273,7 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/AnnaSuSu/TechSpar",
             "stars": 323,
             "forks": 38,
-            "score": 49
+            "score": 48
         },
         {
             "main_cat": "AI",
@@ -677,12 +677,12 @@ const ALPHA_DATA_V2 = {
             "url": "http://arxiv.org/abs/2603.24543v1"
         },
         {
-            "title": "Bitcoin Up or Down - March 27, 6:35AM-6:40AM ET (Probability: 50%)",
+            "title": "Solana Up or Down - March 26, 7:25PM-7:30PM ET (Probability: 50%)",
             "source": "Polymarket",
             "type": "Expectation",
             "color": "text-indigo-400",
-            "url": "https://polymarket.com/market/btc-updown-5m-1774607700"
+            "url": "https://polymarket.com/market/sol-updown-5m-1774567500"
         }
     ],
-    "timestamp": "2026-03-26 20:30"
+    "timestamp": "2026-03-26 21:26"
 };
