@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "jackwener/opencli",
             "description": "Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Transform any website, Electron app, or local binary into a standardized command-line interface. Built for AI Agents to discover, learn, and execute tools seamlessly via a unified AGENT.md integration.",
             "url": "https://github.com/jackwener/opencli",
-            "stars": 7484,
-            "forks": 593,
+            "stars": 7514,
+            "forks": 597,
             "score": 99
         },
         {
@@ -18,7 +18,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "pasky/chrome-cdp-skill",
             "description": "Give your AI agent access to your live Chrome session \u2014 works out of the box, connects to tabs you already have open",
             "url": "https://github.com/pasky/chrome-cdp-skill",
-            "stars": 2687,
+            "stars": 2688,
             "forks": 154,
             "score": 99
         },
@@ -29,7 +29,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "zerobootdev/zeroboot",
             "description": "Sub-millisecond VM sandboxes for AI agents via copy-on-write forking",
             "url": "https://github.com/zerobootdev/zeroboot",
-            "stars": 1933,
+            "stars": 1935,
             "forks": 90,
             "score": 99
         },
@@ -40,8 +40,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "alvinunreal/awesome-opensource-ai",
             "description": "Curated list of the best truly open-source AI projects, models, tools, and infrastructure.",
             "url": "https://github.com/alvinunreal/awesome-opensource-ai",
-            "stars": 709,
-            "forks": 56,
+            "stars": 785,
+            "forks": 58,
             "score": 99
         },
         {
@@ -51,8 +51,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "elder-plinius/G0DM0D3",
             "description": "LIBERATED AI CHAT",
             "url": "https://github.com/elder-plinius/G0DM0D3",
-            "stars": 352,
-            "forks": 70,
+            "stars": 388,
+            "forks": 75,
             "score": 99
         },
         {
@@ -62,9 +62,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "CoderLuii/HolyClaude",
             "description": "AI coding workstation: Claude Code + web UI + 5 AI CLIs + headless browser + 50+ tools",
             "url": "https://github.com/CoderLuii/HolyClaude",
-            "stars": 636,
-            "forks": 72,
-            "score": 96
+            "stars": 666,
+            "forks": 73,
+            "score": 98
         },
         {
             "main_cat": "AI",
@@ -73,8 +73,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "mattprusak/autoresearch-genealogy",
             "description": "Structured prompts, vault templates, and archive guides for AI-assisted genealogy research. Built for Claude Code.",
             "url": "https://github.com/mattprusak/autoresearch-genealogy",
-            "stars": 924,
-            "forks": 80,
+            "stars": 926,
+            "forks": 81,
             "score": 92
         },
         {
@@ -95,7 +95,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "frank890417/taiwan-md",
             "description": "\ud83c\uddf9\ud83c\uddfc \u8b93\u5168\u4e16\u754c\u5b8c\u6574\u8a8d\u8b58\u53f0\u7063 | An open-source, AI-friendly knowledge base about Taiwan",
             "url": "https://github.com/frank890417/taiwan-md",
-            "stars": 884,
+            "stars": 885,
             "forks": 119,
             "score": 86
         },
@@ -106,20 +106,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "wangziqi06/724-office",
             "description": "7/24 Office \u2014 Self-evolving AI Agent system. 26 tools, 3500 lines pure Python, MCP/Skill plugins, three-layer memory, self-repair, 24/7 production.",
             "url": "https://github.com/wangziqi06/724-office",
-            "stars": 887,
+            "stars": 888,
             "forks": 113,
             "score": 85
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "ai-engineering-interview-questions",
-            "full_name": "amitshekhariitbhu/ai-engineering-interview-questions",
-            "description": "Your Cheat Sheet for AI Engineering Interview \u2013 Questions and Answers.",
-            "url": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions",
-            "stars": 457,
-            "forks": 94,
-            "score": 82
         },
         {
             "main_cat": "AI",
@@ -128,8 +117,19 @@ const ALPHA_DATA_V2 = {
             "full_name": "ryanstephen/lil-agents",
             "description": "tiny AI companions that live on your macOS dock",
             "url": "https://github.com/ryanstephen/lil-agents",
-            "stars": 360,
-            "forks": 66,
+            "stars": 368,
+            "forks": 68,
+            "score": 83
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "ai-engineering-interview-questions",
+            "full_name": "amitshekhariitbhu/ai-engineering-interview-questions",
+            "description": "Your Cheat Sheet for AI Engineering Interview \u2013 Questions and Answers.",
+            "url": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions",
+            "stars": 465,
+            "forks": 95,
             "score": 82
         },
         {
@@ -139,8 +139,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "lightningpixel/modly",
             "description": "Desktop app to generate 3D models from images using local AI \u2014 runs entirely on your GPU",
             "url": "https://github.com/lightningpixel/modly",
-            "stars": 709,
-            "forks": 79,
+            "stars": 711,
+            "forks": 80,
             "score": 76
         },
         {
@@ -150,9 +150,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "Shpigford/chops",
             "description": "Your AI agent skills, finally organized. A macOS app to browse, edit, and manage skills across Claude Code, Cursor, Codex, Windsurf, and Amp.",
             "url": "https://github.com/Shpigford/chops",
-            "stars": 744,
+            "stars": 749,
             "forks": 42,
-            "score": 75
+            "score": 71
         },
         {
             "main_cat": "AI",
@@ -161,7 +161,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "sstklen/trump-code",
             "description": "\ud83d\udd10 AI decoding Trump's posts \u00d7 stock market | AI \u89e3\u78bc\u5ddd\u666e\u63a8\u6587 \u00d7 \u7f8e\u80a1 | AI\u3067\u30c8\u30e9\u30f3\u30d7\u6295\u7a3f\u00d7\u682a\u5f0f\u5e02\u5834\u3092\u89e3\u8aad \u2014 31.5M models, 61.3% hit rate, open source",
             "url": "https://github.com/sstklen/trump-code",
-            "stars": 662,
+            "stars": 663,
             "forks": 84,
             "score": 65
         },
@@ -172,7 +172,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "0din-ai/ai-scanner",
             "description": "AI model safety scanner built on NVIDIA garak",
             "url": "https://github.com/0din-ai/ai-scanner",
-            "stars": 343,
+            "stars": 344,
             "forks": 64,
             "score": 63
         },
@@ -183,7 +183,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "K-Dense-AI/k-dense-byok",
             "description": "An AI co-scientist powered by Claude Scientific Skills running on your desktop.",
             "url": "https://github.com/K-Dense-AI/k-dense-byok",
-            "stars": 402,
+            "stars": 403,
             "forks": 46,
             "score": 62
         },
@@ -194,7 +194,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "liliMozi/openhanako",
             "description": "A personal AI agent with memory, personality, and autonomy \u2014 built on Electron.",
             "url": "https://github.com/liliMozi/openhanako",
-            "stars": 565,
+            "stars": 567,
             "forks": 66,
             "score": 59
         },
@@ -216,8 +216,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "jobrunr/JavaClaw",
             "description": "JavaClaw, a Java version of OpenClaw built on Spring Boot, Spring AI and JobRunr",
             "url": "https://github.com/jobrunr/JavaClaw",
-            "stars": 328,
-            "forks": 65,
+            "stars": 329,
+            "forks": 66,
             "score": 54
         },
         {
@@ -227,7 +227,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "ru-yee/Life-Agent-RU-YEE",
             "description": "Life Agent RU YEE \u2014 An AI-powered life management agent that autonomously        handles daily routines including meal planning, grocery shopping, schedule    coordination, and household task automation via cloud-based mobile agents.",
             "url": "https://github.com/ru-yee/Life-Agent-RU-YEE",
-            "stars": 448,
+            "stars": 452,
             "forks": 41,
             "score": 53
         },
@@ -249,7 +249,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "AnnaSuSu/TechSpar",
             "description": "\u5e26\u957f\u671f\u8bb0\u5fc6\u7684 AI \u9762\u8bd5\u6559\u7ec3\uff0c\u6301\u7eed\u8ffd\u8e2a\u8584\u5f31\u70b9\u4e0e\u638c\u63e1\u5ea6\uff0c\u81ea\u52a8\u751f\u6210\u66f4\u7cbe\u51c6\u7684\u6280\u672f\u9762\u8bd5\u9898\u3002",
             "url": "https://github.com/AnnaSuSu/TechSpar",
-            "stars": 320,
+            "stars": 321,
             "forks": 38,
             "score": 49
         },
@@ -260,7 +260,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "kamranahmedse/diffity",
             "description": "GitHub-style diff viewer for reviewing code changes. Works with Claude Code, Cursor and other AI tools.",
             "url": "https://github.com/kamranahmedse/diffity",
-            "stars": 350,
+            "stars": 352,
             "forks": 15,
             "score": 47
         },
@@ -293,7 +293,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "raroque/vibe-security-skill",
             "description": "Agent skill that audits vibe-coded apps for common security vulnerabilities introduced by AI coding assistants",
             "url": "https://github.com/raroque/vibe-security-skill",
-            "stars": 309,
+            "stars": 310,
             "forks": 26,
             "score": 44
         },
@@ -315,7 +315,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "KeyID-AI/sdk-js",
             "description": "Free email for AI agents. No signup, no human needed. Install \u2192 provision \u2192 send and receive. Ed25519 keypair auth.",
             "url": "https://github.com/KeyID-AI/sdk-js",
-            "stars": 379,
+            "stars": 382,
             "forks": 3,
             "score": 42
         },
@@ -326,7 +326,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "KeyID-AI/sdk-py",
             "description": "Free email for AI agents. No signup, no human needed. Install \u2192 provision \u2192 send and receive. Ed25519 keypair auth.",
             "url": "https://github.com/KeyID-AI/sdk-py",
-            "stars": 316,
+            "stars": 317,
             "forks": 0,
             "score": 39
         },
@@ -677,12 +677,12 @@ const ALPHA_DATA_V2 = {
             "url": "http://arxiv.org/abs/2603.24543v1"
         },
         {
-            "title": "Bitcoin Up or Down - March 27, 6:25AM-6:30AM ET (Probability: 50%)",
+            "title": "Ethereum Up or Down - March 27, 8PM ET (Probability: 50%)",
             "source": "Polymarket",
             "type": "Expectation",
             "color": "text-indigo-400",
-            "url": "https://polymarket.com/market/btc-updown-5m-1774607100"
+            "url": "https://polymarket.com/market/ethereum-up-or-down-march-27-2026-8pm-et"
         }
     ],
-    "timestamp": "2026-03-26 16:08"
+    "timestamp": "2026-03-26 17:57"
 };
