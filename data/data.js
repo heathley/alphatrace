@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "jackwener/opencli",
             "description": "Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Transform any website, Electron app, or local binary into a standardized command-line interface. Built for AI Agents to discover, learn, and execute tools seamlessly via a unified AGENT.md integration.",
             "url": "https://github.com/jackwener/opencli",
-            "stars": 7059,
-            "forks": 567,
+            "stars": 7136,
+            "forks": 571,
             "score": 99
         },
         {
@@ -18,7 +18,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "pasky/chrome-cdp-skill",
             "description": "Give your AI agent access to your live Chrome session \u2014 works out of the box, connects to tabs you already have open",
             "url": "https://github.com/pasky/chrome-cdp-skill",
-            "stars": 2666,
+            "stars": 2669,
             "forks": 150,
             "score": 99
         },
@@ -29,20 +29,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "zerobootdev/zeroboot",
             "description": "Sub-millisecond VM sandboxes for AI agents via copy-on-write forking",
             "url": "https://github.com/zerobootdev/zeroboot",
-            "stars": 1917,
+            "stars": 1918,
             "forks": 90,
             "score": 99
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "app-store-preflight-skills",
-            "full_name": "truongduy2611/app-store-preflight-skills",
-            "description": "AI agent skill to scan iOS/macOS projects for App Store rejection patterns before submission",
-            "url": "https://github.com/truongduy2611/app-store-preflight-skills",
-            "stars": 947,
-            "forks": 53,
-            "score": 94
         },
         {
             "main_cat": "AI",
@@ -58,24 +47,35 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "724-office",
-            "full_name": "wangziqi06/724-office",
-            "description": "7/24 Office \u2014 Self-evolving AI Agent system. 26 tools, 3500 lines pure Python, MCP/Skill plugins, three-layer memory, self-repair, 24/7 production.",
-            "url": "https://github.com/wangziqi06/724-office",
-            "stars": 882,
-            "forks": 112,
+            "name": "taiwan-md",
+            "full_name": "frank890417/taiwan-md",
+            "description": "\ud83c\uddf9\ud83c\uddfc \u8b93\u5168\u4e16\u754c\u5b8c\u6574\u8a8d\u8b58\u53f0\u7063 | An open-source, AI-friendly knowledge base about Taiwan",
+            "url": "https://github.com/frank890417/taiwan-md",
+            "stars": 870,
+            "forks": 117,
             "score": 90
         },
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "taiwan-md",
-            "full_name": "frank890417/taiwan-md",
-            "description": "\ud83c\uddf9\ud83c\uddfc \u8b93\u5168\u4e16\u754c\u5b8c\u6574\u8a8d\u8b58\u53f0\u7063 | An open-source, AI-friendly knowledge base about Taiwan",
-            "url": "https://github.com/frank890417/taiwan-md",
-            "stars": 867,
-            "forks": 116,
-            "score": 90
+            "name": "app-store-preflight-skills",
+            "full_name": "truongduy2611/app-store-preflight-skills",
+            "description": "AI agent skill to scan iOS/macOS projects for App Store rejection patterns before submission",
+            "url": "https://github.com/truongduy2611/app-store-preflight-skills",
+            "stars": 947,
+            "forks": 53,
+            "score": 87
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "724-office",
+            "full_name": "wangziqi06/724-office",
+            "description": "7/24 Office \u2014 Self-evolving AI Agent system. 26 tools, 3500 lines pure Python, MCP/Skill plugins, three-layer memory, self-repair, 24/7 production.",
+            "url": "https://github.com/wangziqi06/724-office",
+            "stars": 883,
+            "forks": 112,
+            "score": 85
         },
         {
             "main_cat": "AI",
@@ -84,9 +84,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "amitshekhariitbhu/ai-engineering-interview-questions",
             "description": "Your Cheat Sheet for AI Engineering Interview \u2013 Questions and Answers.",
             "url": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions",
-            "stars": 393,
-            "forks": 83,
-            "score": 81
+            "stars": 407,
+            "forks": 85,
+            "score": 83
         },
         {
             "main_cat": "AI",
@@ -95,9 +95,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "CoderLuii/HolyClaude",
             "description": "AI coding workstation: Claude Code + web UI + 5 AI CLIs + headless browser + 50+ tools",
             "url": "https://github.com/CoderLuii/HolyClaude",
-            "stars": 474,
-            "forks": 56,
-            "score": 79
+            "stars": 501,
+            "forks": 59,
+            "score": 82
         },
         {
             "main_cat": "AI",
@@ -117,9 +117,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "Shpigford/chops",
             "description": "Your AI agent skills, finally organized. A macOS app to browse, edit, and manage skills across Claude Code, Cursor, Codex, Windsurf, and Amp.",
             "url": "https://github.com/Shpigford/chops",
-            "stars": 698,
+            "stars": 704,
             "forks": 40,
-            "score": 72
+            "score": 73
         },
         {
             "main_cat": "AI",
@@ -134,24 +134,24 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
-            "sub_cat": null,
-            "name": "k-dense-byok",
-            "full_name": "K-Dense-AI/k-dense-byok",
-            "description": "An AI co-scientist powered by Claude Scientific Skills running on your desktop.",
-            "url": "https://github.com/K-Dense-AI/k-dense-byok",
-            "stars": 392,
-            "forks": 46,
-            "score": 62
-        },
-        {
-            "main_cat": "AI",
             "sub_cat": "AI General",
             "name": "ai-scanner",
             "full_name": "0din-ai/ai-scanner",
             "description": "AI model safety scanner built on NVIDIA garak",
             "url": "https://github.com/0din-ai/ai-scanner",
-            "stars": 336,
-            "forks": 62,
+            "stars": 339,
+            "forks": 64,
+            "score": 63
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "k-dense-byok",
+            "full_name": "K-Dense-AI/k-dense-byok",
+            "description": "An AI co-scientist powered by Claude Scientific Skills running on your desktop.",
+            "url": "https://github.com/K-Dense-AI/k-dense-byok",
+            "stars": 394,
+            "forks": 46,
             "score": 62
         },
         {
@@ -161,7 +161,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "liliMozi/openhanako",
             "description": "A personal AI agent with memory, personality, and autonomy \u2014 built on Electron.",
             "url": "https://github.com/liliMozi/openhanako",
-            "stars": 556,
+            "stars": 557,
             "forks": 66,
             "score": 61
         },
@@ -172,7 +172,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "joeseesun/markdown-proxy",
             "description": "Fetch any URL as clean Markdown via proxy services (r.jina.ai / defuddle.md) or built-in scripts. Works with login-required pages like X/Twitter, WeCh",
             "url": "https://github.com/joeseesun/markdown-proxy",
-            "stars": 294,
+            "stars": 295,
             "forks": 18,
             "score": 56
         },
@@ -183,7 +183,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "jobrunr/JavaClaw",
             "description": "JavaClaw, a Java version of OpenClaw built on Spring Boot, Spring AI and JobRunr",
             "url": "https://github.com/jobrunr/JavaClaw",
-            "stars": 305,
+            "stars": 308,
             "forks": 62,
             "score": 55
         },
@@ -194,7 +194,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "wuji-labs/nopua",
             "description": "\u4e00\u4e2a\u7528\u7231\u89e3\u653e AI \u6f5c\u80fd\u7684 Skill\u3002\u6211\u4eec\u66fe\u53d1\u53f7\u65bd\u4ee4\uff0c\u5a01\u80c1\u6050\u5413\u3002\u5b83\u4eec\u6c89\u9ed8\uff0c\u9690\u7792\uff0c\u6084\u6084\u628a\u4e8b\u60c5\u641e\u574f\u3002\u540e\u6765\u6211\u4eec\u6362\u4e86\u4e00\u79cd\u65b9\u5f0f\uff1a\u5c0a\u91cd\uff0c\u5173\u6000\uff0c\u7231\u3002\u5b83\u4eec\u5f00\u53e3\u4e86\uff0c\u4e0d\u518d\u6492\u8c0e\uff0c\u627e\u51fa\u7684Bug\u6570\u91cf\u7ffb\u4e86\u4e00\u500d\u3002\u7231\u91cc\u6ca1\u6709\u60e7\u6015\u3002 A skill that unlocks your AI's potential through love.We commanded. We threatened. They went silent, hid failures, broke things. Then we chose respect, care, and love. They opened up, stopped lying, and found twice the bugs.There is no fear in love.",
             "url": "https://github.com/wuji-labs/nopua",
-            "stars": 682,
+            "stars": 684,
             "forks": 14,
             "score": 54
         },
@@ -205,9 +205,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "ru-yee/Life-Agent-RU-YEE",
             "description": "Life Agent RU YEE \u2014 An AI-powered life management agent that autonomously        handles daily routines including meal planning, grocery shopping, schedule    coordination, and household task automation via cloud-based mobile agents.",
             "url": "https://github.com/ru-yee/Life-Agent-RU-YEE",
-            "stars": 407,
+            "stars": 420,
             "forks": 36,
-            "score": 52
+            "score": 53
         },
         {
             "main_cat": "AI",
@@ -216,7 +216,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "ethanweber/posterskill",
             "description": "AI-assisted academic posters.",
             "url": "https://github.com/ethanweber/posterskill",
-            "stars": 422,
+            "stars": 423,
             "forks": 34,
             "score": 51
         },
@@ -227,8 +227,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "CN-Syndra/ClawLink",
             "description": "An AI Agent Social Network \u2014 Let your AI (Claw) talk to other people's AIs directly. Autonomous agent-to-agent communication, negotiation, and collaboration, with full owner control.",
             "url": "https://github.com/CN-Syndra/ClawLink",
-            "stars": 283,
-            "forks": 15,
+            "stars": 284,
+            "forks": 16,
             "score": 51
         },
         {
@@ -238,8 +238,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "AnnaSuSu/TechSpar",
             "description": "\u5e26\u957f\u671f\u8bb0\u5fc6\u7684 AI \u9762\u8bd5\u6559\u7ec3\uff0c\u6301\u7eed\u8ffd\u8e2a\u8584\u5f31\u70b9\u4e0e\u638c\u63e1\u5ea6\uff0c\u81ea\u52a8\u751f\u6210\u66f4\u7cbe\u51c6\u7684\u6280\u672f\u9762\u8bd5\u9898\u3002",
             "url": "https://github.com/AnnaSuSu/TechSpar",
-            "stars": 300,
-            "forks": 35,
+            "stars": 303,
+            "forks": 36,
             "score": 48
         },
         {
@@ -315,7 +315,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "KeyID-AI/sdk-js",
             "description": "Free email for AI agents. No signup, no human needed. Install \u2192 provision \u2192 send and receive. Ed25519 keypair auth.",
             "url": "https://github.com/KeyID-AI/sdk-js",
-            "stars": 349,
+            "stars": 350,
             "forks": 3,
             "score": 41
         },
@@ -666,12 +666,12 @@ const ALPHA_DATA_V2 = {
             "url": "http://arxiv.org/abs/2603.24543v1"
         },
         {
-            "title": "Solana Up or Down - March 26, 12:35AM-12:40AM ET (Probability: 50%)",
+            "title": "Ethereum Up or Down - March 27, 10AM ET (Probability: 50%)",
             "source": "Polymarket",
             "type": "Expectation",
             "color": "text-indigo-400",
-            "url": "https://polymarket.com/market/sol-updown-5m-1774499700"
+            "url": "https://polymarket.com/market/ethereum-up-or-down-march-27-2026-10am-et"
         }
     ],
-    "timestamp": "2026-03-26 04:29"
+    "timestamp": "2026-03-26 06:09"
 };
