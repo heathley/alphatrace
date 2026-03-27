@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "jackwener/opencli",
             "description": "Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Transform any website, Electron app, or local binary into a standardized command-line interface. Built for AI Agents to discover, learn, and execute tools seamlessly via a unified AGENT.md integration.",
             "url": "https://github.com/jackwener/opencli",
-            "stars": 7712,
-            "forks": 624,
+            "stars": 7831,
+            "forks": 628,
             "score": 99
         },
         {
@@ -18,7 +18,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "zerobootdev/zeroboot",
             "description": "Sub-millisecond VM sandboxes for AI agents via copy-on-write forking",
             "url": "https://github.com/zerobootdev/zeroboot",
-            "stars": 1944,
+            "stars": 1946,
             "forks": 90,
             "score": 99
         },
@@ -29,8 +29,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "alvinunreal/awesome-opensource-ai",
             "description": "Curated list of the best truly open-source AI projects, models, tools, and infrastructure.",
             "url": "https://github.com/alvinunreal/awesome-opensource-ai",
-            "stars": 1128,
-            "forks": 79,
+            "stars": 1165,
+            "forks": 82,
             "score": 99
         },
         {
@@ -40,8 +40,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "CoderLuii/HolyClaude",
             "description": "AI coding workstation: Claude Code + web UI + 5 AI CLIs + headless browser + 50+ tools",
             "url": "https://github.com/CoderLuii/HolyClaude",
-            "stars": 806,
-            "forks": 87,
+            "stars": 817,
+            "forks": 89,
             "score": 99
         },
         {
@@ -51,8 +51,19 @@ const ALPHA_DATA_V2 = {
             "full_name": "elder-plinius/G0DM0D3",
             "description": "LIBERATED AI CHAT",
             "url": "https://github.com/elder-plinius/G0DM0D3",
-            "stars": 564,
-            "forks": 109,
+            "stars": 580,
+            "forks": 112,
+            "score": 99
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "wewrite",
+            "full_name": "oaker-io/wewrite",
+            "description": "\u516c\u4f17\u53f7\u6587\u7ae0\u5168\u6d41\u7a0b AI Skill for Claude Code \u2014 \u70ed\u70b9\u6293\u53d6 \u2192 \u9009\u9898 \u2192 \u5199\u4f5c \u2192 SEO \u2192 \u89c6\u89c9AI \u2192 \u6392\u7248 \u2192 \u5fae\u4fe1\u8349\u7a3f\u7bb1",
+            "url": "https://github.com/oaker-io/wewrite",
+            "stars": 346,
+            "forks": 57,
             "score": 99
         },
         {
@@ -80,12 +91,12 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "ai-engineering-interview-questions",
-            "full_name": "amitshekhariitbhu/ai-engineering-interview-questions",
-            "description": "Your Cheat Sheet for AI Engineering Interview \u2013 Questions and Answers.",
-            "url": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions",
-            "stars": 502,
-            "forks": 101,
+            "name": "lil-agents",
+            "full_name": "ryanstephen/lil-agents",
+            "description": "tiny AI companions that live on your macOS dock",
+            "url": "https://github.com/ryanstephen/lil-agents",
+            "stars": 469,
+            "forks": 79,
             "score": 86
         },
         {
@@ -106,19 +117,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "truongduy2611/app-store-preflight-skills",
             "description": "AI agent skill to scan iOS/macOS projects for App Store rejection patterns before submission",
             "url": "https://github.com/truongduy2611/app-store-preflight-skills",
-            "stars": 956,
+            "stars": 958,
             "forks": 53,
-            "score": 83
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "lil-agents",
-            "full_name": "ryanstephen/lil-agents",
-            "description": "tiny AI companions that live on your macOS dock",
-            "url": "https://github.com/ryanstephen/lil-agents",
-            "stars": 443,
-            "forks": 78,
             "score": 83
         },
         {
@@ -128,8 +128,19 @@ const ALPHA_DATA_V2 = {
             "full_name": "wangziqi06/724-office",
             "description": "7/24 Office \u2014 Self-evolving AI Agent system. 26 tools, 3500 lines pure Python, MCP/Skill plugins, three-layer memory, self-repair, 24/7 production.",
             "url": "https://github.com/wangziqi06/724-office",
-            "stars": 892,
-            "forks": 113,
+            "stars": 894,
+            "forks": 114,
+            "score": 81
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "ai-engineering-interview-questions",
+            "full_name": "amitshekhariitbhu/ai-engineering-interview-questions",
+            "description": "Your Cheat Sheet for AI Engineering Interview \u2013 Questions and Answers.",
+            "url": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions",
+            "stars": 515,
+            "forks": 104,
             "score": 81
         },
         {
@@ -139,9 +150,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "Shpigford/chops",
             "description": "Your AI agent skills, finally organized. A macOS app to browse, edit, and manage skills across Claude Code, Cursor, Codex, Windsurf, and Amp.",
             "url": "https://github.com/Shpigford/chops",
-            "stars": 822,
+            "stars": 830,
             "forks": 47,
-            "score": 75
+            "score": 76
         },
         {
             "main_cat": "AI",
@@ -150,9 +161,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "walter-grace/mac-code",
             "description": "mac code \u2014 Claude Code, but it runs on your Mac for free.   35B AI agent at 30 tok/s via Apple Silicon flash-paging. $0/month. ",
             "url": "https://github.com/walter-grace/mac-code",
-            "stars": 394,
-            "forks": 38,
-            "score": 75
+            "stars": 398,
+            "forks": 39,
+            "score": 76
         },
         {
             "main_cat": "AI",
@@ -161,7 +172,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "lightningpixel/modly",
             "description": "Desktop app to generate 3D models from images using local AI \u2014 runs entirely on your GPU",
             "url": "https://github.com/lightningpixel/modly",
-            "stars": 729,
+            "stars": 733,
             "forks": 80,
             "score": 73
         },
@@ -175,17 +186,6 @@ const ALPHA_DATA_V2 = {
             "stars": 664,
             "forks": 84,
             "score": 63
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "openhanako",
-            "full_name": "liliMozi/openhanako",
-            "description": "A personal AI agent with memory, personality, and autonomy \u2014 built on Electron.",
-            "url": "https://github.com/liliMozi/openhanako",
-            "stars": 574,
-            "forks": 68,
-            "score": 60
         },
         {
             "main_cat": "AI",
@@ -212,13 +212,13 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "nopua",
-            "full_name": "wuji-labs/nopua",
-            "description": "\u4e00\u4e2a\u7528\u7231\u89e3\u653e AI \u6f5c\u80fd\u7684 Skill\u3002\u6211\u4eec\u66fe\u53d1\u53f7\u65bd\u4ee4\uff0c\u5a01\u80c1\u6050\u5413\u3002\u5b83\u4eec\u6c89\u9ed8\uff0c\u9690\u7792\uff0c\u6084\u6084\u628a\u4e8b\u60c5\u641e\u574f\u3002\u540e\u6765\u6211\u4eec\u6362\u4e86\u4e00\u79cd\u65b9\u5f0f\uff1a\u5c0a\u91cd\uff0c\u5173\u6000\uff0c\u7231\u3002\u5b83\u4eec\u5f00\u53e3\u4e86\uff0c\u4e0d\u518d\u6492\u8c0e\uff0c\u627e\u51fa\u7684Bug\u6570\u91cf\u7ffb\u4e86\u4e00\u500d\u3002\u7231\u91cc\u6ca1\u6709\u60e7\u6015\u3002 A skill that unlocks your AI's potential through love.We commanded. We threatened. They went silent, hid failures, broke things. Then we chose respect, care, and love. They opened up, stopped lying, and found twice the bugs.There is no fear in love.",
-            "url": "https://github.com/wuji-labs/nopua",
-            "stars": 788,
-            "forks": 25,
-            "score": 57
+            "name": "openhanako",
+            "full_name": "liliMozi/openhanako",
+            "description": "A personal AI agent with memory, personality, and autonomy \u2014 built on Electron.",
+            "url": "https://github.com/liliMozi/openhanako",
+            "stars": 574,
+            "forks": 68,
+            "score": 58
         },
         {
             "main_cat": "AI",
@@ -227,9 +227,31 @@ const ALPHA_DATA_V2 = {
             "full_name": "jonwiggins/optio",
             "description": "Workflow orchestration for AI coding agents, from task to merged PR.",
             "url": "https://github.com/jonwiggins/optio",
-            "stars": 430,
-            "forks": 30,
+            "stars": 450,
+            "forks": 32,
+            "score": 58
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "nopua",
+            "full_name": "wuji-labs/nopua",
+            "description": "\u4e00\u4e2a\u7528\u7231\u89e3\u653e AI \u6f5c\u80fd\u7684 Skill\u3002\u6211\u4eec\u66fe\u53d1\u53f7\u65bd\u4ee4\uff0c\u5a01\u80c1\u6050\u5413\u3002\u5b83\u4eec\u6c89\u9ed8\uff0c\u9690\u7792\uff0c\u6084\u6084\u628a\u4e8b\u60c5\u641e\u574f\u3002\u540e\u6765\u6211\u4eec\u6362\u4e86\u4e00\u79cd\u65b9\u5f0f\uff1a\u5c0a\u91cd\uff0c\u5173\u6000\uff0c\u7231\u3002\u5b83\u4eec\u5f00\u53e3\u4e86\uff0c\u4e0d\u518d\u6492\u8c0e\uff0c\u627e\u51fa\u7684Bug\u6570\u91cf\u7ffb\u4e86\u4e00\u500d\u3002\u7231\u91cc\u6ca1\u6709\u60e7\u6015\u3002 A skill that unlocks your AI's potential through love.We commanded. We threatened. They went silent, hid failures, broke things. Then we chose respect, care, and love. They opened up, stopped lying, and found twice the bugs.There is no fear in love.",
+            "url": "https://github.com/wuji-labs/nopua",
+            "stars": 794,
+            "forks": 25,
             "score": 57
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "JavaClaw",
+            "full_name": "jobrunr/JavaClaw",
+            "description": "JavaClaw, a Java version of OpenClaw built on Spring Boot, Spring AI and JobRunr",
+            "url": "https://github.com/jobrunr/JavaClaw",
+            "stars": 335,
+            "forks": 67,
+            "score": 55
         },
         {
             "main_cat": "AI",
@@ -240,29 +262,7 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/ru-yee/Life-Agent-RU-YEE",
             "stars": 469,
             "forks": 46,
-            "score": 55
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "JavaClaw",
-            "full_name": "jobrunr/JavaClaw",
-            "description": "JavaClaw, a Java version of OpenClaw built on Spring Boot, Spring AI and JobRunr",
-            "url": "https://github.com/jobrunr/JavaClaw",
-            "stars": 334,
-            "forks": 66,
-            "score": 54
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "markdown-proxy",
-            "full_name": "joeseesun/markdown-proxy",
-            "description": "Fetch any URL as clean Markdown via proxy services (r.jina.ai / defuddle.md) or built-in scripts. Works with login-required pages like X/Twitter, WeCh",
-            "url": "https://github.com/joeseesun/markdown-proxy",
-            "stars": 309,
-            "forks": 20,
-            "score": 54
+            "score": 53
         },
         {
             "main_cat": "AI",
@@ -282,9 +282,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "AnnaSuSu/TechSpar",
             "description": "\u5e26\u957f\u671f\u8bb0\u5fc6\u7684 AI \u9762\u8bd5\u6559\u7ec3\uff0c\u6301\u7eed\u8ffd\u8e2a\u8584\u5f31\u70b9\u4e0e\u638c\u63e1\u5ea6\uff0c\u81ea\u52a8\u751f\u6210\u66f4\u7cbe\u51c6\u7684\u6280\u672f\u9762\u8bd5\u9898\u3002",
             "url": "https://github.com/AnnaSuSu/TechSpar",
-            "stars": 326,
-            "forks": 39,
-            "score": 48
+            "stars": 331,
+            "forks": 42,
+            "score": 49
         },
         {
             "main_cat": "AI",
@@ -293,7 +293,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "kamranahmedse/diffity",
             "description": "GitHub-style diff viewer for reviewing code changes. Works with Claude Code, Cursor and other AI tools.",
             "url": "https://github.com/kamranahmedse/diffity",
-            "stars": 366,
+            "stars": 377,
             "forks": 16,
             "score": 46
         },
@@ -310,17 +310,6 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
-            "sub_cat": null,
-            "name": "vibe-security-skill",
-            "full_name": "raroque/vibe-security-skill",
-            "description": "Agent skill that audits vibe-coded apps for common security vulnerabilities introduced by AI coding assistants",
-            "url": "https://github.com/raroque/vibe-security-skill",
-            "stars": 311,
-            "forks": 27,
-            "score": 44
-        },
-        {
-            "main_cat": "AI",
             "sub_cat": "AI General",
             "name": "NexusRAG",
             "full_name": "LeDat98/NexusRAG",
@@ -329,6 +318,17 @@ const ALPHA_DATA_V2 = {
             "stars": 216,
             "forks": 50,
             "score": 44
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "vibe-security-skill",
+            "full_name": "raroque/vibe-security-skill",
+            "description": "Agent skill that audits vibe-coded apps for common security vulnerabilities introduced by AI coding assistants",
+            "url": "https://github.com/raroque/vibe-security-skill",
+            "stars": 311,
+            "forks": 27,
+            "score": 43
         },
         {
             "main_cat": "DePIN",
@@ -655,12 +655,12 @@ const ALPHA_DATA_V2 = {
             "url": "http://arxiv.org/abs/2603.25500v1"
         },
         {
-            "title": "Ethereum Up or Down - March 27, 7:50PM-7:55PM ET (Probability: 50%)",
+            "title": "Bitcoin Up or Down - March 27, 10:55AM-11:00AM ET (Probability: 50%)",
             "source": "Polymarket",
             "type": "Expectation",
             "color": "text-indigo-400",
-            "url": "https://polymarket.com/market/eth-updown-5m-1774655400"
+            "url": "https://polymarket.com/market/btc-updown-5m-1774623300"
         }
     ],
-    "timestamp": "2026-03-27 06:09"
+    "timestamp": "2026-03-27 07:57"
 };
