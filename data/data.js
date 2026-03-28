@@ -7,7 +7,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "zerobootdev/zeroboot",
             "description": "Sub-millisecond VM sandboxes for AI agents via copy-on-write forking",
             "url": "https://github.com/zerobootdev/zeroboot",
-            "stars": 1989,
+            "stars": 1991,
             "forks": 91,
             "score": 99
         },
@@ -18,8 +18,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "alvinunreal/awesome-opensource-ai",
             "description": "Curated list of the best truly open-source AI projects, models, tools, and infrastructure.",
             "url": "https://github.com/alvinunreal/awesome-opensource-ai",
-            "stars": 1615,
-            "forks": 123,
+            "stars": 1625,
+            "forks": 125,
             "score": 99
         },
         {
@@ -29,8 +29,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "larksuite/cli",
             "description": "A command-line tool for Lark/Feishu Open Platform \u2014 built for humans and AI Agents. Covers core business domains including Messenger, Docs, Base, Sheets, Calendar, Mail, Tasks, Meetings, and more, with 200+ commands and 19 AI Agent Skills.",
             "url": "https://github.com/larksuite/cli",
-            "stars": 1118,
-            "forks": 51,
+            "stars": 1201,
+            "forks": 55,
             "score": 99
         },
         {
@@ -40,8 +40,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "CoderLuii/HolyClaude",
             "description": "AI coding workstation: Claude Code + web UI + 5 AI CLIs + headless browser + 50+ tools",
             "url": "https://github.com/CoderLuii/HolyClaude",
-            "stars": 1078,
-            "forks": 110,
+            "stars": 1091,
+            "forks": 112,
             "score": 99
         },
         {
@@ -51,8 +51,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "elder-plinius/G0DM0D3",
             "description": "LIBERATED AI CHAT",
             "url": "https://github.com/elder-plinius/G0DM0D3",
-            "stars": 1022,
-            "forks": 203,
+            "stars": 1058,
+            "forks": 209,
             "score": 99
         },
         {
@@ -62,20 +62,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "oaker-io/wewrite",
             "description": "\u516c\u4f17\u53f7\u6587\u7ae0\u5168\u6d41\u7a0b AI Skill for Claude Code \u2014 \u70ed\u70b9\u6293\u53d6 \u2192 \u9009\u9898 \u2192 \u5199\u4f5c \u2192 SEO \u2192 \u89c6\u89c9AI \u2192 \u6392\u7248 \u2192 \u5fae\u4fe1\u8349\u7a3f\u7bb1",
             "url": "https://github.com/oaker-io/wewrite",
-            "stars": 647,
-            "forks": 111,
+            "stars": 656,
+            "forks": 113,
             "score": 99
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "codex-session-patcher",
-            "full_name": "ryfineZ/codex-session-patcher",
-            "description": "A lightweight Python tool to clean AI refusal responses from Codex CLI session files",
-            "url": "https://github.com/ryfineZ/codex-session-patcher",
-            "stars": 330,
-            "forks": 80,
-            "score": 95
         },
         {
             "main_cat": "AI",
@@ -84,8 +73,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "ryanstephen/lil-agents",
             "description": "tiny AI companions that live on your macOS dock",
             "url": "https://github.com/ryanstephen/lil-agents",
-            "stars": 585,
-            "forks": 99,
+            "stars": 586,
+            "forks": 100,
             "score": 91
         },
         {
@@ -98,6 +87,17 @@ const ALPHA_DATA_V2 = {
             "stars": 607,
             "forks": 128,
             "score": 85
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "codex-session-patcher",
+            "full_name": "ryfineZ/codex-session-patcher",
+            "description": "A lightweight Python tool to clean AI refusal responses from Codex CLI session files",
+            "url": "https://github.com/ryfineZ/codex-session-patcher",
+            "stars": 332,
+            "forks": 80,
+            "score": 84
         },
         {
             "main_cat": "AI",
@@ -117,7 +117,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "wangziqi06/724-office",
             "description": "7/24 Office \u2014 Self-evolving AI Agent system. 26 tools, 3500 lines pure Python, MCP/Skill plugins, three-layer memory, self-repair, 24/7 production.",
             "url": "https://github.com/wangziqi06/724-office",
-            "stars": 926,
+            "stars": 928,
             "forks": 119,
             "score": 80
         },
@@ -139,7 +139,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "frank890417/taiwan-md",
             "description": "\ud83c\uddf9\ud83c\uddfc \u8b93\u5168\u4e16\u754c\u5b8c\u6574\u8a8d\u8b58\u53f0\u7063 | An open-source, AI-friendly knowledge base about Taiwan",
             "url": "https://github.com/frank890417/taiwan-md",
-            "stars": 893,
+            "stars": 895,
             "forks": 121,
             "score": 79
         },
@@ -150,9 +150,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "Shpigford/chops",
             "description": "Your AI agent skills, finally organized. A macOS app to browse, edit, and manage skills across Claude Code, Cursor, Codex, Windsurf, and Amp.",
             "url": "https://github.com/Shpigford/chops",
-            "stars": 939,
+            "stars": 943,
             "forks": 52,
             "score": 77
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "dingtalk-workspace-cli",
+            "full_name": "DingTalk-Real-AI/dingtalk-workspace-cli",
+            "description": "DingTalk Workspace is an officially open-sourced cross-platform CLI tool from DingTalk. It unifies DingTalk\u2019s full suite of product capabilities into a single package, is designed for both human users and AI agent scenarios.",
+            "url": "https://github.com/DingTalk-Real-AI/dingtalk-workspace-cli",
+            "stars": 799,
+            "forks": 28,
+            "score": 75
         },
         {
             "main_cat": "AI",
@@ -164,17 +175,6 @@ const ALPHA_DATA_V2 = {
             "stars": 454,
             "forks": 46,
             "score": 75
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "dingtalk-workspace-cli",
-            "full_name": "DingTalk-Real-AI/dingtalk-workspace-cli",
-            "description": "DingTalk Workspace is an officially open-sourced cross-platform CLI tool from DingTalk. It unifies DingTalk\u2019s full suite of product capabilities into a single package, is designed for both human users and AI agent scenarios.",
-            "url": "https://github.com/DingTalk-Real-AI/dingtalk-workspace-cli",
-            "stars": 783,
-            "forks": 27,
-            "score": 74
         },
         {
             "main_cat": "AI",
@@ -205,7 +205,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "jonwiggins/optio",
             "description": "Workflow orchestration for AI coding agents, from task to merged PR.",
             "url": "https://github.com/jonwiggins/optio",
-            "stars": 573,
+            "stars": 579,
             "forks": 45,
             "score": 64
         },
@@ -227,7 +227,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "openilink/openilink-hub",
             "description": "\u5f00\u6e90\u5fae\u4fe1 Bot \u7ba1\u7406\u5e73\u53f0 | Self-hosted WeChat Bot Management & Message Relay | WebSocket + Webhook + AI Auto-reply | Passkey Login | 7 Language SDKs",
             "url": "https://github.com/openilink/openilink-hub",
-            "stars": 422,
+            "stars": 423,
             "forks": 28,
             "score": 59
         },
@@ -260,7 +260,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "K-Dense-AI/k-dense-byok",
             "description": "An AI co-scientist powered by Claude Scientific Skills running on your desktop.",
             "url": "https://github.com/K-Dense-AI/k-dense-byok",
-            "stars": 418,
+            "stars": 419,
             "forks": 47,
             "score": 57
         },
@@ -271,7 +271,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "jobrunr/JavaClaw",
             "description": "JavaClaw, a Java version of OpenClaw built on Spring Boot, Spring AI and JobRunr",
             "url": "https://github.com/jobrunr/JavaClaw",
-            "stars": 349,
+            "stars": 350,
             "forks": 68,
             "score": 53
         },
@@ -282,7 +282,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "ru-yee/Life-Agent-RU-YEE",
             "description": "Life Agent RU YEE \u2014 An AI-powered life management agent that autonomously        handles daily routines including meal planning, grocery shopping, schedule    coordination, and household task automation via cloud-based mobile agents.",
             "url": "https://github.com/ru-yee/Life-Agent-RU-YEE",
-            "stars": 488,
+            "stars": 489,
             "forks": 50,
             "score": 52
         },
@@ -293,7 +293,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "silverstein/minutes",
             "description": "Every meeting, every idea, every voice note \u2014 searchable by your AI. Open-source, privacy-first conversation memory layer.",
             "url": "https://github.com/silverstein/minutes",
-            "stars": 374,
+            "stars": 377,
             "forks": 34,
             "score": 49
         },
@@ -304,7 +304,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "kamranahmedse/diffity",
             "description": "GitHub-style diff viewer for reviewing code changes. Works with Claude Code, Cursor and other AI tools.",
             "url": "https://github.com/kamranahmedse/diffity",
-            "stars": 429,
+            "stars": 430,
             "forks": 22,
             "score": 48
         },
@@ -651,5 +651,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/market/btc-updown-5m-1774746300"
         }
     ],
-    "timestamp": "2026-03-28 13:46"
+    "timestamp": "2026-03-28 14:27"
 };
