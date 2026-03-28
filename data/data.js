@@ -7,7 +7,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "zerobootdev/zeroboot",
             "description": "Sub-millisecond VM sandboxes for AI agents via copy-on-write forking",
             "url": "https://github.com/zerobootdev/zeroboot",
-            "stars": 1995,
+            "stars": 1996,
             "forks": 91,
             "score": 99
         },
@@ -18,8 +18,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "alvinunreal/awesome-opensource-ai",
             "description": "Curated list of the best truly open-source AI projects, models, tools, and infrastructure.",
             "url": "https://github.com/alvinunreal/awesome-opensource-ai",
-            "stars": 1679,
-            "forks": 131,
+            "stars": 1694,
+            "forks": 132,
             "score": 99
         },
         {
@@ -29,7 +29,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "larksuite/cli",
             "description": "A command-line tool for Lark/Feishu Open Platform \u2014 built for humans and AI Agents. Covers core business domains including Messenger, Docs, Base, Sheets, Calendar, Mail, Tasks, Meetings, and more, with 200+ commands and 19 AI Agent Skills.",
             "url": "https://github.com/larksuite/cli",
-            "stars": 1554,
+            "stars": 1562,
             "forks": 71,
             "score": 99
         },
@@ -40,8 +40,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "elder-plinius/G0DM0D3",
             "description": "LIBERATED AI CHAT",
             "url": "https://github.com/elder-plinius/G0DM0D3",
-            "stars": 1326,
-            "forks": 257,
+            "stars": 1362,
+            "forks": 266,
             "score": 99
         },
         {
@@ -51,8 +51,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "CoderLuii/HolyClaude",
             "description": "AI coding workstation: Claude Code + web UI + 5 AI CLIs + headless browser + 50+ tools",
             "url": "https://github.com/CoderLuii/HolyClaude",
-            "stars": 1144,
-            "forks": 116,
+            "stars": 1151,
+            "forks": 117,
             "score": 99
         },
         {
@@ -62,7 +62,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "oaker-io/wewrite",
             "description": "\u516c\u4f17\u53f7\u6587\u7ae0\u5168\u6d41\u7a0b AI Skill for Claude Code \u2014 \u70ed\u70b9\u6293\u53d6 \u2192 \u9009\u9898 \u2192 \u5199\u4f5c \u2192 SEO \u2192 \u89c6\u89c9AI \u2192 \u6392\u7248 \u2192 \u5fae\u4fe1\u8349\u7a3f\u7bb1",
             "url": "https://github.com/oaker-io/wewrite",
-            "stars": 688,
+            "stars": 690,
             "forks": 117,
             "score": 99
         },
@@ -73,7 +73,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "ryanstephen/lil-agents",
             "description": "tiny AI companions that live on your macOS dock",
             "url": "https://github.com/ryanstephen/lil-agents",
-            "stars": 598,
+            "stars": 599,
             "forks": 102,
             "score": 92
         },
@@ -95,7 +95,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "ryfineZ/codex-session-patcher",
             "description": "A lightweight Python tool to clean AI refusal responses from Codex CLI session files",
             "url": "https://github.com/ryfineZ/codex-session-patcher",
-            "stars": 333,
+            "stars": 335,
             "forks": 80,
             "score": 84
         },
@@ -106,7 +106,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "wangziqi06/724-office",
             "description": "7/24 Office \u2014 Self-evolving AI Agent system. 26 tools, 3500 lines pure Python, MCP/Skill plugins, three-layer memory, self-repair, 24/7 production.",
             "url": "https://github.com/wangziqi06/724-office",
-            "stars": 970,
+            "stars": 977,
             "forks": 123,
             "score": 82
         },
@@ -150,9 +150,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "DingTalk-Real-AI/dingtalk-workspace-cli",
             "description": "DingTalk Workspace is an officially open-sourced cross-platform CLI tool from DingTalk. It unifies DingTalk\u2019s full suite of product capabilities into a single package, is designed for both human users and AI agent scenarios.",
             "url": "https://github.com/DingTalk-Real-AI/dingtalk-workspace-cli",
-            "stars": 846,
+            "stars": 840,
             "forks": 29,
-            "score": 78
+            "score": 77
         },
         {
             "main_cat": "AI",
@@ -161,7 +161,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "walter-grace/mac-code",
             "description": "mac code \u2014 Claude Code, but it runs on your Mac for free.   35B AI agent at 30 tok/s via Apple Silicon flash-paging. $0/month. ",
             "url": "https://github.com/walter-grace/mac-code",
-            "stars": 458,
+            "stars": 459,
             "forks": 46,
             "score": 75
         },
@@ -172,7 +172,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Shpigford/chops",
             "description": "Your AI agent skills, finally organized. A macOS app to browse, edit, and manage skills across Claude Code, Cursor, Codex, Windsurf, and Amp.",
             "url": "https://github.com/Shpigford/chops",
-            "stars": 957,
+            "stars": 959,
             "forks": 52,
             "score": 74
         },
@@ -183,7 +183,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "realkimbarrett/advertising-skills",
             "description": "Advertising Skills for Open Claw, Claude Code & AI agents. Direct response, paid ads, funnels, and copy systems.",
             "url": "https://github.com/realkimbarrett/advertising-skills",
-            "stars": 366,
+            "stars": 369,
             "forks": 10,
             "score": 70
         },
@@ -194,7 +194,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "lightningpixel/modly",
             "description": "Desktop app to generate 3D models from images using local AI \u2014 runs entirely on your GPU",
             "url": "https://github.com/lightningpixel/modly",
-            "stars": 755,
+            "stars": 756,
             "forks": 82,
             "score": 68
         },
@@ -205,9 +205,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "jonwiggins/optio",
             "description": "Workflow orchestration for AI coding agents, from task to merged PR.",
             "url": "https://github.com/jonwiggins/optio",
-            "stars": 586,
-            "forks": 46,
-            "score": 65
+            "stars": 589,
+            "forks": 47,
+            "score": 62
         },
         {
             "main_cat": "AI",
@@ -227,8 +227,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "openilink/openilink-hub",
             "description": "\u5f00\u6e90\u5fae\u4fe1 Bot \u7ba1\u7406\u5e73\u53f0 | Self-hosted WeChat Bot Management & Message Relay | WebSocket + Webhook + AI Auto-reply | Passkey Login | 7 Language SDKs",
             "url": "https://github.com/openilink/openilink-hub",
-            "stars": 431,
-            "forks": 28,
+            "stars": 435,
+            "forks": 29,
             "score": 60
         },
         {
@@ -238,7 +238,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "liliMozi/openhanako",
             "description": "A personal AI agent with memory, personality, and autonomy \u2014 built on Electron.",
             "url": "https://github.com/liliMozi/openhanako",
-            "stars": 611,
+            "stars": 612,
             "forks": 68,
             "score": 57
         },
@@ -249,7 +249,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "K-Dense-AI/k-dense-byok",
             "description": "An AI co-scientist powered by Claude Scientific Skills running on your desktop.",
             "url": "https://github.com/K-Dense-AI/k-dense-byok",
-            "stars": 423,
+            "stars": 425,
             "forks": 47,
             "score": 57
         },
@@ -283,7 +283,7 @@ const ALPHA_DATA_V2 = {
             "description": "JavaClaw, a Java version of OpenClaw built on Spring Boot, Spring AI and JobRunr",
             "url": "https://github.com/jobrunr/JavaClaw",
             "stars": 350,
-            "forks": 69,
+            "forks": 70,
             "score": 52
         },
         {
@@ -293,7 +293,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "silverstein/minutes",
             "description": "Every meeting, every idea, every voice note \u2014 searchable by your AI. Open-source, privacy-first conversation memory layer.",
             "url": "https://github.com/silverstein/minutes",
-            "stars": 412,
+            "stars": 418,
             "forks": 35,
             "score": 51
         },
@@ -304,7 +304,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "AnnaSuSu/TechSpar",
             "description": "\u5e26\u957f\u671f\u8bb0\u5fc6\u7684 AI \u9762\u8bd5\u6559\u7ec3\uff0c\u6301\u7eed\u8ffd\u8e2a\u8584\u5f31\u70b9\u4e0e\u638c\u63e1\u5ea6\uff0c\u81ea\u52a8\u751f\u6210\u66f4\u7cbe\u51c6\u7684\u6280\u672f\u9762\u8bd5\u9898\u3002",
             "url": "https://github.com/AnnaSuSu/TechSpar",
-            "stars": 350,
+            "stars": 351,
             "forks": 43,
             "score": 48
         },
@@ -315,7 +315,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "kamranahmedse/diffity",
             "description": "GitHub-style diff viewer for reviewing code changes. Works with Claude Code, Cursor and other AI tools.",
             "url": "https://github.com/kamranahmedse/diffity",
-            "stars": 433,
+            "stars": 435,
             "forks": 23,
             "score": 47
         },
@@ -338,7 +338,7 @@ const ALPHA_DATA_V2 = {
             "description": "Hybrid RAG system combining vector search, knowledge graph (LightRAG), and cross-encoder reranking \u2014 with Docling document parsing, visual intelligence (image/table captioning), agentic streaming chat, and inline citations. Powered by Gemini or local Ollama models.",
             "url": "https://github.com/LeDat98/NexusRAG",
             "stars": 217,
-            "forks": 51,
+            "forks": 50,
             "score": 43
         },
         {
@@ -353,6 +353,17 @@ const ALPHA_DATA_V2 = {
             "score": 33
         },
         {
+            "main_cat": "Prediction Markets",
+            "sub_cat": null,
+            "name": "bagsbet",
+            "full_name": "kapesgit/bagsbet",
+            "description": "Prediction markets that auto-generate from Bags.fm token launches. Bet on outcomes, win if you're right.",
+            "url": "https://github.com/kapesgit/bagsbet",
+            "stars": 8,
+            "forks": 1,
+            "score": 31
+        },
+        {
             "main_cat": "RWA",
             "sub_cat": null,
             "name": "LumenFlow",
@@ -360,17 +371,6 @@ const ALPHA_DATA_V2 = {
             "description": "This is a high-level \"Real World Asset\" (RWA) project. Since it involves complex financial primitives like liquidity pools, NFT-backed debt, and automated yield, your description needs to sound institutional yet decentralized.",
             "url": "https://github.com/Smart-Wallet-Freelance-Escrow/LumenFlow",
             "stars": 0,
-            "forks": 0,
-            "score": 30
-        },
-        {
-            "main_cat": "Prediction Markets",
-            "sub_cat": null,
-            "name": "bagsbet",
-            "full_name": "kapesgit/bagsbet",
-            "description": "Prediction markets that auto-generate from Bags.fm token launches. Bet on outcomes, win if you're right.",
-            "url": "https://github.com/kapesgit/bagsbet",
-            "stars": 5,
             "forks": 0,
             "score": 30
         },
@@ -630,12 +630,12 @@ const ALPHA_DATA_V2 = {
     ],
     "news": [
         {
-            "title": "Bitcoin Up or Down - March 29, 3:35AM-3:40AM ET (Probability: 50%)",
+            "title": "Bitcoin Up or Down - March 28, 9:15PM-9:20PM ET (Probability: 50%)",
             "source": "Polymarket",
             "type": "Expectation",
             "color": "text-indigo-400",
-            "url": "https://polymarket.com/market/btc-updown-5m-1774769700"
+            "url": "https://polymarket.com/market/btc-updown-5m-1774746900"
         }
     ],
-    "timestamp": "2026-03-28 19:25"
+    "timestamp": "2026-03-28 20:23"
 };
