@@ -7,7 +7,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "larksuite/cli",
             "description": "A command-line tool for Lark/Feishu Open Platform \u2014 built for humans and AI Agents. Covers core business domains including Messenger, Docs, Base, Sheets, Calendar, Mail, Tasks, Meetings, and more, with 200+ commands and 19 AI Agent Skills.",
             "url": "https://github.com/larksuite/cli",
-            "stars": 2893,
+            "stars": 2894,
             "forks": 137,
             "score": 99
         },
@@ -18,8 +18,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "elder-plinius/G0DM0D3",
             "description": "LIBERATED AI CHAT",
             "url": "https://github.com/elder-plinius/G0DM0D3",
-            "stars": 1949,
-            "forks": 382,
+            "stars": 1961,
+            "forks": 383,
             "score": 99
         },
         {
@@ -29,7 +29,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "alvinunreal/awesome-opensource-ai",
             "description": "Curated list of the best truly open-source AI projects, models, tools, and infrastructure.",
             "url": "https://github.com/alvinunreal/awesome-opensource-ai",
-            "stars": 1910,
+            "stars": 1914,
             "forks": 147,
             "score": 99
         },
@@ -40,8 +40,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "CoderLuii/HolyClaude",
             "description": "AI coding workstation: Claude Code + web UI + 5 AI CLIs + headless browser + 50+ tools",
             "url": "https://github.com/CoderLuii/HolyClaude",
-            "stars": 1314,
-            "forks": 137,
+            "stars": 1320,
+            "forks": 138,
             "score": 99
         },
         {
@@ -51,7 +51,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "oaker-io/wewrite",
             "description": "\u516c\u4f17\u53f7\u6587\u7ae0\u5168\u6d41\u7a0b AI Skill for Claude Code \u2014 \u70ed\u70b9\u6293\u53d6 \u2192 \u9009\u9898 \u2192 \u5199\u4f5c \u2192 SEO \u2192 \u89c6\u89c9AI \u2192 \u6392\u7248 \u2192 \u5fae\u4fe1\u8349\u7a3f\u7bb1",
             "url": "https://github.com/oaker-io/wewrite",
-            "stars": 833,
+            "stars": 834,
             "forks": 139,
             "score": 99
         },
@@ -73,8 +73,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "wangziqi06/724-office",
             "description": "7/24 Office \u2014 Self-evolving AI Agent system. 26 tools, 3500 lines pure Python, MCP/Skill plugins, three-layer memory, self-repair, 24/7 production.",
             "url": "https://github.com/wangziqi06/724-office",
-            "stars": 1095,
-            "forks": 139,
+            "stars": 1100,
+            "forks": 140,
             "score": 85
         },
         {
@@ -95,8 +95,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "DingTalk-Real-AI/dingtalk-workspace-cli",
             "description": "DingTalk Workspace is an officially open-sourced cross-platform CLI tool from DingTalk. It unifies DingTalk\u2019s full suite of product capabilities into a single package, is designed for both human users and AI agent scenarios.",
             "url": "https://github.com/DingTalk-Real-AI/dingtalk-workspace-cli",
-            "stars": 1031,
-            "forks": 42,
+            "stars": 1033,
+            "forks": 43,
             "score": 84
         },
         {
@@ -128,7 +128,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "mattprusak/autoresearch-genealogy",
             "description": "Structured prompts, vault templates, and archive guides for AI-assisted genealogy research. Built for Claude Code.",
             "url": "https://github.com/mattprusak/autoresearch-genealogy",
-            "stars": 952,
+            "stars": 953,
             "forks": 84,
             "score": 76
         },
@@ -140,7 +140,7 @@ const ALPHA_DATA_V2 = {
             "description": "\ud83c\uddf9\ud83c\uddfc \u8b93\u5168\u4e16\u754c\u5b8c\u6574\u8a8d\u8b58\u53f0\u7063 | An open-source, AI-friendly knowledge base about Taiwan",
             "url": "https://github.com/frank890417/taiwan-md",
             "stars": 895,
-            "forks": 123,
+            "forks": 122,
             "score": 76
         },
         {
@@ -150,7 +150,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "truongduy2611/app-store-preflight-skills",
             "description": "AI agent skill to scan iOS/macOS projects for App Store rejection patterns before submission",
             "url": "https://github.com/truongduy2611/app-store-preflight-skills",
-            "stars": 978,
+            "stars": 979,
             "forks": 54,
             "score": 75
         },
@@ -161,7 +161,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Shpigford/chops",
             "description": "Your AI agent skills, finally organized. A macOS app to browse, edit, and manage skills across Claude Code, Cursor, Codex, Windsurf, and Amp.",
             "url": "https://github.com/Shpigford/chops",
-            "stars": 993,
+            "stars": 995,
             "forks": 57,
             "score": 73
         },
@@ -183,7 +183,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "lightningpixel/modly",
             "description": "Desktop app to generate 3D models from images using local AI \u2014 runs entirely on your GPU",
             "url": "https://github.com/lightningpixel/modly",
-            "stars": 773,
+            "stars": 774,
             "forks": 82,
             "score": 66
         },
@@ -194,7 +194,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "jonwiggins/optio",
             "description": "Workflow orchestration for AI coding agents, from task to merged PR.",
             "url": "https://github.com/jonwiggins/optio",
-            "stars": 647,
+            "stars": 652,
             "forks": 54,
             "score": 63
         },
@@ -205,9 +205,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "openilink/openilink-hub",
             "description": "\u5f00\u6e90\u5fae\u4fe1 Bot \u7ba1\u7406\u5e73\u53f0 | Self-hosted WeChat Bot Management & Message Relay | WebSocket + Webhook + AI Auto-reply | Passkey Login | 7 Language SDKs",
             "url": "https://github.com/openilink/openilink-hub",
-            "stars": 474,
+            "stars": 475,
             "forks": 32,
             "score": 60
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "minutes",
+            "full_name": "silverstein/minutes",
+            "description": "Every meeting, every idea, every voice note \u2014 searchable by your AI. Open-source, privacy-first conversation memory layer.",
+            "url": "https://github.com/silverstein/minutes",
+            "stars": 544,
+            "forks": 48,
+            "score": 56
         },
         {
             "main_cat": "AI",
@@ -230,17 +241,6 @@ const ALPHA_DATA_V2 = {
             "stars": 368,
             "forks": 66,
             "score": 56
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "minutes",
-            "full_name": "silverstein/minutes",
-            "description": "Every meeting, every idea, every voice note \u2014 searchable by your AI. Open-source, privacy-first conversation memory layer.",
-            "url": "https://github.com/silverstein/minutes",
-            "stars": 533,
-            "forks": 48,
-            "score": 55
         },
         {
             "main_cat": "AI",
@@ -284,7 +284,7 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/AnnaSuSu/TechSpar",
             "stars": 375,
             "forks": 45,
-            "score": 48
+            "score": 47
         },
         {
             "main_cat": "AI",
@@ -300,6 +300,17 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
+            "name": "miasma",
+            "full_name": "austin-weeks/miasma",
+            "description": "Trap AI web scrapers in an endless poison pit.",
+            "url": "https://github.com/austin-weeks/miasma",
+            "stars": 374,
+            "forks": 3,
+            "score": 43
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
             "name": "nuggets",
             "full_name": "NeoVertex1/nuggets",
             "description": "First AI assistant with holographic memory",
@@ -311,22 +322,11 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "miasma",
-            "full_name": "austin-weeks/miasma",
-            "description": "Trap AI web scrapers in an endless poison pit.",
-            "url": "https://github.com/austin-weeks/miasma",
-            "stars": 347,
-            "forks": 3,
-            "score": 42
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
             "name": "astronclaw-tutorial",
             "full_name": "iflytek/astronclaw-tutorial",
             "description": "\u4ece\u96f6\u5230\u5de5\u4f5c\u6d41\uff0c\u638c\u63e1 AstronClaw\uff08\u4e91\u7aef\uff09\u4e0e Loomy\uff08\u684c\u9762\uff09\u7684 AI \u52a9\u624b\u5b9e\u6218\u6559\u7a0b | A complete tutorial to master AstronClaw (cloud AI) & Loomy (desktop AI)",
             "url": "https://github.com/iflytek/astronclaw-tutorial",
-            "stars": 320,
+            "stars": 321,
             "forks": 2,
             "score": 42
         },
@@ -337,9 +337,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "zolotukhin/zinc",
             "description": "Zig INferenCe Engine \u2014 LLM inference for AMD RDNA3/RDNA4 GPUs via Vulkan",
             "url": "https://github.com/zolotukhin/zinc",
-            "stars": 49,
+            "stars": 60,
             "forks": 3,
-            "score": 34
+            "score": 35
         },
         {
             "main_cat": "DePIN",
@@ -637,5 +637,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/market/btc-updown-5m-1774832700"
         }
     ],
-    "timestamp": "2026-03-29 20:24"
+    "timestamp": "2026-03-29 21:26"
 };
