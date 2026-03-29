@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "larksuite/cli",
             "description": "A command-line tool for Lark/Feishu Open Platform \u2014 built for humans and AI Agents. Covers core business domains including Messenger, Docs, Base, Sheets, Calendar, Mail, Tasks, Meetings, and more, with 200+ commands and 19 AI Agent Skills.",
             "url": "https://github.com/larksuite/cli",
-            "stars": 1994,
-            "forks": 93,
+            "stars": 2114,
+            "forks": 100,
             "score": 99
         },
         {
@@ -18,8 +18,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "alvinunreal/awesome-opensource-ai",
             "description": "Curated list of the best truly open-source AI projects, models, tools, and infrastructure.",
             "url": "https://github.com/alvinunreal/awesome-opensource-ai",
-            "stars": 1770,
-            "forks": 135,
+            "stars": 1785,
+            "forks": 137,
             "score": 99
         },
         {
@@ -29,8 +29,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "elder-plinius/G0DM0D3",
             "description": "LIBERATED AI CHAT",
             "url": "https://github.com/elder-plinius/G0DM0D3",
-            "stars": 1585,
-            "forks": 309,
+            "stars": 1617,
+            "forks": 312,
             "score": 99
         },
         {
@@ -40,8 +40,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "CoderLuii/HolyClaude",
             "description": "AI coding workstation: Claude Code + web UI + 5 AI CLIs + headless browser + 50+ tools",
             "url": "https://github.com/CoderLuii/HolyClaude",
-            "stars": 1210,
-            "forks": 125,
+            "stars": 1222,
+            "forks": 127,
             "score": 99
         },
         {
@@ -51,8 +51,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "oaker-io/wewrite",
             "description": "\u516c\u4f17\u53f7\u6587\u7ae0\u5168\u6d41\u7a0b AI Skill for Claude Code \u2014 \u70ed\u70b9\u6293\u53d6 \u2192 \u9009\u9898 \u2192 \u5199\u4f5c \u2192 SEO \u2192 \u89c6\u89c9AI \u2192 \u6392\u7248 \u2192 \u5fae\u4fe1\u8349\u7a3f\u7bb1",
             "url": "https://github.com/oaker-io/wewrite",
-            "stars": 728,
-            "forks": 122,
+            "stars": 735,
+            "forks": 123,
             "score": 99
         },
         {
@@ -62,8 +62,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "amitshekhariitbhu/ai-engineering-interview-questions",
             "description": "Your Cheat Sheet for AI Engineering Interview \u2013 Questions and Answers.",
             "url": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions",
-            "stars": 620,
-            "forks": 131,
+            "stars": 622,
+            "forks": 132,
             "score": 87
         },
         {
@@ -73,20 +73,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "ryanstephen/lil-agents",
             "description": "tiny AI companions that live on your macOS dock",
             "url": "https://github.com/ryanstephen/lil-agents",
-            "stars": 606,
-            "forks": 102,
+            "stars": 610,
+            "forks": 103,
             "score": 86
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "724-office",
-            "full_name": "wangziqi06/724-office",
-            "description": "7/24 Office \u2014 Self-evolving AI Agent system. 26 tools, 3500 lines pure Python, MCP/Skill plugins, three-layer memory, self-repair, 24/7 production.",
-            "url": "https://github.com/wangziqi06/724-office",
-            "stars": 1036,
-            "forks": 130,
-            "score": 85
         },
         {
             "main_cat": "AI",
@@ -102,13 +91,13 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "app-store-preflight-skills",
-            "full_name": "truongduy2611/app-store-preflight-skills",
-            "description": "AI agent skill to scan iOS/macOS projects for App Store rejection patterns before submission",
-            "url": "https://github.com/truongduy2611/app-store-preflight-skills",
-            "stars": 971,
-            "forks": 54,
-            "score": 79
+            "name": "724-office",
+            "full_name": "wangziqi06/724-office",
+            "description": "7/24 Office \u2014 Self-evolving AI Agent system. 26 tools, 3500 lines pure Python, MCP/Skill plugins, three-layer memory, self-repair, 24/7 production.",
+            "url": "https://github.com/wangziqi06/724-office",
+            "stars": 1043,
+            "forks": 130,
+            "score": 82
         },
         {
             "main_cat": "AI",
@@ -139,8 +128,19 @@ const ALPHA_DATA_V2 = {
             "full_name": "DingTalk-Real-AI/dingtalk-workspace-cli",
             "description": "DingTalk Workspace is an officially open-sourced cross-platform CLI tool from DingTalk. It unifies DingTalk\u2019s full suite of product capabilities into a single package, is designed for both human users and AI agent scenarios.",
             "url": "https://github.com/DingTalk-Real-AI/dingtalk-workspace-cli",
-            "stars": 880,
+            "stars": 896,
             "forks": 34,
+            "score": 76
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "advertising-skills",
+            "full_name": "realkimbarrett/advertising-skills",
+            "description": "Advertising Skills for Open Claw, Claude Code & AI agents. Direct response, paid ads, funnels, and copy systems.",
+            "url": "https://github.com/realkimbarrett/advertising-skills",
+            "stars": 409,
+            "forks": 15,
             "score": 76
         },
         {
@@ -150,19 +150,19 @@ const ALPHA_DATA_V2 = {
             "full_name": "Shpigford/chops",
             "description": "Your AI agent skills, finally organized. A macOS app to browse, edit, and manage skills across Claude Code, Cursor, Codex, Windsurf, and Amp.",
             "url": "https://github.com/Shpigford/chops",
-            "stars": 970,
+            "stars": 975,
             "forks": 52,
             "score": 75
         },
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "advertising-skills",
-            "full_name": "realkimbarrett/advertising-skills",
-            "description": "Advertising Skills for Open Claw, Claude Code & AI agents. Direct response, paid ads, funnels, and copy systems.",
-            "url": "https://github.com/realkimbarrett/advertising-skills",
-            "stars": 400,
-            "forks": 13,
+            "name": "app-store-preflight-skills",
+            "full_name": "truongduy2611/app-store-preflight-skills",
+            "description": "AI agent skill to scan iOS/macOS projects for App Store rejection patterns before submission",
+            "url": "https://github.com/truongduy2611/app-store-preflight-skills",
+            "stars": 971,
+            "forks": 54,
             "score": 75
         },
         {
@@ -183,7 +183,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "lightningpixel/modly",
             "description": "Desktop app to generate 3D models from images using local AI \u2014 runs entirely on your GPU",
             "url": "https://github.com/lightningpixel/modly",
-            "stars": 758,
+            "stars": 760,
             "forks": 82,
             "score": 68
         },
@@ -194,8 +194,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "jonwiggins/optio",
             "description": "Workflow orchestration for AI coding agents, from task to merged PR.",
             "url": "https://github.com/jonwiggins/optio",
-            "stars": 608,
-            "forks": 48,
+            "stars": 611,
+            "forks": 50,
             "score": 63
         },
         {
@@ -205,7 +205,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "openilink/openilink-hub",
             "description": "\u5f00\u6e90\u5fae\u4fe1 Bot \u7ba1\u7406\u5e73\u53f0 | Self-hosted WeChat Bot Management & Message Relay | WebSocket + Webhook + AI Auto-reply | Passkey Login | 7 Language SDKs",
             "url": "https://github.com/openilink/openilink-hub",
-            "stars": 449,
+            "stars": 451,
             "forks": 30,
             "score": 58
         },
@@ -216,7 +216,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "K-Dense-AI/k-dense-byok",
             "description": "An AI co-scientist powered by Claude Scientific Skills running on your desktop.",
             "url": "https://github.com/K-Dense-AI/k-dense-byok",
-            "stars": 431,
+            "stars": 432,
             "forks": 47,
             "score": 55
         },
@@ -227,7 +227,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "0din-ai/ai-scanner",
             "description": "AI model safety scanner built on NVIDIA garak",
             "url": "https://github.com/0din-ai/ai-scanner",
-            "stars": 362,
+            "stars": 363,
             "forks": 63,
             "score": 55
         },
@@ -238,7 +238,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "ru-yee/Life-Agent-RU-YEE",
             "description": "Life Agent RU YEE \u2014 An AI-powered life management agent that autonomously        handles daily routines including meal planning, grocery shopping, schedule    coordination, and household task automation via cloud-based mobile agents.",
             "url": "https://github.com/ru-yee/Life-Agent-RU-YEE",
-            "stars": 503,
+            "stars": 508,
             "forks": 50,
             "score": 53
         },
@@ -249,9 +249,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "silverstein/minutes",
             "description": "Every meeting, every idea, every voice note \u2014 searchable by your AI. Open-source, privacy-first conversation memory layer.",
             "url": "https://github.com/silverstein/minutes",
-            "stars": 446,
+            "stars": 454,
             "forks": 37,
-            "score": 52
+            "score": 53
         },
         {
             "main_cat": "AI",
@@ -271,7 +271,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "jnMetaCode/superpowers-zh",
             "description": "\ud83e\uddb8 AI \u7f16\u7a0b\u8d85\u80fd\u529b \u00b7 \u4e2d\u6587\u589e\u5f3a\u7248 \u2014 superpowers\uff0899k+ \u2b50\uff09\u5b8c\u6574\u6c49\u5316 + 6 \u4e2a\u4e2d\u56fd\u539f\u521b skills\uff0c\u8ba9 OpenClaw / Claude Code / Cursor / Windsurf / Kiro / Gemini CLI \u7b49 14 \u6b3e AI \u7f16\u7a0b\u5de5\u5177\u771f\u6b63\u4f1a\u5e72\u6d3b",
             "url": "https://github.com/jnMetaCode/superpowers-zh",
-            "stars": 337,
+            "stars": 338,
             "forks": 33,
             "score": 49
         },
@@ -293,7 +293,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "kamranahmedse/diffity",
             "description": "GitHub-style diff viewer for reviewing code changes. Works with Claude Code, Cursor and other AI tools.",
             "url": "https://github.com/kamranahmedse/diffity",
-            "stars": 439,
+            "stars": 440,
             "forks": 24,
             "score": 47
         },
@@ -304,8 +304,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "AnnaSuSu/TechSpar",
             "description": "\u5e26\u957f\u671f\u8bb0\u5fc6\u7684 AI \u9762\u8bd5\u6559\u7ec3\uff0c\u6301\u7eed\u8ffd\u8e2a\u8584\u5f31\u70b9\u4e0e\u638c\u63e1\u5ea6\uff0c\u81ea\u52a8\u751f\u6210\u66f4\u7cbe\u51c6\u7684\u6280\u672f\u9762\u8bd5\u9898\u3002",
             "url": "https://github.com/AnnaSuSu/TechSpar",
-            "stars": 354,
-            "forks": 44,
+            "stars": 358,
+            "forks": 45,
             "score": 47
         },
         {
@@ -326,7 +326,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "iflytek/astronclaw-tutorial",
             "description": "\u4ece\u96f6\u5230\u5de5\u4f5c\u6d41\uff0c\u638c\u63e1 AstronClaw\uff08\u4e91\u7aef\uff09\u4e0e Loomy\uff08\u684c\u9762\uff09\u7684 AI \u52a9\u624b\u5b9e\u6218\u6559\u7a0b | A complete tutorial to master AstronClaw (cloud AI) & Loomy (desktop AI)",
             "url": "https://github.com/iflytek/astronclaw-tutorial",
-            "stars": 312,
+            "stars": 313,
             "forks": 2,
             "score": 42
         },
@@ -348,7 +348,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "kapesgit/bagsbet",
             "description": "Prediction markets that auto-generate from Bags.fm token launches. Bet on outcomes, win if you're right.",
             "url": "https://github.com/kapesgit/bagsbet",
-            "stars": 9,
+            "stars": 10,
             "forks": 1,
             "score": 31
         },
@@ -452,6 +452,17 @@ const ALPHA_DATA_V2 = {
             "score": 30
         },
         {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "tempo-multisig-wallet",
+            "full_name": "lucyy66/tempo-multisig-wallet",
+            "description": "M-of-N multi-signature wallet for Tempo blockchain. TIP-20 stablecoin payments with memo, auto-execute, tx expiry, and reentrancy protection.",
+            "url": "https://github.com/lucyy66/tempo-multisig-wallet",
+            "stars": 0,
+            "forks": 0,
+            "score": 30
+        },
+        {
             "main_cat": "Stablecoin Infrastructure",
             "sub_cat": null,
             "name": "veilpay",
@@ -469,17 +480,6 @@ const ALPHA_DATA_V2 = {
             "full_name": "48Nauts-Operator/nautpay-hackathon",
             "description": "NautPay is an AI-native payment cockpit for stablecoin treasury operations on Solana, with compliance intelligence built in.",
             "url": "https://github.com/48Nauts-Operator/nautpay-hackathon",
-            "stars": 0,
-            "forks": 0,
-            "score": 30
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "tempo-multisig-wallet",
-            "full_name": "lucyy66/tempo-multisig-wallet",
-            "description": "M-of-N multi-signature wallet for Tempo blockchain. TIP-20 stablecoin payments with memo, auto-execute, tx expiry, and reentrancy protection.",
-            "url": "https://github.com/lucyy66/tempo-multisig-wallet",
             "stars": 0,
             "forks": 0,
             "score": 30
@@ -604,16 +604,27 @@ const ALPHA_DATA_V2 = {
             "stars": 0,
             "forks": 0,
             "score": 30
+        },
+        {
+            "main_cat": "Cross-chain / Interoperability",
+            "sub_cat": null,
+            "name": "nexus",
+            "full_name": "Sneekyboots/nexus",
+            "description": "NEXUS Protocol \u2014 Cross-Border Stablecoin Treasury on Solana",
+            "url": "https://github.com/Sneekyboots/nexus",
+            "stars": 0,
+            "forks": 0,
+            "score": 30
         }
     ],
     "news": [
         {
-            "title": "Bitcoin Up or Down - March 29, 8AM ET (Probability: 50%)",
+            "title": "Bitcoin Up or Down - March 29, 8:50PM-8:55PM ET (Probability: 50%)",
             "source": "Polymarket",
             "type": "Expectation",
             "color": "text-indigo-400",
-            "url": "https://polymarket.com/market/bitcoin-up-or-down-march-29-2026-8am-et"
+            "url": "https://polymarket.com/market/btc-updown-5m-1774831800"
         }
     ],
-    "timestamp": "2026-03-29 04:34"
+    "timestamp": "2026-03-29 06:09"
 };
