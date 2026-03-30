@@ -7,7 +7,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "larksuite/cli",
             "description": "A command-line tool for Lark/Feishu Open Platform \u2014 built for humans and AI Agents. Covers core business domains including Messenger, Docs, Base, Sheets, Calendar, Mail, Tasks, Meetings, and more, with 200+ commands and 19 AI Agent Skills.",
             "url": "https://github.com/larksuite/cli",
-            "stars": 4598,
+            "stars": 4599,
             "forks": 212,
             "score": 99
         },
@@ -18,8 +18,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "elder-plinius/G0DM0D3",
             "description": "LIBERATED AI CHAT",
             "url": "https://github.com/elder-plinius/G0DM0D3",
-            "stars": 2218,
-            "forks": 424,
+            "stars": 2226,
+            "forks": 425,
             "score": 99
         },
         {
@@ -29,7 +29,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "alvinunreal/awesome-opensource-ai",
             "description": "Curated list of the best truly open-source AI projects, models, tools, and infrastructure.",
             "url": "https://github.com/alvinunreal/awesome-opensource-ai",
-            "stars": 2035,
+            "stars": 2040,
             "forks": 158,
             "score": 99
         },
@@ -40,7 +40,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "CoderLuii/HolyClaude",
             "description": "AI coding workstation: Claude Code + web UI + 5 AI CLIs + headless browser + 50+ tools",
             "url": "https://github.com/CoderLuii/HolyClaude",
-            "stars": 1417,
+            "stars": 1421,
             "forks": 144,
             "score": 99
         },
@@ -62,7 +62,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "WecomTeam/wecom-cli",
             "description": "\u4f01\u4e1a\u5fae\u4fe1\u5f00\u653e\u5e73\u53f0\u547d\u4ee4\u884c\u5de5\u5177 \u2014 \u8ba9\u4eba\u7c7b\u548c AI Agent \u90fd\u80fd\u5728\u7ec8\u7aef\u4e2d\u64cd\u4f5c\u4f01\u4e1a\u5fae\u4fe1",
             "url": "https://github.com/WecomTeam/wecom-cli",
-            "stars": 898,
+            "stars": 902,
             "forks": 45,
             "score": 99
         },
@@ -95,7 +95,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "ryanstephen/lil-agents",
             "description": "tiny AI companions that live on your macOS dock",
             "url": "https://github.com/ryanstephen/lil-agents",
-            "stars": 672,
+            "stars": 673,
             "forks": 118,
             "score": 87
         },
@@ -106,7 +106,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "wangziqi06/724-office",
             "description": "7/24 Office \u2014 Self-evolving AI Agent system. 26 tools, 3500 lines pure Python, MCP/Skill plugins, three-layer memory, self-repair, 24/7 production.",
             "url": "https://github.com/wangziqi06/724-office",
-            "stars": 1114,
+            "stars": 1115,
             "forks": 149,
             "score": 83
         },
@@ -117,7 +117,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "LeoYeAI/openclaw-auto-dream",
             "description": "Automatic memory consolidation for OpenClaw agents \u2014 like sleep for your AI. Powered by MyClaw.ai",
             "url": "https://github.com/LeoYeAI/openclaw-auto-dream",
-            "stars": 453,
+            "stars": 458,
             "forks": 10,
             "score": 79
         },
@@ -128,7 +128,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "ryfineZ/codex-session-patcher",
             "description": "A lightweight Python tool to clean AI refusal responses from Codex CLI session files",
             "url": "https://github.com/ryfineZ/codex-session-patcher",
-            "stars": 387,
+            "stars": 390,
             "forks": 92,
             "score": 77
         },
@@ -194,7 +194,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "walter-grace/mac-code",
             "description": "mac code \u2014 Claude Code, but it runs on your Mac for free.   35B AI agent at 30 tok/s via Apple Silicon flash-paging. $0/month. ",
             "url": "https://github.com/walter-grace/mac-code",
-            "stars": 477,
+            "stars": 479,
             "forks": 50,
             "score": 67
         },
@@ -205,7 +205,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "lightningpixel/modly",
             "description": "Desktop app to generate 3D models from images using local AI \u2014 runs entirely on your GPU",
             "url": "https://github.com/lightningpixel/modly",
-            "stars": 790,
+            "stars": 791,
             "forks": 82,
             "score": 64
         },
@@ -216,7 +216,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "jonwiggins/optio",
             "description": "Workflow orchestration for AI coding agents, from task to merged PR.",
             "url": "https://github.com/jonwiggins/optio",
-            "stars": 692,
+            "stars": 693,
             "forks": 57,
             "score": 62
         },
@@ -227,7 +227,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "openilink/openilink-hub",
             "description": "\u5f00\u6e90\u5fae\u4fe1 Bot \u7ba1\u7406\u5e73\u53f0 + App \u5e94\u7528\u5e02\u573a | Self-hosted WeChat Bot Platform with App Marketplace | Lark \u00b7 Slack \u00b7 Discord \u00b7 DingTalk \u00b7 GitHub \u00b7 Notion \u00b7 20+ Apps | AI Tools | 7 Language SDKs",
             "url": "https://github.com/openilink/openilink-hub",
-            "stars": 539,
+            "stars": 541,
             "forks": 39,
             "score": 61
         },
@@ -238,9 +238,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "silverstein/minutes",
             "description": "Every meeting, every idea, every voice note \u2014 searchable by your AI. Open-source, privacy-first conversation memory layer.",
             "url": "https://github.com/silverstein/minutes",
-            "stars": 670,
+            "stars": 673,
             "forks": 57,
-            "score": 59
+            "score": 60
         },
         {
             "main_cat": "AI",
@@ -282,7 +282,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "austin-weeks/miasma",
             "description": "Trap AI web scrapers in an endless poison pit.",
             "url": "https://github.com/austin-weeks/miasma",
-            "stars": 667,
+            "stars": 670,
             "forks": 12,
             "score": 53
         },
@@ -326,7 +326,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "CN-Syndra/ClawLink",
             "description": "An AI Agent Social Network \u2014 Let your AI (Claw) talk to other people's AIs directly. Autonomous agent-to-agent communication, negotiation, and collaboration, with full owner control.",
             "url": "https://github.com/CN-Syndra/ClawLink",
-            "stars": 325,
+            "stars": 329,
             "forks": 15,
             "score": 44
         },
@@ -633,12 +633,12 @@ const ALPHA_DATA_V2 = {
             "url": "http://arxiv.org/abs/2603.26573v1"
         },
         {
-            "title": "Will the price of Solana be greater than $130 on April 4? (Probability: 2%)",
+            "title": "Bitcoin Up or Down - March 31, 11:15AM-11:20AM ET (Probability: 50%)",
             "source": "Polymarket",
             "type": "Expectation",
             "color": "text-indigo-400",
-            "url": "https://polymarket.com/market/will-the-price-of-solana-be-greater-than-130-on-april-4"
+            "url": "https://polymarket.com/market/btc-updown-5m-1774970100"
         }
     ],
-    "timestamp": "2026-03-30 19:52"
+    "timestamp": "2026-03-30 20:39"
 };
