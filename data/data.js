@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "larksuite/cli",
             "description": "The official Lark/Feishu CLI tool, maintained by the larksuite team \u2014 built for humans and AI Agents. Covers core business domains including Messenger, Docs, Base, Sheets, Calendar, Mail, Tasks, Meetings, and more, with 200+ commands and 19 AI Agent Skills.",
             "url": "https://github.com/larksuite/cli",
-            "stars": 5407,
-            "forks": 264,
+            "stars": 5414,
+            "forks": 265,
             "score": 99
         },
         {
@@ -18,8 +18,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "elder-plinius/G0DM0D3",
             "description": "LIBERATED AI CHAT",
             "url": "https://github.com/elder-plinius/G0DM0D3",
-            "stars": 2398,
-            "forks": 471,
+            "stars": 2406,
+            "forks": 473,
             "score": 99
         },
         {
@@ -29,7 +29,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "alvinunreal/awesome-opensource-ai",
             "description": "Curated list of the best truly open-source AI projects, models, tools, and infrastructure.",
             "url": "https://github.com/alvinunreal/awesome-opensource-ai",
-            "stars": 2158,
+            "stars": 2163,
             "forks": 162,
             "score": 99
         },
@@ -40,7 +40,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "CoderLuii/HolyClaude",
             "description": "AI coding workstation: Claude Code + web UI + 5 AI CLIs + headless browser + 50+ tools",
             "url": "https://github.com/CoderLuii/HolyClaude",
-            "stars": 1475,
+            "stars": 1476,
             "forks": 155,
             "score": 99
         },
@@ -51,7 +51,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "WecomTeam/wecom-cli",
             "description": "\u4f01\u4e1a\u5fae\u4fe1\u5f00\u653e\u5e73\u53f0\u547d\u4ee4\u884c\u5de5\u5177 \u2014 \u8ba9\u4eba\u7c7b\u548c AI Agent \u90fd\u80fd\u5728\u7ec8\u7aef\u4e2d\u64cd\u4f5c\u4f01\u4e1a\u5fae\u4fe1",
             "url": "https://github.com/WecomTeam/wecom-cli",
-            "stars": 1232,
+            "stars": 1234,
             "forks": 63,
             "score": 99
         },
@@ -69,11 +69,22 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
+            "name": "claude-code-system-prompts",
+            "full_name": "Leonxlnx/claude-code-system-prompts",
+            "description": "Research into how agentic AI coding assistants work \u2014 reconstructed prompt patterns, agent coordination, and security classification",
+            "url": "https://github.com/Leonxlnx/claude-code-system-prompts",
+            "stars": 751,
+            "forks": 389,
+            "score": 99
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
             "name": "dingtalk-workspace-cli",
             "full_name": "DingTalk-Real-AI/dingtalk-workspace-cli",
             "description": "DingTalk Workspace is an officially open-sourced cross-platform CLI tool from DingTalk. It unifies DingTalk\u2019s full suite of product capabilities into a single package, is designed for both human users and AI agent scenarios.",
             "url": "https://github.com/DingTalk-Real-AI/dingtalk-workspace-cli",
-            "stars": 1442,
+            "stars": 1447,
             "forks": 57,
             "score": 94
         },
@@ -84,7 +95,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "amitshekhariitbhu/ai-engineering-interview-questions",
             "description": "Your Cheat Sheet for AI Engineering Interview \u2013 Questions and Answers.",
             "url": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions",
-            "stars": 881,
+            "stars": 883,
             "forks": 160,
             "score": 88
         },
@@ -95,9 +106,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "ryanstephen/lil-agents",
             "description": "tiny AI companions that live on your macOS dock",
             "url": "https://github.com/ryanstephen/lil-agents",
-            "stars": 723,
+            "stars": 725,
             "forks": 127,
-            "score": 85
+            "score": 86
         },
         {
             "main_cat": "AI",
@@ -106,9 +117,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "LeoYeAI/openclaw-auto-dream",
             "description": "Automatic memory consolidation for OpenClaw agents \u2014 like sleep for your AI. Powered by MyClaw.ai",
             "url": "https://github.com/LeoYeAI/openclaw-auto-dream",
-            "stars": 558,
+            "stars": 561,
             "forks": 13,
-            "score": 80
+            "score": 81
         },
         {
             "main_cat": "AI",
@@ -117,20 +128,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "ghostwright/phantom",
             "description": "An AI co-worker with its own computer. Self-evolving, persistent memory, MCP server, secure credential collection, email identity. Built on the Claude Agent SDK.",
             "url": "https://github.com/ghostwright/phantom",
-            "stars": 565,
-            "forks": 47,
-            "score": 77
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "autoresearch-genealogy",
-            "full_name": "mattprusak/autoresearch-genealogy",
-            "description": "Structured prompts, vault templates, and archive guides for AI-assisted genealogy research. Built for Claude Code.",
-            "url": "https://github.com/mattprusak/autoresearch-genealogy",
-            "stars": 1000,
-            "forks": 95,
-            "score": 76
+            "stars": 579,
+            "forks": 48,
+            "score": 78
         },
         {
             "main_cat": "AI",
@@ -139,9 +139,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "ryfineZ/codex-session-patcher",
             "description": "A lightweight Python tool to clean AI refusal responses from Codex CLI session files",
             "url": "https://github.com/ryfineZ/codex-session-patcher",
-            "stars": 408,
+            "stars": 409,
             "forks": 99,
             "score": 74
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "autoresearch-genealogy",
+            "full_name": "mattprusak/autoresearch-genealogy",
+            "description": "Structured prompts, vault templates, and archive guides for AI-assisted genealogy research. Built for Claude Code.",
+            "url": "https://github.com/mattprusak/autoresearch-genealogy",
+            "stars": 1006,
+            "forks": 97,
+            "score": 73
         },
         {
             "main_cat": "AI",
@@ -150,7 +161,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Shpigford/chops",
             "description": "Your AI agent skills, finally organized. A macOS app to browse, edit, and manage skills across Claude Code, Cursor, Codex, Windsurf, and Amp.",
             "url": "https://github.com/Shpigford/chops",
-            "stars": 1099,
+            "stars": 1101,
             "forks": 60,
             "score": 71
         },
@@ -211,6 +222,17 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
+            "sub_cat": null,
+            "name": "minutes",
+            "full_name": "silverstein/minutes",
+            "description": "Every meeting, every idea, every voice note \u2014 searchable by your AI. Open-source, privacy-first conversation memory layer.",
+            "url": "https://github.com/silverstein/minutes",
+            "stars": 726,
+            "forks": 66,
+            "score": 60
+        },
+        {
+            "main_cat": "AI",
             "sub_cat": "AI General",
             "name": "desktop",
             "full_name": "openyak/desktop",
@@ -218,18 +240,7 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/openyak/desktop",
             "stars": 521,
             "forks": 73,
-            "score": 61
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "minutes",
-            "full_name": "silverstein/minutes",
-            "description": "Every meeting, every idea, every voice note \u2014 searchable by your AI. Open-source, privacy-first conversation memory layer.",
-            "url": "https://github.com/silverstein/minutes",
-            "stars": 725,
-            "forks": 66,
-            "score": 60
+            "score": 59
         },
         {
             "main_cat": "AI",
@@ -238,7 +249,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "ericboy0224/learn-docker-and-k8s",
             "description": "Interactive AI-driven game to learn Docker, Linux, networking & Kubernetes. Open in Claude Code or Cursor, type 'let's play'.",
             "url": "https://github.com/ericboy0224/learn-docker-and-k8s",
-            "stars": 342,
+            "stars": 344,
             "forks": 17,
             "score": 55
         },
@@ -249,7 +260,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "austin-weeks/miasma",
             "description": "Trap AI web scrapers in an endless poison pit.",
             "url": "https://github.com/austin-weeks/miasma",
-            "stars": 737,
+            "stars": 739,
             "forks": 13,
             "score": 54
         },
@@ -272,7 +283,7 @@ const ALPHA_DATA_V2 = {
             "description": "An AI co-scientist powered by Claude Scientific Skills running on your desktop.",
             "url": "https://github.com/K-Dense-AI/k-dense-byok",
             "stars": 456,
-            "forks": 49,
+            "forks": 48,
             "score": 53
         },
         {
@@ -315,20 +326,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "CN-Syndra/ClawLink",
             "description": "An AI Agent Social Network \u2014 Let your AI (Claw) talk to other people's AIs directly. Autonomous agent-to-agent communication, negotiation, and collaboration, with full owner control.",
             "url": "https://github.com/CN-Syndra/ClawLink",
-            "stars": 469,
-            "forks": 26,
+            "stars": 479,
+            "forks": 27,
             "score": 50
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "markdown-proxy",
-            "full_name": "joeseesun/markdown-proxy",
-            "description": "Fetch any URL as clean Markdown via proxy services (r.jina.ai / defuddle.md) or built-in scripts. Works with login-required pages like X/Twitter, WeCh",
-            "url": "https://github.com/joeseesun/markdown-proxy",
-            "stars": 333,
-            "forks": 22,
-            "score": 46
         },
         {
             "main_cat": "AI",
@@ -578,12 +578,12 @@ const ALPHA_DATA_V2 = {
             "url": "http://arxiv.org/abs/2603.28727v1"
         },
         {
-            "title": "Bitcoin Up or Down - April 1, 12:45PM-12:50PM ET (Probability: 50%)",
+            "title": "Will the price of Solana be between $50 and $60 on April 4? (Probability: 2%)",
             "source": "Polymarket",
             "type": "Expectation",
             "color": "text-indigo-400",
-            "url": "https://polymarket.com/market/btc-updown-5m-1775061900"
+            "url": "https://polymarket.com/market/will-the-price-of-solana-be-between-50-60-on-april-4"
         }
     ],
-    "timestamp": "2026-03-31 17:51"
+    "timestamp": "2026-03-31 18:54"
 };
