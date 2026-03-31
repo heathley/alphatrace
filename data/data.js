@@ -7,7 +7,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "larksuite/cli",
             "description": "The official Lark/Feishu CLI tool, maintained by the larksuite team \u2014 built for humans and AI Agents. Covers core business domains including Messenger, Docs, Base, Sheets, Calendar, Mail, Tasks, Meetings, and more, with 200+ commands and 19 AI Agent Skills.",
             "url": "https://github.com/larksuite/cli",
-            "stars": 5428,
+            "stars": 5432,
             "forks": 265,
             "score": 99
         },
@@ -18,8 +18,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "elder-plinius/G0DM0D3",
             "description": "LIBERATED AI CHAT",
             "url": "https://github.com/elder-plinius/G0DM0D3",
-            "stars": 2424,
-            "forks": 474,
+            "stars": 2429,
+            "forks": 476,
             "score": 99
         },
         {
@@ -29,7 +29,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "alvinunreal/awesome-opensource-ai",
             "description": "Curated list of the best truly open-source AI projects, models, tools, and infrastructure.",
             "url": "https://github.com/alvinunreal/awesome-opensource-ai",
-            "stars": 2174,
+            "stars": 2176,
             "forks": 166,
             "score": 99
         },
@@ -51,7 +51,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "WecomTeam/wecom-cli",
             "description": "\u4f01\u4e1a\u5fae\u4fe1\u5f00\u653e\u5e73\u53f0\u547d\u4ee4\u884c\u5de5\u5177 \u2014 \u8ba9\u4eba\u7c7b\u548c AI Agent \u90fd\u80fd\u5728\u7ec8\u7aef\u4e2d\u64cd\u4f5c\u4f01\u4e1a\u5fae\u4fe1",
             "url": "https://github.com/WecomTeam/wecom-cli",
-            "stars": 1236,
+            "stars": 1237,
             "forks": 63,
             "score": 99
         },
@@ -73,8 +73,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "Leonxlnx/claude-code-system-prompts",
             "description": "Research into how agentic AI coding assistants work \u2014 reconstructed prompt patterns, agent coordination, and security classification",
             "url": "https://github.com/Leonxlnx/claude-code-system-prompts",
-            "stars": 930,
-            "forks": 475,
+            "stars": 977,
+            "forks": 498,
             "score": 99
         },
         {
@@ -84,7 +84,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "DingTalk-Real-AI/dingtalk-workspace-cli",
             "description": "DingTalk Workspace is an officially open-sourced cross-platform CLI tool from DingTalk. It unifies DingTalk\u2019s full suite of product capabilities into a single package, is designed for both human users and AI agent scenarios.",
             "url": "https://github.com/DingTalk-Real-AI/dingtalk-workspace-cli",
-            "stars": 1451,
+            "stars": 1446,
             "forks": 57,
             "score": 94
         },
@@ -106,20 +106,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "ryanstephen/lil-agents",
             "description": "tiny AI companions that live on your macOS dock",
             "url": "https://github.com/ryanstephen/lil-agents",
-            "stars": 726,
-            "forks": 127,
+            "stars": 730,
+            "forks": 128,
             "score": 86
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "openclaw-auto-dream",
-            "full_name": "LeoYeAI/openclaw-auto-dream",
-            "description": "Automatic memory consolidation for OpenClaw agents \u2014 like sleep for your AI. Powered by MyClaw.ai",
-            "url": "https://github.com/LeoYeAI/openclaw-auto-dream",
-            "stars": 565,
-            "forks": 13,
-            "score": 81
         },
         {
             "main_cat": "AI",
@@ -128,9 +117,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "ghostwright/phantom",
             "description": "An AI co-worker with its own computer. Self-evolving, persistent memory, MCP server, secure credential collection, email identity. Built on the Claude Agent SDK.",
             "url": "https://github.com/ghostwright/phantom",
-            "stars": 619,
-            "forks": 49,
-            "score": 80
+            "stars": 629,
+            "forks": 50,
+            "score": 81
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "openclaw-auto-dream",
+            "full_name": "LeoYeAI/openclaw-auto-dream",
+            "description": "Automatic memory consolidation for OpenClaw agents \u2014 like sleep for your AI. Powered by MyClaw.ai",
+            "url": "https://github.com/LeoYeAI/openclaw-auto-dream",
+            "stars": 568,
+            "forks": 13,
+            "score": 81
         },
         {
             "main_cat": "AI",
@@ -150,7 +150,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "mattprusak/autoresearch-genealogy",
             "description": "Structured prompts, vault templates, and archive guides for AI-assisted genealogy research. Built for Claude Code.",
             "url": "https://github.com/mattprusak/autoresearch-genealogy",
-            "stars": 1009,
+            "stars": 1011,
             "forks": 98,
             "score": 73
         },
@@ -196,7 +196,7 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/walter-grace/mac-code",
             "stars": 498,
             "forks": 52,
-            "score": 65
+            "score": 62
         },
         {
             "main_cat": "AI",
@@ -205,8 +205,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "silverstein/minutes",
             "description": "Every meeting, every idea, every voice note \u2014 searchable by your AI. Open-source, privacy-first conversation memory layer.",
             "url": "https://github.com/silverstein/minutes",
-            "stars": 738,
-            "forks": 67,
+            "stars": 739,
+            "forks": 68,
             "score": 61
         },
         {
@@ -227,9 +227,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "openilink/openilink-hub",
             "description": "\u5f00\u6e90\u5fae\u4fe1 Bot \u7ba1\u7406\u5e73\u53f0 + App \u5e94\u7528\u5e02\u573a | Self-hosted WeChat Bot Platform with App Marketplace | Lark \u00b7 Slack \u00b7 Discord \u00b7 DingTalk \u00b7 GitHub \u00b7 Notion \u00b7 20+ Apps | AI Tools | 7 Language SDKs",
             "url": "https://github.com/openilink/openilink-hub",
-            "stars": 584,
+            "stars": 576,
             "forks": 40,
-            "score": 61
+            "score": 60
         },
         {
             "main_cat": "AI",
@@ -260,7 +260,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "austin-weeks/miasma",
             "description": "Trap AI web scrapers in an endless poison pit.",
             "url": "https://github.com/austin-weeks/miasma",
-            "stars": 743,
+            "stars": 746,
             "forks": 13,
             "score": 54
         },
@@ -282,20 +282,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "K-Dense-AI/k-dense-byok",
             "description": "An AI co-scientist powered by Claude Scientific Skills running on your desktop.",
             "url": "https://github.com/K-Dense-AI/k-dense-byok",
-            "stars": 457,
+            "stars": 458,
             "forks": 48,
             "score": 53
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "ai-scanner",
-            "full_name": "0din-ai/ai-scanner",
-            "description": "AI model safety scanner built on NVIDIA garak",
-            "url": "https://github.com/0din-ai/ai-scanner",
-            "stars": 373,
-            "forks": 66,
-            "score": 52
         },
         {
             "main_cat": "AI",
@@ -315,8 +304,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "CN-Syndra/ClawLink",
             "description": "An AI Agent Social Network \u2014 Let your AI (Claw) talk to other people's AIs directly. Autonomous agent-to-agent communication, negotiation, and collaboration, with full owner control.",
             "url": "https://github.com/CN-Syndra/ClawLink",
-            "stars": 498,
-            "forks": 27,
+            "stars": 500,
+            "forks": 28,
             "score": 51
         },
         {
@@ -328,6 +317,17 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/jnMetaCode/superpowers-zh",
             "stars": 428,
             "forks": 41,
+            "score": 51
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "ai-scanner",
+            "full_name": "0din-ai/ai-scanner",
+            "description": "AI model safety scanner built on NVIDIA garak",
+            "url": "https://github.com/0din-ai/ai-scanner",
+            "stars": 373,
+            "forks": 66,
             "score": 51
         },
         {
@@ -589,12 +589,12 @@ const ALPHA_DATA_V2 = {
             "url": "http://arxiv.org/abs/2603.28727v1"
         },
         {
-            "title": "Will the price of Solana be between $40 and $50 on April 4? (Probability: 2%)",
+            "title": "Will the price of Solana be greater than $130 on April 3? (Probability: 1%)",
             "source": "Polymarket",
             "type": "Expectation",
             "color": "text-indigo-400",
-            "url": "https://polymarket.com/market/will-the-price-of-solana-be-between-40-50-on-april-4"
+            "url": "https://polymarket.com/market/will-the-price-of-solana-be-greater-than-130-on-april-3"
         }
     ],
-    "timestamp": "2026-03-31 21:33"
+    "timestamp": "2026-03-31 22:29"
 };
