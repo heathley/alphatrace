@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "larksuite/cli",
             "description": "The official Lark/Feishu CLI tool, maintained by the larksuite team \u2014 built for humans and AI Agents. Covers core business domains including Messenger, Docs, Base, Sheets, Calendar, Mail, Tasks, Meetings, and more, with 200+ commands and 19 AI Agent Skills.",
             "url": "https://github.com/larksuite/cli",
-            "stars": 5364,
-            "forks": 262,
+            "stars": 5387,
+            "forks": 263,
             "score": 99
         },
         {
@@ -18,8 +18,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "elder-plinius/G0DM0D3",
             "description": "LIBERATED AI CHAT",
             "url": "https://github.com/elder-plinius/G0DM0D3",
-            "stars": 2370,
-            "forks": 461,
+            "stars": 2380,
+            "forks": 467,
             "score": 99
         },
         {
@@ -29,8 +29,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "alvinunreal/awesome-opensource-ai",
             "description": "Curated list of the best truly open-source AI projects, models, tools, and infrastructure.",
             "url": "https://github.com/alvinunreal/awesome-opensource-ai",
-            "stars": 2147,
-            "forks": 162,
+            "stars": 2153,
+            "forks": 161,
             "score": 99
         },
         {
@@ -40,8 +40,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "CoderLuii/HolyClaude",
             "description": "AI coding workstation: Claude Code + web UI + 5 AI CLIs + headless browser + 50+ tools",
             "url": "https://github.com/CoderLuii/HolyClaude",
-            "stars": 1458,
-            "forks": 151,
+            "stars": 1465,
+            "forks": 153,
             "score": 99
         },
         {
@@ -51,8 +51,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "WecomTeam/wecom-cli",
             "description": "\u4f01\u4e1a\u5fae\u4fe1\u5f00\u653e\u5e73\u53f0\u547d\u4ee4\u884c\u5de5\u5177 \u2014 \u8ba9\u4eba\u7c7b\u548c AI Agent \u90fd\u80fd\u5728\u7ec8\u7aef\u4e2d\u64cd\u4f5c\u4f01\u4e1a\u5fae\u4fe1",
             "url": "https://github.com/WecomTeam/wecom-cli",
-            "stars": 1214,
-            "forks": 60,
+            "stars": 1224,
+            "forks": 62,
             "score": 99
         },
         {
@@ -62,8 +62,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "oaker-io/wewrite",
             "description": "\u516c\u4f17\u53f7\u6587\u7ae0\u5168\u6d41\u7a0b AI Skill for Claude Code \u2014 \u70ed\u70b9\u6293\u53d6 \u2192 \u9009\u9898 \u2192 \u5199\u4f5c \u2192 SEO \u2192 \u89c6\u89c9AI \u2192 \u6392\u7248 \u2192 \u5fae\u4fe1\u8349\u7a3f\u7bb1",
             "url": "https://github.com/oaker-io/wewrite",
-            "stars": 974,
-            "forks": 167,
+            "stars": 977,
+            "forks": 168,
             "score": 99
         },
         {
@@ -73,9 +73,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "DingTalk-Real-AI/dingtalk-workspace-cli",
             "description": "DingTalk Workspace is an officially open-sourced cross-platform CLI tool from DingTalk. It unifies DingTalk\u2019s full suite of product capabilities into a single package, is designed for both human users and AI agent scenarios.",
             "url": "https://github.com/DingTalk-Real-AI/dingtalk-workspace-cli",
-            "stars": 1430,
+            "stars": 1436,
             "forks": 57,
-            "score": 93
+            "score": 94
         },
         {
             "main_cat": "AI",
@@ -84,7 +84,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "amitshekhariitbhu/ai-engineering-interview-questions",
             "description": "Your Cheat Sheet for AI Engineering Interview \u2013 Questions and Answers.",
             "url": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions",
-            "stars": 869,
+            "stars": 873,
             "forks": 160,
             "score": 88
         },
@@ -95,8 +95,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "ryanstephen/lil-agents",
             "description": "tiny AI companions that live on your macOS dock",
             "url": "https://github.com/ryanstephen/lil-agents",
-            "stars": 716,
-            "forks": 124,
+            "stars": 721,
+            "forks": 126,
             "score": 85
         },
         {
@@ -106,9 +106,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "LeoYeAI/openclaw-auto-dream",
             "description": "Automatic memory consolidation for OpenClaw agents \u2014 like sleep for your AI. Powered by MyClaw.ai",
             "url": "https://github.com/LeoYeAI/openclaw-auto-dream",
-            "stars": 544,
+            "stars": 552,
             "forks": 13,
-            "score": 79
+            "score": 80
         },
         {
             "main_cat": "AI",
@@ -117,8 +117,19 @@ const ALPHA_DATA_V2 = {
             "full_name": "mattprusak/autoresearch-genealogy",
             "description": "Structured prompts, vault templates, and archive guides for AI-assisted genealogy research. Built for Claude Code.",
             "url": "https://github.com/mattprusak/autoresearch-genealogy",
-            "stars": 989,
-            "forks": 91,
+            "stars": 995,
+            "forks": 93,
+            "score": 75
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "phantom",
+            "full_name": "ghostwright/phantom",
+            "description": "An AI co-worker with its own computer. Self-evolving, persistent memory, MCP server, secure credential collection, email identity. Built on the Claude Agent SDK.",
+            "url": "https://github.com/ghostwright/phantom",
+            "stars": 540,
+            "forks": 47,
             "score": 75
         },
         {
@@ -128,19 +139,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "Shpigford/chops",
             "description": "Your AI agent skills, finally organized. A macOS app to browse, edit, and manage skills across Claude Code, Cursor, Codex, Windsurf, and Amp.",
             "url": "https://github.com/Shpigford/chops",
-            "stars": 1094,
+            "stars": 1097,
             "forks": 59,
-            "score": 74
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "phantom",
-            "full_name": "ghostwright/phantom",
-            "description": "An AI co-worker with its own computer. Self-evolving, persistent memory, MCP server, secure credential collection, email identity. Built on the Claude Agent SDK.",
-            "url": "https://github.com/ghostwright/phantom",
-            "stars": 526,
-            "forks": 46,
             "score": 74
         },
         {
@@ -151,7 +151,7 @@ const ALPHA_DATA_V2 = {
             "description": "A lightweight Python tool to clean AI refusal responses from Codex CLI session files",
             "url": "https://github.com/ryfineZ/codex-session-patcher",
             "stars": 405,
-            "forks": 97,
+            "forks": 98,
             "score": 74
         },
         {
@@ -161,7 +161,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "truongduy2611/app-store-preflight-skills",
             "description": "AI agent skill to scan iOS/macOS projects for App Store rejection patterns before submission",
             "url": "https://github.com/truongduy2611/app-store-preflight-skills",
-            "stars": 998,
+            "stars": 999,
             "forks": 54,
             "score": 70
         },
@@ -172,7 +172,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "realkimbarrett/advertising-skills",
             "description": "Advertising Skills for Open Claw, Claude Code & AI agents. Direct response, paid ads, funnels, and copy systems.",
             "url": "https://github.com/realkimbarrett/advertising-skills",
-            "stars": 509,
+            "stars": 510,
             "forks": 28,
             "score": 68
         },
@@ -200,13 +200,24 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "desktop",
+            "full_name": "openyak/desktop",
+            "description": "An open-source desktop AI agent that handles your documents, files, and daily workflows \u2014 locally, with any model.",
+            "url": "https://github.com/openyak/desktop",
+            "stars": 520,
+            "forks": 73,
+            "score": 61
+        },
+        {
+            "main_cat": "AI",
             "sub_cat": null,
             "name": "minutes",
             "full_name": "silverstein/minutes",
             "description": "Every meeting, every idea, every voice note \u2014 searchable by your AI. Open-source, privacy-first conversation memory layer.",
             "url": "https://github.com/silverstein/minutes",
-            "stars": 718,
-            "forks": 65,
+            "stars": 720,
+            "forks": 66,
             "score": 60
         },
         {
@@ -222,25 +233,14 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "desktop",
-            "full_name": "openyak/desktop",
-            "description": "An open-source desktop AI agent that handles your documents, files, and daily workflows \u2014 locally, with any model.",
-            "url": "https://github.com/openyak/desktop",
-            "stars": 520,
-            "forks": 71,
-            "score": 60
-        },
-        {
-            "main_cat": "AI",
             "sub_cat": null,
             "name": "learn-docker-and-k8s",
             "full_name": "ericboy0224/learn-docker-and-k8s",
             "description": "Interactive AI-driven game to learn Docker, Linux, networking & Kubernetes. Open in Claude Code or Cursor, type 'let's play'.",
             "url": "https://github.com/ericboy0224/learn-docker-and-k8s",
-            "stars": 333,
-            "forks": 16,
-            "score": 58
+            "stars": 337,
+            "forks": 17,
+            "score": 55
         },
         {
             "main_cat": "AI",
@@ -249,8 +249,19 @@ const ALPHA_DATA_V2 = {
             "full_name": "austin-weeks/miasma",
             "description": "Trap AI web scrapers in an endless poison pit.",
             "url": "https://github.com/austin-weeks/miasma",
-            "stars": 727,
+            "stars": 730,
             "forks": 13,
+            "score": 54
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "spec_driven_develop",
+            "full_name": "zhu1090093659/spec_driven_develop",
+            "description": "Spec-Driven Develop is a platform-agnostic AI agent skill that automates the pre-development workflow for large-scale complex tasks. It is not a framework, not a runtime, not a package manager \u2014 it is a single SKILL.md file that teaches any AI coding agent a structured methodology.",
+            "url": "https://github.com/zhu1090093659/spec_driven_develop",
+            "stars": 396,
+            "forks": 57,
             "score": 54
         },
         {
@@ -260,20 +271,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "K-Dense-AI/k-dense-byok",
             "description": "An AI co-scientist powered by Claude Scientific Skills running on your desktop.",
             "url": "https://github.com/K-Dense-AI/k-dense-byok",
-            "stars": 455,
+            "stars": 456,
             "forks": 48,
             "score": 53
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "spec_driven_develop",
-            "full_name": "zhu1090093659/spec_driven_develop",
-            "description": "Spec-Driven Develop is a platform-agnostic AI agent skill that automates the pre-development workflow for large-scale complex tasks. It is not a framework, not a runtime, not a package manager \u2014 it is a single SKILL.md file that teaches any AI coding agent a structured methodology.",
-            "url": "https://github.com/zhu1090093659/spec_driven_develop",
-            "stars": 375,
-            "forks": 51,
-            "score": 52
         },
         {
             "main_cat": "AI",
@@ -304,7 +304,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "jnMetaCode/superpowers-zh",
             "description": "\ud83e\uddb8 AI \u7f16\u7a0b\u8d85\u80fd\u529b \u00b7 \u4e2d\u6587\u589e\u5f3a\u7248 \u2014 superpowers\uff0899k+ \u2b50\uff09\u5b8c\u6574\u6c49\u5316 + 6 \u4e2a\u4e2d\u56fd\u539f\u521b skills\uff0c\u8ba9 OpenClaw / Claude Code / Cursor / Windsurf / Kiro / Gemini CLI \u7b49 14 \u6b3e AI \u7f16\u7a0b\u5de5\u5177\u771f\u6b63\u4f1a\u5e72\u6d3b",
             "url": "https://github.com/jnMetaCode/superpowers-zh",
-            "stars": 428,
+            "stars": 427,
             "forks": 41,
             "score": 51
         },
@@ -315,7 +315,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "CN-Syndra/ClawLink",
             "description": "An AI Agent Social Network \u2014 Let your AI (Claw) talk to other people's AIs directly. Autonomous agent-to-agent communication, negotiation, and collaboration, with full owner control.",
             "url": "https://github.com/CN-Syndra/ClawLink",
-            "stars": 444,
+            "stars": 453,
             "forks": 26,
             "score": 49
         },
@@ -351,17 +351,6 @@ const ALPHA_DATA_V2 = {
             "stars": 140,
             "forks": 0,
             "score": 35
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "harness-research",
-            "full_name": "Nimo1987/harness-research",
-            "description": "Give any AI Agent professional-grade deep research capabilities.  An MCP (Model Context Protocol) server that performs real-time deep research across 5 data sources, evaluates source credibility with the CRAAP framework, cross-verifies findings, and generates professional reports",
-            "url": "https://github.com/Nimo1987/harness-research",
-            "stars": 11,
-            "forks": 1,
-            "score": 31
         },
         {
             "main_cat": "RWA",
@@ -419,6 +408,17 @@ const ALPHA_DATA_V2 = {
             "score": 30
         },
         {
+            "main_cat": "Stablecoin Infrastructure",
+            "sub_cat": null,
+            "name": "stablecoin-payments-service",
+            "full_name": "MarcoWorms/stablecoin-payments-service",
+            "description": "Drop-in service for tracking finalized stablecoin payments to EVM wallets",
+            "url": "https://github.com/MarcoWorms/stablecoin-payments-service",
+            "stars": 0,
+            "forks": 0,
+            "score": 30
+        },
+        {
             "main_cat": "AI",
             "sub_cat": "AI General",
             "name": "dune",
@@ -452,14 +452,14 @@ const ALPHA_DATA_V2 = {
             "score": 30
         },
         {
-            "main_cat": "Stablecoin Infrastructure",
-            "sub_cat": null,
-            "name": "veilpay",
-            "full_name": "azhar0406/veilpay",
-            "description": "Confidential programmable stablecoin payments on Solana \u2014 Encrypted vault balances, spending limits & transfers via Inco Lightning FHE with auditor selective disclosure | StableHacks   2026",
-            "url": "https://github.com/azhar0406/veilpay",
-            "stars": 0,
-            "forks": 0,
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "harness-research",
+            "full_name": "Nimo1987/harness-research",
+            "description": "Give any AI Agent professional-grade deep research capabilities.  An MCP (Model Context Protocol) server that performs real-time deep research across 5 data sources, evaluates source credibility with the CRAAP framework, cross-verifies findings, and generates professional reports",
+            "url": "https://github.com/Nimo1987/harness-research",
+            "stars": 11,
+            "forks": 1,
             "score": 30
         },
         {
@@ -553,26 +553,12 @@ const ALPHA_DATA_V2 = {
     ],
     "news": [
         {
-            "title": "Study of Post Quantum status of Widely Used Protocols",
-            "source": "ArXiv",
-            "type": "Research Alpha",
-            "color": "text-indigo-600",
-            "url": "http://arxiv.org/abs/2603.28728v1"
-        },
-        {
-            "title": "BitSov: A Composable Bitcoin-Native Architecture for Sovereign Internet Infrastructure",
-            "source": "ArXiv",
-            "type": "Research Alpha",
-            "color": "text-indigo-600",
-            "url": "http://arxiv.org/abs/2603.28727v1"
-        },
-        {
-            "title": "Will the price of Solana be between $50 and $60 on April 5? (Probability: 2%)",
+            "title": "Bitcoin Up or Down - April 1, 7:00AM-7:15AM ET (Probability: 50%)",
             "source": "Polymarket",
             "type": "Expectation",
             "color": "text-indigo-400",
-            "url": "https://polymarket.com/market/will-the-price-of-solana-be-between-50-60-on-april-5"
+            "url": "https://polymarket.com/market/btc-updown-15m-1775041200"
         }
     ],
-    "timestamp": "2026-03-31 14:56"
+    "timestamp": "2026-03-31 16:03"
 };
