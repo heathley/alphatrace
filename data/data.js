@@ -7,7 +7,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "larksuite/cli",
             "description": "The official Lark/Feishu CLI tool, maintained by the larksuite team \u2014 built for humans and AI Agents. Covers core business domains including Messenger, Docs, Base, Sheets, Calendar, Mail, Tasks, Meetings, and more, with 200+ commands and 19 AI Agent Skills.",
             "url": "https://github.com/larksuite/cli",
-            "stars": 5432,
+            "stars": 5437,
             "forks": 265,
             "score": 99
         },
@@ -18,7 +18,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "elder-plinius/G0DM0D3",
             "description": "LIBERATED AI CHAT",
             "url": "https://github.com/elder-plinius/G0DM0D3",
-            "stars": 2429,
+            "stars": 2433,
             "forks": 476,
             "score": 99
         },
@@ -26,11 +26,11 @@ const ALPHA_DATA_V2 = {
             "main_cat": "AI",
             "sub_cat": "AI General",
             "name": "awesome-opensource-ai",
-            "full_name": "alvinunreal/awesome-opensource-ai",
+            "full_name": "alvinreal/awesome-opensource-ai",
             "description": "Curated list of the best truly open-source AI projects, models, tools, and infrastructure.",
-            "url": "https://github.com/alvinunreal/awesome-opensource-ai",
-            "stars": 2176,
-            "forks": 166,
+            "url": "https://github.com/alvinreal/awesome-opensource-ai",
+            "stars": 2181,
+            "forks": 167,
             "score": 99
         },
         {
@@ -40,7 +40,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "CoderLuii/HolyClaude",
             "description": "AI coding workstation: Claude Code + web UI + 5 AI CLIs + headless browser + 50+ tools",
             "url": "https://github.com/CoderLuii/HolyClaude",
-            "stars": 1482,
+            "stars": 1483,
             "forks": 156,
             "score": 99
         },
@@ -51,19 +51,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "WecomTeam/wecom-cli",
             "description": "\u4f01\u4e1a\u5fae\u4fe1\u5f00\u653e\u5e73\u53f0\u547d\u4ee4\u884c\u5de5\u5177 \u2014 \u8ba9\u4eba\u7c7b\u548c AI Agent \u90fd\u80fd\u5728\u7ec8\u7aef\u4e2d\u64cd\u4f5c\u4f01\u4e1a\u5fae\u4fe1",
             "url": "https://github.com/WecomTeam/wecom-cli",
-            "stars": 1237,
+            "stars": 1239,
             "forks": 63,
-            "score": 99
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "wewrite",
-            "full_name": "oaker-io/wewrite",
-            "description": "\u516c\u4f17\u53f7\u6587\u7ae0\u5168\u6d41\u7a0b AI Skill for Claude Code \u2014 \u70ed\u70b9\u6293\u53d6 \u2192 \u9009\u9898 \u2192 \u5199\u4f5c \u2192 SEO \u2192 \u89c6\u89c9AI \u2192 \u6392\u7248 \u2192 \u5fae\u4fe1\u8349\u7a3f\u7bb1",
-            "url": "https://github.com/oaker-io/wewrite",
-            "stars": 980,
-            "forks": 168,
             "score": 99
         },
         {
@@ -73,8 +62,19 @@ const ALPHA_DATA_V2 = {
             "full_name": "Leonxlnx/claude-code-system-prompts",
             "description": "Research into how agentic AI coding assistants work \u2014 reconstructed prompt patterns, agent coordination, and security classification",
             "url": "https://github.com/Leonxlnx/claude-code-system-prompts",
-            "stars": 977,
-            "forks": 498,
+            "stars": 1036,
+            "forks": 522,
+            "score": 99
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "wewrite",
+            "full_name": "oaker-io/wewrite",
+            "description": "\u516c\u4f17\u53f7\u6587\u7ae0\u5168\u6d41\u7a0b AI Skill for Claude Code \u2014 \u70ed\u70b9\u6293\u53d6 \u2192 \u9009\u9898 \u2192 \u5199\u4f5c \u2192 SEO \u2192 \u89c6\u89c9AI \u2192 \u6392\u7248 \u2192 \u5fae\u4fe1\u8349\u7a3f\u7bb1",
+            "url": "https://github.com/oaker-io/wewrite",
+            "stars": 982,
+            "forks": 168,
             "score": 99
         },
         {
@@ -84,8 +84,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "DingTalk-Real-AI/dingtalk-workspace-cli",
             "description": "DingTalk Workspace is an officially open-sourced cross-platform CLI tool from DingTalk. It unifies DingTalk\u2019s full suite of product capabilities into a single package, is designed for both human users and AI agent scenarios.",
             "url": "https://github.com/DingTalk-Real-AI/dingtalk-workspace-cli",
-            "stars": 1446,
-            "forks": 57,
+            "stars": 1447,
+            "forks": 56,
             "score": 94
         },
         {
@@ -106,7 +106,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "ryanstephen/lil-agents",
             "description": "tiny AI companions that live on your macOS dock",
             "url": "https://github.com/ryanstephen/lil-agents",
-            "stars": 730,
+            "stars": 731,
             "forks": 128,
             "score": 86
         },
@@ -117,9 +117,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "ghostwright/phantom",
             "description": "An AI co-worker with its own computer. Self-evolving, persistent memory, MCP server, secure credential collection, email identity. Built on the Claude Agent SDK.",
             "url": "https://github.com/ghostwright/phantom",
-            "stars": 629,
-            "forks": 50,
-            "score": 81
+            "stars": 645,
+            "forks": 53,
+            "score": 83
         },
         {
             "main_cat": "AI",
@@ -128,7 +128,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "LeoYeAI/openclaw-auto-dream",
             "description": "Automatic memory consolidation for OpenClaw agents \u2014 like sleep for your AI. Powered by MyClaw.ai",
             "url": "https://github.com/LeoYeAI/openclaw-auto-dream",
-            "stars": 568,
+            "stars": 571,
             "forks": 13,
             "score": 81
         },
@@ -150,7 +150,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "mattprusak/autoresearch-genealogy",
             "description": "Structured prompts, vault templates, and archive guides for AI-assisted genealogy research. Built for Claude Code.",
             "url": "https://github.com/mattprusak/autoresearch-genealogy",
-            "stars": 1011,
+            "stars": 1012,
             "forks": 98,
             "score": 73
         },
@@ -205,7 +205,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "silverstein/minutes",
             "description": "Every meeting, every idea, every voice note \u2014 searchable by your AI. Open-source, privacy-first conversation memory layer.",
             "url": "https://github.com/silverstein/minutes",
-            "stars": 739,
+            "stars": 740,
             "forks": 68,
             "score": 61
         },
@@ -238,7 +238,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "openyak/desktop",
             "description": "An open-source desktop AI agent that handles your documents, files, and daily workflows \u2014 locally, with any model.",
             "url": "https://github.com/openyak/desktop",
-            "stars": 521,
+            "stars": 522,
             "forks": 73,
             "score": 59
         },
@@ -249,7 +249,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "ericboy0224/learn-docker-and-k8s",
             "description": "Interactive AI-driven game to learn Docker, Linux, networking & Kubernetes. Open in Claude Code or Cursor, type 'let's play'.",
             "url": "https://github.com/ericboy0224/learn-docker-and-k8s",
-            "stars": 349,
+            "stars": 351,
             "forks": 18,
             "score": 56
         },
@@ -260,9 +260,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "austin-weeks/miasma",
             "description": "Trap AI web scrapers in an endless poison pit.",
             "url": "https://github.com/austin-weeks/miasma",
-            "stars": 746,
+            "stars": 750,
             "forks": 13,
-            "score": 54
+            "score": 55
         },
         {
             "main_cat": "AI",
@@ -271,20 +271,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "zhu1090093659/spec_driven_develop",
             "description": "Spec-Driven Develop is a platform-agnostic AI agent skill that automates the pre-development workflow for large-scale complex tasks. It is not a framework, not a runtime, not a package manager \u2014 it is a single SKILL.md file that teaches any AI coding agent a structured methodology.",
             "url": "https://github.com/zhu1090093659/spec_driven_develop",
-            "stars": 409,
-            "forks": 59,
-            "score": 54
+            "stars": 413,
+            "forks": 60,
+            "score": 55
         },
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "k-dense-byok",
-            "full_name": "K-Dense-AI/k-dense-byok",
-            "description": "An AI co-scientist powered by Claude Scientific Skills running on your desktop.",
-            "url": "https://github.com/K-Dense-AI/k-dense-byok",
-            "stars": 458,
-            "forks": 48,
-            "score": 53
+            "name": "ClawLink",
+            "full_name": "CN-Syndra/ClawLink",
+            "description": "An AI Agent Social Network \u2014 Let your AI (Claw) talk to other people's AIs directly. Autonomous agent-to-agent communication, negotiation, and collaboration, with full owner control.",
+            "url": "https://github.com/CN-Syndra/ClawLink",
+            "stars": 507,
+            "forks": 28,
+            "score": 52
         },
         {
             "main_cat": "AI",
@@ -300,12 +300,12 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "ClawLink",
-            "full_name": "CN-Syndra/ClawLink",
-            "description": "An AI Agent Social Network \u2014 Let your AI (Claw) talk to other people's AIs directly. Autonomous agent-to-agent communication, negotiation, and collaboration, with full owner control.",
-            "url": "https://github.com/CN-Syndra/ClawLink",
-            "stars": 500,
-            "forks": 28,
+            "name": "k-dense-byok",
+            "full_name": "K-Dense-AI/k-dense-byok",
+            "description": "An AI co-scientist powered by Claude Scientific Skills running on your desktop.",
+            "url": "https://github.com/K-Dense-AI/k-dense-byok",
+            "stars": 459,
+            "forks": 48,
             "score": 51
         },
         {
@@ -589,12 +589,12 @@ const ALPHA_DATA_V2 = {
             "url": "http://arxiv.org/abs/2603.28727v1"
         },
         {
-            "title": "Will the price of Solana be greater than $130 on April 3? (Probability: 1%)",
+            "title": "Will the price of Solana be between $40 and $50 on April 5? (Probability: 2%)",
             "source": "Polymarket",
             "type": "Expectation",
             "color": "text-indigo-400",
-            "url": "https://polymarket.com/market/will-the-price-of-solana-be-greater-than-130-on-april-3"
+            "url": "https://polymarket.com/market/will-the-price-of-solana-be-between-40-50-on-april-5"
         }
     ],
-    "timestamp": "2026-03-31 22:29"
+    "timestamp": "2026-03-31 23:29"
 };
