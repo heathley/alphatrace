@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "larksuite/cli",
             "description": "The official Lark/Feishu CLI tool, maintained by the larksuite team \u2014 built for humans and AI Agents. Covers core business domains including Messenger, Docs, Base, Sheets, Calendar, Mail, Tasks, Meetings, and more, with 200+ commands and 19 AI Agent Skills.",
             "url": "https://github.com/larksuite/cli",
-            "stars": 6221,
-            "forks": 333,
+            "stars": 6227,
+            "forks": 335,
             "score": 99
         },
         {
@@ -18,8 +18,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "tvytlx/ai-agent-deep-dive",
             "description": "AI Agent \u6e90\u7801\u6df1\u5ea6\u7814\u7a76\u62a5\u544a",
             "url": "https://github.com/tvytlx/ai-agent-deep-dive",
-            "stars": 4259,
-            "forks": 1357,
+            "stars": 4302,
+            "forks": 1364,
             "score": 99
         },
         {
@@ -29,8 +29,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "elder-plinius/G0DM0D3",
             "description": "LIBERATED AI CHAT",
             "url": "https://github.com/elder-plinius/G0DM0D3",
-            "stars": 2793,
-            "forks": 600,
+            "stars": 2814,
+            "forks": 607,
             "score": 99
         },
         {
@@ -40,8 +40,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "alvinreal/awesome-opensource-ai",
             "description": "Curated list of the best truly open-source AI projects, models, tools, and infrastructure.",
             "url": "https://github.com/alvinreal/awesome-opensource-ai",
-            "stars": 2249,
-            "forks": 182,
+            "stars": 2250,
+            "forks": 184,
             "score": 99
         },
         {
@@ -51,8 +51,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "motiful/cc-gateway",
             "description": "AI API identity gateway \u2014 reverse proxy that normalizes device fingerprints and telemetry for privacy-preserving API proxying",
             "url": "https://github.com/motiful/cc-gateway",
-            "stars": 2059,
-            "forks": 389,
+            "stars": 2073,
+            "forks": 394,
             "score": 99
         },
         {
@@ -62,8 +62,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "Leonxlnx/agentic-ai-prompt-research",
             "description": "Research into how agentic AI coding assistants work \u2014 reconstructed prompt patterns, agent coordination, and security classification",
             "url": "https://github.com/Leonxlnx/agentic-ai-prompt-research",
-            "stars": 1869,
-            "forks": 908,
+            "stars": 1875,
+            "forks": 911,
             "score": 99
         },
         {
@@ -73,7 +73,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "CoderLuii/HolyClaude",
             "description": "AI coding workstation: Claude Code + web UI + 5 AI CLIs + headless browser + 50+ tools",
             "url": "https://github.com/CoderLuii/HolyClaude",
-            "stars": 1620,
+            "stars": 1630,
             "forks": 176,
             "score": 99
         },
@@ -84,7 +84,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "WecomTeam/wecom-cli",
             "description": "\u4f01\u4e1a\u5fae\u4fe1\u5f00\u653e\u5e73\u53f0\u547d\u4ee4\u884c\u5de5\u5177 \u2014 \u8ba9\u4eba\u7c7b\u548c AI Agent \u90fd\u80fd\u5728\u7ec8\u7aef\u4e2d\u64cd\u4f5c\u4f01\u4e1a\u5fae\u4fe1",
             "url": "https://github.com/WecomTeam/wecom-cli",
-            "stars": 1441,
+            "stars": 1442,
             "forks": 84,
             "score": 99
         },
@@ -95,8 +95,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "lintsinghua/claude-code-book",
             "description": "42\u4e07\u5b57\u62c6\u89e3 AI Agent \u7684Harness\u9aa8\u67b6\u4e0e\u795e\u7ecf \u2014\u2014 Claude Code \u67b6\u6784\u6df1\u5ea6\u5256\u6790\uff0c15 \u7ae0\u4ece\u5bf9\u8bdd\u5faa\u73af\u5230\u6784\u5efa\u4f60\u81ea\u5df1\u7684 Agent Harness\u3002\u5728\u7ebf\u9605\u8bfb\u7f51\u7ad9\uff1a",
             "url": "https://github.com/lintsinghua/claude-code-book",
-            "stars": 1356,
-            "forks": 383,
+            "stars": 1361,
+            "forks": 384,
             "score": 99
         },
         {
@@ -106,8 +106,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "therealXiaomanChu/ex-skill",
             "description": "\u628a\u524d\u4efb\u84b8\u998f\u6210 AI Skill\uff0c\u7528ta\u7684\u65b9\u5f0f\u8ddf\u4f60\u8bf4\u8bdd\u3002Inspired by colleague-skill\uff08\u540c\u4e8bskill\uff09. ",
             "url": "https://github.com/therealXiaomanChu/ex-skill",
-            "stars": 1336,
-            "forks": 138,
+            "stars": 1345,
+            "forks": 139,
             "score": 99
         },
         {
@@ -128,7 +128,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "ghostwright/phantom",
             "description": "An AI co-worker with its own computer. Self-evolving, persistent memory, MCP server, secure credential collection, email identity. Built on the Claude Agent SDK.",
             "url": "https://github.com/ghostwright/phantom",
-            "stars": 978,
+            "stars": 980,
             "forks": 107,
             "score": 99
         },
@@ -139,8 +139,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "yasasbanukaofficial/claude-code",
             "description": "\ud83d\ude80 Open source Claude Code CLI source code. Advanced AI Agent for developers. Includes TypeScript codebase for LLM tool-calling, agentic workflows, and terminal UI. Remember this is just the skeleton not the brain itself. Found by Chaofan Shou. ",
             "url": "https://github.com/yasasbanukaofficial/claude-code",
-            "stars": 764,
-            "forks": 1516,
+            "stars": 779,
+            "forks": 1556,
             "score": 99
         },
         {
@@ -150,8 +150,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "ericosiu/ai-marketing-skills",
             "description": "Open-source AI marketing skills for Claude Code \u2014 growth experiments, sales pipeline, content ops, outbound, SEO, and finance automation",
             "url": "https://github.com/ericosiu/ai-marketing-skills",
-            "stars": 646,
-            "forks": 126,
+            "stars": 662,
+            "forks": 128,
             "score": 99
         },
         {
@@ -161,8 +161,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "e10nMa2k/cc-mini",
             "description": "Ultra-light Harness scaffolding for AI agents, a mini version of claude code ",
             "url": "https://github.com/e10nMa2k/cc-mini",
-            "stars": 558,
-            "forks": 217,
+            "stars": 563,
+            "forks": 218,
             "score": 99
         },
         {
@@ -172,8 +172,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "repowise-dev/claude-code-prompts",
             "description": "Independently authored prompt templates for AI coding agents \u2014 system prompts, tool prompts, agent delegation, memory management, and multi-agent coordination. Informed by studying Claude Code.",
             "url": "https://github.com/repowise-dev/claude-code-prompts",
-            "stars": 497,
-            "forks": 216,
+            "stars": 501,
+            "forks": 217,
             "score": 99
         },
         {
@@ -183,7 +183,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "DingTalk-Real-AI/dingtalk-workspace-cli",
             "description": "DingTalk Workspace is an officially open-sourced cross-platform CLI tool from DingTalk. It unifies DingTalk\u2019s full suite of product capabilities into a single package, is designed for both human users and AI agent scenarios.",
             "url": "https://github.com/DingTalk-Real-AI/dingtalk-workspace-cli",
-            "stars": 1561,
+            "stars": 1562,
             "forks": 63,
             "score": 90
         },
@@ -194,8 +194,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "ryanstephen/lil-agents",
             "description": "tiny AI companions that live on your macOS dock",
             "url": "https://github.com/ryanstephen/lil-agents",
-            "stars": 848,
-            "forks": 152,
+            "stars": 851,
+            "forks": 153,
             "score": 86
         },
         {
@@ -227,7 +227,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "LeoYeAI/openclaw-auto-dream",
             "description": "Automatic memory consolidation for OpenClaw agents \u2014 like sleep for your AI. Powered by MyClaw.ai",
             "url": "https://github.com/LeoYeAI/openclaw-auto-dream",
-            "stars": 593,
+            "stars": 595,
             "forks": 20,
             "score": 72
         },
@@ -260,7 +260,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "zhu1090093659/spec_driven_develop",
             "description": "Spec-Driven Develop is a platform-agnostic AI agent skill that automates the pre-development workflow for large-scale complex tasks. It is not a framework, not a runtime, not a package manager \u2014 it is a single SKILL.md file that teaches any AI coding agent a structured methodology.",
             "url": "https://github.com/zhu1090093659/spec_driven_develop",
-            "stars": 581,
+            "stars": 582,
             "forks": 77,
             "score": 59
         },
@@ -271,8 +271,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "openyak/openyak",
             "description": "An open-source desktop AI agent that handles your documents, files, and daily workflows \u2014 locally, with any model.",
             "url": "https://github.com/openyak/openyak",
-            "stars": 576,
-            "forks": 75,
+            "stars": 580,
+            "forks": 78,
             "score": 59
         },
         {
@@ -304,7 +304,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "ericboy0224/learn-docker-and-k8s",
             "description": "Interactive AI-driven game to learn Docker, Linux, networking & Kubernetes. Open in Claude Code or Cursor, type 'let's play'.",
             "url": "https://github.com/ericboy0224/learn-docker-and-k8s",
-            "stars": 374,
+            "stars": 375,
             "forks": 19,
             "score": 52
         },
@@ -315,7 +315,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "CN-Syndra/ClawLink",
             "description": "An AI Agent Social Network \u2014 Let your AI (Claw) talk to other people's AIs directly. Autonomous agent-to-agent communication, negotiation, and collaboration, with full owner control.",
             "url": "https://github.com/CN-Syndra/ClawLink",
-            "stars": 525,
+            "stars": 529,
             "forks": 32,
             "score": 50
         },
@@ -326,7 +326,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "zolotukhin/zinc",
             "description": "Zig INferenCe Engine \u2014 Local LLM inference on AMD GPUs and Apple Silicon",
             "url": "https://github.com/zolotukhin/zinc",
-            "stars": 261,
+            "stars": 262,
             "forks": 7,
             "score": 43
         },
@@ -553,12 +553,26 @@ const ALPHA_DATA_V2 = {
     ],
     "news": [
         {
-            "title": "Will \"The Creator\" be the top US Netflix movie this week? (Probability: 1%)",
+            "title": "AgentWatcher: A Rule-based Prompt Injection Monitor",
+            "source": "ArXiv",
+            "type": "Research Alpha",
+            "color": "text-indigo-600",
+            "url": "http://arxiv.org/abs/2604.01194v1"
+        },
+        {
+            "title": "SERSEM: Selective Entropy-Weighted Scoring for Membership Inference in Code Language Models",
+            "source": "ArXiv",
+            "type": "Research Alpha",
+            "color": "text-indigo-600",
+            "url": "http://arxiv.org/abs/2604.01147v1"
+        },
+        {
+            "title": "Will the price of Solana be between $100 and $110 on April 7? (Probability: 2%)",
             "source": "Polymarket",
             "type": "Expectation",
             "color": "text-indigo-400",
-            "url": "https://polymarket.com/market/will-the-creator-be-the-top-us-netflix-movie-this-week"
+            "url": "https://polymarket.com/market/will-the-price-of-solana-be-between-100-110-on-april-7"
         }
     ],
-    "timestamp": "2026-04-02 16:52"
+    "timestamp": "2026-04-02 17:44"
 };
