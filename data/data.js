@@ -7,7 +7,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "larksuite/cli",
             "description": "The official Lark/Feishu CLI tool, maintained by the larksuite team \u2014 built for humans and AI Agents. Covers core business domains including Messenger, Docs, Base, Sheets, Calendar, Mail, Tasks, Meetings, and more, with 200+ commands and 19 AI Agent Skills.",
             "url": "https://github.com/larksuite/cli",
-            "stars": 6715,
+            "stars": 6716,
             "forks": 392,
             "score": 99
         },
@@ -18,8 +18,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "tvytlx/ai-agent-deep-dive",
             "description": "AI Agent \u6e90\u7801\u6df1\u5ea6\u7814\u7a76\u62a5\u544a",
             "url": "https://github.com/tvytlx/ai-agent-deep-dive",
-            "stars": 5132,
-            "forks": 1558,
+            "stars": 5133,
+            "forks": 1559,
             "score": 99
         },
         {
@@ -29,7 +29,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "elder-plinius/G0DM0D3",
             "description": "LIBERATED AI CHAT",
             "url": "https://github.com/elder-plinius/G0DM0D3",
-            "stars": 3404,
+            "stars": 3407,
             "forks": 771,
             "score": 99
         },
@@ -40,7 +40,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "therealXiaomanChu/ex-skill",
             "description": "\u628a\u524d\u4efb\u84b8\u998f\u6210 AI Skill\uff0c\u7528ta\u7684\u65b9\u5f0f\u8ddf\u4f60\u8bf4\u8bdd\u3002Inspired by colleague-skill\uff08\u540c\u4e8bskill\uff09. ",
             "url": "https://github.com/therealXiaomanChu/ex-skill",
-            "stars": 2712,
+            "stars": 2714,
             "forks": 283,
             "score": 99
         },
@@ -62,7 +62,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "alvinreal/awesome-opensource-ai",
             "description": "Curated list of the best truly open-source AI projects, models, tools, and infrastructure.",
             "url": "https://github.com/alvinreal/awesome-opensource-ai",
-            "stars": 2340,
+            "stars": 2342,
             "forks": 201,
             "score": 99
         },
@@ -73,7 +73,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Leonxlnx/agentic-ai-prompt-research",
             "description": "Research into how agentic AI coding assistants work \u2014 reconstructed prompt patterns, agent coordination, and security classification",
             "url": "https://github.com/Leonxlnx/agentic-ai-prompt-research",
-            "stars": 2117,
+            "stars": 2118,
             "forks": 1001,
             "score": 99
         },
@@ -95,8 +95,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "yasasbanukaofficial/claude-code",
             "description": "\ud83d\ude80 Open source Claude Code CLI source code. Advanced AI Agent for developers. Includes TypeScript codebase for LLM tool-calling, agentic workflows, and terminal UI. Remember this is just the skeleton not the brain itself. Found by Chaofan Shou. ",
             "url": "https://github.com/yasasbanukaofficial/claude-code",
-            "stars": 1614,
-            "forks": 2842,
+            "stars": 1622,
+            "forks": 2849,
             "score": 99
         },
         {
@@ -117,8 +117,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "ericosiu/ai-marketing-skills",
             "description": "Open-source AI marketing skills \u2014 growth experiments, sales pipeline, content ops, outbound, SEO, and finance automation",
             "url": "https://github.com/ericosiu/ai-marketing-skills",
-            "stars": 1430,
-            "forks": 312,
+            "stars": 1440,
+            "forks": 313,
             "score": 99
         },
         {
@@ -139,8 +139,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "tradesdontlie/tradingview-mcp",
             "description": "AI-assisted TradingView chart analysis \u2014 connect Claude Code to your TradingView Desktop for personal workflow automation",
             "url": "https://github.com/tradesdontlie/tradingview-mcp",
-            "stars": 1119,
-            "forks": 514,
+            "stars": 1126,
+            "forks": 517,
             "score": 99
         },
         {
@@ -150,8 +150,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "sooryathejas/METATRON",
             "description": "AI-powered penetration testing assistant using local LLM on linux (Parrot OS)",
             "url": "https://github.com/sooryathejas/METATRON",
-            "stars": 806,
-            "forks": 159,
+            "stars": 812,
+            "forks": 163,
             "score": 99
         },
         {
@@ -161,8 +161,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "repowise-dev/claude-code-prompts",
             "description": "Independently authored prompt templates for AI coding agents \u2014 system prompts, tool prompts, agent delegation, memory management, and multi-agent coordination. Informed by studying Claude Code.",
             "url": "https://github.com/repowise-dev/claude-code-prompts",
-            "stars": 773,
-            "forks": 312,
+            "stars": 774,
+            "forks": 313,
             "score": 99
         },
         {
@@ -172,7 +172,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "e10nMa2k/cc-mini",
             "description": "Ultra-light Harness scaffolding for AI agents, a mini version of claude code ",
             "url": "https://github.com/e10nMa2k/cc-mini",
-            "stars": 697,
+            "stars": 698,
             "forks": 286,
             "score": 99
         },
@@ -183,7 +183,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "6551Team/claude-code-design-guide",
             "description": "From Early Internet Design Patterns to AI Agent Implementation \u2014 A Deep Dive into Claude Code for Developers",
             "url": "https://github.com/6551Team/claude-code-design-guide",
-            "stars": 651,
+            "stars": 652,
             "forks": 245,
             "score": 99
         },
@@ -194,8 +194,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "ZhangHanDong/harness-engineering-from-cc-to-ai-coding",
             "description": "Harness Engineering From Claude Code source code to AI Coding",
             "url": "https://github.com/ZhangHanDong/harness-engineering-from-cc-to-ai-coding",
-            "stars": 622,
-            "forks": 116,
+            "stars": 629,
+            "forks": 120,
             "score": 99
         },
         {
@@ -227,9 +227,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "midudev/autoskills",
             "description": "One command. Your entire AI skill stack. Installed.",
             "url": "https://github.com/midudev/autoskills",
-            "stars": 978,
-            "forks": 98,
-            "score": 78
+            "stars": 981,
+            "forks": 99,
+            "score": 79
         },
         {
             "main_cat": "AI",
@@ -249,7 +249,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "LeoYeAI/openclaw-auto-dream",
             "description": "Automatic memory consolidation for OpenClaw agents \u2014 like sleep for your AI. Powered by MyClaw.ai",
             "url": "https://github.com/LeoYeAI/openclaw-auto-dream",
-            "stars": 614,
+            "stars": 615,
             "forks": 19,
             "score": 61
         },
@@ -282,7 +282,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "repowise-dev/repowise",
             "description": "Codebase intelligence for AI-assisted engineering teams \u2014 auto-generated docs, git analytics, dead code detection, and architectural decisions via MCP.",
             "url": "https://github.com/repowise-dev/repowise",
-            "stars": 494,
+            "stars": 498,
             "forks": 75,
             "score": 54
         },
@@ -567,12 +567,12 @@ const ALPHA_DATA_V2 = {
             "url": "http://arxiv.org/abs/2604.02149v1"
         },
         {
-            "title": "Bitcoin Up or Down - April 6, 8:30AM-8:45AM ET (Probability: 50%)",
+            "title": "Ethereum Up or Down - April 6, 8:40AM-8:45AM ET (Probability: 50%)",
             "source": "Polymarket",
             "type": "Expectation",
             "color": "text-indigo-400",
-            "url": "https://polymarket.com/market/btc-updown-15m-1775478600"
+            "url": "https://polymarket.com/market/eth-updown-5m-1775479200"
         }
     ],
-    "timestamp": "2026-04-05 22:24"
+    "timestamp": "2026-04-05 23:28"
 };
