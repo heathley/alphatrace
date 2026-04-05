@@ -29,8 +29,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "elder-plinius/G0DM0D3",
             "description": "LIBERATED AI CHAT",
             "url": "https://github.com/elder-plinius/G0DM0D3",
-            "stars": 3403,
-            "forks": 770,
+            "stars": 3404,
+            "forks": 771,
             "score": 99
         },
         {
@@ -40,7 +40,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "therealXiaomanChu/ex-skill",
             "description": "\u628a\u524d\u4efb\u84b8\u998f\u6210 AI Skill\uff0c\u7528ta\u7684\u65b9\u5f0f\u8ddf\u4f60\u8bf4\u8bdd\u3002Inspired by colleague-skill\uff08\u540c\u4e8bskill\uff09. ",
             "url": "https://github.com/therealXiaomanChu/ex-skill",
-            "stars": 2708,
+            "stars": 2712,
             "forks": 283,
             "score": 99
         },
@@ -62,8 +62,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "alvinreal/awesome-opensource-ai",
             "description": "Curated list of the best truly open-source AI projects, models, tools, and infrastructure.",
             "url": "https://github.com/alvinreal/awesome-opensource-ai",
-            "stars": 2339,
-            "forks": 199,
+            "stars": 2340,
+            "forks": 201,
             "score": 99
         },
         {
@@ -73,8 +73,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "Leonxlnx/agentic-ai-prompt-research",
             "description": "Research into how agentic AI coding assistants work \u2014 reconstructed prompt patterns, agent coordination, and security classification",
             "url": "https://github.com/Leonxlnx/agentic-ai-prompt-research",
-            "stars": 2115,
-            "forks": 999,
+            "stars": 2117,
+            "forks": 1001,
             "score": 99
         },
         {
@@ -95,8 +95,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "yasasbanukaofficial/claude-code",
             "description": "\ud83d\ude80 Open source Claude Code CLI source code. Advanced AI Agent for developers. Includes TypeScript codebase for LLM tool-calling, agentic workflows, and terminal UI. Remember this is just the skeleton not the brain itself. Found by Chaofan Shou. ",
             "url": "https://github.com/yasasbanukaofficial/claude-code",
-            "stars": 1604,
-            "forks": 2835,
+            "stars": 1614,
+            "forks": 2842,
             "score": 99
         },
         {
@@ -117,7 +117,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "ericosiu/ai-marketing-skills",
             "description": "Open-source AI marketing skills \u2014 growth experiments, sales pipeline, content ops, outbound, SEO, and finance automation",
             "url": "https://github.com/ericosiu/ai-marketing-skills",
-            "stars": 1429,
+            "stars": 1430,
             "forks": 312,
             "score": 99
         },
@@ -139,8 +139,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "tradesdontlie/tradingview-mcp",
             "description": "AI-assisted TradingView chart analysis \u2014 connect Claude Code to your TradingView Desktop for personal workflow automation",
             "url": "https://github.com/tradesdontlie/tradingview-mcp",
-            "stars": 1113,
-            "forks": 510,
+            "stars": 1119,
+            "forks": 514,
             "score": 99
         },
         {
@@ -150,8 +150,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "sooryathejas/METATRON",
             "description": "AI-powered penetration testing assistant using local LLM on linux (Parrot OS)",
             "url": "https://github.com/sooryathejas/METATRON",
-            "stars": 793,
-            "forks": 158,
+            "stars": 806,
+            "forks": 159,
             "score": 99
         },
         {
@@ -162,7 +162,7 @@ const ALPHA_DATA_V2 = {
             "description": "Independently authored prompt templates for AI coding agents \u2014 system prompts, tool prompts, agent delegation, memory management, and multi-agent coordination. Informed by studying Claude Code.",
             "url": "https://github.com/repowise-dev/claude-code-prompts",
             "stars": 773,
-            "forks": 311,
+            "forks": 312,
             "score": 99
         },
         {
@@ -194,7 +194,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "ZhangHanDong/harness-engineering-from-cc-to-ai-coding",
             "description": "Harness Engineering From Claude Code source code to AI Coding",
             "url": "https://github.com/ZhangHanDong/harness-engineering-from-cc-to-ai-coding",
-            "stars": 617,
+            "stars": 622,
             "forks": 116,
             "score": 99
         },
@@ -205,7 +205,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "ghostwright/phantom",
             "description": "An AI co-worker with its own computer. Self-evolving, persistent memory, MCP server, secure credential collection, email identity. Built on the Claude Agent SDK.",
             "url": "https://github.com/ghostwright/phantom",
-            "stars": 1203,
+            "stars": 1205,
             "forks": 142,
             "score": 98
         },
@@ -227,7 +227,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "midudev/autoskills",
             "description": "One command. Your entire AI skill stack. Installed.",
             "url": "https://github.com/midudev/autoskills",
-            "stars": 973,
+            "stars": 978,
             "forks": 98,
             "score": 78
         },
@@ -256,17 +256,6 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "mac-code",
-            "full_name": "walter-grace/mac-code",
-            "description": "mac code \u2014 Claude Code, but it runs on your Mac for free.   35B AI agent at 30 tok/s via Apple Silicon flash-paging. $0/month. ",
-            "url": "https://github.com/walter-grace/mac-code",
-            "stars": 556,
-            "forks": 55,
-            "score": 55
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
             "name": "advertising-skills",
             "full_name": "realkimbarrett/advertising-skills",
             "description": "Advertising Skills for Open Claw, Claude Code & AI agents. Direct response, paid ads, funnels, and copy systems.",
@@ -278,11 +267,22 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
+            "name": "mac-code",
+            "full_name": "walter-grace/mac-code",
+            "description": "mac code \u2014 Claude Code, but it runs on your Mac for free.   35B AI agent at 30 tok/s via Apple Silicon flash-paging. $0/month. ",
+            "url": "https://github.com/walter-grace/mac-code",
+            "stars": 558,
+            "forks": 55,
+            "score": 54
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
             "name": "repowise",
             "full_name": "repowise-dev/repowise",
             "description": "Codebase intelligence for AI-assisted engineering teams \u2014 auto-generated docs, git analytics, dead code detection, and architectural decisions via MCP.",
             "url": "https://github.com/repowise-dev/repowise",
-            "stars": 488,
+            "stars": 494,
             "forks": 75,
             "score": 54
         },
@@ -567,12 +567,12 @@ const ALPHA_DATA_V2 = {
             "url": "http://arxiv.org/abs/2604.02149v1"
         },
         {
-            "title": "Ethereum Up or Down - April 6, 8:45AM-8:50AM ET (Probability: 50%)",
+            "title": "Bitcoin Up or Down - April 6, 8:30AM-8:45AM ET (Probability: 50%)",
             "source": "Polymarket",
             "type": "Expectation",
             "color": "text-indigo-400",
-            "url": "https://polymarket.com/market/eth-updown-5m-1775479500"
+            "url": "https://polymarket.com/market/btc-updown-15m-1775478600"
         }
     ],
-    "timestamp": "2026-04-05 21:25"
+    "timestamp": "2026-04-05 22:24"
 };
