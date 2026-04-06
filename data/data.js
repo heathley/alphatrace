@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "larksuite/cli",
             "description": "The official Lark/Feishu CLI tool, maintained by the larksuite team \u2014 built for humans and AI Agents. Covers core business domains including Messenger, Docs, Base, Sheets, Calendar, Mail, Tasks, Meetings, and more, with 200+ commands and 19 AI Agent Skills.",
             "url": "https://github.com/larksuite/cli",
-            "stars": 6761,
-            "forks": 400,
+            "stars": 6769,
+            "forks": 401,
             "score": 99
         },
         {
@@ -18,8 +18,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "tvytlx/ai-agent-deep-dive",
             "description": "AI Agent \u6e90\u7801\u6df1\u5ea6\u7814\u7a76\u62a5\u544a",
             "url": "https://github.com/tvytlx/ai-agent-deep-dive",
-            "stars": 5168,
-            "forks": 1563,
+            "stars": 5174,
+            "forks": 1564,
             "score": 99
         },
         {
@@ -29,8 +29,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "elder-plinius/G0DM0D3",
             "description": "LIBERATED AI CHAT",
             "url": "https://github.com/elder-plinius/G0DM0D3",
-            "stars": 3446,
-            "forks": 781,
+            "stars": 3454,
+            "forks": 784,
             "score": 99
         },
         {
@@ -40,8 +40,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "therealXiaomanChu/ex-skill",
             "description": "\u628a\u524d\u4efb\u84b8\u998f\u6210 AI Skill\uff0c\u7528ta\u7684\u65b9\u5f0f\u8ddf\u4f60\u8bf4\u8bdd\u3002Inspired by colleague-skill\uff08\u540c\u4e8bskill\uff09. ",
             "url": "https://github.com/therealXiaomanChu/ex-skill",
-            "stars": 2831,
-            "forks": 296,
+            "stars": 2854,
+            "forks": 297,
             "score": 99
         },
         {
@@ -51,7 +51,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "motiful/cc-gateway",
             "description": "AI API identity gateway \u2014 reverse proxy that normalizes device fingerprints and telemetry for privacy-preserving API proxying",
             "url": "https://github.com/motiful/cc-gateway",
-            "stars": 2403,
+            "stars": 2412,
             "forks": 438,
             "score": 99
         },
@@ -62,19 +62,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "alvinreal/awesome-opensource-ai",
             "description": "Curated list of the best truly open-source AI projects, models, tools, and infrastructure.",
             "url": "https://github.com/alvinreal/awesome-opensource-ai",
-            "stars": 2357,
-            "forks": 202,
-            "score": 99
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "agentic-ai-prompt-research",
-            "full_name": "Leonxlnx/agentic-ai-prompt-research",
-            "description": "Research into how agentic AI coding assistants work \u2014 reconstructed prompt patterns, agent coordination, and security classification",
-            "url": "https://github.com/Leonxlnx/agentic-ai-prompt-research",
-            "stars": 2138,
-            "forks": 1010,
+            "stars": 2358,
+            "forks": 205,
             "score": 99
         },
         {
@@ -84,8 +73,19 @@ const ALPHA_DATA_V2 = {
             "full_name": "lintsinghua/claude-code-book",
             "description": "\u300a\u5fa1\u8206\uff1a\u89e3\u7801 Agent Harness\u300b42\u4e07\u5b57\u62c6\u89e3 AI Agent \u7684Harness\u9aa8\u67b6\u4e0e\u795e\u7ecf \u2014\u2014 Claude Code \u67b6\u6784\u6df1\u5ea6\u5256\u6790\uff0c15 \u7ae0\u4ece\u5bf9\u8bdd\u5faa\u73af\u5230\u6784\u5efa\u4f60\u81ea\u5df1\u7684 Agent Harness\u3002\u5728\u7ebf\u9605\u8bfb\u7f51\u7ad9\uff1a",
             "url": "https://github.com/lintsinghua/claude-code-book",
-            "stars": 2139,
+            "stars": 2145,
             "forks": 536,
+            "score": 99
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "agentic-ai-prompt-research",
+            "full_name": "Leonxlnx/agentic-ai-prompt-research",
+            "description": "Research into how agentic AI coding assistants work \u2014 reconstructed prompt patterns, agent coordination, and security classification",
+            "url": "https://github.com/Leonxlnx/agentic-ai-prompt-research",
+            "stars": 2140,
+            "forks": 1012,
             "score": 99
         },
         {
@@ -95,8 +95,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "yasasbanukaofficial/claude-code",
             "description": "\ud83d\ude80 Open source Claude Code CLI source code. Advanced AI Agent for developers. Includes TypeScript codebase for LLM tool-calling, agentic workflows, and terminal UI. Remember this is just the skeleton not the brain itself. Found by Chaofan Shou. ",
             "url": "https://github.com/yasasbanukaofficial/claude-code",
-            "stars": 1674,
-            "forks": 2925,
+            "stars": 1686,
+            "forks": 2934,
             "score": 99
         },
         {
@@ -106,7 +106,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "WecomTeam/wecom-cli",
             "description": "\u4f01\u4e1a\u5fae\u4fe1\u5f00\u653e\u5e73\u53f0\u547d\u4ee4\u884c\u5de5\u5177 \u2014 \u8ba9\u4eba\u7c7b\u548c AI Agent \u90fd\u80fd\u5728\u7ec8\u7aef\u4e2d\u64cd\u4f5c\u4f01\u4e1a\u5fae\u4fe1",
             "url": "https://github.com/WecomTeam/wecom-cli",
-            "stars": 1523,
+            "stars": 1525,
             "forks": 91,
             "score": 99
         },
@@ -117,7 +117,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "ericosiu/ai-marketing-skills",
             "description": "Open-source AI marketing skills \u2014 growth experiments, sales pipeline, content ops, outbound, SEO, and finance automation",
             "url": "https://github.com/ericosiu/ai-marketing-skills",
-            "stars": 1489,
+            "stars": 1500,
             "forks": 326,
             "score": 99
         },
@@ -128,7 +128,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "oaker-io/wewrite",
             "description": "\u516c\u4f17\u53f7\u6587\u7ae0\u5168\u6d41\u7a0b AI Skill for Claude Code \u2014 \u70ed\u70b9\u6293\u53d6 \u2192 \u9009\u9898 \u2192 \u5199\u4f5c \u2192 SEO \u2192 \u89c6\u89c9AI \u2192 \u6392\u7248 \u2192 \u5fae\u4fe1\u8349\u7a3f\u7bb1",
             "url": "https://github.com/oaker-io/wewrite",
-            "stars": 1338,
+            "stars": 1341,
             "forks": 229,
             "score": 99
         },
@@ -139,8 +139,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "tradesdontlie/tradingview-mcp",
             "description": "AI-assisted TradingView chart analysis \u2014 connect Claude Code to your TradingView Desktop for personal workflow automation",
             "url": "https://github.com/tradesdontlie/tradingview-mcp",
-            "stars": 1172,
-            "forks": 551,
+            "stars": 1178,
+            "forks": 557,
             "score": 99
         },
         {
@@ -150,8 +150,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "sooryathejas/METATRON",
             "description": "AI-powered penetration testing assistant using local LLM on linux (Parrot OS)",
             "url": "https://github.com/sooryathejas/METATRON",
-            "stars": 900,
-            "forks": 186,
+            "stars": 919,
+            "forks": 191,
             "score": 99
         },
         {
@@ -161,8 +161,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "repowise-dev/claude-code-prompts",
             "description": "Independently authored prompt templates for AI coding agents \u2014 system prompts, tool prompts, agent delegation, memory management, and multi-agent coordination. Informed by studying Claude Code.",
             "url": "https://github.com/repowise-dev/claude-code-prompts",
-            "stars": 788,
-            "forks": 314,
+            "stars": 790,
+            "forks": 315,
             "score": 99
         },
         {
@@ -172,8 +172,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "ZhangHanDong/harness-engineering-from-cc-to-ai-coding",
             "description": "Harness Engineering From Claude Code source code to AI Coding",
             "url": "https://github.com/ZhangHanDong/harness-engineering-from-cc-to-ai-coding",
-            "stars": 743,
-            "forks": 141,
+            "stars": 754,
+            "forks": 144,
             "score": 99
         },
         {
@@ -183,7 +183,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "e10nMa2k/cc-mini",
             "description": "Ultra-light Harness scaffolding for AI agents, a mini version of claude code ",
             "url": "https://github.com/e10nMa2k/cc-mini",
-            "stars": 706,
+            "stars": 708,
             "forks": 286,
             "score": 99
         },
@@ -194,7 +194,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "6551Team/claude-code-design-guide",
             "description": "From Early Internet Design Patterns to AI Agent Implementation \u2014 A Deep Dive into Claude Code for Developers",
             "url": "https://github.com/6551Team/claude-code-design-guide",
-            "stars": 654,
+            "stars": 655,
             "forks": 245,
             "score": 99
         },
@@ -205,7 +205,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "ghostwright/phantom",
             "description": "An AI co-worker with its own computer. Self-evolving, persistent memory, MCP server, secure credential collection, email identity. Built on the Claude Agent SDK.",
             "url": "https://github.com/ghostwright/phantom",
-            "stars": 1209,
+            "stars": 1210,
             "forks": 142,
             "score": 93
         },
@@ -216,7 +216,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "hilash/cabinet",
             "description": "AI-first knowledge base and startup OS",
             "url": "https://github.com/hilash/cabinet",
-            "stars": 493,
+            "stars": 497,
             "forks": 45,
             "score": 86
         },
@@ -227,9 +227,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "midudev/autoskills",
             "description": "One command. Your entire AI skill stack. Installed.",
             "url": "https://github.com/midudev/autoskills",
-            "stars": 1031,
+            "stars": 1039,
             "forks": 101,
-            "score": 81
+            "score": 78
         },
         {
             "main_cat": "AI",
@@ -249,9 +249,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "mumuyanjian-ui/caregiver",
             "description": "AI\u6587\u65c5\u5927\u6a21\u578b",
             "url": "https://github.com/mumuyanjian-ui/caregiver",
-            "stars": 463,
+            "stars": 468,
             "forks": 69,
-            "score": 60
+            "score": 61
         },
         {
             "main_cat": "AI",
@@ -260,7 +260,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "LeoYeAI/openclaw-auto-dream",
             "description": "Automatic memory consolidation for OpenClaw agents \u2014 like sleep for your AI. Powered by MyClaw.ai",
             "url": "https://github.com/LeoYeAI/openclaw-auto-dream",
-            "stars": 624,
+            "stars": 625,
             "forks": 19,
             "score": 59
         },
@@ -293,7 +293,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "zolotukhin/zinc",
             "description": "Zig INferenCe Engine \u2014 Local LLM inference on AMD GPUs and Apple Silicon",
             "url": "https://github.com/zolotukhin/zinc",
-            "stars": 278,
+            "stars": 277,
             "forks": 9,
             "score": 40
         },
@@ -304,7 +304,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Alberto-Codes/turboquant-vllm",
             "description": "TurboQuant KV cache compression plugin for vLLM \u2014 asymmetric K/V, 8 models validated, consumer GPUs",
             "url": "https://github.com/Alberto-Codes/turboquant-vllm",
-            "stars": 28,
+            "stars": 29,
             "forks": 2,
             "score": 31
         },
@@ -375,23 +375,23 @@ const ALPHA_DATA_V2 = {
             "score": 30
         },
         {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "ai-sports-betting",
-            "full_name": "AI-Sports-Betting/ai-sports-betting",
-            "description": "A dark-themed AI-powered sports betting models platform with login/signup authentication, dashboard, and betting predictions. \u00b7 Built with Manus",
-            "url": "https://github.com/AI-Sports-Betting/ai-sports-betting",
-            "stars": 0,
-            "forks": 0,
-            "score": 30
-        },
-        {
             "main_cat": "Prediction Markets",
             "sub_cat": null,
             "name": "sol-baccarat",
             "full_name": "alnany/sol-baccarat",
             "description": "SOL price prediction game \u2014 baccarat-style UP/DOWN/FLAT betting on Solana",
             "url": "https://github.com/alnany/sol-baccarat",
+            "stars": 0,
+            "forks": 0,
+            "score": 30
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "ai-sports-betting",
+            "full_name": "AI-Sports-Betting/ai-sports-betting",
+            "description": "A dark-themed AI-powered sports betting models platform with login/signup authentication, dashboard, and betting predictions. \u00b7 Built with Manus",
+            "url": "https://github.com/AI-Sports-Betting/ai-sports-betting",
             "stars": 0,
             "forks": 0,
             "score": 30
@@ -458,17 +458,6 @@ const ALPHA_DATA_V2 = {
             "full_name": "csacanam/voulti",
             "description": "Crypto payment gateway for merchants. Accept USDC, USDT and stablecoins on multiple networks.",
             "url": "https://github.com/csacanam/voulti",
-            "stars": 0,
-            "forks": 0,
-            "score": 30
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "nautpay-hackathon",
-            "full_name": "48Nauts-Operator/nautpay-hackathon",
-            "description": "NautPay is an AI-native payment cockpit for stablecoin treasury operations on Solana, with compliance intelligence built in.",
-            "url": "https://github.com/48Nauts-Operator/nautpay-hackathon",
             "stars": 0,
             "forks": 0,
             "score": 30
@@ -556,12 +545,12 @@ const ALPHA_DATA_V2 = {
             "url": "http://arxiv.org/abs/2604.03199v1"
         },
         {
-            "title": "Will Netflix (NFLX) close above $0.00 end of April? (Probability: 50%)",
+            "title": "Ethereum Up or Down - April 6, 8:45AM-8:50AM ET (Probability: 50%)",
             "source": "Polymarket",
             "type": "Expectation",
             "color": "text-indigo-400",
-            "url": "https://polymarket.com/market/nflx-above-0-on-april-30-2026"
+            "url": "https://polymarket.com/market/eth-updown-5m-1775479500"
         }
     ],
-    "timestamp": "2026-04-06 10:04"
+    "timestamp": "2026-04-06 11:43"
 };
