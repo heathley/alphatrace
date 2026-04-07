@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "milla-jovovich/mempalace",
             "description": "The highest-scoring AI memory system ever benchmarked. And it's free.",
             "url": "https://github.com/milla-jovovich/mempalace",
-            "stars": 14475,
-            "forks": 1626,
+            "stars": 14883,
+            "forks": 1676,
             "score": 99
         },
         {
@@ -29,8 +29,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "safishamsi/graphify",
             "description": "AI coding assistant skill (Claude Code, Codex, OpenCode, OpenClaw, Factory Droid). Turn any folder of code, docs, papers, or images into a queryable knowledge graph",
             "url": "https://github.com/safishamsi/graphify",
-            "stars": 6068,
-            "forks": 610,
+            "stars": 6187,
+            "forks": 628,
             "score": 99
         },
         {
@@ -40,7 +40,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "tvytlx/ai-agent-deep-dive",
             "description": "AI Agent \u6e90\u7801\u6df1\u5ea6\u7814\u7a76\u62a5\u544a",
             "url": "https://github.com/tvytlx/ai-agent-deep-dive",
-            "stars": 5264,
+            "stars": 5265,
             "forks": 1579,
             "score": 99
         },
@@ -51,8 +51,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "elder-plinius/G0DM0D3",
             "description": "LIBERATED AI CHAT",
             "url": "https://github.com/elder-plinius/G0DM0D3",
-            "stars": 3640,
-            "forks": 823,
+            "stars": 3649,
+            "forks": 824,
             "score": 99
         },
         {
@@ -62,7 +62,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "therealXiaomanChu/ex-skill",
             "description": "\u628a\u524d\u4efb\u84b8\u998f\u6210 AI Skill\uff0c\u7528ta\u7684\u65b9\u5f0f\u8ddf\u4f60\u8bf4\u8bdd\u3002Inspired by colleague-skill\uff08\u540c\u4e8bskill\uff09. ",
             "url": "https://github.com/therealXiaomanChu/ex-skill",
-            "stars": 3329,
+            "stars": 3330,
             "forks": 346,
             "score": 99
         },
@@ -95,7 +95,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Leonxlnx/agentic-ai-prompt-research",
             "description": "Research into how agentic AI coding assistants work \u2014 reconstructed prompt patterns, agent coordination, and security classification",
             "url": "https://github.com/Leonxlnx/agentic-ai-prompt-research",
-            "stars": 2213,
+            "stars": 2218,
             "forks": 1031,
             "score": 99
         },
@@ -106,19 +106,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "yasasbanukaofficial/claude-code",
             "description": "\ud83d\ude80 Open source Claude Code CLI source code. Advanced AI Agent for developers. Includes TypeScript codebase for LLM tool-calling, agentic workflows, and terminal UI. Remember this is just the skeleton not the brain itself. Found by Chaofan Shou. ",
             "url": "https://github.com/yasasbanukaofficial/claude-code",
-            "stars": 1890,
-            "forks": 3198,
-            "score": 99
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "autoskills",
-            "full_name": "midudev/autoskills",
-            "description": "One command. Your entire AI skill stack. Installed.",
-            "url": "https://github.com/midudev/autoskills",
-            "stars": 1660,
-            "forks": 149,
+            "stars": 1892,
+            "forks": 3206,
             "score": 99
         },
         {
@@ -128,8 +117,19 @@ const ALPHA_DATA_V2 = {
             "full_name": "sooryathejas/METATRON",
             "description": "AI-powered penetration testing assistant using local LLM on linux (Parrot OS)",
             "url": "https://github.com/sooryathejas/METATRON",
-            "stars": 1659,
-            "forks": 321,
+            "stars": 1669,
+            "forks": 322,
+            "score": 99
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "autoskills",
+            "full_name": "midudev/autoskills",
+            "description": "One command. Your entire AI skill stack. Installed.",
+            "url": "https://github.com/midudev/autoskills",
+            "stars": 1661,
+            "forks": 149,
             "score": 99
         },
         {
@@ -139,7 +139,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "ericosiu/ai-marketing-skills",
             "description": "Open-source AI marketing skills \u2014 growth experiments, sales pipeline, content ops, outbound, SEO, and finance automation",
             "url": "https://github.com/ericosiu/ai-marketing-skills",
-            "stars": 1601,
+            "stars": 1606,
             "forks": 351,
             "score": 99
         },
@@ -172,8 +172,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "tradesdontlie/tradingview-mcp",
             "description": "AI-assisted TradingView chart analysis \u2014 connect Claude Code to your TradingView Desktop for personal workflow automation",
             "url": "https://github.com/tradesdontlie/tradingview-mcp",
-            "stars": 1303,
-            "forks": 633,
+            "stars": 1304,
+            "forks": 637,
             "score": 99
         },
         {
@@ -194,7 +194,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "fikrikarim/parlor",
             "description": "On-device, real-time multimodal AI. Have natural voice and vision conversations with an AI that runs entirely on your machine. Powered by Gemma 4 E2B and Kokoro.",
             "url": "https://github.com/fikrikarim/parlor",
-            "stars": 890,
+            "stars": 894,
             "forks": 69,
             "score": 99
         },
@@ -205,7 +205,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "ZhangHanDong/harness-engineering-from-cc-to-ai-coding",
             "description": "Harness Engineering From Claude Code source code to AI Coding",
             "url": "https://github.com/ZhangHanDong/harness-engineering-from-cc-to-ai-coding",
-            "stars": 849,
+            "stars": 850,
             "forks": 157,
             "score": 99
         },
@@ -216,7 +216,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "repowise-dev/claude-code-prompts",
             "description": "Independently authored prompt templates for AI coding agents \u2014 system prompts, tool prompts, agent delegation, memory management, and multi-agent coordination. Informed by studying Claude Code.",
             "url": "https://github.com/repowise-dev/claude-code-prompts",
-            "stars": 839,
+            "stars": 844,
             "forks": 331,
             "score": 99
         },
@@ -260,7 +260,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "hilash/cabinet",
             "description": "AI-first knowledge base and startup OS",
             "url": "https://github.com/hilash/cabinet",
-            "stars": 592,
+            "stars": 602,
             "forks": 55,
             "score": 88
         },
@@ -271,9 +271,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "calesthio/OpenMontage",
             "description": "World's first open-source, agentic video production system. 11 pipelines, 49 tools, 400+ agent skills. Turn your AI coding assistant into a full video production studio.",
             "url": "https://github.com/calesthio/OpenMontage",
-            "stars": 705,
-            "forks": 128,
-            "score": 80
+            "stars": 721,
+            "forks": 130,
+            "score": 81
         },
         {
             "main_cat": "AI",
@@ -304,7 +304,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "zolotukhin/zinc",
             "description": "Zig INferenCe Engine \u2014 Local LLM inference on AMD GPUs and Apple Silicon",
             "url": "https://github.com/zolotukhin/zinc",
-            "stars": 278,
+            "stars": 279,
             "forks": 9,
             "score": 39
         },
@@ -545,12 +545,12 @@ const ALPHA_DATA_V2 = {
             "url": "http://arxiv.org/abs/2604.04890v1"
         },
         {
-            "title": "Ethereum Up or Down - April 7, 4:00PM-8:00PM ET (Probability: 50%)",
+            "title": "Ethereum Up or Down - April 8, 9:30AM-9:35AM ET (Probability: 50%)",
             "source": "Polymarket",
             "type": "Expectation",
             "color": "text-indigo-400",
-            "url": "https://polymarket.com/market/eth-updown-4h-1775592000"
+            "url": "https://polymarket.com/market/eth-updown-5m-1775655000"
         }
     ],
-    "timestamp": "2026-04-07 19:54"
+    "timestamp": "2026-04-07 20:40"
 };
