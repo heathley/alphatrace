@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "milla-jovovich/mempalace",
             "description": "The highest-scoring AI memory system ever benchmarked. And it's free.",
             "url": "https://github.com/milla-jovovich/mempalace",
-            "stars": 14883,
-            "forks": 1676,
+            "stars": 15363,
+            "forks": 1731,
             "score": 99
         },
         {
@@ -29,8 +29,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "safishamsi/graphify",
             "description": "AI coding assistant skill (Claude Code, Codex, OpenCode, OpenClaw, Factory Droid). Turn any folder of code, docs, papers, or images into a queryable knowledge graph",
             "url": "https://github.com/safishamsi/graphify",
-            "stars": 6187,
-            "forks": 628,
+            "stars": 6320,
+            "forks": 645,
             "score": 99
         },
         {
@@ -51,8 +51,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "elder-plinius/G0DM0D3",
             "description": "LIBERATED AI CHAT",
             "url": "https://github.com/elder-plinius/G0DM0D3",
-            "stars": 3649,
-            "forks": 824,
+            "stars": 3655,
+            "forks": 826,
             "score": 99
         },
         {
@@ -62,7 +62,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "therealXiaomanChu/ex-skill",
             "description": "\u628a\u524d\u4efb\u84b8\u998f\u6210 AI Skill\uff0c\u7528ta\u7684\u65b9\u5f0f\u8ddf\u4f60\u8bf4\u8bdd\u3002Inspired by colleague-skill\uff08\u540c\u4e8bskill\uff09. ",
             "url": "https://github.com/therealXiaomanChu/ex-skill",
-            "stars": 3330,
+            "stars": 3331,
             "forks": 346,
             "score": 99
         },
@@ -85,7 +85,7 @@ const ALPHA_DATA_V2 = {
             "description": "\u300a\u5fa1\u8206\uff1a\u89e3\u7801 Agent Harness\u300b42\u4e07\u5b57\u62c6\u89e3 AI Agent \u7684Harness\u9aa8\u67b6\u4e0e\u795e\u7ecf \u2014\u2014 Claude Code \u67b6\u6784\u6df1\u5ea6\u5256\u6790\uff0c15 \u7ae0\u4ece\u5bf9\u8bdd\u5faa\u73af\u5230\u6784\u5efa\u4f60\u81ea\u5df1\u7684 Agent Harness\u3002\u5728\u7ebf\u9605\u8bfb\u7f51\u7ad9\uff1a",
             "url": "https://github.com/lintsinghua/claude-code-book",
             "stars": 2333,
-            "forks": 573,
+            "forks": 574,
             "score": 99
         },
         {
@@ -95,7 +95,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Leonxlnx/agentic-ai-prompt-research",
             "description": "Research into how agentic AI coding assistants work \u2014 reconstructed prompt patterns, agent coordination, and security classification",
             "url": "https://github.com/Leonxlnx/agentic-ai-prompt-research",
-            "stars": 2218,
+            "stars": 2221,
             "forks": 1031,
             "score": 99
         },
@@ -106,8 +106,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "yasasbanukaofficial/claude-code",
             "description": "\ud83d\ude80 Open source Claude Code CLI source code. Advanced AI Agent for developers. Includes TypeScript codebase for LLM tool-calling, agentic workflows, and terminal UI. Remember this is just the skeleton not the brain itself. Found by Chaofan Shou. ",
             "url": "https://github.com/yasasbanukaofficial/claude-code",
-            "stars": 1892,
-            "forks": 3206,
+            "stars": 1897,
+            "forks": 3212,
             "score": 99
         },
         {
@@ -117,8 +117,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "sooryathejas/METATRON",
             "description": "AI-powered penetration testing assistant using local LLM on linux (Parrot OS)",
             "url": "https://github.com/sooryathejas/METATRON",
-            "stars": 1669,
-            "forks": 322,
+            "stars": 1690,
+            "forks": 326,
             "score": 99
         },
         {
@@ -128,8 +128,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "midudev/autoskills",
             "description": "One command. Your entire AI skill stack. Installed.",
             "url": "https://github.com/midudev/autoskills",
-            "stars": 1661,
-            "forks": 149,
+            "stars": 1667,
+            "forks": 151,
             "score": 99
         },
         {
@@ -139,7 +139,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "ericosiu/ai-marketing-skills",
             "description": "Open-source AI marketing skills \u2014 growth experiments, sales pipeline, content ops, outbound, SEO, and finance automation",
             "url": "https://github.com/ericosiu/ai-marketing-skills",
-            "stars": 1606,
+            "stars": 1611,
             "forks": 351,
             "score": 99
         },
@@ -172,8 +172,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "tradesdontlie/tradingview-mcp",
             "description": "AI-assisted TradingView chart analysis \u2014 connect Claude Code to your TradingView Desktop for personal workflow automation",
             "url": "https://github.com/tradesdontlie/tradingview-mcp",
-            "stars": 1304,
-            "forks": 637,
+            "stars": 1307,
+            "forks": 638,
             "score": 99
         },
         {
@@ -184,7 +184,7 @@ const ALPHA_DATA_V2 = {
             "description": "\u6570\u5b57\u751f\u547d\u5361\u5179\u514b\u5f00\u6e90\u7684 AI Skills \u5408\u96c6",
             "url": "https://github.com/KKKKhazix/khazix-skills",
             "stars": 901,
-            "forks": 204,
+            "forks": 205,
             "score": 99
         },
         {
@@ -194,8 +194,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "fikrikarim/parlor",
             "description": "On-device, real-time multimodal AI. Have natural voice and vision conversations with an AI that runs entirely on your machine. Powered by Gemma 4 E2B and Kokoro.",
             "url": "https://github.com/fikrikarim/parlor",
-            "stars": 894,
-            "forks": 69,
+            "stars": 896,
+            "forks": 70,
             "score": 99
         },
         {
@@ -216,7 +216,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "repowise-dev/claude-code-prompts",
             "description": "Independently authored prompt templates for AI coding agents \u2014 system prompts, tool prompts, agent delegation, memory management, and multi-agent coordination. Informed by studying Claude Code.",
             "url": "https://github.com/repowise-dev/claude-code-prompts",
-            "stars": 844,
+            "stars": 849,
             "forks": 331,
             "score": 99
         },
@@ -249,7 +249,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "ghostwright/phantom",
             "description": "An AI co-worker with its own computer. Self-evolving, persistent memory, MCP server, secure credential collection, email identity. Built on the Claude Agent SDK.",
             "url": "https://github.com/ghostwright/phantom",
-            "stars": 1222,
+            "stars": 1221,
             "forks": 146,
             "score": 90
         },
@@ -260,9 +260,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "hilash/cabinet",
             "description": "AI-first knowledge base and startup OS",
             "url": "https://github.com/hilash/cabinet",
-            "stars": 602,
+            "stars": 607,
             "forks": 55,
-            "score": 88
+            "score": 89
         },
         {
             "main_cat": "AI",
@@ -271,9 +271,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "calesthio/OpenMontage",
             "description": "World's first open-source, agentic video production system. 11 pipelines, 49 tools, 400+ agent skills. Turn your AI coding assistant into a full video production studio.",
             "url": "https://github.com/calesthio/OpenMontage",
-            "stars": 721,
-            "forks": 130,
-            "score": 81
+            "stars": 734,
+            "forks": 132,
+            "score": 82
         },
         {
             "main_cat": "AI",
@@ -338,17 +338,6 @@ const ALPHA_DATA_V2 = {
             "description": "Autonomous ML research agent that reads papers, proposes experiments, and trains models on a single consumer GPU \u2014 zero cloud APIs.",
             "url": "https://github.com/2imi9/LocalPilot",
             "stars": 9,
-            "forks": 0,
-            "score": 30
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "gpu-memory-guard",
-            "full_name": "CastelDazur/gpu-memory-guard",
-            "description": "CLI tool to check GPU VRAM before loading AI models. Prevent OOM crashes.",
-            "url": "https://github.com/CastelDazur/gpu-memory-guard",
-            "stars": 7,
             "forks": 0,
             "score": 30
         },
@@ -545,12 +534,12 @@ const ALPHA_DATA_V2 = {
             "url": "http://arxiv.org/abs/2604.04890v1"
         },
         {
-            "title": "Ethereum Up or Down - April 8, 9:30AM-9:35AM ET (Probability: 50%)",
+            "title": "Will the price of Bitcoin be above $68,000 on April 14? (Probability: 65%)",
             "source": "Polymarket",
             "type": "Expectation",
             "color": "text-indigo-400",
-            "url": "https://polymarket.com/market/eth-updown-5m-1775655000"
+            "url": "https://polymarket.com/market/bitcoin-above-68k-on-april-14"
         }
     ],
-    "timestamp": "2026-04-07 20:40"
+    "timestamp": "2026-04-07 21:37"
 };
