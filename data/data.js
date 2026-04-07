@@ -3,23 +3,23 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "cli",
-            "full_name": "larksuite/cli",
-            "description": "The official Lark/Feishu CLI tool, maintained by the larksuite team \u2014 built for humans and AI Agents. Covers core business domains including Messenger, Docs, Base, Sheets, Calendar, Mail, Tasks, Meetings, and more, with 200+ commands and 19 AI Agent Skills.",
-            "url": "https://github.com/larksuite/cli",
-            "stars": 6929,
-            "forks": 409,
+            "name": "mempalace",
+            "full_name": "milla-jovovich/mempalace",
+            "description": "The highest-scoring AI memory system ever benchmarked. And it's free.",
+            "url": "https://github.com/milla-jovovich/mempalace",
+            "stars": 7715,
+            "forks": 803,
             "score": 99
         },
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "mempalace",
-            "full_name": "milla-jovovich/mempalace",
-            "description": "The highest-scoring AI memory system ever benchmarked. And it's free.",
-            "url": "https://github.com/milla-jovovich/mempalace",
-            "stars": 6217,
-            "forks": 627,
+            "name": "cli",
+            "full_name": "larksuite/cli",
+            "description": "The official Lark/Feishu CLI tool, maintained by the larksuite team \u2014 built for humans and AI Agents. Covers core business domains including Messenger, Docs, Base, Sheets, Calendar, Mail, Tasks, Meetings, and more, with 200+ commands and 19 AI Agent Skills.",
+            "url": "https://github.com/larksuite/cli",
+            "stars": 6944,
+            "forks": 412,
             "score": 99
         },
         {
@@ -29,7 +29,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "tvytlx/ai-agent-deep-dive",
             "description": "AI Agent \u6e90\u7801\u6df1\u5ea6\u7814\u7a76\u62a5\u544a",
             "url": "https://github.com/tvytlx/ai-agent-deep-dive",
-            "stars": 5243,
+            "stars": 5247,
             "forks": 1576,
             "score": 99
         },
@@ -40,8 +40,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "safishamsi/graphify",
             "description": "AI coding assistant skill (Claude Code, Codex, OpenCode, OpenClaw). Turn any folder of code, docs, papers, or images into a queryable knowledge graph",
             "url": "https://github.com/safishamsi/graphify",
-            "stars": 4279,
-            "forks": 424,
+            "stars": 4625,
+            "forks": 460,
             "score": 99
         },
         {
@@ -51,7 +51,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "elder-plinius/G0DM0D3",
             "description": "LIBERATED AI CHAT",
             "url": "https://github.com/elder-plinius/G0DM0D3",
-            "stars": 3540,
+            "stars": 3542,
             "forks": 803,
             "score": 99
         },
@@ -62,8 +62,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "therealXiaomanChu/ex-skill",
             "description": "\u628a\u524d\u4efb\u84b8\u998f\u6210 AI Skill\uff0c\u7528ta\u7684\u65b9\u5f0f\u8ddf\u4f60\u8bf4\u8bdd\u3002Inspired by colleague-skill\uff08\u540c\u4e8bskill\uff09. ",
             "url": "https://github.com/therealXiaomanChu/ex-skill",
-            "stars": 3210,
-            "forks": 329,
+            "stars": 3233,
+            "forks": 333,
             "score": 99
         },
         {
@@ -73,8 +73,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "motiful/cc-gateway",
             "description": "AI API identity gateway \u2014 reverse proxy that normalizes device fingerprints and telemetry for privacy-preserving API proxying",
             "url": "https://github.com/motiful/cc-gateway",
-            "stars": 2468,
-            "forks": 444,
+            "stars": 2471,
+            "forks": 445,
             "score": 99
         },
         {
@@ -84,8 +84,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "lintsinghua/claude-code-book",
             "description": "\u300a\u5fa1\u8206\uff1a\u89e3\u7801 Agent Harness\u300b42\u4e07\u5b57\u62c6\u89e3 AI Agent \u7684Harness\u9aa8\u67b6\u4e0e\u795e\u7ecf \u2014\u2014 Claude Code \u67b6\u6784\u6df1\u5ea6\u5256\u6790\uff0c15 \u7ae0\u4ece\u5bf9\u8bdd\u5faa\u73af\u5230\u6784\u5efa\u4f60\u81ea\u5df1\u7684 Agent Harness\u3002\u5728\u7ebf\u9605\u8bfb\u7f51\u7ad9\uff1a",
             "url": "https://github.com/lintsinghua/claude-code-book",
-            "stars": 2291,
-            "forks": 563,
+            "stars": 2302,
+            "forks": 564,
             "score": 99
         },
         {
@@ -95,8 +95,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "Leonxlnx/agentic-ai-prompt-research",
             "description": "Research into how agentic AI coding assistants work \u2014 reconstructed prompt patterns, agent coordination, and security classification",
             "url": "https://github.com/Leonxlnx/agentic-ai-prompt-research",
-            "stars": 2196,
-            "forks": 1029,
+            "stars": 2198,
+            "forks": 1028,
             "score": 99
         },
         {
@@ -106,8 +106,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "yasasbanukaofficial/claude-code",
             "description": "\ud83d\ude80 Open source Claude Code CLI source code. Advanced AI Agent for developers. Includes TypeScript codebase for LLM tool-calling, agentic workflows, and terminal UI. Remember this is just the skeleton not the brain itself. Found by Chaofan Shou. ",
             "url": "https://github.com/yasasbanukaofficial/claude-code",
-            "stars": 1844,
-            "forks": 3137,
+            "stars": 1854,
+            "forks": 3147,
             "score": 99
         },
         {
@@ -117,7 +117,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "ericosiu/ai-marketing-skills",
             "description": "Open-source AI marketing skills \u2014 growth experiments, sales pipeline, content ops, outbound, SEO, and finance automation",
             "url": "https://github.com/ericosiu/ai-marketing-skills",
-            "stars": 1572,
+            "stars": 1574,
             "forks": 342,
             "score": 99
         },
@@ -128,7 +128,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "WecomTeam/wecom-cli",
             "description": "\u4f01\u4e1a\u5fae\u4fe1\u5f00\u653e\u5e73\u53f0\u547d\u4ee4\u884c\u5de5\u5177 \u2014 \u8ba9\u4eba\u7c7b\u548c AI Agent \u90fd\u80fd\u5728\u7ec8\u7aef\u4e2d\u64cd\u4f5c\u4f01\u4e1a\u5fae\u4fe1",
             "url": "https://github.com/WecomTeam/wecom-cli",
-            "stars": 1566,
+            "stars": 1568,
             "forks": 96,
             "score": 99
         },
@@ -139,8 +139,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "sooryathejas/METATRON",
             "description": "AI-powered penetration testing assistant using local LLM on linux (Parrot OS)",
             "url": "https://github.com/sooryathejas/METATRON",
-            "stars": 1504,
-            "forks": 296,
+            "stars": 1519,
+            "forks": 302,
             "score": 99
         },
         {
@@ -150,7 +150,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "oaker-io/wewrite",
             "description": "\u516c\u4f17\u53f7\u6587\u7ae0\u5168\u6d41\u7a0b AI Skill for Claude Code \u2014 \u70ed\u70b9\u6293\u53d6 \u2192 \u9009\u9898 \u2192 \u5199\u4f5c \u2192 SEO \u2192 \u89c6\u89c9AI \u2192 \u6392\u7248 \u2192 \u5fae\u4fe1\u8349\u7a3f\u7bb1",
             "url": "https://github.com/oaker-io/wewrite",
-            "stars": 1385,
+            "stars": 1388,
             "forks": 238,
             "score": 99
         },
@@ -161,8 +161,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "tradesdontlie/tradingview-mcp",
             "description": "AI-assisted TradingView chart analysis \u2014 connect Claude Code to your TradingView Desktop for personal workflow automation",
             "url": "https://github.com/tradesdontlie/tradingview-mcp",
-            "stars": 1282,
-            "forks": 621,
+            "stars": 1286,
+            "forks": 625,
             "score": 99
         },
         {
@@ -172,8 +172,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "fikrikarim/parlor",
             "description": "On-device, real-time multimodal AI. Have natural voice and vision conversations with an AI that runs entirely on your machine. Powered by Gemma 4 E2B and Kokoro.",
             "url": "https://github.com/fikrikarim/parlor",
-            "stars": 848,
-            "forks": 62,
+            "stars": 852,
+            "forks": 65,
             "score": 99
         },
         {
@@ -183,7 +183,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "ZhangHanDong/harness-engineering-from-cc-to-ai-coding",
             "description": "Harness Engineering From Claude Code source code to AI Coding",
             "url": "https://github.com/ZhangHanDong/harness-engineering-from-cc-to-ai-coding",
-            "stars": 842,
+            "stars": 844,
             "forks": 157,
             "score": 99
         },
@@ -194,7 +194,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "repowise-dev/claude-code-prompts",
             "description": "Independently authored prompt templates for AI coding agents \u2014 system prompts, tool prompts, agent delegation, memory management, and multi-agent coordination. Informed by studying Claude Code.",
             "url": "https://github.com/repowise-dev/claude-code-prompts",
-            "stars": 822,
+            "stars": 824,
             "forks": 325,
             "score": 99
         },
@@ -205,8 +205,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "KKKKhazix/khazix-skills",
             "description": "\u6570\u5b57\u751f\u547d\u5361\u5179\u514b\u5f00\u6e90\u7684 AI Skills \u5408\u96c6",
             "url": "https://github.com/KKKKhazix/khazix-skills",
-            "stars": 761,
-            "forks": 173,
+            "stars": 803,
+            "forks": 181,
             "score": 99
         },
         {
@@ -216,7 +216,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "e10nMa2k/cc-mini",
             "description": "Ultra-light Harness scaffolding for AI agents, a mini version of claude code ",
             "url": "https://github.com/e10nMa2k/cc-mini",
-            "stars": 735,
+            "stars": 736,
             "forks": 299,
             "score": 99
         },
@@ -227,7 +227,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "6551Team/claude-code-design-guide",
             "description": "From Early Internet Design Patterns to AI Agent Implementation \u2014 A Deep Dive into Claude Code for Developers",
             "url": "https://github.com/6551Team/claude-code-design-guide",
-            "stars": 663,
+            "stars": 664,
             "forks": 245,
             "score": 99
         },
@@ -238,7 +238,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "midudev/autoskills",
             "description": "One command. Your entire AI skill stack. Installed.",
             "url": "https://github.com/midudev/autoskills",
-            "stars": 1596,
+            "stars": 1609,
             "forks": 137,
             "score": 97
         },
@@ -249,7 +249,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "ghostwright/phantom",
             "description": "An AI co-worker with its own computer. Self-evolving, persistent memory, MCP server, secure credential collection, email identity. Built on the Claude Agent SDK.",
             "url": "https://github.com/ghostwright/phantom",
-            "stars": 1218,
+            "stars": 1219,
             "forks": 146,
             "score": 90
         },
@@ -260,7 +260,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "hilash/cabinet",
             "description": "AI-first knowledge base and startup OS",
             "url": "https://github.com/hilash/cabinet",
-            "stars": 567,
+            "stars": 573,
             "forks": 51,
             "score": 85
         },
@@ -271,9 +271,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "calesthio/OpenMontage",
             "description": "World's first open-source, agentic video production system. 11 pipelines, 49 tools, 400+ agent skills. Turn your AI coding assistant into a full video production studio.",
             "url": "https://github.com/calesthio/OpenMontage",
-            "stars": 555,
-            "forks": 106,
-            "score": 74
+            "stars": 582,
+            "forks": 110,
+            "score": 76
         },
         {
             "main_cat": "AI",
@@ -282,7 +282,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "ryfineZ/codex-session-patcher",
             "description": "A lightweight Python tool to clean AI refusal responses from Codex CLI session files",
             "url": "https://github.com/ryfineZ/codex-session-patcher",
-            "stars": 567,
+            "stars": 570,
             "forks": 136,
             "score": 67
         },
@@ -317,17 +317,6 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/Alberto-Codes/turboquant-vllm",
             "stars": 30,
             "forks": 3,
-            "score": 31
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "inferi",
-            "full_name": "dimforge/inferi",
-            "description": "Cross-platform GPU LLM inference in Rust",
-            "url": "https://github.com/dimforge/inferi",
-            "stars": 6,
-            "forks": 0,
             "score": 31
         },
         {
@@ -392,17 +381,6 @@ const ALPHA_DATA_V2 = {
             "full_name": "AI-Sports-Betting/ai-sports-betting",
             "description": "A dark-themed AI-powered sports betting models platform with login/signup authentication, dashboard, and betting predictions. \u00b7 Built with Manus",
             "url": "https://github.com/AI-Sports-Betting/ai-sports-betting",
-            "stars": 0,
-            "forks": 0,
-            "score": 30
-        },
-        {
-            "main_cat": "Prediction Markets",
-            "sub_cat": null,
-            "name": "ArcOracle",
-            "full_name": "Tunde505055555/ArcOracle",
-            "description": "A decentralized prediction market where users stake USDC to predict outcomes of real-world events. Built on Arc Testnet, it uses smart contracts to ensure transparent, trustless betting and automatic payouts",
-            "url": "https://github.com/Tunde505055555/ArcOracle",
             "stars": 0,
             "forks": 0,
             "score": 30
@@ -531,26 +509,12 @@ const ALPHA_DATA_V2 = {
     ],
     "news": [
         {
-            "title": "Comprehensive List of User Deception Techniques in Emails",
-            "source": "ArXiv",
-            "type": "Research Alpha",
-            "color": "text-indigo-600",
-            "url": "http://arxiv.org/abs/2604.04926v1"
-        },
-        {
-            "title": "Towards Policy-Enabled Multi-Hop Routing for Cross-Chain Message Delivery",
-            "source": "ArXiv",
-            "type": "Research Alpha",
-            "color": "text-indigo-600",
-            "url": "http://arxiv.org/abs/2604.04890v1"
-        },
-        {
-            "title": "Ethereum above 1,975 on March 29, 7PM ET? (Probability: 50%)",
+            "title": "Ethereum Up or Down - April 7, 9:15AM-9:30AM ET (Probability: 50%)",
             "source": "Polymarket",
             "type": "Expectation",
             "color": "text-indigo-400",
-            "url": "https://polymarket.com/market/ethereum-above-1975-on-march-29-2026-7pm-et"
+            "url": "https://polymarket.com/market/eth-updown-15m-1775567700"
         }
     ],
-    "timestamp": "2026-04-07 11:48"
+    "timestamp": "2026-04-07 13:07"
 };
