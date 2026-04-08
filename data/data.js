@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "milla-jovovich/mempalace",
             "description": "The highest-scoring AI memory system ever benchmarked. And it's free.",
             "url": "https://github.com/milla-jovovich/mempalace",
-            "stars": 26187,
-            "forks": 3240,
+            "stars": 26424,
+            "forks": 3276,
             "score": 99
         },
         {
@@ -18,8 +18,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "safishamsi/graphify",
             "description": "AI coding assistant skill (Claude Code, Codex, OpenCode, OpenClaw, Factory Droid, Trae). Turn any folder of code, docs, papers, or images into a queryable knowledge graph",
             "url": "https://github.com/safishamsi/graphify",
-            "stars": 12129,
-            "forks": 1236,
+            "stars": 12303,
+            "forks": 1245,
             "score": 99
         },
         {
@@ -40,8 +40,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "therealXiaomanChu/ex-skill",
             "description": "\u628a\u524d\u4efb\u84b8\u998f\u6210 AI Skill\uff0c\u7528ta\u7684\u65b9\u5f0f\u8ddf\u4f60\u8bf4\u8bdd\u3002Inspired by colleague-skill\uff08\u540c\u4e8bskill\uff09. ",
             "url": "https://github.com/therealXiaomanChu/ex-skill",
-            "stars": 3688,
-            "forks": 380,
+            "stars": 3690,
+            "forks": 381,
             "score": 99
         },
         {
@@ -84,8 +84,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "yasasbanukaofficial/claude-code",
             "description": "\ud83d\ude80 Open source Claude Code CLI source code. Advanced AI Agent for developers. Includes TypeScript codebase for LLM tool-calling, agentic workflows, and terminal UI. Remember this is just the skeleton not the brain itself. Found by Chaofan Shou. ",
             "url": "https://github.com/yasasbanukaofficial/claude-code",
-            "stars": 2014,
-            "forks": 3364,
+            "stars": 2019,
+            "forks": 3373,
             "score": 99
         },
         {
@@ -95,7 +95,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "sooryathejas/METATRON",
             "description": "AI-powered penetration testing assistant using local LLM on linux (Parrot OS)",
             "url": "https://github.com/sooryathejas/METATRON",
-            "stars": 1872,
+            "stars": 1880,
             "forks": 374,
             "score": 99
         },
@@ -106,8 +106,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "ericosiu/ai-marketing-skills",
             "description": "Open-source AI marketing skills \u2014 growth experiments, sales pipeline, content ops, outbound, SEO, and finance automation",
             "url": "https://github.com/ericosiu/ai-marketing-skills",
-            "stars": 1667,
-            "forks": 367,
+            "stars": 1669,
+            "forks": 368,
             "score": 99
         },
         {
@@ -117,7 +117,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "WecomTeam/wecom-cli",
             "description": "\u4f01\u4e1a\u5fae\u4fe1\u5f00\u653e\u5e73\u53f0\u547d\u4ee4\u884c\u5de5\u5177 \u2014 \u8ba9\u4eba\u7c7b\u548c AI Agent \u90fd\u80fd\u5728\u7ec8\u7aef\u4e2d\u64cd\u4f5c\u4f01\u4e1a\u5fae\u4fe1",
             "url": "https://github.com/WecomTeam/wecom-cli",
-            "stars": 1591,
+            "stars": 1592,
             "forks": 100,
             "score": 99
         },
@@ -139,8 +139,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "tradesdontlie/tradingview-mcp",
             "description": "AI-assisted TradingView chart analysis \u2014 connect Claude Code to your TradingView Desktop for personal workflow automation",
             "url": "https://github.com/tradesdontlie/tradingview-mcp",
-            "stars": 1417,
-            "forks": 682,
+            "stars": 1418,
+            "forks": 684,
             "score": 99
         },
         {
@@ -161,8 +161,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "fikrikarim/parlor",
             "description": "On-device, real-time multimodal AI. Have natural voice and vision conversations with an AI that runs entirely on your machine. Powered by Gemma 4 E2B and Kokoro.",
             "url": "https://github.com/fikrikarim/parlor",
-            "stars": 1115,
-            "forks": 109,
+            "stars": 1123,
+            "forks": 110,
             "score": 99
         },
         {
@@ -172,7 +172,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "repowise-dev/claude-code-prompts",
             "description": "Independently authored prompt templates for AI coding agents \u2014 system prompts, tool prompts, agent delegation, memory management, and multi-agent coordination. Informed by studying Claude Code.",
             "url": "https://github.com/repowise-dev/claude-code-prompts",
-            "stars": 873,
+            "stars": 874,
             "forks": 340,
             "score": 99
         },
@@ -183,8 +183,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "ZhangHanDong/harness-engineering-from-cc-to-ai-coding",
             "description": "Harness Engineering From Claude Code source code to AI Coding",
             "url": "https://github.com/ZhangHanDong/harness-engineering-from-cc-to-ai-coding",
-            "stars": 860,
-            "forks": 163,
+            "stars": 861,
+            "forks": 164,
             "score": 99
         },
         {
@@ -212,11 +212,22 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
+            "name": "OpenMontage",
+            "full_name": "calesthio/OpenMontage",
+            "description": "World's first open-source, agentic video production system. 11 pipelines, 49 tools, 400+ agent skills. Turn your AI coding assistant into a full video production studio.",
+            "url": "https://github.com/calesthio/OpenMontage",
+            "stars": 862,
+            "forks": 155,
+            "score": 87
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
             "name": "cabinet",
             "full_name": "hilash/cabinet",
             "description": "AI-first knowledge base and startup OS",
             "url": "https://github.com/hilash/cabinet",
-            "stars": 676,
+            "stars": 678,
             "forks": 60,
             "score": 87
         },
@@ -227,19 +238,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "ghostwright/phantom",
             "description": "An AI co-worker with its own computer. Self-evolving, persistent memory, MCP server, secure credential collection, email identity. Built on the Claude Agent SDK.",
             "url": "https://github.com/ghostwright/phantom",
-            "stars": 1229,
+            "stars": 1230,
             "forks": 148,
-            "score": 86
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "OpenMontage",
-            "full_name": "calesthio/OpenMontage",
-            "description": "World's first open-source, agentic video production system. 11 pipelines, 49 tools, 400+ agent skills. Turn your AI coding assistant into a full video production studio.",
-            "url": "https://github.com/calesthio/OpenMontage",
-            "stars": 860,
-            "forks": 153,
             "score": 86
         },
         {
@@ -271,7 +271,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "utkusen/sast-skills",
             "description": "Collection of agent skills that turn your AI coder into a SAST scanner",
             "url": "https://github.com/utkusen/sast-skills",
-            "stars": 538,
+            "stars": 539,
             "forks": 19,
             "score": 55
         },
@@ -589,12 +589,12 @@ const ALPHA_DATA_V2 = {
             "url": "http://arxiv.org/abs/2604.06101v1"
         },
         {
-            "title": "Solana Up or Down - April 8, 4:45PM-5:00PM ET (Probability: 50%)",
+            "title": "Ethereum Up or Down - April 10, 11AM ET (Probability: 50%)",
             "source": "Polymarket",
             "type": "Expectation",
             "color": "text-indigo-400",
-            "url": "https://polymarket.com/market/sol-updown-15m-1775681100"
+            "url": "https://polymarket.com/market/ethereum-up-or-down-april-10-2026-11am-et"
         }
     ],
-    "timestamp": "2026-04-08 20:37"
+    "timestamp": "2026-04-08 21:36"
 };
