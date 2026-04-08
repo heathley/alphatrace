@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "milla-jovovich/mempalace",
             "description": "The highest-scoring AI memory system ever benchmarked. And it's free.",
             "url": "https://github.com/milla-jovovich/mempalace",
-            "stars": 26645,
-            "forks": 3301,
+            "stars": 26866,
+            "forks": 3337,
             "score": 99
         },
         {
@@ -18,8 +18,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "safishamsi/graphify",
             "description": "AI coding assistant skill (Claude Code, Codex, OpenCode, OpenClaw, Factory Droid, Trae). Turn any folder of code, docs, papers, or images into a queryable knowledge graph",
             "url": "https://github.com/safishamsi/graphify",
-            "stars": 12409,
-            "forks": 1261,
+            "stars": 12539,
+            "forks": 1271,
             "score": 99
         },
         {
@@ -29,7 +29,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "tvytlx/ai-agent-deep-dive",
             "description": "AI Agent \u6e90\u7801\u6df1\u5ea6\u7814\u7a76\u62a5\u544a",
             "url": "https://github.com/tvytlx/ai-agent-deep-dive",
-            "stars": 5326,
+            "stars": 5327,
             "forks": 1586,
             "score": 99
         },
@@ -40,7 +40,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "therealXiaomanChu/ex-skill",
             "description": "\u628a\u524d\u4efb\u84b8\u998f\u6210 AI Skill\uff0c\u7528ta\u7684\u65b9\u5f0f\u8ddf\u4f60\u8bf4\u8bdd\u3002Inspired by colleague-skill\uff08\u540c\u4e8bskill\uff09. ",
             "url": "https://github.com/therealXiaomanChu/ex-skill",
-            "stars": 3691,
+            "stars": 3696,
             "forks": 381,
             "score": 99
         },
@@ -84,8 +84,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "yasasbanukaofficial/claude-code",
             "description": "\ud83d\ude80 Open source Claude Code CLI source code. Advanced AI Agent for developers. Includes TypeScript codebase for LLM tool-calling, agentic workflows, and terminal UI. Remember this is just the skeleton not the brain itself. Found by Chaofan Shou. ",
             "url": "https://github.com/yasasbanukaofficial/claude-code",
-            "stars": 2019,
-            "forks": 3377,
+            "stars": 2023,
+            "forks": 3381,
             "score": 99
         },
         {
@@ -95,8 +95,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "sooryathejas/METATRON",
             "description": "AI-powered penetration testing assistant using local LLM on linux (Parrot OS)",
             "url": "https://github.com/sooryathejas/METATRON",
-            "stars": 1886,
-            "forks": 376,
+            "stars": 1891,
+            "forks": 378,
             "score": 99
         },
         {
@@ -106,7 +106,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "ericosiu/ai-marketing-skills",
             "description": "Open-source AI marketing skills \u2014 growth experiments, sales pipeline, content ops, outbound, SEO, and finance automation",
             "url": "https://github.com/ericosiu/ai-marketing-skills",
-            "stars": 1670,
+            "stars": 1672,
             "forks": 368,
             "score": 99
         },
@@ -128,7 +128,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "tradesdontlie/tradingview-mcp",
             "description": "AI-assisted TradingView chart analysis \u2014 connect Claude Code to your TradingView Desktop for personal workflow automation",
             "url": "https://github.com/tradesdontlie/tradingview-mcp",
-            "stars": 1421,
+            "stars": 1423,
             "forks": 688,
             "score": 99
         },
@@ -140,7 +140,7 @@ const ALPHA_DATA_V2 = {
             "description": "\u516c\u4f17\u53f7\u6587\u7ae0\u5168\u6d41\u7a0b AI Skill for Claude Code \u2014 \u70ed\u70b9\u6293\u53d6 \u2192 \u9009\u9898 \u2192 \u5199\u4f5c \u2192 SEO \u2192 \u89c6\u89c9AI \u2192 \u6392\u7248 \u2192 \u5fae\u4fe1\u8349\u7a3f\u7bb1",
             "url": "https://github.com/oaker-io/wewrite",
             "stars": 1421,
-            "forks": 243,
+            "forks": 244,
             "score": 99
         },
         {
@@ -150,8 +150,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "KKKKhazix/khazix-skills",
             "description": "\u6570\u5b57\u751f\u547d\u5361\u5179\u514b\u5f00\u6e90\u7684 AI Skills \u5408\u96c6",
             "url": "https://github.com/KKKKhazix/khazix-skills",
-            "stars": 1159,
-            "forks": 261,
+            "stars": 1160,
+            "forks": 262,
             "score": 99
         },
         {
@@ -161,7 +161,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "fikrikarim/parlor",
             "description": "On-device, real-time multimodal AI. Have natural voice and vision conversations with an AI that runs entirely on your machine. Powered by Gemma 4 E2B and Kokoro.",
             "url": "https://github.com/fikrikarim/parlor",
-            "stars": 1129,
+            "stars": 1132,
             "forks": 110,
             "score": 99
         },
@@ -194,7 +194,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "e10nMa2k/cc-mini",
             "description": "Ultra-light Harness scaffolding for AI agents, a mini version of claude code ",
             "url": "https://github.com/e10nMa2k/cc-mini",
-            "stars": 753,
+            "stars": 754,
             "forks": 304,
             "score": 99
         },
@@ -211,13 +211,24 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "phantom",
+            "full_name": "ghostwright/phantom",
+            "description": "An AI co-worker with its own computer. Self-evolving, persistent memory, MCP server, secure credential collection, email identity. Built on the Claude Agent SDK.",
+            "url": "https://github.com/ghostwright/phantom",
+            "stars": 1232,
+            "forks": 148,
+            "score": 87
+        },
+        {
+            "main_cat": "AI",
             "sub_cat": null,
             "name": "OpenMontage",
             "full_name": "calesthio/OpenMontage",
             "description": "World's first open-source, agentic video production system. 11 pipelines, 49 tools, 400+ agent skills. Turn your AI coding assistant into a full video production studio.",
             "url": "https://github.com/calesthio/OpenMontage",
-            "stars": 871,
-            "forks": 155,
+            "stars": 877,
+            "forks": 156,
             "score": 87
         },
         {
@@ -233,23 +244,12 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "phantom",
-            "full_name": "ghostwright/phantom",
-            "description": "An AI co-worker with its own computer. Self-evolving, persistent memory, MCP server, secure credential collection, email identity. Built on the Claude Agent SDK.",
-            "url": "https://github.com/ghostwright/phantom",
-            "stars": 1231,
-            "forks": 148,
-            "score": 86
-        },
-        {
-            "main_cat": "AI",
             "sub_cat": null,
             "name": "AlayaRenderer",
             "full_name": "ShandaAI/AlayaRenderer",
             "description": "AI-native Renderer for Games and Virtual Worlds, with Data and Tools",
             "url": "https://github.com/ShandaAI/AlayaRenderer",
-            "stars": 528,
+            "stars": 529,
             "forks": 6,
             "score": 60
         },
@@ -282,7 +282,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "LeoYeAI/openclaw-auto-dream",
             "description": "Automatic memory consolidation for OpenClaw agents \u2014 like sleep for your AI. Powered by MyClaw.ai",
             "url": "https://github.com/LeoYeAI/openclaw-auto-dream",
-            "stars": 583,
+            "stars": 584,
             "forks": 19,
             "score": 53
         },
@@ -589,12 +589,12 @@ const ALPHA_DATA_V2 = {
             "url": "http://arxiv.org/abs/2604.06101v1"
         },
         {
-            "title": "Ethereum Up or Down - April 10, 11AM ET (Probability: 50%)",
+            "title": "Bitcoin Up or Down - April 9, 2:05AM-2:10AM ET (Probability: 50%)",
             "source": "Polymarket",
             "type": "Expectation",
             "color": "text-indigo-400",
-            "url": "https://polymarket.com/market/ethereum-up-or-down-april-10-2026-11am-et"
+            "url": "https://polymarket.com/market/btc-updown-5m-1775714700"
         }
     ],
-    "timestamp": "2026-04-08 22:33"
+    "timestamp": "2026-04-08 23:33"
 };
