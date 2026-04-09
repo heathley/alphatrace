@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "milla-jovovich/mempalace",
             "description": "The highest-scoring AI memory system ever benchmarked. And it's free.",
             "url": "https://github.com/milla-jovovich/mempalace",
-            "stars": 34324,
-            "forks": 4322,
+            "stars": 34626,
+            "forks": 4358,
             "score": 99
         },
         {
@@ -18,8 +18,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "safishamsi/graphify",
             "description": "AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, OpenClaw, Factory Droid, Trae). Turn any folder of code, docs, papers, or images into a queryable knowledge graph",
             "url": "https://github.com/safishamsi/graphify",
-            "stars": 16904,
-            "forks": 1737,
+            "stars": 17042,
+            "forks": 1747,
             "score": 99
         },
         {
@@ -29,7 +29,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "tvytlx/ai-agent-deep-dive",
             "description": "AI Agent \u6e90\u7801\u6df1\u5ea6\u7814\u7a76\u62a5\u544a",
             "url": "https://github.com/tvytlx/ai-agent-deep-dive",
-            "stars": 5359,
+            "stars": 5360,
             "forks": 1590,
             "score": 99
         },
@@ -51,7 +51,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "motiful/cc-gateway",
             "description": "AI API identity gateway \u2014 reverse proxy that normalizes device fingerprints and telemetry for privacy-preserving API proxying",
             "url": "https://github.com/motiful/cc-gateway",
-            "stars": 2565,
+            "stars": 2566,
             "forks": 457,
             "score": 99
         },
@@ -84,8 +84,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "yasasbanukaofficial/claude-code",
             "description": "\ud83d\ude80 Open source Claude Code CLI source code. Advanced AI Agent for developers. Includes TypeScript codebase for LLM tool-calling, agentic workflows, and terminal UI. Remember this is just the skeleton not the brain itself. Found by Chaofan Shou. ",
             "url": "https://github.com/yasasbanukaofficial/claude-code",
-            "stars": 2114,
-            "forks": 3500,
+            "stars": 2117,
+            "forks": 3501,
             "score": 99
         },
         {
@@ -95,7 +95,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "sooryathejas/METATRON",
             "description": "AI-powered penetration testing assistant using local LLM on linux (Parrot OS)",
             "url": "https://github.com/sooryathejas/METATRON",
-            "stars": 2025,
+            "stars": 2034,
             "forks": 405,
             "score": 99
         },
@@ -106,8 +106,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "ericosiu/ai-marketing-skills",
             "description": "Open-source AI marketing skills \u2014 growth experiments, sales pipeline, content ops, outbound, SEO, and finance automation",
             "url": "https://github.com/ericosiu/ai-marketing-skills",
-            "stars": 1700,
-            "forks": 376,
+            "stars": 1702,
+            "forks": 377,
             "score": 99
         },
         {
@@ -128,8 +128,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "tradesdontlie/tradingview-mcp",
             "description": "AI-assisted TradingView chart analysis \u2014 connect Claude Code to your TradingView Desktop for personal workflow automation",
             "url": "https://github.com/tradesdontlie/tradingview-mcp",
-            "stars": 1495,
-            "forks": 726,
+            "stars": 1499,
+            "forks": 727,
             "score": 99
         },
         {
@@ -139,7 +139,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "KKKKhazix/khazix-skills",
             "description": "\u6570\u5b57\u751f\u547d\u5361\u5179\u514b\u5f00\u6e90\u7684 AI Skills \u5408\u96c6",
             "url": "https://github.com/KKKKhazix/khazix-skills",
-            "stars": 1302,
+            "stars": 1303,
             "forks": 285,
             "score": 99
         },
@@ -150,8 +150,30 @@ const ALPHA_DATA_V2 = {
             "full_name": "fikrikarim/parlor",
             "description": "On-device, real-time multimodal AI. Have natural voice and vision conversations with an AI that runs entirely on your machine. Powered by Gemma 4 E2B and Kokoro.",
             "url": "https://github.com/fikrikarim/parlor",
-            "stars": 1219,
+            "stars": 1222,
             "forks": 122,
+            "score": 99
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "cabinet",
+            "full_name": "hilash/cabinet",
+            "description": "AI-first knowledge base and startup OS",
+            "url": "https://github.com/hilash/cabinet",
+            "stars": 917,
+            "forks": 83,
+            "score": 99
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "hermes-agent-orange-book",
+            "full_name": "alchaincyf/hermes-agent-orange-book",
+            "description": "Hermes Agent \u4ece\u5165\u95e8\u5230\u7cbe\u901a \u00b7 \u6a59\u76ae\u4e66\u7cfb\u5217 \u00b7 Nous Research \u5f00\u6e90 AI Agent \u6846\u67b6\u5b9e\u6218\u6307\u5357",
+            "url": "https://github.com/alchaincyf/hermes-agent-orange-book",
+            "stars": 907,
+            "forks": 92,
             "score": 99
         },
         {
@@ -163,17 +185,6 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/repowise-dev/claude-code-prompts",
             "stars": 897,
             "forks": 345,
-            "score": 99
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "hermes-agent-orange-book",
-            "full_name": "alchaincyf/hermes-agent-orange-book",
-            "description": "Hermes Agent \u4ece\u5165\u95e8\u5230\u7cbe\u901a \u00b7 \u6a59\u76ae\u4e66\u7cfb\u5217 \u00b7 Nous Research \u5f00\u6e90 AI Agent \u6846\u67b6\u5b9e\u6218\u6307\u5357",
-            "url": "https://github.com/alchaincyf/hermes-agent-orange-book",
-            "stars": 875,
-            "forks": 90,
             "score": 99
         },
         {
@@ -216,20 +227,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "brooks376/Happy-Horse-1.0",
             "description": "Information collection for the Happy Horse AI video generator model. Official demo and updates at happyhorses.io.",
             "url": "https://github.com/brooks376/Happy-Horse-1.0",
-            "stars": 498,
+            "stars": 499,
             "forks": 40,
             "score": 99
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "cabinet",
-            "full_name": "hilash/cabinet",
-            "description": "AI-first knowledge base and startup OS",
-            "url": "https://github.com/hilash/cabinet",
-            "stars": 903,
-            "forks": 82,
-            "score": 98
         },
         {
             "main_cat": "AI",
@@ -238,7 +238,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Houseofmvps/codesight",
             "description": "Universal AI context generator. Saves thousands of tokens per conversation in Claude Code, Cursor, Copilot, Codex, and more.",
             "url": "https://github.com/Houseofmvps/codesight",
-            "stars": 737,
+            "stars": 740,
             "forks": 66,
             "score": 92
         },
@@ -249,9 +249,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "calesthio/OpenMontage",
             "description": "World's first open-source, agentic video production system. 11 pipelines, 49 tools, 400+ agent skills. Turn your AI coding assistant into a full video production studio.",
             "url": "https://github.com/calesthio/OpenMontage",
-            "stars": 994,
-            "forks": 170,
-            "score": 89
+            "stars": 998,
+            "forks": 171,
+            "score": 90
         },
         {
             "main_cat": "AI",
@@ -260,7 +260,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "kellyvv/PhoneClaw",
             "description": "PhoneClaw: On-device AI Agent for Phone powered by Gemma 4",
             "url": "https://github.com/kellyvv/PhoneClaw",
-            "stars": 516,
+            "stars": 517,
             "forks": 82,
             "score": 82
         },
@@ -271,7 +271,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "ShandaAI/AlayaRenderer",
             "description": "Generative World Renderer: an AI-native Renderer for Games and Virtual Worlds. \u9762\u5411\u6e38\u620f\u4e0e\u865a\u62df\u4e16\u754c\u7684AI\u539f\u751f\u6e32\u67d3\u5f15\u64ce",
             "url": "https://github.com/ShandaAI/AlayaRenderer",
-            "stars": 533,
+            "stars": 536,
             "forks": 7,
             "score": 58
         },
@@ -578,12 +578,12 @@ const ALPHA_DATA_V2 = {
             "url": "http://arxiv.org/abs/2604.07238v1"
         },
         {
-            "title": "Will the price of Solana be above $130 on April 16? (Probability: 2%)",
+            "title": "Solana Up or Down - April 9, 7PM ET (Probability: 50%)",
             "source": "Polymarket",
             "type": "Expectation",
             "color": "text-indigo-400",
-            "url": "https://polymarket.com/market/solana-above-130-on-april-16"
+            "url": "https://polymarket.com/market/solana-up-or-down-april-9-2026-7pm-et"
         }
     ],
-    "timestamp": "2026-04-09 18:55"
+    "timestamp": "2026-04-09 20:00"
 };
