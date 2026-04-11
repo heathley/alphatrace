@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "milla-jovovich/mempalace",
             "description": "The highest-scoring AI memory system ever benchmarked. And it's free.",
             "url": "https://github.com/milla-jovovich/mempalace",
-            "stars": 40427,
-            "forks": 5109,
+            "stars": 40507,
+            "forks": 5116,
             "score": 99
         },
         {
@@ -18,8 +18,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "tvytlx/ai-agent-deep-dive",
             "description": "AI Agent \u6e90\u7801\u6df1\u5ea6\u7814\u7a76\u62a5\u544a",
             "url": "https://github.com/tvytlx/ai-agent-deep-dive",
-            "stars": 5420,
-            "forks": 1600,
+            "stars": 5427,
+            "forks": 1601,
             "score": 99
         },
         {
@@ -27,10 +27,10 @@ const ALPHA_DATA_V2 = {
             "sub_cat": null,
             "name": "ex-skill",
             "full_name": "therealXiaomanChu/ex-skill",
-            "description": "\u628a\u524d\u4efb\u84b8\u998f\u6210 AI Skill\uff0c\u7528ta\u7684\u65b9\u5f0f\u8ddf\u4f60\u8bf4\u8bdd\u3002Inspired by colleague-skill\uff08\u540c\u4e8bskill\uff09. ",
+            "description": "\u628a\u524d\u4efb\u84b8\u998f\u6210 AI Skill\uff0c\u7528ta\u7684\u65b9\u5f0f\u8ddf\u4f60\u8bf4\u8bdd\u3002",
             "url": "https://github.com/therealXiaomanChu/ex-skill",
-            "stars": 4207,
-            "forks": 428,
+            "stars": 4210,
+            "forks": 430,
             "score": 99
         },
         {
@@ -40,7 +40,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "motiful/cc-gateway",
             "description": "AI API identity gateway \u2014 reverse proxy that normalizes device fingerprints and telemetry for privacy-preserving API proxying",
             "url": "https://github.com/motiful/cc-gateway",
-            "stars": 2595,
+            "stars": 2598,
             "forks": 464,
             "score": 99
         },
@@ -51,8 +51,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "lintsinghua/claude-code-book",
             "description": "\u300a\u5fa1\u8206\uff1a\u89e3\u7801 Agent Harness\u300b42\u4e07\u5b57\u62c6\u89e3 AI Agent \u7684Harness\u9aa8\u67b6\u4e0e\u795e\u7ecf \u2014\u2014 Claude Code \u67b6\u6784\u6df1\u5ea6\u5256\u6790\uff0c15 \u7ae0\u4ece\u5bf9\u8bdd\u5faa\u73af\u5230\u6784\u5efa\u4f60\u81ea\u5df1\u7684 Agent Harness\u3002\u5728\u7ebf\u9605\u8bfb\u7f51\u7ad9\uff1a",
             "url": "https://github.com/lintsinghua/claude-code-book",
-            "stars": 2550,
-            "forks": 614,
+            "stars": 2554,
+            "forks": 615,
             "score": 99
         },
         {
@@ -73,8 +73,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "yasasbanukaofficial/claude-code",
             "description": "\ud83d\ude80 Open source Claude Code CLI source code. Advanced AI Agent for developers. Includes TypeScript codebase for LLM tool-calling, agentic workflows, and terminal UI. Remember this is just the skeleton not the brain itself. Found by Chaofan Shou. ",
             "url": "https://github.com/yasasbanukaofficial/claude-code",
-            "stars": 2225,
-            "forks": 3663,
+            "stars": 2229,
+            "forks": 3668,
             "score": 99
         },
         {
@@ -84,8 +84,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "sooryathejas/METATRON",
             "description": "AI-powered penetration testing assistant using local LLM on linux (Parrot OS)",
             "url": "https://github.com/sooryathejas/METATRON",
-            "stars": 2147,
-            "forks": 436,
+            "stars": 2150,
+            "forks": 437,
             "score": 99
         },
         {
@@ -95,8 +95,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "tradesdontlie/tradingview-mcp",
             "description": "AI-assisted TradingView chart analysis \u2014 connect Claude Code to your TradingView Desktop for personal workflow automation",
             "url": "https://github.com/tradesdontlie/tradingview-mcp",
-            "stars": 1605,
-            "forks": 782,
+            "stars": 1608,
+            "forks": 788,
             "score": 99
         },
         {
@@ -106,8 +106,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "alchaincyf/hermes-agent-orange-book",
             "description": "Hermes Agent \u4ece\u5165\u95e8\u5230\u7cbe\u901a \u00b7 \u6a59\u76ae\u4e66\u7cfb\u5217 \u00b7 Nous Research \u5f00\u6e90 AI Agent \u6846\u67b6\u5b9e\u6218\u6307\u5357",
             "url": "https://github.com/alchaincyf/hermes-agent-orange-book",
-            "stars": 1577,
-            "forks": 170,
+            "stars": 1587,
+            "forks": 174,
             "score": 99
         },
         {
@@ -117,8 +117,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "KKKKhazix/khazix-skills",
             "description": "\u6570\u5b57\u751f\u547d\u5361\u5179\u514b\u5f00\u6e90\u7684 AI Skills \u5408\u96c6",
             "url": "https://github.com/KKKKhazix/khazix-skills",
-            "stars": 1465,
-            "forks": 311,
+            "stars": 1473,
+            "forks": 313,
             "score": 99
         },
         {
@@ -128,7 +128,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "fikrikarim/parlor",
             "description": "On-device, real-time multimodal AI. Have natural voice and vision conversations with an AI that runs entirely on your machine. Powered by Gemma 4 E2B and Kokoro.",
             "url": "https://github.com/fikrikarim/parlor",
-            "stars": 1328,
+            "stars": 1330,
             "forks": 132,
             "score": 99
         },
@@ -139,7 +139,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "hilash/cabinet",
             "description": "AI-first knowledge base and startup OS",
             "url": "https://github.com/hilash/cabinet",
-            "stars": 1112,
+            "stars": 1114,
             "forks": 106,
             "score": 99
         },
@@ -161,8 +161,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "alejandrobalderas/claude-code-from-source",
             "description": "Architecture, patterns & internals of Anthropic's AI coding agent \u2014 reverse-engineered from source maps",
             "url": "https://github.com/alejandrobalderas/claude-code-from-source",
-            "stars": 779,
-            "forks": 280,
+            "stars": 794,
+            "forks": 283,
             "score": 99
         },
         {
@@ -172,20 +172,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "e10nMa2k/cc-mini",
             "description": "Ultra-light Harness scaffolding for AI agents, a mini version of claude code ",
             "url": "https://github.com/e10nMa2k/cc-mini",
-            "stars": 774,
+            "stars": 775,
             "forks": 316,
             "score": 99
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "harness-engineering-from-cc-to-ai-coding",
-            "full_name": "ZhangHanDong/harness-engineering-from-cc-to-ai-coding",
-            "description": "Harness Engineering From Claude Code source code to AI Coding",
-            "url": "https://github.com/ZhangHanDong/harness-engineering-from-cc-to-ai-coding",
-            "stars": 910,
-            "forks": 171,
-            "score": 96
         },
         {
             "main_cat": "AI",
@@ -205,7 +194,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "WecomTeam/wecom-cli",
             "description": "\u4f01\u4e1a\u5fae\u4fe1\u5f00\u653e\u5e73\u53f0\u547d\u4ee4\u884c\u5de5\u5177 \u2014 \u8ba9\u4eba\u7c7b\u548c AI Agent \u90fd\u80fd\u5728\u7ec8\u7aef\u4e2d\u64cd\u4f5c\u4f01\u4e1a\u5fae\u4fe1",
             "url": "https://github.com/WecomTeam/wecom-cli",
-            "stars": 1641,
+            "stars": 1642,
             "forks": 102,
             "score": 94
         },
@@ -216,7 +205,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Houseofmvps/codesight",
             "description": "Universal AI context generator. Saves thousands of tokens per conversation in Claude Code, Cursor, Copilot, Codex, and more.",
             "url": "https://github.com/Houseofmvps/codesight",
-            "stars": 813,
+            "stars": 814,
             "forks": 76,
             "score": 92
         },
@@ -227,9 +216,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "calesthio/OpenMontage",
             "description": "World's first open-source, agentic video production system. 11 pipelines, 49 tools, 400+ agent skills. Turn your AI coding assistant into a full video production studio.",
             "url": "https://github.com/calesthio/OpenMontage",
-            "stars": 1081,
-            "forks": 187,
-            "score": 90
+            "stars": 1091,
+            "forks": 188,
+            "score": 91
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "harness-engineering-from-cc-to-ai-coding",
+            "full_name": "ZhangHanDong/harness-engineering-from-cc-to-ai-coding",
+            "description": "Harness Engineering From Claude Code source code to AI Coding",
+            "url": "https://github.com/ZhangHanDong/harness-engineering-from-cc-to-ai-coding",
+            "stars": 910,
+            "forks": 171,
+            "score": 91
         },
         {
             "main_cat": "AI",
@@ -238,9 +238,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "brooks376/Happy-Horse-1.0",
             "description": "Information collection for the Happy Horse AI video generator model. Official demo and updates at happyhorses.io.",
             "url": "https://github.com/brooks376/Happy-Horse-1.0",
-            "stars": 534,
-            "forks": 46,
-            "score": 89
+            "stars": 536,
+            "forks": 47,
+            "score": 90
         },
         {
             "main_cat": "AI",
@@ -249,7 +249,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "SafeRL-Lab/cheetahclaws",
             "description": "CheetahClaws (Nano Claude Code): A Fast, Easy-to-Use, Python-Native Personal AI Assistant for Any Model, Inspired by OpenClaw and Claude Code, Built to Work for You Autonomously 24/7.",
             "url": "https://github.com/SafeRL-Lab/cheetahclaws",
-            "stars": 500,
+            "stars": 501,
             "forks": 199,
             "score": 84
         },
@@ -260,7 +260,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "kellyvv/PhoneClaw",
             "description": "PhoneClaw: On-device AI Agent for Phone powered by Gemma 4",
             "url": "https://github.com/kellyvv/PhoneClaw",
-            "stars": 545,
+            "stars": 546,
             "forks": 85,
             "score": 79
         },
@@ -271,7 +271,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "agenmod/immortal-skill",
             "description": "\u267e\ufe0f \u5f00\u6e90\u6570\u5b57\u6c38\u751f\u6846\u67b6 \u2014 \u4ece\u804a\u5929\u8bb0\u5f55\u84b8\u998f\u4efb\u4f55\u4eba\u7684\u4e03\u7ef4\u6570\u5b57\u5206\u8eab\u3002\u652f\u6301\u5fae\u4fe1/\u98de\u4e66/iMessage/Telegram\u7b4912+\u5e73\u53f0\uff0c7\u79cd\u89d2\u8272\u6a21\u677f\uff0c\u5bf9\u9f50 OpenClaw Soul Spec \u6807\u51c6\u3002\u4e00\u884c\u6307\u4ee4\u8ba9\u4f60\u7684AI\u5b66\u4f1a\u84b8\u998f\u3002",
             "url": "https://github.com/agenmod/immortal-skill",
-            "stars": 495,
+            "stars": 496,
             "forks": 52,
             "score": 59
         },
@@ -556,12 +556,12 @@ const ALPHA_DATA_V2 = {
             "url": "http://arxiv.org/abs/2604.08480v1"
         },
         {
-            "title": "Will \"Something Very Bad is Going to Happen: Season 1\" be the top US Netflix show this week? (Probability: 1%)",
+            "title": "Will the price of Ethereum be above $2,000 on April 17? (Probability: 92%)",
             "source": "Polymarket",
             "type": "Expectation",
             "color": "text-indigo-400",
-            "url": "https://polymarket.com/market/will-something-very-bad-is-going-to-happen-season-1-be-the-top-us-netflix-show-this-week-851"
+            "url": "https://polymarket.com/market/ethereum-above-2000-on-april-17"
         }
     ],
-    "timestamp": "2026-04-11 05:56"
+    "timestamp": "2026-04-11 06:58"
 };
