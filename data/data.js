@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "milla-jovovich/mempalace",
             "description": "The highest-scoring AI memory system ever benchmarked. And it's free.",
             "url": "https://github.com/milla-jovovich/mempalace",
-            "stars": 41215,
-            "forks": 5242,
+            "stars": 41299,
+            "forks": 5257,
             "score": 99
         },
         {
@@ -18,8 +18,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "tvytlx/ai-agent-deep-dive",
             "description": "AI Agent \u6e90\u7801\u6df1\u5ea6\u7814\u7a76\u62a5\u544a",
             "url": "https://github.com/tvytlx/ai-agent-deep-dive",
-            "stars": 5446,
-            "forks": 1604,
+            "stars": 5448,
+            "forks": 1605,
             "score": 99
         },
         {
@@ -29,8 +29,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "therealXiaomanChu/ex-skill",
             "description": "\u628a\u524d\u4efb\u84b8\u998f\u6210 AI Skill\uff0c\u7528ta\u7684\u65b9\u5f0f\u8ddf\u4f60\u8bf4\u8bdd\u3002",
             "url": "https://github.com/therealXiaomanChu/ex-skill",
-            "stars": 4241,
-            "forks": 431,
+            "stars": 4250,
+            "forks": 432,
             "score": 99
         },
         {
@@ -62,7 +62,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Leonxlnx/agentic-ai-prompt-research",
             "description": "Research into how agentic AI coding assistants work \u2014 reconstructed prompt patterns, agent coordination, and security classification",
             "url": "https://github.com/Leonxlnx/agentic-ai-prompt-research",
-            "stars": 2276,
+            "stars": 2277,
             "forks": 1042,
             "score": 99
         },
@@ -73,8 +73,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "yasasbanukaofficial/claude-code",
             "description": "\ud83d\ude80 Open source Claude Code CLI source code. Advanced AI Agent for developers. Includes TypeScript codebase for LLM tool-calling, agentic workflows, and terminal UI. Remember this is just the skeleton not the brain itself. Found by Chaofan Shou. ",
             "url": "https://github.com/yasasbanukaofficial/claude-code",
-            "stars": 2264,
-            "forks": 3690,
+            "stars": 2270,
+            "forks": 3695,
             "score": 99
         },
         {
@@ -84,8 +84,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "sooryathejas/METATRON",
             "description": "AI-powered penetration testing assistant using local LLM on linux (Parrot OS)",
             "url": "https://github.com/sooryathejas/METATRON",
-            "stars": 2169,
-            "forks": 439,
+            "stars": 2176,
+            "forks": 440,
             "score": 99
         },
         {
@@ -95,7 +95,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "alchaincyf/hermes-agent-orange-book",
             "description": "Hermes Agent \u4ece\u5165\u95e8\u5230\u7cbe\u901a \u00b7 \u6a59\u76ae\u4e66\u7cfb\u5217 \u00b7 Nous Research \u5f00\u6e90 AI Agent \u6846\u67b6\u5b9e\u6218\u6307\u5357",
             "url": "https://github.com/alchaincyf/hermes-agent-orange-book",
-            "stars": 1706,
+            "stars": 1723,
             "forks": 186,
             "score": 99
         },
@@ -106,8 +106,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "tradesdontlie/tradingview-mcp",
             "description": "AI-assisted TradingView chart analysis \u2014 connect Claude Code to your TradingView Desktop for personal workflow automation",
             "url": "https://github.com/tradesdontlie/tradingview-mcp",
-            "stars": 1638,
-            "forks": 808,
+            "stars": 1640,
+            "forks": 811,
             "score": 99
         },
         {
@@ -117,8 +117,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "KKKKhazix/khazix-skills",
             "description": "\u6570\u5b57\u751f\u547d\u5361\u5179\u514b\u5f00\u6e90\u7684 AI Skills \u5408\u96c6",
             "url": "https://github.com/KKKKhazix/khazix-skills",
-            "stars": 1552,
-            "forks": 328,
+            "stars": 1557,
+            "forks": 330,
             "score": 99
         },
         {
@@ -128,7 +128,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "fikrikarim/parlor",
             "description": "On-device, real-time multimodal AI. Have natural voice and vision conversations with an AI that runs entirely on your machine. Powered by Gemma 4 E2B and Kokoro.",
             "url": "https://github.com/fikrikarim/parlor",
-            "stars": 1349,
+            "stars": 1350,
             "forks": 136,
             "score": 99
         },
@@ -146,23 +146,23 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "claude-code-prompts",
-            "full_name": "repowise-dev/claude-code-prompts",
-            "description": "Independently authored prompt templates for AI coding agents \u2014 system prompts, tool prompts, agent delegation, memory management, and multi-agent coordination. Informed by studying Claude Code.",
-            "url": "https://github.com/repowise-dev/claude-code-prompts",
-            "stars": 913,
-            "forks": 351,
+            "name": "claude-code-from-source",
+            "full_name": "alejandrobalderas/claude-code-from-source",
+            "description": "Architecture, patterns & internals of Anthropic's AI coding agent \u2014 reverse-engineered from source maps",
+            "url": "https://github.com/alejandrobalderas/claude-code-from-source",
+            "stars": 925,
+            "forks": 319,
             "score": 99
         },
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "claude-code-from-source",
-            "full_name": "alejandrobalderas/claude-code-from-source",
-            "description": "Architecture, patterns & internals of Anthropic's AI coding agent \u2014 reverse-engineered from source maps",
-            "url": "https://github.com/alejandrobalderas/claude-code-from-source",
-            "stars": 908,
-            "forks": 312,
+            "name": "claude-code-prompts",
+            "full_name": "repowise-dev/claude-code-prompts",
+            "description": "Independently authored prompt templates for AI coding agents \u2014 system prompts, tool prompts, agent delegation, memory management, and multi-agent coordination. Informed by studying Claude Code.",
+            "url": "https://github.com/repowise-dev/claude-code-prompts",
+            "stars": 913,
+            "forks": 352,
             "score": 99
         },
         {
@@ -173,7 +173,7 @@ const ALPHA_DATA_V2 = {
             "description": "Ultra-light Harness scaffolding for AI agents, a mini version of claude code ",
             "url": "https://github.com/e10nMa2k/cc-mini",
             "stars": 775,
-            "forks": 316,
+            "forks": 317,
             "score": 99
         },
         {
@@ -183,8 +183,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "yizhiyanhua-ai/fireworks-tech-graph",
             "description": "Claude Code skill for generating production-quality SVG+PNG technical diagrams. Supports 8 diagram types, 5 visual styles, and deep AI/Agent domain knowledge.",
             "url": "https://github.com/yizhiyanhua-ai/fireworks-tech-graph",
-            "stars": 713,
-            "forks": 59,
+            "stars": 761,
+            "forks": 63,
             "score": 99
         },
         {
@@ -194,7 +194,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "joeynyc/hermes-hudui",
             "description": "Web UI consciousness monitor for Hermes \u2014 the AI agent with persistent memory",
             "url": "https://github.com/joeynyc/hermes-hudui",
-            "stars": 516,
+            "stars": 529,
             "forks": 51,
             "score": 99
         },
@@ -216,8 +216,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "calesthio/OpenMontage",
             "description": "World's first open-source, agentic video production system. 11 pipelines, 49 tools, 400+ agent skills. Turn your AI coding assistant into a full video production studio.",
             "url": "https://github.com/calesthio/OpenMontage",
-            "stars": 1192,
-            "forks": 214,
+            "stars": 1210,
+            "forks": 217,
             "score": 94
         },
         {
@@ -227,8 +227,19 @@ const ALPHA_DATA_V2 = {
             "full_name": "Houseofmvps/codesight",
             "description": "Universal AI context generator. Saves thousands of tokens per conversation in Claude Code, Cursor, Copilot, Codex, and more.",
             "url": "https://github.com/Houseofmvps/codesight",
-            "stars": 818,
+            "stars": 819,
             "forks": 77,
+            "score": 92
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "claude-code-design-guide",
+            "full_name": "6551Team/claude-code-design-guide",
+            "description": "From Early Internet Design Patterns to AI Agent Implementation \u2014 A Deep Dive into Claude Code for Developers",
+            "url": "https://github.com/6551Team/claude-code-design-guide",
+            "stars": 708,
+            "forks": 257,
             "score": 92
         },
         {
@@ -244,24 +255,13 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
-            "sub_cat": null,
-            "name": "claude-code-design-guide",
-            "full_name": "6551Team/claude-code-design-guide",
-            "description": "From Early Internet Design Patterns to AI Agent Implementation \u2014 A Deep Dive into Claude Code for Developers",
-            "url": "https://github.com/6551Team/claude-code-design-guide",
-            "stars": 707,
-            "forks": 257,
-            "score": 91
-        },
-        {
-            "main_cat": "AI",
             "sub_cat": "AI General",
             "name": "Happy-Horse-1.0",
             "full_name": "brooks376/Happy-Horse-1.0",
             "description": "Information collection for the Happy Horse AI video generator model. Official demo and updates at happyhorses.io.",
             "url": "https://github.com/brooks376/Happy-Horse-1.0",
-            "stars": 542,
-            "forks": 48,
+            "stars": 543,
+            "forks": 49,
             "score": 91
         },
         {
@@ -282,7 +282,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "ShandaAI/AlayaRenderer",
             "description": "Generative World Renderer: an AI-native Renderer for Games and Virtual Worlds. \u9762\u5411\u6e38\u620f\u4e0e\u865a\u62df\u4e16\u754c\u7684AI\u539f\u751f\u6e32\u67d3\u5f15\u64ce",
             "url": "https://github.com/ShandaAI/AlayaRenderer",
-            "stars": 545,
+            "stars": 547,
             "forks": 7,
             "score": 56
         },
@@ -585,5 +585,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/market/ethereum-above-2000-on-april-17"
         }
     ],
-    "timestamp": "2026-04-11 15:27"
+    "timestamp": "2026-04-11 16:29"
 };
