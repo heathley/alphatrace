@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "MemPalace/mempalace",
             "description": "The highest-scoring AI memory system ever benchmarked. And it's free.",
             "url": "https://github.com/MemPalace/mempalace",
-            "stars": 41630,
-            "forks": 5317,
+            "stars": 41673,
+            "forks": 5323,
             "score": 99
         },
         {
@@ -29,7 +29,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "therealXiaomanChu/ex-skill",
             "description": "\u628a\u524d\u4efb\u84b8\u998f\u6210 AI Skill\uff0c\u7528ta\u7684\u65b9\u5f0f\u8ddf\u4f60\u8bf4\u8bdd\u3002",
             "url": "https://github.com/therealXiaomanChu/ex-skill",
-            "stars": 4265,
+            "stars": 4266,
             "forks": 433,
             "score": 99
         },
@@ -51,7 +51,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "lintsinghua/claude-code-book",
             "description": "\u300a\u5fa1\u8206\uff1a\u89e3\u7801 Agent Harness\u300b42\u4e07\u5b57\u62c6\u89e3 AI Agent \u7684Harness\u9aa8\u67b6\u4e0e\u795e\u7ecf \u2014\u2014 Claude Code \u67b6\u6784\u6df1\u5ea6\u5256\u6790\uff0c15 \u7ae0\u4ece\u5bf9\u8bdd\u5faa\u73af\u5230\u6784\u5efa\u4f60\u81ea\u5df1\u7684 Agent Harness\u3002\u5728\u7ebf\u9605\u8bfb\u7f51\u7ad9\uff1a",
             "url": "https://github.com/lintsinghua/claude-code-book",
-            "stars": 2569,
+            "stars": 2571,
             "forks": 616,
             "score": 99
         },
@@ -62,8 +62,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "yasasbanukaofficial/claude-code",
             "description": "\ud83d\ude80 Open source Claude Code CLI source code. Advanced AI Agent for developers. Includes TypeScript codebase for LLM tool-calling, agentic workflows, and terminal UI. Remember this is just the skeleton not the brain itself. Found by Chaofan Shou. ",
             "url": "https://github.com/yasasbanukaofficial/claude-code",
-            "stars": 2285,
-            "forks": 3719,
+            "stars": 2287,
+            "forks": 3721,
             "score": 99
         },
         {
@@ -84,7 +84,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "sooryathejas/METATRON",
             "description": "AI-powered penetration testing assistant using local LLM on linux (Parrot OS)",
             "url": "https://github.com/sooryathejas/METATRON",
-            "stars": 2183,
+            "stars": 2184,
             "forks": 443,
             "score": 99
         },
@@ -95,8 +95,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "alchaincyf/hermes-agent-orange-book",
             "description": "Hermes Agent \u4ece\u5165\u95e8\u5230\u7cbe\u901a \u00b7 \u6a59\u76ae\u4e66\u7cfb\u5217 \u00b7 Nous Research \u5f00\u6e90 AI Agent \u6846\u67b6\u5b9e\u6218\u6307\u5357",
             "url": "https://github.com/alchaincyf/hermes-agent-orange-book",
-            "stars": 1813,
-            "forks": 198,
+            "stars": 1828,
+            "forks": 199,
             "score": 99
         },
         {
@@ -107,7 +107,7 @@ const ALPHA_DATA_V2 = {
             "description": "AI-assisted TradingView chart analysis \u2014 connect Claude Code to your TradingView Desktop for personal workflow automation",
             "url": "https://github.com/tradesdontlie/tradingview-mcp",
             "stars": 1655,
-            "forks": 820,
+            "forks": 823,
             "score": 99
         },
         {
@@ -128,8 +128,19 @@ const ALPHA_DATA_V2 = {
             "full_name": "fikrikarim/parlor",
             "description": "On-device, real-time multimodal AI. Have natural voice and vision conversations with an AI that runs entirely on your machine. Powered by Gemma 4 E2B and Kokoro.",
             "url": "https://github.com/fikrikarim/parlor",
-            "stars": 1354,
+            "stars": 1355,
             "forks": 137,
+            "score": 99
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "OpenMontage",
+            "full_name": "calesthio/OpenMontage",
+            "description": "World's first open-source, agentic video production system. 11 pipelines, 49 tools, 400+ agent skills. Turn your AI coding assistant into a full video production studio.",
+            "url": "https://github.com/calesthio/OpenMontage",
+            "stars": 1289,
+            "forks": 236,
             "score": 99
         },
         {
@@ -139,7 +150,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "hilash/cabinet",
             "description": "AI-first knowledge base and startup OS",
             "url": "https://github.com/hilash/cabinet",
-            "stars": 1148,
+            "stars": 1150,
             "forks": 108,
             "score": 99
         },
@@ -150,8 +161,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "alejandrobalderas/claude-code-from-source",
             "description": "Architecture, patterns & internals of Anthropic's AI coding agent \u2014 reverse-engineered from source maps",
             "url": "https://github.com/alejandrobalderas/claude-code-from-source",
-            "stars": 969,
-            "forks": 329,
+            "stars": 976,
+            "forks": 332,
             "score": 99
         },
         {
@@ -161,7 +172,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "repowise-dev/claude-code-prompts",
             "description": "Independently authored prompt templates for AI coding agents \u2014 system prompts, tool prompts, agent delegation, memory management, and multi-agent coordination. Informed by studying Claude Code.",
             "url": "https://github.com/repowise-dev/claude-code-prompts",
-            "stars": 916,
+            "stars": 918,
             "forks": 353,
             "score": 99
         },
@@ -172,8 +183,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "yizhiyanhua-ai/fireworks-tech-graph",
             "description": "Claude Code skill for generating production-quality SVG+PNG technical diagrams. Supports 8 diagram types, 5 visual styles, and deep AI/Agent domain knowledge.",
             "url": "https://github.com/yizhiyanhua-ai/fireworks-tech-graph",
-            "stars": 885,
-            "forks": 68,
+            "stars": 898,
+            "forks": 70,
             "score": 99
         },
         {
@@ -194,20 +205,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "joeynyc/hermes-hudui",
             "description": "Web UI consciousness monitor for Hermes \u2014 the AI agent with persistent memory",
             "url": "https://github.com/joeynyc/hermes-hudui",
-            "stars": 559,
+            "stars": 561,
             "forks": 56,
             "score": 99
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "OpenMontage",
-            "full_name": "calesthio/OpenMontage",
-            "description": "World's first open-source, agentic video production system. 11 pipelines, 49 tools, 400+ agent skills. Turn your AI coding assistant into a full video production studio.",
-            "url": "https://github.com/calesthio/OpenMontage",
-            "stars": 1269,
-            "forks": 231,
-            "score": 98
         },
         {
             "main_cat": "AI",
@@ -238,7 +238,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "ZhangHanDong/harness-engineering-from-cc-to-ai-coding",
             "description": "Harness Engineering From Claude Code source code to AI Coding",
             "url": "https://github.com/ZhangHanDong/harness-engineering-from-cc-to-ai-coding",
-            "stars": 922,
+            "stars": 923,
             "forks": 172,
             "score": 91
         },
@@ -260,7 +260,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Houseofmvps/codesight",
             "description": "Universal AI context generator. Saves thousands of tokens per conversation in Claude Code, Cursor, Copilot, Codex, and more.",
             "url": "https://github.com/Houseofmvps/codesight",
-            "stars": 826,
+            "stars": 827,
             "forks": 77,
             "score": 86
         },
@@ -311,6 +311,17 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
+            "name": "inferi",
+            "full_name": "dimforge/inferi",
+            "description": "Cross-platform GPU LLM inference in Rust",
+            "url": "https://github.com/dimforge/inferi",
+            "stars": 9,
+            "forks": 0,
+            "score": 30
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
             "name": "survAIv",
             "full_name": "KaSt/survAIv",
             "description": "An autonomous agent that pays for its own LLM inference via x402 micropayments and bets on Polymarket prediction markets to survive on a tiny USDC bankroll.",
@@ -331,23 +342,23 @@ const ALPHA_DATA_V2 = {
             "score": 30
         },
         {
-            "main_cat": "Prediction Markets",
-            "sub_cat": null,
-            "name": "sol-baccarat",
-            "full_name": "alnany/sol-baccarat",
-            "description": "SOL price prediction game \u2014 baccarat-style UP/DOWN/FLAT betting on Solana",
-            "url": "https://github.com/alnany/sol-baccarat",
-            "stars": 0,
-            "forks": 0,
-            "score": 30
-        },
-        {
             "main_cat": "AI",
             "sub_cat": "AI General",
             "name": "ai-sports-betting",
             "full_name": "AI-Sports-Betting/ai-sports-betting",
             "description": "A dark-themed AI-powered sports betting models platform with login/signup authentication, dashboard, and betting predictions. \u00b7 Built with Manus",
             "url": "https://github.com/AI-Sports-Betting/ai-sports-betting",
+            "stars": 0,
+            "forks": 0,
+            "score": 30
+        },
+        {
+            "main_cat": "Prediction Markets",
+            "sub_cat": null,
+            "name": "sol-baccarat",
+            "full_name": "alnany/sol-baccarat",
+            "description": "SOL price prediction game \u2014 baccarat-style UP/DOWN/FLAT betting on Solana",
+            "url": "https://github.com/alnany/sol-baccarat",
             "stars": 0,
             "forks": 0,
             "score": 30
@@ -578,12 +589,12 @@ const ALPHA_DATA_V2 = {
             "url": "http://arxiv.org/abs/2604.08480v1"
         },
         {
-            "title": "Will the price of Solana be above $50 on April 16? (Probability: 98%)",
+            "title": "Solana Up or Down - April 12, 4AM ET (Probability: 50%)",
             "source": "Polymarket",
             "type": "Expectation",
             "color": "text-indigo-400",
-            "url": "https://polymarket.com/market/solana-above-50-on-april-16"
+            "url": "https://polymarket.com/market/solana-up-or-down-april-12-2026-4am-et"
         }
     ],
-    "timestamp": "2026-04-11 21:27"
+    "timestamp": "2026-04-11 22:25"
 };
