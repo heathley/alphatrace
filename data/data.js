@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "milla-jovovich/mempalace",
             "description": "The highest-scoring AI memory system ever benchmarked. And it's free.",
             "url": "https://github.com/milla-jovovich/mempalace",
-            "stars": 39956,
-            "forks": 5016,
+            "stars": 40110,
+            "forks": 5045,
             "score": 99
         },
         {
@@ -18,8 +18,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "tvytlx/ai-agent-deep-dive",
             "description": "AI Agent \u6e90\u7801\u6df1\u5ea6\u7814\u7a76\u62a5\u544a",
             "url": "https://github.com/tvytlx/ai-agent-deep-dive",
-            "stars": 5411,
-            "forks": 1599,
+            "stars": 5414,
+            "forks": 1600,
             "score": 99
         },
         {
@@ -29,8 +29,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "therealXiaomanChu/ex-skill",
             "description": "\u628a\u524d\u4efb\u84b8\u998f\u6210 AI Skill\uff0c\u7528ta\u7684\u65b9\u5f0f\u8ddf\u4f60\u8bf4\u8bdd\u3002Inspired by colleague-skill\uff08\u540c\u4e8bskill\uff09. ",
             "url": "https://github.com/therealXiaomanChu/ex-skill",
-            "stars": 4191,
-            "forks": 425,
+            "stars": 4193,
+            "forks": 427,
             "score": 99
         },
         {
@@ -51,7 +51,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "lintsinghua/claude-code-book",
             "description": "\u300a\u5fa1\u8206\uff1a\u89e3\u7801 Agent Harness\u300b42\u4e07\u5b57\u62c6\u89e3 AI Agent \u7684Harness\u9aa8\u67b6\u4e0e\u795e\u7ecf \u2014\u2014 Claude Code \u67b6\u6784\u6df1\u5ea6\u5256\u6790\uff0c15 \u7ae0\u4ece\u5bf9\u8bdd\u5faa\u73af\u5230\u6784\u5efa\u4f60\u81ea\u5df1\u7684 Agent Harness\u3002\u5728\u7ebf\u9605\u8bfb\u7f51\u7ad9\uff1a",
             "url": "https://github.com/lintsinghua/claude-code-book",
-            "stars": 2547,
+            "stars": 2549,
             "forks": 613,
             "score": 99
         },
@@ -62,7 +62,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Leonxlnx/agentic-ai-prompt-research",
             "description": "Research into how agentic AI coding assistants work \u2014 reconstructed prompt patterns, agent coordination, and security classification",
             "url": "https://github.com/Leonxlnx/agentic-ai-prompt-research",
-            "stars": 2270,
+            "stars": 2272,
             "forks": 1041,
             "score": 99
         },
@@ -73,8 +73,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "yasasbanukaofficial/claude-code",
             "description": "\ud83d\ude80 Open source Claude Code CLI source code. Advanced AI Agent for developers. Includes TypeScript codebase for LLM tool-calling, agentic workflows, and terminal UI. Remember this is just the skeleton not the brain itself. Found by Chaofan Shou. ",
             "url": "https://github.com/yasasbanukaofficial/claude-code",
-            "stars": 2217,
-            "forks": 3646,
+            "stars": 2221,
+            "forks": 3652,
             "score": 99
         },
         {
@@ -84,19 +84,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "sooryathejas/METATRON",
             "description": "AI-powered penetration testing assistant using local LLM on linux (Parrot OS)",
             "url": "https://github.com/sooryathejas/METATRON",
-            "stars": 2135,
-            "forks": 433,
-            "score": 99
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "ai-marketing-skills",
-            "full_name": "ericosiu/ai-marketing-skills",
-            "description": "Open-source AI marketing skills \u2014 growth experiments, sales pipeline, content ops, outbound, SEO, and finance automation",
-            "url": "https://github.com/ericosiu/ai-marketing-skills",
-            "stars": 1733,
-            "forks": 390,
+            "stars": 2137,
+            "forks": 434,
             "score": 99
         },
         {
@@ -106,8 +95,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "tradesdontlie/tradingview-mcp",
             "description": "AI-assisted TradingView chart analysis \u2014 connect Claude Code to your TradingView Desktop for personal workflow automation",
             "url": "https://github.com/tradesdontlie/tradingview-mcp",
-            "stars": 1586,
-            "forks": 773,
+            "stars": 1592,
+            "forks": 774,
             "score": 99
         },
         {
@@ -117,8 +106,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "alchaincyf/hermes-agent-orange-book",
             "description": "Hermes Agent \u4ece\u5165\u95e8\u5230\u7cbe\u901a \u00b7 \u6a59\u76ae\u4e66\u7cfb\u5217 \u00b7 Nous Research \u5f00\u6e90 AI Agent \u6846\u67b6\u5b9e\u6218\u6307\u5357",
             "url": "https://github.com/alchaincyf/hermes-agent-orange-book",
-            "stars": 1496,
-            "forks": 160,
+            "stars": 1515,
+            "forks": 161,
             "score": 99
         },
         {
@@ -128,8 +117,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "KKKKhazix/khazix-skills",
             "description": "\u6570\u5b57\u751f\u547d\u5361\u5179\u514b\u5f00\u6e90\u7684 AI Skills \u5408\u96c6",
             "url": "https://github.com/KKKKhazix/khazix-skills",
-            "stars": 1421,
-            "forks": 303,
+            "stars": 1430,
+            "forks": 305,
             "score": 99
         },
         {
@@ -139,7 +128,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "fikrikarim/parlor",
             "description": "On-device, real-time multimodal AI. Have natural voice and vision conversations with an AI that runs entirely on your machine. Powered by Gemma 4 E2B and Kokoro.",
             "url": "https://github.com/fikrikarim/parlor",
-            "stars": 1308,
+            "stars": 1316,
             "forks": 131,
             "score": 99
         },
@@ -150,8 +139,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "hilash/cabinet",
             "description": "AI-first knowledge base and startup OS",
             "url": "https://github.com/hilash/cabinet",
-            "stars": 1100,
-            "forks": 103,
+            "stars": 1106,
+            "forks": 104,
             "score": 99
         },
         {
@@ -172,7 +161,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "e10nMa2k/cc-mini",
             "description": "Ultra-light Harness scaffolding for AI agents, a mini version of claude code ",
             "url": "https://github.com/e10nMa2k/cc-mini",
-            "stars": 773,
+            "stars": 774,
             "forks": 316,
             "score": 99
         },
@@ -183,8 +172,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "alejandrobalderas/claude-code-from-source",
             "description": "Architecture, patterns & internals of Anthropic's AI coding agent \u2014 reverse-engineered from source maps",
             "url": "https://github.com/alejandrobalderas/claude-code-from-source",
-            "stars": 720,
-            "forks": 266,
+            "stars": 738,
+            "forks": 271,
             "score": 99
         },
         {
@@ -194,7 +183,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "brooks376/Happy-Horse-1.0",
             "description": "Information collection for the Happy Horse AI video generator model. Official demo and updates at happyhorses.io.",
             "url": "https://github.com/brooks376/Happy-Horse-1.0",
-            "stars": 531,
+            "stars": 532,
             "forks": 46,
             "score": 99
         },
@@ -212,24 +201,24 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "claude-code-design-guide",
-            "full_name": "6551Team/claude-code-design-guide",
-            "description": "From Early Internet Design Patterns to AI Agent Implementation \u2014 A Deep Dive into Claude Code for Developers",
-            "url": "https://github.com/6551Team/claude-code-design-guide",
-            "stars": 704,
-            "forks": 256,
+            "name": "harness-engineering-from-cc-to-ai-coding",
+            "full_name": "ZhangHanDong/harness-engineering-from-cc-to-ai-coding",
+            "description": "Harness Engineering From Claude Code source code to AI Coding",
+            "url": "https://github.com/ZhangHanDong/harness-engineering-from-cc-to-ai-coding",
+            "stars": 902,
+            "forks": 171,
             "score": 96
         },
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "harness-engineering-from-cc-to-ai-coding",
-            "full_name": "ZhangHanDong/harness-engineering-from-cc-to-ai-coding",
-            "description": "Harness Engineering From Claude Code source code to AI Coding",
-            "url": "https://github.com/ZhangHanDong/harness-engineering-from-cc-to-ai-coding",
-            "stars": 898,
-            "forks": 171,
-            "score": 95
+            "name": "claude-code-design-guide",
+            "full_name": "6551Team/claude-code-design-guide",
+            "description": "From Early Internet Design Patterns to AI Agent Implementation \u2014 A Deep Dive into Claude Code for Developers",
+            "url": "https://github.com/6551Team/claude-code-design-guide",
+            "stars": 705,
+            "forks": 256,
+            "score": 96
         },
         {
             "main_cat": "AI",
@@ -238,7 +227,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Houseofmvps/codesight",
             "description": "Universal AI context generator. Saves thousands of tokens per conversation in Claude Code, Cursor, Copilot, Codex, and more.",
             "url": "https://github.com/Houseofmvps/codesight",
-            "stars": 803,
+            "stars": 806,
             "forks": 75,
             "score": 91
         },
@@ -249,9 +238,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "calesthio/OpenMontage",
             "description": "World's first open-source, agentic video production system. 11 pipelines, 49 tools, 400+ agent skills. Turn your AI coding assistant into a full video production studio.",
             "url": "https://github.com/calesthio/OpenMontage",
-            "stars": 1065,
-            "forks": 184,
+            "stars": 1068,
+            "forks": 185,
             "score": 90
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "cheetahclaws",
+            "full_name": "SafeRL-Lab/cheetahclaws",
+            "description": "CheetahClaws (Nano Claude Code): A Fast, Easy-to-Use, Python-Native Personal AI Assistant for Any Model, Inspired by OpenClaw and Claude Code, Built to Work for You Autonomously 24/7.",
+            "url": "https://github.com/SafeRL-Lab/cheetahclaws",
+            "stars": 500,
+            "forks": 198,
+            "score": 83
         },
         {
             "main_cat": "AI",
@@ -260,9 +260,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "kellyvv/PhoneClaw",
             "description": "PhoneClaw: On-device AI Agent for Phone powered by Gemma 4",
             "url": "https://github.com/kellyvv/PhoneClaw",
-            "stars": 542,
+            "stars": 543,
             "forks": 85,
             "score": 79
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "immortal-skill",
+            "full_name": "agenmod/immortal-skill",
+            "description": "\u267e\ufe0f \u5f00\u6e90\u6570\u5b57\u6c38\u751f\u6846\u67b6 \u2014 \u4ece\u804a\u5929\u8bb0\u5f55\u84b8\u998f\u4efb\u4f55\u4eba\u7684\u4e03\u7ef4\u6570\u5b57\u5206\u8eab\u3002\u652f\u6301\u5fae\u4fe1/\u98de\u4e66/iMessage/Telegram\u7b4912+\u5e73\u53f0\uff0c7\u79cd\u89d2\u8272\u6a21\u677f\uff0c\u5bf9\u9f50 OpenClaw Soul Spec \u6807\u51c6\u3002\u4e00\u884c\u6307\u4ee4\u8ba9\u4f60\u7684AI\u5b66\u4f1a\u84b8\u998f\u3002",
+            "url": "https://github.com/agenmod/immortal-skill",
+            "stars": 488,
+            "forks": 52,
+            "score": 59
         },
         {
             "main_cat": "AI",
@@ -271,7 +282,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "ShandaAI/AlayaRenderer",
             "description": "Generative World Renderer: an AI-native Renderer for Games and Virtual Worlds. \u9762\u5411\u6e38\u620f\u4e0e\u865a\u62df\u4e16\u754c\u7684AI\u539f\u751f\u6e32\u67d3\u5f15\u64ce",
             "url": "https://github.com/ShandaAI/AlayaRenderer",
-            "stars": 539,
+            "stars": 540,
             "forks": 7,
             "score": 55
         },
@@ -285,17 +296,6 @@ const ALPHA_DATA_V2 = {
             "stars": 556,
             "forks": 19,
             "score": 52
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "openclaw-auto-dream",
-            "full_name": "LeoYeAI/openclaw-auto-dream",
-            "description": "Automatic memory consolidation for OpenClaw agents \u2014 like sleep for your AI. Powered by MyClaw.ai",
-            "url": "https://github.com/LeoYeAI/openclaw-auto-dream",
-            "stars": 571,
-            "forks": 19,
-            "score": 50
         },
         {
             "main_cat": "AI",
@@ -326,6 +326,39 @@ const ALPHA_DATA_V2 = {
             "full_name": "alnany/sol-baccarat",
             "description": "SOL price prediction game \u2014 baccarat-style UP/DOWN/FLAT betting on Solana",
             "url": "https://github.com/alnany/sol-baccarat",
+            "stars": 0,
+            "forks": 0,
+            "score": 30
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "ai-sports-betting",
+            "full_name": "AI-Sports-Betting/ai-sports-betting",
+            "description": "A dark-themed AI-powered sports betting models platform with login/signup authentication, dashboard, and betting predictions. \u00b7 Built with Manus",
+            "url": "https://github.com/AI-Sports-Betting/ai-sports-betting",
+            "stars": 0,
+            "forks": 0,
+            "score": 30
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "aisportsbetting",
+            "full_name": "aisportsbettingcontact/aisportsbetting",
+            "description": "A dark-themed AI-powered sports betting models platform with login/signup authentication, dashboard, and betting predictions. \u00b7 Built with Manus",
+            "url": "https://github.com/aisportsbettingcontact/aisportsbetting",
+            "stars": 0,
+            "forks": 0,
+            "score": 30
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "CryptoBet30",
+            "full_name": "peterkhoury97/CryptoBet30",
+            "description": "30-second blockchain gambling platform - Binary price prediction game with pool-based betting",
+            "url": "https://github.com/peterkhoury97/CryptoBet30",
             "stars": 0,
             "forks": 0,
             "score": 30
@@ -432,17 +465,6 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
-            "name": "Peys_OS",
-            "full_name": "Peys-OS/Peys_OS",
-            "description": "A stablecoin payments platform that lets users send USDC/USDT to anyone via magic claim links - no wallet required for recipients. Built on Base, Celo, and Polygon with Privy auth and Supabase backend.",
-            "url": "https://github.com/Peys-OS/Peys_OS",
-            "stars": 0,
-            "forks": 0,
-            "score": 30
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
             "name": "HorizonPay",
             "full_name": "yashwankhade5/HorizonPay",
             "description": " HorizonPay is a custodial payment infrastructure on Solana designed to give merchants a Stripe-like experience for accepting stablecoins. It provides secure merchant vaults, idempotent payments, dispute handling, and real-time updates, while keeping business logic off-chain for scalability and performance.",
@@ -520,6 +542,20 @@ const ALPHA_DATA_V2 = {
     ],
     "news": [
         {
+            "title": "PIArena: A Platform for Prompt Injection Evaluation",
+            "source": "ArXiv",
+            "type": "Research Alpha",
+            "color": "text-indigo-600",
+            "url": "http://arxiv.org/abs/2604.08499v1"
+        },
+        {
+            "title": "Post-Quantum Cryptographic Analysis of Message Transformations Across the Network Stack",
+            "source": "ArXiv",
+            "type": "Research Alpha",
+            "color": "text-indigo-600",
+            "url": "http://arxiv.org/abs/2604.08480v1"
+        },
+        {
             "title": "Bitcoin Up or Down - April 11, 3:45PM-4:00PM ET (Probability: 50%)",
             "source": "Polymarket",
             "type": "Expectation",
@@ -527,5 +563,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/market/btc-updown-15m-1775936700"
         }
     ],
-    "timestamp": "2026-04-10 23:29"
+    "timestamp": "2026-04-11 01:48"
 };
