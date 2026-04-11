@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "milla-jovovich/mempalace",
             "description": "The highest-scoring AI memory system ever benchmarked. And it's free.",
             "url": "https://github.com/milla-jovovich/mempalace",
-            "stars": 41299,
-            "forks": 5257,
+            "stars": 41367,
+            "forks": 5268,
             "score": 99
         },
         {
@@ -18,7 +18,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "tvytlx/ai-agent-deep-dive",
             "description": "AI Agent \u6e90\u7801\u6df1\u5ea6\u7814\u7a76\u62a5\u544a",
             "url": "https://github.com/tvytlx/ai-agent-deep-dive",
-            "stars": 5448,
+            "stars": 5449,
             "forks": 1605,
             "score": 99
         },
@@ -29,8 +29,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "therealXiaomanChu/ex-skill",
             "description": "\u628a\u524d\u4efb\u84b8\u998f\u6210 AI Skill\uff0c\u7528ta\u7684\u65b9\u5f0f\u8ddf\u4f60\u8bf4\u8bdd\u3002",
             "url": "https://github.com/therealXiaomanChu/ex-skill",
-            "stars": 4250,
-            "forks": 432,
+            "stars": 4254,
+            "forks": 433,
             "score": 99
         },
         {
@@ -40,7 +40,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "motiful/cc-gateway",
             "description": "AI API identity gateway \u2014 reverse proxy that normalizes device fingerprints and telemetry for privacy-preserving API proxying",
             "url": "https://github.com/motiful/cc-gateway",
-            "stars": 2603,
+            "stars": 2604,
             "forks": 464,
             "score": 99
         },
@@ -51,7 +51,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "lintsinghua/claude-code-book",
             "description": "\u300a\u5fa1\u8206\uff1a\u89e3\u7801 Agent Harness\u300b42\u4e07\u5b57\u62c6\u89e3 AI Agent \u7684Harness\u9aa8\u67b6\u4e0e\u795e\u7ecf \u2014\u2014 Claude Code \u67b6\u6784\u6df1\u5ea6\u5256\u6790\uff0c15 \u7ae0\u4ece\u5bf9\u8bdd\u5faa\u73af\u5230\u6784\u5efa\u4f60\u81ea\u5df1\u7684 Agent Harness\u3002\u5728\u7ebf\u9605\u8bfb\u7f51\u7ad9\uff1a",
             "url": "https://github.com/lintsinghua/claude-code-book",
-            "stars": 2565,
+            "stars": 2566,
             "forks": 616,
             "score": 99
         },
@@ -73,8 +73,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "yasasbanukaofficial/claude-code",
             "description": "\ud83d\ude80 Open source Claude Code CLI source code. Advanced AI Agent for developers. Includes TypeScript codebase for LLM tool-calling, agentic workflows, and terminal UI. Remember this is just the skeleton not the brain itself. Found by Chaofan Shou. ",
             "url": "https://github.com/yasasbanukaofficial/claude-code",
-            "stars": 2270,
-            "forks": 3695,
+            "stars": 2272,
+            "forks": 3698,
             "score": 99
         },
         {
@@ -84,8 +84,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "sooryathejas/METATRON",
             "description": "AI-powered penetration testing assistant using local LLM on linux (Parrot OS)",
             "url": "https://github.com/sooryathejas/METATRON",
-            "stars": 2176,
-            "forks": 440,
+            "stars": 2177,
+            "forks": 443,
             "score": 99
         },
         {
@@ -95,8 +95,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "alchaincyf/hermes-agent-orange-book",
             "description": "Hermes Agent \u4ece\u5165\u95e8\u5230\u7cbe\u901a \u00b7 \u6a59\u76ae\u4e66\u7cfb\u5217 \u00b7 Nous Research \u5f00\u6e90 AI Agent \u6846\u67b6\u5b9e\u6218\u6307\u5357",
             "url": "https://github.com/alchaincyf/hermes-agent-orange-book",
-            "stars": 1723,
-            "forks": 186,
+            "stars": 1738,
+            "forks": 191,
             "score": 99
         },
         {
@@ -106,8 +106,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "tradesdontlie/tradingview-mcp",
             "description": "AI-assisted TradingView chart analysis \u2014 connect Claude Code to your TradingView Desktop for personal workflow automation",
             "url": "https://github.com/tradesdontlie/tradingview-mcp",
-            "stars": 1640,
-            "forks": 811,
+            "stars": 1643,
+            "forks": 815,
             "score": 99
         },
         {
@@ -117,8 +117,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "KKKKhazix/khazix-skills",
             "description": "\u6570\u5b57\u751f\u547d\u5361\u5179\u514b\u5f00\u6e90\u7684 AI Skills \u5408\u96c6",
             "url": "https://github.com/KKKKhazix/khazix-skills",
-            "stars": 1557,
-            "forks": 330,
+            "stars": 1562,
+            "forks": 331,
             "score": 99
         },
         {
@@ -139,7 +139,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "hilash/cabinet",
             "description": "AI-first knowledge base and startup OS",
             "url": "https://github.com/hilash/cabinet",
-            "stars": 1128,
+            "stars": 1131,
             "forks": 107,
             "score": 99
         },
@@ -150,8 +150,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "alejandrobalderas/claude-code-from-source",
             "description": "Architecture, patterns & internals of Anthropic's AI coding agent \u2014 reverse-engineered from source maps",
             "url": "https://github.com/alejandrobalderas/claude-code-from-source",
-            "stars": 925,
-            "forks": 319,
+            "stars": 933,
+            "forks": 322,
             "score": 99
         },
         {
@@ -161,8 +161,19 @@ const ALPHA_DATA_V2 = {
             "full_name": "repowise-dev/claude-code-prompts",
             "description": "Independently authored prompt templates for AI coding agents \u2014 system prompts, tool prompts, agent delegation, memory management, and multi-agent coordination. Informed by studying Claude Code.",
             "url": "https://github.com/repowise-dev/claude-code-prompts",
-            "stars": 913,
+            "stars": 914,
             "forks": 352,
+            "score": 99
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "fireworks-tech-graph",
+            "full_name": "yizhiyanhua-ai/fireworks-tech-graph",
+            "description": "Claude Code skill for generating production-quality SVG+PNG technical diagrams. Supports 8 diagram types, 5 visual styles, and deep AI/Agent domain knowledge.",
+            "url": "https://github.com/yizhiyanhua-ai/fireworks-tech-graph",
+            "stars": 810,
+            "forks": 67,
             "score": 99
         },
         {
@@ -179,24 +190,24 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "fireworks-tech-graph",
-            "full_name": "yizhiyanhua-ai/fireworks-tech-graph",
-            "description": "Claude Code skill for generating production-quality SVG+PNG technical diagrams. Supports 8 diagram types, 5 visual styles, and deep AI/Agent domain knowledge.",
-            "url": "https://github.com/yizhiyanhua-ai/fireworks-tech-graph",
-            "stars": 761,
-            "forks": 63,
+            "name": "hermes-hudui",
+            "full_name": "joeynyc/hermes-hudui",
+            "description": "Web UI consciousness monitor for Hermes \u2014 the AI agent with persistent memory",
+            "url": "https://github.com/joeynyc/hermes-hudui",
+            "stars": 541,
+            "forks": 51,
             "score": 99
         },
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "hermes-hudui",
-            "full_name": "joeynyc/hermes-hudui",
-            "description": "Web UI consciousness monitor for Hermes \u2014 the AI agent with persistent memory",
-            "url": "https://github.com/joeynyc/hermes-hudui",
-            "stars": 529,
-            "forks": 51,
-            "score": 99
+            "name": "OpenMontage",
+            "full_name": "calesthio/OpenMontage",
+            "description": "World's first open-source, agentic video production system. 11 pipelines, 49 tools, 400+ agent skills. Turn your AI coding assistant into a full video production studio.",
+            "url": "https://github.com/calesthio/OpenMontage",
+            "stars": 1225,
+            "forks": 220,
+            "score": 95
         },
         {
             "main_cat": "AI",
@@ -211,23 +222,12 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
-            "sub_cat": null,
-            "name": "OpenMontage",
-            "full_name": "calesthio/OpenMontage",
-            "description": "World's first open-source, agentic video production system. 11 pipelines, 49 tools, 400+ agent skills. Turn your AI coding assistant into a full video production studio.",
-            "url": "https://github.com/calesthio/OpenMontage",
-            "stars": 1210,
-            "forks": 217,
-            "score": 94
-        },
-        {
-            "main_cat": "AI",
             "sub_cat": "AI General",
             "name": "codesight",
             "full_name": "Houseofmvps/codesight",
             "description": "Universal AI context generator. Saves thousands of tokens per conversation in Claude Code, Cursor, Copilot, Codex, and more.",
             "url": "https://github.com/Houseofmvps/codesight",
-            "stars": 819,
+            "stars": 820,
             "forks": 77,
             "score": 92
         },
@@ -249,7 +249,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "ZhangHanDong/harness-engineering-from-cc-to-ai-coding",
             "description": "Harness Engineering From Claude Code source code to AI Coding",
             "url": "https://github.com/ZhangHanDong/harness-engineering-from-cc-to-ai-coding",
-            "stars": 921,
+            "stars": 922,
             "forks": 172,
             "score": 91
         },
@@ -260,7 +260,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "brooks376/Happy-Horse-1.0",
             "description": "Information collection for the Happy Horse AI video generator model. Official demo and updates at happyhorses.io.",
             "url": "https://github.com/brooks376/Happy-Horse-1.0",
-            "stars": 543,
+            "stars": 544,
             "forks": 49,
             "score": 91
         },
@@ -271,9 +271,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "kellyvv/PhoneClaw",
             "description": "PhoneClaw: On-device AI Agent for Phone powered by Gemma 4",
             "url": "https://github.com/kellyvv/PhoneClaw",
-            "stars": 552,
-            "forks": 86,
-            "score": 79
+            "stars": 553,
+            "forks": 87,
+            "score": 80
         },
         {
             "main_cat": "AI",
@@ -282,7 +282,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "ShandaAI/AlayaRenderer",
             "description": "Generative World Renderer: an AI-native Renderer for Games and Virtual Worlds. \u9762\u5411\u6e38\u620f\u4e0e\u865a\u62df\u4e16\u754c\u7684AI\u539f\u751f\u6e32\u67d3\u5f15\u64ce",
             "url": "https://github.com/ShandaAI/AlayaRenderer",
-            "stars": 547,
+            "stars": 548,
             "forks": 7,
             "score": 56
         },
@@ -293,7 +293,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "utkusen/sast-skills",
             "description": "Collection of agent skills that turn your AI coder into a SAST scanner",
             "url": "https://github.com/utkusen/sast-skills",
-            "stars": 556,
+            "stars": 558,
             "forks": 20,
             "score": 51
         },
@@ -578,12 +578,12 @@ const ALPHA_DATA_V2 = {
             "url": "http://arxiv.org/abs/2604.08480v1"
         },
         {
-            "title": "Will the price of Ethereum be above $2,000 on April 17? (Probability: 92%)",
+            "title": "Bitcoin Up or Down - April 12, 12:55AM-1:00AM ET (Probability: 50%)",
             "source": "Polymarket",
             "type": "Expectation",
             "color": "text-indigo-400",
-            "url": "https://polymarket.com/market/ethereum-above-2000-on-april-17"
+            "url": "https://polymarket.com/market/btc-updown-5m-1775969700"
         }
     ],
-    "timestamp": "2026-04-11 16:29"
+    "timestamp": "2026-04-11 17:26"
 };
