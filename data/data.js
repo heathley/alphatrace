@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "MemPalace/mempalace",
             "description": "The highest-scoring AI memory system ever benchmarked. And it's free.",
             "url": "https://github.com/MemPalace/mempalace",
-            "stars": 42371,
-            "forks": 5415,
+            "stars": 42437,
+            "forks": 5427,
             "score": 99
         },
         {
@@ -18,7 +18,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "tvytlx/ai-agent-deep-dive",
             "description": "AI Agent \u6e90\u7801\u6df1\u5ea6\u7814\u7a76\u62a5\u544a",
             "url": "https://github.com/tvytlx/ai-agent-deep-dive",
-            "stars": 5462,
+            "stars": 5464,
             "forks": 1609,
             "score": 99
         },
@@ -29,7 +29,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "therealXiaomanChu/ex-skill",
             "description": "\u628a\u524d\u4efb\u84b8\u998f\u6210 AI Skill\uff0c\u7528ta\u7684\u65b9\u5f0f\u8ddf\u4f60\u8bf4\u8bdd\u3002",
             "url": "https://github.com/therealXiaomanChu/ex-skill",
-            "stars": 4303,
+            "stars": 4308,
             "forks": 437,
             "score": 99
         },
@@ -51,7 +51,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "lintsinghua/claude-code-book",
             "description": "\u300a\u5fa1\u8206\uff1a\u89e3\u7801 Agent Harness\u300b42\u4e07\u5b57\u62c6\u89e3 AI Agent \u7684Harness\u9aa8\u67b6\u4e0e\u795e\u7ecf \u2014\u2014 Claude Code \u67b6\u6784\u6df1\u5ea6\u5256\u6790\uff0c15 \u7ae0\u4ece\u5bf9\u8bdd\u5faa\u73af\u5230\u6784\u5efa\u4f60\u81ea\u5df1\u7684 Agent Harness\u3002\u5728\u7ebf\u9605\u8bfb\u7f51\u7ad9\uff1a",
             "url": "https://github.com/lintsinghua/claude-code-book",
-            "stars": 2583,
+            "stars": 2584,
             "forks": 619,
             "score": 99
         },
@@ -62,8 +62,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "yasasbanukaofficial/claude-code",
             "description": "\ud83d\ude80 Open source Claude Code CLI source code. Advanced AI Agent for developers. Includes TypeScript codebase for LLM tool-calling, agentic workflows, and terminal UI. Remember this is just the skeleton not the brain itself. Found by Chaofan Shou. ",
             "url": "https://github.com/yasasbanukaofficial/claude-code",
-            "stars": 2320,
-            "forks": 3757,
+            "stars": 2325,
+            "forks": 3761,
             "score": 99
         },
         {
@@ -84,7 +84,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "sooryathejas/METATRON",
             "description": "AI-powered penetration testing assistant using local LLM on linux (Parrot OS)",
             "url": "https://github.com/sooryathejas/METATRON",
-            "stars": 2203,
+            "stars": 2207,
             "forks": 452,
             "score": 99
         },
@@ -95,8 +95,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "alchaincyf/hermes-agent-orange-book",
             "description": "Hermes Agent \u4ece\u5165\u95e8\u5230\u7cbe\u901a \u00b7 \u6a59\u76ae\u4e66\u7cfb\u5217 \u00b7 Nous Research \u5f00\u6e90 AI Agent \u6846\u67b6\u5b9e\u6218\u6307\u5357",
             "url": "https://github.com/alchaincyf/hermes-agent-orange-book",
-            "stars": 1996,
-            "forks": 217,
+            "stars": 2004,
+            "forks": 218,
             "score": 99
         },
         {
@@ -106,8 +106,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "KKKKhazix/khazix-skills",
             "description": "\u6570\u5b57\u751f\u547d\u5361\u5179\u514b\u5f00\u6e90\u7684 AI Skills \u5408\u96c6",
             "url": "https://github.com/KKKKhazix/khazix-skills",
-            "stars": 1651,
-            "forks": 348,
+            "stars": 1655,
+            "forks": 351,
             "score": 99
         },
         {
@@ -117,7 +117,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "fikrikarim/parlor",
             "description": "On-device, real-time multimodal AI. Have natural voice and vision conversations with an AI that runs entirely on your machine. Powered by Gemma 4 E2B and Kokoro.",
             "url": "https://github.com/fikrikarim/parlor",
-            "stars": 1398,
+            "stars": 1399,
             "forks": 145,
             "score": 99
         },
@@ -128,8 +128,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "yizhiyanhua-ai/fireworks-tech-graph",
             "description": "Claude Code skill for generating production-quality SVG+PNG technical diagrams. Supports 8 diagram types, 5 visual styles, and deep AI/Agent domain knowledge.",
             "url": "https://github.com/yizhiyanhua-ai/fireworks-tech-graph",
-            "stars": 1248,
-            "forks": 99,
+            "stars": 1267,
+            "forks": 100,
             "score": 99
         },
         {
@@ -139,8 +139,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "alejandrobalderas/claude-code-from-source",
             "description": "Architecture, patterns & internals of Anthropic's AI coding agent \u2014 reverse-engineered from source maps",
             "url": "https://github.com/alejandrobalderas/claude-code-from-source",
-            "stars": 1086,
-            "forks": 351,
+            "stars": 1095,
+            "forks": 352,
             "score": 99
         },
         {
@@ -157,24 +157,24 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
+            "name": "hermes-hudui",
+            "full_name": "joeynyc/hermes-hudui",
+            "description": "Web UI consciousness monitor for Hermes \u2014 the AI agent with persistent memory",
+            "url": "https://github.com/joeynyc/hermes-hudui",
+            "stars": 613,
+            "forks": 62,
+            "score": 99
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
             "name": "cc-mini",
             "full_name": "e10nMa2k/cc-mini",
             "description": "Ultra-light Harness scaffolding for AI agents, a mini version of claude code ",
             "url": "https://github.com/e10nMa2k/cc-mini",
             "stars": 776,
             "forks": 318,
-            "score": 99
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "hermes-hudui",
-            "full_name": "joeynyc/hermes-hudui",
-            "description": "Web UI consciousness monitor for Hermes \u2014 the AI agent with persistent memory",
-            "url": "https://github.com/joeynyc/hermes-hudui",
-            "stars": 610,
-            "forks": 62,
-            "score": 99
+            "score": 98
         },
         {
             "main_cat": "AI",
@@ -190,22 +190,11 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "claude-code-design-guide",
-            "full_name": "6551Team/claude-code-design-guide",
-            "description": "From Early Internet Design Patterns to AI Agent Implementation \u2014 A Deep Dive into Claude Code for Developers",
-            "url": "https://github.com/6551Team/claude-code-design-guide",
-            "stars": 711,
-            "forks": 257,
-            "score": 92
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
             "name": "harness-engineering-from-cc-to-ai-coding",
             "full_name": "ZhangHanDong/harness-engineering-from-cc-to-ai-coding",
             "description": "Harness Engineering From Claude Code source code to AI Coding",
             "url": "https://github.com/ZhangHanDong/harness-engineering-from-cc-to-ai-coding",
-            "stars": 931,
+            "stars": 932,
             "forks": 175,
             "score": 88
         },
@@ -216,9 +205,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "Houseofmvps/codesight",
             "description": "Universal AI context generator. Saves thousands of tokens per conversation in Claude Code, Cursor, Copilot, Codex, and more.",
             "url": "https://github.com/Houseofmvps/codesight",
-            "stars": 845,
+            "stars": 847,
             "forks": 81,
             "score": 88
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "claude-code-design-guide",
+            "full_name": "6551Team/claude-code-design-guide",
+            "description": "From Early Internet Design Patterns to AI Agent Implementation \u2014 A Deep Dive into Claude Code for Developers",
+            "url": "https://github.com/6551Team/claude-code-design-guide",
+            "stars": 711,
+            "forks": 257,
+            "score": 87
         },
         {
             "main_cat": "AI",
@@ -260,8 +260,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "agents-io/PokeClaw",
             "description": "PokeClaw (PocketClaw) \u2014 first on-device AI that controls your Android phone. Gemma 4, no cloud, no API key. Poke is short for Pocket.",
             "url": "https://github.com/agents-io/PokeClaw",
-            "stars": 510,
-            "forks": 68,
+            "stars": 513,
+            "forks": 69,
             "score": 73
         },
         {
@@ -271,7 +271,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "he-yufeng/CoreCoder",
             "description": "Minimal AI coding agent (~950 LoC Python) inspired by Claude Code. Works with any LLM. Think NanoGPT for coding agent. Formerly NanoCoder. ",
             "url": "https://github.com/he-yufeng/CoreCoder",
-            "stars": 472,
+            "stars": 473,
             "forks": 129,
             "score": 68
         },
@@ -622,12 +622,12 @@ const ALPHA_DATA_V2 = {
             "url": "http://arxiv.org/abs/2604.08480v1"
         },
         {
-            "title": "Will the price of Solana be above $100 on April 15? (Probability: 2%)",
+            "title": "Bitcoin Up or Down - April 12, 7:45AM-7:50AM ET (Probability: 50%)",
             "source": "Polymarket",
             "type": "Expectation",
             "color": "text-indigo-400",
-            "url": "https://polymarket.com/market/solana-above-100-on-april-15"
+            "url": "https://polymarket.com/market/btc-updown-5m-1775994300"
         }
     ],
-    "timestamp": "2026-04-12 10:33"
+    "timestamp": "2026-04-12 11:29"
 };
