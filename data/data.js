@@ -7,8 +7,19 @@ const ALPHA_DATA_V2 = {
             "full_name": "MemPalace/mempalace",
             "description": "The highest-scoring AI memory system ever benchmarked. And it's free.",
             "url": "https://github.com/MemPalace/mempalace",
-            "stars": 42993,
-            "forks": 5498,
+            "stars": 43076,
+            "forks": 5509,
+            "score": 99
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "graphify",
+            "full_name": "safishamsi/graphify",
+            "description": "AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, GitHub Copilot CLI, OpenClaw, Factory Droid, Trae, Google Antigravity). Turn any folder of code, docs, papers, images, or videos into a queryable knowledge graph",
+            "url": "https://github.com/safishamsi/graphify",
+            "stars": 23310,
+            "forks": 2441,
             "score": 99
         },
         {
@@ -29,8 +40,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "therealXiaomanChu/ex-skill",
             "description": "\u628a\u524d\u4efb\u84b8\u998f\u6210 AI Skill\uff0c\u7528ta\u7684\u65b9\u5f0f\u8ddf\u4f60\u8bf4\u8bdd\u3002",
             "url": "https://github.com/therealXiaomanChu/ex-skill",
-            "stars": 4337,
-            "forks": 439,
+            "stars": 4341,
+            "forks": 438,
             "score": 99
         },
         {
@@ -51,7 +62,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "lintsinghua/claude-code-book",
             "description": "\u300a\u5fa1\u8206\uff1a\u89e3\u7801 Agent Harness\u300b42\u4e07\u5b57\u62c6\u89e3 AI Agent \u7684Harness\u9aa8\u67b6\u4e0e\u795e\u7ecf \u2014\u2014 Claude Code \u67b6\u6784\u6df1\u5ea6\u5256\u6790\uff0c15 \u7ae0\u4ece\u5bf9\u8bdd\u5faa\u73af\u5230\u6784\u5efa\u4f60\u81ea\u5df1\u7684 Agent Harness\u3002\u5728\u7ebf\u9605\u8bfb\u7f51\u7ad9\uff1a",
             "url": "https://github.com/lintsinghua/claude-code-book",
-            "stars": 2595,
+            "stars": 2596,
             "forks": 620,
             "score": 99
         },
@@ -62,8 +73,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "yasasbanukaofficial/claude-code",
             "description": "\ud83d\ude80 Open source Claude Code CLI source code. Advanced AI Agent for developers. Includes TypeScript codebase for LLM tool-calling, agentic workflows, and terminal UI. Remember this is just the skeleton not the brain itself. Found by Chaofan Shou. ",
             "url": "https://github.com/yasasbanukaofficial/claude-code",
-            "stars": 2342,
-            "forks": 3781,
+            "stars": 2346,
+            "forks": 3780,
             "score": 99
         },
         {
@@ -73,7 +84,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Leonxlnx/agentic-ai-prompt-research",
             "description": "Research into how agentic AI coding assistants work \u2014 reconstructed prompt patterns, agent coordination, and security classification",
             "url": "https://github.com/Leonxlnx/agentic-ai-prompt-research",
-            "stars": 2285,
+            "stars": 2287,
             "forks": 1045,
             "score": 99
         },
@@ -95,7 +106,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "alchaincyf/hermes-agent-orange-book",
             "description": "Hermes Agent \u4ece\u5165\u95e8\u5230\u7cbe\u901a \u00b7 \u6a59\u76ae\u4e66\u7cfb\u5217 \u00b7 Nous Research \u5f00\u6e90 AI Agent \u6846\u67b6\u5b9e\u6218\u6307\u5357",
             "url": "https://github.com/alchaincyf/hermes-agent-orange-book",
-            "stars": 2073,
+            "stars": 2078,
             "forks": 228,
             "score": 99
         },
@@ -106,8 +117,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "KKKKhazix/khazix-skills",
             "description": "\u6570\u5b57\u751f\u547d\u5361\u5179\u514b\u5f00\u6e90\u7684 AI Skills \u5408\u96c6",
             "url": "https://github.com/KKKKhazix/khazix-skills",
-            "stars": 1703,
-            "forks": 356,
+            "stars": 1706,
+            "forks": 358,
             "score": 99
         },
         {
@@ -117,8 +128,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "yizhiyanhua-ai/fireworks-tech-graph",
             "description": "Claude Code skill for generating production-quality SVG+PNG technical diagrams. Supports 8 diagram types, 5 visual styles, and deep AI/Agent domain knowledge.",
             "url": "https://github.com/yizhiyanhua-ai/fireworks-tech-graph",
-            "stars": 1482,
-            "forks": 114,
+            "stars": 1491,
+            "forks": 115,
             "score": 99
         },
         {
@@ -128,7 +139,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "fikrikarim/parlor",
             "description": "On-device, real-time multimodal AI. Have natural voice and vision conversations with an AI that runs entirely on your machine. Powered by Gemma 4 E2B and Kokoro.",
             "url": "https://github.com/fikrikarim/parlor",
-            "stars": 1408,
+            "stars": 1411,
             "forks": 146,
             "score": 99
         },
@@ -139,8 +150,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "alejandrobalderas/claude-code-from-source",
             "description": "Architecture, patterns & internals of Anthropic's AI coding agent \u2014 reverse-engineered from source maps",
             "url": "https://github.com/alejandrobalderas/claude-code-from-source",
-            "stars": 1162,
-            "forks": 363,
+            "stars": 1174,
+            "forks": 367,
             "score": 99
         },
         {
@@ -161,8 +172,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "joeynyc/hermes-hudui",
             "description": "Web UI consciousness monitor for Hermes \u2014 the AI agent with persistent memory",
             "url": "https://github.com/joeynyc/hermes-hudui",
-            "stars": 651,
-            "forks": 65,
+            "stars": 659,
+            "forks": 67,
             "score": 99
         },
         {
@@ -172,8 +183,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "hilash/cabinet",
             "description": "AI-first knowledge base and startup OS",
             "url": "https://github.com/hilash/cabinet",
-            "stars": 1191,
-            "forks": 114,
+            "stars": 1192,
+            "forks": 115,
             "score": 98
         },
         {
@@ -186,17 +197,6 @@ const ALPHA_DATA_V2 = {
             "stars": 777,
             "forks": 318,
             "score": 98
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "codesight",
-            "full_name": "Houseofmvps/codesight",
-            "description": "Universal AI context generator. Saves thousands of tokens per conversation in Claude Code, Cursor, Copilot, Codex, and more.",
-            "url": "https://github.com/Houseofmvps/codesight",
-            "stars": 858,
-            "forks": 81,
-            "score": 89
         },
         {
             "main_cat": "AI",
@@ -219,6 +219,17 @@ const ALPHA_DATA_V2 = {
             "stars": 713,
             "forks": 258,
             "score": 88
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "codesight",
+            "full_name": "Houseofmvps/codesight",
+            "description": "Universal AI context generator. Saves thousands of tokens per conversation in Claude Code, Cursor, Copilot, Codex, and more.",
+            "url": "https://github.com/Houseofmvps/codesight",
+            "stars": 858,
+            "forks": 81,
+            "score": 83
         },
         {
             "main_cat": "AI",
@@ -271,7 +282,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "he-yufeng/CoreCoder",
             "description": "Minimal AI coding agent (~950 LoC Python) inspired by Claude Code. Works with any LLM. Think NanoGPT for coding agent. Formerly NanoCoder. ",
             "url": "https://github.com/he-yufeng/CoreCoder",
-            "stars": 486,
+            "stars": 487,
             "forks": 129,
             "score": 68
         },
@@ -295,7 +306,7 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/ShandaAI/AlayaRenderer",
             "stars": 555,
             "forks": 7,
-            "score": 54
+            "score": 52
         },
         {
             "main_cat": "AI",
@@ -311,6 +322,17 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
+            "name": "MOSS-TTS-Nano",
+            "full_name": "OpenMOSS/MOSS-TTS-Nano",
+            "description": "MOSS-TTS-Nano is an open-source multilingual tiny speech generation model from MOSI.AI and the OpenMOSS team. With only 0.1B parameters, it is designed for realtime speech generation, can run directly on CPU without a GPU, and keeps the deployment stack simple enough for local demos, web serving, and lightweight product integration.",
+            "url": "https://github.com/OpenMOSS/MOSS-TTS-Nano",
+            "stars": 20,
+            "forks": 0,
+            "score": 32
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
             "name": "multi-turboquant",
             "full_name": "rookiemann/multi-turboquant",
             "description": "Unified KV cache compression for LLM inference \u2014 TurboQuant, IsoQuant, PlanarQuant, TriAttention. 10 methods, GPU-validated, multi-GPU planner. Compress KV cache 5-80x to run bigger models, longer context, more agents on your GPU.",
@@ -318,17 +340,6 @@ const ALPHA_DATA_V2 = {
             "stars": 9,
             "forks": 3,
             "score": 32
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "MOSS-TTS-Nano",
-            "full_name": "OpenMOSS/MOSS-TTS-Nano",
-            "description": "MOSS-TTS-Nano is an open-source multilingual tiny speech generation model from MOSI.AI and the OpenMOSS team. With only 0.1B parameters, it is designed for realtime speech generation, can run directly on CPU without a GPU, and keeps the deployment stack simple enough for local demos, web serving, and lightweight product integration.",
-            "url": "https://github.com/OpenMOSS/MOSS-TTS-Nano",
-            "stars": 17,
-            "forks": 0,
-            "score": 31
         },
         {
             "main_cat": "AI",
@@ -644,12 +655,12 @@ const ALPHA_DATA_V2 = {
             "url": "http://arxiv.org/abs/2604.08480v1"
         },
         {
-            "title": "Bitcoin Up or Down - April 13, 9:15AM-9:20AM ET (Probability: 50%)",
+            "title": "Will the price of Solana be above $100 on April 15? (Probability: 2%)",
             "source": "Polymarket",
             "type": "Expectation",
             "color": "text-indigo-400",
-            "url": "https://polymarket.com/market/btc-updown-5m-1776086100"
+            "url": "https://polymarket.com/market/solana-above-100-on-april-15"
         }
     ],
-    "timestamp": "2026-04-12 17:29"
+    "timestamp": "2026-04-12 18:38"
 };
