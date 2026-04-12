@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "MemPalace/mempalace",
             "description": "The highest-scoring AI memory system ever benchmarked. And it's free.",
             "url": "https://github.com/MemPalace/mempalace",
-            "stars": 42315,
-            "forks": 5404,
+            "stars": 42371,
+            "forks": 5415,
             "score": 99
         },
         {
@@ -29,8 +29,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "therealXiaomanChu/ex-skill",
             "description": "\u628a\u524d\u4efb\u84b8\u998f\u6210 AI Skill\uff0c\u7528ta\u7684\u65b9\u5f0f\u8ddf\u4f60\u8bf4\u8bdd\u3002",
             "url": "https://github.com/therealXiaomanChu/ex-skill",
-            "stars": 4302,
-            "forks": 436,
+            "stars": 4303,
+            "forks": 437,
             "score": 99
         },
         {
@@ -40,7 +40,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "motiful/cc-gateway",
             "description": "AI API identity gateway \u2014 reverse proxy that normalizes device fingerprints and telemetry for privacy-preserving API proxying",
             "url": "https://github.com/motiful/cc-gateway",
-            "stars": 2610,
+            "stars": 2611,
             "forks": 465,
             "score": 99
         },
@@ -51,7 +51,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "lintsinghua/claude-code-book",
             "description": "\u300a\u5fa1\u8206\uff1a\u89e3\u7801 Agent Harness\u300b42\u4e07\u5b57\u62c6\u89e3 AI Agent \u7684Harness\u9aa8\u67b6\u4e0e\u795e\u7ecf \u2014\u2014 Claude Code \u67b6\u6784\u6df1\u5ea6\u5256\u6790\uff0c15 \u7ae0\u4ece\u5bf9\u8bdd\u5faa\u73af\u5230\u6784\u5efa\u4f60\u81ea\u5df1\u7684 Agent Harness\u3002\u5728\u7ebf\u9605\u8bfb\u7f51\u7ad9\uff1a",
             "url": "https://github.com/lintsinghua/claude-code-book",
-            "stars": 2582,
+            "stars": 2583,
             "forks": 619,
             "score": 99
         },
@@ -62,8 +62,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "yasasbanukaofficial/claude-code",
             "description": "\ud83d\ude80 Open source Claude Code CLI source code. Advanced AI Agent for developers. Includes TypeScript codebase for LLM tool-calling, agentic workflows, and terminal UI. Remember this is just the skeleton not the brain itself. Found by Chaofan Shou. ",
             "url": "https://github.com/yasasbanukaofficial/claude-code",
-            "stars": 2317,
-            "forks": 3754,
+            "stars": 2320,
+            "forks": 3757,
             "score": 99
         },
         {
@@ -84,8 +84,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "sooryathejas/METATRON",
             "description": "AI-powered penetration testing assistant using local LLM on linux (Parrot OS)",
             "url": "https://github.com/sooryathejas/METATRON",
-            "stars": 2201,
-            "forks": 451,
+            "stars": 2203,
+            "forks": 452,
             "score": 99
         },
         {
@@ -95,8 +95,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "alchaincyf/hermes-agent-orange-book",
             "description": "Hermes Agent \u4ece\u5165\u95e8\u5230\u7cbe\u901a \u00b7 \u6a59\u76ae\u4e66\u7cfb\u5217 \u00b7 Nous Research \u5f00\u6e90 AI Agent \u6846\u67b6\u5b9e\u6218\u6307\u5357",
             "url": "https://github.com/alchaincyf/hermes-agent-orange-book",
-            "stars": 1990,
-            "forks": 216,
+            "stars": 1996,
+            "forks": 217,
             "score": 99
         },
         {
@@ -106,8 +106,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "KKKKhazix/khazix-skills",
             "description": "\u6570\u5b57\u751f\u547d\u5361\u5179\u514b\u5f00\u6e90\u7684 AI Skills \u5408\u96c6",
             "url": "https://github.com/KKKKhazix/khazix-skills",
-            "stars": 1650,
-            "forks": 347,
+            "stars": 1651,
+            "forks": 348,
             "score": 99
         },
         {
@@ -117,8 +117,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "fikrikarim/parlor",
             "description": "On-device, real-time multimodal AI. Have natural voice and vision conversations with an AI that runs entirely on your machine. Powered by Gemma 4 E2B and Kokoro.",
             "url": "https://github.com/fikrikarim/parlor",
-            "stars": 1394,
-            "forks": 144,
+            "stars": 1398,
+            "forks": 145,
             "score": 99
         },
         {
@@ -128,8 +128,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "yizhiyanhua-ai/fireworks-tech-graph",
             "description": "Claude Code skill for generating production-quality SVG+PNG technical diagrams. Supports 8 diagram types, 5 visual styles, and deep AI/Agent domain knowledge.",
             "url": "https://github.com/yizhiyanhua-ai/fireworks-tech-graph",
-            "stars": 1225,
-            "forks": 97,
+            "stars": 1248,
+            "forks": 99,
             "score": 99
         },
         {
@@ -139,7 +139,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "alejandrobalderas/claude-code-from-source",
             "description": "Architecture, patterns & internals of Anthropic's AI coding agent \u2014 reverse-engineered from source maps",
             "url": "https://github.com/alejandrobalderas/claude-code-from-source",
-            "stars": 1082,
+            "stars": 1086,
             "forks": 351,
             "score": 99
         },
@@ -172,8 +172,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "joeynyc/hermes-hudui",
             "description": "Web UI consciousness monitor for Hermes \u2014 the AI agent with persistent memory",
             "url": "https://github.com/joeynyc/hermes-hudui",
-            "stars": 606,
-            "forks": 61,
+            "stars": 610,
+            "forks": 62,
             "score": 99
         },
         {
@@ -183,7 +183,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "hilash/cabinet",
             "description": "AI-first knowledge base and startup OS",
             "url": "https://github.com/hilash/cabinet",
-            "stars": 1167,
+            "stars": 1172,
             "forks": 111,
             "score": 97
         },
@@ -216,8 +216,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "Houseofmvps/codesight",
             "description": "Universal AI context generator. Saves thousands of tokens per conversation in Claude Code, Cursor, Copilot, Codex, and more.",
             "url": "https://github.com/Houseofmvps/codesight",
-            "stars": 843,
-            "forks": 80,
+            "stars": 845,
+            "forks": 81,
             "score": 88
         },
         {
@@ -227,7 +227,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "brooks376/Happy-Horse-1.0",
             "description": "Information collection for the Happy Horse AI video generator model. Official demo and updates at happyhorses.io.",
             "url": "https://github.com/brooks376/Happy-Horse-1.0",
-            "stars": 547,
+            "stars": 546,
             "forks": 49,
             "score": 83
         },
@@ -260,7 +260,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "agents-io/PokeClaw",
             "description": "PokeClaw (PocketClaw) \u2014 first on-device AI that controls your Android phone. Gemma 4, no cloud, no API key. Poke is short for Pocket.",
             "url": "https://github.com/agents-io/PokeClaw",
-            "stars": 508,
+            "stars": 510,
             "forks": 68,
             "score": 73
         },
@@ -293,7 +293,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "ShandaAI/AlayaRenderer",
             "description": "Generative World Renderer: an AI-native Renderer for Games and Virtual Worlds. \u9762\u5411\u6e38\u620f\u4e0e\u865a\u62df\u4e16\u754c\u7684AI\u539f\u751f\u6e32\u67d3\u5f15\u64ce",
             "url": "https://github.com/ShandaAI/AlayaRenderer",
-            "stars": 553,
+            "stars": 554,
             "forks": 7,
             "score": 54
         },
@@ -622,12 +622,12 @@ const ALPHA_DATA_V2 = {
             "url": "http://arxiv.org/abs/2604.08480v1"
         },
         {
-            "title": "Will the price of Solana be above $130 on April 15? (Probability: 2%)",
+            "title": "Will the price of Solana be above $100 on April 15? (Probability: 2%)",
             "source": "Polymarket",
             "type": "Expectation",
             "color": "text-indigo-400",
-            "url": "https://polymarket.com/market/solana-above-130-on-april-15"
+            "url": "https://polymarket.com/market/solana-above-100-on-april-15"
         }
     ],
-    "timestamp": "2026-04-12 09:40"
+    "timestamp": "2026-04-12 10:33"
 };
