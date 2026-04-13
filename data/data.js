@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "MemPalace/mempalace",
             "description": "The highest-scoring AI memory system ever benchmarked. And it's free.",
             "url": "https://github.com/MemPalace/mempalace",
-            "stars": 44563,
-            "forks": 5719,
+            "stars": 44618,
+            "forks": 5738,
             "score": 99
         },
         {
@@ -18,8 +18,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "safishamsi/graphify",
             "description": "AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, GitHub Copilot CLI, OpenClaw, Factory Droid, Trae, Google Antigravity). Turn any folder of code, docs, papers, images, or videos into a queryable knowledge graph",
             "url": "https://github.com/safishamsi/graphify",
-            "stars": 24818,
-            "forks": 2639,
+            "stars": 24871,
+            "forks": 2646,
             "score": 99
         },
         {
@@ -51,8 +51,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "KKKKhazix/khazix-skills",
             "description": "\u6570\u5b57\u751f\u547d\u5361\u5179\u514b\u5f00\u6e90\u7684 AI Skills \u5408\u96c6",
             "url": "https://github.com/KKKKhazix/khazix-skills",
-            "stars": 3421,
-            "forks": 575,
+            "stars": 3436,
+            "forks": 577,
             "score": 99
         },
         {
@@ -62,8 +62,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "lintsinghua/claude-code-book",
             "description": "\u300a\u5fa1\u8206\uff1a\u89e3\u7801 Agent Harness\u300b42\u4e07\u5b57\u62c6\u89e3 AI Agent \u7684Harness\u9aa8\u67b6\u4e0e\u795e\u7ecf \u2014\u2014 Claude Code \u67b6\u6784\u6df1\u5ea6\u5256\u6790\uff0c15 \u7ae0\u4ece\u5bf9\u8bdd\u5faa\u73af\u5230\u6784\u5efa\u4f60\u81ea\u5df1\u7684 Agent Harness\u3002\u5728\u7ebf\u9605\u8bfb\u7f51\u7ad9\uff1a",
             "url": "https://github.com/lintsinghua/claude-code-book",
-            "stars": 2643,
-            "forks": 622,
+            "stars": 2645,
+            "forks": 623,
             "score": 99
         },
         {
@@ -84,8 +84,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "yasasbanukaofficial/claude-code",
             "description": "\ud83d\ude80 Open source Claude Code CLI source code. Advanced AI Agent for developers. Includes TypeScript codebase for LLM tool-calling, agentic workflows, and terminal UI. Remember this is just the skeleton not the brain itself. Found by Chaofan Shou. ",
             "url": "https://github.com/yasasbanukaofficial/claude-code",
-            "stars": 2433,
-            "forks": 3859,
+            "stars": 2435,
+            "forks": 3864,
             "score": 99
         },
         {
@@ -106,8 +106,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "sooryathejas/METATRON",
             "description": "AI-powered penetration testing assistant using local LLM on linux (Parrot OS)",
             "url": "https://github.com/sooryathejas/METATRON",
-            "stars": 2269,
-            "forks": 461,
+            "stars": 2271,
+            "forks": 462,
             "score": 99
         },
         {
@@ -117,8 +117,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "alchaincyf/hermes-agent-orange-book",
             "description": "Hermes Agent \u4ece\u5165\u95e8\u5230\u7cbe\u901a \u00b7 \u6a59\u76ae\u4e66\u7cfb\u5217 \u00b7 Nous Research \u5f00\u6e90 AI Agent \u6846\u67b6\u5b9e\u6218\u6307\u5357",
             "url": "https://github.com/alchaincyf/hermes-agent-orange-book",
-            "stars": 2260,
-            "forks": 246,
+            "stars": 2263,
+            "forks": 247,
             "score": 99
         },
         {
@@ -128,7 +128,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "yizhiyanhua-ai/fireworks-tech-graph",
             "description": "Claude Code skill for generating production-quality SVG+PNG technical diagrams. Supports 8 diagram types, 5 visual styles, and deep AI/Agent domain knowledge.",
             "url": "https://github.com/yizhiyanhua-ai/fireworks-tech-graph",
-            "stars": 1966,
+            "stars": 1980,
             "forks": 148,
             "score": 99
         },
@@ -139,7 +139,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "fikrikarim/parlor",
             "description": "On-device, real-time multimodal AI. Have natural voice and vision conversations with an AI that runs entirely on your machine. Powered by Gemma 4 E2B and Kokoro.",
             "url": "https://github.com/fikrikarim/parlor",
-            "stars": 1452,
+            "stars": 1453,
             "forks": 150,
             "score": 99
         },
@@ -150,8 +150,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "alejandrobalderas/claude-code-from-source",
             "description": "Architecture, patterns & internals of Anthropic's AI coding agent \u2014 reverse-engineered from source maps",
             "url": "https://github.com/alejandrobalderas/claude-code-from-source",
-            "stars": 1332,
-            "forks": 405,
+            "stars": 1338,
+            "forks": 406,
             "score": 99
         },
         {
@@ -161,7 +161,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "repowise-dev/claude-code-prompts",
             "description": "Independently authored prompt templates for AI coding agents \u2014 system prompts, tool prompts, agent delegation, memory management, and multi-agent coordination. Informed by studying Claude Code.",
             "url": "https://github.com/repowise-dev/claude-code-prompts",
-            "stars": 930,
+            "stars": 931,
             "forks": 354,
             "score": 99
         },
@@ -172,8 +172,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "joeynyc/hermes-hudui",
             "description": "Web UI consciousness monitor for Hermes \u2014 the AI agent with persistent memory",
             "url": "https://github.com/joeynyc/hermes-hudui",
-            "stars": 807,
-            "forks": 83,
+            "stars": 809,
+            "forks": 85,
             "score": 99
         },
         {
@@ -183,7 +183,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "alchaincyf/obsidian-ai-orange-book",
             "description": "Obsidian + Claude Code: Rebuild Your Second Brain with AI \u00b7 \u6a59\u76ae\u4e66\u7cfb\u5217 \u00b7 \u7528AI\u91cd\u5efa\u4f60\u7684\u7b2c\u4e8c\u5927\u8111",
             "url": "https://github.com/alchaincyf/obsidian-ai-orange-book",
-            "stars": 531,
+            "stars": 534,
             "forks": 54,
             "score": 99
         },
@@ -205,7 +205,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "e10nMa2k/cc-mini",
             "description": "Ultra-light Harness scaffolding for AI agents, a mini version of claude code ",
             "url": "https://github.com/e10nMa2k/cc-mini",
-            "stars": 783,
+            "stars": 784,
             "forks": 321,
             "score": 94
         },
@@ -216,7 +216,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "ZhangHanDong/harness-engineering-from-cc-to-ai-coding",
             "description": "Harness Engineering From Claude Code source code to AI Coding",
             "url": "https://github.com/ZhangHanDong/harness-engineering-from-cc-to-ai-coding",
-            "stars": 1002,
+            "stars": 1003,
             "forks": 186,
             "score": 88
         },
@@ -249,9 +249,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "hexiecs/talk-normal",
             "description": "Make any LLM talk like a normal person. A system prompt that removes AI slop.",
             "url": "https://github.com/hexiecs/talk-normal",
-            "stars": 636,
-            "forks": 14,
-            "score": 79
+            "stars": 646,
+            "forks": 15,
+            "score": 80
         },
         {
             "main_cat": "AI",
@@ -260,7 +260,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "brooks376/Happy-Horse-1.0",
             "description": "Information collection for the Happy Horse AI video generator model. Official demo and updates at happyhorses.io.",
             "url": "https://github.com/brooks376/Happy-Horse-1.0",
-            "stars": 553,
+            "stars": 555,
             "forks": 54,
             "score": 78
         },
@@ -282,7 +282,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "agents-io/PokeClaw",
             "description": "PokeClaw (PocketClaw) \u2014 first on-device AI that controls your Android phone. Gemma 4, no cloud, no API key. Poke is short for Pocket.",
             "url": "https://github.com/agents-io/PokeClaw",
-            "stars": 557,
+            "stars": 558,
             "forks": 76,
             "score": 73
         },
@@ -299,24 +299,24 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
-            "sub_cat": null,
-            "name": "immortal-skill",
-            "full_name": "agenmod/immortal-skill",
-            "description": "\u267e\ufe0f \u5f00\u6e90\u6570\u5b57\u6c38\u751f\u6846\u67b6 \u2014 \u4ece\u804a\u5929\u8bb0\u5f55\u84b8\u998f\u4efb\u4f55\u4eba\u7684\u4e03\u7ef4\u6570\u5b57\u5206\u8eab\u3002\u652f\u6301\u5fae\u4fe1/\u98de\u4e66/iMessage/Telegram\u7b4912+\u5e73\u53f0\uff0c7\u79cd\u89d2\u8272\u6a21\u677f\uff0c\u5bf9\u9f50 OpenClaw Soul Spec \u6807\u51c6\u3002\u4e00\u884c\u6307\u4ee4\u8ba9\u4f60\u7684AI\u5b66\u4f1a\u84b8\u998f\u3002",
-            "url": "https://github.com/agenmod/immortal-skill",
-            "stars": 543,
-            "forks": 55,
-            "score": 55
-        },
-        {
-            "main_cat": "AI",
             "sub_cat": "AI General",
             "name": "MOSS-TTS-Nano",
             "full_name": "OpenMOSS/MOSS-TTS-Nano",
             "description": "MOSS-TTS-Nano is an open-source multilingual tiny speech generation model from MOSI.AI and the OpenMOSS team. With only 0.1B parameters, it is designed for realtime speech generation, can run directly on CPU without a GPU, and keeps the deployment stack simple enough for local demos, web serving, and lightweight product integration.",
             "url": "https://github.com/OpenMOSS/MOSS-TTS-Nano",
-            "stars": 260,
-            "forks": 11,
+            "stars": 281,
+            "forks": 14,
+            "score": 58
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "immortal-skill",
+            "full_name": "agenmod/immortal-skill",
+            "description": "\u267e\ufe0f \u5f00\u6e90\u6570\u5b57\u6c38\u751f\u6846\u67b6 \u2014 \u4ece\u804a\u5929\u8bb0\u5f55\u84b8\u998f\u4efb\u4f55\u4eba\u7684\u4e03\u7ef4\u6570\u5b57\u5206\u8eab\u3002\u652f\u6301\u5fae\u4fe1/\u98de\u4e66/iMessage/Telegram\u7b4912+\u5e73\u53f0\uff0c7\u79cd\u89d2\u8272\u6a21\u677f\uff0c\u5bf9\u9f50 OpenClaw Soul Spec \u6807\u51c6\u3002\u4e00\u884c\u6307\u4ee4\u8ba9\u4f60\u7684AI\u5b66\u4f1a\u84b8\u998f\u3002",
+            "url": "https://github.com/agenmod/immortal-skill",
+            "stars": 544,
+            "forks": 55,
             "score": 55
         },
         {
@@ -328,7 +328,7 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/ShandaAI/AlayaRenderer",
             "stars": 560,
             "forks": 7,
-            "score": 52
+            "score": 51
         },
         {
             "main_cat": "AI",
@@ -349,8 +349,8 @@ const ALPHA_DATA_V2 = {
             "description": "Unified KV cache compression for LLM inference \u2014 TurboQuant, IsoQuant, PlanarQuant, TriAttention. 10 methods, GPU-validated, multi-GPU planner. Compress KV cache 5-80x to run bigger models, longer context, more agents on your GPU.",
             "url": "https://github.com/rookiemann/multi-turboquant",
             "stars": 11,
-            "forks": 3,
-            "score": 31
+            "forks": 4,
+            "score": 32
         },
         {
             "main_cat": "AI",
@@ -673,5 +673,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/market/will-the-price-of-solana-be-between-110-120-on-april-15"
         }
     ],
-    "timestamp": "2026-04-13 16:57"
+    "timestamp": "2026-04-13 18:02"
 };
