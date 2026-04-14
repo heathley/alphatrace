@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "MemPalace/mempalace",
             "description": "The highest-scoring AI memory system ever benchmarked. And it's free.",
             "url": "https://github.com/MemPalace/mempalace",
-            "stars": 45827,
-            "forks": 5934,
+            "stars": 45850,
+            "forks": 5938,
             "score": 99
         },
         {
@@ -18,8 +18,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "safishamsi/graphify",
             "description": "AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, GitHub Copilot CLI, OpenClaw, Factory Droid, Trae, Google Antigravity). Turn any folder of code, docs, papers, images, or videos into a queryable knowledge graph",
             "url": "https://github.com/safishamsi/graphify",
-            "stars": 26336,
-            "forks": 2837,
+            "stars": 26367,
+            "forks": 2839,
             "score": 99
         },
         {
@@ -29,8 +29,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "KKKKhazix/khazix-skills",
             "description": "\u6570\u5b57\u751f\u547d\u5361\u5179\u514b\u5f00\u6e90\u7684 AI Skills \u5408\u96c6",
             "url": "https://github.com/KKKKhazix/khazix-skills",
-            "stars": 4186,
-            "forks": 694,
+            "stars": 4196,
+            "forks": 695,
             "score": 99
         },
         {
@@ -40,7 +40,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "alchaincyf/hermes-agent-orange-book",
             "description": "Hermes Agent \u4ece\u5165\u95e8\u5230\u7cbe\u901a \u00b7 \u6a59\u76ae\u4e66\u7cfb\u5217 \u00b7 Nous Research \u5f00\u6e90 AI Agent \u6846\u67b6\u5b9e\u6218\u6307\u5357",
             "url": "https://github.com/alchaincyf/hermes-agent-orange-book",
-            "stars": 2432,
+            "stars": 2433,
             "forks": 256,
             "score": 99
         },
@@ -51,8 +51,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "yizhiyanhua-ai/fireworks-tech-graph",
             "description": "Claude Code skill for generating production-quality SVG+PNG technical diagrams. Supports 8 diagram types, 5 visual styles, and deep AI/Agent domain knowledge.",
             "url": "https://github.com/yizhiyanhua-ai/fireworks-tech-graph",
-            "stars": 2366,
-            "forks": 186,
+            "stars": 2377,
+            "forks": 187,
             "score": 99
         },
         {
@@ -84,8 +84,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "alejandrobalderas/claude-code-from-source",
             "description": "Architecture, patterns & internals of Anthropic's AI coding agent \u2014 reverse-engineered from source maps",
             "url": "https://github.com/alejandrobalderas/claude-code-from-source",
-            "stars": 1448,
-            "forks": 434,
+            "stars": 1449,
+            "forks": 436,
             "score": 99
         },
         {
@@ -106,7 +106,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "joeynyc/hermes-hudui",
             "description": "Web UI consciousness monitor for Hermes \u2014 the AI agent with persistent memory",
             "url": "https://github.com/joeynyc/hermes-hudui",
-            "stars": 877,
+            "stars": 878,
             "forks": 92,
             "score": 99
         },
@@ -117,7 +117,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "AgentSeal/codeburn",
             "description": "See where your AI coding tokens go. Interactive TUI dashboard for Claude Code and Codex cost observability.",
             "url": "https://github.com/AgentSeal/codeburn",
-            "stars": 813,
+            "stars": 831,
             "forks": 66,
             "score": 99
         },
@@ -128,7 +128,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Mouseww/anything-analyzer",
             "description": "\u5229\u7528 browser + CDP capture + AI analysis  \u50bb\u74dc\u5f0f\u751f\u6210 \u6ce8\u518c\u673a | 2API | \u5176\u4ed6\u6d4f\u89c8\u5668\u6216\u5e94\u7528\u884c\u4e3a \u7684\u534f\u8bae\u5206\u6790\u6587\u6863",
             "url": "https://github.com/Mouseww/anything-analyzer",
-            "stars": 630,
+            "stars": 631,
             "forks": 178,
             "score": 99
         },
@@ -139,7 +139,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "alchaincyf/obsidian-ai-orange-book",
             "description": "Obsidian + Claude Code: Rebuild Your Second Brain with AI \u00b7 \u6a59\u76ae\u4e66\u7cfb\u5217 \u00b7 \u7528AI\u91cd\u5efa\u4f60\u7684\u7b2c\u4e8c\u5927\u8111",
             "url": "https://github.com/alchaincyf/obsidian-ai-orange-book",
-            "stars": 597,
+            "stars": 599,
             "forks": 60,
             "score": 99
         },
@@ -150,8 +150,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "yaojingang/GEOFlow",
             "description": "Open-source GEO content production system with AI tasks, review workflow, and publishing.",
             "url": "https://github.com/yaojingang/GEOFlow",
-            "stars": 477,
-            "forks": 96,
+            "stars": 485,
+            "forks": 97,
             "score": 99
         },
         {
@@ -161,9 +161,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "OpenMOSS/MOSS-TTS-Nano",
             "description": "MOSS-TTS-Nano is an open-source multilingual tiny speech generation model from MOSI.AI and the OpenMOSS team. With only 0.1B parameters, it is designed for realtime speech generation, can run directly on CPU without a GPU, and keeps the deployment stack simple enough for local demos, web serving, and lightweight product integration.",
             "url": "https://github.com/OpenMOSS/MOSS-TTS-Nano",
-            "stars": 690,
-            "forks": 57,
-            "score": 95
+            "stars": 702,
+            "forks": 61,
+            "score": 97
         },
         {
             "main_cat": "AI",
@@ -172,7 +172,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "hilash/cabinet",
             "description": "AI-first knowledge base and startup OS",
             "url": "https://github.com/hilash/cabinet",
-            "stars": 1281,
+            "stars": 1284,
             "forks": 125,
             "score": 93
         },
@@ -183,7 +183,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "ZhangHanDong/harness-engineering-from-cc-to-ai-coding",
             "description": "Harness Engineering From Claude Code source code to AI Coding",
             "url": "https://github.com/ZhangHanDong/harness-engineering-from-cc-to-ai-coding",
-            "stars": 1033,
+            "stars": 1034,
             "forks": 191,
             "score": 86
         },
@@ -194,7 +194,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "hexiecs/talk-normal",
             "description": "Make any LLM talk like a normal person. A system prompt that removes AI slop.",
             "url": "https://github.com/hexiecs/talk-normal",
-            "stars": 824,
+            "stars": 825,
             "forks": 19,
             "score": 86
         },
@@ -272,7 +272,7 @@ const ALPHA_DATA_V2 = {
             "description": "A 100% offline, fully portable, zero-trace AI (Ollama + Llama 3 + AnythingLLM) that runs natively from a USB drive on Windows and Mac.",
             "url": "https://github.com/jarvesusaram99/Portable-AI-USB",
             "stars": 454,
-            "forks": 163,
+            "forks": 164,
             "score": 64
         },
         {
@@ -293,7 +293,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "labarba/sciwrite",
             "description": "Agent Skill for AI-assisted manuscript writing review, based on Dr. Kristin Sainani's \"Writing in the Sciences\" methodology.",
             "url": "https://github.com/labarba/sciwrite",
-            "stars": 444,
+            "stars": 446,
             "forks": 51,
             "score": 57
         },
@@ -673,5 +673,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/market/will-the-price-of-solana-be-between-110-120-on-april-15"
         }
     ],
-    "timestamp": "2026-04-14 22:40"
+    "timestamp": "2026-04-14 23:37"
 };
