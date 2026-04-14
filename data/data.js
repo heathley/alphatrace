@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "MemPalace/mempalace",
             "description": "The highest-scoring AI memory system ever benchmarked. And it's free.",
             "url": "https://github.com/MemPalace/mempalace",
-            "stars": 45434,
-            "forks": 5875,
+            "stars": 45540,
+            "forks": 5896,
             "score": 99
         },
         {
@@ -18,8 +18,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "safishamsi/graphify",
             "description": "AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, GitHub Copilot CLI, OpenClaw, Factory Droid, Trae, Google Antigravity). Turn any folder of code, docs, papers, images, or videos into a queryable knowledge graph",
             "url": "https://github.com/safishamsi/graphify",
-            "stars": 25927,
-            "forks": 2782,
+            "stars": 26044,
+            "forks": 2791,
             "score": 99
         },
         {
@@ -29,8 +29,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "KKKKhazix/khazix-skills",
             "description": "\u6570\u5b57\u751f\u547d\u5361\u5179\u514b\u5f00\u6e90\u7684 AI Skills \u5408\u96c6",
             "url": "https://github.com/KKKKhazix/khazix-skills",
-            "stars": 4012,
-            "forks": 672,
+            "stars": 4075,
+            "forks": 678,
             "score": 99
         },
         {
@@ -40,8 +40,19 @@ const ALPHA_DATA_V2 = {
             "full_name": "alchaincyf/hermes-agent-orange-book",
             "description": "Hermes Agent \u4ece\u5165\u95e8\u5230\u7cbe\u901a \u00b7 \u6a59\u76ae\u4e66\u7cfb\u5217 \u00b7 Nous Research \u5f00\u6e90 AI Agent \u6846\u67b6\u5b9e\u6218\u6307\u5357",
             "url": "https://github.com/alchaincyf/hermes-agent-orange-book",
-            "stars": 2404,
-            "forks": 252,
+            "stars": 2414,
+            "forks": 253,
+            "score": 99
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "fireworks-tech-graph",
+            "full_name": "yizhiyanhua-ai/fireworks-tech-graph",
+            "description": "Claude Code skill for generating production-quality SVG+PNG technical diagrams. Supports 8 diagram types, 5 visual styles, and deep AI/Agent domain knowledge.",
+            "url": "https://github.com/yizhiyanhua-ai/fireworks-tech-graph",
+            "stars": 2305,
+            "forks": 181,
             "score": 99
         },
         {
@@ -58,22 +69,11 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "fireworks-tech-graph",
-            "full_name": "yizhiyanhua-ai/fireworks-tech-graph",
-            "description": "Claude Code skill for generating production-quality SVG+PNG technical diagrams. Supports 8 diagram types, 5 visual styles, and deep AI/Agent domain knowledge.",
-            "url": "https://github.com/yizhiyanhua-ai/fireworks-tech-graph",
-            "stars": 2273,
-            "forks": 179,
-            "score": 99
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
             "name": "parlor",
             "full_name": "fikrikarim/parlor",
             "description": "On-device, real-time multimodal AI. Have natural voice and vision conversations with an AI that runs entirely on your machine. Powered by Gemma 4 E2B and Kokoro.",
             "url": "https://github.com/fikrikarim/parlor",
-            "stars": 1490,
+            "stars": 1491,
             "forks": 159,
             "score": 99
         },
@@ -84,8 +84,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "alejandrobalderas/claude-code-from-source",
             "description": "Architecture, patterns & internals of Anthropic's AI coding agent \u2014 reverse-engineered from source maps",
             "url": "https://github.com/alejandrobalderas/claude-code-from-source",
-            "stars": 1417,
-            "forks": 425,
+            "stars": 1421,
+            "forks": 427,
             "score": 99
         },
         {
@@ -95,7 +95,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "repowise-dev/claude-code-prompts",
             "description": "Independently authored prompt templates for AI coding agents \u2014 system prompts, tool prompts, agent delegation, memory management, and multi-agent coordination. Informed by studying Claude Code.",
             "url": "https://github.com/repowise-dev/claude-code-prompts",
-            "stars": 935,
+            "stars": 936,
             "forks": 355,
             "score": 99
         },
@@ -106,41 +106,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "joeynyc/hermes-hudui",
             "description": "Web UI consciousness monitor for Hermes \u2014 the AI agent with persistent memory",
             "url": "https://github.com/joeynyc/hermes-hudui",
-            "stars": 857,
+            "stars": 862,
             "forks": 90,
-            "score": 99
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "obsidian-ai-orange-book",
-            "full_name": "alchaincyf/obsidian-ai-orange-book",
-            "description": "Obsidian + Claude Code: Rebuild Your Second Brain with AI \u00b7 \u6a59\u76ae\u4e66\u7cfb\u5217 \u00b7 \u7528AI\u91cd\u5efa\u4f60\u7684\u7b2c\u4e8c\u5927\u8111",
-            "url": "https://github.com/alchaincyf/obsidian-ai-orange-book",
-            "stars": 591,
-            "forks": 59,
-            "score": 99
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "anything-analyzer",
-            "full_name": "Mouseww/anything-analyzer",
-            "description": "\u5229\u7528 browser + CDP capture + AI analysis  \u50bb\u74dc\u5f0f\u751f\u6210 \u6ce8\u518c\u673a | 2API | \u5176\u4ed6\u6d4f\u89c8\u5668\u884c\u4e3a \u7684\u534f\u8bae\u5206\u6790\u6587\u6863",
-            "url": "https://github.com/Mouseww/anything-analyzer",
-            "stars": 550,
-            "forks": 160,
-            "score": 99
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "codeburn",
-            "full_name": "AgentSeal/codeburn",
-            "description": "See where your AI coding tokens go. Interactive TUI dashboard for Claude Code and Codex cost observability.",
-            "url": "https://github.com/AgentSeal/codeburn",
-            "stars": 465,
-            "forks": 32,
             "score": 99
         },
         {
@@ -150,9 +117,53 @@ const ALPHA_DATA_V2 = {
             "full_name": "OpenMOSS/MOSS-TTS-Nano",
             "description": "MOSS-TTS-Nano is an open-source multilingual tiny speech generation model from MOSI.AI and the OpenMOSS team. With only 0.1B parameters, it is designed for realtime speech generation, can run directly on CPU without a GPU, and keeps the deployment stack simple enough for local demos, web serving, and lightweight product integration.",
             "url": "https://github.com/OpenMOSS/MOSS-TTS-Nano",
-            "stars": 613,
-            "forks": 48,
-            "score": 97
+            "stars": 637,
+            "forks": 49,
+            "score": 99
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "obsidian-ai-orange-book",
+            "full_name": "alchaincyf/obsidian-ai-orange-book",
+            "description": "Obsidian + Claude Code: Rebuild Your Second Brain with AI \u00b7 \u6a59\u76ae\u4e66\u7cfb\u5217 \u00b7 \u7528AI\u91cd\u5efa\u4f60\u7684\u7b2c\u4e8c\u5927\u8111",
+            "url": "https://github.com/alchaincyf/obsidian-ai-orange-book",
+            "stars": 594,
+            "forks": 60,
+            "score": 99
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "anything-analyzer",
+            "full_name": "Mouseww/anything-analyzer",
+            "description": "\u5229\u7528 browser + CDP capture + AI analysis  \u50bb\u74dc\u5f0f\u751f\u6210 \u6ce8\u518c\u673a | 2API | \u5176\u4ed6\u6d4f\u89c8\u5668\u884c\u4e3a \u7684\u534f\u8bae\u5206\u6790\u6587\u6863",
+            "url": "https://github.com/Mouseww/anything-analyzer",
+            "stars": 584,
+            "forks": 168,
+            "score": 99
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "codeburn",
+            "full_name": "AgentSeal/codeburn",
+            "description": "See where your AI coding tokens go. Interactive TUI dashboard for Claude Code and Codex cost observability.",
+            "url": "https://github.com/AgentSeal/codeburn",
+            "stars": 548,
+            "forks": 43,
+            "score": 99
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "GEOFlow",
+            "full_name": "yaojingang/GEOFlow",
+            "description": "Open-source GEO content production system with AI tasks, review workflow, and publishing.",
+            "url": "https://github.com/yaojingang/GEOFlow",
+            "stars": 436,
+            "forks": 86,
+            "score": 99
         },
         {
             "main_cat": "AI",
@@ -161,7 +172,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "hilash/cabinet",
             "description": "AI-first knowledge base and startup OS",
             "url": "https://github.com/hilash/cabinet",
-            "stars": 1263,
+            "stars": 1268,
             "forks": 123,
             "score": 92
         },
@@ -183,7 +194,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "hexiecs/talk-normal",
             "description": "Make any LLM talk like a normal person. A system prompt that removes AI slop.",
             "url": "https://github.com/hexiecs/talk-normal",
-            "stars": 788,
+            "stars": 795,
             "forks": 19,
             "score": 84
         },
@@ -194,7 +205,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Houseofmvps/codesight",
             "description": "Universal AI context generator. Saves thousands of tokens per conversation in Claude Code, Cursor, Copilot, Codex, and more.",
             "url": "https://github.com/Houseofmvps/codesight",
-            "stars": 885,
+            "stars": 888,
             "forks": 86,
             "score": 81
         },
@@ -205,7 +216,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "SafeRL-Lab/cheetahclaws",
             "description": "CheetahClaws (Nano Claude Code): A Fast, Easy-to-Use, Python-Native Personal AI Assistant for Any Model, Inspired by OpenClaw and Claude Code, Built to Work for You Autonomously 24/7.",
             "url": "https://github.com/SafeRL-Lab/cheetahclaws",
-            "stars": 533,
+            "stars": 534,
             "forks": 206,
             "score": 75
         },
@@ -216,7 +227,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "brooks376/Happy-Horse-1.0",
             "description": "Information collection for the Happy Horse AI video generator model. Official demo and updates at happyhorses.io.",
             "url": "https://github.com/brooks376/Happy-Horse-1.0",
-            "stars": 560,
+            "stars": 561,
             "forks": 55,
             "score": 73
         },
@@ -227,7 +238,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "agents-io/PokeClaw",
             "description": "PokeClaw (PocketClaw) \u2014 first on-device AI that controls your Android phone. Gemma 4, no cloud, no API key. Poke is short for Pocket.",
             "url": "https://github.com/agents-io/PokeClaw",
-            "stars": 586,
+            "stars": 587,
             "forks": 81,
             "score": 71
         },
@@ -249,7 +260,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "he-yufeng/CoreCoder",
             "description": "Minimal AI coding agent (~950 LoC Python) inspired by Claude Code. Works with any LLM. Think NanoGPT for coding agent. Formerly NanoCoder. ",
             "url": "https://github.com/he-yufeng/CoreCoder",
-            "stars": 529,
+            "stars": 530,
             "forks": 142,
             "score": 66
         },
@@ -260,20 +271,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "jarvesusaram99/Portable-AI-USB",
             "description": "A 100% offline, fully portable, zero-trace AI (Ollama + Llama 3 + AnythingLLM) that runs natively from a USB drive on Windows and Mac.",
             "url": "https://github.com/jarvesusaram99/Portable-AI-USB",
-            "stars": 434,
-            "forks": 157,
-            "score": 65
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "auto-deep-researcher-24x7",
-            "full_name": "Xiangyue-Zhang/auto-deep-researcher-24x7",
-            "description": "\ud83d\udd25 An autonomous AI agent that runs your deep learning experiments 24/7 while you sleep. Zero-cost monitoring, Leader-Worker architecture, constant-size memory.",
-            "url": "https://github.com/Xiangyue-Zhang/auto-deep-researcher-24x7",
-            "stars": 424,
-            "forks": 31,
-            "score": 60
+            "stars": 441,
+            "forks": 158,
+            "score": 63
         },
         {
             "main_cat": "AI",
@@ -282,7 +282,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "kzhrknt/awesome-design-md-jp",
             "description": "\u65e5\u672c\u8a9eUI\u3092AI\u30a8\u30fc\u30b8\u30a7\u30f3\u30c8\u306b\u6b63\u3057\u304f\u3064\u304f\u3089\u305b\u308b\u305f\u3081\u306eDESIGN.md\u96c6\u3002Japanese DESIGN.md collection for AI agents \u2014 extending Google Stitch format with CJK typography.",
             "url": "https://github.com/kzhrknt/awesome-design-md-jp",
-            "stars": 465,
+            "stars": 467,
             "forks": 35,
             "score": 57
         },
@@ -293,7 +293,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "agenmod/immortal-skill",
             "description": "\u267e\ufe0f \u5f00\u6e90\u6570\u5b57\u6c38\u751f\u6846\u67b6 \u2014 \u4ece\u804a\u5929\u8bb0\u5f55\u84b8\u998f\u4efb\u4f55\u4eba\u7684\u4e03\u7ef4\u6570\u5b57\u5206\u8eab\u3002\u652f\u6301\u5fae\u4fe1/\u98de\u4e66/iMessage/Telegram\u7b4912+\u5e73\u53f0\uff0c7\u79cd\u89d2\u8272\u6a21\u677f\uff0c\u5bf9\u9f50 OpenClaw Soul Spec \u6807\u51c6\u3002\u4e00\u884c\u6307\u4ee4\u8ba9\u4f60\u7684AI\u5b66\u4f1a\u84b8\u998f\u3002",
             "url": "https://github.com/agenmod/immortal-skill",
-            "stars": 553,
+            "stars": 555,
             "forks": 57,
             "score": 56
         },
@@ -304,7 +304,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "labarba/sciwrite",
             "description": "Agent Skill for AI-assisted manuscript writing review, based on Dr. Kristin Sainani's \"Writing in the Sciences\" methodology.",
             "url": "https://github.com/labarba/sciwrite",
-            "stars": 436,
+            "stars": 439,
             "forks": 51,
             "score": 56
         },
@@ -662,5 +662,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/market/will-the-price-of-solana-be-between-110-120-on-april-15"
         }
     ],
-    "timestamp": "2026-04-14 13:13"
+    "timestamp": "2026-04-14 15:09"
 };
