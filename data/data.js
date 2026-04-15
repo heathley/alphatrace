@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "MemPalace/mempalace",
             "description": "The best-benchmarked open-source AI memory system. And it's free.",
             "url": "https://github.com/MemPalace/mempalace",
-            "stars": 46543,
-            "forks": 6065,
+            "stars": 46548,
+            "forks": 6066,
             "score": 99
         },
         {
@@ -18,8 +18,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "safishamsi/graphify",
             "description": "AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, GitHub Copilot CLI, OpenClaw, Factory Droid, Trae, Google Antigravity). Turn any folder of code, docs, papers, images, or videos into a queryable knowledge graph",
             "url": "https://github.com/safishamsi/graphify",
-            "stars": 27327,
-            "forks": 2966,
+            "stars": 27343,
+            "forks": 2967,
             "score": 99
         },
         {
@@ -29,7 +29,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "KKKKhazix/khazix-skills",
             "description": "\u6570\u5b57\u751f\u547d\u5361\u5179\u514b\u5f00\u6e90\u7684 AI Skills \u5408\u96c6",
             "url": "https://github.com/KKKKhazix/khazix-skills",
-            "stars": 4652,
+            "stars": 4655,
             "forks": 765,
             "score": 99
         },
@@ -40,7 +40,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "yizhiyanhua-ai/fireworks-tech-graph",
             "description": "Claude Code skill for generating production-quality SVG+PNG technical diagrams. Supports 8 diagram types, 5 visual styles, and deep AI/Agent domain knowledge.",
             "url": "https://github.com/yizhiyanhua-ai/fireworks-tech-graph",
-            "stars": 2915,
+            "stars": 2925,
             "forks": 245,
             "score": 99
         },
@@ -51,7 +51,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "alchaincyf/hermes-agent-orange-book",
             "description": "Hermes Agent \u4ece\u5165\u95e8\u5230\u7cbe\u901a \u00b7 \u6a59\u76ae\u4e66\u7cfb\u5217 \u00b7 Nous Research \u5f00\u6e90 AI Agent \u6846\u67b6\u5b9e\u6218\u6307\u5357",
             "url": "https://github.com/alchaincyf/hermes-agent-orange-book",
-            "stars": 2546,
+            "stars": 2549,
             "forks": 270,
             "score": 99
         },
@@ -63,7 +63,7 @@ const ALPHA_DATA_V2 = {
             "description": "AI-powered penetration testing assistant using local LLM on linux (Parrot OS)",
             "url": "https://github.com/sooryathejas/METATRON",
             "stars": 2343,
-            "forks": 483,
+            "forks": 484,
             "score": 99
         },
         {
@@ -73,7 +73,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "AgentSeal/codeburn",
             "description": "See where your AI coding tokens go. Interactive TUI dashboard for Claude Code, Codex, and Cursor cost observability.",
             "url": "https://github.com/AgentSeal/codeburn",
-            "stars": 1695,
+            "stars": 1717,
             "forks": 128,
             "score": 99
         },
@@ -95,7 +95,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "OpenMOSS/MOSS-TTS-Nano",
             "description": "MOSS-TTS-Nano is an open-source multilingual tiny speech generation model from MOSI.AI and the OpenMOSS team. With only 0.1B parameters, it is designed for realtime speech generation, can run directly on CPU without a GPU, and keeps the deployment stack simple enough for local demos, web serving, and lightweight product integration.",
             "url": "https://github.com/OpenMOSS/MOSS-TTS-Nano",
-            "stars": 1006,
+            "stars": 1010,
             "forks": 99,
             "score": 99
         },
@@ -106,8 +106,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "joeynyc/hermes-hudui",
             "description": "Web UI consciousness monitor for Hermes \u2014 the AI agent with persistent memory",
             "url": "https://github.com/joeynyc/hermes-hudui",
-            "stars": 910,
-            "forks": 102,
+            "stars": 912,
+            "forks": 103,
             "score": 99
         },
         {
@@ -117,7 +117,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Mouseww/anything-analyzer",
             "description": "\u5229\u7528 browser + CDP capture + AI analysis  \u50bb\u74dc\u5f0f\u751f\u6210 \u6ce8\u518c\u673a | 2API | \u5176\u4ed6\u6d4f\u89c8\u5668\u6216\u5e94\u7528\u884c\u4e3a \u7684\u534f\u8bae\u5206\u6790\u6587\u6863",
             "url": "https://github.com/Mouseww/anything-analyzer",
-            "stars": 780,
+            "stars": 782,
             "forks": 209,
             "score": 99
         },
@@ -128,8 +128,19 @@ const ALPHA_DATA_V2 = {
             "full_name": "yaojingang/GEOFlow",
             "description": "Open-source GEO content production system with AI tasks, review workflow, and publishing.",
             "url": "https://github.com/yaojingang/GEOFlow",
-            "stars": 652,
+            "stars": 655,
             "forks": 138,
+            "score": 99
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "weft",
+            "full_name": "WeaveMindAI/weft",
+            "description": "A programming language for AI systems",
+            "url": "https://github.com/WeaveMindAI/weft",
+            "stars": 309,
+            "forks": 45,
             "score": 99
         },
         {
@@ -227,20 +238,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "Unclecheng-li/AI_Animation",
             "description": "\u672c\u9879\u76ee\u6574\u7406\u4e86\u7528\u4e8e\u751f\u6210[\u70ab\u9177 HTML \u52a8\u753b\u7f51\u9875]\u7684 AI Prompts\uff0c\u6db5\u76d6\u52a8\u753b\u6548\u679c\u30013D \u53ef\u89c6\u5316\u3001PPT \u98ce\u683c\u6f14\u793a\u3001UI \u7f8e\u5316\u7b49\u591a\u4e2a\u7c7b\u522b\u3002",
             "url": "https://github.com/Unclecheng-li/AI_Animation",
-            "stars": 307,
+            "stars": 309,
             "forks": 29,
             "score": 60
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "evo-nexus",
-            "full_name": "EvolutionAPI/evo-nexus",
-            "description": "The open source operating system for AI-powered businesses",
-            "url": "https://github.com/EvolutionAPI/evo-nexus",
-            "stars": 300,
-            "forks": 66,
-            "score": 58
         },
         {
             "main_cat": "AI",
@@ -256,23 +256,23 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "obsidian-wiki",
-            "full_name": "Ar9av/obsidian-wiki",
-            "description": "Framework for AI agents to build and maintain an Obsidian wiki using Karpathy's LLM Wiki pattern",
-            "url": "https://github.com/Ar9av/obsidian-wiki",
-            "stars": 385,
-            "forks": 63,
-            "score": 56
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
             "name": "antivibe",
             "full_name": "mohi-devhub/antivibe",
             "description": "Learn what AI writes, not just accept it. A Claude Code skill that turns AI-generated code into educational deep dives.",
             "url": "https://github.com/mohi-devhub/antivibe",
-            "stars": 350,
-            "forks": 20,
+            "stars": 357,
+            "forks": 22,
+            "score": 57
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "obsidian-wiki",
+            "full_name": "Ar9av/obsidian-wiki",
+            "description": "Framework for AI agents to build and maintain an Obsidian wiki using Karpathy's LLM Wiki pattern",
+            "url": "https://github.com/Ar9av/obsidian-wiki",
+            "stars": 386,
+            "forks": 63,
             "score": 56
         },
         {
@@ -315,7 +315,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "allenai/WildDet3D",
             "description": "Allen Institute for AI: WildDet3D: Scaling Promptable 3D Detection in the Wild",
             "url": "https://github.com/allenai/WildDet3D",
-            "stars": 331,
+            "stars": 332,
             "forks": 24,
             "score": 44
         },
@@ -348,7 +348,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Agent-FM/agentfm-core",
             "description": "AgentFM is a peer-to-peer network that turns everyday computers into a decentralized AI supercomputer. AgentFM lets you run massive AI workloads directly across a global mesh of idle CPUs and GPUs.",
             "url": "https://github.com/Agent-FM/agentfm-core",
-            "stars": 21,
+            "stars": 22,
             "forks": 4,
             "score": 32
         },
@@ -695,5 +695,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/market/will-the-price-of-solana-be-less-than-40-on-april-16"
         }
     ],
-    "timestamp": "2026-04-15 21:52"
+    "timestamp": "2026-04-15 22:37"
 };
