@@ -5,10 +5,10 @@ const ALPHA_DATA_V2 = {
             "sub_cat": null,
             "name": "mempalace",
             "full_name": "MemPalace/mempalace",
-            "description": "The highest-scoring AI memory system ever benchmarked. And it's free.",
+            "description": "The best-benchmarked open-source AI memory system. And it's free.",
             "url": "https://github.com/MemPalace/mempalace",
-            "stars": 45917,
-            "forks": 5950,
+            "stars": 46028,
+            "forks": 5974,
             "score": 99
         },
         {
@@ -18,8 +18,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "safishamsi/graphify",
             "description": "AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, GitHub Copilot CLI, OpenClaw, Factory Droid, Trae, Google Antigravity). Turn any folder of code, docs, papers, images, or videos into a queryable knowledge graph",
             "url": "https://github.com/safishamsi/graphify",
-            "stars": 26454,
-            "forks": 2849,
+            "stars": 26584,
+            "forks": 2865,
             "score": 99
         },
         {
@@ -29,8 +29,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "KKKKhazix/khazix-skills",
             "description": "\u6570\u5b57\u751f\u547d\u5361\u5179\u514b\u5f00\u6e90\u7684 AI Skills \u5408\u96c6",
             "url": "https://github.com/KKKKhazix/khazix-skills",
-            "stars": 4275,
-            "forks": 709,
+            "stars": 4367,
+            "forks": 728,
             "score": 99
         },
         {
@@ -40,8 +40,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "yizhiyanhua-ai/fireworks-tech-graph",
             "description": "Claude Code skill for generating production-quality SVG+PNG technical diagrams. Supports 8 diagram types, 5 visual styles, and deep AI/Agent domain knowledge.",
             "url": "https://github.com/yizhiyanhua-ai/fireworks-tech-graph",
-            "stars": 2472,
-            "forks": 198,
+            "stars": 2577,
+            "forks": 210,
             "score": 99
         },
         {
@@ -51,8 +51,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "alchaincyf/hermes-agent-orange-book",
             "description": "Hermes Agent \u4ece\u5165\u95e8\u5230\u7cbe\u901a \u00b7 \u6a59\u76ae\u4e66\u7cfb\u5217 \u00b7 Nous Research \u5f00\u6e90 AI Agent \u6846\u67b6\u5b9e\u6218\u6307\u5357",
             "url": "https://github.com/alchaincyf/hermes-agent-orange-book",
-            "stars": 2456,
-            "forks": 259,
+            "stars": 2479,
+            "forks": 261,
             "score": 99
         },
         {
@@ -62,8 +62,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "sooryathejas/METATRON",
             "description": "AI-powered penetration testing assistant using local LLM on linux (Parrot OS)",
             "url": "https://github.com/sooryathejas/METATRON",
-            "stars": 2306,
-            "forks": 473,
+            "stars": 2308,
+            "forks": 475,
             "score": 99
         },
         {
@@ -73,8 +73,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "fikrikarim/parlor",
             "description": "On-device, real-time multimodal AI. Have natural voice and vision conversations with an AI that runs entirely on your machine. Powered by Gemma 4 E2B and Kokoro.",
             "url": "https://github.com/fikrikarim/parlor",
-            "stars": 1499,
-            "forks": 160,
+            "stars": 1505,
+            "forks": 161,
             "score": 99
         },
         {
@@ -84,8 +84,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "AgentSeal/codeburn",
             "description": "See where your AI coding tokens go. Interactive TUI dashboard for Claude Code and Codex cost observability.",
             "url": "https://github.com/AgentSeal/codeburn",
-            "stars": 909,
-            "forks": 72,
+            "stars": 1038,
+            "forks": 75,
             "score": 99
         },
         {
@@ -95,7 +95,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "joeynyc/hermes-hudui",
             "description": "Web UI consciousness monitor for Hermes \u2014 the AI agent with persistent memory",
             "url": "https://github.com/joeynyc/hermes-hudui",
-            "stars": 881,
+            "stars": 884,
             "forks": 92,
             "score": 99
         },
@@ -106,8 +106,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "OpenMOSS/MOSS-TTS-Nano",
             "description": "MOSS-TTS-Nano is an open-source multilingual tiny speech generation model from MOSI.AI and the OpenMOSS team. With only 0.1B parameters, it is designed for realtime speech generation, can run directly on CPU without a GPU, and keeps the deployment stack simple enough for local demos, web serving, and lightweight product integration.",
             "url": "https://github.com/OpenMOSS/MOSS-TTS-Nano",
-            "stars": 761,
-            "forks": 66,
+            "stars": 820,
+            "forks": 72,
             "score": 99
         },
         {
@@ -117,8 +117,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "Mouseww/anything-analyzer",
             "description": "\u5229\u7528 browser + CDP capture + AI analysis  \u50bb\u74dc\u5f0f\u751f\u6210 \u6ce8\u518c\u673a | 2API | \u5176\u4ed6\u6d4f\u89c8\u5668\u6216\u5e94\u7528\u884c\u4e3a \u7684\u534f\u8bae\u5206\u6790\u6587\u6863",
             "url": "https://github.com/Mouseww/anything-analyzer",
-            "stars": 650,
-            "forks": 182,
+            "stars": 664,
+            "forks": 187,
             "score": 99
         },
         {
@@ -128,8 +128,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "alchaincyf/obsidian-ai-orange-book",
             "description": "Obsidian + Claude Code: Rebuild Your Second Brain with AI \u00b7 \u6a59\u76ae\u4e66\u7cfb\u5217 \u00b7 \u7528AI\u91cd\u5efa\u4f60\u7684\u7b2c\u4e8c\u5927\u8111",
             "url": "https://github.com/alchaincyf/obsidian-ai-orange-book",
-            "stars": 604,
-            "forks": 60,
+            "stars": 612,
+            "forks": 62,
             "score": 99
         },
         {
@@ -139,8 +139,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "yaojingang/GEOFlow",
             "description": "Open-source GEO content production system with AI tasks, review workflow, and publishing.",
             "url": "https://github.com/yaojingang/GEOFlow",
-            "stars": 513,
-            "forks": 102,
+            "stars": 543,
+            "forks": 109,
             "score": 99
         },
         {
@@ -150,9 +150,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "hilash/cabinet",
             "description": "AI-first knowledge base and startup OS",
             "url": "https://github.com/hilash/cabinet",
-            "stars": 1289,
+            "stars": 1296,
             "forks": 126,
-            "score": 94
+            "score": 90
         },
         {
             "main_cat": "AI",
@@ -161,9 +161,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "hexiecs/talk-normal",
             "description": "Make any LLM talk like a normal person. A system prompt that removes AI slop.",
             "url": "https://github.com/hexiecs/talk-normal",
-            "stars": 832,
+            "stars": 843,
             "forks": 19,
-            "score": 80
+            "score": 81
         },
         {
             "main_cat": "AI",
@@ -178,25 +178,25 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "Happy-Horse-1.0",
-            "full_name": "brooks376/Happy-Horse-1.0",
-            "description": "Information collection for the Happy Horse AI video generator model. Official demo and updates at happyhorses.io.",
-            "url": "https://github.com/brooks376/Happy-Horse-1.0",
-            "stars": 561,
-            "forks": 55,
-            "score": 73
-        },
-        {
-            "main_cat": "AI",
             "sub_cat": null,
             "name": "PokeClaw",
             "full_name": "agents-io/PokeClaw",
             "description": "PokeClaw (PocketClaw) \u2014 first on-device AI that controls your Android phone. Gemma 4, no cloud, no API key. Poke is short for Pocket.",
             "url": "https://github.com/agents-io/PokeClaw",
-            "stars": 594,
+            "stars": 596,
             "forks": 84,
             "score": 72
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "Happy-Horse-1.0",
+            "full_name": "brooks376/Happy-Horse-1.0",
+            "description": "Information collection for the Happy Horse AI video generator model. Official demo and updates at happyhorses.io.",
+            "url": "https://github.com/brooks376/Happy-Horse-1.0",
+            "stars": 562,
+            "forks": 55,
+            "score": 69
         },
         {
             "main_cat": "AI",
@@ -205,7 +205,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "kellyvv/PhoneClaw",
             "description": "PhoneClaw: On-device AI Agent for Phone powered by Gemma 4",
             "url": "https://github.com/kellyvv/PhoneClaw",
-            "stars": 567,
+            "stars": 568,
             "forks": 91,
             "score": 65
         },
@@ -216,7 +216,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Xiangyue-Zhang/auto-deep-researcher-24x7",
             "description": "\ud83d\udd25 An autonomous AI agent that runs your deep learning experiments 24/7 while you sleep. Zero-cost monitoring, Leader-Worker architecture, constant-size memory.",
             "url": "https://github.com/Xiangyue-Zhang/auto-deep-researcher-24x7",
-            "stars": 436,
+            "stars": 438,
             "forks": 32,
             "score": 61
         },
@@ -227,7 +227,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "EvolutionAPI/evo-nexus",
             "description": "The open source operating system for AI-powered businesses \u2014 built on Claude Code",
             "url": "https://github.com/EvolutionAPI/evo-nexus",
-            "stars": 283,
+            "stars": 285,
             "forks": 63,
             "score": 59
         },
@@ -249,7 +249,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "kzhrknt/awesome-design-md-jp",
             "description": "\u65e5\u672c\u8a9eUI\u3092AI\u30a8\u30fc\u30b8\u30a7\u30f3\u30c8\u306b\u6b63\u3057\u304f\u3064\u304f\u3089\u305b\u308b\u305f\u3081\u306eDESIGN.md\u96c6\u3002Japanese DESIGN.md collection for AI agents \u2014 extending Google Stitch format with CJK typography.",
             "url": "https://github.com/kzhrknt/awesome-design-md-jp",
-            "stars": 470,
+            "stars": 471,
             "forks": 35,
             "score": 57
         },
@@ -260,9 +260,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "Ar9av/obsidian-wiki",
             "description": "Framework for AI agents to build and maintain an Obsidian wiki using Karpathy's LLM Wiki pattern",
             "url": "https://github.com/Ar9av/obsidian-wiki",
-            "stars": 361,
-            "forks": 57,
-            "score": 56
+            "stars": 364,
+            "forks": 58,
+            "score": 57
         },
         {
             "main_cat": "AI",
@@ -271,9 +271,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "labarba/sciwrite",
             "description": "Agent Skill for AI-assisted manuscript writing review, based on Dr. Kristin Sainani's \"Writing in the Sciences\" methodology.",
             "url": "https://github.com/labarba/sciwrite",
-            "stars": 456,
-            "forks": 53,
-            "score": 55
+            "stars": 465,
+            "forks": 55,
+            "score": 56
         },
         {
             "main_cat": "AI",
@@ -293,7 +293,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "JinGuYuan/jinguyuan-dumpling-skill",
             "description": "\u91d1\u8c37\u56ed\u997a\u5b50\u9986 AI Skill - \u5317\u90ae\u8fb9\u4e0a\u7684\u997a\u5b50\u9986",
             "url": "https://github.com/JinGuYuan/jinguyuan-dumpling-skill",
-            "stars": 325,
+            "stars": 327,
             "forks": 12,
             "score": 48
         },
@@ -304,7 +304,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "zarazhangrui/personalized-podcast",
             "description": "Turn any content into a personalized AI podcast. NotebookLM-style, except you control the script, voices, and hosts. Listen in Apple Podcasts, Spotify, or any podcast app.",
             "url": "https://github.com/zarazhangrui/personalized-podcast",
-            "stars": 286,
+            "stars": 287,
             "forks": 37,
             "score": 45
         },
@@ -315,8 +315,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "allenai/WildDet3D",
             "description": "Allen Institute for AI: WildDet3D: Scaling Promptable 3D Detection in the Wild",
             "url": "https://github.com/allenai/WildDet3D",
-            "stars": 319,
-            "forks": 23,
+            "stars": 321,
+            "forks": 24,
             "score": 43
         },
         {
@@ -337,8 +337,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "rookiemann/multi-turboquant",
             "description": "Unified KV cache compression for LLM inference \u2014 TurboQuant, IsoQuant, PlanarQuant, TriAttention. 10 methods, GPU-validated, multi-GPU planner. Compress KV cache 5-80x to run bigger models, longer context, more agents on your GPU.",
             "url": "https://github.com/rookiemann/multi-turboquant",
-            "stars": 15,
-            "forks": 4,
+            "stars": 16,
+            "forks": 5,
             "score": 32
         },
         {
@@ -641,6 +641,20 @@ const ALPHA_DATA_V2 = {
     ],
     "news": [
         {
+            "title": "LogicEval: A Systematic Framework for Evaluating Automated Repair Techniques for Logical Vulnerabilities in Real-World Software",
+            "source": "ArXiv",
+            "type": "Research Alpha",
+            "color": "text-indigo-600",
+            "url": "http://arxiv.org/abs/2604.12994v1"
+        },
+        {
+            "title": "Parallax: Why AI Agents That Think Must Never Act",
+            "source": "ArXiv",
+            "type": "Research Alpha",
+            "color": "text-indigo-600",
+            "url": "http://arxiv.org/abs/2604.12986v1"
+        },
+        {
             "title": "Will the price of Solana be between $110 and $120 on April 15? (Probability: 0%)",
             "source": "Polymarket",
             "type": "Expectation",
@@ -648,5 +662,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/market/will-the-price-of-solana-be-between-110-120-on-april-15"
         }
     ],
-    "timestamp": "2026-04-15 01:56"
+    "timestamp": "2026-04-15 04:43"
 };
