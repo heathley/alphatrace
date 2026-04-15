@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "MemPalace/mempalace",
             "description": "The best-benchmarked open-source AI memory system. And it's free.",
             "url": "https://github.com/MemPalace/mempalace",
-            "stars": 46280,
-            "forks": 6016,
+            "stars": 46311,
+            "forks": 6024,
             "score": 99
         },
         {
@@ -18,8 +18,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "safishamsi/graphify",
             "description": "AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, GitHub Copilot CLI, OpenClaw, Factory Droid, Trae, Google Antigravity). Turn any folder of code, docs, papers, images, or videos into a queryable knowledge graph",
             "url": "https://github.com/safishamsi/graphify",
-            "stars": 26948,
-            "forks": 2911,
+            "stars": 26995,
+            "forks": 2918,
             "score": 99
         },
         {
@@ -29,8 +29,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "KKKKhazix/khazix-skills",
             "description": "\u6570\u5b57\u751f\u547d\u5361\u5179\u514b\u5f00\u6e90\u7684 AI Skills \u5408\u96c6",
             "url": "https://github.com/KKKKhazix/khazix-skills",
-            "stars": 4534,
-            "forks": 754,
+            "stars": 4568,
+            "forks": 758,
             "score": 99
         },
         {
@@ -40,8 +40,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "yizhiyanhua-ai/fireworks-tech-graph",
             "description": "Claude Code skill for generating production-quality SVG+PNG technical diagrams. Supports 8 diagram types, 5 visual styles, and deep AI/Agent domain knowledge.",
             "url": "https://github.com/yizhiyanhua-ai/fireworks-tech-graph",
-            "stars": 2743,
-            "forks": 228,
+            "stars": 2760,
+            "forks": 230,
             "score": 99
         },
         {
@@ -51,8 +51,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "alchaincyf/hermes-agent-orange-book",
             "description": "Hermes Agent \u4ece\u5165\u95e8\u5230\u7cbe\u901a \u00b7 \u6a59\u76ae\u4e66\u7cfb\u5217 \u00b7 Nous Research \u5f00\u6e90 AI Agent \u6846\u67b6\u5b9e\u6218\u6307\u5357",
             "url": "https://github.com/alchaincyf/hermes-agent-orange-book",
-            "stars": 2525,
-            "forks": 267,
+            "stars": 2528,
+            "forks": 268,
             "score": 99
         },
         {
@@ -62,7 +62,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "sooryathejas/METATRON",
             "description": "AI-powered penetration testing assistant using local LLM on linux (Parrot OS)",
             "url": "https://github.com/sooryathejas/METATRON",
-            "stars": 2320,
+            "stars": 2323,
             "forks": 476,
             "score": 99
         },
@@ -73,7 +73,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "fikrikarim/parlor",
             "description": "On-device, real-time multimodal AI. Have natural voice and vision conversations with an AI that runs entirely on your machine. Powered by Gemma 4 E2B and Kokoro.",
             "url": "https://github.com/fikrikarim/parlor",
-            "stars": 1520,
+            "stars": 1524,
             "forks": 165,
             "score": 99
         },
@@ -82,10 +82,10 @@ const ALPHA_DATA_V2 = {
             "sub_cat": "AI General",
             "name": "codeburn",
             "full_name": "AgentSeal/codeburn",
-            "description": "See where your AI coding tokens go. Interactive TUI dashboard for Claude Code and Codex cost observability.",
+            "description": "See where your AI coding tokens go. Interactive TUI dashboard for Claude Code, Codex, and Cursor cost observability.",
             "url": "https://github.com/AgentSeal/codeburn",
-            "stars": 1367,
-            "forks": 91,
+            "stars": 1418,
+            "forks": 97,
             "score": 99
         },
         {
@@ -95,8 +95,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "OpenMOSS/MOSS-TTS-Nano",
             "description": "MOSS-TTS-Nano is an open-source multilingual tiny speech generation model from MOSI.AI and the OpenMOSS team. With only 0.1B parameters, it is designed for realtime speech generation, can run directly on CPU without a GPU, and keeps the deployment stack simple enough for local demos, web serving, and lightweight product integration.",
             "url": "https://github.com/OpenMOSS/MOSS-TTS-Nano",
-            "stars": 935,
-            "forks": 90,
+            "stars": 953,
+            "forks": 91,
             "score": 99
         },
         {
@@ -106,8 +106,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "joeynyc/hermes-hudui",
             "description": "Web UI consciousness monitor for Hermes \u2014 the AI agent with persistent memory",
             "url": "https://github.com/joeynyc/hermes-hudui",
-            "stars": 902,
-            "forks": 99,
+            "stars": 903,
+            "forks": 100,
             "score": 99
         },
         {
@@ -117,7 +117,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Mouseww/anything-analyzer",
             "description": "\u5229\u7528 browser + CDP capture + AI analysis  \u50bb\u74dc\u5f0f\u751f\u6210 \u6ce8\u518c\u673a | 2API | \u5176\u4ed6\u6d4f\u89c8\u5668\u6216\u5e94\u7528\u884c\u4e3a \u7684\u534f\u8bae\u5206\u6790\u6587\u6863",
             "url": "https://github.com/Mouseww/anything-analyzer",
-            "stars": 727,
+            "stars": 733,
             "forks": 198,
             "score": 99
         },
@@ -128,7 +128,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "alchaincyf/obsidian-ai-orange-book",
             "description": "Obsidian + Claude Code: Rebuild Your Second Brain with AI \u00b7 \u6a59\u76ae\u4e66\u7cfb\u5217 \u00b7 \u7528AI\u91cd\u5efa\u4f60\u7684\u7b2c\u4e8c\u5927\u8111",
             "url": "https://github.com/alchaincyf/obsidian-ai-orange-book",
-            "stars": 622,
+            "stars": 623,
             "forks": 64,
             "score": 99
         },
@@ -139,8 +139,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "yaojingang/GEOFlow",
             "description": "Open-source GEO content production system with AI tasks, review workflow, and publishing.",
             "url": "https://github.com/yaojingang/GEOFlow",
-            "stars": 587,
-            "forks": 124,
+            "stars": 593,
+            "forks": 125,
             "score": 99
         },
         {
@@ -150,7 +150,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "hilash/cabinet",
             "description": "AI-first knowledge base and startup OS",
             "url": "https://github.com/hilash/cabinet",
-            "stars": 1334,
+            "stars": 1339,
             "forks": 127,
             "score": 91
         },
@@ -161,9 +161,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "hexiecs/talk-normal",
             "description": "Make any LLM talk like a normal person. A system prompt that removes AI slop.",
             "url": "https://github.com/hexiecs/talk-normal",
-            "stars": 907,
-            "forks": 20,
-            "score": 84
+            "stars": 940,
+            "forks": 21,
+            "score": 86
         },
         {
             "main_cat": "AI",
@@ -216,8 +216,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "EvolutionAPI/evo-nexus",
             "description": "The open source operating system for AI-powered businesses",
             "url": "https://github.com/EvolutionAPI/evo-nexus",
-            "stars": 291,
-            "forks": 65,
+            "stars": 293,
+            "forks": 66,
             "score": 60
         },
         {
@@ -227,20 +227,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "Xiangyue-Zhang/auto-deep-researcher-24x7",
             "description": "\ud83d\udd25 An autonomous AI agent that runs your deep learning experiments 24/7 while you sleep. Zero-cost monitoring, Leader-Worker architecture, constant-size memory.",
             "url": "https://github.com/Xiangyue-Zhang/auto-deep-researcher-24x7",
-            "stars": 451,
+            "stars": 453,
             "forks": 35,
             "score": 59
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "awesome-design-md-jp",
-            "full_name": "kzhrknt/awesome-design-md-jp",
-            "description": "\u65e5\u672c\u8a9eUI\u3092AI\u30a8\u30fc\u30b8\u30a7\u30f3\u30c8\u306b\u6b63\u3057\u304f\u3064\u304f\u3089\u305b\u308b\u305f\u3081\u306eDESIGN.md\u96c6\u3002Japanese DESIGN.md collection for AI agents \u2014 extending Google Stitch format with CJK typography.",
-            "url": "https://github.com/kzhrknt/awesome-design-md-jp",
-            "stars": 476,
-            "forks": 36,
-            "score": 58
         },
         {
             "main_cat": "AI",
@@ -252,6 +241,17 @@ const ALPHA_DATA_V2 = {
             "stars": 482,
             "forks": 57,
             "score": 57
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "awesome-design-md-jp",
+            "full_name": "kzhrknt/awesome-design-md-jp",
+            "description": "\u65e5\u672c\u8a9eUI\u3092AI\u30a8\u30fc\u30b8\u30a7\u30f3\u30c8\u306b\u6b63\u3057\u304f\u3064\u304f\u3089\u305b\u308b\u305f\u3081\u306eDESIGN.md\u96c6\u3002Japanese DESIGN.md collection for AI agents \u2014 extending Google Stitch format with CJK typography.",
+            "url": "https://github.com/kzhrknt/awesome-design-md-jp",
+            "stars": 476,
+            "forks": 36,
+            "score": 55
         },
         {
             "main_cat": "AI",
@@ -271,9 +271,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "xaspx/hermes-control-interface",
             "description": "A self-hosted web dashboard for the Hermes AI agent stack. Provides a browser-based terminal, file explorer, session overview, cron management, system metrics, and an agent status panel \u2014 all behind a single password gate.",
             "url": "https://github.com/xaspx/hermes-control-interface",
-            "stars": 285,
-            "forks": 36,
-            "score": 53
+            "stars": 288,
+            "forks": 37,
+            "score": 54
         },
         {
             "main_cat": "AI",
@@ -337,8 +337,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "rookiemann/multi-turboquant",
             "description": "Unified KV cache compression for LLM inference \u2014 TurboQuant, IsoQuant, PlanarQuant, TriAttention. 10 methods, GPU-validated, multi-GPU planner. Compress KV cache 5-80x to run bigger models, longer context, more agents on your GPU.",
             "url": "https://github.com/rookiemann/multi-turboquant",
-            "stars": 17,
-            "forks": 5,
+            "stars": 18,
+            "forks": 6,
             "score": 32
         },
         {
@@ -348,9 +348,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "Agent-FM/agentfm-core",
             "description": "AgentFM is a peer-to-peer network that turns everyday computers into a decentralized AI supercomputer. AgentFM lets you run massive AI workloads directly across a global mesh of idle CPUs and GPUs.",
             "url": "https://github.com/Agent-FM/agentfm-core",
-            "stars": 16,
-            "forks": 1,
-            "score": 31
+            "stars": 17,
+            "forks": 2,
+            "score": 32
         },
         {
             "main_cat": "AI",
@@ -586,6 +586,17 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
+            "name": "vaultfire-avalanche",
+            "full_name": "Ghostkey316/vaultfire-avalanche",
+            "description": "Vaultfire Protocol \u2014 Avalanche C-Chain. 15 deployed contracts for KYA (Know Your Agent) trust infrastructure. AI Partnership Bonds, AI Accountability Bonds, ERC-8004 identity, quantum-resistant attestations, cross-chain bridge.",
+            "url": "https://github.com/Ghostkey316/vaultfire-avalanche",
+            "stars": 1,
+            "forks": 0,
+            "score": 30
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
             "name": "Nexus-Supremacy-Reforge",
             "full_name": "jacobless382-hue/Nexus-Supremacy-Reforge",
             "description": "\u2694\ufe0f Nexus Supremacy: Reforge Protocol. The architectural backbone for decentralized trading (DEX), community governance (DAO), and cross-chain liquidity. This repo contains the core smart contracts and deployment logic for the Nexus ecosystem. Optimized for L2 efficiency. AI-PM Orchestrated.",
@@ -619,17 +630,6 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
-            "name": "vaultfire-avalanche",
-            "full_name": "Ghostkey316/vaultfire-avalanche",
-            "description": "Vaultfire Protocol \u2014 Avalanche C-Chain. 15 deployed contracts for KYA (Know Your Agent) trust infrastructure. AI Partnership Bonds, AI Accountability Bonds, ERC-8004 identity, quantum-resistant attestations, cross-chain bridge.",
-            "url": "https://github.com/Ghostkey316/vaultfire-avalanche",
-            "stars": 0,
-            "forks": 0,
-            "score": 30
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
             "name": "PinkBrain-Alvara",
             "full_name": "kr8tiv-ai/PinkBrain-Alvara",
             "description": "Cross-chain basket token (BSKT) infrastructure \u2014 ERC-7621 on Base via Alvara Protocol, powered by Bags.fm fee sharing",
@@ -652,20 +652,6 @@ const ALPHA_DATA_V2 = {
     ],
     "news": [
         {
-            "title": "LogicEval: A Systematic Framework for Evaluating Automated Repair Techniques for Logical Vulnerabilities in Real-World Software",
-            "source": "ArXiv",
-            "type": "Research Alpha",
-            "color": "text-indigo-600",
-            "url": "http://arxiv.org/abs/2604.12994v1"
-        },
-        {
-            "title": "Parallax: Why AI Agents That Think Must Never Act",
-            "source": "ArXiv",
-            "type": "Research Alpha",
-            "color": "text-indigo-600",
-            "url": "http://arxiv.org/abs/2604.12986v1"
-        },
-        {
             "title": "Will the price of Solana be between $110 and $120 on April 15? (Probability: 0%)",
             "source": "Polymarket",
             "type": "Expectation",
@@ -673,5 +659,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/market/will-the-price-of-solana-be-between-110-120-on-april-15"
         }
     ],
-    "timestamp": "2026-04-15 11:52"
+    "timestamp": "2026-04-15 13:11"
 };
