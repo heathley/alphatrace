@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "MemPalace/mempalace",
             "description": "The best-benchmarked open-source AI memory system. And it's free.",
             "url": "https://github.com/MemPalace/mempalace",
-            "stars": 47545,
-            "forks": 6210,
+            "stars": 47558,
+            "forks": 6211,
             "score": 99
         },
         {
@@ -18,8 +18,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "KKKKhazix/khazix-skills",
             "description": "\u6570\u5b57\u751f\u547d\u5361\u5179\u514b\u5f00\u6e90\u7684 AI Skills \u5408\u96c6",
             "url": "https://github.com/KKKKhazix/khazix-skills",
-            "stars": 5097,
-            "forks": 849,
+            "stars": 5099,
+            "forks": 850,
             "score": 99
         },
         {
@@ -29,8 +29,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "yizhiyanhua-ai/fireworks-tech-graph",
             "description": "Claude Code skill for generating production-quality SVG+PNG technical diagrams. Supports 8 diagram types, 5 visual styles, and deep AI/Agent domain knowledge.",
             "url": "https://github.com/yizhiyanhua-ai/fireworks-tech-graph",
-            "stars": 3576,
-            "forks": 310,
+            "stars": 3578,
+            "forks": 311,
             "score": 99
         },
         {
@@ -40,7 +40,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "alchaincyf/hermes-agent-orange-book",
             "description": "Hermes Agent \u4ece\u5165\u95e8\u5230\u7cbe\u901a \u00b7 \u6a59\u76ae\u4e66\u7cfb\u5217 \u00b7 Nous Research \u5f00\u6e90 AI Agent \u6846\u67b6\u5b9e\u6218\u6307\u5357",
             "url": "https://github.com/alchaincyf/hermes-agent-orange-book",
-            "stars": 2677,
+            "stars": 2679,
             "forks": 283,
             "score": 99
         },
@@ -51,7 +51,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "AgentSeal/codeburn",
             "description": "See where your AI coding tokens go. Interactive TUI dashboard for Claude Code, Codex, and Cursor cost observability.",
             "url": "https://github.com/AgentSeal/codeburn",
-            "stars": 2556,
+            "stars": 2562,
             "forks": 175,
             "score": 99
         },
@@ -73,7 +73,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "OpenMOSS/MOSS-TTS-Nano",
             "description": "MOSS-TTS-Nano is an open-source multilingual tiny speech generation model from MOSI.AI and the OpenMOSS team. With only 0.1B parameters, it is designed for realtime speech generation, can run directly on CPU without a GPU, and keeps the deployment stack simple enough for local demos, web serving, and lightweight product integration.",
             "url": "https://github.com/OpenMOSS/MOSS-TTS-Nano",
-            "stars": 1355,
+            "stars": 1360,
             "forks": 160,
             "score": 99
         },
@@ -117,7 +117,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "WeaveMindAI/weft",
             "description": "A programming language for AI systems",
             "url": "https://github.com/WeaveMindAI/weft",
-            "stars": 770,
+            "stars": 771,
             "forks": 105,
             "score": 99
         },
@@ -128,7 +128,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "joeynyc/hermes-hudui",
             "description": "Web UI consciousness monitor for Hermes \u2014 the AI agent with persistent memory",
             "url": "https://github.com/joeynyc/hermes-hudui",
-            "stars": 1007,
+            "stars": 1009,
             "forks": 114,
             "score": 96
         },
@@ -139,7 +139,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "hexiecs/talk-normal",
             "description": "Make any LLM talk like a normal person. A system prompt that removes AI slop.",
             "url": "https://github.com/hexiecs/talk-normal",
-            "stars": 1185,
+            "stars": 1186,
             "forks": 26,
             "score": 88
         },
@@ -150,8 +150,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "EKKOLearnAI/hermes-web-ui",
             "description": "Web dashboard for Hermes Agent \u2014 multi-platform AI chat, session management, scheduled jobs, usage analytics & channel configuration (Telegram, Discord, Slack, WhatsApp)",
             "url": "https://github.com/EKKOLearnAI/hermes-web-ui",
-            "stars": 742,
-            "forks": 78,
+            "stars": 745,
+            "forks": 79,
             "score": 88
         },
         {
@@ -172,9 +172,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "bergside/design-md-chrome",
             "description": "Chrome extension to extract styles from any website and generate DESIGN.md files and design skills for AI based on TypeUI",
             "url": "https://github.com/bergside/design-md-chrome",
-            "stars": 359,
-            "forks": 44,
-            "score": 74
+            "stars": 360,
+            "forks": 45,
+            "score": 75
         },
         {
             "main_cat": "AI",
@@ -194,8 +194,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "cloudflare/agentic-inbox",
             "description": "A self-hosted email client with an AI agent, running entirely on Cloudflare Workers",
             "url": "https://github.com/cloudflare/agentic-inbox",
-            "stars": 537,
-            "forks": 41,
+            "stars": 541,
+            "forks": 44,
             "score": 65
         },
         {
@@ -239,7 +239,7 @@ const ALPHA_DATA_V2 = {
             "description": "The open source operating system for AI-powered businesses",
             "url": "https://github.com/EvolutionAPI/evo-nexus",
             "stars": 344,
-            "forks": 96,
+            "forks": 97,
             "score": 60
         },
         {
@@ -260,7 +260,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Xiangyue-Zhang/auto-deep-researcher-24x7",
             "description": "\ud83d\udd25 An autonomous AI agent that runs your deep learning experiments 24/7 while you sleep. Zero-cost monitoring, Leader-Worker architecture, constant-size memory.",
             "url": "https://github.com/Xiangyue-Zhang/auto-deep-researcher-24x7",
-            "stars": 520,
+            "stars": 521,
             "forks": 45,
             "score": 59
         },
@@ -315,7 +315,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "JinGuYuan/jinguyuan-dumpling-skill",
             "description": "\u91d1\u8c37\u56ed\u997a\u5b50\u9986 AI Skill - \u5317\u90ae\u8fb9\u4e0a\u7684\u997a\u5b50\u9986",
             "url": "https://github.com/JinGuYuan/jinguyuan-dumpling-skill",
-            "stars": 414,
+            "stars": 415,
             "forks": 22,
             "score": 49
         },
@@ -370,7 +370,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "tinyBigGAMES/VindexLLM",
             "description": "VindexLLM is a pure Delphi, GPU-powered LLM inference engine that uses Vulkan compute shaders to run GGUF models entirely on the GPU. It performs full transformer inference without relying on Python, CUDA, or other external runtimes, requiring only vulkan-1.dll, which is typically included with modern GPU drivers.",
             "url": "https://github.com/tinyBigGAMES/VindexLLM",
-            "stars": 15,
+            "stars": 16,
             "forks": 4,
             "score": 32
         },
@@ -404,17 +404,6 @@ const ALPHA_DATA_V2 = {
             "description": "Cross-platform GPU LLM inference in Rust",
             "url": "https://github.com/dimforge/inferi",
             "stars": 11,
-            "forks": 0,
-            "score": 30
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "wgpu-llm",
-            "full_name": "Beledarian/wgpu-llm",
-            "description": "A from-scratch LLM inference engine that uses wgpu (the cross-platform WebGPU implementation) to dispatch WGSL compute shaders for every math operation a Transformer needs. No CUDA. No Python. No massive framework dependencies. Just Rust, raw shaders, and your GPU.",
-            "url": "https://github.com/Beledarian/wgpu-llm",
-            "stars": 8,
             "forks": 0,
             "score": 30
         },
@@ -688,12 +677,12 @@ const ALPHA_DATA_V2 = {
             "url": "http://arxiv.org/abs/2604.15249v1"
         },
         {
-            "title": "Bitcoin Up or Down - April 17, 9:20PM-9:25PM ET (Probability: 50%)",
+            "title": "Solana Up or Down - April 17, 7:35PM-7:40PM ET (Probability: 50%)",
             "source": "Polymarket",
             "type": "Expectation",
             "color": "text-indigo-400",
-            "url": "https://polymarket.com/market/btc-updown-5m-1776475200"
+            "url": "https://polymarket.com/market/sol-updown-5m-1776468900"
         }
     ],
-    "timestamp": "2026-04-17 22:32"
+    "timestamp": "2026-04-17 23:34"
 };
