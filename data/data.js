@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "MemPalace/mempalace",
             "description": "The best-benchmarked open-source AI memory system. And it's free.",
             "url": "https://github.com/MemPalace/mempalace",
-            "stars": 47507,
-            "forks": 6205,
+            "stars": 47517,
+            "forks": 6207,
             "score": 99
         },
         {
@@ -29,7 +29,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "yizhiyanhua-ai/fireworks-tech-graph",
             "description": "Claude Code skill for generating production-quality SVG+PNG technical diagrams. Supports 8 diagram types, 5 visual styles, and deep AI/Agent domain knowledge.",
             "url": "https://github.com/yizhiyanhua-ai/fireworks-tech-graph",
-            "stars": 3566,
+            "stars": 3570,
             "forks": 310,
             "score": 99
         },
@@ -51,7 +51,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "AgentSeal/codeburn",
             "description": "See where your AI coding tokens go. Interactive TUI dashboard for Claude Code, Codex, and Cursor cost observability.",
             "url": "https://github.com/AgentSeal/codeburn",
-            "stars": 2537,
+            "stars": 2542,
             "forks": 174,
             "score": 99
         },
@@ -63,7 +63,7 @@ const ALPHA_DATA_V2 = {
             "description": "On-device, real-time multimodal AI. Have natural voice and vision conversations with an AI that runs entirely on your machine. Powered by Gemma 4 E2B and Kokoro.",
             "url": "https://github.com/fikrikarim/parlor",
             "stars": 1569,
-            "forks": 171,
+            "forks": 172,
             "score": 99
         },
         {
@@ -73,7 +73,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "OpenMOSS/MOSS-TTS-Nano",
             "description": "MOSS-TTS-Nano is an open-source multilingual tiny speech generation model from MOSI.AI and the OpenMOSS team. With only 0.1B parameters, it is designed for realtime speech generation, can run directly on CPU without a GPU, and keeps the deployment stack simple enough for local demos, web serving, and lightweight product integration.",
             "url": "https://github.com/OpenMOSS/MOSS-TTS-Nano",
-            "stars": 1350,
+            "stars": 1351,
             "forks": 160,
             "score": 99
         },
@@ -84,7 +84,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Mouseww/anything-analyzer",
             "description": "\u5168\u80fd\u534f\u8bae\u5206\u6790\u5de5\u5177\uff1a\u6d4f\u89c8\u5668\u6293\u5305 + MITM \u4ee3\u7406 + \u6307\u7eb9\u4f2a\u88c5 + AI \u5206\u6790 + MCP Server \u65e0\u7f1d\u5bf9\u63a5 AI Agent/IDE   |  All-in-one protocol analysis toolkit \u2014 built-in browser capture, MITM proxy, JS hooks, fingerprint spoofing, AI analysis & MCP server for agent integration",
             "url": "https://github.com/Mouseww/anything-analyzer",
-            "stars": 1265,
+            "stars": 1266,
             "forks": 293,
             "score": 99
         },
@@ -106,7 +106,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "yaojingang/GEOFlow",
             "description": "Open-source GEO content production system with AI tasks, review workflow, and publishing.",
             "url": "https://github.com/yaojingang/GEOFlow",
-            "stars": 794,
+            "stars": 795,
             "forks": 176,
             "score": 99
         },
@@ -117,7 +117,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "WeaveMindAI/weft",
             "description": "A programming language for AI systems",
             "url": "https://github.com/WeaveMindAI/weft",
-            "stars": 760,
+            "stars": 765,
             "forks": 104,
             "score": 99
         },
@@ -150,8 +150,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "EKKOLearnAI/hermes-web-ui",
             "description": "Web dashboard for Hermes Agent \u2014 multi-platform AI chat, session management, scheduled jobs, usage analytics & channel configuration (Telegram, Discord, Slack, WhatsApp)",
             "url": "https://github.com/EKKOLearnAI/hermes-web-ui",
-            "stars": 736,
-            "forks": 77,
+            "stars": 739,
+            "forks": 78,
             "score": 88
         },
         {
@@ -172,7 +172,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "bergside/design-md-chrome",
             "description": "Chrome extension to extract styles from any website and generate DESIGN.md files and design skills for AI based on TypeUI",
             "url": "https://github.com/bergside/design-md-chrome",
-            "stars": 355,
+            "stars": 357,
             "forks": 44,
             "score": 74
         },
@@ -205,8 +205,19 @@ const ALPHA_DATA_V2 = {
             "full_name": "mohi-devhub/antivibe",
             "description": "Learn what AI writes, not just accept it. A Claude Code skill that turns AI-generated code into educational deep dives.",
             "url": "https://github.com/mohi-devhub/antivibe",
-            "stars": 544,
+            "stars": 545,
             "forks": 35,
+            "score": 64
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "agentic-inbox",
+            "full_name": "cloudflare/agentic-inbox",
+            "description": "A self-hosted email client with an AI agent, running entirely on Cloudflare Workers",
+            "url": "https://github.com/cloudflare/agentic-inbox",
+            "stars": 522,
+            "forks": 40,
             "score": 64
         },
         {
@@ -218,17 +229,6 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/brooks376/Happy-Horse-1.0",
             "stars": 566,
             "forks": 57,
-            "score": 63
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "agentic-inbox",
-            "full_name": "cloudflare/agentic-inbox",
-            "description": "A self-hosted email client with an AI agent, running entirely on Cloudflare Workers",
-            "url": "https://github.com/cloudflare/agentic-inbox",
-            "stars": 519,
-            "forks": 40,
             "score": 63
         },
         {
@@ -260,7 +260,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Xiangyue-Zhang/auto-deep-researcher-24x7",
             "description": "\ud83d\udd25 An autonomous AI agent that runs your deep learning experiments 24/7 while you sleep. Zero-cost monitoring, Leader-Worker architecture, constant-size memory.",
             "url": "https://github.com/Xiangyue-Zhang/auto-deep-researcher-24x7",
-            "stars": 517,
+            "stars": 518,
             "forks": 45,
             "score": 59
         },
@@ -282,7 +282,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "labarba/sciwrite",
             "description": "Agent Skill for AI-assisted manuscript writing review, based on Dr. Kristin Sainani's \"Writing in the Sciences\" methodology.",
             "url": "https://github.com/labarba/sciwrite",
-            "stars": 509,
+            "stars": 513,
             "forks": 63,
             "score": 55
         },
@@ -293,7 +293,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Ar9av/obsidian-wiki",
             "description": "Framework for AI agents to build and maintain an Obsidian wiki using Karpathy's LLM Wiki pattern",
             "url": "https://github.com/Ar9av/obsidian-wiki",
-            "stars": 435,
+            "stars": 438,
             "forks": 68,
             "score": 55
         },
@@ -337,7 +337,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Agent-FM/agentfm-core",
             "description": "AgentFM is a peer-to-peer network that turns everyday computers into a decentralized AI supercomputer. AgentFM lets you run massive AI workloads directly across a global mesh of idle CPUs and GPUs.",
             "url": "https://github.com/Agent-FM/agentfm-core",
-            "stars": 36,
+            "stars": 37,
             "forks": 4,
             "score": 32
         },
@@ -359,7 +359,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "rookiemann/multi-turboquant",
             "description": "Unified KV cache compression for LLM inference \u2014 TurboQuant, IsoQuant, PlanarQuant, TriAttention. 10 methods, GPU-validated, multi-GPU planner. Compress KV cache 5-80x to run bigger models, longer context, more agents on your GPU.",
             "url": "https://github.com/rookiemann/multi-turboquant",
-            "stars": 20,
+            "stars": 19,
             "forks": 6,
             "score": 32
         },
@@ -507,6 +507,17 @@ const ALPHA_DATA_V2 = {
             "score": 30
         },
         {
+            "main_cat": "AI",
+            "sub_cat": "AI Agents",
+            "name": "mcp-server-bananacrystal",
+            "full_name": "BananaCrystal/mcp-server-bananacrystal",
+            "description": "Official MCP server for Agent payment infrastructure for AI agents. MCP server for autonomous stablecoin transfers, currency swaps & agent wallets.  Works with Claude, LangChain, CrewAI. Settled on Hedera. ",
+            "url": "https://github.com/BananaCrystal/mcp-server-bananacrystal",
+            "stars": 1,
+            "forks": 0,
+            "score": 30
+        },
+        {
             "main_cat": "Stablecoin Infrastructure",
             "sub_cat": null,
             "name": "LuminaPay",
@@ -557,17 +568,6 @@ const ALPHA_DATA_V2 = {
             "full_name": "caxtonacollins/CoinPilot",
             "description": "CoinPilot is a smart stablecoin wallet built on Stellar that enables users to automate payments, savings, and currency conversions using programmable rules and AI.",
             "url": "https://github.com/caxtonacollins/CoinPilot",
-            "stars": 0,
-            "forks": 0,
-            "score": 30
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI Agents",
-            "name": "mcp-server-bananacrystal",
-            "full_name": "BananaCrystal/mcp-server-bananacrystal",
-            "description": "Official MCP server for Agent payment infrastructure for AI agents. MCP server for autonomous stablecoin transfers, currency swaps & agent wallets.  Works with Claude, LangChain, CrewAI. Settled on Hedera. ",
-            "url": "https://github.com/BananaCrystal/mcp-server-bananacrystal",
             "stars": 0,
             "forks": 0,
             "score": 30
@@ -695,5 +695,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/market/btc-updown-5m-1776475200"
         }
     ],
-    "timestamp": "2026-04-17 19:54"
+    "timestamp": "2026-04-17 20:38"
 };
