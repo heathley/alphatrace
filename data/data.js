@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "MemPalace/mempalace",
             "description": "The best-benchmarked open-source AI memory system. And it's free.",
             "url": "https://github.com/MemPalace/mempalace",
-            "stars": 47826,
-            "forks": 6253,
+            "stars": 47830,
+            "forks": 6256,
             "score": 99
         },
         {
@@ -40,7 +40,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "alchaincyf/hermes-agent-orange-book",
             "description": "Hermes Agent \u4ece\u5165\u95e8\u5230\u7cbe\u901a \u00b7 \u6a59\u76ae\u4e66\u7cfb\u5217 \u00b7 Nous Research \u5f00\u6e90 AI Agent \u6846\u67b6\u5b9e\u6218\u6307\u5357",
             "url": "https://github.com/alchaincyf/hermes-agent-orange-book",
-            "stars": 2713,
+            "stars": 2714,
             "forks": 287,
             "score": 99
         },
@@ -51,7 +51,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "getagentseal/codeburn",
             "description": "See where your AI coding tokens go. Interactive TUI dashboard for Claude Code, Codex, and Cursor cost observability.",
             "url": "https://github.com/getagentseal/codeburn",
-            "stars": 2699,
+            "stars": 2700,
             "forks": 188,
             "score": 99
         },
@@ -84,7 +84,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Mouseww/anything-analyzer",
             "description": "\u5168\u80fd\u534f\u8bae\u5206\u6790\u5de5\u5177\uff1a\u6d4f\u89c8\u5668\u6293\u5305 + MITM \u4ee3\u7406 + \u6307\u7eb9\u4f2a\u88c5 + AI \u5206\u6790 + MCP Server \u65e0\u7f1d\u5bf9\u63a5 AI Agent/IDE   |  All-in-one protocol analysis toolkit \u2014 built-in browser capture, MITM proxy, JS hooks, fingerprint spoofing, AI analysis & MCP server for agent integration",
             "url": "https://github.com/Mouseww/anything-analyzer",
-            "stars": 1345,
+            "stars": 1346,
             "forks": 308,
             "score": 99
         },
@@ -106,7 +106,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "WeaveMindAI/weft",
             "description": "A programming language for AI systems",
             "url": "https://github.com/WeaveMindAI/weft",
-            "stars": 820,
+            "stars": 823,
             "forks": 111,
             "score": 99
         },
@@ -172,9 +172,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "bergside/design-md-chrome",
             "description": "Chrome extension to extract styles from any website and generate DESIGN.md files and design skills for AI based on TypeUI",
             "url": "https://github.com/bergside/design-md-chrome",
-            "stars": 413,
+            "stars": 417,
             "forks": 50,
-            "score": 73
+            "score": 74
         },
         {
             "main_cat": "AI",
@@ -183,7 +183,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "cloudflare/agentic-inbox",
             "description": "A self-hosted email client with an AI agent, running entirely on Cloudflare Workers",
             "url": "https://github.com/cloudflare/agentic-inbox",
-            "stars": 625,
+            "stars": 626,
             "forks": 53,
             "score": 68
         },
@@ -211,17 +211,6 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
-            "sub_cat": null,
-            "name": "evo-nexus",
-            "full_name": "EvolutionAPI/evo-nexus",
-            "description": "The open source operating system for AI-powered businesses",
-            "url": "https://github.com/EvolutionAPI/evo-nexus",
-            "stars": 349,
-            "forks": 100,
-            "score": 61
-        },
-        {
-            "main_cat": "AI",
             "sub_cat": "AI General",
             "name": "Happy-Horse-1.0",
             "full_name": "brooks376/Happy-Horse-1.0",
@@ -238,8 +227,19 @@ const ALPHA_DATA_V2 = {
             "full_name": "Xiangyue-Zhang/auto-deep-researcher-24x7",
             "description": "\ud83d\udd25 An autonomous AI agent that runs your deep learning experiments 24/7 while you sleep. Zero-cost monitoring, Leader-Worker architecture, constant-size memory.",
             "url": "https://github.com/Xiangyue-Zhang/auto-deep-researcher-24x7",
-            "stars": 549,
+            "stars": 550,
             "forks": 48,
+            "score": 58
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "evo-nexus",
+            "full_name": "EvolutionAPI/evo-nexus",
+            "description": "The open source operating system for AI-powered businesses",
+            "url": "https://github.com/EvolutionAPI/evo-nexus",
+            "stars": 349,
+            "forks": 100,
             "score": 58
         },
         {
@@ -293,8 +293,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "xaspx/hermes-control-interface",
             "description": "A self-hosted web dashboard for the Hermes AI agent stack. Provides a browser-based terminal, file explorer, session overview, cron management, system metrics, and an agent status panel \u2014 all behind a single password gate.",
             "url": "https://github.com/xaspx/hermes-control-interface",
-            "stars": 380,
-            "forks": 59,
+            "stars": 381,
+            "forks": 60,
             "score": 53
         },
         {
@@ -315,7 +315,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "skyllwt/OmegaWiki",
             "description": "Karpathy's LLM-Wiki vision, fully realized \u2014 wiki-centric full-lifecycle AI research platform powered by Claude Code",
             "url": "https://github.com/skyllwt/OmegaWiki",
-            "stars": 313,
+            "stars": 314,
             "forks": 51,
             "score": 51
         },
@@ -732,12 +732,12 @@ const ALPHA_DATA_V2 = {
             "url": "http://arxiv.org/abs/2604.15249v1"
         },
         {
-            "title": "Bitcoin Up or Down - April 18, 4:55PM-5:00PM ET (Probability: 50%)",
+            "title": "Will Netflix (NFLX) finish week of April 20 above $50? (Probability: 90%)",
             "source": "Polymarket",
             "type": "Expectation",
             "color": "text-indigo-400",
-            "url": "https://polymarket.com/market/btc-updown-5m-1776545700"
+            "url": "https://polymarket.com/market/nflx-above-50-on-april-24-2026"
         }
     ],
-    "timestamp": "2026-04-18 20:30"
+    "timestamp": "2026-04-18 21:28"
 };
