@@ -7,7 +7,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "MemPalace/mempalace",
             "description": "The best-benchmarked open-source AI memory system. And it's free.",
             "url": "https://github.com/MemPalace/mempalace",
-            "stars": 47730,
+            "stars": 47747,
             "forks": 6242,
             "score": 99
         },
@@ -18,8 +18,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "KKKKhazix/khazix-skills",
             "description": "\u6570\u5b57\u751f\u547d\u5361\u5179\u514b\u5f00\u6e90\u7684 AI Skills \u5408\u96c6",
             "url": "https://github.com/KKKKhazix/khazix-skills",
-            "stars": 5173,
-            "forks": 869,
+            "stars": 5177,
+            "forks": 870,
             "score": 99
         },
         {
@@ -29,8 +29,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "yizhiyanhua-ai/fireworks-tech-graph",
             "description": "Claude Code skill for generating production-quality SVG+PNG technical diagrams. Supports 8 diagram types, 5 visual styles, and deep AI/Agent domain knowledge.",
             "url": "https://github.com/yizhiyanhua-ai/fireworks-tech-graph",
-            "stars": 3635,
-            "forks": 317,
+            "stars": 3640,
+            "forks": 318,
             "score": 99
         },
         {
@@ -51,7 +51,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "AgentSeal/codeburn",
             "description": "See where your AI coding tokens go. Interactive TUI dashboard for Claude Code, Codex, and Cursor cost observability.",
             "url": "https://github.com/AgentSeal/codeburn",
-            "stars": 2660,
+            "stars": 2665,
             "forks": 183,
             "score": 99
         },
@@ -73,8 +73,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "OpenMOSS/MOSS-TTS-Nano",
             "description": "MOSS-TTS-Nano is an open-source multilingual tiny speech generation model from MOSI.AI and the OpenMOSS team. With only 0.1B parameters, it is designed for realtime speech generation, can run directly on CPU without a GPU, and keeps the deployment stack simple enough for local demos, web serving, and lightweight product integration.",
             "url": "https://github.com/OpenMOSS/MOSS-TTS-Nano",
-            "stars": 1420,
-            "forks": 171,
+            "stars": 1425,
+            "forks": 172,
             "score": 99
         },
         {
@@ -84,7 +84,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Mouseww/anything-analyzer",
             "description": "\u5168\u80fd\u534f\u8bae\u5206\u6790\u5de5\u5177\uff1a\u6d4f\u89c8\u5668\u6293\u5305 + MITM \u4ee3\u7406 + \u6307\u7eb9\u4f2a\u88c5 + AI \u5206\u6790 + MCP Server \u65e0\u7f1d\u5bf9\u63a5 AI Agent/IDE   |  All-in-one protocol analysis toolkit \u2014 built-in browser capture, MITM proxy, JS hooks, fingerprint spoofing, AI analysis & MCP server for agent integration",
             "url": "https://github.com/Mouseww/anything-analyzer",
-            "stars": 1337,
+            "stars": 1338,
             "forks": 306,
             "score": 99
         },
@@ -95,8 +95,19 @@ const ALPHA_DATA_V2 = {
             "full_name": "BuilderPulse/BuilderPulse",
             "description": "AI-powered daily intelligence for indie hackers and builders. 20 questions, 10+ sources, every morning.",
             "url": "https://github.com/BuilderPulse/BuilderPulse",
-            "stars": 915,
+            "stars": 917,
             "forks": 65,
+            "score": 99
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "weft",
+            "full_name": "WeaveMindAI/weft",
+            "description": "A programming language for AI systems",
+            "url": "https://github.com/WeaveMindAI/weft",
+            "stars": 806,
+            "forks": 108,
             "score": 99
         },
         {
@@ -113,23 +124,12 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "weft",
-            "full_name": "WeaveMindAI/weft",
-            "description": "A programming language for AI systems",
-            "url": "https://github.com/WeaveMindAI/weft",
-            "stars": 803,
-            "forks": 108,
-            "score": 99
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
             "name": "hermes-hudui",
             "full_name": "joeynyc/hermes-hudui",
             "description": "Web UI consciousness monitor for Hermes \u2014 the AI agent with persistent memory",
             "url": "https://github.com/joeynyc/hermes-hudui",
-            "stars": 1052,
-            "forks": 122,
+            "stars": 1055,
+            "forks": 123,
             "score": 94
         },
         {
@@ -139,9 +139,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "EKKOLearnAI/hermes-web-ui",
             "description": "Web dashboard for Hermes Agent \u2014 multi-platform AI chat, session management, scheduled jobs, usage analytics & channel configuration (Telegram, Discord, Slack, WhatsApp)",
             "url": "https://github.com/EKKOLearnAI/hermes-web-ui",
-            "stars": 854,
+            "stars": 861,
             "forks": 95,
-            "score": 91
+            "score": 92
         },
         {
             "main_cat": "AI",
@@ -150,20 +150,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "hexiecs/talk-normal",
             "description": "Make any LLM talk like a normal person. A system prompt that removes AI slop.",
             "url": "https://github.com/hexiecs/talk-normal",
-            "stars": 1215,
+            "stars": 1217,
             "forks": 28,
             "score": 85
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "design-md-chrome",
-            "full_name": "bergside/design-md-chrome",
-            "description": "Chrome extension to extract styles from any website and generate DESIGN.md files and design skills for AI based on TypeUI",
-            "url": "https://github.com/bergside/design-md-chrome",
-            "stars": 399,
-            "forks": 47,
-            "score": 78
         },
         {
             "main_cat": "AI",
@@ -179,11 +168,22 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
+            "name": "design-md-chrome",
+            "full_name": "bergside/design-md-chrome",
+            "description": "Chrome extension to extract styles from any website and generate DESIGN.md files and design skills for AI based on TypeUI",
+            "url": "https://github.com/bergside/design-md-chrome",
+            "stars": 401,
+            "forks": 47,
+            "score": 72
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
             "name": "agentic-inbox",
             "full_name": "cloudflare/agentic-inbox",
             "description": "A self-hosted email client with an AI agent, running entirely on Cloudflare Workers",
             "url": "https://github.com/cloudflare/agentic-inbox",
-            "stars": 602,
+            "stars": 605,
             "forks": 50,
             "score": 66
         },
@@ -238,7 +238,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Xiangyue-Zhang/auto-deep-researcher-24x7",
             "description": "\ud83d\udd25 An autonomous AI agent that runs your deep learning experiments 24/7 while you sleep. Zero-cost monitoring, Leader-Worker architecture, constant-size memory.",
             "url": "https://github.com/Xiangyue-Zhang/auto-deep-researcher-24x7",
-            "stars": 540,
+            "stars": 544,
             "forks": 47,
             "score": 58
         },
@@ -249,7 +249,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Unclecheng-li/AI_Animation",
             "description": "\u672c\u9879\u76ee\u6574\u7406\u4e86\u7528\u4e8e\u751f\u6210[\u70ab\u9177 HTML \u52a8\u753b\u7f51\u9875]\u7684 AI Prompts\uff0c\u6db5\u76d6\u52a8\u753b\u6548\u679c\u30013D \u53ef\u89c6\u5316\u3001PPT \u98ce\u683c\u6f14\u793a\u3001UI \u7f8e\u5316\u7b49\u591a\u4e2a\u7c7b\u522b\u3002",
             "url": "https://github.com/Unclecheng-li/AI_Animation",
-            "stars": 360,
+            "stars": 361,
             "forks": 36,
             "score": 55
         },
@@ -260,7 +260,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "labarba/sciwrite",
             "description": "Agent Skill for AI-assisted manuscript writing review, based on Dr. Kristin Sainani's \"Writing in the Sciences\" methodology.",
             "url": "https://github.com/labarba/sciwrite",
-            "stars": 536,
+            "stars": 537,
             "forks": 65,
             "score": 54
         },
@@ -271,7 +271,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "xaspx/hermes-control-interface",
             "description": "A self-hosted web dashboard for the Hermes AI agent stack. Provides a browser-based terminal, file explorer, session overview, cron management, system metrics, and an agent status panel \u2014 all behind a single password gate.",
             "url": "https://github.com/xaspx/hermes-control-interface",
-            "stars": 357,
+            "stars": 362,
             "forks": 57,
             "score": 54
         },
@@ -282,19 +282,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "Ar9av/obsidian-wiki",
             "description": "Framework for AI agents to build and maintain an Obsidian wiki using Karpathy's LLM Wiki pattern",
             "url": "https://github.com/Ar9av/obsidian-wiki",
-            "stars": 444,
+            "stars": 445,
             "forks": 68,
-            "score": 53
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "OmegaWiki",
-            "full_name": "skyllwt/OmegaWiki",
-            "description": "Karpathy's LLM-Wiki vision, fully realized \u2014 wiki-centric full-lifecycle AI research platform powered by Claude Code",
-            "url": "https://github.com/skyllwt/OmegaWiki",
-            "stars": 308,
-            "forks": 50,
             "score": 53
         },
         {
@@ -307,6 +296,17 @@ const ALPHA_DATA_V2 = {
             "stars": 513,
             "forks": 40,
             "score": 52
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "OmegaWiki",
+            "full_name": "skyllwt/OmegaWiki",
+            "description": "Karpathy's LLM-Wiki vision, fully realized \u2014 wiki-centric full-lifecycle AI research platform powered by Claude Code",
+            "url": "https://github.com/skyllwt/OmegaWiki",
+            "stars": 308,
+            "forks": 50,
+            "score": 51
         },
         {
             "main_cat": "AI",
@@ -359,7 +359,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "cloudflareresearch/unweight-kernels",
             "description": "Lossless compression of BF16 MLP weights for LLM inference on NVIDIA Hopper GPUs ",
             "url": "https://github.com/cloudflareresearch/unweight-kernels",
-            "stars": 18,
+            "stars": 21,
             "forks": 1,
             "score": 32
         },
@@ -718,12 +718,26 @@ const ALPHA_DATA_V2 = {
     ],
     "news": [
         {
-            "title": "Solana Up or Down - April 18, 10:05AM-10:10AM ET (Probability: 50%)",
+            "title": "Cloning is as Hard as Learning for Stabilizer States",
+            "source": "ArXiv",
+            "type": "Research Alpha",
+            "color": "text-indigo-600",
+            "url": "http://arxiv.org/abs/2604.15269v1"
+        },
+        {
+            "title": "Structural Dependency Analysis for Masked NTT Hardware: Scalable Pre-Silicon Verification of Post-Quantum Cryptographic Accelerators",
+            "source": "ArXiv",
+            "type": "Research Alpha",
+            "color": "text-indigo-600",
+            "url": "http://arxiv.org/abs/2604.15249v1"
+        },
+        {
+            "title": "Ethereum Up or Down - April 18, 11:05AM-11:10AM ET (Probability: 50%)",
             "source": "Polymarket",
             "type": "Expectation",
             "color": "text-indigo-400",
-            "url": "https://polymarket.com/market/sol-updown-5m-1776521100"
+            "url": "https://polymarket.com/market/eth-updown-5m-1776524700"
         }
     ],
-    "timestamp": "2026-04-18 13:58"
+    "timestamp": "2026-04-18 14:41"
 };
