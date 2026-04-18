@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "MemPalace/mempalace",
             "description": "The best-benchmarked open-source AI memory system. And it's free.",
             "url": "https://github.com/MemPalace/mempalace",
-            "stars": 47759,
-            "forks": 6242,
+            "stars": 47779,
+            "forks": 6245,
             "score": 99
         },
         {
@@ -18,7 +18,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "KKKKhazix/khazix-skills",
             "description": "\u6570\u5b57\u751f\u547d\u5361\u5179\u514b\u5f00\u6e90\u7684 AI Skills \u5408\u96c6",
             "url": "https://github.com/KKKKhazix/khazix-skills",
-            "stars": 5184,
+            "stars": 5190,
             "forks": 872,
             "score": 99
         },
@@ -29,7 +29,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "yizhiyanhua-ai/fireworks-tech-graph",
             "description": "Claude Code skill for generating production-quality SVG+PNG technical diagrams. Supports 8 diagram types, 5 visual styles, and deep AI/Agent domain knowledge.",
             "url": "https://github.com/yizhiyanhua-ai/fireworks-tech-graph",
-            "stars": 3643,
+            "stars": 3645,
             "forks": 319,
             "score": 99
         },
@@ -40,7 +40,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "alchaincyf/hermes-agent-orange-book",
             "description": "Hermes Agent \u4ece\u5165\u95e8\u5230\u7cbe\u901a \u00b7 \u6a59\u76ae\u4e66\u7cfb\u5217 \u00b7 Nous Research \u5f00\u6e90 AI Agent \u6846\u67b6\u5b9e\u6218\u6307\u5357",
             "url": "https://github.com/alchaincyf/hermes-agent-orange-book",
-            "stars": 2708,
+            "stars": 2709,
             "forks": 286,
             "score": 99
         },
@@ -51,8 +51,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "AgentSeal/codeburn",
             "description": "See where your AI coding tokens go. Interactive TUI dashboard for Claude Code, Codex, and Cursor cost observability.",
             "url": "https://github.com/AgentSeal/codeburn",
-            "stars": 2672,
-            "forks": 183,
+            "stars": 2677,
+            "forks": 184,
             "score": 99
         },
         {
@@ -73,8 +73,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "OpenMOSS/MOSS-TTS-Nano",
             "description": "MOSS-TTS-Nano is an open-source multilingual tiny speech generation model from MOSI.AI and the OpenMOSS team. With only 0.1B parameters, it is designed for realtime speech generation, can run directly on CPU without a GPU, and keeps the deployment stack simple enough for local demos, web serving, and lightweight product integration.",
             "url": "https://github.com/OpenMOSS/MOSS-TTS-Nano",
-            "stars": 1433,
-            "forks": 173,
+            "stars": 1439,
+            "forks": 175,
             "score": 99
         },
         {
@@ -84,8 +84,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "Mouseww/anything-analyzer",
             "description": "\u5168\u80fd\u534f\u8bae\u5206\u6790\u5de5\u5177\uff1a\u6d4f\u89c8\u5668\u6293\u5305 + MITM \u4ee3\u7406 + \u6307\u7eb9\u4f2a\u88c5 + AI \u5206\u6790 + MCP Server \u65e0\u7f1d\u5bf9\u63a5 AI Agent/IDE   |  All-in-one protocol analysis toolkit \u2014 built-in browser capture, MITM proxy, JS hooks, fingerprint spoofing, AI analysis & MCP server for agent integration",
             "url": "https://github.com/Mouseww/anything-analyzer",
-            "stars": 1340,
-            "forks": 306,
+            "stars": 1342,
+            "forks": 307,
             "score": 99
         },
         {
@@ -95,7 +95,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "BuilderPulse/BuilderPulse",
             "description": "AI-powered daily intelligence for indie hackers and builders. 20 questions, 10+ sources, every morning.",
             "url": "https://github.com/BuilderPulse/BuilderPulse",
-            "stars": 917,
+            "stars": 919,
             "forks": 66,
             "score": 99
         },
@@ -106,7 +106,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "WeaveMindAI/weft",
             "description": "A programming language for AI systems",
             "url": "https://github.com/WeaveMindAI/weft",
-            "stars": 811,
+            "stars": 812,
             "forks": 109,
             "score": 99
         },
@@ -128,7 +128,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "joeynyc/hermes-hudui",
             "description": "Web UI consciousness monitor for Hermes \u2014 the AI agent with persistent memory",
             "url": "https://github.com/joeynyc/hermes-hudui",
-            "stars": 1057,
+            "stars": 1060,
             "forks": 123,
             "score": 94
         },
@@ -139,9 +139,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "EKKOLearnAI/hermes-web-ui",
             "description": "Web dashboard for Hermes Agent \u2014 multi-platform AI chat, session management, scheduled jobs, usage analytics & channel configuration (Telegram, Discord, Slack, WhatsApp)",
             "url": "https://github.com/EKKOLearnAI/hermes-web-ui",
-            "stars": 867,
-            "forks": 97,
-            "score": 92
+            "stars": 876,
+            "forks": 98,
+            "score": 93
         },
         {
             "main_cat": "AI",
@@ -172,7 +172,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "bergside/design-md-chrome",
             "description": "Chrome extension to extract styles from any website and generate DESIGN.md files and design skills for AI based on TypeUI",
             "url": "https://github.com/bergside/design-md-chrome",
-            "stars": 405,
+            "stars": 407,
             "forks": 47,
             "score": 72
         },
@@ -183,9 +183,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "cloudflare/agentic-inbox",
             "description": "A self-hosted email client with an AI agent, running entirely on Cloudflare Workers",
             "url": "https://github.com/cloudflare/agentic-inbox",
-            "stars": 606,
+            "stars": 613,
             "forks": 51,
-            "score": 66
+            "score": 67
         },
         {
             "main_cat": "AI",
@@ -245,24 +245,24 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "AI_Animation",
-            "full_name": "Unclecheng-li/AI_Animation",
-            "description": "\u672c\u9879\u76ee\u6574\u7406\u4e86\u7528\u4e8e\u751f\u6210[\u70ab\u9177 HTML \u52a8\u753b\u7f51\u9875]\u7684 AI Prompts\uff0c\u6db5\u76d6\u52a8\u753b\u6548\u679c\u30013D \u53ef\u89c6\u5316\u3001PPT \u98ce\u683c\u6f14\u793a\u3001UI \u7f8e\u5316\u7b49\u591a\u4e2a\u7c7b\u522b\u3002",
-            "url": "https://github.com/Unclecheng-li/AI_Animation",
-            "stars": 362,
-            "forks": 36,
+            "name": "sciwrite",
+            "full_name": "labarba/sciwrite",
+            "description": "Agent Skill for AI-assisted manuscript writing review, based on Dr. Kristin Sainani's \"Writing in the Sciences\" methodology.",
+            "url": "https://github.com/labarba/sciwrite",
+            "stars": 541,
+            "forks": 65,
             "score": 55
         },
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "sciwrite",
-            "full_name": "labarba/sciwrite",
-            "description": "Agent Skill for AI-assisted manuscript writing review, based on Dr. Kristin Sainani's \"Writing in the Sciences\" methodology.",
-            "url": "https://github.com/labarba/sciwrite",
-            "stars": 539,
-            "forks": 65,
-            "score": 54
+            "name": "AI_Animation",
+            "full_name": "Unclecheng-li/AI_Animation",
+            "description": "\u672c\u9879\u76ee\u6574\u7406\u4e86\u7528\u4e8e\u751f\u6210[\u70ab\u9177 HTML \u52a8\u753b\u7f51\u9875]\u7684 AI Prompts\uff0c\u6db5\u76d6\u52a8\u753b\u6548\u679c\u30013D \u53ef\u89c6\u5316\u3001PPT \u98ce\u683c\u6f14\u793a\u3001UI \u7f8e\u5316\u7b49\u591a\u4e2a\u7c7b\u522b\u3002",
+            "url": "https://github.com/Unclecheng-li/AI_Animation",
+            "stars": 363,
+            "forks": 36,
+            "score": 55
         },
         {
             "main_cat": "AI",
@@ -271,7 +271,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "xaspx/hermes-control-interface",
             "description": "A self-hosted web dashboard for the Hermes AI agent stack. Provides a browser-based terminal, file explorer, session overview, cron management, system metrics, and an agent status panel \u2014 all behind a single password gate.",
             "url": "https://github.com/xaspx/hermes-control-interface",
-            "stars": 363,
+            "stars": 368,
             "forks": 57,
             "score": 54
         },
@@ -282,7 +282,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Ar9av/obsidian-wiki",
             "description": "Framework for AI agents to build and maintain an Obsidian wiki using Karpathy's LLM Wiki pattern",
             "url": "https://github.com/Ar9av/obsidian-wiki",
-            "stars": 445,
+            "stars": 446,
             "forks": 68,
             "score": 53
         },
@@ -311,12 +311,12 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "jinguyuan-dumpling-skill",
-            "full_name": "JinGuYuan/jinguyuan-dumpling-skill",
-            "description": "\u91d1\u8c37\u56ed\u997a\u5b50\u9986 AI Skill - \u5317\u90ae\u8fb9\u4e0a\u7684\u997a\u5b50\u9986",
-            "url": "https://github.com/JinGuYuan/jinguyuan-dumpling-skill",
-            "stars": 424,
-            "forks": 23,
+            "name": "Learn-Open-Harness",
+            "full_name": "joyehuang/Learn-Open-Harness",
+            "description": "\ud83e\udd16 Official Interactive Tutorial for OpenHarness \u2013 Zero to Hero in 12 Chapters | Learn OpenHarness like Claude Code: Agent Loop, Tools, Memory, Multi-Agent | \u9762\u5411\u96f6\u57fa\u7840\u7684 AI Agent \u4ea4\u4e92\u5f0f\u6559\u7a0b",
+            "url": "https://github.com/joyehuang/Learn-Open-Harness",
+            "stars": 300,
+            "forks": 56,
             "score": 48
         },
         {
@@ -344,23 +344,23 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
+            "name": "unweight-kernels",
+            "full_name": "cloudflareresearch/unweight-kernels",
+            "description": "Lossless compression of BF16 MLP weights for LLM inference on NVIDIA Hopper GPUs ",
+            "url": "https://github.com/cloudflareresearch/unweight-kernels",
+            "stars": 23,
+            "forks": 1,
+            "score": 32
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
             "name": "lazy-moe",
             "full_name": "patilyashvardhan2002-byte/lazy-moe",
             "description": "The GPU-free LLM inference engine. Combines lazy expert loading + TurboQuant KV compression to run models that shouldn't fit on your hardware. Built from scratch, fully local, zero cloud.",
             "url": "https://github.com/patilyashvardhan2002-byte/lazy-moe",
             "stars": 22,
             "forks": 4,
-            "score": 32
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "unweight-kernels",
-            "full_name": "cloudflareresearch/unweight-kernels",
-            "description": "Lossless compression of BF16 MLP weights for LLM inference on NVIDIA Hopper GPUs ",
-            "url": "https://github.com/cloudflareresearch/unweight-kernels",
-            "stars": 22,
-            "forks": 1,
             "score": 32
         },
         {
@@ -739,5 +739,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/market/btc-updown-5m-1776535500"
         }
     ],
-    "timestamp": "2026-04-18 15:32"
+    "timestamp": "2026-04-18 16:32"
 };
