@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "KKKKhazix/khazix-skills",
             "description": "\u6570\u5b57\u751f\u547d\u5361\u5179\u514b\u5f00\u6e90\u7684 AI Skills \u5408\u96c6",
             "url": "https://github.com/KKKKhazix/khazix-skills",
-            "stars": 5240,
-            "forks": 884,
+            "stars": 5257,
+            "forks": 887,
             "score": 99
         },
         {
@@ -18,8 +18,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "yizhiyanhua-ai/fireworks-tech-graph",
             "description": "Claude Code skill for generating production-quality SVG+PNG technical diagrams. Supports 8 diagram types, 5 visual styles, and deep AI/Agent domain knowledge.",
             "url": "https://github.com/yizhiyanhua-ai/fireworks-tech-graph",
-            "stars": 3673,
-            "forks": 320,
+            "stars": 3679,
+            "forks": 321,
             "score": 99
         },
         {
@@ -29,8 +29,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "getagentseal/codeburn",
             "description": "See where your AI coding tokens go. Interactive TUI dashboard for Claude Code, Codex, and Cursor cost observability.",
             "url": "https://github.com/getagentseal/codeburn",
-            "stars": 2730,
-            "forks": 194,
+            "stars": 2736,
+            "forks": 197,
             "score": 99
         },
         {
@@ -40,7 +40,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "alchaincyf/hermes-agent-orange-book",
             "description": "Hermes Agent \u4ece\u5165\u95e8\u5230\u7cbe\u901a \u00b7 \u6a59\u76ae\u4e66\u7cfb\u5217 \u00b7 Nous Research \u5f00\u6e90 AI Agent \u6846\u67b6\u5b9e\u6218\u6307\u5357",
             "url": "https://github.com/alchaincyf/hermes-agent-orange-book",
-            "stars": 2719,
+            "stars": 2720,
             "forks": 288,
             "score": 99
         },
@@ -51,8 +51,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "OpenMOSS/MOSS-TTS-Nano",
             "description": "MOSS-TTS-Nano is an open-source multilingual tiny speech generation model from MOSI.AI and the OpenMOSS team. With only 0.1B parameters, it is designed for realtime speech generation, can run directly on CPU without a GPU, and keeps the deployment stack simple enough for local demos, web serving, and lightweight product integration.",
             "url": "https://github.com/OpenMOSS/MOSS-TTS-Nano",
-            "stars": 1525,
-            "forks": 183,
+            "stars": 1532,
+            "forks": 186,
             "score": 99
         },
         {
@@ -62,41 +62,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "Mouseww/anything-analyzer",
             "description": "\u5168\u80fd\u534f\u8bae\u5206\u6790\u5de5\u5177\uff1a\u6d4f\u89c8\u5668\u6293\u5305 + MITM \u4ee3\u7406 + \u6307\u7eb9\u4f2a\u88c5 + AI \u5206\u6790 + MCP Server \u65e0\u7f1d\u5bf9\u63a5 AI Agent/IDE   |  All-in-one protocol analysis toolkit \u2014 built-in browser capture, MITM proxy, JS hooks, fingerprint spoofing, AI analysis & MCP server for agent integration",
             "url": "https://github.com/Mouseww/anything-analyzer",
-            "stars": 1371,
-            "forks": 314,
-            "score": 99
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "BuilderPulse",
-            "full_name": "BuilderPulse/BuilderPulse",
-            "description": "AI-powered daily intelligence for indie hackers and builders. 20 questions, 10+ sources, every morning.",
-            "url": "https://github.com/BuilderPulse/BuilderPulse",
-            "stars": 936,
-            "forks": 67,
-            "score": 99
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "weft",
-            "full_name": "WeaveMindAI/weft",
-            "description": "A programming language for AI systems",
-            "url": "https://github.com/WeaveMindAI/weft",
-            "stars": 839,
-            "forks": 113,
-            "score": 99
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "GEOFlow",
-            "full_name": "yaojingang/GEOFlow",
-            "description": "Open-source GEO content production system with AI tasks, review workflow, and publishing.",
-            "url": "https://github.com/yaojingang/GEOFlow",
-            "stars": 811,
-            "forks": 181,
+            "stars": 1384,
+            "forks": 317,
             "score": 99
         },
         {
@@ -106,9 +73,42 @@ const ALPHA_DATA_V2 = {
             "full_name": "EKKOLearnAI/hermes-web-ui",
             "description": "Web dashboard for Hermes Agent \u2014 multi-platform AI chat, session management, scheduled jobs, usage analytics & channel configuration (Telegram, Discord, Slack, WhatsApp)",
             "url": "https://github.com/EKKOLearnAI/hermes-web-ui",
-            "stars": 925,
-            "forks": 108,
-            "score": 97
+            "stars": 944,
+            "forks": 109,
+            "score": 99
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "BuilderPulse",
+            "full_name": "BuilderPulse/BuilderPulse",
+            "description": "AI-powered daily intelligence for indie hackers and builders. 20 questions, 10+ sources, every morning.",
+            "url": "https://github.com/BuilderPulse/BuilderPulse",
+            "stars": 940,
+            "forks": 68,
+            "score": 99
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "weft",
+            "full_name": "WeaveMindAI/weft",
+            "description": "A programming language for AI systems",
+            "url": "https://github.com/WeaveMindAI/weft",
+            "stars": 843,
+            "forks": 114,
+            "score": 99
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "GEOFlow",
+            "full_name": "yaojingang/GEOFlow",
+            "description": "Open-source GEO content production system with AI tasks, review workflow, and publishing.",
+            "url": "https://github.com/yaojingang/GEOFlow",
+            "stars": 813,
+            "forks": 181,
+            "score": 99
         },
         {
             "main_cat": "AI",
@@ -117,7 +117,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "joeynyc/hermes-hudui",
             "description": "Web UI consciousness monitor for Hermes \u2014 the AI agent with persistent memory",
             "url": "https://github.com/joeynyc/hermes-hudui",
-            "stars": 1071,
+            "stars": 1074,
             "forks": 126,
             "score": 90
         },
@@ -128,9 +128,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "hexiecs/talk-normal",
             "description": "Make any LLM talk like a normal person. A system prompt that removes AI slop.",
             "url": "https://github.com/hexiecs/talk-normal",
-            "stars": 1229,
+            "stars": 1237,
             "forks": 29,
-            "score": 81
+            "score": 82
         },
         {
             "main_cat": "AI",
@@ -150,7 +150,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "bergside/design-md-chrome",
             "description": "Chrome extension to extract styles from any website and generate DESIGN.md files and design skills for AI based on TypeUI",
             "url": "https://github.com/bergside/design-md-chrome",
-            "stars": 431,
+            "stars": 432,
             "forks": 55,
             "score": 76
         },
@@ -161,8 +161,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "cloudflare/agentic-inbox",
             "description": "A self-hosted email client with an AI agent, running entirely on Cloudflare Workers",
             "url": "https://github.com/cloudflare/agentic-inbox",
-            "stars": 640,
-            "forks": 53,
+            "stars": 646,
+            "forks": 54,
             "score": 65
         },
         {
@@ -172,7 +172,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "agents-io/PokeClaw",
             "description": "PokeClaw (PocketClaw) \u2014 first on-device AI that controls your Android phone. Gemma 4, no cloud, no API key. Poke is short for Pocket.",
             "url": "https://github.com/agents-io/PokeClaw",
-            "stars": 635,
+            "stars": 636,
             "forks": 91,
             "score": 63
         },
@@ -194,7 +194,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "EvolutionAPI/evo-nexus",
             "description": "The open source operating system for AI-powered businesses",
             "url": "https://github.com/EvolutionAPI/evo-nexus",
-            "stars": 354,
+            "stars": 355,
             "forks": 102,
             "score": 59
         },
@@ -216,7 +216,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Xiangyue-Zhang/auto-deep-researcher-24x7",
             "description": "\ud83d\udd25 An autonomous AI agent that runs your deep learning experiments 24/7 while you sleep. Zero-cost monitoring, Leader-Worker architecture, constant-size memory.",
             "url": "https://github.com/Xiangyue-Zhang/auto-deep-researcher-24x7",
-            "stars": 555,
+            "stars": 559,
             "forks": 48,
             "score": 56
         },
@@ -227,9 +227,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "h4ckf0r0day/obscura",
             "description": "The headless browser for AI agents and web scraping",
             "url": "https://github.com/h4ckf0r0day/obscura",
-            "stars": 317,
+            "stars": 321,
             "forks": 25,
             "score": 56
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "hermes-control-interface",
+            "full_name": "xaspx/hermes-control-interface",
+            "description": "A self-hosted web dashboard for the Hermes AI agent stack. Provides a browser-based terminal, file explorer, session overview, cron management, system metrics, and an agent status panel \u2014 all behind a single password gate.",
+            "url": "https://github.com/xaspx/hermes-control-interface",
+            "stars": 401,
+            "forks": 63,
+            "score": 55
         },
         {
             "main_cat": "AI",
@@ -238,9 +249,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "Unclecheng-li/AI_Animation",
             "description": "\u672c\u9879\u76ee\u6574\u7406\u4e86\u7528\u4e8e\u751f\u6210[\u70ab\u9177 HTML \u52a8\u753b\u7f51\u9875]\u7684 AI Prompts\uff0c\u6db5\u76d6\u52a8\u753b\u6548\u679c\u30013D \u53ef\u89c6\u5316\u3001PPT \u98ce\u683c\u6f14\u793a\u3001UI \u7f8e\u5316\u7b49\u591a\u4e2a\u7c7b\u522b\u3002",
             "url": "https://github.com/Unclecheng-li/AI_Animation",
-            "stars": 364,
+            "stars": 367,
             "forks": 36,
             "score": 55
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "awesome-design-md-jp",
+            "full_name": "kzhrknt/awesome-design-md-jp",
+            "description": "\u65e5\u672c\u8a9eUI\u3092AI\u30a8\u30fc\u30b8\u30a7\u30f3\u30c8\u306b\u6b63\u3057\u304f\u3064\u304f\u3089\u305b\u308b\u305f\u3081\u306eDESIGN.md\u96c6\u3002Japanese DESIGN.md collection for AI agents \u2014 extending Google Stitch format with CJK typography.",
+            "url": "https://github.com/kzhrknt/awesome-design-md-jp",
+            "stars": 518,
+            "forks": 40,
+            "score": 52
         },
         {
             "main_cat": "AI",
@@ -251,28 +273,6 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/Ar9av/obsidian-wiki",
             "stars": 454,
             "forks": 70,
-            "score": 54
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "hermes-control-interface",
-            "full_name": "xaspx/hermes-control-interface",
-            "description": "A self-hosted web dashboard for the Hermes AI agent stack. Provides a browser-based terminal, file explorer, session overview, cron management, system metrics, and an agent status panel \u2014 all behind a single password gate.",
-            "url": "https://github.com/xaspx/hermes-control-interface",
-            "stars": 399,
-            "forks": 62,
-            "score": 54
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "awesome-design-md-jp",
-            "full_name": "kzhrknt/awesome-design-md-jp",
-            "description": "\u65e5\u672c\u8a9eUI\u3092AI\u30a8\u30fc\u30b8\u30a7\u30f3\u30c8\u306b\u6b63\u3057\u304f\u3064\u304f\u3089\u305b\u308b\u305f\u3081\u306eDESIGN.md\u96c6\u3002Japanese DESIGN.md collection for AI agents \u2014 extending Google Stitch format with CJK typography.",
-            "url": "https://github.com/kzhrknt/awesome-design-md-jp",
-            "stars": 515,
-            "forks": 40,
             "score": 52
         },
         {
@@ -282,7 +282,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "skyllwt/OmegaWiki",
             "description": "Karpathy's LLM-Wiki vision, fully realized \u2014 wiki-centric full-lifecycle AI research platform powered by Claude Code",
             "url": "https://github.com/skyllwt/OmegaWiki",
-            "stars": 329,
+            "stars": 332,
             "forks": 52,
             "score": 52
         },
@@ -293,7 +293,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "cporter202/agentic-ai-apis",
             "description": "The ultimate collection of APIs for building autonomous AI agents \u2014 2,036 production-ready APIs across Agents, AI Models, and MCP Servers. Stop wasting weeks building infrastructure. Plug these in and ship your agent today.",
             "url": "https://github.com/cporter202/agentic-ai-apis",
-            "stars": 287,
+            "stars": 286,
             "forks": 90,
             "score": 51
         },
@@ -315,7 +315,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "yzddmr6/repo-analyzer",
             "description": "AI coding agent skill for deep architectural analysis of open-source projects | \u5f00\u6e90\u9879\u76ee\u6df1\u5ea6\u67b6\u6784\u5206\u6790\uff0c\u4e00\u53e5\u8bdd\u751f\u6210\u4e13\u4e1a\u7ea7\u5206\u6790\u62a5\u544a",
             "url": "https://github.com/yzddmr6/repo-analyzer",
-            "stars": 296,
+            "stars": 297,
             "forks": 42,
             "score": 46
         },
@@ -366,23 +366,23 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
-            "name": "VindexLLM",
-            "full_name": "tinyBigGAMES/VindexLLM",
-            "description": "VindexLLM is a pure Delphi, GPU-powered LLM inference engine that uses Vulkan compute shaders to run GGUF models entirely on the GPU. It performs full transformer inference without relying on Python, CUDA, or other external runtimes, requiring only vulkan-1.dll, which is typically included with modern GPU drivers.",
-            "url": "https://github.com/tinyBigGAMES/VindexLLM",
-            "stars": 18,
-            "forks": 4,
+            "name": "OpenLLM-Studio",
+            "full_name": "Icecubesaad/OpenLLM-Studio",
+            "description": "Run local AI models privately with GPU acceleration. Modern UI, HuggingFace integration. Built with Tauri + React + Rust.",
+            "url": "https://github.com/Icecubesaad/OpenLLM-Studio",
+            "stars": 19,
+            "forks": 5,
             "score": 32
         },
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
-            "name": "OpenLLM-Studio",
-            "full_name": "Icecubesaad/OpenLLM-Studio",
-            "description": "Run local AI models privately with GPU acceleration. Modern UI, HuggingFace integration. Built with Tauri + React + Rust.",
-            "url": "https://github.com/Icecubesaad/OpenLLM-Studio",
-            "stars": 18,
-            "forks": 5,
+            "name": "VindexLLM",
+            "full_name": "tinyBigGAMES/VindexLLM",
+            "description": "VindexLLM is a pure Delphi, GPU-powered LLM inference engine that uses Vulkan compute shaders to run GGUF models entirely on the GPU. It performs full transformer inference without relying on Python, CUDA, or other external runtimes, requiring only vulkan-1.dll, which is typically included with modern GPU drivers.",
+            "url": "https://github.com/tinyBigGAMES/VindexLLM",
+            "stars": 19,
+            "forks": 4,
             "score": 32
         },
         {
@@ -728,5 +728,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/market/ethereum-up-or-down-april-19-2026-9am-et"
         }
     ],
-    "timestamp": "2026-04-19 05:24"
+    "timestamp": "2026-04-19 07:10"
 };
