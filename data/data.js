@@ -7,7 +7,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "KKKKhazix/khazix-skills",
             "description": "\u6570\u5b57\u751f\u547d\u5361\u5179\u514b\u5f00\u6e90\u7684 AI Skills \u5408\u96c6",
             "url": "https://github.com/KKKKhazix/khazix-skills",
-            "stars": 5347,
+            "stars": 5354,
             "forks": 901,
             "score": 99
         },
@@ -18,7 +18,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "yizhiyanhua-ai/fireworks-tech-graph",
             "description": "Claude Code skill for generating production-quality SVG+PNG technical diagrams. Supports 8 diagram types, 5 visual styles, and deep AI/Agent domain knowledge.",
             "url": "https://github.com/yizhiyanhua-ai/fireworks-tech-graph",
-            "stars": 3716,
+            "stars": 3717,
             "forks": 325,
             "score": 99
         },
@@ -29,8 +29,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "getagentseal/codeburn",
             "description": "See where your AI coding tokens go. Interactive TUI dashboard for Claude Code, Codex, and Cursor cost observability.",
             "url": "https://github.com/getagentseal/codeburn",
-            "stars": 2799,
-            "forks": 208,
+            "stars": 2811,
+            "forks": 209,
             "score": 99
         },
         {
@@ -40,7 +40,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "alchaincyf/hermes-agent-orange-book",
             "description": "Hermes Agent \u4ece\u5165\u95e8\u5230\u7cbe\u901a \u00b7 \u6a59\u76ae\u4e66\u7cfb\u5217 \u00b7 Nous Research \u5f00\u6e90 AI Agent \u6846\u67b6\u5b9e\u6218\u6307\u5357",
             "url": "https://github.com/alchaincyf/hermes-agent-orange-book",
-            "stars": 2732,
+            "stars": 2733,
             "forks": 290,
             "score": 99
         },
@@ -51,8 +51,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "OpenMOSS/MOSS-TTS-Nano",
             "description": "MOSS-TTS-Nano is an open-source multilingual tiny speech generation model from MOSI.AI and the OpenMOSS team. With only 0.1B parameters, it is designed for realtime speech generation, can run directly on CPU without a GPU, and keeps the deployment stack simple enough for local demos, web serving, and lightweight product integration.",
             "url": "https://github.com/OpenMOSS/MOSS-TTS-Nano",
-            "stars": 1608,
-            "forks": 205,
+            "stars": 1613,
+            "forks": 206,
             "score": 99
         },
         {
@@ -62,7 +62,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Mouseww/anything-analyzer",
             "description": "\u5168\u80fd\u534f\u8bae\u5206\u6790\u5de5\u5177\uff1a\u6d4f\u89c8\u5668\u6293\u5305 + MITM \u4ee3\u7406 + \u6307\u7eb9\u4f2a\u88c5 + AI \u5206\u6790 + MCP Server \u65e0\u7f1d\u5bf9\u63a5 AI Agent/IDE   |  All-in-one protocol analysis toolkit \u2014 built-in browser capture, MITM proxy, JS hooks, fingerprint spoofing, AI analysis & MCP server for agent integration",
             "url": "https://github.com/Mouseww/anything-analyzer",
-            "stars": 1434,
+            "stars": 1437,
             "forks": 326,
             "score": 99
         },
@@ -73,7 +73,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "BuilderPulse/BuilderPulse",
             "description": "AI-powered daily intelligence for indie hackers and builders. 20 questions, 10+ sources, every morning.",
             "url": "https://github.com/BuilderPulse/BuilderPulse",
-            "stars": 959,
+            "stars": 960,
             "forks": 69,
             "score": 99
         },
@@ -84,7 +84,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "WeaveMindAI/weft",
             "description": "A programming language for AI systems",
             "url": "https://github.com/WeaveMindAI/weft",
-            "stars": 863,
+            "stars": 868,
             "forks": 115,
             "score": 99
         },
@@ -95,7 +95,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "yaojingang/GEOFlow",
             "description": "Open-source GEO content production system with AI tasks, review workflow, and publishing.",
             "url": "https://github.com/yaojingang/GEOFlow",
-            "stars": 843,
+            "stars": 848,
             "forks": 184,
             "score": 99
         },
@@ -106,9 +106,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "EKKOLearnAI/hermes-web-ui",
             "description": "Web dashboard for Hermes Agent \u2014 multi-platform AI chat, session management, scheduled jobs, usage analytics & channel configuration (Telegram, Discord, Slack, WhatsApp)",
             "url": "https://github.com/EKKOLearnAI/hermes-web-ui",
-            "stars": 1022,
+            "stars": 1025,
             "forks": 118,
-            "score": 97
+            "score": 98
         },
         {
             "main_cat": "AI",
@@ -117,7 +117,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "joeynyc/hermes-hudui",
             "description": "Web UI consciousness monitor for Hermes \u2014 the AI agent with persistent memory",
             "url": "https://github.com/joeynyc/hermes-hudui",
-            "stars": 1088,
+            "stars": 1090,
             "forks": 127,
             "score": 91
         },
@@ -128,9 +128,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "hexiecs/talk-normal",
             "description": "Make any LLM talk like a normal person. A system prompt that removes AI slop.",
             "url": "https://github.com/hexiecs/talk-normal",
-            "stars": 1271,
-            "forks": 31,
+            "stars": 1275,
+            "forks": 32,
             "score": 83
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "design-md-chrome",
+            "full_name": "bergside/design-md-chrome",
+            "description": "Chrome extension to extract styles from any website and generate DESIGN.md files and design skills for AI based on TypeUI",
+            "url": "https://github.com/bergside/design-md-chrome",
+            "stars": 461,
+            "forks": 62,
+            "score": 74
         },
         {
             "main_cat": "AI",
@@ -146,35 +157,13 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "design-md-chrome",
-            "full_name": "bergside/design-md-chrome",
-            "description": "Chrome extension to extract styles from any website and generate DESIGN.md files and design skills for AI based on TypeUI",
-            "url": "https://github.com/bergside/design-md-chrome",
-            "stars": 459,
-            "forks": 61,
-            "score": 73
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
             "name": "agentic-inbox",
             "full_name": "cloudflare/agentic-inbox",
             "description": "A self-hosted email client with an AI agent, running entirely on Cloudflare Workers",
             "url": "https://github.com/cloudflare/agentic-inbox",
-            "stars": 705,
+            "stars": 715,
             "forks": 61,
             "score": 69
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "antivibe",
-            "full_name": "mohi-devhub/antivibe",
-            "description": "Learn what AI writes, not just accept it. A Claude Code skill that turns AI-generated code into educational deep dives.",
-            "url": "https://github.com/mohi-devhub/antivibe",
-            "stars": 573,
-            "forks": 35,
-            "score": 62
         },
         {
             "main_cat": "AI",
@@ -186,6 +175,17 @@ const ALPHA_DATA_V2 = {
             "stars": 642,
             "forks": 92,
             "score": 61
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "antivibe",
+            "full_name": "mohi-devhub/antivibe",
+            "description": "Learn what AI writes, not just accept it. A Claude Code skill that turns AI-generated code into educational deep dives.",
+            "url": "https://github.com/mohi-devhub/antivibe",
+            "stars": 575,
+            "forks": 35,
+            "score": 59
         },
         {
             "main_cat": "AI",
@@ -216,7 +216,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Xiangyue-Zhang/auto-deep-researcher-24x7",
             "description": "\ud83d\udd25 An autonomous AI agent that runs your deep learning experiments 24/7 while you sleep. Zero-cost monitoring, Leader-Worker architecture, constant-size memory.",
             "url": "https://github.com/Xiangyue-Zhang/auto-deep-researcher-24x7",
-            "stars": 571,
+            "stars": 573,
             "forks": 51,
             "score": 57
         },
@@ -238,7 +238,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Ar9av/obsidian-wiki",
             "description": "Framework for AI agents to build and maintain an Obsidian wiki using Karpathy's LLM Wiki pattern",
             "url": "https://github.com/Ar9av/obsidian-wiki",
-            "stars": 460,
+            "stars": 461,
             "forks": 73,
             "score": 53
         },
@@ -249,7 +249,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "xaspx/hermes-control-interface",
             "description": "A self-hosted web dashboard for the Hermes AI agent stack. Provides a browser-based terminal, file explorer, session overview, cron management, system metrics, and an agent status panel \u2014 all behind a single password gate.",
             "url": "https://github.com/xaspx/hermes-control-interface",
-            "stars": 411,
+            "stars": 412,
             "forks": 63,
             "score": 53
         },
@@ -326,7 +326,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "bitjaru/styleseed",
             "description": "Claude Code & Cursor design system. Stop generating ugly AI UI. 69 design rules + 48 shadcn components + Toss/Stripe/Linear/Vercel/Notion brand skins. Tailwind v4 + Radix.",
             "url": "https://github.com/bitjaru/styleseed",
-            "stars": 298,
+            "stars": 299,
             "forks": 36,
             "score": 44
         },
@@ -337,7 +337,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Agent-FM/agentfm-core",
             "description": "AgentFM is a peer-to-peer network that turns everyday computers into a decentralized AI supercomputer. AgentFM lets you run massive AI workloads directly across a global mesh of idle CPUs and GPUs.",
             "url": "https://github.com/Agent-FM/agentfm-core",
-            "stars": 58,
+            "stars": 61,
             "forks": 6,
             "score": 33
         },
@@ -350,17 +350,6 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/cloudflareresearch/unweight-kernels",
             "stars": 30,
             "forks": 1,
-            "score": 32
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "lazy-moe",
-            "full_name": "patilyashvardhan2002-byte/lazy-moe",
-            "description": "The GPU-free LLM inference engine. Combines lazy expert loading + TurboQuant KV compression to run models that shouldn't fit on your hardware. Built from scratch, fully local, zero cloud.",
-            "url": "https://github.com/patilyashvardhan2002-byte/lazy-moe",
-            "stars": 22,
-            "forks": 4,
             "score": 32
         },
         {
@@ -394,6 +383,17 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/anchenqlw/AgentBook",
             "stars": 55,
             "forks": 1,
+            "score": 31
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "lazy-moe",
+            "full_name": "patilyashvardhan2002-byte/lazy-moe",
+            "description": "The GPU-free LLM inference engine. Combines lazy expert loading + TurboQuant KV compression to run models that shouldn't fit on your hardware. Built from scratch, fully local, zero cloud.",
+            "url": "https://github.com/patilyashvardhan2002-byte/lazy-moe",
+            "stars": 22,
+            "forks": 4,
             "score": 31
         },
         {
@@ -491,6 +491,17 @@ const ALPHA_DATA_V2 = {
             "full_name": "yashj09/HashPredict",
             "description": "HashPredict is a decentralized prediction market platform where users bet on the outcome of real-world events using USDT on HashKey Chain.",
             "url": "https://github.com/yashj09/HashPredict",
+            "stars": 0,
+            "forks": 0,
+            "score": 30
+        },
+        {
+            "main_cat": "Prediction Markets",
+            "sub_cat": null,
+            "name": "ipredict-starknet",
+            "full_name": "iPredict-HQ/ipredict-starknet",
+            "description": "Decentralized binary prediction market built on Starknet. Users bet STRK on yes/no outcomes and earn IPREDICT tokens regardless of whether they win or lose.",
+            "url": "https://github.com/iPredict-HQ/ipredict-starknet",
             "stars": 0,
             "forks": 0,
             "score": 30
@@ -681,6 +692,17 @@ const ALPHA_DATA_V2 = {
             "stars": 0,
             "forks": 0,
             "score": 30
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "DeFiTail",
+            "full_name": "vaishnavi0950/DeFiTail",
+            "description": "Detecting DeFi Protocol Exploits Through Cross-Contract Analysis",
+            "url": "https://github.com/vaishnavi0950/DeFiTail",
+            "stars": 0,
+            "forks": 0,
+            "score": 30
         }
     ],
     "news": [
@@ -706,5 +728,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/market/nflx-above-50-on-april-24-2026"
         }
     ],
-    "timestamp": "2026-04-19 17:30"
+    "timestamp": "2026-04-19 18:39"
 };
