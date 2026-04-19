@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "KKKKhazix/khazix-skills",
             "description": "\u6570\u5b57\u751f\u547d\u5361\u5179\u514b\u5f00\u6e90\u7684 AI Skills \u5408\u96c6",
             "url": "https://github.com/KKKKhazix/khazix-skills",
-            "stars": 5311,
-            "forks": 894,
+            "stars": 5325,
+            "forks": 895,
             "score": 99
         },
         {
@@ -18,7 +18,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "yizhiyanhua-ai/fireworks-tech-graph",
             "description": "Claude Code skill for generating production-quality SVG+PNG technical diagrams. Supports 8 diagram types, 5 visual styles, and deep AI/Agent domain knowledge.",
             "url": "https://github.com/yizhiyanhua-ai/fireworks-tech-graph",
-            "stars": 3706,
+            "stars": 3710,
             "forks": 324,
             "score": 99
         },
@@ -29,8 +29,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "getagentseal/codeburn",
             "description": "See where your AI coding tokens go. Interactive TUI dashboard for Claude Code, Codex, and Cursor cost observability.",
             "url": "https://github.com/getagentseal/codeburn",
-            "stars": 2767,
-            "forks": 203,
+            "stars": 2775,
+            "forks": 204,
             "score": 99
         },
         {
@@ -40,7 +40,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "alchaincyf/hermes-agent-orange-book",
             "description": "Hermes Agent \u4ece\u5165\u95e8\u5230\u7cbe\u901a \u00b7 \u6a59\u76ae\u4e66\u7cfb\u5217 \u00b7 Nous Research \u5f00\u6e90 AI Agent \u6846\u67b6\u5b9e\u6218\u6307\u5357",
             "url": "https://github.com/alchaincyf/hermes-agent-orange-book",
-            "stars": 2726,
+            "stars": 2728,
             "forks": 289,
             "score": 99
         },
@@ -51,8 +51,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "OpenMOSS/MOSS-TTS-Nano",
             "description": "MOSS-TTS-Nano is an open-source multilingual tiny speech generation model from MOSI.AI and the OpenMOSS team. With only 0.1B parameters, it is designed for realtime speech generation, can run directly on CPU without a GPU, and keeps the deployment stack simple enough for local demos, web serving, and lightweight product integration.",
             "url": "https://github.com/OpenMOSS/MOSS-TTS-Nano",
-            "stars": 1571,
-            "forks": 199,
+            "stars": 1583,
+            "forks": 201,
             "score": 99
         },
         {
@@ -63,7 +63,7 @@ const ALPHA_DATA_V2 = {
             "description": "\u5168\u80fd\u534f\u8bae\u5206\u6790\u5de5\u5177\uff1a\u6d4f\u89c8\u5668\u6293\u5305 + MITM \u4ee3\u7406 + \u6307\u7eb9\u4f2a\u88c5 + AI \u5206\u6790 + MCP Server \u65e0\u7f1d\u5bf9\u63a5 AI Agent/IDE   |  All-in-one protocol analysis toolkit \u2014 built-in browser capture, MITM proxy, JS hooks, fingerprint spoofing, AI analysis & MCP server for agent integration",
             "url": "https://github.com/Mouseww/anything-analyzer",
             "stars": 1406,
-            "forks": 320,
+            "forks": 322,
             "score": 99
         },
         {
@@ -73,7 +73,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "BuilderPulse/BuilderPulse",
             "description": "AI-powered daily intelligence for indie hackers and builders. 20 questions, 10+ sources, every morning.",
             "url": "https://github.com/BuilderPulse/BuilderPulse",
-            "stars": 946,
+            "stars": 951,
             "forks": 68,
             "score": 99
         },
@@ -84,7 +84,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "WeaveMindAI/weft",
             "description": "A programming language for AI systems",
             "url": "https://github.com/WeaveMindAI/weft",
-            "stars": 854,
+            "stars": 857,
             "forks": 115,
             "score": 99
         },
@@ -95,7 +95,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "yaojingang/GEOFlow",
             "description": "Open-source GEO content production system with AI tasks, review workflow, and publishing.",
             "url": "https://github.com/yaojingang/GEOFlow",
-            "stars": 824,
+            "stars": 825,
             "forks": 182,
             "score": 99
         },
@@ -106,9 +106,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "EKKOLearnAI/hermes-web-ui",
             "description": "Web dashboard for Hermes Agent \u2014 multi-platform AI chat, session management, scheduled jobs, usage analytics & channel configuration (Telegram, Discord, Slack, WhatsApp)",
             "url": "https://github.com/EKKOLearnAI/hermes-web-ui",
-            "stars": 985,
-            "forks": 116,
-            "score": 95
+            "stars": 998,
+            "forks": 117,
+            "score": 96
         },
         {
             "main_cat": "AI",
@@ -117,7 +117,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "joeynyc/hermes-hudui",
             "description": "Web UI consciousness monitor for Hermes \u2014 the AI agent with persistent memory",
             "url": "https://github.com/joeynyc/hermes-hudui",
-            "stars": 1083,
+            "stars": 1084,
             "forks": 126,
             "score": 91
         },
@@ -128,7 +128,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "hexiecs/talk-normal",
             "description": "Make any LLM talk like a normal person. A system prompt that removes AI slop.",
             "url": "https://github.com/hexiecs/talk-normal",
-            "stars": 1241,
+            "stars": 1242,
             "forks": 31,
             "score": 82
         },
@@ -139,8 +139,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "bergside/design-md-chrome",
             "description": "Chrome extension to extract styles from any website and generate DESIGN.md files and design skills for AI based on TypeUI",
             "url": "https://github.com/bergside/design-md-chrome",
-            "stars": 448,
-            "forks": 60,
+            "stars": 450,
+            "forks": 61,
             "score": 79
         },
         {
@@ -152,7 +152,7 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/alchaincyf/obsidian-ai-orange-book",
             "stars": 673,
             "forks": 69,
-            "score": 77
+            "score": 73
         },
         {
             "main_cat": "AI",
@@ -161,8 +161,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "cloudflare/agentic-inbox",
             "description": "A self-hosted email client with an AI agent, running entirely on Cloudflare Workers",
             "url": "https://github.com/cloudflare/agentic-inbox",
-            "stars": 666,
-            "forks": 57,
+            "stars": 679,
+            "forks": 58,
             "score": 67
         },
         {
@@ -172,7 +172,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "agents-io/PokeClaw",
             "description": "PokeClaw (PocketClaw) \u2014 first on-device AI that controls your Android phone. Gemma 4, no cloud, no API key. Poke is short for Pocket.",
             "url": "https://github.com/agents-io/PokeClaw",
-            "stars": 641,
+            "stars": 642,
             "forks": 91,
             "score": 61
         },
@@ -183,7 +183,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "mohi-devhub/antivibe",
             "description": "Learn what AI writes, not just accept it. A Claude Code skill that turns AI-generated code into educational deep dives.",
             "url": "https://github.com/mohi-devhub/antivibe",
-            "stars": 560,
+            "stars": 562,
             "forks": 35,
             "score": 61
         },
@@ -195,7 +195,7 @@ const ALPHA_DATA_V2 = {
             "description": "The open source operating system for AI-powered businesses",
             "url": "https://github.com/EvolutionAPI/evo-nexus",
             "stars": 355,
-            "forks": 102,
+            "forks": 103,
             "score": 59
         },
         {
@@ -216,7 +216,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Xiangyue-Zhang/auto-deep-researcher-24x7",
             "description": "\ud83d\udd25 An autonomous AI agent that runs your deep learning experiments 24/7 while you sleep. Zero-cost monitoring, Leader-Worker architecture, constant-size memory.",
             "url": "https://github.com/Xiangyue-Zhang/auto-deep-researcher-24x7",
-            "stars": 567,
+            "stars": 568,
             "forks": 50,
             "score": 57
         },
@@ -227,7 +227,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "xaspx/hermes-control-interface",
             "description": "A self-hosted web dashboard for the Hermes AI agent stack. Provides a browser-based terminal, file explorer, session overview, cron management, system metrics, and an agent status panel \u2014 all behind a single password gate.",
             "url": "https://github.com/xaspx/hermes-control-interface",
-            "stars": 406,
+            "stars": 409,
             "forks": 63,
             "score": 55
         },
@@ -239,7 +239,7 @@ const ALPHA_DATA_V2 = {
             "description": "Framework for AI agents to build and maintain an Obsidian wiki using Karpathy's LLM Wiki pattern",
             "url": "https://github.com/Ar9av/obsidian-wiki",
             "stars": 456,
-            "forks": 72,
+            "forks": 73,
             "score": 53
         },
         {
@@ -249,8 +249,19 @@ const ALPHA_DATA_V2 = {
             "full_name": "Unclecheng-li/AI_Animation",
             "description": "\u672c\u9879\u76ee\u6574\u7406\u4e86\u7528\u4e8e\u751f\u6210[\u70ab\u9177 HTML \u52a8\u753b\u7f51\u9875]\u7684 AI Prompts\uff0c\u6db5\u76d6\u52a8\u753b\u6548\u679c\u30013D \u53ef\u89c6\u5316\u3001PPT \u98ce\u683c\u6f14\u793a\u3001UI \u7f8e\u5316\u7b49\u591a\u4e2a\u7c7b\u522b\u3002",
             "url": "https://github.com/Unclecheng-li/AI_Animation",
-            "stars": 367,
+            "stars": 368,
             "forks": 36,
+            "score": 53
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "OmegaWiki",
+            "full_name": "skyllwt/OmegaWiki",
+            "description": "Karpathy's LLM-Wiki vision, fully realized \u2014 wiki-centric full-lifecycle AI research platform powered by Claude Code",
+            "url": "https://github.com/skyllwt/OmegaWiki",
+            "stars": 340,
+            "forks": 53,
             "score": 53
         },
         {
@@ -260,7 +271,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "h4ckf0r0day/obscura",
             "description": "The headless browser for AI agents and web scraping",
             "url": "https://github.com/h4ckf0r0day/obscura",
-            "stars": 328,
+            "stars": 330,
             "forks": 25,
             "score": 53
         },
@@ -271,20 +282,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "kzhrknt/awesome-design-md-jp",
             "description": "\u65e5\u672c\u8a9eUI\u3092AI\u30a8\u30fc\u30b8\u30a7\u30f3\u30c8\u306b\u6b63\u3057\u304f\u3064\u304f\u3089\u305b\u308b\u305f\u3081\u306eDESIGN.md\u96c6\u3002Japanese DESIGN.md collection for AI agents \u2014 extending Google Stitch format with CJK typography.",
             "url": "https://github.com/kzhrknt/awesome-design-md-jp",
-            "stars": 527,
+            "stars": 529,
             "forks": 40,
-            "score": 52
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "OmegaWiki",
-            "full_name": "skyllwt/OmegaWiki",
-            "description": "Karpathy's LLM-Wiki vision, fully realized \u2014 wiki-centric full-lifecycle AI research platform powered by Claude Code",
-            "url": "https://github.com/skyllwt/OmegaWiki",
-            "stars": 338,
-            "forks": 53,
-            "score": 52
+            "score": 51
         },
         {
             "main_cat": "AI",
@@ -293,7 +293,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "cporter202/agentic-ai-apis",
             "description": "The ultimate collection of APIs for building autonomous AI agents \u2014 2,036 production-ready APIs across Agents, AI Models, and MCP Servers. Stop wasting weeks building infrastructure. Plug these in and ship your agent today.",
             "url": "https://github.com/cporter202/agentic-ai-apis",
-            "stars": 287,
+            "stars": 288,
             "forks": 90,
             "score": 51
         },
@@ -337,7 +337,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Agent-FM/agentfm-core",
             "description": "AgentFM is a peer-to-peer network that turns everyday computers into a decentralized AI supercomputer. AgentFM lets you run massive AI workloads directly across a global mesh of idle CPUs and GPUs.",
             "url": "https://github.com/Agent-FM/agentfm-core",
-            "stars": 42,
+            "stars": 43,
             "forks": 4,
             "score": 32
         },
@@ -426,17 +426,6 @@ const ALPHA_DATA_V2 = {
             "description": "Cross-platform GPU LLM inference in Rust",
             "url": "https://github.com/dimforge/inferi",
             "stars": 11,
-            "forks": 0,
-            "score": 30
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "wgpu-llm",
-            "full_name": "Beledarian/wgpu-llm",
-            "description": "A from-scratch LLM inference engine that uses wgpu (the cross-platform WebGPU implementation) to dispatch WGSL compute shaders for every math operation a Transformer needs. No CUDA. No Python. No massive framework dependencies. Just Rust, raw shaders, and your GPU.",
-            "url": "https://github.com/Beledarian/wgpu-llm",
-            "stars": 8,
             "forks": 0,
             "score": 30
         },
@@ -588,7 +577,7 @@ const ALPHA_DATA_V2 = {
             "sub_cat": "AI General",
             "name": "HorizonPay",
             "full_name": "yashwankhade5/HorizonPay",
-            "description": " HorizonPay is a custodial payment infrastructure on Solana designed to give merchants a Stripe-like experience for accepting stablecoins. It provides secure merchant vaults, idempotent payments, dispute handling, and real-time updates, while keeping business logic off-chain for scalability and performance.",
+            "description": " HorizonPay is a non-custodial payment infrastructure on Solana designed to give merchants a Stripe-like experience for accepting stablecoins. It provides secure merchant vaults, idempotent payments, dispute handling, and real-time updates, while keeping business logic off-chain for scalability and performance.",
             "url": "https://github.com/yashwankhade5/HorizonPay",
             "stars": 0,
             "forks": 0,
@@ -710,12 +699,12 @@ const ALPHA_DATA_V2 = {
             "url": "http://arxiv.org/abs/2604.15249v1"
         },
         {
-            "title": "Solana Up or Down - April 19, 9AM ET (Probability: 48%)",
+            "title": "Will Netflix (NFLX) finish week of April 20 above $50? (Probability: 90%)",
             "source": "Polymarket",
             "type": "Expectation",
             "color": "text-indigo-400",
-            "url": "https://polymarket.com/market/solana-up-or-down-april-19-2026-9am-et"
+            "url": "https://polymarket.com/market/nflx-above-50-on-april-24-2026"
         }
     ],
-    "timestamp": "2026-04-19 12:46"
+    "timestamp": "2026-04-19 13:56"
 };
