@@ -7,7 +7,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "yizhiyanhua-ai/fireworks-tech-graph",
             "description": "Claude Code skill for generating production-quality SVG+PNG technical diagrams. Supports 8 diagram types, 5 visual styles, and deep AI/Agent domain knowledge.",
             "url": "https://github.com/yizhiyanhua-ai/fireworks-tech-graph",
-            "stars": 3885,
+            "stars": 3886,
             "forks": 339,
             "score": 99
         },
@@ -18,8 +18,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "getagentseal/codeburn",
             "description": "See where your AI coding tokens go. Interactive TUI dashboard for Claude Code, Codex, and Cursor cost observability.",
             "url": "https://github.com/getagentseal/codeburn",
-            "stars": 3032,
-            "forks": 221,
+            "stars": 3034,
+            "forks": 222,
             "score": 99
         },
         {
@@ -29,7 +29,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "alchaincyf/hermes-agent-orange-book",
             "description": "Hermes Agent \u4ece\u5165\u95e8\u5230\u7cbe\u901a \u00b7 \u6a59\u76ae\u4e66\u7cfb\u5217 \u00b7 Nous Research \u5f00\u6e90 AI Agent \u6846\u67b6\u5b9e\u6218\u6307\u5357",
             "url": "https://github.com/alchaincyf/hermes-agent-orange-book",
-            "stars": 2773,
+            "stars": 2774,
             "forks": 296,
             "score": 99
         },
@@ -51,7 +51,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Mouseww/anything-analyzer",
             "description": "\u5168\u80fd\u534f\u8bae\u5206\u6790\u5de5\u5177\uff1a\u6d4f\u89c8\u5668\u6293\u5305 + MITM \u4ee3\u7406 + \u6307\u7eb9\u4f2a\u88c5 + AI \u5206\u6790 + MCP Server \u65e0\u7f1d\u5bf9\u63a5 AI Agent/IDE   |  All-in-one protocol analysis toolkit \u2014 built-in browser capture, MITM proxy, JS hooks, fingerprint spoofing, AI analysis & MCP server for agent integration",
             "url": "https://github.com/Mouseww/anything-analyzer",
-            "stars": 1554,
+            "stars": 1555,
             "forks": 344,
             "score": 99
         },
@@ -62,7 +62,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "EKKOLearnAI/hermes-web-ui",
             "description": "Web dashboard for Hermes Agent \u2014 multi-platform AI chat, session management, scheduled jobs, usage analytics & channel configuration (Telegram, Discord, Slack, WhatsApp)",
             "url": "https://github.com/EKKOLearnAI/hermes-web-ui",
-            "stars": 1227,
+            "stars": 1228,
             "forks": 145,
             "score": 99
         },
@@ -84,8 +84,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "WeaveMindAI/weft",
             "description": "A programming language for AI systems",
             "url": "https://github.com/WeaveMindAI/weft",
-            "stars": 906,
-            "forks": 121,
+            "stars": 907,
+            "forks": 122,
             "score": 99
         },
         {
@@ -117,7 +117,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "joeynyc/hermes-hudui",
             "description": "Web UI consciousness monitor for Hermes \u2014 the AI agent with persistent memory",
             "url": "https://github.com/joeynyc/hermes-hudui",
-            "stars": 1115,
+            "stars": 1117,
             "forks": 130,
             "score": 88
         },
@@ -128,9 +128,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "bergside/design-md-chrome",
             "description": "Chrome extension to extract styles from any website and generate DESIGN.md files and design skills for AI based on TypeUI",
             "url": "https://github.com/bergside/design-md-chrome",
-            "stars": 640,
+            "stars": 657,
             "forks": 86,
-            "score": 84
+            "score": 85
         },
         {
             "main_cat": "AI",
@@ -139,7 +139,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "hexiecs/talk-normal",
             "description": "Make any LLM talk like a normal person. A system prompt that removes AI slop.",
             "url": "https://github.com/hexiecs/talk-normal",
-            "stars": 1344,
+            "stars": 1345,
             "forks": 37,
             "score": 83
         },
@@ -150,8 +150,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "cloudflare/agentic-inbox",
             "description": "A self-hosted email client with an AI agent, running entirely on Cloudflare Workers",
             "url": "https://github.com/cloudflare/agentic-inbox",
-            "stars": 850,
-            "forks": 70,
+            "stars": 853,
+            "forks": 69,
             "score": 73
         },
         {
@@ -172,8 +172,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "techjarves/USB-Uncensored-LLM",
             "description": "The ultimate zero-install, portable local AI environment. Run high-quality, uncensored LLMs (Gemma, Qwen, NemoMix) directly from any USB drive or SSD. Fully air-gapped, cross-platform (Win/Mac/Linux), and privacy-first with persistent chat history.",
             "url": "https://github.com/techjarves/USB-Uncensored-LLM",
-            "stars": 346,
-            "forks": 80,
+            "stars": 351,
+            "forks": 82,
             "score": 67
         },
         {
@@ -183,7 +183,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "h4ckf0r0day/obscura",
             "description": "The headless browser for AI agents and web scraping",
             "url": "https://github.com/h4ckf0r0day/obscura",
-            "stars": 466,
+            "stars": 469,
             "forks": 32,
             "score": 59
         },
@@ -216,8 +216,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "VILA-Lab/Dive-into-Claude-Code",
             "description": "A Systematic Analysis and Discussion of Claude Code for Designing Today's and Future AI Agent Systems",
             "url": "https://github.com/VILA-Lab/Dive-into-Claude-Code",
-            "stars": 429,
-            "forks": 55,
+            "stars": 431,
+            "forks": 57,
             "score": 57
         },
         {
@@ -293,7 +293,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "skyllwt/OmegaWiki",
             "description": "Karpathy's LLM-Wiki vision, fully realized \u2014 wiki-centric full-lifecycle AI research platform powered by Claude Code",
             "url": "https://github.com/skyllwt/OmegaWiki",
-            "stars": 345,
+            "stars": 347,
             "forks": 54,
             "score": 50
         },
@@ -326,7 +326,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "bitjaru/styleseed",
             "description": "Claude Code & Cursor design system. Stop generating ugly AI UI. 69 design rules + 48 shadcn components + Toss/Stripe/Linear/Vercel/Notion brand skins. Tailwind v4 + Radix.",
             "url": "https://github.com/bitjaru/styleseed",
-            "stars": 307,
+            "stars": 308,
             "forks": 37,
             "score": 44
         },
@@ -377,22 +377,22 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
-            "name": "VindexLLM",
-            "full_name": "tinyBigGAMES/VindexLLM",
-            "description": "VindexLLM is a pure Delphi, GPU-powered LLM inference engine that uses Vulkan compute shaders to run GGUF models entirely on the GPU. It performs full transformer inference without relying on Python, CUDA, or other external runtimes, requiring only vulkan-1.dll, which is typically included with modern GPU drivers.",
-            "url": "https://github.com/tinyBigGAMES/VindexLLM",
-            "stars": 20,
-            "forks": 4,
-            "score": 32
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
             "name": "lazy-moe",
             "full_name": "patilyashvardhan2002-byte/lazy-moe",
             "description": "The GPU-free LLM inference engine. Combines lazy expert loading + TurboQuant KV compression to run models that shouldn't fit on your hardware. Built from scratch, fully local, zero cloud.",
             "url": "https://github.com/patilyashvardhan2002-byte/lazy-moe",
             "stars": 22,
+            "forks": 4,
+            "score": 31
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "VindexLLM",
+            "full_name": "tinyBigGAMES/VindexLLM",
+            "description": "VindexLLM is a pure Delphi, GPU-powered LLM inference engine that uses Vulkan compute shaders to run GGUF models entirely on the GPU. It performs full transformer inference without relying on Python, CUDA, or other external runtimes, requiring only vulkan-1.dll, which is typically included with modern GPU drivers.",
+            "url": "https://github.com/tinyBigGAMES/VindexLLM",
+            "stars": 20,
             "forks": 4,
             "score": 31
         },
@@ -721,12 +721,12 @@ const ALPHA_DATA_V2 = {
             "url": "http://arxiv.org/abs/2604.16101v1"
         },
         {
-            "title": "Ethereum Up or Down - April 20, 5:45PM-5:50PM ET (Probability: 50%)",
+            "title": "Ethereum Up or Down - April 20, 7:20PM-7:25PM ET (Probability: 50%)",
             "source": "Polymarket",
             "type": "Expectation",
             "color": "text-indigo-400",
-            "url": "https://polymarket.com/market/eth-updown-5m-1776721500"
+            "url": "https://polymarket.com/market/eth-updown-5m-1776727200"
         }
     ],
-    "timestamp": "2026-04-20 21:40"
+    "timestamp": "2026-04-20 22:37"
 };
