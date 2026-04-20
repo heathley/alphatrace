@@ -7,7 +7,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "yizhiyanhua-ai/fireworks-tech-graph",
             "description": "Claude Code skill for generating production-quality SVG+PNG technical diagrams. Supports 8 diagram types, 5 visual styles, and deep AI/Agent domain knowledge.",
             "url": "https://github.com/yizhiyanhua-ai/fireworks-tech-graph",
-            "stars": 3875,
+            "stars": 3879,
             "forks": 339,
             "score": 99
         },
@@ -18,7 +18,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "getagentseal/codeburn",
             "description": "See where your AI coding tokens go. Interactive TUI dashboard for Claude Code, Codex, and Cursor cost observability.",
             "url": "https://github.com/getagentseal/codeburn",
-            "stars": 3001,
+            "stars": 3012,
             "forks": 219,
             "score": 99
         },
@@ -40,7 +40,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "OpenMOSS/MOSS-TTS-Nano",
             "description": "MOSS-TTS-Nano is an open-source multilingual tiny speech generation model from MOSI.AI and the OpenMOSS team. With only 0.1B parameters, it is designed for realtime speech generation, can run directly on CPU without a GPU, and keeps the deployment stack simple enough for local demos, web serving, and lightweight product integration.",
             "url": "https://github.com/OpenMOSS/MOSS-TTS-Nano",
-            "stars": 1763,
+            "stars": 1769,
             "forks": 235,
             "score": 99
         },
@@ -51,8 +51,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "Mouseww/anything-analyzer",
             "description": "\u5168\u80fd\u534f\u8bae\u5206\u6790\u5de5\u5177\uff1a\u6d4f\u89c8\u5668\u6293\u5305 + MITM \u4ee3\u7406 + \u6307\u7eb9\u4f2a\u88c5 + AI \u5206\u6790 + MCP Server \u65e0\u7f1d\u5bf9\u63a5 AI Agent/IDE   |  All-in-one protocol analysis toolkit \u2014 built-in browser capture, MITM proxy, JS hooks, fingerprint spoofing, AI analysis & MCP server for agent integration",
             "url": "https://github.com/Mouseww/anything-analyzer",
-            "stars": 1544,
-            "forks": 343,
+            "stars": 1551,
+            "forks": 344,
             "score": 99
         },
         {
@@ -62,7 +62,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "EKKOLearnAI/hermes-web-ui",
             "description": "Web dashboard for Hermes Agent \u2014 multi-platform AI chat, session management, scheduled jobs, usage analytics & channel configuration (Telegram, Discord, Slack, WhatsApp)",
             "url": "https://github.com/EKKOLearnAI/hermes-web-ui",
-            "stars": 1218,
+            "stars": 1219,
             "forks": 145,
             "score": 99
         },
@@ -73,7 +73,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "BuilderPulse/BuilderPulse",
             "description": "AI-powered daily intelligence for indie hackers and builders. 20 questions, 10+ sources, every morning.",
             "url": "https://github.com/BuilderPulse/BuilderPulse",
-            "stars": 1011,
+            "stars": 1014,
             "forks": 73,
             "score": 99
         },
@@ -84,7 +84,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "yaojingang/GEOFlow",
             "description": "Open-source GEO content production system with AI tasks, review workflow, and publishing.",
             "url": "https://github.com/yaojingang/GEOFlow",
-            "stars": 905,
+            "stars": 906,
             "forks": 202,
             "score": 99
         },
@@ -95,7 +95,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "WeaveMindAI/weft",
             "description": "A programming language for AI systems",
             "url": "https://github.com/WeaveMindAI/weft",
-            "stars": 904,
+            "stars": 905,
             "forks": 121,
             "score": 99
         },
@@ -106,8 +106,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "ZeroZ-lab/cc-design",
             "description": "High-fidelity HTML design and prototype guidance skill for AI agents",
             "url": "https://github.com/ZeroZ-lab/cc-design",
-            "stars": 447,
-            "forks": 42,
+            "stars": 451,
+            "forks": 43,
             "score": 99
         },
         {
@@ -128,7 +128,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "hexiecs/talk-normal",
             "description": "Make any LLM talk like a normal person. A system prompt that removes AI slop.",
             "url": "https://github.com/hexiecs/talk-normal",
-            "stars": 1342,
+            "stars": 1344,
             "forks": 37,
             "score": 83
         },
@@ -139,9 +139,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "bergside/design-md-chrome",
             "description": "Chrome extension to extract styles from any website and generate DESIGN.md files and design skills for AI based on TypeUI",
             "url": "https://github.com/bergside/design-md-chrome",
-            "stars": 597,
-            "forks": 80,
-            "score": 80
+            "stars": 610,
+            "forks": 82,
+            "score": 82
         },
         {
             "main_cat": "AI",
@@ -150,7 +150,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "cloudflare/agentic-inbox",
             "description": "A self-hosted email client with an AI agent, running entirely on Cloudflare Workers",
             "url": "https://github.com/cloudflare/agentic-inbox",
-            "stars": 834,
+            "stars": 837,
             "forks": 70,
             "score": 72
         },
@@ -172,8 +172,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "techjarves/USB-Uncensored-LLM",
             "description": "The ultimate zero-install, portable local AI environment. Run high-quality, uncensored LLMs (Gemma, Qwen, NemoMix) directly from any USB drive or SSD. Fully air-gapped, cross-platform (Win/Mac/Linux), and privacy-first with persistent chat history.",
             "url": "https://github.com/techjarves/USB-Uncensored-LLM",
-            "stars": 313,
-            "forks": 75,
+            "stars": 321,
+            "forks": 76,
             "score": 64
         },
         {
@@ -183,9 +183,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "mohi-devhub/antivibe",
             "description": "Learn what AI writes, not just accept it. A Claude Code skill that turns AI-generated code into educational deep dives.",
             "url": "https://github.com/mohi-devhub/antivibe",
-            "stars": 595,
+            "stars": 596,
             "forks": 37,
-            "score": 60
+            "score": 61
         },
         {
             "main_cat": "AI",
@@ -194,7 +194,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "h4ckf0r0day/obscura",
             "description": "The headless browser for AI agents and web scraping",
             "url": "https://github.com/h4ckf0r0day/obscura",
-            "stars": 441,
+            "stars": 442,
             "forks": 31,
             "score": 58
         },
@@ -249,7 +249,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "VILA-Lab/Dive-into-Claude-Code",
             "description": "A Systematic Analysis and Discussion of Claude Code for Designing Today's and Future AI Agent Systems",
             "url": "https://github.com/VILA-Lab/Dive-into-Claude-Code",
-            "stars": 406,
+            "stars": 409,
             "forks": 51,
             "score": 55
         },
@@ -260,9 +260,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "xaspx/hermes-control-interface",
             "description": "A self-hosted web dashboard for the Hermes AI agent stack. Provides a browser-based terminal, file explorer, session overview, cron management, system metrics, and an agent status panel \u2014 all behind a single password gate.",
             "url": "https://github.com/xaspx/hermes-control-interface",
-            "stars": 433,
+            "stars": 434,
             "forks": 66,
-            "score": 54
+            "score": 53
         },
         {
             "main_cat": "AI",
@@ -326,7 +326,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "bitjaru/styleseed",
             "description": "Claude Code & Cursor design system. Stop generating ugly AI UI. 69 design rules + 48 shadcn components + Toss/Stripe/Linear/Vercel/Notion brand skins. Tailwind v4 + Radix.",
             "url": "https://github.com/bitjaru/styleseed",
-            "stars": 305,
+            "stars": 306,
             "forks": 37,
             "score": 44
         },
@@ -344,17 +344,6 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
-            "name": "OpenLLM-Studio",
-            "full_name": "Icecubesaad/OpenLLM-Studio",
-            "description": "Run local AI models privately with GPU acceleration. Modern UI, HuggingFace integration. Built with Tauri + React + Rust.",
-            "url": "https://github.com/Icecubesaad/OpenLLM-Studio",
-            "stars": 25,
-            "forks": 6,
-            "score": 33
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
             "name": "unweight-kernels",
             "full_name": "cloudflareresearch/unweight-kernels",
             "description": "Lossless compression of BF16 MLP weights for LLM inference on NVIDIA Hopper GPUs ",
@@ -366,12 +355,34 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
+            "name": "OpenLLM-Studio",
+            "full_name": "Icecubesaad/OpenLLM-Studio",
+            "description": "Run local AI models privately with GPU acceleration. Modern UI, HuggingFace integration. Built with Tauri + React + Rust.",
+            "url": "https://github.com/Icecubesaad/OpenLLM-Studio",
+            "stars": 25,
+            "forks": 6,
+            "score": 32
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
             "name": "VindexLLM",
             "full_name": "tinyBigGAMES/VindexLLM",
             "description": "VindexLLM is a pure Delphi, GPU-powered LLM inference engine that uses Vulkan compute shaders to run GGUF models entirely on the GPU. It performs full transformer inference without relying on Python, CUDA, or other external runtimes, requiring only vulkan-1.dll, which is typically included with modern GPU drivers.",
             "url": "https://github.com/tinyBigGAMES/VindexLLM",
             "stars": 20,
             "forks": 4,
+            "score": 32
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "polymarket-whale-watcher",
+            "full_name": "modinis4569nz/polymarket-whale-watcher",
+            "description": "Polymarket Whale Watcher: Real-time smart money tracker for prediction markets. Monitor large USDC transactions, track high-conviction bets, and analyze whale sentiment on the Polygon blockchain. The ultimate open-source tool for algorithmic trading and market insights on Polymarket.",
+            "url": "https://github.com/modinis4569nz/polymarket-whale-watcher",
+            "stars": 17,
+            "forks": 0,
             "score": 32
         },
         {
@@ -394,17 +405,6 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/rookiemann/multi-turboquant",
             "stars": 20,
             "forks": 5,
-            "score": 31
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "polymarket-whale-watcher",
-            "full_name": "modinis4569nz/polymarket-whale-watcher",
-            "description": "Polymarket Whale Watcher: Real-time smart money tracker for prediction markets. Monitor large USDC transactions, track high-conviction bets, and analyze whale sentiment on the Polygon blockchain. The ultimate open-source tool for algorithmic trading and market insights on Polymarket.",
-            "url": "https://github.com/modinis4569nz/polymarket-whale-watcher",
-            "stars": 9,
-            "forks": 0,
             "score": 31
         },
         {
@@ -721,12 +721,12 @@ const ALPHA_DATA_V2 = {
             "url": "http://arxiv.org/abs/2604.16101v1"
         },
         {
-            "title": "Will the price of Bitcoin be between $72,000 and $74,000 on April 23? (Probability: 20%)",
+            "title": "Will Netflix (NFLX) finish week of April 20 above $70? (Probability: 98%)",
             "source": "Polymarket",
             "type": "Expectation",
             "color": "text-indigo-400",
-            "url": "https://polymarket.com/market/will-the-price-of-bitcoin-be-between-72000-74000-on-april-23"
+            "url": "https://polymarket.com/market/nflx-above-70-on-april-24-2026"
         }
     ],
-    "timestamp": "2026-04-20 16:58"
+    "timestamp": "2026-04-20 18:00"
 };
