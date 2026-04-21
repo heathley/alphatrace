@@ -18,8 +18,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "getagentseal/codeburn",
             "description": "See where your AI coding tokens go. Interactive TUI dashboard for Claude Code, Codex, and Cursor cost observability.",
             "url": "https://github.com/getagentseal/codeburn",
-            "stars": 3237,
-            "forks": 245,
+            "stars": 3241,
+            "forks": 246,
             "score": 99
         },
         {
@@ -51,7 +51,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Mouseww/anything-analyzer",
             "description": "\u5168\u80fd\u534f\u8bae\u5206\u6790\u5de5\u5177\uff1a\u6d4f\u89c8\u5668\u6293\u5305 + MITM \u4ee3\u7406 + \u6307\u7eb9\u4f2a\u88c5 + AI \u5206\u6790 + MCP Server \u65e0\u7f1d\u5bf9\u63a5 AI Agent/IDE   |  All-in-one protocol analysis toolkit \u2014 built-in browser capture, MITM proxy, JS hooks, fingerprint spoofing, AI analysis & MCP server for agent integration",
             "url": "https://github.com/Mouseww/anything-analyzer",
-            "stars": 1607,
+            "stars": 1608,
             "forks": 355,
             "score": 99
         },
@@ -62,19 +62,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "EKKOLearnAI/hermes-web-ui",
             "description": "Web dashboard for Hermes Agent \u2014 multi-platform AI chat, session management, scheduled jobs, usage analytics & channel configuration (Telegram, Discord, Slack, WhatsApp)",
             "url": "https://github.com/EKKOLearnAI/hermes-web-ui",
-            "stars": 1417,
+            "stars": 1418,
             "forks": 167,
-            "score": 99
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "GEOFlow",
-            "full_name": "yaojingang/GEOFlow",
-            "description": "Open-source GEO content production system with AI tasks, review workflow, and publishing.",
-            "url": "https://github.com/yaojingang/GEOFlow",
-            "stars": 941,
-            "forks": 210,
             "score": 99
         },
         {
@@ -84,8 +73,19 @@ const ALPHA_DATA_V2 = {
             "full_name": "WeaveMindAI/weft",
             "description": "A programming language for AI systems",
             "url": "https://github.com/WeaveMindAI/weft",
-            "stars": 939,
+            "stars": 942,
             "forks": 124,
+            "score": 99
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "GEOFlow",
+            "full_name": "yaojingang/GEOFlow",
+            "description": "Open-source GEO content production system with AI tasks, review workflow, and publishing.",
+            "url": "https://github.com/yaojingang/GEOFlow",
+            "stars": 942,
+            "forks": 210,
             "score": 99
         },
         {
@@ -95,7 +95,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "bergside/design-md-chrome",
             "description": "Chrome extension to extract styles from any website and generate DESIGN.md files and design skills for AI based on TypeUI",
             "url": "https://github.com/bergside/design-md-chrome",
-            "stars": 916,
+            "stars": 922,
             "forks": 126,
             "score": 99
         },
@@ -106,7 +106,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "ZeroZ-lab/cc-design",
             "description": "High-fidelity HTML design and prototype guidance skill for AI agents",
             "url": "https://github.com/ZeroZ-lab/cc-design",
-            "stars": 557,
+            "stars": 558,
             "forks": 62,
             "score": 99
         },
@@ -128,7 +128,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "cosmicstack-labs/mercury-agent",
             "description": "Soul-driven AI agent with permission-hardened tools, token budgets, and multi-channel access. Runs 24/7 from CLI or Telegram.",
             "url": "https://github.com/cosmicstack-labs/mercury-agent",
-            "stars": 323,
+            "stars": 324,
             "forks": 42,
             "score": 91
         },
@@ -150,7 +150,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "cloudflare/agentic-inbox",
             "description": "A self-hosted email client with an AI agent, running entirely on Cloudflare Workers",
             "url": "https://github.com/cloudflare/agentic-inbox",
-            "stars": 1105,
+            "stars": 1107,
             "forks": 92,
             "score": 82
         },
@@ -161,7 +161,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "hexiecs/talk-normal",
             "description": "Make any LLM talk like a normal person. A system prompt that removes AI slop.",
             "url": "https://github.com/hexiecs/talk-normal",
-            "stars": 1378,
+            "stars": 1379,
             "forks": 39,
             "score": 81
         },
@@ -172,7 +172,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "techjarves/USB-Uncensored-LLM",
             "description": "The ultimate zero-install, portable local AI environment. Run high-quality, uncensored LLMs (Gemma, Qwen, NemoMix) directly from any USB drive or SSD. Fully air-gapped, cross-platform (Win/Mac/Linux), and privacy-first with persistent chat history.",
             "url": "https://github.com/techjarves/USB-Uncensored-LLM",
-            "stars": 455,
+            "stars": 456,
             "forks": 109,
             "score": 74
         },
@@ -183,9 +183,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "TencentCloud/CubeSandbox",
             "description": "Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.",
             "url": "https://github.com/TencentCloud/CubeSandbox",
-            "stars": 864,
-            "forks": 66,
-            "score": 70
+            "stars": 927,
+            "forks": 68,
+            "score": 72
         },
         {
             "main_cat": "AI",
@@ -194,7 +194,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "alchaincyf/obsidian-ai-orange-book",
             "description": "Obsidian + Claude Code: Rebuild Your Second Brain with AI \u00b7 \u6a59\u76ae\u4e66\u7cfb\u5217 \u00b7 \u7528AI\u91cd\u5efa\u4f60\u7684\u7b2c\u4e8c\u5927\u8111",
             "url": "https://github.com/alchaincyf/obsidian-ai-orange-book",
-            "stars": 692,
+            "stars": 693,
             "forks": 71,
             "score": 67
         },
@@ -217,7 +217,7 @@ const ALPHA_DATA_V2 = {
             "description": "A Systematic Analysis and Discussion of Claude Code for Designing Today's and Future AI Agent Systems",
             "url": "https://github.com/VILA-Lab/Dive-into-Claude-Code",
             "stars": 503,
-            "forks": 67,
+            "forks": 68,
             "score": 59
         },
         {
@@ -238,7 +238,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Xiangyue-Zhang/auto-deep-researcher-24x7",
             "description": "\ud83d\udd25 An autonomous AI agent that runs your deep learning experiments 24/7 while you sleep. Zero-cost monitoring, Leader-Worker architecture, constant-size memory.",
             "url": "https://github.com/Xiangyue-Zhang/auto-deep-researcher-24x7",
-            "stars": 622,
+            "stars": 623,
             "forks": 54,
             "score": 56
         },
@@ -282,7 +282,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "xaspx/hermes-control-interface",
             "description": "A self-hosted web dashboard for the Hermes AI agent stack. Provides a browser-based terminal, file explorer, session overview, cron management, system metrics, and an agent status panel \u2014 all behind a single password gate.",
             "url": "https://github.com/xaspx/hermes-control-interface",
-            "stars": 448,
+            "stars": 449,
             "forks": 69,
             "score": 52
         },
@@ -377,21 +377,21 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
-            "name": "lazy-moe",
-            "full_name": "patilyashvardhan2002-byte/lazy-moe",
-            "description": "The GPU-free LLM inference engine. Combines lazy expert loading + TurboQuant KV compression to run models that shouldn't fit on your hardware. Built from scratch, fully local, zero cloud.",
-            "url": "https://github.com/patilyashvardhan2002-byte/lazy-moe",
-            "stars": 22,
+            "name": "VindexLLM",
+            "full_name": "tinyBigGAMES/VindexLLM",
+            "description": "VindexLLM is a pure Delphi, GPU-powered LLM inference engine that uses Vulkan compute shaders to run GGUF models entirely on the GPU. It performs full transformer inference without relying on Python, CUDA, or other external runtimes, requiring only vulkan-1.dll, which is typically included with modern GPU drivers.",
+            "url": "https://github.com/tinyBigGAMES/VindexLLM",
+            "stars": 23,
             "forks": 4,
             "score": 31
         },
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
-            "name": "VindexLLM",
-            "full_name": "tinyBigGAMES/VindexLLM",
-            "description": "VindexLLM is a pure Delphi, GPU-powered LLM inference engine that uses Vulkan compute shaders to run GGUF models entirely on the GPU. It performs full transformer inference without relying on Python, CUDA, or other external runtimes, requiring only vulkan-1.dll, which is typically included with modern GPU drivers.",
-            "url": "https://github.com/tinyBigGAMES/VindexLLM",
+            "name": "lazy-moe",
+            "full_name": "patilyashvardhan2002-byte/lazy-moe",
+            "description": "The GPU-free LLM inference engine. Combines lazy expert loading + TurboQuant KV compression to run models that shouldn't fit on your hardware. Built from scratch, fully local, zero cloud.",
+            "url": "https://github.com/patilyashvardhan2002-byte/lazy-moe",
             "stars": 22,
             "forks": 4,
             "score": 31
@@ -405,6 +405,17 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/rookiemann/multi-turboquant",
             "stars": 20,
             "forks": 5,
+            "score": 31
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "polymarket-whale-watcher",
+            "full_name": "modinis4569nz/polymarket-whale-watcher",
+            "description": "Polymarket Whale Watcher: Real-time smart money tracker for prediction markets. Monitor large USDC transactions, track high-conviction bets, and analyze whale sentiment on the Polygon blockchain. The ultimate open-source tool for algorithmic trading and market insights on Polymarket.",
+            "url": "https://github.com/modinis4569nz/polymarket-whale-watcher",
+            "stars": 12,
+            "forks": 0,
             "score": 31
         },
         {
@@ -458,6 +469,50 @@ const ALPHA_DATA_V2 = {
             "full_name": "anbusan19/HashClaw",
             "description": "HashClaw is an autonomous AI agent that manages a user's on-chain portfolio across HashKey Chain \u2014 intelligently allocating between tokenized Real-World Assets (RWAs), veHSK staking, and liquidity pools \u2014 and executing yield withdrawals via HSP (HashKey Settlement Protocol).",
             "url": "https://github.com/anbusan19/HashClaw",
+            "stars": 0,
+            "forks": 0,
+            "score": 30
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "TheDataAthlete",
+            "full_name": "SupaTx/TheDataAthlete",
+            "description": "Football betting prediction model using LightGBM. Predicts total goals, Over/Under 0.5\u20134.5, 1X2, BTTS, and clean sheets. Trained on 2000\u20112025 match data + Elo ratings.",
+            "url": "https://github.com/SupaTx/TheDataAthlete",
+            "stars": 1,
+            "forks": 0,
+            "score": 30
+        },
+        {
+            "main_cat": "Prediction Markets",
+            "sub_cat": null,
+            "name": "Prediction-Market---Decentralized-betting-and-forecasting-platform",
+            "full_name": "TOPMATRIX/Prediction-Market---Decentralized-betting-and-forecasting-platform",
+            "description": "Prediction Market - Decentralized betting and forecasting platform",
+            "url": "https://github.com/TOPMATRIX/Prediction-Market---Decentralized-betting-and-forecasting-platform",
+            "stars": 0,
+            "forks": 0,
+            "score": 30
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "HashPredict",
+            "full_name": "yashj09/HashPredict",
+            "description": "HashPredict is a decentralized prediction market platform where users bet on the outcome of real-world events using USDT on HashKey Chain.",
+            "url": "https://github.com/yashj09/HashPredict",
+            "stars": 0,
+            "forks": 0,
+            "score": 30
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "prediction-market",
+            "full_name": "deepanshu-yd/prediction-market",
+            "description": "Predicto is a high-performance, binary outcome prediction market built with the latest Solana technology stack. It allows users to create markets on any topic, bet SOL on outcomes, and claim rewards from a collective pool.",
+            "url": "https://github.com/deepanshu-yd/prediction-market",
             "stars": 0,
             "forks": 0,
             "score": 30
@@ -688,12 +743,12 @@ const ALPHA_DATA_V2 = {
             "url": "http://arxiv.org/abs/2604.18510v1"
         },
         {
-            "title": "Solana Up or Down - April 21, 5:45PM-5:50PM ET (Probability: 51%)",
+            "title": "Ethereum Up or Down - April 21, 6:40PM-6:45PM ET (Probability: 50%)",
             "source": "Polymarket",
             "type": "Expectation",
             "color": "text-indigo-400",
-            "url": "https://polymarket.com/market/sol-updown-5m-1776807900"
+            "url": "https://polymarket.com/market/eth-updown-5m-1776811200"
         }
     ],
-    "timestamp": "2026-04-21 21:40"
+    "timestamp": "2026-04-21 22:33"
 };
