@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "yizhiyanhua-ai/fireworks-tech-graph",
             "description": "Claude Code skill for generating production-quality SVG+PNG technical diagrams. Supports 8 diagram types, 5 visual styles, and deep AI/Agent domain knowledge.",
             "url": "https://github.com/yizhiyanhua-ai/fireworks-tech-graph",
-            "stars": 3899,
-            "forks": 341,
+            "stars": 3954,
+            "forks": 344,
             "score": 99
         },
         {
@@ -18,8 +18,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "getagentseal/codeburn",
             "description": "See where your AI coding tokens go. Interactive TUI dashboard for Claude Code, Codex, and Cursor cost observability.",
             "url": "https://github.com/getagentseal/codeburn",
-            "stars": 3067,
-            "forks": 227,
+            "stars": 3094,
+            "forks": 229,
             "score": 99
         },
         {
@@ -29,7 +29,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "alchaincyf/hermes-agent-orange-book",
             "description": "Hermes Agent \u4ece\u5165\u95e8\u5230\u7cbe\u901a \u00b7 \u6a59\u76ae\u4e66\u7cfb\u5217 \u00b7 Nous Research \u5f00\u6e90 AI Agent \u6846\u67b6\u5b9e\u6218\u6307\u5357",
             "url": "https://github.com/alchaincyf/hermes-agent-orange-book",
-            "stars": 2780,
+            "stars": 2789,
             "forks": 297,
             "score": 99
         },
@@ -40,8 +40,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "OpenMOSS/MOSS-TTS-Nano",
             "description": "MOSS-TTS-Nano is an open-source multilingual tiny speech generation model from MOSI.AI and the OpenMOSS team. With only 0.1B parameters, it is designed for realtime speech generation, can run directly on CPU without a GPU, and keeps the deployment stack simple enough for local demos, web serving, and lightweight product integration.",
             "url": "https://github.com/OpenMOSS/MOSS-TTS-Nano",
-            "stars": 1793,
-            "forks": 238,
+            "stars": 1809,
+            "forks": 242,
             "score": 99
         },
         {
@@ -51,8 +51,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "Mouseww/anything-analyzer",
             "description": "\u5168\u80fd\u534f\u8bae\u5206\u6790\u5de5\u5177\uff1a\u6d4f\u89c8\u5668\u6293\u5305 + MITM \u4ee3\u7406 + \u6307\u7eb9\u4f2a\u88c5 + AI \u5206\u6790 + MCP Server \u65e0\u7f1d\u5bf9\u63a5 AI Agent/IDE   |  All-in-one protocol analysis toolkit \u2014 built-in browser capture, MITM proxy, JS hooks, fingerprint spoofing, AI analysis & MCP server for agent integration",
             "url": "https://github.com/Mouseww/anything-analyzer",
-            "stars": 1575,
-            "forks": 349,
+            "stars": 1580,
+            "forks": 350,
             "score": 99
         },
         {
@@ -62,8 +62,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "EKKOLearnAI/hermes-web-ui",
             "description": "Web dashboard for Hermes Agent \u2014 multi-platform AI chat, session management, scheduled jobs, usage analytics & channel configuration (Telegram, Discord, Slack, WhatsApp)",
             "url": "https://github.com/EKKOLearnAI/hermes-web-ui",
-            "stars": 1249,
-            "forks": 148,
+            "stars": 1290,
+            "forks": 151,
             "score": 99
         },
         {
@@ -73,19 +73,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "BuilderPulse/BuilderPulse",
             "description": "AI-powered daily intelligence for indie hackers and builders. 20 questions, 10+ sources, every morning.",
             "url": "https://github.com/BuilderPulse/BuilderPulse",
-            "stars": 1016,
+            "stars": 1026,
             "forks": 73,
-            "score": 99
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "weft",
-            "full_name": "WeaveMindAI/weft",
-            "description": "A programming language for AI systems",
-            "url": "https://github.com/WeaveMindAI/weft",
-            "stars": 912,
-            "forks": 122,
             "score": 99
         },
         {
@@ -95,8 +84,19 @@ const ALPHA_DATA_V2 = {
             "full_name": "yaojingang/GEOFlow",
             "description": "Open-source GEO content production system with AI tasks, review workflow, and publishing.",
             "url": "https://github.com/yaojingang/GEOFlow",
-            "stars": 910,
-            "forks": 203,
+            "stars": 922,
+            "forks": 204,
+            "score": 99
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "weft",
+            "full_name": "WeaveMindAI/weft",
+            "description": "A programming language for AI systems",
+            "url": "https://github.com/WeaveMindAI/weft",
+            "stars": 915,
+            "forks": 123,
             "score": 99
         },
         {
@@ -106,9 +106,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "ZeroZ-lab/cc-design",
             "description": "High-fidelity HTML design and prototype guidance skill for AI agents",
             "url": "https://github.com/ZeroZ-lab/cc-design",
-            "stars": 474,
-            "forks": 48,
-            "score": 96
+            "stars": 496,
+            "forks": 52,
+            "score": 99
         },
         {
             "main_cat": "AI",
@@ -117,9 +117,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "bergside/design-md-chrome",
             "description": "Chrome extension to extract styles from any website and generate DESIGN.md files and design skills for AI based on TypeUI",
             "url": "https://github.com/bergside/design-md-chrome",
-            "stars": 752,
-            "forks": 100,
-            "score": 94
+            "stars": 812,
+            "forks": 106,
+            "score": 98
         },
         {
             "main_cat": "AI",
@@ -128,8 +128,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "joeynyc/hermes-hudui",
             "description": "Web UI consciousness monitor for Hermes \u2014 the AI agent with persistent memory",
             "url": "https://github.com/joeynyc/hermes-hudui",
-            "stars": 1119,
-            "forks": 130,
+            "stars": 1122,
+            "forks": 129,
             "score": 84
         },
         {
@@ -139,9 +139,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "hexiecs/talk-normal",
             "description": "Make any LLM talk like a normal person. A system prompt that removes AI slop.",
             "url": "https://github.com/hexiecs/talk-normal",
-            "stars": 1348,
-            "forks": 37,
-            "score": 79
+            "stars": 1355,
+            "forks": 38,
+            "score": 80
         },
         {
             "main_cat": "AI",
@@ -150,20 +150,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "cloudflare/agentic-inbox",
             "description": "A self-hosted email client with an AI agent, running entirely on Cloudflare Workers",
             "url": "https://github.com/cloudflare/agentic-inbox",
-            "stars": 902,
-            "forks": 70,
-            "score": 72
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "obsidian-ai-orange-book",
-            "full_name": "alchaincyf/obsidian-ai-orange-book",
-            "description": "Obsidian + Claude Code: Rebuild Your Second Brain with AI \u00b7 \u6a59\u76ae\u4e66\u7cfb\u5217 \u00b7 \u7528AI\u91cd\u5efa\u4f60\u7684\u7b2c\u4e8c\u5927\u8111",
-            "url": "https://github.com/alchaincyf/obsidian-ai-orange-book",
-            "stars": 682,
-            "forks": 71,
-            "score": 70
+            "stars": 944,
+            "forks": 74,
+            "score": 74
         },
         {
             "main_cat": "AI",
@@ -172,9 +161,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "techjarves/USB-Uncensored-LLM",
             "description": "The ultimate zero-install, portable local AI environment. Run high-quality, uncensored LLMs (Gemma, Qwen, NemoMix) directly from any USB drive or SSD. Fully air-gapped, cross-platform (Win/Mac/Linux), and privacy-first with persistent chat history.",
             "url": "https://github.com/techjarves/USB-Uncensored-LLM",
-            "stars": 369,
-            "forks": 84,
-            "score": 69
+            "stars": 387,
+            "forks": 90,
+            "score": 71
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "obsidian-ai-orange-book",
+            "full_name": "alchaincyf/obsidian-ai-orange-book",
+            "description": "Obsidian + Claude Code: Rebuild Your Second Brain with AI \u00b7 \u6a59\u76ae\u4e66\u7cfb\u5217 \u00b7 \u7528AI\u91cd\u5efa\u4f60\u7684\u7b2c\u4e8c\u5927\u8111",
+            "url": "https://github.com/alchaincyf/obsidian-ai-orange-book",
+            "stars": 684,
+            "forks": 71,
+            "score": 70
         },
         {
             "main_cat": "AI",
@@ -183,9 +183,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "h4ckf0r0day/obscura",
             "description": "The headless browser for AI agents and web scraping",
             "url": "https://github.com/h4ckf0r0day/obscura",
-            "stars": 499,
-            "forks": 37,
-            "score": 62
+            "stars": 515,
+            "forks": 38,
+            "score": 63
         },
         {
             "main_cat": "AI",
@@ -194,8 +194,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "mohi-devhub/antivibe",
             "description": "Learn what AI writes, not just accept it. A Claude Code skill that turns AI-generated code into educational deep dives.",
             "url": "https://github.com/mohi-devhub/antivibe",
-            "stars": 600,
-            "forks": 37,
+            "stars": 601,
+            "forks": 38,
             "score": 58
         },
         {
@@ -205,31 +205,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "VILA-Lab/Dive-into-Claude-Code",
             "description": "A Systematic Analysis and Discussion of Claude Code for Designing Today's and Future AI Agent Systems",
             "url": "https://github.com/VILA-Lab/Dive-into-Claude-Code",
-            "stars": 449,
+            "stars": 461,
             "forks": 57,
             "score": 58
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "auto-deep-researcher-24x7",
-            "full_name": "Xiangyue-Zhang/auto-deep-researcher-24x7",
-            "description": "\ud83d\udd25 An autonomous AI agent that runs your deep learning experiments 24/7 while you sleep. Zero-cost monitoring, Leader-Worker architecture, constant-size memory.",
-            "url": "https://github.com/Xiangyue-Zhang/auto-deep-researcher-24x7",
-            "stars": 607,
-            "forks": 53,
-            "score": 57
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "Happy-Horse-1.0",
-            "full_name": "brooks376/Happy-Horse-1.0",
-            "description": "Information collection for the Happy Horse AI video generator model. Official demo and updates at happyhorses.io.",
-            "url": "https://github.com/brooks376/Happy-Horse-1.0",
-            "stars": 576,
-            "forks": 58,
-            "score": 56
         },
         {
             "main_cat": "AI",
@@ -239,7 +217,7 @@ const ALPHA_DATA_V2 = {
             "description": "The open source operating system for AI-powered businesses",
             "url": "https://github.com/EvolutionAPI/evo-nexus",
             "stars": 361,
-            "forks": 108,
+            "forks": 110,
             "score": 56
         },
         {
@@ -249,9 +227,31 @@ const ALPHA_DATA_V2 = {
             "full_name": "koffuxu/ai-influence-digest",
             "description": "Turn X scrolling into an AI-powered weekly digest \u2014 no X API, no scraping, just your browser. Scans 65+ AI builders, filters actionable content, exports a poster. Built for  content creators. ",
             "url": "https://github.com/koffuxu/ai-influence-digest",
-            "stars": 291,
+            "stars": 293,
             "forks": 33,
             "score": 56
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "auto-deep-researcher-24x7",
+            "full_name": "Xiangyue-Zhang/auto-deep-researcher-24x7",
+            "description": "\ud83d\udd25 An autonomous AI agent that runs your deep learning experiments 24/7 while you sleep. Zero-cost monitoring, Leader-Worker architecture, constant-size memory.",
+            "url": "https://github.com/Xiangyue-Zhang/auto-deep-researcher-24x7",
+            "stars": 612,
+            "forks": 54,
+            "score": 55
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "Happy-Horse-1.0",
+            "full_name": "brooks376/Happy-Horse-1.0",
+            "description": "Information collection for the Happy Horse AI video generator model. Official demo and updates at happyhorses.io.",
+            "url": "https://github.com/brooks376/Happy-Horse-1.0",
+            "stars": 580,
+            "forks": 58,
+            "score": 55
         },
         {
             "main_cat": "AI",
@@ -260,19 +260,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "xaspx/hermes-control-interface",
             "description": "A self-hosted web dashboard for the Hermes AI agent stack. Provides a browser-based terminal, file explorer, session overview, cron management, system metrics, and an agent status panel \u2014 all behind a single password gate.",
             "url": "https://github.com/xaspx/hermes-control-interface",
-            "stars": 435,
+            "stars": 438,
             "forks": 68,
-            "score": 53
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "agentic-video-editor",
-            "full_name": "poseljacob/agentic-video-editor",
-            "description": "AI-powered video editor that turns raw footage and a creative brief into a polished ad using an ensemble of AI agents (Google Gemini + FFmpeg)",
-            "url": "https://github.com/poseljacob/agentic-video-editor",
-            "stars": 287,
-            "forks": 32,
             "score": 53
         },
         {
@@ -282,7 +271,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Unclecheng-li/AI_Animation",
             "description": "\u672c\u9879\u76ee\u6574\u7406\u4e86\u7528\u4e8e\u751f\u6210[\u70ab\u9177 HTML \u52a8\u753b\u7f51\u9875]\u7684 AI Prompts\uff0c\u6db5\u76d6\u52a8\u753b\u6548\u679c\u30013D \u53ef\u89c6\u5316\u3001PPT \u98ce\u683c\u6f14\u793a\u3001UI \u7f8e\u5316\u7b49\u591a\u4e2a\u7c7b\u522b\u3002",
             "url": "https://github.com/Unclecheng-li/AI_Animation",
-            "stars": 386,
+            "stars": 387,
             "forks": 37,
             "score": 52
         },
@@ -293,9 +282,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "agi-now/buffett-skills",
             "description": "A collection of ai skills built on Warren Buffett's investing framework.",
             "url": "https://github.com/agi-now/buffett-skills",
-            "stars": 285,
-            "forks": 92,
-            "score": 51
+            "stars": 290,
+            "forks": 94,
+            "score": 52
         },
         {
             "main_cat": "AI",
@@ -304,7 +293,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "skyllwt/OmegaWiki",
             "description": "Karpathy's LLM-Wiki vision, fully realized \u2014 wiki-centric full-lifecycle AI research platform powered by Claude Code",
             "url": "https://github.com/skyllwt/OmegaWiki",
-            "stars": 348,
+            "stars": 350,
             "forks": 54,
             "score": 50
         },
@@ -315,8 +304,19 @@ const ALPHA_DATA_V2 = {
             "full_name": "ChatPRD/tradclaw",
             "description": "AI openclaw mom and household manager for agentic parenting",
             "url": "https://github.com/ChatPRD/tradclaw",
-            "stars": 287,
+            "stars": 288,
             "forks": 29,
+            "score": 50
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "agentic-video-editor",
+            "full_name": "poseljacob/agentic-video-editor",
+            "description": "AI-powered video editor that turns raw footage and a creative brief into a polished ad using an ensemble of AI agents (Google Gemini + FFmpeg)",
+            "url": "https://github.com/poseljacob/agentic-video-editor",
+            "stars": 287,
+            "forks": 32,
             "score": 50
         },
         {
@@ -327,8 +327,19 @@ const ALPHA_DATA_V2 = {
             "description": "A framework for teaching AI to write like you. Not like a better version of you. Like you.",
             "url": "https://github.com/getlago/inside-lago-voice-skill",
             "stars": 279,
-            "forks": 35,
+            "forks": 36,
             "score": 49
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "polymarket-whale-watcher",
+            "full_name": "modinis4569nz/polymarket-whale-watcher",
+            "description": "Polymarket Whale Watcher: Real-time smart money tracker for prediction markets. Monitor large USDC transactions, track high-conviction bets, and analyze whale sentiment on the Polygon blockchain. The ultimate open-source tool for algorithmic trading and market insights on Polymarket.",
+            "url": "https://github.com/modinis4569nz/polymarket-whale-watcher",
+            "stars": 40,
+            "forks": 0,
+            "score": 36
         },
         {
             "main_cat": "AI",
@@ -339,17 +350,6 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/Agent-FM/agentfm-core",
             "stars": 84,
             "forks": 11,
-            "score": 35
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "polymarket-whale-watcher",
-            "full_name": "modinis4569nz/polymarket-whale-watcher",
-            "description": "Polymarket Whale Watcher: Real-time smart money tracker for prediction markets. Monitor large USDC transactions, track high-conviction bets, and analyze whale sentiment on the Polygon blockchain. The ultimate open-source tool for algorithmic trading and market insights on Polymarket.",
-            "url": "https://github.com/modinis4569nz/polymarket-whale-watcher",
-            "stars": 32,
-            "forks": 0,
             "score": 35
         },
         {
@@ -370,7 +370,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Icecubesaad/OpenLLM-Studio",
             "description": "Run local AI models privately with GPU acceleration. Modern UI, HuggingFace integration. Built with Tauri + React + Rust.",
             "url": "https://github.com/Icecubesaad/OpenLLM-Studio",
-            "stars": 25,
+            "stars": 26,
             "forks": 6,
             "score": 32
         },
@@ -707,12 +707,26 @@ const ALPHA_DATA_V2 = {
     ],
     "news": [
         {
-            "title": "Ethereum Up or Down - April 20, 10:45PM-10:50PM ET (Probability: 50%)",
+            "title": "Do Privacy Policies Match with the Logs? An Empirical Study of Privacy Disclosure in Android Application Logs",
+            "source": "ArXiv",
+            "type": "Research Alpha",
+            "color": "text-indigo-600",
+            "url": "http://arxiv.org/abs/2604.18552v1"
+        },
+        {
+            "title": "Different Paths to Harmful Compliance: Behavioral Side Effects and Mechanistic Divergence Across LLM Jailbreaks",
+            "source": "ArXiv",
+            "type": "Research Alpha",
+            "color": "text-indigo-600",
+            "url": "http://arxiv.org/abs/2604.18510v1"
+        },
+        {
+            "title": "Ethereum Up or Down - April 21, 1:45AM-2:00AM ET (Probability: 50%)",
             "source": "Polymarket",
             "type": "Expectation",
             "color": "text-indigo-400",
-            "url": "https://polymarket.com/market/eth-updown-5m-1776739500"
+            "url": "https://polymarket.com/market/eth-updown-15m-1776750300"
         }
     ],
-    "timestamp": "2026-04-21 02:01"
+    "timestamp": "2026-04-21 05:21"
 };
