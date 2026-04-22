@@ -7,7 +7,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "yizhiyanhua-ai/fireworks-tech-graph",
             "description": "Claude Code skill for generating production-quality SVG+PNG technical diagrams. Supports 8 diagram types, 5 visual styles, and deep AI/Agent domain knowledge.",
             "url": "https://github.com/yizhiyanhua-ai/fireworks-tech-graph",
-            "stars": 4120,
+            "stars": 4139,
             "forks": 363,
             "score": 99
         },
@@ -18,8 +18,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "getagentseal/codeburn",
             "description": "See where your AI coding tokens go. Interactive TUI dashboard for Claude Code, Codex, and Cursor cost observability.",
             "url": "https://github.com/getagentseal/codeburn",
-            "stars": 3289,
-            "forks": 253,
+            "stars": 3303,
+            "forks": 254,
             "score": 99
         },
         {
@@ -29,8 +29,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "OpenMOSS/MOSS-TTS-Nano",
             "description": "MOSS-TTS-Nano is an open-source multilingual tiny speech generation model from MOSI.AI and the OpenMOSS team. With only 0.1B parameters, it is designed for realtime speech generation, can run directly on CPU without a GPU, and keeps the deployment stack simple enough for local demos, web serving, and lightweight product integration.",
             "url": "https://github.com/OpenMOSS/MOSS-TTS-Nano",
-            "stars": 1939,
-            "forks": 261,
+            "stars": 1955,
+            "forks": 263,
             "score": 99
         },
         {
@@ -40,8 +40,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "TencentCloud/CubeSandbox",
             "description": "Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.",
             "url": "https://github.com/TencentCloud/CubeSandbox",
-            "stars": 1757,
-            "forks": 115,
+            "stars": 1863,
+            "forks": 119,
             "score": 99
         },
         {
@@ -51,8 +51,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "Mouseww/anything-analyzer",
             "description": "\u5168\u80fd\u534f\u8bae\u5206\u6790\u5de5\u5177\uff1a\u6d4f\u89c8\u5668\u6293\u5305 + MITM \u4ee3\u7406 + \u6307\u7eb9\u4f2a\u88c5 + AI \u5206\u6790 + MCP Server \u65e0\u7f1d\u5bf9\u63a5 AI Agent/IDE   |  All-in-one protocol analysis toolkit \u2014 built-in browser capture, MITM proxy, JS hooks, fingerprint spoofing, AI analysis & MCP server for agent integration",
             "url": "https://github.com/Mouseww/anything-analyzer",
-            "stars": 1663,
-            "forks": 365,
+            "stars": 1671,
+            "forks": 368,
             "score": 99
         },
         {
@@ -62,8 +62,19 @@ const ALPHA_DATA_V2 = {
             "full_name": "EKKOLearnAI/hermes-web-ui",
             "description": "Web dashboard for Hermes Agent \u2014 multi-platform AI chat, session management, scheduled jobs, usage analytics & channel configuration (Telegram, Discord, Slack, WhatsApp)",
             "url": "https://github.com/EKKOLearnAI/hermes-web-ui",
-            "stars": 1508,
-            "forks": 184,
+            "stars": 1532,
+            "forks": 189,
+            "score": 99
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "BuilderPulse",
+            "full_name": "BuilderPulse/BuilderPulse",
+            "description": "AI-powered daily intelligence for indie hackers and builders. 20 questions, 10+ sources, every morning.",
+            "url": "https://github.com/BuilderPulse/BuilderPulse",
+            "stars": 1072,
+            "forks": 79,
             "score": 99
         },
         {
@@ -73,8 +84,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "bergside/design-md-chrome",
             "description": "Chrome extension to extract styles from any website and generate DESIGN.md files and design skills for AI based on TypeUI",
             "url": "https://github.com/bergside/design-md-chrome",
-            "stars": 980,
-            "forks": 135,
+            "stars": 987,
+            "forks": 139,
             "score": 99
         },
         {
@@ -84,7 +95,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "WeaveMindAI/weft",
             "description": "A programming language for AI systems",
             "url": "https://github.com/WeaveMindAI/weft",
-            "stars": 955,
+            "stars": 956,
             "forks": 127,
             "score": 99
         },
@@ -95,7 +106,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "yaojingang/GEOFlow",
             "description": "Open-source GEO content production system with AI tasks, review workflow, and publishing.",
             "url": "https://github.com/yaojingang/GEOFlow",
-            "stars": 951,
+            "stars": 952,
             "forks": 215,
             "score": 99
         },
@@ -106,20 +117,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "ZeroZ-lab/cc-design",
             "description": "High-fidelity HTML design and prototype guidance skill for AI agents",
             "url": "https://github.com/ZeroZ-lab/cc-design",
-            "stars": 583,
+            "stars": 585,
             "forks": 64,
             "score": 99
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "BuilderPulse",
-            "full_name": "BuilderPulse/BuilderPulse",
-            "description": "AI-powered daily intelligence for indie hackers and builders. 20 questions, 10+ sources, every morning.",
-            "url": "https://github.com/BuilderPulse/BuilderPulse",
-            "stars": 1067,
-            "forks": 78,
-            "score": 98
         },
         {
             "main_cat": "AI",
@@ -128,9 +128,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "cosmicstack-labs/mercury-agent",
             "description": "Soul-driven AI agent with permission-hardened tools, token budgets, and multi-channel access. Runs 24/7 from CLI or Telegram.",
             "url": "https://github.com/cosmicstack-labs/mercury-agent",
-            "stars": 353,
-            "forks": 49,
-            "score": 98
+            "stars": 359,
+            "forks": 50,
+            "score": 99
         },
         {
             "main_cat": "AI",
@@ -139,7 +139,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "joeynyc/hermes-hudui",
             "description": "Web UI consciousness monitor for Hermes \u2014 the AI agent with persistent memory",
             "url": "https://github.com/joeynyc/hermes-hudui",
-            "stars": 1139,
+            "stars": 1143,
             "forks": 129,
             "score": 81
         },
@@ -150,20 +150,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "cloudflare/agentic-inbox",
             "description": "A self-hosted email client with an AI agent, running entirely on Cloudflare Workers",
             "url": "https://github.com/cloudflare/agentic-inbox",
-            "stars": 1149,
+            "stars": 1153,
             "forks": 94,
             "score": 80
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "USB-Uncensored-LLM",
-            "full_name": "techjarves/USB-Uncensored-LLM",
-            "description": "The ultimate zero-install, portable local AI environment. Run high-quality, uncensored LLMs (Gemma, Qwen, NemoMix) directly from any USB drive or SSD. Fully air-gapped, cross-platform (Win/Mac/Linux), and privacy-first with persistent chat history.",
-            "url": "https://github.com/techjarves/USB-Uncensored-LLM",
-            "stars": 477,
-            "forks": 112,
-            "score": 72
         },
         {
             "main_cat": "AI",
@@ -172,9 +161,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "h4ckf0r0day/obscura",
             "description": "The headless browser for AI agents and web scraping",
             "url": "https://github.com/h4ckf0r0day/obscura",
-            "stars": 717,
-            "forks": 50,
-            "score": 71
+            "stars": 767,
+            "forks": 56,
+            "score": 75
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "USB-Uncensored-LLM",
+            "full_name": "techjarves/USB-Uncensored-LLM",
+            "description": "The ultimate zero-install, portable local AI environment. Run high-quality, uncensored LLMs (Gemma, Qwen, NemoMix) directly from any USB drive or SSD. Fully air-gapped, cross-platform (Win/Mac/Linux), and privacy-first with persistent chat history.",
+            "url": "https://github.com/techjarves/USB-Uncensored-LLM",
+            "stars": 479,
+            "forks": 112,
+            "score": 72
         },
         {
             "main_cat": "AI",
@@ -183,7 +183,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "alchaincyf/obsidian-ai-orange-book",
             "description": "Obsidian + Claude Code: Rebuild Your Second Brain with AI \u00b7 \u6a59\u76ae\u4e66\u7cfb\u5217 \u00b7 \u7528AI\u91cd\u5efa\u4f60\u7684\u7b2c\u4e8c\u5927\u8111",
             "url": "https://github.com/alchaincyf/obsidian-ai-orange-book",
-            "stars": 698,
+            "stars": 700,
             "forks": 71,
             "score": 67
         },
@@ -194,9 +194,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "VILA-Lab/Dive-into-Claude-Code",
             "description": "A Systematic Analysis and Discussion of Claude Code for Designing Today's and Future AI Agent Systems",
             "url": "https://github.com/VILA-Lab/Dive-into-Claude-Code",
-            "stars": 540,
+            "stars": 550,
             "forks": 72,
-            "score": 61
+            "score": 59
         },
         {
             "main_cat": "AI",
@@ -212,24 +212,24 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "swarm-forge",
-            "full_name": "unclebob/swarm-forge",
-            "description": "A simple tool for coordinating several AI agents.",
-            "url": "https://github.com/unclebob/swarm-forge",
-            "stars": 260,
-            "forks": 25,
-            "score": 55
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
             "name": "Cairn",
             "full_name": "oritera/Cairn",
             "description": "AI \u81ea\u52a8\u5316\u901a\u7528\u95ee\u9898\u89e3\u51b3 / AI \u81ea\u52a8\u5316\u6e17\u900f\u6d4b\u8bd5\u7cfb\u7edf",
             "url": "https://github.com/oritera/Cairn",
-            "stars": 251,
-            "forks": 10,
-            "score": 54
+            "stars": 277,
+            "forks": 11,
+            "score": 56
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "swarm-forge",
+            "full_name": "unclebob/swarm-forge",
+            "description": "A simple tool for coordinating several AI agents.",
+            "url": "https://github.com/unclebob/swarm-forge",
+            "stars": 263,
+            "forks": 26,
+            "score": 56
         },
         {
             "main_cat": "AI",
@@ -249,7 +249,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "poseljacob/agentic-video-editor",
             "description": "AI-powered video editor that turns raw footage and a creative brief into a polished ad using an ensemble of AI agents (Google Gemini + FFmpeg)",
             "url": "https://github.com/poseljacob/agentic-video-editor",
-            "stars": 343,
+            "stars": 345,
             "forks": 37,
             "score": 52
         },
@@ -260,9 +260,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "Unclecheng-li/AI_Animation",
             "description": "\u672c\u9879\u76ee\u6574\u7406\u4e86\u7528\u4e8e\u751f\u6210[\u70ab\u9177 HTML \u52a8\u753b\u7f51\u9875]\u7684 AI Prompts\uff0c\u6db5\u76d6\u52a8\u753b\u6548\u679c\u30013D \u53ef\u89c6\u5316\u3001PPT \u98ce\u683c\u6f14\u793a\u3001UI \u7f8e\u5316\u7b49\u591a\u4e2a\u7c7b\u522b\u3002",
             "url": "https://github.com/Unclecheng-li/AI_Animation",
-            "stars": 401,
+            "stars": 402,
             "forks": 37,
-            "score": 51
+            "score": 49
         },
         {
             "main_cat": "AI",
@@ -304,8 +304,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "run-llama/ParseBench",
             "description": "ParseBench - A Document Parsing Benchmark for AI Agents",
             "url": "https://github.com/run-llama/ParseBench",
-            "stars": 289,
-            "forks": 35,
+            "stars": 290,
+            "forks": 36,
             "score": 45
         },
         {
@@ -315,7 +315,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "cablate/banini-tracker",
             "description": "\u5df4\u9006\u9006\uff088zz\uff09\u53cd\u6307\u6a19\u8ffd\u8e64\u5668 \u2014 Facebook \u6293\u53d6 + \u5f71\u7247\u8f49\u9304 + AI \u5206\u6790 + \u591a\u5e73\u53f0\u63a8\u9001\uff08Telegram / Discord / LINE\uff09",
             "url": "https://github.com/cablate/banini-tracker",
-            "stars": 247,
+            "stars": 248,
             "forks": 42,
             "score": 43
         },
@@ -337,8 +337,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "cloudflareresearch/unweight-kernels",
             "description": "Lossless compression of BF16 MLP weights for LLM inference on NVIDIA Hopper GPUs ",
             "url": "https://github.com/cloudflareresearch/unweight-kernels",
-            "stars": 41,
-            "forks": 1,
+            "stars": 42,
+            "forks": 2,
             "score": 32
         },
         {
@@ -359,7 +359,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "modinis4569nz/polymarket-whale-watcher",
             "description": "Polymarket Whale Watcher: Real-time smart money tracker for prediction markets. Monitor large USDC transactions, track high-conviction bets, and analyze whale sentiment on the Polygon blockchain. The ultimate open-source tool for algorithmic trading and market insights on Polymarket.",
             "url": "https://github.com/modinis4569nz/polymarket-whale-watcher",
-            "stars": 18,
+            "stars": 19,
             "forks": 0,
             "score": 32
         },
@@ -414,7 +414,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "niklasfrick/spark-dashboard",
             "description": "Real-time hardware and LLM inference monitoring for the NVIDIA DGX Spark \u2014 GPU, CPU, memory, and vLLM metrics streamed to a dashboard.",
             "url": "https://github.com/niklasfrick/spark-dashboard",
-            "stars": 8,
+            "stars": 10,
             "forks": 0,
             "score": 31
         },
@@ -552,6 +552,17 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "HorizonPay",
+            "full_name": "yashwankhade5/HorizonPay",
+            "description": "Trustless, non-custodial stablecoin payment infrastructure on Solana \u2014 on-chain vaults, recurring subscriptions, merchant webhooks.",
+            "url": "https://github.com/yashwankhade5/HorizonPay",
+            "stars": 0,
+            "forks": 0,
+            "score": 30
+        },
+        {
+            "main_cat": "AI",
             "sub_cat": "AI Agents",
             "name": "mvp-avalanche-ai-payments",
             "full_name": "sfffaaa/mvp-avalanche-ai-payments",
@@ -590,17 +601,6 @@ const ALPHA_DATA_V2 = {
             "full_name": "caxtonacollins/CoinPilot",
             "description": "CoinPilot is a smart stablecoin wallet built on Stellar that enables users to automate payments, savings, and currency conversions using programmable rules and AI.",
             "url": "https://github.com/caxtonacollins/CoinPilot",
-            "stars": 0,
-            "forks": 0,
-            "score": 30
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "HorizonPay",
-            "full_name": "yashwankhade5/HorizonPay",
-            "description": " HorizonPay is a non-custodial payment infrastructure on Solana designed to give merchants a Stripe-like experience for accepting stablecoins. It provides secure merchant vaults, idempotent payments, dispute handling, and real-time updates, while keeping business logic off-chain for scalability and performance.",
-            "url": "https://github.com/yashwankhade5/HorizonPay",
             "stars": 0,
             "forks": 0,
             "score": 30
@@ -707,10 +707,10 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
-            "name": "gravity-rxd-prototype",
-            "full_name": "Zyrtnin-org/gravity-rxd-prototype",
-            "description": "First working implementation of the Gravity cross-chain exchange protocol on Radiant. Real BTC\u2192RXD trade validated on mainnet; no new opcodes required.",
-            "url": "https://github.com/Zyrtnin-org/gravity-rxd-prototype",
+            "name": "evm-cctp-contracts",
+            "full_name": "rink-finance/evm-cctp-contracts",
+            "description": "Official repository for all EVM-compatible smart contracts used by the Cross-Chain Transfer Protocol",
+            "url": "https://github.com/rink-finance/evm-cctp-contracts",
             "stars": 0,
             "forks": 0,
             "score": 30
@@ -718,10 +718,10 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
-            "name": "cctpbridge.github.io",
-            "full_name": "cctpbridge/cctpbridge.github.io",
-            "description": "The CCTP Bridge enables fast, secure USDC transfers between supported blockchains. It uses Circle\u2019s Cross-Chain Transfer Protocol to lock USDC on the source network and mint an equivalent amount on the destination network, preserving value.",
-            "url": "https://github.com/cctpbridge/cctpbridge.github.io",
+            "name": "gravity-rxd-prototype",
+            "full_name": "Zyrtnin-org/gravity-rxd-prototype",
+            "description": "First working implementation of the Gravity cross-chain exchange protocol on Radiant. Real BTC\u2192RXD trade validated on mainnet; no new opcodes required.",
+            "url": "https://github.com/Zyrtnin-org/gravity-rxd-prototype",
             "stars": 0,
             "forks": 0,
             "score": 30
@@ -729,26 +729,12 @@ const ALPHA_DATA_V2 = {
     ],
     "news": [
         {
-            "title": "\"We are currently clean on OPSEC\": Why JD Can't Encrypt",
-            "source": "ArXiv",
-            "type": "Research Alpha",
-            "color": "text-indigo-600",
-            "url": "http://arxiv.org/abs/2604.19711v1"
-        },
-        {
-            "title": "An AI Agent Execution Environment to Safeguard User Data",
-            "source": "ArXiv",
-            "type": "Research Alpha",
-            "color": "text-indigo-600",
-            "url": "http://arxiv.org/abs/2604.19657v1"
-        },
-        {
-            "title": "Solana Up or Down - April 22, 5AM ET (Probability: 49%)",
+            "title": "Bitcoin Up or Down - April 22, 11AM ET (Probability: 52%)",
             "source": "Polymarket",
             "type": "Expectation",
             "color": "text-indigo-400",
-            "url": "https://polymarket.com/market/solana-up-or-down-april-22-2026-5am-et"
+            "url": "https://polymarket.com/market/bitcoin-up-or-down-april-22-2026-11am-et"
         }
     ],
-    "timestamp": "2026-04-22 08:27"
+    "timestamp": "2026-04-22 10:15"
 };
