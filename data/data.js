@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "yizhiyanhua-ai/fireworks-tech-graph",
             "description": "Claude Code skill for generating production-quality SVG+PNG technical diagrams. Supports 8 diagram types, 5 visual styles, and deep AI/Agent domain knowledge.",
             "url": "https://github.com/yizhiyanhua-ai/fireworks-tech-graph",
-            "stars": 4223,
-            "forks": 369,
+            "stars": 4236,
+            "forks": 374,
             "score": 99
         },
         {
@@ -18,7 +18,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "getagentseal/codeburn",
             "description": "See where your AI coding tokens go. Interactive TUI dashboard for Claude Code, Codex, and Cursor cost observability.",
             "url": "https://github.com/getagentseal/codeburn",
-            "stars": 3408,
+            "stars": 3417,
             "forks": 262,
             "score": 99
         },
@@ -29,8 +29,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "TencentCloud/CubeSandbox",
             "description": "Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.",
             "url": "https://github.com/TencentCloud/CubeSandbox",
-            "stars": 2657,
-            "forks": 177,
+            "stars": 2698,
+            "forks": 184,
             "score": 99
         },
         {
@@ -40,7 +40,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "OpenMOSS/MOSS-TTS-Nano",
             "description": "MOSS-TTS-Nano is an open-source multilingual tiny speech generation model from MOSI.AI and the OpenMOSS team. With only 0.1B parameters, it is designed for realtime speech generation, can run directly on CPU without a GPU, and keeps the deployment stack simple enough for local demos, web serving, and lightweight product integration.",
             "url": "https://github.com/OpenMOSS/MOSS-TTS-Nano",
-            "stars": 2034,
+            "stars": 2039,
             "forks": 272,
             "score": 99
         },
@@ -51,8 +51,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "EKKOLearnAI/hermes-web-ui",
             "description": "Web dashboard for Hermes Agent \u2014 multi-platform AI chat, session management, scheduled jobs, usage analytics & channel configuration (Telegram, Discord, Slack, WhatsApp)",
             "url": "https://github.com/EKKOLearnAI/hermes-web-ui",
-            "stars": 1757,
-            "forks": 211,
+            "stars": 1778,
+            "forks": 212,
             "score": 99
         },
         {
@@ -62,19 +62,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "Mouseww/anything-analyzer",
             "description": "\u5168\u80fd\u534f\u8bae\u5206\u6790\u5de5\u5177\uff1a\u6d4f\u89c8\u5668\u6293\u5305 + MITM \u4ee3\u7406 + \u6307\u7eb9\u4f2a\u88c5 + AI \u5206\u6790 + MCP Server \u65e0\u7f1d\u5bf9\u63a5 AI Agent/IDE   |  All-in-one protocol analysis toolkit \u2014 built-in browser capture, MITM proxy, JS hooks, fingerprint spoofing, AI analysis & MCP server for agent integration",
             "url": "https://github.com/Mouseww/anything-analyzer",
-            "stars": 1721,
-            "forks": 380,
-            "score": 99
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "obscura",
-            "full_name": "h4ckf0r0day/obscura",
-            "description": "The headless browser for AI agents and web scraping",
-            "url": "https://github.com/h4ckf0r0day/obscura",
-            "stars": 1297,
-            "forks": 94,
+            "stars": 1734,
+            "forks": 383,
             "score": 99
         },
         {
@@ -84,8 +73,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "bergside/design-md-chrome",
             "description": "Chrome extension to extract styles from any website and generate DESIGN.md files and design skills for AI based on TypeUI",
             "url": "https://github.com/bergside/design-md-chrome",
-            "stars": 1031,
-            "forks": 146,
+            "stars": 1032,
+            "forks": 147,
             "score": 99
         },
         {
@@ -95,19 +84,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "yaojingang/GEOFlow",
             "description": "Open-source GEO content production system with AI tasks, review workflow, and publishing.",
             "url": "https://github.com/yaojingang/GEOFlow",
-            "stars": 968,
+            "stars": 969,
             "forks": 218,
-            "score": 99
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "mercury-agent",
-            "full_name": "cosmicstack-labs/mercury-agent",
-            "description": "Soul-driven AI agent with permission-hardened tools, token budgets, and multi-channel access. Runs 24/7 from CLI or Telegram.",
-            "url": "https://github.com/cosmicstack-labs/mercury-agent",
-            "stars": 530,
-            "forks": 70,
             "score": 99
         },
         {
@@ -117,8 +95,19 @@ const ALPHA_DATA_V2 = {
             "full_name": "ConardLi/web-design-skill",
             "description": "An AI agent skill that transforms AI-generated web pages from \"functional\" to \"stunning.\"(Inspired by Claude Design)",
             "url": "https://github.com/ConardLi/web-design-skill",
-            "stars": 522,
-            "forks": 114,
+            "stars": 550,
+            "forks": 119,
+            "score": 99
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "mercury-agent",
+            "full_name": "cosmicstack-labs/mercury-agent",
+            "description": "Soul-driven AI agent with permission-hardened tools, token budgets, and multi-channel access. Runs 24/7 from CLI or Telegram.",
+            "url": "https://github.com/cosmicstack-labs/mercury-agent",
+            "stars": 540,
+            "forks": 70,
             "score": 99
         },
         {
@@ -128,9 +117,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "WeaveMindAI/weft",
             "description": "A programming language for AI systems",
             "url": "https://github.com/WeaveMindAI/weft",
-            "stars": 976,
+            "stars": 978,
             "forks": 128,
             "score": 97
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "obscura",
+            "full_name": "h4ckf0r0day/obscura",
+            "description": "The headless browser for AI agents and web scraping",
+            "url": "https://github.com/h4ckf0r0day/obscura",
+            "stars": 1344,
+            "forks": 97,
+            "score": 96
         },
         {
             "main_cat": "AI",
@@ -161,9 +161,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "cloudflare/agentic-inbox",
             "description": "A self-hosted email client with an AI agent, running entirely on Cloudflare Workers",
             "url": "https://github.com/cloudflare/agentic-inbox",
-            "stars": 1227,
-            "forks": 106,
-            "score": 81
+            "stars": 1236,
+            "forks": 108,
+            "score": 82
         },
         {
             "main_cat": "AI",
@@ -172,7 +172,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "techjarves/USB-Uncensored-LLM",
             "description": "The ultimate zero-install, portable local AI environment. Run high-quality, uncensored LLMs (Gemma, Qwen, NemoMix) directly from any USB drive or SSD. Fully air-gapped, cross-platform (Win/Mac/Linux), and privacy-first with persistent chat history.",
             "url": "https://github.com/techjarves/USB-Uncensored-LLM",
-            "stars": 520,
+            "stars": 522,
             "forks": 122,
             "score": 72
         },
@@ -183,7 +183,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "alchaincyf/obsidian-ai-orange-book",
             "description": "Obsidian + Claude Code: Rebuild Your Second Brain with AI \u00b7 \u6a59\u76ae\u4e66\u7cfb\u5217 \u00b7 \u7528AI\u91cd\u5efa\u4f60\u7684\u7b2c\u4e8c\u5927\u8111",
             "url": "https://github.com/alchaincyf/obsidian-ai-orange-book",
-            "stars": 710,
+            "stars": 712,
             "forks": 72,
             "score": 65
         },
@@ -194,9 +194,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "iamzhihuix/skills-manage",
             "description": "Desktop app to manage AI coding agent skills across Claude Code, Cursor, Gemini CLI, Codex, and 20+ platforms from one place.",
             "url": "https://github.com/iamzhihuix/skills-manage",
-            "stars": 636,
-            "forks": 48,
-            "score": 61
+            "stars": 670,
+            "forks": 49,
+            "score": 63
         },
         {
             "main_cat": "AI",
@@ -205,7 +205,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "oritera/Cairn",
             "description": "AI \u81ea\u52a8\u5316\u901a\u7528\u95ee\u9898\u89e3\u51b3 / AI \u81ea\u52a8\u5316\u6e17\u900f\u6d4b\u8bd5\u7cfb\u7edf",
             "url": "https://github.com/oritera/Cairn",
-            "stars": 389,
+            "stars": 394,
             "forks": 13,
             "score": 61
         },
@@ -216,8 +216,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "VILA-Lab/Dive-into-Claude-Code",
             "description": "A Systematic Analysis and Discussion of Claude Code for Designing Today's and Future AI Agent Systems",
             "url": "https://github.com/VILA-Lab/Dive-into-Claude-Code",
-            "stars": 599,
-            "forks": 79,
+            "stars": 600,
+            "forks": 81,
             "score": 60
         },
         {
@@ -238,7 +238,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "unclebob/swarm-forge",
             "description": "A simple tool for coordinating several AI agents.",
             "url": "https://github.com/unclebob/swarm-forge",
-            "stars": 293,
+            "stars": 294,
             "forks": 28,
             "score": 55
         },
@@ -249,7 +249,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "yzhao062/agent-style",
             "description": "21 writing rules for AI coding and writing agents. Drop-in for Claude Code, Codex, Copilot, Cursor, and Aider, so their output reads like a tech pro.",
             "url": "https://github.com/yzhao062/agent-style",
-            "stars": 275,
+            "stars": 276,
             "forks": 10,
             "score": 52
         },
@@ -284,7 +284,7 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/Unclecheng-li/AI_Animation",
             "stars": 403,
             "forks": 38,
-            "score": 49
+            "score": 48
         },
         {
             "main_cat": "AI",
@@ -326,7 +326,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Blink-h/agent-startup-kit",
             "description": "Reusable AI coding workflows for Claude Code and VS Code to ship auth, billing, and landing pages faster.",
             "url": "https://github.com/Blink-h/agent-startup-kit",
-            "stars": 233,
+            "stars": 234,
             "forks": 1,
             "score": 43
         },
@@ -415,7 +415,7 @@ const ALPHA_DATA_V2 = {
             "description": "Real-time hardware and LLM inference monitoring \u2014 GPU, CPU, memory, and vLLM metrics streamed to a dashboard.",
             "url": "https://github.com/niklasfrick/spark-dashboard",
             "stars": 10,
-            "forks": 0,
+            "forks": 1,
             "score": 31
         },
         {
@@ -425,7 +425,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "dmriding/kaio",
             "description": "Rust-native GPU kernel authoring framework: write GPU compute kernels in Rust, compile to PTX. The Triton equivalent for the Rust ecosystem.",
             "url": "https://github.com/dmriding/kaio",
-            "stars": 19,
+            "stars": 20,
             "forks": 0,
             "score": 30
         },
@@ -721,12 +721,12 @@ const ALPHA_DATA_V2 = {
             "url": "http://arxiv.org/abs/2604.20826v1"
         },
         {
-            "title": "Will Netflix, Inc. (NFLX) hit (LOW) $80 Week of April 20 2026? (Probability: 2%)",
+            "title": "Will Solana reach $90 on April 23? (Probability: 4%)",
             "source": "Polymarket",
             "type": "Expectation",
             "color": "text-indigo-400",
-            "url": "https://polymarket.com/market/will-nflx-dip-to-80-by-april-20-2026"
+            "url": "https://polymarket.com/market/will-solana-reach-90-on-april-23"
         }
     ],
-    "timestamp": "2026-04-23 09:21"
+    "timestamp": "2026-04-23 11:02"
 };
