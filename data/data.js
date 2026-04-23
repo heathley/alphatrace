@@ -7,7 +7,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "yizhiyanhua-ai/fireworks-tech-graph",
             "description": "Claude Code skill for generating production-quality SVG+PNG technical diagrams. Supports 8 diagram types, 5 visual styles, and deep AI/Agent domain knowledge.",
             "url": "https://github.com/yizhiyanhua-ai/fireworks-tech-graph",
-            "stars": 4191,
+            "stars": 4205,
             "forks": 369,
             "score": 99
         },
@@ -18,7 +18,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "getagentseal/codeburn",
             "description": "See where your AI coding tokens go. Interactive TUI dashboard for Claude Code, Codex, and Cursor cost observability.",
             "url": "https://github.com/getagentseal/codeburn",
-            "stars": 3386,
+            "stars": 3396,
             "forks": 261,
             "score": 99
         },
@@ -29,8 +29,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "TencentCloud/CubeSandbox",
             "description": "Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.",
             "url": "https://github.com/TencentCloud/CubeSandbox",
-            "stars": 2545,
-            "forks": 168,
+            "stars": 2611,
+            "forks": 173,
             "score": 99
         },
         {
@@ -40,19 +40,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "OpenMOSS/MOSS-TTS-Nano",
             "description": "MOSS-TTS-Nano is an open-source multilingual tiny speech generation model from MOSI.AI and the OpenMOSS team. With only 0.1B parameters, it is designed for realtime speech generation, can run directly on CPU without a GPU, and keeps the deployment stack simple enough for local demos, web serving, and lightweight product integration.",
             "url": "https://github.com/OpenMOSS/MOSS-TTS-Nano",
-            "stars": 2017,
+            "stars": 2027,
             "forks": 269,
-            "score": 99
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "anything-analyzer",
-            "full_name": "Mouseww/anything-analyzer",
-            "description": "\u5168\u80fd\u534f\u8bae\u5206\u6790\u5de5\u5177\uff1a\u6d4f\u89c8\u5668\u6293\u5305 + MITM \u4ee3\u7406 + \u6307\u7eb9\u4f2a\u88c5 + AI \u5206\u6790 + MCP Server \u65e0\u7f1d\u5bf9\u63a5 AI Agent/IDE   |  All-in-one protocol analysis toolkit \u2014 built-in browser capture, MITM proxy, JS hooks, fingerprint spoofing, AI analysis & MCP server for agent integration",
-            "url": "https://github.com/Mouseww/anything-analyzer",
-            "stars": 1699,
-            "forks": 373,
             "score": 99
         },
         {
@@ -62,8 +51,19 @@ const ALPHA_DATA_V2 = {
             "full_name": "EKKOLearnAI/hermes-web-ui",
             "description": "Web dashboard for Hermes Agent \u2014 multi-platform AI chat, session management, scheduled jobs, usage analytics & channel configuration (Telegram, Discord, Slack, WhatsApp)",
             "url": "https://github.com/EKKOLearnAI/hermes-web-ui",
-            "stars": 1691,
-            "forks": 203,
+            "stars": 1728,
+            "forks": 206,
+            "score": 99
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "anything-analyzer",
+            "full_name": "Mouseww/anything-analyzer",
+            "description": "\u5168\u80fd\u534f\u8bae\u5206\u6790\u5de5\u5177\uff1a\u6d4f\u89c8\u5668\u6293\u5305 + MITM \u4ee3\u7406 + \u6307\u7eb9\u4f2a\u88c5 + AI \u5206\u6790 + MCP Server \u65e0\u7f1d\u5bf9\u63a5 AI Agent/IDE   |  All-in-one protocol analysis toolkit \u2014 built-in browser capture, MITM proxy, JS hooks, fingerprint spoofing, AI analysis & MCP server for agent integration",
+            "url": "https://github.com/Mouseww/anything-analyzer",
+            "stars": 1704,
+            "forks": 375,
             "score": 99
         },
         {
@@ -73,8 +73,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "bergside/design-md-chrome",
             "description": "Chrome extension to extract styles from any website and generate DESIGN.md files and design skills for AI based on TypeUI",
             "url": "https://github.com/bergside/design-md-chrome",
-            "stars": 1022,
-            "forks": 145,
+            "stars": 1026,
+            "forks": 146,
             "score": 99
         },
         {
@@ -84,8 +84,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "yaojingang/GEOFlow",
             "description": "Open-source GEO content production system with AI tasks, review workflow, and publishing.",
             "url": "https://github.com/yaojingang/GEOFlow",
-            "stars": 966,
-            "forks": 218,
+            "stars": 967,
+            "forks": 219,
             "score": 99
         },
         {
@@ -95,8 +95,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "cosmicstack-labs/mercury-agent",
             "description": "Soul-driven AI agent with permission-hardened tools, token budgets, and multi-channel access. Runs 24/7 from CLI or Telegram.",
             "url": "https://github.com/cosmicstack-labs/mercury-agent",
-            "stars": 514,
-            "forks": 66,
+            "stars": 524,
+            "forks": 68,
             "score": 99
         },
         {
@@ -106,8 +106,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "ConardLi/web-design-skill",
             "description": "An AI agent skill that transforms AI-generated web pages from \"functional\" to \"stunning.\"(Inspired by Claude Design)",
             "url": "https://github.com/ConardLi/web-design-skill",
-            "stars": 422,
-            "forks": 84,
+            "stars": 471,
+            "forks": 103,
             "score": 99
         },
         {
@@ -117,20 +117,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "WeaveMindAI/weft",
             "description": "A programming language for AI systems",
             "url": "https://github.com/WeaveMindAI/weft",
-            "stars": 972,
+            "stars": 975,
             "forks": 128,
             "score": 97
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "BuilderPulse",
-            "full_name": "BuilderPulse/BuilderPulse",
-            "description": "AI-powered daily intelligence for indie hackers and builders. 20 questions, 10+ sources, every morning.",
-            "url": "https://github.com/BuilderPulse/BuilderPulse",
-            "stars": 1090,
-            "forks": 81,
-            "score": 94
         },
         {
             "main_cat": "AI",
@@ -139,9 +128,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "h4ckf0r0day/obscura",
             "description": "The headless browser for AI agents and web scraping",
             "url": "https://github.com/h4ckf0r0day/obscura",
-            "stars": 1142,
-            "forks": 84,
-            "score": 91
+            "stars": 1213,
+            "forks": 90,
+            "score": 95
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "BuilderPulse",
+            "full_name": "BuilderPulse/BuilderPulse",
+            "description": "AI-powered daily intelligence for indie hackers and builders. 20 questions, 10+ sources, every morning.",
+            "url": "https://github.com/BuilderPulse/BuilderPulse",
+            "stars": 1091,
+            "forks": 81,
+            "score": 94
         },
         {
             "main_cat": "AI",
@@ -150,7 +150,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "ZeroZ-lab/cc-design",
             "description": "High-fidelity HTML design and prototype guidance skill for AI agents",
             "url": "https://github.com/ZeroZ-lab/cc-design",
-            "stars": 597,
+            "stars": 599,
             "forks": 65,
             "score": 91
         },
@@ -161,7 +161,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "cloudflare/agentic-inbox",
             "description": "A self-hosted email client with an AI agent, running entirely on Cloudflare Workers",
             "url": "https://github.com/cloudflare/agentic-inbox",
-            "stars": 1206,
+            "stars": 1214,
             "forks": 104,
             "score": 80
         },
@@ -172,9 +172,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "techjarves/USB-Uncensored-LLM",
             "description": "The ultimate zero-install, portable local AI environment. Run high-quality, uncensored LLMs (Gemma, Qwen, NemoMix) directly from any USB drive or SSD. Fully air-gapped, cross-platform (Win/Mac/Linux), and privacy-first with persistent chat history.",
             "url": "https://github.com/techjarves/USB-Uncensored-LLM",
-            "stars": 513,
-            "forks": 119,
-            "score": 74
+            "stars": 516,
+            "forks": 122,
+            "score": 75
         },
         {
             "main_cat": "AI",
@@ -183,7 +183,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "alchaincyf/obsidian-ai-orange-book",
             "description": "Obsidian + Claude Code: Rebuild Your Second Brain with AI \u00b7 \u6a59\u76ae\u4e66\u7cfb\u5217 \u00b7 \u7528AI\u91cd\u5efa\u4f60\u7684\u7b2c\u4e8c\u5927\u8111",
             "url": "https://github.com/alchaincyf/obsidian-ai-orange-book",
-            "stars": 705,
+            "stars": 706,
             "forks": 72,
             "score": 65
         },
@@ -194,8 +194,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "VILA-Lab/Dive-into-Claude-Code",
             "description": "A Systematic Analysis and Discussion of Claude Code for Designing Today's and Future AI Agent Systems",
             "url": "https://github.com/VILA-Lab/Dive-into-Claude-Code",
-            "stars": 589,
-            "forks": 78,
+            "stars": 595,
+            "forks": 79,
             "score": 62
         },
         {
@@ -205,7 +205,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "oritera/Cairn",
             "description": "AI \u81ea\u52a8\u5316\u901a\u7528\u95ee\u9898\u89e3\u51b3 / AI \u81ea\u52a8\u5316\u6e17\u900f\u6d4b\u8bd5\u7cfb\u7edf",
             "url": "https://github.com/oritera/Cairn",
-            "stars": 374,
+            "stars": 380,
             "forks": 12,
             "score": 60
         },
@@ -216,9 +216,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "iamzhihuix/skills-manage",
             "description": "Desktop app to manage AI coding agent skills across Claude Code, Cursor, Gemini CLI, Codex, and 20+ platforms from one place.",
             "url": "https://github.com/iamzhihuix/skills-manage",
-            "stars": 544,
-            "forks": 42,
-            "score": 57
+            "stars": 597,
+            "forks": 44,
+            "score": 59
         },
         {
             "main_cat": "AI",
@@ -249,7 +249,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "yzhao062/agent-style",
             "description": "21 writing rules for AI coding and writing agents. Drop-in for Claude Code, Codex, Copilot, Cursor, and Aider, so their output reads like a tech pro.",
             "url": "https://github.com/yzhao062/agent-style",
-            "stars": 264,
+            "stars": 271,
             "forks": 10,
             "score": 55
         },
@@ -260,7 +260,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "poseljacob/agentic-video-editor",
             "description": "AI-powered video editor that turns raw footage and a creative brief into a polished ad using an ensemble of AI agents (Google Gemini + FFmpeg)",
             "url": "https://github.com/poseljacob/agentic-video-editor",
-            "stars": 352,
+            "stars": 353,
             "forks": 40,
             "score": 51
         },
@@ -282,7 +282,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Unclecheng-li/AI_Animation",
             "description": "\u672c\u9879\u76ee\u6574\u7406\u4e86\u7528\u4e8e\u751f\u6210[\u70ab\u9177 HTML \u52a8\u753b\u7f51\u9875]\u7684 AI Prompts\uff0c\u6db5\u76d6\u52a8\u753b\u6548\u679c\u30013D \u53ef\u89c6\u5316\u3001PPT \u98ce\u683c\u6f14\u793a\u3001UI \u7f8e\u5316\u7b49\u591a\u4e2a\u7c7b\u522b\u3002",
             "url": "https://github.com/Unclecheng-li/AI_Animation",
-            "stars": 402,
+            "stars": 403,
             "forks": 38,
             "score": 49
         },
@@ -294,8 +294,19 @@ const ALPHA_DATA_V2 = {
             "description": "AI openclaw mom and household manager for agentic parenting",
             "url": "https://github.com/ChatPRD/tradclaw",
             "stars": 294,
-            "forks": 29,
+            "forks": 30,
             "score": 47
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "ParseBench",
+            "full_name": "run-llama/ParseBench",
+            "description": "ParseBench - A Document Parsing Benchmark for AI Agents",
+            "url": "https://github.com/run-llama/ParseBench",
+            "stars": 320,
+            "forks": 40,
+            "score": 46
         },
         {
             "main_cat": "AI",
@@ -307,17 +318,6 @@ const ALPHA_DATA_V2 = {
             "stars": 284,
             "forks": 37,
             "score": 46
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "ParseBench",
-            "full_name": "run-llama/ParseBench",
-            "description": "ParseBench - A Document Parsing Benchmark for AI Agents",
-            "url": "https://github.com/run-llama/ParseBench",
-            "stars": 317,
-            "forks": 40,
-            "score": 45
         },
         {
             "main_cat": "AI",
@@ -359,7 +359,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Icecubesaad/OpenLLM-Studio",
             "description": "Run local AI models privately with GPU acceleration. Modern UI, HuggingFace integration. Built with Tauri + React + Rust.",
             "url": "https://github.com/Icecubesaad/OpenLLM-Studio",
-            "stars": 29,
+            "stars": 30,
             "forks": 6,
             "score": 32
         },
@@ -425,7 +425,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "dmriding/kaio",
             "description": "Rust-native GPU kernel authoring framework: write GPU compute kernels in Rust, compile to PTX. The Triton equivalent for the Rust ecosystem.",
             "url": "https://github.com/dmriding/kaio",
-            "stars": 18,
+            "stars": 19,
             "forks": 0,
             "score": 30
         },
@@ -717,5 +717,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/market/will-nflx-dip-to-80-by-april-20-2026"
         }
     ],
-    "timestamp": "2026-04-23 05:24"
+    "timestamp": "2026-04-23 07:27"
 };
