@@ -7,7 +7,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "yizhiyanhua-ai/fireworks-tech-graph",
             "description": "Claude Code skill for generating production-quality SVG+PNG technical diagrams. Supports 8 diagram types, 5 visual styles, and deep AI/Agent domain knowledge.",
             "url": "https://github.com/yizhiyanhua-ai/fireworks-tech-graph",
-            "stars": 4262,
+            "stars": 4263,
             "forks": 376,
             "score": 99
         },
@@ -18,7 +18,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "getagentseal/codeburn",
             "description": "See where your AI coding tokens go. Interactive TUI dashboard for Claude Code, Codex, and Cursor cost observability.",
             "url": "https://github.com/getagentseal/codeburn",
-            "stars": 3468,
+            "stars": 3474,
             "forks": 263,
             "score": 99
         },
@@ -29,8 +29,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "TencentCloud/CubeSandbox",
             "description": "Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.",
             "url": "https://github.com/TencentCloud/CubeSandbox",
-            "stars": 3215,
-            "forks": 208,
+            "stars": 3254,
+            "forks": 209,
             "score": 99
         },
         {
@@ -40,7 +40,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "OpenMOSS/MOSS-TTS-Nano",
             "description": "MOSS-TTS-Nano is an open-source multilingual tiny speech generation model from MOSI.AI and the OpenMOSS team. With only 0.1B parameters, it is designed for realtime speech generation, can run directly on CPU without a GPU, and keeps the deployment stack simple enough for local demos, web serving, and lightweight product integration.",
             "url": "https://github.com/OpenMOSS/MOSS-TTS-Nano",
-            "stars": 2064,
+            "stars": 2067,
             "forks": 277,
             "score": 99
         },
@@ -73,8 +73,19 @@ const ALPHA_DATA_V2 = {
             "full_name": "h4ckf0r0day/obscura",
             "description": "The headless browser for AI agents and web scraping",
             "url": "https://github.com/h4ckf0r0day/obscura",
-            "stars": 1611,
-            "forks": 113,
+            "stars": 1630,
+            "forks": 116,
+            "score": 99
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "design-md-chrome",
+            "full_name": "bergside/design-md-chrome",
+            "description": "Chrome extension to extract styles from any website and generate DESIGN.md files and design skills for AI based on TypeUI",
+            "url": "https://github.com/bergside/design-md-chrome",
+            "stars": 1059,
+            "forks": 150,
             "score": 99
         },
         {
@@ -95,7 +106,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "ConardLi/web-design-skill",
             "description": "An AI agent skill that transforms AI-generated web pages from \"functional\" to \"stunning.\"(Inspired by Claude Design)",
             "url": "https://github.com/ConardLi/web-design-skill",
-            "stars": 713,
+            "stars": 714,
             "forks": 142,
             "score": 99
         },
@@ -106,20 +117,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "cosmicstack-labs/mercury-agent",
             "description": "Soul-driven AI agent with permission-hardened tools, token budgets, and multi-channel access. Runs 24/7 from CLI or Telegram.",
             "url": "https://github.com/cosmicstack-labs/mercury-agent",
-            "stars": 586,
-            "forks": 71,
+            "stars": 594,
+            "forks": 73,
             "score": 99
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "design-md-chrome",
-            "full_name": "bergside/design-md-chrome",
-            "description": "Chrome extension to extract styles from any website and generate DESIGN.md files and design skills for AI based on TypeUI",
-            "url": "https://github.com/bergside/design-md-chrome",
-            "stars": 1055,
-            "forks": 150,
-            "score": 98
         },
         {
             "main_cat": "AI",
@@ -128,7 +128,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "WeaveMindAI/weft",
             "description": "A programming language for AI systems",
             "url": "https://github.com/WeaveMindAI/weft",
-            "stars": 985,
+            "stars": 986,
             "forks": 128,
             "score": 98
         },
@@ -162,7 +162,7 @@ const ALPHA_DATA_V2 = {
             "description": "A self-hosted email client with an AI agent, running entirely on Cloudflare Workers",
             "url": "https://github.com/cloudflare/agentic-inbox",
             "stars": 1254,
-            "forks": 117,
+            "forks": 118,
             "score": 83
         },
         {
@@ -172,7 +172,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "iamzhihuix/skills-manage",
             "description": "Desktop app to manage AI coding agent skills across Claude Code, Cursor, Gemini CLI, Codex, and 20+ platforms from one place.",
             "url": "https://github.com/iamzhihuix/skills-manage",
-            "stars": 866,
+            "stars": 870,
             "forks": 65,
             "score": 73
         },
@@ -216,8 +216,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "VILA-Lab/Dive-into-Claude-Code",
             "description": "A Systematic Analysis and Discussion of Claude Code for Designing Today's and Future AI Agent Systems",
             "url": "https://github.com/VILA-Lab/Dive-into-Claude-Code",
-            "stars": 614,
-            "forks": 83,
+            "stars": 616,
+            "forks": 85,
             "score": 61
         },
         {
@@ -238,7 +238,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "espressif/esp-claw",
             "description": "ESP-Claw, a \"Chat Coding\" AI agent framework for IoT devices",
             "url": "https://github.com/espressif/esp-claw",
-            "stars": 252,
+            "stars": 256,
             "forks": 45,
             "score": 54
         },
@@ -260,7 +260,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "yzhao062/agent-style",
             "description": "21 writing rules for AI coding and writing agents. Drop-in for Claude Code, Codex, Copilot, Cursor, and Aider, so their output reads like a tech pro.",
             "url": "https://github.com/yzhao062/agent-style",
-            "stars": 284,
+            "stars": 285,
             "forks": 11,
             "score": 53
         },
@@ -271,7 +271,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "poseljacob/agentic-video-editor",
             "description": "AI-powered video editor that turns raw footage and a creative brief into a polished ad using an ensemble of AI agents (Google Gemini + FFmpeg)",
             "url": "https://github.com/poseljacob/agentic-video-editor",
-            "stars": 357,
+            "stars": 358,
             "forks": 40,
             "score": 51
         },
@@ -300,17 +300,6 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "ParseBench",
-            "full_name": "run-llama/ParseBench",
-            "description": "ParseBench - A Document Parsing Benchmark for AI Agents",
-            "url": "https://github.com/run-llama/ParseBench",
-            "stars": 340,
-            "forks": 46,
-            "score": 47
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
             "name": "tradclaw",
             "full_name": "ChatPRD/tradclaw",
             "description": "AI openclaw mom and household manager for agentic parenting",
@@ -318,6 +307,17 @@ const ALPHA_DATA_V2 = {
             "stars": 296,
             "forks": 30,
             "score": 47
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "ParseBench",
+            "full_name": "run-llama/ParseBench",
+            "description": "ParseBench - A Document Parsing Benchmark for AI Agents",
+            "url": "https://github.com/run-llama/ParseBench",
+            "stars": 347,
+            "forks": 46,
+            "score": 46
         },
         {
             "main_cat": "AI",
@@ -337,7 +337,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Agent-FM/agentfm-core",
             "description": "AgentFM is a peer-to-peer network that turns everyday computers into a decentralized AI supercomputer. AgentFM lets you run massive AI workloads directly across a global mesh of idle CPUs and GPUs.",
             "url": "https://github.com/Agent-FM/agentfm-core",
-            "stars": 85,
+            "stars": 86,
             "forks": 12,
             "score": 34
         },
@@ -761,5 +761,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/market/will-the-price-of-ethereum-be-between-2000-2100-on-april-27"
         }
     ],
-    "timestamp": "2026-04-23 20:09"
+    "timestamp": "2026-04-23 21:40"
 };
