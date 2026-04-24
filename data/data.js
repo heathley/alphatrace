@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "getagentseal/codeburn",
             "description": "See where your AI coding tokens go. Interactive TUI dashboard for Claude Code, Codex, and Cursor cost observability.",
             "url": "https://github.com/getagentseal/codeburn",
-            "stars": 3539,
-            "forks": 267,
+            "stars": 3555,
+            "forks": 268,
             "score": 99
         },
         {
@@ -18,8 +18,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "EKKOLearnAI/hermes-web-ui",
             "description": "Web dashboard for Hermes Agent \u2014 multi-platform AI chat, session management, scheduled jobs, usage analytics & channel configuration (Telegram, Discord, Slack, WhatsApp)",
             "url": "https://github.com/EKKOLearnAI/hermes-web-ui",
-            "stars": 1962,
-            "forks": 250,
+            "stars": 1980,
+            "forks": 251,
             "score": 99
         },
         {
@@ -29,7 +29,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Mouseww/anything-analyzer",
             "description": "\u5168\u80fd\u534f\u8bae\u5206\u6790\u5de5\u5177\uff1a\u6d4f\u89c8\u5668\u6293\u5305 + MITM \u4ee3\u7406 + \u6307\u7eb9\u4f2a\u88c5 + AI \u5206\u6790 + MCP Server \u65e0\u7f1d\u5bf9\u63a5 AI Agent/IDE   |  All-in-one protocol analysis toolkit \u2014 built-in browser capture, MITM proxy, JS hooks, fingerprint spoofing, AI analysis & MCP server for agent integration",
             "url": "https://github.com/Mouseww/anything-analyzer",
-            "stars": 1824,
+            "stars": 1828,
             "forks": 399,
             "score": 99
         },
@@ -40,19 +40,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "h4ckf0r0day/obscura",
             "description": "The headless browser for AI agents and web scraping",
             "url": "https://github.com/h4ckf0r0day/obscura",
-            "stars": 1753,
-            "forks": 130,
-            "score": 99
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "design-md-chrome",
-            "full_name": "bergside/design-md-chrome",
-            "description": "Chrome extension to extract styles from any website and generate DESIGN.md files and design skills for AI based on TypeUI",
-            "url": "https://github.com/bergside/design-md-chrome",
-            "stars": 1128,
-            "forks": 155,
+            "stars": 1764,
+            "forks": 131,
             "score": 99
         },
         {
@@ -62,9 +51,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "ConardLi/web-design-skill",
             "description": "An AI agent skill that transforms AI-generated web pages from \"functional\" to \"stunning.\"(Inspired by Claude Design)",
             "url": "https://github.com/ConardLi/web-design-skill",
-            "stars": 914,
-            "forks": 176,
+            "stars": 946,
+            "forks": 179,
             "score": 99
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "design-md-chrome",
+            "full_name": "bergside/design-md-chrome",
+            "description": "Chrome extension to extract styles from any website and generate DESIGN.md files and design skills for AI based on TypeUI",
+            "url": "https://github.com/bergside/design-md-chrome",
+            "stars": 1133,
+            "forks": 155,
+            "score": 97
         },
         {
             "main_cat": "AI",
@@ -73,7 +73,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "yaojingang/GEOFlow",
             "description": "Open-source GEO content production system with AI tasks, review workflow, and publishing.",
             "url": "https://github.com/yaojingang/GEOFlow",
-            "stars": 983,
+            "stars": 984,
             "forks": 224,
             "score": 97
         },
@@ -84,7 +84,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "cosmicstack-labs/mercury-agent",
             "description": "Soul-driven AI agent with permission-hardened tools, token budgets, and multi-channel access. Runs 24/7 from CLI or Telegram.",
             "url": "https://github.com/cosmicstack-labs/mercury-agent",
-            "stars": 622,
+            "stars": 623,
             "forks": 78,
             "score": 96
         },
@@ -95,7 +95,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "WeaveMindAI/weft",
             "description": "A programming language for AI systems",
             "url": "https://github.com/WeaveMindAI/weft",
-            "stars": 997,
+            "stars": 998,
             "forks": 131,
             "score": 93
         },
@@ -106,9 +106,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "levelsio/superlevels",
             "description": "A super Chrome extension I made that's safer than installing external malware/spyware-filled extensions that form a massive security risk, this one is open source and you can read and check the source code (with AI) before you install it, and customize it to your liking!",
             "url": "https://github.com/levelsio/superlevels",
-            "stars": 334,
-            "forks": 34,
-            "score": 88
+            "stars": 346,
+            "forks": 36,
+            "score": 91
         },
         {
             "main_cat": "AI",
@@ -117,7 +117,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "BuilderPulse/BuilderPulse",
             "description": "AI-powered daily intelligence for indie hackers and builders. 20 questions, 10+ sources, every morning.",
             "url": "https://github.com/BuilderPulse/BuilderPulse",
-            "stars": 1114,
+            "stars": 1115,
             "forks": 82,
             "score": 85
         },
@@ -128,7 +128,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "ZeroZ-lab/cc-design",
             "description": "High-fidelity HTML design and prototype guidance skill for AI agents",
             "url": "https://github.com/ZeroZ-lab/cc-design",
-            "stars": 624,
+            "stars": 625,
             "forks": 67,
             "score": 85
         },
@@ -139,20 +139,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "iamzhihuix/skills-manage",
             "description": "Desktop app to manage AI coding agent skills across Claude Code, Cursor, Gemini CLI, Codex, and 20+ platforms from one place.",
             "url": "https://github.com/iamzhihuix/skills-manage",
-            "stars": 1030,
-            "forks": 86,
+            "stars": 1033,
+            "forks": 87,
             "score": 79
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "freellmapi",
-            "full_name": "tashfeenahmed/freellmapi",
-            "description": "OpenAI-compatible proxy that aggregates free-tier keys from ~14 AI providers with automatic failover. For personal experimentation only.",
-            "url": "https://github.com/tashfeenahmed/freellmapi",
-            "stars": 275,
-            "forks": 36,
-            "score": 71
         },
         {
             "main_cat": "AI",
@@ -161,20 +150,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "techjarves/USB-Uncensored-LLM",
             "description": "The ultimate zero-install, portable local AI environment. Run high-quality, uncensored LLMs (Gemma, Qwen, NemoMix) directly from any USB drive or SSD. Fully air-gapped, cross-platform (Win/Mac/Linux), and privacy-first with persistent chat history.",
             "url": "https://github.com/techjarves/USB-Uncensored-LLM",
-            "stars": 551,
-            "forks": 126,
-            "score": 70
+            "stars": 558,
+            "forks": 129,
+            "score": 71
         },
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "hi-kid",
-            "full_name": "xiaochong/hi-kid",
-            "description": "HiKid - Your AI English Pal. A desktop app built with React and TypeScript, targeting children in non-English-speaking countries who want to practice English speaking and listening.",
-            "url": "https://github.com/xiaochong/hi-kid",
-            "stars": 306,
-            "forks": 45,
-            "score": 64
+            "name": "freellmapi",
+            "full_name": "tashfeenahmed/freellmapi",
+            "description": "OpenAI-compatible proxy that aggregates free-tier keys from ~14 AI providers with automatic failover. For personal experimentation only.",
+            "url": "https://github.com/tashfeenahmed/freellmapi",
+            "stars": 283,
+            "forks": 36,
+            "score": 65
         },
         {
             "main_cat": "AI",
@@ -185,7 +174,7 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/alchaincyf/obsidian-ai-orange-book",
             "stars": 719,
             "forks": 75,
-            "score": 63
+            "score": 61
         },
         {
             "main_cat": "AI",
@@ -194,7 +183,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "VILA-Lab/Dive-into-Claude-Code",
             "description": "A Systematic Analysis and Discussion of Claude Code for Designing Today's and Future AI Agent Systems",
             "url": "https://github.com/VILA-Lab/Dive-into-Claude-Code",
-            "stars": 648,
+            "stars": 650,
             "forks": 90,
             "score": 61
         },
@@ -205,9 +194,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "oritera/Cairn",
             "description": "AI \u81ea\u52a8\u5316\u901a\u7528\u95ee\u9898\u89e3\u51b3 / AI \u81ea\u52a8\u5316\u6e17\u900f\u6d4b\u8bd5\u7cfb\u7edf",
             "url": "https://github.com/oritera/Cairn",
-            "stars": 415,
+            "stars": 416,
             "forks": 16,
-            "score": 59
+            "score": 60
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "hi-kid",
+            "full_name": "xiaochong/hi-kid",
+            "description": "HiKid - Your AI English Pal. A desktop app built with React and TypeScript, targeting children in non-English-speaking countries who want to practice English speaking and listening.",
+            "url": "https://github.com/xiaochong/hi-kid",
+            "stars": 307,
+            "forks": 45,
+            "score": 60
         },
         {
             "main_cat": "AI",
@@ -216,9 +216,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "espressif/esp-claw",
             "description": "ESP-Claw, a \"Chat Coding\" AI agent framework for IoT devices",
             "url": "https://github.com/espressif/esp-claw",
-            "stars": 307,
-            "forks": 56,
-            "score": 56
+            "stars": 320,
+            "forks": 58,
+            "score": 57
         },
         {
             "main_cat": "AI",
@@ -227,8 +227,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "unclebob/swarm-forge",
             "description": "A simple tool for coordinating several AI agents.",
             "url": "https://github.com/unclebob/swarm-forge",
-            "stars": 316,
-            "forks": 30,
+            "stars": 320,
+            "forks": 31,
             "score": 54
         },
         {
@@ -249,7 +249,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "yzhao062/agent-style",
             "description": "21 writing rules for AI coding and writing agents. Drop-in for Claude Code, Codex, Copilot, Cursor, and Aider, so their output reads like a tech pro.",
             "url": "https://github.com/yzhao062/agent-style",
-            "stars": 300,
+            "stars": 307,
             "forks": 13,
             "score": 52
         },
@@ -282,7 +282,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Unclecheng-li/AI_Animation",
             "description": "\u672c\u9879\u76ee\u6574\u7406\u4e86\u7528\u4e8e\u751f\u6210[\u70ab\u9177 HTML \u52a8\u753b\u7f51\u9875]\u7684 AI Prompts\uff0c\u6db5\u76d6\u52a8\u753b\u6548\u679c\u30013D \u53ef\u89c6\u5316\u3001PPT \u98ce\u683c\u6f14\u793a\u3001UI \u7f8e\u5316\u7b49\u591a\u4e2a\u7c7b\u522b\u3002",
             "url": "https://github.com/Unclecheng-li/AI_Animation",
-            "stars": 408,
+            "stars": 409,
             "forks": 38,
             "score": 47
         },
@@ -315,7 +315,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Blink-h/agent-startup-kit",
             "description": "Reusable AI coding workflows for Claude Code and VS Code to ship auth, billing, and landing pages faster.",
             "url": "https://github.com/Blink-h/agent-startup-kit",
-            "stars": 248,
+            "stars": 250,
             "forks": 1,
             "score": 42
         },
@@ -765,12 +765,12 @@ const ALPHA_DATA_V2 = {
             "url": "http://arxiv.org/abs/2604.21860v1"
         },
         {
-            "title": "Ethereum Up or Down - April 24, 10:30PM-10:35PM ET (Probability: 50%)",
+            "title": "Bitcoin Up or Down - April 24, 11:20AM-11:25AM ET (Probability: 50%)",
             "source": "Polymarket",
             "type": "Expectation",
             "color": "text-indigo-400",
-            "url": "https://polymarket.com/market/eth-updown-5m-1777084200"
+            "url": "https://polymarket.com/market/btc-updown-5m-1777044000"
         }
     ],
-    "timestamp": "2026-04-24 13:08"
+    "timestamp": "2026-04-24 15:03"
 };
