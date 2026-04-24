@@ -7,7 +7,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "getagentseal/codeburn",
             "description": "See where your AI coding tokens go. Interactive TUI dashboard for Claude Code, Codex, and Cursor cost observability.",
             "url": "https://github.com/getagentseal/codeburn",
-            "stars": 3521,
+            "stars": 3527,
             "forks": 267,
             "score": 99
         },
@@ -18,8 +18,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "EKKOLearnAI/hermes-web-ui",
             "description": "Web dashboard for Hermes Agent \u2014 multi-platform AI chat, session management, scheduled jobs, usage analytics & channel configuration (Telegram, Discord, Slack, WhatsApp)",
             "url": "https://github.com/EKKOLearnAI/hermes-web-ui",
-            "stars": 1945,
-            "forks": 249,
+            "stars": 1953,
+            "forks": 250,
             "score": 99
         },
         {
@@ -29,8 +29,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "Mouseww/anything-analyzer",
             "description": "\u5168\u80fd\u534f\u8bae\u5206\u6790\u5de5\u5177\uff1a\u6d4f\u89c8\u5668\u6293\u5305 + MITM \u4ee3\u7406 + \u6307\u7eb9\u4f2a\u88c5 + AI \u5206\u6790 + MCP Server \u65e0\u7f1d\u5bf9\u63a5 AI Agent/IDE   |  All-in-one protocol analysis toolkit \u2014 built-in browser capture, MITM proxy, JS hooks, fingerprint spoofing, AI analysis & MCP server for agent integration",
             "url": "https://github.com/Mouseww/anything-analyzer",
-            "stars": 1819,
-            "forks": 398,
+            "stars": 1822,
+            "forks": 399,
             "score": 99
         },
         {
@@ -40,7 +40,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "h4ckf0r0day/obscura",
             "description": "The headless browser for AI agents and web scraping",
             "url": "https://github.com/h4ckf0r0day/obscura",
-            "stars": 1732,
+            "stars": 1742,
             "forks": 130,
             "score": 99
         },
@@ -51,7 +51,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "bergside/design-md-chrome",
             "description": "Chrome extension to extract styles from any website and generate DESIGN.md files and design skills for AI based on TypeUI",
             "url": "https://github.com/bergside/design-md-chrome",
-            "stars": 1114,
+            "stars": 1119,
             "forks": 155,
             "score": 99
         },
@@ -62,7 +62,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "yaojingang/GEOFlow",
             "description": "Open-source GEO content production system with AI tasks, review workflow, and publishing.",
             "url": "https://github.com/yaojingang/GEOFlow",
-            "stars": 981,
+            "stars": 983,
             "forks": 224,
             "score": 99
         },
@@ -73,8 +73,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "ConardLi/web-design-skill",
             "description": "An AI agent skill that transforms AI-generated web pages from \"functional\" to \"stunning.\"(Inspired by Claude Design)",
             "url": "https://github.com/ConardLi/web-design-skill",
-            "stars": 871,
-            "forks": 167,
+            "stars": 888,
+            "forks": 171,
             "score": 99
         },
         {
@@ -84,7 +84,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "cosmicstack-labs/mercury-agent",
             "description": "Soul-driven AI agent with permission-hardened tools, token budgets, and multi-channel access. Runs 24/7 from CLI or Telegram.",
             "url": "https://github.com/cosmicstack-labs/mercury-agent",
-            "stars": 613,
+            "stars": 619,
             "forks": 78,
             "score": 99
         },
@@ -95,8 +95,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "levelsio/superlevels",
             "description": "A super Chrome extension I made that's safer than installing external malware/spyware-filled extensions that form a massive security risk, this one is open source and you can read and check the source code (with AI) before you install it, and customize it to your liking!",
             "url": "https://github.com/levelsio/superlevels",
-            "stars": 311,
-            "forks": 33,
+            "stars": 323,
+            "forks": 34,
             "score": 99
         },
         {
@@ -106,8 +106,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "WeaveMindAI/weft",
             "description": "A programming language for AI systems",
             "url": "https://github.com/WeaveMindAI/weft",
-            "stars": 994,
-            "forks": 130,
+            "stars": 995,
+            "forks": 131,
             "score": 93
         },
         {
@@ -117,7 +117,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "BuilderPulse/BuilderPulse",
             "description": "AI-powered daily intelligence for indie hackers and builders. 20 questions, 10+ sources, every morning.",
             "url": "https://github.com/BuilderPulse/BuilderPulse",
-            "stars": 1112,
+            "stars": 1114,
             "forks": 82,
             "score": 90
         },
@@ -128,8 +128,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "ZeroZ-lab/cc-design",
             "description": "High-fidelity HTML design and prototype guidance skill for AI agents",
             "url": "https://github.com/ZeroZ-lab/cc-design",
-            "stars": 621,
-            "forks": 66,
+            "stars": 624,
+            "forks": 67,
             "score": 85
         },
         {
@@ -139,9 +139,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "iamzhihuix/skills-manage",
             "description": "Desktop app to manage AI coding agent skills across Claude Code, Cursor, Gemini CLI, Codex, and 20+ platforms from one place.",
             "url": "https://github.com/iamzhihuix/skills-manage",
-            "stars": 999,
+            "stars": 1015,
             "forks": 85,
-            "score": 77
+            "score": 78
         },
         {
             "main_cat": "AI",
@@ -150,7 +150,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "tashfeenahmed/freellmapi",
             "description": "OpenAI-compatible proxy that aggregates free-tier keys from ~14 AI providers with automatic failover. For personal experimentation only.",
             "url": "https://github.com/tashfeenahmed/freellmapi",
-            "stars": 268,
+            "stars": 270,
             "forks": 36,
             "score": 71
         },
@@ -173,7 +173,7 @@ const ALPHA_DATA_V2 = {
             "description": "Obsidian + Claude Code: Rebuild Your Second Brain with AI \u00b7 \u6a59\u76ae\u4e66\u7cfb\u5217 \u00b7 \u7528AI\u91cd\u5efa\u4f60\u7684\u7b2c\u4e8c\u5927\u8111",
             "url": "https://github.com/alchaincyf/obsidian-ai-orange-book",
             "stars": 719,
-            "forks": 74,
+            "forks": 75,
             "score": 63
         },
         {
@@ -183,9 +183,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "xiaochong/hi-kid",
             "description": "HiKid - Your AI English Pal. A desktop app built with React and TypeScript, targeting children in non-English-speaking countries who want to practice English speaking and listening.",
             "url": "https://github.com/xiaochong/hi-kid",
-            "stars": 290,
-            "forks": 42,
-            "score": 62
+            "stars": 299,
+            "forks": 43,
+            "score": 63
         },
         {
             "main_cat": "AI",
@@ -212,23 +212,12 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "alice",
-            "full_name": "simoncirstoiu/alice",
-            "description": "Analyse \u00b7 Learn \u00b7 Ingest \u00b7 Curate \u00b7 Export \u2014 AI-powered YOLO dataset management toolkit",
-            "url": "https://github.com/simoncirstoiu/alice",
-            "stars": 261,
-            "forks": 27,
-            "score": 56
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
             "name": "esp-claw",
             "full_name": "espressif/esp-claw",
             "description": "ESP-Claw, a \"Chat Coding\" AI agent framework for IoT devices",
             "url": "https://github.com/espressif/esp-claw",
-            "stars": 294,
-            "forks": 52,
+            "stars": 299,
+            "forks": 54,
             "score": 55
         },
         {
@@ -245,13 +234,24 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
+            "name": "alice",
+            "full_name": "simoncirstoiu/alice",
+            "description": "Analyse \u00b7 Learn \u00b7 Ingest \u00b7 Curate \u00b7 Export \u2014 AI-powered YOLO dataset management toolkit",
+            "url": "https://github.com/simoncirstoiu/alice",
+            "stars": 263,
+            "forks": 27,
+            "score": 53
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
             "name": "agent-style",
             "full_name": "yzhao062/agent-style",
             "description": "21 writing rules for AI coding and writing agents. Drop-in for Claude Code, Codex, Copilot, Cursor, and Aider, so their output reads like a tech pro.",
             "url": "https://github.com/yzhao062/agent-style",
-            "stars": 299,
+            "stars": 300,
             "forks": 13,
-            "score": 51
+            "score": 52
         },
         {
             "main_cat": "AI",
@@ -284,7 +284,7 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/Unclecheng-li/AI_Animation",
             "stars": 408,
             "forks": 38,
-            "score": 48
+            "score": 47
         },
         {
             "main_cat": "AI",
@@ -414,7 +414,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "PMZFX/intel-arc-pro-b70-benchmarks",
             "description": "Benchmark results and performance data for the Intel Arc Pro B70 GPU (Xe2/Battlemage) - LLM inference, video generation, dual-GPU scaling.",
             "url": "https://github.com/PMZFX/intel-arc-pro-b70-benchmarks",
-            "stars": 6,
+            "stars": 7,
             "forks": 1,
             "score": 31
         },
@@ -772,5 +772,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/market/will-the-price-of-ethereum-be-between-2000-2100-on-april-27"
         }
     ],
-    "timestamp": "2026-04-24 09:25"
+    "timestamp": "2026-04-24 11:01"
 };
