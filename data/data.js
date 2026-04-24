@@ -7,7 +7,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "getagentseal/codeburn",
             "description": "See where your AI coding tokens go. Interactive TUI dashboard for Claude Code, Codex, and Cursor cost observability.",
             "url": "https://github.com/getagentseal/codeburn",
-            "stars": 3564,
+            "stars": 3568,
             "forks": 269,
             "score": 99
         },
@@ -18,7 +18,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "EKKOLearnAI/hermes-web-ui",
             "description": "Web dashboard for Hermes Agent \u2014 multi-platform AI chat, session management, scheduled jobs, usage analytics & channel configuration (Telegram, Discord, Slack, WhatsApp)",
             "url": "https://github.com/EKKOLearnAI/hermes-web-ui",
-            "stars": 1993,
+            "stars": 1994,
             "forks": 255,
             "score": 99
         },
@@ -40,7 +40,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "h4ckf0r0day/obscura",
             "description": "The headless browser for AI agents and web scraping",
             "url": "https://github.com/h4ckf0r0day/obscura",
-            "stars": 1793,
+            "stars": 1806,
             "forks": 134,
             "score": 99
         },
@@ -51,8 +51,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "ConardLi/web-design-skill",
             "description": "An AI agent skill that transforms AI-generated web pages from \"functional\" to \"stunning.\"(Inspired by Claude Design)",
             "url": "https://github.com/ConardLi/web-design-skill",
-            "stars": 964,
-            "forks": 182,
+            "stars": 973,
+            "forks": 184,
             "score": 99
         },
         {
@@ -106,7 +106,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "levelsio/superlevels",
             "description": "A super Chrome extension I made that's safer than installing external malware/spyware-filled extensions that form a massive security risk, this one is open source and you can read and check the source code (with AI) before you install it, and customize it to your liking!",
             "url": "https://github.com/levelsio/superlevels",
-            "stars": 356,
+            "stars": 358,
             "forks": 37,
             "score": 93
         },
@@ -146,11 +146,22 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
+            "name": "future-agi",
+            "full_name": "future-agi/future-agi",
+            "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals \u00b7 Simulations \u00b7 Datasets \u00b7 Gateway \u00b7 Guardrails. Self-hostable. Apache 2.0.",
+            "url": "https://github.com/future-agi/future-agi",
+            "stars": 229,
+            "forks": 31,
+            "score": 74
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
             "name": "USB-Uncensored-LLM",
             "full_name": "techjarves/USB-Uncensored-LLM",
             "description": "The ultimate zero-install, portable local AI environment. Run high-quality, uncensored LLMs (Gemma, Qwen, NemoMix) directly from any USB drive or SSD. Fully air-gapped, cross-platform (Win/Mac/Linux), and privacy-first with persistent chat history.",
             "url": "https://github.com/techjarves/USB-Uncensored-LLM",
-            "stars": 559,
+            "stars": 561,
             "forks": 129,
             "score": 71
         },
@@ -172,7 +183,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "alchaincyf/obsidian-ai-orange-book",
             "description": "Obsidian + Claude Code: Rebuild Your Second Brain with AI \u00b7 \u6a59\u76ae\u4e66\u7cfb\u5217 \u00b7 \u7528AI\u91cd\u5efa\u4f60\u7684\u7b2c\u4e8c\u5927\u8111",
             "url": "https://github.com/alchaincyf/obsidian-ai-orange-book",
-            "stars": 720,
+            "stars": 721,
             "forks": 76,
             "score": 62
         },
@@ -183,7 +194,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "VILA-Lab/Dive-into-Claude-Code",
             "description": "A Systematic Analysis and Discussion of Claude Code for Designing Today's and Future AI Agent Systems",
             "url": "https://github.com/VILA-Lab/Dive-into-Claude-Code",
-            "stars": 652,
+            "stars": 656,
             "forks": 90,
             "score": 61
         },
@@ -206,7 +217,7 @@ const ALPHA_DATA_V2 = {
             "description": "HiKid - Your AI English Pal. A desktop app built with React and TypeScript, targeting children in non-English-speaking countries who want to practice English speaking and listening.",
             "url": "https://github.com/xiaochong/hi-kid",
             "stars": 307,
-            "forks": 46,
+            "forks": 47,
             "score": 60
         },
         {
@@ -216,8 +227,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "espressif/esp-claw",
             "description": "ESP-Claw, a \"Chat Coding\" AI agent framework for IoT devices",
             "url": "https://github.com/espressif/esp-claw",
-            "stars": 328,
-            "forks": 60,
+            "stars": 330,
+            "forks": 61,
             "score": 58
         },
         {
@@ -227,7 +238,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "simoncirstoiu/alice",
             "description": "Analyse \u00b7 Learn \u00b7 Ingest \u00b7 Curate \u00b7 Export \u2014 AI-powered YOLO dataset management toolkit",
             "url": "https://github.com/simoncirstoiu/alice",
-            "stars": 265,
+            "stars": 266,
             "forks": 27,
             "score": 53
         },
@@ -238,8 +249,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "unclebob/swarm-forge",
             "description": "A simple tool for coordinating several AI agents.",
             "url": "https://github.com/unclebob/swarm-forge",
-            "stars": 321,
-            "forks": 31,
+            "stars": 324,
+            "forks": 32,
             "score": 52
         },
         {
@@ -249,7 +260,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "yzhao062/agent-style",
             "description": "21 writing rules for AI coding and writing agents. Drop-in for Claude Code, Codex, Copilot, Cursor, and Aider, so their output reads like a tech pro.",
             "url": "https://github.com/yzhao062/agent-style",
-            "stars": 309,
+            "stars": 310,
             "forks": 14,
             "score": 52
         },
@@ -272,7 +283,7 @@ const ALPHA_DATA_V2 = {
             "description": "\u672c\u9879\u76ee\u6574\u7406\u4e86\u7528\u4e8e\u751f\u6210[\u70ab\u9177 HTML \u52a8\u753b\u7f51\u9875]\u7684 AI Prompts\uff0c\u6db5\u76d6\u52a8\u753b\u6548\u679c\u30013D \u53ef\u89c6\u5316\u3001PPT \u98ce\u683c\u6f14\u793a\u3001UI \u7f8e\u5316\u7b49\u591a\u4e2a\u7c7b\u522b\u3002",
             "url": "https://github.com/Unclecheng-li/AI_Animation",
             "stars": 409,
-            "forks": 38,
+            "forks": 39,
             "score": 47
         },
         {
@@ -318,17 +329,6 @@ const ALPHA_DATA_V2 = {
             "stars": 250,
             "forks": 1,
             "score": 42
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "ai-agent-camp",
-            "full_name": "minicoohei/ai-agent-camp",
-            "description": "AI Agent Camp \u2014 non-engineer-friendly AI agent training curriculum. Lessons, skills, commands, and hooks for Claude Code, Cursor, and Codex.",
-            "url": "https://github.com/minicoohei/ai-agent-camp",
-            "stars": 221,
-            "forks": 6,
-            "score": 39
         },
         {
             "main_cat": "AI",
@@ -772,5 +772,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/market/eth-updown-5m-1777056600"
         }
     ],
-    "timestamp": "2026-04-24 16:49"
+    "timestamp": "2026-04-24 17:45"
 };
