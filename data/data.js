@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "h4ckf0r0day/obscura",
             "description": "The headless browser for AI agents and web scraping",
             "url": "https://github.com/h4ckf0r0day/obscura",
-            "stars": 4080,
-            "forks": 238,
+            "stars": 4179,
+            "forks": 243,
             "score": 99
         },
         {
@@ -18,8 +18,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "getagentseal/codeburn",
             "description": "See where your AI coding tokens go. Interactive TUI dashboard for Claude Code, Codex, and Cursor cost observability.",
             "url": "https://github.com/getagentseal/codeburn",
-            "stars": 3753,
-            "forks": 285,
+            "stars": 3778,
+            "forks": 286,
             "score": 99
         },
         {
@@ -40,8 +40,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "cosmicstack-labs/mercury-agent",
             "description": "Soul-driven AI agent with permission-hardened tools, token budgets, and multi-channel access. Runs 24/7 from CLI or Telegram.",
             "url": "https://github.com/cosmicstack-labs/mercury-agent",
-            "stars": 906,
-            "forks": 105,
+            "stars": 954,
+            "forks": 109,
             "score": 99
         },
         {
@@ -51,8 +51,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "GammaLabTechnologies/harmonist",
             "description": "Portable AI agent orchestration with mechanical protocol enforcement. 186 agents, zero runtime dependencies.",
             "url": "https://github.com/GammaLabTechnologies/harmonist",
-            "stars": 532,
-            "forks": 219,
+            "stars": 546,
+            "forks": 227,
             "score": 99
         },
         {
@@ -62,7 +62,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "bergside/design-md-chrome",
             "description": "Chrome extension to extract styles from any website and generate DESIGN.md files and design skills for AI based on TypeUI",
             "url": "https://github.com/bergside/design-md-chrome",
-            "stars": 1166,
+            "stars": 1167,
             "forks": 158,
             "score": 94
         },
@@ -91,23 +91,23 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "superlevels",
-            "full_name": "levelsio/superlevels",
-            "description": "A super Chrome extension I made that's safer than installing external malware/spyware-filled extensions that form a massive security risk, this one is open source and you can read and check the source code (with AI) before you install it, and customize it to your liking!",
-            "url": "https://github.com/levelsio/superlevels",
-            "stars": 393,
-            "forks": 41,
-            "score": 85
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
             "name": "future-agi",
             "full_name": "future-agi/future-agi",
             "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals \u00b7 Simulations \u00b7 Datasets \u00b7 Gateway \u00b7 Guardrails. Self-hostable. Apache 2.0.",
             "url": "https://github.com/future-agi/future-agi",
-            "stars": 345,
-            "forks": 52,
+            "stars": 349,
+            "forks": 53,
+            "score": 86
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "superlevels",
+            "full_name": "levelsio/superlevels",
+            "description": "A super Chrome extension I made that's safer than installing external malware/spyware-filled extensions that form a massive security risk, this one is open source and you can read and check the source code (with AI) before you install it, and customize it to your liking!",
+            "url": "https://github.com/levelsio/superlevels",
+            "stars": 395,
+            "forks": 41,
             "score": 85
         },
         {
@@ -117,7 +117,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "BuilderPulse/BuilderPulse",
             "description": "AI-powered daily intelligence for indie hackers and builders. 20 questions, 10+ sources, every morning.",
             "url": "https://github.com/BuilderPulse/BuilderPulse",
-            "stars": 1133,
+            "stars": 1134,
             "forks": 84,
             "score": 82
         },
@@ -139,7 +139,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "iamzhihuix/skills-manage",
             "description": "Desktop app to manage AI coding agent skills across Claude Code, Cursor, Gemini CLI, Codex, and 20+ platforms from one place.",
             "url": "https://github.com/iamzhihuix/skills-manage",
-            "stars": 1091,
+            "stars": 1093,
             "forks": 93,
             "score": 78
         },
@@ -150,9 +150,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "tashfeenahmed/freellmapi",
             "description": "OpenAI-compatible proxy that aggregates free-tier keys from ~14 AI providers with automatic failover. For personal experimentation only.",
             "url": "https://github.com/tashfeenahmed/freellmapi",
-            "stars": 385,
-            "forks": 53,
-            "score": 72
+            "stars": 401,
+            "forks": 59,
+            "score": 75
         },
         {
             "main_cat": "AI",
@@ -172,8 +172,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "espressif/esp-claw",
             "description": "ESP-Claw, a \"Chat Coding\" AI agent framework for IoT devices",
             "url": "https://github.com/espressif/esp-claw",
-            "stars": 437,
-            "forks": 80,
+            "stars": 440,
+            "forks": 81,
             "score": 64
         },
         {
@@ -194,7 +194,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "oritera/Cairn",
             "description": "AI \u81ea\u52a8\u5316\u901a\u7528\u95ee\u9898\u89e3\u51b3 / AI \u81ea\u52a8\u5316\u6e17\u900f\u6d4b\u8bd5\u7cfb\u7edf",
             "url": "https://github.com/oritera/Cairn",
-            "stars": 424,
+            "stars": 425,
             "forks": 18,
             "score": 57
         },
@@ -206,7 +206,7 @@ const ALPHA_DATA_V2 = {
             "description": "A cross-platform Flutter app that runs uncensored, 100% offline open-source AI models (GGUF) directly on your Android, iOS, or PC. No cloud, no filters, total privacy.",
             "url": "https://github.com/techjarves/Uncensored-Local-AI-Multiplatform",
             "stars": 263,
-            "forks": 47,
+            "forks": 48,
             "score": 55
         },
         {
@@ -216,9 +216,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "unclebob/swarm-forge",
             "description": "A simple tool for coordinating several AI agents.",
             "url": "https://github.com/unclebob/swarm-forge",
-            "stars": 347,
+            "stars": 348,
             "forks": 34,
-            "score": 51
+            "score": 52
         },
         {
             "main_cat": "AI",
@@ -256,24 +256,24 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
+            "name": "WorldX",
+            "full_name": "YGYOOO/WorldX",
+            "description": "One sentence creates an AI-driven world \u2014 generate maps, characters, and watch stories emerge on their own. \u4e00\u53e5\u8bdd\u751f\u6210\u4e00\u4e2aAI\u81ea\u4e3b\u9a71\u52a8\u7684\u4e16\u754c.",
+            "url": "https://github.com/YGYOOO/WorldX",
+            "stars": 231,
+            "forks": 32,
+            "score": 47
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
             "name": "ai-influence-digest",
             "full_name": "koffuxu/ai-influence-digest",
             "description": "Turn X scrolling into an AI-powered weekly digest \u2014 no X API, no scraping, just your browser. Scans 65+ AI builders, filters actionable content, exports a poster. Built for  content creators. ",
             "url": "https://github.com/koffuxu/ai-influence-digest",
             "stars": 297,
             "forks": 33,
-            "score": 47
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "WorldX",
-            "full_name": "YGYOOO/WorldX",
-            "description": "One sentence creates an AI-driven world \u2014 generate maps, characters, and watch stories emerge on their own. \u4e00\u53e5\u8bdd\u751f\u6210\u4e00\u4e2aAI\u81ea\u4e3b\u9a71\u52a8\u7684\u4e16\u754c.",
-            "url": "https://github.com/YGYOOO/WorldX",
-            "stars": 228,
-            "forks": 32,
-            "score": 47
+            "score": 46
         },
         {
             "main_cat": "AI",
@@ -282,9 +282,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "ChatPRD/tradclaw",
             "description": "AI openclaw mom and household manager for agentic parenting",
             "url": "https://github.com/ChatPRD/tradclaw",
-            "stars": 299,
+            "stars": 300,
             "forks": 30,
-            "score": 44
+            "score": 45
         },
         {
             "main_cat": "AI",
@@ -355,17 +355,6 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
-            "name": "spark-dashboard",
-            "full_name": "niklasfrick/spark-dashboard",
-            "description": "Real-time hardware and LLM inference monitoring \u2014 GPU, CPU, memory, and vLLM metrics streamed to a dashboard.",
-            "url": "https://github.com/niklasfrick/spark-dashboard",
-            "stars": 18,
-            "forks": 3,
-            "score": 32
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
             "name": "VindexLLM",
             "full_name": "tinyBigGAMES/VindexLLM",
             "description": "VindexLLM is a pure Delphi, GPU-powered LLM inference engine that uses Vulkan compute shaders to run GGUF models entirely on the GPU. It performs full transformer inference without relying on Python, CUDA, or other external runtimes, requiring only vulkan-1.dll, which is typically included with modern GPU drivers.",
@@ -383,6 +372,17 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/patilyashvardhan2002-byte/lazy-moe",
             "stars": 24,
             "forks": 4,
+            "score": 31
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "spark-dashboard",
+            "full_name": "niklasfrick/spark-dashboard",
+            "description": "Real-time hardware and LLM inference monitoring \u2014 GPU, CPU, memory, and vLLM metrics streamed to a dashboard.",
+            "url": "https://github.com/niklasfrick/spark-dashboard",
+            "stars": 18,
+            "forks": 3,
             "score": 31
         },
         {
@@ -765,12 +765,12 @@ const ALPHA_DATA_V2 = {
             "url": "http://arxiv.org/abs/2604.21860v1"
         },
         {
-            "title": "Bitcoin Up or Down - April 25, 12:15PM-12:30PM ET (Probability: 50%)",
+            "title": "Will Netflix, Inc. (NFLX) hit (HIGH) $107.50 Week of April 27 2026? (Probability: 6%)",
             "source": "Polymarket",
             "type": "Expectation",
             "color": "text-indigo-400",
-            "url": "https://polymarket.com/market/btc-updown-15m-1777133700"
+            "url": "https://polymarket.com/market/will-nflx-reach-107-50-by-april-27-2026"
         }
     ],
-    "timestamp": "2026-04-25 15:35"
+    "timestamp": "2026-04-25 16:34"
 };
