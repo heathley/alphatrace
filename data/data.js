@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "h4ckf0r0day/obscura",
             "description": "The headless browser for AI agents and web scraping",
             "url": "https://github.com/h4ckf0r0day/obscura",
-            "stars": 3837,
-            "forks": 225,
+            "stars": 3952,
+            "forks": 230,
             "score": 99
         },
         {
@@ -18,8 +18,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "getagentseal/codeburn",
             "description": "See where your AI coding tokens go. Interactive TUI dashboard for Claude Code, Codex, and Cursor cost observability.",
             "url": "https://github.com/getagentseal/codeburn",
-            "stars": 3686,
-            "forks": 280,
+            "stars": 3714,
+            "forks": 283,
             "score": 99
         },
         {
@@ -29,18 +29,18 @@ const ALPHA_DATA_V2 = {
             "full_name": "Mouseww/anything-analyzer",
             "description": "\u5168\u80fd\u534f\u8bae\u5206\u6790\u5de5\u5177\uff1a\u6d4f\u89c8\u5668\u6293\u5305 + MITM \u4ee3\u7406 + \u6307\u7eb9\u4f2a\u88c5 + AI \u5206\u6790 + MCP Server \u65e0\u7f1d\u5bf9\u63a5 AI Agent/IDE   |  All-in-one protocol analysis toolkit \u2014 built-in browser capture, MITM proxy, JS hooks, fingerprint spoofing, AI analysis & MCP server for agent integration",
             "url": "https://github.com/Mouseww/anything-analyzer",
-            "stars": 1871,
-            "forks": 408,
+            "stars": 1874,
+            "forks": 409,
             "score": 99
         },
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "web-design-skill",
-            "full_name": "ConardLi/web-design-skill",
+            "name": "garden-skills",
+            "full_name": "ConardLi/garden-skills",
             "description": "An AI agent skill that transforms AI-generated web pages from \"functional\" to \"stunning.\"(Inspired by Claude Design)",
-            "url": "https://github.com/ConardLi/web-design-skill",
-            "stars": 1151,
+            "url": "https://github.com/ConardLi/garden-skills",
+            "stars": 1170,
             "forks": 222,
             "score": 99
         },
@@ -51,8 +51,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "cosmicstack-labs/mercury-agent",
             "description": "Soul-driven AI agent with permission-hardened tools, token budgets, and multi-channel access. Runs 24/7 from CLI or Telegram.",
             "url": "https://github.com/cosmicstack-labs/mercury-agent",
-            "stars": 849,
-            "forks": 96,
+            "stars": 868,
+            "forks": 101,
             "score": 99
         },
         {
@@ -62,8 +62,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "GammaLabTechnologies/harmonist",
             "description": "Portable AI agent orchestration with mechanical protocol enforcement. 186 agents, zero runtime dependencies.",
             "url": "https://github.com/GammaLabTechnologies/harmonist",
-            "stars": 502,
-            "forks": 204,
+            "stars": 516,
+            "forks": 206,
             "score": 99
         },
         {
@@ -73,7 +73,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "bergside/design-md-chrome",
             "description": "Chrome extension to extract styles from any website and generate DESIGN.md files and design skills for AI based on TypeUI",
             "url": "https://github.com/bergside/design-md-chrome",
-            "stars": 1160,
+            "stars": 1162,
             "forks": 157,
             "score": 98
         },
@@ -84,7 +84,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "future-agi/future-agi",
             "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals \u00b7 Simulations \u00b7 Datasets \u00b7 Gateway \u00b7 Guardrails. Self-hostable. Apache 2.0.",
             "url": "https://github.com/future-agi/future-agi",
-            "stars": 325,
+            "stars": 331,
             "forks": 49,
             "score": 95
         },
@@ -117,7 +117,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "levelsio/superlevels",
             "description": "A super Chrome extension I made that's safer than installing external malware/spyware-filled extensions that form a massive security risk, this one is open source and you can read and check the source code (with AI) before you install it, and customize it to your liking!",
             "url": "https://github.com/levelsio/superlevels",
-            "stars": 390,
+            "stars": 392,
             "forks": 41,
             "score": 85
         },
@@ -128,8 +128,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "BuilderPulse/BuilderPulse",
             "description": "AI-powered daily intelligence for indie hackers and builders. 20 questions, 10+ sources, every morning.",
             "url": "https://github.com/BuilderPulse/BuilderPulse",
-            "stars": 1131,
-            "forks": 83,
+            "stars": 1133,
+            "forks": 84,
             "score": 82
         },
         {
@@ -150,9 +150,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "iamzhihuix/skills-manage",
             "description": "Desktop app to manage AI coding agent skills across Claude Code, Cursor, Gemini CLI, Codex, and 20+ platforms from one place.",
             "url": "https://github.com/iamzhihuix/skills-manage",
-            "stars": 1069,
+            "stars": 1078,
             "forks": 92,
-            "score": 77
+            "score": 78
         },
         {
             "main_cat": "AI",
@@ -172,9 +172,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "tashfeenahmed/freellmapi",
             "description": "OpenAI-compatible proxy that aggregates free-tier keys from ~14 AI providers with automatic failover. For personal experimentation only.",
             "url": "https://github.com/tashfeenahmed/freellmapi",
-            "stars": 310,
-            "forks": 39,
-            "score": 68
+            "stars": 329,
+            "forks": 46,
+            "score": 66
         },
         {
             "main_cat": "AI",
@@ -183,8 +183,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "espressif/esp-claw",
             "description": "ESP-Claw, a \"Chat Coding\" AI agent framework for IoT devices",
             "url": "https://github.com/espressif/esp-claw",
-            "stars": 424,
-            "forks": 78,
+            "stars": 430,
+            "forks": 79,
             "score": 63
         },
         {
@@ -194,7 +194,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "xiaochong/hi-kid",
             "description": "HiKid - Your AI English Pal. A desktop app built with React and TypeScript, targeting children in non-English-speaking countries who want to practice English speaking and listening.",
             "url": "https://github.com/xiaochong/hi-kid",
-            "stars": 332,
+            "stars": 334,
             "forks": 51,
             "score": 63
         },
@@ -205,9 +205,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "oritera/Cairn",
             "description": "AI \u81ea\u52a8\u5316\u901a\u7528\u95ee\u9898\u89e3\u51b3 / AI \u81ea\u52a8\u5316\u6e17\u900f\u6d4b\u8bd5\u7cfb\u7edf",
             "url": "https://github.com/oritera/Cairn",
-            "stars": 423,
+            "stars": 424,
             "forks": 18,
             "score": 57
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "swarm-forge",
+            "full_name": "unclebob/swarm-forge",
+            "description": "A simple tool for coordinating several AI agents.",
+            "url": "https://github.com/unclebob/swarm-forge",
+            "stars": 345,
+            "forks": 34,
+            "score": 54
         },
         {
             "main_cat": "AI",
@@ -223,22 +234,11 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "swarm-forge",
-            "full_name": "unclebob/swarm-forge",
-            "description": "A simple tool for coordinating several AI agents.",
-            "url": "https://github.com/unclebob/swarm-forge",
-            "stars": 343,
-            "forks": 34,
-            "score": 53
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
             "name": "agent-style",
             "full_name": "yzhao062/agent-style",
             "description": "21 writing rules for AI coding and writing agents. Drop-in for Claude Code, Codex, Copilot, Cursor, and Aider, so their output reads like a tech pro.",
             "url": "https://github.com/yzhao062/agent-style",
-            "stars": 321,
+            "stars": 322,
             "forks": 16,
             "score": 51
         },
@@ -282,8 +282,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "YGYOOO/WorldX",
             "description": "One sentence creates an AI-driven world \u2014 generate maps, characters, and watch stories emerge on their own. \u4e00\u53e5\u8bdd\u751f\u6210\u4e00\u4e2aAI\u81ea\u4e3b\u9a71\u52a8\u7684\u4e16\u754c.",
             "url": "https://github.com/YGYOOO/WorldX",
-            "stars": 224,
-            "forks": 31,
+            "stars": 226,
+            "forks": 32,
             "score": 47
         },
         {
@@ -326,7 +326,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "caomaolufei/AIInfraGuide",
             "description": "AI Infra \u5168\u6808\u4ece0\u5165\u95e8\u5b66\u4e60\u8d44\u6599\uff1ahttps://caomaolufei.github.io/AIInfraGuide/",
             "url": "https://github.com/caomaolufei/AIInfraGuide",
-            "stars": 225,
+            "stars": 227,
             "forks": 14,
             "score": 40
         },
@@ -562,6 +562,17 @@ const ALPHA_DATA_V2 = {
             "score": 30
         },
         {
+            "main_cat": "Stablecoin Infrastructure",
+            "sub_cat": null,
+            "name": "TrustWork",
+            "full_name": "RaymondAbiola/TrustWork",
+            "description": "A decentralized escrow platform where clients lock stablecoin payments into smart contracts, milestones are defined upfront, funds release automatically on approval, and disputes are resolved via DAO arbitration.",
+            "url": "https://github.com/RaymondAbiola/TrustWork",
+            "stars": 0,
+            "forks": 0,
+            "score": 30
+        },
+        {
             "main_cat": "AI",
             "sub_cat": "AI General",
             "name": "arcsub",
@@ -754,12 +765,12 @@ const ALPHA_DATA_V2 = {
             "url": "http://arxiv.org/abs/2604.21860v1"
         },
         {
-            "title": "Will Netflix, Inc. (NFLX) hit (HIGH) $107.50 Week of April 27 2026? (Probability: 49%)",
+            "title": "Will Netflix, Inc. (NFLX) hit (HIGH) $107.50 Week of April 27 2026? (Probability: 6%)",
             "source": "Polymarket",
             "type": "Expectation",
             "color": "text-indigo-400",
             "url": "https://polymarket.com/market/will-nflx-reach-107-50-by-april-27-2026"
         }
     ],
-    "timestamp": "2026-04-25 12:51"
+    "timestamp": "2026-04-25 14:00"
 };
