@@ -2,24 +2,24 @@ const ALPHA_DATA_V2 = {
     "projects": [
         {
             "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "codeburn",
-            "full_name": "getagentseal/codeburn",
-            "description": "See where your AI coding tokens go. Interactive TUI dashboard for Claude Code, Codex, and Cursor cost observability.",
-            "url": "https://github.com/getagentseal/codeburn",
-            "stars": 3659,
-            "forks": 276,
-            "score": 99
-        },
-        {
-            "main_cat": "AI",
             "sub_cat": null,
             "name": "obscura",
             "full_name": "h4ckf0r0day/obscura",
             "description": "The headless browser for AI agents and web scraping",
             "url": "https://github.com/h4ckf0r0day/obscura",
-            "stars": 3621,
-            "forks": 216,
+            "stars": 3709,
+            "forks": 220,
+            "score": 99
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "codeburn",
+            "full_name": "getagentseal/codeburn",
+            "description": "See where your AI coding tokens go. Interactive TUI dashboard for Claude Code, Codex, and Cursor cost observability.",
+            "url": "https://github.com/getagentseal/codeburn",
+            "stars": 3670,
+            "forks": 279,
             "score": 99
         },
         {
@@ -40,7 +40,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "ConardLi/web-design-skill",
             "description": "An AI agent skill that transforms AI-generated web pages from \"functional\" to \"stunning.\"(Inspired by Claude Design)",
             "url": "https://github.com/ConardLi/web-design-skill",
-            "stars": 1124,
+            "stars": 1136,
             "forks": 217,
             "score": 99
         },
@@ -51,8 +51,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "cosmicstack-labs/mercury-agent",
             "description": "Soul-driven AI agent with permission-hardened tools, token budgets, and multi-channel access. Runs 24/7 from CLI or Telegram.",
             "url": "https://github.com/cosmicstack-labs/mercury-agent",
-            "stars": 831,
-            "forks": 94,
+            "stars": 841,
+            "forks": 95,
             "score": 99
         },
         {
@@ -62,8 +62,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "GammaLabTechnologies/harmonist",
             "description": "Portable AI agent orchestration with mechanical protocol enforcement. 186 agents, zero runtime dependencies.",
             "url": "https://github.com/GammaLabTechnologies/harmonist",
-            "stars": 471,
-            "forks": 194,
+            "stars": 483,
+            "forks": 196,
             "score": 99
         },
         {
@@ -73,7 +73,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "bergside/design-md-chrome",
             "description": "Chrome extension to extract styles from any website and generate DESIGN.md files and design skills for AI based on TypeUI",
             "url": "https://github.com/bergside/design-md-chrome",
-            "stars": 1157,
+            "stars": 1158,
             "forks": 157,
             "score": 98
         },
@@ -84,7 +84,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "levelsio/superlevels",
             "description": "A super Chrome extension I made that's safer than installing external malware/spyware-filled extensions that form a massive security risk, this one is open source and you can read and check the source code (with AI) before you install it, and customize it to your liking!",
             "url": "https://github.com/levelsio/superlevels",
-            "stars": 387,
+            "stars": 388,
             "forks": 40,
             "score": 98
         },
@@ -106,9 +106,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "future-agi/future-agi",
             "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals \u00b7 Simulations \u00b7 Datasets \u00b7 Gateway \u00b7 Guardrails. Self-hostable. Apache 2.0.",
             "url": "https://github.com/future-agi/future-agi",
-            "stars": 312,
+            "stars": 317,
             "forks": 47,
-            "score": 92
+            "score": 93
         },
         {
             "main_cat": "AI",
@@ -128,9 +128,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "BuilderPulse/BuilderPulse",
             "description": "AI-powered daily intelligence for indie hackers and builders. 20 questions, 10+ sources, every morning.",
             "url": "https://github.com/BuilderPulse/BuilderPulse",
-            "stars": 1127,
-            "forks": 82,
-            "score": 85
+            "stars": 1128,
+            "forks": 83,
+            "score": 86
         },
         {
             "main_cat": "AI",
@@ -150,7 +150,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "iamzhihuix/skills-manage",
             "description": "Desktop app to manage AI coding agent skills across Claude Code, Cursor, Gemini CLI, Codex, and 20+ platforms from one place.",
             "url": "https://github.com/iamzhihuix/skills-manage",
-            "stars": 1062,
+            "stars": 1064,
             "forks": 92,
             "score": 77
         },
@@ -162,8 +162,8 @@ const ALPHA_DATA_V2 = {
             "description": "The ultimate zero-install, portable local AI environment. Run high-quality, uncensored LLMs (Gemma, Qwen, NemoMix) directly from any USB drive or SSD. Fully air-gapped, cross-platform (Win/Mac/Linux), and privacy-first with persistent chat history.",
             "url": "https://github.com/techjarves/USB-Uncensored-LLM",
             "stars": 572,
-            "forks": 136,
-            "score": 69
+            "forks": 137,
+            "score": 70
         },
         {
             "main_cat": "AI",
@@ -172,20 +172,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "tashfeenahmed/freellmapi",
             "description": "OpenAI-compatible proxy that aggregates free-tier keys from ~14 AI providers with automatic failover. For personal experimentation only.",
             "url": "https://github.com/tashfeenahmed/freellmapi",
-            "stars": 305,
+            "stars": 307,
             "forks": 39,
             "score": 68
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "hi-kid",
-            "full_name": "xiaochong/hi-kid",
-            "description": "HiKid - Your AI English Pal. A desktop app built with React and TypeScript, targeting children in non-English-speaking countries who want to practice English speaking and listening.",
-            "url": "https://github.com/xiaochong/hi-kid",
-            "stars": 330,
-            "forks": 51,
-            "score": 63
         },
         {
             "main_cat": "AI",
@@ -194,9 +183,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "espressif/esp-claw",
             "description": "ESP-Claw, a \"Chat Coding\" AI agent framework for IoT devices",
             "url": "https://github.com/espressif/esp-claw",
-            "stars": 411,
-            "forks": 77,
-            "score": 62
+            "stars": 416,
+            "forks": 78,
+            "score": 63
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "hi-kid",
+            "full_name": "xiaochong/hi-kid",
+            "description": "HiKid - Your AI English Pal. A desktop app built with React and TypeScript, targeting children in non-English-speaking countries who want to practice English speaking and listening.",
+            "url": "https://github.com/xiaochong/hi-kid",
+            "stars": 331,
+            "forks": 51,
+            "score": 63
         },
         {
             "main_cat": "AI",
@@ -216,7 +216,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "techjarves/Uncensored-Local-AI-Multiplatform",
             "description": "A cross-platform Flutter app that runs uncensored, 100% offline open-source AI models (GGUF) directly on your Android, iOS, or PC. No cloud, no filters, total privacy.",
             "url": "https://github.com/techjarves/Uncensored-Local-AI-Multiplatform",
-            "stars": 255,
+            "stars": 256,
             "forks": 46,
             "score": 54
         },
@@ -228,7 +228,7 @@ const ALPHA_DATA_V2 = {
             "description": "A simple tool for coordinating several AI agents.",
             "url": "https://github.com/unclebob/swarm-forge",
             "stars": 343,
-            "forks": 33,
+            "forks": 34,
             "score": 53
         },
         {
@@ -249,7 +249,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "simoncirstoiu/alice",
             "description": "Analyse \u00b7 Learn \u00b7 Ingest \u00b7 Curate \u00b7 Export \u2014 AI-powered YOLO dataset management toolkit",
             "url": "https://github.com/simoncirstoiu/alice",
-            "stars": 271,
+            "stars": 272,
             "forks": 28,
             "score": 51
         },
@@ -754,12 +754,12 @@ const ALPHA_DATA_V2 = {
             "url": "http://arxiv.org/abs/2604.21860v1"
         },
         {
-            "title": "Will Netflix, Inc. (NFLX) hit (HIGH) $107.50 Week of April 27 2026? (Probability: 50%)",
+            "title": "Will Netflix, Inc. (NFLX) hit (HIGH) $107.50 Week of April 27 2026? (Probability: 6%)",
             "source": "Polymarket",
             "type": "Expectation",
             "color": "text-indigo-400",
             "url": "https://polymarket.com/market/will-nflx-reach-107-50-by-april-27-2026"
         }
     ],
-    "timestamp": "2026-04-25 10:37"
+    "timestamp": "2026-04-25 11:34"
 };
