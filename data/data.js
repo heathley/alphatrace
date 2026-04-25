@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "h4ckf0r0day/obscura",
             "description": "The headless browser for AI agents and web scraping",
             "url": "https://github.com/h4ckf0r0day/obscura",
-            "stars": 3952,
-            "forks": 230,
+            "stars": 4080,
+            "forks": 238,
             "score": 99
         },
         {
@@ -18,8 +18,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "getagentseal/codeburn",
             "description": "See where your AI coding tokens go. Interactive TUI dashboard for Claude Code, Codex, and Cursor cost observability.",
             "url": "https://github.com/getagentseal/codeburn",
-            "stars": 3714,
-            "forks": 283,
+            "stars": 3753,
+            "forks": 285,
             "score": 99
         },
         {
@@ -29,19 +29,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "Mouseww/anything-analyzer",
             "description": "\u5168\u80fd\u534f\u8bae\u5206\u6790\u5de5\u5177\uff1a\u6d4f\u89c8\u5668\u6293\u5305 + MITM \u4ee3\u7406 + \u6307\u7eb9\u4f2a\u88c5 + AI \u5206\u6790 + MCP Server \u65e0\u7f1d\u5bf9\u63a5 AI Agent/IDE   |  All-in-one protocol analysis toolkit \u2014 built-in browser capture, MITM proxy, JS hooks, fingerprint spoofing, AI analysis & MCP server for agent integration",
             "url": "https://github.com/Mouseww/anything-analyzer",
-            "stars": 1874,
-            "forks": 409,
-            "score": 99
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "garden-skills",
-            "full_name": "ConardLi/garden-skills",
-            "description": "An AI agent skill that transforms AI-generated web pages from \"functional\" to \"stunning.\"(Inspired by Claude Design)",
-            "url": "https://github.com/ConardLi/garden-skills",
-            "stars": 1170,
-            "forks": 222,
+            "stars": 1878,
+            "forks": 411,
             "score": 99
         },
         {
@@ -51,8 +40,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "cosmicstack-labs/mercury-agent",
             "description": "Soul-driven AI agent with permission-hardened tools, token budgets, and multi-channel access. Runs 24/7 from CLI or Telegram.",
             "url": "https://github.com/cosmicstack-labs/mercury-agent",
-            "stars": 868,
-            "forks": 101,
+            "stars": 906,
+            "forks": 105,
             "score": 99
         },
         {
@@ -62,8 +51,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "GammaLabTechnologies/harmonist",
             "description": "Portable AI agent orchestration with mechanical protocol enforcement. 186 agents, zero runtime dependencies.",
             "url": "https://github.com/GammaLabTechnologies/harmonist",
-            "stars": 516,
-            "forks": 206,
+            "stars": 532,
+            "forks": 219,
             "score": 99
         },
         {
@@ -73,20 +62,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "bergside/design-md-chrome",
             "description": "Chrome extension to extract styles from any website and generate DESIGN.md files and design skills for AI based on TypeUI",
             "url": "https://github.com/bergside/design-md-chrome",
-            "stars": 1162,
-            "forks": 157,
-            "score": 98
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "future-agi",
-            "full_name": "future-agi/future-agi",
-            "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals \u00b7 Simulations \u00b7 Datasets \u00b7 Gateway \u00b7 Guardrails. Self-hostable. Apache 2.0.",
-            "url": "https://github.com/future-agi/future-agi",
-            "stars": 331,
-            "forks": 49,
-            "score": 95
+            "stars": 1166,
+            "forks": 158,
+            "score": 94
         },
         {
             "main_cat": "AI",
@@ -95,7 +73,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "yaojingang/GEOFlow",
             "description": "Open-source GEO content production system with AI tasks, review workflow, and publishing.",
             "url": "https://github.com/yaojingang/GEOFlow",
-            "stars": 992,
+            "stars": 993,
             "forks": 223,
             "score": 92
         },
@@ -106,7 +84,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "WeaveMindAI/weft",
             "description": "A programming language for AI systems",
             "url": "https://github.com/WeaveMindAI/weft",
-            "stars": 1021,
+            "stars": 1023,
             "forks": 131,
             "score": 89
         },
@@ -117,8 +95,19 @@ const ALPHA_DATA_V2 = {
             "full_name": "levelsio/superlevels",
             "description": "A super Chrome extension I made that's safer than installing external malware/spyware-filled extensions that form a massive security risk, this one is open source and you can read and check the source code (with AI) before you install it, and customize it to your liking!",
             "url": "https://github.com/levelsio/superlevels",
-            "stars": 392,
+            "stars": 393,
             "forks": 41,
+            "score": 85
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "future-agi",
+            "full_name": "future-agi/future-agi",
+            "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals \u00b7 Simulations \u00b7 Datasets \u00b7 Gateway \u00b7 Guardrails. Self-hostable. Apache 2.0.",
+            "url": "https://github.com/future-agi/future-agi",
+            "stars": 345,
+            "forks": 52,
             "score": 85
         },
         {
@@ -139,7 +128,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "ZeroZ-lab/cc-design",
             "description": "High-fidelity HTML design and prototype guidance skill for AI agents",
             "url": "https://github.com/ZeroZ-lab/cc-design",
-            "stars": 629,
+            "stars": 630,
             "forks": 66,
             "score": 79
         },
@@ -150,20 +139,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "iamzhihuix/skills-manage",
             "description": "Desktop app to manage AI coding agent skills across Claude Code, Cursor, Gemini CLI, Codex, and 20+ platforms from one place.",
             "url": "https://github.com/iamzhihuix/skills-manage",
-            "stars": 1078,
-            "forks": 92,
+            "stars": 1091,
+            "forks": 93,
             "score": 78
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "USB-Uncensored-LLM",
-            "full_name": "techjarves/USB-Uncensored-LLM",
-            "description": "The ultimate zero-install, portable local AI environment. Run high-quality, uncensored LLMs (Gemma, Qwen, NemoMix) directly from any USB drive or SSD. Fully air-gapped, cross-platform (Win/Mac/Linux), and privacy-first with persistent chat history.",
-            "url": "https://github.com/techjarves/USB-Uncensored-LLM",
-            "stars": 572,
-            "forks": 137,
-            "score": 70
         },
         {
             "main_cat": "AI",
@@ -172,9 +150,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "tashfeenahmed/freellmapi",
             "description": "OpenAI-compatible proxy that aggregates free-tier keys from ~14 AI providers with automatic failover. For personal experimentation only.",
             "url": "https://github.com/tashfeenahmed/freellmapi",
-            "stars": 329,
-            "forks": 46,
-            "score": 66
+            "stars": 385,
+            "forks": 53,
+            "score": 72
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "USB-Uncensored-LLM",
+            "full_name": "techjarves/USB-Uncensored-LLM",
+            "description": "The ultimate zero-install, portable local AI environment. Run high-quality, uncensored LLMs (Gemma, Qwen, NemoMix) directly from any USB drive or SSD. Fully air-gapped, cross-platform (Win/Mac/Linux), and privacy-first with persistent chat history.",
+            "url": "https://github.com/techjarves/USB-Uncensored-LLM",
+            "stars": 574,
+            "forks": 137,
+            "score": 70
         },
         {
             "main_cat": "AI",
@@ -183,9 +172,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "espressif/esp-claw",
             "description": "ESP-Claw, a \"Chat Coding\" AI agent framework for IoT devices",
             "url": "https://github.com/espressif/esp-claw",
-            "stars": 430,
-            "forks": 79,
-            "score": 63
+            "stars": 437,
+            "forks": 80,
+            "score": 64
         },
         {
             "main_cat": "AI",
@@ -194,9 +183,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "xiaochong/hi-kid",
             "description": "HiKid - Your AI English Pal. A desktop app built with React and TypeScript, targeting children in non-English-speaking countries who want to practice English speaking and listening.",
             "url": "https://github.com/xiaochong/hi-kid",
-            "stars": 334,
+            "stars": 335,
             "forks": 51,
-            "score": 63
+            "score": 59
         },
         {
             "main_cat": "AI",
@@ -211,25 +200,25 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
-            "sub_cat": null,
-            "name": "swarm-forge",
-            "full_name": "unclebob/swarm-forge",
-            "description": "A simple tool for coordinating several AI agents.",
-            "url": "https://github.com/unclebob/swarm-forge",
-            "stars": 345,
-            "forks": 34,
-            "score": 54
-        },
-        {
-            "main_cat": "AI",
             "sub_cat": "AI General",
             "name": "Uncensored-Local-AI-Multiplatform",
             "full_name": "techjarves/Uncensored-Local-AI-Multiplatform",
             "description": "A cross-platform Flutter app that runs uncensored, 100% offline open-source AI models (GGUF) directly on your Android, iOS, or PC. No cloud, no filters, total privacy.",
             "url": "https://github.com/techjarves/Uncensored-Local-AI-Multiplatform",
-            "stars": 257,
-            "forks": 46,
-            "score": 54
+            "stars": 263,
+            "forks": 47,
+            "score": 55
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "swarm-forge",
+            "full_name": "unclebob/swarm-forge",
+            "description": "A simple tool for coordinating several AI agents.",
+            "url": "https://github.com/unclebob/swarm-forge",
+            "stars": 347,
+            "forks": 34,
+            "score": 51
         },
         {
             "main_cat": "AI",
@@ -238,8 +227,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "yzhao062/agent-style",
             "description": "21 writing rules for AI coding and writing agents. Drop-in for Claude Code, Codex, Copilot, Cursor, and Aider, so their output reads like a tech pro.",
             "url": "https://github.com/yzhao062/agent-style",
-            "stars": 322,
-            "forks": 16,
+            "stars": 325,
+            "forks": 17,
             "score": 51
         },
         {
@@ -249,7 +238,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "simoncirstoiu/alice",
             "description": "Analyse \u00b7 Learn \u00b7 Ingest \u00b7 Curate \u00b7 Export \u2014 AI-powered YOLO dataset management toolkit",
             "url": "https://github.com/simoncirstoiu/alice",
-            "stars": 273,
+            "stars": 274,
             "forks": 28,
             "score": 51
         },
@@ -282,7 +271,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "YGYOOO/WorldX",
             "description": "One sentence creates an AI-driven world \u2014 generate maps, characters, and watch stories emerge on their own. \u4e00\u53e5\u8bdd\u751f\u6210\u4e00\u4e2aAI\u81ea\u4e3b\u9a71\u52a8\u7684\u4e16\u754c.",
             "url": "https://github.com/YGYOOO/WorldX",
-            "stars": 226,
+            "stars": 228,
             "forks": 32,
             "score": 47
         },
@@ -326,9 +315,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "caomaolufei/AIInfraGuide",
             "description": "AI Infra \u5168\u6808\u4ece0\u5165\u95e8\u5b66\u4e60\u8d44\u6599\uff1ahttps://caomaolufei.github.io/AIInfraGuide/",
             "url": "https://github.com/caomaolufei/AIInfraGuide",
-            "stars": 227,
+            "stars": 228,
             "forks": 14,
             "score": 40
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "ai-agent-camp",
+            "full_name": "minicoohei/ai-agent-camp",
+            "description": "AI Agent Camp \u2014 non-engineer-friendly AI agent training curriculum. Lessons, skills, commands, and hooks for Claude Code, Cursor, and Codex.",
+            "url": "https://github.com/minicoohei/ai-agent-camp",
+            "stars": 222,
+            "forks": 6,
+            "score": 38
         },
         {
             "main_cat": "AI",
@@ -765,12 +765,12 @@ const ALPHA_DATA_V2 = {
             "url": "http://arxiv.org/abs/2604.21860v1"
         },
         {
-            "title": "Will Netflix, Inc. (NFLX) hit (HIGH) $107.50 Week of April 27 2026? (Probability: 6%)",
+            "title": "Bitcoin Up or Down - April 25, 12:15PM-12:30PM ET (Probability: 50%)",
             "source": "Polymarket",
             "type": "Expectation",
             "color": "text-indigo-400",
-            "url": "https://polymarket.com/market/will-nflx-reach-107-50-by-april-27-2026"
+            "url": "https://polymarket.com/market/btc-updown-15m-1777133700"
         }
     ],
-    "timestamp": "2026-04-25 14:00"
+    "timestamp": "2026-04-25 15:35"
 };
