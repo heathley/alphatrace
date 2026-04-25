@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "h4ckf0r0day/obscura",
             "description": "The headless browser for AI agents and web scraping",
             "url": "https://github.com/h4ckf0r0day/obscura",
-            "stars": 4530,
-            "forks": 266,
+            "stars": 4587,
+            "forks": 267,
             "score": 99
         },
         {
@@ -18,8 +18,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "getagentseal/codeburn",
             "description": "See where your AI coding tokens go. Interactive TUI dashboard for Claude Code, Codex, and Cursor cost observability.",
             "url": "https://github.com/getagentseal/codeburn",
-            "stars": 3869,
-            "forks": 293,
+            "stars": 3872,
+            "forks": 295,
             "score": 99
         },
         {
@@ -40,8 +40,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "cosmicstack-labs/mercury-agent",
             "description": "Soul-driven AI agent with permission-hardened tools, token budgets, and multi-channel access. Runs 24/7 from CLI or Telegram.",
             "url": "https://github.com/cosmicstack-labs/mercury-agent",
-            "stars": 1058,
-            "forks": 118,
+            "stars": 1067,
+            "forks": 119,
             "score": 99
         },
         {
@@ -51,8 +51,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "GammaLabTechnologies/harmonist",
             "description": "Portable AI agent orchestration with mechanical protocol enforcement. 186 agents, zero runtime dependencies.",
             "url": "https://github.com/GammaLabTechnologies/harmonist",
-            "stars": 593,
-            "forks": 240,
+            "stars": 598,
+            "forks": 244,
             "score": 99
         },
         {
@@ -63,8 +63,19 @@ const ALPHA_DATA_V2 = {
             "description": "Chrome extension to extract styles from any website and generate DESIGN.md files and design skills for AI based on TypeUI",
             "url": "https://github.com/bergside/design-md-chrome",
             "stars": 1175,
-            "forks": 159,
+            "forks": 160,
             "score": 94
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "future-agi",
+            "full_name": "future-agi/future-agi",
+            "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals \u00b7 Simulations \u00b7 Datasets \u00b7 Gateway \u00b7 Guardrails. Self-hostable. Apache 2.0.",
+            "url": "https://github.com/future-agi/future-agi",
+            "stars": 396,
+            "forks": 59,
+            "score": 93
         },
         {
             "main_cat": "AI",
@@ -80,22 +91,11 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "future-agi",
-            "full_name": "future-agi/future-agi",
-            "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals \u00b7 Simulations \u00b7 Datasets \u00b7 Gateway \u00b7 Guardrails. Self-hostable. Apache 2.0.",
-            "url": "https://github.com/future-agi/future-agi",
-            "stars": 390,
-            "forks": 58,
-            "score": 92
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
             "name": "weft",
             "full_name": "WeaveMindAI/weft",
             "description": "A programming language for AI systems",
             "url": "https://github.com/WeaveMindAI/weft",
-            "stars": 1032,
+            "stars": 1037,
             "forks": 132,
             "score": 90
         },
@@ -128,8 +128,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "iamzhihuix/skills-manage",
             "description": "Desktop app to manage AI coding agent skills across Claude Code, Cursor, Gemini CLI, Codex, and 20+ platforms from one place.",
             "url": "https://github.com/iamzhihuix/skills-manage",
-            "stars": 1102,
-            "forks": 93,
+            "stars": 1104,
+            "forks": 94,
             "score": 79
         },
         {
@@ -161,7 +161,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "techjarves/USB-Uncensored-LLM",
             "description": "The ultimate zero-install, portable local AI environment. Run high-quality, uncensored LLMs (Gemma, Qwen, NemoMix) directly from any USB drive or SSD. Fully air-gapped, cross-platform (Win/Mac/Linux), and privacy-first with persistent chat history.",
             "url": "https://github.com/techjarves/USB-Uncensored-LLM",
-            "stars": 575,
+            "stars": 577,
             "forks": 137,
             "score": 70
         },
@@ -172,7 +172,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "espressif/esp-claw",
             "description": "ESP-Claw, a \"Chat Coding\" AI agent framework for IoT devices",
             "url": "https://github.com/espressif/esp-claw",
-            "stars": 457,
+            "stars": 458,
             "forks": 87,
             "score": 66
         },
@@ -205,7 +205,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "techjarves/Uncensored-Local-AI-Multiplatform",
             "description": "A cross-platform Flutter app that runs uncensored, 100% offline open-source AI models (GGUF) directly on your Android, iOS, or PC. No cloud, no filters, total privacy.",
             "url": "https://github.com/techjarves/Uncensored-Local-AI-Multiplatform",
-            "stars": 272,
+            "stars": 275,
             "forks": 48,
             "score": 55
         },
@@ -216,8 +216,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "unclebob/swarm-forge",
             "description": "A simple tool for coordinating several AI agents.",
             "url": "https://github.com/unclebob/swarm-forge",
-            "stars": 352,
-            "forks": 34,
+            "stars": 355,
+            "forks": 35,
             "score": 52
         },
         {
@@ -227,7 +227,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "yzhao062/agent-style",
             "description": "21 writing rules for AI coding and writing agents. Drop-in for Claude Code, Codex, Copilot, Cursor, and Aider, so their output reads like a tech pro.",
             "url": "https://github.com/yzhao062/agent-style",
-            "stars": 328,
+            "stars": 330,
             "forks": 18,
             "score": 52
         },
@@ -326,7 +326,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "minicoohei/ai-agent-camp",
             "description": "AI Agent Camp \u2014 non-engineer-friendly AI agent training curriculum. Lessons, skills, commands, and hooks for Claude Code, Cursor, and Codex.",
             "url": "https://github.com/minicoohei/ai-agent-camp",
-            "stars": 222,
+            "stars": 221,
             "forks": 6,
             "score": 38
         },
@@ -783,5 +783,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/market/will-the-price-of-solana-be-between-80-90-on-may-1"
         }
     ],
-    "timestamp": "2026-04-25 21:30"
+    "timestamp": "2026-04-25 22:30"
 };
