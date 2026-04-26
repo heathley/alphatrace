@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "h4ckf0r0day/obscura",
             "description": "The headless browser for AI agents and web scraping",
             "url": "https://github.com/h4ckf0r0day/obscura",
-            "stars": 5443,
-            "forks": 316,
+            "stars": 5514,
+            "forks": 318,
             "score": 99
         },
         {
@@ -18,8 +18,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "getagentseal/codeburn",
             "description": "See where your AI coding tokens go. Interactive TUI dashboard for Claude Code, Codex, and Cursor cost observability.",
             "url": "https://github.com/getagentseal/codeburn",
-            "stars": 4021,
-            "forks": 308,
+            "stars": 4040,
+            "forks": 307,
             "score": 99
         },
         {
@@ -29,8 +29,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "cosmicstack-labs/mercury-agent",
             "description": "Soul-driven AI agent with permission-hardened tools, token budgets, and multi-channel access. Runs 24/7 from CLI or Telegram.",
             "url": "https://github.com/cosmicstack-labs/mercury-agent",
-            "stars": 1294,
-            "forks": 142,
+            "stars": 1312,
+            "forks": 143,
             "score": 99
         },
         {
@@ -40,8 +40,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "GammaLabTechnologies/harmonist",
             "description": "Portable AI agent orchestration with mechanical protocol enforcement. 186 agents, zero runtime dependencies.",
             "url": "https://github.com/GammaLabTechnologies/harmonist",
-            "stars": 675,
-            "forks": 288,
+            "stars": 677,
+            "forks": 293,
             "score": 99
         },
         {
@@ -51,8 +51,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "future-agi/future-agi",
             "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals \u00b7 Simulations \u00b7 Datasets \u00b7 Gateway \u00b7 Guardrails. Self-hostable. Apache 2.0.",
             "url": "https://github.com/future-agi/future-agi",
-            "stars": 489,
-            "forks": 75,
+            "stars": 500,
+            "forks": 76,
             "score": 99
         },
         {
@@ -62,7 +62,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "bergside/design-md-chrome",
             "description": "Chrome extension to extract styles from any website and generate DESIGN.md files and design skills for AI based on TypeUI",
             "url": "https://github.com/bergside/design-md-chrome",
-            "stars": 1197,
+            "stars": 1199,
             "forks": 162,
             "score": 95
         },
@@ -73,20 +73,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "yaojingang/GEOFlow",
             "description": "Open-source GEO content production system with AI tasks, review workflow, and publishing.",
             "url": "https://github.com/yaojingang/GEOFlow",
-            "stars": 1008,
-            "forks": 226,
-            "score": 89
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "freellmapi",
-            "full_name": "tashfeenahmed/freellmapi",
-            "description": "OpenAI-compatible proxy that aggregates free-tier keys from ~14 AI providers with automatic failover. For personal experimentation only.",
-            "url": "https://github.com/tashfeenahmed/freellmapi",
-            "stars": 491,
-            "forks": 84,
-            "score": 89
+            "stars": 1015,
+            "forks": 227,
+            "score": 90
         },
         {
             "main_cat": "AI",
@@ -95,9 +84,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "WeaveMindAI/weft",
             "description": "A programming language for AI systems",
             "url": "https://github.com/WeaveMindAI/weft",
-            "stars": 1045,
+            "stars": 1046,
             "forks": 134,
             "score": 86
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "freellmapi",
+            "full_name": "tashfeenahmed/freellmapi",
+            "description": "OpenAI-compatible proxy that aggregates free-tier keys from ~14 AI providers with automatic failover. For personal experimentation only.",
+            "url": "https://github.com/tashfeenahmed/freellmapi",
+            "stars": 495,
+            "forks": 86,
+            "score": 82
         },
         {
             "main_cat": "AI",
@@ -128,7 +128,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "iamzhihuix/skills-manage",
             "description": "Desktop app to manage AI coding agent skills across Claude Code, Cursor, Gemini CLI, Codex, and 20+ platforms from one place.",
             "url": "https://github.com/iamzhihuix/skills-manage",
-            "stars": 1142,
+            "stars": 1144,
             "forks": 96,
             "score": 77
         },
@@ -150,7 +150,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "alash3al/stash",
             "description": "Stash \u2014 persistent memory layer for AI agents. Episodes, facts, and working context stored in Postgres. MCP server included. Self-hosted, single binary, no cloud required.",
             "url": "https://github.com/alash3al/stash",
-            "stars": 267,
+            "stars": 269,
             "forks": 10,
             "score": 68
         },
@@ -172,8 +172,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "espressif/esp-claw",
             "description": "ESP-Claw, a \"Chat Coding\" AI agent framework for IoT devices",
             "url": "https://github.com/espressif/esp-claw",
-            "stars": 496,
-            "forks": 99,
+            "stars": 501,
+            "forks": 100,
             "score": 67
         },
         {
@@ -194,20 +194,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "oritera/Cairn",
             "description": "AI \u81ea\u52a8\u5316\u901a\u7528\u95ee\u9898\u89e3\u51b3 / AI \u81ea\u52a8\u5316\u6e17\u900f\u6d4b\u8bd5\u7cfb\u7edf",
             "url": "https://github.com/oritera/Cairn",
-            "stars": 444,
+            "stars": 446,
             "forks": 19,
             "score": 56
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "Uncensored-Local-AI-Multiplatform",
-            "full_name": "techjarves/Uncensored-Local-AI-Multiplatform",
-            "description": "A cross-platform Flutter app that runs uncensored, 100% offline open-source AI models (GGUF) directly on your Android, iOS, or PC. No cloud, no filters, total privacy.",
-            "url": "https://github.com/techjarves/Uncensored-Local-AI-Multiplatform",
-            "stars": 289,
-            "forks": 50,
-            "score": 54
         },
         {
             "main_cat": "AI",
@@ -216,9 +205,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "unclebob/swarm-forge",
             "description": "A simple tool for coordinating several AI agents.",
             "url": "https://github.com/unclebob/swarm-forge",
-            "stars": 374,
-            "forks": 38,
-            "score": 53
+            "stars": 376,
+            "forks": 39,
+            "score": 54
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "Uncensored-Local-AI-Multiplatform",
+            "full_name": "techjarves/Uncensored-Local-AI-Multiplatform",
+            "description": "A cross-platform Flutter app that runs uncensored, 100% offline open-source AI models (GGUF) directly on your Android, iOS, or PC. No cloud, no filters, total privacy.",
+            "url": "https://github.com/techjarves/Uncensored-Local-AI-Multiplatform",
+            "stars": 290,
+            "forks": 50,
+            "score": 54
         },
         {
             "main_cat": "AI",
@@ -227,7 +227,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "yzhao062/agent-style",
             "description": "21 writing rules for AI coding and writing agents. Drop-in for Claude Code, Codex, Copilot, Cursor, and Aider, so their output reads like a tech pro.",
             "url": "https://github.com/yzhao062/agent-style",
-            "stars": 342,
+            "stars": 344,
             "forks": 18,
             "score": 50
         },
@@ -238,8 +238,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "simoncirstoiu/alice",
             "description": "Analyse \u00b7 Learn \u00b7 Ingest \u00b7 Curate \u00b7 Export \u2014 AI-powered YOLO dataset management toolkit",
             "url": "https://github.com/simoncirstoiu/alice",
-            "stars": 282,
-            "forks": 28,
+            "stars": 283,
+            "forks": 29,
             "score": 49
         },
         {
@@ -249,9 +249,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "YGYOOO/WorldX",
             "description": "One sentence creates an AI-driven world \u2014 generate maps, characters, and watch stories emerge on their own. \u4e00\u53e5\u8bdd\u751f\u6210\u4e00\u4e2aAI\u81ea\u4e3b\u9a71\u52a8\u7684\u4e16\u754c.",
             "url": "https://github.com/YGYOOO/WorldX",
-            "stars": 264,
+            "stars": 269,
             "forks": 42,
             "score": 49
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "auto-memory",
+            "full_name": "dezgit2025/auto-memory",
+            "description": "Your AI coding agent never forgets \u2014 progressive session recall CLI",
+            "url": "https://github.com/dezgit2025/auto-memory",
+            "stars": 223,
+            "forks": 18,
+            "score": 48
         },
         {
             "main_cat": "AI",
@@ -293,7 +304,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "getlago/inside-lago-voice-skill",
             "description": "A framework for teaching AI to write like you. Not like a better version of you. Like you.",
             "url": "https://github.com/getlago/inside-lago-voice-skill",
-            "stars": 288,
+            "stars": 289,
             "forks": 37,
             "score": 43
         },
@@ -315,20 +326,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "caomaolufei/AIInfraGuide",
             "description": "AI Infra \u5168\u6808\u4ece0\u5165\u95e8\u5b66\u4e60\u8d44\u6599\uff1ahttps://caomaolufei.github.io/AIInfraGuide/",
             "url": "https://github.com/caomaolufei/AIInfraGuide",
-            "stars": 233,
+            "stars": 234,
             "forks": 14,
             "score": 39
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "ai-agent-camp",
-            "full_name": "minicoohei/ai-agent-camp",
-            "description": "AI Agent Camp \u2014 non-engineer-friendly AI agent training curriculum. Lessons, skills, commands, and hooks for Claude Code, Cursor, and Codex.",
-            "url": "https://github.com/minicoohei/ai-agent-camp",
-            "stars": 221,
-            "forks": 6,
-            "score": 38
         },
         {
             "main_cat": "AI",
@@ -403,7 +403,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "PMZFX/intel-arc-pro-b70-benchmarks",
             "description": "Benchmark results and performance data for the Intel Arc Pro B70 GPU (Xe2/Battlemage) - LLM inference, video generation, dual-GPU scaling.",
             "url": "https://github.com/PMZFX/intel-arc-pro-b70-benchmarks",
-            "stars": 9,
+            "stars": 10,
             "forks": 1,
             "score": 30
         },
@@ -441,6 +441,17 @@ const ALPHA_DATA_V2 = {
             "score": 30
         },
         {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "football-edge-predictor",
+            "full_name": "leonardoglez7/football-edge-predictor",
+            "description": "Deep learning model that predicts Premier League home wins using LSTM networks  and detects value bets on prediction markets like Polymarket. Built with TensorFlow,  walk-forward validation, and backtesting against real Bet365 odds.",
+            "url": "https://github.com/leonardoglez7/football-edge-predictor",
+            "stars": 1,
+            "forks": 0,
+            "score": 30
+        },
+        {
             "main_cat": "Prediction Markets",
             "sub_cat": null,
             "name": "magic-game-tg",
@@ -458,17 +469,6 @@ const ALPHA_DATA_V2 = {
             "full_name": "deepanshu-yd/prediction-market",
             "description": "Predicto is a high-performance, binary outcome prediction market built with the latest Solana technology stack. It allows users to create markets on any topic, bet SOL on outcomes, and claim rewards from a collective pool.",
             "url": "https://github.com/deepanshu-yd/prediction-market",
-            "stars": 0,
-            "forks": 0,
-            "score": 30
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "football-edge-predictor",
-            "full_name": "leonardoglez7/football-edge-predictor",
-            "description": "Deep learning model that predicts Premier League home wins using LSTM networks  and detects value bets on prediction markets like Polymarket. Built with TensorFlow,  walk-forward validation, and backtesting against real Bet365 odds.",
-            "url": "https://github.com/leonardoglez7/football-edge-predictor",
             "stars": 0,
             "forks": 0,
             "score": 30
@@ -740,12 +740,26 @@ const ALPHA_DATA_V2 = {
     ],
     "news": [
         {
-            "title": "Will the price of Solana be between $80 and $90 on May 1? (Probability: 70%)",
+            "title": "CrossCommitVuln-Bench: A Dataset of Multi-Commit Python Vulnerabilities Invisible to Per-Commit Static Analysis",
+            "source": "ArXiv",
+            "type": "Research Alpha",
+            "color": "text-indigo-600",
+            "url": "http://arxiv.org/abs/2604.21917v1"
+        },
+        {
+            "title": "Transient Turn Injection: Exposing Stateless Multi-Turn Vulnerabilities in Large Language Models",
+            "source": "ArXiv",
+            "type": "Research Alpha",
+            "color": "text-indigo-600",
+            "url": "http://arxiv.org/abs/2604.21860v1"
+        },
+        {
+            "title": "Will the price of Solana be between $80 and $90 on May 1? (Probability: 72%)",
             "source": "Polymarket",
             "type": "Expectation",
             "color": "text-indigo-400",
             "url": "https://polymarket.com/market/will-the-price-of-solana-be-between-80-90-on-may-1"
         }
     ],
-    "timestamp": "2026-04-26 12:53"
+    "timestamp": "2026-04-26 14:02"
 };
