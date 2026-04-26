@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "h4ckf0r0day/obscura",
             "description": "The headless browser for AI agents and web scraping",
             "url": "https://github.com/h4ckf0r0day/obscura",
-            "stars": 5887,
-            "forks": 340,
+            "stars": 5941,
+            "forks": 345,
             "score": 99
         },
         {
@@ -18,8 +18,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "getagentseal/codeburn",
             "description": "See where your AI coding tokens go. Interactive TUI dashboard for Claude Code, Codex, and Cursor cost observability.",
             "url": "https://github.com/getagentseal/codeburn",
-            "stars": 4114,
-            "forks": 315,
+            "stars": 4123,
+            "forks": 316,
             "score": 99
         },
         {
@@ -29,8 +29,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "cosmicstack-labs/mercury-agent",
             "description": "Soul-driven AI agent with permission-hardened tools, token budgets, and multi-channel access. Runs 24/7 from CLI or Telegram.",
             "url": "https://github.com/cosmicstack-labs/mercury-agent",
-            "stars": 1384,
-            "forks": 149,
+            "stars": 1389,
+            "forks": 150,
             "score": 99
         },
         {
@@ -51,7 +51,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "future-agi/future-agi",
             "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals \u00b7 Simulations \u00b7 Datasets \u00b7 Gateway \u00b7 Guardrails. Self-hostable. Apache 2.0.",
             "url": "https://github.com/future-agi/future-agi",
-            "stars": 536,
+            "stars": 539,
             "forks": 79,
             "score": 99
         },
@@ -95,8 +95,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "tashfeenahmed/freellmapi",
             "description": "OpenAI-compatible proxy that aggregates free-tier keys from ~14 AI providers with automatic failover. For personal experimentation only.",
             "url": "https://github.com/tashfeenahmed/freellmapi",
-            "stars": 512,
-            "forks": 94,
+            "stars": 514,
+            "forks": 95,
             "score": 85
         },
         {
@@ -117,7 +117,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "iamzhihuix/skills-manage",
             "description": "Desktop app to manage AI coding agent skills across Claude Code, Cursor, Gemini CLI, Codex, and 20+ platforms from one place.",
             "url": "https://github.com/iamzhihuix/skills-manage",
-            "stars": 1157,
+            "stars": 1159,
             "forks": 97,
             "score": 78
         },
@@ -128,7 +128,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "levelsio/superlevels",
             "description": "A super Chrome extension I made that's safer than installing external malware/spyware-filled extensions that form a massive security risk, this one is open source and you can read and check the source code (with AI) before you install it, and customize it to your liking!",
             "url": "https://github.com/levelsio/superlevels",
-            "stars": 411,
+            "stars": 412,
             "forks": 42,
             "score": 78
         },
@@ -140,8 +140,8 @@ const ALPHA_DATA_V2 = {
             "description": "High-fidelity HTML design and prototype guidance skill for AI agents",
             "url": "https://github.com/ZeroZ-lab/cc-design",
             "stars": 635,
-            "forks": 66,
-            "score": 74
+            "forks": 67,
+            "score": 75
         },
         {
             "main_cat": "AI",
@@ -172,8 +172,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "espressif/esp-claw",
             "description": "ESP-Claw, a \"Chat Coding\" AI agent framework for IoT devices",
             "url": "https://github.com/espressif/esp-claw",
-            "stars": 521,
-            "forks": 102,
+            "stars": 522,
+            "forks": 103,
             "score": 68
         },
         {
@@ -205,8 +205,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "techjarves/Uncensored-Local-AI-Multiplatform",
             "description": "A cross-platform Flutter app that runs uncensored, 100% offline open-source AI models (GGUF) directly on your Android, iOS, or PC. No cloud, no filters, total privacy.",
             "url": "https://github.com/techjarves/Uncensored-Local-AI-Multiplatform",
-            "stars": 299,
-            "forks": 52,
+            "stars": 301,
+            "forks": 53,
             "score": 55
         },
         {
@@ -216,7 +216,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "unclebob/swarm-forge",
             "description": "A simple tool for coordinating several AI agents.",
             "url": "https://github.com/unclebob/swarm-forge",
-            "stars": 383,
+            "stars": 384,
             "forks": 41,
             "score": 52
         },
@@ -252,17 +252,6 @@ const ALPHA_DATA_V2 = {
             "stars": 272,
             "forks": 44,
             "score": 50
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "auto-memory",
-            "full_name": "dezgit2025/auto-memory",
-            "description": "Your AI coding agent never forgets \u2014 progressive session recall CLI",
-            "url": "https://github.com/dezgit2025/auto-memory",
-            "stars": 229,
-            "forks": 19,
-            "score": 49
         },
         {
             "main_cat": "AI",
@@ -318,6 +307,17 @@ const ALPHA_DATA_V2 = {
             "stars": 252,
             "forks": 2,
             "score": 40
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "ai-agent-camp",
+            "full_name": "minicoohei/ai-agent-camp",
+            "description": "AI Agent Camp \u2014 non-engineer-friendly AI agent training curriculum. Lessons, skills, commands, and hooks for Claude Code, Cursor, and Codex.",
+            "url": "https://github.com/minicoohei/ai-agent-camp",
+            "stars": 252,
+            "forks": 9,
+            "score": 39
         },
         {
             "main_cat": "AI",
@@ -783,5 +783,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/market/will-the-price-of-solana-be-between-80-90-on-may-1"
         }
     ],
-    "timestamp": "2026-04-26 20:32"
+    "timestamp": "2026-04-26 21:32"
 };
