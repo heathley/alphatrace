@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "h4ckf0r0day/obscura",
             "description": "The headless browser for AI agents and web scraping",
             "url": "https://github.com/h4ckf0r0day/obscura",
-            "stars": 5378,
-            "forks": 313,
+            "stars": 5443,
+            "forks": 316,
             "score": 99
         },
         {
@@ -18,7 +18,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "getagentseal/codeburn",
             "description": "See where your AI coding tokens go. Interactive TUI dashboard for Claude Code, Codex, and Cursor cost observability.",
             "url": "https://github.com/getagentseal/codeburn",
-            "stars": 4006,
+            "stars": 4021,
             "forks": 308,
             "score": 99
         },
@@ -29,8 +29,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "cosmicstack-labs/mercury-agent",
             "description": "Soul-driven AI agent with permission-hardened tools, token budgets, and multi-channel access. Runs 24/7 from CLI or Telegram.",
             "url": "https://github.com/cosmicstack-labs/mercury-agent",
-            "stars": 1277,
-            "forks": 140,
+            "stars": 1294,
+            "forks": 142,
             "score": 99
         },
         {
@@ -40,8 +40,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "GammaLabTechnologies/harmonist",
             "description": "Portable AI agent orchestration with mechanical protocol enforcement. 186 agents, zero runtime dependencies.",
             "url": "https://github.com/GammaLabTechnologies/harmonist",
-            "stars": 673,
-            "forks": 286,
+            "stars": 675,
+            "forks": 288,
             "score": 99
         },
         {
@@ -51,8 +51,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "future-agi/future-agi",
             "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals \u00b7 Simulations \u00b7 Datasets \u00b7 Gateway \u00b7 Guardrails. Self-hostable. Apache 2.0.",
             "url": "https://github.com/future-agi/future-agi",
-            "stars": 483,
-            "forks": 72,
+            "stars": 489,
+            "forks": 75,
             "score": 99
         },
         {
@@ -62,7 +62,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "bergside/design-md-chrome",
             "description": "Chrome extension to extract styles from any website and generate DESIGN.md files and design skills for AI based on TypeUI",
             "url": "https://github.com/bergside/design-md-chrome",
-            "stars": 1195,
+            "stars": 1197,
             "forks": 162,
             "score": 95
         },
@@ -73,9 +73,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "yaojingang/GEOFlow",
             "description": "Open-source GEO content production system with AI tasks, review workflow, and publishing.",
             "url": "https://github.com/yaojingang/GEOFlow",
-            "stars": 1000,
+            "stars": 1008,
             "forks": 226,
-            "score": 93
+            "score": 89
         },
         {
             "main_cat": "AI",
@@ -84,20 +84,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "tashfeenahmed/freellmapi",
             "description": "OpenAI-compatible proxy that aggregates free-tier keys from ~14 AI providers with automatic failover. For personal experimentation only.",
             "url": "https://github.com/tashfeenahmed/freellmapi",
-            "stars": 486,
+            "stars": 491,
             "forks": 84,
-            "score": 88
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "superlevels",
-            "full_name": "levelsio/superlevels",
-            "description": "A super Chrome extension I made that's safer than installing external malware/spyware-filled extensions that form a massive security risk, this one is open source and you can read and check the source code (with AI) before you install it, and customize it to your liking!",
-            "url": "https://github.com/levelsio/superlevels",
-            "stars": 409,
-            "forks": 42,
-            "score": 87
+            "score": 89
         },
         {
             "main_cat": "AI",
@@ -117,9 +106,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "BuilderPulse/BuilderPulse",
             "description": "AI-powered daily intelligence for indie hackers and builders. 20 questions, 10+ sources, every morning.",
             "url": "https://github.com/BuilderPulse/BuilderPulse",
-            "stars": 1144,
+            "stars": 1145,
             "forks": 85,
-            "score": 83
+            "score": 79
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "superlevels",
+            "full_name": "levelsio/superlevels",
+            "description": "A super Chrome extension I made that's safer than installing external malware/spyware-filled extensions that form a massive security risk, this one is open source and you can read and check the source code (with AI) before you install it, and customize it to your liking!",
+            "url": "https://github.com/levelsio/superlevels",
+            "stars": 409,
+            "forks": 42,
+            "score": 78
         },
         {
             "main_cat": "AI",
@@ -128,7 +128,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "iamzhihuix/skills-manage",
             "description": "Desktop app to manage AI coding agent skills across Claude Code, Cursor, Gemini CLI, Codex, and 20+ platforms from one place.",
             "url": "https://github.com/iamzhihuix/skills-manage",
-            "stars": 1140,
+            "stars": 1142,
             "forks": 96,
             "score": 77
         },
@@ -139,7 +139,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "ZeroZ-lab/cc-design",
             "description": "High-fidelity HTML design and prototype guidance skill for AI agents",
             "url": "https://github.com/ZeroZ-lab/cc-design",
-            "stars": 633,
+            "stars": 634,
             "forks": 66,
             "score": 74
         },
@@ -150,7 +150,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "alash3al/stash",
             "description": "Stash \u2014 persistent memory layer for AI agents. Episodes, facts, and working context stored in Postgres. MCP server included. Self-hosted, single binary, no cloud required.",
             "url": "https://github.com/alash3al/stash",
-            "stars": 265,
+            "stars": 267,
             "forks": 10,
             "score": 68
         },
@@ -172,7 +172,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "espressif/esp-claw",
             "description": "ESP-Claw, a \"Chat Coding\" AI agent framework for IoT devices",
             "url": "https://github.com/espressif/esp-claw",
-            "stars": 492,
+            "stars": 496,
             "forks": 99,
             "score": 67
         },
@@ -183,7 +183,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "xiaochong/hi-kid",
             "description": "HiKid - Your AI English Pal. A desktop app built with React and TypeScript, targeting children in non-English-speaking countries who want to practice English speaking and listening.",
             "url": "https://github.com/xiaochong/hi-kid",
-            "stars": 345,
+            "stars": 346,
             "forks": 52,
             "score": 60
         },
@@ -194,9 +194,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "oritera/Cairn",
             "description": "AI \u81ea\u52a8\u5316\u901a\u7528\u95ee\u9898\u89e3\u51b3 / AI \u81ea\u52a8\u5316\u6e17\u900f\u6d4b\u8bd5\u7cfb\u7edf",
             "url": "https://github.com/oritera/Cairn",
-            "stars": 442,
+            "stars": 444,
             "forks": 19,
-            "score": 55
+            "score": 56
         },
         {
             "main_cat": "AI",
@@ -205,7 +205,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "techjarves/Uncensored-Local-AI-Multiplatform",
             "description": "A cross-platform Flutter app that runs uncensored, 100% offline open-source AI models (GGUF) directly on your Android, iOS, or PC. No cloud, no filters, total privacy.",
             "url": "https://github.com/techjarves/Uncensored-Local-AI-Multiplatform",
-            "stars": 288,
+            "stars": 289,
             "forks": 50,
             "score": 54
         },
@@ -216,8 +216,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "unclebob/swarm-forge",
             "description": "A simple tool for coordinating several AI agents.",
             "url": "https://github.com/unclebob/swarm-forge",
-            "stars": 372,
-            "forks": 37,
+            "stars": 374,
+            "forks": 38,
             "score": 53
         },
         {
@@ -227,7 +227,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "yzhao062/agent-style",
             "description": "21 writing rules for AI coding and writing agents. Drop-in for Claude Code, Codex, Copilot, Cursor, and Aider, so their output reads like a tech pro.",
             "url": "https://github.com/yzhao062/agent-style",
-            "stars": 339,
+            "stars": 342,
             "forks": 18,
             "score": 50
         },
@@ -238,7 +238,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "simoncirstoiu/alice",
             "description": "Analyse \u00b7 Learn \u00b7 Ingest \u00b7 Curate \u00b7 Export \u2014 AI-powered YOLO dataset management toolkit",
             "url": "https://github.com/simoncirstoiu/alice",
-            "stars": 281,
+            "stars": 282,
             "forks": 28,
             "score": 49
         },
@@ -249,8 +249,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "YGYOOO/WorldX",
             "description": "One sentence creates an AI-driven world \u2014 generate maps, characters, and watch stories emerge on their own. \u4e00\u53e5\u8bdd\u751f\u6210\u4e00\u4e2aAI\u81ea\u4e3b\u9a71\u52a8\u7684\u4e16\u754c.",
             "url": "https://github.com/YGYOOO/WorldX",
-            "stars": 261,
-            "forks": 40,
+            "stars": 264,
+            "forks": 42,
             "score": 49
         },
         {
@@ -315,7 +315,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "caomaolufei/AIInfraGuide",
             "description": "AI Infra \u5168\u6808\u4ece0\u5165\u95e8\u5b66\u4e60\u8d44\u6599\uff1ahttps://caomaolufei.github.io/AIInfraGuide/",
             "url": "https://github.com/caomaolufei/AIInfraGuide",
-            "stars": 232,
+            "stars": 233,
             "forks": 14,
             "score": 39
         },
@@ -740,20 +740,6 @@ const ALPHA_DATA_V2 = {
     ],
     "news": [
         {
-            "title": "CrossCommitVuln-Bench: A Dataset of Multi-Commit Python Vulnerabilities Invisible to Per-Commit Static Analysis",
-            "source": "ArXiv",
-            "type": "Research Alpha",
-            "color": "text-indigo-600",
-            "url": "http://arxiv.org/abs/2604.21917v1"
-        },
-        {
-            "title": "Transient Turn Injection: Exposing Stateless Multi-Turn Vulnerabilities in Large Language Models",
-            "source": "ArXiv",
-            "type": "Research Alpha",
-            "color": "text-indigo-600",
-            "url": "http://arxiv.org/abs/2604.21860v1"
-        },
-        {
             "title": "Will the price of Solana be between $80 and $90 on May 1? (Probability: 70%)",
             "source": "Polymarket",
             "type": "Expectation",
@@ -761,5 +747,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/market/will-the-price-of-solana-be-between-80-90-on-may-1"
         }
     ],
-    "timestamp": "2026-04-26 11:35"
+    "timestamp": "2026-04-26 12:53"
 };
