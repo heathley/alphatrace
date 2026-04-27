@@ -7,7 +7,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "cosmicstack-labs/mercury-agent",
             "description": "Soul-driven AI agent with permission-hardened tools, token budgets, and multi-channel access. Runs 24/7 from CLI or Telegram.",
             "url": "https://github.com/cosmicstack-labs/mercury-agent",
-            "stars": 1538,
+            "stars": 1539,
             "forks": 164,
             "score": 99
         },
@@ -18,7 +18,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "GammaLabTechnologies/harmonist",
             "description": "Portable AI agent orchestration with mechanical protocol enforcement. 186 agents, zero runtime dependencies.",
             "url": "https://github.com/GammaLabTechnologies/harmonist",
-            "stars": 740,
+            "stars": 741,
             "forks": 294,
             "score": 99
         },
@@ -29,7 +29,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "future-agi/future-agi",
             "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals \u00b7 Simulations \u00b7 Datasets \u00b7 Gateway \u00b7 Guardrails. Self-hostable. Apache 2.0.",
             "url": "https://github.com/future-agi/future-agi",
-            "stars": 631,
+            "stars": 636,
             "forks": 101,
             "score": 99
         },
@@ -40,7 +40,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "muxprotocol/kalshi-trading-bot",
             "description": "kalshi trading bot on prediction market autonomous kalshi trading bot that connects to the kalshi api via kalshi rest and kalshi websocket, runs a five-agent ai ensemble to analyze kalshi prediction markets, sizes positions with fractional kelly criterion against your kalshi balance, and executes kalshi orders in paper or live mode with hard daily ",
             "url": "https://github.com/muxprotocol/kalshi-trading-bot",
-            "stars": 223,
+            "stars": 222,
             "forks": 286,
             "score": 99
         },
@@ -51,9 +51,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "bergside/design-md-chrome",
             "description": "Chrome extension to extract styles from any website and generate DESIGN.md files and design skills for AI based on TypeUI",
             "url": "https://github.com/bergside/design-md-chrome",
-            "stars": 1238,
-            "forks": 169,
-            "score": 89
+            "stars": 1241,
+            "forks": 170,
+            "score": 90
         },
         {
             "main_cat": "AI",
@@ -62,7 +62,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "tashfeenahmed/freellmapi",
             "description": "OpenAI-compatible proxy that aggregates free-tier keys from ~14 AI providers with automatic failover. For personal experimentation only.",
             "url": "https://github.com/tashfeenahmed/freellmapi",
-            "stars": 590,
+            "stars": 591,
             "forks": 109,
             "score": 87
         },
@@ -73,7 +73,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "WeaveMindAI/weft",
             "description": "A programming language for AI systems",
             "url": "https://github.com/WeaveMindAI/weft",
-            "stars": 1081,
+            "stars": 1082,
             "forks": 135,
             "score": 84
         },
@@ -106,9 +106,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "alash3al/stash",
             "description": "Stash \u2014 persistent memory layer for AI agents. Episodes, facts, and working context stored in Postgres. MCP server included. Self-hosted, single binary, no cloud required.",
             "url": "https://github.com/alash3al/stash",
-            "stars": 405,
+            "stars": 410,
             "forks": 18,
-            "score": 77
+            "score": 78
         },
         {
             "main_cat": "AI",
@@ -117,7 +117,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "espressif/esp-claw",
             "description": "ESP-Claw, a \"Chat Coding\" AI agent framework for IoT devices",
             "url": "https://github.com/espressif/esp-claw",
-            "stars": 614,
+            "stars": 615,
             "forks": 126,
             "score": 73
         },
@@ -183,7 +183,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "techjarves/Uncensored-Local-AI-Multiplatform",
             "description": "A cross-platform Flutter app that runs uncensored, 100% offline open-source AI models (GGUF) directly on your Android, iOS, or PC. No cloud, no filters, total privacy.",
             "url": "https://github.com/techjarves/Uncensored-Local-AI-Multiplatform",
-            "stars": 328,
+            "stars": 329,
             "forks": 55,
             "score": 54
         },
@@ -201,11 +201,22 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
+            "name": "WorldX",
+            "full_name": "YGYOOO/WorldX",
+            "description": "One sentence creates an AI-driven world \u2014 generate maps, characters, and watch stories emerge on their own. \u4e00\u53e5\u8bdd\u751f\u6210\u4e00\u4e2aAI\u81ea\u4e3b\u9a71\u52a8\u7684\u4e16\u754c.",
+            "url": "https://github.com/YGYOOO/WorldX",
+            "stars": 295,
+            "forks": 47,
+            "score": 50
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
             "name": "WorldSeed",
             "full_name": "AIScientists-Dev/WorldSeed",
             "description": "More is Different. A multi-agent world engine where AI agents live, talk, compete, ally.",
             "url": "https://github.com/AIScientists-Dev/WorldSeed",
-            "stars": 510,
+            "stars": 511,
             "forks": 21,
             "score": 49
         },
@@ -216,19 +227,19 @@ const ALPHA_DATA_V2 = {
             "full_name": "yzhao062/agent-style",
             "description": "21 writing rules for AI coding and writing agents. Drop-in for Claude Code, Codex, Copilot, Cursor, and Aider, so their output reads like a tech pro.",
             "url": "https://github.com/yzhao062/agent-style",
-            "stars": 360,
+            "stars": 362,
             "forks": 19,
             "score": 49
         },
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "WorldX",
-            "full_name": "YGYOOO/WorldX",
-            "description": "One sentence creates an AI-driven world \u2014 generate maps, characters, and watch stories emerge on their own. \u4e00\u53e5\u8bdd\u751f\u6210\u4e00\u4e2aAI\u81ea\u4e3b\u9a71\u52a8\u7684\u4e16\u754c.",
-            "url": "https://github.com/YGYOOO/WorldX",
-            "stars": 295,
-            "forks": 46,
+            "name": "auto-memory",
+            "full_name": "dezgit2025/auto-memory",
+            "description": "Your AI coding agent never forgets \u2014 progressive session recall CLI",
+            "url": "https://github.com/dezgit2025/auto-memory",
+            "stars": 254,
+            "forks": 22,
             "score": 49
         },
         {
@@ -240,17 +251,6 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/simoncirstoiu/alice",
             "stars": 292,
             "forks": 28,
-            "score": 48
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "auto-memory",
-            "full_name": "dezgit2025/auto-memory",
-            "description": "Your AI coding agent never forgets \u2014 progressive session recall CLI",
-            "url": "https://github.com/dezgit2025/auto-memory",
-            "stars": 253,
-            "forks": 22,
             "score": 48
         },
         {
@@ -283,7 +283,7 @@ const ALPHA_DATA_V2 = {
             "description": "AI openclaw mom and household manager for agentic parenting",
             "url": "https://github.com/ChatPRD/tradclaw",
             "stars": 303,
-            "forks": 30,
+            "forks": 31,
             "score": 43
         },
         {
@@ -304,7 +304,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "guoguo-tju/agent_java_offer",
             "description": "\u516c\u5f00\u7684 Java \u540e\u7aef / AI Agent / \u7cfb\u7edf\u8bbe\u8ba1 / \u7b97\u6cd5\u9762\u8bd5\u590d\u4e60\u8d44\u6599\u5e93",
             "url": "https://github.com/guoguo-tju/agent_java_offer",
-            "stars": 242,
+            "stars": 243,
             "forks": 28,
             "score": 42
         },
@@ -377,6 +377,17 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
+            "name": "isanagent",
+            "full_name": "altaidevorg/isanagent",
+            "description": "Your always-on and autonomous ML engineer that works 24/7 to conduct research, generate datasets, train models, learn and evolve. Works on Colab, local GPU or over SSH. Zero infra needed",
+            "url": "https://github.com/altaidevorg/isanagent",
+            "stars": 6,
+            "forks": 0,
+            "score": 31
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
             "name": "gpu-for-ml",
             "full_name": "mahfuzswe/gpu-for-ml",
             "description": "A practical field guide for ML researchers or engineers from first CUDA setup to fine-tuning large language models on consumer hardware. Covers PyTorch GPU workflows, mixed precision training, DataLoader optimization, multi-GPU scaling, quantization, and LoRA fine-tuning. Every chapter is built around working code and real debugging techniques.",
@@ -394,17 +405,6 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/webxos/microcuda",
             "stars": 7,
             "forks": 1,
-            "score": 30
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "mda",
-            "full_name": "Rangle2/mda",
-            "description": "Online associative memory for LLMs. Learns during inference, no backpropagation, no GPU required.",
-            "url": "https://github.com/Rangle2/mda",
-            "stars": 5,
-            "forks": 0,
             "score": 30
         },
         {
@@ -765,12 +765,12 @@ const ALPHA_DATA_V2 = {
             "url": "http://arxiv.org/abs/2604.22639v1"
         },
         {
-            "title": "Will the price of Solana be between $80 and $90 on May 1? (Probability: 74%)",
+            "title": "Will the price of Solana be between $80 and $90 on May 1? (Probability: 76%)",
             "source": "Polymarket",
             "type": "Expectation",
             "color": "text-indigo-400",
             "url": "https://polymarket.com/market/will-the-price-of-solana-be-between-80-90-on-may-1"
         }
     ],
-    "timestamp": "2026-04-27 20:55"
+    "timestamp": "2026-04-27 21:51"
 };
