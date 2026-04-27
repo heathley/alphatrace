@@ -7,7 +7,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "cosmicstack-labs/mercury-agent",
             "description": "Soul-driven AI agent with permission-hardened tools, token budgets, and multi-channel access. Runs 24/7 from CLI or Telegram.",
             "url": "https://github.com/cosmicstack-labs/mercury-agent",
-            "stars": 1539,
+            "stars": 1541,
             "forks": 164,
             "score": 99
         },
@@ -29,8 +29,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "future-agi/future-agi",
             "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals \u00b7 Simulations \u00b7 Datasets \u00b7 Gateway \u00b7 Guardrails. Self-hostable. Apache 2.0.",
             "url": "https://github.com/future-agi/future-agi",
-            "stars": 636,
-            "forks": 101,
+            "stars": 640,
+            "forks": 102,
             "score": 99
         },
         {
@@ -51,7 +51,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "bergside/design-md-chrome",
             "description": "Chrome extension to extract styles from any website and generate DESIGN.md files and design skills for AI based on TypeUI",
             "url": "https://github.com/bergside/design-md-chrome",
-            "stars": 1241,
+            "stars": 1242,
             "forks": 170,
             "score": 90
         },
@@ -62,7 +62,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "tashfeenahmed/freellmapi",
             "description": "OpenAI-compatible proxy that aggregates free-tier keys from ~14 AI providers with automatic failover. For personal experimentation only.",
             "url": "https://github.com/tashfeenahmed/freellmapi",
-            "stars": 591,
+            "stars": 592,
             "forks": 109,
             "score": 87
         },
@@ -73,7 +73,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "WeaveMindAI/weft",
             "description": "A programming language for AI systems",
             "url": "https://github.com/WeaveMindAI/weft",
-            "stars": 1082,
+            "stars": 1084,
             "forks": 135,
             "score": 84
         },
@@ -102,22 +102,11 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "stash",
-            "full_name": "alash3al/stash",
-            "description": "Stash \u2014 persistent memory layer for AI agents. Episodes, facts, and working context stored in Postgres. MCP server included. Self-hosted, single binary, no cloud required.",
-            "url": "https://github.com/alash3al/stash",
-            "stars": 410,
-            "forks": 18,
-            "score": 78
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
             "name": "esp-claw",
             "full_name": "espressif/esp-claw",
             "description": "ESP-Claw, a \"Chat Coding\" AI agent framework for IoT devices",
             "url": "https://github.com/espressif/esp-claw",
-            "stars": 615,
+            "stars": 616,
             "forks": 126,
             "score": 73
         },
@@ -142,6 +131,17 @@ const ALPHA_DATA_V2 = {
             "stars": 643,
             "forks": 67,
             "score": 71
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "stash",
+            "full_name": "alash3al/stash",
+            "description": "Stash \u2014 persistent memory layer for AI agents. Episodes, facts, and working context stored in Postgres. MCP server included. Self-hosted, single binary, no cloud required.",
+            "url": "https://github.com/alash3al/stash",
+            "stars": 411,
+            "forks": 18,
+            "score": 70
         },
         {
             "main_cat": "AI",
@@ -183,9 +183,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "techjarves/Uncensored-Local-AI-Multiplatform",
             "description": "A cross-platform Flutter app that runs uncensored, 100% offline open-source AI models (GGUF) directly on your Android, iOS, or PC. No cloud, no filters, total privacy.",
             "url": "https://github.com/techjarves/Uncensored-Local-AI-Multiplatform",
-            "stars": 329,
-            "forks": 55,
-            "score": 54
+            "stars": 330,
+            "forks": 56,
+            "score": 55
         },
         {
             "main_cat": "AI",
@@ -238,7 +238,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "dezgit2025/auto-memory",
             "description": "Your AI coding agent never forgets \u2014 progressive session recall CLI",
             "url": "https://github.com/dezgit2025/auto-memory",
-            "stars": 254,
+            "stars": 255,
             "forks": 22,
             "score": 49
         },
@@ -772,5 +772,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/market/will-the-price-of-solana-be-between-80-90-on-may-1"
         }
     ],
-    "timestamp": "2026-04-27 21:51"
+    "timestamp": "2026-04-27 22:44"
 };
