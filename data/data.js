@@ -7,7 +7,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "cosmicstack-labs/mercury-agent",
             "description": "Soul-driven AI agent with permission-hardened tools, token budgets, and multi-channel access. Runs 24/7 from CLI or Telegram.",
             "url": "https://github.com/cosmicstack-labs/mercury-agent",
-            "stars": 1541,
+            "stars": 1543,
             "forks": 164,
             "score": 99
         },
@@ -18,8 +18,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "GammaLabTechnologies/harmonist",
             "description": "Portable AI agent orchestration with mechanical protocol enforcement. 186 agents, zero runtime dependencies.",
             "url": "https://github.com/GammaLabTechnologies/harmonist",
-            "stars": 741,
-            "forks": 294,
+            "stars": 745,
+            "forks": 293,
             "score": 99
         },
         {
@@ -29,8 +29,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "future-agi/future-agi",
             "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals \u00b7 Simulations \u00b7 Datasets \u00b7 Gateway \u00b7 Guardrails. Self-hostable. Apache 2.0.",
             "url": "https://github.com/future-agi/future-agi",
-            "stars": 640,
-            "forks": 102,
+            "stars": 641,
+            "forks": 103,
             "score": 99
         },
         {
@@ -40,7 +40,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "muxprotocol/kalshi-trading-bot",
             "description": "kalshi trading bot on prediction market autonomous kalshi trading bot that connects to the kalshi api via kalshi rest and kalshi websocket, runs a five-agent ai ensemble to analyze kalshi prediction markets, sizes positions with fractional kelly criterion against your kalshi balance, and executes kalshi orders in paper or live mode with hard daily ",
             "url": "https://github.com/muxprotocol/kalshi-trading-bot",
-            "stars": 222,
+            "stars": 224,
             "forks": 286,
             "score": 99
         },
@@ -51,7 +51,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "bergside/design-md-chrome",
             "description": "Chrome extension to extract styles from any website and generate DESIGN.md files and design skills for AI based on TypeUI",
             "url": "https://github.com/bergside/design-md-chrome",
-            "stars": 1242,
+            "stars": 1243,
             "forks": 170,
             "score": 90
         },
@@ -62,7 +62,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "tashfeenahmed/freellmapi",
             "description": "OpenAI-compatible proxy that aggregates free-tier keys from ~14 AI providers with automatic failover. For personal experimentation only.",
             "url": "https://github.com/tashfeenahmed/freellmapi",
-            "stars": 592,
+            "stars": 593,
             "forks": 109,
             "score": 87
         },
@@ -106,7 +106,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "espressif/esp-claw",
             "description": "ESP-Claw, a \"Chat Coding\" AI agent framework for IoT devices",
             "url": "https://github.com/espressif/esp-claw",
-            "stars": 616,
+            "stars": 617,
             "forks": 126,
             "score": 73
         },
@@ -139,7 +139,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "alash3al/stash",
             "description": "Stash \u2014 persistent memory layer for AI agents. Episodes, facts, and working context stored in Postgres. MCP server included. Self-hosted, single binary, no cloud required.",
             "url": "https://github.com/alash3al/stash",
-            "stars": 411,
+            "stars": 417,
             "forks": 18,
             "score": 70
         },
@@ -184,7 +184,7 @@ const ALPHA_DATA_V2 = {
             "description": "A cross-platform Flutter app that runs uncensored, 100% offline open-source AI models (GGUF) directly on your Android, iOS, or PC. No cloud, no filters, total privacy.",
             "url": "https://github.com/techjarves/Uncensored-Local-AI-Multiplatform",
             "stars": 330,
-            "forks": 56,
+            "forks": 57,
             "score": 55
         },
         {
@@ -227,7 +227,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "yzhao062/agent-style",
             "description": "21 writing rules for AI coding and writing agents. Drop-in for Claude Code, Codex, Copilot, Cursor, and Aider, so their output reads like a tech pro.",
             "url": "https://github.com/yzhao062/agent-style",
-            "stars": 362,
+            "stars": 363,
             "forks": 19,
             "score": 49
         },
@@ -238,7 +238,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "dezgit2025/auto-memory",
             "description": "Your AI coding agent never forgets \u2014 progressive session recall CLI",
             "url": "https://github.com/dezgit2025/auto-memory",
-            "stars": 255,
+            "stars": 256,
             "forks": 22,
             "score": 49
         },
@@ -326,7 +326,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "caomaolufei/AIInfraGuide",
             "description": "AI Infra \u5168\u6808\u4ece0\u5165\u95e8\u5b66\u4e60\u8d44\u6599\uff1ahttps://caomaolufei.github.io/AIInfraGuide/",
             "url": "https://github.com/caomaolufei/AIInfraGuide",
-            "stars": 251,
+            "stars": 252,
             "forks": 16,
             "score": 39
         },
@@ -359,7 +359,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "niklasfrick/spark-dashboard",
             "description": "Real-time hardware and LLM inference monitoring \u2014 GPU, CPU, memory, and vLLM metrics streamed to a dashboard.",
             "url": "https://github.com/niklasfrick/spark-dashboard",
-            "stars": 20,
+            "stars": 21,
             "forks": 4,
             "score": 31
         },
@@ -765,12 +765,12 @@ const ALPHA_DATA_V2 = {
             "url": "http://arxiv.org/abs/2604.22639v1"
         },
         {
-            "title": "Will the price of Solana be between $80 and $90 on May 1? (Probability: 76%)",
+            "title": "Will the price of Solana be between $80 and $90 on May 1? (Probability: 78%)",
             "source": "Polymarket",
             "type": "Expectation",
             "color": "text-indigo-400",
             "url": "https://polymarket.com/market/will-the-price-of-solana-be-between-80-90-on-may-1"
         }
     ],
-    "timestamp": "2026-04-27 22:44"
+    "timestamp": "2026-04-27 23:46"
 };
