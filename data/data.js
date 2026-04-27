@@ -7,7 +7,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "cosmicstack-labs/mercury-agent",
             "description": "Soul-driven AI agent with permission-hardened tools, token budgets, and multi-channel access. Runs 24/7 from CLI or Telegram.",
             "url": "https://github.com/cosmicstack-labs/mercury-agent",
-            "stars": 1501,
+            "stars": 1504,
             "forks": 161,
             "score": 99
         },
@@ -18,7 +18,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "GammaLabTechnologies/harmonist",
             "description": "Portable AI agent orchestration with mechanical protocol enforcement. 186 agents, zero runtime dependencies.",
             "url": "https://github.com/GammaLabTechnologies/harmonist",
-            "stars": 709,
+            "stars": 711,
             "forks": 295,
             "score": 99
         },
@@ -29,8 +29,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "future-agi/future-agi",
             "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals \u00b7 Simulations \u00b7 Datasets \u00b7 Gateway \u00b7 Guardrails. Self-hostable. Apache 2.0.",
             "url": "https://github.com/future-agi/future-agi",
-            "stars": 582,
-            "forks": 90,
+            "stars": 584,
+            "forks": 92,
             "score": 99
         },
         {
@@ -40,8 +40,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "muxprotocol/kalshi-trading-bot",
             "description": "kalshi trading bot on prediction market autonomous kalshi trading bot that connects to the kalshi api via kalshi rest and kalshi websocket, runs a five-agent ai ensemble to analyze kalshi prediction markets, sizes positions with fractional kelly criterion against your kalshi balance, and executes kalshi orders in paper or live mode with hard daily ",
             "url": "https://github.com/muxprotocol/kalshi-trading-bot",
-            "stars": 223,
-            "forks": 252,
+            "stars": 224,
+            "forks": 257,
             "score": 99
         },
         {
@@ -62,7 +62,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "tashfeenahmed/freellmapi",
             "description": "OpenAI-compatible proxy that aggregates free-tier keys from ~14 AI providers with automatic failover. For personal experimentation only.",
             "url": "https://github.com/tashfeenahmed/freellmapi",
-            "stars": 554,
+            "stars": 557,
             "forks": 106,
             "score": 91
         },
@@ -73,7 +73,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "worldwonderer/oh-story-claudecode",
             "description": "\u7f51\u6587\u5199\u4f5c skill \u5305\uff0c\u8986\u76d6\u957f\u7bc7\u4e0e\u77ed\u7bc7\u7f51\u7edc\u5c0f\u8bf4\u7684\u626b\u699c\u3001\u62c6\u6587\u3001\u5199\u4f5c\u3001\u53bbAI\u5473\u5168\u6d41\u7a0b",
             "url": "https://github.com/worldwonderer/oh-story-claudecode",
-            "stars": 337,
+            "stars": 341,
             "forks": 120,
             "score": 88
         },
@@ -84,7 +84,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "WeaveMindAI/weft",
             "description": "A programming language for AI systems",
             "url": "https://github.com/WeaveMindAI/weft",
-            "stars": 1061,
+            "stars": 1064,
             "forks": 134,
             "score": 83
         },
@@ -95,19 +95,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "BuilderPulse/BuilderPulse",
             "description": "AI-powered daily intelligence for indie hackers and builders. 20 questions, 10+ sources, every morning.",
             "url": "https://github.com/BuilderPulse/BuilderPulse",
-            "stars": 1190,
+            "stars": 1192,
             "forks": 88,
-            "score": 81
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "superlevels",
-            "full_name": "levelsio/superlevels",
-            "description": "A super Chrome extension I made that's safer than installing external malware/spyware-filled extensions that form a massive security risk, this one is open source and you can read and check the source code (with AI) before you install it, and customize it to your liking!",
-            "url": "https://github.com/levelsio/superlevels",
-            "stars": 414,
-            "forks": 43,
             "score": 78
         },
         {
@@ -124,24 +113,24 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "esp-claw",
-            "full_name": "espressif/esp-claw",
-            "description": "ESP-Claw, a \"Chat Coding\" AI agent framework for IoT devices",
-            "url": "https://github.com/espressif/esp-claw",
-            "stars": 574,
-            "forks": 116,
-            "score": 69
+            "name": "superlevels",
+            "full_name": "levelsio/superlevels",
+            "description": "A super Chrome extension I made that's safer than installing external malware/spyware-filled extensions that form a massive security risk, this one is open source and you can read and check the source code (with AI) before you install it, and customize it to your liking!",
+            "url": "https://github.com/levelsio/superlevels",
+            "stars": 415,
+            "forks": 43,
+            "score": 71
         },
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "USB-Uncensored-LLM",
-            "full_name": "techjarves/USB-Uncensored-LLM",
-            "description": "The ultimate zero-install, portable local AI environment. Run high-quality, uncensored LLMs (Gemma, Qwen, NemoMix) directly from any USB drive or SSD. Fully air-gapped, cross-platform (Win/Mac/Linux), and privacy-first with persistent chat history.",
-            "url": "https://github.com/techjarves/USB-Uncensored-LLM",
-            "stars": 594,
-            "forks": 139,
-            "score": 65
+            "name": "esp-claw",
+            "full_name": "espressif/esp-claw",
+            "description": "ESP-Claw, a \"Chat Coding\" AI agent framework for IoT devices",
+            "url": "https://github.com/espressif/esp-claw",
+            "stars": 580,
+            "forks": 119,
+            "score": 70
         },
         {
             "main_cat": "AI",
@@ -150,9 +139,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "alash3al/stash",
             "description": "Stash \u2014 persistent memory layer for AI agents. Episodes, facts, and working context stored in Postgres. MCP server included. Self-hosted, single binary, no cloud required.",
             "url": "https://github.com/alash3al/stash",
-            "stars": 299,
+            "stars": 319,
             "forks": 15,
-            "score": 65
+            "score": 67
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "USB-Uncensored-LLM",
+            "full_name": "techjarves/USB-Uncensored-LLM",
+            "description": "The ultimate zero-install, portable local AI environment. Run high-quality, uncensored LLMs (Gemma, Qwen, NemoMix) directly from any USB drive or SSD. Fully air-gapped, cross-platform (Win/Mac/Linux), and privacy-first with persistent chat history.",
+            "url": "https://github.com/techjarves/USB-Uncensored-LLM",
+            "stars": 595,
+            "forks": 140,
+            "score": 66
         },
         {
             "main_cat": "AI",
@@ -161,7 +161,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "xiaochong/hi-kid",
             "description": "HiKid - Your AI English Pal. A desktop app built with React and TypeScript, targeting children in non-English-speaking countries who want to practice English speaking and listening.",
             "url": "https://github.com/xiaochong/hi-kid",
-            "stars": 386,
+            "stars": 387,
             "forks": 56,
             "score": 60
         },
@@ -172,7 +172,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "oritera/Cairn",
             "description": "AI \u81ea\u52a8\u5316\u901a\u7528\u95ee\u9898\u89e3\u51b3 / AI \u81ea\u52a8\u5316\u6e17\u900f\u6d4b\u8bd5\u7cfb\u7edf",
             "url": "https://github.com/oritera/Cairn",
-            "stars": 500,
+            "stars": 501,
             "forks": 23,
             "score": 56
         },
@@ -183,7 +183,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "techjarves/Uncensored-Local-AI-Multiplatform",
             "description": "A cross-platform Flutter app that runs uncensored, 100% offline open-source AI models (GGUF) directly on your Android, iOS, or PC. No cloud, no filters, total privacy.",
             "url": "https://github.com/techjarves/Uncensored-Local-AI-Multiplatform",
-            "stars": 316,
+            "stars": 319,
             "forks": 54,
             "score": 54
         },
@@ -194,9 +194,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "unclebob/swarm-forge",
             "description": "A simple tool for coordinating several AI agents.",
             "url": "https://github.com/unclebob/swarm-forge",
-            "stars": 395,
+            "stars": 396,
             "forks": 42,
             "score": 53
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "WorldSeed",
+            "full_name": "AIScientists-Dev/WorldSeed",
+            "description": "More is Different. A multi-agent world engine where AI agents live, talk, compete, ally.",
+            "url": "https://github.com/AIScientists-Dev/WorldSeed",
+            "stars": 506,
+            "forks": 21,
+            "score": 49
         },
         {
             "main_cat": "AI",
@@ -205,7 +216,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "yzhao062/agent-style",
             "description": "21 writing rules for AI coding and writing agents. Drop-in for Claude Code, Codex, Copilot, Cursor, and Aider, so their output reads like a tech pro.",
             "url": "https://github.com/yzhao062/agent-style",
-            "stars": 356,
+            "stars": 357,
             "forks": 18,
             "score": 49
         },
@@ -234,22 +245,11 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "WorldSeed",
-            "full_name": "AIScientists-Dev/WorldSeed",
-            "description": "More is Different. A multi-agent world engine where AI agents live, talk, compete, ally.",
-            "url": "https://github.com/AIScientists-Dev/WorldSeed",
-            "stars": 455,
-            "forks": 19,
-            "score": 47
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
             "name": "auto-memory",
             "full_name": "dezgit2025/auto-memory",
             "description": "Your AI coding agent never forgets \u2014 progressive session recall CLI",
             "url": "https://github.com/dezgit2025/auto-memory",
-            "stars": 240,
+            "stars": 243,
             "forks": 19,
             "score": 47
         },
@@ -304,7 +304,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "guoguo-tju/agent_java_offer",
             "description": "\u516c\u5f00\u7684 Java \u540e\u7aef / AI Agent / \u7cfb\u7edf\u8bbe\u8ba1 / \u7b97\u6cd5\u9762\u8bd5\u590d\u4e60\u8d44\u6599\u5e93",
             "url": "https://github.com/guoguo-tju/agent_java_offer",
-            "stars": 234,
+            "stars": 235,
             "forks": 28,
             "score": 42
         },
@@ -326,7 +326,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "caomaolufei/AIInfraGuide",
             "description": "AI Infra \u5168\u6808\u4ece0\u5165\u95e8\u5b66\u4e60\u8d44\u6599\uff1ahttps://caomaolufei.github.io/AIInfraGuide/",
             "url": "https://github.com/caomaolufei/AIInfraGuide",
-            "stars": 247,
+            "stars": 248,
             "forks": 16,
             "score": 39
         },
@@ -370,7 +370,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "PMZFX/intel-arc-pro-b70-benchmarks",
             "description": "Benchmark results and performance data for the Intel Arc Pro B70 GPU (Xe2/Battlemage) - LLM inference, video generation, dual-GPU scaling.",
             "url": "https://github.com/PMZFX/intel-arc-pro-b70-benchmarks",
-            "stars": 16,
+            "stars": 17,
             "forks": 1,
             "score": 31
         },
@@ -476,10 +476,10 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
-            "name": "XLM-Arena",
-            "full_name": "Souvik7661/XLM-Arena",
-            "description": "PlayChain is a decentralized esports prediction market built on the Stellar network using Soroban smart contracts. It enables trustless, transparent, and low-cost wagering in XLM with seamless wallet integration, on-chain logic, and automated payouts\u2014delivering a scalable Web3 betting experience.",
-            "url": "https://github.com/Souvik7661/XLM-Arena",
+            "name": "tei1",
+            "full_name": "OutstandingVick/tei1",
+            "description": "Tei is a live football prediction market built on Solana, where users trade match outcomes peer-to-peer with AMM pricing instead of betting against a house. Markets settle on-chain in seconds, fees stay low enough for micro-stakes, and the platform only takes a small fee on winnings.",
+            "url": "https://github.com/OutstandingVick/tei1",
             "stars": 0,
             "forks": 0,
             "score": 30
@@ -674,6 +674,17 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
+            "name": "Private-Cross-Chain-RFQ-Desk",
+            "full_name": "THE-VARNA/Private-Cross-Chain-RFQ-Desk",
+            "description": "Private RFQ Desk is a sealed-bid, cross-chain Request-for-Quote protocol built on Solana, using:  Encrypt FHE (Fully Homomorphic Encryption) to match orders on encrypted ciphertexts \u2014 neither the network, the validators, nor the counterparty ever sees price or size until after settlement is decided. Ika 2PC-MPC to authorize the release of native cr",
+            "url": "https://github.com/THE-VARNA/Private-Cross-Chain-RFQ-Desk",
+            "stars": 0,
+            "forks": 0,
+            "score": 30
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
             "name": "gravity-rxd-prototype",
             "full_name": "Zyrtnin-org/gravity-rxd-prototype",
             "description": "First working implementation of the Gravity cross-chain exchange protocol on Radiant. Real BTC\u2192RXD trade validated on mainnet; no new opcodes required.",
@@ -754,12 +765,12 @@ const ALPHA_DATA_V2 = {
             "url": "http://arxiv.org/abs/2604.22639v1"
         },
         {
-            "title": "Will the price of Solana be between $80 and $90 on May 1? (Probability: 71%)",
+            "title": "Will the price of Solana be between $80 and $90 on May 1? (Probability: 76%)",
             "source": "Polymarket",
             "type": "Expectation",
             "color": "text-indigo-400",
             "url": "https://polymarket.com/market/will-the-price-of-solana-be-between-80-90-on-may-1"
         }
     ],
-    "timestamp": "2026-04-27 10:57"
+    "timestamp": "2026-04-27 12:20"
 };
