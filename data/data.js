@@ -7,7 +7,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "cosmicstack-labs/mercury-agent",
             "description": "Soul-driven AI agent with permission-hardened tools, token budgets, and multi-channel access. Runs 24/7 from CLI or Telegram.",
             "url": "https://github.com/cosmicstack-labs/mercury-agent",
-            "stars": 1578,
+            "stars": 1603,
             "forks": 170,
             "score": 99
         },
@@ -18,8 +18,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "GammaLabTechnologies/harmonist",
             "description": "Portable AI agent orchestration with mechanical protocol enforcement. 186 agents, zero runtime dependencies.",
             "url": "https://github.com/GammaLabTechnologies/harmonist",
-            "stars": 777,
-            "forks": 296,
+            "stars": 805,
+            "forks": 303,
             "score": 99
         },
         {
@@ -29,30 +29,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "future-agi/future-agi",
             "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals \u00b7 Simulations \u00b7 Datasets \u00b7 Gateway \u00b7 Guardrails. Self-hostable. Apache 2.0.",
             "url": "https://github.com/future-agi/future-agi",
-            "stars": 685,
-            "forks": 114,
-            "score": 99
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "pumpfun-ai-trading-bot",
-            "full_name": "Udacity-ai/pumpfun-ai-trading-bot",
-            "description": "OpenAI-powered Pump.fun comment automation on Solana. Thread engagement, proxy support, wallet modes, and local data.json comment bank. ISC. ai trading bot, pumpfun trading bot, trading bot, pumfun ai trading bot,ai trading bot, pumpfun trading bot, trading bot, pumfun ai trading bot,ai trading bot, pumpfun trading bot, trading bot, pumfun trading",
-            "url": "https://github.com/Udacity-ai/pumpfun-ai-trading-bot",
-            "stars": 248,
-            "forks": 87,
-            "score": 99
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "kalshi-trading-bot",
-            "full_name": "muxprotocol/kalshi-trading-bot",
-            "description": "kalshi trading bot on prediction market autonomous kalshi trading bot that connects to the kalshi api via kalshi rest and kalshi websocket, runs a five-agent ai ensemble to analyze kalshi prediction markets, sizes positions with fractional kelly criterion against your kalshi balance, and executes kalshi orders in paper or live mode with hard daily ",
-            "url": "https://github.com/muxprotocol/kalshi-trading-bot",
-            "stars": 229,
-            "forks": 286,
+            "stars": 696,
+            "forks": 115,
             "score": 99
         },
         {
@@ -62,9 +40,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "tashfeenahmed/freellmapi",
             "description": "OpenAI-compatible proxy that aggregates free-tier keys from ~14 AI providers with automatic failover. For personal experimentation only.",
             "url": "https://github.com/tashfeenahmed/freellmapi",
-            "stars": 630,
-            "forks": 118,
-            "score": 91
+            "stars": 669,
+            "forks": 126,
+            "score": 88
         },
         {
             "main_cat": "AI",
@@ -73,9 +51,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "worldwonderer/oh-story-claudecode",
             "description": "\u7f51\u6587\u5199\u4f5c skill \u5305\uff0c\u8986\u76d6\u957f\u7bc7\u4e0e\u77ed\u7bc7\u7f51\u7edc\u5c0f\u8bf4\u7684\u626b\u699c\u3001\u62c6\u6587\u3001\u5199\u4f5c\u3001\u53bbAI\u5473\u5168\u6d41\u7a0b",
             "url": "https://github.com/worldwonderer/oh-story-claudecode",
-            "stars": 417,
+            "stars": 426,
             "forks": 135,
-            "score": 89
+            "score": 83
         },
         {
             "main_cat": "AI",
@@ -84,7 +62,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "WeaveMindAI/weft",
             "description": "A programming language for AI systems",
             "url": "https://github.com/WeaveMindAI/weft",
-            "stars": 1095,
+            "stars": 1101,
             "forks": 136,
             "score": 81
         },
@@ -95,9 +73,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "alash3al/stash",
             "description": "Stash \u2014 persistent memory layer for AI agents. Episodes, facts, and working context stored in Postgres. MCP server included. Self-hosted, single binary, no cloud required.",
             "url": "https://github.com/alash3al/stash",
-            "stars": 464,
-            "forks": 19,
-            "score": 75
+            "stars": 491,
+            "forks": 20,
+            "score": 77
         },
         {
             "main_cat": "AI",
@@ -106,9 +84,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "espressif/esp-claw",
             "description": "ESP-Claw, a \"Chat Coding\" AI agent framework for IoT devices",
             "url": "https://github.com/espressif/esp-claw",
-            "stars": 667,
-            "forks": 137,
-            "score": 73
+            "stars": 680,
+            "forks": 139,
+            "score": 74
         },
         {
             "main_cat": "AI",
@@ -117,7 +95,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "ZeroZ-lab/cc-design",
             "description": "High-fidelity HTML design and prototype guidance skill for AI agents",
             "url": "https://github.com/ZeroZ-lab/cc-design",
-            "stars": 644,
+            "stars": 645,
             "forks": 68,
             "score": 68
         },
@@ -128,7 +106,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "levelsio/superlevels",
             "description": "A super Chrome extension I made that's safer than installing external malware/spyware-filled extensions that form a massive security risk, this one is open source and you can read and check the source code (with AI) before you install it, and customize it to your liking!",
             "url": "https://github.com/levelsio/superlevels",
-            "stars": 423,
+            "stars": 427,
             "forks": 44,
             "score": 67
         },
@@ -139,20 +117,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "xiaochong/hi-kid",
             "description": "HiKid - Your AI English Pal. A desktop app built with React and TypeScript, targeting children in non-English-speaking countries who want to practice English speaking and listening.",
             "url": "https://github.com/xiaochong/hi-kid",
-            "stars": 438,
-            "forks": 61,
-            "score": 61
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "polymarket-ai-trading",
-            "full_name": "HKUDS-AI/polymarket-ai-trading",
-            "description": "AI-assisted paper trading for Polymarket: OpenAI market insight, vector search, Kelly sizing, SQLite, polymarket ai trading bot, ai trading bot, trading bot,polymarket ai trading bot, ai trading bot, trading bot,polymarket ai trading bot, ai trading bot, trading bot,polymarket ai trading bot, ai trading bot, trading bot,polymarket ai trading bot, ",
-            "url": "https://github.com/HKUDS-AI/polymarket-ai-trading",
-            "stars": 246,
-            "forks": 0,
-            "score": 60
+            "stars": 458,
+            "forks": 64,
+            "score": 59
         },
         {
             "main_cat": "AI",
@@ -161,7 +128,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "oritera/Cairn",
             "description": "AI \u81ea\u52a8\u5316\u901a\u7528\u95ee\u9898\u89e3\u51b3 / AI \u81ea\u52a8\u5316\u6e17\u900f\u6d4b\u8bd5\u7cfb\u7edf",
             "url": "https://github.com/oritera/Cairn",
-            "stars": 536,
+            "stars": 542,
             "forks": 25,
             "score": 56
         },
@@ -172,31 +139,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "techjarves/Uncensored-Local-AI-Multiplatform",
             "description": "A cross-platform Flutter app that runs uncensored, 100% offline open-source AI models (GGUF) directly on your Android, iOS, or PC. No cloud, no filters, total privacy.",
             "url": "https://github.com/techjarves/Uncensored-Local-AI-Multiplatform",
-            "stars": 339,
-            "forks": 58,
-            "score": 53
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "AITD",
-            "full_name": "Yaolinwang/AITD",
-            "description": "AI Trading Agent for Everyone",
-            "url": "https://github.com/Yaolinwang/AITD",
-            "stars": 199,
-            "forks": 54,
-            "score": 53
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "swarm-forge",
-            "full_name": "unclebob/swarm-forge",
-            "description": "A simple tool for coordinating several AI agents.",
-            "url": "https://github.com/unclebob/swarm-forge",
-            "stars": 406,
-            "forks": 42,
-            "score": 52
+            "stars": 345,
+            "forks": 59,
+            "score": 54
         },
         {
             "main_cat": "AI",
@@ -205,8 +150,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "YGYOOO/WorldX",
             "description": "One sentence creates an AI-driven world \u2014 generate maps, characters, and watch stories emerge on their own. \u4e00\u53e5\u8bdd\u751f\u6210\u4e00\u4e2aAI\u81ea\u4e3b\u9a71\u52a8\u7684\u4e16\u754c.",
             "url": "https://github.com/YGYOOO/WorldX",
-            "stars": 338,
-            "forks": 54,
+            "stars": 353,
+            "forks": 53,
             "score": 51
         },
         {
@@ -216,9 +161,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "minhnv0807/fullstack-mkt-skills",
             "description": "20 production-ready AI marketing skills for Claude Code, ChatGPT, Gemini & Copilot. Generate content calendars, TikTok/Meta ad copy, UGC briefs, KPI calculators, A/B tests, pricing strategies & landing pages instantly. Vietnam-market benchmarks 2025-2026. Install as Claude Code plugin or use as standalone prompts for any AI agent.",
             "url": "https://github.com/minhnv0807/fullstack-mkt-skills",
-            "stars": 188,
+            "stars": 192,
             "forks": 124,
             "score": 51
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "swarm-forge",
+            "full_name": "unclebob/swarm-forge",
+            "description": "A simple tool for coordinating several AI agents.",
+            "url": "https://github.com/unclebob/swarm-forge",
+            "stars": 411,
+            "forks": 43,
+            "score": 50
         },
         {
             "main_cat": "AI",
@@ -227,9 +183,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "HKUSTDial/Supervisor-Skills",
             "description": "\u5c06\u535a\u5bfc\u5341\u5e74\u79d1\u7814\u7ecf\u9a8c\u70bc\u5316\u4e3a\u53ef\u76f4\u63a5\u8c03\u7528\u7684 AI \u6280\u80fd\u3002\u4ece Idea \u6784\u601d\u5230\u8bba\u6587\u6295\u7a3f\uff0c\u4f60\u7684 AI \u79d1\u7814\u526f\u5bfc\u5e08\u3002",
             "url": "https://github.com/HKUSTDial/Supervisor-Skills",
-            "stars": 383,
-            "forks": 24,
-            "score": 49
+            "stars": 401,
+            "forks": 25,
+            "score": 50
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "AITD",
+            "full_name": "Yaolinwang/AITD",
+            "description": "AI Trading Agent for Everyone",
+            "url": "https://github.com/Yaolinwang/AITD",
+            "stars": 198,
+            "forks": 54,
+            "score": 50
         },
         {
             "main_cat": "AI",
@@ -238,7 +205,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "AIScientists-Dev/WorldSeed",
             "description": "More is Different. A multi-agent world engine where AI agents live, talk, compete, ally.",
             "url": "https://github.com/AIScientists-Dev/WorldSeed",
-            "stars": 512,
+            "stars": 515,
             "forks": 21,
             "score": 48
         },
@@ -249,20 +216,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "yzhao062/agent-style",
             "description": "21 writing rules for AI coding and writing agents. Drop-in for Claude Code, Codex, Copilot, Cursor, and Aider, so their output reads like a tech pro.",
             "url": "https://github.com/yzhao062/agent-style",
-            "stars": 369,
+            "stars": 370,
             "forks": 19,
             "score": 48
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "auto-memory",
-            "full_name": "dezgit2025/auto-memory",
-            "description": "Your AI coding agent never forgets \u2014 progressive session recall CLI",
-            "url": "https://github.com/dezgit2025/auto-memory",
-            "stars": 261,
-            "forks": 22,
-            "score": 47
         },
         {
             "main_cat": "AI",
@@ -271,9 +227,31 @@ const ALPHA_DATA_V2 = {
             "full_name": "simoncirstoiu/alice",
             "description": "Analyse \u00b7 Learn \u00b7 Ingest \u00b7 Curate \u00b7 Export \u2014 AI-powered YOLO dataset management toolkit",
             "url": "https://github.com/simoncirstoiu/alice",
-            "stars": 294,
-            "forks": 28,
-            "score": 46
+            "stars": 295,
+            "forks": 29,
+            "score": 47
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "auto-memory",
+            "full_name": "dezgit2025/auto-memory",
+            "description": "Your AI coding agent never forgets \u2014 progressive session recall CLI",
+            "url": "https://github.com/dezgit2025/auto-memory",
+            "stars": 266,
+            "forks": 23,
+            "score": 47
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "free-ai",
+            "full_name": "vibheksoni/free-ai",
+            "description": "Free OpenAI-compatible AI API for builders. Join Discord, run /signup, get a key, and use free models.",
+            "url": "https://github.com/vibheksoni/free-ai",
+            "stars": 179,
+            "forks": 35,
+            "score": 47
         },
         {
             "main_cat": "AI",
@@ -282,9 +260,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "dsd2077/CyberVerse",
             "description": "CyberVerse is an open-source digital human agent platform with real-time video calling. Create an AI agent you can see and talk to, face to face, just like a video call.",
             "url": "https://github.com/dsd2077/CyberVerse",
-            "stars": 228,
+            "stars": 232,
             "forks": 34,
-            "score": 45
+            "score": 44
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "agent-startup-kit",
+            "full_name": "Blink-h/agent-startup-kit",
+            "description": "Reusable AI coding workflows for Claude Code and VS Code to ship auth, billing, and landing pages faster.",
+            "url": "https://github.com/Blink-h/agent-startup-kit",
+            "stars": 362,
+            "forks": 2,
+            "score": 43
         },
         {
             "main_cat": "AI",
@@ -295,17 +284,6 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/koffuxu/ai-influence-digest",
             "stars": 302,
             "forks": 33,
-            "score": 44
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "agent-startup-kit",
-            "full_name": "Blink-h/agent-startup-kit",
-            "description": "Reusable AI coding workflows for Claude Code and VS Code to ship auth, billing, and landing pages faster.",
-            "url": "https://github.com/Blink-h/agent-startup-kit",
-            "stars": 359,
-            "forks": 2,
             "score": 43
         },
         {
@@ -315,9 +293,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "guoguo-tju/agent_java_offer",
             "description": "\u516c\u5f00\u7684 Java \u540e\u7aef / AI Agent / \u7cfb\u7edf\u8bbe\u8ba1 / \u7b97\u6cd5\u9762\u8bd5\u590d\u4e60\u8d44\u6599\u5e93",
             "url": "https://github.com/guoguo-tju/agent_java_offer",
-            "stars": 253,
+            "stars": 257,
             "forks": 33,
             "score": 42
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "embed-ai-tool",
+            "full_name": "LeoKemp223/embed-ai-tool",
+            "description": "\u9762\u5411 AI \u7f16\u7a0b\u52a9\u624b\u7684\u5d4c\u5165\u5f0f\u5f00\u53d1\u6280\u80fd\u96c6\uff0c\u4e3a\u5927\u6a21\u578b\u63d0\u4f9b MCU \u56fa\u4ef6\u5f00\u53d1\u5168\u6d41\u7a0b\u80fd\u529b\u3002\u6db5\u76d6\u591a\u5de5\u5177\u94fe\u6784\u5efa\uff08Keil / IAR / CMake / PlatformIO\uff09\u3001\u70e7\u5f55\u3001GDB \u8c03\u8bd5\u3001\u4e32\u53e3\u76d1\u89c6\u3001Modbus / CAN / VISA \u534f\u8bae\u8c03\u8bd5\u3001\u5916\u8bbe\u9a71\u52a8\u9002\u914d\u53ca\u6d41\u6c34\u7ebf\u7f16\u6392\uff0c\u652f\u6301 Linux\u3001macOS\u3001Windows \u4e09\u5e73\u53f0\u3002",
+            "url": "https://github.com/LeoKemp223/embed-ai-tool",
+            "stars": 186,
+            "forks": 31,
+            "score": 41
         },
         {
             "main_cat": "AI",
@@ -326,9 +315,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "Hainrixz/open-carrusel",
             "description": "AI-powered Instagram carousel builder. Chat with Claude to design slides; export as PNGs at exact Instagram dimensions. Type /start in Claude Code to bootstrap.",
             "url": "https://github.com/Hainrixz/open-carrusel",
-            "stars": 191,
-            "forks": 24,
-            "score": 38
+            "stars": 193,
+            "forks": 25,
+            "score": 39
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "ai-application-roadmap",
+            "full_name": "Qiuner/ai-application-roadmap",
+            "description": "A bilingual map of AI engineering evolution, real-world AI usage patterns, and vibe coding best practices.",
+            "url": "https://github.com/Qiuner/ai-application-roadmap",
+            "stars": 169,
+            "forks": 1,
+            "score": 37
         },
         {
             "main_cat": "AI",
@@ -348,7 +348,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "niklasfrick/spark-dashboard",
             "description": "Real-time hardware and LLM inference monitoring \u2014 GPU, CPU, memory, and vLLM metrics streamed to a dashboard.",
             "url": "https://github.com/niklasfrick/spark-dashboard",
-            "stars": 21,
+            "stars": 23,
             "forks": 4,
             "score": 31
         },
@@ -359,7 +359,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "PMZFX/intel-arc-pro-b70-benchmarks",
             "description": "Benchmark results and performance data for the Intel Arc Pro B70 GPU (Xe2/Battlemage) - LLM inference, video generation, dual-GPU scaling.",
             "url": "https://github.com/PMZFX/intel-arc-pro-b70-benchmarks",
-            "stars": 19,
+            "stars": 22,
             "forks": 1,
             "score": 31
         },
@@ -403,7 +403,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Rangle2/mda",
             "description": "Online associative memory for LLMs. Learns during inference, no backpropagation, no GPU required.",
             "url": "https://github.com/Rangle2/mda",
-            "stars": 6,
+            "stars": 7,
             "forks": 0,
             "score": 30
         },
@@ -619,6 +619,17 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
+            "name": "AetherForge",
+            "full_name": "xiong-fan/AetherForge",
+            "description": "AetherForge \u2014 An integrated DeFi platform offering staking, liquidity farming, token swaps, and native cross-chain transfers powered by Chainlink CCIP.  One protocol. Multiple chains. Unified yield opportunities.",
+            "url": "https://github.com/xiong-fan/AetherForge",
+            "stars": 0,
+            "forks": 0,
+            "score": 30
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
             "name": "gravity-rxd-prototype",
             "full_name": "Zyrtnin-org/gravity-rxd-prototype",
             "description": "First working implementation of the Gravity cross-chain exchange protocol on Radiant. Real BTC\u2192RXD trade validated on mainnet; no new opcodes required.",
@@ -688,12 +699,12 @@ const ALPHA_DATA_V2 = {
             "url": "http://arxiv.org/abs/2604.24670v1"
         },
         {
-            "title": "Will the price of Solana be between $80 and $90 on May 1? (Probability: 71%)",
+            "title": "Will the price of Solana be between $80 and $90 on May 1? (Probability: 80%)",
             "source": "Polymarket",
             "type": "Expectation",
             "color": "text-indigo-400",
             "url": "https://polymarket.com/market/will-the-price-of-solana-be-between-80-90-on-may-1"
         }
     ],
-    "timestamp": "2026-04-28 12:24"
+    "timestamp": "2026-04-28 17:42"
 };
