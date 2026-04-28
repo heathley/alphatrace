@@ -7,7 +7,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "cosmicstack-labs/mercury-agent",
             "description": "Soul-driven AI agent with permission-hardened tools, token budgets, and multi-channel access. Runs 24/7 from CLI or Telegram.",
             "url": "https://github.com/cosmicstack-labs/mercury-agent",
-            "stars": 1629,
+            "stars": 1634,
             "forks": 172,
             "score": 99
         },
@@ -18,7 +18,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "GammaLabTechnologies/harmonist",
             "description": "Portable AI agent orchestration with mechanical protocol enforcement. 186 agents, zero runtime dependencies.",
             "url": "https://github.com/GammaLabTechnologies/harmonist",
-            "stars": 828,
+            "stars": 833,
             "forks": 306,
             "score": 99
         },
@@ -29,8 +29,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "future-agi/future-agi",
             "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals \u00b7 Simulations \u00b7 Datasets \u00b7 Gateway \u00b7 Guardrails. Self-hostable. Apache 2.0.",
             "url": "https://github.com/future-agi/future-agi",
-            "stars": 701,
-            "forks": 115,
+            "stars": 702,
+            "forks": 117,
             "score": 99
         },
         {
@@ -40,7 +40,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "tashfeenahmed/freellmapi",
             "description": "OpenAI-compatible proxy that aggregates free-tier keys from ~14 AI providers with automatic failover. For personal experimentation only.",
             "url": "https://github.com/tashfeenahmed/freellmapi",
-            "stars": 692,
+            "stars": 696,
             "forks": 130,
             "score": 90
         },
@@ -62,7 +62,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "WeaveMindAI/weft",
             "description": "A programming language for AI systems",
             "url": "https://github.com/WeaveMindAI/weft",
-            "stars": 1107,
+            "stars": 1108,
             "forks": 136,
             "score": 81
         },
@@ -73,8 +73,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "espressif/esp-claw",
             "description": "ESP-Claw, a \"Chat Coding\" AI agent framework for IoT devices",
             "url": "https://github.com/espressif/esp-claw",
-            "stars": 685,
-            "forks": 142,
+            "stars": 686,
+            "forks": 143,
             "score": 74
         },
         {
@@ -84,7 +84,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "alash3al/stash",
             "description": "Stash \u2014 persistent memory layer for AI agents. Episodes, facts, and working context stored in Postgres. MCP server included. Self-hosted, single binary, no cloud required.",
             "url": "https://github.com/alash3al/stash",
-            "stars": 505,
+            "stars": 510,
             "forks": 21,
             "score": 72
         },
@@ -117,8 +117,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "xiaochong/hi-kid",
             "description": "HiKid - Your AI English Pal. A desktop app built with React and TypeScript, targeting children in non-English-speaking countries who want to practice English speaking and listening.",
             "url": "https://github.com/xiaochong/hi-kid",
-            "stars": 462,
-            "forks": 65,
+            "stars": 464,
+            "forks": 66,
             "score": 60
         },
         {
@@ -128,7 +128,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "oritera/Cairn",
             "description": "AI \u81ea\u52a8\u5316\u901a\u7528\u95ee\u9898\u89e3\u51b3 / AI \u81ea\u52a8\u5316\u6e17\u900f\u6d4b\u8bd5\u7cfb\u7edf",
             "url": "https://github.com/oritera/Cairn",
-            "stars": 543,
+            "stars": 544,
             "forks": 25,
             "score": 56
         },
@@ -142,6 +142,17 @@ const ALPHA_DATA_V2 = {
             "stars": 350,
             "forks": 60,
             "score": 54
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "swarm-forge",
+            "full_name": "unclebob/swarm-forge",
+            "description": "A simple tool for coordinating several AI agents.",
+            "url": "https://github.com/unclebob/swarm-forge",
+            "stars": 415,
+            "forks": 44,
+            "score": 51
         },
         {
             "main_cat": "AI",
@@ -168,22 +179,11 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "swarm-forge",
-            "full_name": "unclebob/swarm-forge",
-            "description": "A simple tool for coordinating several AI agents.",
-            "url": "https://github.com/unclebob/swarm-forge",
-            "stars": 414,
-            "forks": 43,
-            "score": 50
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
             "name": "Supervisor-Skills",
             "full_name": "HKUSTDial/Supervisor-Skills",
             "description": "\u5c06\u535a\u5bfc\u5341\u5e74\u79d1\u7814\u7ecf\u9a8c\u70bc\u5316\u4e3a\u53ef\u76f4\u63a5\u8c03\u7528\u7684 AI \u6280\u80fd\u3002\u4ece Idea \u6784\u601d\u5230\u8bba\u6587\u6295\u7a3f\uff0c\u4f60\u7684 AI \u79d1\u7814\u526f\u5bfc\u5e08\u3002",
             "url": "https://github.com/HKUSTDial/Supervisor-Skills",
-            "stars": 401,
+            "stars": 402,
             "forks": 25,
             "score": 50
         },
@@ -249,7 +249,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "vibheksoni/free-ai",
             "description": "Free OpenAI-compatible AI API for builders. Join Discord, run /signup, get a key, and use free models.",
             "url": "https://github.com/vibheksoni/free-ai",
-            "stars": 182,
+            "stars": 183,
             "forks": 35,
             "score": 46
         },
@@ -271,7 +271,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Blink-h/agent-startup-kit",
             "description": "Reusable AI coding workflows for Claude Code and VS Code to ship auth, billing, and landing pages faster.",
             "url": "https://github.com/Blink-h/agent-startup-kit",
-            "stars": 366,
+            "stars": 367,
             "forks": 2,
             "score": 43
         },
@@ -326,7 +326,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Qiuner/ai-application-roadmap",
             "description": "A bilingual map of AI engineering evolution, real-world AI usage patterns, and vibe coding best practices.",
             "url": "https://github.com/Qiuner/ai-application-roadmap",
-            "stars": 173,
+            "stars": 174,
             "forks": 1,
             "score": 38
         },
@@ -699,12 +699,12 @@ const ALPHA_DATA_V2 = {
             "url": "http://arxiv.org/abs/2604.24670v1"
         },
         {
-            "title": "Will the price of Solana be between $80 and $90 on May 1? (Probability: 82%)",
+            "title": "Will the price of Ethereum be between $2,000 and $2,100 on April 30? (Probability: 2%)",
             "source": "Polymarket",
             "type": "Expectation",
             "color": "text-indigo-400",
-            "url": "https://polymarket.com/market/will-the-price-of-solana-be-between-80-90-on-may-1"
+            "url": "https://polymarket.com/market/will-the-price-of-ethereum-be-between-2000-2100-on-april-30"
         }
     ],
-    "timestamp": "2026-04-28 22:51"
+    "timestamp": "2026-04-28 23:49"
 };
