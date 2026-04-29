@@ -7,7 +7,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "cosmicstack-labs/mercury-agent",
             "description": "Soul-driven AI agent with permission-hardened tools, token budgets, and multi-channel access. Runs 24/7 from CLI or Telegram.",
             "url": "https://github.com/cosmicstack-labs/mercury-agent",
-            "stars": 1765,
+            "stars": 1767,
             "forks": 178,
             "score": 99
         },
@@ -18,7 +18,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "GammaLabTechnologies/harmonist",
             "description": "Portable AI agent orchestration with mechanical protocol enforcement. 186 agents, zero runtime dependencies.",
             "url": "https://github.com/GammaLabTechnologies/harmonist",
-            "stars": 893,
+            "stars": 894,
             "forks": 303,
             "score": 99
         },
@@ -51,9 +51,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "tashfeenahmed/freellmapi",
             "description": "OpenAI-compatible proxy that aggregates free-tier keys from ~14 AI providers with automatic failover. For personal experimentation only.",
             "url": "https://github.com/tashfeenahmed/freellmapi",
-            "stars": 751,
+            "stars": 753,
             "forks": 138,
             "score": 89
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "esp-claw",
+            "full_name": "espressif/esp-claw",
+            "description": "ESP-Claw, a \"Chat Coding\" AI agent framework for IoT devices",
+            "url": "https://github.com/espressif/esp-claw",
+            "stars": 751,
+            "forks": 151,
+            "score": 75
         },
         {
             "main_cat": "AI",
@@ -64,18 +75,7 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/alash3al/stash",
             "stars": 556,
             "forks": 22,
-            "score": 76
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "esp-claw",
-            "full_name": "espressif/esp-claw",
-            "description": "ESP-Claw, a \"Chat Coding\" AI agent framework for IoT devices",
-            "url": "https://github.com/espressif/esp-claw",
-            "stars": 750,
-            "forks": 152,
-            "score": 75
+            "score": 70
         },
         {
             "main_cat": "AI",
@@ -161,20 +161,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "unclebob/swarm-forge",
             "description": "A simple tool for coordinating several AI agents.",
             "url": "https://github.com/unclebob/swarm-forge",
-            "stars": 426,
+            "stars": 427,
             "forks": 45,
             "score": 50
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "free-ai",
-            "full_name": "vibheksoni/free-ai",
-            "description": "Free OpenAI-compatible AI API for builders. Join Discord, run /signup, get a key, and use free models.",
-            "url": "https://github.com/vibheksoni/free-ai",
-            "stars": 219,
-            "forks": 43,
-            "score": 49
         },
         {
             "main_cat": "AI",
@@ -184,7 +173,7 @@ const ALPHA_DATA_V2 = {
             "description": "AI Trading Agent for Everyone",
             "url": "https://github.com/Yaolinwang/AITD",
             "stars": 200,
-            "forks": 55,
+            "forks": 56,
             "score": 49
         },
         {
@@ -194,7 +183,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "dezgit2025/auto-memory",
             "description": "Your AI coding agent never forgets \u2014 progressive session recall CLI",
             "url": "https://github.com/dezgit2025/auto-memory",
-            "stars": 289,
+            "stars": 292,
             "forks": 28,
             "score": 48
         },
@@ -207,6 +196,17 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/yzhao062/agent-style",
             "stars": 380,
             "forks": 20,
+            "score": 47
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "free-ai",
+            "full_name": "vibheksoni/free-ai",
+            "description": "Free OpenAI-compatible AI API for builders. Join Discord, run /signup, get a key, and use free models.",
+            "url": "https://github.com/vibheksoni/free-ai",
+            "stars": 219,
+            "forks": 43,
             "score": 47
         },
         {
@@ -227,7 +227,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "dsd2077/CyberVerse",
             "description": "CyberVerse is an open-source digital human agent platform with real-time video calling. Create an AI agent you can see and talk to, face to face, just like a video call.",
             "url": "https://github.com/dsd2077/CyberVerse",
-            "stars": 267,
+            "stars": 268,
             "forks": 40,
             "score": 45
         },
@@ -238,7 +238,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "yaojingang/geo-citation-lab",
             "description": "A dataset and analysis pipeline for studying how AI search engines select and use citations.",
             "url": "https://github.com/yaojingang/geo-citation-lab",
-            "stars": 176,
+            "stars": 177,
             "forks": 36,
             "score": 44
         },
@@ -304,9 +304,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "Qiuner/ai-application-roadmap",
             "description": "A bilingual map of AI engineering evolution, real-world AI usage patterns, and vibe coding best practices.",
             "url": "https://github.com/Qiuner/ai-application-roadmap",
-            "stars": 191,
+            "stars": 192,
             "forks": 1,
             "score": 38
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "intel-arc-pro-b70-benchmarks",
+            "full_name": "PMZFX/intel-arc-pro-b70-benchmarks",
+            "description": "Benchmark results and performance data for the Intel Arc Pro B70 GPU (Xe2/Battlemage) - LLM inference, video generation, dual-GPU scaling.",
+            "url": "https://github.com/PMZFX/intel-arc-pro-b70-benchmarks",
+            "stars": 24,
+            "forks": 1,
+            "score": 31
         },
         {
             "main_cat": "AI",
@@ -322,23 +333,23 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
-            "name": "intel-arc-pro-b70-benchmarks",
-            "full_name": "PMZFX/intel-arc-pro-b70-benchmarks",
-            "description": "Benchmark results and performance data for the Intel Arc Pro B70 GPU (Xe2/Battlemage) - LLM inference, video generation, dual-GPU scaling.",
-            "url": "https://github.com/PMZFX/intel-arc-pro-b70-benchmarks",
-            "stars": 23,
-            "forks": 1,
-            "score": 31
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
             "name": "isanagent",
             "full_name": "altaidevorg/isanagent",
             "description": "Like Openclaw, but for ML engineering. Your always-on and autonomous ML engineer that works 24/7 to conduct research, generate datasets, train models, learn and evolve. Works on Colab, local GPU or over SSH. Zero infra needed",
             "url": "https://github.com/altaidevorg/isanagent",
             "stars": 10,
             "forks": 1,
+            "score": 31
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "LumiChats-Offline-LLM",
+            "full_name": "adityajhakumar/LumiChats-Offline-LLM",
+            "description": "Run powerful open-source AI models privately on your Windows PC \u2014 no internet, no GPU, no cloud. Built on GPT4All with 9 custom fine-tuned models.",
+            "url": "https://github.com/adityajhakumar/LumiChats-Offline-LLM",
+            "stars": 7,
+            "forks": 0,
             "score": 31
         },
         {
@@ -403,17 +414,6 @@ const ALPHA_DATA_V2 = {
             "full_name": "abazsadikovic225-boop/orallexa-ai-trading-agent",
             "description": "Build a self-tuning multi-agent AI trading system that fuses 8 signals, adapts weights, and debates market bets with ML models and prediction markets",
             "url": "https://github.com/abazsadikovic225-boop/orallexa-ai-trading-agent",
-            "stars": 0,
-            "forks": 0,
-            "score": 30
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "prediction-market",
-            "full_name": "deepanshu-yd/prediction-market",
-            "description": "Predicto is a high-performance, binary outcome prediction market built with the latest Solana technology stack. It allows users to create markets on any topic, bet SOL on outcomes, and claim rewards from a collective pool.",
-            "url": "https://github.com/deepanshu-yd/prediction-market",
             "stars": 0,
             "forks": 0,
             "score": 30
@@ -699,12 +699,12 @@ const ALPHA_DATA_V2 = {
             "url": "http://arxiv.org/abs/2604.25891v1"
         },
         {
-            "title": "Will the price of Solana be between $80 and $90 on May 1? (Probability: 76%)",
+            "title": "Will the price of Solana be between $80 and $90 on May 1? (Probability: 87%)",
             "source": "Polymarket",
             "type": "Expectation",
             "color": "text-indigo-400",
             "url": "https://polymarket.com/market/will-the-price-of-solana-be-between-80-90-on-may-1"
         }
     ],
-    "timestamp": "2026-04-29 21:58"
+    "timestamp": "2026-04-29 22:58"
 };
