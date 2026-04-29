@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "cosmicstack-labs/mercury-agent",
             "description": "Soul-driven AI agent with permission-hardened tools, token budgets, and multi-channel access. Runs 24/7 from CLI or Telegram.",
             "url": "https://github.com/cosmicstack-labs/mercury-agent",
-            "stars": 1759,
-            "forks": 177,
+            "stars": 1765,
+            "forks": 178,
             "score": 99
         },
         {
@@ -18,7 +18,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "GammaLabTechnologies/harmonist",
             "description": "Portable AI agent orchestration with mechanical protocol enforcement. 186 agents, zero runtime dependencies.",
             "url": "https://github.com/GammaLabTechnologies/harmonist",
-            "stars": 888,
+            "stars": 893,
             "forks": 303,
             "score": 99
         },
@@ -29,8 +29,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "future-agi/future-agi",
             "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals \u00b7 Simulations \u00b7 Datasets \u00b7 Gateway \u00b7 Guardrails. Self-hostable. Apache 2.0.",
             "url": "https://github.com/future-agi/future-agi",
-            "stars": 741,
-            "forks": 126,
+            "stars": 746,
+            "forks": 127,
             "score": 99
         },
         {
@@ -58,23 +58,23 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "esp-claw",
-            "full_name": "espressif/esp-claw",
-            "description": "ESP-Claw, a \"Chat Coding\" AI agent framework for IoT devices",
-            "url": "https://github.com/espressif/esp-claw",
-            "stars": 748,
-            "forks": 152,
-            "score": 75
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
             "name": "stash",
             "full_name": "alash3al/stash",
             "description": "Stash \u2014 persistent memory layer for AI agents. Episodes, facts, and working context stored in Postgres. MCP server included. Self-hosted, single binary, no cloud required.",
             "url": "https://github.com/alash3al/stash",
-            "stars": 555,
+            "stars": 556,
             "forks": 22,
+            "score": 76
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "esp-claw",
+            "full_name": "espressif/esp-claw",
+            "description": "ESP-Claw, a \"Chat Coding\" AI agent framework for IoT devices",
+            "url": "https://github.com/espressif/esp-claw",
+            "stars": 750,
+            "forks": 152,
             "score": 75
         },
         {
@@ -84,7 +84,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "ZeroZ-lab/cc-design",
             "description": "High-fidelity HTML design and prototype guidance skill for AI agents",
             "url": "https://github.com/ZeroZ-lab/cc-design",
-            "stars": 650,
+            "stars": 651,
             "forks": 68,
             "score": 65
         },
@@ -172,8 +172,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "vibheksoni/free-ai",
             "description": "Free OpenAI-compatible AI API for builders. Join Discord, run /signup, get a key, and use free models.",
             "url": "https://github.com/vibheksoni/free-ai",
-            "stars": 217,
-            "forks": 42,
+            "stars": 219,
+            "forks": 43,
             "score": 49
         },
         {
@@ -194,7 +194,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "dezgit2025/auto-memory",
             "description": "Your AI coding agent never forgets \u2014 progressive session recall CLI",
             "url": "https://github.com/dezgit2025/auto-memory",
-            "stars": 287,
+            "stars": 289,
             "forks": 28,
             "score": 48
         },
@@ -260,7 +260,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Blink-h/agent-startup-kit",
             "description": "Reusable AI coding workflows for Claude Code and VS Code to ship auth, billing, and landing pages faster.",
             "url": "https://github.com/Blink-h/agent-startup-kit",
-            "stars": 385,
+            "stars": 386,
             "forks": 2,
             "score": 43
         },
@@ -304,7 +304,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Qiuner/ai-application-roadmap",
             "description": "A bilingual map of AI engineering evolution, real-world AI usage patterns, and vibe coding best practices.",
             "url": "https://github.com/Qiuner/ai-application-roadmap",
-            "stars": 190,
+            "stars": 191,
             "forks": 1,
             "score": 38
         },
@@ -699,12 +699,12 @@ const ALPHA_DATA_V2 = {
             "url": "http://arxiv.org/abs/2604.25891v1"
         },
         {
-            "title": "Will the price of Solana be between $80 and $90 on May 1? (Probability: 82%)",
+            "title": "Will the price of Solana be between $80 and $90 on May 1? (Probability: 76%)",
             "source": "Polymarket",
             "type": "Expectation",
             "color": "text-indigo-400",
             "url": "https://polymarket.com/market/will-the-price-of-solana-be-between-80-90-on-may-1"
         }
     ],
-    "timestamp": "2026-04-29 20:57"
+    "timestamp": "2026-04-29 21:58"
 };
