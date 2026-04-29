@@ -7,7 +7,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "cosmicstack-labs/mercury-agent",
             "description": "Soul-driven AI agent with permission-hardened tools, token budgets, and multi-channel access. Runs 24/7 from CLI or Telegram.",
             "url": "https://github.com/cosmicstack-labs/mercury-agent",
-            "stars": 1654,
+            "stars": 1675,
             "forks": 173,
             "score": 99
         },
@@ -18,8 +18,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "GammaLabTechnologies/harmonist",
             "description": "Portable AI agent orchestration with mechanical protocol enforcement. 186 agents, zero runtime dependencies.",
             "url": "https://github.com/GammaLabTechnologies/harmonist",
-            "stars": 840,
-            "forks": 308,
+            "stars": 850,
+            "forks": 307,
             "score": 99
         },
         {
@@ -29,8 +29,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "future-agi/future-agi",
             "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals \u00b7 Simulations \u00b7 Datasets \u00b7 Gateway \u00b7 Guardrails. Self-hostable. Apache 2.0.",
             "url": "https://github.com/future-agi/future-agi",
-            "stars": 708,
-            "forks": 119,
+            "stars": 713,
+            "forks": 120,
             "score": 99
         },
         {
@@ -40,9 +40,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "tashfeenahmed/freellmapi",
             "description": "OpenAI-compatible proxy that aggregates free-tier keys from ~14 AI providers with automatic failover. For personal experimentation only.",
             "url": "https://github.com/tashfeenahmed/freellmapi",
-            "stars": 702,
-            "forks": 130,
-            "score": 91
+            "stars": 715,
+            "forks": 133,
+            "score": 92
         },
         {
             "main_cat": "AI",
@@ -51,9 +51,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "worldwonderer/oh-story-claudecode",
             "description": "\u7f51\u6587\u5199\u4f5c skill \u5305\uff0c\u8986\u76d6\u957f\u7bc7\u4e0e\u77ed\u7bc7\u7f51\u7edc\u5c0f\u8bf4\u7684\u626b\u699c\u3001\u62c6\u6587\u3001\u5199\u4f5c\u3001\u53bbAI\u5473\u5168\u6d41\u7a0b",
             "url": "https://github.com/worldwonderer/oh-story-claudecode",
-            "stars": 442,
-            "forks": 140,
-            "score": 85
+            "stars": 498,
+            "forks": 153,
+            "score": 91
         },
         {
             "main_cat": "AI",
@@ -62,8 +62,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "espressif/esp-claw",
             "description": "ESP-Claw, a \"Chat Coding\" AI agent framework for IoT devices",
             "url": "https://github.com/espressif/esp-claw",
-            "stars": 691,
-            "forks": 143,
+            "stars": 696,
+            "forks": 144,
             "score": 75
         },
         {
@@ -73,7 +73,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "alash3al/stash",
             "description": "Stash \u2014 persistent memory layer for AI agents. Episodes, facts, and working context stored in Postgres. MCP server included. Self-hosted, single binary, no cloud required.",
             "url": "https://github.com/alash3al/stash",
-            "stars": 518,
+            "stars": 525,
             "forks": 21,
             "score": 73
         },
@@ -84,7 +84,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "levelsio/superlevels",
             "description": "A super Chrome extension I made that's safer than installing external malware/spyware-filled extensions that form a massive security risk, this one is open source and you can read and check the source code (with AI) before you install it, and customize it to your liking!",
             "url": "https://github.com/levelsio/superlevels",
-            "stars": 427,
+            "stars": 428,
             "forks": 44,
             "score": 67
         },
@@ -106,9 +106,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "xiaochong/hi-kid",
             "description": "HiKid - Your AI English Pal. A desktop app built with React and TypeScript, targeting children in non-English-speaking countries who want to practice English speaking and listening.",
             "url": "https://github.com/xiaochong/hi-kid",
-            "stars": 472,
-            "forks": 67,
-            "score": 60
+            "stars": 482,
+            "forks": 68,
+            "score": 61
         },
         {
             "main_cat": "AI",
@@ -117,20 +117,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "oritera/Cairn",
             "description": "AI \u81ea\u52a8\u5316\u901a\u7528\u95ee\u9898\u89e3\u51b3 / AI \u81ea\u52a8\u5316\u6e17\u900f\u6d4b\u8bd5\u7cfb\u7edf",
             "url": "https://github.com/oritera/Cairn",
-            "stars": 551,
+            "stars": 559,
             "forks": 26,
-            "score": 57
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "Uncensored-Local-AI-Multiplatform",
-            "full_name": "techjarves/Uncensored-Local-AI-Multiplatform",
-            "description": "A cross-platform Flutter app that runs uncensored, 100% offline open-source AI models (GGUF) directly on your Android, iOS, or PC. No cloud, no filters, total privacy.",
-            "url": "https://github.com/techjarves/Uncensored-Local-AI-Multiplatform",
-            "stars": 351,
-            "forks": 61,
-            "score": 54
+            "score": 55
         },
         {
             "main_cat": "AI",
@@ -139,9 +128,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "YGYOOO/WorldX",
             "description": "One sentence creates an AI-driven world \u2014 generate maps, characters, and watch stories emerge on their own. \u4e00\u53e5\u8bdd\u751f\u6210\u4e00\u4e2aAI\u81ea\u4e3b\u9a71\u52a8\u7684\u4e16\u754c.",
             "url": "https://github.com/YGYOOO/WorldX",
-            "stars": 361,
-            "forks": 55,
-            "score": 52
+            "stars": 373,
+            "forks": 59,
+            "score": 53
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "Uncensored-Local-AI-Multiplatform",
+            "full_name": "techjarves/Uncensored-Local-AI-Multiplatform",
+            "description": "A cross-platform Flutter app that runs uncensored, 100% offline open-source AI models (GGUF) directly on your Android, iOS, or PC. No cloud, no filters, total privacy.",
+            "url": "https://github.com/techjarves/Uncensored-Local-AI-Multiplatform",
+            "stars": 357,
+            "forks": 64,
+            "score": 53
         },
         {
             "main_cat": "AI",
@@ -150,7 +150,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "unclebob/swarm-forge",
             "description": "A simple tool for coordinating several AI agents.",
             "url": "https://github.com/unclebob/swarm-forge",
-            "stars": 416,
+            "stars": 417,
             "forks": 44,
             "score": 51
         },
@@ -161,9 +161,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "HKUSTDial/Supervisor-Skills",
             "description": "\u5c06\u535a\u5bfc\u5341\u5e74\u79d1\u7814\u7ecf\u9a8c\u70bc\u5316\u4e3a\u53ef\u76f4\u63a5\u8c03\u7528\u7684 AI \u6280\u80fd\u3002\u4ece Idea \u6784\u601d\u5230\u8bba\u6587\u6295\u7a3f\uff0c\u4f60\u7684 AI \u79d1\u7814\u526f\u5bfc\u5e08\u3002",
             "url": "https://github.com/HKUSTDial/Supervisor-Skills",
-            "stars": 409,
-            "forks": 25,
-            "score": 51
+            "stars": 426,
+            "forks": 27,
+            "score": 50
         },
         {
             "main_cat": "AI",
@@ -194,8 +194,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "dezgit2025/auto-memory",
             "description": "Your AI coding agent never forgets \u2014 progressive session recall CLI",
             "url": "https://github.com/dezgit2025/auto-memory",
-            "stars": 271,
-            "forks": 23,
+            "stars": 273,
+            "forks": 26,
             "score": 48
         },
         {
@@ -205,7 +205,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "simoncirstoiu/alice",
             "description": "Analyse \u00b7 Learn \u00b7 Ingest \u00b7 Curate \u00b7 Export \u2014 AI-powered YOLO dataset management toolkit",
             "url": "https://github.com/simoncirstoiu/alice",
-            "stars": 295,
+            "stars": 296,
             "forks": 29,
             "score": 47
         },
@@ -216,8 +216,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "vibheksoni/free-ai",
             "description": "Free OpenAI-compatible AI API for builders. Join Discord, run /signup, get a key, and use free models.",
             "url": "https://github.com/vibheksoni/free-ai",
-            "stars": 187,
-            "forks": 35,
+            "stars": 192,
+            "forks": 36,
             "score": 46
         },
         {
@@ -227,8 +227,19 @@ const ALPHA_DATA_V2 = {
             "full_name": "dsd2077/CyberVerse",
             "description": "CyberVerse is an open-source digital human agent platform with real-time video calling. Create an AI agent you can see and talk to, face to face, just like a video call.",
             "url": "https://github.com/dsd2077/CyberVerse",
-            "stars": 239,
-            "forks": 36,
+            "stars": 243,
+            "forks": 37,
+            "score": 45
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "geo-citation-lab",
+            "full_name": "yaojingang/geo-citation-lab",
+            "description": "A dataset and analysis pipeline for studying how AI search engines select and use citations.",
+            "url": "https://github.com/yaojingang/geo-citation-lab",
+            "stars": 156,
+            "forks": 34,
             "score": 44
         },
         {
@@ -238,7 +249,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Blink-h/agent-startup-kit",
             "description": "Reusable AI coding workflows for Claude Code and VS Code to ship auth, billing, and landing pages faster.",
             "url": "https://github.com/Blink-h/agent-startup-kit",
-            "stars": 368,
+            "stars": 370,
             "forks": 2,
             "score": 43
         },
@@ -249,9 +260,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "guoguo-tju/agent_java_offer",
             "description": "\u516c\u5f00\u7684 Java \u540e\u7aef / AI Agent / \u7cfb\u7edf\u8bbe\u8ba1 / \u7b97\u6cd5\u9762\u8bd5\u590d\u4e60\u8d44\u6599\u5e93",
             "url": "https://github.com/guoguo-tju/agent_java_offer",
-            "stars": 258,
-            "forks": 33,
-            "score": 43
+            "stars": 259,
+            "forks": 34,
+            "score": 42
         },
         {
             "main_cat": "AI",
@@ -260,7 +271,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "LeoKemp223/embed-ai-tool",
             "description": "\u9762\u5411 AI \u7f16\u7a0b\u52a9\u624b\u7684\u5d4c\u5165\u5f0f\u5f00\u53d1\u6280\u80fd\u96c6\uff0c\u4e3a\u5927\u6a21\u578b\u63d0\u4f9b MCU \u56fa\u4ef6\u5f00\u53d1\u5168\u6d41\u7a0b\u80fd\u529b\u3002\u6db5\u76d6\u591a\u5de5\u5177\u94fe\u6784\u5efa\uff08Keil / IAR / CMake / PlatformIO\uff09\u3001\u70e7\u5f55\u3001GDB \u8c03\u8bd5\u3001\u4e32\u53e3\u76d1\u89c6\u3001Modbus / CAN / VISA \u534f\u8bae\u8c03\u8bd5\u3001\u5916\u8bbe\u9a71\u52a8\u9002\u914d\u53ca\u6d41\u6c34\u7ebf\u7f16\u6392\uff0c\u652f\u6301 Linux\u3001macOS\u3001Windows \u4e09\u5e73\u53f0\u3002",
             "url": "https://github.com/LeoKemp223/embed-ai-tool",
-            "stars": 188,
+            "stars": 189,
             "forks": 31,
             "score": 41
         },
@@ -282,9 +293,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "you-want/mini-cc",
             "description": "\ud83d\ude80 \u4e00\u4e2a\u8f7b\u91cf\u7ea7\u7684\u591a\u8bed\u8a00 AI \u7f16\u7a0b\u667a\u80fd\u4f53\uff0c\u5185\u7f6e\u58f0\u660e\u5f0f\u7ec8\u7aef UI\u3001\u539f\u751f MCP \u63d2\u4ef6\u751f\u6001\u4e0e\u65e0\u7f1d\u7684 Tool-Use \u5faa\u73af",
             "url": "https://github.com/you-want/mini-cc",
-            "stars": 164,
-            "forks": 17,
-            "score": 38
+            "stars": 173,
+            "forks": 19,
+            "score": 39
         },
         {
             "main_cat": "AI",
@@ -293,7 +304,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Qiuner/ai-application-roadmap",
             "description": "A bilingual map of AI engineering evolution, real-world AI usage patterns, and vibe coding best practices.",
             "url": "https://github.com/Qiuner/ai-application-roadmap",
-            "stars": 177,
+            "stars": 179,
             "forks": 1,
             "score": 37
         },
@@ -307,17 +318,6 @@ const ALPHA_DATA_V2 = {
             "stars": 162,
             "forks": 19,
             "score": 37
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "ai-attestation",
-            "full_name": "Korext/ai-attestation",
-            "description": "Track AI generated code in your repository. Open standard. Detects 19 AI coding tools. CC0 spec.",
-            "url": "https://github.com/Korext/ai-attestation",
-            "stars": 153,
-            "forks": 13,
-            "score": 36
         },
         {
             "main_cat": "AI",
@@ -348,7 +348,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "altaidevorg/isanagent",
             "description": "Your always-on and autonomous ML engineer that works 24/7 to conduct research, generate datasets, train models, learn and evolve. Works on Colab, local GPU or over SSH. Zero infra needed",
             "url": "https://github.com/altaidevorg/isanagent",
-            "stars": 8,
+            "stars": 9,
             "forks": 1,
             "score": 31
         },
@@ -706,5 +706,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/market/will-the-price-of-ethereum-be-between-2000-2100-on-april-30"
         }
     ],
-    "timestamp": "2026-04-29 02:25"
+    "timestamp": "2026-04-29 05:48"
 };
