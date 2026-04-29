@@ -7,7 +7,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "cosmicstack-labs/mercury-agent",
             "description": "Soul-driven AI agent with permission-hardened tools, token budgets, and multi-channel access. Runs 24/7 from CLI or Telegram.",
             "url": "https://github.com/cosmicstack-labs/mercury-agent",
-            "stars": 1767,
+            "stars": 1769,
             "forks": 178,
             "score": 99
         },
@@ -18,7 +18,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "GammaLabTechnologies/harmonist",
             "description": "Portable AI agent orchestration with mechanical protocol enforcement. 186 agents, zero runtime dependencies.",
             "url": "https://github.com/GammaLabTechnologies/harmonist",
-            "stars": 894,
+            "stars": 895,
             "forks": 303,
             "score": 99
         },
@@ -30,7 +30,7 @@ const ALPHA_DATA_V2 = {
             "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals \u00b7 Simulations \u00b7 Datasets \u00b7 Gateway \u00b7 Guardrails. Self-hostable. Apache 2.0.",
             "url": "https://github.com/future-agi/future-agi",
             "stars": 746,
-            "forks": 127,
+            "forks": 130,
             "score": 99
         },
         {
@@ -51,7 +51,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "tashfeenahmed/freellmapi",
             "description": "OpenAI-compatible proxy that aggregates free-tier keys from ~14 AI providers with automatic failover. For personal experimentation only.",
             "url": "https://github.com/tashfeenahmed/freellmapi",
-            "stars": 753,
+            "stars": 755,
             "forks": 138,
             "score": 89
         },
@@ -62,7 +62,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "espressif/esp-claw",
             "description": "ESP-Claw, a \"Chat Coding\" AI agent framework for IoT devices",
             "url": "https://github.com/espressif/esp-claw",
-            "stars": 751,
+            "stars": 753,
             "forks": 151,
             "score": 75
         },
@@ -73,7 +73,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "alash3al/stash",
             "description": "Stash \u2014 persistent memory layer for AI agents. Episodes, facts, and working context stored in Postgres. MCP server included. Self-hosted, single binary, no cloud required.",
             "url": "https://github.com/alash3al/stash",
-            "stars": 556,
+            "stars": 557,
             "forks": 22,
             "score": 70
         },
@@ -84,7 +84,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "ZeroZ-lab/cc-design",
             "description": "High-fidelity HTML design and prototype guidance skill for AI agents",
             "url": "https://github.com/ZeroZ-lab/cc-design",
-            "stars": 651,
+            "stars": 653,
             "forks": 68,
             "score": 65
         },
@@ -106,7 +106,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "xiaochong/hi-kid",
             "description": "HiKid - Your AI English Pal. A desktop app built with React and TypeScript, targeting children in non-English-speaking countries who want to practice English speaking and listening.",
             "url": "https://github.com/xiaochong/hi-kid",
-            "stars": 508,
+            "stars": 510,
             "forks": 69,
             "score": 60
         },
@@ -150,7 +150,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "YGYOOO/WorldX",
             "description": "One sentence creates an AI-driven world \u2014 generate maps, characters, and watch stories emerge on their own. \u4e00\u53e5\u8bdd\u751f\u6210\u4e00\u4e2aAI\u81ea\u4e3b\u9a71\u52a8\u7684\u4e16\u754c.",
             "url": "https://github.com/YGYOOO/WorldX",
-            "stars": 412,
+            "stars": 413,
             "forks": 62,
             "score": 53
         },
@@ -183,8 +183,19 @@ const ALPHA_DATA_V2 = {
             "full_name": "dezgit2025/auto-memory",
             "description": "Your AI coding agent never forgets \u2014 progressive session recall CLI",
             "url": "https://github.com/dezgit2025/auto-memory",
-            "stars": 292,
+            "stars": 293,
             "forks": 28,
+            "score": 48
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "free-ai",
+            "full_name": "vibheksoni/free-ai",
+            "description": "Free OpenAI-compatible AI API for builders. Join Discord, run /signup, get a key, and use free models.",
+            "url": "https://github.com/vibheksoni/free-ai",
+            "stars": 222,
+            "forks": 44,
             "score": 48
         },
         {
@@ -196,17 +207,6 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/yzhao062/agent-style",
             "stars": 380,
             "forks": 20,
-            "score": 47
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "free-ai",
-            "full_name": "vibheksoni/free-ai",
-            "description": "Free OpenAI-compatible AI API for builders. Join Discord, run /signup, get a key, and use free models.",
-            "url": "https://github.com/vibheksoni/free-ai",
-            "stars": 219,
-            "forks": 43,
             "score": 47
         },
         {
@@ -249,7 +249,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "arcsin1/oh-my-ppt",
             "description": "Local-first AI PPT generator with Desktop APP for entrepreneurs. Clean HTML slides, no cloud lock-in. Write prompt \u2192 get deck.",
             "url": "https://github.com/arcsin1/oh-my-ppt",
-            "stars": 173,
+            "stars": 174,
             "forks": 16,
             "score": 44
         },
@@ -699,12 +699,12 @@ const ALPHA_DATA_V2 = {
             "url": "http://arxiv.org/abs/2604.25891v1"
         },
         {
-            "title": "Will the price of Solana be between $80 and $90 on May 1? (Probability: 87%)",
+            "title": "Will the price of Solana be between $80 and $90 on May 1? (Probability: 74%)",
             "source": "Polymarket",
             "type": "Expectation",
             "color": "text-indigo-400",
             "url": "https://polymarket.com/market/will-the-price-of-solana-be-between-80-90-on-may-1"
         }
     ],
-    "timestamp": "2026-04-29 22:58"
+    "timestamp": "2026-04-29 23:57"
 };
