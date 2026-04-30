@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "cosmicstack-labs/mercury-agent",
             "description": "Soul-driven AI agent with permission-hardened tools, token budgets, and multi-channel access. Runs 24/7 from CLI or Telegram.",
             "url": "https://github.com/cosmicstack-labs/mercury-agent",
-            "stars": 1769,
-            "forks": 178,
+            "stars": 1780,
+            "forks": 179,
             "score": 99
         },
         {
@@ -18,8 +18,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "GammaLabTechnologies/harmonist",
             "description": "Portable AI agent orchestration with mechanical protocol enforcement. 186 agents, zero runtime dependencies.",
             "url": "https://github.com/GammaLabTechnologies/harmonist",
-            "stars": 895,
-            "forks": 303,
+            "stars": 898,
+            "forks": 302,
             "score": 99
         },
         {
@@ -29,7 +29,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "future-agi/future-agi",
             "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals \u00b7 Simulations \u00b7 Datasets \u00b7 Gateway \u00b7 Guardrails. Self-hostable. Apache 2.0.",
             "url": "https://github.com/future-agi/future-agi",
-            "stars": 746,
+            "stars": 750,
             "forks": 130,
             "score": 99
         },
@@ -40,7 +40,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "worldwonderer/oh-story-claudecode",
             "description": "\u7f51\u6587\u5199\u4f5c skill \u5305\uff0c\u8986\u76d6\u957f\u7bc7\u4e0e\u77ed\u7bc7\u7f51\u7edc\u5c0f\u8bf4\u7684\u626b\u699c\u3001\u62c6\u6587\u3001\u5199\u4f5c\u3001\u53bbAI\u5473\u5168\u6d41\u7a0b",
             "url": "https://github.com/worldwonderer/oh-story-claudecode",
-            "stars": 552,
+            "stars": 554,
             "forks": 164,
             "score": 90
         },
@@ -51,8 +51,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "tashfeenahmed/freellmapi",
             "description": "OpenAI-compatible proxy that aggregates free-tier keys from ~14 AI providers with automatic failover. For personal experimentation only.",
             "url": "https://github.com/tashfeenahmed/freellmapi",
-            "stars": 755,
-            "forks": 138,
+            "stars": 758,
+            "forks": 139,
             "score": 89
         },
         {
@@ -62,9 +62,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "espressif/esp-claw",
             "description": "ESP-Claw, a \"Chat Coding\" AI agent framework for IoT devices",
             "url": "https://github.com/espressif/esp-claw",
-            "stars": 753,
-            "forks": 151,
-            "score": 75
+            "stars": 765,
+            "forks": 156,
+            "score": 76
         },
         {
             "main_cat": "AI",
@@ -73,20 +73,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "alash3al/stash",
             "description": "Stash \u2014 persistent memory layer for AI agents. Episodes, facts, and working context stored in Postgres. MCP server included. Self-hosted, single binary, no cloud required.",
             "url": "https://github.com/alash3al/stash",
-            "stars": 557,
+            "stars": 562,
             "forks": 22,
             "score": 70
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "cc-design",
-            "full_name": "ZeroZ-lab/cc-design",
-            "description": "High-fidelity HTML design and prototype guidance skill for AI agents",
-            "url": "https://github.com/ZeroZ-lab/cc-design",
-            "stars": 653,
-            "forks": 68,
-            "score": 65
         },
         {
             "main_cat": "AI",
@@ -95,9 +84,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "levelsio/superlevels",
             "description": "A super Chrome extension I made that's safer than installing external malware/spyware-filled extensions that form a massive security risk, this one is open source and you can read and check the source code (with AI) before you install it, and customize it to your liking!",
             "url": "https://github.com/levelsio/superlevels",
-            "stars": 436,
+            "stars": 438,
             "forks": 45,
             "score": 64
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "cc-design",
+            "full_name": "ZeroZ-lab/cc-design",
+            "description": "High-fidelity HTML design and prototype guidance skill for AI agents",
+            "url": "https://github.com/ZeroZ-lab/cc-design",
+            "stars": 654,
+            "forks": 68,
+            "score": 63
         },
         {
             "main_cat": "AI",
@@ -106,7 +106,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "xiaochong/hi-kid",
             "description": "HiKid - Your AI English Pal. A desktop app built with React and TypeScript, targeting children in non-English-speaking countries who want to practice English speaking and listening.",
             "url": "https://github.com/xiaochong/hi-kid",
-            "stars": 510,
+            "stars": 513,
             "forks": 69,
             "score": 60
         },
@@ -117,8 +117,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "oritera/Cairn",
             "description": "AI \u81ea\u52a8\u5316\u901a\u7528\u95ee\u9898\u89e3\u51b3 / AI \u81ea\u52a8\u5316\u6e17\u900f\u6d4b\u8bd5\u7cfb\u7edf",
             "url": "https://github.com/oritera/Cairn",
-            "stars": 577,
-            "forks": 26,
+            "stars": 579,
+            "forks": 27,
             "score": 56
         },
         {
@@ -139,8 +139,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "HKUSTDial/Supervisor-Skills",
             "description": "\u5c06\u535a\u5bfc\u5341\u5e74\u79d1\u7814\u7ecf\u9a8c\u70bc\u5316\u4e3a\u53ef\u76f4\u63a5\u8c03\u7528\u7684 AI \u6280\u80fd\u3002\u4ece Idea \u6784\u601d\u5230\u8bba\u6587\u6295\u7a3f\uff0c\u4f60\u7684 AI \u79d1\u7814\u526f\u5bfc\u5e08\u3002",
             "url": "https://github.com/HKUSTDial/Supervisor-Skills",
-            "stars": 478,
-            "forks": 30,
+            "stars": 484,
+            "forks": 31,
             "score": 53
         },
         {
@@ -150,8 +150,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "YGYOOO/WorldX",
             "description": "One sentence creates an AI-driven world \u2014 generate maps, characters, and watch stories emerge on their own. \u4e00\u53e5\u8bdd\u751f\u6210\u4e00\u4e2aAI\u81ea\u4e3b\u9a71\u52a8\u7684\u4e16\u754c.",
             "url": "https://github.com/YGYOOO/WorldX",
-            "stars": 413,
-            "forks": 62,
+            "stars": 416,
+            "forks": 63,
             "score": 53
         },
         {
@@ -183,7 +183,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "dezgit2025/auto-memory",
             "description": "Your AI coding agent never forgets \u2014 progressive session recall CLI",
             "url": "https://github.com/dezgit2025/auto-memory",
-            "stars": 293,
+            "stars": 297,
             "forks": 28,
             "score": 48
         },
@@ -194,8 +194,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "vibheksoni/free-ai",
             "description": "Free OpenAI-compatible AI API for builders. Join Discord, run /signup, get a key, and use free models.",
             "url": "https://github.com/vibheksoni/free-ai",
-            "stars": 222,
-            "forks": 44,
+            "stars": 228,
+            "forks": 47,
             "score": 48
         },
         {
@@ -205,7 +205,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "yzhao062/agent-style",
             "description": "21 writing rules for AI coding and writing agents. Drop-in for Claude Code, Codex, Copilot, Cursor, and Aider, so their output reads like a tech pro.",
             "url": "https://github.com/yzhao062/agent-style",
-            "stars": 380,
+            "stars": 381,
             "forks": 20,
             "score": 47
         },
@@ -227,8 +227,19 @@ const ALPHA_DATA_V2 = {
             "full_name": "dsd2077/CyberVerse",
             "description": "CyberVerse is an open-source digital human agent platform with real-time video calling. Create an AI agent you can see and talk to, face to face, just like a video call.",
             "url": "https://github.com/dsd2077/CyberVerse",
-            "stars": 268,
-            "forks": 40,
+            "stars": 274,
+            "forks": 42,
+            "score": 45
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "oh-my-ppt",
+            "full_name": "arcsin1/oh-my-ppt",
+            "description": "Local-first AI PPT generator with Desktop APP for entrepreneurs. Clean HTML slides, no cloud lock-in. Write prompt \u2192 get deck.",
+            "url": "https://github.com/arcsin1/oh-my-ppt",
+            "stars": 186,
+            "forks": 16,
             "score": 45
         },
         {
@@ -238,19 +249,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "yaojingang/geo-citation-lab",
             "description": "A dataset and analysis pipeline for studying how AI search engines select and use citations.",
             "url": "https://github.com/yaojingang/geo-citation-lab",
-            "stars": 177,
-            "forks": 36,
-            "score": 44
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "oh-my-ppt",
-            "full_name": "arcsin1/oh-my-ppt",
-            "description": "Local-first AI PPT generator with Desktop APP for entrepreneurs. Clean HTML slides, no cloud lock-in. Write prompt \u2192 get deck.",
-            "url": "https://github.com/arcsin1/oh-my-ppt",
-            "stars": 174,
-            "forks": 16,
+            "stars": 178,
+            "forks": 37,
             "score": 44
         },
         {
@@ -260,20 +260,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "Blink-h/agent-startup-kit",
             "description": "Reusable AI coding workflows for Claude Code and VS Code to ship auth, billing, and landing pages faster.",
             "url": "https://github.com/Blink-h/agent-startup-kit",
-            "stars": 386,
+            "stars": 388,
             "forks": 2,
             "score": 43
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "agent_java_offer",
-            "full_name": "guoguo-tju/agent_java_offer",
-            "description": "\u516c\u5f00\u7684 Java \u540e\u7aef / AI Agent / \u7cfb\u7edf\u8bbe\u8ba1 / \u7b97\u6cd5\u9762\u8bd5\u590d\u4e60\u8d44\u6599\u5e93",
-            "url": "https://github.com/guoguo-tju/agent_java_offer",
-            "stars": 268,
-            "forks": 34,
-            "score": 42
         },
         {
             "main_cat": "AI",
@@ -283,8 +272,19 @@ const ALPHA_DATA_V2 = {
             "description": "\u9762\u5411 AI \u7f16\u7a0b\u52a9\u624b\u7684\u5d4c\u5165\u5f0f\u5f00\u53d1\u6280\u80fd\u96c6\uff0c\u4e3a\u5927\u6a21\u578b\u63d0\u4f9b MCU \u56fa\u4ef6\u5f00\u53d1\u5168\u6d41\u7a0b\u80fd\u529b\u3002\u6db5\u76d6\u591a\u5de5\u5177\u94fe\u6784\u5efa\uff08Keil / IAR / CMake / PlatformIO\uff09\u3001\u70e7\u5f55\u3001GDB \u8c03\u8bd5\u3001\u4e32\u53e3\u76d1\u89c6\u3001Modbus / CAN / VISA \u534f\u8bae\u8c03\u8bd5\u3001\u5916\u8bbe\u9a71\u52a8\u9002\u914d\u53ca\u6d41\u6c34\u7ebf\u7f16\u6392\uff0c\u652f\u6301 Linux\u3001macOS\u3001Windows \u4e09\u5e73\u53f0\u3002",
             "url": "https://github.com/LeoKemp223/embed-ai-tool",
             "stars": 199,
-            "forks": 34,
+            "forks": 35,
             "score": 41
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "gemma-chat",
+            "full_name": "ammaarreshi/gemma-chat",
+            "description": "Local AI chat + coding agent for Apple Silicon, powered by Gemma 4 via MLX / Supports Ollama",
+            "url": "https://github.com/ammaarreshi/gemma-chat",
+            "stars": 192,
+            "forks": 21,
+            "score": 40
         },
         {
             "main_cat": "AI",
@@ -300,13 +300,24 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
+            "name": "sigcli",
+            "full_name": "sigcli/sigcli",
+            "description": "The authentication CLI & Proxy for AI agents. Give agents access, not your credentials.",
+            "url": "https://github.com/sigcli/sigcli",
+            "stars": 163,
+            "forks": 17,
+            "score": 38
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
             "name": "ai-application-roadmap",
             "full_name": "Qiuner/ai-application-roadmap",
             "description": "A bilingual map of AI engineering evolution, real-world AI usage patterns, and vibe coding best practices.",
             "url": "https://github.com/Qiuner/ai-application-roadmap",
             "stars": 192,
             "forks": 1,
-            "score": 38
+            "score": 37
         },
         {
             "main_cat": "AI",
@@ -388,6 +399,17 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
+            "name": "xchplot2",
+            "full_name": "Jsewill/xchplot2",
+            "description": "A GPU-based PoS2 (Chia Blockchain) plotter. ",
+            "url": "https://github.com/Jsewill/xchplot2",
+            "stars": 4,
+            "forks": 0,
+            "score": 30
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
             "name": "football-edge-predictor",
             "full_name": "leonardoglez7/football-edge-predictor",
             "description": "Deep learning model that predicts Premier League home wins using LSTM networks  and detects value bets on prediction markets like Polymarket. Built with TensorFlow,  walk-forward validation, and backtesting against real Bet365 odds.",
@@ -420,12 +442,12 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
-            "sub_cat": "AI Agents",
-            "name": "mcp-server-bananacrystal",
-            "full_name": "BananaCrystal/mcp-server-bananacrystal",
-            "description": "Official MCP server for Agent payment infrastructure for AI agents. MCP server for autonomous stablecoin transfers, currency swaps & agent wallets.  Works with Claude, LangChain, CrewAI. Settled on Hedera. ",
-            "url": "https://github.com/BananaCrystal/mcp-server-bananacrystal",
-            "stars": 4,
+            "sub_cat": "AI General",
+            "name": "prediction-market",
+            "full_name": "deepanshu-yd/prediction-market",
+            "description": "Predicto is a high-performance, binary outcome prediction market built with the latest Solana technology stack. It allows users to create markets on any topic, bet SOL on outcomes, and claim rewards from a collective pool.",
+            "url": "https://github.com/deepanshu-yd/prediction-market",
+            "stars": 0,
             "forks": 0,
             "score": 30
         },
@@ -685,26 +707,26 @@ const ALPHA_DATA_V2 = {
     ],
     "news": [
         {
-            "title": "Credit Limits beyond Full Collateralization in Decentralized Micropayments: Incentive Conditions",
+            "title": "Catching the Fly: Practical Challenges in Making Blockchain FlyClient Real",
             "source": "ArXiv",
             "type": "Research Alpha",
             "color": "text-indigo-600",
-            "url": "http://arxiv.org/abs/2604.25913v1"
+            "url": "http://arxiv.org/abs/2604.26736v1"
         },
         {
-            "title": "Conditional misalignment: common interventions can hide emergent misalignment behind contextual triggers",
+            "title": "An Effective Orchestral Approach to Satisfiability Modulo Prime Fields",
             "source": "ArXiv",
             "type": "Research Alpha",
             "color": "text-indigo-600",
-            "url": "http://arxiv.org/abs/2604.25891v1"
+            "url": "http://arxiv.org/abs/2604.26709v1"
         },
         {
-            "title": "Will the price of Solana be between $80 and $90 on May 1? (Probability: 74%)",
+            "title": "Will the price of Solana be between $80 and $90 on May 1? (Probability: 62%)",
             "source": "Polymarket",
             "type": "Expectation",
             "color": "text-indigo-400",
             "url": "https://polymarket.com/market/will-the-price-of-solana-be-between-80-90-on-may-1"
         }
     ],
-    "timestamp": "2026-04-29 23:57"
+    "timestamp": "2026-04-30 02:45"
 };
