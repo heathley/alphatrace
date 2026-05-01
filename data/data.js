@@ -14,34 +14,23 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "harmonist",
-            "full_name": "GammaLabTechnologies/harmonist",
-            "description": "Portable AI agent orchestration with mechanical protocol enforcement. 186 agents, zero runtime dependencies.",
-            "url": "https://github.com/GammaLabTechnologies/harmonist",
-            "stars": 1037,
-            "forks": 318,
-            "score": 99
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
             "name": "mike",
             "full_name": "willchen96/mike",
             "description": "OSS AI Legal Platform",
             "url": "https://github.com/willchen96/mike",
-            "stars": 1022,
-            "forks": 252,
+            "stars": 1046,
+            "forks": 259,
             "score": 99
         },
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "dictionary-of-ai-coding",
-            "full_name": "mattpocock/dictionary-of-ai-coding",
-            "description": "AI coding jargon, explained in plain English.",
-            "url": "https://github.com/mattpocock/dictionary-of-ai-coding",
-            "stars": 357,
-            "forks": 71,
+            "name": "harmonist",
+            "full_name": "GammaLabTechnologies/harmonist",
+            "description": "Portable AI agent orchestration with mechanical protocol enforcement. 186 agents, zero runtime dependencies.",
+            "url": "https://github.com/GammaLabTechnologies/harmonist",
+            "stars": 1038,
+            "forks": 318,
             "score": 99
         },
         {
@@ -51,9 +40,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "sandeco/reversa",
             "description": "Transform legacy systems into executable specifications for AI coding agents",
             "url": "https://github.com/sandeco/reversa",
-            "stars": 385,
-            "forks": 179,
-            "score": 98
+            "stars": 389,
+            "forks": 181,
+            "score": 99
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "dictionary-of-ai-coding",
+            "full_name": "mattpocock/dictionary-of-ai-coding",
+            "description": "AI coding jargon, explained in plain English.",
+            "url": "https://github.com/mattpocock/dictionary-of-ai-coding",
+            "stars": 358,
+            "forks": 71,
+            "score": 99
         },
         {
             "main_cat": "AI",
@@ -62,9 +62,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "future-agi/future-agi",
             "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals \u00b7 Simulations \u00b7 Datasets \u00b7 Gateway \u00b7 Guardrails. Self-hostable. Apache 2.0.",
             "url": "https://github.com/future-agi/future-agi",
-            "stars": 792,
+            "stars": 794,
             "forks": 137,
-            "score": 90
+            "score": 91
         },
         {
             "main_cat": "AI",
@@ -73,7 +73,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "worldwonderer/oh-story-claudecode",
             "description": "\u7f51\u6587\u5199\u4f5c skill \u5305\uff0c\u8986\u76d6\u957f\u7bc7\u4e0e\u77ed\u7bc7\u7f51\u7edc\u5c0f\u8bf4\u7684\u626b\u699c\u3001\u62c6\u6587\u3001\u5199\u4f5c\u3001\u53bbAI\u5473\u3001\u5c01\u9762\u56fe\u5168\u6d41\u7a0b",
             "url": "https://github.com/worldwonderer/oh-story-claudecode",
-            "stars": 683,
+            "stars": 684,
             "forks": 191,
             "score": 90
         },
@@ -91,24 +91,24 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
+            "name": "gemma-chat",
+            "full_name": "ammaarreshi/gemma-chat",
+            "description": "Local AI chat + coding agent for Apple Silicon, powered by Gemma 4 via MLX / Supports Ollama",
+            "url": "https://github.com/ammaarreshi/gemma-chat",
+            "stars": 686,
+            "forks": 104,
+            "score": 69
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
             "name": "stash",
             "full_name": "alash3al/stash",
             "description": "Stash \u2014 persistent memory layer for AI agents. Episodes, facts, and working context stored in Postgres. MCP server included. Self-hosted, single binary, no cloud required.",
             "url": "https://github.com/alash3al/stash",
             "stars": 618,
             "forks": 25,
-            "score": 69
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "gemma-chat",
-            "full_name": "ammaarreshi/gemma-chat",
-            "description": "Local AI chat + coding agent for Apple Silicon, powered by Gemma 4 via MLX / Supports Ollama",
-            "url": "https://github.com/ammaarreshi/gemma-chat",
-            "stars": 682,
-            "forks": 101,
-            "score": 68
+            "score": 65
         },
         {
             "main_cat": "AI",
@@ -172,7 +172,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "YGYOOO/WorldX",
             "description": "One sentence creates an AI-driven world \u2014 generate maps, characters, and watch stories emerge on their own. \u4e00\u53e5\u8bdd\u751f\u6210\u4e00\u4e2aAI\u81ea\u4e3b\u9a71\u52a8\u7684\u4e16\u754c.",
             "url": "https://github.com/YGYOOO/WorldX",
-            "stars": 477,
+            "stars": 478,
             "forks": 70,
             "score": 53
         },
@@ -183,7 +183,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "techjarves/Uncensored-Local-AI-Multiplatform",
             "description": "A cross-platform Flutter app that runs uncensored, 100% offline open-source AI models (GGUF) directly on your Android, iOS, or PC. No cloud, no filters, total privacy.",
             "url": "https://github.com/techjarves/Uncensored-Local-AI-Multiplatform",
-            "stars": 384,
+            "stars": 385,
             "forks": 69,
             "score": 52
         },
@@ -195,8 +195,8 @@ const ALPHA_DATA_V2 = {
             "description": "Free OpenAI-compatible AI API for builders. Join Discord, run /signup, get a key, and use free models.",
             "url": "https://github.com/vibheksoni/free-ai",
             "stars": 281,
-            "forks": 62,
-            "score": 52
+            "forks": 63,
+            "score": 50
         },
         {
             "main_cat": "AI",
@@ -205,9 +205,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "appergb/openless",
             "description": "Hold a key, speak, release \u2014 AI-polished text appears at your cursor in any app. Open-source voice input for macOS & Windows. (\u6309\u4f4f\u5feb\u6377\u952e\u8bf4\u8bdd\uff0c\u677e\u5f00\u5373\u5f97\u6da6\u8272\u540e\u7684\u6587\u5b57)",
             "url": "https://github.com/appergb/openless",
-            "stars": 205,
-            "forks": 18,
-            "score": 49
+            "stars": 210,
+            "forks": 19,
+            "score": 50
         },
         {
             "main_cat": "AI",
@@ -216,7 +216,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Julpygo/Claude-Code-AI-Design",
             "description": "Claude Design Anthropic Tool Download April 2026 Figma to Code AI Agent Research Preview Claude Code CLI Integration React 19 Tailwind v4 Support Model Context Protocol MCP Server Setup Design Systems Automation UI UX Prototyping Next.js Component Generation Best Developer Tools 2026 Free Tutorial",
             "url": "https://github.com/Julpygo/Claude-Code-AI-Design",
-            "stars": 189,
+            "stars": 188,
             "forks": 0,
             "score": 48
         },
@@ -260,7 +260,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "yzhao062/agent-style",
             "description": "21 writing rules for AI coding and writing agents. Drop-in for Claude Code, Codex, Copilot, Cursor, and Aider, so their output reads like a tech pro.",
             "url": "https://github.com/yzhao062/agent-style",
-            "stars": 384,
+            "stars": 385,
             "forks": 21,
             "score": 45
         },
@@ -293,9 +293,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "Anbeeld/WRITING.md",
             "description": "Rules to make AI text sharper and genre-aware, with concrete anchors and built-in self-auditing workflow",
             "url": "https://github.com/Anbeeld/WRITING.md",
-            "stars": 187,
+            "stars": 189,
             "forks": 13,
-            "score": 41
+            "score": 42
         },
         {
             "main_cat": "AI",
@@ -315,7 +315,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Qiuner/ai-application-roadmap",
             "description": "A bilingual map of AI engineering evolution, real-world AI usage patterns, and vibe coding best practices.",
             "url": "https://github.com/Qiuner/ai-application-roadmap",
-            "stars": 207,
+            "stars": 208,
             "forks": 2,
             "score": 37
         },
@@ -721,12 +721,12 @@ const ALPHA_DATA_V2 = {
             "url": "http://arxiv.org/abs/2604.28129v1"
         },
         {
-            "title": "Will the price of Ethereum be above $2,700 on May 5? (Probability: 1%)",
+            "title": "Will the price of Solana be above $100 on May 4? (Probability: 2%)",
             "source": "Polymarket",
             "type": "Expectation",
             "color": "text-indigo-400",
-            "url": "https://polymarket.com/market/ethereum-above-2700-on-may-5"
+            "url": "https://polymarket.com/market/solana-above-100-on-may-4"
         }
     ],
-    "timestamp": "2026-05-01 21:46"
+    "timestamp": "2026-05-01 22:43"
 };
