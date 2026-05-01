@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "cosmicstack-labs/mercury-agent",
             "description": "Soul-driven AI agent with permission-hardened tools, token budgets, and multi-channel access. Runs 24/7 from CLI or Telegram.",
             "url": "https://github.com/cosmicstack-labs/mercury-agent",
-            "stars": 1861,
-            "forks": 190,
+            "stars": 1864,
+            "forks": 192,
             "score": 99
         },
         {
@@ -18,7 +18,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "GammaLabTechnologies/harmonist",
             "description": "Portable AI agent orchestration with mechanical protocol enforcement. 186 agents, zero runtime dependencies.",
             "url": "https://github.com/GammaLabTechnologies/harmonist",
-            "stars": 1008,
+            "stars": 1013,
             "forks": 317,
             "score": 99
         },
@@ -29,19 +29,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "willchen96/mike",
             "description": "OSS AI Legal Platform",
             "url": "https://github.com/willchen96/mike",
-            "stars": 890,
-            "forks": 211,
-            "score": 99
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "reversa",
-            "full_name": "sandeco/reversa",
-            "description": "Transform legacy systems into executable specifications for AI coding agents",
-            "url": "https://github.com/sandeco/reversa",
-            "stars": 357,
-            "forks": 169,
+            "stars": 913,
+            "forks": 218,
             "score": 99
         },
         {
@@ -51,20 +40,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "mattpocock/dictionary-of-ai-coding",
             "description": "AI coding jargon, explained in plain English.",
             "url": "https://github.com/mattpocock/dictionary-of-ai-coding",
-            "stars": 232,
-            "forks": 53,
+            "stars": 304,
+            "forks": 68,
             "score": 99
         },
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "future-agi",
-            "full_name": "future-agi/future-agi",
-            "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals \u00b7 Simulations \u00b7 Datasets \u00b7 Gateway \u00b7 Guardrails. Self-hostable. Apache 2.0.",
-            "url": "https://github.com/future-agi/future-agi",
-            "stars": 782,
-            "forks": 135,
-            "score": 96
+            "name": "reversa",
+            "full_name": "sandeco/reversa",
+            "description": "Transform legacy systems into executable specifications for AI coding agents",
+            "url": "https://github.com/sandeco/reversa",
+            "stars": 366,
+            "forks": 170,
+            "score": 95
         },
         {
             "main_cat": "AI",
@@ -73,9 +62,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "worldwonderer/oh-story-claudecode",
             "description": "\u7f51\u6587\u5199\u4f5c skill \u5305\uff0c\u8986\u76d6\u957f\u7bc7\u4e0e\u77ed\u7bc7\u7f51\u7edc\u5c0f\u8bf4\u7684\u626b\u699c\u3001\u62c6\u6587\u3001\u5199\u4f5c\u3001\u53bbAI\u5473\u3001\u5c01\u9762\u56fe\u5168\u6d41\u7a0b",
             "url": "https://github.com/worldwonderer/oh-story-claudecode",
-            "stars": 667,
-            "forks": 186,
+            "stars": 673,
+            "forks": 187,
             "score": 94
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "future-agi",
+            "full_name": "future-agi/future-agi",
+            "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals \u00b7 Simulations \u00b7 Datasets \u00b7 Gateway \u00b7 Guardrails. Self-hostable. Apache 2.0.",
+            "url": "https://github.com/future-agi/future-agi",
+            "stars": 783,
+            "forks": 136,
+            "score": 90
         },
         {
             "main_cat": "AI",
@@ -86,7 +86,7 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/tashfeenahmed/freellmapi",
             "stars": 791,
             "forks": 147,
-            "score": 87
+            "score": 83
         },
         {
             "main_cat": "AI",
@@ -106,8 +106,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "ammaarreshi/gemma-chat",
             "description": "Local AI chat + coding agent for Apple Silicon, powered by Gemma 4 via MLX / Supports Ollama",
             "url": "https://github.com/ammaarreshi/gemma-chat",
-            "stars": 604,
-            "forks": 88,
+            "stars": 617,
+            "forks": 90,
             "score": 64
         },
         {
@@ -117,20 +117,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "ZeroZ-lab/cc-design",
             "description": "High-fidelity HTML design and prototype guidance skill for AI agents",
             "url": "https://github.com/ZeroZ-lab/cc-design",
-            "stars": 665,
+            "stars": 667,
             "forks": 68,
             "score": 61
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "hi-kid",
-            "full_name": "xiaochong/hi-kid",
-            "description": "HiKid - Your AI English Pal. A desktop app built with React and TypeScript, targeting children in non-English-speaking countries who want to practice English speaking and listening.",
-            "url": "https://github.com/xiaochong/hi-kid",
-            "stars": 543,
-            "forks": 71,
-            "score": 59
         },
         {
             "main_cat": "AI",
@@ -139,9 +128,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "levelsio/superlevels",
             "description": "A super Chrome extension I made that's safer than installing external malware/spyware-filled extensions that form a massive security risk, this one is open source and you can read and check the source code (with AI) before you install it, and customize it to your liking!",
             "url": "https://github.com/levelsio/superlevels",
-            "stars": 447,
+            "stars": 451,
             "forks": 48,
             "score": 59
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "hi-kid",
+            "full_name": "xiaochong/hi-kid",
+            "description": "HiKid - Your AI English Pal. A desktop app built with React and TypeScript, targeting children in non-English-speaking countries who want to practice English speaking and listening.",
+            "url": "https://github.com/xiaochong/hi-kid",
+            "stars": 545,
+            "forks": 72,
+            "score": 57
         },
         {
             "main_cat": "AI",
@@ -161,7 +161,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "HKUSTDial/Supervisor-Skills",
             "description": "\u5c06\u535a\u5bfc\u5341\u5e74\u79d1\u7814\u7ecf\u9a8c\u70bc\u5316\u4e3a\u53ef\u76f4\u63a5\u8c03\u7528\u7684 AI \u6280\u80fd\u3002\u4ece Idea \u6784\u601d\u5230\u8bba\u6587\u6295\u7a3f\uff0c\u4f60\u7684 AI \u79d1\u7814\u526f\u5bfc\u5e08\u3002",
             "url": "https://github.com/HKUSTDial/Supervisor-Skills",
-            "stars": 539,
+            "stars": 540,
             "forks": 38,
             "score": 53
         },
@@ -172,7 +172,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "YGYOOO/WorldX",
             "description": "One sentence creates an AI-driven world \u2014 generate maps, characters, and watch stories emerge on their own. \u4e00\u53e5\u8bdd\u751f\u6210\u4e00\u4e2aAI\u81ea\u4e3b\u9a71\u52a8\u7684\u4e16\u754c.",
             "url": "https://github.com/YGYOOO/WorldX",
-            "stars": 468,
+            "stars": 469,
             "forks": 70,
             "score": 53
         },
@@ -194,8 +194,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "vibheksoni/free-ai",
             "description": "Free OpenAI-compatible AI API for builders. Join Discord, run /signup, get a key, and use free models.",
             "url": "https://github.com/vibheksoni/free-ai",
-            "stars": 271,
-            "forks": 59,
+            "stars": 274,
+            "forks": 62,
             "score": 51
         },
         {
@@ -223,6 +223,17 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
+            "name": "oh-my-ppt",
+            "full_name": "arcsin1/oh-my-ppt",
+            "description": "Local-first AI PPT generator with Desktop APP for entrepreneurs. Clean HTML slides, no cloud lock-in. Write prompt \u2192 get deck.",
+            "url": "https://github.com/arcsin1/oh-my-ppt",
+            "stars": 243,
+            "forks": 20,
+            "score": 46
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
             "name": "agent-style",
             "full_name": "yzhao062/agent-style",
             "description": "21 writing rules for AI coding and writing agents. Drop-in for Claude Code, Codex, Copilot, Cursor, and Aider, so their output reads like a tech pro.",
@@ -245,23 +256,12 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "oh-my-ppt",
-            "full_name": "arcsin1/oh-my-ppt",
-            "description": "Local-first AI PPT generator with Desktop APP for entrepreneurs. Clean HTML slides, no cloud lock-in. Write prompt \u2192 get deck.",
-            "url": "https://github.com/arcsin1/oh-my-ppt",
-            "stars": 239,
-            "forks": 20,
-            "score": 45
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
             "name": "alice",
             "full_name": "simoncirstoiu/alice",
             "description": "Analyse \u00b7 Learn \u00b7 Ingest \u00b7 Curate \u00b7 Export \u2014 AI-powered YOLO dataset management toolkit",
             "url": "https://github.com/simoncirstoiu/alice",
             "stars": 300,
-            "forks": 30,
+            "forks": 31,
             "score": 44
         },
         {
@@ -282,7 +282,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Anbeeld/WRITING.md",
             "description": "Rules to make AI text sharper and genre-aware, with concrete anchors and built-in self-auditing workflow",
             "url": "https://github.com/Anbeeld/WRITING.md",
-            "stars": 182,
+            "stars": 184,
             "forks": 13,
             "score": 41
         },
@@ -295,7 +295,7 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/you-want/mini-cc",
             "stars": 196,
             "forks": 22,
-            "score": 39
+            "score": 38
         },
         {
             "main_cat": "AI",
@@ -304,7 +304,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "sigcli/sigcli",
             "description": "The authentication CLI & Proxy for AI agents. Give agents access, not your credentials.",
             "url": "https://github.com/sigcli/sigcli",
-            "stars": 181,
+            "stars": 182,
             "forks": 17,
             "score": 38
         },
@@ -375,6 +375,17 @@ const ALPHA_DATA_V2 = {
             "score": 30
         },
         {
+            "main_cat": "DePIN",
+            "sub_cat": null,
+            "name": "tps",
+            "full_name": "adiudiuu/tps",
+            "description": "GPU inference speed calculator \u2014 estimate theoretical tokens/s by GPU model, count & quantization",
+            "url": "https://github.com/adiudiuu/tps",
+            "stars": 10,
+            "forks": 0,
+            "score": 30
+        },
+        {
             "main_cat": "AI",
             "sub_cat": "AI General",
             "name": "microcuda",
@@ -383,17 +394,6 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/webxos/microcuda",
             "stars": 9,
             "forks": 1,
-            "score": 30
-        },
-        {
-            "main_cat": "DePIN",
-            "sub_cat": null,
-            "name": "tps",
-            "full_name": "adiudiuu/tps",
-            "description": "GPU inference speed calculator \u2014 estimate theoretical tokens/s by GPU model, count & quantization",
-            "url": "https://github.com/adiudiuu/tps",
-            "stars": 9,
-            "forks": 0,
             "score": 30
         },
         {
@@ -718,6 +718,20 @@ const ALPHA_DATA_V2 = {
     ],
     "news": [
         {
+            "title": "FlashRT: Towards Computationally and Memory Efficient Red-Teaming for Prompt Injection and Knowledge Corruption",
+            "source": "ArXiv",
+            "type": "Research Alpha",
+            "color": "text-indigo-600",
+            "url": "http://arxiv.org/abs/2604.28157v1"
+        },
+        {
+            "title": "Latent Adversarial Detection: Adaptive Probing of LLM Activations for Multi-Turn Attack Detection",
+            "source": "ArXiv",
+            "type": "Research Alpha",
+            "color": "text-indigo-600",
+            "url": "http://arxiv.org/abs/2604.28129v1"
+        },
+        {
             "title": "Will Netflix (NFLX) finish week of April 27 above $80? (Probability: 93%)",
             "source": "Polymarket",
             "type": "Expectation",
@@ -725,5 +739,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/market/nflx-above-80-on-may-1-2026"
         }
     ],
-    "timestamp": "2026-05-01 13:06"
+    "timestamp": "2026-05-01 14:49"
 };
