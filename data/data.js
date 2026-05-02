@@ -7,7 +7,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "cosmicstack-labs/mercury-agent",
             "description": "Soul-driven AI agent with permission-hardened tools, token budgets, and multi-channel access. Runs 24/7 from CLI or Telegram.",
             "url": "https://github.com/cosmicstack-labs/mercury-agent",
-            "stars": 1897,
+            "stars": 1900,
             "forks": 196,
             "score": 99
         },
@@ -18,8 +18,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "willchen96/mike",
             "description": "OSS AI Legal Platform",
             "url": "https://github.com/willchen96/mike",
-            "stars": 1278,
-            "forks": 338,
+            "stars": 1294,
+            "forks": 342,
             "score": 99
         },
         {
@@ -29,7 +29,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "GammaLabTechnologies/harmonist",
             "description": "Portable AI agent orchestration with mechanical protocol enforcement. 186 agents, zero runtime dependencies.",
             "url": "https://github.com/GammaLabTechnologies/harmonist",
-            "stars": 1115,
+            "stars": 1117,
             "forks": 323,
             "score": 99
         },
@@ -40,20 +40,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "mattpocock/dictionary-of-ai-coding",
             "description": "AI coding jargon, explained in plain English.",
             "url": "https://github.com/mattpocock/dictionary-of-ai-coding",
-            "stars": 596,
-            "forks": 92,
+            "stars": 601,
+            "forks": 93,
             "score": 99
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "coinbase-trading-bot",
-            "full_name": "ForecastForge/coinbase-trading-bot",
-            "description": "coinbase trading bot, coinbase bot, AI/automated crypto trading, Coinbase Advanced Trade/Pro, spot and futures, grid DCA scalping arbitrage, copy and signal bots, strategy setup tutorial guide automation",
-            "url": "https://github.com/ForecastForge/coinbase-trading-bot",
-            "stars": 196,
-            "forks": 190,
-            "score": 98
         },
         {
             "main_cat": "AI",
@@ -62,20 +51,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "sandeco/reversa",
             "description": "Transform legacy systems into executable specifications for AI coding agents",
             "url": "https://github.com/sandeco/reversa",
-            "stars": 429,
-            "forks": 198,
-            "score": 97
+            "stars": 432,
+            "forks": 199,
+            "score": 98
         },
         {
             "main_cat": "AI",
-            "sub_cat": null,
-            "name": "oh-story-claudecode",
-            "full_name": "worldwonderer/oh-story-claudecode",
-            "description": "\u7f51\u6587\u5199\u4f5c skill \u5305\uff0c\u8986\u76d6\u957f\u7bc7\u4e0e\u77ed\u7bc7\u7f51\u7edc\u5c0f\u8bf4\u7684\u626b\u699c\u3001\u62c6\u6587\u3001\u5199\u4f5c\u3001\u53bbAI\u5473\u3001\u5c01\u9762\u56fe\u5168\u6d41\u7a0b",
-            "url": "https://github.com/worldwonderer/oh-story-claudecode",
-            "stars": 702,
-            "forks": 194,
-            "score": 91
+            "sub_cat": "AI General",
+            "name": "coinbase-trading-bot",
+            "full_name": "ForecastForge/coinbase-trading-bot",
+            "description": "coinbase trading bot, coinbase bot, AI/automated crypto trading, Coinbase Advanced Trade/Pro, spot and futures, grid DCA scalping arbitrage, copy and signal bots, strategy setup tutorial guide automation",
+            "url": "https://github.com/ForecastForge/coinbase-trading-bot",
+            "stars": 197,
+            "forks": 190,
+            "score": 98
         },
         {
             "main_cat": "AI",
@@ -86,6 +75,17 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/future-agi/future-agi",
             "stars": 804,
             "forks": 140,
+            "score": 86
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "oh-story-claudecode",
+            "full_name": "worldwonderer/oh-story-claudecode",
+            "description": "\u7f51\u6587\u5199\u4f5c skill \u5305\uff0c\u8986\u76d6\u957f\u7bc7\u4e0e\u77ed\u7bc7\u7f51\u7edc\u5c0f\u8bf4\u7684\u626b\u699c\u3001\u62c6\u6587\u3001\u5199\u4f5c\u3001\u53bbAI\u5473\u3001\u5c01\u9762\u56fe\u5168\u6d41\u7a0b",
+            "url": "https://github.com/worldwonderer/oh-story-claudecode",
+            "stars": 702,
+            "forks": 194,
             "score": 86
         },
         {
@@ -106,8 +106,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "ammaarreshi/gemma-chat",
             "description": "Local AI chat + coding agent for Apple Silicon, powered by Gemma 4 via MLX / Supports Ollama",
             "url": "https://github.com/ammaarreshi/gemma-chat",
-            "stars": 740,
-            "forks": 112,
+            "stars": 743,
+            "forks": 113,
             "score": 69
         },
         {
@@ -118,7 +118,7 @@ const ALPHA_DATA_V2 = {
             "description": "Stash \u2014 persistent memory layer for AI agents. Episodes, facts, and working context stored in Postgres. MCP server included. Self-hosted, single binary, no cloud required.",
             "url": "https://github.com/alash3al/stash",
             "stars": 623,
-            "forks": 25,
+            "forks": 26,
             "score": 66
         },
         {
@@ -128,7 +128,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "ZeroZ-lab/cc-design",
             "description": "High-fidelity HTML design and prototype guidance skill for AI agents",
             "url": "https://github.com/ZeroZ-lab/cc-design",
-            "stars": 682,
+            "stars": 683,
             "forks": 68,
             "score": 59
         },
@@ -140,7 +140,18 @@ const ALPHA_DATA_V2 = {
             "description": "A super Chrome extension I made that's safer than installing external malware/spyware-filled extensions that form a massive security risk, this one is open source and you can read and check the source code (with AI) before you install it, and customize it to your liking!",
             "url": "https://github.com/levelsio/superlevels",
             "stars": 459,
-            "forks": 48,
+            "forks": 49,
+            "score": 57
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "openless",
+            "full_name": "appergb/openless",
+            "description": "Hold a key, speak, release \u2014 AI-polished text appears at your cursor in any app. Open-source voice input for macOS & Windows. (\u6309\u4f4f\u5feb\u6377\u952e\u8bf4\u8bdd\uff0c\u677e\u5f00\u5373\u5f97\u6da6\u8272\u540e\u7684\u6587\u5b57)",
+            "url": "https://github.com/appergb/openless",
+            "stars": 331,
+            "forks": 28,
             "score": 57
         },
         {
@@ -157,13 +168,13 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "openless",
-            "full_name": "appergb/openless",
-            "description": "Hold a key, speak, release \u2014 AI-polished text appears at your cursor in any app. Open-source voice input for macOS & Windows. (\u6309\u4f4f\u5feb\u6377\u952e\u8bf4\u8bdd\uff0c\u677e\u5f00\u5373\u5f97\u6da6\u8272\u540e\u7684\u6587\u5b57)",
-            "url": "https://github.com/appergb/openless",
-            "stars": 315,
-            "forks": 27,
-            "score": 56
+            "name": "Supervisor-Skills",
+            "full_name": "HKUSTDial/Supervisor-Skills",
+            "description": "\u5c06\u535a\u5bfc\u5341\u5e74\u79d1\u7814\u7ecf\u9a8c\u70bc\u5316\u4e3a\u53ef\u76f4\u63a5\u8c03\u7528\u7684 AI \u6280\u80fd\u3002\u4ece Idea \u6784\u601d\u5230\u8bba\u6587\u6295\u7a3f\uff0c\u4f60\u7684 AI \u79d1\u7814\u526f\u5bfc\u5e08\u3002",
+            "url": "https://github.com/HKUSTDial/Supervisor-Skills",
+            "stars": 561,
+            "forks": 44,
+            "score": 53
         },
         {
             "main_cat": "AI",
@@ -178,23 +189,12 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
-            "sub_cat": null,
-            "name": "Supervisor-Skills",
-            "full_name": "HKUSTDial/Supervisor-Skills",
-            "description": "\u5c06\u535a\u5bfc\u5341\u5e74\u79d1\u7814\u7ecf\u9a8c\u70bc\u5316\u4e3a\u53ef\u76f4\u63a5\u8c03\u7528\u7684 AI \u6280\u80fd\u3002\u4ece Idea \u6784\u601d\u5230\u8bba\u6587\u6295\u7a3f\uff0c\u4f60\u7684 AI \u79d1\u7814\u526f\u5bfc\u5e08\u3002",
-            "url": "https://github.com/HKUSTDial/Supervisor-Skills",
-            "stars": 561,
-            "forks": 43,
-            "score": 52
-        },
-        {
-            "main_cat": "AI",
             "sub_cat": "AI General",
             "name": "Uncensored-Local-AI-Multiplatform",
             "full_name": "techjarves/Uncensored-Local-AI-Multiplatform",
             "description": "A cross-platform Flutter app that runs uncensored, 100% offline open-source AI models (GGUF) directly on your Android, iOS, or PC. No cloud, no filters, total privacy.",
             "url": "https://github.com/techjarves/Uncensored-Local-AI-Multiplatform",
-            "stars": 393,
+            "stars": 394,
             "forks": 73,
             "score": 51
         },
@@ -205,8 +205,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "vibheksoni/free-ai",
             "description": "Free OpenAI-compatible AI API for builders. Join Discord, run /signup, get a key, and use free models.",
             "url": "https://github.com/vibheksoni/free-ai",
-            "stars": 293,
-            "forks": 68,
+            "stars": 294,
+            "forks": 69,
             "score": 51
         },
         {
@@ -227,7 +227,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "arcsin1/oh-my-ppt",
             "description": "Local-first AI PPT generator with Desktop APP for entrepreneurs. Clean HTML slides, no cloud lock-in. Write prompt \u2192 get deck.",
             "url": "https://github.com/arcsin1/oh-my-ppt",
-            "stars": 264,
+            "stars": 266,
             "forks": 23,
             "score": 46
         },
@@ -304,7 +304,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Qiuner/ai-application-roadmap",
             "description": "A bilingual map of AI engineering evolution, real-world AI usage patterns, and vibe coding best practices.",
             "url": "https://github.com/Qiuner/ai-application-roadmap",
-            "stars": 220,
+            "stars": 221,
             "forks": 2,
             "score": 37
         },
@@ -692,17 +692,6 @@ const ALPHA_DATA_V2 = {
             "stars": 0,
             "forks": 0,
             "score": 30
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "agent-coordination-platform",
-            "full_name": "w1123581321345589/agent-coordination-platform",
-            "description": "Full-stack Agent Coordination Platform \u2014 A2A Protocol, Security, Recovery Router, Cross-Model Routing, Proposal Engine, Context + Shapley, Coordination Tournaments, Meta-Learner",
-            "url": "https://github.com/w1123581321345589/agent-coordination-platform",
-            "stars": 0,
-            "forks": 0,
-            "score": 30
         }
     ],
     "news": [
@@ -721,12 +710,12 @@ const ALPHA_DATA_V2 = {
             "url": "http://arxiv.org/abs/2604.28129v1"
         },
         {
-            "title": "Will the price of Bitcoin be between $82,000 and $84,000 on May 5? (Probability: 2%)",
+            "title": "Will the price of Ethereum be greater than $2,700 on May 5? (Probability: 2%)",
             "source": "Polymarket",
             "type": "Expectation",
             "color": "text-indigo-400",
-            "url": "https://polymarket.com/market/will-the-price-of-bitcoin-be-between-82000-84000-on-may-5"
+            "url": "https://polymarket.com/market/will-the-price-of-ethereum-be-greater-than-2700-on-may-5"
         }
     ],
-    "timestamp": "2026-05-02 15:40"
+    "timestamp": "2026-05-02 16:39"
 };
