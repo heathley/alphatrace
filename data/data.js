@@ -18,8 +18,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "willchen96/mike",
             "description": "OSS AI Legal Platform",
             "url": "https://github.com/willchen96/mike",
-            "stars": 1294,
-            "forks": 342,
+            "stars": 1316,
+            "forks": 352,
             "score": 99
         },
         {
@@ -29,7 +29,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "GammaLabTechnologies/harmonist",
             "description": "Portable AI agent orchestration with mechanical protocol enforcement. 186 agents, zero runtime dependencies.",
             "url": "https://github.com/GammaLabTechnologies/harmonist",
-            "stars": 1117,
+            "stars": 1122,
             "forks": 323,
             "score": 99
         },
@@ -40,8 +40,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "mattpocock/dictionary-of-ai-coding",
             "description": "AI coding jargon, explained in plain English.",
             "url": "https://github.com/mattpocock/dictionary-of-ai-coding",
-            "stars": 601,
-            "forks": 93,
+            "stars": 615,
+            "forks": 94,
             "score": 99
         },
         {
@@ -51,9 +51,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "sandeco/reversa",
             "description": "Transform legacy systems into executable specifications for AI coding agents",
             "url": "https://github.com/sandeco/reversa",
-            "stars": 432,
-            "forks": 199,
-            "score": 98
+            "stars": 440,
+            "forks": 201,
+            "score": 99
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "ai-trading-agent",
+            "full_name": "endless-sky-team/ai-trading-agent",
+            "description": "llm trading bot ai agent crypto bitcoin ethereum perpetuals openrouter lighter algorithmic automated quant typescript react postgres bun fintech defi machine-learning open-source crypto-bot signals",
+            "url": "https://github.com/endless-sky-team/ai-trading-agent",
+            "stars": 187,
+            "forks": 161,
+            "score": 99
         },
         {
             "main_cat": "AI",
@@ -84,7 +95,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "worldwonderer/oh-story-claudecode",
             "description": "\u7f51\u6587\u5199\u4f5c skill \u5305\uff0c\u8986\u76d6\u957f\u7bc7\u4e0e\u77ed\u7bc7\u7f51\u7edc\u5c0f\u8bf4\u7684\u626b\u699c\u3001\u62c6\u6587\u3001\u5199\u4f5c\u3001\u53bbAI\u5473\u3001\u5c01\u9762\u56fe\u5168\u6d41\u7a0b",
             "url": "https://github.com/worldwonderer/oh-story-claudecode",
-            "stars": 702,
+            "stars": 703,
             "forks": 194,
             "score": 86
         },
@@ -106,7 +117,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "ammaarreshi/gemma-chat",
             "description": "Local AI chat + coding agent for Apple Silicon, powered by Gemma 4 via MLX / Supports Ollama",
             "url": "https://github.com/ammaarreshi/gemma-chat",
-            "stars": 743,
+            "stars": 746,
             "forks": 113,
             "score": 69
         },
@@ -135,23 +146,23 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
+            "name": "openless",
+            "full_name": "appergb/openless",
+            "description": "Hold a key, speak, release \u2014 AI-polished text appears at your cursor in any app. Open-source voice input for macOS & Windows. (\u6309\u4f4f\u5feb\u6377\u952e\u8bf4\u8bdd\uff0c\u677e\u5f00\u5373\u5f97\u6da6\u8272\u540e\u7684\u6587\u5b57)",
+            "url": "https://github.com/appergb/openless",
+            "stars": 338,
+            "forks": 28,
+            "score": 58
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
             "name": "superlevels",
             "full_name": "levelsio/superlevels",
             "description": "A super Chrome extension I made that's safer than installing external malware/spyware-filled extensions that form a massive security risk, this one is open source and you can read and check the source code (with AI) before you install it, and customize it to your liking!",
             "url": "https://github.com/levelsio/superlevels",
             "stars": 459,
             "forks": 49,
-            "score": 57
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "openless",
-            "full_name": "appergb/openless",
-            "description": "Hold a key, speak, release \u2014 AI-polished text appears at your cursor in any app. Open-source voice input for macOS & Windows. (\u6309\u4f4f\u5feb\u6377\u952e\u8bf4\u8bdd\uff0c\u677e\u5f00\u5373\u5f97\u6da6\u8272\u540e\u7684\u6587\u5b57)",
-            "url": "https://github.com/appergb/openless",
-            "stars": 331,
-            "forks": 28,
             "score": 57
         },
         {
@@ -190,6 +201,17 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
+            "name": "free-ai",
+            "full_name": "vibheksoni/free-ai",
+            "description": "Free OpenAI-compatible AI API for builders. Join Discord, run /signup, get a key, and use free models.",
+            "url": "https://github.com/vibheksoni/free-ai",
+            "stars": 296,
+            "forks": 69,
+            "score": 52
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
             "name": "Uncensored-Local-AI-Multiplatform",
             "full_name": "techjarves/Uncensored-Local-AI-Multiplatform",
             "description": "A cross-platform Flutter app that runs uncensored, 100% offline open-source AI models (GGUF) directly on your Android, iOS, or PC. No cloud, no filters, total privacy.",
@@ -201,22 +223,11 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
-            "name": "free-ai",
-            "full_name": "vibheksoni/free-ai",
-            "description": "Free OpenAI-compatible AI API for builders. Join Discord, run /signup, get a key, and use free models.",
-            "url": "https://github.com/vibheksoni/free-ai",
-            "stars": 294,
-            "forks": 69,
-            "score": 51
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
             "name": "Claude-Code-AI-Design",
             "full_name": "Julpygo/Claude-Code-AI-Design",
             "description": "Claude Design Anthropic Tool Download April 2026 Figma to Code AI Agent Research Preview Claude Code CLI Integration React 19 Tailwind v4 Support Model Context Protocol MCP Server Setup Design Systems Automation UI UX Prototyping Next.js Component Generation Best Developer Tools 2026 Free Tutorial",
             "url": "https://github.com/Julpygo/Claude-Code-AI-Design",
-            "stars": 206,
+            "stars": 208,
             "forks": 0,
             "score": 47
         },
@@ -227,19 +238,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "arcsin1/oh-my-ppt",
             "description": "Local-first AI PPT generator with Desktop APP for entrepreneurs. Clean HTML slides, no cloud lock-in. Write prompt \u2192 get deck.",
             "url": "https://github.com/arcsin1/oh-my-ppt",
-            "stars": 266,
+            "stars": 268,
             "forks": 23,
-            "score": 46
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "AITD",
-            "full_name": "Yaolinwang/AITD",
-            "description": "AI Trading Agent for Everyone",
-            "url": "https://github.com/Yaolinwang/AITD",
-            "stars": 205,
-            "forks": 56,
             "score": 46
         },
         {
@@ -249,7 +249,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Senabayu08989/Stable-Diffusion-AI-Free",
             "description": "Stable Diffusion Free AI Image Generator Flux 2 Local Deployment Real-time Video Character Consistency Identity Anchoring SDXL Turbo LoRA Training ControlNet Open Source Art Studio Hyperrealistic Cinematic Styles Prompt Engineering Python Pytorch Forge ComfyUI 2026 Release High Resolution Desktop Tool",
             "url": "https://github.com/Senabayu08989/Stable-Diffusion-AI-Free",
-            "stars": 202,
+            "stars": 203,
             "forks": 0,
             "score": 46
         },
@@ -260,8 +260,19 @@ const ALPHA_DATA_V2 = {
             "full_name": "dezgit2025/auto-memory",
             "description": "Your AI coding agent never forgets \u2014 progressive session recall CLI",
             "url": "https://github.com/dezgit2025/auto-memory",
-            "stars": 315,
+            "stars": 316,
             "forks": 30,
+            "score": 45
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "AITD",
+            "full_name": "Yaolinwang/AITD",
+            "description": "AI Trading Agent for Everyone",
+            "url": "https://github.com/Yaolinwang/AITD",
+            "stars": 205,
+            "forks": 56,
             "score": 45
         },
         {
@@ -293,7 +304,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Anbeeld/WRITING.md",
             "description": "Rules to make AI text sharper and genre-aware, with concrete anchors and built-in self-auditing workflow",
             "url": "https://github.com/Anbeeld/WRITING.md",
-            "stars": 191,
+            "stars": 192,
             "forks": 13,
             "score": 41
         },
@@ -304,7 +315,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Qiuner/ai-application-roadmap",
             "description": "A bilingual map of AI engineering evolution, real-world AI usage patterns, and vibe coding best practices.",
             "url": "https://github.com/Qiuner/ai-application-roadmap",
-            "stars": 221,
+            "stars": 223,
             "forks": 2,
             "score": 37
         },
@@ -342,6 +353,17 @@ const ALPHA_DATA_V2 = {
             "score": 30
         },
         {
+            "main_cat": "DePIN",
+            "sub_cat": null,
+            "name": "tps",
+            "full_name": "adiudiuu/tps",
+            "description": "GPU inference speed calculator \u2014 estimate theoretical tokens/s by GPU model, count & quantization",
+            "url": "https://github.com/adiudiuu/tps",
+            "stars": 11,
+            "forks": 0,
+            "score": 30
+        },
+        {
             "main_cat": "AI",
             "sub_cat": "AI General",
             "name": "LumiChats-Offline-LLM",
@@ -349,17 +371,6 @@ const ALPHA_DATA_V2 = {
             "description": "Run powerful open-source AI models privately on your Windows PC \u2014 no internet, no GPU, no cloud. Built on GPT4All with 9 custom fine-tuned models.",
             "url": "https://github.com/adityajhakumar/LumiChats-Offline-LLM",
             "stars": 11,
-            "forks": 0,
-            "score": 30
-        },
-        {
-            "main_cat": "DePIN",
-            "sub_cat": null,
-            "name": "tps",
-            "full_name": "adiudiuu/tps",
-            "description": "GPU inference speed calculator \u2014 estimate theoretical tokens/s by GPU model, count & quantization",
-            "url": "https://github.com/adiudiuu/tps",
-            "stars": 10,
             "forks": 0,
             "score": 30
         },
@@ -710,12 +721,12 @@ const ALPHA_DATA_V2 = {
             "url": "http://arxiv.org/abs/2604.28129v1"
         },
         {
-            "title": "Will the price of Ethereum be greater than $2,700 on May 5? (Probability: 2%)",
+            "title": "Bitcoin Up or Down - May 3, 1:10PM-1:15PM ET (Probability: 50%)",
             "source": "Polymarket",
             "type": "Expectation",
             "color": "text-indigo-400",
-            "url": "https://polymarket.com/market/will-the-price-of-ethereum-be-greater-than-2700-on-may-5"
+            "url": "https://polymarket.com/market/btc-updown-5m-1777828200"
         }
     ],
-    "timestamp": "2026-05-02 16:39"
+    "timestamp": "2026-05-02 17:39"
 };
