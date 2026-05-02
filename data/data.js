@@ -7,7 +7,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "cosmicstack-labs/mercury-agent",
             "description": "Soul-driven AI agent with permission-hardened tools, token budgets, and multi-channel access. Runs 24/7 from CLI or Telegram.",
             "url": "https://github.com/cosmicstack-labs/mercury-agent",
-            "stars": 1908,
+            "stars": 1909,
             "forks": 196,
             "score": 99
         },
@@ -18,8 +18,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "willchen96/mike",
             "description": "OSS AI Legal Platform",
             "url": "https://github.com/willchen96/mike",
-            "stars": 1376,
-            "forks": 366,
+            "stars": 1382,
+            "forks": 370,
             "score": 99
         },
         {
@@ -40,8 +40,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "mattpocock/dictionary-of-ai-coding",
             "description": "AI coding jargon, explained in plain English.",
             "url": "https://github.com/mattpocock/dictionary-of-ai-coding",
-            "stars": 645,
-            "forks": 96,
+            "stars": 658,
+            "forks": 98,
             "score": 99
         },
         {
@@ -51,8 +51,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "sandeco/reversa",
             "description": "Transform legacy systems into executable specifications for AI coding agents",
             "url": "https://github.com/sandeco/reversa",
-            "stars": 451,
-            "forks": 205,
+            "stars": 454,
+            "forks": 206,
             "score": 99
         },
         {
@@ -62,9 +62,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "ForecastForge/coinbase-trading-bot",
             "description": "coinbase trading bot, coinbase bot, AI/automated crypto trading, Coinbase Advanced Trade/Pro, spot and futures, grid DCA scalping arbitrage, copy and signal bots, strategy setup tutorial guide automation",
             "url": "https://github.com/ForecastForge/coinbase-trading-bot",
-            "stars": 199,
+            "stars": 200,
             "forks": 190,
-            "score": 89
+            "score": 90
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "oh-story-claudecode",
+            "full_name": "worldwonderer/oh-story-claudecode",
+            "description": "\u7f51\u6587\u5199\u4f5c skill \u5305\uff0c\u8986\u76d6\u957f\u7bc7\u4e0e\u77ed\u7bc7\u7f51\u7edc\u5c0f\u8bf4\u7684\u626b\u699c\u3001\u62c6\u6587\u3001\u5199\u4f5c\u3001\u53bbAI\u5473\u3001\u5c01\u9762\u56fe\u5168\u6d41\u7a0b",
+            "url": "https://github.com/worldwonderer/oh-story-claudecode",
+            "stars": 705,
+            "forks": 195,
+            "score": 87
         },
         {
             "main_cat": "AI",
@@ -80,22 +91,11 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "oh-story-claudecode",
-            "full_name": "worldwonderer/oh-story-claudecode",
-            "description": "\u7f51\u6587\u5199\u4f5c skill \u5305\uff0c\u8986\u76d6\u957f\u7bc7\u4e0e\u77ed\u7bc7\u7f51\u7edc\u5c0f\u8bf4\u7684\u626b\u699c\u3001\u62c6\u6587\u3001\u5199\u4f5c\u3001\u53bbAI\u5473\u3001\u5c01\u9762\u56fe\u5168\u6d41\u7a0b",
-            "url": "https://github.com/worldwonderer/oh-story-claudecode",
-            "stars": 704,
-            "forks": 194,
-            "score": 86
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
             "name": "freellmapi",
             "full_name": "tashfeenahmed/freellmapi",
             "description": "OpenAI-compatible proxy that aggregates free-tier keys from ~14 AI providers with automatic failover. For personal experimentation only.",
             "url": "https://github.com/tashfeenahmed/freellmapi",
-            "stars": 807,
+            "stars": 808,
             "forks": 150,
             "score": 80
         },
@@ -106,8 +106,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "ammaarreshi/gemma-chat",
             "description": "Local AI chat + coding agent for Apple Silicon, powered by Gemma 4 via MLX / Supports Ollama",
             "url": "https://github.com/ammaarreshi/gemma-chat",
-            "stars": 755,
-            "forks": 114,
+            "stars": 760,
+            "forks": 116,
             "score": 70
         },
         {
@@ -117,9 +117,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "alash3al/stash",
             "description": "Stash \u2014 persistent memory layer for AI agents. Episodes, facts, and working context stored in Postgres. MCP server included. Self-hosted, single binary, no cloud required.",
             "url": "https://github.com/alash3al/stash",
-            "stars": 624,
+            "stars": 625,
             "forks": 26,
-            "score": 66
+            "score": 63
         },
         {
             "main_cat": "AI",
@@ -128,7 +128,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "ZeroZ-lab/cc-design",
             "description": "High-fidelity HTML design and prototype guidance skill for AI agents",
             "url": "https://github.com/ZeroZ-lab/cc-design",
-            "stars": 686,
+            "stars": 687,
             "forks": 68,
             "score": 59
         },
@@ -139,7 +139,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "appergb/openless",
             "description": "Hold a key, speak, release \u2014 AI-polished text appears at your cursor in any app. Open-source voice input for macOS & Windows. (\u6309\u4f4f\u5feb\u6377\u952e\u8bf4\u8bdd\uff0c\u677e\u5f00\u5373\u5f97\u6da6\u8272\u540e\u7684\u6587\u5b57)",
             "url": "https://github.com/appergb/openless",
-            "stars": 345,
+            "stars": 347,
             "forks": 30,
             "score": 59
         },
@@ -161,7 +161,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "xiaochong/hi-kid",
             "description": "HiKid - Your AI English Pal. A desktop app built with React and TypeScript, targeting children in non-English-speaking countries who want to practice English speaking and listening.",
             "url": "https://github.com/xiaochong/hi-kid",
-            "stars": 551,
+            "stars": 550,
             "forks": 73,
             "score": 56
         },
@@ -201,17 +201,6 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
-            "name": "free-ai",
-            "full_name": "vibheksoni/free-ai",
-            "description": "Free OpenAI-compatible AI API for builders. Join Discord, run /signup, get a key, and use free models.",
-            "url": "https://github.com/vibheksoni/free-ai",
-            "stars": 297,
-            "forks": 69,
-            "score": 52
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
             "name": "Uncensored-Local-AI-Multiplatform",
             "full_name": "techjarves/Uncensored-Local-AI-Multiplatform",
             "description": "A cross-platform Flutter app that runs uncensored, 100% offline open-source AI models (GGUF) directly on your Android, iOS, or PC. No cloud, no filters, total privacy.",
@@ -219,6 +208,17 @@ const ALPHA_DATA_V2 = {
             "stars": 395,
             "forks": 73,
             "score": 51
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "free-ai",
+            "full_name": "vibheksoni/free-ai",
+            "description": "Free OpenAI-compatible AI API for builders. Join Discord, run /signup, get a key, and use free models.",
+            "url": "https://github.com/vibheksoni/free-ai",
+            "stars": 297,
+            "forks": 69,
+            "score": 50
         },
         {
             "main_cat": "AI",
@@ -359,7 +359,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "adiudiuu/tps",
             "description": "GPU inference speed calculator \u2014 estimate theoretical tokens/s by GPU model, count & quantization",
             "url": "https://github.com/adiudiuu/tps",
-            "stars": 11,
+            "stars": 12,
             "forks": 0,
             "score": 30
         },
@@ -743,12 +743,12 @@ const ALPHA_DATA_V2 = {
             "url": "http://arxiv.org/abs/2604.28129v1"
         },
         {
-            "title": "Bitcoin Up or Down - May 3, 1:10PM-1:15PM ET (Probability: 50%)",
+            "title": "Will the price of Ethereum be above $2,600 on May 6? (Probability: 1%)",
             "source": "Polymarket",
             "type": "Expectation",
             "color": "text-indigo-400",
-            "url": "https://polymarket.com/market/btc-updown-5m-1777828200"
+            "url": "https://polymarket.com/market/ethereum-above-2600-on-may-6"
         }
     ],
-    "timestamp": "2026-05-02 21:34"
+    "timestamp": "2026-05-02 22:33"
 };
