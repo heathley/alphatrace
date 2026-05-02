@@ -18,8 +18,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "willchen96/mike",
             "description": "OSS AI Legal Platform",
             "url": "https://github.com/willchen96/mike",
-            "stars": 1201,
-            "forks": 310,
+            "stars": 1223,
+            "forks": 319,
             "score": 99
         },
         {
@@ -29,8 +29,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "GammaLabTechnologies/harmonist",
             "description": "Portable AI agent orchestration with mechanical protocol enforcement. 186 agents, zero runtime dependencies.",
             "url": "https://github.com/GammaLabTechnologies/harmonist",
-            "stars": 1107,
-            "forks": 319,
+            "stars": 1108,
+            "forks": 320,
             "score": 99
         },
         {
@@ -40,8 +40,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "mattpocock/dictionary-of-ai-coding",
             "description": "AI coding jargon, explained in plain English.",
             "url": "https://github.com/mattpocock/dictionary-of-ai-coding",
-            "stars": 509,
-            "forks": 85,
+            "stars": 539,
+            "forks": 88,
             "score": 99
         },
         {
@@ -51,8 +51,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "sandeco/reversa",
             "description": "Transform legacy systems into executable specifications for AI coding agents",
             "url": "https://github.com/sandeco/reversa",
-            "stars": 415,
-            "forks": 192,
+            "stars": 416,
+            "forks": 193,
             "score": 99
         },
         {
@@ -62,7 +62,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "ForecastForge/coinbase-trading-bot",
             "description": "coinbase trading bot, coinbase bot, AI/automated crypto trading, Coinbase Advanced Trade/Pro, spot and futures, grid DCA scalping arbitrage, copy and signal bots, strategy setup tutorial guide automation",
             "url": "https://github.com/ForecastForge/coinbase-trading-bot",
-            "stars": 192,
+            "stars": 193,
             "forks": 190,
             "score": 98
         },
@@ -73,8 +73,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "future-agi/future-agi",
             "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals \u00b7 Simulations \u00b7 Datasets \u00b7 Gateway \u00b7 Guardrails. Self-hostable. Apache 2.0.",
             "url": "https://github.com/future-agi/future-agi",
-            "stars": 801,
-            "forks": 137,
+            "stars": 802,
+            "forks": 138,
             "score": 91
         },
         {
@@ -95,7 +95,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "tashfeenahmed/freellmapi",
             "description": "OpenAI-compatible proxy that aggregates free-tier keys from ~14 AI providers with automatic failover. For personal experimentation only.",
             "url": "https://github.com/tashfeenahmed/freellmapi",
-            "stars": 805,
+            "stars": 806,
             "forks": 149,
             "score": 83
         },
@@ -106,8 +106,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "ammaarreshi/gemma-chat",
             "description": "Local AI chat + coding agent for Apple Silicon, powered by Gemma 4 via MLX / Supports Ollama",
             "url": "https://github.com/ammaarreshi/gemma-chat",
-            "stars": 718,
-            "forks": 107,
+            "stars": 723,
+            "forks": 108,
             "score": 68
         },
         {
@@ -139,7 +139,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "levelsio/superlevels",
             "description": "A super Chrome extension I made that's safer than installing external malware/spyware-filled extensions that form a massive security risk, this one is open source and you can read and check the source code (with AI) before you install it, and customize it to your liking!",
             "url": "https://github.com/levelsio/superlevels",
-            "stars": 457,
+            "stars": 459,
             "forks": 48,
             "score": 59
         },
@@ -150,7 +150,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "xiaochong/hi-kid",
             "description": "HiKid - Your AI English Pal. A desktop app built with React and TypeScript, targeting children in non-English-speaking countries who want to practice English speaking and listening.",
             "url": "https://github.com/xiaochong/hi-kid",
-            "stars": 550,
+            "stars": 551,
             "forks": 72,
             "score": 57
         },
@@ -173,7 +173,18 @@ const ALPHA_DATA_V2 = {
             "description": "\u5c06\u535a\u5bfc\u5341\u5e74\u79d1\u7814\u7ecf\u9a8c\u70bc\u5316\u4e3a\u53ef\u76f4\u63a5\u8c03\u7528\u7684 AI \u6280\u80fd\u3002\u4ece Idea \u6784\u601d\u5230\u8bba\u6587\u6295\u7a3f\uff0c\u4f60\u7684 AI \u79d1\u7814\u526f\u5bfc\u5e08\u3002",
             "url": "https://github.com/HKUSTDial/Supervisor-Skills",
             "stars": 557,
-            "forks": 39,
+            "forks": 40,
+            "score": 52
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "openless",
+            "full_name": "appergb/openless",
+            "description": "Hold a key, speak, release \u2014 AI-polished text appears at your cursor in any app. Open-source voice input for macOS & Windows. (\u6309\u4f4f\u5feb\u6377\u952e\u8bf4\u8bdd\uff0c\u677e\u5f00\u5373\u5f97\u6da6\u8272\u540e\u7684\u6587\u5b57)",
+            "url": "https://github.com/appergb/openless",
+            "stars": 258,
+            "forks": 25,
             "score": 52
         },
         {
@@ -183,7 +194,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "techjarves/Uncensored-Local-AI-Multiplatform",
             "description": "A cross-platform Flutter app that runs uncensored, 100% offline open-source AI models (GGUF) directly on your Android, iOS, or PC. No cloud, no filters, total privacy.",
             "url": "https://github.com/techjarves/Uncensored-Local-AI-Multiplatform",
-            "stars": 388,
+            "stars": 391,
             "forks": 72,
             "score": 51
         },
@@ -200,25 +211,14 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
-            "sub_cat": null,
-            "name": "openless",
-            "full_name": "appergb/openless",
-            "description": "Hold a key, speak, release \u2014 AI-polished text appears at your cursor in any app. Open-source voice input for macOS & Windows. (\u6309\u4f4f\u5feb\u6377\u952e\u8bf4\u8bdd\uff0c\u677e\u5f00\u5373\u5f97\u6da6\u8272\u540e\u7684\u6587\u5b57)",
-            "url": "https://github.com/appergb/openless",
-            "stars": 249,
-            "forks": 23,
-            "score": 51
-        },
-        {
-            "main_cat": "AI",
             "sub_cat": "AI General",
             "name": "Claude-Code-AI-Design",
             "full_name": "Julpygo/Claude-Code-AI-Design",
             "description": "Claude Design Anthropic Tool Download April 2026 Figma to Code AI Agent Research Preview Claude Code CLI Integration React 19 Tailwind v4 Support Model Context Protocol MCP Server Setup Design Systems Automation UI UX Prototyping Next.js Component Generation Best Developer Tools 2026 Free Tutorial",
             "url": "https://github.com/Julpygo/Claude-Code-AI-Design",
-            "stars": 199,
+            "stars": 201,
             "forks": 0,
-            "score": 49
+            "score": 50
         },
         {
             "main_cat": "AI",
@@ -227,20 +227,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "Senabayu08989/Stable-Diffusion-AI-Free",
             "description": "Stable Diffusion Free AI Image Generator Flux 2 Local Deployment Real-time Video Character Consistency Identity Anchoring SDXL Turbo LoRA Training ControlNet Open Source Art Studio Hyperrealistic Cinematic Styles Prompt Engineering Python Pytorch Forge ComfyUI 2026 Release High Resolution Desktop Tool",
             "url": "https://github.com/Senabayu08989/Stable-Diffusion-AI-Free",
-            "stars": 194,
+            "stars": 195,
             "forks": 0,
             "score": 49
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "oh-my-ppt",
-            "full_name": "arcsin1/oh-my-ppt",
-            "description": "Local-first AI PPT generator with Desktop APP for entrepreneurs. Clean HTML slides, no cloud lock-in. Write prompt \u2192 get deck.",
-            "url": "https://github.com/arcsin1/oh-my-ppt",
-            "stars": 260,
-            "forks": 22,
-            "score": 47
         },
         {
             "main_cat": "AI",
@@ -262,6 +251,17 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/dezgit2025/auto-memory",
             "stars": 314,
             "forks": 30,
+            "score": 45
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "oh-my-ppt",
+            "full_name": "arcsin1/oh-my-ppt",
+            "description": "Local-first AI PPT generator with Desktop APP for entrepreneurs. Clean HTML slides, no cloud lock-in. Write prompt \u2192 get deck.",
+            "url": "https://github.com/arcsin1/oh-my-ppt",
+            "stars": 261,
+            "forks": 22,
             "score": 45
         },
         {
@@ -293,7 +293,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Anbeeld/WRITING.md",
             "description": "Rules to make AI text sharper and genre-aware, with concrete anchors and built-in self-auditing workflow",
             "url": "https://github.com/Anbeeld/WRITING.md",
-            "stars": 190,
+            "stars": 191,
             "forks": 13,
             "score": 42
         },
@@ -315,7 +315,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Qiuner/ai-application-roadmap",
             "description": "A bilingual map of AI engineering evolution, real-world AI usage patterns, and vibe coding best practices.",
             "url": "https://github.com/Qiuner/ai-application-roadmap",
-            "stars": 215,
+            "stars": 217,
             "forks": 2,
             "score": 37
         },
@@ -353,23 +353,23 @@ const ALPHA_DATA_V2 = {
             "score": 30
         },
         {
-            "main_cat": "DePIN",
-            "sub_cat": null,
-            "name": "tps",
-            "full_name": "adiudiuu/tps",
-            "description": "GPU inference speed calculator \u2014 estimate theoretical tokens/s by GPU model, count & quantization",
-            "url": "https://github.com/adiudiuu/tps",
-            "stars": 10,
-            "forks": 0,
-            "score": 30
-        },
-        {
             "main_cat": "AI",
             "sub_cat": "AI General",
             "name": "LumiChats-Offline-LLM",
             "full_name": "adityajhakumar/LumiChats-Offline-LLM",
             "description": "Run powerful open-source AI models privately on your Windows PC \u2014 no internet, no GPU, no cloud. Built on GPT4All with 9 custom fine-tuned models.",
             "url": "https://github.com/adityajhakumar/LumiChats-Offline-LLM",
+            "stars": 11,
+            "forks": 0,
+            "score": 30
+        },
+        {
+            "main_cat": "DePIN",
+            "sub_cat": null,
+            "name": "tps",
+            "full_name": "adiudiuu/tps",
+            "description": "GPU inference speed calculator \u2014 estimate theoretical tokens/s by GPU model, count & quantization",
+            "url": "https://github.com/adiudiuu/tps",
             "stars": 10,
             "forks": 0,
             "score": 30
@@ -707,12 +707,26 @@ const ALPHA_DATA_V2 = {
     ],
     "news": [
         {
-            "title": "Will the price of Solana be above $100 on May 4? (Probability: 2%)",
+            "title": "FlashRT: Towards Computationally and Memory Efficient Red-Teaming for Prompt Injection and Knowledge Corruption",
+            "source": "ArXiv",
+            "type": "Research Alpha",
+            "color": "text-indigo-600",
+            "url": "http://arxiv.org/abs/2604.28157v1"
+        },
+        {
+            "title": "Latent Adversarial Detection: Adaptive Probing of LLM Activations for Multi-Turn Attack Detection",
+            "source": "ArXiv",
+            "type": "Research Alpha",
+            "color": "text-indigo-600",
+            "url": "http://arxiv.org/abs/2604.28129v1"
+        },
+        {
+            "title": "Will the price of Bitcoin be between $82,000 and $84,000 on May 5? (Probability: 3%)",
             "source": "Polymarket",
             "type": "Expectation",
             "color": "text-indigo-400",
-            "url": "https://polymarket.com/market/solana-above-100-on-may-4"
+            "url": "https://polymarket.com/market/will-the-price-of-bitcoin-be-between-82000-84000-on-may-5"
         }
     ],
-    "timestamp": "2026-05-02 10:03"
+    "timestamp": "2026-05-02 11:39"
 };
