@@ -7,7 +7,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "cosmicstack-labs/mercury-agent",
             "description": "Soul-driven AI agent with permission-hardened tools, token budgets, and multi-channel access. Runs 24/7 from CLI or Telegram.",
             "url": "https://github.com/cosmicstack-labs/mercury-agent",
-            "stars": 1906,
+            "stars": 1908,
             "forks": 196,
             "score": 99
         },
@@ -18,8 +18,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "willchen96/mike",
             "description": "OSS AI Legal Platform",
             "url": "https://github.com/willchen96/mike",
-            "stars": 1367,
-            "forks": 367,
+            "stars": 1376,
+            "forks": 366,
             "score": 99
         },
         {
@@ -29,8 +29,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "GammaLabTechnologies/harmonist",
             "description": "Portable AI agent orchestration with mechanical protocol enforcement. 186 agents, zero runtime dependencies.",
             "url": "https://github.com/GammaLabTechnologies/harmonist",
-            "stars": 1136,
-            "forks": 324,
+            "stars": 1141,
+            "forks": 325,
             "score": 99
         },
         {
@@ -40,7 +40,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "mattpocock/dictionary-of-ai-coding",
             "description": "AI coding jargon, explained in plain English.",
             "url": "https://github.com/mattpocock/dictionary-of-ai-coding",
-            "stars": 641,
+            "stars": 645,
             "forks": 96,
             "score": 99
         },
@@ -51,8 +51,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "sandeco/reversa",
             "description": "Transform legacy systems into executable specifications for AI coding agents",
             "url": "https://github.com/sandeco/reversa",
-            "stars": 447,
-            "forks": 204,
+            "stars": 451,
+            "forks": 205,
             "score": 99
         },
         {
@@ -106,7 +106,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "ammaarreshi/gemma-chat",
             "description": "Local AI chat + coding agent for Apple Silicon, powered by Gemma 4 via MLX / Supports Ollama",
             "url": "https://github.com/ammaarreshi/gemma-chat",
-            "stars": 753,
+            "stars": 755,
             "forks": 114,
             "score": 70
         },
@@ -139,7 +139,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "appergb/openless",
             "description": "Hold a key, speak, release \u2014 AI-polished text appears at your cursor in any app. Open-source voice input for macOS & Windows. (\u6309\u4f4f\u5feb\u6377\u952e\u8bf4\u8bdd\uff0c\u677e\u5f00\u5373\u5f97\u6da6\u8272\u540e\u7684\u6587\u5b57)",
             "url": "https://github.com/appergb/openless",
-            "stars": 344,
+            "stars": 345,
             "forks": 30,
             "score": 59
         },
@@ -282,7 +282,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "yzhao062/agent-style",
             "description": "21 writing rules for AI coding and writing agents. Drop-in for Claude Code, Codex, Copilot, Cursor, and Aider, so their output reads like a tech pro.",
             "url": "https://github.com/yzhao062/agent-style",
-            "stars": 388,
+            "stars": 389,
             "forks": 21,
             "score": 44
         },
@@ -698,7 +698,7 @@ const ALPHA_DATA_V2 = {
             "sub_cat": "AI General",
             "name": "audit-pipeline-cli",
             "full_name": "Copenhagen0x/audit-pipeline-cli",
-            "description": "Jelleo \u2014 the underwriting layer for Solana DeFi. Autonomous immune system across four pillars (counterfactual mainnet detection, cross-protocol propagation, closed-loop fix bundles, on-chain attestation registry). Track record: F7 disclosure to Anatoly Yakovenko's Percolator.",
+            "description": "Jelleo \u2014 autonomous Solana DeFi security platform. Continuous code-grounded monitoring across 4 pillars (mainnet detection, cross-protocol propagation, fix bundles, on-chain attestation). Track record: F7 disclosure to aeyakovenko/percolator-prog#39.",
             "url": "https://github.com/Copenhagen0x/audit-pipeline-cli",
             "stars": 0,
             "forks": 0,
@@ -750,5 +750,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/market/btc-updown-5m-1777828200"
         }
     ],
-    "timestamp": "2026-05-02 20:35"
+    "timestamp": "2026-05-02 21:34"
 };
