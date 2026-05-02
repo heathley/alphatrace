@@ -7,7 +7,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "cosmicstack-labs/mercury-agent",
             "description": "Soul-driven AI agent with permission-hardened tools, token budgets, and multi-channel access. Runs 24/7 from CLI or Telegram.",
             "url": "https://github.com/cosmicstack-labs/mercury-agent",
-            "stars": 1905,
+            "stars": 1906,
             "forks": 196,
             "score": 99
         },
@@ -18,8 +18,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "willchen96/mike",
             "description": "OSS AI Legal Platform",
             "url": "https://github.com/willchen96/mike",
-            "stars": 1355,
-            "forks": 364,
+            "stars": 1367,
+            "forks": 367,
             "score": 99
         },
         {
@@ -29,7 +29,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "GammaLabTechnologies/harmonist",
             "description": "Portable AI agent orchestration with mechanical protocol enforcement. 186 agents, zero runtime dependencies.",
             "url": "https://github.com/GammaLabTechnologies/harmonist",
-            "stars": 1135,
+            "stars": 1136,
             "forks": 324,
             "score": 99
         },
@@ -40,7 +40,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "mattpocock/dictionary-of-ai-coding",
             "description": "AI coding jargon, explained in plain English.",
             "url": "https://github.com/mattpocock/dictionary-of-ai-coding",
-            "stars": 632,
+            "stars": 641,
             "forks": 96,
             "score": 99
         },
@@ -51,8 +51,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "sandeco/reversa",
             "description": "Transform legacy systems into executable specifications for AI coding agents",
             "url": "https://github.com/sandeco/reversa",
-            "stars": 445,
-            "forks": 203,
+            "stars": 447,
+            "forks": 204,
             "score": 99
         },
         {
@@ -84,7 +84,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "worldwonderer/oh-story-claudecode",
             "description": "\u7f51\u6587\u5199\u4f5c skill \u5305\uff0c\u8986\u76d6\u957f\u7bc7\u4e0e\u77ed\u7bc7\u7f51\u7edc\u5c0f\u8bf4\u7684\u626b\u699c\u3001\u62c6\u6587\u3001\u5199\u4f5c\u3001\u53bbAI\u5473\u3001\u5c01\u9762\u56fe\u5168\u6d41\u7a0b",
             "url": "https://github.com/worldwonderer/oh-story-claudecode",
-            "stars": 703,
+            "stars": 704,
             "forks": 194,
             "score": 86
         },
@@ -106,7 +106,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "ammaarreshi/gemma-chat",
             "description": "Local AI chat + coding agent for Apple Silicon, powered by Gemma 4 via MLX / Supports Ollama",
             "url": "https://github.com/ammaarreshi/gemma-chat",
-            "stars": 750,
+            "stars": 753,
             "forks": 114,
             "score": 70
         },
@@ -304,7 +304,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Anbeeld/WRITING.md",
             "description": "Rules to make AI text sharper and genre-aware, with concrete anchors and built-in self-auditing workflow",
             "url": "https://github.com/Anbeeld/WRITING.md",
-            "stars": 192,
+            "stars": 193,
             "forks": 13,
             "score": 41
         },
@@ -426,6 +426,17 @@ const ALPHA_DATA_V2 = {
             "description": "MagicGame is a Telegram bot where users predict if SOL price goes UP or DOWN in 30 seconds and win 1.9x their bet. Every game session is delegated to MagicBlock's Ephemeral Rollup, the prediction state (direction, start price, resolution) lives on the ER during the 30-second window with zero fees and real-time finality, then commits back to Solana",
             "url": "https://github.com/Enmilo-dev/magic-game-tg",
             "stars": 1,
+            "forks": 0,
+            "score": 30
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "futarchy",
+            "full_name": "Semenka/futarchy",
+            "description": "Vote values, bet beliefs. AI-traded conditional prediction markets for DAO governance \u2014 Sepolia testnet hackathon MVP.",
+            "url": "https://github.com/Semenka/futarchy",
+            "stars": 0,
             "forks": 0,
             "score": 30
         },
@@ -674,6 +685,17 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
+            "name": "shadowfi",
+            "full_name": "linnbenton/shadowfi",
+            "description": "Private cross-chain lending protocol with encrypted positions and hidden liquidation logic, powered by Encrypt (FHE) and Ika (MPC dWallets).",
+            "url": "https://github.com/linnbenton/shadowfi",
+            "stars": 0,
+            "forks": 0,
+            "score": 30
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
             "name": "audit-pipeline-cli",
             "full_name": "Copenhagen0x/audit-pipeline-cli",
             "description": "Jelleo \u2014 the underwriting layer for Solana DeFi. Autonomous immune system across four pillars (counterfactual mainnet detection, cross-protocol propagation, closed-loop fix bundles, on-chain attestation registry). Track record: F7 disclosure to Anatoly Yakovenko's Percolator.",
@@ -728,5 +750,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/market/btc-updown-5m-1777828200"
         }
     ],
-    "timestamp": "2026-05-02 19:50"
+    "timestamp": "2026-05-02 20:35"
 };
