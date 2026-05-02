@@ -18,8 +18,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "willchen96/mike",
             "description": "OSS AI Legal Platform",
             "url": "https://github.com/willchen96/mike",
-            "stars": 1382,
-            "forks": 370,
+            "stars": 1400,
+            "forks": 372,
             "score": 99
         },
         {
@@ -40,7 +40,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "mattpocock/dictionary-of-ai-coding",
             "description": "AI coding jargon, explained in plain English.",
             "url": "https://github.com/mattpocock/dictionary-of-ai-coding",
-            "stars": 658,
+            "stars": 667,
             "forks": 98,
             "score": 99
         },
@@ -51,8 +51,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "sandeco/reversa",
             "description": "Transform legacy systems into executable specifications for AI coding agents",
             "url": "https://github.com/sandeco/reversa",
-            "stars": 454,
-            "forks": 206,
+            "stars": 459,
+            "forks": 207,
             "score": 99
         },
         {
@@ -106,7 +106,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "ammaarreshi/gemma-chat",
             "description": "Local AI chat + coding agent for Apple Silicon, powered by Gemma 4 via MLX / Supports Ollama",
             "url": "https://github.com/ammaarreshi/gemma-chat",
-            "stars": 760,
+            "stars": 763,
             "forks": 116,
             "score": 70
         },
@@ -117,7 +117,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "alash3al/stash",
             "description": "Stash \u2014 persistent memory layer for AI agents. Episodes, facts, and working context stored in Postgres. MCP server included. Self-hosted, single binary, no cloud required.",
             "url": "https://github.com/alash3al/stash",
-            "stars": 625,
+            "stars": 626,
             "forks": 26,
             "score": 63
         },
@@ -128,9 +128,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "ZeroZ-lab/cc-design",
             "description": "High-fidelity HTML design and prototype guidance skill for AI agents",
             "url": "https://github.com/ZeroZ-lab/cc-design",
-            "stars": 687,
+            "stars": 689,
             "forks": 68,
-            "score": 59
+            "score": 60
         },
         {
             "main_cat": "AI",
@@ -139,8 +139,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "appergb/openless",
             "description": "Hold a key, speak, release \u2014 AI-polished text appears at your cursor in any app. Open-source voice input for macOS & Windows. (\u6309\u4f4f\u5feb\u6377\u952e\u8bf4\u8bdd\uff0c\u677e\u5f00\u5373\u5f97\u6da6\u8272\u540e\u7684\u6587\u5b57)",
             "url": "https://github.com/appergb/openless",
-            "stars": 347,
-            "forks": 30,
+            "stars": 350,
+            "forks": 31,
             "score": 59
         },
         {
@@ -205,7 +205,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "techjarves/Uncensored-Local-AI-Multiplatform",
             "description": "A cross-platform Flutter app that runs uncensored, 100% offline open-source AI models (GGUF) directly on your Android, iOS, or PC. No cloud, no filters, total privacy.",
             "url": "https://github.com/techjarves/Uncensored-Local-AI-Multiplatform",
-            "stars": 395,
+            "stars": 396,
             "forks": 73,
             "score": 51
         },
@@ -296,17 +296,6 @@ const ALPHA_DATA_V2 = {
             "stars": 300,
             "forks": 31,
             "score": 43
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "WRITING.md",
-            "full_name": "Anbeeld/WRITING.md",
-            "description": "Rules to make AI text sharper and genre-aware, with concrete anchors and built-in self-auditing workflow",
-            "url": "https://github.com/Anbeeld/WRITING.md",
-            "stars": 193,
-            "forks": 13,
-            "score": 41
         },
         {
             "main_cat": "AI",
@@ -750,5 +739,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/market/ethereum-above-2600-on-may-6"
         }
     ],
-    "timestamp": "2026-05-02 22:33"
+    "timestamp": "2026-05-02 23:37"
 };
