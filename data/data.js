@@ -7,7 +7,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "cosmicstack-labs/mercury-agent",
             "description": "Soul-driven AI agent with permission-hardened tools, token budgets, and multi-channel access. Runs 24/7 from CLI or Telegram.",
             "url": "https://github.com/cosmicstack-labs/mercury-agent",
-            "stars": 1900,
+            "stars": 1903,
             "forks": 196,
             "score": 99
         },
@@ -18,8 +18,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "willchen96/mike",
             "description": "OSS AI Legal Platform",
             "url": "https://github.com/willchen96/mike",
-            "stars": 1316,
-            "forks": 352,
+            "stars": 1347,
+            "forks": 357,
             "score": 99
         },
         {
@@ -29,7 +29,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "GammaLabTechnologies/harmonist",
             "description": "Portable AI agent orchestration with mechanical protocol enforcement. 186 agents, zero runtime dependencies.",
             "url": "https://github.com/GammaLabTechnologies/harmonist",
-            "stars": 1122,
+            "stars": 1131,
             "forks": 323,
             "score": 99
         },
@@ -40,8 +40,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "mattpocock/dictionary-of-ai-coding",
             "description": "AI coding jargon, explained in plain English.",
             "url": "https://github.com/mattpocock/dictionary-of-ai-coding",
-            "stars": 615,
-            "forks": 94,
+            "stars": 623,
+            "forks": 95,
             "score": 99
         },
         {
@@ -51,8 +51,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "sandeco/reversa",
             "description": "Transform legacy systems into executable specifications for AI coding agents",
             "url": "https://github.com/sandeco/reversa",
-            "stars": 440,
-            "forks": 201,
+            "stars": 445,
+            "forks": 202,
             "score": 99
         },
         {
@@ -62,7 +62,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "endless-sky-team/ai-trading-agent",
             "description": "llm trading bot ai agent crypto bitcoin ethereum perpetuals openrouter lighter algorithmic automated quant typescript react postgres bun fintech defi machine-learning open-source crypto-bot signals",
             "url": "https://github.com/endless-sky-team/ai-trading-agent",
-            "stars": 187,
+            "stars": 189,
             "forks": 161,
             "score": 99
         },
@@ -73,9 +73,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "ForecastForge/coinbase-trading-bot",
             "description": "coinbase trading bot, coinbase bot, AI/automated crypto trading, Coinbase Advanced Trade/Pro, spot and futures, grid DCA scalping arbitrage, copy and signal bots, strategy setup tutorial guide automation",
             "url": "https://github.com/ForecastForge/coinbase-trading-bot",
-            "stars": 197,
+            "stars": 199,
             "forks": 190,
-            "score": 98
+            "score": 89
         },
         {
             "main_cat": "AI",
@@ -117,9 +117,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "ammaarreshi/gemma-chat",
             "description": "Local AI chat + coding agent for Apple Silicon, powered by Gemma 4 via MLX / Supports Ollama",
             "url": "https://github.com/ammaarreshi/gemma-chat",
-            "stars": 746,
+            "stars": 748,
             "forks": 113,
-            "score": 69
+            "score": 70
         },
         {
             "main_cat": "AI",
@@ -128,7 +128,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "alash3al/stash",
             "description": "Stash \u2014 persistent memory layer for AI agents. Episodes, facts, and working context stored in Postgres. MCP server included. Self-hosted, single binary, no cloud required.",
             "url": "https://github.com/alash3al/stash",
-            "stars": 623,
+            "stars": 624,
             "forks": 26,
             "score": 66
         },
@@ -139,7 +139,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "ZeroZ-lab/cc-design",
             "description": "High-fidelity HTML design and prototype guidance skill for AI agents",
             "url": "https://github.com/ZeroZ-lab/cc-design",
-            "stars": 683,
+            "stars": 685,
             "forks": 68,
             "score": 59
         },
@@ -150,8 +150,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "appergb/openless",
             "description": "Hold a key, speak, release \u2014 AI-polished text appears at your cursor in any app. Open-source voice input for macOS & Windows. (\u6309\u4f4f\u5feb\u6377\u952e\u8bf4\u8bdd\uff0c\u677e\u5f00\u5373\u5f97\u6da6\u8272\u540e\u7684\u6587\u5b57)",
             "url": "https://github.com/appergb/openless",
-            "stars": 338,
-            "forks": 28,
+            "stars": 342,
+            "forks": 29,
             "score": 58
         },
         {
@@ -189,23 +189,12 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
-            "sub_cat": null,
-            "name": "Cairn",
-            "full_name": "oritera/Cairn",
-            "description": "AI \u81ea\u52a8\u5316\u901a\u7528\u95ee\u9898\u89e3\u51b3 / AI \u81ea\u52a8\u5316\u6e17\u900f\u6d4b\u8bd5\u7cfb\u7edf",
-            "url": "https://github.com/oritera/Cairn",
-            "stars": 602,
-            "forks": 29,
-            "score": 52
-        },
-        {
-            "main_cat": "AI",
             "sub_cat": "AI General",
             "name": "free-ai",
             "full_name": "vibheksoni/free-ai",
             "description": "Free OpenAI-compatible AI API for builders. Join Discord, run /signup, get a key, and use free models.",
             "url": "https://github.com/vibheksoni/free-ai",
-            "stars": 296,
+            "stars": 297,
             "forks": 69,
             "score": 52
         },
@@ -227,7 +216,18 @@ const ALPHA_DATA_V2 = {
             "full_name": "Julpygo/Claude-Code-AI-Design",
             "description": "Claude Design Anthropic Tool Download April 2026 Figma to Code AI Agent Research Preview Claude Code CLI Integration React 19 Tailwind v4 Support Model Context Protocol MCP Server Setup Design Systems Automation UI UX Prototyping Next.js Component Generation Best Developer Tools 2026 Free Tutorial",
             "url": "https://github.com/Julpygo/Claude-Code-AI-Design",
-            "stars": 208,
+            "stars": 210,
+            "forks": 0,
+            "score": 47
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "Stable-Diffusion-AI-Free",
+            "full_name": "Senabayu08989/Stable-Diffusion-AI-Free",
+            "description": "Stable Diffusion Free AI Image Generator Flux 2 Local Deployment Real-time Video Character Consistency Identity Anchoring SDXL Turbo LoRA Training ControlNet Open Source Art Studio Hyperrealistic Cinematic Styles Prompt Engineering Python Pytorch Forge ComfyUI 2026 Release High Resolution Desktop Tool",
+            "url": "https://github.com/Senabayu08989/Stable-Diffusion-AI-Free",
+            "stars": 204,
             "forks": 0,
             "score": 47
         },
@@ -240,17 +240,6 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/arcsin1/oh-my-ppt",
             "stars": 268,
             "forks": 23,
-            "score": 46
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "Stable-Diffusion-AI-Free",
-            "full_name": "Senabayu08989/Stable-Diffusion-AI-Free",
-            "description": "Stable Diffusion Free AI Image Generator Flux 2 Local Deployment Real-time Video Character Consistency Identity Anchoring SDXL Turbo LoRA Training ControlNet Open Source Art Studio Hyperrealistic Cinematic Styles Prompt Engineering Python Pytorch Forge ComfyUI 2026 Release High Resolution Desktop Tool",
-            "url": "https://github.com/Senabayu08989/Stable-Diffusion-AI-Free",
-            "stars": 203,
-            "forks": 0,
             "score": 46
         },
         {
@@ -728,5 +717,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/market/btc-updown-5m-1777828200"
         }
     ],
-    "timestamp": "2026-05-02 17:39"
+    "timestamp": "2026-05-02 18:49"
 };
