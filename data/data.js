@@ -7,7 +7,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "cosmicstack-labs/mercury-agent",
             "description": "Soul-driven AI agent with permission-hardened tools, token budgets, and multi-channel access. Runs 24/7 from CLI or Telegram.",
             "url": "https://github.com/cosmicstack-labs/mercury-agent",
-            "stars": 1903,
+            "stars": 1905,
             "forks": 196,
             "score": 99
         },
@@ -18,8 +18,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "willchen96/mike",
             "description": "OSS AI Legal Platform",
             "url": "https://github.com/willchen96/mike",
-            "stars": 1347,
-            "forks": 357,
+            "stars": 1355,
+            "forks": 364,
             "score": 99
         },
         {
@@ -29,8 +29,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "GammaLabTechnologies/harmonist",
             "description": "Portable AI agent orchestration with mechanical protocol enforcement. 186 agents, zero runtime dependencies.",
             "url": "https://github.com/GammaLabTechnologies/harmonist",
-            "stars": 1131,
-            "forks": 323,
+            "stars": 1135,
+            "forks": 324,
             "score": 99
         },
         {
@@ -40,8 +40,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "mattpocock/dictionary-of-ai-coding",
             "description": "AI coding jargon, explained in plain English.",
             "url": "https://github.com/mattpocock/dictionary-of-ai-coding",
-            "stars": 623,
-            "forks": 95,
+            "stars": 632,
+            "forks": 96,
             "score": 99
         },
         {
@@ -52,18 +52,7 @@ const ALPHA_DATA_V2 = {
             "description": "Transform legacy systems into executable specifications for AI coding agents",
             "url": "https://github.com/sandeco/reversa",
             "stars": 445,
-            "forks": 202,
-            "score": 99
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "ai-trading-agent",
-            "full_name": "endless-sky-team/ai-trading-agent",
-            "description": "llm trading bot ai agent crypto bitcoin ethereum perpetuals openrouter lighter algorithmic automated quant typescript react postgres bun fintech defi machine-learning open-source crypto-bot signals",
-            "url": "https://github.com/endless-sky-team/ai-trading-agent",
-            "stars": 189,
-            "forks": 161,
+            "forks": 203,
             "score": 99
         },
         {
@@ -117,8 +106,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "ammaarreshi/gemma-chat",
             "description": "Local AI chat + coding agent for Apple Silicon, powered by Gemma 4 via MLX / Supports Ollama",
             "url": "https://github.com/ammaarreshi/gemma-chat",
-            "stars": 748,
-            "forks": 113,
+            "stars": 750,
+            "forks": 114,
             "score": 70
         },
         {
@@ -139,7 +128,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "ZeroZ-lab/cc-design",
             "description": "High-fidelity HTML design and prototype guidance skill for AI agents",
             "url": "https://github.com/ZeroZ-lab/cc-design",
-            "stars": 685,
+            "stars": 686,
             "forks": 68,
             "score": 59
         },
@@ -150,9 +139,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "appergb/openless",
             "description": "Hold a key, speak, release \u2014 AI-polished text appears at your cursor in any app. Open-source voice input for macOS & Windows. (\u6309\u4f4f\u5feb\u6377\u952e\u8bf4\u8bdd\uff0c\u677e\u5f00\u5373\u5f97\u6da6\u8272\u540e\u7684\u6587\u5b57)",
             "url": "https://github.com/appergb/openless",
-            "stars": 342,
-            "forks": 29,
-            "score": 58
+            "stars": 344,
+            "forks": 30,
+            "score": 59
         },
         {
             "main_cat": "AI",
@@ -175,6 +164,28 @@ const ALPHA_DATA_V2 = {
             "stars": 551,
             "forks": 73,
             "score": 56
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "claude-design-agents-toolkit",
+            "full_name": "Alfredo7777777/claude-design-agents-toolkit",
+            "description": "\ud83c\udfa8 Claude Code AI Design Suite 2026 \ud83d\ude80 Best Free AI Design Plugins & Hooks for Coders",
+            "url": "https://github.com/Alfredo7777777/claude-design-agents-toolkit",
+            "stars": 197,
+            "forks": 0,
+            "score": 54
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "GPT-Image-2-Driven-Prompt-Engine",
+            "full_name": "bearrymuse/GPT-Image-2-Driven-Prompt-Engine",
+            "description": "**\ud83d\udd2e GPT-Image-2 Prompt Masterclass 2026 \u2013 Ultimate AI Image Editing & Generation Guide**",
+            "url": "https://github.com/bearrymuse/GPT-Image-2-Driven-Prompt-Engine",
+            "stars": 197,
+            "forks": 0,
+            "score": 54
         },
         {
             "main_cat": "AI",
@@ -205,7 +216,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "techjarves/Uncensored-Local-AI-Multiplatform",
             "description": "A cross-platform Flutter app that runs uncensored, 100% offline open-source AI models (GGUF) directly on your Android, iOS, or PC. No cloud, no filters, total privacy.",
             "url": "https://github.com/techjarves/Uncensored-Local-AI-Multiplatform",
-            "stars": 394,
+            "stars": 395,
             "forks": 73,
             "score": 51
         },
@@ -216,7 +227,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Julpygo/Claude-Code-AI-Design",
             "description": "Claude Design Anthropic Tool Download April 2026 Figma to Code AI Agent Research Preview Claude Code CLI Integration React 19 Tailwind v4 Support Model Context Protocol MCP Server Setup Design Systems Automation UI UX Prototyping Next.js Component Generation Best Developer Tools 2026 Free Tutorial",
             "url": "https://github.com/Julpygo/Claude-Code-AI-Design",
-            "stars": 210,
+            "stars": 211,
             "forks": 0,
             "score": 47
         },
@@ -227,7 +238,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Senabayu08989/Stable-Diffusion-AI-Free",
             "description": "Stable Diffusion Free AI Image Generator Flux 2 Local Deployment Real-time Video Character Consistency Identity Anchoring SDXL Turbo LoRA Training ControlNet Open Source Art Studio Hyperrealistic Cinematic Styles Prompt Engineering Python Pytorch Forge ComfyUI 2026 Release High Resolution Desktop Tool",
             "url": "https://github.com/Senabayu08989/Stable-Diffusion-AI-Free",
-            "stars": 204,
+            "stars": 206,
             "forks": 0,
             "score": 47
         },
@@ -304,7 +315,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Qiuner/ai-application-roadmap",
             "description": "A bilingual map of AI engineering evolution, real-world AI usage patterns, and vibe coding best practices.",
             "url": "https://github.com/Qiuner/ai-application-roadmap",
-            "stars": 223,
+            "stars": 224,
             "forks": 2,
             "score": 37
         },
@@ -717,5 +728,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/market/btc-updown-5m-1777828200"
         }
     ],
-    "timestamp": "2026-05-02 18:49"
+    "timestamp": "2026-05-02 19:50"
 };
