@@ -7,7 +7,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "cosmicstack-labs/mercury-agent",
             "description": "Soul-driven AI agent with permission-hardened tools, token budgets, and multi-channel access. Runs 24/7 from CLI or Telegram.",
             "url": "https://github.com/cosmicstack-labs/mercury-agent",
-            "stars": 1937,
+            "stars": 1939,
             "forks": 200,
             "score": 99
         },
@@ -18,8 +18,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "willchen96/mike",
             "description": "OSS AI Legal Platform",
             "url": "https://github.com/willchen96/mike",
-            "stars": 1577,
-            "forks": 419,
+            "stars": 1588,
+            "forks": 422,
             "score": 99
         },
         {
@@ -29,7 +29,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "GammaLabTechnologies/harmonist",
             "description": "Portable AI agent orchestration with mechanical protocol enforcement. 186 agents, zero runtime dependencies.",
             "url": "https://github.com/GammaLabTechnologies/harmonist",
-            "stars": 1205,
+            "stars": 1206,
             "forks": 328,
             "score": 99
         },
@@ -40,7 +40,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "mattpocock/dictionary-of-ai-coding",
             "description": "AI coding jargon, explained in plain English.",
             "url": "https://github.com/mattpocock/dictionary-of-ai-coding",
-            "stars": 820,
+            "stars": 823,
             "forks": 111,
             "score": 99
         },
@@ -73,9 +73,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "sandeco/reversa",
             "description": "Transform legacy systems into executable specifications for AI coding agents",
             "url": "https://github.com/sandeco/reversa",
-            "stars": 476,
-            "forks": 210,
-            "score": 95
+            "stars": 477,
+            "forks": 211,
+            "score": 96
         },
         {
             "main_cat": "AI",
@@ -86,7 +86,7 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/ForecastForge/coinbase-trading-bot",
             "stars": 212,
             "forks": 190,
-            "score": 90
+            "score": 84
         },
         {
             "main_cat": "AI",
@@ -106,7 +106,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "future-agi/future-agi",
             "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals \u00b7 Simulations \u00b7 Datasets \u00b7 Gateway \u00b7 Guardrails. Self-hostable. Apache 2.0.",
             "url": "https://github.com/future-agi/future-agi",
-            "stars": 810,
+            "stars": 812,
             "forks": 140,
             "score": 82
         },
@@ -128,9 +128,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "ammaarreshi/gemma-chat",
             "description": "Local AI chat + coding agent for Apple Silicon, powered by Gemma 4 via MLX / Supports Ollama",
             "url": "https://github.com/ammaarreshi/gemma-chat",
-            "stars": 809,
-            "forks": 123,
-            "score": 70
+            "stars": 819,
+            "forks": 124,
+            "score": 71
         },
         {
             "main_cat": "AI",
@@ -139,7 +139,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "appergb/openless",
             "description": "Hold a key, speak, release \u2014 AI-polished text appears at your cursor in any app. Open-source voice input for macOS & Windows. (\u6309\u4f4f\u5feb\u6377\u952e\u8bf4\u8bdd\uff0c\u677e\u5f00\u5373\u5f97\u6da6\u8272\u540e\u7684\u6587\u5b57)",
             "url": "https://github.com/appergb/openless",
-            "stars": 536,
+            "stars": 540,
             "forks": 42,
             "score": 69
         },
@@ -150,7 +150,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "alash3al/stash",
             "description": "Stash \u2014 persistent memory layer for AI agents. Episodes, facts, and working context stored in Postgres. MCP server included. Self-hosted, single binary, no cloud required.",
             "url": "https://github.com/alash3al/stash",
-            "stars": 632,
+            "stars": 633,
             "forks": 26,
             "score": 63
         },
@@ -173,7 +173,7 @@ const ALPHA_DATA_V2 = {
             "description": "Payments are broken for AI agents.  Snaplii unlocks real-world commerce with a safe, tokenized payment layer \u2014 powered by 500+ merchant gift cards \u2014 and is the only one that actually saves you money (up to 10% per transaction), on top of any existing deals or promotions.",
             "url": "https://github.com/Snaplii-Inc/agent-to-merchant-payments",
             "stars": 263,
-            "forks": 36,
+            "forks": 37,
             "score": 55
         },
         {
@@ -282,7 +282,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Anbeeld/WRITING.md",
             "description": "Rules to make AI text sharper and genre-aware, with concrete anchors and built-in self-auditing workflow",
             "url": "https://github.com/Anbeeld/WRITING.md",
-            "stars": 196,
+            "stars": 198,
             "forks": 13,
             "score": 40
         },
@@ -331,6 +331,17 @@ const ALPHA_DATA_V2 = {
             "score": 31
         },
         {
+            "main_cat": "DePIN",
+            "sub_cat": null,
+            "name": "tps",
+            "full_name": "adiudiuu/tps",
+            "description": "GPU inference speed calculator \u2014 estimate theoretical tokens/s by GPU model, count & quantization",
+            "url": "https://github.com/adiudiuu/tps",
+            "stars": 17,
+            "forks": 1,
+            "score": 31
+        },
+        {
             "main_cat": "AI",
             "sub_cat": "AI General",
             "name": "LumiChats-Offline-LLM",
@@ -348,20 +359,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "Pandaoyoo/profanity-new-tron",
             "description": "-----\u274c\u6b64\u7248\u672c\u662f\u53bb\u540e\u95e8\u7248\u672c\u274c-----\ud83d\ude802026\u5e74GUI\u7248\u9753\u53f7\u751f\u6210\u5668\u3001\u2705\u6ce2\u573aTRX\u9753\u53f7\u5730\u5740\u751f\u6210\u5668\u3001USDT\u94b1\u5305\u9753\u53f7\u751f\u6210\u5668\u3001\u5229\u7528GPU\u8fdb\u884c\u52a0\u901f\u3002\ud83d\udd12TRX/USDT Wallet Vanity Address Generator, powered by GPU acceleration. Backdoors removed, safe and dependable.",
             "url": "https://github.com/Pandaoyoo/profanity-new-tron",
-            "stars": 10,
+            "stars": 11,
             "forks": 0,
             "score": 31
-        },
-        {
-            "main_cat": "DePIN",
-            "sub_cat": null,
-            "name": "tps",
-            "full_name": "adiudiuu/tps",
-            "description": "GPU inference speed calculator \u2014 estimate theoretical tokens/s by GPU model, count & quantization",
-            "url": "https://github.com/adiudiuu/tps",
-            "stars": 16,
-            "forks": 0,
-            "score": 30
         },
         {
             "main_cat": "AI",
@@ -630,6 +630,17 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
+            "name": "raw-swap",
+            "full_name": "Worldwidesunshine/raw-swap",
+            "description": "RawSwap \u2014 Solana DEX aggregator with protocol fees, cross-chain bridge, and automated buyback flywheel",
+            "url": "https://github.com/Worldwidesunshine/raw-swap",
+            "stars": 0,
+            "forks": 0,
+            "score": 30
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
             "name": "cctp-bridga.github.io",
             "full_name": "cctp-bridga/cctp-bridga.github.io",
             "description": "CCTP Bridge lets you transfer USDC across supported blockchains securely and quickly. It uses Circle\u2019s Cross-Chain Transfer Protocol to lock funds on the source chain and mint the same value on the destination chain.",
@@ -714,17 +725,6 @@ const ALPHA_DATA_V2 = {
             "stars": 0,
             "forks": 0,
             "score": 30
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "agent-coordination-platform",
-            "full_name": "w1123581321345589/agent-coordination-platform",
-            "description": "Full-stack Agent Coordination Platform \u2014 A2A Protocol, Security, Recovery Router, Cross-Model Routing, Proposal Engine, Context + Shapley, Coordination Tournaments, Meta-Learner",
-            "url": "https://github.com/w1123581321345589/agent-coordination-platform",
-            "stars": 0,
-            "forks": 0,
-            "score": 30
         }
     ],
     "news": [
@@ -750,5 +750,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/market/ethereum-above-2600-on-may-6"
         }
     ],
-    "timestamp": "2026-05-03 17:41"
+    "timestamp": "2026-05-03 18:50"
 };
