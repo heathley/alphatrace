@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "cosmicstack-labs/mercury-agent",
             "description": "Soul-driven AI agent with permission-hardened tools, token budgets, and multi-channel access. Runs 24/7 from CLI or Telegram.",
             "url": "https://github.com/cosmicstack-labs/mercury-agent",
-            "stars": 1909,
-            "forks": 196,
+            "stars": 1910,
+            "forks": 197,
             "score": 99
         },
         {
@@ -18,8 +18,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "willchen96/mike",
             "description": "OSS AI Legal Platform",
             "url": "https://github.com/willchen96/mike",
-            "stars": 1400,
-            "forks": 372,
+            "stars": 1424,
+            "forks": 376,
             "score": 99
         },
         {
@@ -29,7 +29,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "GammaLabTechnologies/harmonist",
             "description": "Portable AI agent orchestration with mechanical protocol enforcement. 186 agents, zero runtime dependencies.",
             "url": "https://github.com/GammaLabTechnologies/harmonist",
-            "stars": 1141,
+            "stars": 1148,
             "forks": 325,
             "score": 99
         },
@@ -40,8 +40,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "mattpocock/dictionary-of-ai-coding",
             "description": "AI coding jargon, explained in plain English.",
             "url": "https://github.com/mattpocock/dictionary-of-ai-coding",
-            "stars": 667,
-            "forks": 98,
+            "stars": 681,
+            "forks": 99,
             "score": 99
         },
         {
@@ -51,8 +51,30 @@ const ALPHA_DATA_V2 = {
             "full_name": "sandeco/reversa",
             "description": "Transform legacy systems into executable specifications for AI coding agents",
             "url": "https://github.com/sandeco/reversa",
-            "stars": 459,
-            "forks": 207,
+            "stars": 466,
+            "forks": 208,
+            "score": 99
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "ai-trading-agent",
+            "full_name": "endless-sky-team/ai-trading-agent",
+            "description": "llm trading bot ai agent crypto bitcoin ethereum perpetuals openrouter lighter algorithmic automated quant typescript react postgres bun fintech defi machine-learning open-source crypto-bot signals",
+            "url": "https://github.com/endless-sky-team/ai-trading-agent",
+            "stars": 196,
+            "forks": 161,
+            "score": 99
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "composio",
+            "full_name": "warpdot-dev/composio",
+            "description": "typescript python sdk ai-agents anthropic openapi langchain openai-agents llamaindex mastra vercel-ai mcp oauth saas llm integrations agent-tools automation cloudflare google-gemini tooling rag multi-provider developer-sdk composable-actions webhook-triggers",
+            "url": "https://github.com/warpdot-dev/composio",
+            "stars": 178,
+            "forks": 220,
             "score": 99
         },
         {
@@ -62,7 +84,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "ForecastForge/coinbase-trading-bot",
             "description": "coinbase trading bot, coinbase bot, AI/automated crypto trading, Coinbase Advanced Trade/Pro, spot and futures, grid DCA scalping arbitrage, copy and signal bots, strategy setup tutorial guide automation",
             "url": "https://github.com/ForecastForge/coinbase-trading-bot",
-            "stars": 200,
+            "stars": 203,
             "forks": 190,
             "score": 90
         },
@@ -73,7 +95,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "worldwonderer/oh-story-claudecode",
             "description": "\u7f51\u6587\u5199\u4f5c skill \u5305\uff0c\u8986\u76d6\u957f\u7bc7\u4e0e\u77ed\u7bc7\u7f51\u7edc\u5c0f\u8bf4\u7684\u626b\u699c\u3001\u62c6\u6587\u3001\u5199\u4f5c\u3001\u53bbAI\u5473\u3001\u5c01\u9762\u56fe\u5168\u6d41\u7a0b",
             "url": "https://github.com/worldwonderer/oh-story-claudecode",
-            "stars": 705,
+            "stars": 706,
             "forks": 195,
             "score": 87
         },
@@ -84,7 +106,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "future-agi/future-agi",
             "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals \u00b7 Simulations \u00b7 Datasets \u00b7 Gateway \u00b7 Guardrails. Self-hostable. Apache 2.0.",
             "url": "https://github.com/future-agi/future-agi",
-            "stars": 804,
+            "stars": 805,
             "forks": 140,
             "score": 86
         },
@@ -106,9 +128,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "ammaarreshi/gemma-chat",
             "description": "Local AI chat + coding agent for Apple Silicon, powered by Gemma 4 via MLX / Supports Ollama",
             "url": "https://github.com/ammaarreshi/gemma-chat",
-            "stars": 763,
-            "forks": 116,
-            "score": 70
+            "stars": 771,
+            "forks": 118,
+            "score": 68
         },
         {
             "main_cat": "AI",
@@ -117,20 +139,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "alash3al/stash",
             "description": "Stash \u2014 persistent memory layer for AI agents. Episodes, facts, and working context stored in Postgres. MCP server included. Self-hosted, single binary, no cloud required.",
             "url": "https://github.com/alash3al/stash",
-            "stars": 626,
+            "stars": 627,
             "forks": 26,
             "score": 63
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "cc-design",
-            "full_name": "ZeroZ-lab/cc-design",
-            "description": "High-fidelity HTML design and prototype guidance skill for AI agents",
-            "url": "https://github.com/ZeroZ-lab/cc-design",
-            "stars": 689,
-            "forks": 68,
-            "score": 60
         },
         {
             "main_cat": "AI",
@@ -139,9 +150,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "appergb/openless",
             "description": "Hold a key, speak, release \u2014 AI-polished text appears at your cursor in any app. Open-source voice input for macOS & Windows. (\u6309\u4f4f\u5feb\u6377\u952e\u8bf4\u8bdd\uff0c\u677e\u5f00\u5373\u5f97\u6da6\u8272\u540e\u7684\u6587\u5b57)",
             "url": "https://github.com/appergb/openless",
-            "stars": 350,
+            "stars": 376,
             "forks": 31,
-            "score": 59
+            "score": 61
         },
         {
             "main_cat": "AI",
@@ -150,20 +161,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "levelsio/superlevels",
             "description": "A super Chrome extension I made that's safer than installing external malware/spyware-filled extensions that form a massive security risk, this one is open source and you can read and check the source code (with AI) before you install it, and customize it to your liking!",
             "url": "https://github.com/levelsio/superlevels",
-            "stars": 459,
+            "stars": 460,
             "forks": 49,
             "score": 57
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "hi-kid",
-            "full_name": "xiaochong/hi-kid",
-            "description": "HiKid - Your AI English Pal. A desktop app built with React and TypeScript, targeting children in non-English-speaking countries who want to practice English speaking and listening.",
-            "url": "https://github.com/xiaochong/hi-kid",
-            "stars": 550,
-            "forks": 73,
-            "score": 56
         },
         {
             "main_cat": "AI",
@@ -189,36 +189,14 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
-            "sub_cat": null,
-            "name": "Supervisor-Skills",
-            "full_name": "HKUSTDial/Supervisor-Skills",
-            "description": "\u5c06\u535a\u5bfc\u5341\u5e74\u79d1\u7814\u7ecf\u9a8c\u70bc\u5316\u4e3a\u53ef\u76f4\u63a5\u8c03\u7528\u7684 AI \u6280\u80fd\u3002\u4ece Idea \u6784\u601d\u5230\u8bba\u6587\u6295\u7a3f\uff0c\u4f60\u7684 AI \u79d1\u7814\u526f\u5bfc\u5e08\u3002",
-            "url": "https://github.com/HKUSTDial/Supervisor-Skills",
-            "stars": 561,
-            "forks": 44,
-            "score": 53
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "Uncensored-Local-AI-Multiplatform",
-            "full_name": "techjarves/Uncensored-Local-AI-Multiplatform",
-            "description": "A cross-platform Flutter app that runs uncensored, 100% offline open-source AI models (GGUF) directly on your Android, iOS, or PC. No cloud, no filters, total privacy.",
-            "url": "https://github.com/techjarves/Uncensored-Local-AI-Multiplatform",
-            "stars": 396,
-            "forks": 73,
-            "score": 51
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "free-ai",
-            "full_name": "vibheksoni/free-ai",
-            "description": "Free OpenAI-compatible AI API for builders. Join Discord, run /signup, get a key, and use free models.",
-            "url": "https://github.com/vibheksoni/free-ai",
-            "stars": 297,
-            "forks": 69,
-            "score": 50
+            "sub_cat": "AI Agents",
+            "name": "agent-to-merchant-payments",
+            "full_name": "Snaplii-Inc/agent-to-merchant-payments",
+            "description": "Payments are broken for AI agents.  Snaplii unlocks real-world commerce with a safe, tokenized payment layer \u2014 powered by 500+ merchant gift cards \u2014 and is the only one that actually saves you money (up to 10% per transaction), on top of any existing deals or promotions.",
+            "url": "https://github.com/Snaplii-Inc/agent-to-merchant-payments",
+            "stars": 191,
+            "forks": 30,
+            "score": 49
         },
         {
             "main_cat": "AI",
@@ -240,6 +218,17 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/Senabayu08989/Stable-Diffusion-AI-Free",
             "stars": 206,
             "forks": 0,
+            "score": 47
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "medkit-app",
+            "full_name": "bedriyan/medkit-app",
+            "description": "A voice-first AI patient simulator bringing the future of medical education to your browser, built with Claude Opus 4.7.",
+            "url": "https://github.com/bedriyan/medkit-app",
+            "stars": 180,
+            "forks": 41,
             "score": 47
         },
         {
@@ -272,30 +261,41 @@ const ALPHA_DATA_V2 = {
             "description": "AI Trading Agent for Everyone",
             "url": "https://github.com/Yaolinwang/AITD",
             "stars": 205,
-            "forks": 56,
+            "forks": 57,
             "score": 45
         },
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "agent-style",
-            "full_name": "yzhao062/agent-style",
-            "description": "21 writing rules for AI coding and writing agents. Drop-in for Claude Code, Codex, Copilot, Cursor, and Aider, so their output reads like a tech pro.",
-            "url": "https://github.com/yzhao062/agent-style",
-            "stars": 389,
-            "forks": 21,
-            "score": 44
+            "name": "geo-citation-lab",
+            "full_name": "yaojingang/geo-citation-lab",
+            "description": "A dataset and analysis pipeline for studying how AI search engines select and use citations.",
+            "url": "https://github.com/yaojingang/geo-citation-lab",
+            "stars": 186,
+            "forks": 39,
+            "score": 42
         },
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "alice",
-            "full_name": "simoncirstoiu/alice",
-            "description": "Analyse \u00b7 Learn \u00b7 Ingest \u00b7 Curate \u00b7 Export \u2014 AI-powered YOLO dataset management toolkit",
-            "url": "https://github.com/simoncirstoiu/alice",
-            "stars": 300,
-            "forks": 31,
-            "score": 43
+            "name": "WRITING.md",
+            "full_name": "Anbeeld/WRITING.md",
+            "description": "Rules to make AI text sharper and genre-aware, with concrete anchors and built-in self-auditing workflow",
+            "url": "https://github.com/Anbeeld/WRITING.md",
+            "stars": 194,
+            "forks": 13,
+            "score": 41
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "Auto-2026-Desktop",
+            "full_name": "GHOST-227/Auto-2026-Desktop",
+            "description": "Resource is a professional suite for advanced 2D/3D drafting. It features optimized toolsets, AI-assisted design, and high-performance libraries. Designed for engineers and architects, it ensures precision and seamless workflow integration for modern industrial projects in 2026.",
+            "url": "https://github.com/GHOST-227/Auto-2026-Desktop",
+            "stars": 189,
+            "forks": 0,
+            "score": 38
         },
         {
             "main_cat": "AI",
@@ -304,7 +304,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Qiuner/ai-application-roadmap",
             "description": "A bilingual map of AI engineering evolution, real-world AI usage patterns, and vibe coding best practices.",
             "url": "https://github.com/Qiuner/ai-application-roadmap",
-            "stars": 224,
+            "stars": 225,
             "forks": 2,
             "score": 37
         },
@@ -331,6 +331,17 @@ const ALPHA_DATA_V2 = {
             "score": 31
         },
         {
+            "main_cat": "DePIN",
+            "sub_cat": null,
+            "name": "tps",
+            "full_name": "adiudiuu/tps",
+            "description": "GPU inference speed calculator \u2014 estimate theoretical tokens/s by GPU model, count & quantization",
+            "url": "https://github.com/adiudiuu/tps",
+            "stars": 13,
+            "forks": 0,
+            "score": 30
+        },
+        {
             "main_cat": "AI",
             "sub_cat": "AI General",
             "name": "gpu-for-ml",
@@ -339,17 +350,6 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/mahfuzswe/gpu-for-ml",
             "stars": 13,
             "forks": 1,
-            "score": 30
-        },
-        {
-            "main_cat": "DePIN",
-            "sub_cat": null,
-            "name": "tps",
-            "full_name": "adiudiuu/tps",
-            "description": "GPU inference speed calculator \u2014 estimate theoretical tokens/s by GPU model, count & quantization",
-            "url": "https://github.com/adiudiuu/tps",
-            "stars": 12,
-            "forks": 0,
             "score": 30
         },
         {
@@ -392,6 +392,17 @@ const ALPHA_DATA_V2 = {
             "full_name": "hwdsl2/docker-ollama",
             "description": "Docker image to run an Ollama local LLM server. Secure by default, all API requests require a Bearer token (auto-generated on first start). OpenAI-compatible API. Supports first-start model pre-pull, NVIDIA GPU (CUDA) acceleration, and persistent model storage. Multi-arch: amd64, arm64.",
             "url": "https://github.com/hwdsl2/docker-ollama",
+            "stars": 5,
+            "forks": 0,
+            "score": 30
+        },
+        {
+            "main_cat": "DePIN",
+            "sub_cat": null,
+            "name": "profanity-new-tron",
+            "full_name": "Pandaoyoo/profanity-new-tron",
+            "description": "-----\u274c\u6b64\u7248\u672c\u662f\u53bb\u540e\u95e8\u7248\u672c\u274c-----\ud83d\ude802026\u5e74GUI\u7248\u9753\u53f7\u751f\u6210\u5668\u3001\u2705\u6ce2\u573aTRX\u9753\u53f7\u5730\u5740\u751f\u6210\u5668\u3001USDT\u94b1\u5305\u9753\u53f7\u751f\u6210\u5668\u3001\u5229\u7528GPU\u8fdb\u884c\u52a0\u901f\u3002\ud83d\udd12TRX/USDT Wallet Vanity Address Generator, powered by GPU acceleration. Backdoors removed, safe and dependable.",
+            "url": "https://github.com/Pandaoyoo/profanity-new-tron",
             "stars": 5,
             "forks": 0,
             "score": 30
@@ -491,6 +502,17 @@ const ALPHA_DATA_V2 = {
             "full_name": "jerreenj/PayMate-SolanaAUDD",
             "description": "PayMate -- All-in-one AUDD (Australian dollar stablecoin) finance app on Solana. Invoices, Payment Links, Recurring, Split & Settle.",
             "url": "https://github.com/jerreenj/PayMate-SolanaAUDD",
+            "stars": 0,
+            "forks": 0,
+            "score": 30
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "payment-agent",
+            "full_name": "kevinlubega/payment-agent",
+            "description": "AI payment agent that pays for items using USDC stablecoins on Base Sepolia testnet",
+            "url": "https://github.com/kevinlubega/payment-agent",
             "stars": 0,
             "forks": 0,
             "score": 30
@@ -707,10 +729,10 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
-            "name": "DeFiTail",
-            "full_name": "vaishnavi0950/DeFiTail",
-            "description": "Detecting DeFi Protocol Exploits Through Cross-Contract Analysis",
-            "url": "https://github.com/vaishnavi0950/DeFiTail",
+            "name": "agent-coordination-platform",
+            "full_name": "w1123581321345589/agent-coordination-platform",
+            "description": "Full-stack Agent Coordination Platform \u2014 A2A Protocol, Security, Recovery Router, Cross-Model Routing, Proposal Engine, Context + Shapley, Coordination Tournaments, Meta-Learner",
+            "url": "https://github.com/w1123581321345589/agent-coordination-platform",
             "stars": 0,
             "forks": 0,
             "score": 30
@@ -739,5 +761,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/market/ethereum-above-2600-on-may-6"
         }
     ],
-    "timestamp": "2026-05-02 23:37"
+    "timestamp": "2026-05-03 02:14"
 };
