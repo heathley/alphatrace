@@ -7,7 +7,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "cosmicstack-labs/mercury-agent",
             "description": "Soul-driven AI agent with permission-hardened tools, token budgets, and multi-channel access. Runs 24/7 from CLI or Telegram.",
             "url": "https://github.com/cosmicstack-labs/mercury-agent",
-            "stars": 1941,
+            "stars": 1942,
             "forks": 200,
             "score": 99
         },
@@ -18,8 +18,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "willchen96/mike",
             "description": "OSS AI Legal Platform",
             "url": "https://github.com/willchen96/mike",
-            "stars": 1619,
-            "forks": 429,
+            "stars": 1630,
+            "forks": 435,
             "score": 99
         },
         {
@@ -29,7 +29,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "GammaLabTechnologies/harmonist",
             "description": "Portable AI agent orchestration with mechanical protocol enforcement. 186 agents, zero runtime dependencies.",
             "url": "https://github.com/GammaLabTechnologies/harmonist",
-            "stars": 1210,
+            "stars": 1214,
             "forks": 327,
             "score": 99
         },
@@ -40,19 +40,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "mattpocock/dictionary-of-ai-coding",
             "description": "AI coding jargon, explained in plain English.",
             "url": "https://github.com/mattpocock/dictionary-of-ai-coding",
-            "stars": 828,
+            "stars": 833,
             "forks": 113,
-            "score": 99
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "ai-trading-agent",
-            "full_name": "endless-sky-team/ai-trading-agent",
-            "description": "llm trading bot ai agent crypto bitcoin ethereum perpetuals openrouter lighter algorithmic automated quant typescript react postgres bun fintech defi machine-learning open-source crypto-bot signals",
-            "url": "https://github.com/endless-sky-team/ai-trading-agent",
-            "stars": 205,
-            "forks": 161,
             "score": 99
         },
         {
@@ -62,8 +51,19 @@ const ALPHA_DATA_V2 = {
             "full_name": "warpdot-dev/composio",
             "description": "typescript python sdk ai-agents anthropic openapi langchain openai-agents llamaindex mastra vercel-ai mcp oauth saas llm integrations agent-tools automation cloudflare google-gemini tooling rag multi-provider developer-sdk composable-actions webhook-triggers",
             "url": "https://github.com/warpdot-dev/composio",
-            "stars": 204,
+            "stars": 205,
             "forks": 221,
+            "score": 99
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "ai-trading-agent",
+            "full_name": "endless-sky-team/ai-trading-agent",
+            "description": "llm trading bot ai agent crypto bitcoin ethereum perpetuals openrouter lighter algorithmic automated quant typescript react postgres bun fintech defi machine-learning open-source crypto-bot signals",
+            "url": "https://github.com/endless-sky-team/ai-trading-agent",
+            "stars": 206,
+            "forks": 161,
             "score": 99
         },
         {
@@ -73,7 +73,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "sandeco/reversa",
             "description": "Transform legacy systems into executable specifications for AI coding agents",
             "url": "https://github.com/sandeco/reversa",
-            "stars": 481,
+            "stars": 485,
             "forks": 212,
             "score": 96
         },
@@ -84,7 +84,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "ForecastForge/coinbase-trading-bot",
             "description": "coinbase trading bot, coinbase bot, AI/automated crypto trading, Coinbase Advanced Trade/Pro, spot and futures, grid DCA scalping arbitrage, copy and signal bots, strategy setup tutorial guide automation",
             "url": "https://github.com/ForecastForge/coinbase-trading-bot",
-            "stars": 212,
+            "stars": 213,
             "forks": 190,
             "score": 84
         },
@@ -106,7 +106,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "future-agi/future-agi",
             "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals \u00b7 Simulations \u00b7 Datasets \u00b7 Gateway \u00b7 Guardrails. Self-hostable. Apache 2.0.",
             "url": "https://github.com/future-agi/future-agi",
-            "stars": 812,
+            "stars": 814,
             "forks": 140,
             "score": 82
         },
@@ -128,9 +128,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "ammaarreshi/gemma-chat",
             "description": "Local AI chat + coding agent for Apple Silicon, powered by Gemma 4 via MLX / Supports Ollama",
             "url": "https://github.com/ammaarreshi/gemma-chat",
-            "stars": 830,
-            "forks": 128,
-            "score": 71
+            "stars": 833,
+            "forks": 130,
+            "score": 72
         },
         {
             "main_cat": "AI",
@@ -139,9 +139,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "appergb/openless",
             "description": "Hold a key, speak, release \u2014 AI-polished text appears at your cursor in any app. Open-source voice input for macOS & Windows. (\u6309\u4f4f\u5feb\u6377\u952e\u8bf4\u8bdd\uff0c\u677e\u5f00\u5373\u5f97\u6da6\u8272\u540e\u7684\u6587\u5b57)",
             "url": "https://github.com/appergb/openless",
-            "stars": 546,
+            "stars": 552,
             "forks": 42,
-            "score": 69
+            "score": 70
         },
         {
             "main_cat": "AI",
@@ -150,7 +150,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "alash3al/stash",
             "description": "Stash \u2014 persistent memory layer for AI agents. Episodes, facts, and working context stored in Postgres. MCP server included. Self-hosted, single binary, no cloud required.",
             "url": "https://github.com/alash3al/stash",
-            "stars": 633,
+            "stars": 634,
             "forks": 26,
             "score": 63
         },
@@ -205,7 +205,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "bedriyan/medkit-app",
             "description": "A voice-first AI patient simulator bringing the future of medical education to your browser, built with Claude Opus 4.7.",
             "url": "https://github.com/bedriyan/medkit-app",
-            "stars": 189,
+            "stars": 190,
             "forks": 44,
             "score": 48
         },
@@ -612,7 +612,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "vtcipto/base-future2",
             "description": "2026 Strategic Focus AreasBase has prioritized three main areas in its 2026 roadmap:Global Payments: Increasing the use of stablecoins in daily commerce and expanding low-cost, high-speed payment systems.Tokenized Markets: Integrating traditional financial assets (stocks, bonds, etc.) into the digital economy by tokenizing them on the Base network.",
             "url": "https://github.com/vtcipto/base-future2",
-            "stars": 0,
+            "stars": 1,
             "forks": 0,
             "score": 30
         },
@@ -761,5 +761,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/market/ethereum-above-2600-on-may-6"
         }
     ],
-    "timestamp": "2026-05-03 20:36"
+    "timestamp": "2026-05-03 21:36"
 };
