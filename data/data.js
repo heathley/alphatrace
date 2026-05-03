@@ -7,7 +7,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "cosmicstack-labs/mercury-agent",
             "description": "Soul-driven AI agent with permission-hardened tools, token budgets, and multi-channel access. Runs 24/7 from CLI or Telegram.",
             "url": "https://github.com/cosmicstack-labs/mercury-agent",
-            "stars": 1925,
+            "stars": 1928,
             "forks": 200,
             "score": 99
         },
@@ -18,8 +18,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "willchen96/mike",
             "description": "OSS AI Legal Platform",
             "url": "https://github.com/willchen96/mike",
-            "stars": 1506,
-            "forks": 397,
+            "stars": 1510,
+            "forks": 400,
             "score": 99
         },
         {
@@ -29,7 +29,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "GammaLabTechnologies/harmonist",
             "description": "Portable AI agent orchestration with mechanical protocol enforcement. 186 agents, zero runtime dependencies.",
             "url": "https://github.com/GammaLabTechnologies/harmonist",
-            "stars": 1179,
+            "stars": 1184,
             "forks": 326,
             "score": 99
         },
@@ -40,7 +40,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "mattpocock/dictionary-of-ai-coding",
             "description": "AI coding jargon, explained in plain English.",
             "url": "https://github.com/mattpocock/dictionary-of-ai-coding",
-            "stars": 757,
+            "stars": 771,
             "forks": 108,
             "score": 99
         },
@@ -95,7 +95,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "worldwonderer/oh-story-claudecode",
             "description": "\u7f51\u6587\u5199\u4f5c skill \u5305\uff0c\u8986\u76d6\u957f\u7bc7\u4e0e\u77ed\u7bc7\u7f51\u7edc\u5c0f\u8bf4\u7684\u626b\u699c\u3001\u62c6\u6587\u3001\u5199\u4f5c\u3001\u53bbAI\u5473\u3001\u5c01\u9762\u56fe\u5168\u6d41\u7a0b",
             "url": "https://github.com/worldwonderer/oh-story-claudecode",
-            "stars": 713,
+            "stars": 714,
             "forks": 196,
             "score": 87
         },
@@ -128,7 +128,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "ammaarreshi/gemma-chat",
             "description": "Local AI chat + coding agent for Apple Silicon, powered by Gemma 4 via MLX / Supports Ollama",
             "url": "https://github.com/ammaarreshi/gemma-chat",
-            "stars": 792,
+            "stars": 796,
             "forks": 120,
             "score": 69
         },
@@ -139,8 +139,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "appergb/openless",
             "description": "Hold a key, speak, release \u2014 AI-polished text appears at your cursor in any app. Open-source voice input for macOS & Windows. (\u6309\u4f4f\u5feb\u6377\u952e\u8bf4\u8bdd\uff0c\u677e\u5f00\u5373\u5f97\u6da6\u8272\u540e\u7684\u6587\u5b57)",
             "url": "https://github.com/appergb/openless",
-            "stars": 470,
-            "forks": 37,
+            "stars": 473,
+            "forks": 38,
             "score": 64
         },
         {
@@ -161,9 +161,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "levelsio/superlevels",
             "description": "A super Chrome extension I made that's safer than installing external malware/spyware-filled extensions that form a massive security risk, this one is open source and you can read and check the source code (with AI) before you install it, and customize it to your liking!",
             "url": "https://github.com/levelsio/superlevels",
-            "stars": 464,
+            "stars": 465,
             "forks": 50,
             "score": 57
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI Agents",
+            "name": "agent-to-merchant-payments",
+            "full_name": "Snaplii-Inc/agent-to-merchant-payments",
+            "description": "Payments are broken for AI agents.  Snaplii unlocks real-world commerce with a safe, tokenized payment layer \u2014 powered by 500+ merchant gift cards \u2014 and is the only one that actually saves you money (up to 10% per transaction), on top of any existing deals or promotions.",
+            "url": "https://github.com/Snaplii-Inc/agent-to-merchant-payments",
+            "stars": 253,
+            "forks": 33,
+            "score": 54
         },
         {
             "main_cat": "AI",
@@ -186,17 +197,6 @@ const ALPHA_DATA_V2 = {
             "stars": 198,
             "forks": 0,
             "score": 54
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI Agents",
-            "name": "agent-to-merchant-payments",
-            "full_name": "Snaplii-Inc/agent-to-merchant-payments",
-            "description": "Payments are broken for AI agents.  Snaplii unlocks real-world commerce with a safe, tokenized payment layer \u2014 powered by 500+ merchant gift cards \u2014 and is the only one that actually saves you money (up to 10% per transaction), on top of any existing deals or promotions.",
-            "url": "https://github.com/Snaplii-Inc/agent-to-merchant-payments",
-            "stars": 248,
-            "forks": 33,
-            "score": 53
         },
         {
             "main_cat": "AI",
@@ -227,7 +227,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "bedriyan/medkit-app",
             "description": "A voice-first AI patient simulator bringing the future of medical education to your browser, built with Claude Opus 4.7.",
             "url": "https://github.com/bedriyan/medkit-app",
-            "stars": 185,
+            "stars": 186,
             "forks": 42,
             "score": 47
         },
@@ -238,7 +238,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "arcsin1/oh-my-ppt",
             "description": "Local-first AI PPT generator with Desktop APP for entrepreneurs. Clean HTML slides, no cloud lock-in. Write prompt \u2192 get deck.",
             "url": "https://github.com/arcsin1/oh-my-ppt",
-            "stars": 268,
+            "stars": 269,
             "forks": 23,
             "score": 45
         },
@@ -282,7 +282,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "yaojingang/geo-citation-lab",
             "description": "A dataset and analysis pipeline for studying how AI search engines select and use citations.",
             "url": "https://github.com/yaojingang/geo-citation-lab",
-            "stars": 186,
+            "stars": 187,
             "forks": 39,
             "score": 41
         },
@@ -305,7 +305,7 @@ const ALPHA_DATA_V2 = {
             "description": "A bilingual map of AI engineering evolution, real-world AI usage patterns, and vibe coding best practices.",
             "url": "https://github.com/Qiuner/ai-application-roadmap",
             "stars": 225,
-            "forks": 2,
+            "forks": 3,
             "score": 37
         },
         {
@@ -750,5 +750,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/market/ethereum-above-2600-on-may-6"
         }
     ],
-    "timestamp": "2026-05-03 10:49"
+    "timestamp": "2026-05-03 11:37"
 };
