@@ -18,7 +18,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "willchen96/mike",
             "description": "OSS AI Legal Platform",
             "url": "https://github.com/willchen96/mike",
-            "stars": 1630,
+            "stars": 1648,
             "forks": 435,
             "score": 99
         },
@@ -29,7 +29,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "GammaLabTechnologies/harmonist",
             "description": "Portable AI agent orchestration with mechanical protocol enforcement. 186 agents, zero runtime dependencies.",
             "url": "https://github.com/GammaLabTechnologies/harmonist",
-            "stars": 1214,
+            "stars": 1215,
             "forks": 327,
             "score": 99
         },
@@ -40,7 +40,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "mattpocock/dictionary-of-ai-coding",
             "description": "AI coding jargon, explained in plain English.",
             "url": "https://github.com/mattpocock/dictionary-of-ai-coding",
-            "stars": 833,
+            "stars": 838,
             "forks": 113,
             "score": 99
         },
@@ -57,6 +57,17 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
+            "sub_cat": null,
+            "name": "reversa",
+            "full_name": "sandeco/reversa",
+            "description": "Transform legacy systems into executable specifications for AI coding agents",
+            "url": "https://github.com/sandeco/reversa",
+            "stars": 490,
+            "forks": 212,
+            "score": 96
+        },
+        {
+            "main_cat": "AI",
             "sub_cat": "AI General",
             "name": "ai-trading-agent",
             "full_name": "endless-sky-team/ai-trading-agent",
@@ -64,18 +75,7 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/endless-sky-team/ai-trading-agent",
             "stars": 206,
             "forks": 161,
-            "score": 99
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "reversa",
-            "full_name": "sandeco/reversa",
-            "description": "Transform legacy systems into executable specifications for AI coding agents",
-            "url": "https://github.com/sandeco/reversa",
-            "stars": 485,
-            "forks": 212,
-            "score": 96
+            "score": 90
         },
         {
             "main_cat": "AI",
@@ -106,7 +106,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "future-agi/future-agi",
             "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals \u00b7 Simulations \u00b7 Datasets \u00b7 Gateway \u00b7 Guardrails. Self-hostable. Apache 2.0.",
             "url": "https://github.com/future-agi/future-agi",
-            "stars": 814,
+            "stars": 815,
             "forks": 140,
             "score": 82
         },
@@ -128,7 +128,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "ammaarreshi/gemma-chat",
             "description": "Local AI chat + coding agent for Apple Silicon, powered by Gemma 4 via MLX / Supports Ollama",
             "url": "https://github.com/ammaarreshi/gemma-chat",
-            "stars": 833,
+            "stars": 838,
             "forks": 130,
             "score": 72
         },
@@ -139,8 +139,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "appergb/openless",
             "description": "Hold a key, speak, release \u2014 AI-polished text appears at your cursor in any app. Open-source voice input for macOS & Windows. (\u6309\u4f4f\u5feb\u6377\u952e\u8bf4\u8bdd\uff0c\u677e\u5f00\u5373\u5f97\u6da6\u8272\u540e\u7684\u6587\u5b57)",
             "url": "https://github.com/appergb/openless",
-            "stars": 552,
-            "forks": 42,
+            "stars": 559,
+            "forks": 44,
             "score": 70
         },
         {
@@ -152,7 +152,7 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/alash3al/stash",
             "stars": 634,
             "forks": 26,
-            "score": 63
+            "score": 60
         },
         {
             "main_cat": "AI",
@@ -161,7 +161,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Snaplii-Inc/agent-to-merchant-payments",
             "description": "Payments are broken for AI agents.  Snaplii unlocks real-world commerce with a safe, tokenized payment layer \u2014 powered by 500+ merchant gift cards \u2014 and is the only one that actually saves you money (up to 10% per transaction), on top of any existing deals or promotions.",
             "url": "https://github.com/Snaplii-Inc/agent-to-merchant-payments",
-            "stars": 263,
+            "stars": 274,
             "forks": 39,
             "score": 56
         },
@@ -172,7 +172,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "levelsio/superlevels",
             "description": "A super Chrome extension I made that's safer than installing external malware/spyware-filled extensions that form a massive security risk, this one is open source and you can read and check the source code (with AI) before you install it, and customize it to your liking!",
             "url": "https://github.com/levelsio/superlevels",
-            "stars": 468,
+            "stars": 469,
             "forks": 51,
             "score": 55
         },
@@ -205,7 +205,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "bedriyan/medkit-app",
             "description": "A voice-first AI patient simulator bringing the future of medical education to your browser, built with Claude Opus 4.7.",
             "url": "https://github.com/bedriyan/medkit-app",
-            "stars": 190,
+            "stars": 191,
             "forks": 44,
             "score": 48
         },
@@ -685,6 +685,17 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
+            "name": "zenthis-protocol",
+            "full_name": "sukofr11/zenthis-protocol",
+            "description": "Zenthis Protocol \u2014 Unified Cross-Chain Liquidity. ZenthisHTLC, ZenthisToken, ZenthisVault smart contracts. 48 tests passing.",
+            "url": "https://github.com/sukofr11/zenthis-protocol",
+            "stars": 0,
+            "forks": 0,
+            "score": 30
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
             "name": "Private-Cross-Chain-RFQ-Desk",
             "full_name": "THE-VARNA/Private-Cross-Chain-RFQ-Desk",
             "description": "Private RFQ Desk is a sealed-bid, cross-chain Request-for-Quote protocol built on Solana, using:  Encrypt FHE (Fully Homomorphic Encryption) to match orders on encrypted ciphertexts \u2014 neither the network, the validators, nor the counterparty ever sees price or size until after settlement is decided. Ika 2PC-MPC to authorize the release of native cr",
@@ -761,5 +772,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/market/ethereum-above-2600-on-may-6"
         }
     ],
-    "timestamp": "2026-05-03 21:36"
+    "timestamp": "2026-05-03 22:34"
 };
