@@ -7,7 +7,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "cosmicstack-labs/mercury-agent",
             "description": "Soul-driven AI agent with permission-hardened tools, token budgets, and multi-channel access. Runs 24/7 from CLI or Telegram.",
             "url": "https://github.com/cosmicstack-labs/mercury-agent",
-            "stars": 1922,
+            "stars": 1925,
             "forks": 200,
             "score": 99
         },
@@ -18,8 +18,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "willchen96/mike",
             "description": "OSS AI Legal Platform",
             "url": "https://github.com/willchen96/mike",
-            "stars": 1485,
-            "forks": 393,
+            "stars": 1506,
+            "forks": 397,
             "score": 99
         },
         {
@@ -29,8 +29,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "GammaLabTechnologies/harmonist",
             "description": "Portable AI agent orchestration with mechanical protocol enforcement. 186 agents, zero runtime dependencies.",
             "url": "https://github.com/GammaLabTechnologies/harmonist",
-            "stars": 1176,
-            "forks": 325,
+            "stars": 1179,
+            "forks": 326,
             "score": 99
         },
         {
@@ -40,8 +40,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "mattpocock/dictionary-of-ai-coding",
             "description": "AI coding jargon, explained in plain English.",
             "url": "https://github.com/mattpocock/dictionary-of-ai-coding",
-            "stars": 742,
-            "forks": 107,
+            "stars": 757,
+            "forks": 108,
             "score": 99
         },
         {
@@ -51,8 +51,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "sandeco/reversa",
             "description": "Transform legacy systems into executable specifications for AI coding agents",
             "url": "https://github.com/sandeco/reversa",
-            "stars": 470,
-            "forks": 209,
+            "stars": 472,
+            "forks": 210,
             "score": 99
         },
         {
@@ -73,7 +73,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "warpdot-dev/composio",
             "description": "typescript python sdk ai-agents anthropic openapi langchain openai-agents llamaindex mastra vercel-ai mcp oauth saas llm integrations agent-tools automation cloudflare google-gemini tooling rag multi-provider developer-sdk composable-actions webhook-triggers",
             "url": "https://github.com/warpdot-dev/composio",
-            "stars": 195,
+            "stars": 198,
             "forks": 221,
             "score": 99
         },
@@ -95,8 +95,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "worldwonderer/oh-story-claudecode",
             "description": "\u7f51\u6587\u5199\u4f5c skill \u5305\uff0c\u8986\u76d6\u957f\u7bc7\u4e0e\u77ed\u7bc7\u7f51\u7edc\u5c0f\u8bf4\u7684\u626b\u699c\u3001\u62c6\u6587\u3001\u5199\u4f5c\u3001\u53bbAI\u5473\u3001\u5c01\u9762\u56fe\u5168\u6d41\u7a0b",
             "url": "https://github.com/worldwonderer/oh-story-claudecode",
-            "stars": 711,
-            "forks": 195,
+            "stars": 713,
+            "forks": 196,
             "score": 87
         },
         {
@@ -128,9 +128,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "ammaarreshi/gemma-chat",
             "description": "Local AI chat + coding agent for Apple Silicon, powered by Gemma 4 via MLX / Supports Ollama",
             "url": "https://github.com/ammaarreshi/gemma-chat",
-            "stars": 789,
+            "stars": 792,
             "forks": 120,
             "score": 69
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "openless",
+            "full_name": "appergb/openless",
+            "description": "Hold a key, speak, release \u2014 AI-polished text appears at your cursor in any app. Open-source voice input for macOS & Windows. (\u6309\u4f4f\u5feb\u6377\u952e\u8bf4\u8bdd\uff0c\u677e\u5f00\u5373\u5f97\u6da6\u8272\u540e\u7684\u6587\u5b57)",
+            "url": "https://github.com/appergb/openless",
+            "stars": 470,
+            "forks": 37,
+            "score": 64
         },
         {
             "main_cat": "AI",
@@ -146,22 +157,11 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "openless",
-            "full_name": "appergb/openless",
-            "description": "Hold a key, speak, release \u2014 AI-polished text appears at your cursor in any app. Open-source voice input for macOS & Windows. (\u6309\u4f4f\u5feb\u6377\u952e\u8bf4\u8bdd\uff0c\u677e\u5f00\u5373\u5f97\u6da6\u8272\u540e\u7684\u6587\u5b57)",
-            "url": "https://github.com/appergb/openless",
-            "stars": 458,
-            "forks": 36,
-            "score": 63
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
             "name": "superlevels",
             "full_name": "levelsio/superlevels",
             "description": "A super Chrome extension I made that's safer than installing external malware/spyware-filled extensions that form a massive security risk, this one is open source and you can read and check the source code (with AI) before you install it, and customize it to your liking!",
             "url": "https://github.com/levelsio/superlevels",
-            "stars": 463,
+            "stars": 464,
             "forks": 50,
             "score": 57
         },
@@ -194,9 +194,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "Snaplii-Inc/agent-to-merchant-payments",
             "description": "Payments are broken for AI agents.  Snaplii unlocks real-world commerce with a safe, tokenized payment layer \u2014 powered by 500+ merchant gift cards \u2014 and is the only one that actually saves you money (up to 10% per transaction), on top of any existing deals or promotions.",
             "url": "https://github.com/Snaplii-Inc/agent-to-merchant-payments",
-            "stars": 234,
-            "forks": 31,
-            "score": 52
+            "stars": 248,
+            "forks": 33,
+            "score": 53
         },
         {
             "main_cat": "AI",
@@ -216,7 +216,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Senabayu08989/Stable-Diffusion-AI-Free",
             "description": "Stable Diffusion Free AI Image Generator Flux 2 Local Deployment Real-time Video Character Consistency Identity Anchoring SDXL Turbo LoRA Training ControlNet Open Source Art Studio Hyperrealistic Cinematic Styles Prompt Engineering Python Pytorch Forge ComfyUI 2026 Release High Resolution Desktop Tool",
             "url": "https://github.com/Senabayu08989/Stable-Diffusion-AI-Free",
-            "stars": 208,
+            "stars": 209,
             "forks": 0,
             "score": 47
         },
@@ -227,7 +227,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "bedriyan/medkit-app",
             "description": "A voice-first AI patient simulator bringing the future of medical education to your browser, built with Claude Opus 4.7.",
             "url": "https://github.com/bedriyan/medkit-app",
-            "stars": 184,
+            "stars": 185,
             "forks": 42,
             "score": 47
         },
@@ -238,9 +238,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "arcsin1/oh-my-ppt",
             "description": "Local-first AI PPT generator with Desktop APP for entrepreneurs. Clean HTML slides, no cloud lock-in. Write prompt \u2192 get deck.",
             "url": "https://github.com/arcsin1/oh-my-ppt",
-            "stars": 267,
+            "stars": 268,
             "forks": 23,
-            "score": 46
+            "score": 45
         },
         {
             "main_cat": "AI",
@@ -261,7 +261,7 @@ const ALPHA_DATA_V2 = {
             "description": "Your AI coding agent never forgets \u2014 progressive session recall CLI",
             "url": "https://github.com/dezgit2025/auto-memory",
             "stars": 317,
-            "forks": 30,
+            "forks": 31,
             "score": 44
         },
         {
@@ -750,5 +750,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/market/ethereum-above-2600-on-may-6"
         }
     ],
-    "timestamp": "2026-05-03 09:17"
+    "timestamp": "2026-05-03 10:49"
 };
