@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "willchen96/mike",
             "description": "OSS AI Legal Platform",
             "url": "https://github.com/willchen96/mike",
-            "stars": 1733,
-            "forks": 454,
+            "stars": 1763,
+            "forks": 458,
             "score": 99
         },
         {
@@ -18,7 +18,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "GammaLabTechnologies/harmonist",
             "description": "Portable AI agent orchestration with mechanical protocol enforcement. 186 agents, zero runtime dependencies.",
             "url": "https://github.com/GammaLabTechnologies/harmonist",
-            "stars": 1223,
+            "stars": 1230,
             "forks": 328,
             "score": 99
         },
@@ -29,8 +29,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "mattpocock/dictionary-of-ai-coding",
             "description": "AI coding jargon, explained in plain English.",
             "url": "https://github.com/mattpocock/dictionary-of-ai-coding",
-            "stars": 864,
-            "forks": 116,
+            "stars": 878,
+            "forks": 119,
             "score": 99
         },
         {
@@ -40,8 +40,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "warpdot-dev/composio",
             "description": "typescript python sdk ai-agents anthropic openapi langchain openai-agents llamaindex mastra vercel-ai mcp oauth saas llm integrations agent-tools automation cloudflare google-gemini tooling rag multi-provider developer-sdk composable-actions webhook-triggers",
             "url": "https://github.com/warpdot-dev/composio",
-            "stars": 206,
-            "forks": 221,
+            "stars": 205,
+            "forks": 222,
             "score": 99
         },
         {
@@ -51,8 +51,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "sandeco/reversa",
             "description": "Transform legacy systems into executable specifications for AI coding agents",
             "url": "https://github.com/sandeco/reversa",
-            "stars": 508,
-            "forks": 215,
+            "stars": 510,
+            "forks": 216,
             "score": 98
         },
         {
@@ -62,9 +62,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "endless-sky-team/ai-trading-agent",
             "description": "llm trading bot ai agent crypto bitcoin ethereum perpetuals openrouter lighter algorithmic automated quant typescript react postgres bun fintech defi machine-learning open-source crypto-bot signals",
             "url": "https://github.com/endless-sky-team/ai-trading-agent",
-            "stars": 206,
+            "stars": 205,
             "forks": 162,
-            "score": 91
+            "score": 90
         },
         {
             "main_cat": "AI",
@@ -73,19 +73,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "worldwonderer/oh-story-claudecode",
             "description": "\u7f51\u6587\u5199\u4f5c skill \u5305\uff0c\u8986\u76d6\u957f\u7bc7\u4e0e\u77ed\u7bc7\u7f51\u7edc\u5c0f\u8bf4\u7684\u626b\u699c\u3001\u62c6\u6587\u3001\u5199\u4f5c\u3001\u53bbAI\u5473\u3001\u5c01\u9762\u56fe\u5168\u6d41\u7a0b",
             "url": "https://github.com/worldwonderer/oh-story-claudecode",
-            "stars": 728,
+            "stars": 735,
             "forks": 198,
-            "score": 84
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "coinbase-trading-bot",
-            "full_name": "ForecastForge/coinbase-trading-bot",
-            "description": "coinbase trading bot, coinbase bot, AI/automated crypto trading, Coinbase Advanced Trade/Pro, spot and futures, grid DCA scalping arbitrage, copy and signal bots, strategy setup tutorial guide automation",
-            "url": "https://github.com/ForecastForge/coinbase-trading-bot",
-            "stars": 212,
-            "forks": 190,
             "score": 84
         },
         {
@@ -95,8 +84,19 @@ const ALPHA_DATA_V2 = {
             "full_name": "future-agi/future-agi",
             "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals \u00b7 Simulations \u00b7 Datasets \u00b7 Gateway \u00b7 Guardrails. Self-hostable. Apache 2.0.",
             "url": "https://github.com/future-agi/future-agi",
-            "stars": 817,
+            "stars": 818,
             "forks": 141,
+            "score": 83
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "coinbase-trading-bot",
+            "full_name": "ForecastForge/coinbase-trading-bot",
+            "description": "coinbase trading bot, coinbase bot, AI/automated crypto trading, Coinbase Advanced Trade/Pro, spot and futures, grid DCA scalping arbitrage, copy and signal bots, strategy setup tutorial guide automation",
+            "url": "https://github.com/ForecastForge/coinbase-trading-bot",
+            "stars": 211,
+            "forks": 190,
             "score": 83
         },
         {
@@ -107,7 +107,7 @@ const ALPHA_DATA_V2 = {
             "description": "OpenAI-compatible proxy that aggregates free-tier keys from ~14 AI providers with automatic failover. For personal experimentation only.",
             "url": "https://github.com/tashfeenahmed/freellmapi",
             "stars": 814,
-            "forks": 152,
+            "forks": 153,
             "score": 77
         },
         {
@@ -117,9 +117,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "appergb/openless",
             "description": "Hold a key, speak, release \u2014 AI-polished text appears at your cursor in any app. Open-source voice input for macOS & Windows. (\u6309\u4f4f\u5feb\u6377\u952e\u8bf4\u8bdd\uff0c\u677e\u5f00\u5373\u5f97\u6da6\u8272\u540e\u7684\u6587\u5b57)",
             "url": "https://github.com/appergb/openless",
-            "stars": 605,
+            "stars": 629,
             "forks": 50,
-            "score": 74
+            "score": 71
         },
         {
             "main_cat": "AI",
@@ -128,7 +128,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "nateherkai/AIS-OS",
             "description": "AI Operating System starter kit for Claude Code \u2014 three-skill kit (/onboard, /audit, /level-up) + 3Ms framework. Companion to the AIOS masterclass.",
             "url": "https://github.com/nateherkai/AIS-OS",
-            "stars": 194,
+            "stars": 195,
             "forks": 75,
             "score": 71
         },
@@ -150,9 +150,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "Snaplii-Inc/agent-to-merchant-payments",
             "description": "Payments are broken for AI agents.  Snaplii unlocks real-world commerce with a safe, tokenized payment layer \u2014 powered by 500+ merchant gift cards \u2014 and is the only one that actually saves you money (up to 10% per transaction), on top of any existing deals or promotions.",
             "url": "https://github.com/Snaplii-Inc/agent-to-merchant-payments",
-            "stars": 327,
-            "forks": 43,
-            "score": 57
+            "stars": 347,
+            "forks": 46,
+            "score": 59
         },
         {
             "main_cat": "AI",
@@ -190,23 +190,23 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "gpt-image-canvas",
-            "full_name": "mrslimslim/gpt-image-canvas",
-            "description": "Local professional AI canvas built with tldraw.",
-            "url": "https://github.com/mrslimslim/gpt-image-canvas",
-            "stars": 183,
-            "forks": 27,
-            "score": 48
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
             "name": "medkit-app",
             "full_name": "bedriyan/medkit-app",
             "description": "A voice-first AI patient simulator bringing the future of medical education to your browser, built with Claude Opus 4.7.",
             "url": "https://github.com/bedriyan/medkit-app",
-            "stars": 193,
+            "stars": 196,
             "forks": 44,
+            "score": 46
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "gpt-image-canvas",
+            "full_name": "mrslimslim/gpt-image-canvas",
+            "description": "Local professional AI canvas built with tldraw.",
+            "url": "https://github.com/mrslimslim/gpt-image-canvas",
+            "stars": 185,
+            "forks": 27,
             "score": 46
         },
         {
@@ -216,8 +216,19 @@ const ALPHA_DATA_V2 = {
             "full_name": "arcsin1/oh-my-ppt",
             "description": "Local-first AI PPT generator with Desktop APP for entrepreneurs. Clean HTML slides, no cloud lock-in. Write prompt \u2192 get deck.",
             "url": "https://github.com/arcsin1/oh-my-ppt",
-            "stars": 278,
+            "stars": 280,
             "forks": 24,
+            "score": 45
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "Stable-Diffusion-AI-Free",
+            "full_name": "Senabayu08989/Stable-Diffusion-AI-Free",
+            "description": "Stable Diffusion Free AI Image Generator Flux 2 Local Deployment Real-time Video Character Consistency Identity Anchoring SDXL Turbo LoRA Training ControlNet Open Source Art Studio Hyperrealistic Cinematic Styles Prompt Engineering Python Pytorch Forge ComfyUI 2026 Release High Resolution Desktop Tool",
+            "url": "https://github.com/Senabayu08989/Stable-Diffusion-AI-Free",
+            "stars": 223,
+            "forks": 0,
             "score": 45
         },
         {
@@ -234,13 +245,13 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "Stable-Diffusion-AI-Free",
-            "full_name": "Senabayu08989/Stable-Diffusion-AI-Free",
-            "description": "Stable Diffusion Free AI Image Generator Flux 2 Local Deployment Real-time Video Character Consistency Identity Anchoring SDXL Turbo LoRA Training ControlNet Open Source Art Studio Hyperrealistic Cinematic Styles Prompt Engineering Python Pytorch Forge ComfyUI 2026 Release High Resolution Desktop Tool",
-            "url": "https://github.com/Senabayu08989/Stable-Diffusion-AI-Free",
-            "stars": 221,
-            "forks": 0,
-            "score": 45
+            "name": "AITD",
+            "full_name": "Yaolinwang/AITD",
+            "description": "AI Trading Agent for Everyone",
+            "url": "https://github.com/Yaolinwang/AITD",
+            "stars": 205,
+            "forks": 57,
+            "score": 44
         },
         {
             "main_cat": "AI",
@@ -251,18 +262,7 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/dezgit2025/auto-memory",
             "stars": 319,
             "forks": 31,
-            "score": 44
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "AITD",
-            "full_name": "Yaolinwang/AITD",
-            "description": "AI Trading Agent for Everyone",
-            "url": "https://github.com/Yaolinwang/AITD",
-            "stars": 205,
-            "forks": 57,
-            "score": 44
+            "score": 43
         },
         {
             "main_cat": "AI",
@@ -304,7 +304,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "PMZFX/intel-arc-pro-b70-benchmarks",
             "description": "Benchmark results and performance data for the Intel Arc Pro B70 GPU (Xe2/Battlemage) - LLM inference, video generation, dual-GPU scaling.",
             "url": "https://github.com/PMZFX/intel-arc-pro-b70-benchmarks",
-            "stars": 31,
+            "stars": 32,
             "forks": 1,
             "score": 31
         },
@@ -315,7 +315,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Pandaoyoo/profanity-new-tron",
             "description": "-----\u274c\u6b64\u7248\u672c\u662f\u53bb\u540e\u95e8\u7248\u672c\u274c-----\ud83d\ude802026\u5e74GUI\u7248\u9753\u53f7\u751f\u6210\u5668\u3001\u2705\u6ce2\u573aTRX\u9753\u53f7\u5730\u5740\u751f\u6210\u5668\u3001USDT\u94b1\u5305\u9753\u53f7\u751f\u6210\u5668\u3001\u5229\u7528GPU\u8fdb\u884c\u52a0\u901f\u3002\ud83d\udd12TRX/USDT Wallet Vanity Address Generator, powered by GPU acceleration. Backdoors removed, safe and dependable.",
             "url": "https://github.com/Pandaoyoo/profanity-new-tron",
-            "stars": 12,
+            "stars": 13,
             "forks": 0,
             "score": 31
         },
@@ -732,12 +732,12 @@ const ALPHA_DATA_V2 = {
             "url": "http://arxiv.org/abs/2605.00788v1"
         },
         {
-            "title": "Will the price of Ethereum be greater than $2,700 on May 6? (Probability: 2%)",
+            "title": "Will the price of Ethereum be greater than $2,700 on May 6? (Probability: 0%)",
             "source": "Polymarket",
             "type": "Expectation",
             "color": "text-indigo-400",
             "url": "https://polymarket.com/market/will-the-price-of-ethereum-be-greater-than-2700-on-may-6"
         }
     ],
-    "timestamp": "2026-05-04 05:58"
+    "timestamp": "2026-05-04 08:33"
 };
