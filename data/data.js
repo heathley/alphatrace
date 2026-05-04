@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "willchen96/mike",
             "description": "OSS AI Legal Platform",
             "url": "https://github.com/willchen96/mike",
-            "stars": 1763,
-            "forks": 458,
+            "stars": 1810,
+            "forks": 463,
             "score": 99
         },
         {
@@ -18,7 +18,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "GammaLabTechnologies/harmonist",
             "description": "Portable AI agent orchestration with mechanical protocol enforcement. 186 agents, zero runtime dependencies.",
             "url": "https://github.com/GammaLabTechnologies/harmonist",
-            "stars": 1230,
+            "stars": 1235,
             "forks": 328,
             "score": 99
         },
@@ -29,19 +29,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "mattpocock/dictionary-of-ai-coding",
             "description": "AI coding jargon, explained in plain English.",
             "url": "https://github.com/mattpocock/dictionary-of-ai-coding",
-            "stars": 878,
+            "stars": 891,
             "forks": 119,
-            "score": 99
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "composio",
-            "full_name": "warpdot-dev/composio",
-            "description": "typescript python sdk ai-agents anthropic openapi langchain openai-agents llamaindex mastra vercel-ai mcp oauth saas llm integrations agent-tools automation cloudflare google-gemini tooling rag multi-provider developer-sdk composable-actions webhook-triggers",
-            "url": "https://github.com/warpdot-dev/composio",
-            "stars": 205,
-            "forks": 222,
             "score": 99
         },
         {
@@ -51,9 +40,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "sandeco/reversa",
             "description": "Transform legacy systems into executable specifications for AI coding agents",
             "url": "https://github.com/sandeco/reversa",
-            "stars": 510,
-            "forks": 216,
-            "score": 98
+            "stars": 516,
+            "forks": 217,
+            "score": 99
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "composio",
+            "full_name": "warpdot-dev/composio",
+            "description": "typescript python sdk ai-agents anthropic openapi langchain openai-agents llamaindex mastra vercel-ai mcp oauth saas llm integrations agent-tools automation cloudflare google-gemini tooling rag multi-provider developer-sdk composable-actions webhook-triggers",
+            "url": "https://github.com/warpdot-dev/composio",
+            "stars": 206,
+            "forks": 222,
+            "score": 99
         },
         {
             "main_cat": "AI",
@@ -73,9 +73,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "worldwonderer/oh-story-claudecode",
             "description": "\u7f51\u6587\u5199\u4f5c skill \u5305\uff0c\u8986\u76d6\u957f\u7bc7\u4e0e\u77ed\u7bc7\u7f51\u7edc\u5c0f\u8bf4\u7684\u626b\u699c\u3001\u62c6\u6587\u3001\u5199\u4f5c\u3001\u53bbAI\u5473\u3001\u5c01\u9762\u56fe\u5168\u6d41\u7a0b",
             "url": "https://github.com/worldwonderer/oh-story-claudecode",
-            "stars": 735,
-            "forks": 198,
-            "score": 84
+            "stars": 741,
+            "forks": 200,
+            "score": 85
         },
         {
             "main_cat": "AI",
@@ -84,7 +84,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "future-agi/future-agi",
             "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals \u00b7 Simulations \u00b7 Datasets \u00b7 Gateway \u00b7 Guardrails. Self-hostable. Apache 2.0.",
             "url": "https://github.com/future-agi/future-agi",
-            "stars": 818,
+            "stars": 819,
             "forks": 141,
             "score": 83
         },
@@ -106,7 +106,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "tashfeenahmed/freellmapi",
             "description": "OpenAI-compatible proxy that aggregates free-tier keys from ~14 AI providers with automatic failover. For personal experimentation only.",
             "url": "https://github.com/tashfeenahmed/freellmapi",
-            "stars": 814,
+            "stars": 815,
             "forks": 153,
             "score": 77
         },
@@ -117,9 +117,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "appergb/openless",
             "description": "Hold a key, speak, release \u2014 AI-polished text appears at your cursor in any app. Open-source voice input for macOS & Windows. (\u6309\u4f4f\u5feb\u6377\u952e\u8bf4\u8bdd\uff0c\u677e\u5f00\u5373\u5f97\u6da6\u8272\u540e\u7684\u6587\u5b57)",
             "url": "https://github.com/appergb/openless",
-            "stars": 629,
-            "forks": 50,
-            "score": 71
+            "stars": 651,
+            "forks": 52,
+            "score": 72
         },
         {
             "main_cat": "AI",
@@ -128,8 +128,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "nateherkai/AIS-OS",
             "description": "AI Operating System starter kit for Claude Code \u2014 three-skill kit (/onboard, /audit, /level-up) + 3Ms framework. Companion to the AIOS masterclass.",
             "url": "https://github.com/nateherkai/AIS-OS",
-            "stars": 195,
-            "forks": 75,
+            "stars": 198,
+            "forks": 76,
             "score": 71
         },
         {
@@ -150,9 +150,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "Snaplii-Inc/agent-to-merchant-payments",
             "description": "Payments are broken for AI agents.  Snaplii unlocks real-world commerce with a safe, tokenized payment layer \u2014 powered by 500+ merchant gift cards \u2014 and is the only one that actually saves you money (up to 10% per transaction), on top of any existing deals or promotions.",
             "url": "https://github.com/Snaplii-Inc/agent-to-merchant-payments",
-            "stars": 347,
-            "forks": 46,
-            "score": 59
+            "stars": 367,
+            "forks": 47,
+            "score": 60
         },
         {
             "main_cat": "AI",
@@ -162,7 +162,7 @@ const ALPHA_DATA_V2 = {
             "description": "A super Chrome extension I made that's safer than installing external malware/spyware-filled extensions that form a massive security risk, this one is open source and you can read and check the source code (with AI) before you install it, and customize it to your liking!",
             "url": "https://github.com/levelsio/superlevels",
             "stars": 470,
-            "forks": 52,
+            "forks": 53,
             "score": 56
         },
         {
@@ -190,6 +190,39 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
+            "name": "gpt-image-canvas",
+            "full_name": "mrslimslim/gpt-image-canvas",
+            "description": "Local professional AI canvas built with tldraw.",
+            "url": "https://github.com/mrslimslim/gpt-image-canvas",
+            "stars": 193,
+            "forks": 29,
+            "score": 47
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "Claude-Code-AI-Design",
+            "full_name": "Julpygo/Claude-Code-AI-Design",
+            "description": "Claude Design Anthropic Tool Download April 2026 Figma to Code AI Agent Research Preview Claude Code CLI Integration React 19 Tailwind v4 Support Model Context Protocol MCP Server Setup Design Systems Automation UI UX Prototyping Next.js Component Generation Best Developer Tools 2026 Free Tutorial",
+            "url": "https://github.com/Julpygo/Claude-Code-AI-Design",
+            "stars": 224,
+            "forks": 1,
+            "score": 46
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "Stable-Diffusion-AI-Free",
+            "full_name": "Senabayu08989/Stable-Diffusion-AI-Free",
+            "description": "Stable Diffusion Free AI Image Generator Flux 2 Local Deployment Real-time Video Character Consistency Identity Anchoring SDXL Turbo LoRA Training ControlNet Open Source Art Studio Hyperrealistic Cinematic Styles Prompt Engineering Python Pytorch Forge ComfyUI 2026 Release High Resolution Desktop Tool",
+            "url": "https://github.com/Senabayu08989/Stable-Diffusion-AI-Free",
+            "stars": 225,
+            "forks": 0,
+            "score": 46
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
             "name": "medkit-app",
             "full_name": "bedriyan/medkit-app",
             "description": "A voice-first AI patient simulator bringing the future of medical education to your browser, built with Claude Opus 4.7.",
@@ -201,46 +234,13 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "gpt-image-canvas",
-            "full_name": "mrslimslim/gpt-image-canvas",
-            "description": "Local professional AI canvas built with tldraw.",
-            "url": "https://github.com/mrslimslim/gpt-image-canvas",
-            "stars": 185,
-            "forks": 27,
-            "score": 46
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
             "name": "oh-my-ppt",
             "full_name": "arcsin1/oh-my-ppt",
             "description": "Local-first AI PPT generator with Desktop APP for entrepreneurs. Clean HTML slides, no cloud lock-in. Write prompt \u2192 get deck.",
             "url": "https://github.com/arcsin1/oh-my-ppt",
             "stars": 280,
-            "forks": 24,
-            "score": 45
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "Stable-Diffusion-AI-Free",
-            "full_name": "Senabayu08989/Stable-Diffusion-AI-Free",
-            "description": "Stable Diffusion Free AI Image Generator Flux 2 Local Deployment Real-time Video Character Consistency Identity Anchoring SDXL Turbo LoRA Training ControlNet Open Source Art Studio Hyperrealistic Cinematic Styles Prompt Engineering Python Pytorch Forge ComfyUI 2026 Release High Resolution Desktop Tool",
-            "url": "https://github.com/Senabayu08989/Stable-Diffusion-AI-Free",
-            "stars": 223,
-            "forks": 0,
-            "score": 45
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "Claude-Code-AI-Design",
-            "full_name": "Julpygo/Claude-Code-AI-Design",
-            "description": "Claude Design Anthropic Tool Download April 2026 Figma to Code AI Agent Research Preview Claude Code CLI Integration React 19 Tailwind v4 Support Model Context Protocol MCP Server Setup Design Systems Automation UI UX Prototyping Next.js Component Generation Best Developer Tools 2026 Free Tutorial",
-            "url": "https://github.com/Julpygo/Claude-Code-AI-Design",
-            "stars": 222,
-            "forks": 0,
-            "score": 45
+            "forks": 25,
+            "score": 44
         },
         {
             "main_cat": "AI",
@@ -250,7 +250,7 @@ const ALPHA_DATA_V2 = {
             "description": "AI Trading Agent for Everyone",
             "url": "https://github.com/Yaolinwang/AITD",
             "stars": 205,
-            "forks": 57,
+            "forks": 56,
             "score": 44
         },
         {
@@ -260,20 +260,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "dezgit2025/auto-memory",
             "description": "Your AI coding agent never forgets \u2014 progressive session recall CLI",
             "url": "https://github.com/dezgit2025/auto-memory",
-            "stars": 319,
+            "stars": 320,
             "forks": 31,
             "score": 43
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "geo-citation-lab",
-            "full_name": "yaojingang/geo-citation-lab",
-            "description": "A dataset and analysis pipeline for studying how AI search engines select and use citations.",
-            "url": "https://github.com/yaojingang/geo-citation-lab",
-            "stars": 188,
-            "forks": 39,
-            "score": 41
         },
         {
             "main_cat": "AI",
@@ -289,11 +278,22 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
+            "name": "geo-citation-lab",
+            "full_name": "yaojingang/geo-citation-lab",
+            "description": "A dataset and analysis pipeline for studying how AI search engines select and use citations.",
+            "url": "https://github.com/yaojingang/geo-citation-lab",
+            "stars": 188,
+            "forks": 39,
+            "score": 40
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
             "name": "Auto-2026-Desktop",
             "full_name": "GHOST-227/Auto-2026-Desktop",
             "description": "Resource is a professional suite for advanced 2D/3D drafting. It features optimized toolsets, AI-assisted design, and high-performance libraries. Designed for engineers and architects, it ensures precision and seamless workflow integration for modern industrial projects in 2026.",
             "url": "https://github.com/GHOST-227/Auto-2026-Desktop",
-            "stars": 189,
+            "stars": 190,
             "forks": 0,
             "score": 37
         },
@@ -315,18 +315,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Pandaoyoo/profanity-new-tron",
             "description": "-----\u274c\u6b64\u7248\u672c\u662f\u53bb\u540e\u95e8\u7248\u672c\u274c-----\ud83d\ude802026\u5e74GUI\u7248\u9753\u53f7\u751f\u6210\u5668\u3001\u2705\u6ce2\u573aTRX\u9753\u53f7\u5730\u5740\u751f\u6210\u5668\u3001USDT\u94b1\u5305\u9753\u53f7\u751f\u6210\u5668\u3001\u5229\u7528GPU\u8fdb\u884c\u52a0\u901f\u3002\ud83d\udd12TRX/USDT Wallet Vanity Address Generator, powered by GPU acceleration. Backdoors removed, safe and dependable.",
             "url": "https://github.com/Pandaoyoo/profanity-new-tron",
-            "stars": 13,
-            "forks": 0,
-            "score": 31
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "LumiChats-Offline-LLM",
-            "full_name": "adityajhakumar/LumiChats-Offline-LLM",
-            "description": "Run powerful open-source AI models privately on your Windows PC \u2014 no internet, no GPU, no cloud. Built on GPT4All with 9 custom fine-tuned models.",
-            "url": "https://github.com/adityajhakumar/LumiChats-Offline-LLM",
-            "stars": 11,
+            "stars": 14,
             "forks": 1,
             "score": 31
         },
@@ -338,6 +327,17 @@ const ALPHA_DATA_V2 = {
             "description": "GPU inference speed calculator \u2014 estimate theoretical tokens/s by GPU model, count & quantization",
             "url": "https://github.com/adiudiuu/tps",
             "stars": 17,
+            "forks": 1,
+            "score": 30
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "LumiChats-Offline-LLM",
+            "full_name": "adityajhakumar/LumiChats-Offline-LLM",
+            "description": "Run powerful open-source AI models privately on your Windows PC \u2014 no internet, no GPU, no cloud. Built on GPT4All with 9 custom fine-tuned models.",
+            "url": "https://github.com/adityajhakumar/LumiChats-Offline-LLM",
+            "stars": 11,
             "forks": 1,
             "score": 30
         },
@@ -732,12 +732,12 @@ const ALPHA_DATA_V2 = {
             "url": "http://arxiv.org/abs/2605.00788v1"
         },
         {
-            "title": "Will the price of Ethereum be greater than $2,700 on May 6? (Probability: 0%)",
+            "title": "Will the price of Ethereum be greater than $2,700 on May 6? (Probability: 2%)",
             "source": "Polymarket",
             "type": "Expectation",
             "color": "text-indigo-400",
             "url": "https://polymarket.com/market/will-the-price-of-ethereum-be-greater-than-2700-on-may-6"
         }
     ],
-    "timestamp": "2026-05-04 08:33"
+    "timestamp": "2026-05-04 11:01"
 };
