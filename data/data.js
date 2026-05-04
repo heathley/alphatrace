@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "willchen96/mike",
             "description": "OSS AI Legal Platform",
             "url": "https://github.com/willchen96/mike",
-            "stars": 1990,
-            "forks": 519,
+            "stars": 2011,
+            "forks": 528,
             "score": 99
         },
         {
@@ -18,7 +18,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "GammaLabTechnologies/harmonist",
             "description": "Portable AI agent orchestration with mechanical protocol enforcement. 186 agents, zero runtime dependencies.",
             "url": "https://github.com/GammaLabTechnologies/harmonist",
-            "stars": 1259,
+            "stars": 1262,
             "forks": 330,
             "score": 99
         },
@@ -29,8 +29,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "mattpocock/dictionary-of-ai-coding",
             "description": "AI coding jargon, explained in plain English.",
             "url": "https://github.com/mattpocock/dictionary-of-ai-coding",
-            "stars": 959,
-            "forks": 121,
+            "stars": 964,
+            "forks": 122,
             "score": 99
         },
         {
@@ -40,7 +40,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "warpdot-dev/composio",
             "description": "typescript python sdk ai-agents anthropic openapi langchain openai-agents llamaindex mastra vercel-ai mcp oauth saas llm integrations agent-tools automation cloudflare google-gemini tooling rag multi-provider developer-sdk composable-actions webhook-triggers",
             "url": "https://github.com/warpdot-dev/composio",
-            "stars": 215,
+            "stars": 216,
             "forks": 222,
             "score": 99
         },
@@ -51,7 +51,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "sandeco/reversa",
             "description": "Transform legacy systems into executable specifications for AI coding agents",
             "url": "https://github.com/sandeco/reversa",
-            "stars": 565,
+            "stars": 568,
             "forks": 226,
             "score": 96
         },
@@ -75,7 +75,7 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/endless-sky-team/ai-trading-agent",
             "stars": 210,
             "forks": 161,
-            "score": 91
+            "score": 83
         },
         {
             "main_cat": "AI",
@@ -84,7 +84,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "worldwonderer/oh-story-claudecode",
             "description": "\u7f51\u6587\u5199\u4f5c skill \u5305\uff0c\u8986\u76d6\u957f\u7bc7\u4e0e\u77ed\u7bc7\u7f51\u7edc\u5c0f\u8bf4\u7684\u626b\u699c\u3001\u62c6\u6587\u3001\u5199\u4f5c\u3001\u53bbAI\u5473\u3001\u5c01\u9762\u56fe\u5168\u6d41\u7a0b",
             "url": "https://github.com/worldwonderer/oh-story-claudecode",
-            "stars": 754,
+            "stars": 755,
             "forks": 201,
             "score": 81
         },
@@ -101,6 +101,17 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
+            "sub_cat": null,
+            "name": "openless",
+            "full_name": "appergb/openless",
+            "description": "Hold a key, speak, release \u2014 AI-polished text appears at your cursor in any app. Open-source voice input for macOS & Windows. (\u6309\u4f4f\u5feb\u6377\u952e\u8bf4\u8bdd\uff0c\u677e\u5f00\u5373\u5f97\u6da6\u8272\u540e\u7684\u6587\u5b57)",
+            "url": "https://github.com/appergb/openless",
+            "stars": 725,
+            "forks": 59,
+            "score": 78
+        },
+        {
+            "main_cat": "AI",
             "sub_cat": "AI General",
             "name": "coinbase-trading-bot",
             "full_name": "ForecastForge/coinbase-trading-bot",
@@ -113,13 +124,13 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "openless",
-            "full_name": "appergb/openless",
-            "description": "Hold a key, speak, release \u2014 AI-polished text appears at your cursor in any app. Open-source voice input for macOS & Windows. (\u6309\u4f4f\u5feb\u6377\u952e\u8bf4\u8bdd\uff0c\u677e\u5f00\u5373\u5f97\u6da6\u8272\u540e\u7684\u6587\u5b57)",
-            "url": "https://github.com/appergb/openless",
-            "stars": 723,
-            "forks": 59,
-            "score": 77
+            "name": "AIS-OS",
+            "full_name": "nateherkai/AIS-OS",
+            "description": "AI Operating System starter kit for Claude Code \u2014 three-skill kit (/onboard, /audit, /level-up) + 3Ms framework. Companion to the AIOS masterclass.",
+            "url": "https://github.com/nateherkai/AIS-OS",
+            "stars": 214,
+            "forks": 84,
+            "score": 75
         },
         {
             "main_cat": "AI",
@@ -134,24 +145,13 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
-            "sub_cat": null,
-            "name": "AIS-OS",
-            "full_name": "nateherkai/AIS-OS",
-            "description": "AI Operating System starter kit for Claude Code \u2014 three-skill kit (/onboard, /audit, /level-up) + 3Ms framework. Companion to the AIOS masterclass.",
-            "url": "https://github.com/nateherkai/AIS-OS",
-            "stars": 211,
-            "forks": 82,
-            "score": 74
-        },
-        {
-            "main_cat": "AI",
             "sub_cat": "AI Agents",
             "name": "agent-to-merchant-payments",
             "full_name": "Snaplii-Inc/agent-to-merchant-payments",
             "description": "Payments are broken for AI agents.  Snaplii unlocks real-world commerce with a safe, tokenized payment layer \u2014 powered by 500+ merchant gift cards \u2014 and is the only one that actually saves you money (up to 10% per transaction), on top of any existing deals or promotions.",
             "url": "https://github.com/Snaplii-Inc/agent-to-merchant-payments",
-            "stars": 417,
-            "forks": 55,
+            "stars": 421,
+            "forks": 56,
             "score": 65
         },
         {
@@ -161,9 +161,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "alash3al/stash",
             "description": "Stash \u2014 persistent memory layer for AI agents. Episodes, facts, and working context stored in Postgres. MCP server included. Self-hosted, single binary, no cloud required.",
             "url": "https://github.com/alash3al/stash",
-            "stars": 642,
+            "stars": 644,
             "forks": 28,
-            "score": 61
+            "score": 59
         },
         {
             "main_cat": "AI",
@@ -172,7 +172,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "levelsio/superlevels",
             "description": "A super Chrome extension I made that's safer than installing external malware/spyware-filled extensions that form a massive security risk, this one is open source and you can read and check the source code (with AI) before you install it, and customize it to your liking!",
             "url": "https://github.com/levelsio/superlevels",
-            "stars": 471,
+            "stars": 472,
             "forks": 53,
             "score": 54
         },
@@ -183,7 +183,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "StartupHakk/OpenMonoAgent.ai",
             "description": "(BETA) AI shouldn't have a meter. Unlimited tokens. Forever. Your machine. Your agent. Use it from anywhere. Terminal-native coding agent powered by local LLMs \u2014 100% open source, free forever, and installed with a single command. Proudly built on C#/.NET, because AI tooling should be infrastructure, not a subscription.",
             "url": "https://github.com/StartupHakk/OpenMonoAgent.ai",
-            "stars": 209,
+            "stars": 213,
             "forks": 12,
             "score": 48
         },
@@ -205,7 +205,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "bedriyan/medkit-app",
             "description": "A voice-first AI patient simulator bringing the future of medical education to your browser, built with Claude Opus 4.7.",
             "url": "https://github.com/bedriyan/medkit-app",
-            "stars": 207,
+            "stars": 209,
             "forks": 46,
             "score": 47
         },
@@ -249,7 +249,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "arcsin1/oh-my-ppt",
             "description": "Local-first AI PPT generator with Desktop APP for entrepreneurs. Clean HTML slides, no cloud lock-in. Write prompt \u2192 get deck.",
             "url": "https://github.com/arcsin1/oh-my-ppt",
-            "stars": 284,
+            "stars": 285,
             "forks": 25,
             "score": 44
         },
@@ -729,6 +729,20 @@ const ALPHA_DATA_V2 = {
     ],
     "news": [
         {
+            "title": "When RAG Chatbots Expose Their Backend: An Anonymized Case Study of Privacy and Security Risks in Patient-Facing Medical AI",
+            "source": "ArXiv",
+            "type": "Research Alpha",
+            "color": "text-indigo-600",
+            "url": "http://arxiv.org/abs/2605.00796v1"
+        },
+        {
+            "title": "Repurposing Image Diffusion Models for Adversarial Synthetic Structured Data: A Case Study of Ground Truth Drift",
+            "source": "ArXiv",
+            "type": "Research Alpha",
+            "color": "text-indigo-600",
+            "url": "http://arxiv.org/abs/2605.00788v1"
+        },
+        {
             "title": "Will the price of Ethereum be greater than $2,700 on May 6? (Probability: 2%)",
             "source": "Polymarket",
             "type": "Expectation",
@@ -736,5 +750,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/market/will-the-price-of-ethereum-be-greater-than-2700-on-may-6"
         }
     ],
-    "timestamp": "2026-05-04 21:02"
+    "timestamp": "2026-05-04 22:51"
 };
