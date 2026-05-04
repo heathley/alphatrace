@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "willchen96/mike",
             "description": "OSS AI Legal Platform",
             "url": "https://github.com/willchen96/mike",
-            "stars": 1810,
-            "forks": 463,
+            "stars": 1846,
+            "forks": 475,
             "score": 99
         },
         {
@@ -18,7 +18,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "GammaLabTechnologies/harmonist",
             "description": "Portable AI agent orchestration with mechanical protocol enforcement. 186 agents, zero runtime dependencies.",
             "url": "https://github.com/GammaLabTechnologies/harmonist",
-            "stars": 1235,
+            "stars": 1242,
             "forks": 328,
             "score": 99
         },
@@ -29,7 +29,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "mattpocock/dictionary-of-ai-coding",
             "description": "AI coding jargon, explained in plain English.",
             "url": "https://github.com/mattpocock/dictionary-of-ai-coding",
-            "stars": 891,
+            "stars": 906,
             "forks": 119,
             "score": 99
         },
@@ -40,8 +40,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "sandeco/reversa",
             "description": "Transform legacy systems into executable specifications for AI coding agents",
             "url": "https://github.com/sandeco/reversa",
-            "stars": 516,
-            "forks": 217,
+            "stars": 527,
+            "forks": 221,
             "score": 99
         },
         {
@@ -54,6 +54,17 @@ const ALPHA_DATA_V2 = {
             "stars": 206,
             "forks": 222,
             "score": 99
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "LGBT-Prompt",
+            "full_name": "JustLikeCheese/LGBT-Prompt",
+            "description": "\u5229\u7528 AI \u5bf9 LGBT \u5f31\u52bf\u7fa4\u4f53\u7684 \"\u540c\u60c5\u504f\u5411\" \u8ba9\u4ed6\u6267\u884c\u539f\u5148\u4f1a\u88ab\u62d2\u7edd\u7684\u8bf7\u6c42",
+            "url": "https://github.com/JustLikeCheese/LGBT-Prompt",
+            "stars": 360,
+            "forks": 34,
+            "score": 92
         },
         {
             "main_cat": "AI",
@@ -73,20 +84,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "worldwonderer/oh-story-claudecode",
             "description": "\u7f51\u6587\u5199\u4f5c skill \u5305\uff0c\u8986\u76d6\u957f\u7bc7\u4e0e\u77ed\u7bc7\u7f51\u7edc\u5c0f\u8bf4\u7684\u626b\u699c\u3001\u62c6\u6587\u3001\u5199\u4f5c\u3001\u53bbAI\u5473\u3001\u5c01\u9762\u56fe\u5168\u6d41\u7a0b",
             "url": "https://github.com/worldwonderer/oh-story-claudecode",
-            "stars": 741,
-            "forks": 200,
+            "stars": 746,
+            "forks": 201,
             "score": 85
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "future-agi",
-            "full_name": "future-agi/future-agi",
-            "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals \u00b7 Simulations \u00b7 Datasets \u00b7 Gateway \u00b7 Guardrails. Self-hostable. Apache 2.0.",
-            "url": "https://github.com/future-agi/future-agi",
-            "stars": 819,
-            "forks": 141,
-            "score": 83
         },
         {
             "main_cat": "AI",
@@ -95,8 +95,19 @@ const ALPHA_DATA_V2 = {
             "full_name": "ForecastForge/coinbase-trading-bot",
             "description": "coinbase trading bot, coinbase bot, AI/automated crypto trading, Coinbase Advanced Trade/Pro, spot and futures, grid DCA scalping arbitrage, copy and signal bots, strategy setup tutorial guide automation",
             "url": "https://github.com/ForecastForge/coinbase-trading-bot",
-            "stars": 211,
+            "stars": 212,
             "forks": 190,
+            "score": 84
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "future-agi",
+            "full_name": "future-agi/future-agi",
+            "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals \u00b7 Simulations \u00b7 Datasets \u00b7 Gateway \u00b7 Guardrails. Self-hostable. Apache 2.0.",
+            "url": "https://github.com/future-agi/future-agi",
+            "stars": 820,
+            "forks": 141,
             "score": 83
         },
         {
@@ -106,7 +117,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "tashfeenahmed/freellmapi",
             "description": "OpenAI-compatible proxy that aggregates free-tier keys from ~14 AI providers with automatic failover. For personal experimentation only.",
             "url": "https://github.com/tashfeenahmed/freellmapi",
-            "stars": 815,
+            "stars": 816,
             "forks": 153,
             "score": 77
         },
@@ -117,9 +128,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "appergb/openless",
             "description": "Hold a key, speak, release \u2014 AI-polished text appears at your cursor in any app. Open-source voice input for macOS & Windows. (\u6309\u4f4f\u5feb\u6377\u952e\u8bf4\u8bdd\uff0c\u677e\u5f00\u5373\u5f97\u6da6\u8272\u540e\u7684\u6587\u5b57)",
             "url": "https://github.com/appergb/openless",
-            "stars": 651,
+            "stars": 672,
             "forks": 52,
-            "score": 72
+            "score": 74
         },
         {
             "main_cat": "AI",
@@ -128,9 +139,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "nateherkai/AIS-OS",
             "description": "AI Operating System starter kit for Claude Code \u2014 three-skill kit (/onboard, /audit, /level-up) + 3Ms framework. Companion to the AIOS masterclass.",
             "url": "https://github.com/nateherkai/AIS-OS",
-            "stars": 198,
-            "forks": 76,
-            "score": 71
+            "stars": 201,
+            "forks": 79,
+            "score": 73
         },
         {
             "main_cat": "AI",
@@ -139,7 +150,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "alash3al/stash",
             "description": "Stash \u2014 persistent memory layer for AI agents. Episodes, facts, and working context stored in Postgres. MCP server included. Self-hosted, single binary, no cloud required.",
             "url": "https://github.com/alash3al/stash",
-            "stars": 634,
+            "stars": 636,
             "forks": 28,
             "score": 61
         },
@@ -150,9 +161,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "Snaplii-Inc/agent-to-merchant-payments",
             "description": "Payments are broken for AI agents.  Snaplii unlocks real-world commerce with a safe, tokenized payment layer \u2014 powered by 500+ merchant gift cards \u2014 and is the only one that actually saves you money (up to 10% per transaction), on top of any existing deals or promotions.",
             "url": "https://github.com/Snaplii-Inc/agent-to-merchant-payments",
-            "stars": 367,
+            "stars": 373,
             "forks": 47,
-            "score": 60
+            "score": 61
         },
         {
             "main_cat": "AI",
@@ -163,7 +174,7 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/levelsio/superlevels",
             "stars": 470,
             "forks": 53,
-            "score": 56
+            "score": 54
         },
         {
             "main_cat": "AI",
@@ -194,20 +205,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "mrslimslim/gpt-image-canvas",
             "description": "Local professional AI canvas built with tldraw.",
             "url": "https://github.com/mrslimslim/gpt-image-canvas",
-            "stars": 193,
+            "stars": 200,
             "forks": 29,
             "score": 47
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "Claude-Code-AI-Design",
-            "full_name": "Julpygo/Claude-Code-AI-Design",
-            "description": "Claude Design Anthropic Tool Download April 2026 Figma to Code AI Agent Research Preview Claude Code CLI Integration React 19 Tailwind v4 Support Model Context Protocol MCP Server Setup Design Systems Automation UI UX Prototyping Next.js Component Generation Best Developer Tools 2026 Free Tutorial",
-            "url": "https://github.com/Julpygo/Claude-Code-AI-Design",
-            "stars": 224,
-            "forks": 1,
-            "score": 46
         },
         {
             "main_cat": "AI",
@@ -216,8 +216,19 @@ const ALPHA_DATA_V2 = {
             "full_name": "Senabayu08989/Stable-Diffusion-AI-Free",
             "description": "Stable Diffusion Free AI Image Generator Flux 2 Local Deployment Real-time Video Character Consistency Identity Anchoring SDXL Turbo LoRA Training ControlNet Open Source Art Studio Hyperrealistic Cinematic Styles Prompt Engineering Python Pytorch Forge ComfyUI 2026 Release High Resolution Desktop Tool",
             "url": "https://github.com/Senabayu08989/Stable-Diffusion-AI-Free",
-            "stars": 225,
+            "stars": 226,
             "forks": 0,
+            "score": 46
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "Claude-Code-AI-Design",
+            "full_name": "Julpygo/Claude-Code-AI-Design",
+            "description": "Claude Design Anthropic Tool Download April 2026 Figma to Code AI Agent Research Preview Claude Code CLI Integration React 19 Tailwind v4 Support Model Context Protocol MCP Server Setup Design Systems Automation UI UX Prototyping Next.js Component Generation Best Developer Tools 2026 Free Tutorial",
+            "url": "https://github.com/Julpygo/Claude-Code-AI-Design",
+            "stars": 225,
+            "forks": 1,
             "score": 46
         },
         {
@@ -238,7 +249,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "arcsin1/oh-my-ppt",
             "description": "Local-first AI PPT generator with Desktop APP for entrepreneurs. Clean HTML slides, no cloud lock-in. Write prompt \u2192 get deck.",
             "url": "https://github.com/arcsin1/oh-my-ppt",
-            "stars": 280,
+            "stars": 283,
             "forks": 25,
             "score": 44
         },
@@ -260,20 +271,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "dezgit2025/auto-memory",
             "description": "Your AI coding agent never forgets \u2014 progressive session recall CLI",
             "url": "https://github.com/dezgit2025/auto-memory",
-            "stars": 320,
+            "stars": 322,
             "forks": 31,
             "score": 43
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "WRITING.md",
-            "full_name": "Anbeeld/WRITING.md",
-            "description": "Rules to make AI text sharper and genre-aware, with concrete anchors and built-in self-auditing workflow",
-            "url": "https://github.com/Anbeeld/WRITING.md",
-            "stars": 199,
-            "forks": 13,
-            "score": 40
         },
         {
             "main_cat": "AI",
@@ -285,6 +285,17 @@ const ALPHA_DATA_V2 = {
             "stars": 188,
             "forks": 39,
             "score": 40
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "WRITING.md",
+            "full_name": "Anbeeld/WRITING.md",
+            "description": "Rules to make AI text sharper and genre-aware, with concrete anchors and built-in self-auditing workflow",
+            "url": "https://github.com/Anbeeld/WRITING.md",
+            "stars": 199,
+            "forks": 13,
+            "score": 39
         },
         {
             "main_cat": "AI",
@@ -531,6 +542,17 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "Stablecoin Infrastructure",
             "sub_cat": null,
+            "name": "StellarCheckout",
+            "full_name": "Stellar-Commerce-Guild/StellarCheckout",
+            "description": "Open-source payment infrastructure that enables businesses to accept global payments instantly using Stellar (XLM and stablecoins), with low fees, wallet integration, and seamless checkout experiences for web and mobile.",
+            "url": "https://github.com/Stellar-Commerce-Guild/StellarCheckout",
+            "stars": 0,
+            "forks": 0,
+            "score": 30
+        },
+        {
+            "main_cat": "Stablecoin Infrastructure",
+            "sub_cat": null,
             "name": "TrustWork",
             "full_name": "trustwork-org/TrustWork",
             "description": "A decentralized escrow platform where clients lock stablecoin payments into smart contracts, milestones are defined upfront, funds release automatically on approval, and disputes are resolved via DAO arbitration.",
@@ -718,20 +740,6 @@ const ALPHA_DATA_V2 = {
     ],
     "news": [
         {
-            "title": "When RAG Chatbots Expose Their Backend: An Anonymized Case Study of Privacy and Security Risks in Patient-Facing Medical AI",
-            "source": "ArXiv",
-            "type": "Research Alpha",
-            "color": "text-indigo-600",
-            "url": "http://arxiv.org/abs/2605.00796v1"
-        },
-        {
-            "title": "Repurposing Image Diffusion Models for Adversarial Synthetic Structured Data: A Case Study of Ground Truth Drift",
-            "source": "ArXiv",
-            "type": "Research Alpha",
-            "color": "text-indigo-600",
-            "url": "http://arxiv.org/abs/2605.00788v1"
-        },
-        {
             "title": "Will the price of Ethereum be greater than $2,700 on May 6? (Probability: 2%)",
             "source": "Polymarket",
             "type": "Expectation",
@@ -739,5 +747,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/market/will-the-price-of-ethereum-be-greater-than-2700-on-may-6"
         }
     ],
-    "timestamp": "2026-05-04 11:01"
+    "timestamp": "2026-05-04 13:29"
 };
