@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "willchen96/mike",
             "description": "OSS AI Legal Platform",
             "url": "https://github.com/willchen96/mike",
-            "stars": 2011,
-            "forks": 528,
+            "stars": 2020,
+            "forks": 530,
             "score": 99
         },
         {
@@ -18,7 +18,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "GammaLabTechnologies/harmonist",
             "description": "Portable AI agent orchestration with mechanical protocol enforcement. 186 agents, zero runtime dependencies.",
             "url": "https://github.com/GammaLabTechnologies/harmonist",
-            "stars": 1262,
+            "stars": 1263,
             "forks": 330,
             "score": 99
         },
@@ -29,7 +29,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "mattpocock/dictionary-of-ai-coding",
             "description": "AI coding jargon, explained in plain English.",
             "url": "https://github.com/mattpocock/dictionary-of-ai-coding",
-            "stars": 964,
+            "stars": 967,
             "forks": 122,
             "score": 99
         },
@@ -40,7 +40,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "warpdot-dev/composio",
             "description": "typescript python sdk ai-agents anthropic openapi langchain openai-agents llamaindex mastra vercel-ai mcp oauth saas llm integrations agent-tools automation cloudflare google-gemini tooling rag multi-provider developer-sdk composable-actions webhook-triggers",
             "url": "https://github.com/warpdot-dev/composio",
-            "stars": 216,
+            "stars": 218,
             "forks": 222,
             "score": 99
         },
@@ -51,9 +51,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "sandeco/reversa",
             "description": "Transform legacy systems into executable specifications for AI coding agents",
             "url": "https://github.com/sandeco/reversa",
-            "stars": 568,
-            "forks": 226,
-            "score": 96
+            "stars": 570,
+            "forks": 227,
+            "score": 97
         },
         {
             "main_cat": "AI",
@@ -62,7 +62,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "JustLikeCheese/LGBT-Prompt",
             "description": "\u5229\u7528 AI \u5bf9 LGBT \u5f31\u52bf\u7fa4\u4f53\u7684 \"\u540c\u60c5\u504f\u5411\" \u8ba9\u4ed6\u6267\u884c\u539f\u5148\u4f1a\u88ab\u62d2\u7edd\u7684\u8bf7\u6c42",
             "url": "https://github.com/JustLikeCheese/LGBT-Prompt",
-            "stars": 376,
+            "stars": 377,
             "forks": 37,
             "score": 95
         },
@@ -73,7 +73,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "endless-sky-team/ai-trading-agent",
             "description": "llm trading bot ai agent crypto bitcoin ethereum perpetuals openrouter lighter algorithmic automated quant typescript react postgres bun fintech defi machine-learning open-source crypto-bot signals",
             "url": "https://github.com/endless-sky-team/ai-trading-agent",
-            "stars": 210,
+            "stars": 211,
             "forks": 161,
             "score": 83
         },
@@ -106,7 +106,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "appergb/openless",
             "description": "Hold a key, speak, release \u2014 AI-polished text appears at your cursor in any app. Open-source voice input for macOS & Windows. (\u6309\u4f4f\u5feb\u6377\u952e\u8bf4\u8bdd\uff0c\u677e\u5f00\u5373\u5f97\u6da6\u8272\u540e\u7684\u6587\u5b57)",
             "url": "https://github.com/appergb/openless",
-            "stars": 725,
+            "stars": 728,
             "forks": 59,
             "score": 78
         },
@@ -117,7 +117,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "ForecastForge/coinbase-trading-bot",
             "description": "coinbase trading bot, coinbase bot, AI/automated crypto trading, Coinbase Advanced Trade/Pro, spot and futures, grid DCA scalping arbitrage, copy and signal bots, strategy setup tutorial guide automation",
             "url": "https://github.com/ForecastForge/coinbase-trading-bot",
-            "stars": 217,
+            "stars": 218,
             "forks": 190,
             "score": 78
         },
@@ -129,8 +129,8 @@ const ALPHA_DATA_V2 = {
             "description": "AI Operating System starter kit for Claude Code \u2014 three-skill kit (/onboard, /audit, /level-up) + 3Ms framework. Companion to the AIOS masterclass.",
             "url": "https://github.com/nateherkai/AIS-OS",
             "stars": 214,
-            "forks": 84,
-            "score": 75
+            "forks": 85,
+            "score": 76
         },
         {
             "main_cat": "AI",
@@ -150,9 +150,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "Snaplii-Inc/agent-to-merchant-payments",
             "description": "Payments are broken for AI agents.  Snaplii unlocks real-world commerce with a safe, tokenized payment layer \u2014 powered by 500+ merchant gift cards \u2014 and is the only one that actually saves you money (up to 10% per transaction), on top of any existing deals or promotions.",
             "url": "https://github.com/Snaplii-Inc/agent-to-merchant-payments",
-            "stars": 421,
-            "forks": 56,
-            "score": 65
+            "stars": 422,
+            "forks": 57,
+            "score": 62
         },
         {
             "main_cat": "AI",
@@ -183,7 +183,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "StartupHakk/OpenMonoAgent.ai",
             "description": "(BETA) AI shouldn't have a meter. Unlimited tokens. Forever. Your machine. Your agent. Use it from anywhere. Terminal-native coding agent powered by local LLMs \u2014 100% open source, free forever, and installed with a single command. Proudly built on C#/.NET, because AI tooling should be infrastructure, not a subscription.",
             "url": "https://github.com/StartupHakk/OpenMonoAgent.ai",
-            "stars": 213,
+            "stars": 214,
             "forks": 12,
             "score": 48
         },
@@ -205,7 +205,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "bedriyan/medkit-app",
             "description": "A voice-first AI patient simulator bringing the future of medical education to your browser, built with Claude Opus 4.7.",
             "url": "https://github.com/bedriyan/medkit-app",
-            "stars": 209,
+            "stars": 210,
             "forks": 46,
             "score": 47
         },
@@ -743,12 +743,12 @@ const ALPHA_DATA_V2 = {
             "url": "http://arxiv.org/abs/2605.00788v1"
         },
         {
-            "title": "Will the price of Ethereum be greater than $2,700 on May 6? (Probability: 2%)",
+            "title": "Will the price of Ethereum be greater than $2,700 on May 6? (Probability: 1%)",
             "source": "Polymarket",
             "type": "Expectation",
             "color": "text-indigo-400",
             "url": "https://polymarket.com/market/will-the-price-of-ethereum-be-greater-than-2700-on-may-6"
         }
     ],
-    "timestamp": "2026-05-04 22:51"
+    "timestamp": "2026-05-04 23:47"
 };
