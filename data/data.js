@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "willchen96/mike",
             "description": "OSS AI Legal Platform",
             "url": "https://github.com/willchen96/mike",
-            "stars": 2175,
-            "forks": 599,
+            "stars": 2180,
+            "forks": 602,
             "score": 99
         },
         {
@@ -19,7 +19,7 @@ const ALPHA_DATA_V2 = {
             "description": "Portable AI agent orchestration with mechanical protocol enforcement. 186 agents, zero runtime dependencies.",
             "url": "https://github.com/GammaLabTechnologies/harmonist",
             "stars": 1294,
-            "forks": 323,
+            "forks": 321,
             "score": 99
         },
         {
@@ -29,7 +29,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "mattpocock/dictionary-of-ai-coding",
             "description": "AI coding jargon, explained in plain English.",
             "url": "https://github.com/mattpocock/dictionary-of-ai-coding",
-            "stars": 1054,
+            "stars": 1059,
             "forks": 128,
             "score": 99
         },
@@ -40,7 +40,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "warpdot-dev/composio",
             "description": "typescript python sdk ai-agents anthropic openapi langchain openai-agents llamaindex mastra vercel-ai mcp oauth saas llm integrations agent-tools automation cloudflare google-gemini tooling rag multi-provider developer-sdk composable-actions webhook-triggers",
             "url": "https://github.com/warpdot-dev/composio",
-            "stars": 235,
+            "stars": 234,
             "forks": 224,
             "score": 99
         },
@@ -51,7 +51,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "warpdot-dev/craft-agents-oss",
             "description": "electron anthropic claude-agent-sdk mcp bun websocket thin-client multi-llm openapi skills automations oauth desktop-ai github-copilot google-ai chatgpt devtools apache-2 headless-server pi-sdk vscode-alternative linux macos windows",
             "url": "https://github.com/warpdot-dev/craft-agents-oss",
-            "stars": 206,
+            "stars": 205,
             "forks": 241,
             "score": 99
         },
@@ -62,7 +62,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "sandeco/reversa",
             "description": "Transform legacy systems into executable specifications for AI coding agents",
             "url": "https://github.com/sandeco/reversa",
-            "stars": 605,
+            "stars": 609,
             "forks": 239,
             "score": 95
         },
@@ -76,17 +76,6 @@ const ALPHA_DATA_V2 = {
             "stars": 398,
             "forks": 42,
             "score": 86
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "ai-trading-agent",
-            "full_name": "endless-sky-team/ai-trading-agent",
-            "description": "llm trading bot ai agent crypto bitcoin ethereum perpetuals openrouter lighter algorithmic automated quant typescript react postgres bun fintech defi machine-learning open-source crypto-bot signals",
-            "url": "https://github.com/endless-sky-team/ai-trading-agent",
-            "stars": 219,
-            "forks": 162,
-            "score": 84
         },
         {
             "main_cat": "AI",
@@ -112,12 +101,23 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "ai-trading-agent",
+            "full_name": "endless-sky-team/ai-trading-agent",
+            "description": "llm trading bot ai agent crypto bitcoin ethereum perpetuals openrouter lighter algorithmic automated quant typescript react postgres bun fintech defi machine-learning open-source crypto-bot signals",
+            "url": "https://github.com/endless-sky-team/ai-trading-agent",
+            "stars": 219,
+            "forks": 162,
+            "score": 78
+        },
+        {
+            "main_cat": "AI",
             "sub_cat": null,
             "name": "future-agi",
             "full_name": "future-agi/future-agi",
             "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals \u00b7 Simulations \u00b7 Datasets \u00b7 Gateway \u00b7 Guardrails. Self-hostable. Apache 2.0.",
             "url": "https://github.com/future-agi/future-agi",
-            "stars": 835,
+            "stars": 836,
             "forks": 145,
             "score": 77
         },
@@ -128,8 +128,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "nateherkai/AIS-OS",
             "description": "AI Operating System starter kit for Claude Code \u2014 three-skill kit (/onboard, /audit, /level-up) + 3Ms framework. Companion to the AIOS masterclass.",
             "url": "https://github.com/nateherkai/AIS-OS",
-            "stars": 241,
-            "forks": 95,
+            "stars": 243,
+            "forks": 96,
             "score": 74
         },
         {
@@ -161,7 +161,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "6551-Team/agent-trade-kit",
             "description": "OKX Agent Trade Kit: MCP server and CLI to connect AI assistants (Claude, Cursor) to your OKX account via Model Context Protocol. Local, MIT, TypeScript monorepo.",
             "url": "https://github.com/6551-Team/agent-trade-kit",
-            "stars": 200,
+            "stars": 199,
             "forks": 122,
             "score": 61
         },
@@ -172,7 +172,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "alash3al/stash",
             "description": "Stash \u2014 persistent memory layer for AI agents. Episodes, facts, and working context stored in Postgres. MCP server included. Self-hosted, single binary, no cloud required.",
             "url": "https://github.com/alash3al/stash",
-            "stars": 650,
+            "stars": 651,
             "forks": 28,
             "score": 59
         },
@@ -183,9 +183,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "jherrodthomas/robotics-skills-suite",
             "description": "76 audit-ready Claude skills automating the industrial robot, cobot, AMR, ROS2, V&V, AI/ML, and IEC 62443 lifecycle. 38 builder + reviewer pairs anchored to ISO 10218, 13849, 62061, 12100, 9283, 15066, 3691-4, and IEC 62443.",
             "url": "https://github.com/jherrodthomas/robotics-skills-suite",
-            "stars": 218,
+            "stars": 237,
             "forks": 11,
-            "score": 56
+            "score": 58
         },
         {
             "main_cat": "AI",
@@ -205,7 +205,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "StartupHakk/OpenMonoAgent.ai",
             "description": "(BETA) AI shouldn't have a meter. Unlimited tokens. Forever. Your machine. Your agent. Use it from anywhere. Terminal-native coding agent powered by local LLMs \u2014 100% open source, free forever, and installed with a single command. Proudly built on C#/.NET, because AI tooling should be infrastructure, not a subscription.",
             "url": "https://github.com/StartupHakk/OpenMonoAgent.ai",
-            "stars": 278,
+            "stars": 280,
             "forks": 16,
             "score": 51
         },
@@ -293,7 +293,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Anbeeld/WRITING.md",
             "description": "Rules to make AI text sharper and genre-aware, with concrete anchors and built-in self-auditing workflow",
             "url": "https://github.com/Anbeeld/WRITING.md",
-            "stars": 217,
+            "stars": 218,
             "forks": 13,
             "score": 39
         },
@@ -304,7 +304,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Zhou-Shilin/Aether",
             "description": "A stunning, localized, general-purpose AI Agent for Android.",
             "url": "https://github.com/Zhou-Shilin/Aether",
-            "stars": 201,
+            "stars": 202,
             "forks": 4,
             "score": 38
         },
@@ -315,7 +315,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Pandaoyoo/profanity-new-tron",
             "description": "-----\u274c\u6b64\u7248\u672c\u662f\u53bb\u540e\u95e8\u7248\u672c\u274c-----\ud83d\ude802026\u5e74GUI\u7248\u9753\u53f7\u751f\u6210\u5668\u3001\u2705\u6ce2\u573aTRX\u9753\u53f7\u5730\u5740\u751f\u6210\u5668\u3001USDT\u94b1\u5305\u9753\u53f7\u751f\u6210\u5668\u3001\u5229\u7528GPU\u8fdb\u884c\u52a0\u901f\u3002\ud83d\udd12TRX/USDT Wallet Vanity Address Generator, powered by GPU acceleration. Backdoors removed, safe and dependable.",
             "url": "https://github.com/Pandaoyoo/profanity-new-tron",
-            "stars": 22,
+            "stars": 23,
             "forks": 1,
             "score": 31
         },
@@ -718,12 +718,12 @@ const ALPHA_DATA_V2 = {
     ],
     "news": [
         {
-            "title": "Will Netflix, Inc. (NFLX) hit (LOW) $82.50 Week of May 4 2026? (Probability: 12%)",
+            "title": "Will Netflix, Inc. (NFLX) hit (LOW) $82.50 Week of May 4 2026? (Probability: 14%)",
             "source": "Polymarket",
             "type": "Expectation",
             "color": "text-indigo-400",
             "url": "https://polymarket.com/market/will-nflx-dip-to-82-50-by-may-4-2026"
         }
     ],
-    "timestamp": "2026-05-05 20:56"
+    "timestamp": "2026-05-05 21:59"
 };
