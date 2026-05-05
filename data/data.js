@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "willchen96/mike",
             "description": "OSS AI Legal Platform",
             "url": "https://github.com/willchen96/mike",
-            "stars": 2149,
-            "forks": 584,
+            "stars": 2156,
+            "forks": 588,
             "score": 99
         },
         {
@@ -18,7 +18,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "GammaLabTechnologies/harmonist",
             "description": "Portable AI agent orchestration with mechanical protocol enforcement. 186 agents, zero runtime dependencies.",
             "url": "https://github.com/GammaLabTechnologies/harmonist",
-            "stars": 1293,
+            "stars": 1295,
             "forks": 333,
             "score": 99
         },
@@ -29,7 +29,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "mattpocock/dictionary-of-ai-coding",
             "description": "AI coding jargon, explained in plain English.",
             "url": "https://github.com/mattpocock/dictionary-of-ai-coding",
-            "stars": 1036,
+            "stars": 1043,
             "forks": 127,
             "score": 99
         },
@@ -51,7 +51,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "warpdot-dev/craft-agents-oss",
             "description": "electron anthropic claude-agent-sdk mcp bun websocket thin-client multi-llm openapi skills automations oauth desktop-ai github-copilot google-ai chatgpt devtools apache-2 headless-server pi-sdk vscode-alternative linux macos windows",
             "url": "https://github.com/warpdot-dev/craft-agents-oss",
-            "stars": 200,
+            "stars": 202,
             "forks": 241,
             "score": 99
         },
@@ -62,9 +62,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "sandeco/reversa",
             "description": "Transform legacy systems into executable specifications for AI coding agents",
             "url": "https://github.com/sandeco/reversa",
-            "stars": 595,
-            "forks": 235,
-            "score": 93
+            "stars": 598,
+            "forks": 237,
+            "score": 94
         },
         {
             "main_cat": "AI",
@@ -73,7 +73,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "JustLikeCheese/LGBT-Prompt",
             "description": "\u5229\u7528 AI \u5bf9 LGBT \u5f31\u52bf\u7fa4\u4f53\u7684 \"\u540c\u60c5\u504f\u5411\" \u8ba9\u4ed6\u6267\u884c\u539f\u5148\u4f1a\u88ab\u62d2\u7edd\u7684\u8bf7\u6c42",
             "url": "https://github.com/JustLikeCheese/LGBT-Prompt",
-            "stars": 395,
+            "stars": 397,
             "forks": 42,
             "score": 86
         },
@@ -91,23 +91,23 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "oh-story-claudecode",
-            "full_name": "worldwonderer/oh-story-claudecode",
-            "description": "\u7f51\u6587\u5199\u4f5c skill \u5305\uff0c\u8986\u76d6\u957f\u7bc7\u4e0e\u77ed\u7bc7\u7f51\u7edc\u5c0f\u8bf4\u7684\u626b\u699c\u3001\u62c6\u6587\u3001\u5199\u4f5c\u3001\u53bbAI\u5473\u3001\u5c01\u9762\u56fe\u5168\u6d41\u7a0b",
-            "url": "https://github.com/worldwonderer/oh-story-claudecode",
-            "stars": 774,
-            "forks": 207,
-            "score": 83
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
             "name": "openless",
             "full_name": "appergb/openless",
             "description": "Hold a key, speak, release \u2014 AI-polished text appears at your cursor in any app. Open-source voice input for macOS & Windows. (\u6309\u4f4f\u5feb\u6377\u952e\u8bf4\u8bdd\uff0c\u677e\u5f00\u5373\u5f97\u6da6\u8272\u540e\u7684\u6587\u5b57)",
             "url": "https://github.com/appergb/openless",
-            "stars": 831,
+            "stars": 834,
             "forks": 69,
+            "score": 80
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "oh-story-claudecode",
+            "full_name": "worldwonderer/oh-story-claudecode",
+            "description": "\u7f51\u6587\u5199\u4f5c skill \u5305\uff0c\u8986\u76d6\u957f\u7bc7\u4e0e\u77ed\u7bc7\u7f51\u7edc\u5c0f\u8bf4\u7684\u626b\u699c\u3001\u62c6\u6587\u3001\u5199\u4f5c\u3001\u53bbAI\u5473\u3001\u5c01\u9762\u56fe\u5168\u6d41\u7a0b",
+            "url": "https://github.com/worldwonderer/oh-story-claudecode",
+            "stars": 780,
+            "forks": 209,
             "score": 80
         },
         {
@@ -139,8 +139,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "nateherkai/AIS-OS",
             "description": "AI Operating System starter kit for Claude Code \u2014 three-skill kit (/onboard, /audit, /level-up) + 3Ms framework. Companion to the AIOS masterclass.",
             "url": "https://github.com/nateherkai/AIS-OS",
-            "stars": 229,
-            "forks": 90,
+            "stars": 234,
+            "forks": 91,
             "score": 72
         },
         {
@@ -150,7 +150,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Snaplii-Inc/agent-to-merchant-payments",
             "description": "Payments are broken for AI agents.  Snaplii unlocks real-world commerce with a safe, tokenized payment layer \u2014 powered by 500+ merchant gift cards \u2014 and is the only one that actually saves you money (up to 10% per transaction), on top of any existing deals or promotions.",
             "url": "https://github.com/Snaplii-Inc/agent-to-merchant-payments",
-            "stars": 501,
+            "stars": 508,
             "forks": 70,
             "score": 69
         },
@@ -161,7 +161,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "6551-Team/agent-trade-kit",
             "description": "OKX Agent Trade Kit: MCP server and CLI to connect AI assistants (Claude, Cursor) to your OKX account via Model Context Protocol. Local, MIT, TypeScript monorepo.",
             "url": "https://github.com/6551-Team/agent-trade-kit",
-            "stars": 194,
+            "stars": 196,
             "forks": 122,
             "score": 61
         },
@@ -172,9 +172,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "alash3al/stash",
             "description": "Stash \u2014 persistent memory layer for AI agents. Episodes, facts, and working context stored in Postgres. MCP server included. Self-hosted, single binary, no cloud required.",
             "url": "https://github.com/alash3al/stash",
-            "stars": 648,
+            "stars": 649,
             "forks": 28,
             "score": 59
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "OpenMonoAgent.ai",
+            "full_name": "StartupHakk/OpenMonoAgent.ai",
+            "description": "(BETA) AI shouldn't have a meter. Unlimited tokens. Forever. Your machine. Your agent. Use it from anywhere. Terminal-native coding agent powered by local LLMs \u2014 100% open source, free forever, and installed with a single command. Proudly built on C#/.NET, because AI tooling should be infrastructure, not a subscription.",
+            "url": "https://github.com/StartupHakk/OpenMonoAgent.ai",
+            "stars": 269,
+            "forks": 14,
+            "score": 53
         },
         {
             "main_cat": "AI",
@@ -189,25 +200,14 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "OpenMonoAgent.ai",
-            "full_name": "StartupHakk/OpenMonoAgent.ai",
-            "description": "(BETA) AI shouldn't have a meter. Unlimited tokens. Forever. Your machine. Your agent. Use it from anywhere. Terminal-native coding agent powered by local LLMs \u2014 100% open source, free forever, and installed with a single command. Proudly built on C#/.NET, because AI tooling should be infrastructure, not a subscription.",
-            "url": "https://github.com/StartupHakk/OpenMonoAgent.ai",
-            "stars": 262,
-            "forks": 14,
-            "score": 52
-        },
-        {
-            "main_cat": "AI",
             "sub_cat": null,
             "name": "gpt-image-canvas",
             "full_name": "mrslimslim/gpt-image-canvas",
             "description": "Local professional AI canvas built with tldraw.",
             "url": "https://github.com/mrslimslim/gpt-image-canvas",
-            "stars": 255,
-            "forks": 40,
-            "score": 50
+            "stars": 258,
+            "forks": 41,
+            "score": 51
         },
         {
             "main_cat": "AI",
@@ -282,7 +282,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Anbeeld/WRITING.md",
             "description": "Rules to make AI text sharper and genre-aware, with concrete anchors and built-in self-auditing workflow",
             "url": "https://github.com/Anbeeld/WRITING.md",
-            "stars": 208,
+            "stars": 211,
             "forks": 13,
             "score": 39
         },
@@ -641,6 +641,17 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
+            "name": "v1",
+            "full_name": "spaceobject-xyz/v1",
+            "description": "Bridgeless Capital Market \u2014 Cross-chain intent swap protocol built on Solana",
+            "url": "https://github.com/spaceobject-xyz/v1",
+            "stars": 0,
+            "forks": 0,
+            "score": 30
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
             "name": "stellar-cctp",
             "full_name": "circlefin/stellar-cctp",
             "description": "Source repository for Stellar smart contracts used by the Cross-Chain Transfer Protocol",
@@ -732,12 +743,12 @@ const ALPHA_DATA_V2 = {
             "url": "http://arxiv.org/abs/2605.02856v1"
         },
         {
-            "title": "Will Netflix, Inc. (NFLX) hit (LOW) $82.50 Week of May 4 2026? (Probability: 12%)",
+            "title": "Will Netflix, Inc. (NFLX) hit (LOW) $82.50 Week of May 4 2026? (Probability: 11%)",
             "source": "Polymarket",
             "type": "Expectation",
             "color": "text-indigo-400",
             "url": "https://polymarket.com/market/will-nflx-dip-to-82-50-by-may-4-2026"
         }
     ],
-    "timestamp": "2026-05-05 15:49"
+    "timestamp": "2026-05-05 17:17"
 };
