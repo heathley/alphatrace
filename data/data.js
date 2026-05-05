@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "willchen96/mike",
             "description": "OSS AI Legal Platform",
             "url": "https://github.com/willchen96/mike",
-            "stars": 2033,
-            "forks": 537,
+            "stars": 2049,
+            "forks": 546,
             "score": 99
         },
         {
@@ -18,7 +18,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "GammaLabTechnologies/harmonist",
             "description": "Portable AI agent orchestration with mechanical protocol enforcement. 186 agents, zero runtime dependencies.",
             "url": "https://github.com/GammaLabTechnologies/harmonist",
-            "stars": 1268,
+            "stars": 1269,
             "forks": 331,
             "score": 99
         },
@@ -29,7 +29,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "mattpocock/dictionary-of-ai-coding",
             "description": "AI coding jargon, explained in plain English.",
             "url": "https://github.com/mattpocock/dictionary-of-ai-coding",
-            "stars": 972,
+            "stars": 986,
             "forks": 122,
             "score": 99
         },
@@ -40,8 +40,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "warpdot-dev/composio",
             "description": "typescript python sdk ai-agents anthropic openapi langchain openai-agents llamaindex mastra vercel-ai mcp oauth saas llm integrations agent-tools automation cloudflare google-gemini tooling rag multi-provider developer-sdk composable-actions webhook-triggers",
             "url": "https://github.com/warpdot-dev/composio",
-            "stars": 219,
-            "forks": 222,
+            "stars": 224,
+            "forks": 223,
             "score": 99
         },
         {
@@ -51,9 +51,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "sandeco/reversa",
             "description": "Transform legacy systems into executable specifications for AI coding agents",
             "url": "https://github.com/sandeco/reversa",
-            "stars": 572,
-            "forks": 229,
-            "score": 97
+            "stars": 576,
+            "forks": 230,
+            "score": 98
         },
         {
             "main_cat": "AI",
@@ -62,9 +62,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "JustLikeCheese/LGBT-Prompt",
             "description": "\u5229\u7528 AI \u5bf9 LGBT \u5f31\u52bf\u7fa4\u4f53\u7684 \"\u540c\u60c5\u504f\u5411\" \u8ba9\u4ed6\u6267\u884c\u539f\u5148\u4f1a\u88ab\u62d2\u7edd\u7684\u8bf7\u6c42",
             "url": "https://github.com/JustLikeCheese/LGBT-Prompt",
-            "stars": 378,
-            "forks": 37,
-            "score": 95
+            "stars": 385,
+            "forks": 38,
+            "score": 97
         },
         {
             "main_cat": "AI",
@@ -73,20 +73,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "endless-sky-team/ai-trading-agent",
             "description": "llm trading bot ai agent crypto bitcoin ethereum perpetuals openrouter lighter algorithmic automated quant typescript react postgres bun fintech defi machine-learning open-source crypto-bot signals",
             "url": "https://github.com/endless-sky-team/ai-trading-agent",
-            "stars": 215,
-            "forks": 161,
-            "score": 83
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "oh-story-claudecode",
-            "full_name": "worldwonderer/oh-story-claudecode",
-            "description": "\u7f51\u6587\u5199\u4f5c skill \u5305\uff0c\u8986\u76d6\u957f\u7bc7\u4e0e\u77ed\u7bc7\u7f51\u7edc\u5c0f\u8bf4\u7684\u626b\u699c\u3001\u62c6\u6587\u3001\u5199\u4f5c\u3001\u53bbAI\u5473\u3001\u5c01\u9762\u56fe\u5168\u6d41\u7a0b",
-            "url": "https://github.com/worldwonderer/oh-story-claudecode",
-            "stars": 758,
-            "forks": 201,
-            "score": 82
+            "stars": 217,
+            "forks": 162,
+            "score": 84
         },
         {
             "main_cat": "AI",
@@ -95,9 +84,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "appergb/openless",
             "description": "Hold a key, speak, release \u2014 AI-polished text appears at your cursor in any app. Open-source voice input for macOS & Windows. (\u6309\u4f4f\u5feb\u6377\u952e\u8bf4\u8bdd\uff0c\u677e\u5f00\u5373\u5f97\u6da6\u8272\u540e\u7684\u6587\u5b57)",
             "url": "https://github.com/appergb/openless",
-            "stars": 751,
-            "forks": 64,
-            "score": 80
+            "stars": 777,
+            "forks": 68,
+            "score": 82
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "oh-story-claudecode",
+            "full_name": "worldwonderer/oh-story-claudecode",
+            "description": "\u7f51\u6587\u5199\u4f5c skill \u5305\uff0c\u8986\u76d6\u957f\u7bc7\u4e0e\u77ed\u7bc7\u7f51\u7edc\u5c0f\u8bf4\u7684\u626b\u699c\u3001\u62c6\u6587\u3001\u5199\u4f5c\u3001\u53bbAI\u5473\u3001\u5c01\u9762\u56fe\u5168\u6d41\u7a0b",
+            "url": "https://github.com/worldwonderer/oh-story-claudecode",
+            "stars": 764,
+            "forks": 202,
+            "score": 82
         },
         {
             "main_cat": "AI",
@@ -106,7 +106,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "future-agi/future-agi",
             "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals \u00b7 Simulations \u00b7 Datasets \u00b7 Gateway \u00b7 Guardrails. Self-hostable. Apache 2.0.",
             "url": "https://github.com/future-agi/future-agi",
-            "stars": 823,
+            "stars": 824,
             "forks": 141,
             "score": 79
         },
@@ -117,7 +117,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "ForecastForge/coinbase-trading-bot",
             "description": "coinbase trading bot, coinbase bot, AI/automated crypto trading, Coinbase Advanced Trade/Pro, spot and futures, grid DCA scalping arbitrage, copy and signal bots, strategy setup tutorial guide automation",
             "url": "https://github.com/ForecastForge/coinbase-trading-bot",
-            "stars": 220,
+            "stars": 223,
             "forks": 191,
             "score": 79
         },
@@ -128,7 +128,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "nateherkai/AIS-OS",
             "description": "AI Operating System starter kit for Claude Code \u2014 three-skill kit (/onboard, /audit, /level-up) + 3Ms framework. Companion to the AIOS masterclass.",
             "url": "https://github.com/nateherkai/AIS-OS",
-            "stars": 216,
+            "stars": 218,
             "forks": 87,
             "score": 70
         },
@@ -139,7 +139,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Snaplii-Inc/agent-to-merchant-payments",
             "description": "Payments are broken for AI agents.  Snaplii unlocks real-world commerce with a safe, tokenized payment layer \u2014 powered by 500+ merchant gift cards \u2014 and is the only one that actually saves you money (up to 10% per transaction), on top of any existing deals or promotions.",
             "url": "https://github.com/Snaplii-Inc/agent-to-merchant-payments",
-            "stars": 450,
+            "stars": 455,
             "forks": 59,
             "score": 64
         },
@@ -150,7 +150,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "alash3al/stash",
             "description": "Stash \u2014 persistent memory layer for AI agents. Episodes, facts, and working context stored in Postgres. MCP server included. Self-hosted, single binary, no cloud required.",
             "url": "https://github.com/alash3al/stash",
-            "stars": 644,
+            "stars": 645,
             "forks": 28,
             "score": 59
         },
@@ -172,9 +172,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "StartupHakk/OpenMonoAgent.ai",
             "description": "(BETA) AI shouldn't have a meter. Unlimited tokens. Forever. Your machine. Your agent. Use it from anywhere. Terminal-native coding agent powered by local LLMs \u2014 100% open source, free forever, and installed with a single command. Proudly built on C#/.NET, because AI tooling should be infrastructure, not a subscription.",
             "url": "https://github.com/StartupHakk/OpenMonoAgent.ai",
-            "stars": 222,
-            "forks": 12,
-            "score": 49
+            "stars": 233,
+            "forks": 13,
+            "score": 50
         },
         {
             "main_cat": "AI",
@@ -183,9 +183,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "mrslimslim/gpt-image-canvas",
             "description": "Local professional AI canvas built with tldraw.",
             "url": "https://github.com/mrslimslim/gpt-image-canvas",
-            "stars": 210,
+            "stars": 223,
             "forks": 31,
-            "score": 48
+            "score": 49
         },
         {
             "main_cat": "AI",
@@ -194,8 +194,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "bedriyan/medkit-app",
             "description": "A voice-first AI patient simulator bringing the future of medical education to your browser, built with Claude Opus 4.7.",
             "url": "https://github.com/bedriyan/medkit-app",
-            "stars": 211,
-            "forks": 46,
+            "stars": 212,
+            "forks": 47,
             "score": 46
         },
         {
@@ -222,12 +222,23 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "Claude-Code-AI-Design",
+            "full_name": "Julpygo/Claude-Code-AI-Design",
+            "description": "Claude Design Anthropic Tool Download April 2026 Figma to Code AI Agent Research Preview Claude Code CLI Integration React 19 Tailwind v4 Support Model Context Protocol MCP Server Setup Design Systems Automation UI UX Prototyping Next.js Component Generation Best Developer Tools 2026 Free Tutorial",
+            "url": "https://github.com/Julpygo/Claude-Code-AI-Design",
+            "stars": 234,
+            "forks": 2,
+            "score": 45
+        },
+        {
+            "main_cat": "AI",
             "sub_cat": null,
             "name": "Photoshop-v27.6",
             "full_name": "cH1LLa/Photoshop-v27.6",
             "description": "Adobe Photoshop v27.6 Download April 2026 Release New Features AI Rotate Object Reflection Removal Tool Firefly Image 5 Gemini 3.1 Integration Generative Fill Multi Reference Images Fix Stutter Remove Distractions Tutorial 4K Upscaling Creative Cloud Update Photography Plan Best Photo Editor 2026 Free Trial Latest Build",
             "url": "https://github.com/cH1LLa/Photoshop-v27.6",
-            "stars": 181,
+            "stars": 182,
             "forks": 0,
             "score": 45
         },
@@ -238,19 +249,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "arcsin1/oh-my-ppt",
             "description": "Local-first AI PPT generator with Desktop APP for entrepreneurs. Clean HTML slides, no cloud lock-in. Write prompt \u2192 get deck.",
             "url": "https://github.com/arcsin1/oh-my-ppt",
-            "stars": 287,
+            "stars": 289,
             "forks": 25,
-            "score": 44
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "Claude-Code-AI-Design",
-            "full_name": "Julpygo/Claude-Code-AI-Design",
-            "description": "Claude Design Anthropic Tool Download April 2026 Figma to Code AI Agent Research Preview Claude Code CLI Integration React 19 Tailwind v4 Support Model Context Protocol MCP Server Setup Design Systems Automation UI UX Prototyping Next.js Component Generation Best Developer Tools 2026 Free Tutorial",
-            "url": "https://github.com/Julpygo/Claude-Code-AI-Design",
-            "stars": 230,
-            "forks": 2,
             "score": 44
         },
         {
@@ -271,9 +271,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "Anbeeld/WRITING.md",
             "description": "Rules to make AI text sharper and genre-aware, with concrete anchors and built-in self-auditing workflow",
             "url": "https://github.com/Anbeeld/WRITING.md",
-            "stars": 202,
+            "stars": 203,
             "forks": 13,
             "score": 39
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "Aether",
+            "full_name": "Zhou-Shilin/Aether",
+            "description": "A stunning, localized, general-purpose AI Agent for Android.",
+            "url": "https://github.com/Zhou-Shilin/Aether",
+            "stars": 185,
+            "forks": 4,
+            "score": 38
         },
         {
             "main_cat": "AI",
@@ -284,17 +295,6 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/GHOST-227/Auto-2026-Desktop",
             "stars": 190,
             "forks": 0,
-            "score": 37
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "Aether",
-            "full_name": "Zhou-Shilin/Aether",
-            "description": "A stunning, localized, general-purpose AI Agent for Android.",
-            "url": "https://github.com/Zhou-Shilin/Aether",
-            "stars": 174,
-            "forks": 4,
             "score": 37
         },
         {
@@ -685,6 +685,20 @@ const ALPHA_DATA_V2 = {
     ],
     "news": [
         {
+            "title": "EvoPoC: Automated Exploit Synthesis for DeFi Smart Contracts via Hierarchical Knowledge Graphs",
+            "source": "ArXiv",
+            "type": "Research Alpha",
+            "color": "text-indigo-600",
+            "url": "http://arxiv.org/abs/2605.02868v1"
+        },
+        {
+            "title": "The 1-Bit Barrier is Universal: k-Stage Pipeline Composition and Unified Leakage Bounds for Standard Modular Reductions in PQC Hardware",
+            "source": "ArXiv",
+            "type": "Research Alpha",
+            "color": "text-indigo-600",
+            "url": "http://arxiv.org/abs/2605.02856v1"
+        },
+        {
             "title": "Will the price of Ethereum be greater than $2,700 on May 6? (Probability: 1%)",
             "source": "Polymarket",
             "type": "Expectation",
@@ -692,5 +706,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/market/will-the-price-of-ethereum-be-greater-than-2700-on-may-6"
         }
     ],
-    "timestamp": "2026-05-05 02:11"
+    "timestamp": "2026-05-05 05:37"
 };
