@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "willchen96/mike",
             "description": "OSS AI Legal Platform",
             "url": "https://github.com/willchen96/mike",
-            "stars": 2049,
-            "forks": 546,
+            "stars": 2068,
+            "forks": 555,
             "score": 99
         },
         {
@@ -18,7 +18,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "GammaLabTechnologies/harmonist",
             "description": "Portable AI agent orchestration with mechanical protocol enforcement. 186 agents, zero runtime dependencies.",
             "url": "https://github.com/GammaLabTechnologies/harmonist",
-            "stars": 1269,
+            "stars": 1280,
             "forks": 331,
             "score": 99
         },
@@ -29,8 +29,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "mattpocock/dictionary-of-ai-coding",
             "description": "AI coding jargon, explained in plain English.",
             "url": "https://github.com/mattpocock/dictionary-of-ai-coding",
-            "stars": 986,
-            "forks": 122,
+            "stars": 997,
+            "forks": 123,
             "score": 99
         },
         {
@@ -40,8 +40,19 @@ const ALPHA_DATA_V2 = {
             "full_name": "warpdot-dev/composio",
             "description": "typescript python sdk ai-agents anthropic openapi langchain openai-agents llamaindex mastra vercel-ai mcp oauth saas llm integrations agent-tools automation cloudflare google-gemini tooling rag multi-provider developer-sdk composable-actions webhook-triggers",
             "url": "https://github.com/warpdot-dev/composio",
-            "stars": 224,
+            "stars": 226,
             "forks": 223,
+            "score": 99
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "craft-agents-oss",
+            "full_name": "warpdot-dev/craft-agents-oss",
+            "description": "electron anthropic claude-agent-sdk mcp bun websocket thin-client multi-llm openapi skills automations oauth desktop-ai github-copilot google-ai chatgpt devtools apache-2 headless-server pi-sdk vscode-alternative linux macos windows",
+            "url": "https://github.com/warpdot-dev/craft-agents-oss",
+            "stars": 186,
+            "forks": 241,
             "score": 99
         },
         {
@@ -51,8 +62,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "sandeco/reversa",
             "description": "Transform legacy systems into executable specifications for AI coding agents",
             "url": "https://github.com/sandeco/reversa",
-            "stars": 576,
-            "forks": 230,
+            "stars": 577,
+            "forks": 231,
             "score": 98
         },
         {
@@ -62,9 +73,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "JustLikeCheese/LGBT-Prompt",
             "description": "\u5229\u7528 AI \u5bf9 LGBT \u5f31\u52bf\u7fa4\u4f53\u7684 \"\u540c\u60c5\u504f\u5411\" \u8ba9\u4ed6\u6267\u884c\u539f\u5148\u4f1a\u88ab\u62d2\u7edd\u7684\u8bf7\u6c42",
             "url": "https://github.com/JustLikeCheese/LGBT-Prompt",
-            "stars": 385,
-            "forks": 38,
-            "score": 97
+            "stars": 387,
+            "forks": 39,
+            "score": 84
         },
         {
             "main_cat": "AI",
@@ -80,22 +91,11 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "openless",
-            "full_name": "appergb/openless",
-            "description": "Hold a key, speak, release \u2014 AI-polished text appears at your cursor in any app. Open-source voice input for macOS & Windows. (\u6309\u4f4f\u5feb\u6377\u952e\u8bf4\u8bdd\uff0c\u677e\u5f00\u5373\u5f97\u6da6\u8272\u540e\u7684\u6587\u5b57)",
-            "url": "https://github.com/appergb/openless",
-            "stars": 777,
-            "forks": 68,
-            "score": 82
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
             "name": "oh-story-claudecode",
             "full_name": "worldwonderer/oh-story-claudecode",
             "description": "\u7f51\u6587\u5199\u4f5c skill \u5305\uff0c\u8986\u76d6\u957f\u7bc7\u4e0e\u77ed\u7bc7\u7f51\u7edc\u5c0f\u8bf4\u7684\u626b\u699c\u3001\u62c6\u6587\u3001\u5199\u4f5c\u3001\u53bbAI\u5473\u3001\u5c01\u9762\u56fe\u5168\u6d41\u7a0b",
             "url": "https://github.com/worldwonderer/oh-story-claudecode",
-            "stars": 764,
+            "stars": 769,
             "forks": 202,
             "score": 82
         },
@@ -106,8 +106,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "future-agi/future-agi",
             "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals \u00b7 Simulations \u00b7 Datasets \u00b7 Gateway \u00b7 Guardrails. Self-hostable. Apache 2.0.",
             "url": "https://github.com/future-agi/future-agi",
-            "stars": 824,
-            "forks": 141,
+            "stars": 827,
+            "forks": 142,
             "score": 79
         },
         {
@@ -124,11 +124,22 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
+            "name": "openless",
+            "full_name": "appergb/openless",
+            "description": "Hold a key, speak, release \u2014 AI-polished text appears at your cursor in any app. Open-source voice input for macOS & Windows. (\u6309\u4f4f\u5feb\u6377\u952e\u8bf4\u8bdd\uff0c\u677e\u5f00\u5373\u5f97\u6da6\u8272\u540e\u7684\u6587\u5b57)",
+            "url": "https://github.com/appergb/openless",
+            "stars": 792,
+            "forks": 69,
+            "score": 78
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
             "name": "AIS-OS",
             "full_name": "nateherkai/AIS-OS",
             "description": "AI Operating System starter kit for Claude Code \u2014 three-skill kit (/onboard, /audit, /level-up) + 3Ms framework. Companion to the AIOS masterclass.",
             "url": "https://github.com/nateherkai/AIS-OS",
-            "stars": 218,
+            "stars": 222,
             "forks": 87,
             "score": 70
         },
@@ -139,9 +150,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "Snaplii-Inc/agent-to-merchant-payments",
             "description": "Payments are broken for AI agents.  Snaplii unlocks real-world commerce with a safe, tokenized payment layer \u2014 powered by 500+ merchant gift cards \u2014 and is the only one that actually saves you money (up to 10% per transaction), on top of any existing deals or promotions.",
             "url": "https://github.com/Snaplii-Inc/agent-to-merchant-payments",
-            "stars": 455,
-            "forks": 59,
-            "score": 64
+            "stars": 459,
+            "forks": 62,
+            "score": 65
         },
         {
             "main_cat": "AI",
@@ -150,7 +161,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "alash3al/stash",
             "description": "Stash \u2014 persistent memory layer for AI agents. Episodes, facts, and working context stored in Postgres. MCP server included. Self-hosted, single binary, no cloud required.",
             "url": "https://github.com/alash3al/stash",
-            "stars": 645,
+            "stars": 646,
             "forks": 28,
             "score": 59
         },
@@ -172,7 +183,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "StartupHakk/OpenMonoAgent.ai",
             "description": "(BETA) AI shouldn't have a meter. Unlimited tokens. Forever. Your machine. Your agent. Use it from anywhere. Terminal-native coding agent powered by local LLMs \u2014 100% open source, free forever, and installed with a single command. Proudly built on C#/.NET, because AI tooling should be infrastructure, not a subscription.",
             "url": "https://github.com/StartupHakk/OpenMonoAgent.ai",
-            "stars": 233,
+            "stars": 241,
             "forks": 13,
             "score": 50
         },
@@ -183,8 +194,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "mrslimslim/gpt-image-canvas",
             "description": "Local professional AI canvas built with tldraw.",
             "url": "https://github.com/mrslimslim/gpt-image-canvas",
-            "stars": 223,
-            "forks": 31,
+            "stars": 242,
+            "forks": 36,
             "score": 49
         },
         {
@@ -194,8 +205,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "bedriyan/medkit-app",
             "description": "A voice-first AI patient simulator bringing the future of medical education to your browser, built with Claude Opus 4.7.",
             "url": "https://github.com/bedriyan/medkit-app",
-            "stars": 212,
-            "forks": 47,
+            "stars": 213,
+            "forks": 48,
             "score": 46
         },
         {
@@ -222,36 +233,25 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "Claude-Code-AI-Design",
-            "full_name": "Julpygo/Claude-Code-AI-Design",
-            "description": "Claude Design Anthropic Tool Download April 2026 Figma to Code AI Agent Research Preview Claude Code CLI Integration React 19 Tailwind v4 Support Model Context Protocol MCP Server Setup Design Systems Automation UI UX Prototyping Next.js Component Generation Best Developer Tools 2026 Free Tutorial",
-            "url": "https://github.com/Julpygo/Claude-Code-AI-Design",
-            "stars": 234,
-            "forks": 2,
-            "score": 45
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "Photoshop-v27.6",
-            "full_name": "cH1LLa/Photoshop-v27.6",
-            "description": "Adobe Photoshop v27.6 Download April 2026 Release New Features AI Rotate Object Reflection Removal Tool Firefly Image 5 Gemini 3.1 Integration Generative Fill Multi Reference Images Fix Stutter Remove Distractions Tutorial 4K Upscaling Creative Cloud Update Photography Plan Best Photo Editor 2026 Free Trial Latest Build",
-            "url": "https://github.com/cH1LLa/Photoshop-v27.6",
-            "stars": 182,
-            "forks": 0,
-            "score": 45
-        },
-        {
-            "main_cat": "AI",
             "sub_cat": null,
             "name": "oh-my-ppt",
             "full_name": "arcsin1/oh-my-ppt",
             "description": "Local-first AI PPT generator with Desktop APP for entrepreneurs. Clean HTML slides, no cloud lock-in. Write prompt \u2192 get deck.",
             "url": "https://github.com/arcsin1/oh-my-ppt",
-            "stars": 289,
+            "stars": 292,
             "forks": 25,
-            "score": 44
+            "score": 45
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "Claude-Code-AI-Design",
+            "full_name": "Julpygo/Claude-Code-AI-Design",
+            "description": "Claude Design Anthropic Tool Download April 2026 Figma to Code AI Agent Research Preview Claude Code CLI Integration React 19 Tailwind v4 Support Model Context Protocol MCP Server Setup Design Systems Automation UI UX Prototyping Next.js Component Generation Best Developer Tools 2026 Free Tutorial",
+            "url": "https://github.com/Julpygo/Claude-Code-AI-Design",
+            "stars": 233,
+            "forks": 2,
+            "score": 45
         },
         {
             "main_cat": "AI",
@@ -260,7 +260,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Senabayu08989/Stable-Diffusion-AI-Free",
             "description": "Stable Diffusion Free AI Image Generator Flux 2 Local Deployment Real-time Video Character Consistency Identity Anchoring SDXL Turbo LoRA Training ControlNet Open Source Art Studio Hyperrealistic Cinematic Styles Prompt Engineering Python Pytorch Forge ComfyUI 2026 Release High Resolution Desktop Tool",
             "url": "https://github.com/Senabayu08989/Stable-Diffusion-AI-Free",
-            "stars": 228,
+            "stars": 227,
             "forks": 0,
             "score": 44
         },
@@ -271,7 +271,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Anbeeld/WRITING.md",
             "description": "Rules to make AI text sharper and genre-aware, with concrete anchors and built-in self-auditing workflow",
             "url": "https://github.com/Anbeeld/WRITING.md",
-            "stars": 203,
+            "stars": 204,
             "forks": 13,
             "score": 39
         },
@@ -699,12 +699,12 @@ const ALPHA_DATA_V2 = {
             "url": "http://arxiv.org/abs/2605.02856v1"
         },
         {
-            "title": "Will the price of Ethereum be greater than $2,700 on May 6? (Probability: 1%)",
+            "title": "Will the price of Ethereum be greater than $2,700 on May 6? (Probability: 3%)",
             "source": "Polymarket",
             "type": "Expectation",
             "color": "text-indigo-400",
             "url": "https://polymarket.com/market/will-the-price-of-ethereum-be-greater-than-2700-on-may-6"
         }
     ],
-    "timestamp": "2026-05-05 05:37"
+    "timestamp": "2026-05-05 07:59"
 };
