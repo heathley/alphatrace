@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "willchen96/mike",
             "description": "OSS AI Legal Platform",
             "url": "https://github.com/willchen96/mike",
-            "stars": 2279,
-            "forks": 631,
+            "stars": 2283,
+            "forks": 633,
             "score": 99
         },
         {
@@ -18,8 +18,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "GammaLabTechnologies/harmonist",
             "description": "Portable AI agent orchestration with mechanical protocol enforcement. 186 agents, zero runtime dependencies.",
             "url": "https://github.com/GammaLabTechnologies/harmonist",
-            "stars": 1333,
-            "forks": 306,
+            "stars": 1338,
+            "forks": 305,
             "score": 99
         },
         {
@@ -29,7 +29,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "mattpocock/dictionary-of-ai-coding",
             "description": "AI coding jargon, explained in plain English.",
             "url": "https://github.com/mattpocock/dictionary-of-ai-coding",
-            "stars": 1140,
+            "stars": 1141,
             "forks": 139,
             "score": 99
         },
@@ -40,7 +40,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "warpdot-dev/composio",
             "description": "typescript python sdk ai-agents anthropic openapi langchain openai-agents llamaindex mastra vercel-ai mcp oauth saas llm integrations agent-tools automation cloudflare google-gemini tooling rag multi-provider developer-sdk composable-actions webhook-triggers",
             "url": "https://github.com/warpdot-dev/composio",
-            "stars": 247,
+            "stars": 248,
             "forks": 225,
             "score": 99
         },
@@ -51,20 +51,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "warpdot-dev/craft-agents-oss",
             "description": "electron anthropic claude-agent-sdk mcp bun websocket thin-client multi-llm openapi skills automations oauth desktop-ai github-copilot google-ai chatgpt devtools apache-2 headless-server pi-sdk vscode-alternative linux macos windows",
             "url": "https://github.com/warpdot-dev/craft-agents-oss",
-            "stars": 235,
+            "stars": 236,
             "forks": 241,
             "score": 99
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "reversa",
-            "full_name": "sandeco/reversa",
-            "description": "Transform legacy systems into executable specifications for AI coding agents",
-            "url": "https://github.com/sandeco/reversa",
-            "stars": 643,
-            "forks": 243,
-            "score": 92
         },
         {
             "main_cat": "AI",
@@ -73,9 +62,31 @@ const ALPHA_DATA_V2 = {
             "full_name": "yaojingang/yao-open-prompts",
             "description": "Yao Open Prompts\uff1a\u4e2d\u6587 AI \u63d0\u793a\u8bcd\u5e93\uff0c\u8986\u76d6\u5de5\u4f5c\u3001\u5b66\u4e60\u3001\u5185\u5bb9\u3001\u8425\u9500\u548c\u751f\u6d3b\u573a\u666f",
             "url": "https://github.com/yaojingang/yao-open-prompts",
-            "stars": 243,
-            "forks": 27,
-            "score": 88
+            "stars": 278,
+            "forks": 33,
+            "score": 98
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "skills",
+            "full_name": "lukiIabs/skills",
+            "description": "Cursor Claude MCP SKILL.md TypeScript Node.js AI agent prompts automation developer tooling IDE productivity skills repository open source",
+            "url": "https://github.com/lukiIabs/skills",
+            "stars": 201,
+            "forks": 222,
+            "score": 98
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "reversa",
+            "full_name": "sandeco/reversa",
+            "description": "Transform legacy systems into executable specifications for AI coding agents",
+            "url": "https://github.com/sandeco/reversa",
+            "stars": 646,
+            "forks": 243,
+            "score": 92
         },
         {
             "main_cat": "AI",
@@ -95,7 +106,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "JustLikeCheese/LGBT-Prompt",
             "description": "\u5229\u7528 AI \u5bf9 LGBT \u5f31\u52bf\u7fa4\u4f53\u7684 \"\u540c\u60c5\u504f\u5411\" \u8ba9\u4ed6\u6267\u884c\u539f\u5148\u4f1a\u88ab\u62d2\u7edd\u7684\u8bf7\u6c42",
             "url": "https://github.com/JustLikeCheese/LGBT-Prompt",
-            "stars": 413,
+            "stars": 414,
             "forks": 43,
             "score": 78
         },
@@ -106,19 +117,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "jherrodthomas/robotics-skills-suite",
             "description": "76 audit-ready Claude skills automating the industrial robot, cobot, AMR, ROS2, V&V, AI/ML, and IEC 62443 lifecycle. 38 builder + reviewer pairs anchored to ISO 10218, 13849, 62061, 12100, 9283, 15066, 3691-4, and IEC 62443.",
             "url": "https://github.com/jherrodthomas/robotics-skills-suite",
-            "stars": 516,
+            "stars": 514,
             "forks": 14,
-            "score": 77
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "ai-trading-agent",
-            "full_name": "endless-sky-team/ai-trading-agent",
-            "description": "llm trading bot ai agent crypto bitcoin ethereum perpetuals openrouter lighter algorithmic automated quant typescript react postgres bun fintech defi machine-learning open-source crypto-bot signals",
-            "url": "https://github.com/endless-sky-team/ai-trading-agent",
-            "stars": 212,
-            "forks": 161,
             "score": 77
         },
         {
@@ -140,7 +140,18 @@ const ALPHA_DATA_V2 = {
             "description": "Payments are broken for AI agents.  Snaplii unlocks real-world commerce with a safe, tokenized payment layer \u2014 powered by 500+ merchant gift cards \u2014 and is the only one that actually saves you money (up to 10% per transaction), on top of any existing deals or promotions.",
             "url": "https://github.com/Snaplii-Inc/agent-to-merchant-payments",
             "stars": 624,
-            "forks": 79,
+            "forks": 80,
+            "score": 72
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "ai-trading-agent",
+            "full_name": "endless-sky-team/ai-trading-agent",
+            "description": "llm trading bot ai agent crypto bitcoin ethereum perpetuals openrouter lighter algorithmic automated quant typescript react postgres bun fintech defi machine-learning open-source crypto-bot signals",
+            "url": "https://github.com/endless-sky-team/ai-trading-agent",
+            "stars": 212,
+            "forks": 161,
             "score": 72
         },
         {
@@ -150,7 +161,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "nateherkai/AIS-OS",
             "description": "AI Operating System starter kit for Claude Code \u2014 three-skill kit (/onboard, /audit, /level-up) + 3Ms framework. Companion to the AIOS masterclass.",
             "url": "https://github.com/nateherkai/AIS-OS",
-            "stars": 259,
+            "stars": 260,
             "forks": 101,
             "score": 71
         },
@@ -179,24 +190,24 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
-            "name": "agent-trade-kit",
-            "full_name": "6551-Team/agent-trade-kit",
-            "description": "OKX Agent Trade Kit: MCP server and CLI to connect AI assistants (Claude, Cursor) to your OKX account via Model Context Protocol. Local, MIT, TypeScript monorepo.",
-            "url": "https://github.com/6551-Team/agent-trade-kit",
-            "stars": 223,
-            "forks": 122,
+            "name": "OpenMonoAgent.ai",
+            "full_name": "StartupHakk/OpenMonoAgent.ai",
+            "description": "(BETA) AI shouldn't have a meter. Unlimited tokens. Forever. Your machine. Your agent. Use it from anywhere. Terminal-native coding agent powered by local LLMs \u2014 100% open source, free forever, and installed with a single command. Proudly built on C#/.NET, because AI tooling should be infrastructure, not a subscription.",
+            "url": "https://github.com/StartupHakk/OpenMonoAgent.ai",
+            "stars": 382,
+            "forks": 35,
             "score": 59
         },
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
-            "name": "OpenMonoAgent.ai",
-            "full_name": "StartupHakk/OpenMonoAgent.ai",
-            "description": "(BETA) AI shouldn't have a meter. Unlimited tokens. Forever. Your machine. Your agent. Use it from anywhere. Terminal-native coding agent powered by local LLMs \u2014 100% open source, free forever, and installed with a single command. Proudly built on C#/.NET, because AI tooling should be infrastructure, not a subscription.",
-            "url": "https://github.com/StartupHakk/OpenMonoAgent.ai",
-            "stars": 372,
-            "forks": 34,
-            "score": 58
+            "name": "agent-trade-kit",
+            "full_name": "6551-Team/agent-trade-kit",
+            "description": "OKX Agent Trade Kit: MCP server and CLI to connect AI assistants (Claude, Cursor) to your OKX account via Model Context Protocol. Local, MIT, TypeScript monorepo.",
+            "url": "https://github.com/6551-Team/agent-trade-kit",
+            "stars": 224,
+            "forks": 122,
+            "score": 59
         },
         {
             "main_cat": "AI",
@@ -205,9 +216,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "alash3al/stash",
             "description": "Stash \u2014 persistent memory layer for AI agents. Episodes, facts, and working context stored in Postgres. MCP server included. Self-hosted, single binary, no cloud required.",
             "url": "https://github.com/alash3al/stash",
-            "stars": 661,
+            "stars": 662,
             "forks": 29,
-            "score": 57
+            "score": 55
         },
         {
             "main_cat": "AI",
@@ -216,7 +227,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "levelsio/superlevels",
             "description": "A super Chrome extension I made that's safer than installing external malware/spyware-filled extensions that form a massive security risk, this one is open source and you can read and check the source code (with AI) before you install it, and customize it to your liking!",
             "url": "https://github.com/levelsio/superlevels",
-            "stars": 477,
+            "stars": 478,
             "forks": 53,
             "score": 51
         },
@@ -255,25 +266,14 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
-            "sub_cat": null,
-            "name": "claude-design-agents-toolkit",
-            "full_name": "Alfredo7777777/claude-design-agents-toolkit",
-            "description": "\ud83c\udfa8 Claude Code AI Design Suite 2026 \ud83d\ude80 Best Free AI Design Plugins & Hooks for Coders",
-            "url": "https://github.com/Alfredo7777777/claude-design-agents-toolkit",
-            "stars": 200,
-            "forks": 0,
-            "score": 42
-        },
-        {
-            "main_cat": "AI",
             "sub_cat": "AI General",
             "name": "Claude-Code-AI-Design",
             "full_name": "Julpygo/Claude-Code-AI-Design",
             "description": "Claude Design Anthropic Tool Download April 2026 Figma to Code AI Agent Research Preview Claude Code CLI Integration React 19 Tailwind v4 Support Model Context Protocol MCP Server Setup Design Systems Automation UI UX Prototyping Next.js Component Generation Best Developer Tools 2026 Free Tutorial",
             "url": "https://github.com/Julpygo/Claude-Code-AI-Design",
-            "stars": 227,
+            "stars": 256,
             "forks": 2,
-            "score": 41
+            "score": 43
         },
         {
             "main_cat": "AI",
@@ -282,7 +282,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Senabayu08989/Stable-Diffusion-AI-Free",
             "description": "Stable Diffusion Free AI Image Generator Flux 2 Local Deployment Real-time Video Character Consistency Identity Anchoring SDXL Turbo LoRA Training ControlNet Open Source Art Studio Hyperrealistic Cinematic Styles Prompt Engineering Python Pytorch Forge ComfyUI 2026 Release High Resolution Desktop Tool",
             "url": "https://github.com/Senabayu08989/Stable-Diffusion-AI-Free",
-            "stars": 221,
+            "stars": 220,
             "forks": 0,
             "score": 41
         },
@@ -315,7 +315,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Pandaoyoo/profanity-new-tron",
             "description": "-----\u274c\u6b64\u7248\u672c\u662f\u53bb\u540e\u95e8\u7248\u672c\u274c-----\ud83d\ude802026\u5e74GUI\u7248\u9753\u53f7\u751f\u6210\u5668\u3001\u2705\u6ce2\u573aTRX\u9753\u53f7\u5730\u5740\u751f\u6210\u5668\u3001USDT\u94b1\u5305\u9753\u53f7\u751f\u6210\u5668\u3001\u5229\u7528GPU\u8fdb\u884c\u52a0\u901f\u3002\ud83d\udd12TRX/USDT Wallet Vanity Address Generator, powered by GPU acceleration. Backdoors removed, safe and dependable.",
             "url": "https://github.com/Pandaoyoo/profanity-new-tron",
-            "stars": 31,
+            "stars": 32,
             "forks": 1,
             "score": 32
         },
@@ -740,6 +740,20 @@ const ALPHA_DATA_V2 = {
     ],
     "news": [
         {
+            "title": "Probabilistic-bit Guided CDCL for SAT Solving using Ising Consensus Assumptions",
+            "source": "ArXiv",
+            "type": "Research Alpha",
+            "color": "text-indigo-600",
+            "url": "http://arxiv.org/abs/2605.04033v1"
+        },
+        {
+            "title": "Redefining AI Red Teaming in the Agentic Era: From Weeks to Hours",
+            "source": "ArXiv",
+            "type": "Research Alpha",
+            "color": "text-indigo-600",
+            "url": "http://arxiv.org/abs/2605.04019v1"
+        },
+        {
             "title": "Will South Korea ETF (EWY) hit (LOW) $162 Week of May 4 2026? (Probability: 6%)",
             "source": "Polymarket",
             "type": "Expectation",
@@ -747,5 +761,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/market/will-ewy-dip-to-162-by-may-4-2026"
         }
     ],
-    "timestamp": "2026-05-06 21:05"
+    "timestamp": "2026-05-06 22:43"
 };
