@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "willchen96/mike",
             "description": "OSS AI Legal Platform",
             "url": "https://github.com/willchen96/mike",
-            "stars": 2251,
-            "forks": 621,
+            "stars": 2260,
+            "forks": 624,
             "score": 99
         },
         {
@@ -18,8 +18,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "GammaLabTechnologies/harmonist",
             "description": "Portable AI agent orchestration with mechanical protocol enforcement. 186 agents, zero runtime dependencies.",
             "url": "https://github.com/GammaLabTechnologies/harmonist",
-            "stars": 1315,
-            "forks": 308,
+            "stars": 1319,
+            "forks": 307,
             "score": 99
         },
         {
@@ -29,8 +29,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "mattpocock/dictionary-of-ai-coding",
             "description": "AI coding jargon, explained in plain English.",
             "url": "https://github.com/mattpocock/dictionary-of-ai-coding",
-            "stars": 1117,
-            "forks": 136,
+            "stars": 1125,
+            "forks": 138,
             "score": 99
         },
         {
@@ -40,7 +40,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "warpdot-dev/composio",
             "description": "typescript python sdk ai-agents anthropic openapi langchain openai-agents llamaindex mastra vercel-ai mcp oauth saas llm integrations agent-tools automation cloudflare google-gemini tooling rag multi-provider developer-sdk composable-actions webhook-triggers",
             "url": "https://github.com/warpdot-dev/composio",
-            "stars": 241,
+            "stars": 245,
             "forks": 225,
             "score": 99
         },
@@ -51,7 +51,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "warpdot-dev/craft-agents-oss",
             "description": "electron anthropic claude-agent-sdk mcp bun websocket thin-client multi-llm openapi skills automations oauth desktop-ai github-copilot google-ai chatgpt devtools apache-2 headless-server pi-sdk vscode-alternative linux macos windows",
             "url": "https://github.com/warpdot-dev/craft-agents-oss",
-            "stars": 227,
+            "stars": 231,
             "forks": 241,
             "score": 99
         },
@@ -62,7 +62,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "sandeco/reversa",
             "description": "Transform legacy systems into executable specifications for AI coding agents",
             "url": "https://github.com/sandeco/reversa",
-            "stars": 628,
+            "stars": 633,
             "forks": 243,
             "score": 91
         },
@@ -73,7 +73,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "appergb/openless",
             "description": "Hold a key, speak, release \u2014 AI-polished text appears at your cursor in any app. Open-source voice input for macOS & Windows. (\u6309\u4f4f\u5feb\u6377\u952e\u8bf4\u8bdd\uff0c\u677e\u5f00\u5373\u5f97\u6da6\u8272\u540e\u7684\u6587\u5b57)",
             "url": "https://github.com/appergb/openless",
-            "stars": 903,
+            "stars": 905,
             "forks": 75,
             "score": 80
         },
@@ -84,19 +84,19 @@ const ALPHA_DATA_V2 = {
             "full_name": "JustLikeCheese/LGBT-Prompt",
             "description": "\u5229\u7528 AI \u5bf9 LGBT \u5f31\u52bf\u7fa4\u4f53\u7684 \"\u540c\u60c5\u504f\u5411\" \u8ba9\u4ed6\u6267\u884c\u539f\u5148\u4f1a\u88ab\u62d2\u7edd\u7684\u8bf7\u6c42",
             "url": "https://github.com/JustLikeCheese/LGBT-Prompt",
-            "stars": 411,
+            "stars": 412,
             "forks": 43,
             "score": 78
         },
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "future-agi",
-            "full_name": "future-agi/future-agi",
-            "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals \u00b7 Simulations \u00b7 Datasets \u00b7 Gateway \u00b7 Guardrails. Self-hostable. Apache 2.0.",
-            "url": "https://github.com/future-agi/future-agi",
-            "stars": 842,
-            "forks": 145,
+            "name": "robotics-skills-suite",
+            "full_name": "jherrodthomas/robotics-skills-suite",
+            "description": "76 audit-ready Claude skills automating the industrial robot, cobot, AMR, ROS2, V&V, AI/ML, and IEC 62443 lifecycle. 38 builder + reviewer pairs anchored to ISO 10218, 13849, 62061, 12100, 9283, 15066, 3691-4, and IEC 62443.",
+            "url": "https://github.com/jherrodthomas/robotics-skills-suite",
+            "stars": 510,
+            "forks": 14,
             "score": 77
         },
         {
@@ -113,13 +113,13 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "robotics-skills-suite",
-            "full_name": "jherrodthomas/robotics-skills-suite",
-            "description": "76 audit-ready Claude skills automating the industrial robot, cobot, AMR, ROS2, V&V, AI/ML, and IEC 62443 lifecycle. 38 builder + reviewer pairs anchored to ISO 10218, 13849, 62061, 12100, 9283, 15066, 3691-4, and IEC 62443.",
-            "url": "https://github.com/jherrodthomas/robotics-skills-suite",
-            "stars": 494,
-            "forks": 14,
-            "score": 75
+            "name": "future-agi",
+            "full_name": "future-agi/future-agi",
+            "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals \u00b7 Simulations \u00b7 Datasets \u00b7 Gateway \u00b7 Guardrails. Self-hostable. Apache 2.0.",
+            "url": "https://github.com/future-agi/future-agi",
+            "stars": 843,
+            "forks": 145,
+            "score": 74
         },
         {
             "main_cat": "AI",
@@ -161,20 +161,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "Hello-Application-XH/HelloGML",
             "description": "\u667a\u8c31\u6e05\u8a00\u7f51\u9875\u7248\u7684 Cloudflare Worker 2API\u5c42\uff0c\u63d0\u4f9b OpenAI / Claude / Gemini \u4e09\u79cd\u534f\u8bae\u517c\u5bb9\u63a5\u53e3\uff0c\u652f\u6301\u6d41\u5f0f\u5bf9\u8bdd\u3001Tools\u8c03\u7528\u3001AI \u7ed8\u56fe\u3001\u89c6\u9891\u751f\u6210\u4e0e\u591a\u8d26\u53f7 Token \u8f6e\u8be2\u3002",
             "url": "https://github.com/Hello-Application-XH/HelloGML",
-            "stars": 201,
-            "forks": 82,
-            "score": 67
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "agent-trade-kit",
-            "full_name": "6551-Team/agent-trade-kit",
-            "description": "OKX Agent Trade Kit: MCP server and CLI to connect AI assistants (Claude, Cursor) to your OKX account via Model Context Protocol. Local, MIT, TypeScript monorepo.",
-            "url": "https://github.com/6551-Team/agent-trade-kit",
-            "stars": 214,
-            "forks": 122,
-            "score": 59
+            "stars": 205,
+            "forks": 83,
+            "score": 68
         },
         {
             "main_cat": "AI",
@@ -183,9 +172,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "StartupHakk/OpenMonoAgent.ai",
             "description": "(BETA) AI shouldn't have a meter. Unlimited tokens. Forever. Your machine. Your agent. Use it from anywhere. Terminal-native coding agent powered by local LLMs \u2014 100% open source, free forever, and installed with a single command. Proudly built on C#/.NET, because AI tooling should be infrastructure, not a subscription.",
             "url": "https://github.com/StartupHakk/OpenMonoAgent.ai",
-            "stars": 341,
-            "forks": 29,
-            "score": 58
+            "stars": 353,
+            "forks": 31,
+            "score": 59
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "agent-trade-kit",
+            "full_name": "6551-Team/agent-trade-kit",
+            "description": "OKX Agent Trade Kit: MCP server and CLI to connect AI assistants (Claude, Cursor) to your OKX account via Model Context Protocol. Local, MIT, TypeScript monorepo.",
+            "url": "https://github.com/6551-Team/agent-trade-kit",
+            "stars": 219,
+            "forks": 122,
+            "score": 59
         },
         {
             "main_cat": "AI",
@@ -205,7 +205,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "levelsio/superlevels",
             "description": "A super Chrome extension I made that's safer than installing external malware/spyware-filled extensions that form a massive security risk, this one is open source and you can read and check the source code (with AI) before you install it, and customize it to your liking!",
             "url": "https://github.com/levelsio/superlevels",
-            "stars": 476,
+            "stars": 477,
             "forks": 53,
             "score": 51
         },
@@ -216,7 +216,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "mrslimslim/gpt-image-canvas",
             "description": "Local professional AI canvas built with tldraw.",
             "url": "https://github.com/mrslimslim/gpt-image-canvas",
-            "stars": 274,
+            "stars": 275,
             "forks": 42,
             "score": 50
         },
@@ -227,7 +227,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "bedriyan/medkit-app",
             "description": "A voice-first AI patient simulator bringing the future of medical education to your browser, built with Claude Opus 4.7.",
             "url": "https://github.com/bedriyan/medkit-app",
-            "stars": 224,
+            "stars": 225,
             "forks": 50,
             "score": 46
         },
@@ -238,7 +238,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "arcsin1/oh-my-ppt",
             "description": "Local-first AI PPT generator with Desktop APP for entrepreneurs. Clean HTML slides, no cloud lock-in. Write prompt \u2192 get deck.",
             "url": "https://github.com/arcsin1/oh-my-ppt",
-            "stars": 321,
+            "stars": 324,
             "forks": 30,
             "score": 44
         },
@@ -251,7 +251,7 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/Alfredo7777777/claude-design-agents-toolkit",
             "stars": 200,
             "forks": 0,
-            "score": 44
+            "score": 42
         },
         {
             "main_cat": "AI",
@@ -262,7 +262,7 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/bearrymuse/GPT-Image-2-Driven-Prompt-Engine",
             "stars": 198,
             "forks": 0,
-            "score": 44
+            "score": 42
         },
         {
             "main_cat": "AI",
@@ -273,7 +273,7 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/Julpygo/Claude-Code-AI-Design",
             "stars": 228,
             "forks": 2,
-            "score": 43
+            "score": 41
         },
         {
             "main_cat": "AI",
@@ -284,7 +284,7 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/Senabayu08989/Stable-Diffusion-AI-Free",
             "stars": 221,
             "forks": 0,
-            "score": 42
+            "score": 41
         },
         {
             "main_cat": "AI",
@@ -304,7 +304,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Zhou-Shilin/Aether",
             "description": "A stunning, localized, general-purpose AI Agent for Android.",
             "url": "https://github.com/Zhou-Shilin/Aether",
-            "stars": 203,
+            "stars": 204,
             "forks": 4,
             "score": 37
         },
@@ -315,9 +315,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "Pandaoyoo/profanity-new-tron",
             "description": "-----\u274c\u6b64\u7248\u672c\u662f\u53bb\u540e\u95e8\u7248\u672c\u274c-----\ud83d\ude802026\u5e74GUI\u7248\u9753\u53f7\u751f\u6210\u5668\u3001\u2705\u6ce2\u573aTRX\u9753\u53f7\u5730\u5740\u751f\u6210\u5668\u3001USDT\u94b1\u5305\u9753\u53f7\u751f\u6210\u5668\u3001\u5229\u7528GPU\u8fdb\u884c\u52a0\u901f\u3002\ud83d\udd12TRX/USDT Wallet Vanity Address Generator, powered by GPU acceleration. Backdoors removed, safe and dependable.",
             "url": "https://github.com/Pandaoyoo/profanity-new-tron",
-            "stars": 27,
+            "stars": 28,
             "forks": 1,
-            "score": 31
+            "score": 32
         },
         {
             "main_cat": "DePIN",
@@ -454,6 +454,17 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "Stablecoin Infrastructure",
             "sub_cat": null,
+            "name": "regupdate",
+            "full_name": "dkdha/regupdate",
+            "description": "Claude skill to map regulatory requirements for digital assets, crypto, payments, stablecoins, and tokenisation across jurisdictions.",
+            "url": "https://github.com/dkdha/regupdate",
+            "stars": 0,
+            "forks": 0,
+            "score": 30
+        },
+        {
+            "main_cat": "Stablecoin Infrastructure",
+            "sub_cat": null,
             "name": "finreal-payments-stack",
             "full_name": "MegalodonLabs/finreal-payments-stack",
             "description": "BRL stablecoin payment infrastructure on Solana. Includes BReal, Prospera OS, terminal and dashboard.",
@@ -580,17 +591,6 @@ const ALPHA_DATA_V2 = {
             "description": "Wash-filtered intelligence layer for the x402 ecosystem. Real-time service catalog, category price benchmarks, wash trading detection, and time-series analytics across Base, Solana, Polygon, and Arbitrum. Free public data, open methodology, AI-native API and MCP server for autonomous agents. Built on agentic payments and stablecoin micropayments.",
             "url": "https://github.com/printmoneylab/x402watch",
             "stars": 0,
-            "forks": 0,
-            "score": 30
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "base-future2",
-            "full_name": "vtcipto/base-future2",
-            "description": "2026 Strategic Focus AreasBase has prioritized three main areas in its 2026 roadmap:Global Payments: Increasing the use of stablecoins in daily commerce and expanding low-cost, high-speed payment systems.Tokenized Markets: Integrating traditional financial assets (stocks, bonds, etc.) into the digital economy by tokenizing them on the Base network.",
-            "url": "https://github.com/vtcipto/base-future2",
-            "stars": 1,
             "forks": 0,
             "score": 30
         },
@@ -743,12 +743,12 @@ const ALPHA_DATA_V2 = {
             "url": "http://arxiv.org/abs/2605.04019v1"
         },
         {
-            "title": "Will South Korea ETF (EWY) hit (LOW) $162 Week of May 4 2026? (Probability: 51%)",
+            "title": "Will South Korea ETF (EWY) hit (LOW) $162 Week of May 4 2026? (Probability: 50%)",
             "source": "Polymarket",
             "type": "Expectation",
             "color": "text-indigo-400",
             "url": "https://polymarket.com/market/will-ewy-dip-to-162-by-may-4-2026"
         }
     ],
-    "timestamp": "2026-05-06 13:52"
+    "timestamp": "2026-05-06 15:59"
 };
