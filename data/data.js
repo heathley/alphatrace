@@ -7,7 +7,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "willchen96/mike",
             "description": "OSS AI Legal Platform",
             "url": "https://github.com/willchen96/mike",
-            "stars": 2283,
+            "stars": 2286,
             "forks": 633,
             "score": 99
         },
@@ -18,8 +18,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "GammaLabTechnologies/harmonist",
             "description": "Portable AI agent orchestration with mechanical protocol enforcement. 186 agents, zero runtime dependencies.",
             "url": "https://github.com/GammaLabTechnologies/harmonist",
-            "stars": 1338,
-            "forks": 305,
+            "stars": 1339,
+            "forks": 304,
             "score": 99
         },
         {
@@ -29,8 +29,19 @@ const ALPHA_DATA_V2 = {
             "full_name": "mattpocock/dictionary-of-ai-coding",
             "description": "AI coding jargon, explained in plain English.",
             "url": "https://github.com/mattpocock/dictionary-of-ai-coding",
-            "stars": 1141,
+            "stars": 1143,
             "forks": 139,
+            "score": 99
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "yao-open-prompts",
+            "full_name": "yaojingang/yao-open-prompts",
+            "description": "Yao Open Prompts\uff1a\u4e2d\u6587 AI \u63d0\u793a\u8bcd\u5e93\uff0c\u8986\u76d6\u5de5\u4f5c\u3001\u5b66\u4e60\u3001\u5185\u5bb9\u3001\u8425\u9500\u548c\u751f\u6d3b\u573a\u666f",
+            "url": "https://github.com/yaojingang/yao-open-prompts",
+            "stars": 316,
+            "forks": 39,
             "score": 99
         },
         {
@@ -51,20 +62,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "warpdot-dev/craft-agents-oss",
             "description": "electron anthropic claude-agent-sdk mcp bun websocket thin-client multi-llm openapi skills automations oauth desktop-ai github-copilot google-ai chatgpt devtools apache-2 headless-server pi-sdk vscode-alternative linux macos windows",
             "url": "https://github.com/warpdot-dev/craft-agents-oss",
-            "stars": 236,
+            "stars": 237,
             "forks": 241,
             "score": 99
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "yao-open-prompts",
-            "full_name": "yaojingang/yao-open-prompts",
-            "description": "Yao Open Prompts\uff1a\u4e2d\u6587 AI \u63d0\u793a\u8bcd\u5e93\uff0c\u8986\u76d6\u5de5\u4f5c\u3001\u5b66\u4e60\u3001\u5185\u5bb9\u3001\u8425\u9500\u548c\u751f\u6d3b\u573a\u666f",
-            "url": "https://github.com/yaojingang/yao-open-prompts",
-            "stars": 278,
-            "forks": 33,
-            "score": 98
         },
         {
             "main_cat": "AI",
@@ -73,7 +73,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "lukiIabs/skills",
             "description": "Cursor Claude MCP SKILL.md TypeScript Node.js AI agent prompts automation developer tooling IDE productivity skills repository open source",
             "url": "https://github.com/lukiIabs/skills",
-            "stars": 201,
+            "stars": 203,
             "forks": 222,
             "score": 98
         },
@@ -84,7 +84,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "sandeco/reversa",
             "description": "Transform legacy systems into executable specifications for AI coding agents",
             "url": "https://github.com/sandeco/reversa",
-            "stars": 646,
+            "stars": 649,
             "forks": 243,
             "score": 92
         },
@@ -134,17 +134,6 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
-            "sub_cat": "AI Agents",
-            "name": "agent-to-merchant-payments",
-            "full_name": "Snaplii-Inc/agent-to-merchant-payments",
-            "description": "Payments are broken for AI agents.  Snaplii unlocks real-world commerce with a safe, tokenized payment layer \u2014 powered by 500+ merchant gift cards \u2014 and is the only one that actually saves you money (up to 10% per transaction), on top of any existing deals or promotions.",
-            "url": "https://github.com/Snaplii-Inc/agent-to-merchant-payments",
-            "stars": 624,
-            "forks": 80,
-            "score": 72
-        },
-        {
-            "main_cat": "AI",
             "sub_cat": "AI General",
             "name": "ai-trading-agent",
             "full_name": "endless-sky-team/ai-trading-agent",
@@ -178,6 +167,17 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
+            "sub_cat": "AI Agents",
+            "name": "agent-to-merchant-payments",
+            "full_name": "Snaplii-Inc/agent-to-merchant-payments",
+            "description": "Payments are broken for AI agents.  Snaplii unlocks real-world commerce with a safe, tokenized payment layer \u2014 powered by 500+ merchant gift cards \u2014 and is the only one that actually saves you money (up to 10% per transaction), on top of any existing deals or promotions.",
+            "url": "https://github.com/Snaplii-Inc/agent-to-merchant-payments",
+            "stars": 624,
+            "forks": 80,
+            "score": 69
+        },
+        {
+            "main_cat": "AI",
             "sub_cat": "AI General",
             "name": "HelloGML",
             "full_name": "Hello-Application-XH/HelloGML",
@@ -194,7 +194,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "StartupHakk/OpenMonoAgent.ai",
             "description": "(BETA) AI shouldn't have a meter. Unlimited tokens. Forever. Your machine. Your agent. Use it from anywhere. Terminal-native coding agent powered by local LLMs \u2014 100% open source, free forever, and installed with a single command. Proudly built on C#/.NET, because AI tooling should be infrastructure, not a subscription.",
             "url": "https://github.com/StartupHakk/OpenMonoAgent.ai",
-            "stars": 382,
+            "stars": 391,
             "forks": 35,
             "score": 59
         },
@@ -205,7 +205,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "6551-Team/agent-trade-kit",
             "description": "OKX Agent Trade Kit: MCP server and CLI to connect AI assistants (Claude, Cursor) to your OKX account via Model Context Protocol. Local, MIT, TypeScript monorepo.",
             "url": "https://github.com/6551-Team/agent-trade-kit",
-            "stars": 224,
+            "stars": 225,
             "forks": 122,
             "score": 59
         },
@@ -260,7 +260,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "arcsin1/oh-my-ppt",
             "description": "Local-first AI PPT generator with Desktop APP for entrepreneurs. Clean HTML slides, no cloud lock-in. Write prompt \u2192 get deck.",
             "url": "https://github.com/arcsin1/oh-my-ppt",
-            "stars": 325,
+            "stars": 326,
             "forks": 30,
             "score": 44
         },
@@ -293,7 +293,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Anbeeld/WRITING.md",
             "description": "\"Humanizer\" rules that make AI text sharper, genre-aware, with concrete anchors and self-auditing workflow",
             "url": "https://github.com/Anbeeld/WRITING.md",
-            "stars": 229,
+            "stars": 230,
             "forks": 13,
             "score": 39
         },
@@ -761,5 +761,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/market/will-ewy-dip-to-162-by-may-4-2026"
         }
     ],
-    "timestamp": "2026-05-06 22:43"
+    "timestamp": "2026-05-06 23:43"
 };
