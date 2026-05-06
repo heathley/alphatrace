@@ -7,7 +7,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "willchen96/mike",
             "description": "OSS AI Legal Platform",
             "url": "https://github.com/willchen96/mike",
-            "stars": 2272,
+            "stars": 2276,
             "forks": 628,
             "score": 99
         },
@@ -18,7 +18,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "GammaLabTechnologies/harmonist",
             "description": "Portable AI agent orchestration with mechanical protocol enforcement. 186 agents, zero runtime dependencies.",
             "url": "https://github.com/GammaLabTechnologies/harmonist",
-            "stars": 1321,
+            "stars": 1330,
             "forks": 306,
             "score": 99
         },
@@ -29,8 +29,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "mattpocock/dictionary-of-ai-coding",
             "description": "AI coding jargon, explained in plain English.",
             "url": "https://github.com/mattpocock/dictionary-of-ai-coding",
-            "stars": 1128,
-            "forks": 138,
+            "stars": 1135,
+            "forks": 139,
             "score": 99
         },
         {
@@ -51,7 +51,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "warpdot-dev/craft-agents-oss",
             "description": "electron anthropic claude-agent-sdk mcp bun websocket thin-client multi-llm openapi skills automations oauth desktop-ai github-copilot google-ai chatgpt devtools apache-2 headless-server pi-sdk vscode-alternative linux macos windows",
             "url": "https://github.com/warpdot-dev/craft-agents-oss",
-            "stars": 232,
+            "stars": 234,
             "forks": 241,
             "score": 99
         },
@@ -62,9 +62,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "sandeco/reversa",
             "description": "Transform legacy systems into executable specifications for AI coding agents",
             "url": "https://github.com/sandeco/reversa",
-            "stars": 636,
-            "forks": 243,
-            "score": 91
+            "stars": 641,
+            "forks": 244,
+            "score": 92
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "yao-open-prompts",
+            "full_name": "yaojingang/yao-open-prompts",
+            "description": "Yao Open Prompts\uff1a\u4e2d\u6587 AI \u63d0\u793a\u8bcd\u5e93\uff0c\u8986\u76d6\u5de5\u4f5c\u3001\u5b66\u4e60\u3001\u5185\u5bb9\u3001\u8425\u9500\u548c\u751f\u6d3b\u573a\u666f",
+            "url": "https://github.com/yaojingang/yao-open-prompts",
+            "stars": 233,
+            "forks": 23,
+            "score": 84
         },
         {
             "main_cat": "AI",
@@ -80,13 +91,13 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "yao-open-prompts",
-            "full_name": "yaojingang/yao-open-prompts",
-            "description": "Yao Open Prompts\uff1a\u4e2d\u6587 AI \u63d0\u793a\u8bcd\u5e93\uff0c\u8986\u76d6\u5de5\u4f5c\u3001\u5b66\u4e60\u3001\u5185\u5bb9\u3001\u8425\u9500\u548c\u751f\u6d3b\u573a\u666f",
-            "url": "https://github.com/yaojingang/yao-open-prompts",
-            "stars": 215,
-            "forks": 21,
-            "score": 79
+            "name": "robotics-skills-suite",
+            "full_name": "jherrodthomas/robotics-skills-suite",
+            "description": "76 audit-ready Claude skills automating the industrial robot, cobot, AMR, ROS2, V&V, AI/ML, and IEC 62443 lifecycle. 38 builder + reviewer pairs anchored to ISO 10218, 13849, 62061, 12100, 9283, 15066, 3691-4, and IEC 62443.",
+            "url": "https://github.com/jherrodthomas/robotics-skills-suite",
+            "stars": 518,
+            "forks": 15,
+            "score": 78
         },
         {
             "main_cat": "AI",
@@ -98,17 +109,6 @@ const ALPHA_DATA_V2 = {
             "stars": 413,
             "forks": 43,
             "score": 78
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "robotics-skills-suite",
-            "full_name": "jherrodthomas/robotics-skills-suite",
-            "description": "76 audit-ready Claude skills automating the industrial robot, cobot, AMR, ROS2, V&V, AI/ML, and IEC 62443 lifecycle. 38 builder + reviewer pairs anchored to ISO 10218, 13849, 62061, 12100, 9283, 15066, 3691-4, and IEC 62443.",
-            "url": "https://github.com/jherrodthomas/robotics-skills-suite",
-            "stars": 515,
-            "forks": 14,
-            "score": 77
         },
         {
             "main_cat": "AI",
@@ -128,19 +128,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "future-agi/future-agi",
             "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals \u00b7 Simulations \u00b7 Datasets \u00b7 Gateway \u00b7 Guardrails. Self-hostable. Apache 2.0.",
             "url": "https://github.com/future-agi/future-agi",
-            "stars": 844,
+            "stars": 846,
             "forks": 145,
-            "score": 74
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "coinbase-trading-bot",
-            "full_name": "ForecastForge/coinbase-trading-bot",
-            "description": "coinbase trading bot, coinbase bot, AI/automated crypto trading, Coinbase Advanced Trade/Pro, spot and futures, grid DCA scalping arbitrage, copy and signal bots, strategy setup tutorial guide automation",
-            "url": "https://github.com/ForecastForge/coinbase-trading-bot",
-            "stars": 218,
-            "forks": 191,
             "score": 74
         },
         {
@@ -162,8 +151,19 @@ const ALPHA_DATA_V2 = {
             "description": "AI Operating System starter kit for Claude Code \u2014 three-skill kit (/onboard, /audit, /level-up) + 3Ms framework. Companion to the AIOS masterclass.",
             "url": "https://github.com/nateherkai/AIS-OS",
             "stars": 258,
-            "forks": 100,
+            "forks": 101,
             "score": 71
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "coinbase-trading-bot",
+            "full_name": "ForecastForge/coinbase-trading-bot",
+            "description": "coinbase trading bot, coinbase bot, AI/automated crypto trading, Coinbase Advanced Trade/Pro, spot and futures, grid DCA scalping arbitrage, copy and signal bots, strategy setup tutorial guide automation",
+            "url": "https://github.com/ForecastForge/coinbase-trading-bot",
+            "stars": 218,
+            "forks": 191,
+            "score": 70
         },
         {
             "main_cat": "AI",
@@ -173,7 +173,7 @@ const ALPHA_DATA_V2 = {
             "description": "\u667a\u8c31\u6e05\u8a00\u7f51\u9875\u7248\u7684 Cloudflare Worker 2API\u5c42\uff0c\u63d0\u4f9b OpenAI / Claude / Gemini \u4e09\u79cd\u534f\u8bae\u517c\u5bb9\u63a5\u53e3\uff0c\u652f\u6301\u6d41\u5f0f\u5bf9\u8bdd\u3001Tools\u8c03\u7528\u3001AI \u7ed8\u56fe\u3001\u89c6\u9891\u751f\u6210\u4e0e\u591a\u8d26\u53f7 Token \u8f6e\u8be2\u3002",
             "url": "https://github.com/Hello-Application-XH/HelloGML",
             "stars": 205,
-            "forks": 82,
+            "forks": 83,
             "score": 63
         },
         {
@@ -183,7 +183,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "6551-Team/agent-trade-kit",
             "description": "OKX Agent Trade Kit: MCP server and CLI to connect AI assistants (Claude, Cursor) to your OKX account via Model Context Protocol. Local, MIT, TypeScript monorepo.",
             "url": "https://github.com/6551-Team/agent-trade-kit",
-            "stars": 220,
+            "stars": 222,
             "forks": 122,
             "score": 59
         },
@@ -205,9 +205,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "StartupHakk/OpenMonoAgent.ai",
             "description": "(BETA) AI shouldn't have a meter. Unlimited tokens. Forever. Your machine. Your agent. Use it from anywhere. Terminal-native coding agent powered by local LLMs \u2014 100% open source, free forever, and installed with a single command. Proudly built on C#/.NET, because AI tooling should be infrastructure, not a subscription.",
             "url": "https://github.com/StartupHakk/OpenMonoAgent.ai",
-            "stars": 360,
-            "forks": 31,
-            "score": 56
+            "stars": 367,
+            "forks": 33,
+            "score": 57
         },
         {
             "main_cat": "AI",
@@ -249,7 +249,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "arcsin1/oh-my-ppt",
             "description": "Local-first AI PPT generator with Desktop APP for entrepreneurs. Clean HTML slides, no cloud lock-in. Write prompt \u2192 get deck.",
             "url": "https://github.com/arcsin1/oh-my-ppt",
-            "stars": 324,
+            "stars": 325,
             "forks": 30,
             "score": 44
         },
@@ -271,7 +271,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Julpygo/Claude-Code-AI-Design",
             "description": "Claude Design Anthropic Tool Download April 2026 Figma to Code AI Agent Research Preview Claude Code CLI Integration React 19 Tailwind v4 Support Model Context Protocol MCP Server Setup Design Systems Automation UI UX Prototyping Next.js Component Generation Best Developer Tools 2026 Free Tutorial",
             "url": "https://github.com/Julpygo/Claude-Code-AI-Design",
-            "stars": 228,
+            "stars": 227,
             "forks": 2,
             "score": 41
         },
@@ -282,7 +282,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Senabayu08989/Stable-Diffusion-AI-Free",
             "description": "Stable Diffusion Free AI Image Generator Flux 2 Local Deployment Real-time Video Character Consistency Identity Anchoring SDXL Turbo LoRA Training ControlNet Open Source Art Studio Hyperrealistic Cinematic Styles Prompt Engineering Python Pytorch Forge ComfyUI 2026 Release High Resolution Desktop Tool",
             "url": "https://github.com/Senabayu08989/Stable-Diffusion-AI-Free",
-            "stars": 221,
+            "stars": 220,
             "forks": 0,
             "score": 41
         },
@@ -293,7 +293,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Anbeeld/WRITING.md",
             "description": "Rules to make AI text sharper and genre-aware, with concrete anchors and built-in self-auditing workflow",
             "url": "https://github.com/Anbeeld/WRITING.md",
-            "stars": 228,
+            "stars": 229,
             "forks": 13,
             "score": 39
         },
@@ -315,7 +315,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Pandaoyoo/profanity-new-tron",
             "description": "-----\u274c\u6b64\u7248\u672c\u662f\u53bb\u540e\u95e8\u7248\u672c\u274c-----\ud83d\ude802026\u5e74GUI\u7248\u9753\u53f7\u751f\u6210\u5668\u3001\u2705\u6ce2\u573aTRX\u9753\u53f7\u5730\u5740\u751f\u6210\u5668\u3001USDT\u94b1\u5305\u9753\u53f7\u751f\u6210\u5668\u3001\u5229\u7528GPU\u8fdb\u884c\u52a0\u901f\u3002\ud83d\udd12TRX/USDT Wallet Vanity Address Generator, powered by GPU acceleration. Backdoors removed, safe and dependable.",
             "url": "https://github.com/Pandaoyoo/profanity-new-tron",
-            "stars": 29,
+            "stars": 30,
             "forks": 1,
             "score": 32
         },
@@ -725,6 +725,17 @@ const ALPHA_DATA_V2 = {
             "stars": 0,
             "forks": 0,
             "score": 30
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "bity-ant-standard",
+            "full_name": "ONGOD6/bity-ant-standard",
+            "description": "Autonomous Node Token standard for the BITY Protocol supporting dynamic augmentation, CRS state, autonomous agent behavior, and cross-chain operation across Ethereum and Solana.",
+            "url": "https://github.com/ONGOD6/bity-ant-standard",
+            "stars": 0,
+            "forks": 0,
+            "score": 30
         }
     ],
     "news": [
@@ -743,12 +754,12 @@ const ALPHA_DATA_V2 = {
             "url": "http://arxiv.org/abs/2605.04019v1"
         },
         {
-            "title": "Will South Korea ETF (EWY) hit (LOW) $162 Week of May 4 2026? (Probability: 5%)",
+            "title": "Will South Korea ETF (EWY) hit (LOW) $162 Week of May 4 2026? (Probability: 6%)",
             "source": "Polymarket",
             "type": "Expectation",
             "color": "text-indigo-400",
             "url": "https://polymarket.com/market/will-ewy-dip-to-162-by-may-4-2026"
         }
     ],
-    "timestamp": "2026-05-06 17:44"
+    "timestamp": "2026-05-06 19:28"
 };
