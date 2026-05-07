@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "willchen96/mike",
             "description": "OSS AI Legal Platform",
             "url": "https://github.com/willchen96/mike",
-            "stars": 2362,
-            "forks": 664,
+            "stars": 2371,
+            "forks": 668,
             "score": 99
         },
         {
@@ -18,7 +18,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "mattpocock/dictionary-of-ai-coding",
             "description": "AI coding jargon, explained in plain English.",
             "url": "https://github.com/mattpocock/dictionary-of-ai-coding",
-            "stars": 1208,
+            "stars": 1209,
             "forks": 144,
             "score": 99
         },
@@ -29,7 +29,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "yaojingang/yao-open-prompts",
             "description": "Yao Open Prompts\uff1a\u4e2d\u6587 AI \u63d0\u793a\u8bcd\u5e93\uff0c\u8986\u76d6\u5de5\u4f5c\u3001\u5b66\u4e60\u3001\u5185\u5bb9\u3001\u8425\u9500\u548c\u751f\u6d3b\u573a\u666f",
             "url": "https://github.com/yaojingang/yao-open-prompts",
-            "stars": 1062,
+            "stars": 1070,
             "forks": 157,
             "score": 99
         },
@@ -40,8 +40,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "strukto-ai/mirage",
             "description": "A Unified Virtual Filesystem For AI Agents",
             "url": "https://github.com/strukto-ai/mirage",
-            "stars": 835,
-            "forks": 44,
+            "stars": 883,
+            "forks": 48,
             "score": 99
         },
         {
@@ -51,8 +51,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "TQ-trade-agent/tq-trading-agent",
             "description": "\ud83c\udf2e Traidng agent, AI-powered multi-agent stock research & trading strategy orchestration, trading agent - TypeScript, LangGraph, OpenAI-compatible APIs",
             "url": "https://github.com/TQ-trade-agent/tq-trading-agent",
-            "stars": 243,
-            "forks": 97,
+            "stars": 245,
+            "forks": 116,
             "score": 99
         },
         {
@@ -84,7 +84,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "lukiIabs/skills",
             "description": "Cursor Claude MCP SKILL.md TypeScript Node.js AI agent prompts automation developer tooling IDE productivity skills repository open source",
             "url": "https://github.com/lukiIabs/skills",
-            "stars": 241,
+            "stars": 242,
             "forks": 222,
             "score": 92
         },
@@ -95,7 +95,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "sandeco/reversa",
             "description": "Transform legacy systems into executable specifications for AI coding agents",
             "url": "https://github.com/sandeco/reversa",
-            "stars": 687,
+            "stars": 689,
             "forks": 249,
             "score": 90
         },
@@ -106,9 +106,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "appergb/openless",
             "description": "Hold a key, speak, release \u2014 AI-polished text appears at your cursor in any app. Open-source voice input for macOS & Windows. (\u6309\u4f4f\u5feb\u6377\u952e\u8bf4\u8bdd\uff0c\u677e\u5f00\u5373\u5f97\u6da6\u8272\u540e\u7684\u6587\u5b57)",
             "url": "https://github.com/appergb/openless",
-            "stars": 955,
-            "forks": 78,
-            "score": 78
+            "stars": 958,
+            "forks": 79,
+            "score": 79
         },
         {
             "main_cat": "AI",
@@ -156,6 +156,17 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
+            "sub_cat": null,
+            "name": "AIS-OS",
+            "full_name": "nateherkai/AIS-OS",
+            "description": "AI Operating System starter kit for Claude Code \u2014 three-skill kit (/onboard, /audit, /level-up) + 3Ms framework. Companion to the AIOS masterclass.",
+            "url": "https://github.com/nateherkai/AIS-OS",
+            "stars": 274,
+            "forks": 103,
+            "score": 68
+        },
+        {
+            "main_cat": "AI",
             "sub_cat": "AI General",
             "name": "coinbase-trading-bot",
             "full_name": "ForecastForge/coinbase-trading-bot",
@@ -163,17 +174,6 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/ForecastForge/coinbase-trading-bot",
             "stars": 211,
             "forks": 191,
-            "score": 70
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "AIS-OS",
-            "full_name": "nateherkai/AIS-OS",
-            "description": "AI Operating System starter kit for Claude Code \u2014 three-skill kit (/onboard, /audit, /level-up) + 3Ms framework. Companion to the AIOS masterclass.",
-            "url": "https://github.com/nateherkai/AIS-OS",
-            "stars": 272,
-            "forks": 102,
             "score": 67
         },
         {
@@ -183,9 +183,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "StartupHakk/OpenMonoAgent.ai",
             "description": "(BETA) AI shouldn't have a meter. Unlimited tokens. Forever. Your machine. Your agent. Use it from anywhere. Terminal-native coding agent powered by local LLMs \u2014 100% open source, free forever, and installed with a single command. Proudly built on C#/.NET, because AI tooling should be infrastructure, not a subscription.",
             "url": "https://github.com/StartupHakk/OpenMonoAgent.ai",
-            "stars": 494,
-            "forks": 49,
-            "score": 64
+            "stars": 502,
+            "forks": 50,
+            "score": 65
         },
         {
             "main_cat": "AI",
@@ -227,7 +227,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Ajai53200/DeepSeek-V4-Pro-App",
             "description": "DeepSeek V4 Pro download MoE architecture 1.6T parameters 1M context window reasoning modes Think Max sparse attention coding agent agentic AI benchmarks API pricing open weights MIT license.",
             "url": "https://github.com/Ajai53200/DeepSeek-V4-Pro-App",
-            "stars": 208,
+            "stars": 210,
             "forks": 2,
             "score": 51
         },
@@ -249,8 +249,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "arcsin1/oh-my-ppt",
             "description": "Local-first AI PPT generator with Desktop APP for entrepreneurs. Clean HTML slides, no cloud lock-in. Write prompt \u2192 get deck.",
             "url": "https://github.com/arcsin1/oh-my-ppt",
-            "stars": 357,
-            "forks": 34,
+            "stars": 358,
+            "forks": 35,
             "score": 45
         },
         {
@@ -282,8 +282,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "Anbeeld/WRITING.md",
             "description": "\"Humanizer\" rules that make AI text sharper, genre-aware, with concrete anchors and self-auditing workflow",
             "url": "https://github.com/Anbeeld/WRITING.md",
-            "stars": 238,
-            "forks": 13,
+            "stars": 239,
+            "forks": 14,
             "score": 39
         },
         {
@@ -315,7 +315,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Negai-ai/AgentClaw",
             "description": "AgentClaw turns one-sentence ideas into reusable Claw capabilities. Build less boilerplate with declarative workflows, computer browser code file control, MCP, Skills, memory, knowledge bases, tracing, scheduling, and API/MCP publishing.",
             "url": "https://github.com/Negai-ai/AgentClaw",
-            "stars": 28,
+            "stars": 29,
             "forks": 3,
             "score": 35
         },
@@ -326,7 +326,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Pandaoyoo/profanity-new-tron",
             "description": "-----\u274c\u6b64\u7248\u672c\u662f\u53bb\u540e\u95e8\u7248\u672c\u274c-----\ud83d\ude802026\u5e74GUI\u7248\u9753\u53f7\u751f\u6210\u5668\u3001\u2705\u6ce2\u573aTRX\u9753\u53f7\u5730\u5740\u751f\u6210\u5668\u3001USDT\u94b1\u5305\u9753\u53f7\u751f\u6210\u5668\u3001\u5229\u7528GPU\u8fdb\u884c\u52a0\u901f\u3002\ud83d\udd12TRX/USDT Wallet Vanity Address Generator, powered by GPU acceleration. Backdoors removed, safe and dependable.",
             "url": "https://github.com/Pandaoyoo/profanity-new-tron",
-            "stars": 41,
+            "stars": 42,
             "forks": 1,
             "score": 32
         },
@@ -685,26 +685,12 @@ const ALPHA_DATA_V2 = {
     ],
     "news": [
         {
-            "title": "Toward a Risk Assessment Framework for Institutional DeFi: A Nine-Dimension Approach",
-            "source": "ArXiv",
-            "type": "Research Alpha",
-            "color": "text-indigo-600",
-            "url": "http://arxiv.org/abs/2605.05145v1"
-        },
-        {
-            "title": "SoK: Robustness in Large Language Models against Jailbreak Attacks",
-            "source": "ArXiv",
-            "type": "Research Alpha",
-            "color": "text-indigo-600",
-            "url": "http://arxiv.org/abs/2605.05058v1"
-        },
-        {
-            "title": "Will the price of Solana be between $60 and $70 on May 10? (Probability: 2%)",
+            "title": "Will the price of Solana be between $60 and $70 on May 10? (Probability: 27%)",
             "source": "Polymarket",
             "type": "Expectation",
             "color": "text-indigo-400",
             "url": "https://polymarket.com/market/will-the-price-of-solana-be-between-60-70-on-may-10"
         }
     ],
-    "timestamp": "2026-05-07 18:19"
+    "timestamp": "2026-05-07 20:09"
 };
