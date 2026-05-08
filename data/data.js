@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "willchen96/mike",
             "description": "OSS AI Legal Platform",
             "url": "https://github.com/willchen96/mike",
-            "stars": 2522,
-            "forks": 709,
+            "stars": 2525,
+            "forks": 711,
             "score": 99
         },
         {
@@ -18,7 +18,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "strukto-ai/mirage",
             "description": "A Unified Virtual Filesystem For AI Agents",
             "url": "https://github.com/strukto-ai/mirage",
-            "stars": 1414,
+            "stars": 1422,
             "forks": 85,
             "score": 99
         },
@@ -40,7 +40,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "mattpocock/dictionary-of-ai-coding",
             "description": "AI coding jargon, explained in plain English.",
             "url": "https://github.com/mattpocock/dictionary-of-ai-coding",
-            "stars": 1274,
+            "stars": 1276,
             "forks": 151,
             "score": 99
         },
@@ -51,8 +51,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "TQ-trade-agent/tq-trading-agent",
             "description": "\ud83c\udf2e Traidng agent, AI-powered multi-agent stock research & trading strategy orchestration, trading agent - TypeScript, LangGraph, OpenAI-compatible APIs",
             "url": "https://github.com/TQ-trade-agent/tq-trading-agent",
-            "stars": 289,
-            "forks": 386,
+            "stars": 291,
+            "forks": 396,
             "score": 99
         },
         {
@@ -62,7 +62,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "iam567/LifeManga",
             "description": "ios swift swiftui openai gpt-image manga ai-art",
             "url": "https://github.com/iam567/LifeManga",
-            "stars": 236,
+            "stars": 238,
             "forks": 62,
             "score": 90
         },
@@ -117,7 +117,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "appergb/openless",
             "description": "Hold a key, speak, release \u2014 AI-polished text appears at your cursor in any app. Open-source voice input for macOS & Windows. (\u6309\u4f4f\u5feb\u6377\u952e\u8bf4\u8bdd\uff0c\u677e\u5f00\u5373\u5f97\u6da6\u8272\u540e\u7684\u6587\u5b57)",
             "url": "https://github.com/appergb/openless",
-            "stars": 1092,
+            "stars": 1095,
             "forks": 90,
             "score": 81
         },
@@ -130,7 +130,7 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/Snaplii-Inc/agent-to-merchant-payments",
             "stars": 796,
             "forks": 90,
-            "score": 74
+            "score": 71
         },
         {
             "main_cat": "AI",
@@ -139,7 +139,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "StartupHakk/OpenMonoAgent.ai",
             "description": "(BETA) AI shouldn't have a meter. Unlimited tokens. Forever. Your machine. Your agent. Use it from anywhere. Terminal-native coding agent powered by local LLMs \u2014 100% open source, free forever, and installed with a single command. Proudly built on C#/.NET, because AI tooling should be infrastructure, not a subscription.",
             "url": "https://github.com/StartupHakk/OpenMonoAgent.ai",
-            "stars": 592,
+            "stars": 597,
             "forks": 63,
             "score": 68
         },
@@ -161,7 +161,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "WenyuChiou/awesome-agentic-ai-zh",
             "description": "AI Agent \u4e2d\u6587\u5b78\u7fd2\u5730\u5716 \u2014 \u5f9e\u96f6\u958b\u59cb\u7684\u7d50\u69cb\u5316\u5b78\u7fd2\u8def\u5f91\uff0c\u6bcf\u968e\u6bb5\u6709\u5fc5\u505a\u7df4\u7fd2\u8ddf\u5fc5\u4fee\u95b1\u8b80\u3002\u4e09\u8a9e\u5c0d\u7167\uff08\u7e41\u4e2d\uff0f\u7b80\u4e2d\uff0fEnglish\uff09\u3002\u6b61\u8fce\u793e\u7fa4\u4e00\u8d77\u8ca2\u737b\u3001\u512a\u5316\u5167\u5bb9\u3002",
             "url": "https://github.com/WenyuChiou/awesome-agentic-ai-zh",
-            "stars": 390,
+            "stars": 395,
             "forks": 34,
             "score": 67
         },
@@ -172,9 +172,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "nateherkai/AIS-OS",
             "description": "AI Operating System starter kit for Claude Code \u2014 three-skill kit (/onboard, /audit, /level-up) + 3Ms framework. Companion to the AIOS masterclass.",
             "url": "https://github.com/nateherkai/AIS-OS",
-            "stars": 291,
+            "stars": 292,
             "forks": 112,
-            "score": 66
+            "score": 67
         },
         {
             "main_cat": "AI",
@@ -216,7 +216,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "darkrishabh/agent-skills-eval",
             "description": "A test runner for agentskills.io-style AI agent skills",
             "url": "https://github.com/darkrishabh/agent-skills-eval",
-            "stars": 227,
+            "stars": 228,
             "forks": 6,
             "score": 55
         },
@@ -238,7 +238,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "TheSashaDev/girl-agent",
             "description": "\u0418\u0418-\u0434\u0435\u0432\u0443\u0448\u043a\u0430 \u0441 \u0447\u0435\u043b\u043e\u0432\u0435\u0447\u0435\u0441\u043a\u0438\u043c \u043f\u043e\u0432\u0435\u0434\u0435\u043d\u0438\u0435\u043c: \u0441\u043e\u043d, \u043d\u0430\u0441\u0442\u0440\u043e\u0435\u043d\u0438\u0435, \u0440\u0430\u0441\u043f\u0438\u0441\u0430\u043d\u0438\u0435, \u043f\u0430\u043c\u044f\u0442\u044c, \u0441\u0442\u0430\u0434\u0438\u0438 \u043e\u0442\u043d\u043e\u0448\u0435\u043d\u0438\u0439 \u0438 \u043a\u043e\u043d\u0444\u043b\u0438\u043a\u0442\u044b. Userbot mode \u0447\u0435\u0440\u0435\u0437 MTProto \u2014 \u0440\u0435\u0430\u0433\u0438\u0440\u0443\u0435\u0442, \u043f\u0435\u0447\u0430\u0442\u0430\u0435\u0442, \u0441\u0442\u0430\u0432\u0438\u0442 \u0440\u0435\u0430\u043a\u0446\u0438\u0438. Anti-AI \u043f\u0440\u043e\u043c\u043f\u0442 \u0443\u0431\u0438\u0440\u0430\u0435\u0442 ChatGPT-\u043f\u043e\u0432\u0430\u0434\u043a\u0438. \u041d\u0435 \u0447\u0430\u0442-\u0431\u043e\u0442 \u2014 \u043f\u0435\u0440\u0441\u043e\u043d\u0430\u0436 \u0441 \u0441\u043e\u0441\u0442\u043e\u044f\u043d\u0438\u0435\u043c.",
             "url": "https://github.com/TheSashaDev/girl-agent",
-            "stars": 210,
+            "stars": 211,
             "forks": 29,
             "score": 53
         },
@@ -348,7 +348,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "EnceladusLin/Global-Affairs-Simulation-Platform",
             "description": "An international relations intelligence and forecasting platform that integrates open-source data, event chains, actor modeling, knowledge graphs, and scenario simulation to support geopolitical risk analysis and structured strategic assessment.",
             "url": "https://github.com/EnceladusLin/Global-Affairs-Simulation-Platform",
-            "stars": 14,
+            "stars": 15,
             "forks": 0,
             "score": 31
         },
@@ -696,6 +696,20 @@ const ALPHA_DATA_V2 = {
     ],
     "news": [
         {
+            "title": "Patch2Vuln: Agentic Reconstruction of Vulnerabilities from Linux Distribution Binary Patches",
+            "source": "ArXiv",
+            "type": "Research Alpha",
+            "color": "text-indigo-600",
+            "url": "http://arxiv.org/abs/2605.06601v1"
+        },
+        {
+            "title": "FedAttr: Towards Privacy-preserving Client-Level Attribution in Federated LLM Fine-tuning",
+            "source": "ArXiv",
+            "type": "Research Alpha",
+            "color": "text-indigo-600",
+            "url": "http://arxiv.org/abs/2605.06596v1"
+        },
+        {
             "title": "Bitcoin volatility remains high ahead of key FED decision.",
             "source": "Polymarket",
             "type": "Expectation",
@@ -703,5 +717,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-05-08 22:51"
+    "timestamp": "2026-05-08 23:51"
 };
