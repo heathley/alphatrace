@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "willchen96/mike",
             "description": "OSS AI Legal Platform",
             "url": "https://github.com/willchen96/mike",
-            "stars": 2420,
-            "forks": 681,
+            "stars": 2430,
+            "forks": 686,
             "score": 99
         },
         {
@@ -18,8 +18,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "yaojingang/yao-open-prompts",
             "description": "Yao Open Prompts\uff1a\u4e2d\u6587 AI \u63d0\u793a\u8bcd\u5e93\uff0c\u8986\u76d6\u5de5\u4f5c\u3001\u5b66\u4e60\u3001\u5185\u5bb9\u3001\u8425\u9500\u548c\u751f\u6d3b\u573a\u666f",
             "url": "https://github.com/yaojingang/yao-open-prompts",
-            "stars": 1261,
-            "forks": 193,
+            "stars": 1291,
+            "forks": 196,
             "score": 99
         },
         {
@@ -29,8 +29,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "mattpocock/dictionary-of-ai-coding",
             "description": "AI coding jargon, explained in plain English.",
             "url": "https://github.com/mattpocock/dictionary-of-ai-coding",
-            "stars": 1252,
-            "forks": 149,
+            "stars": 1253,
+            "forks": 150,
             "score": 99
         },
         {
@@ -40,8 +40,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "strukto-ai/mirage",
             "description": "A Unified Virtual Filesystem For AI Agents",
             "url": "https://github.com/strukto-ai/mirage",
-            "stars": 1141,
-            "forks": 70,
+            "stars": 1187,
+            "forks": 74,
             "score": 99
         },
         {
@@ -51,20 +51,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "TQ-trade-agent/tq-trading-agent",
             "description": "\ud83c\udf2e Traidng agent, AI-powered multi-agent stock research & trading strategy orchestration, trading agent - TypeScript, LangGraph, OpenAI-compatible APIs",
             "url": "https://github.com/TQ-trade-agent/tq-trading-agent",
-            "stars": 273,
-            "forks": 230,
+            "stars": 276,
+            "forks": 248,
             "score": 99
         },
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "skills",
-            "full_name": "lukiIabs/skills",
-            "description": "Cursor Claude MCP SKILL.md TypeScript Node.js AI agent prompts automation developer tooling IDE productivity skills repository open source",
-            "url": "https://github.com/lukiIabs/skills",
-            "stars": 242,
-            "forks": 222,
-            "score": 92
+            "name": "LifeManga",
+            "full_name": "iam567/LifeManga",
+            "description": "ios swift swiftui openai gpt-image manga ai-art",
+            "url": "https://github.com/iam567/LifeManga",
+            "stars": 208,
+            "forks": 49,
+            "score": 97
         },
         {
             "main_cat": "AI",
@@ -74,7 +74,7 @@ const ALPHA_DATA_V2 = {
             "description": "Transform legacy systems into executable specifications for AI coding agents",
             "url": "https://github.com/sandeco/reversa",
             "stars": 700,
-            "forks": 252,
+            "forks": 253,
             "score": 91
         },
         {
@@ -87,6 +87,17 @@ const ALPHA_DATA_V2 = {
             "stars": 225,
             "forks": 241,
             "score": 89
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "skills",
+            "full_name": "lukiIabs/skills",
+            "description": "Cursor Claude MCP SKILL.md TypeScript Node.js AI agent prompts automation developer tooling IDE productivity skills repository open source",
+            "url": "https://github.com/lukiIabs/skills",
+            "stars": 242,
+            "forks": 222,
+            "score": 86
         },
         {
             "main_cat": "AI",
@@ -106,9 +117,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "appergb/openless",
             "description": "Hold a key, speak, release \u2014 AI-polished text appears at your cursor in any app. Open-source voice input for macOS & Windows. (\u6309\u4f4f\u5feb\u6377\u952e\u8bf4\u8bdd\uff0c\u677e\u5f00\u5373\u5f97\u6da6\u8272\u540e\u7684\u6587\u5b57)",
             "url": "https://github.com/appergb/openless",
-            "stars": 1010,
+            "stars": 1022,
             "forks": 84,
-            "score": 81
+            "score": 78
         },
         {
             "main_cat": "AI",
@@ -117,7 +128,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Snaplii-Inc/agent-to-merchant-payments",
             "description": "Payments are broken for AI agents.  Snaplii unlocks real-world commerce with a safe, tokenized payment layer \u2014 powered by 500+ merchant gift cards \u2014 and is the only one that actually saves you money (up to 10% per transaction), on top of any existing deals or promotions.",
             "url": "https://github.com/Snaplii-Inc/agent-to-merchant-payments",
-            "stars": 762,
+            "stars": 777,
             "forks": 90,
             "score": 73
         },
@@ -128,7 +139,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "jherrodthomas/robotics-skills-suite",
             "description": "76 audit-ready Claude skills automating the industrial robot, cobot, AMR, ROS2, V&V, AI/ML, and IEC 62443 lifecycle. 38 builder + reviewer pairs anchored to ISO 10218, 13849, 62061, 12100, 9283, 15066, 3691-4, and IEC 62443.",
             "url": "https://github.com/jherrodthomas/robotics-skills-suite",
-            "stars": 511,
+            "stars": 510,
             "forks": 14,
             "score": 70
         },
@@ -139,7 +150,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "StartupHakk/OpenMonoAgent.ai",
             "description": "(BETA) AI shouldn't have a meter. Unlimited tokens. Forever. Your machine. Your agent. Use it from anywhere. Terminal-native coding agent powered by local LLMs \u2014 100% open source, free forever, and installed with a single command. Proudly built on C#/.NET, because AI tooling should be infrastructure, not a subscription.",
             "url": "https://github.com/StartupHakk/OpenMonoAgent.ai",
-            "stars": 540,
+            "stars": 545,
             "forks": 55,
             "score": 68
         },
@@ -161,7 +172,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "JustLikeCheese/LGBT-Prompt",
             "description": "\u5229\u7528 AI \u5bf9 LGBT \u5f31\u52bf\u7fa4\u4f53\u7684 \"\u540c\u60c5\u504f\u5411\" \u8ba9\u4ed6\u6267\u884c\u539f\u5148\u4f1a\u88ab\u62d2\u7edd\u7684\u8bf7\u6c42",
             "url": "https://github.com/JustLikeCheese/LGBT-Prompt",
-            "stars": 426,
+            "stars": 428,
             "forks": 42,
             "score": 67
         },
@@ -183,7 +194,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "nateherkai/AIS-OS",
             "description": "AI Operating System starter kit for Claude Code \u2014 three-skill kit (/onboard, /audit, /level-up) + 3Ms framework. Companion to the AIOS masterclass.",
             "url": "https://github.com/nateherkai/AIS-OS",
-            "stars": 282,
+            "stars": 283,
             "forks": 110,
             "score": 66
         },
@@ -194,9 +205,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "Hello-Application-XH/HelloGML",
             "description": "\u667a\u8c31\u6e05\u8a00\u7f51\u9875\u7248\u7684 Cloudflare Worker 2API\u5c42\uff0c\u63d0\u4f9b OpenAI / Claude / Gemini \u4e09\u79cd\u534f\u8bae\u517c\u5bb9\u63a5\u53e3\uff0c\u652f\u6301\u6d41\u5f0f\u5bf9\u8bdd\u3001Tools\u8c03\u7528\u3001AI \u7ed8\u56fe\u3001\u89c6\u9891\u751f\u6210\u4e0e\u591a\u8d26\u53f7 Token \u8f6e\u8be2\u3002",
             "url": "https://github.com/Hello-Application-XH/HelloGML",
-            "stars": 220,
-            "forks": 88,
-            "score": 61
+            "stars": 221,
+            "forks": 89,
+            "score": 62
         },
         {
             "main_cat": "AI",
@@ -216,9 +227,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "TheSashaDev/girl-agent",
             "description": "\u0418\u0418-\u0434\u0435\u0432\u0443\u0448\u043a\u0430 \u0441 \u0447\u0435\u043b\u043e\u0432\u0435\u0447\u0435\u0441\u043a\u0438\u043c \u043f\u043e\u0432\u0435\u0434\u0435\u043d\u0438\u0435\u043c: \u0441\u043e\u043d, \u043d\u0430\u0441\u0442\u0440\u043e\u0435\u043d\u0438\u0435, \u0440\u0430\u0441\u043f\u0438\u0441\u0430\u043d\u0438\u0435, \u043f\u0430\u043c\u044f\u0442\u044c, \u0441\u0442\u0430\u0434\u0438\u0438 \u043e\u0442\u043d\u043e\u0448\u0435\u043d\u0438\u0439 \u0438 \u043a\u043e\u043d\u0444\u043b\u0438\u043a\u0442\u044b. Userbot mode \u0447\u0435\u0440\u0435\u0437 MTProto \u2014 \u0440\u0435\u0430\u0433\u0438\u0440\u0443\u0435\u0442, \u043f\u0435\u0447\u0430\u0442\u0430\u0435\u0442, \u0441\u0442\u0430\u0432\u0438\u0442 \u0440\u0435\u0430\u043a\u0446\u0438\u0438. Anti-AI \u043f\u0440\u043e\u043c\u043f\u0442 \u0443\u0431\u0438\u0440\u0430\u0435\u0442 ChatGPT-\u043f\u043e\u0432\u0430\u0434\u043a\u0438. \u041d\u0435 \u0447\u0430\u0442-\u0431\u043e\u0442 \u2014 \u043f\u0435\u0440\u0441\u043e\u043d\u0430\u0436 \u0441 \u0441\u043e\u0441\u0442\u043e\u044f\u043d\u0438\u0435\u043c.",
             "url": "https://github.com/TheSashaDev/girl-agent",
-            "stars": 199,
-            "forks": 27,
-            "score": 55
+            "stars": 201,
+            "forks": 28,
+            "score": 56
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "awesome-agentic-ai-zh",
+            "full_name": "WenyuChiou/awesome-agentic-ai-zh",
+            "description": "AI Agent \u4e2d\u6587\u5b78\u7fd2\u5730\u5716 \u2014 \u5f9e\u96f6\u958b\u59cb\u7684\u7d50\u69cb\u5316\u5b78\u7fd2\u8def\u5f91\uff0c\u6bcf\u968e\u6bb5\u6709\u5fc5\u505a\u7df4\u7fd2\u8ddf\u5fc5\u4fee\u95b1\u8b80\u3002\u4e09\u8a9e\u5c0d\u7167\uff08\u7e41\u4e2d\uff0f\u7b80\u4e2d\uff0fEnglish\uff09\u3002\u6b61\u8fce\u793e\u7fa4\u4e00\u8d77\u8ca2\u737b\u3001\u512a\u5316\u5167\u5bb9\u3002",
+            "url": "https://github.com/WenyuChiou/awesome-agentic-ai-zh",
+            "stars": 217,
+            "forks": 16,
+            "score": 53
         },
         {
             "main_cat": "AI",
@@ -227,7 +249,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Ajai53200/DeepSeek-V4-Pro-App",
             "description": "DeepSeek V4 Pro download MoE architecture 1.6T parameters 1M context window reasoning modes Think Max sparse attention coding agent agentic AI benchmarks API pricing open weights MIT license.",
             "url": "https://github.com/Ajai53200/DeepSeek-V4-Pro-App",
-            "stars": 213,
+            "stars": 214,
             "forks": 2,
             "score": 52
         },
@@ -238,7 +260,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "darkrishabh/agent-skills-eval",
             "description": "A test runner for agentskills.io-style AI agent skills",
             "url": "https://github.com/darkrishabh/agent-skills-eval",
-            "stars": 205,
+            "stars": 208,
             "forks": 5,
             "score": 52
         },
@@ -249,9 +271,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "mrslimslim/gpt-image-canvas",
             "description": "Local professional AI canvas built with tldraw.",
             "url": "https://github.com/mrslimslim/gpt-image-canvas",
-            "stars": 286,
+            "stars": 287,
             "forks": 44,
-            "score": 49
+            "score": 47
         },
         {
             "main_cat": "AI",
@@ -271,19 +293,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "Julpygo/Claude-Code-AI-Design",
             "description": "Claude Design Anthropic Tool Download April 2026 Figma to Code AI Agent Research Preview Claude Code CLI Integration React 19 Tailwind v4 Support Model Context Protocol MCP Server Setup Design Systems Automation UI UX Prototyping Next.js Component Generation Best Developer Tools 2026 Free Tutorial",
             "url": "https://github.com/Julpygo/Claude-Code-AI-Design",
-            "stars": 252,
+            "stars": 251,
             "forks": 2,
-            "score": 41
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "claude-design-agents-toolkit",
-            "full_name": "Alfredo7777777/claude-design-agents-toolkit",
-            "description": "\ud83c\udfa8 Claude Code AI Design Suite 2026 \ud83d\ude80 Best Free AI Design Plugins & Hooks for Coders",
-            "url": "https://github.com/Alfredo7777777/claude-design-agents-toolkit",
-            "stars": 200,
-            "forks": 0,
             "score": 41
         },
         {
@@ -293,7 +304,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Senabayu08989/Stable-Diffusion-AI-Free",
             "description": "Stable Diffusion Free AI Image Generator Flux 2 Local Deployment Real-time Video Character Consistency Identity Anchoring SDXL Turbo LoRA Training ControlNet Open Source Art Studio Hyperrealistic Cinematic Styles Prompt Engineering Python Pytorch Forge ComfyUI 2026 Release High Resolution Desktop Tool",
             "url": "https://github.com/Senabayu08989/Stable-Diffusion-AI-Free",
-            "stars": 216,
+            "stars": 215,
             "forks": 0,
             "score": 39
         },
@@ -304,7 +315,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Zhou-Shilin/Aether",
             "description": "A stunning, localized, general-purpose AI Agent for Android.",
             "url": "https://github.com/Zhou-Shilin/Aether",
-            "stars": 227,
+            "stars": 228,
             "forks": 7,
             "score": 38
         },
@@ -315,9 +326,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "Negai-ai/AgentClaw",
             "description": "AgentClaw turns one-sentence ideas into reusable Claw capabilities. Build less boilerplate with declarative workflows, computer browser code file control, MCP, Skills, memory, knowledge bases, tracing, scheduling, and API/MCP publishing.",
             "url": "https://github.com/Negai-ai/AgentClaw",
-            "stars": 36,
-            "forks": 4,
-            "score": 36
+            "stars": 38,
+            "forks": 5,
+            "score": 37
         },
         {
             "main_cat": "DePIN",
@@ -326,7 +337,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Pandaoyoo/profanity-new-tron",
             "description": "-----\u274c\u6b64\u7248\u672c\u662f\u53bb\u540e\u95e8\u7248\u672c\u274c-----\ud83d\ude802026\u5e74GUI\u7248\u9753\u53f7\u751f\u6210\u5668\u3001\u2705\u6ce2\u573aTRX\u9753\u53f7\u5730\u5740\u751f\u6210\u5668\u3001USDT\u94b1\u5305\u9753\u53f7\u751f\u6210\u5668\u3001\u5229\u7528GPU\u8fdb\u884c\u52a0\u901f\u3002\ud83d\udd12TRX/USDT Wallet Vanity Address Generator, powered by GPU acceleration. Backdoors removed, safe and dependable.",
             "url": "https://github.com/Pandaoyoo/profanity-new-tron",
-            "stars": 50,
+            "stars": 51,
             "forks": 1,
             "score": 33
         },
@@ -681,5 +692,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/market/ethereum-above-2800-on-may-11"
         }
     ],
-    "timestamp": "2026-05-08 07:20"
+    "timestamp": "2026-05-08 09:10"
 };
