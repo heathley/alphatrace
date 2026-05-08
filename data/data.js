@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "willchen96/mike",
             "description": "OSS AI Legal Platform",
             "url": "https://github.com/willchen96/mike",
-            "stars": 2514,
-            "forks": 708,
+            "stars": 2522,
+            "forks": 709,
             "score": 99
         },
         {
@@ -18,8 +18,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "strukto-ai/mirage",
             "description": "A Unified Virtual Filesystem For AI Agents",
             "url": "https://github.com/strukto-ai/mirage",
-            "stars": 1400,
-            "forks": 84,
+            "stars": 1414,
+            "forks": 85,
             "score": 99
         },
         {
@@ -29,7 +29,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "yaojingang/yao-open-prompts",
             "description": "Yao Open Prompts\uff1a\u4e2d\u6587 AI \u63d0\u793a\u8bcd\u5e93\uff0c\u8986\u76d6\u5de5\u4f5c\u3001\u5b66\u4e60\u3001\u5185\u5bb9\u3001\u8425\u9500\u548c\u751f\u6d3b\u573a\u666f",
             "url": "https://github.com/yaojingang/yao-open-prompts",
-            "stars": 1364,
+            "stars": 1365,
             "forks": 208,
             "score": 99
         },
@@ -52,7 +52,7 @@ const ALPHA_DATA_V2 = {
             "description": "\ud83c\udf2e Traidng agent, AI-powered multi-agent stock research & trading strategy orchestration, trading agent - TypeScript, LangGraph, OpenAI-compatible APIs",
             "url": "https://github.com/TQ-trade-agent/tq-trading-agent",
             "stars": 289,
-            "forks": 376,
+            "forks": 386,
             "score": 99
         },
         {
@@ -62,9 +62,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "iam567/LifeManga",
             "description": "ios swift swiftui openai gpt-image manga ai-art",
             "url": "https://github.com/iam567/LifeManga",
-            "stars": 235,
-            "forks": 61,
-            "score": 89
+            "stars": 236,
+            "forks": 62,
+            "score": 90
         },
         {
             "main_cat": "AI",
@@ -84,7 +84,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "sandeco/reversa",
             "description": "Transform legacy systems into executable specifications for AI coding agents",
             "url": "https://github.com/sandeco/reversa",
-            "stars": 715,
+            "stars": 716,
             "forks": 255,
             "score": 87
         },
@@ -117,7 +117,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "appergb/openless",
             "description": "Hold a key, speak, release \u2014 AI-polished text appears at your cursor in any app. Open-source voice input for macOS & Windows. (\u6309\u4f4f\u5feb\u6377\u952e\u8bf4\u8bdd\uff0c\u677e\u5f00\u5373\u5f97\u6da6\u8272\u540e\u7684\u6587\u5b57)",
             "url": "https://github.com/appergb/openless",
-            "stars": 1091,
+            "stars": 1092,
             "forks": 90,
             "score": 81
         },
@@ -134,23 +134,12 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
-            "sub_cat": null,
-            "name": "awesome-agentic-ai-zh",
-            "full_name": "WenyuChiou/awesome-agentic-ai-zh",
-            "description": "AI Agent \u4e2d\u6587\u5b78\u7fd2\u5730\u5716 \u2014 \u5f9e\u96f6\u958b\u59cb\u7684\u7d50\u69cb\u5316\u5b78\u7fd2\u8def\u5f91\uff0c\u6bcf\u968e\u6bb5\u6709\u5fc5\u505a\u7df4\u7fd2\u8ddf\u5fc5\u4fee\u95b1\u8b80\u3002\u4e09\u8a9e\u5c0d\u7167\uff08\u7e41\u4e2d\uff0f\u7b80\u4e2d\uff0fEnglish\uff09\u3002\u6b61\u8fce\u793e\u7fa4\u4e00\u8d77\u8ca2\u737b\u3001\u512a\u5316\u5167\u5bb9\u3002",
-            "url": "https://github.com/WenyuChiou/awesome-agentic-ai-zh",
-            "stars": 383,
-            "forks": 33,
-            "score": 72
-        },
-        {
-            "main_cat": "AI",
             "sub_cat": "AI General",
             "name": "OpenMonoAgent.ai",
             "full_name": "StartupHakk/OpenMonoAgent.ai",
             "description": "(BETA) AI shouldn't have a meter. Unlimited tokens. Forever. Your machine. Your agent. Use it from anywhere. Terminal-native coding agent powered by local LLMs \u2014 100% open source, free forever, and installed with a single command. Proudly built on C#/.NET, because AI tooling should be infrastructure, not a subscription.",
             "url": "https://github.com/StartupHakk/OpenMonoAgent.ai",
-            "stars": 590,
+            "stars": 592,
             "forks": 63,
             "score": 68
         },
@@ -163,6 +152,17 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/JustLikeCheese/LGBT-Prompt",
             "stars": 433,
             "forks": 42,
+            "score": 67
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "awesome-agentic-ai-zh",
+            "full_name": "WenyuChiou/awesome-agentic-ai-zh",
+            "description": "AI Agent \u4e2d\u6587\u5b78\u7fd2\u5730\u5716 \u2014 \u5f9e\u96f6\u958b\u59cb\u7684\u7d50\u69cb\u5316\u5b78\u7fd2\u8def\u5f91\uff0c\u6bcf\u968e\u6bb5\u6709\u5fc5\u505a\u7df4\u7fd2\u8ddf\u5fc5\u4fee\u95b1\u8b80\u3002\u4e09\u8a9e\u5c0d\u7167\uff08\u7e41\u4e2d\uff0f\u7b80\u4e2d\uff0fEnglish\uff09\u3002\u6b61\u8fce\u793e\u7fa4\u4e00\u8d77\u8ca2\u737b\u3001\u512a\u5316\u5167\u5bb9\u3002",
+            "url": "https://github.com/WenyuChiou/awesome-agentic-ai-zh",
+            "stars": 390,
+            "forks": 34,
             "score": 67
         },
         {
@@ -216,9 +216,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "darkrishabh/agent-skills-eval",
             "description": "A test runner for agentskills.io-style AI agent skills",
             "url": "https://github.com/darkrishabh/agent-skills-eval",
-            "stars": 225,
+            "stars": 227,
             "forks": 6,
-            "score": 54
+            "score": 55
         },
         {
             "main_cat": "AI",
@@ -282,7 +282,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "ifixai-ai/iFixAi",
             "description": "The open-source diagnostic for AI misalignment. 32 tests across fabrication, manipulation, deception, unpredictability, and opacity. Provider-agnostic. Runs against OpenAI, Anthropic, Bedrock, Azure, Gemini, and more. Letter grade in under 5 minutes, content-addressed manifest for bit-identical replay. Built by iMe.",
             "url": "https://github.com/ifixai-ai/iFixAi",
-            "stars": 213,
+            "stars": 214,
             "forks": 30,
             "score": 41
         },
@@ -703,5 +703,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-05-08 21:54"
+    "timestamp": "2026-05-08 22:51"
 };
