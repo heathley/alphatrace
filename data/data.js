@@ -7,7 +7,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "willchen96/mike",
             "description": "OSS AI Legal Platform",
             "url": "https://github.com/willchen96/mike",
-            "stars": 2624,
+            "stars": 2626,
             "forks": 744,
             "score": 99
         },
@@ -18,7 +18,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "strukto-ai/mirage",
             "description": "A Unified Virtual Filesystem For AI Agents",
             "url": "https://github.com/strukto-ai/mirage",
-            "stars": 1622,
+            "stars": 1627,
             "forks": 95,
             "score": 99
         },
@@ -29,8 +29,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "yaojingang/yao-open-prompts",
             "description": "Yao Open Prompts\uff1a\u4e2d\u6587 AI \u63d0\u793a\u8bcd\u5e93\uff0c\u8986\u76d6\u5de5\u4f5c\u3001\u5b66\u4e60\u3001\u5185\u5bb9\u3001\u8425\u9500\u548c\u751f\u6d3b\u573a\u666f",
             "url": "https://github.com/yaojingang/yao-open-prompts",
-            "stars": 1481,
-            "forks": 233,
+            "stars": 1483,
+            "forks": 234,
             "score": 99
         },
         {
@@ -40,7 +40,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "mattpocock/dictionary-of-ai-coding",
             "description": "AI coding jargon, explained in plain English.",
             "url": "https://github.com/mattpocock/dictionary-of-ai-coding",
-            "stars": 1366,
+            "stars": 1368,
             "forks": 161,
             "score": 99
         },
@@ -52,7 +52,7 @@ const ALPHA_DATA_V2 = {
             "description": "\ud83c\udf2e Traidng agent, AI-powered multi-agent stock research & trading strategy orchestration, trading agent - TypeScript, LangGraph, OpenAI-compatible APIs",
             "url": "https://github.com/TQ-trade-agent/tq-trading-agent",
             "stars": 294,
-            "forks": 629,
+            "forks": 640,
             "score": 99
         },
         {
@@ -84,8 +84,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "warpdot-dev/craft-agents-oss",
             "description": "electron anthropic claude-agent-sdk mcp bun websocket thin-client multi-llm openapi skills automations oauth desktop-ai github-copilot google-ai chatgpt devtools apache-2 headless-server pi-sdk vscode-alternative linux macos windows",
             "url": "https://github.com/warpdot-dev/craft-agents-oss",
-            "stars": 217,
-            "forks": 241,
+            "stars": 218,
+            "forks": 242,
             "score": 83
         },
         {
@@ -117,7 +117,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "appergb/openless",
             "description": "Hold a key, speak, release \u2014 AI-polished text appears at your cursor in any app. Open-source voice input for macOS & Windows. (\u6309\u4f4f\u5feb\u6377\u952e\u8bf4\u8bdd\uff0c\u677e\u5f00\u5373\u5f97\u6da6\u8272\u540e\u7684\u6587\u5b57)",
             "url": "https://github.com/appergb/openless",
-            "stars": 1144,
+            "stars": 1145,
             "forks": 93,
             "score": 80
         },
@@ -128,9 +128,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "WenyuChiou/awesome-agentic-ai-zh",
             "description": "AI Agent \u4e2d\u6587\u5b78\u7fd2\u5730\u5716 \u2014 \u5f9e\u96f6\u958b\u59cb\u7684\u7d50\u69cb\u5316\u5b78\u7fd2\u8def\u5f91\uff0c\u6bcf\u968e\u6bb5\u6709\u5fc5\u505a\u7df4\u7fd2\u8ddf\u5fc5\u4fee\u95b1\u8b80\u3002\u4e09\u8a9e\u5c0d\u7167\uff08\u7e41\u4e2d\uff0f\u7b80\u4e2d\uff0fEnglish\uff09\u3002\u6b61\u8fce\u793e\u7fa4\u4e00\u8d77\u8ca2\u737b\u3001\u512a\u5316\u5167\u5bb9\u3002",
             "url": "https://github.com/WenyuChiou/awesome-agentic-ai-zh",
-            "stars": 525,
+            "stars": 530,
             "forks": 50,
             "score": 75
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "OpenMonoAgent.ai",
+            "full_name": "StartupHakk/OpenMonoAgent.ai",
+            "description": "(BETA) AI shouldn't have a meter. Unlimited tokens. Forever. Your machine. Your agent. Use it from anywhere. Terminal-native coding agent powered by local LLMs \u2014 100% open source, free forever, and installed with a single command. Proudly built on C#/.NET, because AI tooling should be infrastructure, not a subscription.",
+            "url": "https://github.com/StartupHakk/OpenMonoAgent.ai",
+            "stars": 674,
+            "forks": 71,
+            "score": 69
         },
         {
             "main_cat": "AI",
@@ -141,18 +152,7 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/Snaplii-Inc/agent-to-merchant-payments",
             "stars": 806,
             "forks": 90,
-            "score": 71
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "OpenMonoAgent.ai",
-            "full_name": "StartupHakk/OpenMonoAgent.ai",
-            "description": "(BETA) AI shouldn't have a meter. Unlimited tokens. Forever. Your machine. Your agent. Use it from anywhere. Terminal-native coding agent powered by local LLMs \u2014 100% open source, free forever, and installed with a single command. Proudly built on C#/.NET, because AI tooling should be infrastructure, not a subscription.",
-            "url": "https://github.com/StartupHakk/OpenMonoAgent.ai",
-            "stars": 670,
-            "forks": 71,
-            "score": 69
+            "score": 68
         },
         {
             "main_cat": "AI",
@@ -172,7 +172,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "nateherkai/AIS-OS",
             "description": "AI Operating System starter kit for Claude Code \u2014 three-skill kit (/onboard, /audit, /level-up) + 3Ms framework. Companion to the AIOS masterclass.",
             "url": "https://github.com/nateherkai/AIS-OS",
-            "stars": 300,
+            "stars": 302,
             "forks": 111,
             "score": 63
         },
@@ -183,7 +183,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "nduckmink/arkon",
             "description": "Arkon gives organizations centralized control over how employees use any Ai Client. Admins manage resources, access policies, and workspace contexts from a single portal. Employees connect once via the Model Context Protocol (MCP) and get the right context automatically.",
             "url": "https://github.com/nduckmink/arkon",
-            "stars": 412,
+            "stars": 416,
             "forks": 93,
             "score": 62
         },
@@ -227,7 +227,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "darkrishabh/agent-skills-eval",
             "description": "A test runner for agentskills.io-style AI agent skills",
             "url": "https://github.com/darkrishabh/agent-skills-eval",
-            "stars": 258,
+            "stars": 259,
             "forks": 7,
             "score": 53
         },
@@ -293,7 +293,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "regent-vcs/re_gent",
             "description": "Version-Control for AI coding agents.",
             "url": "https://github.com/regent-vcs/re_gent",
-            "stars": 266,
+            "stars": 269,
             "forks": 13,
             "score": 43
         },
@@ -348,7 +348,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Pandaoyoo/profanity-new-tron",
             "description": "-----\u274c\u6b64\u7248\u672c\u662f\u53bb\u540e\u95e8\u7248\u672c\u274c-----\ud83d\ude802026\u5e74GUI\u7248\u9753\u53f7\u751f\u6210\u5668\u3001\u2705\u6ce2\u573aTRX\u9753\u53f7\u5730\u5740\u751f\u6210\u5668\u3001USDT\u94b1\u5305\u9753\u53f7\u751f\u6210\u5668\u3001\u5229\u7528GPU\u8fdb\u884c\u52a0\u901f\u3002\ud83d\udd12TRX/USDT Wallet Vanity Address Generator, powered by GPU acceleration. Backdoors removed, safe and dependable.",
             "url": "https://github.com/Pandaoyoo/profanity-new-tron",
-            "stars": 62,
+            "stars": 63,
             "forks": 2,
             "score": 33
         },
@@ -359,7 +359,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "EnceladusLin/Global-Affairs-Simulation-Platform",
             "description": "An international relations intelligence and forecasting platform that integrates open-source data, event chains, actor modeling, knowledge graphs, and scenario simulation to support geopolitical risk analysis and structured strategic assessment.",
             "url": "https://github.com/EnceladusLin/Global-Affairs-Simulation-Platform",
-            "stars": 18,
+            "stars": 19,
             "forks": 0,
             "score": 31
         },
@@ -410,6 +410,17 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
+            "name": "orallexa-ai-trading-agent",
+            "full_name": "abazsadikovic225-boop/orallexa-ai-trading-agent",
+            "description": "Build a self-tuning multi-agent AI trading system that fuses 8 signals, adapts weights, and debates market bets with ML models and prediction markets",
+            "url": "https://github.com/abazsadikovic225-boop/orallexa-ai-trading-agent",
+            "stars": 1,
+            "forks": 0,
+            "score": 30
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
             "name": "football-edge-predictor",
             "full_name": "leonardoglez7/football-edge-predictor",
             "description": "Deep learning model that predicts Premier League home wins using LSTM networks  and detects value bets on prediction markets like Polymarket. Built with TensorFlow,  walk-forward validation, and backtesting against real Bet365 odds.",
@@ -436,17 +447,6 @@ const ALPHA_DATA_V2 = {
             "full_name": "Semenka/futarchy",
             "description": "Vote values, bet beliefs. AI-traded conditional prediction markets for DAO governance \u2014 Sepolia testnet hackathon MVP.",
             "url": "https://github.com/Semenka/futarchy",
-            "stars": 0,
-            "forks": 0,
-            "score": 30
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "orallexa-ai-trading-agent",
-            "full_name": "abazsadikovic225-boop/orallexa-ai-trading-agent",
-            "description": "Build a self-tuning multi-agent AI trading system that fuses 8 signals, adapts weights, and debates market bets with ML models and prediction markets",
-            "url": "https://github.com/abazsadikovic225-boop/orallexa-ai-trading-agent",
             "stars": 0,
             "forks": 0,
             "score": 30
@@ -721,12 +721,12 @@ const ALPHA_DATA_V2 = {
             "url": "http://arxiv.org/abs/2605.06596v1"
         },
         {
-            "title": "Will the price of Solana be between $80 and $90 on May 12? (Probability: 48%)",
+            "title": "Will the price of Solana be between $80 and $90 on May 12? (Probability: 30%)",
             "source": "Polymarket",
             "type": "Expectation",
             "color": "text-indigo-400",
             "url": "https://polymarket.com/market/will-the-price-of-solana-be-between-80-90-on-may-12"
         }
     ],
-    "timestamp": "2026-05-09 22:36"
+    "timestamp": "2026-05-09 23:40"
 };
