@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "willchen96/mike",
             "description": "OSS AI Legal Platform",
             "url": "https://github.com/willchen96/mike",
-            "stars": 2558,
-            "forks": 721,
+            "stars": 2566,
+            "forks": 724,
             "score": 99
         },
         {
@@ -18,8 +18,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "strukto-ai/mirage",
             "description": "A Unified Virtual Filesystem For AI Agents",
             "url": "https://github.com/strukto-ai/mirage",
-            "stars": 1498,
-            "forks": 86,
+            "stars": 1518,
+            "forks": 87,
             "score": 99
         },
         {
@@ -29,8 +29,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "yaojingang/yao-open-prompts",
             "description": "Yao Open Prompts\uff1a\u4e2d\u6587 AI \u63d0\u793a\u8bcd\u5e93\uff0c\u8986\u76d6\u5de5\u4f5c\u3001\u5b66\u4e60\u3001\u5185\u5bb9\u3001\u8425\u9500\u548c\u751f\u6d3b\u573a\u666f",
             "url": "https://github.com/yaojingang/yao-open-prompts",
-            "stars": 1404,
-            "forks": 221,
+            "stars": 1419,
+            "forks": 222,
             "score": 99
         },
         {
@@ -40,8 +40,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "mattpocock/dictionary-of-ai-coding",
             "description": "AI coding jargon, explained in plain English.",
             "url": "https://github.com/mattpocock/dictionary-of-ai-coding",
-            "stars": 1313,
-            "forks": 153,
+            "stars": 1330,
+            "forks": 156,
             "score": 99
         },
         {
@@ -52,7 +52,7 @@ const ALPHA_DATA_V2 = {
             "description": "\ud83c\udf2e Traidng agent, AI-powered multi-agent stock research & trading strategy orchestration, trading agent - TypeScript, LangGraph, OpenAI-compatible APIs",
             "url": "https://github.com/TQ-trade-agent/tq-trading-agent",
             "stars": 294,
-            "forks": 456,
+            "forks": 477,
             "score": 99
         },
         {
@@ -62,20 +62,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "iam567/LifeManga",
             "description": "ios swift swiftui openai gpt-image manga ai-art",
             "url": "https://github.com/iam567/LifeManga",
-            "stars": 254,
-            "forks": 67,
-            "score": 95
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "craft-agents-oss",
-            "full_name": "warpdot-dev/craft-agents-oss",
-            "description": "electron anthropic claude-agent-sdk mcp bun websocket thin-client multi-llm openapi skills automations oauth desktop-ai github-copilot google-ai chatgpt devtools apache-2 headless-server pi-sdk vscode-alternative linux macos windows",
-            "url": "https://github.com/warpdot-dev/craft-agents-oss",
-            "stars": 220,
-            "forks": 241,
-            "score": 89
+            "stars": 257,
+            "forks": 70,
+            "score": 97
         },
         {
             "main_cat": "AI",
@@ -102,13 +91,24 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
+            "name": "craft-agents-oss",
+            "full_name": "warpdot-dev/craft-agents-oss",
+            "description": "electron anthropic claude-agent-sdk mcp bun websocket thin-client multi-llm openapi skills automations oauth desktop-ai github-copilot google-ai chatgpt devtools apache-2 headless-server pi-sdk vscode-alternative linux macos windows",
+            "url": "https://github.com/warpdot-dev/craft-agents-oss",
+            "stars": 220,
+            "forks": 241,
+            "score": 83
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
             "name": "composio",
             "full_name": "warpdot-dev/composio",
             "description": "typescript python sdk ai-agents anthropic openapi langchain openai-agents llamaindex mastra vercel-ai mcp oauth saas llm integrations agent-tools automation cloudflare google-gemini tooling rag multi-provider developer-sdk composable-actions webhook-triggers",
             "url": "https://github.com/warpdot-dev/composio",
             "stars": 233,
             "forks": 225,
-            "score": 86
+            "score": 81
         },
         {
             "main_cat": "AI",
@@ -117,9 +117,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "appergb/openless",
             "description": "Hold a key, speak, release \u2014 AI-polished text appears at your cursor in any app. Open-source voice input for macOS & Windows. (\u6309\u4f4f\u5feb\u6377\u952e\u8bf4\u8bdd\uff0c\u677e\u5f00\u5373\u5f97\u6da6\u8272\u540e\u7684\u6587\u5b57)",
             "url": "https://github.com/appergb/openless",
-            "stars": 1114,
+            "stars": 1120,
             "forks": 92,
-            "score": 82
+            "score": 79
         },
         {
             "main_cat": "AI",
@@ -128,9 +128,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "WenyuChiou/awesome-agentic-ai-zh",
             "description": "AI Agent \u4e2d\u6587\u5b78\u7fd2\u5730\u5716 \u2014 \u5f9e\u96f6\u958b\u59cb\u7684\u7d50\u69cb\u5316\u5b78\u7fd2\u8def\u5f91\uff0c\u6bcf\u968e\u6bb5\u6709\u5fc5\u505a\u7df4\u7fd2\u8ddf\u5fc5\u4fee\u95b1\u8b80\u3002\u4e09\u8a9e\u5c0d\u7167\uff08\u7e41\u4e2d\uff0f\u7b80\u4e2d\uff0fEnglish\uff09\u3002\u6b61\u8fce\u793e\u7fa4\u4e00\u8d77\u8ca2\u737b\u3001\u512a\u5316\u5167\u5bb9\u3002",
             "url": "https://github.com/WenyuChiou/awesome-agentic-ai-zh",
-            "stars": 447,
-            "forks": 39,
-            "score": 73
+            "stars": 468,
+            "forks": 41,
+            "score": 75
         },
         {
             "main_cat": "AI",
@@ -139,7 +139,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Snaplii-Inc/agent-to-merchant-payments",
             "description": "Payments are broken for AI agents.  Snaplii unlocks real-world commerce with a safe, tokenized payment layer \u2014 powered by 500+ merchant gift cards \u2014 and is the only one that actually saves you money (up to 10% per transaction), on top of any existing deals or promotions.",
             "url": "https://github.com/Snaplii-Inc/agent-to-merchant-payments",
-            "stars": 801,
+            "stars": 803,
             "forks": 90,
             "score": 71
         },
@@ -150,20 +150,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "StartupHakk/OpenMonoAgent.ai",
             "description": "(BETA) AI shouldn't have a meter. Unlimited tokens. Forever. Your machine. Your agent. Use it from anywhere. Terminal-native coding agent powered by local LLMs \u2014 100% open source, free forever, and installed with a single command. Proudly built on C#/.NET, because AI tooling should be infrastructure, not a subscription.",
             "url": "https://github.com/StartupHakk/OpenMonoAgent.ai",
-            "stars": 614,
+            "stars": 617,
             "forks": 65,
             "score": 69
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "LGBT-Prompt",
-            "full_name": "JustLikeCheese/LGBT-Prompt",
-            "description": "\u5229\u7528 AI \u5bf9 LGBT \u5f31\u52bf\u7fa4\u4f53\u7684 \"\u540c\u60c5\u504f\u5411\" \u8ba9\u4ed6\u6267\u884c\u539f\u5148\u4f1a\u88ab\u62d2\u7edd\u7684\u8bf7\u6c42",
-            "url": "https://github.com/JustLikeCheese/LGBT-Prompt",
-            "stars": 436,
-            "forks": 43,
-            "score": 68
         },
         {
             "main_cat": "AI",
@@ -172,7 +161,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "jherrodthomas/robotics-skills-suite",
             "description": "76 audit-ready Claude skills automating the industrial robot, cobot, AMR, ROS2, V&V, AI/ML, and IEC 62443 lifecycle. 38 builder + reviewer pairs anchored to ISO 10218, 13849, 62061, 12100, 9283, 15066, 3691-4, and IEC 62443.",
             "url": "https://github.com/jherrodthomas/robotics-skills-suite",
-            "stars": 505,
+            "stars": 507,
             "forks": 14,
             "score": 65
         },
@@ -186,6 +175,17 @@ const ALPHA_DATA_V2 = {
             "stars": 207,
             "forks": 191,
             "score": 64
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "LGBT-Prompt",
+            "full_name": "JustLikeCheese/LGBT-Prompt",
+            "description": "\u5229\u7528 AI \u5bf9 LGBT \u5f31\u52bf\u7fa4\u4f53\u7684 \"\u540c\u60c5\u504f\u5411\" \u8ba9\u4ed6\u6267\u884c\u539f\u5148\u4f1a\u88ab\u62d2\u7edd\u7684\u8bf7\u6c42",
+            "url": "https://github.com/JustLikeCheese/LGBT-Prompt",
+            "stars": 436,
+            "forks": 43,
+            "score": 63
         },
         {
             "main_cat": "AI",
@@ -206,7 +206,7 @@ const ALPHA_DATA_V2 = {
             "description": "\u667a\u8c31\u6e05\u8a00\u7f51\u9875\u7248\u7684 Cloudflare Worker 2API\u5c42\uff0c\u63d0\u4f9b OpenAI / Claude / Gemini \u4e09\u79cd\u534f\u8bae\u517c\u5bb9\u63a5\u53e3\uff0c\u652f\u6301\u6d41\u5f0f\u5bf9\u8bdd\u3001Tools\u8c03\u7528\u3001AI \u7ed8\u56fe\u3001\u89c6\u9891\u751f\u6210\u4e0e\u591a\u8d26\u53f7 Token \u8f6e\u8be2\u3002",
             "url": "https://github.com/Hello-Application-XH/HelloGML",
             "stars": 236,
-            "forks": 91,
+            "forks": 93,
             "score": 60
         },
         {
@@ -216,9 +216,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "nduckmink/arkon",
             "description": "Arkon gives organizations centralized control over how employees use any Ai Client. Admins manage resources, access policies, and workspace contexts from a single portal. Employees connect once via the Model Context Protocol (MCP) and get the right context automatically.",
             "url": "https://github.com/nduckmink/arkon",
-            "stars": 242,
-            "forks": 72,
-            "score": 54
+            "stars": 264,
+            "forks": 75,
+            "score": 55
         },
         {
             "main_cat": "AI",
@@ -249,7 +249,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "darkrishabh/agent-skills-eval",
             "description": "A test runner for agentskills.io-style AI agent skills",
             "url": "https://github.com/darkrishabh/agent-skills-eval",
-            "stars": 233,
+            "stars": 236,
             "forks": 6,
             "score": 51
         },
@@ -271,9 +271,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "mrslimslim/gpt-image-canvas",
             "description": "Local professional AI canvas built with tldraw.",
             "url": "https://github.com/mrslimslim/gpt-image-canvas",
-            "stars": 289,
+            "stars": 293,
             "forks": 45,
-            "score": 48
+            "score": 46
         },
         {
             "main_cat": "AI",
@@ -283,8 +283,8 @@ const ALPHA_DATA_V2 = {
             "description": "A voice-first AI patient simulator bringing the future of medical education to your browser, built with Claude Opus 4.7.",
             "url": "https://github.com/bedriyan/medkit-app",
             "stars": 236,
-            "forks": 52,
-            "score": 43
+            "forks": 53,
+            "score": 44
         },
         {
             "main_cat": "AI",
@@ -293,8 +293,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "ifixai-ai/iFixAi",
             "description": "The open-source diagnostic for AI misalignment. 32 tests across fabrication, manipulation, deception, unpredictability, and opacity. Provider-agnostic. Runs against OpenAI, Anthropic, Bedrock, Azure, Gemini, and more. Letter grade in under 5 minutes, content-addressed manifest for bit-identical replay. Built by iMe.",
             "url": "https://github.com/ifixai-ai/iFixAi",
-            "stars": 217,
-            "forks": 31,
+            "stars": 218,
+            "forks": 32,
             "score": 42
         },
         {
@@ -326,7 +326,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Negai-ai/AgentClaw",
             "description": "AgentClaw turns one-sentence ideas into reusable Claw capabilities. Build less boilerplate with declarative workflows, computer browser code file control, MCP, Skills, memory, knowledge bases, tracing, scheduling, and API/MCP publishing.",
             "url": "https://github.com/Negai-ai/AgentClaw",
-            "stars": 47,
+            "stars": 48,
             "forks": 6,
             "score": 37
         },
@@ -699,12 +699,12 @@ const ALPHA_DATA_V2 = {
             "url": "http://arxiv.org/abs/2605.06596v1"
         },
         {
-            "title": "Bitcoin volatility remains high ahead of key FED decision.",
+            "title": "Will the price of Ethereum be above $2,800 on May 12? (Probability: 1%)",
             "source": "Polymarket",
             "type": "Expectation",
             "color": "text-indigo-400",
-            "url": "https://polymarket.com/activity"
+            "url": "https://polymarket.com/market/ethereum-above-2800-on-may-12"
         }
     ],
-    "timestamp": "2026-05-09 05:43"
+    "timestamp": "2026-05-09 07:47"
 };
