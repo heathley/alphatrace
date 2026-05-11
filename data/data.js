@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "willchen96/mike",
             "description": "OSS AI Legal Platform",
             "url": "https://github.com/willchen96/mike",
-            "stars": 2740,
-            "forks": 789,
+            "stars": 2747,
+            "forks": 790,
             "score": 99
         },
         {
@@ -18,8 +18,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "strukto-ai/mirage",
             "description": "A Unified Virtual Filesystem For AI Agents",
             "url": "https://github.com/strukto-ai/mirage",
-            "stars": 1902,
-            "forks": 117,
+            "stars": 1915,
+            "forks": 118,
             "score": 99
         },
         {
@@ -29,7 +29,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "yaojingang/yao-open-prompts",
             "description": "Yao Open Prompts\uff1a\u4e2d\u6587 AI \u63d0\u793a\u8bcd\u5e93\uff0c\u8986\u76d6\u5de5\u4f5c\u3001\u5b66\u4e60\u3001\u5185\u5bb9\u3001\u8425\u9500\u548c\u751f\u6d3b\u573a\u666f",
             "url": "https://github.com/yaojingang/yao-open-prompts",
-            "stars": 1623,
+            "stars": 1624,
             "forks": 252,
             "score": 99
         },
@@ -40,7 +40,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "mattpocock/dictionary-of-ai-coding",
             "description": "AI coding jargon, explained in plain English.",
             "url": "https://github.com/mattpocock/dictionary-of-ai-coding",
-            "stars": 1490,
+            "stars": 1491,
             "forks": 170,
             "score": 99
         },
@@ -51,8 +51,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "huangserva/3DCellForge",
             "description": "AI-powered interactive 3D cell generation and exploration studio.",
             "url": "https://github.com/huangserva/3DCellForge",
-            "stars": 1325,
-            "forks": 228,
+            "stars": 1335,
+            "forks": 229,
             "score": 99
         },
         {
@@ -106,7 +106,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "iam567/LifeManga",
             "description": "ios swift swiftui openai gpt-image manga ai-art",
             "url": "https://github.com/iam567/LifeManga",
-            "stars": 304,
+            "stars": 305,
             "forks": 78,
             "score": 74
         },
@@ -117,7 +117,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "lukiIabs/skills",
             "description": "Cursor Claude MCP SKILL.md TypeScript Node.js AI agent prompts automation developer tooling IDE productivity skills repository open source",
             "url": "https://github.com/lukiIabs/skills",
-            "stars": 233,
+            "stars": 234,
             "forks": 224,
             "score": 73
         },
@@ -139,8 +139,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "StartupHakk/OpenMonoAgent.ai",
             "description": "(BETA) AI shouldn't have a meter. Unlimited tokens. Forever. Your machine. Your agent. Use it from anywhere. Terminal-native coding agent powered by local LLMs \u2014 100% open source, free forever, and installed with a single command. Proudly built on C#/.NET, because AI tooling should be infrastructure, not a subscription.",
             "url": "https://github.com/StartupHakk/OpenMonoAgent.ai",
-            "stars": 833,
-            "forks": 87,
+            "stars": 840,
+            "forks": 89,
             "score": 72
         },
         {
@@ -150,7 +150,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "nduckmink/arkon",
             "description": "Arkon gives organizations centralized control over how employees use any Ai Client. Admins manage resources, access policies, and workspace contexts from a single portal. Employees connect once via the Model Context Protocol (MCP) and get the right context automatically.",
             "url": "https://github.com/nduckmink/arkon",
-            "stars": 620,
+            "stars": 621,
             "forks": 117,
             "score": 68
         },
@@ -172,7 +172,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "darkrishabh/agent-skills-eval",
             "description": "A test runner for agentskills.io-style AI agent skills",
             "url": "https://github.com/darkrishabh/agent-skills-eval",
-            "stars": 402,
+            "stars": 408,
             "forks": 16,
             "score": 59
         },
@@ -183,7 +183,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "nateherkai/AIS-OS",
             "description": "AI Operating System starter kit for Claude Code \u2014 three-skill kit (/onboard, /audit, /level-up) + 3Ms framework. Companion to the AIOS masterclass.",
             "url": "https://github.com/nateherkai/AIS-OS",
-            "stars": 316,
+            "stars": 317,
             "forks": 114,
             "score": 59
         },
@@ -194,7 +194,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "beenuar/AiSOC",
             "description": "Open-source AI-powered Security Operations Center \u2014 alert fusion, purple-team drills, agent-assisted triage, MITRE ATT&CK investigation. MIT-licensed, self-hostable.",
             "url": "https://github.com/beenuar/AiSOC",
-            "stars": 466,
+            "stars": 467,
             "forks": 53,
             "score": 58
         },
@@ -217,7 +217,7 @@ const ALPHA_DATA_V2 = {
             "description": "\u667a\u8c31\u6e05\u8a00\u7f51\u9875\u7248\u7684 Cloudflare Worker 2API\u5c42\uff0c\u63d0\u4f9b OpenAI / Claude / Gemini \u4e09\u79cd\u534f\u8bae\u517c\u5bb9\u63a5\u53e3\uff0c\u652f\u6301\u6d41\u5f0f\u5bf9\u8bdd\u3001Tools\u8c03\u7528\u3001AI \u7ed8\u56fe\u3001\u89c6\u9891\u751f\u6210\u4e0e\u591a\u8d26\u53f7 Token \u8f6e\u8be2\u3002",
             "url": "https://github.com/Hello-Application-XH/HelloGML",
             "stars": 258,
-            "forks": 94,
+            "forks": 95,
             "score": 54
         },
         {
@@ -238,7 +238,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "regent-vcs/re_gent",
             "description": "Version-Control for AI coding agents.",
             "url": "https://github.com/regent-vcs/re_gent",
-            "stars": 401,
+            "stars": 403,
             "forks": 26,
             "score": 48
         },
@@ -249,7 +249,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "TheSashaDev/girl-agent",
             "description": "\u0418\u0418-\u0434\u0435\u0432\u0443\u0448\u043a\u0430 \u0441 \u0447\u0435\u043b\u043e\u0432\u0435\u0447\u0435\u0441\u043a\u0438\u043c \u043f\u043e\u0432\u0435\u0434\u0435\u043d\u0438\u0435\u043c: \u0441\u043e\u043d, \u043d\u0430\u0441\u0442\u0440\u043e\u0435\u043d\u0438\u0435, \u0440\u0430\u0441\u043f\u0438\u0441\u0430\u043d\u0438\u0435, \u043f\u0430\u043c\u044f\u0442\u044c, \u0441\u0442\u0430\u0434\u0438\u0438 \u043e\u0442\u043d\u043e\u0448\u0435\u043d\u0438\u0439 \u0438 \u043a\u043e\u043d\u0444\u043b\u0438\u043a\u0442\u044b. Userbot mode \u0447\u0435\u0440\u0435\u0437 MTProto \u2014 \u0440\u0435\u0430\u0433\u0438\u0440\u0443\u0435\u0442, \u043f\u0435\u0447\u0430\u0442\u0430\u0435\u0442, \u0441\u0442\u0430\u0432\u0438\u0442 \u0440\u0435\u0430\u043a\u0446\u0438\u0438. Anti-AI \u043f\u0440\u043e\u043c\u043f\u0442 \u0443\u0431\u0438\u0440\u0430\u0435\u0442 ChatGPT-\u043f\u043e\u0432\u0430\u0434\u043a\u0438. \u041d\u0435 \u0447\u0430\u0442-\u0431\u043e\u0442 \u2014 \u043f\u0435\u0440\u0441\u043e\u043d\u0430\u0436 \u0441 \u0441\u043e\u0441\u0442\u043e\u044f\u043d\u0438\u0435\u043c.",
             "url": "https://github.com/TheSashaDev/girl-agent",
-            "stars": 243,
+            "stars": 244,
             "forks": 32,
             "score": 48
         },
@@ -260,7 +260,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "opensquilla/opensquilla",
             "description": "OpenSquilla \u2014 Token-Efficient AI Agent with same budget, higher intelligence density",
             "url": "https://github.com/opensquilla/opensquilla",
-            "stars": 214,
+            "stars": 215,
             "forks": 16,
             "score": 47
         },
@@ -274,17 +274,6 @@ const ALPHA_DATA_V2 = {
             "stars": 322,
             "forks": 49,
             "score": 46
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "openpets",
-            "full_name": "alvinunreal/openpets",
-            "description": "Desktop pets for AI coding agents. Install pets, connect Claude Code via MCP, and see live coding status on your desktop.",
-            "url": "https://github.com/alvinunreal/openpets",
-            "stars": 217,
-            "forks": 10,
-            "score": 44
         },
         {
             "main_cat": "AI",
@@ -311,6 +300,17 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
+            "name": "openpets",
+            "full_name": "alvinunreal/openpets",
+            "description": "Desktop pets for AI coding agents. Install pets, connect Claude Code via MCP, and see live coding status on your desktop.",
+            "url": "https://github.com/alvinunreal/openpets",
+            "stars": 232,
+            "forks": 10,
+            "score": 43
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
             "name": "claude-design-agents-toolkit",
             "full_name": "Alfredo7777777/claude-design-agents-toolkit",
             "description": "\ud83c\udfa8 Claude Code AI Design Suite 2026 \ud83d\ude80 Best Free AI Design Plugins & Hooks for Coders",
@@ -326,7 +326,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "FrankHui/paragents",
             "description": "Parallel ai-agent sessions in one panel, with permission-aware tools, preflight conflict checks.",
             "url": "https://github.com/FrankHui/paragents",
-            "stars": 202,
+            "stars": 203,
             "forks": 0,
             "score": 36
         },
@@ -359,7 +359,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "EnceladusLin/Global-Affairs-Simulation-Platform",
             "description": "An international relations intelligence and forecasting platform that integrates open-source data, event chains, actor modeling, knowledge graphs, and scenario simulation to support geopolitical risk analysis and structured strategic assessment.",
             "url": "https://github.com/EnceladusLin/Global-Affairs-Simulation-Platform",
-            "stars": 29,
+            "stars": 30,
             "forks": 0,
             "score": 32
         },
@@ -750,5 +750,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/market/will-the-price-of-bitcoin-be-between-86000-88000-on-may-13"
         }
     ],
-    "timestamp": "2026-05-11 18:53"
+    "timestamp": "2026-05-11 20:29"
 };
