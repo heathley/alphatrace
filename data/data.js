@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "willchen96/mike",
             "description": "OSS AI Legal Platform",
             "url": "https://github.com/willchen96/mike",
-            "stars": 2727,
-            "forks": 782,
+            "stars": 2740,
+            "forks": 789,
             "score": 99
         },
         {
@@ -18,8 +18,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "strukto-ai/mirage",
             "description": "A Unified Virtual Filesystem For AI Agents",
             "url": "https://github.com/strukto-ai/mirage",
-            "stars": 1884,
-            "forks": 113,
+            "stars": 1902,
+            "forks": 117,
             "score": 99
         },
         {
@@ -40,7 +40,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "mattpocock/dictionary-of-ai-coding",
             "description": "AI coding jargon, explained in plain English.",
             "url": "https://github.com/mattpocock/dictionary-of-ai-coding",
-            "stars": 1488,
+            "stars": 1490,
             "forks": 170,
             "score": 99
         },
@@ -51,8 +51,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "huangserva/3DCellForge",
             "description": "AI-powered interactive 3D cell generation and exploration studio.",
             "url": "https://github.com/huangserva/3DCellForge",
-            "stars": 1278,
-            "forks": 218,
+            "stars": 1325,
+            "forks": 228,
             "score": 99
         },
         {
@@ -73,8 +73,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "WenyuChiou/awesome-agentic-ai-zh",
             "description": "AI Agent \u4e2d\u6587\u5b78\u7fd2\u5730\u5716 \u2014 \u5f9e\u96f6\u958b\u59cb\u7684\u7d50\u69cb\u5316\u5b78\u7fd2\u8def\u5f91\uff0c\u6bcf\u968e\u6bb5\u6709\u5fc5\u505a\u7df4\u7fd2\u8ddf\u5fc5\u4fee\u95b1\u8b80\u3002\u4e09\u8a9e\u5c0d\u7167\uff08\u7e41\u4e2d\uff0f\u7b80\u4e2d\uff0fEnglish\uff09\u3002\u6b61\u8fce\u793e\u7fa4\u4e00\u8d77\u8ca2\u737b\u3001\u512a\u5316\u5167\u5bb9\u3002",
             "url": "https://github.com/WenyuChiou/awesome-agentic-ai-zh",
-            "stars": 844,
-            "forks": 84,
+            "stars": 847,
+            "forks": 85,
             "score": 95
         },
         {
@@ -84,20 +84,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "alchaincyf/huashu-md-html",
             "description": "md/html \u53cc\u5411\u6d41\u6c34\u7ebf \u00b7 \u4e09\u4e2a\u80fd\u529b\u4e00\u7ad9\u5f0f\uff1a\u4e07\u7269\u2192md / md\u2192\u7cbe\u7f8ehtml / html\u2192md\u3002\u5c01\u88c5 markitdown + Pandoc + html-to-markdown + trafilatura\u30024 \u5957\u53cd AI slop \u4e3b\u9898\u3002Claude Code skill.",
             "url": "https://github.com/alchaincyf/huashu-md-html",
-            "stars": 429,
+            "stars": 430,
             "forks": 45,
-            "score": 90
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "OpenMonoAgent.ai",
-            "full_name": "StartupHakk/OpenMonoAgent.ai",
-            "description": "(BETA) AI shouldn't have a meter. Unlimited tokens. Forever. Your machine. Your agent. Use it from anywhere. Terminal-native coding agent powered by local LLMs \u2014 100% open source, free forever, and installed with a single command. Proudly built on C#/.NET, because AI tooling should be infrastructure, not a subscription.",
-            "url": "https://github.com/StartupHakk/OpenMonoAgent.ai",
-            "stars": 827,
-            "forks": 87,
-            "score": 75
+            "score": 91
         },
         {
             "main_cat": "AI",
@@ -117,9 +106,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "iam567/LifeManga",
             "description": "ios swift swiftui openai gpt-image manga ai-art",
             "url": "https://github.com/iam567/LifeManga",
-            "stars": 299,
+            "stars": 304,
             "forks": 78,
-            "score": 73
+            "score": 74
         },
         {
             "main_cat": "AI",
@@ -146,11 +135,22 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
+            "name": "OpenMonoAgent.ai",
+            "full_name": "StartupHakk/OpenMonoAgent.ai",
+            "description": "(BETA) AI shouldn't have a meter. Unlimited tokens. Forever. Your machine. Your agent. Use it from anywhere. Terminal-native coding agent powered by local LLMs \u2014 100% open source, free forever, and installed with a single command. Proudly built on C#/.NET, because AI tooling should be infrastructure, not a subscription.",
+            "url": "https://github.com/StartupHakk/OpenMonoAgent.ai",
+            "stars": 833,
+            "forks": 87,
+            "score": 72
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
             "name": "arkon",
             "full_name": "nduckmink/arkon",
             "description": "Arkon gives organizations centralized control over how employees use any Ai Client. Admins manage resources, access policies, and workspace contexts from a single portal. Employees connect once via the Model Context Protocol (MCP) and get the right context automatically.",
             "url": "https://github.com/nduckmink/arkon",
-            "stars": 614,
+            "stars": 620,
             "forks": 117,
             "score": 68
         },
@@ -161,8 +161,19 @@ const ALPHA_DATA_V2 = {
             "full_name": "JustLikeCheese/LGBT-Prompt",
             "description": "\u5229\u7528 AI \u5bf9 LGBT \u5f31\u52bf\u7fa4\u4f53\u7684 \"\u540c\u60c5\u504f\u5411\" \u8ba9\u4ed6\u6267\u884c\u539f\u5148\u4f1a\u88ab\u62d2\u7edd\u7684\u8bf7\u6c42",
             "url": "https://github.com/JustLikeCheese/LGBT-Prompt",
-            "stars": 467,
+            "stars": 468,
             "forks": 48,
+            "score": 60
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "agent-skills-eval",
+            "full_name": "darkrishabh/agent-skills-eval",
+            "description": "A test runner for agentskills.io-style AI agent skills",
+            "url": "https://github.com/darkrishabh/agent-skills-eval",
+            "stars": 402,
+            "forks": 16,
             "score": 59
         },
         {
@@ -172,20 +183,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "nateherkai/AIS-OS",
             "description": "AI Operating System starter kit for Claude Code \u2014 three-skill kit (/onboard, /audit, /level-up) + 3Ms framework. Companion to the AIOS masterclass.",
             "url": "https://github.com/nateherkai/AIS-OS",
-            "stars": 315,
+            "stars": 316,
             "forks": 114,
             "score": 59
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "agent-skills-eval",
-            "full_name": "darkrishabh/agent-skills-eval",
-            "description": "A test runner for agentskills.io-style AI agent skills",
-            "url": "https://github.com/darkrishabh/agent-skills-eval",
-            "stars": 395,
-            "forks": 16,
-            "score": 58
         },
         {
             "main_cat": "AI",
@@ -194,9 +194,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "beenuar/AiSOC",
             "description": "Open-source AI-powered Security Operations Center \u2014 alert fusion, purple-team drills, agent-assisted triage, MITRE ATT&CK investigation. MIT-licensed, self-hostable.",
             "url": "https://github.com/beenuar/AiSOC",
-            "stars": 458,
+            "stars": 466,
             "forks": 53,
-            "score": 57
+            "score": 58
         },
         {
             "main_cat": "AI",
@@ -218,18 +218,7 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/Hello-Application-XH/HelloGML",
             "stars": 258,
             "forks": 94,
-            "score": 56
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "girl-agent",
-            "full_name": "TheSashaDev/girl-agent",
-            "description": "\u0418\u0418-\u0434\u0435\u0432\u0443\u0448\u043a\u0430 \u0441 \u0447\u0435\u043b\u043e\u0432\u0435\u0447\u0435\u0441\u043a\u0438\u043c \u043f\u043e\u0432\u0435\u0434\u0435\u043d\u0438\u0435\u043c: \u0441\u043e\u043d, \u043d\u0430\u0441\u0442\u0440\u043e\u0435\u043d\u0438\u0435, \u0440\u0430\u0441\u043f\u0438\u0441\u0430\u043d\u0438\u0435, \u043f\u0430\u043c\u044f\u0442\u044c, \u0441\u0442\u0430\u0434\u0438\u0438 \u043e\u0442\u043d\u043e\u0448\u0435\u043d\u0438\u0439 \u0438 \u043a\u043e\u043d\u0444\u043b\u0438\u043a\u0442\u044b. Userbot mode \u0447\u0435\u0440\u0435\u0437 MTProto \u2014 \u0440\u0435\u0430\u0433\u0438\u0440\u0443\u0435\u0442, \u043f\u0435\u0447\u0430\u0442\u0430\u0435\u0442, \u0441\u0442\u0430\u0432\u0438\u0442 \u0440\u0435\u0430\u043a\u0446\u0438\u0438. Anti-AI \u043f\u0440\u043e\u043c\u043f\u0442 \u0443\u0431\u0438\u0440\u0430\u0435\u0442 ChatGPT-\u043f\u043e\u0432\u0430\u0434\u043a\u0438. \u041d\u0435 \u0447\u0430\u0442-\u0431\u043e\u0442 \u2014 \u043f\u0435\u0440\u0441\u043e\u043d\u0430\u0436 \u0441 \u0441\u043e\u0441\u0442\u043e\u044f\u043d\u0438\u0435\u043c.",
-            "url": "https://github.com/TheSashaDev/girl-agent",
-            "stars": 240,
-            "forks": 33,
-            "score": 50
+            "score": 54
         },
         {
             "main_cat": "AI",
@@ -244,24 +233,35 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "opensquilla",
-            "full_name": "opensquilla/opensquilla",
-            "description": "OpenSquilla \u2014 Token-Efficient AI Agent with same budget, higher intelligence density",
-            "url": "https://github.com/opensquilla/opensquilla",
-            "stars": 211,
-            "forks": 16,
-            "score": 49
-        },
-        {
-            "main_cat": "AI",
             "sub_cat": null,
             "name": "re_gent",
             "full_name": "regent-vcs/re_gent",
             "description": "Version-Control for AI coding agents.",
             "url": "https://github.com/regent-vcs/re_gent",
-            "stars": 397,
+            "stars": 401,
             "forks": 26,
+            "score": 48
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "girl-agent",
+            "full_name": "TheSashaDev/girl-agent",
+            "description": "\u0418\u0418-\u0434\u0435\u0432\u0443\u0448\u043a\u0430 \u0441 \u0447\u0435\u043b\u043e\u0432\u0435\u0447\u0435\u0441\u043a\u0438\u043c \u043f\u043e\u0432\u0435\u0434\u0435\u043d\u0438\u0435\u043c: \u0441\u043e\u043d, \u043d\u0430\u0441\u0442\u0440\u043e\u0435\u043d\u0438\u0435, \u0440\u0430\u0441\u043f\u0438\u0441\u0430\u043d\u0438\u0435, \u043f\u0430\u043c\u044f\u0442\u044c, \u0441\u0442\u0430\u0434\u0438\u0438 \u043e\u0442\u043d\u043e\u0448\u0435\u043d\u0438\u0439 \u0438 \u043a\u043e\u043d\u0444\u043b\u0438\u043a\u0442\u044b. Userbot mode \u0447\u0435\u0440\u0435\u0437 MTProto \u2014 \u0440\u0435\u0430\u0433\u0438\u0440\u0443\u0435\u0442, \u043f\u0435\u0447\u0430\u0442\u0430\u0435\u0442, \u0441\u0442\u0430\u0432\u0438\u0442 \u0440\u0435\u0430\u043a\u0446\u0438\u0438. Anti-AI \u043f\u0440\u043e\u043c\u043f\u0442 \u0443\u0431\u0438\u0440\u0430\u0435\u0442 ChatGPT-\u043f\u043e\u0432\u0430\u0434\u043a\u0438. \u041d\u0435 \u0447\u0430\u0442-\u0431\u043e\u0442 \u2014 \u043f\u0435\u0440\u0441\u043e\u043d\u0430\u0436 \u0441 \u0441\u043e\u0441\u0442\u043e\u044f\u043d\u0438\u0435\u043c.",
+            "url": "https://github.com/TheSashaDev/girl-agent",
+            "stars": 243,
+            "forks": 32,
+            "score": 48
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "opensquilla",
+            "full_name": "opensquilla/opensquilla",
+            "description": "OpenSquilla \u2014 Token-Efficient AI Agent with same budget, higher intelligence density",
+            "url": "https://github.com/opensquilla/opensquilla",
+            "stars": 214,
+            "forks": 16,
             "score": 47
         },
         {
@@ -271,20 +271,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "mrslimslim/gpt-image-canvas",
             "description": "Local professional AI canvas built with tldraw.",
             "url": "https://github.com/mrslimslim/gpt-image-canvas",
-            "stars": 321,
+            "stars": 322,
             "forks": 49,
             "score": 46
         },
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "power-design",
-            "full_name": "ItsssssJack/power-design",
-            "description": "A Claude skill for slides that don't look like AI made them. Brand DNA \u00d7 20 codified design principles.",
-            "url": "https://github.com/ItsssssJack/power-design",
-            "stars": 205,
-            "forks": 28,
-            "score": 45
+            "name": "openpets",
+            "full_name": "alvinunreal/openpets",
+            "description": "Desktop pets for AI coding agents. Install pets, connect Claude Code via MCP, and see live coding status on your desktop.",
+            "url": "https://github.com/alvinunreal/openpets",
+            "stars": 217,
+            "forks": 10,
+            "score": 44
         },
         {
             "main_cat": "AI",
@@ -300,13 +300,13 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "openpets",
-            "full_name": "alvinunreal/openpets",
-            "description": "Desktop pets for AI coding agents. Install pets, connect Claude Code via MCP, and see live coding status on your desktop.",
-            "url": "https://github.com/alvinunreal/openpets",
-            "stars": 213,
-            "forks": 9,
-            "score": 43
+            "name": "power-design",
+            "full_name": "ItsssssJack/power-design",
+            "description": "A Claude skill for slides that don't look like AI made them. Brand DNA \u00d7 20 codified design principles.",
+            "url": "https://github.com/ItsssssJack/power-design",
+            "stars": 207,
+            "forks": 28,
+            "score": 44
         },
         {
             "main_cat": "AI",
@@ -328,7 +328,7 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/FrankHui/paragents",
             "stars": 202,
             "forks": 0,
-            "score": 37
+            "score": 36
         },
         {
             "main_cat": "AI",
@@ -359,9 +359,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "EnceladusLin/Global-Affairs-Simulation-Platform",
             "description": "An international relations intelligence and forecasting platform that integrates open-source data, event chains, actor modeling, knowledge graphs, and scenario simulation to support geopolitical risk analysis and structured strategic assessment.",
             "url": "https://github.com/EnceladusLin/Global-Affairs-Simulation-Platform",
-            "stars": 26,
+            "stars": 29,
             "forks": 0,
-            "score": 31
+            "score": 32
         },
         {
             "main_cat": "AI",
@@ -729,12 +729,26 @@ const ALPHA_DATA_V2 = {
     ],
     "news": [
         {
-            "title": "Will the price of Bitcoin be between $86,000 and $88,000 on May 13? (Probability: 1%)",
+            "title": "GLiGuard: Schema-Conditioned Classification for LLM Safeguard",
+            "source": "ArXiv",
+            "type": "Research Alpha",
+            "color": "text-indigo-600",
+            "url": "http://arxiv.org/abs/2605.07982v1"
+        },
+        {
+            "title": "Graph Representation Learning Augmented Model Manipulation on Federated Fine-Tuning of LLMs",
+            "source": "ArXiv",
+            "type": "Research Alpha",
+            "color": "text-indigo-600",
+            "url": "http://arxiv.org/abs/2605.07961v1"
+        },
+        {
+            "title": "Will the price of Bitcoin be between $86,000 and $88,000 on May 13? (Probability: 2%)",
             "source": "Polymarket",
             "type": "Expectation",
             "color": "text-indigo-400",
             "url": "https://polymarket.com/market/will-the-price-of-bitcoin-be-between-86000-88000-on-may-13"
         }
     ],
-    "timestamp": "2026-05-11 16:27"
+    "timestamp": "2026-05-11 18:53"
 };
