@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "willchen96/mike",
             "description": "OSS AI Legal Platform",
             "url": "https://github.com/willchen96/mike",
-            "stars": 2747,
-            "forks": 790,
+            "stars": 2755,
+            "forks": 793,
             "score": 99
         },
         {
@@ -18,8 +18,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "strukto-ai/mirage",
             "description": "A Unified Virtual Filesystem For AI Agents",
             "url": "https://github.com/strukto-ai/mirage",
-            "stars": 1915,
-            "forks": 118,
+            "stars": 1922,
+            "forks": 119,
             "score": 99
         },
         {
@@ -40,7 +40,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "mattpocock/dictionary-of-ai-coding",
             "description": "AI coding jargon, explained in plain English.",
             "url": "https://github.com/mattpocock/dictionary-of-ai-coding",
-            "stars": 1491,
+            "stars": 1492,
             "forks": 170,
             "score": 99
         },
@@ -51,8 +51,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "huangserva/3DCellForge",
             "description": "AI-powered interactive 3D cell generation and exploration studio.",
             "url": "https://github.com/huangserva/3DCellForge",
-            "stars": 1335,
-            "forks": 229,
+            "stars": 1345,
+            "forks": 231,
             "score": 99
         },
         {
@@ -112,6 +112,17 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "OpenMonoAgent.ai",
+            "full_name": "StartupHakk/OpenMonoAgent.ai",
+            "description": "(BETA) AI shouldn't have a meter. Unlimited tokens. Forever. Your machine. Your agent. Use it from anywhere. Terminal-native coding agent powered by local LLMs \u2014 100% open source, free forever, and installed with a single command. Proudly built on C#/.NET, because AI tooling should be infrastructure, not a subscription.",
+            "url": "https://github.com/StartupHakk/OpenMonoAgent.ai",
+            "stars": 846,
+            "forks": 91,
+            "score": 73
+        },
+        {
+            "main_cat": "AI",
             "sub_cat": null,
             "name": "skills",
             "full_name": "lukiIabs/skills",
@@ -131,17 +142,6 @@ const ALPHA_DATA_V2 = {
             "stars": 228,
             "forks": 225,
             "score": 73
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "OpenMonoAgent.ai",
-            "full_name": "StartupHakk/OpenMonoAgent.ai",
-            "description": "(BETA) AI shouldn't have a meter. Unlimited tokens. Forever. Your machine. Your agent. Use it from anywhere. Terminal-native coding agent powered by local LLMs \u2014 100% open source, free forever, and installed with a single command. Proudly built on C#/.NET, because AI tooling should be infrastructure, not a subscription.",
-            "url": "https://github.com/StartupHakk/OpenMonoAgent.ai",
-            "stars": 840,
-            "forks": 89,
-            "score": 72
         },
         {
             "main_cat": "AI",
@@ -172,7 +172,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "darkrishabh/agent-skills-eval",
             "description": "A test runner for agentskills.io-style AI agent skills",
             "url": "https://github.com/darkrishabh/agent-skills-eval",
-            "stars": 408,
+            "stars": 413,
             "forks": 16,
             "score": 59
         },
@@ -194,8 +194,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "beenuar/AiSOC",
             "description": "Open-source AI-powered Security Operations Center \u2014 alert fusion, purple-team drills, agent-assisted triage, MITRE ATT&CK investigation. MIT-licensed, self-hostable.",
             "url": "https://github.com/beenuar/AiSOC",
-            "stars": 467,
-            "forks": 53,
+            "stars": 468,
+            "forks": 54,
             "score": 58
         },
         {
@@ -227,7 +227,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "lessweb/deepcode-cli",
             "description": "Deep Code \u662f\u4e13\u4e3a deepseek-v4 \u6a21\u578b\u4f18\u5316\u7684\u7ec8\u7aef AI \u7f16\u7801\u52a9\u624b\uff0c\u652f\u6301\u6df1\u5ea6\u601d\u8003\u3001\u63a8\u7406\u5f3a\u5ea6\u63a7\u5236\u4ee5\u53ca Agent Skills\u3002",
             "url": "https://github.com/lessweb/deepcode-cli",
-            "stars": 521,
+            "stars": 522,
             "forks": 29,
             "score": 49
         },
@@ -238,7 +238,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "regent-vcs/re_gent",
             "description": "Version-Control for AI coding agents.",
             "url": "https://github.com/regent-vcs/re_gent",
-            "stars": 403,
+            "stars": 406,
             "forks": 26,
             "score": 48
         },
@@ -260,7 +260,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "opensquilla/opensquilla",
             "description": "OpenSquilla \u2014 Token-Efficient AI Agent with same budget, higher intelligence density",
             "url": "https://github.com/opensquilla/opensquilla",
-            "stars": 215,
+            "stars": 218,
             "forks": 16,
             "score": 47
         },
@@ -274,6 +274,17 @@ const ALPHA_DATA_V2 = {
             "stars": 322,
             "forks": 49,
             "score": 46
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "openpets",
+            "full_name": "alvinunreal/openpets",
+            "description": "Desktop pets for AI coding agents. Install pets, connect Claude Code via MCP, and see live coding status on your desktop.",
+            "url": "https://github.com/alvinunreal/openpets",
+            "stars": 260,
+            "forks": 10,
+            "score": 45
         },
         {
             "main_cat": "AI",
@@ -300,17 +311,6 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "openpets",
-            "full_name": "alvinunreal/openpets",
-            "description": "Desktop pets for AI coding agents. Install pets, connect Claude Code via MCP, and see live coding status on your desktop.",
-            "url": "https://github.com/alvinunreal/openpets",
-            "stars": 232,
-            "forks": 10,
-            "score": 43
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
             "name": "claude-design-agents-toolkit",
             "full_name": "Alfredo7777777/claude-design-agents-toolkit",
             "description": "\ud83c\udfa8 Claude Code AI Design Suite 2026 \ud83d\ude80 Best Free AI Design Plugins & Hooks for Coders",
@@ -326,7 +326,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "FrankHui/paragents",
             "description": "Parallel ai-agent sessions in one panel, with permission-aware tools, preflight conflict checks.",
             "url": "https://github.com/FrankHui/paragents",
-            "stars": 203,
+            "stars": 204,
             "forks": 0,
             "score": 36
         },
@@ -729,20 +729,6 @@ const ALPHA_DATA_V2 = {
     ],
     "news": [
         {
-            "title": "GLiGuard: Schema-Conditioned Classification for LLM Safeguard",
-            "source": "ArXiv",
-            "type": "Research Alpha",
-            "color": "text-indigo-600",
-            "url": "http://arxiv.org/abs/2605.07982v1"
-        },
-        {
-            "title": "Graph Representation Learning Augmented Model Manipulation on Federated Fine-Tuning of LLMs",
-            "source": "ArXiv",
-            "type": "Research Alpha",
-            "color": "text-indigo-600",
-            "url": "http://arxiv.org/abs/2605.07961v1"
-        },
-        {
             "title": "Will the price of Bitcoin be between $86,000 and $88,000 on May 13? (Probability: 2%)",
             "source": "Polymarket",
             "type": "Expectation",
@@ -750,5 +736,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/market/will-the-price-of-bitcoin-be-between-86000-88000-on-may-13"
         }
     ],
-    "timestamp": "2026-05-11 20:29"
+    "timestamp": "2026-05-11 22:01"
 };
