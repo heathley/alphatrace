@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "willchen96/mike",
             "description": "OSS AI Legal Platform",
             "url": "https://github.com/willchen96/mike",
-            "stars": 2776,
-            "forks": 798,
+            "stars": 2792,
+            "forks": 801,
             "score": 99
         },
         {
@@ -18,8 +18,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "strukto-ai/mirage",
             "description": "A Unified Virtual Filesystem For AI Agents",
             "url": "https://github.com/strukto-ai/mirage",
-            "stars": 1934,
-            "forks": 120,
+            "stars": 1948,
+            "forks": 122,
             "score": 99
         },
         {
@@ -29,8 +29,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "yaojingang/yao-open-prompts",
             "description": "Yao Open Prompts\uff1a\u4e2d\u6587 AI \u63d0\u793a\u8bcd\u5e93\uff0c\u8986\u76d6\u5de5\u4f5c\u3001\u5b66\u4e60\u3001\u5185\u5bb9\u3001\u8425\u9500\u548c\u751f\u6d3b\u573a\u666f",
             "url": "https://github.com/yaojingang/yao-open-prompts",
-            "stars": 1625,
-            "forks": 252,
+            "stars": 1631,
+            "forks": 253,
             "score": 99
         },
         {
@@ -40,8 +40,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "mattpocock/dictionary-of-ai-coding",
             "description": "AI coding jargon, explained in plain English.",
             "url": "https://github.com/mattpocock/dictionary-of-ai-coding",
-            "stars": 1492,
-            "forks": 170,
+            "stars": 1494,
+            "forks": 172,
             "score": 99
         },
         {
@@ -51,8 +51,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "huangserva/3DCellForge",
             "description": "AI-powered interactive 3D cell generation and exploration studio.",
             "url": "https://github.com/huangserva/3DCellForge",
-            "stars": 1365,
-            "forks": 235,
+            "stars": 1439,
+            "forks": 248,
             "score": 99
         },
         {
@@ -73,9 +73,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "alchaincyf/huashu-md-html",
             "description": "md/html \u53cc\u5411\u6d41\u6c34\u7ebf \u00b7 \u4e09\u4e2a\u80fd\u529b\u4e00\u7ad9\u5f0f\uff1a\u4e07\u7269\u2192md / md\u2192\u7cbe\u7f8ehtml / html\u2192md\u3002\u5c01\u88c5 markitdown + Pandoc + html-to-markdown + trafilatura\u30024 \u5957\u53cd AI slop \u4e3b\u9898\u3002Claude Code skill.",
             "url": "https://github.com/alchaincyf/huashu-md-html",
-            "stars": 432,
+            "stars": 440,
             "forks": 45,
-            "score": 91
+            "score": 92
         },
         {
             "main_cat": "AI",
@@ -84,9 +84,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "WenyuChiou/awesome-agentic-ai-zh",
             "description": "AI Agent \u4e2d\u6587\u5b78\u7fd2\u5730\u5716 \u2014 \u5f9e\u96f6\u958b\u59cb\u7684\u7d50\u69cb\u5316\u5b78\u7fd2\u8def\u5f91\uff0c\u6bcf\u968e\u6bb5\u6709\u5fc5\u505a\u7df4\u7fd2\u8ddf\u5fc5\u4fee\u95b1\u8b80\u3002\u4e09\u8a9e\u5c0d\u7167\uff08\u7e41\u4e2d\uff0f\u7b80\u4e2d\uff0fEnglish\uff09\u3002\u6b61\u8fce\u793e\u7fa4\u4e00\u8d77\u8ca2\u737b\u3001\u512a\u5316\u5167\u5bb9\u3002",
             "url": "https://github.com/WenyuChiou/awesome-agentic-ai-zh",
-            "stars": 849,
-            "forks": 85,
-            "score": 89
+            "stars": 859,
+            "forks": 86,
+            "score": 90
         },
         {
             "main_cat": "AI",
@@ -106,8 +106,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "iam567/LifeManga",
             "description": "ios swift swiftui openai gpt-image manga ai-art",
             "url": "https://github.com/iam567/LifeManga",
-            "stars": 305,
-            "forks": 79,
+            "stars": 308,
+            "forks": 80,
             "score": 74
         },
         {
@@ -117,8 +117,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "StartupHakk/OpenMonoAgent.ai",
             "description": "(BETA) AI shouldn't have a meter. Unlimited tokens. Forever. Your machine. Your agent. Use it from anywhere. Terminal-native coding agent powered by local LLMs \u2014 100% open source, free forever, and installed with a single command. Proudly built on C#/.NET, because AI tooling should be infrastructure, not a subscription.",
             "url": "https://github.com/StartupHakk/OpenMonoAgent.ai",
-            "stars": 848,
-            "forks": 91,
+            "stars": 852,
+            "forks": 92,
             "score": 73
         },
         {
@@ -150,9 +150,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "nduckmink/arkon",
             "description": "Arkon gives organizations centralized control over how employees use any Ai Client. Admins manage resources, access policies, and workspace contexts from a single portal. Employees connect once via the Model Context Protocol (MCP) and get the right context automatically.",
             "url": "https://github.com/nduckmink/arkon",
-            "stars": 621,
-            "forks": 117,
-            "score": 68
+            "stars": 624,
+            "forks": 118,
+            "score": 69
         },
         {
             "main_cat": "AI",
@@ -172,9 +172,31 @@ const ALPHA_DATA_V2 = {
             "full_name": "darkrishabh/agent-skills-eval",
             "description": "A test runner for agentskills.io-style AI agent skills",
             "url": "https://github.com/darkrishabh/agent-skills-eval",
-            "stars": 422,
+            "stars": 430,
             "forks": 16,
             "score": 60
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "AiSOC",
+            "full_name": "beenuar/AiSOC",
+            "description": "Open-source AI-powered Security Operations Center \u2014 alert fusion, purple-team drills, agent-assisted triage, MITRE ATT&CK investigation. MIT-licensed, self-hostable.",
+            "url": "https://github.com/beenuar/AiSOC",
+            "stars": 473,
+            "forks": 54,
+            "score": 58
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "ai-trading-agent",
+            "full_name": "endless-sky-team/ai-trading-agent",
+            "description": "llm trading bot ai agent crypto bitcoin ethereum perpetuals openrouter lighter algorithmic automated quant typescript react postgres bun fintech defi machine-learning open-source crypto-bot signals",
+            "url": "https://github.com/endless-sky-team/ai-trading-agent",
+            "stars": 201,
+            "forks": 161,
+            "score": 58
         },
         {
             "main_cat": "AI",
@@ -185,18 +207,7 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/nateherkai/AIS-OS",
             "stars": 319,
             "forks": 115,
-            "score": 59
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "AiSOC",
-            "full_name": "beenuar/AiSOC",
-            "description": "Open-source AI-powered Security Operations Center \u2014 alert fusion, purple-team drills, agent-assisted triage, MITRE ATT&CK investigation. MIT-licensed, self-hostable.",
-            "url": "https://github.com/beenuar/AiSOC",
-            "stars": 470,
-            "forks": 54,
-            "score": 58
+            "score": 57
         },
         {
             "main_cat": "AI",
@@ -223,12 +234,12 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "deepcode-cli",
-            "full_name": "lessweb/deepcode-cli",
-            "description": "Deep Code \u662f\u4e13\u4e3a deepseek-v4 \u6a21\u578b\u4f18\u5316\u7684\u7ec8\u7aef AI \u7f16\u7801\u52a9\u624b\uff0c\u652f\u6301\u6df1\u5ea6\u601d\u8003\u3001\u63a8\u7406\u5f3a\u5ea6\u63a7\u5236\u4ee5\u53ca Agent Skills\u3002",
-            "url": "https://github.com/lessweb/deepcode-cli",
-            "stars": 523,
-            "forks": 29,
+            "name": "girl-agent",
+            "full_name": "TheSashaDev/girl-agent",
+            "description": "\u0418\u0418-\u0434\u0435\u0432\u0443\u0448\u043a\u0430 \u0441 \u0447\u0435\u043b\u043e\u0432\u0435\u0447\u0435\u0441\u043a\u0438\u043c \u043f\u043e\u0432\u0435\u0434\u0435\u043d\u0438\u0435\u043c: \u0441\u043e\u043d, \u043d\u0430\u0441\u0442\u0440\u043e\u0435\u043d\u0438\u0435, \u0440\u0430\u0441\u043f\u0438\u0441\u0430\u043d\u0438\u0435, \u043f\u0430\u043c\u044f\u0442\u044c, \u0441\u0442\u0430\u0434\u0438\u0438 \u043e\u0442\u043d\u043e\u0448\u0435\u043d\u0438\u0439 \u0438 \u043a\u043e\u043d\u0444\u043b\u0438\u043a\u0442\u044b. Userbot mode \u0447\u0435\u0440\u0435\u0437 MTProto \u2014 \u0440\u0435\u0430\u0433\u0438\u0440\u0443\u0435\u0442, \u043f\u0435\u0447\u0430\u0442\u0430\u0435\u0442, \u0441\u0442\u0430\u0432\u0438\u0442 \u0440\u0435\u0430\u043a\u0446\u0438\u0438. Anti-AI \u043f\u0440\u043e\u043c\u043f\u0442 \u0443\u0431\u0438\u0440\u0430\u0435\u0442 ChatGPT-\u043f\u043e\u0432\u0430\u0434\u043a\u0438. \u041d\u0435 \u0447\u0430\u0442-\u0431\u043e\u0442 \u2014 \u043f\u0435\u0440\u0441\u043e\u043d\u0430\u0436 \u0441 \u0441\u043e\u0441\u0442\u043e\u044f\u043d\u0438\u0435\u043c.",
+            "url": "https://github.com/TheSashaDev/girl-agent",
+            "stars": 248,
+            "forks": 33,
             "score": 49
         },
         {
@@ -238,19 +249,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "regent-vcs/re_gent",
             "description": "Version-Control for AI coding agents.",
             "url": "https://github.com/regent-vcs/re_gent",
-            "stars": 409,
+            "stars": 413,
             "forks": 27,
-            "score": 48
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "girl-agent",
-            "full_name": "TheSashaDev/girl-agent",
-            "description": "\u0418\u0418-\u0434\u0435\u0432\u0443\u0448\u043a\u0430 \u0441 \u0447\u0435\u043b\u043e\u0432\u0435\u0447\u0435\u0441\u043a\u0438\u043c \u043f\u043e\u0432\u0435\u0434\u0435\u043d\u0438\u0435\u043c: \u0441\u043e\u043d, \u043d\u0430\u0441\u0442\u0440\u043e\u0435\u043d\u0438\u0435, \u0440\u0430\u0441\u043f\u0438\u0441\u0430\u043d\u0438\u0435, \u043f\u0430\u043c\u044f\u0442\u044c, \u0441\u0442\u0430\u0434\u0438\u0438 \u043e\u0442\u043d\u043e\u0448\u0435\u043d\u0438\u0439 \u0438 \u043a\u043e\u043d\u0444\u043b\u0438\u043a\u0442\u044b. Userbot mode \u0447\u0435\u0440\u0435\u0437 MTProto \u2014 \u0440\u0435\u0430\u0433\u0438\u0440\u0443\u0435\u0442, \u043f\u0435\u0447\u0430\u0442\u0430\u0435\u0442, \u0441\u0442\u0430\u0432\u0438\u0442 \u0440\u0435\u0430\u043a\u0446\u0438\u0438. Anti-AI \u043f\u0440\u043e\u043c\u043f\u0442 \u0443\u0431\u0438\u0440\u0430\u0435\u0442 ChatGPT-\u043f\u043e\u0432\u0430\u0434\u043a\u0438. \u041d\u0435 \u0447\u0430\u0442-\u0431\u043e\u0442 \u2014 \u043f\u0435\u0440\u0441\u043e\u043d\u0430\u0436 \u0441 \u0441\u043e\u0441\u0442\u043e\u044f\u043d\u0438\u0435\u043c.",
-            "url": "https://github.com/TheSashaDev/girl-agent",
-            "stars": 246,
-            "forks": 33,
             "score": 48
         },
         {
@@ -260,20 +260,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "opensquilla/opensquilla",
             "description": "OpenSquilla \u2014 Token-Efficient AI Agent with same budget, higher intelligence density",
             "url": "https://github.com/opensquilla/opensquilla",
-            "stars": 220,
+            "stars": 222,
             "forks": 16,
             "score": 47
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "gpt-image-canvas",
-            "full_name": "mrslimslim/gpt-image-canvas",
-            "description": "Local professional AI canvas built with tldraw.",
-            "url": "https://github.com/mrslimslim/gpt-image-canvas",
-            "stars": 322,
-            "forks": 49,
-            "score": 46
         },
         {
             "main_cat": "AI",
@@ -282,9 +271,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "alvinunreal/openpets",
             "description": "Desktop pets for AI coding agents. Install pets, connect Claude Code via MCP, and see live coding status on your desktop.",
             "url": "https://github.com/alvinunreal/openpets",
-            "stars": 270,
+            "stars": 283,
             "forks": 10,
-            "score": 45
+            "score": 46
         },
         {
             "main_cat": "AI",
@@ -311,6 +300,17 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
+            "name": "cursed_browser",
+            "full_name": "scosman/cursed_browser",
+            "description": "True AI-Native Browser \u2014 a VLM reads the HTML and hallucinates the page.",
+            "url": "https://github.com/scosman/cursed_browser",
+            "stars": 199,
+            "forks": 1,
+            "score": 39
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
             "name": "claude-design-agents-toolkit",
             "full_name": "Alfredo7777777/claude-design-agents-toolkit",
             "description": "\ud83c\udfa8 Claude Code AI Design Suite 2026 \ud83d\ude80 Best Free AI Design Plugins & Hooks for Coders",
@@ -326,7 +326,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "FrankHui/paragents",
             "description": "Parallel ai-agent sessions in one panel, with permission-aware tools, preflight conflict checks.",
             "url": "https://github.com/FrankHui/paragents",
-            "stars": 205,
+            "stars": 208,
             "forks": 0,
             "score": 36
         },
@@ -337,7 +337,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Negai-ai/AgentClaw",
             "description": "AgentClaw turns one-sentence ideas into reusable Claw capabilities. Build less boilerplate with declarative workflows, computer browser code file control, MCP, Skills, memory, knowledge bases, tracing, scheduling, and API/MCP publishing.",
             "url": "https://github.com/Negai-ai/AgentClaw",
-            "stars": 65,
+            "stars": 68,
             "forks": 6,
             "score": 35
         },
@@ -674,17 +674,6 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
-            "name": "AetherForge",
-            "full_name": "xiong-fan/AetherForge",
-            "description": "AetherForge \u2014 An integrated DeFi platform offering staking, liquidity farming, token swaps, and native cross-chain transfers powered by Chainlink CCIP.  One protocol. Multiple chains. Unified yield opportunities.",
-            "url": "https://github.com/xiong-fan/AetherForge",
-            "stars": 0,
-            "forks": 0,
-            "score": 30
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
             "name": "shadowfi",
             "full_name": "linnbenton/shadowfi",
             "description": "Private cross-chain lending protocol with encrypted positions and hidden liquidation logic, powered by Encrypt (FHE) and Ika (MPC dWallets).",
@@ -692,52 +681,30 @@ const ALPHA_DATA_V2 = {
             "stars": 0,
             "forks": 0,
             "score": 30
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "audit-pipeline-cli",
-            "full_name": "Copenhagen0x/audit-pipeline-cli",
-            "description": "Jelleo \u2014 autonomous Solana DeFi security platform. Continuous code-grounded monitoring across 4 pillars (mainnet detection, cross-protocol propagation, fix bundles, on-chain attestation). Track record: F7 disclosure to aeyakovenko/percolator-prog#39.",
-            "url": "https://github.com/Copenhagen0x/audit-pipeline-cli",
-            "stars": 0,
-            "forks": 0,
-            "score": 30
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "bity-ant-standard",
-            "full_name": "ONGOD6/bity-ant-standard",
-            "description": "Autonomous Node Token standard for the BITY Protocol supporting dynamic augmentation, CRS state, autonomous agent behavior, and cross-chain operation across Ethereum and Solana.",
-            "url": "https://github.com/ONGOD6/bity-ant-standard",
-            "stars": 0,
-            "forks": 0,
-            "score": 30
         }
     ],
     "news": [
         {
-            "title": "GLiGuard: Schema-Conditioned Classification for LLM Safeguard",
+            "title": "Mapping Partisan Fault Lines Within DAOs",
             "source": "ArXiv",
             "type": "Research Alpha",
             "color": "text-indigo-600",
-            "url": "http://arxiv.org/abs/2605.07982v1"
+            "url": "http://arxiv.org/abs/2605.10316v1"
         },
         {
-            "title": "Graph Representation Learning Augmented Model Manipulation on Federated Fine-Tuning of LLMs",
+            "title": "DP-LAC: Lightweight Adaptive Clipping for Differentially Private Federated Fine-tuning of Language Models",
             "source": "ArXiv",
             "type": "Research Alpha",
             "color": "text-indigo-600",
-            "url": "http://arxiv.org/abs/2605.07961v1"
+            "url": "http://arxiv.org/abs/2605.10272v1"
         },
         {
-            "title": "Will the price of Bitcoin be between $86,000 and $88,000 on May 13? (Probability: 2%)",
+            "title": "Will the price of Solana be above $130 on May 15? (Probability: 3%)",
             "source": "Polymarket",
             "type": "Expectation",
             "color": "text-indigo-400",
-            "url": "https://polymarket.com/market/will-the-price-of-bitcoin-be-between-86000-88000-on-may-13"
+            "url": "https://polymarket.com/market/solana-above-130-on-may-15"
         }
     ],
-    "timestamp": "2026-05-11 23:52"
+    "timestamp": "2026-05-12 02:28"
 };
