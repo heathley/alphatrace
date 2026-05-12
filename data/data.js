@@ -7,7 +7,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "willchen96/mike",
             "description": "OSS AI Legal Platform",
             "url": "https://github.com/willchen96/mike",
-            "stars": 2870,
+            "stars": 2880,
             "forks": 830,
             "score": 99
         },
@@ -18,7 +18,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "strukto-ai/mirage",
             "description": "A Unified Virtual Filesystem For AI Agents",
             "url": "https://github.com/strukto-ai/mirage",
-            "stars": 2052,
+            "stars": 2055,
             "forks": 131,
             "score": 99
         },
@@ -29,8 +29,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "yaojingang/yao-open-prompts",
             "description": "Yao Open Prompts\uff1a\u4e2d\u6587 AI \u63d0\u793a\u8bcd\u5e93\uff0c\u8986\u76d6\u5de5\u4f5c\u3001\u5b66\u4e60\u3001\u5185\u5bb9\u3001\u8425\u9500\u548c\u751f\u6d3b\u573a\u666f",
             "url": "https://github.com/yaojingang/yao-open-prompts",
-            "stars": 1822,
-            "forks": 282,
+            "stars": 1824,
+            "forks": 283,
             "score": 99
         },
         {
@@ -40,7 +40,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "huangserva/3DCellForge",
             "description": "AI-powered interactive 3D cell generation and exploration studio.",
             "url": "https://github.com/huangserva/3DCellForge",
-            "stars": 1697,
+            "stars": 1700,
             "forks": 292,
             "score": 99
         },
@@ -58,23 +58,12 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "awesome-agentic-ai-zh",
-            "full_name": "WenyuChiou/awesome-agentic-ai-zh",
-            "description": "AI Agent \u4e2d\u6587\u5b78\u7fd2\u5730\u5716 \u2014 \u5f9e\u96f6\u958b\u59cb\u7684\u7d50\u69cb\u5316\u5b78\u7fd2\u8def\u5f91\uff0c\u6bcf\u968e\u6bb5\u6709\u5fc5\u505a\u7df4\u7fd2\u8ddf\u5fc5\u4fee\u95b1\u8b80\u3002\u4e09\u8a9e\u5c0d\u7167\uff08\u7e41\u4e2d\uff0f\u7b80\u4e2d\uff0fEnglish\uff09\u3002\u6b61\u8fce\u793e\u7fa4\u4e00\u8d77\u8ca2\u737b\u3001\u512a\u5316\u5167\u5bb9\u3002",
-            "url": "https://github.com/WenyuChiou/awesome-agentic-ai-zh",
-            "stars": 1057,
-            "forks": 105,
-            "score": 99
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
             "name": "tq-trading-agent",
             "full_name": "TQ-trade-agent/tq-trading-agent",
             "description": "\ud83c\udf2e Traidng agent, AI-powered multi-agent stock research & trading strategy orchestration, trading agent - TypeScript, LangGraph, OpenAI-compatible APIs",
             "url": "https://github.com/TQ-trade-agent/tq-trading-agent",
-            "stars": 317,
-            "forks": 1012,
+            "stars": 316,
+            "forks": 1028,
             "score": 99
         },
         {
@@ -84,9 +73,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "simonlin1212/a-stock-data",
             "description": "A \u80a1\u5168\u6808\u6570\u636e\u5de5\u5177\u5305 \u2014 6\u5c42\u67b6\u6784 \u00b7 15\u4e2a\u7aef\u70b9 \u00b7 7\u4e2a\u6570\u636e\u6e90 | AI Skill for China A-Share Market Data",
             "url": "https://github.com/simonlin1212/a-stock-data",
-            "stars": 252,
-            "forks": 75,
+            "stars": 255,
+            "forks": 76,
             "score": 99
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "awesome-agentic-ai-zh",
+            "full_name": "WenyuChiou/awesome-agentic-ai-zh",
+            "description": "AI Agent \u4e2d\u6587\u5b78\u7fd2\u5730\u5716 \u2014 \u5f9e\u96f6\u958b\u59cb\u7684\u7d50\u69cb\u5316\u5b78\u7fd2\u8def\u5f91\uff0c\u6bcf\u968e\u6bb5\u6709\u5fc5\u505a\u7df4\u7fd2\u8ddf\u5fc5\u4fee\u95b1\u8b80\u3002\u4e09\u8a9e\u5c0d\u7167\uff08\u7e41\u4e2d\uff0f\u7b80\u4e2d\uff0fEnglish\uff09\u3002\u6b61\u8fce\u793e\u7fa4\u4e00\u8d77\u8ca2\u737b\u3001\u512a\u5316\u5167\u5bb9\u3002",
+            "url": "https://github.com/WenyuChiou/awesome-agentic-ai-zh",
+            "stars": 1059,
+            "forks": 106,
+            "score": 97
         },
         {
             "main_cat": "AI",
@@ -95,9 +95,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "alchaincyf/huashu-md-html",
             "description": "md/html \u53cc\u5411\u6d41\u6c34\u7ebf \u00b7 \u4e09\u4e2a\u80fd\u529b\u4e00\u7ad9\u5f0f\uff1a\u4e07\u7269\u2192md / md\u2192\u7cbe\u7f8ehtml / html\u2192md\u3002\u5c01\u88c5 markitdown + Pandoc + html-to-markdown + trafilatura\u30024 \u5957\u53cd AI slop \u4e3b\u9898\u3002Claude Code skill.",
             "url": "https://github.com/alchaincyf/huashu-md-html",
-            "stars": 479,
+            "stars": 481,
             "forks": 54,
-            "score": 87
+            "score": 88
         },
         {
             "main_cat": "AI",
@@ -106,7 +106,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "StartupHakk/OpenMonoAgent.ai",
             "description": "(BETA) AI shouldn't have a meter. Unlimited tokens. Forever. Your machine. Your agent. Use it from anywhere. Terminal-native coding agent powered by local LLMs \u2014 100% open source, free forever, and installed with a single command. Proudly built on C#/.NET, because AI tooling should be infrastructure, not a subscription.",
             "url": "https://github.com/StartupHakk/OpenMonoAgent.ai",
-            "stars": 907,
+            "stars": 909,
             "forks": 102,
             "score": 73
         },
@@ -162,7 +162,7 @@ const ALPHA_DATA_V2 = {
             "description": "Arkon gives organizations centralized control over how employees use any Ai Client. Admins manage resources, access policies, and workspace contexts from a single portal. Employees connect once via the Model Context Protocol (MCP) and get the right context automatically.",
             "url": "https://github.com/nduckmink/arkon",
             "stars": 648,
-            "forks": 121,
+            "forks": 122,
             "score": 67
         },
         {
@@ -172,7 +172,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "beenuar/AiSOC",
             "description": "Open-source AI-powered Security Operations Center \u2014 alert fusion, purple-team drills, agent-assisted triage, MITRE ATT&CK investigation. MIT-licensed, self-hostable.",
             "url": "https://github.com/beenuar/AiSOC",
-            "stars": 708,
+            "stars": 717,
             "forks": 60,
             "score": 66
         },
@@ -183,9 +183,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "ComposioHQ/trustclaw",
             "description": "A self-hostable personal AI agent with vector memory, Composio tools, and Telegram.",
             "url": "https://github.com/ComposioHQ/trustclaw",
-            "stars": 319,
-            "forks": 77,
-            "score": 61
+            "stars": 332,
+            "forks": 81,
+            "score": 62
         },
         {
             "main_cat": "AI",
@@ -216,7 +216,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "darkrishabh/agent-skills-eval",
             "description": "A test runner for agentskills.io-style AI agent skills",
             "url": "https://github.com/darkrishabh/agent-skills-eval",
-            "stars": 452,
+            "stars": 457,
             "forks": 16,
             "score": 58
         },
@@ -238,9 +238,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "Hello-Application-XH/HelloGML",
             "description": "\u667a\u8c31\u6e05\u8a00\u7f51\u9875\u7248\u7684 Cloudflare Worker 2API\u5c42\uff0c\u63d0\u4f9b OpenAI / Claude / Gemini \u4e09\u79cd\u534f\u8bae\u517c\u5bb9\u63a5\u53e3\uff0c\u652f\u6301\u6d41\u5f0f\u5bf9\u8bdd\u3001Tools\u8c03\u7528\u3001AI \u7ed8\u56fe\u3001\u89c6\u9891\u751f\u6210\u4e0e\u591a\u8d26\u53f7 Token \u8f6e\u8be2\u3002",
             "url": "https://github.com/Hello-Application-XH/HelloGML",
-            "stars": 265,
+            "stars": 266,
             "forks": 101,
             "score": 53
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "opensquilla",
+            "full_name": "opensquilla/opensquilla",
+            "description": "OpenSquilla \u2014 Token-Efficient AI Agent with same budget, higher intelligence density",
+            "url": "https://github.com/opensquilla/opensquilla",
+            "stars": 261,
+            "forks": 21,
+            "score": 49
         },
         {
             "main_cat": "AI",
@@ -249,7 +260,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "regent-vcs/re_gent",
             "description": "Version-Control for AI coding agents.",
             "url": "https://github.com/regent-vcs/re_gent",
-            "stars": 437,
+            "stars": 438,
             "forks": 28,
             "score": 48
         },
@@ -260,19 +271,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "alvinunreal/openpets",
             "description": "Desktop pets for AI coding agents. Install pets, connect Claude Code via MCP, and see live coding status on your desktop.",
             "url": "https://github.com/alvinunreal/openpets",
-            "stars": 358,
+            "stars": 359,
             "forks": 12,
-            "score": 48
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "opensquilla",
-            "full_name": "opensquilla/opensquilla",
-            "description": "OpenSquilla \u2014 Token-Efficient AI Agent with same budget, higher intelligence density",
-            "url": "https://github.com/opensquilla/opensquilla",
-            "stars": 257,
-            "forks": 21,
             "score": 48
         },
         {
@@ -315,8 +315,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "matty69v/Bug-Bounty-Agents",
             "description": "AI-Powered Agents for Bub-Bounty Pentesting and Red-Teaming purposes",
             "url": "https://github.com/matty69v/Bug-Bounty-Agents",
-            "stars": 205,
-            "forks": 41,
+            "stars": 206,
+            "forks": 42,
             "score": 41
         },
         {
@@ -337,7 +337,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Negai-ai/AgentClaw",
             "description": "AgentClaw turns one-sentence ideas into reusable Claw capabilities. Build less boilerplate with declarative workflows, computer browser code file control, MCP, Skills, memory, knowledge bases, tracing, scheduling, and API/MCP publishing.",
             "url": "https://github.com/Negai-ai/AgentClaw",
-            "stars": 80,
+            "stars": 82,
             "forks": 6,
             "score": 35
         },
@@ -419,12 +419,12 @@ const ALPHA_DATA_V2 = {
             "score": 30
         },
         {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "private-prediction-market",
-            "full_name": "Anyi-zheng/private-prediction-market",
-            "description": "Privacy-preserving prediction market built with Zama FHE \u2014 encrypted bet direction & amount on-chain (Sepolia testnet)",
-            "url": "https://github.com/Anyi-zheng/private-prediction-market",
+            "main_cat": "Prediction Markets",
+            "sub_cat": null,
+            "name": "celo-predict",
+            "full_name": "benibauer3/celo-predict",
+            "description": "Decentralized binary prediction markets on Celo L2 \u2014 bet YES/NO with USDm stablecoins, MiniPay native, fee abstraction CIP-64",
+            "url": "https://github.com/benibauer3/celo-predict",
             "stars": 0,
             "forks": 0,
             "score": 30
@@ -432,10 +432,10 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
-            "name": "prez-bets",
-            "full_name": "aisportsbettingcontact/prez-bets",
-            "description": "A dark-themed AI-powered sports betting models platform with login/signup authentication, dashboard, and betting predictions. \u00b7 Built with Manus",
-            "url": "https://github.com/aisportsbettingcontact/prez-bets",
+            "name": "private-prediction-market",
+            "full_name": "Anyi-zheng/private-prediction-market",
+            "description": "Privacy-preserving prediction market built with Zama FHE \u2014 encrypted bet direction & amount on-chain (Sepolia testnet)",
+            "url": "https://github.com/Anyi-zheng/private-prediction-market",
             "stars": 0,
             "forks": 0,
             "score": 30
@@ -513,6 +513,17 @@ const ALPHA_DATA_V2 = {
             "full_name": "mutopay/mutopay-for-woocommerce",
             "description": "Accept crypto payments in WooCommerce via MutoPay. Customers pay any token on 7+ chains, you receive stablecoins. Flat 0.5% fee.",
             "url": "https://github.com/mutopay/mutopay-for-woocommerce",
+            "stars": 0,
+            "forks": 0,
+            "score": 30
+        },
+        {
+            "main_cat": "Stablecoin Infrastructure",
+            "sub_cat": null,
+            "name": "Astrapilot",
+            "full_name": "1sraeliteX/Astrapilot",
+            "description": "AstraPilot verifies suppliers, designs milestone-based escrow contracts, and releases stablecoin payments only when trade conditions are met \u2014 across borders, automatically.",
+            "url": "https://github.com/1sraeliteX/Astrapilot",
             "stars": 0,
             "forks": 0,
             "score": 30
@@ -681,17 +692,6 @@ const ALPHA_DATA_V2 = {
             "stars": 0,
             "forks": 0,
             "score": 30
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "bity-ant-standard",
-            "full_name": "ONGOD6/bity-ant-standard",
-            "description": "Autonomous Node Token standard for the BITY Protocol supporting dynamic augmentation, CRS state, autonomous agent behavior, and cross-chain operation across Ethereum and Solana.",
-            "url": "https://github.com/ONGOD6/bity-ant-standard",
-            "stars": 0,
-            "forks": 0,
-            "score": 30
         }
     ],
     "news": [
@@ -710,12 +710,12 @@ const ALPHA_DATA_V2 = {
             "url": "http://arxiv.org/abs/2605.10879v1"
         },
         {
-            "title": "Will Netflix (NFLX) finish week of May 11 above $110? (Probability: 10%)",
+            "title": "Will Netflix, Inc. (NFLX) hit (LOW) $77.50 Week of May 11 2026? (Probability: 5%)",
             "source": "Polymarket",
             "type": "Expectation",
             "color": "text-indigo-400",
-            "url": "https://polymarket.com/market/nflx-above-110-on-may-15-2026"
+            "url": "https://polymarket.com/market/will-nflx-dip-to-77-50-by-may-11-2026"
         }
     ],
-    "timestamp": "2026-05-12 21:13"
+    "timestamp": "2026-05-12 22:54"
 };
