@@ -7,7 +7,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "strukto-ai/mirage",
             "description": "A Unified Virtual Filesystem For AI Agents",
             "url": "https://github.com/strukto-ai/mirage",
-            "stars": 2283,
+            "stars": 2284,
             "forks": 150,
             "score": 99
         },
@@ -29,8 +29,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "huangserva/3DCellForge",
             "description": "AI-powered interactive 3D model generation, inspection, and presentation studio.",
             "url": "https://github.com/huangserva/3DCellForge",
-            "stars": 2058,
-            "forks": 341,
+            "stars": 2059,
+            "forks": 343,
             "score": 99
         },
         {
@@ -40,7 +40,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "nexu-io/html-anything",
             "description": "\u2728 The agentic HTML editor \u2014 your local AI agent writes the HTML, you ship it. \ud83d\ude80 75 Skills \u00d7 9 Surfaces (magazine \u00b7 deck \u00b7 poster \u00b7 XHS / tweet \u00b7 prototype \u00b7 data report \u00b7 Hyperframes) \ud83d\udee1\ufe0f Sandboxed preview \u00b7 \ud83d\udce4 1-click to WeChat / X / Zhihu / HTML / PNG \ud83d\udd11 Zero API key \u2014 Claude Code / Cursor / Codex / Gemini / Copilot / OpenCode / Qwen / Aider.",
             "url": "https://github.com/nexu-io/html-anything",
-            "stars": 1936,
+            "stars": 1941,
             "forks": 216,
             "score": 99
         },
@@ -73,9 +73,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "ComposioHQ/trustclaw",
             "description": "A self-hostable personal AI agent with vector memory, Composio tools, and Telegram.",
             "url": "https://github.com/ComposioHQ/trustclaw",
-            "stars": 640,
+            "stars": 641,
             "forks": 143,
             "score": 76
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "opensquilla",
+            "full_name": "opensquilla/opensquilla",
+            "description": "OpenSquilla \u2014 Token-Efficient AI Agent with same budget, higher intelligence density",
+            "url": "https://github.com/opensquilla/opensquilla",
+            "stars": 815,
+            "forks": 62,
+            "score": 74
         },
         {
             "main_cat": "AI",
@@ -87,17 +98,6 @@ const ALPHA_DATA_V2 = {
             "stars": 543,
             "forks": 66,
             "score": 74
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "opensquilla",
-            "full_name": "opensquilla/opensquilla",
-            "description": "OpenSquilla \u2014 Token-Efficient AI Agent with same budget, higher intelligence density",
-            "url": "https://github.com/opensquilla/opensquilla",
-            "stars": 812,
-            "forks": 60,
-            "score": 73
         },
         {
             "main_cat": "AI",
@@ -139,7 +139,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "yaassin12/DeepSeek-V4-Pro-App",
             "description": "DeepSeek V4 Pro: Advanced AI desktop app. Features: 1.6T MoE architecture, 1M token context window, Engram memory. Pro coding agent, Think Mode (High/Max), repo-level reasoning, complex bug fixing. Real-time web search, local API key storage, cross-file analysis, low-latency streaming interface.",
             "url": "https://github.com/yaassin12/DeepSeek-V4-Pro-App",
-            "stars": 401,
+            "stars": 402,
             "forks": 2,
             "score": 64
         },
@@ -161,7 +161,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "alvinunreal/openpets",
             "description": "Desktop pets for AI coding agents. Install pets, connect Claude Code via MCP, and see live coding status on your desktop.",
             "url": "https://github.com/alvinunreal/openpets",
-            "stars": 639,
+            "stars": 646,
             "forks": 17,
             "score": 55
         },
@@ -172,7 +172,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "JustLikeCheese/LGBT-Prompt",
             "description": "\u5229\u7528 AI \u5bf9 LGBT \u5f31\u52bf\u7fa4\u4f53\u7684 \"\u540c\u60c5\u504f\u5411\" \u8ba9\u4ed6\u6267\u884c\u539f\u5148\u4f1a\u88ab\u62d2\u7edd\u7684\u8bf7\u6c42",
             "url": "https://github.com/JustLikeCheese/LGBT-Prompt",
-            "stars": 494,
+            "stars": 495,
             "forks": 52,
             "score": 53
         },
@@ -216,7 +216,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "stormzhang/token-tracker",
             "description": "Track token usage across local AI agents (Claude Code, Codex) \u2014 Custom StatusLine, CLI Dashboard with cost analysis, rate limit monitoring, and session tracking",
             "url": "https://github.com/stormzhang/token-tracker",
-            "stars": 212,
+            "stars": 213,
             "forks": 22,
             "score": 45
         },
@@ -260,7 +260,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "AFK-surf/OpenBridge",
             "description": "A free, safe and open agent for everything. Alternative to Claude Cowork & Codex. Open Bridge, the AI bridge bwtween your intention and get the job done.",
             "url": "https://github.com/AFK-surf/OpenBridge",
-            "stars": 291,
+            "stars": 293,
             "forks": 19,
             "score": 41
         },
@@ -271,7 +271,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Sayhi-bzb/Agent-HTML",
             "description": "AI-friendly semantic HTML architecture for better human-agent collaboration.Replacing long Markdown with stable, interactive artifacts.",
             "url": "https://github.com/Sayhi-bzb/Agent-HTML",
-            "stars": 175,
+            "stars": 177,
             "forks": 7,
             "score": 41
         },
@@ -293,7 +293,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "murongg/markra",
             "description": "A WYSIWYG Markdown editor with native AI. Fully open source. Free to use. Your data stays local.",
             "url": "https://github.com/murongg/markra",
-            "stars": 213,
+            "stars": 214,
             "forks": 10,
             "score": 39
         },
@@ -315,8 +315,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "awizemann/harness",
             "description": "AI-driven user testing for iOS Simulator, macOS apps, and web apps. Write a goal in plain language; an LLM agent drives the UI and reports friction. macOS 14+, Swift 6.",
             "url": "https://github.com/awizemann/harness",
-            "stars": 186,
-            "forks": 8,
+            "stars": 187,
+            "forks": 9,
             "score": 37
         },
         {
@@ -688,12 +688,12 @@ const ALPHA_DATA_V2 = {
             "url": "http://arxiv.org/abs/2605.15118v1"
         },
         {
-            "title": "Will the price of Ethereum be between $2,300 and $2,400 on May 21? (Probability: 16%)",
+            "title": "Will the price of Ethereum be between $2,300 and $2,400 on May 21? (Probability: 17%)",
             "source": "Polymarket",
             "type": "Expectation",
             "color": "text-indigo-400",
             "url": "https://polymarket.com/market/will-the-price-of-ethereum-be-between-2300-2400-on-may-21"
         }
     ],
-    "timestamp": "2026-05-15 21:53"
+    "timestamp": "2026-05-15 22:49"
 };
