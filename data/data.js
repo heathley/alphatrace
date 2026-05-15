@@ -7,7 +7,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "strukto-ai/mirage",
             "description": "A Unified Virtual Filesystem For AI Agents",
             "url": "https://github.com/strukto-ai/mirage",
-            "stars": 2243,
+            "stars": 2248,
             "forks": 148,
             "score": 99
         },
@@ -18,8 +18,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "yaojingang/yao-open-prompts",
             "description": "Yao Open Prompts\uff1a\u4e2d\u6587 AI \u63d0\u793a\u8bcd\u5e93\uff0c\u8986\u76d6\u5de5\u4f5c\u3001\u5b66\u4e60\u3001\u5185\u5bb9\u3001\u8425\u9500\u548c\u751f\u6d3b\u573a\u666f",
             "url": "https://github.com/yaojingang/yao-open-prompts",
-            "stars": 2025,
-            "forks": 313,
+            "stars": 2035,
+            "forks": 315,
             "score": 99
         },
         {
@@ -29,19 +29,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "huangserva/3DCellForge",
             "description": "AI-powered interactive 3D model generation, inspection, and presentation studio.",
             "url": "https://github.com/huangserva/3DCellForge",
-            "stars": 2007,
-            "forks": 335,
-            "score": 99
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "dictionary-of-ai-coding",
-            "full_name": "mattpocock/dictionary-of-ai-coding",
-            "description": "AI coding jargon, explained in plain English.",
-            "url": "https://github.com/mattpocock/dictionary-of-ai-coding",
-            "stars": 1595,
-            "forks": 186,
+            "stars": 2015,
+            "forks": 337,
             "score": 99
         },
         {
@@ -51,8 +40,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "WenyuChiou/awesome-agentic-ai-zh",
             "description": "AI Agent \u4e2d\u6587\u5b78\u7fd2\u5730\u5716 \u2014 \u5f9e\u96f6\u958b\u59cb\u7684\u7d50\u69cb\u5316\u5b78\u7fd2\u8def\u5f91\uff0c\u6bcf\u968e\u6bb5\u6709\u5fc5\u505a\u7df4\u7fd2\u8ddf\u5fc5\u4fee\u95b1\u8b80\u3002\u4e09\u8a9e\u5c0d\u7167\uff08\u7e41\u4e2d\uff0f\u7b80\u4e2d\uff0fEnglish\uff09\u3002\u6b61\u8fce\u793e\u7fa4\u4e00\u8d77\u8ca2\u737b\u3001\u512a\u5316\u5167\u5bb9\u3002",
             "url": "https://github.com/WenyuChiou/awesome-agentic-ai-zh",
-            "stars": 1352,
-            "forks": 144,
+            "stars": 1365,
+            "forks": 147,
             "score": 99
         },
         {
@@ -62,8 +51,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "nexu-io/html-anything",
             "description": "\u2728 The agentic HTML editor \u2014 your local AI agent writes the HTML, you ship it. \ud83d\ude80 75 Skills \u00d7 9 Surfaces (magazine \u00b7 deck \u00b7 poster \u00b7 XHS / tweet \u00b7 prototype \u00b7 data report \u00b7 Hyperframes) \ud83d\udee1\ufe0f Sandboxed preview \u00b7 \ud83d\udce4 1-click to WeChat / X / Zhihu / HTML / PNG \ud83d\udd11 Zero API key \u2014 Claude Code / Cursor / Codex / Gemini / Copilot / OpenCode / Qwen / Aider.",
             "url": "https://github.com/nexu-io/html-anything",
-            "stars": 744,
-            "forks": 71,
+            "stars": 1060,
+            "forks": 114,
             "score": 99
         },
         {
@@ -73,8 +62,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "simonlin1212/a-stock-data",
             "description": "A \u80a1\u5168\u6808\u6570\u636e\u5de5\u5177\u5305 \u2014 6\u5c42\u67b6\u6784 \u00b7 15\u4e2a\u7aef\u70b9 \u00b7 7\u4e2a\u6570\u636e\u6e90 | AI Skill for China A-Share Market Data",
             "url": "https://github.com/simonlin1212/a-stock-data",
-            "stars": 683,
-            "forks": 170,
+            "stars": 719,
+            "forks": 174,
             "score": 99
         },
         {
@@ -84,7 +73,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "alchaincyf/huashu-md-html",
             "description": "md/html \u53cc\u5411\u6d41\u6c34\u7ebf \u00b7 \u4e09\u4e2a\u80fd\u529b\u4e00\u7ad9\u5f0f\uff1a\u4e07\u7269\u2192md / md\u2192\u7cbe\u7f8ehtml / html\u2192md\u3002\u5c01\u88c5 markitdown + Pandoc + html-to-markdown + trafilatura\u30024 \u5957\u53cd AI slop \u4e3b\u9898\u3002Claude Code skill.",
             "url": "https://github.com/alchaincyf/huashu-md-html",
-            "stars": 532,
+            "stars": 533,
             "forks": 63,
             "score": 79
         },
@@ -106,7 +95,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "mikesheehan54/Claude-Code-Design-AI",
             "description": "Claude Design: AI UI/UX architect. Screenshot to React, Figma components, Tailwind CSS generator. Prototyping agent, design systems, wireframe renderer. SVG icon creator, dark mode toggle, responsive layout tool. Front-end code export, shadcn/ui integration, vector assets, branding assistant.",
             "url": "https://github.com/mikesheehan54/Claude-Code-Design-AI",
-            "stars": 330,
+            "stars": 335,
             "forks": 0,
             "score": 71
         },
@@ -117,7 +106,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "yaassin12/DeepSeek-V4-Pro-App",
             "description": "DeepSeek V4 Pro: Advanced AI desktop app. Features: 1.6T MoE architecture, 1M token context window, Engram memory. Pro coding agent, Think Mode (High/Max), repo-level reasoning, complex bug fixing. Real-time web search, local API key storage, cross-file analysis, low-latency streaming interface.",
             "url": "https://github.com/yaassin12/DeepSeek-V4-Pro-App",
-            "stars": 400,
+            "stars": 401,
             "forks": 2,
             "score": 70
         },
@@ -128,7 +117,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "beenuar/AiSOC",
             "description": "Open-source AI-powered Security Operations Center \u2014 alert fusion, purple-team drills, agent-assisted triage, MITRE ATT&CK investigation. MIT-licensed, self-hostable.",
             "url": "https://github.com/beenuar/AiSOC",
-            "stars": 863,
+            "stars": 866,
             "forks": 66,
             "score": 67
         },
@@ -139,9 +128,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "opensquilla/opensquilla",
             "description": "OpenSquilla \u2014 Token-Efficient AI Agent with same budget, higher intelligence density",
             "url": "https://github.com/opensquilla/opensquilla",
-            "stars": 574,
-            "forks": 43,
-            "score": 63
+            "stars": 615,
+            "forks": 44,
+            "score": 65
         },
         {
             "main_cat": "AI",
@@ -157,22 +146,11 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "AIS-OS",
-            "full_name": "nateherkai/AIS-OS",
-            "description": "AI Operating System starter kit for Claude Code \u2014 three-skill kit (/onboard, /audit, /level-up) + 3Ms framework. Companion to the AIOS masterclass.",
-            "url": "https://github.com/nateherkai/AIS-OS",
-            "stars": 350,
-            "forks": 136,
-            "score": 57
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
             "name": "agent-skills-eval",
             "full_name": "darkrishabh/agent-skills-eval",
             "description": "A test runner for agentskills.io-style AI agent skills",
             "url": "https://github.com/darkrishabh/agent-skills-eval",
-            "stars": 485,
+            "stars": 487,
             "forks": 17,
             "score": 55
         },
@@ -183,8 +161,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "alvinunreal/openpets",
             "description": "Desktop pets for AI coding agents. Install pets, connect Claude Code via MCP, and see live coding status on your desktop.",
             "url": "https://github.com/alvinunreal/openpets",
-            "stars": 564,
-            "forks": 15,
+            "stars": 563,
+            "forks": 16,
             "score": 54
         },
         {
@@ -197,17 +175,6 @@ const ALPHA_DATA_V2 = {
             "stars": 491,
             "forks": 52,
             "score": 54
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "HelloGML",
-            "full_name": "Hello-Application-XH/HelloGML",
-            "description": "\u667a\u8c31\u6e05\u8a00\u7f51\u9875\u7248\u7684 Cloudflare Worker 2API\u5c42\uff0c\u63d0\u4f9b OpenAI / Claude / Gemini \u4e09\u79cd\u534f\u8bae\u517c\u5bb9\u63a5\u53e3\uff0c\u652f\u6301\u6d41\u5f0f\u5bf9\u8bdd\u3001Tools\u8c03\u7528\u3001AI \u7ed8\u56fe\u3001\u89c6\u9891\u751f\u6210\u4e0e\u591a\u8d26\u53f7 Token \u8f6e\u8be2\u3002",
-            "url": "https://github.com/Hello-Application-XH/HelloGML",
-            "stars": 272,
-            "forks": 103,
-            "score": 51
         },
         {
             "main_cat": "AI",
@@ -227,20 +194,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "agentara/skills",
             "description": "Original and practical skills for AI builders.",
             "url": "https://github.com/agentara/skills",
-            "stars": 186,
+            "stars": 187,
             "forks": 4,
             "score": 50
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "girl-agent",
-            "full_name": "TheSashaDev/girl-agent",
-            "description": "\u0418\u0418-\u0434\u0435\u0432\u0443\u0448\u043a\u0430 \u0441 \u0447\u0435\u043b\u043e\u0432\u0435\u0447\u0435\u0441\u043a\u0438\u043c \u043f\u043e\u0432\u0435\u0434\u0435\u043d\u0438\u0435\u043c: \u0441\u043e\u043d, \u043d\u0430\u0441\u0442\u0440\u043e\u0435\u043d\u0438\u0435, \u0440\u0430\u0441\u043f\u0438\u0441\u0430\u043d\u0438\u0435, \u043f\u0430\u043c\u044f\u0442\u044c, \u0441\u0442\u0430\u0434\u0438\u0438 \u043e\u0442\u043d\u043e\u0448\u0435\u043d\u0438\u0439 \u0438 \u043a\u043e\u043d\u0444\u043b\u0438\u043a\u0442\u044b. Userbot mode \u0447\u0435\u0440\u0435\u0437 MTProto \u2014 \u0440\u0435\u0430\u0433\u0438\u0440\u0443\u0435\u0442, \u043f\u0435\u0447\u0430\u0442\u0430\u0435\u0442, \u0441\u0442\u0430\u0432\u0438\u0442 \u0440\u0435\u0430\u043a\u0446\u0438\u0438. Anti-AI \u043f\u0440\u043e\u043c\u043f\u0442 \u0443\u0431\u0438\u0440\u0430\u0435\u0442 ChatGPT-\u043f\u043e\u0432\u0430\u0434\u043a\u0438. \u041d\u0435 \u0447\u0430\u0442-\u0431\u043e\u0442 \u2014 \u043f\u0435\u0440\u0441\u043e\u043d\u0430\u0436 \u0441 \u0441\u043e\u0441\u0442\u043e\u044f\u043d\u0438\u0435\u043c.",
-            "url": "https://github.com/TheSashaDev/girl-agent",
-            "stars": 273,
-            "forks": 34,
-            "score": 45
         },
         {
             "main_cat": "AI",
@@ -249,8 +205,19 @@ const ALPHA_DATA_V2 = {
             "full_name": "stormzhang/token-tracker",
             "description": "Track token usage across local AI agents (Claude Code, Codex) \u2014 Custom StatusLine, CLI Dashboard with cost analysis, rate limit monitoring, and session tracking",
             "url": "https://github.com/stormzhang/token-tracker",
-            "stars": 202,
-            "forks": 20,
+            "stars": 205,
+            "forks": 21,
+            "score": 46
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "girl-agent",
+            "full_name": "TheSashaDev/girl-agent",
+            "description": "\u0418\u0418-\u0434\u0435\u0432\u0443\u0448\u043a\u0430 \u0441 \u0447\u0435\u043b\u043e\u0432\u0435\u0447\u0435\u0441\u043a\u0438\u043c \u043f\u043e\u0432\u0435\u0434\u0435\u043d\u0438\u0435\u043c: \u0441\u043e\u043d, \u043d\u0430\u0441\u0442\u0440\u043e\u0435\u043d\u0438\u0435, \u0440\u0430\u0441\u043f\u0438\u0441\u0430\u043d\u0438\u0435, \u043f\u0430\u043c\u044f\u0442\u044c, \u0441\u0442\u0430\u0434\u0438\u0438 \u043e\u0442\u043d\u043e\u0448\u0435\u043d\u0438\u0439 \u0438 \u043a\u043e\u043d\u0444\u043b\u0438\u043a\u0442\u044b. Userbot mode \u0447\u0435\u0440\u0435\u0437 MTProto \u2014 \u0440\u0435\u0430\u0433\u0438\u0440\u0443\u0435\u0442, \u043f\u0435\u0447\u0430\u0442\u0430\u0435\u0442, \u0441\u0442\u0430\u0432\u0438\u0442 \u0440\u0435\u0430\u043a\u0446\u0438\u0438. Anti-AI \u043f\u0440\u043e\u043c\u043f\u0442 \u0443\u0431\u0438\u0440\u0430\u0435\u0442 ChatGPT-\u043f\u043e\u0432\u0430\u0434\u043a\u0438. \u041d\u0435 \u0447\u0430\u0442-\u0431\u043e\u0442 \u2014 \u043f\u0435\u0440\u0441\u043e\u043d\u0430\u0436 \u0441 \u0441\u043e\u0441\u0442\u043e\u044f\u043d\u0438\u0435\u043c.",
+            "url": "https://github.com/TheSashaDev/girl-agent",
+            "stars": 276,
+            "forks": 34,
             "score": 45
         },
         {
@@ -260,19 +227,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "ItsssssJack/power-design",
             "description": "A Claude skill for slides that don't look like AI made them. Brand DNA \u00d7 20 codified design principles.",
             "url": "https://github.com/ItsssssJack/power-design",
-            "stars": 230,
+            "stars": 231,
             "forks": 33,
-            "score": 42
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "evonic",
-            "full_name": "anvie/evonic",
-            "description": "Open Agentic AI Platform - The home your agents deserve",
-            "url": "https://github.com/anvie/evonic",
-            "stars": 219,
-            "forks": 42,
             "score": 42
         },
         {
@@ -282,7 +238,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "laishiwen/sven-family",
             "description": "Sven Family is an AI-native product suite that connects creation, collaboration, publishing, and operations into one integrated platform.",
             "url": "https://github.com/laishiwen/sven-family",
-            "stars": 186,
+            "stars": 198,
             "forks": 8,
             "score": 42
         },
@@ -293,8 +249,30 @@ const ALPHA_DATA_V2 = {
             "full_name": "AFK-surf/OpenBridge",
             "description": "A free, safe and open agent for everything. Alternative to Claude Cowork & Codex. Open Bridge, the AI bridge bwtween your intention and get the job done.",
             "url": "https://github.com/AFK-surf/OpenBridge",
-            "stars": 266,
+            "stars": 268,
             "forks": 16,
+            "score": 41
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "submarine",
+            "full_name": "DenAB-NVS/submarine",
+            "description": "Sovereign, depth-adaptive AI memory. Open source. Local-first. Model-agnostic.",
+            "url": "https://github.com/DenAB-NVS/submarine",
+            "stars": 168,
+            "forks": 15,
+            "score": 41
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "flow-kit",
+            "full_name": "rihebty/flow-kit",
+            "description": "\u4e00\u5957\u878d\u5408\u4e86bmad\u3001spec-kit\u3001OpenSpec\u3001GSD\u3001claude-task-master\u3001superpowers\u3001gstack\u3001skills\u7684 AI \u7f16\u7a0b\u89c4\u8303\u5316\u6d41\u7a0b",
+            "url": "https://github.com/rihebty/flow-kit",
+            "stars": 161,
+            "forks": 31,
             "score": 41
         },
         {
@@ -304,9 +282,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "statewright/statewright",
             "description": "State machine guardrails for AI agents",
             "url": "https://github.com/statewright/statewright",
-            "stars": 277,
+            "stars": 280,
             "forks": 4,
             "score": 40
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "markra",
+            "full_name": "murongg/markra",
+            "description": "A WYSIWYG Markdown editor with native AI. Fully open source. Free to use. Your data stays local.",
+            "url": "https://github.com/murongg/markra",
+            "stars": 192,
+            "forks": 9,
+            "score": 38
         },
         {
             "main_cat": "AI",
@@ -317,7 +306,18 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/scosman/cursed_browser",
             "stars": 206,
             "forks": 1,
-            "score": 38
+            "score": 37
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "harness",
+            "full_name": "awizemann/harness",
+            "description": "AI-driven user testing for iOS Simulator, macOS apps, and web apps. Write a goal in plain language; an LLM agent drives the UI and reports friction. macOS 14+, Swift 6.",
+            "url": "https://github.com/awizemann/harness",
+            "stars": 177,
+            "forks": 8,
+            "score": 37
         },
         {
             "main_cat": "AI",
@@ -326,20 +326,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "Negai-ai/AgentClaw",
             "description": "AgentClaw turns one-sentence ideas into reusable Claw capabilities. Build less boilerplate with declarative workflows, computer browser code file control, MCP, Skills, memory, knowledge bases, tracing, scheduling, and API/MCP publishing.",
             "url": "https://github.com/Negai-ai/AgentClaw",
-            "stars": 119,
+            "stars": 120,
             "forks": 9,
             "score": 37
-        },
-        {
-            "main_cat": "DePIN",
-            "sub_cat": null,
-            "name": "profanity-new-tron",
-            "full_name": "Pandaoyoo/profanity-new-tron",
-            "description": "-----\u274c\u6b64\u7248\u672c\u662f\u53bb\u540e\u95e8\u7248\u672c\u274c-----\ud83d\ude802026\u5e74GUI\u7248\u9753\u53f7\u751f\u6210\u5668\u3001\u2705\u6ce2\u573aTRX\u9753\u53f7\u5730\u5740\u751f\u6210\u5668\u3001USDT\u94b1\u5305\u9753\u53f7\u751f\u6210\u5668\u3001\u5229\u7528GPU\u8fdb\u884c\u52a0\u901f\u3002\ud83d\udd12TRX/USDT Wallet Vanity Address Generator, powered by GPU acceleration. Backdoors removed, safe and dependable.",
-            "url": "https://github.com/Pandaoyoo/profanity-new-tron",
-            "stars": 113,
-            "forks": 5,
-            "score": 34
         },
         {
             "main_cat": "AI",
@@ -436,17 +425,6 @@ const ALPHA_DATA_V2 = {
             "full_name": "kkkcubes/stablecoin-checkout-app",
             "description": "ArcPay \u2014 Stablecoin Commerce Infrastructure on Arc  ArcPay is a next-generation stablecoin commerce platform built on the Arc Network, designed to make digital payments as seamless as traditional fintech systems while preserving the speed, transparency, and programmability of blockchain infrastructure. ",
             "url": "https://github.com/kkkcubes/stablecoin-checkout-app",
-            "stars": 0,
-            "forks": 0,
-            "score": 30
-        },
-        {
-            "main_cat": "Stablecoin Infrastructure",
-            "sub_cat": null,
-            "name": "vozpay",
-            "full_name": "ruizemanuel/vozpay",
-            "description": "VozPay \u2014 voice-first stablecoin payments over WhatsApp on Solana",
-            "url": "https://github.com/ruizemanuel/vozpay",
             "stars": 0,
             "forks": 0,
             "score": 30
@@ -564,21 +542,21 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
-            "name": "chainlink-ccip-rebase-token-foundry",
-            "full_name": "jasmineli-dev/chainlink-ccip-rebase-token-foundry",
-            "description": "A cross-chain rebase token built with Chainlink CCIP (Cross-Chain Interoperability Protocol). This token earns interest over time and can be bridged across supported chains while preserving its rebasing properties.",
-            "url": "https://github.com/jasmineli-dev/chainlink-ccip-rebase-token-foundry",
-            "stars": 1,
+            "name": "multichain-payment-gateway",
+            "full_name": "dappteacher/multichain-payment-gateway",
+            "description": "Production-grade multi-chain stablecoin payment infrastructure supporting Ethereum ERC20 and Tron TRC20 deposits with real-time monitoring, confirmation tracking, and scalable backend architecture.",
+            "url": "https://github.com/dappteacher/multichain-payment-gateway",
+            "stars": 0,
             "forks": 0,
             "score": 30
         },
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
-            "name": "mcp-reranker",
-            "full_name": "globalpocket/mcp-reranker",
-            "description": "A generic Model Context Protocol (MCP) server for high-accuracy document reranking using sentence-transformers (Cross-Encoder). Ideal for enhancing RAG and AI agent decision-making. sentence-transformers (Cross-Encoder) \u3092\u4f7f\u7528\u3057\u3066\u6587\u66f8\u306e\u95a2\u9023\u5ea6\u3092\u518d\u8a08\u7b97\u30fb\u30bd\u30fc\u30c8\u3059\u308b\u6c4e\u7528 MCP (Model Context Protocol) \u30b5\u30fc\u30d0\u30fc\u3002",
-            "url": "https://github.com/globalpocket/mcp-reranker",
+            "name": "chainlink-ccip-rebase-token-foundry",
+            "full_name": "jasmineli-dev/chainlink-ccip-rebase-token-foundry",
+            "description": "A cross-chain rebase token built with Chainlink CCIP (Cross-Chain Interoperability Protocol). This token earns interest over time and can be bridged across supported chains while preserving its rebasing properties.",
+            "url": "https://github.com/jasmineli-dev/chainlink-ccip-rebase-token-foundry",
             "stars": 1,
             "forks": 0,
             "score": 30
@@ -718,26 +696,12 @@ const ALPHA_DATA_V2 = {
     ],
     "news": [
         {
-            "title": "Backdoor Threats in Variational Quantum Circuits: Taxonomy, Attacks, and Defenses",
-            "source": "ArXiv",
-            "type": "Research Alpha",
-            "color": "text-indigo-600",
-            "url": "http://arxiv.org/abs/2605.13796v1"
-        },
-        {
-            "title": "VectorSmuggle: Steganographic Exfiltration in Embedding Stores and a Cryptographic Provenance Defense",
-            "source": "ArXiv",
-            "type": "Research Alpha",
-            "color": "text-indigo-600",
-            "url": "http://arxiv.org/abs/2605.13764v1"
-        },
-        {
-            "title": "Will the price of Ethereum be between $2,100 and $2,200 on May 19? (Probability: 14%)",
+            "title": "Will the price of Ethereum be between $2,100 and $2,200 on May 19? (Probability: 20%)",
             "source": "Polymarket",
             "type": "Expectation",
             "color": "text-indigo-400",
             "url": "https://polymarket.com/market/will-the-price-of-ethereum-be-between-2100-2200-on-may-19"
         }
     ],
-    "timestamp": "2026-05-14 23:52"
+    "timestamp": "2026-05-15 02:36"
 };
