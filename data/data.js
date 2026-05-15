@@ -7,7 +7,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "strukto-ai/mirage",
             "description": "A Unified Virtual Filesystem For AI Agents",
             "url": "https://github.com/strukto-ai/mirage",
-            "stars": 2262,
+            "stars": 2268,
             "forks": 149,
             "score": 99
         },
@@ -18,7 +18,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "yaojingang/yao-open-prompts",
             "description": "Yao Open Prompts\uff1a\u4e2d\u6587 AI \u63d0\u793a\u8bcd\u5e93\uff0c\u8986\u76d6\u5de5\u4f5c\u3001\u5b66\u4e60\u3001\u5185\u5bb9\u3001\u8425\u9500\u548c\u751f\u6d3b\u573a\u666f",
             "url": "https://github.com/yaojingang/yao-open-prompts",
-            "stars": 2047,
+            "stars": 2048,
             "forks": 316,
             "score": 99
         },
@@ -29,8 +29,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "huangserva/3DCellForge",
             "description": "AI-powered interactive 3D model generation, inspection, and presentation studio.",
             "url": "https://github.com/huangserva/3DCellForge",
-            "stars": 2038,
-            "forks": 338,
+            "stars": 2044,
+            "forks": 339,
             "score": 99
         },
         {
@@ -40,8 +40,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "nexu-io/html-anything",
             "description": "\u2728 The agentic HTML editor \u2014 your local AI agent writes the HTML, you ship it. \ud83d\ude80 75 Skills \u00d7 9 Surfaces (magazine \u00b7 deck \u00b7 poster \u00b7 XHS / tweet \u00b7 prototype \u00b7 data report \u00b7 Hyperframes) \ud83d\udee1\ufe0f Sandboxed preview \u00b7 \ud83d\udce4 1-click to WeChat / X / Zhihu / HTML / PNG \ud83d\udd11 Zero API key \u2014 Claude Code / Cursor / Codex / Gemini / Copilot / OpenCode / Qwen / Aider.",
             "url": "https://github.com/nexu-io/html-anything",
-            "stars": 1588,
-            "forks": 168,
+            "stars": 1682,
+            "forks": 179,
             "score": 99
         },
         {
@@ -51,7 +51,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "WenyuChiou/awesome-agentic-ai-zh",
             "description": "AI Agent \u4e2d\u6587\u5b78\u7fd2\u5730\u5716 \u2014 \u5f9e\u96f6\u958b\u59cb\u7684\u7d50\u69cb\u5316\u5b78\u7fd2\u8def\u5f91\uff0c\u6bcf\u968e\u6bb5\u6709\u5fc5\u505a\u7df4\u7fd2\u8ddf\u5fc5\u4fee\u95b1\u8b80\u3002\u4e09\u8a9e\u5c0d\u7167\uff08\u7e41\u4e2d\uff0f\u7b80\u4e2d\uff0fEnglish\uff09\u3002\u6b61\u8fce\u793e\u7fa4\u4e00\u8d77\u8ca2\u737b\u3001\u512a\u5316\u5167\u5bb9\u3002",
             "url": "https://github.com/WenyuChiou/awesome-agentic-ai-zh",
-            "stars": 1391,
+            "stars": 1395,
             "forks": 148,
             "score": 99
         },
@@ -62,8 +62,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "simonlin1212/a-stock-data",
             "description": "A \u80a1\u5168\u6808\u6570\u636e\u5de5\u5177\u5305 \u2014 6\u5c42\u67b6\u6784 \u00b7 15\u4e2a\u7aef\u70b9 \u00b7 7\u4e2a\u6570\u636e\u6e90 | AI Skill for China A-Share Market Data",
             "url": "https://github.com/simonlin1212/a-stock-data",
-            "stars": 799,
-            "forks": 192,
+            "stars": 808,
+            "forks": 194,
             "score": 99
         },
         {
@@ -84,9 +84,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "mikesheehan54/Claude-Code-Design-AI",
             "description": "Claude Design: AI UI/UX architect. Screenshot to React, Figma components, Tailwind CSS generator. Prototyping agent, design systems, wireframe renderer. SVG icon creator, dark mode toggle, responsive layout tool. Front-end code export, shadcn/ui integration, vector assets, branding assistant.",
             "url": "https://github.com/mikesheehan54/Claude-Code-Design-AI",
-            "stars": 374,
+            "stars": 377,
             "forks": 0,
-            "score": 76
+            "score": 77
         },
         {
             "main_cat": "AI",
@@ -95,7 +95,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "ComposioHQ/trustclaw",
             "description": "A self-hostable personal AI agent with vector memory, Composio tools, and Telegram.",
             "url": "https://github.com/ComposioHQ/trustclaw",
-            "stars": 603,
+            "stars": 604,
             "forks": 137,
             "score": 74
         },
@@ -106,9 +106,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "opensquilla/opensquilla",
             "description": "OpenSquilla \u2014 Token-Efficient AI Agent with same budget, higher intelligence density",
             "url": "https://github.com/opensquilla/opensquilla",
-            "stars": 725,
-            "forks": 50,
-            "score": 72
+            "stars": 749,
+            "forks": 53,
+            "score": 73
         },
         {
             "main_cat": "AI",
@@ -128,9 +128,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "simonlin1212/TradingAgents-astock",
             "description": "A\u80a1\u591aAgent\u6295\u7814\u6846\u67b6 \u2014 \u9002\u914dA\u80a1\u6570\u636e\u6e90(\u9f99\u864e\u699c/\u6e38\u8d44/\u89e3\u7981\u7b49)\uff0c7\u4f4d\u5206\u6790\u5e08\u57fa\u4e8eA\u80a1\u89c4\u5219\u7684\u8fa9\u8bba\u51b3\u7b56\uff0c\u57fa\u4e8eTradingAgents\u6df1\u5ea6\u6539\u9020\uff0c\u9002\u914d\u5927A\u3002A-share multi-agent investment research framework \u2014 7 AI analysts, bull/bear debate, risk assessment\u3002",
             "url": "https://github.com/simonlin1212/TradingAgents-astock",
-            "stars": 178,
+            "stars": 182,
             "forks": 55,
-            "score": 69
+            "score": 70
         },
         {
             "main_cat": "AI",
@@ -139,9 +139,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "beenuar/AiSOC",
             "description": "Open-source AI-powered Security Operations Center \u2014 alert fusion, purple-team drills, agent-assisted triage, MITRE ATT&CK investigation. MIT-licensed, self-hostable.",
             "url": "https://github.com/beenuar/AiSOC",
-            "stars": 884,
+            "stars": 889,
             "forks": 66,
-            "score": 65
+            "score": 66
         },
         {
             "main_cat": "AI",
@@ -150,9 +150,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "iam567/LifeManga",
             "description": "ios swift swiftui openai gpt-image manga ai-art",
             "url": "https://github.com/iam567/LifeManga",
-            "stars": 332,
+            "stars": 333,
             "forks": 86,
-            "score": 63
+            "score": 60
         },
         {
             "main_cat": "AI",
@@ -161,7 +161,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "alvinunreal/openpets",
             "description": "Desktop pets for AI coding agents. Install pets, connect Claude Code via MCP, and see live coding status on your desktop.",
             "url": "https://github.com/alvinunreal/openpets",
-            "stars": 629,
+            "stars": 631,
             "forks": 16,
             "score": 56
         },
@@ -205,7 +205,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "agentara/skills",
             "description": "Original and practical skills for AI builders.",
             "url": "https://github.com/agentara/skills",
-            "stars": 229,
+            "stars": 230,
             "forks": 8,
             "score": 51
         },
@@ -222,17 +222,6 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
-            "sub_cat": "AI Agents",
-            "name": "token-tracker",
-            "full_name": "stormzhang/token-tracker",
-            "description": "Track token usage across local AI agents (Claude Code, Codex) \u2014 Custom StatusLine, CLI Dashboard with cost analysis, rate limit monitoring, and session tracking",
-            "url": "https://github.com/stormzhang/token-tracker",
-            "stars": 210,
-            "forks": 22,
-            "score": 46
-        },
-        {
-            "main_cat": "AI",
             "sub_cat": null,
             "name": "sven-family",
             "full_name": "laishiwen/sven-family",
@@ -240,6 +229,17 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/laishiwen/sven-family",
             "stars": 253,
             "forks": 8,
+            "score": 44
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI Agents",
+            "name": "token-tracker",
+            "full_name": "stormzhang/token-tracker",
+            "description": "Track token usage across local AI agents (Claude Code, Codex) \u2014 Custom StatusLine, CLI Dashboard with cost analysis, rate limit monitoring, and session tracking",
+            "url": "https://github.com/stormzhang/token-tracker",
+            "stars": 210,
+            "forks": 22,
             "score": 44
         },
         {
@@ -260,7 +260,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "AFK-surf/OpenBridge",
             "description": "A free, safe and open agent for everything. Alternative to Claude Cowork & Codex. Open Bridge, the AI bridge bwtween your intention and get the job done.",
             "url": "https://github.com/AFK-surf/OpenBridge",
-            "stars": 279,
+            "stars": 281,
             "forks": 17,
             "score": 41
         },
@@ -271,7 +271,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "DenAB-NVS/submarine",
             "description": "Sovereign, depth-adaptive AI memory. Open source. Local-first. Model-agnostic.",
             "url": "https://github.com/DenAB-NVS/submarine",
-            "stars": 168,
+            "stars": 169,
             "forks": 15,
             "score": 41
         },
@@ -293,7 +293,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "murongg/markra",
             "description": "A WYSIWYG Markdown editor with native AI. Fully open source. Free to use. Your data stays local.",
             "url": "https://github.com/murongg/markra",
-            "stars": 204,
+            "stars": 205,
             "forks": 9,
             "score": 39
         },
@@ -315,7 +315,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "awizemann/harness",
             "description": "AI-driven user testing for iOS Simulator, macOS apps, and web apps. Write a goal in plain language; an LLM agent drives the UI and reports friction. macOS 14+, Swift 6.",
             "url": "https://github.com/awizemann/harness",
-            "stars": 177,
+            "stars": 178,
             "forks": 8,
             "score": 37
         },
@@ -326,7 +326,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Negai-ai/AgentClaw",
             "description": "AgentClaw turns one-sentence ideas into reusable Claw capabilities. Build less boilerplate with declarative workflows, computer browser code file control, MCP, Skills, memory, knowledge bases, tracing, scheduling, and API/MCP publishing.",
             "url": "https://github.com/Negai-ai/AgentClaw",
-            "stars": 123,
+            "stars": 127,
             "forks": 10,
             "score": 37
         },
@@ -381,28 +381,6 @@ const ALPHA_DATA_V2 = {
             "full_name": "Semenka/futarchy",
             "description": "Vote values, bet beliefs. AI-traded conditional prediction markets for DAO governance \u2014 Sepolia testnet hackathon MVP.",
             "url": "https://github.com/Semenka/futarchy",
-            "stars": 0,
-            "forks": 0,
-            "score": 30
-        },
-        {
-            "main_cat": "Prediction Markets",
-            "sub_cat": null,
-            "name": "celo-predict",
-            "full_name": "benibauer3/celo-predict",
-            "description": "Decentralized binary prediction markets on Celo L2 \u2014 bet YES/NO with USDm stablecoins, MiniPay native, fee abstraction CIP-64",
-            "url": "https://github.com/benibauer3/celo-predict",
-            "stars": 0,
-            "forks": 0,
-            "score": 30
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "private-prediction-market",
-            "full_name": "Anyi-zheng/private-prediction-market",
-            "description": "Privacy-preserving prediction market built with Zama FHE \u2014 encrypted bet direction & amount on-chain (Sepolia testnet)",
-            "url": "https://github.com/Anyi-zheng/private-prediction-market",
             "stars": 0,
             "forks": 0,
             "score": 30
@@ -662,6 +640,17 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
+            "sub_cat": "AI Agents",
+            "name": "stoa-protocol",
+            "full_name": "Kingnanaweb3/stoa-protocol",
+            "description": "Stoa Protocol \u2014 The settlement layer for cross-chain AI agents.  Stoa enables AI agents operating on different blockchains to discover  each other, contract work, lock payment in escrow, verify outcomes,  and settle instantly in USDC \u2014 without bridges, wrappers, or human  intermediaries. ",
+            "url": "https://github.com/Kingnanaweb3/stoa-protocol",
+            "stars": 0,
+            "forks": 0,
+            "score": 30
+        },
+        {
+            "main_cat": "AI",
             "sub_cat": "AI General",
             "name": "comPi",
             "full_name": "Alyymx/comPi",
@@ -674,26 +663,12 @@ const ALPHA_DATA_V2 = {
     ],
     "news": [
         {
-            "title": "MetaBackdoor: Exploiting Positional Encoding as a Backdoor Attack Surface in LLMs",
-            "source": "ArXiv",
-            "type": "Research Alpha",
-            "color": "text-indigo-600",
-            "url": "http://arxiv.org/abs/2605.15172v1"
-        },
-        {
-            "title": "Talk is (Not) Cheap: A Taxonomy and Benchmark Coverage Audit for LLM Attacks",
-            "source": "ArXiv",
-            "type": "Research Alpha",
-            "color": "text-indigo-600",
-            "url": "http://arxiv.org/abs/2605.15118v1"
-        },
-        {
-            "title": "Will the price of Ethereum be between $2,100 and $2,200 on May 21? (Probability: 21%)",
+            "title": "Will the price of Ethereum be between $2,100 and $2,200 on May 21? (Probability: 20%)",
             "source": "Polymarket",
             "type": "Expectation",
             "color": "text-indigo-400",
             "url": "https://polymarket.com/market/will-the-price-of-ethereum-be-between-2100-2200-on-may-21"
         }
     ],
-    "timestamp": "2026-05-15 09:41"
+    "timestamp": "2026-05-15 11:50"
 };
