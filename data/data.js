@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "nexu-io/html-anything",
             "description": "\u2728 The agentic HTML editor \u2014 your local AI agent writes the HTML, you ship it. \ud83d\ude80 75 Skills \u00d7 9 Surfaces (magazine \u00b7 deck \u00b7 poster \u00b7 XHS / tweet \u00b7 prototype \u00b7 data report \u00b7 Hyperframes) \ud83d\udee1\ufe0f Sandboxed preview \u00b7 \ud83d\udce4 1-click to WeChat / X / Zhihu / HTML / PNG \ud83d\udd11 Zero API key \u2014 Claude Code / Cursor / Codex / Gemini / Copilot / OpenCode / Qwen / Aider.",
             "url": "https://github.com/nexu-io/html-anything",
-            "stars": 2342,
-            "forks": 262,
+            "stars": 2376,
+            "forks": 270,
             "score": 99
         },
         {
@@ -18,8 +18,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "strukto-ai/mirage",
             "description": "A Unified Virtual Filesystem For AI Agents",
             "url": "https://github.com/strukto-ai/mirage",
-            "stars": 2302,
-            "forks": 151,
+            "stars": 2305,
+            "forks": 152,
             "score": 99
         },
         {
@@ -29,7 +29,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "huangserva/3DCellForge",
             "description": "AI-powered interactive 3D model generation, inspection, and presentation studio.",
             "url": "https://github.com/huangserva/3DCellForge",
-            "stars": 2082,
+            "stars": 2083,
             "forks": 350,
             "score": 99
         },
@@ -40,7 +40,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "yaojingang/yao-open-prompts",
             "description": "Yao Open Prompts\uff1a\u4e2d\u6587 AI \u63d0\u793a\u8bcd\u5e93\uff0c\u8986\u76d6\u5de5\u4f5c\u3001\u5b66\u4e60\u3001\u5185\u5bb9\u3001\u8425\u9500\u548c\u751f\u6d3b\u573a\u666f",
             "url": "https://github.com/yaojingang/yao-open-prompts",
-            "stars": 2078,
+            "stars": 2082,
             "forks": 321,
             "score": 99
         },
@@ -51,7 +51,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "WenyuChiou/awesome-agentic-ai-zh",
             "description": "AI Agent \u4e2d\u6587\u5b78\u7fd2\u5730\u5716 \u2014 \u5f9e\u96f6\u958b\u59cb\u7684\u7d50\u69cb\u5316\u5b78\u7fd2\u8def\u5f91\uff0c\u6bcf\u968e\u6bb5\u6709\u5fc5\u505a\u7df4\u7fd2\u8ddf\u5fc5\u4fee\u95b1\u8b80\u3002\u4e09\u8a9e\u5c0d\u7167\uff08\u7e41\u4e2d\uff0f\u7b80\u4e2d\uff0fEnglish\uff09\u3002\u6b61\u8fce\u793e\u7fa4\u4e00\u8d77\u8ca2\u737b\u3001\u512a\u5316\u5167\u5bb9\u3002",
             "url": "https://github.com/WenyuChiou/awesome-agentic-ai-zh",
-            "stars": 1453,
+            "stars": 1454,
             "forks": 163,
             "score": 99
         },
@@ -62,8 +62,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "simonlin1212/a-stock-data",
             "description": "A \u80a1\u5168\u6808\u6570\u636e\u5de5\u5177\u5305 \u2014 6\u5c42\u67b6\u6784 \u00b7 15\u4e2a\u7aef\u70b9 \u00b7 7\u4e2a\u6570\u636e\u6e90 | AI Skill for China A-Share Market Data",
             "url": "https://github.com/simonlin1212/a-stock-data",
-            "stars": 971,
-            "forks": 226,
+            "stars": 979,
+            "forks": 229,
             "score": 99
         },
         {
@@ -73,7 +73,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "opensquilla/opensquilla",
             "description": "OpenSquilla \u2014 Token-Efficient AI Agent with same budget, higher intelligence density",
             "url": "https://github.com/opensquilla/opensquilla",
-            "stars": 879,
+            "stars": 881,
             "forks": 65,
             "score": 77
         },
@@ -84,9 +84,53 @@ const ALPHA_DATA_V2 = {
             "full_name": "simonlin1212/TradingAgents-astock",
             "description": "A\u80a1\u591aAgent\u6295\u7814\u6846\u67b6 \u2014 \u9002\u914dA\u80a1\u6570\u636e\u6e90(\u9f99\u864e\u699c/\u6e38\u8d44/\u89e3\u7981\u7b49)\uff0c7\u4f4d\u5206\u6790\u5e08\u57fa\u4e8eA\u80a1\u89c4\u5219\u7684\u8fa9\u8bba\u51b3\u7b56\uff0c\u57fa\u4e8eTradingAgents\u6df1\u5ea6\u6539\u9020\uff0c\u9002\u914d\u5927A\u3002A-share multi-agent investment research framework \u2014 7 AI analysts, bull/bear debate, risk assessment\u3002",
             "url": "https://github.com/simonlin1212/TradingAgents-astock",
-            "stars": 254,
-            "forks": 76,
-            "score": 76
+            "stars": 263,
+            "forks": 78,
+            "score": 77
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "trustclaw",
+            "full_name": "ComposioHQ/trustclaw",
+            "description": "A self-hostable personal AI agent with vector memory, Composio tools, and Telegram.",
+            "url": "https://github.com/ComposioHQ/trustclaw",
+            "stars": 653,
+            "forks": 149,
+            "score": 74
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "harmonist-orchestral",
+            "full_name": "2508965-ship-it/harmonist-orchestral",
+            "description": "\ud83d\ude80 Multi-Agent Orchestration Engine 2026 \u2013 Build & Deploy AI Swarms with Claude Code",
+            "url": "https://github.com/2508965-ship-it/harmonist-orchestral",
+            "stars": 348,
+            "forks": 0,
+            "score": 73
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "Canva-Pro-Toolkit",
+            "full_name": "Scratch-191/Canva-Pro-Toolkit",
+            "description": "\ud83d\ude80 Canva Pro Lifetime 2026 \u2013 Free Access & AI Design Suite by Mr. Craft",
+            "url": "https://github.com/Scratch-191/Canva-Pro-Toolkit",
+            "stars": 350,
+            "forks": 0,
+            "score": 73
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "claude-design-system-hooks",
+            "full_name": "BharathKumarSuresh/claude-design-system-hooks",
+            "description": "\ud83d\ude80 Ultimate Claude Code AI Design Skills & Hooks Bundle 2026 \u2013 Free Install",
+            "url": "https://github.com/BharathKumarSuresh/claude-design-system-hooks",
+            "stars": 347,
+            "forks": 0,
+            "score": 73
         },
         {
             "main_cat": "AI",
@@ -97,18 +141,7 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/alchaincyf/huashu-md-html",
             "stars": 552,
             "forks": 67,
-            "score": 75
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "trustclaw",
-            "full_name": "ComposioHQ/trustclaw",
-            "description": "A self-hostable personal AI agent with vector memory, Composio tools, and Telegram.",
-            "url": "https://github.com/ComposioHQ/trustclaw",
-            "stars": 653,
-            "forks": 148,
-            "score": 74
+            "score": 71
         },
         {
             "main_cat": "AI",
@@ -128,42 +161,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "yaassin12/DeepSeek-V4-Pro-App",
             "description": "DeepSeek V4 Pro: Advanced AI desktop app. Features: 1.6T MoE architecture, 1M token context window, Engram memory. Pro coding agent, Think Mode (High/Max), repo-level reasoning, complex bug fixing. Real-time web search, local API key storage, cross-file analysis, low-latency streaming interface.",
             "url": "https://github.com/yaassin12/DeepSeek-V4-Pro-App",
-            "stars": 412,
+            "stars": 416,
             "forks": 2,
-            "score": 65
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "harmonist-orchestral",
-            "full_name": "2508965-ship-it/harmonist-orchestral",
-            "description": "\ud83d\ude80 Multi-Agent Orchestration Engine 2026 \u2013 Build & Deploy AI Swarms with Claude Code",
-            "url": "https://github.com/2508965-ship-it/harmonist-orchestral",
-            "stars": 241,
-            "forks": 0,
             "score": 60
         },
         {
             "main_cat": "AI",
-            "sub_cat": null,
-            "name": "claude-design-system-hooks",
-            "full_name": "BharathKumarSuresh/claude-design-system-hooks",
-            "description": "\ud83d\ude80 Ultimate Claude Code AI Design Skills & Hooks Bundle 2026 \u2013 Free Install",
-            "url": "https://github.com/BharathKumarSuresh/claude-design-system-hooks",
-            "stars": 241,
-            "forks": 0,
-            "score": 60
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "Canva-Pro-Toolkit",
-            "full_name": "Scratch-191/Canva-Pro-Toolkit",
-            "description": "\ud83d\ude80 Canva Pro Lifetime 2026 \u2013 Free Access & AI Design Suite by Mr. Craft",
-            "url": "https://github.com/Scratch-191/Canva-Pro-Toolkit",
-            "stars": 240,
-            "forks": 0,
-            "score": 60
+            "sub_cat": "AI General",
+            "name": "elephant-agent",
+            "full_name": "agentic-in/elephant-agent",
+            "description": "Personal-Model First Self Evolving AI Agent \ud83d\udc18",
+            "url": "https://github.com/agentic-in/elephant-agent",
+            "stars": 226,
+            "forks": 2,
+            "score": 59
         },
         {
             "main_cat": "AI",
@@ -174,17 +185,6 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/iam567/LifeManga",
             "stars": 334,
             "forks": 86,
-            "score": 58
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "elephant-agent",
-            "full_name": "agentic-in/elephant-agent",
-            "description": "Personal-Model First Self Evolving AI Agent \ud83d\udc18",
-            "url": "https://github.com/agentic-in/elephant-agent",
-            "stars": 218,
-            "forks": 2,
             "score": 58
         },
         {
@@ -217,7 +217,7 @@ const ALPHA_DATA_V2 = {
             "description": "A test runner for agentskills.io-style AI agent skills",
             "url": "https://github.com/darkrishabh/agent-skills-eval",
             "stars": 491,
-            "forks": 17,
+            "forks": 18,
             "score": 51
         },
         {
@@ -282,7 +282,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "ItsssssJack/power-design",
             "description": "A Claude skill for slides that don't look like AI made them. Brand DNA \u00d7 20 codified design principles.",
             "url": "https://github.com/ItsssssJack/power-design",
-            "stars": 236,
+            "stars": 237,
             "forks": 34,
             "score": 42
         },
@@ -293,7 +293,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "statewright/statewright",
             "description": "State machine guardrails for AI agents",
             "url": "https://github.com/statewright/statewright",
-            "stars": 303,
+            "stars": 304,
             "forks": 7,
             "score": 41
         },
@@ -327,7 +327,7 @@ const ALPHA_DATA_V2 = {
             "description": "AgentClaw turns one-sentence ideas into reusable Claw capabilities. Build less boilerplate with declarative workflows, computer browser code file control, MCP, Skills, memory, knowledge bases, tracing, scheduling, and API/MCP publishing.",
             "url": "https://github.com/Negai-ai/AgentClaw",
             "stars": 145,
-            "forks": 13,
+            "forks": 14,
             "score": 37
         },
         {
@@ -717,5 +717,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/market/will-the-price-of-ethereum-be-between-2500-2600-on-may-21"
         }
     ],
-    "timestamp": "2026-05-16 14:50"
+    "timestamp": "2026-05-16 15:52"
 };
