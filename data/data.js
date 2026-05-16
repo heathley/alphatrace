@@ -7,7 +7,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "nexu-io/html-anything",
             "description": "\u2728 The agentic HTML editor \u2014 your local AI agent writes the HTML, you ship it. \ud83d\ude80 75 Skills \u00d7 9 Surfaces (magazine \u00b7 deck \u00b7 poster \u00b7 XHS / tweet \u00b7 prototype \u00b7 data report \u00b7 Hyperframes) \ud83d\udee1\ufe0f Sandboxed preview \u00b7 \ud83d\udce4 1-click to WeChat / X / Zhihu / HTML / PNG \ud83d\udd11 Zero API key \u2014 Claude Code / Cursor / Codex / Gemini / Copilot / OpenCode / Qwen / Aider.",
             "url": "https://github.com/nexu-io/html-anything",
-            "stars": 2425,
+            "stars": 2429,
             "forks": 283,
             "score": 99
         },
@@ -18,8 +18,19 @@ const ALPHA_DATA_V2 = {
             "full_name": "strukto-ai/mirage",
             "description": "A Unified Virtual Filesystem For AI Agents",
             "url": "https://github.com/strukto-ai/mirage",
-            "stars": 2311,
+            "stars": 2312,
             "forks": 153,
+            "score": 99
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "3DCellForge",
+            "full_name": "huangserva/3DCellForge",
+            "description": "AI-powered interactive 3D model generation, inspection, and presentation studio.",
+            "url": "https://github.com/huangserva/3DCellForge",
+            "stars": 2090,
+            "forks": 351,
             "score": 99
         },
         {
@@ -31,17 +42,6 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/yaojingang/yao-open-prompts",
             "stars": 2089,
             "forks": 322,
-            "score": 99
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "3DCellForge",
-            "full_name": "huangserva/3DCellForge",
-            "description": "AI-powered interactive 3D model generation, inspection, and presentation studio.",
-            "url": "https://github.com/huangserva/3DCellForge",
-            "stars": 2088,
-            "forks": 351,
             "score": 99
         },
         {
@@ -63,7 +63,7 @@ const ALPHA_DATA_V2 = {
             "description": "A \u80a1\u5168\u6808\u6570\u636e\u5de5\u5177\u5305 \u2014 6\u5c42\u67b6\u6784 \u00b7 15\u4e2a\u7aef\u70b9 \u00b7 7\u4e2a\u6570\u636e\u6e90 | AI Skill for China A-Share Market Data",
             "url": "https://github.com/simonlin1212/a-stock-data",
             "stars": 986,
-            "forks": 229,
+            "forks": 230,
             "score": 99
         },
         {
@@ -73,9 +73,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "shefys/grok-animus",
             "description": "Persistent AI companion engine \u2014 personality, memory, dreams, and evolution for any LLM. The foundation behind living AI companions.",
             "url": "https://github.com/shefys/grok-animus",
-            "stars": 533,
+            "stars": 536,
             "forks": 131,
-            "score": 82
+            "score": 83
         },
         {
             "main_cat": "AI",
@@ -106,7 +106,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "opensquilla/opensquilla",
             "description": "OpenSquilla \u2014 Token-Efficient AI Agent with same budget, higher intelligence density",
             "url": "https://github.com/opensquilla/opensquilla",
-            "stars": 893,
+            "stars": 894,
             "forks": 66,
             "score": 74
         },
@@ -161,8 +161,19 @@ const ALPHA_DATA_V2 = {
             "full_name": "yaassin12/DeepSeek-V4-Pro-App",
             "description": "DeepSeek V4 Pro: Advanced AI desktop app. Features: 1.6T MoE architecture, 1M token context window, Engram memory. Pro coding agent, Think Mode (High/Max), repo-level reasoning, complex bug fixing. Real-time web search, local API key storage, cross-file analysis, low-latency streaming interface.",
             "url": "https://github.com/yaassin12/DeepSeek-V4-Pro-App",
-            "stars": 445,
+            "stars": 476,
             "forks": 2,
+            "score": 64
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "elephant-agent",
+            "full_name": "agentic-in/elephant-agent",
+            "description": "Personal-Model First Self Evolving AI Agent \ud83d\udc18",
+            "url": "https://github.com/agentic-in/elephant-agent",
+            "stars": 241,
+            "forks": 4,
             "score": 62
         },
         {
@@ -174,17 +185,6 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/mikesheehan54/Claude-Code-Design-AI",
             "stars": 379,
             "forks": 0,
-            "score": 61
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "elephant-agent",
-            "full_name": "agentic-in/elephant-agent",
-            "description": "Personal-Model First Self Evolving AI Agent \ud83d\udc18",
-            "url": "https://github.com/agentic-in/elephant-agent",
-            "stars": 239,
-            "forks": 4,
             "score": 61
         },
         {
@@ -238,7 +238,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "agentara/skills",
             "description": "Original and practical skills for AI builders.",
             "url": "https://github.com/agentara/skills",
-            "stars": 237,
+            "stars": 238,
             "forks": 8,
             "score": 49
         },
@@ -282,7 +282,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "KevRojo/Dulus",
             "description": "The only real free CLI agent. Harvests your Gemini (guest, no login) \u00b7 Claude.ai \u00b7 Claude Code \u00b7 Kimi \u00b7 Qwen \u00b7 DeepSeek browser session and turns it into a tool-calling agent \u2014 reads & edits files, runs Bash, greps your repo, browses the web, ships commits, all from your terminal. Frontier IA driving real work at $0 ",
             "url": "https://github.com/KevRojo/Dulus",
-            "stars": 273,
+            "stars": 275,
             "forks": 13,
             "score": 41
         },
@@ -315,7 +315,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "murongg/markra",
             "description": "A WYSIWYG Markdown editor with native AI. Fully open source. Free to use. Your data stays local.",
             "url": "https://github.com/murongg/markra",
-            "stars": 225,
+            "stars": 226,
             "forks": 10,
             "score": 38
         },
@@ -326,7 +326,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Negai-ai/AgentClaw",
             "description": "AgentClaw turns one-sentence ideas into reusable Claw capabilities. Build less boilerplate with declarative workflows, computer browser code file control, MCP, Skills, memory, knowledge bases, tracing, scheduling, and API/MCP publishing.",
             "url": "https://github.com/Negai-ai/AgentClaw",
-            "stars": 150,
+            "stars": 151,
             "forks": 14,
             "score": 37
         },
@@ -695,5 +695,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/market/will-the-price-of-ethereum-be-between-2500-2600-on-may-21"
         }
     ],
-    "timestamp": "2026-05-16 21:42"
+    "timestamp": "2026-05-16 22:39"
 };
