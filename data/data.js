@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "nexu-io/html-anything",
             "description": "\u2728 The agentic HTML editor \u2014 your local AI agent writes the HTML, you ship it. \ud83d\ude80 75 Skills \u00d7 9 Surfaces (magazine \u00b7 deck \u00b7 poster \u00b7 XHS / tweet \u00b7 prototype \u00b7 data report \u00b7 Hyperframes) \ud83d\udee1\ufe0f Sandboxed preview \u00b7 \ud83d\udce4 1-click to WeChat / X / Zhihu / HTML / PNG \ud83d\udd11 Zero API key \u2014 Claude Code / Cursor / Codex / Gemini / Copilot / OpenCode / Qwen / Aider.",
             "url": "https://github.com/nexu-io/html-anything",
-            "stars": 2758,
-            "forks": 328,
+            "stars": 2764,
+            "forks": 329,
             "score": 99
         },
         {
@@ -51,7 +51,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "simonlin1212/a-stock-data",
             "description": "A\u80a1\u5168\u6808\u6570\u636e\u5de5\u5177\u5305 \u2014 7\u5c42\u67b6\u6784 \u00b7 28\u7aef\u70b9 \u00b7 13\u6570\u636e\u6e90 \u00b7 \u96f6\u7b2c\u4e09\u65b9\u4f9d\u8d56 | Full-stack China A-Share data toolkit for AI coding assistants",
             "url": "https://github.com/simonlin1212/a-stock-data",
-            "stars": 1096,
+            "stars": 1097,
             "forks": 256,
             "score": 99
         },
@@ -73,7 +73,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "shefyYuri/grok-animus",
             "description": "Persistent AI companion engine \u2014 personality, memory, dreams, and evolution for any LLM. The foundation behind living AI companions.",
             "url": "https://github.com/shefyYuri/grok-animus",
-            "stars": 573,
+            "stars": 574,
             "forks": 131,
             "score": 79
         },
@@ -95,7 +95,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "opensquilla/opensquilla",
             "description": "OpenSquilla \u2014 Token-Efficient AI Agent with same budget, higher intelligence density",
             "url": "https://github.com/opensquilla/opensquilla",
-            "stars": 972,
+            "stars": 974,
             "forks": 74,
             "score": 75
         },
@@ -106,7 +106,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "ComposioHQ/trustclaw",
             "description": "A self-hostable personal AI agent with vector memory, Composio tools, and Telegram.",
             "url": "https://github.com/ComposioHQ/trustclaw",
-            "stars": 666,
+            "stars": 667,
             "forks": 157,
             "score": 73
         },
@@ -205,7 +205,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "alvinunreal/openpets",
             "description": "Desktop pets for AI coding agents. Install pets, connect Claude Code via MCP, and see live coding status on your desktop.",
             "url": "https://github.com/alvinunreal/openpets",
-            "stars": 721,
+            "stars": 722,
             "forks": 19,
             "score": 54
         },
@@ -216,7 +216,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Callous-0923/agent-study",
             "description": "36\u7ae0AI Agent\u5168\u6808\u8bfe\u7a0b\uff1a\u4eceReAct\u5faa\u73af\u5230Claude Code\u9006\u5411\u3001MCP/A2A\u534f\u8bae\u3001RAG\u3001DSPy\u3001\u751f\u4ea7\u53ef\u89c2\u6d4b\u6027\u2014\u2014\u5168\u90e8\u4e3a\u53ef\u8fd0\u884cPython\u6587\u4ef6\uff0c\u9762\u8bd5\u5bfc\u5411\u3002",
             "url": "https://github.com/Callous-0923/agent-study",
-            "stars": 209,
+            "stars": 211,
             "forks": 18,
             "score": 53
         },
@@ -227,7 +227,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "darkrishabh/agent-skills-eval",
             "description": "A test runner for agentskills.io-style AI agent skills",
             "url": "https://github.com/darkrishabh/agent-skills-eval",
-            "stars": 496,
+            "stars": 497,
             "forks": 19,
             "score": 50
         },
@@ -249,7 +249,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "trading-2028/polymarket-ai-trading",
             "description": "Polymarket Polymarket AI trading AI trading prediction markets prediction markets paper trading paper trading OpenAI OpenAI Node.js Node.js Express Express Docker Docker CLOB CLOB mean reversion mean reversion dashboard dashboard crypto bot crypto bot SQLite SQLite automated trading automated trading API API research trading research trading",
             "url": "https://github.com/trading-2028/polymarket-ai-trading",
-            "stars": 231,
+            "stars": 233,
             "forks": 0,
             "score": 49
         },
@@ -293,9 +293,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "KevRojo/Dulus",
             "description": "The only real free CLI agent. Harvests your Gemini (guest, no login) \u00b7 Claude.ai \u00b7 Claude Code \u00b7 Kimi \u00b7 Qwen \u00b7 DeepSeek browser session and turns it into a tool-calling agent \u2014 reads & edits files, runs Bash, greps your repo, browses the web, ships commits, all from your terminal. Frontier IA driving real work at $0 ",
             "url": "https://github.com/KevRojo/Dulus",
-            "stars": 298,
+            "stars": 307,
             "forks": 14,
-            "score": 41
+            "score": 42
         },
         {
             "main_cat": "AI",
@@ -304,7 +304,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Sayhi-bzb/Agent-HTML",
             "description": "AI-friendly semantic HTML architecture for better human-agent collaboration.Replacing long Markdown with stable, interactive artifacts.",
             "url": "https://github.com/Sayhi-bzb/Agent-HTML",
-            "stars": 233,
+            "stars": 234,
             "forks": 7,
             "score": 41
         },
@@ -315,7 +315,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "murongg/markra",
             "description": "A WYSIWYG Markdown editor with native AI. Fully open source. Free to use. Your data stays local.",
             "url": "https://github.com/murongg/markra",
-            "stars": 241,
+            "stars": 242,
             "forks": 10,
             "score": 38
         },
@@ -403,6 +403,17 @@ const ALPHA_DATA_V2 = {
             "full_name": "vonthadon/mlb-daily-pipeline",
             "description": "Automated MLB daily betting pipeline - slate, lineups, weather, odds & model predictions emailed daily",
             "url": "https://github.com/vonthadon/mlb-daily-pipeline",
+            "stars": 0,
+            "forks": 0,
+            "score": 30
+        },
+        {
+            "main_cat": "Prediction Markets",
+            "sub_cat": null,
+            "name": "thedealer",
+            "full_name": "thedealerprd/thedealer",
+            "description": "The mascot is a robotic eagle and dragon fighting over a glowing microchip. A Sleek Prediction Market Web App. You spin up a clean, high contrast landing page where users connect their wallets to bet on the actual fallout of the meeting. Markets could include micro bets. It turns global diplomacy into a degen betting slip.",
+            "url": "https://github.com/thedealerprd/thedealer",
             "stars": 0,
             "forks": 0,
             "score": 30
@@ -688,12 +699,12 @@ const ALPHA_DATA_V2 = {
             "url": "http://arxiv.org/abs/2605.15118v1"
         },
         {
-            "title": "Will the price of Ethereum be between $2,500 and $2,600 on May 21? (Probability: 2%)",
+            "title": "Will the price of Solana be between $90 and $100 on May 21? (Probability: 19%)",
             "source": "Polymarket",
             "type": "Expectation",
             "color": "text-indigo-400",
-            "url": "https://polymarket.com/market/will-the-price-of-ethereum-be-between-2500-2600-on-may-21"
+            "url": "https://polymarket.com/market/will-the-price-of-solana-be-between-90-100-on-may-21"
         }
     ],
-    "timestamp": "2026-05-17 22:47"
+    "timestamp": "2026-05-17 23:52"
 };
