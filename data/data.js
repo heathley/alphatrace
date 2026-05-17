@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "nexu-io/html-anything",
             "description": "\u2728 The agentic HTML editor \u2014 your local AI agent writes the HTML, you ship it. \ud83d\ude80 75 Skills \u00d7 9 Surfaces (magazine \u00b7 deck \u00b7 poster \u00b7 XHS / tweet \u00b7 prototype \u00b7 data report \u00b7 Hyperframes) \ud83d\udee1\ufe0f Sandboxed preview \u00b7 \ud83d\udce4 1-click to WeChat / X / Zhihu / HTML / PNG \ud83d\udd11 Zero API key \u2014 Claude Code / Cursor / Codex / Gemini / Copilot / OpenCode / Qwen / Aider.",
             "url": "https://github.com/nexu-io/html-anything",
-            "stars": 2739,
-            "forks": 327,
+            "stars": 2743,
+            "forks": 328,
             "score": 99
         },
         {
@@ -18,7 +18,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "strukto-ai/mirage",
             "description": "A Unified Virtual Filesystem For AI Agents",
             "url": "https://github.com/strukto-ai/mirage",
-            "stars": 2344,
+            "stars": 2346,
             "forks": 156,
             "score": 99
         },
@@ -40,7 +40,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "huangserva/3DCellForge",
             "description": "AI-powered interactive 3D model generation, inspection, and presentation studio.",
             "url": "https://github.com/huangserva/3DCellForge",
-            "stars": 2104,
+            "stars": 2105,
             "forks": 352,
             "score": 99
         },
@@ -51,7 +51,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "WenyuChiou/awesome-agentic-ai-zh",
             "description": "A structured, trilingual (\u7e41\u4e2d / \u7b80\u4e2d / English) learning roadmap for agentic AI \u2014 from LLM basics to multi-agent systems. 8 stages \u00b7 145+ curated projects \u00b7 hands-on exercises. \u4e2d\u6587 AI agent \u5b78\u7fd2\u5730\u5716\u3002",
             "url": "https://github.com/WenyuChiou/awesome-agentic-ai-zh",
-            "stars": 1504,
+            "stars": 1505,
             "forks": 169,
             "score": 99
         },
@@ -79,17 +79,6 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "opensquilla",
-            "full_name": "opensquilla/opensquilla",
-            "description": "OpenSquilla \u2014 Token-Efficient AI Agent with same budget, higher intelligence density",
-            "url": "https://github.com/opensquilla/opensquilla",
-            "stars": 958,
-            "forks": 73,
-            "score": 78
-        },
-        {
-            "main_cat": "AI",
             "sub_cat": null,
             "name": "TradingAgents-astock",
             "full_name": "simonlin1212/TradingAgents-astock",
@@ -98,6 +87,17 @@ const ALPHA_DATA_V2 = {
             "stars": 312,
             "forks": 90,
             "score": 78
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "opensquilla",
+            "full_name": "opensquilla/opensquilla",
+            "description": "OpenSquilla \u2014 Token-Efficient AI Agent with same budget, higher intelligence density",
+            "url": "https://github.com/opensquilla/opensquilla",
+            "stars": 959,
+            "forks": 73,
+            "score": 74
         },
         {
             "main_cat": "AI",
@@ -161,7 +161,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "yaassin12/DeepSeek-V4-Pro-App",
             "description": "DeepSeek V4 Pro: Advanced AI desktop app. Features: 1.6T MoE architecture, 1M token context window, Engram memory. Pro coding agent, Think Mode (High/Max), repo-level reasoning, complex bug fixing. Real-time web search, local API key storage, cross-file analysis, low-latency streaming interface.",
             "url": "https://github.com/yaassin12/DeepSeek-V4-Pro-App",
-            "stars": 562,
+            "stars": 564,
             "forks": 2,
             "score": 65
         },
@@ -216,7 +216,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "trading-2028/polymarket-ai-trading",
             "description": "Polymarket Polymarket AI trading AI trading prediction markets prediction markets paper trading paper trading OpenAI OpenAI Node.js Node.js Express Express Docker Docker CLOB CLOB mean reversion mean reversion dashboard dashboard crypto bot crypto bot SQLite SQLite automated trading automated trading API API research trading research trading",
             "url": "https://github.com/trading-2028/polymarket-ai-trading",
-            "stars": 220,
+            "stars": 223,
             "forks": 0,
             "score": 52
         },
@@ -227,7 +227,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "darkrishabh/agent-skills-eval",
             "description": "A test runner for agentskills.io-style AI agent skills",
             "url": "https://github.com/darkrishabh/agent-skills-eval",
-            "stars": 494,
+            "stars": 495,
             "forks": 19,
             "score": 50
         },
@@ -326,7 +326,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "scosman/cursed_browser",
             "description": "True AI-Native Browser \u2014 a VLM reads the HTML and hallucinates the page.",
             "url": "https://github.com/scosman/cursed_browser",
-            "stars": 207,
+            "stars": 208,
             "forks": 1,
             "score": 36
         },
@@ -349,6 +349,17 @@ const ALPHA_DATA_V2 = {
             "description": "CUDA Opt Agent is an LLM-driven toolkit for automated CUDA kernel optimization. It generates baselines from text, specs, or existing .cu files, compiles and validates with nvcc, benchmarks on real GPUs, profiles with Nsight Compute, iterates improvements, and preserves reusable tuning knowledge.",
             "url": "https://github.com/KernelFlow-ops/cuda-opt-agent",
             "stars": 8,
+            "forks": 1,
+            "score": 30
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "cpu-gpu-codesign-agentic-inference",
+            "full_name": "andyluo7/cpu-gpu-codesign-agentic-inference",
+            "description": "CPU-GPU co-design analysis for agentic LLM inference. Blog: andyluo7.github.io",
+            "url": "https://github.com/andyluo7/cpu-gpu-codesign-agentic-inference",
+            "stars": 6,
             "forks": 1,
             "score": 30
         },
@@ -706,5 +717,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/market/will-the-price-of-ethereum-be-between-2500-2600-on-may-21"
         }
     ],
-    "timestamp": "2026-05-17 16:51"
+    "timestamp": "2026-05-17 17:53"
 };
