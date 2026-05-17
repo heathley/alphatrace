@@ -7,7 +7,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "nexu-io/html-anything",
             "description": "\u2728 The agentic HTML editor \u2014 your local AI agent writes the HTML, you ship it. \ud83d\ude80 75 Skills \u00d7 9 Surfaces (magazine \u00b7 deck \u00b7 poster \u00b7 XHS / tweet \u00b7 prototype \u00b7 data report \u00b7 Hyperframes) \ud83d\udee1\ufe0f Sandboxed preview \u00b7 \ud83d\udce4 1-click to WeChat / X / Zhihu / HTML / PNG \ud83d\udd11 Zero API key \u2014 Claude Code / Cursor / Codex / Gemini / Copilot / OpenCode / Qwen / Aider.",
             "url": "https://github.com/nexu-io/html-anything",
-            "stars": 2753,
+            "stars": 2757,
             "forks": 328,
             "score": 99
         },
@@ -40,7 +40,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "huangserva/3DCellForge",
             "description": "AI-powered interactive 3D model generation, inspection, and presentation studio.",
             "url": "https://github.com/huangserva/3DCellForge",
-            "stars": 2105,
+            "stars": 2107,
             "forks": 352,
             "score": 99
         },
@@ -51,7 +51,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "WenyuChiou/awesome-agentic-ai-zh",
             "description": "A structured, trilingual (\u7e41\u4e2d / \u7b80\u4e2d / English) learning roadmap for agentic AI \u2014 from LLM basics to multi-agent systems. 8 stages \u00b7 145+ curated projects \u00b7 hands-on exercises. \u4e2d\u6587 AI agent \u5b78\u7fd2\u5730\u5716\u3002",
             "url": "https://github.com/WenyuChiou/awesome-agentic-ai-zh",
-            "stars": 1506,
+            "stars": 1507,
             "forks": 169,
             "score": 99
         },
@@ -73,7 +73,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "shefyYuri/grok-animus",
             "description": "Persistent AI companion engine \u2014 personality, memory, dreams, and evolution for any LLM. The foundation behind living AI companions.",
             "url": "https://github.com/shefyYuri/grok-animus",
-            "stars": 569,
+            "stars": 572,
             "forks": 131,
             "score": 79
         },
@@ -84,7 +84,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "simonlin1212/TradingAgents-astock",
             "description": "A\u80a1\u591aAgent\u6295\u7814\u6846\u67b6 \u2014 \u9002\u914dA\u80a1\u6570\u636e\u6e90(\u9f99\u864e\u699c/\u6e38\u8d44/\u89e3\u7981\u7b49)\uff0c7\u4f4d\u5206\u6790\u5e08\u57fa\u4e8eA\u80a1\u89c4\u5219\u7684\u8fa9\u8bba\u51b3\u7b56\uff0c\u57fa\u4e8eTradingAgents\u6df1\u5ea6\u6539\u9020\uff0c\u9002\u914d\u5927A\u3002A-share multi-agent investment research framework \u2014 7 AI analysts, bull/bear debate, risk assessment\u3002",
             "url": "https://github.com/simonlin1212/TradingAgents-astock",
-            "stars": 313,
+            "stars": 314,
             "forks": 90,
             "score": 78
         },
@@ -95,9 +95,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "opensquilla/opensquilla",
             "description": "OpenSquilla \u2014 Token-Efficient AI Agent with same budget, higher intelligence density",
             "url": "https://github.com/opensquilla/opensquilla",
-            "stars": 966,
-            "forks": 73,
-            "score": 74
+            "stars": 969,
+            "forks": 74,
+            "score": 75
         },
         {
             "main_cat": "AI",
@@ -108,39 +108,6 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/ComposioHQ/trustclaw",
             "stars": 665,
             "forks": 155,
-            "score": 72
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "claude-design-system-hooks",
-            "full_name": "BharathKumarSuresh/claude-design-system-hooks",
-            "description": "\ud83d\ude80 Ultimate Claude Code AI Design Skills & Hooks Bundle 2026 \u2013 Free Install",
-            "url": "https://github.com/BharathKumarSuresh/claude-design-system-hooks",
-            "stars": 421,
-            "forks": 0,
-            "score": 72
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "harmonist-orchestral",
-            "full_name": "2508965-ship-it/harmonist-orchestral",
-            "description": "\ud83d\ude80 Multi-Agent Orchestration Engine 2026 \u2013 Build & Deploy AI Swarms with Claude Code",
-            "url": "https://github.com/2508965-ship-it/harmonist-orchestral",
-            "stars": 420,
-            "forks": 0,
-            "score": 72
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "Canva-Pro-Toolkit",
-            "full_name": "Scratch-191/Canva-Pro-Toolkit",
-            "description": "\ud83d\ude80 Canva Pro Lifetime 2026 \u2013 Free Access & AI Design Suite by Mr. Craft",
-            "url": "https://github.com/Scratch-191/Canva-Pro-Toolkit",
-            "stars": 420,
-            "forks": 0,
             "score": 72
         },
         {
@@ -161,9 +128,42 @@ const ALPHA_DATA_V2 = {
             "full_name": "yaassin12/DeepSeek-V4-Pro-App",
             "description": "DeepSeek V4 Pro: Advanced AI desktop app. Features: 1.6T MoE architecture, 1M token context window, Engram memory. Pro coding agent, Think Mode (High/Max), repo-level reasoning, complex bug fixing. Real-time web search, local API key storage, cross-file analysis, low-latency streaming interface.",
             "url": "https://github.com/yaassin12/DeepSeek-V4-Pro-App",
-            "stars": 570,
+            "stars": 582,
             "forks": 2,
             "score": 66
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "claude-design-system-hooks",
+            "full_name": "BharathKumarSuresh/claude-design-system-hooks",
+            "description": "\ud83d\ude80 Ultimate Claude Code AI Design Skills & Hooks Bundle 2026 \u2013 Free Install",
+            "url": "https://github.com/BharathKumarSuresh/claude-design-system-hooks",
+            "stars": 421,
+            "forks": 0,
+            "score": 65
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "harmonist-orchestral",
+            "full_name": "2508965-ship-it/harmonist-orchestral",
+            "description": "\ud83d\ude80 Multi-Agent Orchestration Engine 2026 \u2013 Build & Deploy AI Swarms with Claude Code",
+            "url": "https://github.com/2508965-ship-it/harmonist-orchestral",
+            "stars": 420,
+            "forks": 0,
+            "score": 65
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "Canva-Pro-Toolkit",
+            "full_name": "Scratch-191/Canva-Pro-Toolkit",
+            "description": "\ud83d\ude80 Canva Pro Lifetime 2026 \u2013 Free Access & AI Design Suite by Mr. Craft",
+            "url": "https://github.com/Scratch-191/Canva-Pro-Toolkit",
+            "stars": 420,
+            "forks": 0,
+            "score": 65
         },
         {
             "main_cat": "AI",
@@ -183,7 +183,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "mikesheehan54/Claude-Code-Design-AI",
             "description": "Claude Design: AI UI/UX architect. Screenshot to React, Figma components, Tailwind CSS generator. Prototyping agent, design systems, wireframe renderer. SVG icon creator, dark mode toggle, responsive layout tool. Front-end code export, shadcn/ui integration, vector assets, branding assistant.",
             "url": "https://github.com/mikesheehan54/Claude-Code-Design-AI",
-            "stars": 380,
+            "stars": 390,
             "forks": 0,
             "score": 57
         },
@@ -208,6 +208,17 @@ const ALPHA_DATA_V2 = {
             "stars": 721,
             "forks": 19,
             "score": 54
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "agent-study",
+            "full_name": "Callous-0923/agent-study",
+            "description": "36\u7ae0AI Agent\u5168\u6808\u8bfe\u7a0b\uff1a\u4eceReAct\u5faa\u73af\u5230Claude Code\u9006\u5411\u3001MCP/A2A\u534f\u8bae\u3001RAG\u3001DSPy\u3001\u751f\u4ea7\u53ef\u89c2\u6d4b\u6027\u2014\u2014\u5168\u90e8\u4e3a\u53ef\u8fd0\u884cPython\u6587\u4ef6\uff0c\u9762\u8bd5\u5bfc\u5411\u3002",
+            "url": "https://github.com/Callous-0923/agent-study",
+            "stars": 208,
+            "forks": 18,
+            "score": 53
         },
         {
             "main_cat": "AI",
@@ -238,9 +249,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "trading-2028/polymarket-ai-trading",
             "description": "Polymarket Polymarket AI trading AI trading prediction markets prediction markets paper trading paper trading OpenAI OpenAI Node.js Node.js Express Express Docker Docker CLOB CLOB mean reversion mean reversion dashboard dashboard crypto bot crypto bot SQLite SQLite automated trading automated trading API API research trading research trading",
             "url": "https://github.com/trading-2028/polymarket-ai-trading",
-            "stars": 227,
+            "stars": 228,
             "forks": 0,
-            "score": 48
+            "score": 49
         },
         {
             "main_cat": "AI",
@@ -315,20 +326,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "Negai-ai/AgentClaw",
             "description": "AgentClaw turns one-sentence ideas into reusable Claw capabilities. Build less boilerplate with declarative workflows, computer browser code file control, MCP, Skills, memory, knowledge bases, tracing, scheduling, and API/MCP publishing.",
             "url": "https://github.com/Negai-ai/AgentClaw",
-            "stars": 161,
+            "stars": 163,
             "forks": 14,
             "score": 37
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "cursed_browser",
-            "full_name": "scosman/cursed_browser",
-            "description": "True AI-Native Browser \u2014 a VLM reads the HTML and hallucinates the page.",
-            "url": "https://github.com/scosman/cursed_browser",
-            "stars": 208,
-            "forks": 1,
-            "score": 36
         },
         {
             "main_cat": "AI",
@@ -370,17 +370,6 @@ const ALPHA_DATA_V2 = {
             "full_name": "regressor23/ZernoFi",
             "description": "ZernoFi is a Solana-native RWA aggregator that allows crypto investors to earn stable, non-volatile yield in USDC backed by real-world agricultural businesses.",
             "url": "https://github.com/regressor23/ZernoFi",
-            "stars": 0,
-            "forks": 0,
-            "score": 30
-        },
-        {
-            "main_cat": "Prediction Markets",
-            "sub_cat": null,
-            "name": "simple-value-betting",
-            "full_name": "i-osipchyk/simple-value-betting",
-            "description": "Implementation of value betting on Polymarket crypto markets using custom ML models' predictions as edge.",
-            "url": "https://github.com/i-osipchyk/simple-value-betting",
             "stars": 0,
             "forks": 0,
             "score": 30
@@ -706,5 +695,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/market/will-the-price-of-ethereum-be-between-2500-2600-on-may-21"
         }
     ],
-    "timestamp": "2026-05-17 20:06"
+    "timestamp": "2026-05-17 21:49"
 };
