@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "nexu-io/html-anything",
             "description": "\u2728 The agentic HTML editor \u2014 your local AI agent writes the HTML, you ship it. \ud83d\ude80 75 Skills \u00d7 9 Surfaces (magazine \u00b7 deck \u00b7 poster \u00b7 XHS / tweet \u00b7 prototype \u00b7 data report \u00b7 Hyperframes) \ud83d\udee1\ufe0f Sandboxed preview \u00b7 \ud83d\udce4 1-click to WeChat / X / Zhihu / HTML / PNG \ud83d\udd11 Zero API key \u2014 Claude Code / Cursor / Codex / Gemini / Copilot / OpenCode / Qwen / Aider.",
             "url": "https://github.com/nexu-io/html-anything",
-            "stars": 2727,
-            "forks": 325,
+            "stars": 2739,
+            "forks": 327,
             "score": 99
         },
         {
@@ -18,7 +18,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "strukto-ai/mirage",
             "description": "A Unified Virtual Filesystem For AI Agents",
             "url": "https://github.com/strukto-ai/mirage",
-            "stars": 2343,
+            "stars": 2344,
             "forks": 156,
             "score": 99
         },
@@ -29,7 +29,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "yaojingang/yao-open-prompts",
             "description": "Yao Open Prompts\uff1a\u4e2d\u6587 AI \u63d0\u793a\u8bcd\u5e93\uff0c\u8986\u76d6\u5de5\u4f5c\u3001\u5b66\u4e60\u3001\u5185\u5bb9\u3001\u8425\u9500\u548c\u751f\u6d3b\u573a\u666f",
             "url": "https://github.com/yaojingang/yao-open-prompts",
-            "stars": 2122,
+            "stars": 2124,
             "forks": 326,
             "score": 99
         },
@@ -40,7 +40,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "huangserva/3DCellForge",
             "description": "AI-powered interactive 3D model generation, inspection, and presentation studio.",
             "url": "https://github.com/huangserva/3DCellForge",
-            "stars": 2103,
+            "stars": 2104,
             "forks": 352,
             "score": 99
         },
@@ -51,7 +51,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "WenyuChiou/awesome-agentic-ai-zh",
             "description": "A structured, trilingual (\u7e41\u4e2d / \u7b80\u4e2d / English) learning roadmap for agentic AI \u2014 from LLM basics to multi-agent systems. 8 stages \u00b7 145+ curated projects \u00b7 hands-on exercises. \u4e2d\u6587 AI agent \u5b78\u7fd2\u5730\u5716\u3002",
             "url": "https://github.com/WenyuChiou/awesome-agentic-ai-zh",
-            "stars": 1501,
+            "stars": 1504,
             "forks": 169,
             "score": 99
         },
@@ -62,7 +62,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "simonlin1212/a-stock-data",
             "description": "A\u80a1\u5168\u6808\u6570\u636e\u5de5\u5177\u5305 \u2014 7\u5c42\u67b6\u6784 \u00b7 28\u7aef\u70b9 \u00b7 13\u6570\u636e\u6e90 \u00b7 \u96f6\u7b2c\u4e09\u65b9\u4f9d\u8d56 | Full-stack China A-Share data toolkit for AI coding assistants",
             "url": "https://github.com/simonlin1212/a-stock-data",
-            "stars": 1088,
+            "stars": 1094,
             "forks": 255,
             "score": 99
         },
@@ -73,7 +73,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "shefyYuri/grok-animus",
             "description": "Persistent AI companion engine \u2014 personality, memory, dreams, and evolution for any LLM. The foundation behind living AI companions.",
             "url": "https://github.com/shefyYuri/grok-animus",
-            "stars": 565,
+            "stars": 568,
             "forks": 131,
             "score": 79
         },
@@ -84,7 +84,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "opensquilla/opensquilla",
             "description": "OpenSquilla \u2014 Token-Efficient AI Agent with same budget, higher intelligence density",
             "url": "https://github.com/opensquilla/opensquilla",
-            "stars": 956,
+            "stars": 958,
             "forks": 73,
             "score": 78
         },
@@ -161,20 +161,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "yaassin12/DeepSeek-V4-Pro-App",
             "description": "DeepSeek V4 Pro: Advanced AI desktop app. Features: 1.6T MoE architecture, 1M token context window, Engram memory. Pro coding agent, Think Mode (High/Max), repo-level reasoning, complex bug fixing. Real-time web search, local API key storage, cross-file analysis, low-latency streaming interface.",
             "url": "https://github.com/yaassin12/DeepSeek-V4-Pro-App",
-            "stars": 560,
+            "stars": 562,
             "forks": 2,
             "score": 65
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "Claude-Code-Design-AI",
-            "full_name": "mikesheehan54/Claude-Code-Design-AI",
-            "description": "Claude Design: AI UI/UX architect. Screenshot to React, Figma components, Tailwind CSS generator. Prototyping agent, design systems, wireframe renderer. SVG icon creator, dark mode toggle, responsive layout tool. Front-end code export, shadcn/ui integration, vector assets, branding assistant.",
-            "url": "https://github.com/mikesheehan54/Claude-Code-Design-AI",
-            "stars": 380,
-            "forks": 0,
-            "score": 61
         },
         {
             "main_cat": "AI",
@@ -190,11 +179,22 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
+            "name": "Claude-Code-Design-AI",
+            "full_name": "mikesheehan54/Claude-Code-Design-AI",
+            "description": "Claude Design: AI UI/UX architect. Screenshot to React, Figma components, Tailwind CSS generator. Prototyping agent, design systems, wireframe renderer. SVG icon creator, dark mode toggle, responsive layout tool. Front-end code export, shadcn/ui integration, vector assets, branding assistant.",
+            "url": "https://github.com/mikesheehan54/Claude-Code-Design-AI",
+            "stars": 380,
+            "forks": 0,
+            "score": 57
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
             "name": "openpets",
             "full_name": "alvinunreal/openpets",
             "description": "Desktop pets for AI coding agents. Install pets, connect Claude Code via MCP, and see live coding status on your desktop.",
             "url": "https://github.com/alvinunreal/openpets",
-            "stars": 717,
+            "stars": 719,
             "forks": 19,
             "score": 56
         },
@@ -216,9 +216,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "trading-2028/polymarket-ai-trading",
             "description": "Polymarket Polymarket AI trading AI trading prediction markets prediction markets paper trading paper trading OpenAI OpenAI Node.js Node.js Express Express Docker Docker CLOB CLOB mean reversion mean reversion dashboard dashboard crypto bot crypto bot SQLite SQLite automated trading automated trading API API research trading research trading",
             "url": "https://github.com/trading-2028/polymarket-ai-trading",
-            "stars": 218,
+            "stars": 220,
             "forks": 0,
-            "score": 51
+            "score": 52
         },
         {
             "main_cat": "AI",
@@ -282,7 +282,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Sayhi-bzb/Agent-HTML",
             "description": "AI-friendly semantic HTML architecture for better human-agent collaboration.Replacing long Markdown with stable, interactive artifacts.",
             "url": "https://github.com/Sayhi-bzb/Agent-HTML",
-            "stars": 231,
+            "stars": 232,
             "forks": 7,
             "score": 41
         },
@@ -530,6 +530,17 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
+            "sub_cat": "AI Agents",
+            "name": "PalmFlow-AI",
+            "full_name": "sunkireddy-Barath/PalmFlow-AI",
+            "description": "PalmFlow AI is an autonomous treasury and payment network powered by Palm USD (PUSD) on Solana, where AI agents can earn, negotiate, manage treasury, and make real-time cross-border payments using non-freezable stablecoin infrastructure.",
+            "url": "https://github.com/sunkireddy-Barath/PalmFlow-AI",
+            "stars": 0,
+            "forks": 0,
+            "score": 30
+        },
+        {
+            "main_cat": "AI",
             "sub_cat": "AI General",
             "name": "chainlink-ccip-rebase-token-foundry",
             "full_name": "jasmineli-dev/chainlink-ccip-rebase-token-foundry",
@@ -674,6 +685,20 @@ const ALPHA_DATA_V2 = {
     ],
     "news": [
         {
+            "title": "MetaBackdoor: Exploiting Positional Encoding as a Backdoor Attack Surface in LLMs",
+            "source": "ArXiv",
+            "type": "Research Alpha",
+            "color": "text-indigo-600",
+            "url": "http://arxiv.org/abs/2605.15172v1"
+        },
+        {
+            "title": "Talk is (Not) Cheap: A Taxonomy and Benchmark Coverage Audit for LLM Attacks",
+            "source": "ArXiv",
+            "type": "Research Alpha",
+            "color": "text-indigo-600",
+            "url": "http://arxiv.org/abs/2605.15118v1"
+        },
+        {
             "title": "Will the price of Ethereum be between $2,500 and $2,600 on May 21? (Probability: 2%)",
             "source": "Polymarket",
             "type": "Expectation",
@@ -681,5 +706,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/market/will-the-price-of-ethereum-be-between-2500-2600-on-may-21"
         }
     ],
-    "timestamp": "2026-05-17 15:53"
+    "timestamp": "2026-05-17 16:51"
 };
