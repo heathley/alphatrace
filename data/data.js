@@ -7,7 +7,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "nexu-io/html-anything",
             "description": "\u2728 The agentic HTML editor \u2014 your local AI agent writes the HTML, you ship it. \ud83d\ude80 75 Skills \u00d7 9 Surfaces (magazine \u00b7 deck \u00b7 poster \u00b7 XHS / tweet \u00b7 prototype \u00b7 data report \u00b7 Hyperframes) \ud83d\udee1\ufe0f Sandboxed preview \u00b7 \ud83d\udce4 1-click to WeChat / X / Zhihu / HTML / PNG \ud83d\udd11 Zero API key \u2014 Claude Code / Cursor / Codex / Gemini / Copilot / OpenCode / Qwen / Aider.",
             "url": "https://github.com/nexu-io/html-anything",
-            "stars": 3176,
+            "stars": 3180,
             "forks": 362,
             "score": 99
         },
@@ -18,8 +18,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "strukto-ai/mirage",
             "description": "A Unified Virtual Filesystem For AI Agents",
             "url": "https://github.com/strukto-ai/mirage",
-            "stars": 2381,
-            "forks": 157,
+            "stars": 2383,
+            "forks": 156,
             "score": 99
         },
         {
@@ -62,8 +62,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "Doorman11991/smallcode",
             "description": "AI coding agent optimized for small LLMs. 87% benchmark with 4B-active model.",
             "url": "https://github.com/Doorman11991/smallcode",
-            "stars": 388,
-            "forks": 24,
+            "stars": 429,
+            "forks": 25,
             "score": 99
         },
         {
@@ -74,7 +74,7 @@ const ALPHA_DATA_V2 = {
             "description": "Polymarket Polymarket AI trading AI trading prediction markets prediction markets paper trading paper trading OpenAI OpenAI Node.js Node.js Express Express Docker Docker CLOB CLOB mean reversion mean reversion dashboard dashboard crypto bot crypto bot SQLite SQLite automated trading automated trading API API research trading research trading",
             "url": "https://github.com/trading-2028/polymarket-ai-trading",
             "stars": 277,
-            "forks": 818,
+            "forks": 917,
             "score": 99
         },
         {
@@ -84,9 +84,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "shefyYuri/grok-animus",
             "description": "Persistent AI companion engine \u2014 personality, memory, dreams, and evolution for any LLM. The foundation behind living AI companions.",
             "url": "https://github.com/shefyYuri/grok-animus",
-            "stars": 613,
+            "stars": 612,
             "forks": 131,
             "score": 77
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "opensquilla",
+            "full_name": "opensquilla/opensquilla",
+            "description": "OpenSquilla \u2014 Token-Efficient AI Agent with same budget, higher intelligence density",
+            "url": "https://github.com/opensquilla/opensquilla",
+            "stars": 1030,
+            "forks": 80,
+            "score": 75
         },
         {
             "main_cat": "AI",
@@ -101,23 +112,12 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "opensquilla",
-            "full_name": "opensquilla/opensquilla",
-            "description": "OpenSquilla \u2014 Token-Efficient AI Agent with same budget, higher intelligence density",
-            "url": "https://github.com/opensquilla/opensquilla",
-            "stars": 1025,
-            "forks": 78,
-            "score": 74
-        },
-        {
-            "main_cat": "AI",
             "sub_cat": null,
             "name": "trustclaw",
             "full_name": "ComposioHQ/trustclaw",
             "description": "A self-hostable personal AI agent with vector memory, Composio tools, and Telegram.",
             "url": "https://github.com/ComposioHQ/trustclaw",
-            "stars": 675,
+            "stars": 677,
             "forks": 161,
             "score": 71
         },
@@ -183,9 +183,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "agentic-in/elephant-agent",
             "description": "Personal-Model First Self Evolving AI Agent \ud83d\udc18",
             "url": "https://github.com/agentic-in/elephant-agent",
-            "stars": 306,
-            "forks": 6,
-            "score": 57
+            "stars": 309,
+            "forks": 7,
+            "score": 58
         },
         {
             "main_cat": "AI",
@@ -227,20 +227,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "Callous-0923/agent-study",
             "description": "36\u7ae0AI Agent\u5168\u6808\u8bfe\u7a0b\uff1a\u4eceReAct\u5faa\u73af\u5230Claude Code\u9006\u5411\u3001MCP/A2A\u534f\u8bae\u3001RAG\u3001DSPy\u3001\u751f\u4ea7\u53ef\u89c2\u6d4b\u6027\u2014\u2014\u5168\u90e8\u4e3a\u53ef\u8fd0\u884cPython\u6587\u4ef6\uff0c\u9762\u8bd5\u5bfc\u5411\u3002",
             "url": "https://github.com/Callous-0923/agent-study",
-            "stars": 264,
+            "stars": 265,
             "forks": 20,
             "score": 54
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "okx-agent-trade-kit",
-            "full_name": "dex-original/okx-agent-trade-kit",
-            "description": "okx trading bot okx agent mcp cli cryptocurrency okx api automated trading typescript okx trading bot model context protocol cursor ai trading crypto spot futures okx trading bot npm pnpm okx mcp open source quant defi cex okx trading bot algorithmic trading crypto bot okx trading bot okx api mcp okx trading bot crypto mcp",
-            "url": "https://github.com/dex-original/okx-agent-trade-kit",
-            "stars": 260,
-            "forks": 0,
-            "score": 51
         },
         {
             "main_cat": "AI",
@@ -249,9 +238,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "KevRojo/Dulus",
             "description": "The only real free CLI agent. Harvests your Gemini (guest, no login) \u00b7 Claude.ai \u00b7 Claude Code \u00b7 Kimi \u00b7 Qwen \u00b7 DeepSeek browser session and turns it into a tool-calling agent \u2014 reads & edits files, runs Bash, greps your repo, browses the web, ships commits, all from your terminal. Frontier IA driving real work at $0 ",
             "url": "https://github.com/KevRojo/Dulus",
-            "stars": 615,
+            "stars": 618,
             "forks": 14,
-            "score": 50
+            "score": 51
         },
         {
             "main_cat": "AI",
@@ -277,6 +266,17 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "okx-agent-trade-kit",
+            "full_name": "dex-original/okx-agent-trade-kit",
+            "description": "okx trading bot okx agent mcp cli cryptocurrency okx api automated trading typescript okx trading bot model context protocol cursor ai trading crypto spot futures okx trading bot npm pnpm okx mcp open source quant defi cex okx trading bot algorithmic trading crypto bot okx trading bot okx api mcp okx trading bot crypto mcp",
+            "url": "https://github.com/dex-original/okx-agent-trade-kit",
+            "stars": 260,
+            "forks": 0,
+            "score": 48
+        },
+        {
+            "main_cat": "AI",
             "sub_cat": null,
             "name": "skills",
             "full_name": "agentara/skills",
@@ -293,7 +293,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "LocoreMind/locoagent",
             "description": "AI-powered social media agent with real browser automation",
             "url": "https://github.com/LocoreMind/locoagent",
-            "stars": 213,
+            "stars": 216,
             "forks": 11,
             "score": 46
         },
@@ -304,9 +304,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "Dangerous-hole/Pumpfun_AI_Trading_Bot",
             "description": "Pump.fun Pump.fun Solana Solana TypeScript TypeScript trading bot trading bot AI trading AI trading OpenAI OpenAI CLI automation meme coin meme coin cryptocurrency cryptocurrency token token comment bot comment bot Solana bot Solana bot web3 web3",
             "url": "https://github.com/Dangerous-hole/Pumpfun_AI_Trading_Bot",
-            "stars": 196,
+            "stars": 197,
             "forks": 0,
-            "score": 46
+            "score": 44
         },
         {
             "main_cat": "AI",
@@ -685,17 +685,6 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
-            "name": "mirv",
-            "full_name": "Fredrikeriksen78/mirv",
-            "description": "mirv \u2014 autonomous cross-chain liquidity mirror protocol on Uniswap V4 (Ethereum + Base MVP)",
-            "url": "https://github.com/Fredrikeriksen78/mirv",
-            "stars": 0,
-            "forks": 0,
-            "score": 30
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
             "name": "The-Stellar-Bridge-Integration-Wave",
             "full_name": "mikeldancy-svg/The-Stellar-Bridge-Integration-Wave",
             "description": "A Drips Wave that rewards contributors for bridging assets and building cross-chain tooling between the Drips protocol and Stellar. Contributions are tracked on-chain, reviewed by maintainers, and paid out automatically in Soroban USDC to Stellar accounts every 6 hours \u2014 modeling the SDF Pilot payout mechanism.",
@@ -772,5 +761,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-05-18 19:29"
+    "timestamp": "2026-05-18 21:05"
 };
