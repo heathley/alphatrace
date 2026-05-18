@@ -7,7 +7,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "nexu-io/html-anything",
             "description": "\u2728 The agentic HTML editor \u2014 your local AI agent writes the HTML, you ship it. \ud83d\ude80 75 Skills \u00d7 9 Surfaces (magazine \u00b7 deck \u00b7 poster \u00b7 XHS / tweet \u00b7 prototype \u00b7 data report \u00b7 Hyperframes) \ud83d\udee1\ufe0f Sandboxed preview \u00b7 \ud83d\udce4 1-click to WeChat / X / Zhihu / HTML / PNG \ud83d\udd11 Zero API key \u2014 Claude Code / Cursor / Codex / Gemini / Copilot / OpenCode / Qwen / Aider.",
             "url": "https://github.com/nexu-io/html-anything",
-            "stars": 3180,
+            "stars": 3184,
             "forks": 362,
             "score": 99
         },
@@ -40,7 +40,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "huangserva/3DCellForge",
             "description": "AI-powered interactive 3D model generation, inspection, and presentation studio.",
             "url": "https://github.com/huangserva/3DCellForge",
-            "stars": 2135,
+            "stars": 2137,
             "forks": 357,
             "score": 99
         },
@@ -62,8 +62,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "Doorman11991/smallcode",
             "description": "AI coding agent optimized for small LLMs. 87% benchmark with 4B-active model.",
             "url": "https://github.com/Doorman11991/smallcode",
-            "stars": 429,
-            "forks": 25,
+            "stars": 472,
+            "forks": 26,
             "score": 99
         },
         {
@@ -73,8 +73,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "trading-2028/polymarket-ai-trading",
             "description": "Polymarket Polymarket AI trading AI trading prediction markets prediction markets paper trading paper trading OpenAI OpenAI Node.js Node.js Express Express Docker Docker CLOB CLOB mean reversion mean reversion dashboard dashboard crypto bot crypto bot SQLite SQLite automated trading automated trading API API research trading research trading",
             "url": "https://github.com/trading-2028/polymarket-ai-trading",
-            "stars": 277,
-            "forks": 917,
+            "stars": 278,
+            "forks": 1037,
             "score": 99
         },
         {
@@ -84,7 +84,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "shefyYuri/grok-animus",
             "description": "Persistent AI companion engine \u2014 personality, memory, dreams, and evolution for any LLM. The foundation behind living AI companions.",
             "url": "https://github.com/shefyYuri/grok-animus",
-            "stars": 612,
+            "stars": 614,
             "forks": 131,
             "score": 77
         },
@@ -95,8 +95,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "opensquilla/opensquilla",
             "description": "OpenSquilla \u2014 Token-Efficient AI Agent with same budget, higher intelligence density",
             "url": "https://github.com/opensquilla/opensquilla",
-            "stars": 1030,
-            "forks": 80,
+            "stars": 1034,
+            "forks": 82,
             "score": 75
         },
         {
@@ -123,47 +123,14 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
-            "sub_cat": null,
-            "name": "claude-design-system-hooks",
-            "full_name": "BharathKumarSuresh/claude-design-system-hooks",
-            "description": "\ud83d\ude80 Ultimate Claude Code AI Design Skills & Hooks Bundle 2026 \u2013 Free Install",
-            "url": "https://github.com/BharathKumarSuresh/claude-design-system-hooks",
-            "stars": 423,
-            "forks": 0,
-            "score": 65
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "harmonist-orchestral",
-            "full_name": "2508965-ship-it/harmonist-orchestral",
-            "description": "\ud83d\ude80 Multi-Agent Orchestration Engine 2026 \u2013 Build & Deploy AI Swarms with Claude Code",
-            "url": "https://github.com/2508965-ship-it/harmonist-orchestral",
-            "stars": 421,
-            "forks": 0,
-            "score": 65
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "Canva-Pro-Toolkit",
-            "full_name": "Scratch-191/Canva-Pro-Toolkit",
-            "description": "\ud83d\ude80 Canva Pro Lifetime 2026 \u2013 Free Access & AI Design Suite by Mr. Craft",
-            "url": "https://github.com/Scratch-191/Canva-Pro-Toolkit",
-            "stars": 420,
-            "forks": 0,
-            "score": 65
-        },
-        {
-            "main_cat": "AI",
             "sub_cat": "AI General",
             "name": "DeepSeek-V4-Pro-App",
             "full_name": "yaassin12/DeepSeek-V4-Pro-App",
             "description": "DeepSeek V4 Pro: Advanced AI desktop app. Features: 1.6T MoE architecture, 1M token context window, Engram memory. Pro coding agent, Think Mode (High/Max), repo-level reasoning, complex bug fixing. Real-time web search, local API key storage, cross-file analysis, low-latency streaming interface.",
             "url": "https://github.com/yaassin12/DeepSeek-V4-Pro-App",
-            "stars": 618,
+            "stars": 646,
             "forks": 2,
-            "score": 64
+            "score": 66
         },
         {
             "main_cat": "AI",
@@ -178,14 +145,69 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
+            "sub_cat": null,
+            "name": "Claude-Mythos-AI-Anthropic-App",
+            "full_name": "AbhishekK130804/Claude-Mythos-AI-Anthropic-App",
+            "description": "Claude pro free Mythos design Opus Cowork  Sonnet AI Anthropic App: download free PC android apk iOS, Anthropic Claude API key setup, Claude roleplay mythos client, SillyTavern Claude prompt formatting, custom system prompt jailbreak, Mythos AI creative writing app, Claude 3.5 Sonnet Opus API cost, open source LLM frontend, Claude reverse proxy ",
+            "url": "https://github.com/AbhishekK130804/Claude-Mythos-AI-Anthropic-App",
+            "stars": 209,
+            "forks": 0,
+            "score": 64
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "claude-design-system-hooks",
+            "full_name": "BharathKumarSuresh/claude-design-system-hooks",
+            "description": "\ud83d\ude80 Ultimate Claude Code AI Design Skills & Hooks Bundle 2026 \u2013 Free Install",
+            "url": "https://github.com/BharathKumarSuresh/claude-design-system-hooks",
+            "stars": 423,
+            "forks": 0,
+            "score": 60
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "harmonist-orchestral",
+            "full_name": "2508965-ship-it/harmonist-orchestral",
+            "description": "\ud83d\ude80 Multi-Agent Orchestration Engine 2026 \u2013 Build & Deploy AI Swarms with Claude Code",
+            "url": "https://github.com/2508965-ship-it/harmonist-orchestral",
+            "stars": 421,
+            "forks": 0,
+            "score": 60
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "Canva-Pro-Toolkit",
+            "full_name": "Scratch-191/Canva-Pro-Toolkit",
+            "description": "\ud83d\ude80 Canva Pro Lifetime 2026 \u2013 Free Access & AI Design Suite by Mr. Craft",
+            "url": "https://github.com/Scratch-191/Canva-Pro-Toolkit",
+            "stars": 420,
+            "forks": 0,
+            "score": 60
+        },
+        {
+            "main_cat": "AI",
             "sub_cat": "AI General",
             "name": "elephant-agent",
             "full_name": "agentic-in/elephant-agent",
             "description": "Personal-Model First Self Evolving AI Agent \ud83d\udc18",
             "url": "https://github.com/agentic-in/elephant-agent",
-            "stars": 309,
+            "stars": 311,
             "forks": 7,
             "score": 58
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "Claude-Code-Design-AI",
+            "full_name": "mikesheehan54/Claude-Code-Design-AI",
+            "description": "Claude Design: AI UI/UX architect. Screenshot to React, Figma components, Tailwind CSS generator. Prototyping agent, design systems, wireframe renderer. SVG icon creator, dark mode toggle, responsive layout tool. Front-end code export, shadcn/ui integration, vector assets, branding assistant.",
+            "url": "https://github.com/mikesheehan54/Claude-Code-Design-AI",
+            "stars": 428,
+            "forks": 0,
+            "score": 56
         },
         {
             "main_cat": "AI",
@@ -196,17 +218,6 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/laishiwen/sven-family",
             "stars": 555,
             "forks": 24,
-            "score": 55
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "Claude-Code-Design-AI",
-            "full_name": "mikesheehan54/Claude-Code-Design-AI",
-            "description": "Claude Design: AI UI/UX architect. Screenshot to React, Figma components, Tailwind CSS generator. Prototyping agent, design systems, wireframe renderer. SVG icon creator, dark mode toggle, responsive layout tool. Front-end code export, shadcn/ui integration, vector assets, branding assistant.",
-            "url": "https://github.com/mikesheehan54/Claude-Code-Design-AI",
-            "stars": 404,
-            "forks": 0,
             "score": 55
         },
         {
@@ -271,7 +282,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "dex-original/okx-agent-trade-kit",
             "description": "okx trading bot okx agent mcp cli cryptocurrency okx api automated trading typescript okx trading bot model context protocol cursor ai trading crypto spot futures okx trading bot npm pnpm okx mcp open source quant defi cex okx trading bot algorithmic trading crypto bot okx trading bot okx api mcp okx trading bot crypto mcp",
             "url": "https://github.com/dex-original/okx-agent-trade-kit",
-            "stars": 260,
+            "stars": 262,
             "forks": 0,
             "score": 48
         },
@@ -293,20 +304,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "LocoreMind/locoagent",
             "description": "AI-powered social media agent with real browser automation",
             "url": "https://github.com/LocoreMind/locoagent",
-            "stars": 216,
+            "stars": 221,
             "forks": 11,
             "score": 46
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "Pumpfun_AI_Trading_Bot",
-            "full_name": "Dangerous-hole/Pumpfun_AI_Trading_Bot",
-            "description": "Pump.fun Pump.fun Solana Solana TypeScript TypeScript trading bot trading bot AI trading AI trading OpenAI OpenAI CLI automation meme coin meme coin cryptocurrency cryptocurrency token token comment bot comment bot Solana bot Solana bot web3 web3",
-            "url": "https://github.com/Dangerous-hole/Pumpfun_AI_Trading_Bot",
-            "stars": 197,
-            "forks": 0,
-            "score": 44
         },
         {
             "main_cat": "AI",
@@ -337,7 +337,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Negai-ai/AgentClaw",
             "description": "AgentClaw turns one-sentence ideas into reusable Claw capabilities. Build less boilerplate with declarative workflows, computer browser code file control, MCP, Skills, memory, knowledge bases, tracing, scheduling, and API/MCP publishing.",
             "url": "https://github.com/Negai-ai/AgentClaw",
-            "stars": 173,
+            "stars": 174,
             "forks": 14,
             "score": 37
         },
@@ -761,5 +761,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-05-18 21:05"
+    "timestamp": "2026-05-18 22:54"
 };
