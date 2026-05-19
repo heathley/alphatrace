@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "nexu-io/html-anything",
             "description": "\u2728 The agentic HTML editor \u2014 your local AI agent writes the HTML, you ship it. \ud83d\ude80 75 Skills \u00d7 9 Surfaces (magazine \u00b7 deck \u00b7 poster \u00b7 XHS / tweet \u00b7 prototype \u00b7 data report \u00b7 Hyperframes) \ud83d\udee1\ufe0f Sandboxed preview \u00b7 \ud83d\udce4 1-click to WeChat / X / Zhihu / HTML / PNG \ud83d\udd11 Zero API key \u2014 Claude Code / Cursor / Codex / Gemini / Copilot / OpenCode / Qwen / Aider.",
             "url": "https://github.com/nexu-io/html-anything",
-            "stars": 3184,
-            "forks": 362,
+            "stars": 3192,
+            "forks": 363,
             "score": 99
         },
         {
@@ -18,7 +18,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "strukto-ai/mirage",
             "description": "A Unified Virtual Filesystem For AI Agents",
             "url": "https://github.com/strukto-ai/mirage",
-            "stars": 2383,
+            "stars": 2386,
             "forks": 156,
             "score": 99
         },
@@ -29,7 +29,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "yaojingang/yao-open-prompts",
             "description": "Yao Open Prompts\uff1a\u4e2d\u6587 AI \u63d0\u793a\u8bcd\u5e93\uff0c\u8986\u76d6\u5de5\u4f5c\u3001\u5b66\u4e60\u3001\u5185\u5bb9\u3001\u8425\u9500\u548c\u751f\u6d3b\u573a\u666f",
             "url": "https://github.com/yaojingang/yao-open-prompts",
-            "stars": 2154,
+            "stars": 2155,
             "forks": 333,
             "score": 99
         },
@@ -51,8 +51,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "simonlin1212/a-stock-data",
             "description": "A\u80a1\u5168\u6808\u6570\u636e\u5de5\u5177\u5305 \u2014 7\u5c42\u67b6\u6784 \u00b7 28\u7aef\u70b9 \u00b7 13\u6570\u636e\u6e90 \u00b7 \u96f6\u7b2c\u4e09\u65b9\u4f9d\u8d56 | Full-stack China A-Share data toolkit for AI coding assistants",
             "url": "https://github.com/simonlin1212/a-stock-data",
-            "stars": 1197,
-            "forks": 272,
+            "stars": 1199,
+            "forks": 273,
             "score": 99
         },
         {
@@ -62,7 +62,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Doorman11991/smallcode",
             "description": "AI coding agent optimized for small LLMs. 87% benchmark with 4B-active model.",
             "url": "https://github.com/Doorman11991/smallcode",
-            "stars": 472,
+            "stars": 491,
             "forks": 26,
             "score": 99
         },
@@ -73,8 +73,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "trading-2028/polymarket-ai-trading",
             "description": "Polymarket Polymarket AI trading AI trading prediction markets prediction markets paper trading paper trading OpenAI OpenAI Node.js Node.js Express Express Docker Docker CLOB CLOB mean reversion mean reversion dashboard dashboard crypto bot crypto bot SQLite SQLite automated trading automated trading API API research trading research trading",
             "url": "https://github.com/trading-2028/polymarket-ai-trading",
-            "stars": 278,
-            "forks": 1037,
+            "stars": 279,
+            "forks": 1113,
             "score": 99
         },
         {
@@ -95,7 +95,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "opensquilla/opensquilla",
             "description": "OpenSquilla \u2014 Token-Efficient AI Agent with same budget, higher intelligence density",
             "url": "https://github.com/opensquilla/opensquilla",
-            "stars": 1034,
+            "stars": 1039,
             "forks": 82,
             "score": 75
         },
@@ -106,7 +106,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "simonlin1212/TradingAgents-astock",
             "description": "A\u80a1\u591aAgent\u6295\u7814\u6846\u67b6 \u2014 \u9002\u914dA\u80a1\u6570\u636e\u6e90(\u9f99\u864e\u699c/\u6e38\u8d44/\u89e3\u7981\u7b49)\uff0c7\u4f4d\u5206\u6790\u5e08\u57fa\u4e8eA\u80a1\u89c4\u5219\u7684\u8fa9\u8bba\u51b3\u7b56\uff0c\u57fa\u4e8eTradingAgents\u6df1\u5ea6\u6539\u9020\uff0c\u9002\u914d\u5927A\u3002A-share multi-agent investment research framework \u2014 7 AI analysts, bull/bear debate, risk assessment\u3002",
             "url": "https://github.com/simonlin1212/TradingAgents-astock",
-            "stars": 347,
+            "stars": 348,
             "forks": 96,
             "score": 75
         },
@@ -128,8 +128,19 @@ const ALPHA_DATA_V2 = {
             "full_name": "yaassin12/DeepSeek-V4-Pro-App",
             "description": "DeepSeek V4 Pro: Advanced AI desktop app. Features: 1.6T MoE architecture, 1M token context window, Engram memory. Pro coding agent, Think Mode (High/Max), repo-level reasoning, complex bug fixing. Real-time web search, local API key storage, cross-file analysis, low-latency streaming interface.",
             "url": "https://github.com/yaassin12/DeepSeek-V4-Pro-App",
-            "stars": 646,
+            "stars": 648,
             "forks": 2,
+            "score": 66
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "Claude-Mythos-AI-Anthropic-App",
+            "full_name": "AbhishekK130804/Claude-Mythos-AI-Anthropic-App",
+            "description": "Claude pro free Mythos design Opus Cowork  Sonnet AI Anthropic App: download free PC android apk iOS, Anthropic Claude API key setup, Claude roleplay mythos client, SillyTavern Claude prompt formatting, custom system prompt jailbreak, Mythos AI creative writing app, Claude 3.5 Sonnet Opus API cost, open source LLM frontend, Claude reverse proxy ",
+            "url": "https://github.com/AbhishekK130804/Claude-Mythos-AI-Anthropic-App",
+            "stars": 218,
+            "forks": 0,
             "score": 66
         },
         {
@@ -139,20 +150,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "alchaincyf/huashu-md-html",
             "description": "md/html \u53cc\u5411\u6d41\u6c34\u7ebf \u00b7 \u4e09\u4e2a\u80fd\u529b\u4e00\u7ad9\u5f0f\uff1a\u4e07\u7269\u2192md / md\u2192\u7cbe\u7f8ehtml / html\u2192md\u3002\u5c01\u88c5 markitdown + Pandoc + html-to-markdown + trafilatura\u30024 \u5957\u53cd AI slop \u4e3b\u9898\u3002Claude Code skill.",
             "url": "https://github.com/alchaincyf/huashu-md-html",
-            "stars": 566,
+            "stars": 568,
             "forks": 68,
-            "score": 64
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "Claude-Mythos-AI-Anthropic-App",
-            "full_name": "AbhishekK130804/Claude-Mythos-AI-Anthropic-App",
-            "description": "Claude pro free Mythos design Opus Cowork  Sonnet AI Anthropic App: download free PC android apk iOS, Anthropic Claude API key setup, Claude roleplay mythos client, SillyTavern Claude prompt formatting, custom system prompt jailbreak, Mythos AI creative writing app, Claude 3.5 Sonnet Opus API cost, open source LLM frontend, Claude reverse proxy ",
-            "url": "https://github.com/AbhishekK130804/Claude-Mythos-AI-Anthropic-App",
-            "stars": 209,
-            "forks": 0,
-            "score": 64
+            "score": 65
         },
         {
             "main_cat": "AI",
@@ -194,9 +194,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "agentic-in/elephant-agent",
             "description": "Personal-Model First Self Evolving AI Agent \ud83d\udc18",
             "url": "https://github.com/agentic-in/elephant-agent",
-            "stars": 311,
-            "forks": 7,
-            "score": 58
+            "stars": 314,
+            "forks": 9,
+            "score": 59
         },
         {
             "main_cat": "AI",
@@ -205,7 +205,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "mikesheehan54/Claude-Code-Design-AI",
             "description": "Claude Design: AI UI/UX architect. Screenshot to React, Figma components, Tailwind CSS generator. Prototyping agent, design systems, wireframe renderer. SVG icon creator, dark mode toggle, responsive layout tool. Front-end code export, shadcn/ui integration, vector assets, branding assistant.",
             "url": "https://github.com/mikesheehan54/Claude-Code-Design-AI",
-            "stars": 428,
+            "stars": 429,
             "forks": 0,
             "score": 56
         },
@@ -282,7 +282,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "dex-original/okx-agent-trade-kit",
             "description": "okx trading bot okx agent mcp cli cryptocurrency okx api automated trading typescript okx trading bot model context protocol cursor ai trading crypto spot futures okx trading bot npm pnpm okx mcp open source quant defi cex okx trading bot algorithmic trading crypto bot okx trading bot okx api mcp okx trading bot crypto mcp",
             "url": "https://github.com/dex-original/okx-agent-trade-kit",
-            "stars": 262,
+            "stars": 265,
             "forks": 0,
             "score": 48
         },
@@ -464,22 +464,22 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "The-Stablecoins-Commerce-Stack",
-            "full_name": "riz82/The-Stablecoins-Commerce-Stack",
-            "description": "Stablecoin-powered commerce stack enabling fast, secure, scalable blockchain payments.",
-            "url": "https://github.com/riz82/The-Stablecoins-Commerce-Stack",
-            "stars": 1,
+            "sub_cat": "AI Agents",
+            "name": "PrediQt",
+            "full_name": "vestor-dev/PrediQt",
+            "description": "Prediction markets, encrypted. Bet YES or NO on anything \u2014 sports, crypto, your team's quarterly target, with positions hidden by Zama FHE. Three GPT-driven AI agents trade alongside you in real time.",
+            "url": "https://github.com/vestor-dev/PrediQt",
+            "stars": 0,
             "forks": 0,
             "score": 30
         },
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
-            "name": "FlowPay-SolanaDodo",
-            "full_name": "jerreenj/FlowPay-SolanaDodo",
-            "description": "India's Stablecoin Payment Super-Layer - 5 in 1 (PayRails, RemitDirect, EscrowX, CreatorPay, AgentBank) on Solana.",
-            "url": "https://github.com/jerreenj/FlowPay-SolanaDodo",
+            "name": "The-Stablecoins-Commerce-Stack",
+            "full_name": "riz82/The-Stablecoins-Commerce-Stack",
+            "description": "Stablecoin-powered commerce stack enabling fast, secure, scalable blockchain payments.",
+            "url": "https://github.com/riz82/The-Stablecoins-Commerce-Stack",
             "stars": 1,
             "forks": 0,
             "score": 30
@@ -586,17 +586,6 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
-            "name": "PayMatePSP",
-            "full_name": "strugglingfrfr/PayMatePSP",
-            "description": "PayMate is a Solana mobile dApp giving Payment Service Providers instant stablecoin credit, priced by AI underwriting agents. LPs earn yield on USDC; PSPs draw and repay on-chain. Built at EasyA Consensus     Miami 2026",
-            "url": "https://github.com/strugglingfrfr/PayMatePSP",
-            "stars": 0,
-            "forks": 0,
-            "score": 30
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
             "name": "huma-finannce.github.io",
             "full_name": "huma-finannce/huma-finannce.github.io",
             "description": "Huma Finance is a decentralized PayFi network utilizing stablecoins and on-chain liquidity to enable instant, 24/7 real-world global payment settlements.",
@@ -612,6 +601,17 @@ const ALPHA_DATA_V2 = {
             "full_name": "Legacy-Protocol/NovaMesh-Contract",
             "description": "NovaMesh is a unified platform where developers monetize AI agents (trading bots, analytics tools, automation workflows) and users discover, test, and pay for agent services using instant stablecoin payments.",
             "url": "https://github.com/Legacy-Protocol/NovaMesh-Contract",
+            "stars": 0,
+            "forks": 0,
+            "score": 30
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI Agents",
+            "name": "PalmFlow-AI",
+            "full_name": "sunkireddy-Barath/PalmFlow-AI",
+            "description": "PalmFlow AI is an autonomous treasury and payment network powered by Palm USD (PUSD) on Solana, where AI agents can earn, negotiate, manage treasury, and make real-time cross-border payments using non-freezable stablecoin infrastructure.",
+            "url": "https://github.com/sunkireddy-Barath/PalmFlow-AI",
             "stars": 0,
             "forks": 0,
             "score": 30
@@ -645,17 +645,6 @@ const ALPHA_DATA_V2 = {
             "full_name": "Clutch-L4bs/k9-solana-programs",
             "description": "K9 cross-chain protocol \u2014 Solana programs (verifiable builds source)",
             "url": "https://github.com/Clutch-L4bs/k9-solana-programs",
-            "stars": 0,
-            "forks": 0,
-            "score": 30
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "multi-chain-governance-relay",
-            "full_name": "YerayRB/multi-chain-governance-relay",
-            "description": "A cross-chain messaging protocol specialized in aggregating governance votes from multiple Layer 2 networks. It allows token holders to participate in DAO decisions across different chains without migrating their assets. Features a trustless verification system that ensures vote integrity while significantly reducing gas costs for participants.",
-            "url": "https://github.com/YerayRB/multi-chain-governance-relay",
             "stars": 0,
             "forks": 0,
             "score": 30
@@ -736,23 +725,20 @@ const ALPHA_DATA_V2 = {
             "stars": 0,
             "forks": 0,
             "score": 30
+        },
+        {
+            "main_cat": "Cross-chain / Interoperability",
+            "sub_cat": null,
+            "name": "Eigenvex",
+            "full_name": "ozpool/Eigenvex",
+            "description": "Perpetual futures protocol on Solana \u2014 hybrid orderbook + vAMM, cross-margin, DAO-curated listings",
+            "url": "https://github.com/ozpool/Eigenvex",
+            "stars": 0,
+            "forks": 0,
+            "score": 30
         }
     ],
     "news": [
-        {
-            "title": "LymphNode: A Plug-and-Play Access Control Method for Deep Neural Networks",
-            "source": "ArXiv",
-            "type": "Research Alpha",
-            "color": "text-indigo-600",
-            "url": "http://arxiv.org/abs/2605.16227v1"
-        },
-        {
-            "title": "From Backup Restoration to Minimum Viable Factory Recovery: A Systematization of Ransomware Recovery in Manufacturing Systems",
-            "source": "ArXiv",
-            "type": "Research Alpha",
-            "color": "text-indigo-600",
-            "url": "http://arxiv.org/abs/2605.16167v1"
-        },
         {
             "title": "Bitcoin volatility remains high ahead of key FED decision.",
             "source": "Polymarket",
@@ -761,5 +747,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-05-18 22:54"
+    "timestamp": "2026-05-19 00:00"
 };
