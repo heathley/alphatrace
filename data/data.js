@@ -7,19 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "nexu-io/html-anything",
             "description": "\u2728 The agentic HTML editor \u2014 your local AI agent writes the HTML, you ship it. \ud83d\ude80 75 Skills \u00d7 9 Surfaces (magazine \u00b7 deck \u00b7 poster \u00b7 XHS / tweet \u00b7 prototype \u00b7 data report \u00b7 Hyperframes) \ud83d\udee1\ufe0f Sandboxed preview \u00b7 \ud83d\udce4 1-click to WeChat / X / Zhihu / HTML / PNG \ud83d\udd11 Zero API key \u2014 Claude Code / Cursor / Codex / Gemini / Copilot / OpenCode / Qwen / Aider.",
             "url": "https://github.com/nexu-io/html-anything",
-            "stars": 3875,
-            "forks": 418,
-            "score": 99
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "mirage",
-            "full_name": "strukto-ai/mirage",
-            "description": "A Unified Virtual Filesystem For AI Agents",
-            "url": "https://github.com/strukto-ai/mirage",
-            "stars": 2415,
-            "forks": 159,
+            "stars": 3887,
+            "forks": 419,
             "score": 99
         },
         {
@@ -29,19 +18,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "huangserva/3DCellForge",
             "description": "AI-powered interactive 3D model generation, inspection, and presentation studio.",
             "url": "https://github.com/huangserva/3DCellForge",
-            "stars": 2251,
+            "stars": 2254,
             "forks": 374,
-            "score": 99
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "yao-open-prompts",
-            "full_name": "yaojingang/yao-open-prompts",
-            "description": "Yao Open Prompts\uff1a\u4e2d\u6587 AI \u63d0\u793a\u8bcd\u5e93\uff0c\u8986\u76d6\u5de5\u4f5c\u3001\u5b66\u4e60\u3001\u5185\u5bb9\u3001\u8425\u9500\u548c\u751f\u6d3b\u573a\u666f",
-            "url": "https://github.com/yaojingang/yao-open-prompts",
-            "stars": 2177,
-            "forks": 333,
             "score": 99
         },
         {
@@ -51,7 +29,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "simonlin1212/a-stock-data",
             "description": "A\u80a1\u5168\u6808\u6570\u636e\u5de5\u5177\u5305 \u2014 7\u5c42\u67b6\u6784 \u00b7 28\u7aef\u70b9 \u00b7 13\u6570\u636e\u6e90 \u00b7 \u96f6\u7b2c\u4e09\u65b9\u4f9d\u8d56 | Full-stack China A-Share data toolkit for AI coding assistants",
             "url": "https://github.com/simonlin1212/a-stock-data",
-            "stars": 1411,
+            "stars": 1415,
             "forks": 315,
             "score": 99
         },
@@ -62,8 +40,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "Doorman11991/smallcode",
             "description": "AI coding agent optimized for small LLMs. 87% benchmark with 4B-active model.",
             "url": "https://github.com/Doorman11991/smallcode",
-            "stars": 710,
-            "forks": 39,
+            "stars": 715,
+            "forks": 40,
             "score": 99
         },
         {
@@ -73,8 +51,19 @@ const ALPHA_DATA_V2 = {
             "full_name": "trading-2028/polymarket-ai-trading",
             "description": "Polymarket Polymarket AI trading AI trading prediction markets prediction markets paper trading paper trading OpenAI OpenAI Node.js Node.js Express Express Docker Docker CLOB CLOB mean reversion mean reversion dashboard dashboard crypto bot crypto bot SQLite SQLite automated trading automated trading API API research trading research trading",
             "url": "https://github.com/trading-2028/polymarket-ai-trading",
-            "stars": 301,
+            "stars": 302,
             "forks": 1434,
+            "score": 99
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "ai-auto-trading",
+            "full_name": "python-telegramBot/ai-auto-trading",
+            "description": "AI trading bot crypto LLM agent quantitative trading automated trading algorithmic trading Binance Gate.io TypeScript Node.js VoltAgent crypto bot risk management multi-strategy",
+            "url": "https://github.com/python-telegramBot/ai-auto-trading",
+            "stars": 200,
+            "forks": 569,
             "score": 99
         },
         {
@@ -84,20 +73,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "AbhishekK130804/Claude-Mythos-AI-Anthropic-App",
             "description": "Claude pro free Mythos design Opus Cowork  Sonnet AI Anthropic App: download free PC android apk iOS, Anthropic Claude API key setup, Claude roleplay mythos client, SillyTavern Claude prompt formatting, custom system prompt jailbreak, Mythos AI creative writing app, Claude 3.5 Sonnet Opus API cost, open source LLM frontend, Claude reverse proxy ",
             "url": "https://github.com/AbhishekK130804/Claude-Mythos-AI-Anthropic-App",
-            "stars": 467,
+            "stars": 469,
             "forks": 0,
             "score": 88
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "opensquilla",
-            "full_name": "opensquilla/opensquilla",
-            "description": "OpenSquilla \u2014 Token-Efficient AI Agent with same budget, higher intelligence density",
-            "url": "https://github.com/opensquilla/opensquilla",
-            "stars": 1145,
-            "forks": 90,
-            "score": 77
         },
         {
             "main_cat": "AI",
@@ -123,12 +101,23 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
+            "sub_cat": null,
+            "name": "AI-Final-fantasy-6-remake",
+            "full_name": "nhutdang198/AI-Final-fantasy-6-remake",
+            "description": "ai final fantasy 6 remake: Release download free github fan made game pcwatch viral 3d trailer, , hironobu sakaguchi awesome tweet reaction, square enix 20 years kitase. desusanJP x video, sabin phantom train suplex ai, tina terra theme bgm teaser, ai slop controversy reddit, akitoshi kawazu response, play pixel remaster hd graphics mod.",
+            "url": "https://github.com/nhutdang198/AI-Final-fantasy-6-remake",
+            "stars": 238,
+            "forks": 0,
+            "score": 69
+        },
+        {
+            "main_cat": "AI",
             "sub_cat": "AI General",
             "name": "DeepSeek-V4-Pro-App",
             "full_name": "yaassin12/DeepSeek-V4-Pro-App",
             "description": "DeepSeek V4 Pro: Advanced AI desktop app. Features: 1.6T MoE architecture, 1M token context window, Engram memory. Pro coding agent, Think Mode (High/Max), repo-level reasoning, complex bug fixing. Real-time web search, local API key storage, cross-file analysis, low-latency streaming interface.",
             "url": "https://github.com/yaassin12/DeepSeek-V4-Pro-App",
-            "stars": 675,
+            "stars": 676,
             "forks": 3,
             "score": 64
         },
@@ -238,9 +227,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "husu/loom",
             "description": "\u4e00\u4e2a\u5199\u63a5\u53e3\u6587\u6863\u7684AI Agent\u3002\u652f\u6301\u4f7f\u7528Vibe coding \u7684\u65b9\u5f0f\uff0c\u7f16\u5199\u63a5\u53e3\u6587\u6863\uff0c\u540c\u65f6\u81ea\u5e26\u53cb\u597d\u7684\u6587\u6863\u67e5\u770b\u5de5\u5177\u4e0e\u63a5\u53e3Mock\u5de5\u5177",
             "url": "https://github.com/husu/loom",
-            "stars": 240,
+            "stars": 245,
             "forks": 13,
-            "score": 50
+            "score": 51
         },
         {
             "main_cat": "AI",
@@ -249,19 +238,19 @@ const ALPHA_DATA_V2 = {
             "full_name": "dex-original/okx-agent-trade-kit",
             "description": "okx trading bot okx agent mcp cli cryptocurrency okx api automated trading typescript okx trading bot model context protocol cursor ai trading crypto spot futures okx trading bot npm pnpm okx mcp open source quant defi cex okx trading bot algorithmic trading crypto bot okx trading bot okx api mcp okx trading bot crypto mcp",
             "url": "https://github.com/dex-original/okx-agent-trade-kit",
-            "stars": 300,
+            "stars": 301,
             "forks": 1,
             "score": 49
         },
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "agent-skills-eval",
-            "full_name": "darkrishabh/agent-skills-eval",
-            "description": "A test runner for agentskills.io-style AI agent skills",
-            "url": "https://github.com/darkrishabh/agent-skills-eval",
-            "stars": 509,
-            "forks": 20,
+            "name": "md2html",
+            "full_name": "haidang1810/md2html",
+            "description": "Your AI writes docs \u2014 md2html turns them into pages people actually read. A portable skill for Claude Code / Codex / Antigravity that converts long-form Markdown (plans, specs, system designs, RFCs, runbooks, postmortems, brainstorms) into self-contained HTML with Mermaid, timelines, callouts, TOC. Multi-language.",
+            "url": "https://github.com/haidang1810/md2html",
+            "stars": 231,
+            "forks": 16,
             "score": 48
         },
         {
@@ -271,7 +260,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "nolanx-ai/nolanx.ai",
             "description": "Nolanx, Open-sourced AI Netflix.",
             "url": "https://github.com/nolanx-ai/nolanx.ai",
-            "stars": 235,
+            "stars": 236,
             "forks": 20,
             "score": 47
         },
@@ -282,7 +271,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Dangerous-hole/Pumpfun_AI_Trading_Bot",
             "description": "Pump.fun Pump.fun Solana Solana TypeScript TypeScript trading bot trading bot AI trading AI trading OpenAI OpenAI CLI automation meme coin meme coin cryptocurrency cryptocurrency token token comment bot comment bot Solana bot Solana bot web3 web3",
             "url": "https://github.com/Dangerous-hole/Pumpfun_AI_Trading_Bot",
-            "stars": 263,
+            "stars": 264,
             "forks": 0,
             "score": 46
         },
@@ -311,6 +300,17 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
+            "name": "codex-orange-book",
+            "full_name": "alchaincyf/codex-orange-book",
+            "description": "OpenAI Codex: The Complete Guide \u00b7 \u6a59\u76ae\u4e66\u7cfb\u5217 \u00b7 GPT-5.5 \u65f6\u4ee3\u7684 AI \u7f16\u7a0b\u5b9e\u6218\u624b\u518c",
+            "url": "https://github.com/alchaincyf/codex-orange-book",
+            "stars": 196,
+            "forks": 14,
+            "score": 45
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
             "name": "Agent-HTML",
             "full_name": "Sayhi-bzb/Agent-HTML",
             "description": "AI-friendly semantic HTML architecture for better human-agent collaboration.Replacing long Markdown with stable, interactive artifacts.",
@@ -333,17 +333,6 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
-            "name": "AgentClaw",
-            "full_name": "Negai-ai/AgentClaw",
-            "description": "AgentClaw turns one-sentence ideas into reusable Claw capabilities. Build less boilerplate with declarative workflows, computer browser code file control, MCP, Skills, memory, knowledge bases, tracing, scheduling, and API/MCP publishing.",
-            "url": "https://github.com/Negai-ai/AgentClaw",
-            "stars": 183,
-            "forks": 17,
-            "score": 37
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
             "name": "Global-Affairs-Simulation-Platform",
             "full_name": "EnceladusLin/Global-Affairs-Simulation-Platform",
             "description": "An international relations intelligence and forecasting platform that integrates open-source data, event chains, actor modeling, knowledge graphs, and scenario simulation to support geopolitical risk analysis and structured strategic assessment.",
@@ -355,23 +344,23 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
-            "name": "cuda-opt-agent",
-            "full_name": "KernelFlow-ops/cuda-opt-agent",
-            "description": "CUDA Opt Agent is an LLM-driven toolkit for automated CUDA kernel optimization. It generates baselines from text, specs, or existing .cu files, compiles and validates with nvcc, benchmarks on real GPUs, profiles with Nsight Compute, iterates improvements, and preserves reusable tuning knowledge.",
-            "url": "https://github.com/KernelFlow-ops/cuda-opt-agent",
-            "stars": 8,
-            "forks": 1,
-            "score": 30
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
             "name": "cpu-gpu-codesign-agentic-inference",
             "full_name": "andyluo7/cpu-gpu-codesign-agentic-inference",
             "description": "CPU-GPU co-design analysis for agentic LLM inference. Blog: andyluo7.github.io",
             "url": "https://github.com/andyluo7/cpu-gpu-codesign-agentic-inference",
             "stars": 6,
             "forks": 1,
+            "score": 30
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "sample-slemify",
+            "full_name": "aws-samples/sample-slemify",
+            "description": "Slemify demonstrates how to fine-tune and serve Small Language Models (1-8B parameters) on Kubernetes using CPUs. It takes a single YAML configuration, generates synthetic training data via an LLM API, fine-tunes a base model on a Spot GPU, quantizes it, and deploys it for inference on CPU nodes with autoscaling.",
+            "url": "https://github.com/aws-samples/sample-slemify",
+            "stars": 4,
+            "forks": 0,
             "score": 30
         },
         {
@@ -509,17 +498,6 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "Stablecoin Infrastructure",
             "sub_cat": null,
-            "name": "regupdate",
-            "full_name": "dkdha/regupdate",
-            "description": "Claude skill to map regulatory requirements for digital assets, crypto, payments, stablecoins, and tokenisation across jurisdictions.",
-            "url": "https://github.com/dkdha/regupdate",
-            "stars": 0,
-            "forks": 0,
-            "score": 30
-        },
-        {
-            "main_cat": "Stablecoin Infrastructure",
-            "sub_cat": null,
             "name": "Kwespay-embedded-widget-demo",
             "full_name": "Kwespay/Kwespay-embedded-widget-demo",
             "description": "Demo storefront showcasing the embedded KwesPay widget for stablecoin and volatile crypto payments in Next.js.",
@@ -564,17 +542,6 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
-            "name": "mutopay-for-woocommerce",
-            "full_name": "mutopay/mutopay-for-woocommerce",
-            "description": "Accept crypto payments in WooCommerce via MutoPay. Customers pay any token on 7+ chains, you receive stablecoins. Flat 0.5% fee.",
-            "url": "https://github.com/mutopay/mutopay-for-woocommerce",
-            "stars": 0,
-            "forks": 0,
-            "score": 30
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
             "name": "agentmeter",
             "full_name": "THE-VARNA/agentmeter",
             "description": "A Dodo + x402 gateway that lets AI/API companies sell metered MCP tools and APIs directly to autonomous agents using Solana stablecoin micro-payments.",
@@ -608,21 +575,21 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
-            "name": "chainlink-ccip-rebase-token-foundry",
-            "full_name": "jasmineli-dev/chainlink-ccip-rebase-token-foundry",
-            "description": "A cross-chain rebase token built with Chainlink CCIP (Cross-Chain Interoperability Protocol). This token earns interest over time and can be bridged across supported chains while preserving its rebasing properties.",
-            "url": "https://github.com/jasmineli-dev/chainlink-ccip-rebase-token-foundry",
-            "stars": 1,
+            "name": "Cestra",
+            "full_name": "icekidtech/Cestra",
+            "description": "CESTRA is a stablecoin payment platform built natively on the Sui blockchain, designed to make cross-border money movement as cheap, fast, and simple as sending a text message.",
+            "url": "https://github.com/icekidtech/Cestra",
+            "stars": 0,
             "forks": 0,
             "score": 30
         },
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
-            "name": "SiriRevive",
-            "full_name": "oleksejvorotyncevcopy-svg/SiriRevive",
-            "description": "SiriRevive 4S brings Siri back to life on iOS 6 without a jailbreak. We intercept Apple's closed protocol via local DNS and route voice queries through the ultra-fast Llama 3 (Groq) model. Turn your legacy iPhone into a genius AI assistant in a few clicks. Cross-platform and open-source.",
-            "url": "https://github.com/oleksejvorotyncevcopy-svg/SiriRevive",
+            "name": "chainlink-ccip-rebase-token-foundry",
+            "full_name": "jasmineli-dev/chainlink-ccip-rebase-token-foundry",
+            "description": "A cross-chain rebase token built with Chainlink CCIP (Cross-Chain Interoperability Protocol). This token earns interest over time and can be bridged across supported chains while preserving its rebasing properties.",
+            "url": "https://github.com/jasmineli-dev/chainlink-ccip-rebase-token-foundry",
             "stars": 1,
             "forks": 0,
             "score": 30
@@ -695,17 +662,6 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "bity-ant-standard",
-            "full_name": "ONGOD6/bity-ant-standard",
-            "description": "Autonomous Node Token standard for the BITY Protocol supporting dynamic augmentation, CRS state, autonomous agent behavior, and cross-chain operation across Ethereum and Solana.",
-            "url": "https://github.com/ONGOD6/bity-ant-standard",
-            "stars": 0,
-            "forks": 0,
-            "score": 30
-        },
-        {
-            "main_cat": "AI",
             "sub_cat": "AI Agents",
             "name": "stoa-protocol",
             "full_name": "Kingnanaweb3/stoa-protocol",
@@ -761,5 +717,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-05-19 22:58"
+    "timestamp": "2026-05-20 00:09"
 };
