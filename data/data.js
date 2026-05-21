@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "nexu-io/html-anything",
             "description": "\u2728 The agentic HTML editor \u2014 your local AI agent writes the HTML, you ship it. \ud83d\ude80 75 Skills \u00d7 9 Surfaces (magazine \u00b7 deck \u00b7 poster \u00b7 XHS / tweet \u00b7 prototype \u00b7 data report \u00b7 Hyperframes) \ud83d\udee1\ufe0f Sandboxed preview \u00b7 \ud83d\udce4 1-click to WeChat / X / Zhihu / HTML / PNG \ud83d\udd11 Zero API key \u2014 Claude Code / Cursor / Codex / Gemini / Copilot / OpenCode / Qwen / Aider.",
             "url": "https://github.com/nexu-io/html-anything",
-            "stars": 4384,
-            "forks": 454,
+            "stars": 4417,
+            "forks": 456,
             "score": 99
         },
         {
@@ -18,8 +18,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "huangserva/3DCellForge",
             "description": "AI-powered interactive 3D model generation, inspection, and presentation studio.",
             "url": "https://github.com/huangserva/3DCellForge",
-            "stars": 2290,
-            "forks": 378,
+            "stars": 2292,
+            "forks": 379,
             "score": 99
         },
         {
@@ -29,8 +29,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "simonlin1212/a-stock-data",
             "description": "A\u80a1\u5168\u6808\u6570\u636e\u5de5\u5177\u5305 \u2014 7\u5c42\u67b6\u6784 \u00b7 28\u7aef\u70b9 \u00b7 13\u6570\u636e\u6e90 \u00b7 \u96f6\u7b2c\u4e09\u65b9\u4f9d\u8d56 | Full-stack China A-Share data toolkit for AI coding assistants",
             "url": "https://github.com/simonlin1212/a-stock-data",
-            "stars": 1666,
-            "forks": 379,
+            "stars": 1691,
+            "forks": 383,
             "score": 99
         },
         {
@@ -40,8 +40,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "Doorman11991/smallcode",
             "description": "AI coding agent optimized for small LLMs. 87% benchmark with 4B-active model.",
             "url": "https://github.com/Doorman11991/smallcode",
-            "stars": 926,
-            "forks": 60,
+            "stars": 973,
+            "forks": 66,
             "score": 99
         },
         {
@@ -51,8 +51,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "dex-original/okx-agent-trade-kit",
             "description": "okx trading bot okx agent mcp cli cryptocurrency okx api automated trading typescript okx trading bot model context protocol cursor ai trading crypto spot futures okx trading bot npm pnpm okx mcp open source quant defi cex okx trading bot algorithmic trading crypto bot okx trading bot okx api mcp okx trading bot crypto mcp",
             "url": "https://github.com/dex-original/okx-agent-trade-kit",
-            "stars": 328,
-            "forks": 911,
+            "stars": 333,
+            "forks": 1126,
             "score": 99
         },
         {
@@ -62,7 +62,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "trading-2028/polymarket-ai-trading",
             "description": "Polymarket Polymarket AI trading AI trading prediction markets prediction markets paper trading paper trading OpenAI OpenAI Node.js Node.js Express Express Docker Docker CLOB CLOB mean reversion mean reversion dashboard dashboard crypto bot crypto bot SQLite SQLite automated trading automated trading API API research trading research trading",
             "url": "https://github.com/trading-2028/polymarket-ai-trading",
-            "stars": 319,
+            "stars": 321,
             "forks": 1434,
             "score": 99
         },
@@ -95,9 +95,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "MFS9628/Deepseek-v4-pro-app",
             "description": "DeepSeek v4 Pro github Flash chat: API flash gemma 4 gemini qwen claude chatgpt 4  key pricing tier, open source weights, huggingface model repository, local execution ollama setup. context window token limit, coding benchmark leaderboard ranking, reasoning model architecture v4,  .visual studio code extension integration, cursor ai ",
             "url": "https://github.com/MFS9628/Deepseek-v4-pro-app",
-            "stars": 386,
+            "stars": 402,
             "forks": 0,
-            "score": 94
+            "score": 97
         },
         {
             "main_cat": "AI",
@@ -106,9 +106,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "AbhishekK130804/Claude-Mythos-AI-Anthropic-App",
             "description": "Claude pro free Mythos design Opus Cowork  Sonnet AI Anthropic App: download free PC android apk iOS, Anthropic Claude API key setup, Claude roleplay mythos client, SillyTavern Claude prompt formatting, custom system prompt jailbreak, Mythos AI creative writing app, Claude 3.5 Sonnet Opus API cost, open source LLM frontend, Claude reverse proxy ",
             "url": "https://github.com/AbhishekK130804/Claude-Mythos-AI-Anthropic-App",
-            "stars": 616,
+            "stars": 632,
             "forks": 0,
-            "score": 91
+            "score": 93
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "Pumpfun_AI_Trading_Bot",
+            "full_name": "Dangerous-hole/Pumpfun_AI_Trading_Bot",
+            "description": "Pump.fun Pump.fun Solana Solana TypeScript TypeScript trading bot trading bot AI trading AI trading OpenAI OpenAI CLI automation meme coin meme coin cryptocurrency cryptocurrency token token comment bot comment bot Solana bot Solana bot web3 web3",
+            "url": "https://github.com/Dangerous-hole/Pumpfun_AI_Trading_Bot",
+            "stars": 302,
+            "forks": 195,
+            "score": 90
         },
         {
             "main_cat": "AI",
@@ -117,9 +128,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "basketikun/infinite-canvas",
             "description": "\u9762\u5411AI\u521b\u4f5c\u7684\u5f00\u6e90\u65e0\u9650\u753b\u5e03\u5de5\u4f5c\u53f0\uff0c\u96c6\u6210 AI \u751f\u56fe\u3001\u53c2\u8003\u56fe\u7f16\u8f91\u3001\u753b\u5e03\u7f16\u6392\u3001\u5bf9\u8bdd\u52a9\u624b\u3001\u63d0\u793a\u8bcd\u5e93\u548c\u7d20\u6750\u7ba1\u7406\u7b49\u529f\u80fd\u3002",
             "url": "https://github.com/basketikun/infinite-canvas",
-            "stars": 277,
+            "stars": 287,
             "forks": 50,
-            "score": 77
+            "score": 78
         },
         {
             "main_cat": "AI",
@@ -128,9 +139,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "simonlin1212/TradingAgents-astock",
             "description": "A\u80a1\u591aAgent\u6295\u7814\u6846\u67b6 \u2014 \u9002\u914dA\u80a1\u6570\u636e\u6e90(\u9f99\u864e\u699c/\u6e38\u8d44/\u89e3\u7981\u7b49)\uff0c7\u4f4d\u5206\u6790\u5e08\u57fa\u4e8eA\u80a1\u89c4\u5219\u7684\u8fa9\u8bba\u51b3\u7b56\uff0c\u57fa\u4e8eTradingAgents\u6df1\u5ea6\u6539\u9020\uff0c\u9002\u914d\u5927A\u3002A-share multi-agent investment research framework \u2014 7 AI analysts, bull/bear debate, risk assessment\u3002",
             "url": "https://github.com/simonlin1212/TradingAgents-astock",
-            "stars": 460,
-            "forks": 137,
-            "score": 75
+            "stars": 471,
+            "forks": 140,
+            "score": 76
         },
         {
             "main_cat": "AI",
@@ -139,7 +150,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "asdsa321as/grok-animus",
             "description": "Persistent AI companion engine \u2014 personality, memory, dreams, and evolution for any LLM. The foundation behind living AI companions.",
             "url": "https://github.com/asdsa321as/grok-animus",
-            "stars": 742,
+            "stars": 756,
             "forks": 133,
             "score": 72
         },
@@ -153,17 +164,6 @@ const ALPHA_DATA_V2 = {
             "stars": 591,
             "forks": 69,
             "score": 60
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "humanize-text",
-            "full_name": "lynote-ai/humanize-text",
-            "description": "Free open-source AI text humanizer to convert AI-generated content into undetectable, human-like writing. Bypass Turnitin, GPTZero, and all major AI detectors. No sign-up required. Try our unlimited free online tool",
-            "url": "https://github.com/lynote-ai/humanize-text",
-            "stars": 261,
-            "forks": 6,
-            "score": 58
         },
         {
             "main_cat": "AI",
@@ -183,8 +183,19 @@ const ALPHA_DATA_V2 = {
             "full_name": "agentic-in/elephant-agent",
             "description": "Personal-Model First Self Evolving AI Agent \ud83d\udc18",
             "url": "https://github.com/agentic-in/elephant-agent",
-            "stars": 373,
+            "stars": 376,
             "forks": 26,
+            "score": 56
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "humanize-text",
+            "full_name": "lynote-ai/humanize-text",
+            "description": "Free open-source AI text humanizer to convert AI-generated content into undetectable, human-like writing. Bypass Turnitin, GPTZero, and all major AI detectors. No sign-up required. Try our unlimited free online tool",
+            "url": "https://github.com/lynote-ai/humanize-text",
+            "stars": 273,
+            "forks": 10,
             "score": 56
         },
         {
@@ -212,23 +223,23 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "agent-study",
-            "full_name": "Callous-0923/agent-study",
-            "description": "36\u7ae0AI Agent\u5168\u6808\u8bfe\u7a0b\uff1a\u4eceReAct\u5faa\u73af\u5230Claude Code\u9006\u5411\u3001MCP/A2A\u534f\u8bae\u3001RAG\u3001DSPy\u3001\u751f\u4ea7\u53ef\u89c2\u6d4b\u6027\u2014\u2014\u5168\u90e8\u4e3a\u53ef\u8fd0\u884cPython\u6587\u4ef6\uff0c\u9762\u8bd5\u5bfc\u5411\u3002",
-            "url": "https://github.com/Callous-0923/agent-study",
-            "stars": 312,
-            "forks": 23,
-            "score": 50
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
             "name": "nolanx.ai",
             "full_name": "nolanx-ai/nolanx.ai",
             "description": "Nolanx, Open-sourced AI Netflix.",
             "url": "https://github.com/nolanx-ai/nolanx.ai",
-            "stars": 304,
-            "forks": 28,
+            "stars": 316,
+            "forks": 29,
+            "score": 51
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "agent-study",
+            "full_name": "Callous-0923/agent-study",
+            "description": "36\u7ae0AI Agent\u5168\u6808\u8bfe\u7a0b\uff1a\u4eceReAct\u5faa\u73af\u5230Claude Code\u9006\u5411\u3001MCP/A2A\u534f\u8bae\u3001RAG\u3001DSPy\u3001\u751f\u4ea7\u53ef\u89c2\u6d4b\u6027\u2014\u2014\u5168\u90e8\u4e3a\u53ef\u8fd0\u884cPython\u6587\u4ef6\uff0c\u9762\u8bd5\u5bfc\u5411\u3002",
+            "url": "https://github.com/Callous-0923/agent-study",
+            "stars": 313,
+            "forks": 23,
             "score": 50
         },
         {
@@ -238,19 +249,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "LocoreMind/locoagent",
             "description": "AI-powered social media agent with real browser automation",
             "url": "https://github.com/LocoreMind/locoagent",
-            "stars": 309,
+            "stars": 313,
             "forks": 11,
-            "score": 46
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "Pumpfun_AI_Trading_Bot",
-            "full_name": "Dangerous-hole/Pumpfun_AI_Trading_Bot",
-            "description": "Pump.fun Pump.fun Solana Solana TypeScript TypeScript trading bot trading bot AI trading AI trading OpenAI OpenAI CLI automation meme coin meme coin cryptocurrency cryptocurrency token token comment bot comment bot Solana bot Solana bot web3 web3",
-            "url": "https://github.com/Dangerous-hole/Pumpfun_AI_Trading_Bot",
-            "stars": 299,
-            "forks": 0,
             "score": 46
         },
         {
@@ -271,7 +271,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "alchaincyf/codex-orange-book",
             "description": "OpenAI Codex: The Complete Guide \u00b7 \u6a59\u76ae\u4e66\u7cfb\u5217 \u00b7 GPT-5.5 \u65f6\u4ee3\u7684 AI \u7f16\u7a0b\u5b9e\u6218\u624b\u518c",
             "url": "https://github.com/alchaincyf/codex-orange-book",
-            "stars": 209,
+            "stars": 210,
             "forks": 16,
             "score": 45
         },
@@ -282,9 +282,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "basionwang-bot/HermesPet",
             "description": "\u8ba9 AI \u4f4f\u5728\u4f60 MacBook \u7684\u5218\u6d77\u91cc \u00b7 \u96f6\u4f9d\u8d56\u5f00\u7bb1\u5373\u7528 \u00b7 \u591a\u5f15\u64ce\u5e76\u884c\u7684\u684c\u9762 AI \u4f34\u4fa3\uff08Swift 6 / SwiftUI / macOS 14+\uff09",
             "url": "https://github.com/basionwang-bot/HermesPet",
-            "stars": 173,
-            "forks": 24,
-            "score": 44
+            "stars": 176,
+            "forks": 25,
+            "score": 45
         },
         {
             "main_cat": "AI",
@@ -315,9 +315,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "stormzhang/token-tracker",
             "description": "Track token usage across local AI agents (Claude Code, Codex) \u2014 Custom StatusLine, CLI Dashboard with cost analysis, rate limit monitoring, and session tracking",
             "url": "https://github.com/stormzhang/token-tracker",
-            "stars": 244,
+            "stars": 245,
             "forks": 22,
-            "score": 41
+            "score": 40
         },
         {
             "main_cat": "AI",
@@ -326,9 +326,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "iAmCorey/kooky",
             "description": "A minimal modern terminal for AI coding experience \u2014 Sidebar workspaces; horizontal / vertical split panes; one-click agent launch; per-agent activity readout; live workspace state with one-click Node and branch switching.",
             "url": "https://github.com/iAmCorey/kooky",
-            "stars": 233,
+            "stars": 239,
             "forks": 5,
-            "score": 37
+            "score": 38
         },
         {
             "main_cat": "AI",
@@ -674,6 +674,20 @@ const ALPHA_DATA_V2 = {
     ],
     "news": [
         {
+            "title": "Stdlib or Third-Party? Empirical Performance and Correctness of LLM-Assisted Zero-Dependency Python Libraries",
+            "source": "ArXiv",
+            "type": "Research Alpha",
+            "color": "text-indigo-600",
+            "url": "http://arxiv.org/abs/2605.21405v1"
+        },
+        {
+            "title": "VIPER-MCP: Detecting and Exploiting Taint-Style Vulnerabilities in Model Context Protocol Servers",
+            "source": "ArXiv",
+            "type": "Research Alpha",
+            "color": "text-indigo-600",
+            "url": "http://arxiv.org/abs/2605.21392v1"
+        },
+        {
             "title": "Bitcoin volatility remains high ahead of key FED decision.",
             "source": "Polymarket",
             "type": "Expectation",
@@ -681,5 +695,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-05-21 09:28"
+    "timestamp": "2026-05-21 12:40"
 };
