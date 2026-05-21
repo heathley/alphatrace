@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "nexu-io/html-anything",
             "description": "\u2728 The agentic HTML editor \u2014 your local AI agent writes the HTML, you ship it. \ud83d\ude80 75 Skills \u00d7 9 Surfaces (magazine \u00b7 deck \u00b7 poster \u00b7 XHS / tweet \u00b7 prototype \u00b7 data report \u00b7 Hyperframes) \ud83d\udee1\ufe0f Sandboxed preview \u00b7 \ud83d\udce4 1-click to WeChat / X / Zhihu / HTML / PNG \ud83d\udd11 Zero API key \u2014 Claude Code / Cursor / Codex / Gemini / Copilot / OpenCode / Qwen / Aider.",
             "url": "https://github.com/nexu-io/html-anything",
-            "stars": 4417,
-            "forks": 456,
+            "stars": 4450,
+            "forks": 464,
             "score": 99
         },
         {
@@ -18,7 +18,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "huangserva/3DCellForge",
             "description": "AI-powered interactive 3D model generation, inspection, and presentation studio.",
             "url": "https://github.com/huangserva/3DCellForge",
-            "stars": 2292,
+            "stars": 2296,
             "forks": 379,
             "score": 99
         },
@@ -29,8 +29,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "simonlin1212/a-stock-data",
             "description": "A\u80a1\u5168\u6808\u6570\u636e\u5de5\u5177\u5305 \u2014 7\u5c42\u67b6\u6784 \u00b7 28\u7aef\u70b9 \u00b7 13\u6570\u636e\u6e90 \u00b7 \u96f6\u7b2c\u4e09\u65b9\u4f9d\u8d56 | Full-stack China A-Share data toolkit for AI coding assistants",
             "url": "https://github.com/simonlin1212/a-stock-data",
-            "stars": 1691,
-            "forks": 383,
+            "stars": 1721,
+            "forks": 390,
             "score": 99
         },
         {
@@ -40,8 +40,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "Doorman11991/smallcode",
             "description": "AI coding agent optimized for small LLMs. 87% benchmark with 4B-active model.",
             "url": "https://github.com/Doorman11991/smallcode",
-            "stars": 973,
-            "forks": 66,
+            "stars": 1006,
+            "forks": 69,
             "score": 99
         },
         {
@@ -51,8 +51,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "dex-original/okx-agent-trade-kit",
             "description": "okx trading bot okx agent mcp cli cryptocurrency okx api automated trading typescript okx trading bot model context protocol cursor ai trading crypto spot futures okx trading bot npm pnpm okx mcp open source quant defi cex okx trading bot algorithmic trading crypto bot okx trading bot okx api mcp okx trading bot crypto mcp",
             "url": "https://github.com/dex-original/okx-agent-trade-kit",
-            "stars": 333,
-            "forks": 1126,
+            "stars": 336,
+            "forks": 1220,
             "score": 99
         },
         {
@@ -64,6 +64,17 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/trading-2028/polymarket-ai-trading",
             "stars": 321,
             "forks": 1434,
+            "score": 99
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "Pumpfun_AI_Trading_Bot",
+            "full_name": "Dangerous-hole/Pumpfun_AI_Trading_Bot",
+            "description": "Pump.fun Pump.fun Solana Solana TypeScript TypeScript trading bot trading bot AI trading AI trading OpenAI OpenAI CLI automation meme coin meme coin cryptocurrency cryptocurrency token token comment bot comment bot Solana bot Solana bot web3 web3",
+            "url": "https://github.com/Dangerous-hole/Pumpfun_AI_Trading_Bot",
+            "stars": 305,
+            "forks": 379,
             "score": 99
         },
         {
@@ -90,36 +101,14 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "Deepseek-v4-pro-app",
-            "full_name": "MFS9628/Deepseek-v4-pro-app",
-            "description": "DeepSeek v4 Pro github Flash chat: API flash gemma 4 gemini qwen claude chatgpt 4  key pricing tier, open source weights, huggingface model repository, local execution ollama setup. context window token limit, coding benchmark leaderboard ranking, reasoning model architecture v4,  .visual studio code extension integration, cursor ai ",
-            "url": "https://github.com/MFS9628/Deepseek-v4-pro-app",
-            "stars": 402,
-            "forks": 0,
-            "score": 97
-        },
-        {
-            "main_cat": "AI",
             "sub_cat": null,
             "name": "Claude-Mythos-AI-Anthropic-App",
             "full_name": "AbhishekK130804/Claude-Mythos-AI-Anthropic-App",
             "description": "Claude pro free Mythos design Opus Cowork  Sonnet AI Anthropic App: download free PC android apk iOS, Anthropic Claude API key setup, Claude roleplay mythos client, SillyTavern Claude prompt formatting, custom system prompt jailbreak, Mythos AI creative writing app, Claude 3.5 Sonnet Opus API cost, open source LLM frontend, Claude reverse proxy ",
             "url": "https://github.com/AbhishekK130804/Claude-Mythos-AI-Anthropic-App",
-            "stars": 632,
+            "stars": 571,
             "forks": 0,
-            "score": 93
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "Pumpfun_AI_Trading_Bot",
-            "full_name": "Dangerous-hole/Pumpfun_AI_Trading_Bot",
-            "description": "Pump.fun Pump.fun Solana Solana TypeScript TypeScript trading bot trading bot AI trading AI trading OpenAI OpenAI CLI automation meme coin meme coin cryptocurrency cryptocurrency token token comment bot comment bot Solana bot Solana bot web3 web3",
-            "url": "https://github.com/Dangerous-hole/Pumpfun_AI_Trading_Bot",
-            "stars": 302,
-            "forks": 195,
-            "score": 90
+            "score": 87
         },
         {
             "main_cat": "AI",
@@ -128,9 +117,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "basketikun/infinite-canvas",
             "description": "\u9762\u5411AI\u521b\u4f5c\u7684\u5f00\u6e90\u65e0\u9650\u753b\u5e03\u5de5\u4f5c\u53f0\uff0c\u96c6\u6210 AI \u751f\u56fe\u3001\u53c2\u8003\u56fe\u7f16\u8f91\u3001\u753b\u5e03\u7f16\u6392\u3001\u5bf9\u8bdd\u52a9\u624b\u3001\u63d0\u793a\u8bcd\u5e93\u548c\u7d20\u6750\u7ba1\u7406\u7b49\u529f\u80fd\u3002",
             "url": "https://github.com/basketikun/infinite-canvas",
-            "stars": 287,
-            "forks": 50,
-            "score": 78
+            "stars": 293,
+            "forks": 51,
+            "score": 79
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "agentic-ai-demo",
+            "full_name": "devopssessionsjvr/agentic-ai-demo",
+            "description": "An AI-powered DevOps pipeline simulator combining CI/CD, GitOps (ArgoCD), Kubernetes rollouts, and auto-fixing via AI-generated PRs.",
+            "url": "https://github.com/devopssessionsjvr/agentic-ai-demo",
+            "stars": 218,
+            "forks": 216,
+            "score": 79
         },
         {
             "main_cat": "AI",
@@ -139,9 +139,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "simonlin1212/TradingAgents-astock",
             "description": "A\u80a1\u591aAgent\u6295\u7814\u6846\u67b6 \u2014 \u9002\u914dA\u80a1\u6570\u636e\u6e90(\u9f99\u864e\u699c/\u6e38\u8d44/\u89e3\u7981\u7b49)\uff0c7\u4f4d\u5206\u6790\u5e08\u57fa\u4e8eA\u80a1\u89c4\u5219\u7684\u8fa9\u8bba\u51b3\u7b56\uff0c\u57fa\u4e8eTradingAgents\u6df1\u5ea6\u6539\u9020\uff0c\u9002\u914d\u5927A\u3002A-share multi-agent investment research framework \u2014 7 AI analysts, bull/bear debate, risk assessment\u3002",
             "url": "https://github.com/simonlin1212/TradingAgents-astock",
-            "stars": 471,
-            "forks": 140,
-            "score": 76
+            "stars": 480,
+            "forks": 145,
+            "score": 78
         },
         {
             "main_cat": "AI",
@@ -150,9 +150,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "asdsa321as/grok-animus",
             "description": "Persistent AI companion engine \u2014 personality, memory, dreams, and evolution for any LLM. The foundation behind living AI companions.",
             "url": "https://github.com/asdsa321as/grok-animus",
-            "stars": 756,
-            "forks": 133,
-            "score": 72
+            "stars": 701,
+            "forks": 114,
+            "score": 68
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "Agent-Learning-Hub",
+            "full_name": "datawhalechina/Agent-Learning-Hub",
+            "description": "AI Agent \u5b66\u4e60\u8def\u7ebf\u4e0e\u8d44\u6599\u5e93\u6536\u96c6",
+            "url": "https://github.com/datawhalechina/Agent-Learning-Hub",
+            "stars": 392,
+            "forks": 29,
+            "score": 66
         },
         {
             "main_cat": "AI",
@@ -161,20 +172,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "alchaincyf/huashu-md-html",
             "description": "md/html \u53cc\u5411\u6d41\u6c34\u7ebf \u00b7 \u4e09\u4e2a\u80fd\u529b\u4e00\u7ad9\u5f0f\uff1a\u4e07\u7269\u2192md / md\u2192\u7cbe\u7f8ehtml / html\u2192md\u3002\u5c01\u88c5 markitdown + Pandoc + html-to-markdown + trafilatura\u30024 \u5957\u53cd AI slop \u4e3b\u9898\u3002Claude Code skill.",
             "url": "https://github.com/alchaincyf/huashu-md-html",
-            "stars": 591,
+            "stars": 592,
             "forks": 69,
-            "score": 60
+            "score": 58
         },
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "sven-family",
-            "full_name": "laishiwen/sven-family",
-            "description": "Sven Family is an AI-native product suite that connects creation, collaboration, publishing, and operations into one integrated platform.",
-            "url": "https://github.com/laishiwen/sven-family",
-            "stars": 735,
-            "forks": 25,
-            "score": 56
+            "name": "loom",
+            "full_name": "husu/loom",
+            "description": "\u4e00\u4e2a\u5199\u63a5\u53e3\u6587\u6863\u7684AI Agent\u3002\u652f\u6301\u4f7f\u7528Vibe coding \u7684\u65b9\u5f0f\uff0c\u7f16\u5199\u63a5\u53e3\u6587\u6863\uff0c\u540c\u65f6\u81ea\u5e26\u53cb\u597d\u7684\u6587\u6863\u67e5\u770b\u5de5\u5177\u4e0e\u63a5\u53e3Mock\u5de5\u5177",
+            "url": "https://github.com/husu/loom",
+            "stars": 399,
+            "forks": 22,
+            "score": 57
         },
         {
             "main_cat": "AI",
@@ -183,8 +194,19 @@ const ALPHA_DATA_V2 = {
             "full_name": "agentic-in/elephant-agent",
             "description": "Personal-Model First Self Evolving AI Agent \ud83d\udc18",
             "url": "https://github.com/agentic-in/elephant-agent",
-            "stars": 376,
-            "forks": 26,
+            "stars": 382,
+            "forks": 27,
+            "score": 57
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "sven-family",
+            "full_name": "laishiwen/sven-family",
+            "description": "Sven Family is an AI-native product suite that connects creation, collaboration, publishing, and operations into one integrated platform.",
+            "url": "https://github.com/laishiwen/sven-family",
+            "stars": 736,
+            "forks": 25,
             "score": 56
         },
         {
@@ -194,31 +216,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "lynote-ai/humanize-text",
             "description": "Free open-source AI text humanizer to convert AI-generated content into undetectable, human-like writing. Bypass Turnitin, GPTZero, and all major AI detectors. No sign-up required. Try our unlimited free online tool",
             "url": "https://github.com/lynote-ai/humanize-text",
-            "stars": 273,
+            "stars": 278,
             "forks": 10,
             "score": 56
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "Claude-Code-Design-AI",
-            "full_name": "mikesheehan54/Claude-Code-Design-AI",
-            "description": "Claude Design: AI UI/UX architect. Screenshot to React, Figma components, Tailwind CSS generator. Prototyping agent, design systems, wireframe renderer. SVG icon creator, dark mode toggle, responsive layout tool. Front-end code export, shadcn/ui integration, vector assets, branding assistant.",
-            "url": "https://github.com/mikesheehan54/Claude-Code-Design-AI",
-            "stars": 474,
-            "forks": 0,
-            "score": 53
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "loom",
-            "full_name": "husu/loom",
-            "description": "\u4e00\u4e2a\u5199\u63a5\u53e3\u6587\u6863\u7684AI Agent\u3002\u652f\u6301\u4f7f\u7528Vibe coding \u7684\u65b9\u5f0f\uff0c\u7f16\u5199\u63a5\u53e3\u6587\u6863\uff0c\u540c\u65f6\u81ea\u5e26\u53cb\u597d\u7684\u6587\u6863\u67e5\u770b\u5de5\u5177\u4e0e\u63a5\u53e3Mock\u5de5\u5177",
-            "url": "https://github.com/husu/loom",
-            "stars": 339,
-            "forks": 20,
-            "score": 53
         },
         {
             "main_cat": "AI",
@@ -227,8 +227,19 @@ const ALPHA_DATA_V2 = {
             "full_name": "nolanx-ai/nolanx.ai",
             "description": "Nolanx, Open-sourced AI Netflix.",
             "url": "https://github.com/nolanx-ai/nolanx.ai",
-            "stars": 316,
-            "forks": 29,
+            "stars": 327,
+            "forks": 30,
+            "score": 52
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "Claude-Code-Design-AI",
+            "full_name": "mikesheehan54/Claude-Code-Design-AI",
+            "description": "Claude Design: AI UI/UX architect. Screenshot to React, Figma components, Tailwind CSS generator. Prototyping agent, design systems, wireframe renderer. SVG icon creator, dark mode toggle, responsive layout tool. Front-end code export, shadcn/ui integration, vector assets, branding assistant.",
+            "url": "https://github.com/mikesheehan54/Claude-Code-Design-AI",
+            "stars": 432,
+            "forks": 0,
             "score": 51
         },
         {
@@ -238,7 +249,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Callous-0923/agent-study",
             "description": "36\u7ae0AI Agent\u5168\u6808\u8bfe\u7a0b\uff1a\u4eceReAct\u5faa\u73af\u5230Claude Code\u9006\u5411\u3001MCP/A2A\u534f\u8bae\u3001RAG\u3001DSPy\u3001\u751f\u4ea7\u53ef\u89c2\u6d4b\u6027\u2014\u2014\u5168\u90e8\u4e3a\u53ef\u8fd0\u884cPython\u6587\u4ef6\uff0c\u9762\u8bd5\u5bfc\u5411\u3002",
             "url": "https://github.com/Callous-0923/agent-study",
-            "stars": 313,
+            "stars": 315,
             "forks": 23,
             "score": 50
         },
@@ -249,7 +260,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "LocoreMind/locoagent",
             "description": "AI-powered social media agent with real browser automation",
             "url": "https://github.com/LocoreMind/locoagent",
-            "stars": 313,
+            "stars": 320,
             "forks": 11,
             "score": 46
         },
@@ -267,35 +278,13 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "codex-orange-book",
-            "full_name": "alchaincyf/codex-orange-book",
-            "description": "OpenAI Codex: The Complete Guide \u00b7 \u6a59\u76ae\u4e66\u7cfb\u5217 \u00b7 GPT-5.5 \u65f6\u4ee3\u7684 AI \u7f16\u7a0b\u5b9e\u6218\u624b\u518c",
-            "url": "https://github.com/alchaincyf/codex-orange-book",
-            "stars": 210,
-            "forks": 16,
-            "score": 45
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "HermesPet",
-            "full_name": "basionwang-bot/HermesPet",
-            "description": "\u8ba9 AI \u4f4f\u5728\u4f60 MacBook \u7684\u5218\u6d77\u91cc \u00b7 \u96f6\u4f9d\u8d56\u5f00\u7bb1\u5373\u7528 \u00b7 \u591a\u5f15\u64ce\u5e76\u884c\u7684\u684c\u9762 AI \u4f34\u4fa3\uff08Swift 6 / SwiftUI / macOS 14+\uff09",
-            "url": "https://github.com/basionwang-bot/HermesPet",
-            "stars": 176,
-            "forks": 25,
-            "score": 45
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
             "name": "Agent-HTML",
             "full_name": "Sayhi-bzb/Agent-HTML",
             "description": "AI-friendly semantic HTML architecture for better human-agent collaboration.Replacing long Markdown with stable, interactive artifacts.",
             "url": "https://github.com/Sayhi-bzb/Agent-HTML",
-            "stars": 367,
+            "stars": 368,
             "forks": 13,
-            "score": 43
+            "score": 44
         },
         {
             "main_cat": "AI",
@@ -310,12 +299,23 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
+            "sub_cat": null,
+            "name": "codex-orange-book",
+            "full_name": "alchaincyf/codex-orange-book",
+            "description": "OpenAI Codex: The Complete Guide \u00b7 \u6a59\u76ae\u4e66\u7cfb\u5217 \u00b7 GPT-5.5 \u65f6\u4ee3\u7684 AI \u7f16\u7a0b\u5b9e\u6218\u624b\u518c",
+            "url": "https://github.com/alchaincyf/codex-orange-book",
+            "stars": 210,
+            "forks": 16,
+            "score": 43
+        },
+        {
+            "main_cat": "AI",
             "sub_cat": "AI Agents",
             "name": "token-tracker",
             "full_name": "stormzhang/token-tracker",
             "description": "Track token usage across local AI agents (Claude Code, Codex) \u2014 Custom StatusLine, CLI Dashboard with cost analysis, rate limit monitoring, and session tracking",
             "url": "https://github.com/stormzhang/token-tracker",
-            "stars": 245,
+            "stars": 246,
             "forks": 22,
             "score": 40
         },
@@ -326,7 +326,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "iAmCorey/kooky",
             "description": "A minimal modern terminal for AI coding experience \u2014 Sidebar workspaces; horizontal / vertical split panes; one-click agent launch; per-agent activity readout; live workspace state with one-click Node and branch switching.",
             "url": "https://github.com/iAmCorey/kooky",
-            "stars": 239,
+            "stars": 244,
             "forks": 5,
             "score": 38
         },
@@ -339,6 +339,17 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/andyluo7/cpu-gpu-codesign-agentic-inference",
             "stars": 6,
             "forks": 1,
+            "score": 30
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "ai-local-executive-team",
+            "full_name": "TechFreq/ai-local-executive-team",
+            "description": "A fully local multi-agent AI board \u2014 CEO, CTO, CFO, CPO, COO running on your own GPU/CPU. No cloud. Just Local Models.",
+            "url": "https://github.com/TechFreq/ai-local-executive-team",
+            "stars": 5,
+            "forks": 0,
             "score": 30
         },
         {
@@ -392,6 +403,17 @@ const ALPHA_DATA_V2 = {
             "full_name": "pranay123-stack/prediction-market-projects",
             "description": "Decentralized prediction market implementations \u2014 outcome tokens, LMSR/CPMM pricing, oracle resolution, sports betting, futarchy, and market infrastructure",
             "url": "https://github.com/pranay123-stack/prediction-market-projects",
+            "stars": 0,
+            "forks": 0,
+            "score": 30
+        },
+        {
+            "main_cat": "Prediction Markets",
+            "sub_cat": null,
+            "name": "decentralized-prediction-market-v3",
+            "full_name": "sujon12210/decentralized-prediction-market-v3",
+            "description": "An institutional-grade Binary Options and Prediction Market framework featuring automated market making (AMM), collateralized betting pools, and decentralized oracle resolution.",
+            "url": "https://github.com/sujon12210/decentralized-prediction-market-v3",
             "stars": 0,
             "forks": 0,
             "score": 30
@@ -531,6 +553,17 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "Stablecoin Infrastructure",
             "sub_cat": null,
+            "name": "SolAUDDPay",
+            "full_name": "Tanuu21/SolAUDDPay",
+            "description": "Full-stack Solana stablecoin super app for AUDD, USDC & USDG payments, treasury management, and merchant invoicing with Solana Pay QR codes.",
+            "url": "https://github.com/Tanuu21/SolAUDDPay",
+            "stars": 0,
+            "forks": 0,
+            "score": 30
+        },
+        {
+            "main_cat": "Stablecoin Infrastructure",
+            "sub_cat": null,
             "name": "Astrapilot",
             "full_name": "1sraeliteX/Astrapilot",
             "description": "AstraPilot verifies suppliers, designs milestone-based escrow contracts, and releases stablecoin payments only when trade conditions are met \u2014 across borders, automatically.",
@@ -557,17 +590,6 @@ const ALPHA_DATA_V2 = {
             "full_name": "huma-finannce/huma-finannce.github.io",
             "description": "Huma Finance is a decentralized PayFi network utilizing stablecoins and on-chain liquidity to enable instant, 24/7 real-world global payment settlements.",
             "url": "https://github.com/huma-finannce/huma-finannce.github.io",
-            "stars": 0,
-            "forks": 0,
-            "score": 30
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI Agents",
-            "name": "NovaMesh-Contract",
-            "full_name": "Legacy-Protocol/NovaMesh-Contract",
-            "description": "NovaMesh is a unified platform where developers monetize AI agents (trading bots, analytics tools, automation workflows) and users discover, test, and pay for agent services using instant stablecoin payments.",
-            "url": "https://github.com/Legacy-Protocol/NovaMesh-Contract",
             "stars": 0,
             "forks": 0,
             "score": 30
@@ -674,20 +696,6 @@ const ALPHA_DATA_V2 = {
     ],
     "news": [
         {
-            "title": "Stdlib or Third-Party? Empirical Performance and Correctness of LLM-Assisted Zero-Dependency Python Libraries",
-            "source": "ArXiv",
-            "type": "Research Alpha",
-            "color": "text-indigo-600",
-            "url": "http://arxiv.org/abs/2605.21405v1"
-        },
-        {
-            "title": "VIPER-MCP: Detecting and Exploiting Taint-Style Vulnerabilities in Model Context Protocol Servers",
-            "source": "ArXiv",
-            "type": "Research Alpha",
-            "color": "text-indigo-600",
-            "url": "http://arxiv.org/abs/2605.21392v1"
-        },
-        {
             "title": "Bitcoin volatility remains high ahead of key FED decision.",
             "source": "Polymarket",
             "type": "Expectation",
@@ -695,5 +703,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-05-21 12:40"
+    "timestamp": "2026-05-21 16:13"
 };
