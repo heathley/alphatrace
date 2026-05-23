@@ -40,8 +40,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "Doorman11991/smallcode",
             "description": "AI coding agent optimized for small LLMs. 87% benchmark with 4B-active model.",
             "url": "https://github.com/Doorman11991/smallcode",
-            "stars": 1300,
-            "forks": 94,
+            "stars": 1305,
+            "forks": 95,
             "score": 99
         },
         {
@@ -101,17 +101,6 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "polymarket-ai-trading",
-            "full_name": "thinkpixelIab/polymarket-ai-trading",
-            "description": "Polymarket prediction markets AI trading paper trading OpenAI GPT CLOB Kelly mean reversion SQLite Node Express Docker Render Vercel dashboard algorithmic trading quant research forecasting crypto",
-            "url": "https://github.com/thinkpixelIab/polymarket-ai-trading",
-            "stars": 195,
-            "forks": 1275,
-            "score": 99
-        },
-        {
-            "main_cat": "AI",
             "sub_cat": null,
             "name": "infinite-canvas",
             "full_name": "basketikun/infinite-canvas",
@@ -139,9 +128,42 @@ const ALPHA_DATA_V2 = {
             "full_name": "lynote-ai/humanize-text",
             "description": "Free open-source AI text humanizer to convert AI-generated content into undetectable, human-like writing. Bypass Turnitin, GPTZero, and all major AI detectors. No sign-up required. Try our unlimited free online tool",
             "url": "https://github.com/lynote-ai/humanize-text",
-            "stars": 545,
+            "stars": 548,
             "forks": 41,
             "score": 74
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "claude-zeroclaw-agentics",
+            "full_name": "muhammadqasimkalhoro94-blip/claude-zeroclaw-agentics",
+            "description": "\ud83d\ude80 ZeroClaw Subagents 2026: AI Orchestration with Claude Code Router & MCP",
+            "url": "https://github.com/muhammadqasimkalhoro94-blip/claude-zeroclaw-agentics",
+            "stars": 329,
+            "forks": 0,
+            "score": 71
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "Claude-Design-Studio",
+            "full_name": "larajuniorlara/Claude-Design-Studio",
+            "description": "\ud83d\ude80 Claude Design AI 2026: Ultimate UI/UX Generator & Plugin Suite \u2013 Free Download",
+            "url": "https://github.com/larajuniorlara/Claude-Design-Studio",
+            "stars": 329,
+            "forks": 0,
+            "score": 71
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "Mythos-Claude-Skill-Forge",
+            "full_name": "rayhayqal/Mythos-Claude-Skill-Forge",
+            "description": "\ud83d\ude80 Claude Mythos AI 2026 \u2013 Build Autonomous Agent Skills & Plugins for Next-Gen Apps",
+            "url": "https://github.com/rayhayqal/Mythos-Claude-Skill-Forge",
+            "stars": 328,
+            "forks": 0,
+            "score": 71
         },
         {
             "main_cat": "AI",
@@ -152,7 +174,7 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/devopssessionsjvr/agentic-ai-demo",
             "stars": 218,
             "forks": 216,
-            "score": 71
+            "score": 68
         },
         {
             "main_cat": "AI",
@@ -161,9 +183,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "agentic-in/elephant-agent",
             "description": "Personal-Model First Self Evolving AI Agent \ud83d\udc18",
             "url": "https://github.com/agentic-in/elephant-agent",
-            "stars": 428,
-            "forks": 57,
-            "score": 59
+            "stars": 430,
+            "forks": 58,
+            "score": 60
         },
         {
             "main_cat": "AI",
@@ -173,7 +195,7 @@ const ALPHA_DATA_V2 = {
             "description": "Fork() for AI agent microVMs. Spawn 100 children in ~100ms from a warm parent; BRANCH a live VM in ~150ms. KVM-isolated, snapshot CoW.",
             "url": "https://github.com/deeplethe/forkd",
             "stars": 642,
-            "forks": 45,
+            "forks": 46,
             "score": 57
         },
         {
@@ -201,22 +223,11 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "gemini-antigravity-cli",
-            "full_name": "testerlingcodo/gemini-antigravity-cli",
-            "description": "gemini antigravity 2.0 cli google terminal ai agent tool agy migration guide mcp server plugin slash commands gemini 3.5 flash coding agent tool free",
-            "url": "https://github.com/testerlingcodo/gemini-antigravity-cli",
-            "stars": 190,
-            "forks": 0,
-            "score": 53
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
             "name": "nolanx.ai",
             "full_name": "nolanx-ai/nolanx.ai",
             "description": "Nolanx, Open-sourced AI Netflix.",
             "url": "https://github.com/nolanx-ai/nolanx.ai",
-            "stars": 403,
+            "stars": 405,
             "forks": 37,
             "score": 51
         },
@@ -249,7 +260,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "basionwang-bot/HermesPet",
             "description": "\u8ba9 AI \u4f4f\u5728\u4f60 MacBook \u7684\u5218\u6d77\u91cc \u00b7 \u96f6\u4f9d\u8d56\u5f00\u7bb1\u5373\u7528 \u00b7 \u591a\u5f15\u64ce\u5e76\u884c\u7684\u684c\u9762 AI \u4f34\u4fa3\uff08Swift 6 / SwiftUI / macOS 14+\uff09",
             "url": "https://github.com/basionwang-bot/HermesPet",
-            "stars": 222,
+            "stars": 223,
             "forks": 33,
             "score": 46
         },
@@ -278,6 +289,17 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
+            "name": "FinSight-AI",
+            "full_name": "juanjuandog/FinSight-AI",
+            "description": "AI equity research agent with resilient workflows, Redis Lua single-flight, pgvector RAG, versioned reports, evidence tracing, and RAG evaluation.",
+            "url": "https://github.com/juanjuandog/FinSight-AI",
+            "stars": 286,
+            "forks": 26,
+            "score": 43
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
             "name": "md2html",
             "full_name": "haidang1810/md2html",
             "description": "Your AI writes docs \u2014 md2html turns them into pages people actually read. A portable skill for Claude Code / Codex / Antigravity that converts long-form Markdown (plans, specs, system designs, RFCs, runbooks, postmortems, brainstorms) into self-contained HTML with Mermaid, timelines, callouts, TOC. Multi-language.",
@@ -285,17 +307,6 @@ const ALPHA_DATA_V2 = {
             "stars": 247,
             "forks": 17,
             "score": 43
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "FinSight-AI",
-            "full_name": "juanjuandog/FinSight-AI",
-            "description": "AI equity research agent with resilient workflows, Redis Lua single-flight, pgvector RAG, versioned reports, evidence tracing, and RAG evaluation.",
-            "url": "https://github.com/juanjuandog/FinSight-AI",
-            "stars": 285,
-            "forks": 26,
-            "score": 42
         },
         {
             "main_cat": "AI",
@@ -317,17 +328,6 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/alchaincyf/codex-orange-book",
             "stars": 217,
             "forks": 16,
-            "score": 41
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "distributed-system-testing",
-            "full_name": "shenli/distributed-system-testing",
-            "description": "AI-agent skills for distributed-systems testing",
-            "url": "https://github.com/shenli/distributed-system-testing",
-            "stars": 189,
-            "forks": 11,
             "score": 41
         },
         {
@@ -728,5 +728,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-05-23 21:48"
+    "timestamp": "2026-05-23 22:45"
 };
