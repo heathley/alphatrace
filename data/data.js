@@ -7,7 +7,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "nexu-io/html-anything",
             "description": "\u2728 The agentic HTML editor \u2014 your local AI agent writes the HTML, you ship it. \ud83d\ude80 75 Skills \u00d7 9 Surfaces (magazine \u00b7 deck \u00b7 poster \u00b7 XHS / tweet \u00b7 prototype \u00b7 data report \u00b7 Hyperframes) \ud83d\udee1\ufe0f Sandboxed preview \u00b7 \ud83d\udce4 1-click to WeChat / X / Zhihu / HTML / PNG \ud83d\udd11 Zero API key \u2014 Claude Code / Cursor / Codex / Gemini / Copilot / OpenCode / Qwen / Aider.",
             "url": "https://github.com/nexu-io/html-anything",
-            "stars": 4593,
+            "stars": 4600,
             "forks": 476,
             "score": 99
         },
@@ -19,7 +19,7 @@ const ALPHA_DATA_V2 = {
             "description": "AI-powered interactive 3D model generation, inspection, and presentation studio.",
             "url": "https://github.com/huangserva/3DCellForge",
             "stars": 2304,
-            "forks": 382,
+            "forks": 383,
             "score": 99
         },
         {
@@ -29,7 +29,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "simonlin1212/a-stock-data",
             "description": "A\u80a1\u5168\u6808\u6570\u636e\u5de5\u5177\u5305 \u2014 7\u5c42\u67b6\u6784 \u00b7 28\u7aef\u70b9 \u00b7 13\u6570\u636e\u6e90 \u00b7 \u96f6\u7b2c\u4e09\u65b9\u4f9d\u8d56 | Full-stack China A-Share data toolkit for AI coding assistants",
             "url": "https://github.com/simonlin1212/a-stock-data",
-            "stars": 1858,
+            "stars": 1860,
             "forks": 409,
             "score": 99
         },
@@ -40,8 +40,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "Doorman11991/smallcode",
             "description": "AI coding agent optimized for small LLMs. 87% benchmark with 4B-active model.",
             "url": "https://github.com/Doorman11991/smallcode",
-            "stars": 1209,
-            "forks": 87,
+            "stars": 1216,
+            "forks": 88,
             "score": 99
         },
         {
@@ -51,7 +51,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "datawhalechina/Agent-Learning-Hub",
             "description": "AI Agent \u5b66\u4e60\u8def\u7ebf\u4e0e\u8d44\u6599\u5e93\u6536\u96c6",
             "url": "https://github.com/datawhalechina/Agent-Learning-Hub",
-            "stars": 1080,
+            "stars": 1082,
             "forks": 114,
             "score": 99
         },
@@ -117,9 +117,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "basketikun/infinite-canvas",
             "description": "\u9762\u5411AI\u521b\u4f5c\u7684\u5f00\u6e90\u65e0\u9650\u753b\u5e03\u5de5\u4f5c\u53f0\uff0c\u96c6\u6210 AI \u751f\u56fe\u3001\u53c2\u8003\u56fe\u7f16\u8f91\u3001\u753b\u5e03\u7f16\u6392\u3001\u5bf9\u8bdd\u52a9\u624b\u3001\u63d0\u793a\u8bcd\u5e93\u548c\u7d20\u6750\u7ba1\u7406\u7b49\u529f\u80fd\u3002",
             "url": "https://github.com/basketikun/infinite-canvas",
-            "stars": 411,
+            "stars": 412,
             "forks": 77,
-            "score": 89
+            "score": 81
         },
         {
             "main_cat": "AI",
@@ -135,23 +135,23 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
+            "name": "humanize-text",
+            "full_name": "lynote-ai/humanize-text",
+            "description": "Free open-source AI text humanizer to convert AI-generated content into undetectable, human-like writing. Bypass Turnitin, GPTZero, and all major AI detectors. No sign-up required. Try our unlimited free online tool",
+            "url": "https://github.com/lynote-ai/humanize-text",
+            "stars": 445,
+            "forks": 38,
+            "score": 72
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
             "name": "agentic-ai-demo",
             "full_name": "devopssessionsjvr/agentic-ai-demo",
             "description": "An AI-powered DevOps pipeline simulator combining CI/CD, GitOps (ArgoCD), Kubernetes rollouts, and auto-fixing via AI-generated PRs.",
             "url": "https://github.com/devopssessionsjvr/agentic-ai-demo",
             "stars": 218,
             "forks": 216,
-            "score": 75
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "humanize-text",
-            "full_name": "lynote-ai/humanize-text",
-            "description": "Free open-source AI text humanizer to convert AI-generated content into undetectable, human-like writing. Bypass Turnitin, GPTZero, and all major AI detectors. No sign-up required. Try our unlimited free online tool",
-            "url": "https://github.com/lynote-ai/humanize-text",
-            "stars": 435,
-            "forks": 37,
             "score": 71
         },
         {
@@ -161,20 +161,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "AbhishekK130804/Claude-Mythos-AI-Anthropic-App",
             "description": "Claude pro free Mythos design Opus Cowork  Sonnet AI Anthropic App: download free PC android apk iOS, Anthropic Claude API key setup, Claude roleplay mythos client, SillyTavern Claude prompt formatting, custom system prompt jailbreak, Mythos AI creative writing app, Claude 3.5 Sonnet Opus API cost, open source LLM frontend, Claude reverse proxy ",
             "url": "https://github.com/AbhishekK130804/Claude-Mythos-AI-Anthropic-App",
-            "stars": 425,
+            "stars": 426,
             "forks": 0,
             "score": 60
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "grok-animus",
-            "full_name": "asdsa321as/grok-animus",
-            "description": "Persistent AI companion engine \u2014 personality, memory, dreams, and evolution for any LLM. The foundation behind living AI companions.",
-            "url": "https://github.com/asdsa321as/grok-animus",
-            "stars": 571,
-            "forks": 90,
-            "score": 59
         },
         {
             "main_cat": "AI",
@@ -183,20 +172,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "agentic-in/elephant-agent",
             "description": "Personal-Model First Self Evolving AI Agent \ud83d\udc18",
             "url": "https://github.com/agentic-in/elephant-agent",
-            "stars": 411,
+            "stars": 413,
             "forks": 46,
             "score": 59
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "huashu-md-html",
-            "full_name": "alchaincyf/huashu-md-html",
-            "description": "md/html \u53cc\u5411\u6d41\u6c34\u7ebf \u00b7 \u4e09\u4e2a\u80fd\u529b\u4e00\u7ad9\u5f0f\uff1a\u4e07\u7269\u2192md / md\u2192\u7cbe\u7f8ehtml / html\u2192md\u3002\u5c01\u88c5 markitdown + Pandoc + html-to-markdown + trafilatura\u30024 \u5957\u53cd AI slop \u4e3b\u9898\u3002Claude Code skill.",
-            "url": "https://github.com/alchaincyf/huashu-md-html",
-            "stars": 594,
-            "forks": 70,
-            "score": 57
         },
         {
             "main_cat": "AI",
@@ -227,9 +205,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "nolanx-ai/nolanx.ai",
             "description": "Nolanx, Open-sourced AI Netflix.",
             "url": "https://github.com/nolanx-ai/nolanx.ai",
-            "stars": 367,
+            "stars": 368,
             "forks": 34,
-            "score": 50
+            "score": 51
         },
         {
             "main_cat": "AI",
@@ -263,17 +241,6 @@ const ALPHA_DATA_V2 = {
             "stars": 198,
             "forks": 28,
             "score": 45
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "Agent-HTML",
-            "full_name": "Sayhi-bzb/Agent-HTML",
-            "description": "AI-friendly semantic HTML architecture for better human-agent collaboration.Replacing long Markdown with stable, interactive artifacts.",
-            "url": "https://github.com/Sayhi-bzb/Agent-HTML",
-            "stars": 398,
-            "forks": 14,
-            "score": 44
         },
         {
             "main_cat": "AI",
@@ -322,13 +289,46 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "promptbeat",
-            "full_name": "tophant-ai/promptbeat",
-            "description": "Break your AI before they do.",
-            "url": "https://github.com/tophant-ai/promptbeat",
-            "stars": 211,
-            "forks": 0,
-            "score": 36
+            "name": "distributed-system-testing",
+            "full_name": "shenli/distributed-system-testing",
+            "description": "AI-agent skills for distributed-systems testing",
+            "url": "https://github.com/shenli/distributed-system-testing",
+            "stars": 185,
+            "forks": 11,
+            "score": 42
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "exploitbench",
+            "full_name": "exploitbench/exploitbench",
+            "description": "ExploitBench measures how far AI agents climb, from reaching vulnerable code, to triggering the bug, to building exploit primitives, to arbitrary code execution.",
+            "url": "https://github.com/exploitbench/exploitbench",
+            "stars": 173,
+            "forks": 9,
+            "score": 39
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "Story-to-game",
+            "full_name": "Shanyin-ai/Story-to-game",
+            "description": "A complete toolkit for creating & running branch narrative games: includes an HTML-based interactive story game launcher (supports JSON scripts) and an AI skill that converts novels/ scripts/outlines into playable branch story game JSON files.",
+            "url": "https://github.com/Shanyin-ai/Story-to-game",
+            "stars": 174,
+            "forks": 19,
+            "score": 38
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "FinSight-AI",
+            "full_name": "juanjuandog/FinSight-AI",
+            "description": "AI equity research agent with resilient workflows, Redis Lua single-flight, pgvector RAG, versioned reports, evidence tracing, and RAG evaluation.",
+            "url": "https://github.com/juanjuandog/FinSight-AI",
+            "stars": 167,
+            "forks": 19,
+            "score": 38
         },
         {
             "main_cat": "AI",
@@ -619,22 +619,22 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
-            "name": "ai-knowledge-base-template",
-            "full_name": "RandyRawgust/ai-knowledge-base-template",
-            "description": "Markdown-based AI operating system you can clone and run. Obsidian vault + Claude Code with 5 dept-head agents (Orchestrator / Builder / Writer / Archivist / Auditor), 11 specialists, 19 slash commands, drift-watcher, cross-model judge protocol.",
-            "url": "https://github.com/RandyRawgust/ai-knowledge-base-template",
-            "stars": 1,
+            "name": "huma-finannce.github.io",
+            "full_name": "huma-finannce/huma-finannce.github.io",
+            "description": "Huma Finance is a decentralized PayFi network utilizing stablecoins and on-chain liquidity to enable instant, 24/7 real-world global payment settlements.",
+            "url": "https://github.com/huma-finannce/huma-finannce.github.io",
+            "stars": 0,
             "forks": 0,
             "score": 30
         },
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
-            "name": "k9-solana-programs",
-            "full_name": "Clutch-L4bs/k9-solana-programs",
-            "description": "K9 cross-chain protocol \u2014 Solana programs (verifiable builds source)",
-            "url": "https://github.com/Clutch-L4bs/k9-solana-programs",
-            "stars": 0,
+            "name": "ai-knowledge-base-template",
+            "full_name": "RandyRawgust/ai-knowledge-base-template",
+            "description": "Markdown-based AI operating system you can clone and run. Obsidian vault + Claude Code with 5 dept-head agents (Orchestrator / Builder / Writer / Archivist / Auditor), 11 specialists, 19 slash commands, drift-watcher, cross-model judge protocol.",
+            "url": "https://github.com/RandyRawgust/ai-knowledge-base-template",
+            "stars": 1,
             "forks": 0,
             "score": 30
         },
@@ -694,17 +694,6 @@ const ALPHA_DATA_V2 = {
             "score": 30
         },
         {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "comPi",
-            "full_name": "Alyymx/comPi",
-            "description": "comPi is a trustless AI agent protocol on Solana that simplifies cross-chain DeFi through Intents. By combining LI.FI for global routing and Anchor-based Safety Vaults, it executes complex bridge-and-swap tasks securely. Users express a goal, and the agent delivers it\u2014only releasing funds if your price conditions are met.",
-            "url": "https://github.com/Alyymx/comPi",
-            "stars": 0,
-            "forks": 0,
-            "score": 30
-        },
-        {
             "main_cat": "Cross-chain / Interoperability",
             "sub_cat": null,
             "name": "Eigenvex",
@@ -725,5 +714,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-05-22 22:03"
+    "timestamp": "2026-05-23 00:00"
 };
