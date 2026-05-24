@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "nexu-io/html-anything",
             "description": "\u2728 The agentic HTML editor \u2014 your local AI agent writes the HTML, you ship it. \ud83d\ude80 75 Skills \u00d7 9 Surfaces (magazine \u00b7 deck \u00b7 poster \u00b7 XHS / tweet \u00b7 prototype \u00b7 data report \u00b7 Hyperframes) \ud83d\udee1\ufe0f Sandboxed preview \u00b7 \ud83d\udce4 1-click to WeChat / X / Zhihu / HTML / PNG \ud83d\udd11 Zero API key \u2014 Claude Code / Cursor / Codex / Gemini / Copilot / OpenCode / Qwen / Aider.",
             "url": "https://github.com/nexu-io/html-anything",
-            "stars": 4787,
-            "forks": 491,
+            "stars": 4789,
+            "forks": 492,
             "score": 99
         },
         {
@@ -95,7 +95,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "feder-cr/invisible_playwright",
             "description": "AI Browser, Stealth Firefox that passes every bot detection test. Drop-in Playwright replacement.",
             "url": "https://github.com/feder-cr/invisible_playwright",
-            "stars": 996,
+            "stars": 998,
             "forks": 104,
             "score": 80
         },
@@ -117,7 +117,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "lynote-ai/humanize-text",
             "description": "Free open-source AI text humanizer to convert AI-generated content into undetectable, human-like writing. Bypass Turnitin, GPTZero, and all major AI detectors. No sign-up required. Try our unlimited free online tool",
             "url": "https://github.com/lynote-ai/humanize-text",
-            "stars": 642,
+            "stars": 648,
             "forks": 42,
             "score": 75
         },
@@ -156,25 +156,14 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "elephant-agent",
-            "full_name": "agentic-in/elephant-agent",
-            "description": "Personal-Model First Self Evolving AI Agent \ud83d\udc18",
-            "url": "https://github.com/agentic-in/elephant-agent",
-            "stars": 452,
-            "forks": 59,
-            "score": 58
-        },
-        {
-            "main_cat": "AI",
             "sub_cat": null,
             "name": "FigMirror",
             "full_name": "VILA-Lab/FigMirror",
             "description": "An Automated AI Agent Tool for Plotting Your Data in Any Paper's Figure Style.",
             "url": "https://github.com/VILA-Lab/FigMirror",
-            "stars": 228,
+            "stars": 233,
             "forks": 15,
-            "score": 58
+            "score": 59
         },
         {
             "main_cat": "AI",
@@ -183,9 +172,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "deeplethe/forkd",
             "description": "Fork() for AI agent microVMs. Spawn 100 children in ~100ms from a warm parent; BRANCH a live VM in ~150ms. KVM-isolated, snapshot CoW.",
             "url": "https://github.com/deeplethe/forkd",
-            "stars": 692,
-            "forks": 48,
-            "score": 57
+            "stars": 697,
+            "forks": 50,
+            "score": 58
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "elephant-agent",
+            "full_name": "agentic-in/elephant-agent",
+            "description": "Personal-Model First Self Evolving AI Agent \ud83d\udc18",
+            "url": "https://github.com/agentic-in/elephant-agent",
+            "stars": 455,
+            "forks": 59,
+            "score": 58
         },
         {
             "main_cat": "AI",
@@ -194,7 +194,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "nolanx-ai/nolanx.ai",
             "description": "Nolanx, Open-sourced AI Netflix.",
             "url": "https://github.com/nolanx-ai/nolanx.ai",
-            "stars": 485,
+            "stars": 488,
             "forks": 55,
             "score": 55
         },
@@ -293,7 +293,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "LocoreMind/locoagent",
             "description": "AI-powered social media agent with real browser automation",
             "url": "https://github.com/LocoreMind/locoagent",
-            "stars": 333,
+            "stars": 335,
             "forks": 12,
             "score": 43
         },
@@ -706,5 +706,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-05-24 20:46"
+    "timestamp": "2026-05-24 21:51"
 };
