@@ -95,7 +95,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "feder-cr/invisible_playwright",
             "description": "AI Browser, Stealth Firefox that passes every bot detection test. Drop-in Playwright replacement.",
             "url": "https://github.com/feder-cr/invisible_playwright",
-            "stars": 998,
+            "stars": 999,
             "forks": 104,
             "score": 80
         },
@@ -117,9 +117,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "lynote-ai/humanize-text",
             "description": "Free open-source AI text humanizer to convert AI-generated content into undetectable, human-like writing. Bypass Turnitin, GPTZero, and all major AI detectors. No sign-up required. Try our unlimited free online tool",
             "url": "https://github.com/lynote-ai/humanize-text",
-            "stars": 648,
-            "forks": 42,
-            "score": 75
+            "stars": 656,
+            "forks": 44,
+            "score": 76
         },
         {
             "main_cat": "AI",
@@ -161,7 +161,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "VILA-Lab/FigMirror",
             "description": "An Automated AI Agent Tool for Plotting Your Data in Any Paper's Figure Style.",
             "url": "https://github.com/VILA-Lab/FigMirror",
-            "stars": 233,
+            "stars": 236,
             "forks": 15,
             "score": 59
         },
@@ -172,7 +172,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "deeplethe/forkd",
             "description": "Fork() for AI agent microVMs. Spawn 100 children in ~100ms from a warm parent; BRANCH a live VM in ~150ms. KVM-isolated, snapshot CoW.",
             "url": "https://github.com/deeplethe/forkd",
-            "stars": 697,
+            "stars": 698,
             "forks": 50,
             "score": 58
         },
@@ -183,20 +183,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "agentic-in/elephant-agent",
             "description": "Personal-Model First Self Evolving AI Agent \ud83d\udc18",
             "url": "https://github.com/agentic-in/elephant-agent",
-            "stars": 455,
+            "stars": 456,
             "forks": 59,
             "score": 58
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "nolanx.ai",
-            "full_name": "nolanx-ai/nolanx.ai",
-            "description": "Nolanx, Open-sourced AI Netflix.",
-            "url": "https://github.com/nolanx-ai/nolanx.ai",
-            "stars": 488,
-            "forks": 55,
-            "score": 55
         },
         {
             "main_cat": "AI",
@@ -205,8 +194,30 @@ const ALPHA_DATA_V2 = {
             "full_name": "testerlingcodo/gemini-antigravity-cli",
             "description": "gemini antigravity 2.0 cli google terminal ai agent tool agy migration guide mcp server plugin slash commands gemini 3.5 flash coding agent tool free",
             "url": "https://github.com/testerlingcodo/gemini-antigravity-cli",
-            "stars": 253,
+            "stars": 273,
             "forks": 0,
+            "score": 57
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "Deepseek-v4-Pro-App",
+            "full_name": "mikaeldengale-cloud/Deepseek-v4-Pro-App",
+            "description": "deepseek v4 flash pro chat  api  app windows 11 desktop client github open source ai assistant chatbot coding agent moe model 1.6t parameters free api setup guide reasoning max mode local deployment",
+            "url": "https://github.com/mikaeldengale-cloud/Deepseek-v4-Pro-App",
+            "stars": 223,
+            "forks": 0,
+            "score": 57
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "nolanx.ai",
+            "full_name": "nolanx-ai/nolanx.ai",
+            "description": "Nolanx, Open-sourced AI Netflix.",
+            "url": "https://github.com/nolanx-ai/nolanx.ai",
+            "stars": 490,
+            "forks": 55,
             "score": 55
         },
         {
@@ -216,7 +227,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "AbhishekK130804/Claude-Mythos-AI-Anthropic-App",
             "description": "Claude pro free Mythos design Opus Cowork  Sonnet AI Anthropic App: download free PC android apk iOS, Anthropic Claude API key setup, Claude roleplay mythos client, SillyTavern Claude prompt formatting, custom system prompt jailbreak, Mythos AI creative writing app, Claude 3.5 Sonnet Opus API cost, open source LLM frontend, Claude reverse proxy ",
             "url": "https://github.com/AbhishekK130804/Claude-Mythos-AI-Anthropic-App",
-            "stars": 437,
+            "stars": 439,
             "forks": 0,
             "score": 54
         },
@@ -282,7 +293,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "haidang1810/md2html",
             "description": "Your AI writes docs \u2014 md2html turns them into pages people actually read. A portable skill for Claude Code / Codex / Antigravity that converts long-form Markdown (plans, specs, system designs, RFCs, runbooks, postmortems, brainstorms) into self-contained HTML with Mermaid, timelines, callouts, TOC. Multi-language.",
             "url": "https://github.com/haidang1810/md2html",
-            "stars": 284,
+            "stars": 285,
             "forks": 21,
             "score": 44
         },
@@ -293,7 +304,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "LocoreMind/locoagent",
             "description": "AI-powered social media agent with real browser automation",
             "url": "https://github.com/LocoreMind/locoagent",
-            "stars": 335,
+            "stars": 337,
             "forks": 12,
             "score": 43
         },
@@ -318,17 +329,6 @@ const ALPHA_DATA_V2 = {
             "stars": 284,
             "forks": 13,
             "score": 41
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "codex-orange-book",
-            "full_name": "alchaincyf/codex-orange-book",
-            "description": "OpenAI Codex: The Complete Guide \u00b7 \u6a59\u76ae\u4e66\u7cfb\u5217 \u00b7 GPT-5.5 \u65f6\u4ee3\u7684 AI \u7f16\u7a0b\u5b9e\u6218\u624b\u518c",
-            "url": "https://github.com/alchaincyf/codex-orange-book",
-            "stars": 220,
-            "forks": 16,
-            "score": 40
         },
         {
             "main_cat": "AI",
@@ -432,6 +432,17 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "Prediction Markets",
             "sub_cat": null,
+            "name": "nitro-bet",
+            "full_name": "57KingVibe/nitro-bet",
+            "description": "Nitro-Bet is a decentralized, high-frequency sports prediction market.",
+            "url": "https://github.com/57KingVibe/nitro-bet",
+            "stars": 0,
+            "forks": 0,
+            "score": 30
+        },
+        {
+            "main_cat": "Prediction Markets",
+            "sub_cat": null,
             "name": "decentralized-prediction-market-v3",
             "full_name": "sujon12210/decentralized-prediction-market-v3",
             "description": "An institutional-grade Binary Options and Prediction Market framework featuring automated market making (AMM), collateralized betting pools, and decentralized oracle resolution.",
@@ -458,17 +469,6 @@ const ALPHA_DATA_V2 = {
             "full_name": "benibauer3/celo-predict",
             "description": "Decentralized binary prediction markets on Celo L2 \u2014 bet YES/NO with USDm stablecoins, MiniPay native, fee abstraction CIP-64",
             "url": "https://github.com/benibauer3/celo-predict",
-            "stars": 0,
-            "forks": 0,
-            "score": 30
-        },
-        {
-            "main_cat": "Prediction Markets",
-            "sub_cat": null,
-            "name": "thedealer",
-            "full_name": "thedealerprd/thedealer",
-            "description": "The mascot is a robotic eagle and dragon fighting over a glowing microchip. A Sleek Prediction Market Web App. You spin up a clean, high contrast landing page where users connect their wallets to bet on the actual fallout of the meeting. Markets could include micro bets. It turns global diplomacy into a degen betting slip.",
-            "url": "https://github.com/thedealerprd/thedealer",
             "stars": 0,
             "forks": 0,
             "score": 30
@@ -706,5 +706,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-05-24 21:51"
+    "timestamp": "2026-05-24 22:52"
 };
