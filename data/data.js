@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "datawhalechina/Agent-Learning-Hub",
             "description": "AI Agent \u5b66\u4e60\u8def\u7ebf\u4e0e\u8d44\u6599\u5e93\u6536\u96c6",
             "url": "https://github.com/datawhalechina/Agent-Learning-Hub",
-            "stars": 1413,
-            "forks": 149,
+            "stars": 1463,
+            "forks": 158,
             "score": 99
         },
         {
@@ -18,8 +18,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "Doorman11991/smallcode",
             "description": "AI coding agent optimized for small LLMs. 87% benchmark with 4B-active model.",
             "url": "https://github.com/Doorman11991/smallcode",
-            "stars": 1399,
-            "forks": 97,
+            "stars": 1406,
+            "forks": 98,
             "score": 99
         },
         {
@@ -57,36 +57,14 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "ai-auto-trading",
-            "full_name": "python-telegramBot/ai-auto-trading",
-            "description": "AI trading bot crypto LLM agent quantitative trading automated trading algorithmic trading Binance Gate.io TypeScript Node.js VoltAgent crypto bot risk management multi-strategy",
-            "url": "https://github.com/python-telegramBot/ai-auto-trading",
-            "stars": 204,
-            "forks": 569,
-            "score": 99
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "humanize-text",
-            "full_name": "lynote-ai/humanize-text",
-            "description": "Free open-source AI text humanizer to convert AI-generated content into undetectable, human-like writing. Bypass Turnitin, GPTZero, and all major AI detectors. No sign-up required. Try our unlimited free online tool",
-            "url": "https://github.com/lynote-ai/humanize-text",
-            "stars": 736,
-            "forks": 46,
-            "score": 81
-        },
-        {
-            "main_cat": "AI",
             "sub_cat": null,
             "name": "invisible_playwright",
             "full_name": "feder-cr/invisible_playwright",
             "description": "AI Browser, Stealth Firefox that passes every bot detection test. Drop-in Playwright replacement.",
             "url": "https://github.com/feder-cr/invisible_playwright",
-            "stars": 1005,
-            "forks": 104,
-            "score": 77
+            "stars": 1015,
+            "forks": 107,
+            "score": 78
         },
         {
             "main_cat": "AI",
@@ -95,8 +73,19 @@ const ALPHA_DATA_V2 = {
             "full_name": "basketikun/infinite-canvas",
             "description": "\u9762\u5411AI\u521b\u4f5c\u7684\u5f00\u6e90\u65e0\u9650\u753b\u5e03\u5de5\u4f5c\u53f0\uff0c\u96c6\u6210 AI \u751f\u56fe\u3001\u53c2\u8003\u56fe\u7f16\u8f91\u3001\u753b\u5e03\u7f16\u6392\u3001\u5bf9\u8bdd\u52a9\u624b\u3001\u63d0\u793a\u8bcd\u5e93\u548c\u7d20\u6750\u7ba1\u7406\u7b49\u529f\u80fd\u3002",
             "url": "https://github.com/basketikun/infinite-canvas",
-            "stars": 488,
-            "forks": 93,
+            "stars": 499,
+            "forks": 94,
+            "score": 78
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "humanize-text",
+            "full_name": "lynote-ai/humanize-text",
+            "description": "Free open-source AI text humanizer to convert AI-generated content into undetectable, human-like writing. Bypass Turnitin, GPTZero, and all major AI detectors. No sign-up required. Try our unlimited free online tool",
+            "url": "https://github.com/lynote-ai/humanize-text",
+            "stars": 750,
+            "forks": 48,
             "score": 77
         },
         {
@@ -106,42 +95,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "simonlin1212/TradingAgents-astock",
             "description": "A\u80a1\u591aAgent\u6295\u7814\u6846\u67b6 \u2014 \u9002\u914dA\u80a1\u6570\u636e\u6e90(\u9f99\u864e\u699c/\u6e38\u8d44/\u89e3\u7981\u7b49)\uff0c7\u4f4d\u5206\u6790\u5e08\u57fa\u4e8eA\u80a1\u89c4\u5219\u7684\u8fa9\u8bba\u51b3\u7b56\uff0c\u57fa\u4e8eTradingAgents\u6df1\u5ea6\u6539\u9020\uff0c\u9002\u914d\u5927A\u3002A-share multi-agent investment research framework \u2014 7 AI analysts, bull/bear debate, risk assessment\u3002",
             "url": "https://github.com/simonlin1212/TradingAgents-astock",
-            "stars": 613,
-            "forks": 187,
-            "score": 75
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "Mythos-Claude-Skill-Forge",
-            "full_name": "rayhayqal/Mythos-Claude-Skill-Forge",
-            "description": "\ud83d\ude80 Claude Mythos AI 2026 \u2013 Build Autonomous Agent Skills & Plugins for Next-Gen Apps",
-            "url": "https://github.com/rayhayqal/Mythos-Claude-Skill-Forge",
-            "stars": 422,
-            "forks": 0,
-            "score": 72
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "Claude-Design-Studio",
-            "full_name": "larajuniorlara/Claude-Design-Studio",
-            "description": "\ud83d\ude80 Claude Design AI 2026: Ultimate UI/UX Generator & Plugin Suite \u2013 Free Download",
-            "url": "https://github.com/larajuniorlara/Claude-Design-Studio",
-            "stars": 422,
-            "forks": 0,
-            "score": 72
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "claude-zeroclaw-agentics",
-            "full_name": "muhammadqasimkalhoro94-blip/claude-zeroclaw-agentics",
-            "description": "\ud83d\ude80 ZeroClaw Subagents 2026: AI Orchestration with Claude Code Router & MCP",
-            "url": "https://github.com/muhammadqasimkalhoro94-blip/claude-zeroclaw-agentics",
-            "stars": 421,
-            "forks": 0,
-            "score": 72
+            "stars": 621,
+            "forks": 191,
+            "score": 76
         },
         {
             "main_cat": "AI",
@@ -156,14 +112,47 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
+            "sub_cat": null,
+            "name": "Mythos-Claude-Skill-Forge",
+            "full_name": "rayhayqal/Mythos-Claude-Skill-Forge",
+            "description": "\ud83d\ude80 Claude Mythos AI 2026 \u2013 Build Autonomous Agent Skills & Plugins for Next-Gen Apps",
+            "url": "https://github.com/rayhayqal/Mythos-Claude-Skill-Forge",
+            "stars": 422,
+            "forks": 0,
+            "score": 65
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "Claude-Design-Studio",
+            "full_name": "larajuniorlara/Claude-Design-Studio",
+            "description": "\ud83d\ude80 Claude Design AI 2026: Ultimate UI/UX Generator & Plugin Suite \u2013 Free Download",
+            "url": "https://github.com/larajuniorlara/Claude-Design-Studio",
+            "stars": 422,
+            "forks": 0,
+            "score": 65
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "claude-zeroclaw-agentics",
+            "full_name": "muhammadqasimkalhoro94-blip/claude-zeroclaw-agentics",
+            "description": "\ud83d\ude80 ZeroClaw Subagents 2026: AI Orchestration with Claude Code Router & MCP",
+            "url": "https://github.com/muhammadqasimkalhoro94-blip/claude-zeroclaw-agentics",
+            "stars": 421,
+            "forks": 0,
+            "score": 65
+        },
+        {
+            "main_cat": "AI",
             "sub_cat": "AI General",
             "name": "Deepseek-v4-Pro-App",
             "full_name": "mikaeldengale-cloud/Deepseek-v4-Pro-App",
             "description": "deepseek v4 flash pro chat  api  app windows 11 desktop client github open source ai assistant chatbot coding agent moe model 1.6t parameters free api setup guide reasoning max mode local deployment",
             "url": "https://github.com/mikaeldengale-cloud/Deepseek-v4-Pro-App",
-            "stars": 262,
+            "stars": 282,
             "forks": 0,
-            "score": 62
+            "score": 65
         },
         {
             "main_cat": "AI",
@@ -172,9 +161,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "VILA-Lab/FigMirror",
             "description": "An Automated AI Agent Tool for Plotting Your Data in Any Paper's Figure Style.",
             "url": "https://github.com/VILA-Lab/FigMirror",
-            "stars": 252,
+            "stars": 262,
             "forks": 15,
-            "score": 61
+            "score": 62
         },
         {
             "main_cat": "AI",
@@ -183,9 +172,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "testerlingcodo/gemini-antigravity-cli",
             "description": "gemini antigravity 2.0 cli google terminal ai agent tool agy migration guide mcp server plugin slash commands gemini 3.5 flash coding agent tool free",
             "url": "https://github.com/testerlingcodo/gemini-antigravity-cli",
-            "stars": 302,
+            "stars": 319,
             "forks": 0,
-            "score": 60
+            "score": 61
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "uncensored-ai-image-video-generator",
+            "full_name": "Astraltenprosper/uncensored-ai-image-video-generator",
+            "description": "AI tool for generating uncensored images and videos (18+)",
+            "url": "https://github.com/Astraltenprosper/uncensored-ai-image-video-generator",
+            "stars": 222,
+            "forks": 7,
+            "score": 61
         },
         {
             "main_cat": "AI",
@@ -194,9 +194,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "agentic-in/elephant-agent",
             "description": "Personal-Model First Self Evolving AI Agent \ud83d\udc18",
             "url": "https://github.com/agentic-in/elephant-agent",
-            "stars": 463,
+            "stars": 468,
             "forks": 59,
-            "score": 56
+            "score": 57
         },
         {
             "main_cat": "AI",
@@ -205,9 +205,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "nolanx-ai/nolanx.ai",
             "description": "Nolanx, Open-sourced AI Netflix.",
             "url": "https://github.com/nolanx-ai/nolanx.ai",
-            "stars": 503,
+            "stars": 508,
             "forks": 55,
-            "score": 55
+            "score": 56
         },
         {
             "main_cat": "AI",
@@ -216,9 +216,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "AbhishekK130804/Claude-Mythos-AI-Anthropic-App",
             "description": "Claude pro free Mythos design Opus Cowork  Sonnet AI Anthropic App: download free PC android apk iOS, Anthropic Claude API key setup, Claude roleplay mythos client, SillyTavern Claude prompt formatting, custom system prompt jailbreak, Mythos AI creative writing app, Claude 3.5 Sonnet Opus API cost, open source LLM frontend, Claude reverse proxy ",
             "url": "https://github.com/AbhishekK130804/Claude-Mythos-AI-Anthropic-App",
-            "stars": 444,
+            "stars": 448,
             "forks": 1,
-            "score": 54
+            "score": 55
         },
         {
             "main_cat": "AI",
@@ -227,9 +227,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "XingYu-Zhong/DeepSeek-GUI",
             "description": "AI agent workspace for DeepSeek models, with Code and Claw modes built into your application.",
             "url": "https://github.com/XingYu-Zhong/DeepSeek-GUI",
-            "stars": 232,
-            "forks": 14,
-            "score": 54
+            "stars": 249,
+            "forks": 15,
+            "score": 55
         },
         {
             "main_cat": "AI",
@@ -240,18 +240,7 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/husu/loom",
             "stars": 428,
             "forks": 22,
-            "score": 51
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "agent-study",
-            "full_name": "Callous-0923/agent-study",
-            "description": "36\u7ae0AI Agent\u5168\u6808\u8bfe\u7a0b\uff1a\u4eceReAct\u5faa\u73af\u5230Claude Code\u9006\u5411\u3001MCP/A2A\u534f\u8bae\u3001RAG\u3001DSPy\u3001\u751f\u4ea7\u53ef\u89c2\u6d4b\u6027\u2014\u2014\u5168\u90e8\u4e3a\u53ef\u8fd0\u884cPython\u6587\u4ef6\uff0c\u9762\u8bd5\u5bfc\u5411\u3002",
-            "url": "https://github.com/Callous-0923/agent-study",
-            "stars": 323,
-            "forks": 24,
-            "score": 46
+            "score": 49
         },
         {
             "main_cat": "AI",
@@ -271,9 +260,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "basionwang-bot/HermesPet",
             "description": "\u8ba9 AI \u4f4f\u5728\u4f60 MacBook \u7684\u5218\u6d77\u91cc \u00b7 \u96f6\u4f9d\u8d56\u5f00\u7bb1\u5373\u7528 \u00b7 \u591a\u5f15\u64ce\u5e76\u884c\u7684\u684c\u9762 AI \u4f34\u4fa3\uff08Swift 6 / SwiftUI / macOS 14+\uff09",
             "url": "https://github.com/basionwang-bot/HermesPet",
-            "stars": 266,
+            "stars": 271,
             "forks": 36,
             "score": 45
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "agent-study",
+            "full_name": "Callous-0923/agent-study",
+            "description": "36\u7ae0AI Agent\u5168\u6808\u8bfe\u7a0b\uff1a\u4eceReAct\u5faa\u73af\u5230Claude Code\u9006\u5411\u3001MCP/A2A\u534f\u8bae\u3001RAG\u3001DSPy\u3001\u751f\u4ea7\u53ef\u89c2\u6d4b\u6027\u2014\u2014\u5168\u90e8\u4e3a\u53ef\u8fd0\u884cPython\u6587\u4ef6\uff0c\u9762\u8bd5\u5bfc\u5411\u3002",
+            "url": "https://github.com/Callous-0923/agent-study",
+            "stars": 323,
+            "forks": 24,
+            "score": 44
         },
         {
             "main_cat": "AI",
@@ -282,7 +282,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "LocoreMind/locoagent",
             "description": "AI-powered social media agent with real browser automation",
             "url": "https://github.com/LocoreMind/locoagent",
-            "stars": 353,
+            "stars": 371,
             "forks": 12,
             "score": 43
         },
@@ -293,7 +293,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "haidang1810/md2html",
             "description": "Your AI writes docs \u2014 md2html turns them into pages people actually read. A portable skill for Claude Code / Codex / Antigravity that converts long-form Markdown (plans, specs, system designs, RFCs, runbooks, postmortems, brainstorms) into self-contained HTML with Mermaid, timelines, callouts, TOC. Multi-language.",
             "url": "https://github.com/haidang1810/md2html",
-            "stars": 292,
+            "stars": 294,
             "forks": 21,
             "score": 43
         },
@@ -304,7 +304,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "mikesheehan54/Claude-Code-Design-AI",
             "description": "Claude Design: AI UI/UX architect. Screenshot to React, Figma components, Tailwind CSS generator. Prototyping agent, design systems, wireframe renderer. SVG icon creator, dark mode toggle, responsive layout tool. Front-end code export, shadcn/ui integration, vector assets, branding assistant.",
             "url": "https://github.com/mikesheehan54/Claude-Code-Design-AI",
-            "stars": 334,
+            "stars": 335,
             "forks": 1,
             "score": 42
         },
@@ -315,7 +315,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "agentara/skills",
             "description": "Original and practical skills for AI builders.",
             "url": "https://github.com/agentara/skills",
-            "stars": 285,
+            "stars": 288,
             "forks": 13,
             "score": 40
         },
@@ -359,7 +359,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "tgakathunderr/BIM-2",
             "description": "Biologically inspired language model using Jaccard Surprise as its only training signal. No backprop. No GPU. Online Hebbian learning from corrections. Two-layer cortex with apical feedback. Runs on CPU under 200MB.",
             "url": "https://github.com/tgakathunderr/BIM-2",
-            "stars": 5,
+            "stars": 6,
             "forks": 0,
             "score": 30
         },
@@ -696,6 +696,20 @@ const ALPHA_DATA_V2 = {
     ],
     "news": [
         {
+            "title": "CHRONOS: Temporally-Aware Multi-Agent Coordination for Evolving Data Marketplaces",
+            "source": "ArXiv",
+            "type": "Research Alpha",
+            "color": "text-indigo-600",
+            "url": "http://arxiv.org/abs/2605.23887v1"
+        },
+        {
+            "title": "On the Stability of Spherical Hellinger-Kantorovich Flows and Their Implications for Differential Privacy",
+            "source": "ArXiv",
+            "type": "Research Alpha",
+            "color": "text-indigo-600",
+            "url": "http://arxiv.org/abs/2605.23879v1"
+        },
+        {
             "title": "Bitcoin volatility remains high ahead of key FED decision.",
             "source": "Polymarket",
             "type": "Expectation",
@@ -703,5 +717,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-05-25 07:08"
+    "timestamp": "2026-05-25 11:47"
 };
