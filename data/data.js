@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "datawhalechina/Agent-Learning-Hub",
             "description": "AI Agent \u5b66\u4e60\u8def\u7ebf\u4e0e\u8d44\u6599\u5e93\u6536\u96c6",
             "url": "https://github.com/datawhalechina/Agent-Learning-Hub",
-            "stars": 1489,
-            "forks": 157,
+            "stars": 1491,
+            "forks": 158,
             "score": 99
         },
         {
@@ -18,7 +18,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Doorman11991/smallcode",
             "description": "AI coding agent optimized for small LLMs. 87% benchmark with 4B-active model.",
             "url": "https://github.com/Doorman11991/smallcode",
-            "stars": 1417,
+            "stars": 1421,
             "forks": 99,
             "score": 99
         },
@@ -68,12 +68,23 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "polymarket-ai-trading",
+            "full_name": "thinkpixelIab/polymarket-ai-trading",
+            "description": "Polymarket prediction markets AI trading paper trading OpenAI GPT CLOB Kelly mean reversion SQLite Node Express Docker Render Vercel dashboard algorithmic trading quant research forecasting crypto",
+            "url": "https://github.com/thinkpixelIab/polymarket-ai-trading",
+            "stars": 198,
+            "forks": 1983,
+            "score": 99
+        },
+        {
+            "main_cat": "AI",
             "sub_cat": null,
             "name": "infinite-canvas",
             "full_name": "basketikun/infinite-canvas",
             "description": "\u9762\u5411AI\u521b\u4f5c\u7684\u5f00\u6e90\u65e0\u9650\u753b\u5e03\u5de5\u4f5c\u53f0\uff0c\u96c6\u6210 AI \u751f\u56fe\u3001\u53c2\u8003\u56fe\u7f16\u8f91\u3001\u753b\u5e03\u7f16\u6392\u3001\u5bf9\u8bdd\u52a9\u624b\u3001\u63d0\u793a\u8bcd\u5e93\u548c\u7d20\u6750\u7ba1\u7406\u7b49\u529f\u80fd\u3002",
             "url": "https://github.com/basketikun/infinite-canvas",
-            "stars": 506,
+            "stars": 507,
             "forks": 95,
             "score": 79
         },
@@ -84,7 +95,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "feder-cr/invisible_playwright",
             "description": "AI Browser, Stealth Firefox that passes every bot detection test. Drop-in Playwright replacement.",
             "url": "https://github.com/feder-cr/invisible_playwright",
-            "stars": 1020,
+            "stars": 1023,
             "forks": 107,
             "score": 78
         },
@@ -95,8 +106,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "lynote-ai/humanize-text",
             "description": "Free open-source AI text humanizer to convert AI-generated content into undetectable, human-like writing. Bypass Turnitin, GPTZero, and all major AI detectors. No sign-up required. Try our unlimited free online tool",
             "url": "https://github.com/lynote-ai/humanize-text",
-            "stars": 758,
-            "forks": 44,
+            "stars": 761,
+            "forks": 43,
             "score": 76
         },
         {
@@ -106,7 +117,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "simonlin1212/TradingAgents-astock",
             "description": "A\u80a1\u591aAgent\u6295\u7814\u6846\u67b6 \u2014 \u9002\u914dA\u80a1\u6570\u636e\u6e90(\u9f99\u864e\u699c/\u6e38\u8d44/\u89e3\u7981\u7b49)\uff0c7\u4f4d\u5206\u6790\u5e08\u57fa\u4e8eA\u80a1\u89c4\u5219\u7684\u8fa9\u8bba\u51b3\u7b56\uff0c\u57fa\u4e8eTradingAgents\u6df1\u5ea6\u6539\u9020\uff0c\u9002\u914d\u5927A\u3002A-share multi-agent investment research framework \u2014 7 AI analysts, bull/bear debate, risk assessment\u3002",
             "url": "https://github.com/simonlin1212/TradingAgents-astock",
-            "stars": 629,
+            "stars": 630,
             "forks": 194,
             "score": 76
         },
@@ -117,42 +128,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "devopssessionsjvr/agentic-ai-demo",
             "description": "An AI-powered DevOps pipeline simulator combining CI/CD, GitOps (ArgoCD), Kubernetes rollouts, and auto-fixing via AI-generated PRs.",
             "url": "https://github.com/devopssessionsjvr/agentic-ai-demo",
-            "stars": 249,
-            "forks": 246,
+            "stars": 251,
+            "forks": 248,
             "score": 71
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "Mythos-Claude-Skill-Forge",
-            "full_name": "rayhayqal/Mythos-Claude-Skill-Forge",
-            "description": "\ud83d\ude80 Claude Mythos AI 2026 \u2013 Build Autonomous Agent Skills & Plugins for Next-Gen Apps",
-            "url": "https://github.com/rayhayqal/Mythos-Claude-Skill-Forge",
-            "stars": 423,
-            "forks": 0,
-            "score": 65
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "Claude-Design-Studio",
-            "full_name": "larajuniorlara/Claude-Design-Studio",
-            "description": "\ud83d\ude80 Claude Design AI 2026: Ultimate UI/UX Generator & Plugin Suite \u2013 Free Download",
-            "url": "https://github.com/larajuniorlara/Claude-Design-Studio",
-            "stars": 422,
-            "forks": 0,
-            "score": 65
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "claude-zeroclaw-agentics",
-            "full_name": "muhammadqasimkalhoro94-blip/claude-zeroclaw-agentics",
-            "description": "\ud83d\ude80 ZeroClaw Subagents 2026: AI Orchestration with Claude Code Router & MCP",
-            "url": "https://github.com/muhammadqasimkalhoro94-blip/claude-zeroclaw-agentics",
-            "stars": 421,
-            "forks": 0,
-            "score": 65
         },
         {
             "main_cat": "AI",
@@ -161,8 +139,19 @@ const ALPHA_DATA_V2 = {
             "full_name": "VILA-Lab/FigMirror",
             "description": "An Automated AI Agent Tool for Plotting Your Data in Any Paper's Figure Style.",
             "url": "https://github.com/VILA-Lab/FigMirror",
-            "stars": 274,
+            "stars": 275,
             "forks": 16,
+            "score": 58
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "agentic-ai-system-course",
+            "full_name": "bryanyzhu/agentic-ai-system-course",
+            "description": "Use agent to learn agent - A skeleton course on how to design, build, and operate production AI agents ",
+            "url": "https://github.com/bryanyzhu/agentic-ai-system-course",
+            "stars": 198,
+            "forks": 22,
             "score": 58
         },
         {
@@ -172,7 +161,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "agentic-in/elephant-agent",
             "description": "Personal-Model First Self Evolving AI Agent \ud83d\udc18",
             "url": "https://github.com/agentic-in/elephant-agent",
-            "stars": 470,
+            "stars": 471,
             "forks": 59,
             "score": 57
         },
@@ -183,9 +172,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "nolanx-ai/nolanx.ai",
             "description": "Nolanx, Open-sourced AI Netflix.",
             "url": "https://github.com/nolanx-ai/nolanx.ai",
-            "stars": 518,
+            "stars": 520,
             "forks": 55,
-            "score": 56
+            "score": 54
         },
         {
             "main_cat": "AI",
@@ -194,7 +183,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "XingYu-Zhong/DeepSeek-GUI",
             "description": "AI agent workspace for DeepSeek models, with Code and Claw modes built into your application.",
             "url": "https://github.com/XingYu-Zhong/DeepSeek-GUI",
-            "stars": 255,
+            "stars": 256,
             "forks": 15,
             "score": 52
         },
@@ -217,7 +206,7 @@ const ALPHA_DATA_V2 = {
             "description": "Claude pro free Mythos design Opus Cowork  Sonnet AI Anthropic App: download free PC android apk iOS, Anthropic Claude API key setup, Claude roleplay mythos client, SillyTavern Claude prompt formatting, custom system prompt jailbreak, Mythos AI creative writing app, Claude 3.5 Sonnet Opus API cost, open source LLM frontend, Claude reverse proxy ",
             "url": "https://github.com/AbhishekK130804/Claude-Mythos-AI-Anthropic-App",
             "stars": 356,
-            "forks": 1,
+            "forks": 2,
             "score": 48
         },
         {
@@ -227,7 +216,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "basionwang-bot/HermesPet",
             "description": "\u8ba9 AI \u4f4f\u5728\u4f60 MacBook \u7684\u5218\u6d77\u91cc \u00b7 \u96f6\u4f9d\u8d56\u5f00\u7bb1\u5373\u7528 \u00b7 \u591a\u5f15\u64ce\u5e76\u884c\u7684\u684c\u9762 AI \u4f34\u4fa3\uff08Swift 6 / SwiftUI / macOS 14+\uff09",
             "url": "https://github.com/basionwang-bot/HermesPet",
-            "stars": 276,
+            "stars": 277,
             "forks": 37,
             "score": 46
         },
@@ -256,13 +245,35 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
+            "name": "backdoor",
+            "full_name": "ajsai47/backdoor",
+            "description": "Run Claude Code against any AI provider. DeepSeek, Groq, Ollama, OpenRouter \u2014 your call.",
+            "url": "https://github.com/ajsai47/backdoor",
+            "stars": 204,
+            "forks": 24,
+            "score": 45
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
             "name": "locoagent",
             "full_name": "LocoreMind/locoagent",
             "description": "AI-powered social media agent with real browser automation",
             "url": "https://github.com/LocoreMind/locoagent",
-            "stars": 392,
+            "stars": 400,
             "forks": 12,
             "score": 44
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "azmx",
+            "full_name": "AzmxAI/azmx",
+            "description": "AZMX AI \u2014 The sovereign agent platform.",
+            "url": "https://github.com/AzmxAI/azmx",
+            "stars": 430,
+            "forks": 0,
+            "score": 43
         },
         {
             "main_cat": "AI",
@@ -278,22 +289,11 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "azmx",
-            "full_name": "AzmxAI/azmx",
-            "description": "AZMX AI \u2014 The sovereign agent platform.",
-            "url": "https://github.com/AzmxAI/azmx",
-            "stars": 372,
-            "forks": 0,
-            "score": 41
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
             "name": "distributed-system-testing",
             "full_name": "shenli/distributed-system-testing",
             "description": "AI-agent skills for distributed-systems testing",
             "url": "https://github.com/shenli/distributed-system-testing",
-            "stars": 202,
+            "stars": 203,
             "forks": 11,
             "score": 41
         },
@@ -685,6 +685,20 @@ const ALPHA_DATA_V2 = {
     ],
     "news": [
         {
+            "title": "CHRONOS: Temporally-Aware Multi-Agent Coordination for Evolving Data Marketplaces",
+            "source": "ArXiv",
+            "type": "Research Alpha",
+            "color": "text-indigo-600",
+            "url": "http://arxiv.org/abs/2605.23887v1"
+        },
+        {
+            "title": "On the Stability of Spherical Hellinger-Kantorovich Flows and Their Implications for Differential Privacy",
+            "source": "ArXiv",
+            "type": "Research Alpha",
+            "color": "text-indigo-600",
+            "url": "http://arxiv.org/abs/2605.23879v1"
+        },
+        {
             "title": "Bitcoin volatility remains high ahead of key FED decision.",
             "source": "Polymarket",
             "type": "Expectation",
@@ -692,5 +706,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-05-25 17:03"
+    "timestamp": "2026-05-25 19:20"
 };
