@@ -2,34 +2,12 @@ const ALPHA_DATA_V2 = {
     "projects": [
         {
             "main_cat": "AI",
-            "sub_cat": null,
-            "name": "html-anything",
-            "full_name": "nexu-io/html-anything",
-            "description": "\u2728 The agentic HTML editor \u2014 your local AI agent writes the HTML, you ship it. \ud83d\ude80 75 Skills \u00d7 9 Surfaces (magazine \u00b7 deck \u00b7 poster \u00b7 XHS / tweet \u00b7 prototype \u00b7 data report \u00b7 Hyperframes) \ud83d\udee1\ufe0f Sandboxed preview \u00b7 \ud83d\udce4 1-click to WeChat / X / Zhihu / HTML / PNG \ud83d\udd11 Zero API key \u2014 Claude Code / Cursor / Codex / Gemini / Copilot / OpenCode / Qwen / Aider.",
-            "url": "https://github.com/nexu-io/html-anything",
-            "stars": 4792,
-            "forks": 492,
-            "score": 99
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "a-stock-data",
-            "full_name": "simonlin1212/a-stock-data",
-            "description": "A\u80a1\u5168\u6808\u6570\u636e\u5de5\u5177\u5305 \u2014 7\u5c42\u67b6\u6784 \u00b7 28\u7aef\u70b9 \u00b7 13\u6570\u636e\u6e90 \u00b7 \u96f6\u7b2c\u4e09\u65b9\u4f9d\u8d56 | Full-stack China A-Share data toolkit for AI coding assistants",
-            "url": "https://github.com/simonlin1212/a-stock-data",
-            "stars": 2077,
-            "forks": 465,
-            "score": 99
-        },
-        {
-            "main_cat": "AI",
             "sub_cat": "AI General",
             "name": "smallcode",
             "full_name": "Doorman11991/smallcode",
             "description": "AI coding agent optimized for small LLMs. 87% benchmark with 4B-active model.",
             "url": "https://github.com/Doorman11991/smallcode",
-            "stars": 1380,
+            "stars": 1388,
             "forks": 96,
             "score": 99
         },
@@ -40,8 +18,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "datawhalechina/Agent-Learning-Hub",
             "description": "AI Agent \u5b66\u4e60\u8def\u7ebf\u4e0e\u8d44\u6599\u5e93\u6536\u96c6",
             "url": "https://github.com/datawhalechina/Agent-Learning-Hub",
-            "stars": 1339,
-            "forks": 141,
+            "stars": 1367,
+            "forks": 144,
             "score": 99
         },
         {
@@ -79,25 +57,25 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "ai-auto-trading",
+            "full_name": "python-telegramBot/ai-auto-trading",
+            "description": "AI trading bot crypto LLM agent quantitative trading automated trading algorithmic trading Binance Gate.io TypeScript Node.js VoltAgent crypto bot risk management multi-strategy",
+            "url": "https://github.com/python-telegramBot/ai-auto-trading",
+            "stars": 204,
+            "forks": 569,
+            "score": 99
+        },
+        {
+            "main_cat": "AI",
             "sub_cat": null,
             "name": "invisible_playwright",
             "full_name": "feder-cr/invisible_playwright",
             "description": "AI Browser, Stealth Firefox that passes every bot detection test. Drop-in Playwright replacement.",
             "url": "https://github.com/feder-cr/invisible_playwright",
-            "stars": 1001,
+            "stars": 1002,
             "forks": 104,
             "score": 80
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "TradingAgents-astock",
-            "full_name": "simonlin1212/TradingAgents-astock",
-            "description": "A\u80a1\u591aAgent\u6295\u7814\u6846\u67b6 \u2014 \u9002\u914dA\u80a1\u6570\u636e\u6e90(\u9f99\u864e\u699c/\u6e38\u8d44/\u89e3\u7981\u7b49)\uff0c7\u4f4d\u5206\u6790\u5e08\u57fa\u4e8eA\u80a1\u89c4\u5219\u7684\u8fa9\u8bba\u51b3\u7b56\uff0c\u57fa\u4e8eTradingAgents\u6df1\u5ea6\u6539\u9020\uff0c\u9002\u914d\u5927A\u3002A-share multi-agent investment research framework \u2014 7 AI analysts, bull/bear debate, risk assessment\u3002",
-            "url": "https://github.com/simonlin1212/TradingAgents-astock",
-            "stars": 602,
-            "forks": 183,
-            "score": 77
         },
         {
             "main_cat": "AI",
@@ -106,9 +84,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "lynote-ai/humanize-text",
             "description": "Free open-source AI text humanizer to convert AI-generated content into undetectable, human-like writing. Bypass Turnitin, GPTZero, and all major AI detectors. No sign-up required. Try our unlimited free online tool",
             "url": "https://github.com/lynote-ai/humanize-text",
-            "stars": 668,
-            "forks": 44,
-            "score": 76
+            "stars": 706,
+            "forks": 45,
+            "score": 79
         },
         {
             "main_cat": "AI",
@@ -117,9 +95,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "basketikun/infinite-canvas",
             "description": "\u9762\u5411AI\u521b\u4f5c\u7684\u5f00\u6e90\u65e0\u9650\u753b\u5e03\u5de5\u4f5c\u53f0\uff0c\u96c6\u6210 AI \u751f\u56fe\u3001\u53c2\u8003\u56fe\u7f16\u8f91\u3001\u753b\u5e03\u7f16\u6392\u3001\u5bf9\u8bdd\u52a9\u624b\u3001\u63d0\u793a\u8bcd\u5e93\u548c\u7d20\u6750\u7ba1\u7406\u7b49\u529f\u80fd\u3002",
             "url": "https://github.com/basketikun/infinite-canvas",
-            "stars": 478,
+            "stars": 481,
             "forks": 91,
             "score": 76
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "TradingAgents-astock",
+            "full_name": "simonlin1212/TradingAgents-astock",
+            "description": "A\u80a1\u591aAgent\u6295\u7814\u6846\u67b6 \u2014 \u9002\u914dA\u80a1\u6570\u636e\u6e90(\u9f99\u864e\u699c/\u6e38\u8d44/\u89e3\u7981\u7b49)\uff0c7\u4f4d\u5206\u6790\u5e08\u57fa\u4e8eA\u80a1\u89c4\u5219\u7684\u8fa9\u8bba\u51b3\u7b56\uff0c\u57fa\u4e8eTradingAgents\u6df1\u5ea6\u6539\u9020\uff0c\u9002\u914d\u5927A\u3002A-share multi-agent investment research framework \u2014 7 AI analysts, bull/bear debate, risk assessment\u3002",
+            "url": "https://github.com/simonlin1212/TradingAgents-astock",
+            "stars": 605,
+            "forks": 184,
+            "score": 74
         },
         {
             "main_cat": "AI",
@@ -156,14 +145,25 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
+            "sub_cat": null,
+            "name": "agentic-ai-demo",
+            "full_name": "devopssessionsjvr/agentic-ai-demo",
+            "description": "An AI-powered DevOps pipeline simulator combining CI/CD, GitOps (ArgoCD), Kubernetes rollouts, and auto-fixing via AI-generated PRs.",
+            "url": "https://github.com/devopssessionsjvr/agentic-ai-demo",
+            "stars": 218,
+            "forks": 216,
+            "score": 66
+        },
+        {
+            "main_cat": "AI",
             "sub_cat": "AI General",
             "name": "Deepseek-v4-Pro-App",
             "full_name": "mikaeldengale-cloud/Deepseek-v4-Pro-App",
             "description": "deepseek v4 flash pro chat  api  app windows 11 desktop client github open source ai assistant chatbot coding agent moe model 1.6t parameters free api setup guide reasoning max mode local deployment",
             "url": "https://github.com/mikaeldengale-cloud/Deepseek-v4-Pro-App",
-            "stars": 243,
+            "stars": 250,
             "forks": 0,
-            "score": 60
+            "score": 61
         },
         {
             "main_cat": "AI",
@@ -172,7 +172,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "testerlingcodo/gemini-antigravity-cli",
             "description": "gemini antigravity 2.0 cli google terminal ai agent tool agy migration guide mcp server plugin slash commands gemini 3.5 flash coding agent tool free",
             "url": "https://github.com/testerlingcodo/gemini-antigravity-cli",
-            "stars": 294,
+            "stars": 297,
             "forks": 0,
             "score": 59
         },
@@ -183,20 +183,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "VILA-Lab/FigMirror",
             "description": "An Automated AI Agent Tool for Plotting Your Data in Any Paper's Figure Style.",
             "url": "https://github.com/VILA-Lab/FigMirror",
-            "stars": 237,
+            "stars": 238,
             "forks": 15,
             "score": 59
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "forkd",
-            "full_name": "deeplethe/forkd",
-            "description": "Fork() for AI agent microVMs. Spawn 100 children in ~100ms from a warm parent; BRANCH a live VM in ~150ms. KVM-isolated, snapshot CoW.",
-            "url": "https://github.com/deeplethe/forkd",
-            "stars": 701,
-            "forks": 50,
-            "score": 58
         },
         {
             "main_cat": "AI",
@@ -205,7 +194,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "agentic-in/elephant-agent",
             "description": "Personal-Model First Self Evolving AI Agent \ud83d\udc18",
             "url": "https://github.com/agentic-in/elephant-agent",
-            "stars": 457,
+            "stars": 459,
             "forks": 59,
             "score": 58
         },
@@ -216,7 +205,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "nolanx-ai/nolanx.ai",
             "description": "Nolanx, Open-sourced AI Netflix.",
             "url": "https://github.com/nolanx-ai/nolanx.ai",
-            "stars": 491,
+            "stars": 498,
             "forks": 55,
             "score": 55
         },
@@ -227,8 +216,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "AbhishekK130804/Claude-Mythos-AI-Anthropic-App",
             "description": "Claude pro free Mythos design Opus Cowork  Sonnet AI Anthropic App: download free PC android apk iOS, Anthropic Claude API key setup, Claude roleplay mythos client, SillyTavern Claude prompt formatting, custom system prompt jailbreak, Mythos AI creative writing app, Claude 3.5 Sonnet Opus API cost, open source LLM frontend, Claude reverse proxy ",
             "url": "https://github.com/AbhishekK130804/Claude-Mythos-AI-Anthropic-App",
-            "stars": 439,
-            "forks": 0,
+            "stars": 442,
+            "forks": 1,
             "score": 54
         },
         {
@@ -244,14 +233,14 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
-            "sub_cat": null,
-            "name": "exodusbot",
-            "full_name": "edgenuitybot/exodusbot",
-            "description": "Exodus | The # 1 Edgenuity Bot for Quizes, Tests, and Exams. Includes Auto Answers, Auto delays, built in AI Answers, Auto Submit, EdgeEX support and MORE! | About: Exodus is an online course tool designed for online middle and high school classes (K-8 curriculum). Join the Discord: https://discord.gg/exodusbot",
-            "url": "https://github.com/edgenuitybot/exodusbot",
-            "stars": 274,
-            "forks": 0,
-            "score": 47
+            "sub_cat": "AI General",
+            "name": "DeepSeek-GUI",
+            "full_name": "XingYu-Zhong/DeepSeek-GUI",
+            "description": "AI agent workspace for DeepSeek models, with Code and Claw modes built into your application.",
+            "url": "https://github.com/XingYu-Zhong/DeepSeek-GUI",
+            "stars": 214,
+            "forks": 11,
+            "score": 51
         },
         {
             "main_cat": "AI",
@@ -260,20 +249,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "basionwang-bot/HermesPet",
             "description": "\u8ba9 AI \u4f4f\u5728\u4f60 MacBook \u7684\u5218\u6d77\u91cc \u00b7 \u96f6\u4f9d\u8d56\u5f00\u7bb1\u5373\u7528 \u00b7 \u591a\u5f15\u64ce\u5e76\u884c\u7684\u684c\u9762 AI \u4f34\u4fa3\uff08Swift 6 / SwiftUI / macOS 14+\uff09",
             "url": "https://github.com/basionwang-bot/HermesPet",
-            "stars": 250,
+            "stars": 252,
             "forks": 34,
             "score": 46
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "FinSight-AI",
-            "full_name": "juanjuandog/FinSight-AI",
-            "description": "AI equity research agent with resilient workflows, Redis Lua single-flight, pgvector RAG, versioned reports, evidence tracing, and RAG evaluation.",
-            "url": "https://github.com/juanjuandog/FinSight-AI",
-            "stars": 387,
-            "forks": 28,
-            "score": 45
         },
         {
             "main_cat": "AI",
@@ -289,11 +267,22 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
+            "name": "exodusbot",
+            "full_name": "edgenuitybot/exodusbot",
+            "description": "Exodus | The # 1 Edgenuity Bot for Quizes, Tests, and Exams. Includes Auto Answers, Auto delays, built in AI Answers, Auto Submit, EdgeEX support and MORE! | About: Exodus is an online course tool designed for online middle and high school classes (K-8 curriculum). Join the Discord: https://discord.gg/exodusbot",
+            "url": "https://github.com/edgenuitybot/exodusbot",
+            "stars": 274,
+            "forks": 0,
+            "score": 45
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
             "name": "md2html",
             "full_name": "haidang1810/md2html",
             "description": "Your AI writes docs \u2014 md2html turns them into pages people actually read. A portable skill for Claude Code / Codex / Antigravity that converts long-form Markdown (plans, specs, system designs, RFCs, runbooks, postmortems, brainstorms) into self-contained HTML with Mermaid, timelines, callouts, TOC. Multi-language.",
             "url": "https://github.com/haidang1810/md2html",
-            "stars": 286,
+            "stars": 288,
             "forks": 21,
             "score": 44
         },
@@ -304,7 +293,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "LocoreMind/locoagent",
             "description": "AI-powered social media agent with real browser automation",
             "url": "https://github.com/LocoreMind/locoagent",
-            "stars": 338,
+            "stars": 345,
             "forks": 12,
             "score": 43
         },
@@ -332,6 +321,17 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
+            "sub_cat": null,
+            "name": "codex-orange-book",
+            "full_name": "alchaincyf/codex-orange-book",
+            "description": "OpenAI Codex: The Complete Guide \u00b7 \u6a59\u76ae\u4e66\u7cfb\u5217 \u00b7 GPT-5.5 \u65f6\u4ee3\u7684 AI \u7f16\u7a0b\u5b9e\u6218\u624b\u518c",
+            "url": "https://github.com/alchaincyf/codex-orange-book",
+            "stars": 220,
+            "forks": 16,
+            "score": 40
+        },
+        {
+            "main_cat": "AI",
             "sub_cat": "AI General",
             "name": "ai-local-executive-team",
             "full_name": "TechFreq/ai-local-executive-team",
@@ -350,6 +350,17 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/andyluo7/cpu-gpu-codesign-agentic-inference",
             "stars": 6,
             "forks": 1,
+            "score": 30
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "BIM-2",
+            "full_name": "tgakathunderr/BIM-2",
+            "description": "Biologically inspired language model using Jaccard Surprise as its only training signal. No backprop. No GPU. Online Hebbian learning from corrections. Two-layer cortex with apical feedback. Runs on CPU under 200MB.",
+            "url": "https://github.com/tgakathunderr/BIM-2",
+            "stars": 5,
+            "forks": 0,
             "score": 30
         },
         {
@@ -381,17 +392,6 @@ const ALPHA_DATA_V2 = {
             "full_name": "deborahamoni0-prog/StellarYield",
             "description": "StellarYield (the \"Liquidity Rain\" protocol) is a decentralized real-world asset (RWA) yield aggregator built on the Soroban Network (Stellar) and integrated with the Drips Protocol. While conventional RWA platforms simply tokenize static assets like property deeds, StellarYield focuses on tokenizing and immediately streaming the underlying cash ",
             "url": "https://github.com/deborahamoni0-prog/StellarYield",
-            "stars": 0,
-            "forks": 0,
-            "score": 30
-        },
-        {
-            "main_cat": "RWA",
-            "sub_cat": null,
-            "name": "ZernoFi",
-            "full_name": "regressor23/ZernoFi",
-            "description": "ZernoFi is a Solana-native RWA aggregator that allows crypto investors to earn stable, non-volatile yield in USDC backed by real-world agricultural businesses.",
-            "url": "https://github.com/regressor23/ZernoFi",
             "stars": 0,
             "forks": 0,
             "score": 30
@@ -474,6 +474,28 @@ const ALPHA_DATA_V2 = {
             "score": 30
         },
         {
+            "main_cat": "Prediction Markets",
+            "sub_cat": null,
+            "name": "thedealer",
+            "full_name": "thedealerprd/thedealer",
+            "description": "The mascot is a robotic eagle and dragon fighting over a glowing microchip. A Sleek Prediction Market Web App. You spin up a clean, high contrast landing page where users connect their wallets to bet on the actual fallout of the meeting. Markets could include micro bets. It turns global diplomacy into a degen betting slip.",
+            "url": "https://github.com/thedealerprd/thedealer",
+            "stars": 0,
+            "forks": 0,
+            "score": 30
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "forum",
+            "full_name": "neromtoobad/forum",
+            "description": "FORUM \u2014 Arc-native prediction market with an AI bookmaker. Claude prices binary events, users bet USDC, contracts settle on Arc in sub-second.",
+            "url": "https://github.com/neromtoobad/forum",
+            "stars": 0,
+            "forks": 0,
+            "score": 30
+        },
+        {
             "main_cat": "AI",
             "sub_cat": "AI General",
             "name": "The-Stablecoins-Commerce-Stack",
@@ -524,17 +546,6 @@ const ALPHA_DATA_V2 = {
             "full_name": "gudbang/arcpay",
             "description": "P2P stablecoin payment app on Arc Testnet",
             "url": "https://github.com/gudbang/arcpay",
-            "stars": 0,
-            "forks": 0,
-            "score": 30
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "stablecoin-payment-plugin",
-            "full_name": "Okpainmo/stablecoin-payment-plugin",
-            "description": "A self-serving vendor-agnostic rail for end-to-end stablecoin payment integration. Gasless by default with multi-chain support, you own the entire stack. Deploy mocks, test on testnets, deploy live on mainnets, and simply bring your client/front-end, to plug-in.",
-            "url": "https://github.com/Okpainmo/stablecoin-payment-plugin",
             "stars": 0,
             "forks": 0,
             "score": 30
@@ -670,23 +681,20 @@ const ALPHA_DATA_V2 = {
             "stars": 0,
             "forks": 0,
             "score": 30
+        },
+        {
+            "main_cat": "Cross-chain / Interoperability",
+            "sub_cat": null,
+            "name": "Eigenvex",
+            "full_name": "ozpool/Eigenvex",
+            "description": "Perpetual futures protocol on Solana \u2014 hybrid orderbook + vAMM, cross-margin, DAO-curated listings",
+            "url": "https://github.com/ozpool/Eigenvex",
+            "stars": 0,
+            "forks": 0,
+            "score": 30
         }
     ],
     "news": [
-        {
-            "title": "TriSweep: A Four-Drone Swarm Framework for Electromagnetic Side-Channel Analysis",
-            "source": "ArXiv",
-            "type": "Research Alpha",
-            "color": "text-indigo-600",
-            "url": "http://arxiv.org/abs/2605.22709v1"
-        },
-        {
-            "title": "UNAD+: An Explainable Hybrid Framework for Unknown Network Attack Detection",
-            "source": "ArXiv",
-            "type": "Research Alpha",
-            "color": "text-indigo-600",
-            "url": "http://arxiv.org/abs/2605.22621v1"
-        },
         {
             "title": "Bitcoin volatility remains high ahead of key FED decision.",
             "source": "Polymarket",
@@ -695,5 +703,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-05-24 23:54"
+    "timestamp": "2026-05-25 02:50"
 };
