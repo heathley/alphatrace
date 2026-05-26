@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "datawhalechina/Agent-Learning-Hub",
             "description": "AI Agent \u5b66\u4e60\u8def\u7ebf\u4e0e\u8d44\u6599\u5e93\u6536\u96c6",
             "url": "https://github.com/datawhalechina/Agent-Learning-Hub",
-            "stars": 1631,
-            "forks": 173,
+            "stars": 1632,
+            "forks": 174,
             "score": 99
         },
         {
@@ -18,8 +18,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "Doorman11991/smallcode",
             "description": "AI coding agent optimized for small LLMs. 87% benchmark with 4B-active model.",
             "url": "https://github.com/Doorman11991/smallcode",
-            "stars": 1467,
-            "forks": 100,
+            "stars": 1468,
+            "forks": 101,
             "score": 99
         },
         {
@@ -41,7 +41,7 @@ const ALPHA_DATA_V2 = {
             "description": "Polymarket Polymarket AI trading AI trading prediction markets prediction markets paper trading paper trading OpenAI OpenAI Node.js Node.js Express Express Docker Docker CLOB CLOB mean reversion mean reversion dashboard dashboard crypto bot crypto bot SQLite SQLite automated trading automated trading API API research trading research trading",
             "url": "https://github.com/trading-2028/polymarket-ai-trading",
             "stars": 324,
-            "forks": 3020,
+            "forks": 3114,
             "score": 99
         },
         {
@@ -52,7 +52,7 @@ const ALPHA_DATA_V2 = {
             "description": "Pump.fun Pump.fun Solana Solana TypeScript TypeScript trading bot trading bot AI trading AI trading OpenAI OpenAI CLI automation meme coin meme coin cryptocurrency cryptocurrency token token comment bot comment bot Solana bot Solana bot web3 web3",
             "url": "https://github.com/Dangerous-hole/Pumpfun_AI_Trading_Bot",
             "stars": 307,
-            "forks": 2816,
+            "forks": 2920,
             "score": 99
         },
         {
@@ -106,7 +106,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "lynote-ai/humanize-text",
             "description": "Free open-source AI text humanizer to convert AI-generated content into undetectable, human-like writing. Bypass Turnitin, GPTZero, and all major AI detectors. No sign-up required. Try our unlimited free online tool",
             "url": "https://github.com/lynote-ai/humanize-text",
-            "stars": 802,
+            "stars": 803,
             "forks": 43,
             "score": 74
         },
@@ -117,20 +117,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "realrossmanngroup/no_ai_slop_writing_rules",
             "description": "Claude Code reference: write in Louis Rossmann's voice, never like AI slop. Portable CLAUDE.md plus skills.",
             "url": "https://github.com/realrossmanngroup/no_ai_slop_writing_rules",
-            "stars": 205,
-            "forks": 24,
-            "score": 67
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "agentic-ai-system-course",
-            "full_name": "bryanyzhu/agentic-ai-system-course",
-            "description": "Use agent to learn agent - A skeleton course on how to design, build, and operate production AI agents ",
-            "url": "https://github.com/bryanyzhu/agentic-ai-system-course",
-            "stars": 241,
-            "forks": 32,
-            "score": 60
+            "stars": 210,
+            "forks": 25,
+            "score": 68
         },
         {
             "main_cat": "AI",
@@ -139,9 +128,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "study8677/awesome-architecture",
             "description": "\ud83d\uddfa\ufe0f Think like a software architect, not just a coder \u2014 21 architecture maps (incl. AI gateway, RAG, agents, inference serving, vector DB) + a language-agnostic system-design tutorial. Every template links to real open-source prototypes. \u4e2d\u82f1\u6587\u53cc\u8bed\u3002",
             "url": "https://github.com/study8677/awesome-architecture",
-            "stars": 278,
-            "forks": 20,
-            "score": 59
+            "stars": 290,
+            "forks": 23,
+            "score": 61
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "agentic-ai-system-course",
+            "full_name": "bryanyzhu/agentic-ai-system-course",
+            "description": "Use agent to learn agent - A skeleton course on how to design, build, and operate production AI agents ",
+            "url": "https://github.com/bryanyzhu/agentic-ai-system-course",
+            "stars": 243,
+            "forks": 32,
+            "score": 60
         },
         {
             "main_cat": "AI",
@@ -150,7 +150,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "VILA-Lab/FigMirror",
             "description": "An Automated AI Agent Tool for Plotting Your Data in Any Paper's Figure Style.",
             "url": "https://github.com/VILA-Lab/FigMirror",
-            "stars": 306,
+            "stars": 308,
             "forks": 19,
             "score": 57
         },
@@ -161,7 +161,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "agentic-in/elephant-agent",
             "description": "Personal-Model First Self Evolving AI Agent \ud83d\udc18",
             "url": "https://github.com/agentic-in/elephant-agent",
-            "stars": 494,
+            "stars": 495,
             "forks": 59,
             "score": 56
         },
@@ -194,7 +194,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "nolanx-ai/nolanx.ai",
             "description": "Nolanx, Open-sourced AI Netflix.",
             "url": "https://github.com/nolanx-ai/nolanx.ai",
-            "stars": 487,
+            "stars": 491,
             "forks": 41,
             "score": 50
         },
@@ -216,7 +216,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "scheidydude/codeindex",
             "description": "Repo dependency analyzer with **blast-radius impact scoring** for AI-assisted development.",
             "url": "https://github.com/scheidydude/codeindex",
-            "stars": 208,
+            "stars": 210,
             "forks": 30,
             "score": 48
         },
@@ -227,7 +227,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "LocoreMind/locoagent",
             "description": "AI-powered social media agent with real browser automation",
             "url": "https://github.com/LocoreMind/locoagent",
-            "stars": 515,
+            "stars": 520,
             "forks": 12,
             "score": 47
         },
@@ -245,23 +245,23 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "backdoor",
-            "full_name": "ajsai47/backdoor",
-            "description": "Run Claude Code against any AI provider. DeepSeek, Groq, Ollama, OpenRouter \u2014 your call.",
-            "url": "https://github.com/ajsai47/backdoor",
-            "stars": 232,
-            "forks": 28,
-            "score": 45
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
             "name": "agent-study",
             "full_name": "Callous-0923/agent-study",
             "description": "36\u7ae0AI Agent\u5168\u6808\u8bfe\u7a0b\uff1a\u4eceReAct\u5faa\u73af\u5230Claude Code\u9006\u5411\u3001MCP/A2A\u534f\u8bae\u3001RAG\u3001DSPy\u3001\u751f\u4ea7\u53ef\u89c2\u6d4b\u6027\u2014\u2014\u5168\u90e8\u4e3a\u53ef\u8fd0\u884cPython\u6587\u4ef6\uff0c\u9762\u8bd5\u5bfc\u5411\u3002",
             "url": "https://github.com/Callous-0923/agent-study",
             "stars": 328,
             "forks": 24,
+            "score": 44
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "backdoor",
+            "full_name": "ajsai47/backdoor",
+            "description": "Run Claude Code against any AI provider. DeepSeek, Groq, Ollama, OpenRouter \u2014 your call.",
+            "url": "https://github.com/ajsai47/backdoor",
+            "stars": 234,
+            "forks": 28,
             "score": 44
         },
         {
@@ -285,17 +285,6 @@ const ALPHA_DATA_V2 = {
             "stars": 268,
             "forks": 0,
             "score": 43
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "distributed-system-testing",
-            "full_name": "shenli/distributed-system-testing",
-            "description": "AI-agent skills for distributed-systems testing",
-            "url": "https://github.com/shenli/distributed-system-testing",
-            "stars": 204,
-            "forks": 11,
-            "score": 40
         },
         {
             "main_cat": "AI",
@@ -663,20 +652,6 @@ const ALPHA_DATA_V2 = {
     ],
     "news": [
         {
-            "title": "Shielded but Lightweight: Building Practical Confidential Containers with ARM CCA",
-            "source": "ArXiv",
-            "type": "Research Alpha",
-            "color": "text-indigo-600",
-            "url": "http://arxiv.org/abs/2605.26018v1"
-        },
-        {
-            "title": "Building an Adversarial Malware Dataset by Family and Type: Generation, Evasion, and Poisoning Evaluation",
-            "source": "ArXiv",
-            "type": "Research Alpha",
-            "color": "text-indigo-600",
-            "url": "http://arxiv.org/abs/2605.25937v1"
-        },
-        {
             "title": "Bitcoin volatility remains high ahead of key FED decision.",
             "source": "Polymarket",
             "type": "Expectation",
@@ -684,5 +659,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-05-26 20:51"
+    "timestamp": "2026-05-26 22:16"
 };
