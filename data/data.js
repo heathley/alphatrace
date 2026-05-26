@@ -7,7 +7,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "datawhalechina/Agent-Learning-Hub",
             "description": "AI Agent \u5b66\u4e60\u8def\u7ebf\u4e0e\u8d44\u6599\u5e93\u6536\u96c6",
             "url": "https://github.com/datawhalechina/Agent-Learning-Hub",
-            "stars": 1492,
+            "stars": 1497,
             "forks": 159,
             "score": 99
         },
@@ -18,7 +18,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Doorman11991/smallcode",
             "description": "AI coding agent optimized for small LLMs. 87% benchmark with 4B-active model.",
             "url": "https://github.com/Doorman11991/smallcode",
-            "stars": 1421,
+            "stars": 1423,
             "forks": 99,
             "score": 99
         },
@@ -29,7 +29,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "dex-original/okx-agent-trade-kit",
             "description": "okx trading bot okx agent mcp cli cryptocurrency okx api automated trading typescript okx trading bot model context protocol cursor ai trading crypto spot futures okx trading bot npm pnpm okx mcp open source quant defi cex okx trading bot algorithmic trading crypto bot okx trading bot okx api mcp okx trading bot crypto mcp",
             "url": "https://github.com/dex-original/okx-agent-trade-kit",
-            "stars": 337,
+            "stars": 338,
             "forks": 2292,
             "score": 99
         },
@@ -41,7 +41,7 @@ const ALPHA_DATA_V2 = {
             "description": "Polymarket Polymarket AI trading AI trading prediction markets prediction markets paper trading paper trading OpenAI OpenAI Node.js Node.js Express Express Docker Docker CLOB CLOB mean reversion mean reversion dashboard dashboard crypto bot crypto bot SQLite SQLite automated trading automated trading API API research trading research trading",
             "url": "https://github.com/trading-2028/polymarket-ai-trading",
             "stars": 324,
-            "forks": 1457,
+            "forks": 1585,
             "score": 99
         },
         {
@@ -52,7 +52,7 @@ const ALPHA_DATA_V2 = {
             "description": "Pump.fun Pump.fun Solana Solana TypeScript TypeScript trading bot trading bot AI trading AI trading OpenAI OpenAI CLI automation meme coin meme coin cryptocurrency cryptocurrency token token comment bot comment bot Solana bot Solana bot web3 web3",
             "url": "https://github.com/Dangerous-hole/Pumpfun_AI_Trading_Bot",
             "stars": 307,
-            "forks": 1587,
+            "forks": 1712,
             "score": 99
         },
         {
@@ -68,14 +68,14 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
-            "sub_cat": null,
-            "name": "infinite-canvas",
-            "full_name": "basketikun/infinite-canvas",
-            "description": "\u9762\u5411AI\u521b\u4f5c\u7684\u5f00\u6e90\u65e0\u9650\u753b\u5e03\u5de5\u4f5c\u53f0\uff0c\u96c6\u6210 AI \u751f\u56fe\u3001\u53c2\u8003\u56fe\u7f16\u8f91\u3001\u753b\u5e03\u7f16\u6392\u3001\u5bf9\u8bdd\u52a9\u624b\u3001\u63d0\u793a\u8bcd\u5e93\u548c\u7d20\u6750\u7ba1\u7406\u7b49\u529f\u80fd\u3002",
-            "url": "https://github.com/basketikun/infinite-canvas",
-            "stars": 507,
-            "forks": 96,
-            "score": 79
+            "sub_cat": "AI General",
+            "name": "polymarket-ai-trading",
+            "full_name": "thinkpixelIab/polymarket-ai-trading",
+            "description": "Polymarket prediction markets AI trading paper trading OpenAI GPT CLOB Kelly mean reversion SQLite Node Express Docker Render Vercel dashboard algorithmic trading quant research forecasting crypto",
+            "url": "https://github.com/thinkpixelIab/polymarket-ai-trading",
+            "stars": 198,
+            "forks": 2135,
+            "score": 99
         },
         {
             "main_cat": "AI",
@@ -84,7 +84,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "feder-cr/invisible_playwright",
             "description": "AI Browser, Stealth Firefox that passes every bot detection test. Drop-in Playwright replacement.",
             "url": "https://github.com/feder-cr/invisible_playwright",
-            "stars": 1026,
+            "stars": 1028,
             "forks": 107,
             "score": 78
         },
@@ -106,20 +106,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "lynote-ai/humanize-text",
             "description": "Free open-source AI text humanizer to convert AI-generated content into undetectable, human-like writing. Bypass Turnitin, GPTZero, and all major AI detectors. No sign-up required. Try our unlimited free online tool",
             "url": "https://github.com/lynote-ai/humanize-text",
-            "stars": 763,
+            "stars": 766,
             "forks": 43,
             "score": 76
         },
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "agentic-ai-demo",
-            "full_name": "devopssessionsjvr/agentic-ai-demo",
-            "description": "An AI-powered DevOps pipeline simulator combining CI/CD, GitOps (ArgoCD), Kubernetes rollouts, and auto-fixing via AI-generated PRs.",
-            "url": "https://github.com/devopssessionsjvr/agentic-ai-demo",
-            "stars": 252,
-            "forks": 249,
-            "score": 71
+            "name": "infinite-canvas",
+            "full_name": "basketikun/infinite-canvas",
+            "description": "\u9762\u5411AI\u521b\u4f5c\u7684\u5f00\u6e90\u65e0\u9650\u753b\u5e03\u5de5\u4f5c\u53f0\uff0c\u96c6\u6210 AI \u751f\u56fe\u3001\u53c2\u8003\u56fe\u7f16\u8f91\u3001\u753b\u5e03\u7f16\u6392\u3001\u5bf9\u8bdd\u52a9\u624b\u3001\u63d0\u793a\u8bcd\u5e93\u548c\u7d20\u6750\u7ba1\u7406\u7b49\u529f\u80fd\u3002",
+            "url": "https://github.com/basketikun/infinite-canvas",
+            "stars": 507,
+            "forks": 96,
+            "score": 74
         },
         {
             "main_cat": "AI",
@@ -128,9 +128,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "bryanyzhu/agentic-ai-system-course",
             "description": "Use agent to learn agent - A skeleton course on how to design, build, and operate production AI agents ",
             "url": "https://github.com/bryanyzhu/agentic-ai-system-course",
-            "stars": 200,
-            "forks": 23,
-            "score": 59
+            "stars": 203,
+            "forks": 25,
+            "score": 60
         },
         {
             "main_cat": "AI",
@@ -139,7 +139,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "VILA-Lab/FigMirror",
             "description": "An Automated AI Agent Tool for Plotting Your Data in Any Paper's Figure Style.",
             "url": "https://github.com/VILA-Lab/FigMirror",
-            "stars": 279,
+            "stars": 280,
             "forks": 16,
             "score": 58
         },
@@ -150,7 +150,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "agentic-in/elephant-agent",
             "description": "Personal-Model First Self Evolving AI Agent \ud83d\udc18",
             "url": "https://github.com/agentic-in/elephant-agent",
-            "stars": 471,
+            "stars": 472,
             "forks": 59,
             "score": 57
         },
@@ -161,7 +161,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "nolanx-ai/nolanx.ai",
             "description": "Nolanx, Open-sourced AI Netflix.",
             "url": "https://github.com/nolanx-ai/nolanx.ai",
-            "stars": 526,
+            "stars": 528,
             "forks": 55,
             "score": 54
         },
@@ -172,7 +172,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "XingYu-Zhong/DeepSeek-GUI",
             "description": "AI agent workspace for DeepSeek models, with Code and Claw modes built into your application.",
             "url": "https://github.com/XingYu-Zhong/DeepSeek-GUI",
-            "stars": 259,
+            "stars": 260,
             "forks": 16,
             "score": 53
         },
@@ -201,11 +201,22 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
+            "name": "codeindex",
+            "full_name": "scheidydude/codeindex",
+            "description": "Repo dependency analyzer with **blast-radius impact scoring** for AI-assisted development.",
+            "url": "https://github.com/scheidydude/codeindex",
+            "stars": 189,
+            "forks": 25,
+            "score": 48
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
             "name": "HermesPet",
             "full_name": "basionwang-bot/HermesPet",
             "description": "\u8ba9 AI \u4f4f\u5728\u4f60 MacBook \u7684\u5218\u6d77\u91cc \u00b7 \u96f6\u4f9d\u8d56\u5f00\u7bb1\u5373\u7528 \u00b7 \u591a\u5f15\u64ce\u5e76\u884c\u7684\u684c\u9762 AI \u4f34\u4fa3\uff08Swift 6 / SwiftUI / macOS 14+\uff09",
             "url": "https://github.com/basionwang-bot/HermesPet",
-            "stars": 278,
+            "stars": 279,
             "forks": 37,
             "score": 46
         },
@@ -216,7 +227,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "LocoreMind/locoagent",
             "description": "AI-powered social media agent with real browser automation",
             "url": "https://github.com/LocoreMind/locoagent",
-            "stars": 415,
+            "stars": 422,
             "forks": 12,
             "score": 45
         },
@@ -245,23 +256,12 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "azmx",
-            "full_name": "AzmxAI/azmx",
-            "description": "AZMX AI \u2014 The sovereign agent platform.",
-            "url": "https://github.com/AzmxAI/azmx",
-            "stars": 466,
-            "forks": 0,
-            "score": 44
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
             "name": "backdoor",
             "full_name": "ajsai47/backdoor",
             "description": "Run Claude Code against any AI provider. DeepSeek, Groq, Ollama, OpenRouter \u2014 your call.",
             "url": "https://github.com/ajsai47/backdoor",
-            "stars": 212,
-            "forks": 26,
+            "stars": 215,
+            "forks": 28,
             "score": 44
         },
         {
@@ -282,20 +282,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "zhaoxuya520/reverse-skill-private",
             "description": "\u9006\u5411/\u6e17\u900f/\u5b89\u5168\u6280\u80fd\u8def\u7531\u5305 - AI \u81ea\u52a8\u8def\u7531 + \u6309\u9700\u81ea\u4e3e\u5de5\u5177\u94fe + \u81ea\u52a8\u8fdb\u5316\u7ecf\u9a8c\u5e93 | \u652f\u6301 Claude Code / Kiro / Cursor / Cline \u7b49\u4ee3\u7801 AI \u5ba2\u6237\u7aef",
             "url": "https://github.com/zhaoxuya520/reverse-skill-private",
-            "stars": 199,
-            "forks": 49,
+            "stars": 204,
+            "forks": 50,
             "score": 43
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "skills",
-            "full_name": "agentara/skills",
-            "description": "Original and practical skills for AI builders.",
-            "url": "https://github.com/agentara/skills",
-            "stars": 288,
-            "forks": 13,
-            "score": 40
         },
         {
             "main_cat": "AI",
@@ -332,6 +321,17 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
+            "sub_cat": null,
+            "name": "exploitbench",
+            "full_name": "exploitbench/exploitbench",
+            "description": "ExploitBench measures how far AI agents climb, from reaching vulnerable code, to triggering the bug, to building exploit primitives, to arbitrary code execution.",
+            "url": "https://github.com/exploitbench/exploitbench",
+            "stars": 187,
+            "forks": 11,
+            "score": 38
+        },
+        {
+            "main_cat": "AI",
             "sub_cat": "AI General",
             "name": "ai-local-executive-team",
             "full_name": "TechFreq/ai-local-executive-team",
@@ -361,6 +361,17 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/andyluo7/cpu-gpu-codesign-agentic-inference",
             "stars": 6,
             "forks": 1,
+            "score": 30
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "sample-slemify",
+            "full_name": "aws-samples/sample-slemify",
+            "description": "Slemify demonstrates how to fine-tune and serve Small Language Models (1-8B parameters) on Kubernetes using CPUs. It takes a single YAML configuration, generates synthetic training data via an LLM API, fine-tunes a base model on a Spot GPU, quantizes it, and deploys it for inference on CPU nodes with autoscaling.",
+            "url": "https://github.com/aws-samples/sample-slemify",
+            "stars": 4,
+            "forks": 0,
             "score": 30
         },
         {
@@ -458,17 +469,6 @@ const ALPHA_DATA_V2 = {
             "full_name": "bolivian-peru/baozi-idl",
             "description": "Complete Anchor IDL + instruction reference for Baozi.bet prediction markets on Solana. The IDL is the complete agent interface.",
             "url": "https://github.com/bolivian-peru/baozi-idl",
-            "stars": 0,
-            "forks": 0,
-            "score": 30
-        },
-        {
-            "main_cat": "Prediction Markets",
-            "sub_cat": null,
-            "name": "celo-predict",
-            "full_name": "benibauer3/celo-predict",
-            "description": "Decentralized binary prediction markets on Celo L2 \u2014 bet YES/NO with USDm stablecoins, MiniPay native, fee abstraction CIP-64",
-            "url": "https://github.com/benibauer3/celo-predict",
             "stars": 0,
             "forks": 0,
             "score": 30
@@ -584,23 +584,23 @@ const ALPHA_DATA_V2 = {
             "score": 30
         },
         {
-            "main_cat": "Stablecoin Infrastructure",
-            "sub_cat": null,
-            "name": "Astrapilot",
-            "full_name": "1sraeliteX/Astrapilot",
-            "description": "AstraPilot verifies suppliers, designs milestone-based escrow contracts, and releases stablecoin payments only when trade conditions are met \u2014 across borders, automatically.",
-            "url": "https://github.com/1sraeliteX/Astrapilot",
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "huma-finannce.github.io",
+            "full_name": "huma-finannce/huma-finannce.github.io",
+            "description": "Huma Finance is a decentralized PayFi network utilizing stablecoins and on-chain liquidity to enable instant, 24/7 real-world global payment settlements.",
+            "url": "https://github.com/huma-finannce/huma-finannce.github.io",
             "stars": 0,
             "forks": 0,
             "score": 30
         },
         {
             "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "agentmeter",
-            "full_name": "THE-VARNA/agentmeter",
-            "description": "A Dodo + x402 gateway that lets AI/API companies sell metered MCP tools and APIs directly to autonomous agents using Solana stablecoin micro-payments.",
-            "url": "https://github.com/THE-VARNA/agentmeter",
+            "sub_cat": "AI Agents",
+            "name": "NovaMesh-Contract",
+            "full_name": "Legacy-Protocol/NovaMesh-Contract",
+            "description": "NovaMesh is a unified platform where developers monetize AI agents (trading bots, analytics tools, automation workflows) and users discover, test, and pay for agent services using instant stablecoin payments.",
+            "url": "https://github.com/Legacy-Protocol/NovaMesh-Contract",
             "stars": 0,
             "forks": 0,
             "score": 30
@@ -651,17 +651,6 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "ARC-OMNI-SENDER",
-            "full_name": "syslog368/ARC-OMNI-SENDER",
-            "description": "decentralized cross-chain payroll system built on Arc Testnet using Circle App Kit. Features multi-chain USDC aggregation via Unified Balance protocol.",
-            "url": "https://github.com/syslog368/ARC-OMNI-SENDER",
-            "stars": 0,
-            "forks": 0,
-            "score": 30
-        },
-        {
-            "main_cat": "AI",
             "sub_cat": "AI Agents",
             "name": "stoa-protocol",
             "full_name": "Kingnanaweb3/stoa-protocol",
@@ -692,5 +681,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-05-25 22:11"
+    "timestamp": "2026-05-26 00:00"
 };
