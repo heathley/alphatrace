@@ -7,7 +7,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "datawhalechina/Agent-Learning-Hub",
             "description": "AI Agent \u5b66\u4e60\u8def\u7ebf\u4e0e\u8d44\u6599\u5e93\u6536\u96c6",
             "url": "https://github.com/datawhalechina/Agent-Learning-Hub",
-            "stars": 1629,
+            "stars": 1631,
             "forks": 173,
             "score": 99
         },
@@ -18,7 +18,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Doorman11991/smallcode",
             "description": "AI coding agent optimized for small LLMs. 87% benchmark with 4B-active model.",
             "url": "https://github.com/Doorman11991/smallcode",
-            "stars": 1463,
+            "stars": 1467,
             "forks": 100,
             "score": 99
         },
@@ -41,7 +41,7 @@ const ALPHA_DATA_V2 = {
             "description": "Polymarket Polymarket AI trading AI trading prediction markets prediction markets paper trading paper trading OpenAI OpenAI Node.js Node.js Express Express Docker Docker CLOB CLOB mean reversion mean reversion dashboard dashboard crypto bot crypto bot SQLite SQLite automated trading automated trading API API research trading research trading",
             "url": "https://github.com/trading-2028/polymarket-ai-trading",
             "stars": 324,
-            "forks": 2845,
+            "forks": 3020,
             "score": 99
         },
         {
@@ -52,7 +52,7 @@ const ALPHA_DATA_V2 = {
             "description": "Pump.fun Pump.fun Solana Solana TypeScript TypeScript trading bot trading bot AI trading AI trading OpenAI OpenAI CLI automation meme coin meme coin cryptocurrency cryptocurrency token token comment bot comment bot Solana bot Solana bot web3 web3",
             "url": "https://github.com/Dangerous-hole/Pumpfun_AI_Trading_Bot",
             "stars": 307,
-            "forks": 2641,
+            "forks": 2816,
             "score": 99
         },
         {
@@ -73,9 +73,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "basketikun/infinite-canvas",
             "description": "\u9762\u5411AI\u521b\u4f5c\u7684\u5f00\u6e90\u65e0\u9650\u753b\u5e03\u5de5\u4f5c\u53f0\uff0c\u96c6\u6210 AI \u751f\u56fe\u3001\u53c2\u8003\u56fe\u7f16\u8f91\u3001\u89c6\u9891\u751f\u6210\u3001\u753b\u5e03\u7f16\u6392\u3001\u5bf9\u8bdd\u52a9\u624b\u3001\u63d0\u793a\u8bcd\u5e93\u548c\u7d20\u6750\u7ba1\u7406\u7b49\u529f\u80fd\u3001\u517c\u5bb9OpenAI\u63a5\u53e3\uff0c\u652f\u6301chatgpt2api\u3001grok2api\u3001flow2api\u3001newapi\u7b49\u63a5\u5165\u3002",
             "url": "https://github.com/basketikun/infinite-canvas",
-            "stars": 583,
+            "stars": 589,
             "forks": 118,
-            "score": 82
+            "score": 83
         },
         {
             "main_cat": "AI",
@@ -84,8 +84,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "feder-cr/invisible_playwright",
             "description": "AI Browser, Stealth Firefox that passes every bot detection test. Drop-in Playwright replacement.",
             "url": "https://github.com/feder-cr/invisible_playwright",
-            "stars": 1043,
-            "forks": 108,
+            "stars": 1044,
+            "forks": 109,
             "score": 76
         },
         {
@@ -95,7 +95,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "simonlin1212/TradingAgents-astock",
             "description": "A\u80a1\u591aAgent\u6295\u7814\u6846\u67b6 \u2014 \u9002\u914dA\u80a1\u6570\u636e\u6e90(\u9f99\u864e\u699c/\u6e38\u8d44/\u89e3\u7981\u7b49)\uff0c7\u4f4d\u5206\u6790\u5e08\u57fa\u4e8eA\u80a1\u89c4\u5219\u7684\u8fa9\u8bba\u51b3\u7b56\uff0c\u57fa\u4e8eTradingAgents\u6df1\u5ea6\u6539\u9020\uff0c\u9002\u914d\u5927A\u3002A-share multi-agent investment research framework \u2014 7 AI analysts, bull/bear debate, risk assessment\u3002",
             "url": "https://github.com/simonlin1212/TradingAgents-astock",
-            "stars": 657,
+            "stars": 658,
             "forks": 206,
             "score": 76
         },
@@ -117,9 +117,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "realrossmanngroup/no_ai_slop_writing_rules",
             "description": "Claude Code reference: write in Louis Rossmann's voice, never like AI slop. Portable CLAUDE.md plus skills.",
             "url": "https://github.com/realrossmanngroup/no_ai_slop_writing_rules",
-            "stars": 201,
-            "forks": 22,
-            "score": 66
+            "stars": 205,
+            "forks": 24,
+            "score": 67
         },
         {
             "main_cat": "AI",
@@ -139,20 +139,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "study8677/awesome-architecture",
             "description": "\ud83d\uddfa\ufe0f Think like a software architect, not just a coder \u2014 21 architecture maps (incl. AI gateway, RAG, agents, inference serving, vector DB) + a language-agnostic system-design tutorial. Every template links to real open-source prototypes. \u4e2d\u82f1\u6587\u53cc\u8bed\u3002",
             "url": "https://github.com/study8677/awesome-architecture",
-            "stars": 274,
+            "stars": 278,
             "forks": 20,
             "score": 59
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "elephant-agent",
-            "full_name": "agentic-in/elephant-agent",
-            "description": "Personal-Model First Self Evolving AI Agent \ud83d\udc18",
-            "url": "https://github.com/agentic-in/elephant-agent",
-            "stars": 492,
-            "forks": 59,
-            "score": 56
         },
         {
             "main_cat": "AI",
@@ -161,8 +150,19 @@ const ALPHA_DATA_V2 = {
             "full_name": "VILA-Lab/FigMirror",
             "description": "An Automated AI Agent Tool for Plotting Your Data in Any Paper's Figure Style.",
             "url": "https://github.com/VILA-Lab/FigMirror",
-            "stars": 300,
+            "stars": 306,
             "forks": 19,
+            "score": 57
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "elephant-agent",
+            "full_name": "agentic-in/elephant-agent",
+            "description": "Personal-Model First Self Evolving AI Agent \ud83d\udc18",
+            "url": "https://github.com/agentic-in/elephant-agent",
+            "stars": 494,
+            "forks": 59,
             "score": 56
         },
         {
@@ -172,9 +172,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "zhaoxuya520/reverse-skill-private",
             "description": "\u9006\u5411/\u6e17\u900f/\u5b89\u5168\u6280\u80fd\u8def\u7531\u5305 - AI \u81ea\u52a8\u8def\u7531 + \u6309\u9700\u81ea\u4e3e\u5de5\u5177\u94fe + \u81ea\u52a8\u8fdb\u5316\u7ecf\u9a8c\u5e93 | \u652f\u6301 Claude Code / Kiro / Cursor / Cline \u7b49\u4ee3\u7801 AI \u5ba2\u6237\u7aef",
             "url": "https://github.com/zhaoxuya520/reverse-skill-private",
-            "stars": 410,
+            "stars": 412,
             "forks": 89,
-            "score": 53
+            "score": 54
         },
         {
             "main_cat": "AI",
@@ -194,9 +194,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "nolanx-ai/nolanx.ai",
             "description": "Nolanx, Open-sourced AI Netflix.",
             "url": "https://github.com/nolanx-ai/nolanx.ai",
-            "stars": 482,
+            "stars": 487,
             "forks": 41,
-            "score": 51
+            "score": 50
         },
         {
             "main_cat": "AI",
@@ -212,23 +212,23 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "locoagent",
-            "full_name": "LocoreMind/locoagent",
-            "description": "AI-powered social media agent with real browser automation",
-            "url": "https://github.com/LocoreMind/locoagent",
-            "stars": 508,
-            "forks": 12,
-            "score": 47
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
             "name": "codeindex",
             "full_name": "scheidydude/codeindex",
             "description": "Repo dependency analyzer with **blast-radius impact scoring** for AI-assisted development.",
             "url": "https://github.com/scheidydude/codeindex",
-            "stars": 205,
-            "forks": 29,
+            "stars": 208,
+            "forks": 30,
+            "score": 48
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "locoagent",
+            "full_name": "LocoreMind/locoagent",
+            "description": "AI-powered social media agent with real browser automation",
+            "url": "https://github.com/LocoreMind/locoagent",
+            "stars": 515,
+            "forks": 12,
             "score": 47
         },
         {
@@ -238,7 +238,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "basionwang-bot/HermesPet",
             "description": "\u8ba9 AI \u4f4f\u5728\u4f60 MacBook \u7684\u5218\u6d77\u91cc \u00b7 \u96f6\u4f9d\u8d56\u5f00\u7bb1\u5373\u7528 \u00b7 \u591a\u5f15\u64ce\u5e76\u884c\u7684\u684c\u9762 AI \u4f34\u4fa3\uff08Swift 6 / SwiftUI / macOS 14+\uff09",
             "url": "https://github.com/basionwang-bot/HermesPet",
-            "stars": 308,
+            "stars": 309,
             "forks": 40,
             "score": 46
         },
@@ -249,7 +249,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "ajsai47/backdoor",
             "description": "Run Claude Code against any AI provider. DeepSeek, Groq, Ollama, OpenRouter \u2014 your call.",
             "url": "https://github.com/ajsai47/backdoor",
-            "stars": 226,
+            "stars": 232,
             "forks": 28,
             "score": 45
         },
@@ -271,7 +271,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "haidang1810/md2html",
             "description": "Your AI writes docs \u2014 md2html turns them into pages people actually read. A portable skill for Claude Code / Codex / Antigravity that converts long-form Markdown (plans, specs, system designs, RFCs, runbooks, postmortems, brainstorms) into self-contained HTML with Mermaid, timelines, callouts, TOC. Multi-language.",
             "url": "https://github.com/haidang1810/md2html",
-            "stars": 311,
+            "stars": 312,
             "forks": 22,
             "score": 43
         },
@@ -414,7 +414,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "lordpipon/dingoplay",
             "description": "A fake, multiplayer crypto simulator. Create coins, trade with liquidity pools, bet on prediction questions, gamble it all, and climb the leaderboards!",
             "url": "https://github.com/lordpipon/dingoplay",
-            "stars": 2,
+            "stars": 3,
             "forks": 0,
             "score": 30
         },
@@ -586,17 +586,6 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
-            "name": "huma-finannce.github.io",
-            "full_name": "huma-finannce/huma-finannce.github.io",
-            "description": "Huma Finance is a decentralized PayFi network utilizing stablecoins and on-chain liquidity to enable instant, 24/7 real-world global payment settlements.",
-            "url": "https://github.com/huma-finannce/huma-finannce.github.io",
-            "stars": 0,
-            "forks": 0,
-            "score": 30
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
             "name": "ai-knowledge-base-template",
             "full_name": "RandyRawgust/ai-knowledge-base-template",
             "description": "Markdown-based AI operating system you can clone and run. Obsidian vault + Claude Code with 5 dept-head agents (Orchestrator / Builder / Writer / Archivist / Auditor), 11 specialists, 19 slash commands, drift-watcher, cross-model judge protocol.",
@@ -695,5 +684,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-05-26 18:20"
+    "timestamp": "2026-05-26 20:51"
 };
