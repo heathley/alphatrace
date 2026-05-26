@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "datawhalechina/Agent-Learning-Hub",
             "description": "AI Agent \u5b66\u4e60\u8def\u7ebf\u4e0e\u8d44\u6599\u5e93\u6536\u96c6",
             "url": "https://github.com/datawhalechina/Agent-Learning-Hub",
-            "stars": 1497,
-            "forks": 159,
+            "stars": 1538,
+            "forks": 163,
             "score": 99
         },
         {
@@ -18,7 +18,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Doorman11991/smallcode",
             "description": "AI coding agent optimized for small LLMs. 87% benchmark with 4B-active model.",
             "url": "https://github.com/Doorman11991/smallcode",
-            "stars": 1423,
+            "stars": 1430,
             "forks": 99,
             "score": 99
         },
@@ -41,7 +41,7 @@ const ALPHA_DATA_V2 = {
             "description": "Polymarket Polymarket AI trading AI trading prediction markets prediction markets paper trading paper trading OpenAI OpenAI Node.js Node.js Express Express Docker Docker CLOB CLOB mean reversion mean reversion dashboard dashboard crypto bot crypto bot SQLite SQLite automated trading automated trading API API research trading research trading",
             "url": "https://github.com/trading-2028/polymarket-ai-trading",
             "stars": 324,
-            "forks": 1585,
+            "forks": 1930,
             "score": 99
         },
         {
@@ -52,7 +52,7 @@ const ALPHA_DATA_V2 = {
             "description": "Pump.fun Pump.fun Solana Solana TypeScript TypeScript trading bot trading bot AI trading AI trading OpenAI OpenAI CLI automation meme coin meme coin cryptocurrency cryptocurrency token token comment bot comment bot Solana bot Solana bot web3 web3",
             "url": "https://github.com/Dangerous-hole/Pumpfun_AI_Trading_Bot",
             "stars": 307,
-            "forks": 1712,
+            "forks": 2063,
             "score": 99
         },
         {
@@ -74,7 +74,7 @@ const ALPHA_DATA_V2 = {
             "description": "Polymarket prediction markets AI trading paper trading OpenAI GPT CLOB Kelly mean reversion SQLite Node Express Docker Render Vercel dashboard algorithmic trading quant research forecasting crypto",
             "url": "https://github.com/thinkpixelIab/polymarket-ai-trading",
             "stars": 198,
-            "forks": 2135,
+            "forks": 2420,
             "score": 99
         },
         {
@@ -84,20 +84,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "feder-cr/invisible_playwright",
             "description": "AI Browser, Stealth Firefox that passes every bot detection test. Drop-in Playwright replacement.",
             "url": "https://github.com/feder-cr/invisible_playwright",
-            "stars": 1028,
-            "forks": 107,
+            "stars": 1033,
+            "forks": 108,
             "score": 78
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "TradingAgents-astock",
-            "full_name": "simonlin1212/TradingAgents-astock",
-            "description": "A\u80a1\u591aAgent\u6295\u7814\u6846\u67b6 \u2014 \u9002\u914dA\u80a1\u6570\u636e\u6e90(\u9f99\u864e\u699c/\u6e38\u8d44/\u89e3\u7981\u7b49)\uff0c7\u4f4d\u5206\u6790\u5e08\u57fa\u4e8eA\u80a1\u89c4\u5219\u7684\u8fa9\u8bba\u51b3\u7b56\uff0c\u57fa\u4e8eTradingAgents\u6df1\u5ea6\u6539\u9020\uff0c\u9002\u914d\u5927A\u3002A-share multi-agent investment research framework \u2014 7 AI analysts, bull/bear debate, risk assessment\u3002",
-            "url": "https://github.com/simonlin1212/TradingAgents-astock",
-            "stars": 632,
-            "forks": 195,
-            "score": 77
         },
         {
             "main_cat": "AI",
@@ -106,9 +95,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "lynote-ai/humanize-text",
             "description": "Free open-source AI text humanizer to convert AI-generated content into undetectable, human-like writing. Bypass Turnitin, GPTZero, and all major AI detectors. No sign-up required. Try our unlimited free online tool",
             "url": "https://github.com/lynote-ai/humanize-text",
-            "stars": 766,
+            "stars": 773,
             "forks": 43,
-            "score": 76
+            "score": 77
         },
         {
             "main_cat": "AI",
@@ -117,20 +106,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "basketikun/infinite-canvas",
             "description": "\u9762\u5411AI\u521b\u4f5c\u7684\u5f00\u6e90\u65e0\u9650\u753b\u5e03\u5de5\u4f5c\u53f0\uff0c\u96c6\u6210 AI \u751f\u56fe\u3001\u53c2\u8003\u56fe\u7f16\u8f91\u3001\u753b\u5e03\u7f16\u6392\u3001\u5bf9\u8bdd\u52a9\u624b\u3001\u63d0\u793a\u8bcd\u5e93\u548c\u7d20\u6750\u7ba1\u7406\u7b49\u529f\u80fd\u3002",
             "url": "https://github.com/basketikun/infinite-canvas",
-            "stars": 507,
-            "forks": 96,
-            "score": 74
+            "stars": 514,
+            "forks": 98,
+            "score": 75
         },
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "agentic-ai-system-course",
-            "full_name": "bryanyzhu/agentic-ai-system-course",
-            "description": "Use agent to learn agent - A skeleton course on how to design, build, and operate production AI agents ",
-            "url": "https://github.com/bryanyzhu/agentic-ai-system-course",
-            "stars": 203,
-            "forks": 25,
-            "score": 60
+            "name": "TradingAgents-astock",
+            "full_name": "simonlin1212/TradingAgents-astock",
+            "description": "A\u80a1\u591aAgent\u6295\u7814\u6846\u67b6 \u2014 \u9002\u914dA\u80a1\u6570\u636e\u6e90(\u9f99\u864e\u699c/\u6e38\u8d44/\u89e3\u7981\u7b49)\uff0c7\u4f4d\u5206\u6790\u5e08\u57fa\u4e8eA\u80a1\u89c4\u5219\u7684\u8fa9\u8bba\u51b3\u7b56\uff0c\u57fa\u4e8eTradingAgents\u6df1\u5ea6\u6539\u9020\uff0c\u9002\u914d\u5927A\u3002A-share multi-agent investment research framework \u2014 7 AI analysts, bull/bear debate, risk assessment\u3002",
+            "url": "https://github.com/simonlin1212/TradingAgents-astock",
+            "stars": 638,
+            "forks": 200,
+            "score": 74
         },
         {
             "main_cat": "AI",
@@ -139,9 +128,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "VILA-Lab/FigMirror",
             "description": "An Automated AI Agent Tool for Plotting Your Data in Any Paper's Figure Style.",
             "url": "https://github.com/VILA-Lab/FigMirror",
-            "stars": 280,
+            "stars": 285,
             "forks": 16,
-            "score": 58
+            "score": 59
         },
         {
             "main_cat": "AI",
@@ -150,9 +139,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "agentic-in/elephant-agent",
             "description": "Personal-Model First Self Evolving AI Agent \ud83d\udc18",
             "url": "https://github.com/agentic-in/elephant-agent",
-            "stars": 472,
+            "stars": 479,
             "forks": 59,
             "score": 57
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "agentic-ai-system-course",
+            "full_name": "bryanyzhu/agentic-ai-system-course",
+            "description": "Use agent to learn agent - A skeleton course on how to design, build, and operate production AI agents ",
+            "url": "https://github.com/bryanyzhu/agentic-ai-system-course",
+            "stars": 214,
+            "forks": 27,
+            "score": 56
         },
         {
             "main_cat": "AI",
@@ -161,9 +161,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "nolanx-ai/nolanx.ai",
             "description": "Nolanx, Open-sourced AI Netflix.",
             "url": "https://github.com/nolanx-ai/nolanx.ai",
-            "stars": 528,
+            "stars": 541,
             "forks": 55,
-            "score": 54
+            "score": 55
         },
         {
             "main_cat": "AI",
@@ -172,9 +172,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "XingYu-Zhong/DeepSeek-GUI",
             "description": "AI agent workspace for DeepSeek models, with Code and Claw modes built into your application.",
             "url": "https://github.com/XingYu-Zhong/DeepSeek-GUI",
-            "stars": 260,
+            "stars": 267,
             "forks": 16,
             "score": 53
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "reverse-skill-private",
+            "full_name": "zhaoxuya520/reverse-skill-private",
+            "description": "\u9006\u5411/\u6e17\u900f/\u5b89\u5168\u6280\u80fd\u8def\u7531\u5305 - AI \u81ea\u52a8\u8def\u7531 + \u6309\u9700\u81ea\u4e3e\u5de5\u5177\u94fe + \u81ea\u52a8\u8fdb\u5316\u7ecf\u9a8c\u5e93 | \u652f\u6301 Claude Code / Kiro / Cursor / Cline \u7b49\u4ee3\u7801 AI \u5ba2\u6237\u7aef",
+            "url": "https://github.com/zhaoxuya520/reverse-skill-private",
+            "stars": 329,
+            "forks": 77,
+            "score": 51
         },
         {
             "main_cat": "AI",
@@ -194,7 +205,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "AbhishekK130804/Claude-Mythos-AI-Anthropic-App",
             "description": "Claude pro free Mythos design Opus Cowork  Sonnet AI Anthropic App: download free PC android apk iOS, Anthropic Claude API key setup, Claude roleplay mythos client, SillyTavern Claude prompt formatting, custom system prompt jailbreak, Mythos AI creative writing app, Claude 3.5 Sonnet Opus API cost, open source LLM frontend, Claude reverse proxy ",
             "url": "https://github.com/AbhishekK130804/Claude-Mythos-AI-Anthropic-App",
-            "stars": 356,
+            "stars": 357,
             "forks": 2,
             "score": 48
         },
@@ -205,8 +216,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "scheidydude/codeindex",
             "description": "Repo dependency analyzer with **blast-radius impact scoring** for AI-assisted development.",
             "url": "https://github.com/scheidydude/codeindex",
-            "stars": 189,
-            "forks": 25,
+            "stars": 193,
+            "forks": 26,
             "score": 48
         },
         {
@@ -216,8 +227,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "basionwang-bot/HermesPet",
             "description": "\u8ba9 AI \u4f4f\u5728\u4f60 MacBook \u7684\u5218\u6d77\u91cc \u00b7 \u96f6\u4f9d\u8d56\u5f00\u7bb1\u5373\u7528 \u00b7 \u591a\u5f15\u64ce\u5e76\u884c\u7684\u684c\u9762 AI \u4f34\u4fa3\uff08Swift 6 / SwiftUI / macOS 14+\uff09",
             "url": "https://github.com/basionwang-bot/HermesPet",
-            "stars": 279,
-            "forks": 37,
+            "stars": 284,
+            "forks": 39,
             "score": 46
         },
         {
@@ -227,7 +238,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "LocoreMind/locoagent",
             "description": "AI-powered social media agent with real browser automation",
             "url": "https://github.com/LocoreMind/locoagent",
-            "stars": 422,
+            "stars": 442,
             "forks": 12,
             "score": 45
         },
@@ -238,19 +249,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "Callous-0923/agent-study",
             "description": "36\u7ae0AI Agent\u5168\u6808\u8bfe\u7a0b\uff1a\u4eceReAct\u5faa\u73af\u5230Claude Code\u9006\u5411\u3001MCP/A2A\u534f\u8bae\u3001RAG\u3001DSPy\u3001\u751f\u4ea7\u53ef\u89c2\u6d4b\u6027\u2014\u2014\u5168\u90e8\u4e3a\u53ef\u8fd0\u884cPython\u6587\u4ef6\uff0c\u9762\u8bd5\u5bfc\u5411\u3002",
             "url": "https://github.com/Callous-0923/agent-study",
-            "stars": 325,
+            "stars": 326,
             "forks": 24,
-            "score": 45
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "exodusbot",
-            "full_name": "edgenuitybot/exodusbot",
-            "description": "Exodus | The # 1 Edgenuity Bot for Quizes, Tests, and Exams. Includes Auto Answers, Auto delays, built in AI Answers, Auto Submit, EdgeEX support and MORE! | About: Exodus is an online course tool designed for online middle and high school classes (K-8 curriculum). Join the Discord: https://discord.gg/exodusbot",
-            "url": "https://github.com/edgenuitybot/exodusbot",
-            "stars": 271,
-            "forks": 0,
             "score": 45
         },
         {
@@ -260,9 +260,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "ajsai47/backdoor",
             "description": "Run Claude Code against any AI provider. DeepSeek, Groq, Ollama, OpenRouter \u2014 your call.",
             "url": "https://github.com/ajsai47/backdoor",
-            "stars": 215,
+            "stars": 218,
             "forks": 28,
-            "score": 44
+            "score": 45
         },
         {
             "main_cat": "AI",
@@ -278,12 +278,12 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "reverse-skill-private",
-            "full_name": "zhaoxuya520/reverse-skill-private",
-            "description": "\u9006\u5411/\u6e17\u900f/\u5b89\u5168\u6280\u80fd\u8def\u7531\u5305 - AI \u81ea\u52a8\u8def\u7531 + \u6309\u9700\u81ea\u4e3e\u5de5\u5177\u94fe + \u81ea\u52a8\u8fdb\u5316\u7ecf\u9a8c\u5e93 | \u652f\u6301 Claude Code / Kiro / Cursor / Cline \u7b49\u4ee3\u7801 AI \u5ba2\u6237\u7aef",
-            "url": "https://github.com/zhaoxuya520/reverse-skill-private",
-            "stars": 204,
-            "forks": 50,
+            "name": "exodusbot",
+            "full_name": "edgenuitybot/exodusbot",
+            "description": "Exodus | The # 1 Edgenuity Bot for Quizes, Tests, and Exams. Includes Auto Answers, Auto delays, built in AI Answers, Auto Submit, EdgeEX support and MORE! | About: Exodus is an online course tool designed for online middle and high school classes (K-8 curriculum). Join the Discord: https://discord.gg/exodusbot",
+            "url": "https://github.com/edgenuitybot/exodusbot",
+            "stars": 271,
+            "forks": 0,
             "score": 43
         },
         {
@@ -293,7 +293,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "alchaincyf/codex-orange-book",
             "description": "OpenAI Codex: The Complete Guide \u00b7 \u6a59\u76ae\u4e66\u7cfb\u5217 \u00b7 GPT-5.5 \u65f6\u4ee3\u7684 AI \u7f16\u7a0b\u5b9e\u6218\u624b\u518c",
             "url": "https://github.com/alchaincyf/codex-orange-book",
-            "stars": 221,
+            "stars": 222,
             "forks": 16,
             "score": 40
         },
@@ -326,7 +326,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "exploitbench/exploitbench",
             "description": "ExploitBench measures how far AI agents climb, from reaching vulnerable code, to triggering the bug, to building exploit primitives, to arbitrary code execution.",
             "url": "https://github.com/exploitbench/exploitbench",
-            "stars": 187,
+            "stars": 188,
             "forks": 11,
             "score": 38
         },
@@ -361,17 +361,6 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/andyluo7/cpu-gpu-codesign-agentic-inference",
             "stars": 6,
             "forks": 1,
-            "score": 30
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "sample-slemify",
-            "full_name": "aws-samples/sample-slemify",
-            "description": "Slemify demonstrates how to fine-tune and serve Small Language Models (1-8B parameters) on Kubernetes using CPUs. It takes a single YAML configuration, generates synthetic training data via an LLM API, fine-tunes a base model on a Spot GPU, quantizes it, and deploys it for inference on CPU nodes with autoscaling.",
-            "url": "https://github.com/aws-samples/sample-slemify",
-            "stars": 4,
-            "forks": 0,
             "score": 30
         },
         {
@@ -674,6 +663,20 @@ const ALPHA_DATA_V2 = {
     ],
     "news": [
         {
+            "title": "Shielded but Lightweight: Building Practical Confidential Containers with ARM CCA",
+            "source": "ArXiv",
+            "type": "Research Alpha",
+            "color": "text-indigo-600",
+            "url": "http://arxiv.org/abs/2605.26018v1"
+        },
+        {
+            "title": "Building an Adversarial Malware Dataset by Family and Type: Generation, Evasion, and Poisoning Evaluation",
+            "source": "ArXiv",
+            "type": "Research Alpha",
+            "color": "text-indigo-600",
+            "url": "http://arxiv.org/abs/2605.25937v1"
+        },
+        {
             "title": "Bitcoin volatility remains high ahead of key FED decision.",
             "source": "Polymarket",
             "type": "Expectation",
@@ -681,5 +684,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-05-26 00:00"
+    "timestamp": "2026-05-26 04:57"
 };
