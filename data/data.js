@@ -7,7 +7,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "datawhalechina/Agent-Learning-Hub",
             "description": "AI Agent \u5b66\u4e60\u8def\u7ebf\u4e0e\u8d44\u6599\u5e93\u6536\u96c6",
             "url": "https://github.com/datawhalechina/Agent-Learning-Hub",
-            "stars": 1757,
+            "stars": 1764,
             "forks": 186,
             "score": 99
         },
@@ -18,8 +18,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "Doorman11991/smallcode",
             "description": "AI coding agent optimized for small LLMs. 87% benchmark with 4B-active model.",
             "url": "https://github.com/Doorman11991/smallcode",
-            "stars": 1490,
-            "forks": 107,
+            "stars": 1491,
+            "forks": 110,
             "score": 99
         },
         {
@@ -52,19 +52,8 @@ const ALPHA_DATA_V2 = {
             "description": "Pump.fun Pump.fun Solana Solana TypeScript TypeScript trading bot trading bot AI trading AI trading OpenAI OpenAI CLI automation meme coin meme coin cryptocurrency cryptocurrency token token comment bot comment bot Solana bot Solana bot web3 web3",
             "url": "https://github.com/Dangerous-hole/Pumpfun_AI_Trading_Bot",
             "stars": 307,
-            "forks": 4028,
+            "forks": 4102,
             "score": 99
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "infinite-canvas",
-            "full_name": "basketikun/infinite-canvas",
-            "description": "\u9762\u5411AI\u521b\u4f5c\u7684\u5f00\u6e90\u65e0\u9650\u753b\u5e03\u5de5\u4f5c\u53f0\uff0c\u96c6\u6210 AI \u751f\u56fe\u3001\u53c2\u8003\u56fe\u7f16\u8f91\u3001\u89c6\u9891\u751f\u6210\u3001\u753b\u5e03\u7f16\u6392\u3001\u5bf9\u8bdd\u52a9\u624b\u3001\u63d0\u793a\u8bcd\u5e93\u548c\u7d20\u6750\u7ba1\u7406\u7b49\u529f\u80fd\u3001\u517c\u5bb9OpenAI\u63a5\u53e3\uff0c\u652f\u6301chatgpt2api\u3001grok2api\u3001flow2api\u3001newapi\u7b49\u63a5\u5165\u3002",
-            "url": "https://github.com/basketikun/infinite-canvas",
-            "stars": 653,
-            "forks": 132,
-            "score": 83
         },
         {
             "main_cat": "AI",
@@ -73,9 +62,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "study8677/awesome-architecture",
             "description": "\ud83d\uddfa\ufe0f Think like a software architect, not just a coder \u2014 21 architecture maps (incl. AI gateway, RAG, agents, inference serving, vector DB) + a language-agnostic system-design tutorial. Every template links to real open-source prototypes. \u4e2d\u82f1\u6587\u53cc\u8bed\u3002",
             "url": "https://github.com/study8677/awesome-architecture",
-            "stars": 523,
-            "forks": 53,
-            "score": 82
+            "stars": 543,
+            "forks": 54,
+            "score": 84
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "infinite-canvas",
+            "full_name": "basketikun/infinite-canvas",
+            "description": "\u9762\u5411AI\u521b\u4f5c\u7684\u5f00\u6e90\u65e0\u9650\u753b\u5e03\u5de5\u4f5c\u53f0\uff0c\u96c6\u6210 AI \u751f\u56fe\u3001\u53c2\u8003\u56fe\u7f16\u8f91\u3001\u89c6\u9891\u751f\u6210\u3001\u753b\u5e03\u7f16\u6392\u3001\u5bf9\u8bdd\u52a9\u624b\u3001\u63d0\u793a\u8bcd\u5e93\u548c\u7d20\u6750\u7ba1\u7406\u7b49\u529f\u80fd\u3001\u517c\u5bb9OpenAI\u63a5\u53e3\uff0c\u652f\u6301chatgpt2api\u3001grok2api\u3001flow2api\u3001newapi\u7b49\u63a5\u5165\u3002",
+            "url": "https://github.com/basketikun/infinite-canvas",
+            "stars": 656,
+            "forks": 132,
+            "score": 83
         },
         {
             "main_cat": "AI",
@@ -84,7 +84,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "lynote-ai/humanize-text",
             "description": "Free open-source AI text humanizer to convert AI-generated content into undetectable, human-like writing. Bypass Turnitin, GPTZero, and all major AI detectors. No sign-up required. Try our unlimited free online tool",
             "url": "https://github.com/lynote-ai/humanize-text",
-            "stars": 824,
+            "stars": 827,
             "forks": 45,
             "score": 71
         },
@@ -95,20 +95,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "realrossmanngroup/no_ai_slop_writing_rules",
             "description": "Claude Code reference: write in Louis Rossmann's voice, never like AI slop. Portable CLAUDE.md plus skills.",
             "url": "https://github.com/realrossmanngroup/no_ai_slop_writing_rules",
-            "stars": 227,
-            "forks": 30,
-            "score": 64
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "agentic-ai-system-course",
-            "full_name": "bryanyzhu/agentic-ai-system-course",
-            "description": "Use agent to learn agent - A skeleton course on how to design, build, and operate production AI agents ",
-            "url": "https://github.com/bryanyzhu/agentic-ai-system-course",
-            "stars": 258,
+            "stars": 231,
             "forks": 33,
-            "score": 57
+            "score": 66
         },
         {
             "main_cat": "AI",
@@ -117,9 +106,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "XingYu-Zhong/DeepSeek-GUI",
             "description": "AI agent workspace for DeepSeek models, with Code and Claw modes built into your application.",
             "url": "https://github.com/XingYu-Zhong/DeepSeek-GUI",
-            "stars": 365,
-            "forks": 29,
-            "score": 56
+            "stars": 384,
+            "forks": 32,
+            "score": 58
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "agentic-ai-system-course",
+            "full_name": "bryanyzhu/agentic-ai-system-course",
+            "description": "Use agent to learn agent - A skeleton course on how to design, build, and operate production AI agents ",
+            "url": "https://github.com/bryanyzhu/agentic-ai-system-course",
+            "stars": 264,
+            "forks": 35,
+            "score": 58
         },
         {
             "main_cat": "AI",
@@ -128,8 +128,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "agentic-in/elephant-agent",
             "description": "Personal-Model First Self Evolving AI Agent \ud83d\udc18",
             "url": "https://github.com/agentic-in/elephant-agent",
-            "stars": 520,
-            "forks": 59,
+            "stars": 522,
+            "forks": 60,
             "score": 55
         },
         {
@@ -139,7 +139,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "VILA-Lab/FigMirror",
             "description": "An Automated AI Agent Tool for Plotting Your Data in Any Paper's Figure Style.",
             "url": "https://github.com/VILA-Lab/FigMirror",
-            "stars": 325,
+            "stars": 329,
             "forks": 19,
             "score": 55
         },
@@ -162,18 +162,29 @@ const ALPHA_DATA_V2 = {
             "description": "Open-source backend-as-a-service. Postgres, auth, storage, functions, AI gateway, MCP.",
             "url": "https://github.com/butterbase-ai/butterbase-oss",
             "stars": 311,
-            "forks": 26,
+            "forks": 27,
             "score": 50
         },
         {
             "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "Deepseek-v4-Pro-App",
-            "full_name": "mikaeldengale-cloud/Deepseek-v4-Pro-App",
-            "description": "deepseek v4 flash pro chat  api  app windows 11 desktop client github open source ai assistant chatbot coding agent moe model 1.6t parameters free api setup guide reasoning max mode local deployment",
-            "url": "https://github.com/mikaeldengale-cloud/Deepseek-v4-Pro-App",
-            "stars": 224,
-            "forks": 0,
+            "sub_cat": null,
+            "name": "OpenMobius-skill",
+            "full_name": "MobiusQuant/OpenMobius-skill",
+            "description": "ICT/SMC trading-knowledge skill for AI coding agents (Claude Code / Codex / OpenClaw / Hermes)",
+            "url": "https://github.com/MobiusQuant/OpenMobius-skill",
+            "stars": 253,
+            "forks": 38,
+            "score": 48
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "uncensored-ai-image-video-generator",
+            "full_name": "Astraltenprosper/uncensored-ai-image-video-generator",
+            "description": "AI tool for generating uncensored images and videos (18+)",
+            "url": "https://github.com/Astraltenprosper/uncensored-ai-image-video-generator",
+            "stars": 176,
+            "forks": 12,
             "score": 48
         },
         {
@@ -190,45 +201,34 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "HermesPet",
-            "full_name": "basionwang-bot/HermesPet",
-            "description": "\u8ba9 AI \u4f4f\u5728\u4f60 MacBook \u7684\u5218\u6d77\u91cc \u00b7 \u96f6\u4f9d\u8d56\u5f00\u7bb1\u5373\u7528 \u00b7 \u591a\u5f15\u64ce\u5e76\u884c\u7684\u684c\u9762 AI \u4f34\u4fa3\uff08Swift 6 / SwiftUI / macOS 14+\uff09",
-            "url": "https://github.com/basionwang-bot/HermesPet",
-            "stars": 335,
-            "forks": 44,
-            "score": 47
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "OpenMobius-skill",
-            "full_name": "MobiusQuant/OpenMobius-skill",
-            "description": "ICT/SMC trading-knowledge skill for AI coding agents (Claude Code / Codex / OpenClaw / Hermes)",
-            "url": "https://github.com/MobiusQuant/OpenMobius-skill",
-            "stars": 242,
-            "forks": 35,
-            "score": 47
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
             "name": "codeindex",
             "full_name": "scheidydude/codeindex",
             "description": "Repo dependency analyzer with **blast-radius impact scoring** for AI-assisted development.",
             "url": "https://github.com/scheidydude/codeindex",
-            "stars": 223,
+            "stars": 229,
             "forks": 32,
             "score": 47
         },
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "global-stock-data",
-            "full_name": "simonlin1212/global-stock-data",
-            "description": "\u7f8e\u80a1\u6e2f\u80a1\u5168\u6808\u6570\u636e\u5de5\u5177\u5305 (AI Skill) \u2014 7\u5c42\u67b6\u6784 \u00b7 17\u7aef\u70b9 \u00b7 5\u6570\u636e\u6e90 \u00b7 \u96f6\u9274\u6743 | US & HK Stock Full-Stack Data Toolkit for AI Coding Assistants",
-            "url": "https://github.com/simonlin1212/global-stock-data",
-            "stars": 175,
-            "forks": 41,
+            "name": "HermesPet",
+            "full_name": "basionwang-bot/HermesPet",
+            "description": "\u8ba9 AI \u4f4f\u5728\u4f60 MacBook \u7684\u5218\u6d77\u91cc \u00b7 \u96f6\u4f9d\u8d56\u5f00\u7bb1\u5373\u7528 \u00b7 \u591a\u5f15\u64ce\u5e76\u884c\u7684\u684c\u9762 AI \u4f34\u4fa3\uff08Swift 6 / SwiftUI / macOS 14+\uff09",
+            "url": "https://github.com/basionwang-bot/HermesPet",
+            "stars": 335,
+            "forks": 43,
+            "score": 46
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "Deepseek-v4-Pro-App",
+            "full_name": "mikaeldengale-cloud/Deepseek-v4-Pro-App",
+            "description": "deepseek v4 flash pro chat  api  app windows 11 desktop client github open source ai assistant chatbot coding agent moe model 1.6t parameters free api setup guide reasoning max mode local deployment",
+            "url": "https://github.com/mikaeldengale-cloud/Deepseek-v4-Pro-App",
+            "stars": 233,
+            "forks": 0,
             "score": 46
         },
         {
@@ -260,7 +260,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "haidang1810/md2html",
             "description": "Your AI writes docs \u2014 md2html turns them into pages people actually read. A portable skill for Claude Code / Codex / Antigravity that converts long-form Markdown (plans, specs, system designs, RFCs, runbooks, postmortems, brainstorms) into self-contained HTML with Mermaid, timelines, callouts, TOC. Multi-language.",
             "url": "https://github.com/haidang1810/md2html",
-            "stars": 317,
+            "stars": 318,
             "forks": 22,
             "score": 42
         },
@@ -293,7 +293,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "shenli/distributed-system-testing",
             "description": "AI-agent skills for distributed-systems testing",
             "url": "https://github.com/shenli/distributed-system-testing",
-            "stars": 205,
+            "stars": 206,
             "forks": 11,
             "score": 39
         },
@@ -315,7 +315,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "exploitbench/exploitbench",
             "description": "ExploitBench measures how far AI agents climb, from reaching vulnerable code, to triggering the bug, to building exploit primitives, to arbitrary code execution.",
             "url": "https://github.com/exploitbench/exploitbench",
-            "stars": 193,
+            "stars": 194,
             "forks": 11,
             "score": 37
         },
@@ -630,6 +630,20 @@ const ALPHA_DATA_V2 = {
     ],
     "news": [
         {
+            "title": "Shortest Path Problem with Subnormal Gaussian Fuzzy Costs",
+            "source": "ArXiv",
+            "type": "Research Alpha",
+            "color": "text-indigo-600",
+            "url": "http://arxiv.org/abs/2605.27317v1"
+        },
+        {
+            "title": "Risk Averse Alert Prioritization for IDS Using Subnormal Gaussian Fuzzy Models",
+            "source": "ArXiv",
+            "type": "Research Alpha",
+            "color": "text-indigo-600",
+            "url": "http://arxiv.org/abs/2605.27299v1"
+        },
+        {
             "title": "Bitcoin volatility remains high ahead of key FED decision.",
             "source": "Polymarket",
             "type": "Expectation",
@@ -637,5 +651,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-05-27 16:33"
+    "timestamp": "2026-05-27 19:18"
 };
