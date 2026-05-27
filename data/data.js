@@ -7,7 +7,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "datawhalechina/Agent-Learning-Hub",
             "description": "AI Agent \u5b66\u4e60\u8def\u7ebf\u4e0e\u8d44\u6599\u5e93\u6536\u96c6",
             "url": "https://github.com/datawhalechina/Agent-Learning-Hub",
-            "stars": 1764,
+            "stars": 1767,
             "forks": 186,
             "score": 99
         },
@@ -18,7 +18,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Doorman11991/smallcode",
             "description": "AI coding agent optimized for small LLMs. 87% benchmark with 4B-active model.",
             "url": "https://github.com/Doorman11991/smallcode",
-            "stars": 1491,
+            "stars": 1492,
             "forks": 110,
             "score": 99
         },
@@ -41,7 +41,7 @@ const ALPHA_DATA_V2 = {
             "description": "Polymarket Polymarket AI trading AI trading prediction markets prediction markets paper trading paper trading OpenAI OpenAI Node.js Node.js Express Express Docker Docker CLOB CLOB mean reversion mean reversion dashboard dashboard crypto bot crypto bot SQLite SQLite automated trading automated trading API API research trading research trading",
             "url": "https://github.com/trading-2028/polymarket-ai-trading",
             "stars": 324,
-            "forks": 3940,
+            "forks": 3941,
             "score": 99
         },
         {
@@ -62,9 +62,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "study8677/awesome-architecture",
             "description": "\ud83d\uddfa\ufe0f Think like a software architect, not just a coder \u2014 21 architecture maps (incl. AI gateway, RAG, agents, inference serving, vector DB) + a language-agnostic system-design tutorial. Every template links to real open-source prototypes. \u4e2d\u82f1\u6587\u53cc\u8bed\u3002",
             "url": "https://github.com/study8677/awesome-architecture",
-            "stars": 543,
+            "stars": 554,
             "forks": 54,
-            "score": 84
+            "score": 85
         },
         {
             "main_cat": "AI",
@@ -73,9 +73,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "basketikun/infinite-canvas",
             "description": "\u9762\u5411AI\u521b\u4f5c\u7684\u5f00\u6e90\u65e0\u9650\u753b\u5e03\u5de5\u4f5c\u53f0\uff0c\u96c6\u6210 AI \u751f\u56fe\u3001\u53c2\u8003\u56fe\u7f16\u8f91\u3001\u89c6\u9891\u751f\u6210\u3001\u753b\u5e03\u7f16\u6392\u3001\u5bf9\u8bdd\u52a9\u624b\u3001\u63d0\u793a\u8bcd\u5e93\u548c\u7d20\u6750\u7ba1\u7406\u7b49\u529f\u80fd\u3001\u517c\u5bb9OpenAI\u63a5\u53e3\uff0c\u652f\u6301chatgpt2api\u3001grok2api\u3001flow2api\u3001newapi\u7b49\u63a5\u5165\u3002",
             "url": "https://github.com/basketikun/infinite-canvas",
-            "stars": 656,
-            "forks": 132,
-            "score": 83
+            "stars": 658,
+            "forks": 133,
+            "score": 84
         },
         {
             "main_cat": "AI",
@@ -84,9 +84,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "lynote-ai/humanize-text",
             "description": "Free open-source AI text humanizer to convert AI-generated content into undetectable, human-like writing. Bypass Turnitin, GPTZero, and all major AI detectors. No sign-up required. Try our unlimited free online tool",
             "url": "https://github.com/lynote-ai/humanize-text",
-            "stars": 827,
+            "stars": 829,
             "forks": 45,
-            "score": 71
+            "score": 72
         },
         {
             "main_cat": "AI",
@@ -95,7 +95,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "realrossmanngroup/no_ai_slop_writing_rules",
             "description": "Claude Code reference: write in Louis Rossmann's voice, never like AI slop. Portable CLAUDE.md plus skills.",
             "url": "https://github.com/realrossmanngroup/no_ai_slop_writing_rules",
-            "stars": 231,
+            "stars": 236,
             "forks": 33,
             "score": 66
         },
@@ -106,9 +106,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "XingYu-Zhong/DeepSeek-GUI",
             "description": "AI agent workspace for DeepSeek models, with Code and Claw modes built into your application.",
             "url": "https://github.com/XingYu-Zhong/DeepSeek-GUI",
-            "stars": 384,
+            "stars": 396,
             "forks": 32,
-            "score": 58
+            "score": 59
         },
         {
             "main_cat": "AI",
@@ -117,7 +117,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "bryanyzhu/agentic-ai-system-course",
             "description": "Use agent to learn agent - A skeleton course on how to design, build, and operate production AI agents ",
             "url": "https://github.com/bryanyzhu/agentic-ai-system-course",
-            "stars": 264,
+            "stars": 265,
             "forks": 35,
             "score": 58
         },
@@ -128,7 +128,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "agentic-in/elephant-agent",
             "description": "Personal-Model First Self Evolving AI Agent \ud83d\udc18",
             "url": "https://github.com/agentic-in/elephant-agent",
-            "stars": 522,
+            "stars": 526,
             "forks": 60,
             "score": 55
         },
@@ -139,7 +139,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "VILA-Lab/FigMirror",
             "description": "An Automated AI Agent Tool for Plotting Your Data in Any Paper's Figure Style.",
             "url": "https://github.com/VILA-Lab/FigMirror",
-            "stars": 329,
+            "stars": 330,
             "forks": 19,
             "score": 55
         },
@@ -172,8 +172,19 @@ const ALPHA_DATA_V2 = {
             "full_name": "MobiusQuant/OpenMobius-skill",
             "description": "ICT/SMC trading-knowledge skill for AI coding agents (Claude Code / Codex / OpenClaw / Hermes)",
             "url": "https://github.com/MobiusQuant/OpenMobius-skill",
-            "stars": 253,
-            "forks": 38,
+            "stars": 259,
+            "forks": 41,
+            "score": 49
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "codeindex",
+            "full_name": "scheidydude/codeindex",
+            "description": "Repo dependency analyzer with **blast-radius impact scoring** for AI-assisted development.",
+            "url": "https://github.com/scheidydude/codeindex",
+            "stars": 232,
+            "forks": 33,
             "score": 48
         },
         {
@@ -183,7 +194,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Astraltenprosper/uncensored-ai-image-video-generator",
             "description": "AI tool for generating uncensored images and videos (18+)",
             "url": "https://github.com/Astraltenprosper/uncensored-ai-image-video-generator",
-            "stars": 176,
+            "stars": 177,
             "forks": 12,
             "score": 48
         },
@@ -196,17 +207,6 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/husu/loom",
             "stars": 446,
             "forks": 21,
-            "score": 47
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "codeindex",
-            "full_name": "scheidydude/codeindex",
-            "description": "Repo dependency analyzer with **blast-radius impact scoring** for AI-assisted development.",
-            "url": "https://github.com/scheidydude/codeindex",
-            "stars": 229,
-            "forks": 32,
             "score": 47
         },
         {
@@ -240,7 +240,7 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/ajsai47/backdoor",
             "stars": 259,
             "forks": 28,
-            "score": 45
+            "score": 44
         },
         {
             "main_cat": "AI",
@@ -260,7 +260,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "haidang1810/md2html",
             "description": "Your AI writes docs \u2014 md2html turns them into pages people actually read. A portable skill for Claude Code / Codex / Antigravity that converts long-form Markdown (plans, specs, system designs, RFCs, runbooks, postmortems, brainstorms) into self-contained HTML with Mermaid, timelines, callouts, TOC. Multi-language.",
             "url": "https://github.com/haidang1810/md2html",
-            "stars": 318,
+            "stars": 319,
             "forks": 22,
             "score": 42
         },
@@ -289,23 +289,23 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "distributed-system-testing",
-            "full_name": "shenli/distributed-system-testing",
-            "description": "AI-agent skills for distributed-systems testing",
-            "url": "https://github.com/shenli/distributed-system-testing",
-            "stars": 206,
-            "forks": 11,
-            "score": 39
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
             "name": "1688-customer-opportunity",
             "full_name": "next-1688/1688-customer-opportunity",
             "description": "1688 \u4e70\u5bb6\u8ddf\u8fdb\u4e0e\u5ba2\u7fa4\u8fd0\u8425\u3002\u53ef\u4ee5\u5e2e\u4f60\u505a\uff1a \u2460 \u67e5\u770bAI\u5ba2\u7fa4\u5217\u8868 \u2014 \u5e97\u94fa\u6709\u54ea\u4e9b\u9ad8\u4ef7\u503c\u8001\u5ba2\u5ba2\u7fa4\u3001\u5404\u5ba2\u7fa4\u7279\u5f81\u548c\u4e70\u5bb6\u6570 \u2461 \u5c55\u5f00\u5ba2\u7fa4\u4e70\u5bb6\u660e\u7ec6 \u2014 \u9009\u4e00\u4e2a\u5ba2\u7fa4\uff0c\u770b\u5177\u4f53\u6709\u54ea\u4e9b\u4e70\u5bb6 \u2462 \u5f00\u542f\u5ba2\u7fa4\u8fd0\u8425\u8ba1\u5212 \u2014 \u5bf9\u9009\u5b9a\u5ba2\u7fa4\u81ea\u52a8\u53d1\u9001\u65fa\u65fa\u8425\u9500\u6587\u6848 \u2463 \u67e5\u4e70\u5bb6\u6210\u4ea4\u673a\u4f1a \u2014 \u8f93\u5165\u4e70\u5bb6\u8d26\u53f7\uff0c\u83b7\u53d6\u753b\u50cf\u548c\u8ddf\u8fdb\u5efa\u8bae \u2464 \u5ba2\u6237\u673a\u4f1a\u76d1\u63a7 \u2014 \u667a\u80fd\u627e\u51fa\u8fd1\u671f\u6700\u503c\u5f97\u4e3b\u52a8\u8054\u7cfb\u7684\u4e70\u5bb6",
             "url": "https://github.com/next-1688/1688-customer-opportunity",
             "stars": 247,
             "forks": 5,
+            "score": 38
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "distributed-system-testing",
+            "full_name": "shenli/distributed-system-testing",
+            "description": "AI-agent skills for distributed-systems testing",
+            "url": "https://github.com/shenli/distributed-system-testing",
+            "stars": 206,
+            "forks": 11,
             "score": 38
         },
         {
@@ -651,5 +651,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-05-27 19:18"
+    "timestamp": "2026-05-27 21:48"
 };
