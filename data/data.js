@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "datawhalechina/Agent-Learning-Hub",
             "description": "AI Agent \u5b66\u4e60\u8def\u7ebf\u4e0e\u8d44\u6599\u5e93\u6536\u96c6",
             "url": "https://github.com/datawhalechina/Agent-Learning-Hub",
-            "stars": 1767,
-            "forks": 186,
+            "stars": 1768,
+            "forks": 187,
             "score": 99
         },
         {
@@ -62,8 +62,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "study8677/awesome-architecture",
             "description": "\ud83d\uddfa\ufe0f Think like a software architect, not just a coder \u2014 21 architecture maps (incl. AI gateway, RAG, agents, inference serving, vector DB) + a language-agnostic system-design tutorial. Every template links to real open-source prototypes. \u4e2d\u82f1\u6587\u53cc\u8bed\u3002",
             "url": "https://github.com/study8677/awesome-architecture",
-            "stars": 554,
-            "forks": 54,
+            "stars": 557,
+            "forks": 55,
             "score": 85
         },
         {
@@ -84,7 +84,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "lynote-ai/humanize-text",
             "description": "Free open-source AI text humanizer to convert AI-generated content into undetectable, human-like writing. Bypass Turnitin, GPTZero, and all major AI detectors. No sign-up required. Try our unlimited free online tool",
             "url": "https://github.com/lynote-ai/humanize-text",
-            "stars": 829,
+            "stars": 830,
             "forks": 45,
             "score": 72
         },
@@ -95,9 +95,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "realrossmanngroup/no_ai_slop_writing_rules",
             "description": "Claude Code reference: write in Louis Rossmann's voice, never like AI slop. Portable CLAUDE.md plus skills.",
             "url": "https://github.com/realrossmanngroup/no_ai_slop_writing_rules",
-            "stars": 236,
+            "stars": 239,
             "forks": 33,
-            "score": 66
+            "score": 67
         },
         {
             "main_cat": "AI",
@@ -106,8 +106,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "XingYu-Zhong/DeepSeek-GUI",
             "description": "AI agent workspace for DeepSeek models, with Code and Claw modes built into your application.",
             "url": "https://github.com/XingYu-Zhong/DeepSeek-GUI",
-            "stars": 396,
-            "forks": 32,
+            "stars": 403,
+            "forks": 33,
             "score": 59
         },
         {
@@ -117,9 +117,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "bryanyzhu/agentic-ai-system-course",
             "description": "Use agent to learn agent - A skeleton course on how to design, build, and operate production AI agents ",
             "url": "https://github.com/bryanyzhu/agentic-ai-system-course",
-            "stars": 265,
+            "stars": 266,
             "forks": 35,
-            "score": 58
+            "score": 59
         },
         {
             "main_cat": "AI",
@@ -128,7 +128,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "agentic-in/elephant-agent",
             "description": "Personal-Model First Self Evolving AI Agent \ud83d\udc18",
             "url": "https://github.com/agentic-in/elephant-agent",
-            "stars": 526,
+            "stars": 528,
             "forks": 60,
             "score": 55
         },
@@ -146,6 +146,17 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
+            "name": "butterbase-oss",
+            "full_name": "butterbase-ai/butterbase-oss",
+            "description": "Open-source backend-as-a-service. Postgres, auth, storage, functions, AI gateway, MCP.",
+            "url": "https://github.com/butterbase-ai/butterbase-oss",
+            "stars": 311,
+            "forks": 29,
+            "score": 51
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
             "name": "DailyBrief",
             "full_name": "leiting-eric/DailyBrief",
             "description": "AI \u6bcf\u65e5\u65b0\u95fb\u7b80\u62a5 \u00b7 GitHub \u70ed\u95e8 + X \u70ed\u95e8\u6587\u7ae0 + \u884c\u60c5\u6280\u672f\u5206\u6790 \u00b7 23 \u4e2a\u6570\u636e\u6e90\u805a\u5408 + LLM \u4e2d\u6587\u6458\u8981 \u00b7 \u672c\u5730\u6216 GitHub Actions \u90e8\u7f72",
@@ -157,22 +168,11 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "butterbase-oss",
-            "full_name": "butterbase-ai/butterbase-oss",
-            "description": "Open-source backend-as-a-service. Postgres, auth, storage, functions, AI gateway, MCP.",
-            "url": "https://github.com/butterbase-ai/butterbase-oss",
-            "stars": 311,
-            "forks": 27,
-            "score": 50
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
             "name": "OpenMobius-skill",
             "full_name": "MobiusQuant/OpenMobius-skill",
             "description": "ICT/SMC trading-knowledge skill for AI coding agents (Claude Code / Codex / OpenClaw / Hermes)",
             "url": "https://github.com/MobiusQuant/OpenMobius-skill",
-            "stars": 259,
+            "stars": 268,
             "forks": 41,
             "score": 49
         },
@@ -185,17 +185,6 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/scheidydude/codeindex",
             "stars": 232,
             "forks": 33,
-            "score": 48
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "uncensored-ai-image-video-generator",
-            "full_name": "Astraltenprosper/uncensored-ai-image-video-generator",
-            "description": "AI tool for generating uncensored images and videos (18+)",
-            "url": "https://github.com/Astraltenprosper/uncensored-ai-image-video-generator",
-            "stars": 177,
-            "forks": 12,
             "score": 48
         },
         {
@@ -227,8 +216,19 @@ const ALPHA_DATA_V2 = {
             "full_name": "mikaeldengale-cloud/Deepseek-v4-Pro-App",
             "description": "deepseek v4 flash pro chat  api  app windows 11 desktop client github open source ai assistant chatbot coding agent moe model 1.6t parameters free api setup guide reasoning max mode local deployment",
             "url": "https://github.com/mikaeldengale-cloud/Deepseek-v4-Pro-App",
-            "stars": 233,
+            "stars": 234,
             "forks": 0,
+            "score": 46
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "uncensored-ai-image-video-generator",
+            "full_name": "Astraltenprosper/uncensored-ai-image-video-generator",
+            "description": "AI tool for generating uncensored images and videos (18+)",
+            "url": "https://github.com/Astraltenprosper/uncensored-ai-image-video-generator",
+            "stars": 179,
+            "forks": 12,
             "score": 46
         },
         {
@@ -278,6 +278,17 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
+            "name": "PilotDeck",
+            "full_name": "OpenBMB/PilotDeck",
+            "description": "Task-oriented AI Agent productivity platform",
+            "url": "https://github.com/OpenBMB/PilotDeck",
+            "stars": 178,
+            "forks": 4,
+            "score": 42
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
             "name": "codex-orange-book",
             "full_name": "alchaincyf/codex-orange-book",
             "description": "OpenAI Codex: The Complete Guide \u00b7 \u6a59\u76ae\u4e66\u7cfb\u5217 \u00b7 GPT-5.5 \u65f6\u4ee3\u7684 AI \u7f16\u7a0b\u5b9e\u6218\u624b\u518c",
@@ -289,23 +300,23 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
+            "name": "distributed-system-testing",
+            "full_name": "shenli/distributed-system-testing",
+            "description": "AI-agent skills for distributed-systems testing",
+            "url": "https://github.com/shenli/distributed-system-testing",
+            "stars": 208,
+            "forks": 11,
+            "score": 39
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
             "name": "1688-customer-opportunity",
             "full_name": "next-1688/1688-customer-opportunity",
             "description": "1688 \u4e70\u5bb6\u8ddf\u8fdb\u4e0e\u5ba2\u7fa4\u8fd0\u8425\u3002\u53ef\u4ee5\u5e2e\u4f60\u505a\uff1a \u2460 \u67e5\u770bAI\u5ba2\u7fa4\u5217\u8868 \u2014 \u5e97\u94fa\u6709\u54ea\u4e9b\u9ad8\u4ef7\u503c\u8001\u5ba2\u5ba2\u7fa4\u3001\u5404\u5ba2\u7fa4\u7279\u5f81\u548c\u4e70\u5bb6\u6570 \u2461 \u5c55\u5f00\u5ba2\u7fa4\u4e70\u5bb6\u660e\u7ec6 \u2014 \u9009\u4e00\u4e2a\u5ba2\u7fa4\uff0c\u770b\u5177\u4f53\u6709\u54ea\u4e9b\u4e70\u5bb6 \u2462 \u5f00\u542f\u5ba2\u7fa4\u8fd0\u8425\u8ba1\u5212 \u2014 \u5bf9\u9009\u5b9a\u5ba2\u7fa4\u81ea\u52a8\u53d1\u9001\u65fa\u65fa\u8425\u9500\u6587\u6848 \u2463 \u67e5\u4e70\u5bb6\u6210\u4ea4\u673a\u4f1a \u2014 \u8f93\u5165\u4e70\u5bb6\u8d26\u53f7\uff0c\u83b7\u53d6\u753b\u50cf\u548c\u8ddf\u8fdb\u5efa\u8bae \u2464 \u5ba2\u6237\u673a\u4f1a\u76d1\u63a7 \u2014 \u667a\u80fd\u627e\u51fa\u8fd1\u671f\u6700\u503c\u5f97\u4e3b\u52a8\u8054\u7cfb\u7684\u4e70\u5bb6",
             "url": "https://github.com/next-1688/1688-customer-opportunity",
             "stars": 247,
             "forks": 5,
-            "score": 38
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "distributed-system-testing",
-            "full_name": "shenli/distributed-system-testing",
-            "description": "AI-agent skills for distributed-systems testing",
-            "url": "https://github.com/shenli/distributed-system-testing",
-            "stars": 206,
-            "forks": 11,
             "score": 38
         },
         {
@@ -350,17 +361,6 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/rustfs/GPUCache",
             "stars": 6,
             "forks": 0,
-            "score": 30
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "cpu-gpu-codesign-agentic-inference",
-            "full_name": "andyluo7/cpu-gpu-codesign-agentic-inference",
-            "description": "CPU-GPU co-design analysis for agentic LLM inference. Blog: andyluo7.github.io",
-            "url": "https://github.com/andyluo7/cpu-gpu-codesign-agentic-inference",
-            "stars": 6,
-            "forks": 1,
             "score": 30
         },
         {
@@ -630,20 +630,6 @@ const ALPHA_DATA_V2 = {
     ],
     "news": [
         {
-            "title": "Shortest Path Problem with Subnormal Gaussian Fuzzy Costs",
-            "source": "ArXiv",
-            "type": "Research Alpha",
-            "color": "text-indigo-600",
-            "url": "http://arxiv.org/abs/2605.27317v1"
-        },
-        {
-            "title": "Risk Averse Alert Prioritization for IDS Using Subnormal Gaussian Fuzzy Models",
-            "source": "ArXiv",
-            "type": "Research Alpha",
-            "color": "text-indigo-600",
-            "url": "http://arxiv.org/abs/2605.27299v1"
-        },
-        {
             "title": "Bitcoin volatility remains high ahead of key FED decision.",
             "source": "Polymarket",
             "type": "Expectation",
@@ -651,5 +637,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-05-27 21:48"
+    "timestamp": "2026-05-27 23:12"
 };
