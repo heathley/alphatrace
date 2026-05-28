@@ -8,7 +8,7 @@ const ALPHA_DATA_V2 = {
             "description": "AI Agent \u5b66\u4e60\u8def\u7ebf\u4e0e\u8d44\u6599\u5e93\u6536\u96c6",
             "url": "https://github.com/datawhalechina/Agent-Learning-Hub",
             "stars": 1850,
-            "forks": 193,
+            "forks": 194,
             "score": 99
         },
         {
@@ -18,8 +18,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "Doorman11991/smallcode",
             "description": "AI coding agent optimized for small LLMs. 87% benchmark with 4B-active model.",
             "url": "https://github.com/Doorman11991/smallcode",
-            "stars": 1506,
-            "forks": 111,
+            "stars": 1509,
+            "forks": 112,
             "score": 99
         },
         {
@@ -29,8 +29,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "OpenBMB/PilotDeck",
             "description": "Task-oriented AI Agent productivity platform",
             "url": "https://github.com/OpenBMB/PilotDeck",
-            "stars": 1430,
-            "forks": 107,
+            "stars": 1446,
+            "forks": 109,
             "score": 99
         },
         {
@@ -40,9 +40,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "study8677/awesome-architecture",
             "description": "\ud83d\uddfa\ufe0f Think like a software architect, not just a coder \u2014 21 architecture maps (incl. AI gateway, RAG, agents, inference serving, vector DB) + a language-agnostic system-design tutorial. Every template links to real open-source prototypes. \u4e2d\u82f1\u6587\u53cc\u8bed\u3002",
             "url": "https://github.com/study8677/awesome-architecture",
-            "stars": 719,
+            "stars": 722,
             "forks": 74,
             "score": 93
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "vibecode-pro-max-kit",
+            "full_name": "withkynam/vibecode-pro-max-kit",
+            "description": "Your AI forgets. This remembers. Spec-driven coding harness for vibecoders, product owners, CEOs and real builders \u2014 self-improving context memory, 12 agents, 32 skills. Kills context rot, ships features, not spaghetti. Claude Code & Codex. Any stack. 30 seconds",
+            "url": "https://github.com/withkynam/vibecode-pro-max-kit",
+            "stars": 268,
+            "forks": 43,
+            "score": 85
         },
         {
             "main_cat": "AI",
@@ -58,22 +69,11 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "vibecode-pro-max-kit",
-            "full_name": "withkynam/vibecode-pro-max-kit",
-            "description": "Your AI forgets. This remembers. Spec-driven coding harness for vibecoders, product owners, CEOs and real builders \u2014 self-improving context memory, 12 agents, 32 skills. Kills context rot, ships features, not spaghetti. Claude Code & Codex. Any stack. 30 seconds",
-            "url": "https://github.com/withkynam/vibecode-pro-max-kit",
-            "stars": 250,
-            "forks": 42,
-            "score": 82
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
             "name": "humanize-text",
             "full_name": "lynote-ai/humanize-text",
             "description": "Free open-source AI text humanizer to convert AI-generated content into undetectable, human-like writing. Bypass Turnitin, GPTZero, and all major AI detectors. No sign-up required. Try our unlimited free online tool",
             "url": "https://github.com/lynote-ai/humanize-text",
-            "stars": 847,
+            "stars": 848,
             "forks": 46,
             "score": 69
         },
@@ -85,19 +85,8 @@ const ALPHA_DATA_V2 = {
             "description": "AI agent workspace for DeepSeek models, with Code and Claw modes built into your application.",
             "url": "https://github.com/XingYu-Zhong/DeepSeek-GUI",
             "stars": 489,
-            "forks": 49,
+            "forks": 50,
             "score": 64
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "lanshu-awesome-ai-video-kit",
-            "full_name": "cclank/lanshu-awesome-ai-video-kit",
-            "description": "\u505a\u4f01\u4e1a AI \u89c6\u9891\u9879\u76ee\u903c\u51fa\u6765\u7684\u5de5\u5177\u5305 \u00b7 411 prompt \u00b7 15 \u6a21\u578b \u00b7 7 Claude Skill \u00b7 14 \u7bc7\u65b9\u6cd5\u8bba",
-            "url": "https://github.com/cclank/lanshu-awesome-ai-video-kit",
-            "stars": 180,
-            "forks": 39,
-            "score": 63
         },
         {
             "main_cat": "AI",
@@ -106,7 +95,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "realrossmanngroup/no_ai_slop_writing_rules",
             "description": "Claude Code reference: write in Louis Rossmann's voice, never like AI slop. Portable CLAUDE.md plus skills.",
             "url": "https://github.com/realrossmanngroup/no_ai_slop_writing_rules",
-            "stars": 249,
+            "stars": 250,
             "forks": 35,
             "score": 62
         },
@@ -117,7 +106,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "bryanyzhu/agentic-ai-system-course",
             "description": "Use agent to learn agent - A skeleton course on how to design, build, and operate production AI agents ",
             "url": "https://github.com/bryanyzhu/agentic-ai-system-course",
-            "stars": 284,
+            "stars": 285,
             "forks": 39,
             "score": 57
         },
@@ -129,7 +118,29 @@ const ALPHA_DATA_V2 = {
             "description": "Open-source backend-as-a-service. Postgres, auth, storage, functions, AI gateway, MCP.",
             "url": "https://github.com/butterbase-ai/butterbase-oss",
             "stars": 388,
-            "forks": 42,
+            "forks": 44,
+            "score": 55
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "AI-Voice-Mod-Pro-Studio-2",
+            "full_name": "deckerpaislee89916/AI-Voice-Mod-Pro-Studio-2",
+            "description": "An open-source, local AI-powered voice changer and audio enhancement utility.",
+            "url": "https://github.com/deckerpaislee89916/AI-Voice-Mod-Pro-Studio-2",
+            "stars": 202,
+            "forks": 0,
+            "score": 55
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "Cursor-AI-Pro-Download-2026",
+            "full_name": "solomondurham854062/Cursor-AI-Pro-Download-2026",
+            "description": "A standalone utility designed to unlock and manage Pro features within the Cursor AI editor environment locally.",
+            "url": "https://github.com/solomondurham854062/Cursor-AI-Pro-Download-2026",
+            "stars": 200,
+            "forks": 0,
             "score": 55
         },
         {
@@ -139,7 +150,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "agentic-in/elephant-agent",
             "description": "Personal-Model First Self Evolving AI Agent \ud83d\udc18",
             "url": "https://github.com/agentic-in/elephant-agent",
-            "stars": 555,
+            "stars": 559,
             "forks": 60,
             "score": 54
         },
@@ -150,7 +161,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "VILA-Lab/FigMirror",
             "description": "An Automated AI Agent Tool for Plotting Your Data in Any Paper's Figure Style.",
             "url": "https://github.com/VILA-Lab/FigMirror",
-            "stars": 351,
+            "stars": 354,
             "forks": 21,
             "score": 54
         },
@@ -161,7 +172,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "MobiusQuant/OpenMobius-skill",
             "description": "ICT/SMC trading-knowledge skill for AI coding agents (Claude Code / Codex / OpenClaw / Hermes)",
             "url": "https://github.com/MobiusQuant/OpenMobius-skill",
-            "stars": 347,
+            "stars": 354,
             "forks": 41,
             "score": 51
         },
@@ -183,9 +194,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "Astraltenprosper/uncensored-ai-image-video-generator",
             "description": "AI tool for generating uncensored images and videos (18+)",
             "url": "https://github.com/Astraltenprosper/uncensored-ai-image-video-generator",
-            "stars": 213,
-            "forks": 12,
-            "score": 48
+            "stars": 220,
+            "forks": 13,
+            "score": 49
         },
         {
             "main_cat": "AI",
@@ -194,7 +205,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "mikaeldengale-cloud/Deepseek-v4-Pro-App",
             "description": "deepseek v4 flash pro chat  api  app windows 11 desktop client github open source ai assistant chatbot coding agent moe model 1.6t parameters free api setup guide reasoning max mode local deployment",
             "url": "https://github.com/mikaeldengale-cloud/Deepseek-v4-Pro-App",
-            "stars": 274,
+            "stars": 277,
             "forks": 0,
             "score": 47
         },
@@ -205,7 +216,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "scheidydude/codeindex",
             "description": "Repo dependency analyzer with **blast-radius impact scoring** for AI-assisted development.",
             "url": "https://github.com/scheidydude/codeindex",
-            "stars": 243,
+            "stars": 244,
             "forks": 33,
             "score": 47
         },
@@ -227,7 +238,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "basionwang-bot/HermesPet",
             "description": "\u8ba9 AI \u4f4f\u5728\u4f60 MacBook \u7684\u5218\u6d77\u91cc \u00b7 \u96f6\u4f9d\u8d56\u5f00\u7bb1\u5373\u7528 \u00b7 \u591a\u5f15\u64ce\u5e76\u884c\u7684\u684c\u9762 AI \u4f34\u4fa3\uff08Swift 6 / SwiftUI / macOS 14+\uff09",
             "url": "https://github.com/basionwang-bot/HermesPet",
-            "stars": 346,
+            "stars": 347,
             "forks": 43,
             "score": 46
         },
@@ -238,7 +249,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "veryyoldman/Genspark-AI",
             "description": "Genspark AI open-source, self-hosted Super Agent. Free alternative to Genspark.ai with multi-agent orchestration, deep research, Sparkpages, AI slides & sheets, image generation and 80+ tools. One-command Windows install. Run locally with any LLM (OpenAI, Anthropic, Gemini, Ollama)",
             "url": "https://github.com/veryyoldman/Genspark-AI",
-            "stars": 214,
+            "stars": 218,
             "forks": 1,
             "score": 45
         },
@@ -293,7 +304,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "next-1688/1688-cowboy",
             "description": "\u63a5\u5f85\u52a9\u624b Skill\u3002\u5546\u5bb6\u5728\u725b\u987f\u7aef\u7684\u5bf9\u8bdd\u5165\u53e3\uff0c\u8d1f\u8d23\u62db\u8058\u63a5\u5f85\u52a9\u624b\u3001\u67e5\u770b\u5de5\u4f5c\u65e5\u62a5\u3001\u89e3\u8bfb\u63a5\u5f85\u6570\u636e\u3001\u57f9\u8bad\u77e5\u8bc6\u5e93\uff1b\u8c03\u6574\u63a5\u5f85\u8303\u56f4 / \u6682\u505c\u63a5\u5f85\u7edf\u4e00\u8df3\u8f6c\u5230\u7ba1\u7406\u9875\u9762\u3002 \u63a5\u5f85\u52a9\u624b\u662f\u5e73\u53f0\u9884\u8bbe\u7684 AI \u4e1a\u52a1\u5458\uff0c\u540d\u5b57\u56fa\u5b9a\u4e3a\u300c\u63a5\u5f85\u52a9\u624b\u300d\uff0c\u4e0d\u53ef\u4fee\u6539\u3002 \u89e6\u53d1\u8bcd\uff1a\u63a5\u5f85\u52a9\u624b\u3001\u4e1a\u52a1\u5458\u3001\u62db\u8058\u3001\u62db\u63a5\u5f85\u52a9\u624b\u3001\u770b\u65e5\u62a5\u3001\u63a5\u5f85\u3001\u8f6c\u4eba\u5de5\u3001\u57f9\u8bad\u3001\u77e5\u8bc6\u5e93\u3001\u5f85\u5b8c\u5584\u3001\u8c03\u63a5\u5f85\u8303\u56f4\u3001\u6539\u4e70\u5bb6\u7b49\u7ea7\u3001\u6539 L \u7b49\u7ea7\u3001\u6682\u505c\u63a5\u5f85\u3001\u6062\u590d\u63a5\u5f85\u3001\u7ba1\u7406\u63a5\u5f85\u52a9\u624b\u3001\u914d\u89e6\u8fbe\u3002",
             "url": "https://github.com/next-1688/1688-cowboy",
-            "stars": 181,
+            "stars": 185,
             "forks": 0,
             "score": 39
         },
@@ -304,20 +315,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "JSingletonAI/dejavu",
             "description": "Memory that follows you across every AI tool. No cloud storage. No account required. Set it up once, use it everywhere.",
             "url": "https://github.com/JSingletonAI/dejavu",
-            "stars": 184,
+            "stars": 186,
             "forks": 3,
             "score": 38
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "ai-fomo-skills",
-            "full_name": "vincelele/ai-fomo-skills",
-            "description": "Personal superalignment skills for turning AI information overload into reusable knowledge, signals, and digests.",
-            "url": "https://github.com/vincelele/ai-fomo-skills",
-            "stars": 183,
-            "forks": 0,
-            "score": 37
         },
         {
             "main_cat": "AI",
@@ -652,6 +652,20 @@ const ALPHA_DATA_V2 = {
     ],
     "news": [
         {
+            "title": "SwarmHarness: Skill-Based Task Routing via Decentralized Incentive-Aligned AI Agent Networks",
+            "source": "ArXiv",
+            "type": "Research Alpha",
+            "color": "text-indigo-600",
+            "url": "http://arxiv.org/abs/2605.28764v1"
+        },
+        {
+            "title": "Code as a Weapon: A Consensus-Labeled Prompt Bank for Measuring Coding-Model Compliance with Malicious-Code Requests",
+            "source": "ArXiv",
+            "type": "Research Alpha",
+            "color": "text-indigo-600",
+            "url": "http://arxiv.org/abs/2605.28734v1"
+        },
+        {
             "title": "Bitcoin volatility remains high ahead of key FED decision.",
             "source": "Polymarket",
             "type": "Expectation",
@@ -659,5 +673,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-05-28 18:00"
+    "timestamp": "2026-05-28 20:31"
 };
