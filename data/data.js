@@ -18,7 +18,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Doorman11991/smallcode",
             "description": "AI coding agent optimized for small LLMs. 87% benchmark with 4B-active model.",
             "url": "https://github.com/Doorman11991/smallcode",
-            "stars": 1509,
+            "stars": 1511,
             "forks": 112,
             "score": 99
         },
@@ -29,8 +29,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "OpenBMB/PilotDeck",
             "description": "Task-oriented AI Agent productivity platform",
             "url": "https://github.com/OpenBMB/PilotDeck",
-            "stars": 1446,
-            "forks": 109,
+            "stars": 1454,
+            "forks": 112,
             "score": 99
         },
         {
@@ -51,7 +51,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "withkynam/vibecode-pro-max-kit",
             "description": "Your AI forgets. This remembers. Spec-driven coding harness for vibecoders, product owners, CEOs and real builders \u2014 self-improving context memory, 12 agents, 32 skills. Kills context rot, ships features, not spaghetti. Claude Code & Codex. Any stack. 30 seconds",
             "url": "https://github.com/withkynam/vibecode-pro-max-kit",
-            "stars": 268,
+            "stars": 274,
             "forks": 43,
             "score": 85
         },
@@ -95,7 +95,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "realrossmanngroup/no_ai_slop_writing_rules",
             "description": "Claude Code reference: write in Louis Rossmann's voice, never like AI slop. Portable CLAUDE.md plus skills.",
             "url": "https://github.com/realrossmanngroup/no_ai_slop_writing_rules",
-            "stars": 250,
+            "stars": 251,
             "forks": 35,
             "score": 62
         },
@@ -106,7 +106,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "bryanyzhu/agentic-ai-system-course",
             "description": "Use agent to learn agent - A skeleton course on how to design, build, and operate production AI agents ",
             "url": "https://github.com/bryanyzhu/agentic-ai-system-course",
-            "stars": 285,
+            "stars": 286,
             "forks": 39,
             "score": 57
         },
@@ -118,8 +118,8 @@ const ALPHA_DATA_V2 = {
             "description": "Open-source backend-as-a-service. Postgres, auth, storage, functions, AI gateway, MCP.",
             "url": "https://github.com/butterbase-ai/butterbase-oss",
             "stars": 388,
-            "forks": 44,
-            "score": 55
+            "forks": 47,
+            "score": 56
         },
         {
             "main_cat": "AI",
@@ -161,7 +161,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "VILA-Lab/FigMirror",
             "description": "An Automated AI Agent Tool for Plotting Your Data in Any Paper's Figure Style.",
             "url": "https://github.com/VILA-Lab/FigMirror",
-            "stars": 354,
+            "stars": 355,
             "forks": 21,
             "score": 54
         },
@@ -183,7 +183,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "leiting-eric/DailyBrief",
             "description": "AI \u6bcf\u65e5\u65b0\u95fb\u7b80\u62a5 \u00b7 GitHub \u70ed\u95e8 + X \u70ed\u95e8\u6587\u7ae0 + \u884c\u60c5\u6280\u672f\u5206\u6790 \u00b7 23 \u4e2a\u6570\u636e\u6e90\u805a\u5408 + LLM \u4e2d\u6587\u6458\u8981 \u00b7 \u672c\u5730\u6216 GitHub Actions \u90e8\u7f72",
             "url": "https://github.com/leiting-eric/DailyBrief",
-            "stars": 199,
+            "stars": 200,
             "forks": 88,
             "score": 51
         },
@@ -194,9 +194,31 @@ const ALPHA_DATA_V2 = {
             "full_name": "Astraltenprosper/uncensored-ai-image-video-generator",
             "description": "AI tool for generating uncensored images and videos (18+)",
             "url": "https://github.com/Astraltenprosper/uncensored-ai-image-video-generator",
-            "stars": 220,
+            "stars": 222,
             "forks": 13,
             "score": 49
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "Claude-Mythos-AI-Anthropic-App",
+            "full_name": "zhristophe/Claude-Mythos-AI-Anthropic-App",
+            "description": "claude mythos ai anthropic app github open source desktop mobile client abhishekk130804 anthropic api key creative writing roleplay character cards deep reasoning chain of thought system prompts jailbreak windows macos linux android apk next js electron tauri python rust download setup guide tutorial latest version 2026 free update",
+            "url": "https://github.com/zhristophe/Claude-Mythos-AI-Anthropic-App",
+            "stars": 188,
+            "forks": 0,
+            "score": 48
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "LSFG-Desktop",
+            "full_name": "Bhojendra-dev/LSFG-Desktop",
+            "description": "lossless scaling steam desck download github reddit android lsfg 3 frame generation best settings upscaling ai ls1 fsr nis integer scaling windows 11 steam deck decky loader lsfg-vk setup",
+            "url": "https://github.com/Bhojendra-dev/LSFG-Desktop",
+            "stars": 188,
+            "forks": 0,
+            "score": 48
         },
         {
             "main_cat": "AI",
@@ -216,7 +238,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "scheidydude/codeindex",
             "description": "Repo dependency analyzer with **blast-radius impact scoring** for AI-assisted development.",
             "url": "https://github.com/scheidydude/codeindex",
-            "stars": 244,
+            "stars": 246,
             "forks": 33,
             "score": 47
         },
@@ -249,7 +271,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "veryyoldman/Genspark-AI",
             "description": "Genspark AI open-source, self-hosted Super Agent. Free alternative to Genspark.ai with multi-agent orchestration, deep research, Sparkpages, AI slides & sheets, image generation and 80+ tools. One-command Windows install. Run locally with any LLM (OpenAI, Anthropic, Gemini, Ollama)",
             "url": "https://github.com/veryyoldman/Genspark-AI",
-            "stars": 218,
+            "stars": 219,
             "forks": 1,
             "score": 45
         },
@@ -262,18 +284,7 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/ajsai47/backdoor",
             "stars": 263,
             "forks": 29,
-            "score": 44
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "DEEIX-Chat",
-            "full_name": "DEEIX-AI/DEEIX-Chat",
-            "description": "An enterprise AI workspace for model routing, multimodal chat, files, tools, billing, identity, and operations.",
-            "url": "https://github.com/DEEIX-AI/DEEIX-Chat",
-            "stars": 187,
-            "forks": 25,
-            "score": 44
+            "score": 43
         },
         {
             "main_cat": "AI",
@@ -295,18 +306,7 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/shenli/distributed-system-testing",
             "stars": 209,
             "forks": 11,
-            "score": 39
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "1688-cowboy",
-            "full_name": "next-1688/1688-cowboy",
-            "description": "\u63a5\u5f85\u52a9\u624b Skill\u3002\u5546\u5bb6\u5728\u725b\u987f\u7aef\u7684\u5bf9\u8bdd\u5165\u53e3\uff0c\u8d1f\u8d23\u62db\u8058\u63a5\u5f85\u52a9\u624b\u3001\u67e5\u770b\u5de5\u4f5c\u65e5\u62a5\u3001\u89e3\u8bfb\u63a5\u5f85\u6570\u636e\u3001\u57f9\u8bad\u77e5\u8bc6\u5e93\uff1b\u8c03\u6574\u63a5\u5f85\u8303\u56f4 / \u6682\u505c\u63a5\u5f85\u7edf\u4e00\u8df3\u8f6c\u5230\u7ba1\u7406\u9875\u9762\u3002 \u63a5\u5f85\u52a9\u624b\u662f\u5e73\u53f0\u9884\u8bbe\u7684 AI \u4e1a\u52a1\u5458\uff0c\u540d\u5b57\u56fa\u5b9a\u4e3a\u300c\u63a5\u5f85\u52a9\u624b\u300d\uff0c\u4e0d\u53ef\u4fee\u6539\u3002 \u89e6\u53d1\u8bcd\uff1a\u63a5\u5f85\u52a9\u624b\u3001\u4e1a\u52a1\u5458\u3001\u62db\u8058\u3001\u62db\u63a5\u5f85\u52a9\u624b\u3001\u770b\u65e5\u62a5\u3001\u63a5\u5f85\u3001\u8f6c\u4eba\u5de5\u3001\u57f9\u8bad\u3001\u77e5\u8bc6\u5e93\u3001\u5f85\u5b8c\u5584\u3001\u8c03\u63a5\u5f85\u8303\u56f4\u3001\u6539\u4e70\u5bb6\u7b49\u7ea7\u3001\u6539 L \u7b49\u7ea7\u3001\u6682\u505c\u63a5\u5f85\u3001\u6062\u590d\u63a5\u5f85\u3001\u7ba1\u7406\u63a5\u5f85\u52a9\u624b\u3001\u914d\u89e6\u8fbe\u3002",
-            "url": "https://github.com/next-1688/1688-cowboy",
-            "stars": 185,
-            "forks": 0,
-            "score": 39
+            "score": 38
         },
         {
             "main_cat": "AI",
@@ -315,7 +315,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "JSingletonAI/dejavu",
             "description": "Memory that follows you across every AI tool. No cloud storage. No account required. Set it up once, use it everywhere.",
             "url": "https://github.com/JSingletonAI/dejavu",
-            "stars": 186,
+            "stars": 188,
             "forks": 3,
             "score": 38
         },
@@ -328,7 +328,7 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/0xPira/SSKills",
             "stars": 22,
             "forks": 5,
-            "score": 37
+            "score": 35
         },
         {
             "main_cat": "AI",
@@ -652,20 +652,6 @@ const ALPHA_DATA_V2 = {
     ],
     "news": [
         {
-            "title": "SwarmHarness: Skill-Based Task Routing via Decentralized Incentive-Aligned AI Agent Networks",
-            "source": "ArXiv",
-            "type": "Research Alpha",
-            "color": "text-indigo-600",
-            "url": "http://arxiv.org/abs/2605.28764v1"
-        },
-        {
-            "title": "Code as a Weapon: A Consensus-Labeled Prompt Bank for Measuring Coding-Model Compliance with Malicious-Code Requests",
-            "source": "ArXiv",
-            "type": "Research Alpha",
-            "color": "text-indigo-600",
-            "url": "http://arxiv.org/abs/2605.28734v1"
-        },
-        {
             "title": "Bitcoin volatility remains high ahead of key FED decision.",
             "source": "Polymarket",
             "type": "Expectation",
@@ -673,5 +659,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-05-28 20:31"
+    "timestamp": "2026-05-28 22:29"
 };
