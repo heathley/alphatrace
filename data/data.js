@@ -18,8 +18,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "Doorman11991/smallcode",
             "description": "AI coding agent optimized for small LLMs. 87% benchmark with 4B-active model.",
             "url": "https://github.com/Doorman11991/smallcode",
-            "stars": 1511,
-            "forks": 112,
+            "stars": 1514,
+            "forks": 113,
             "score": 99
         },
         {
@@ -29,8 +29,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "OpenBMB/PilotDeck",
             "description": "Task-oriented AI Agent productivity platform",
             "url": "https://github.com/OpenBMB/PilotDeck",
-            "stars": 1454,
-            "forks": 112,
+            "stars": 1469,
+            "forks": 114,
             "score": 99
         },
         {
@@ -51,9 +51,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "withkynam/vibecode-pro-max-kit",
             "description": "Your AI forgets. This remembers. Spec-driven coding harness for vibecoders, product owners, CEOs and real builders \u2014 self-improving context memory, 12 agents, 32 skills. Kills context rot, ships features, not spaghetti. Claude Code & Codex. Any stack. 30 seconds",
             "url": "https://github.com/withkynam/vibecode-pro-max-kit",
-            "stars": 274,
+            "stars": 278,
             "forks": 43,
-            "score": 85
+            "score": 86
         },
         {
             "main_cat": "AI",
@@ -64,7 +64,7 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/basketikun/infinite-canvas",
             "stars": 705,
             "forks": 149,
-            "score": 84
+            "score": 80
         },
         {
             "main_cat": "AI",
@@ -95,7 +95,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "realrossmanngroup/no_ai_slop_writing_rules",
             "description": "Claude Code reference: write in Louis Rossmann's voice, never like AI slop. Portable CLAUDE.md plus skills.",
             "url": "https://github.com/realrossmanngroup/no_ai_slop_writing_rules",
-            "stars": 251,
+            "stars": 253,
             "forks": 35,
             "score": 62
         },
@@ -106,20 +106,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "bryanyzhu/agentic-ai-system-course",
             "description": "Use agent to learn agent - A skeleton course on how to design, build, and operate production AI agents ",
             "url": "https://github.com/bryanyzhu/agentic-ai-system-course",
-            "stars": 286,
+            "stars": 287,
             "forks": 39,
             "score": 57
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "butterbase-oss",
-            "full_name": "butterbase-ai/butterbase-oss",
-            "description": "Open-source backend-as-a-service. Postgres, auth, storage, functions, AI gateway, MCP.",
-            "url": "https://github.com/butterbase-ai/butterbase-oss",
-            "stars": 388,
-            "forks": 47,
-            "score": 56
         },
         {
             "main_cat": "AI",
@@ -145,13 +134,13 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "elephant-agent",
-            "full_name": "agentic-in/elephant-agent",
-            "description": "Personal-Model First Self Evolving AI Agent \ud83d\udc18",
-            "url": "https://github.com/agentic-in/elephant-agent",
-            "stars": 559,
-            "forks": 60,
+            "sub_cat": null,
+            "name": "butterbase-oss",
+            "full_name": "butterbase-ai/butterbase-oss",
+            "description": "Open-source backend-as-a-service. Postgres, auth, storage, functions, AI gateway, MCP.",
+            "url": "https://github.com/butterbase-ai/butterbase-oss",
+            "stars": 389,
+            "forks": 49,
             "score": 54
         },
         {
@@ -183,20 +172,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "leiting-eric/DailyBrief",
             "description": "AI \u6bcf\u65e5\u65b0\u95fb\u7b80\u62a5 \u00b7 GitHub \u70ed\u95e8 + X \u70ed\u95e8\u6587\u7ae0 + \u884c\u60c5\u6280\u672f\u5206\u6790 \u00b7 23 \u4e2a\u6570\u636e\u6e90\u805a\u5408 + LLM \u4e2d\u6587\u6458\u8981 \u00b7 \u672c\u5730\u6216 GitHub Actions \u90e8\u7f72",
             "url": "https://github.com/leiting-eric/DailyBrief",
-            "stars": 200,
+            "stars": 201,
             "forks": 88,
             "score": 51
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "uncensored-ai-image-video-generator",
-            "full_name": "Astraltenprosper/uncensored-ai-image-video-generator",
-            "description": "AI tool for generating uncensored images and videos (18+)",
-            "url": "https://github.com/Astraltenprosper/uncensored-ai-image-video-generator",
-            "stars": 222,
-            "forks": 13,
-            "score": 49
         },
         {
             "main_cat": "AI",
@@ -245,35 +223,24 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "loom",
-            "full_name": "husu/loom",
-            "description": "\u4e00\u4e2a\u5199\u63a5\u53e3\u6587\u6863\u7684AI Agent\u3002\u652f\u6301\u4f7f\u7528Vibe coding \u7684\u65b9\u5f0f\uff0c\u7f16\u5199\u63a5\u53e3\u6587\u6863\uff0c\u540c\u65f6\u81ea\u5e26\u53cb\u597d\u7684\u6587\u6863\u67e5\u770b\u5de5\u5177\u4e0e\u63a5\u53e3Mock\u5de5\u5177",
-            "url": "https://github.com/husu/loom",
-            "stars": 446,
-            "forks": 21,
-            "score": 46
+            "name": "uncensored-ai-image-video-generator",
+            "full_name": "Astraltenprosper/uncensored-ai-image-video-generator",
+            "description": "AI tool for generating uncensored images and videos (18+)",
+            "url": "https://github.com/Astraltenprosper/uncensored-ai-image-video-generator",
+            "stars": 222,
+            "forks": 13,
+            "score": 47
         },
         {
             "main_cat": "AI",
-            "sub_cat": null,
-            "name": "HermesPet",
-            "full_name": "basionwang-bot/HermesPet",
-            "description": "\u8ba9 AI \u4f4f\u5728\u4f60 MacBook \u7684\u5218\u6d77\u91cc \u00b7 \u96f6\u4f9d\u8d56\u5f00\u7bb1\u5373\u7528 \u00b7 \u591a\u5f15\u64ce\u5e76\u884c\u7684\u684c\u9762 AI \u4f34\u4fa3\uff08Swift 6 / SwiftUI / macOS 14+\uff09",
-            "url": "https://github.com/basionwang-bot/HermesPet",
-            "stars": 347,
-            "forks": 43,
-            "score": 46
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "Genspark-AI",
-            "full_name": "veryyoldman/Genspark-AI",
-            "description": "Genspark AI open-source, self-hosted Super Agent. Free alternative to Genspark.ai with multi-agent orchestration, deep research, Sparkpages, AI slides & sheets, image generation and 80+ tools. One-command Windows install. Run locally with any LLM (OpenAI, Anthropic, Gemini, Ollama)",
-            "url": "https://github.com/veryyoldman/Genspark-AI",
-            "stars": 219,
-            "forks": 1,
-            "score": 45
+            "sub_cat": "AI General",
+            "name": "DEEIX-Chat",
+            "full_name": "DEEIX-AI/DEEIX-Chat",
+            "description": "An enterprise AI workspace for model routing, multimodal chat, files, tools, billing, identity, and operations.",
+            "url": "https://github.com/DEEIX-AI/DEEIX-Chat",
+            "stars": 187,
+            "forks": 25,
+            "score": 44
         },
         {
             "main_cat": "AI",
@@ -289,13 +256,35 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
+            "name": "Genspark-AI",
+            "full_name": "veryyoldman/Genspark-AI",
+            "description": "Genspark AI open-source, self-hosted Super Agent. Free alternative to Genspark.ai with multi-agent orchestration, deep research, Sparkpages, AI slides & sheets, image generation and 80+ tools. One-command Windows install. Run locally with any LLM (OpenAI, Anthropic, Gemini, Ollama)",
+            "url": "https://github.com/veryyoldman/Genspark-AI",
+            "stars": 219,
+            "forks": 1,
+            "score": 43
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
             "name": "exodusbot",
             "full_name": "edgenuitybot/exodusbot",
             "description": "Exodus | The # 1 Edgenuity Bot for Quizes, Tests, and Exams. Includes Auto Answers, Auto delays, built in AI Answers, Auto Submit, EdgeEX support and MORE! | About: Exodus is an online course tool designed for online middle and high school classes (K-8 curriculum). Join the Discord: https://discord.gg/exodusbot",
             "url": "https://github.com/edgenuitybot/exodusbot",
-            "stars": 268,
+            "stars": 269,
             "forks": 0,
             "score": 41
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "1688-cowboy",
+            "full_name": "next-1688/1688-cowboy",
+            "description": "\u63a5\u5f85\u52a9\u624b Skill\u3002\u5546\u5bb6\u5728\u725b\u987f\u7aef\u7684\u5bf9\u8bdd\u5165\u53e3\uff0c\u8d1f\u8d23\u62db\u8058\u63a5\u5f85\u52a9\u624b\u3001\u67e5\u770b\u5de5\u4f5c\u65e5\u62a5\u3001\u89e3\u8bfb\u63a5\u5f85\u6570\u636e\u3001\u57f9\u8bad\u77e5\u8bc6\u5e93\uff1b\u8c03\u6574\u63a5\u5f85\u8303\u56f4 / \u6682\u505c\u63a5\u5f85\u7edf\u4e00\u8df3\u8f6c\u5230\u7ba1\u7406\u9875\u9762\u3002 \u63a5\u5f85\u52a9\u624b\u662f\u5e73\u53f0\u9884\u8bbe\u7684 AI \u4e1a\u52a1\u5458\uff0c\u540d\u5b57\u56fa\u5b9a\u4e3a\u300c\u63a5\u5f85\u52a9\u624b\u300d\uff0c\u4e0d\u53ef\u4fee\u6539\u3002 \u89e6\u53d1\u8bcd\uff1a\u63a5\u5f85\u52a9\u624b\u3001\u4e1a\u52a1\u5458\u3001\u62db\u8058\u3001\u62db\u63a5\u5f85\u52a9\u624b\u3001\u770b\u65e5\u62a5\u3001\u63a5\u5f85\u3001\u8f6c\u4eba\u5de5\u3001\u57f9\u8bad\u3001\u77e5\u8bc6\u5e93\u3001\u5f85\u5b8c\u5584\u3001\u8c03\u63a5\u5f85\u8303\u56f4\u3001\u6539\u4e70\u5bb6\u7b49\u7ea7\u3001\u6539 L \u7b49\u7ea7\u3001\u6682\u505c\u63a5\u5f85\u3001\u6062\u590d\u63a5\u5f85\u3001\u7ba1\u7406\u63a5\u5f85\u52a9\u624b\u3001\u914d\u89e6\u8fbe\u3002",
+            "url": "https://github.com/next-1688/1688-cowboy",
+            "stars": 191,
+            "forks": 0,
+            "score": 39
         },
         {
             "main_cat": "AI",
@@ -317,7 +306,18 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/JSingletonAI/dejavu",
             "stars": 188,
             "forks": 3,
-            "score": 38
+            "score": 37
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "ai-fomo-skills",
+            "full_name": "vincelele/ai-fomo-skills",
+            "description": "Personal superalignment skills for turning AI information overload into reusable knowledge, signals, and digests.",
+            "url": "https://github.com/vincelele/ai-fomo-skills",
+            "stars": 184,
+            "forks": 0,
+            "score": 37
         },
         {
             "main_cat": "AI",
@@ -361,6 +361,28 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/rustfs/GPUCache",
             "stars": 6,
             "forks": 0,
+            "score": 30
+        },
+        {
+            "main_cat": "DePIN",
+            "sub_cat": null,
+            "name": "novagpu-ts1t",
+            "full_name": "nova-studios-hw/novagpu-ts1t",
+            "description": "N.E.O.N. Architecture \u2014 Open source GPU RTL in Verilog. Token dataflow, hardware ray tracing, frame generation. First silicon target: 28nm.",
+            "url": "https://github.com/nova-studios-hw/novagpu-ts1t",
+            "stars": 6,
+            "forks": 0,
+            "score": 30
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "vramsuite",
+            "full_name": "k1n0F/vramsuite",
+            "description": "   Predictive GPU memory framework for AI inference workflows",
+            "url": "https://github.com/k1n0F/vramsuite",
+            "stars": 4,
+            "forks": 1,
             "score": 30
         },
         {
@@ -487,17 +509,6 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
-            "name": "forum",
-            "full_name": "neromtoobad/forum",
-            "description": "FORUM \u2014 Arc-native prediction market with an AI bookmaker. Claude prices binary events, users bet USDC, contracts settle on Arc in sub-second.",
-            "url": "https://github.com/neromtoobad/forum",
-            "stars": 0,
-            "forks": 0,
-            "score": 30
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
             "name": "The-Stablecoins-Commerce-Stack",
             "full_name": "riz82/The-Stablecoins-Commerce-Stack",
             "description": "Stablecoin-powered commerce stack enabling fast, secure, scalable blockchain payments.",
@@ -608,6 +619,17 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
+            "name": "OmnisRouter",
+            "full_name": "Devendurance/OmnisRouter",
+            "description": "OmnisRouter is an AI stablecoin payment agent that lets users send USDC across chains without manually dealing with bridges, gas tokens, routing, or network confusion.",
+            "url": "https://github.com/Devendurance/OmnisRouter",
+            "stars": 0,
+            "forks": 0,
+            "score": 30
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
             "name": "ai-knowledge-base-template",
             "full_name": "RandyRawgust/ai-knowledge-base-template",
             "description": "Markdown-based AI operating system you can clone and run. Obsidian vault + Claude Code with 5 dept-head agents (Orchestrator / Builder / Writer / Archivist / Auditor), 11 specialists, 19 slash commands, drift-watcher, cross-model judge protocol.",
@@ -623,17 +645,6 @@ const ALPHA_DATA_V2 = {
             "full_name": "sp0oby/mirv",
             "description": "mirv: autonomous cross-chain liquidity mirror protocol on Uniswap V4 (Ethereum + Base MVP)",
             "url": "https://github.com/sp0oby/mirv",
-            "stars": 0,
-            "forks": 0,
-            "score": 30
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI Agents",
-            "name": "stoa-protocol",
-            "full_name": "Kingnanaweb3/stoa-protocol",
-            "description": "Stoa Protocol \u2014 The settlement layer for cross-chain AI agents.  Stoa enables AI agents operating on different blockchains to discover  each other, contract work, lock payment in escrow, verify outcomes,  and settle instantly in USDC \u2014 without bridges, wrappers, or human  intermediaries. ",
-            "url": "https://github.com/Kingnanaweb3/stoa-protocol",
             "stars": 0,
             "forks": 0,
             "score": 30
@@ -659,5 +670,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-05-28 22:29"
+    "timestamp": "2026-05-29 00:06"
 };
