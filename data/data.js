@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "OpenBMB/PilotDeck",
             "description": "Task-oriented AI Agent productivity platform",
             "url": "https://github.com/OpenBMB/PilotDeck",
-            "stars": 2111,
-            "forks": 187,
+            "stars": 2129,
+            "forks": 188,
             "score": 99
         },
         {
@@ -18,7 +18,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "datawhalechina/Agent-Learning-Hub",
             "description": "AI Agent \u5b66\u4e60\u8def\u7ebf\u4e0e\u8d44\u6599\u5e93\u6536\u96c6",
             "url": "https://github.com/datawhalechina/Agent-Learning-Hub",
-            "stars": 1968,
+            "stars": 1978,
             "forks": 205,
             "score": 99
         },
@@ -40,7 +40,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "withkynam/vibecode-pro-max-kit",
             "description": "Your AI forgets. This remembers. Spec-driven coding harness for vibecoders, product owners, CEOs and real builders \u2014 self-improving context memory, 12 agents, 32 skills. Kills context rot, ships features, not spaghetti. Claude Code & Codex. Any stack. 30 seconds",
             "url": "https://github.com/withkynam/vibecode-pro-max-kit",
-            "stars": 546,
+            "stars": 554,
             "forks": 137,
             "score": 99
         },
@@ -51,7 +51,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "PolyMomentum-Labs/.github",
             "description": "Official docs for PolyMomentum \u2014 Polymarket CLOB V2 integration, trading strategies, bot architecture, and OpenClaw/MCP AI workflows.",
             "url": "https://github.com/PolyMomentum-Labs/.github",
-            "stars": 206,
+            "stars": 212,
             "forks": 1749,
             "score": 99
         },
@@ -62,9 +62,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "study8677/awesome-architecture",
             "description": "\ud83d\uddfa\ufe0f Think like a software architect, not just a coder \u2014 21 architecture maps (incl. AI gateway, RAG, agents, inference serving, vector DB) + a language-agnostic system-design tutorial. Every template links to real open-source prototypes. \u4e2d\u82f1\u6587\u53cc\u8bed\u3002",
             "url": "https://github.com/study8677/awesome-architecture",
-            "stars": 867,
-            "forks": 87,
-            "score": 90
+            "stars": 878,
+            "forks": 89,
+            "score": 91
         },
         {
             "main_cat": "AI",
@@ -73,7 +73,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "basketikun/infinite-canvas",
             "description": "\u9762\u5411AI\u521b\u4f5c\u7684\u5f00\u6e90\u65e0\u9650\u753b\u5e03\u5de5\u4f5c\u53f0\uff0c\u96c6\u6210 AI \u751f\u56fe\u3001\u53c2\u8003\u56fe\u7f16\u8f91\u3001\u89c6\u9891\u751f\u6210\u3001\u753b\u5e03\u7f16\u6392\u3001\u5bf9\u8bdd\u52a9\u624b\u3001\u63d0\u793a\u8bcd\u5e93\u548c\u7d20\u6750\u7ba1\u7406\u7b49\u529f\u80fd\u3001\u517c\u5bb9OpenAI\u63a5\u53e3\uff0c\u652f\u6301chatgpt2api\u3001grok2api\u3001flow2api\u3001newapi\u7b49\u63a5\u5165\u3002",
             "url": "https://github.com/basketikun/infinite-canvas",
-            "stars": 750,
+            "stars": 754,
             "forks": 158,
             "score": 79
         },
@@ -84,9 +84,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "XingYu-Zhong/DeepSeek-GUI",
             "description": "AI agent workspace for DeepSeek models, with Code and Claw modes built into your application.",
             "url": "https://github.com/XingYu-Zhong/DeepSeek-GUI",
-            "stars": 635,
+            "stars": 651,
             "forks": 70,
-            "score": 71
+            "score": 72
         },
         {
             "main_cat": "AI",
@@ -95,9 +95,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "GordenSun/GordenPPTSkill",
             "description": "AI-friendly PPT builder skill: 17 hand-polished Chinese PPTX templates + non-destructive text-only editing tools (python-pptx based). Pick a template, write edits.json, build a real .pptx with the layout intact. Personal/research use only.",
             "url": "https://github.com/GordenSun/GordenPPTSkill",
-            "stars": 324,
+            "stars": 330,
             "forks": 44,
-            "score": 71
+            "score": 72
         },
         {
             "main_cat": "AI",
@@ -106,9 +106,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "lynote-ai/humanize-text",
             "description": "Free open-source AI text humanizer to convert AI-generated content into undetectable, human-like writing. Bypass Turnitin, GPTZero, and all major AI detectors. No sign-up required. Try our unlimited free online tool",
             "url": "https://github.com/lynote-ai/humanize-text",
-            "stars": 940,
+            "stars": 945,
             "forks": 49,
-            "score": 67
+            "score": 68
         },
         {
             "main_cat": "AI",
@@ -117,9 +117,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "butterbase-ai/butterbase-oss",
             "description": "Open-source backend-as-a-service. Postgres, auth, storage, functions, AI gateway, MCP.",
             "url": "https://github.com/butterbase-ai/butterbase-oss",
-            "stars": 581,
-            "forks": 74,
-            "score": 63
+            "stars": 591,
+            "forks": 76,
+            "score": 64
         },
         {
             "main_cat": "AI",
@@ -128,9 +128,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "anthropic-claude-code-ai/free-claude-code-ai-desktop-app",
             "description": "claude code ai free desktop app  api cli open source opencode aider gemini alternative download github local llm ollama setup guide tutorial api  2026",
             "url": "https://github.com/anthropic-claude-code-ai/free-claude-code-ai-desktop-app",
-            "stars": 257,
+            "stars": 264,
             "forks": 0,
-            "score": 62
+            "score": 63
         },
         {
             "main_cat": "AI",
@@ -139,7 +139,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "cclank/lanshu-awesome-ai-video-kit",
             "description": "\u505a\u4f01\u4e1a AI \u89c6\u9891\u9879\u76ee\u903c\u51fa\u6765\u7684\u5de5\u5177\u5305 \u00b7 411 prompt \u00b7 15 \u6a21\u578b \u00b7 7 Claude Skill \u00b7 14 \u7bc7\u65b9\u6cd5\u8bba",
             "url": "https://github.com/cclank/lanshu-awesome-ai-video-kit",
-            "stars": 220,
+            "stars": 221,
             "forks": 55,
             "score": 61
         },
@@ -150,9 +150,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "zhristophe/Claude-Mythos-AI-Anthropic-App",
             "description": "claude mythos ai anthropic app github open source desktop mobile client abhishekk130804 anthropic api key creative writing roleplay character cards deep reasoning chain of thought system prompts jailbreak windows macos linux android apk next js electron tauri python rust download setup guide tutorial latest version 2026 free update",
             "url": "https://github.com/zhristophe/Claude-Mythos-AI-Anthropic-App",
-            "stars": 311,
+            "stars": 320,
             "forks": 0,
-            "score": 55
+            "score": 56
         },
         {
             "main_cat": "AI",
@@ -172,7 +172,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "VILA-Lab/FigMirror",
             "description": "An Automated AI Agent Tool for Plotting Your Data in Any Paper's Figure Style.",
             "url": "https://github.com/VILA-Lab/FigMirror",
-            "stars": 376,
+            "stars": 377,
             "forks": 24,
             "score": 53
         },
@@ -183,7 +183,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "bryanyzhu/agentic-ai-system-course",
             "description": "Use agent to learn agent - A skeleton course on how to design, build, and operate production AI agents ",
             "url": "https://github.com/bryanyzhu/agentic-ai-system-course",
-            "stars": 298,
+            "stars": 299,
             "forks": 43,
             "score": 53
         },
@@ -194,7 +194,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "mikaeldengale-cloud/Deepseek-v4-Pro-App",
             "description": "deepseek v4 flash pro chat  api  app windows 11 desktop client github open source ai assistant chatbot coding agent moe model 1.6t parameters free api setup guide reasoning max mode local deployment",
             "url": "https://github.com/mikaeldengale-cloud/Deepseek-v4-Pro-App",
-            "stars": 366,
+            "stars": 374,
             "forks": 0,
             "score": 50
         },
@@ -216,7 +216,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Astraltenprosper/uncensored-ai-image-video-generator",
             "description": "AI tool for generating uncensored images and videos (18+)",
             "url": "https://github.com/Astraltenprosper/uncensored-ai-image-video-generator",
-            "stars": 307,
+            "stars": 314,
             "forks": 15,
             "score": 50
         },
@@ -249,7 +249,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "veryyoldman/Genspark-AI",
             "description": "Genspark AI open-source, self-hosted Super Agent. Free alternative to Genspark.ai with multi-agent orchestration, deep research, Sparkpages, AI slides & sheets, image generation and 80+ tools. One-command Windows install. Run locally with any LLM (OpenAI, Anthropic, Gemini, Ollama)",
             "url": "https://github.com/veryyoldman/Genspark-AI",
-            "stars": 305,
+            "stars": 312,
             "forks": 2,
             "score": 47
         },
@@ -293,7 +293,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "next-1688/1688-cowboy",
             "description": "\u63a5\u5f85\u52a9\u624b Skill\u3002\u5546\u5bb6\u5728\u725b\u987f\u7aef\u7684\u5bf9\u8bdd\u5165\u53e3\uff0c\u8d1f\u8d23\u62db\u8058\u63a5\u5f85\u52a9\u624b\u3001\u67e5\u770b\u5de5\u4f5c\u65e5\u62a5\u3001\u89e3\u8bfb\u63a5\u5f85\u6570\u636e\u3001\u57f9\u8bad\u77e5\u8bc6\u5e93\uff1b\u8c03\u6574\u63a5\u5f85\u8303\u56f4 / \u6682\u505c\u63a5\u5f85\u7edf\u4e00\u8df3\u8f6c\u5230\u7ba1\u7406\u9875\u9762\u3002 \u63a5\u5f85\u52a9\u624b\u662f\u5e73\u53f0\u9884\u8bbe\u7684 AI \u4e1a\u52a1\u5458\uff0c\u540d\u5b57\u56fa\u5b9a\u4e3a\u300c\u63a5\u5f85\u52a9\u624b\u300d\uff0c\u4e0d\u53ef\u4fee\u6539\u3002 \u89e6\u53d1\u8bcd\uff1a\u63a5\u5f85\u52a9\u624b\u3001\u4e1a\u52a1\u5458\u3001\u62db\u8058\u3001\u62db\u63a5\u5f85\u52a9\u624b\u3001\u770b\u65e5\u62a5\u3001\u63a5\u5f85\u3001\u8f6c\u4eba\u5de5\u3001\u57f9\u8bad\u3001\u77e5\u8bc6\u5e93\u3001\u5f85\u5b8c\u5584\u3001\u8c03\u63a5\u5f85\u8303\u56f4\u3001\u6539\u4e70\u5bb6\u7b49\u7ea7\u3001\u6539 L \u7b49\u7ea7\u3001\u6682\u505c\u63a5\u5f85\u3001\u6062\u590d\u63a5\u5f85\u3001\u7ba1\u7406\u63a5\u5f85\u52a9\u624b\u3001\u914d\u89e6\u8fbe\u3002",
             "url": "https://github.com/next-1688/1688-cowboy",
-            "stars": 245,
+            "stars": 248,
             "forks": 0,
             "score": 40
         },
@@ -315,7 +315,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "vincelele/ai-fomo-skills",
             "description": "Personal superalignment skills for turning AI information overload into reusable knowledge, signals, and digests.",
             "url": "https://github.com/vincelele/ai-fomo-skills",
-            "stars": 209,
+            "stars": 210,
             "forks": 0,
             "score": 37
         },
@@ -663,6 +663,20 @@ const ALPHA_DATA_V2 = {
     ],
     "news": [
         {
+            "title": "DP-SAPF: Saliency-Aware Parameter Fine-tuning of Public Models for Differentially Private Image Synthesis",
+            "source": "ArXiv",
+            "type": "Research Alpha",
+            "color": "text-indigo-600",
+            "url": "http://arxiv.org/abs/2605.30312v1"
+        },
+        {
+            "title": "bpK#: Delegatable Pseudonyms And Their Applications to National eID Systems",
+            "source": "ArXiv",
+            "type": "Research Alpha",
+            "color": "text-indigo-600",
+            "url": "http://arxiv.org/abs/2605.30212v1"
+        },
+        {
             "title": "Bitcoin volatility remains high ahead of key FED decision.",
             "source": "Polymarket",
             "type": "Expectation",
@@ -670,5 +684,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-05-30 11:15"
+    "timestamp": "2026-05-30 13:14"
 };
