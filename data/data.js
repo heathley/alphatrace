@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "OpenBMB/PilotDeck",
             "description": "Task-oriented AI Agent productivity platform",
             "url": "https://github.com/OpenBMB/PilotDeck",
-            "stars": 2345,
-            "forks": 217,
+            "stars": 2372,
+            "forks": 221,
             "score": 99
         },
         {
@@ -18,8 +18,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "withkynam/vibecode-pro-max-kit",
             "description": "Your AI forgets. This remembers. Spec-driven coding harness for vibecoders, product owners, CEOs and real builders \u2014 self-improving context memory, 12 agents, 32 skills. Kills context rot, ships features, not spaghetti. Claude Code & Codex. Any stack. 30 seconds",
             "url": "https://github.com/withkynam/vibecode-pro-max-kit",
-            "stars": 621,
-            "forks": 153,
+            "stars": 634,
+            "forks": 155,
             "score": 99
         },
         {
@@ -29,8 +29,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "PolyMomentum-Labs/.github",
             "description": "Official docs for PolyMomentum \u2014 Polymarket CLOB V2 integration, trading strategies, bot architecture, and OpenClaw/MCP AI workflows.",
             "url": "https://github.com/PolyMomentum-Labs/.github",
-            "stars": 262,
-            "forks": 2462,
+            "stars": 269,
+            "forks": 2606,
             "score": 99
         },
         {
@@ -40,7 +40,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Doorman11991/smallcode",
             "description": "AI coding agent optimized for small LLMs. 87% benchmark with 4B-active model.",
             "url": "https://github.com/Doorman11991/smallcode",
-            "stars": 1672,
+            "stars": 1676,
             "forks": 128,
             "score": 98
         },
@@ -51,7 +51,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "study8677/awesome-architecture",
             "description": "\ud83d\uddfa\ufe0f Think like a software architect, not just a coder \u2014 21 architecture maps (incl. AI gateway, RAG, agents, inference serving, vector DB) + a language-agnostic system-design tutorial. Every template links to real open-source prototypes. \u4e2d\u82f1\u6587\u53cc\u8bed\u3002",
             "url": "https://github.com/study8677/awesome-architecture",
-            "stars": 966,
+            "stars": 969,
             "forks": 102,
             "score": 92
         },
@@ -62,9 +62,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "GordenSun/GordenPPTSkill",
             "description": "AI-friendly PPT builder skill: 17 hand-polished Chinese PPTX templates + non-destructive text-only editing tools (python-pptx based). Pick a template, write edits.json, build a real .pptx with the layout intact. Personal/research use only.",
             "url": "https://github.com/GordenSun/GordenPPTSkill",
-            "stars": 450,
-            "forks": 57,
-            "score": 86
+            "stars": 509,
+            "forks": 60,
+            "score": 92
         },
         {
             "main_cat": "AI",
@@ -73,7 +73,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "basketikun/infinite-canvas",
             "description": "\u9762\u5411AI\u521b\u4f5c\u7684\u5f00\u6e90\u65e0\u9650\u753b\u5e03\u5de5\u4f5c\u53f0\uff0c\u96c6\u6210 AI \u751f\u56fe\u3001\u53c2\u8003\u56fe\u7f16\u8f91\u3001\u89c6\u9891\u751f\u6210\u3001\u753b\u5e03\u7f16\u6392\u3001\u5bf9\u8bdd\u52a9\u624b\u3001\u63d0\u793a\u8bcd\u5e93\u548c\u7d20\u6750\u7ba1\u7406\u7b49\u529f\u80fd\u3001\u517c\u5bb9OpenAI\u63a5\u53e3\uff0c\u652f\u6301chatgpt2api\u3001grok2api\u3001flow2api\u3001newapi\u7b49\u63a5\u5165\u3002",
             "url": "https://github.com/basketikun/infinite-canvas",
-            "stars": 780,
+            "stars": 785,
             "forks": 173,
             "score": 79
         },
@@ -84,7 +84,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "XingYu-Zhong/DeepSeek-GUI",
             "description": "AI agent workspace for DeepSeek models, with Code and Claw modes built into your application.",
             "url": "https://github.com/XingYu-Zhong/DeepSeek-GUI",
-            "stars": 717,
+            "stars": 722,
             "forks": 71,
             "score": 71
         },
@@ -95,7 +95,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "lynote-ai/humanize-text",
             "description": "Free open-source AI text humanizer to convert AI-generated content into undetectable, human-like writing. Bypass Turnitin, GPTZero, and all major AI detectors. No sign-up required. Try our unlimited free online tool",
             "url": "https://github.com/lynote-ai/humanize-text",
-            "stars": 992,
+            "stars": 1003,
             "forks": 52,
             "score": 70
         },
@@ -106,9 +106,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "butterbase-ai/butterbase-oss",
             "description": "Open-source backend-as-a-service. Postgres, auth, storage, functions, AI gateway, MCP.",
             "url": "https://github.com/butterbase-ai/butterbase-oss",
-            "stars": 775,
+            "stars": 797,
             "forks": 82,
-            "score": 69
+            "score": 70
         },
         {
             "main_cat": "AI",
@@ -117,7 +117,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "anthropic-claude-code-ai/free-claude-code-ai-desktop-app",
             "description": "claude code ai free desktop app  api cli open source opencode aider gemini alternative download github local llm ollama setup guide tutorial api  2026",
             "url": "https://github.com/anthropic-claude-code-ai/free-claude-code-ai-desktop-app",
-            "stars": 291,
+            "stars": 296,
             "forks": 0,
             "score": 59
         },
@@ -129,7 +129,7 @@ const ALPHA_DATA_V2 = {
             "description": "\u505a\u4f01\u4e1a AI \u89c6\u9891\u9879\u76ee\u903c\u51fa\u6765\u7684\u5de5\u5177\u5305 \u00b7 411 prompt \u00b7 15 \u6a21\u578b \u00b7 7 Claude Skill \u00b7 14 \u7bc7\u65b9\u6cd5\u8bba",
             "url": "https://github.com/cclank/lanshu-awesome-ai-video-kit",
             "stars": 229,
-            "forks": 60,
+            "forks": 61,
             "score": 59
         },
         {
@@ -139,7 +139,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "zhristophe/Claude-Mythos-AI-Anthropic-App",
             "description": "claude mythos ai anthropic app github open source desktop mobile client abhishekk130804 anthropic api key creative writing roleplay character cards deep reasoning chain of thought system prompts jailbreak windows macos linux android apk next js electron tauri python rust download setup guide tutorial latest version 2026 free update",
             "url": "https://github.com/zhristophe/Claude-Mythos-AI-Anthropic-App",
-            "stars": 337,
+            "stars": 345,
             "forks": 1,
             "score": 54
         },
@@ -150,7 +150,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "realrossmanngroup/no_ai_slop_writing_rules",
             "description": "Claude Code reference: write in Louis Rossmann's voice, never like AI slop. Portable CLAUDE.md plus skills.",
             "url": "https://github.com/realrossmanngroup/no_ai_slop_writing_rules",
-            "stars": 270,
+            "stars": 271,
             "forks": 36,
             "score": 53
         },
@@ -178,25 +178,25 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
-            "sub_cat": null,
-            "name": "uncensored-ai-image-video-generator",
-            "full_name": "Astraltenprosper/uncensored-ai-image-video-generator",
-            "description": "AI tool for generating uncensored images and videos (18+)",
-            "url": "https://github.com/Astraltenprosper/uncensored-ai-image-video-generator",
-            "stars": 338,
-            "forks": 17,
-            "score": 50
-        },
-        {
-            "main_cat": "AI",
             "sub_cat": "AI General",
             "name": "Deepseek-v4-Pro-App",
             "full_name": "mikaeldengale-cloud/Deepseek-v4-Pro-App",
             "description": "deepseek v4 flash pro chat  api  app windows 11 desktop client github open source ai assistant chatbot coding agent moe model 1.6t parameters free api setup guide reasoning max mode local deployment",
             "url": "https://github.com/mikaeldengale-cloud/Deepseek-v4-Pro-App",
-            "stars": 394,
+            "stars": 401,
             "forks": 0,
-            "score": 49
+            "score": 50
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "uncensored-ai-image-video-generator",
+            "full_name": "Astraltenprosper/uncensored-ai-image-video-generator",
+            "description": "AI tool for generating uncensored images and videos (18+)",
+            "url": "https://github.com/Astraltenprosper/uncensored-ai-image-video-generator",
+            "stars": 344,
+            "forks": 17,
+            "score": 50
         },
         {
             "main_cat": "AI",
@@ -205,7 +205,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "MobiusQuant/OpenMobius-skill",
             "description": "ICT/SMC trading-knowledge skill for AI coding agents (Claude Code / Codex / OpenClaw / Hermes)",
             "url": "https://github.com/MobiusQuant/OpenMobius-skill",
-            "stars": 364,
+            "stars": 365,
             "forks": 42,
             "score": 49
         },
@@ -218,7 +218,7 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/leiting-eric/DailyBrief",
             "stars": 206,
             "forks": 94,
-            "score": 49
+            "score": 48
         },
         {
             "main_cat": "AI",
@@ -227,7 +227,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "veryyoldman/Genspark-AI",
             "description": "Genspark AI open-source, self-hosted Super Agent. Free alternative to Genspark.ai with multi-agent orchestration, deep research, Sparkpages, AI slides & sheets, image generation and 80+ tools. One-command Windows install. Run locally with any LLM (OpenAI, Anthropic, Gemini, Ollama)",
             "url": "https://github.com/veryyoldman/Genspark-AI",
-            "stars": 337,
+            "stars": 344,
             "forks": 2,
             "score": 47
         },
@@ -238,7 +238,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "simonlin1212/global-stock-data",
             "description": "\u7f8e\u80a1\u6e2f\u80a1\u5168\u6808\u6570\u636e\u5de5\u5177\u5305 (AI Skill) \u2014 7\u5c42\u67b6\u6784 \u00b7 17\u7aef\u70b9 \u00b7 5\u6570\u636e\u6e90 \u00b7 \u96f6\u9274\u6743 | US & HK Stock Full-Stack Data Toolkit for AI Coding Assistants",
             "url": "https://github.com/simonlin1212/global-stock-data",
-            "stars": 204,
+            "stars": 207,
             "forks": 49,
             "score": 45
         },
@@ -251,7 +251,7 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/scheidydude/codeindex",
             "stars": 253,
             "forks": 34,
-            "score": 44
+            "score": 43
         },
         {
             "main_cat": "AI",
@@ -260,20 +260,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "quarqlabs/agent-oss",
             "description": "A recursive evidence-gated cognitive runtime for memory-native AI agents, combining hybrid retrieval, temporal reasoning, async learning, and plug-and-play tools.",
             "url": "https://github.com/quarqlabs/agent-oss",
-            "stars": 183,
+            "stars": 184,
             "forks": 16,
             "score": 43
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "DEEIX-Chat",
-            "full_name": "DEEIX-AI/DEEIX-Chat",
-            "description": "An enterprise AI workspace for model routing, multimodal chat, files, tools, billing, identity, and operations.",
-            "url": "https://github.com/DEEIX-AI/DEEIX-Chat",
-            "stars": 198,
-            "forks": 26,
-            "score": 42
         },
         {
             "main_cat": "AI",
@@ -284,6 +273,17 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/ArthurYangX/nano-NotebookLM",
             "stars": 223,
             "forks": 15,
+            "score": 41
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "DEEIX-Chat",
+            "full_name": "DEEIX-AI/DEEIX-Chat",
+            "description": "An enterprise AI workspace for model routing, multimodal chat, files, tools, billing, identity, and operations.",
+            "url": "https://github.com/DEEIX-AI/DEEIX-Chat",
+            "stars": 198,
+            "forks": 26,
             "score": 41
         },
         {
@@ -315,7 +315,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "vincelele/ai-fomo-skills",
             "description": "Personal superalignment skills for turning AI information overload into reusable knowledge, signals, and digests.",
             "url": "https://github.com/vincelele/ai-fomo-skills",
-            "stars": 221,
+            "stars": 223,
             "forks": 0,
             "score": 37
         },
@@ -333,17 +333,6 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
-            "name": "MineEcho",
-            "full_name": "Health-Yang/MineEcho",
-            "description": "Local-first Memory OS for personal AI assistants with L0-L3 memory, Wiki++ knowledge, skill routing, and TokenLess context compression.",
-            "url": "https://github.com/Health-Yang/MineEcho",
-            "stars": 26,
-            "forks": 4,
-            "score": 34
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
             "name": "SSKills",
             "full_name": "0xPira/SSKills",
             "description": "SSkills (Slop Skills) is a public collection of specialist skills for security agents and human reviewers. Each skill packages structured domain knowledge, sources, examples, safety gates, and validation scripts to help turn noisy security signals into clear triage decisions, rejected false positives, and bounded manual proof contracts.",
@@ -355,11 +344,22 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
+            "name": "MineEcho",
+            "full_name": "Health-Yang/MineEcho",
+            "description": "Local-first Memory OS for personal AI assistants with L0-L3 memory, Wiki++ knowledge, skill routing, and TokenLess context compression.",
+            "url": "https://github.com/Health-Yang/MineEcho",
+            "stars": 27,
+            "forks": 4,
+            "score": 33
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
             "name": "ForgeWM",
             "full_name": "asdfo123/ForgeWM",
             "description": "Train a real-time, playable Minecraft Video World Models on 8 GPUs \u2014 keyboard & mouse control, fully open and reproducible.",
             "url": "https://github.com/asdfo123/ForgeWM",
-            "stars": 34,
+            "stars": 36,
             "forks": 0,
             "score": 33
         },
@@ -630,10 +630,10 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
-            "name": "huma-finannce.github.io",
-            "full_name": "huma-finannce/huma-finannce.github.io",
-            "description": "Huma Finance is a decentralized PayFi network utilizing stablecoins and on-chain liquidity to enable instant, 24/7 real-world global payment settlements.",
-            "url": "https://github.com/huma-finannce/huma-finannce.github.io",
+            "name": "ArcPay",
+            "full_name": "wundermeta/ArcPay",
+            "description": "ArcPay is a stablecoin payment infrastructure platform built on Arc Testnet.  It enables users to create USDC invoices, generate reusable payment links, and manage escrow-based payments entirely onchain with a modern Web3-native experience.",
+            "url": "https://github.com/wundermeta/ArcPay",
             "stars": 0,
             "forks": 0,
             "score": 30
@@ -641,10 +641,10 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
-            "name": "ArcPay",
-            "full_name": "wundermeta/ArcPay",
-            "description": "ArcPay is a stablecoin payment infrastructure platform built on Arc Testnet.  It enables users to create USDC invoices, generate reusable payment links, and manage escrow-based payments entirely onchain with a modern Web3-native experience.",
-            "url": "https://github.com/wundermeta/ArcPay",
+            "name": "huma-finannce.github.io",
+            "full_name": "huma-finannce/huma-finannce.github.io",
+            "description": "Huma Finance is a decentralized PayFi network utilizing stablecoins and on-chain liquidity to enable instant, 24/7 real-world global payment settlements.",
+            "url": "https://github.com/huma-finannce/huma-finannce.github.io",
             "stars": 0,
             "forks": 0,
             "score": 30
@@ -707,20 +707,6 @@ const ALPHA_DATA_V2 = {
     ],
     "news": [
         {
-            "title": "DP-SAPF: Saliency-Aware Parameter Fine-tuning of Public Models for Differentially Private Image Synthesis",
-            "source": "ArXiv",
-            "type": "Research Alpha",
-            "color": "text-indigo-600",
-            "url": "http://arxiv.org/abs/2605.30312v1"
-        },
-        {
-            "title": "bpK#: Delegatable Pseudonyms And Their Applications to National eID Systems",
-            "source": "ArXiv",
-            "type": "Research Alpha",
-            "color": "text-indigo-600",
-            "url": "http://arxiv.org/abs/2605.30212v1"
-        },
-        {
             "title": "Bitcoin volatility remains high ahead of key FED decision.",
             "source": "Polymarket",
             "type": "Expectation",
@@ -728,5 +714,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-05-31 07:40"
+    "timestamp": "2026-05-31 10:09"
 };
