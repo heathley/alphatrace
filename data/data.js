@@ -3,23 +3,34 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "PilotDeck",
-            "full_name": "OpenBMB/PilotDeck",
-            "description": "Task-oriented AI Agent productivity platform",
-            "url": "https://github.com/OpenBMB/PilotDeck",
-            "stars": 2454,
-            "forks": 228,
+            "name": "odysseus",
+            "full_name": "pewdiepie-archdaemon/odysseus",
+            "description": "Self-hosted AI workspace. ",
+            "url": "https://github.com/pewdiepie-archdaemon/odysseus",
+            "stars": 2787,
+            "forks": 412,
             "score": 99
         },
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "odysseus",
-            "full_name": "pewdiepie-archdaemon/odysseus",
-            "description": "Self-hosted AI workspace. ",
-            "url": "https://github.com/pewdiepie-archdaemon/odysseus",
-            "stars": 806,
-            "forks": 124,
+            "name": "PilotDeck",
+            "full_name": "OpenBMB/PilotDeck",
+            "description": "Task-oriented AI Agent productivity platform",
+            "url": "https://github.com/OpenBMB/PilotDeck",
+            "stars": 2474,
+            "forks": 231,
+            "score": 99
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "GordenPPTSkill",
+            "full_name": "GordenSun/GordenPPTSkill",
+            "description": "AI-friendly PPT builder skill: 17 hand-polished Chinese PPTX templates + non-destructive text-only editing tools (python-pptx based). Pick a template, write edits.json, build a real .pptx with the layout intact. Personal/research use only.",
+            "url": "https://github.com/GordenSun/GordenPPTSkill",
+            "stars": 724,
+            "forks": 71,
             "score": 99
         },
         {
@@ -29,7 +40,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "withkynam/vibecode-pro-max-kit",
             "description": "Your AI forgets. This remembers. Spec-driven coding harness for vibecoders, product owners, CEOs and real builders \u2014 self-improving context memory, 12 agents, 32 skills. Kills context rot, ships features, not spaghetti. Claude Code & Codex. Any stack. 30 seconds",
             "url": "https://github.com/withkynam/vibecode-pro-max-kit",
-            "stars": 656,
+            "stars": 659,
             "forks": 159,
             "score": 99
         },
@@ -51,20 +62,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "Doorman11991/smallcode",
             "description": "AI coding agent optimized for small LLMs. 87% benchmark with 4B-active model.",
             "url": "https://github.com/Doorman11991/smallcode",
-            "stars": 1681,
+            "stars": 1682,
             "forks": 128,
             "score": 98
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "GordenPPTSkill",
-            "full_name": "GordenSun/GordenPPTSkill",
-            "description": "AI-friendly PPT builder skill: 17 hand-polished Chinese PPTX templates + non-destructive text-only editing tools (python-pptx based). Pick a template, write edits.json, build a real .pptx with the layout intact. Personal/research use only.",
-            "url": "https://github.com/GordenSun/GordenPPTSkill",
-            "stars": 660,
-            "forks": 66,
-            "score": 96
         },
         {
             "main_cat": "AI",
@@ -73,9 +73,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "study8677/awesome-architecture",
             "description": "\ud83d\uddfa\ufe0f Think like a software architect, not just a coder \u2014 21 architecture maps (incl. AI gateway, RAG, agents, inference serving, vector DB) + a language-agnostic system-design tutorial. Every template links to real open-source prototypes. \u4e2d\u82f1\u6587\u53cc\u8bed\u3002",
             "url": "https://github.com/study8677/awesome-architecture",
-            "stars": 995,
+            "stars": 1003,
             "forks": 103,
-            "score": 93
+            "score": 94
         },
         {
             "main_cat": "AI",
@@ -84,9 +84,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "basketikun/infinite-canvas",
             "description": "\u9762\u5411AI\u521b\u4f5c\u7684\u5f00\u6e90\u65e0\u9650\u753b\u5e03\u5de5\u4f5c\u53f0\uff0c\u96c6\u6210 AI \u751f\u56fe\u3001\u53c2\u8003\u56fe\u7f16\u8f91\u3001\u89c6\u9891\u751f\u6210\u3001\u753b\u5e03\u7f16\u6392\u3001\u5bf9\u8bdd\u52a9\u624b\u3001\u63d0\u793a\u8bcd\u5e93\u548c\u7d20\u6750\u7ba1\u7406\u7b49\u529f\u80fd\u3001\u517c\u5bb9OpenAI\u63a5\u53e3\uff0c\u652f\u6301chatgpt2api\u3001grok2api\u3001flow2api\u3001newapi\u7b49\u63a5\u5165\u3002",
             "url": "https://github.com/basketikun/infinite-canvas",
-            "stars": 795,
+            "stars": 797,
             "forks": 176,
-            "score": 79
+            "score": 80
         },
         {
             "main_cat": "AI",
@@ -106,7 +106,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "XingYu-Zhong/DeepSeek-GUI",
             "description": "AI agent workspace for DeepSeek models, with Code and Claw modes built into your application.",
             "url": "https://github.com/XingYu-Zhong/DeepSeek-GUI",
-            "stars": 734,
+            "stars": 735,
             "forks": 71,
             "score": 69
         },
@@ -117,20 +117,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "lynote-ai/humanize-text",
             "description": "Free open-source AI text humanizer to convert AI-generated content into undetectable, human-like writing. Bypass Turnitin, GPTZero, and all major AI detectors. No sign-up required. Try our unlimited free online tool",
             "url": "https://github.com/lynote-ai/humanize-text",
-            "stars": 1024,
+            "stars": 1028,
             "forks": 53,
             "score": 68
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "free-claude-code-ai-desktop-app",
-            "full_name": "anthropic-claude-code-ai/free-claude-code-ai-desktop-app",
-            "description": "claude code ai free desktop app  api cli open source opencode aider gemini alternative download github local llm ollama setup guide tutorial api  2026",
-            "url": "https://github.com/anthropic-claude-code-ai/free-claude-code-ai-desktop-app",
-            "stars": 309,
-            "forks": 0,
-            "score": 60
         },
         {
             "main_cat": "AI",
@@ -150,20 +139,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "zhristophe/Claude-Mythos-AI-Anthropic-App",
             "description": "claude mythos ai anthropic app github open source desktop mobile client abhishekk130804 anthropic api key creative writing roleplay character cards deep reasoning chain of thought system prompts jailbreak windows macos linux android apk next js electron tauri python rust download setup guide tutorial latest version 2026 free update",
             "url": "https://github.com/zhristophe/Claude-Mythos-AI-Anthropic-App",
-            "stars": 357,
+            "stars": 363,
             "forks": 1,
-            "score": 55
+            "score": 56
         },
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "skills",
-            "full_name": "DannyMac180/skills",
-            "description": "AI agent skills created by me: Dan McAteer",
-            "url": "https://github.com/DannyMac180/skills",
-            "stars": 191,
-            "forks": 14,
-            "score": 54
+            "name": "free-claude-code-ai-desktop-app",
+            "full_name": "anthropic-claude-code-ai/free-claude-code-ai-desktop-app",
+            "description": "claude code ai free desktop app  api cli open source opencode aider gemini alternative download github local llm ollama setup guide tutorial api  2026",
+            "url": "https://github.com/anthropic-claude-code-ai/free-claude-code-ai-desktop-app",
+            "stars": 313,
+            "forks": 0,
+            "score": 56
         },
         {
             "main_cat": "AI",
@@ -184,7 +173,7 @@ const ALPHA_DATA_V2 = {
             "description": "Use agent to learn agent - A skeleton course on how to design, build, and operate production AI agents ",
             "url": "https://github.com/bryanyzhu/agentic-ai-system-course",
             "stars": 305,
-            "forks": 46,
+            "forks": 47,
             "score": 52
         },
         {
@@ -194,20 +183,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "Astraltenprosper/uncensored-ai-image-video-generator",
             "description": "AI tool for generating uncensored images and videos (18+)",
             "url": "https://github.com/Astraltenprosper/uncensored-ai-image-video-generator",
-            "stars": 355,
+            "stars": 360,
             "forks": 17,
             "score": 51
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "Deepseek-v4-Pro-App",
-            "full_name": "mikaeldengale-cloud/Deepseek-v4-Pro-App",
-            "description": "deepseek v4 flash pro chat  api  app windows 11 desktop client github open source ai assistant chatbot coding agent moe model 1.6t parameters free api setup guide reasoning max mode local deployment",
-            "url": "https://github.com/mikaeldengale-cloud/Deepseek-v4-Pro-App",
-            "stars": 416,
-            "forks": 0,
-            "score": 50
         },
         {
             "main_cat": "AI",
@@ -216,8 +194,19 @@ const ALPHA_DATA_V2 = {
             "full_name": "VILA-Lab/FigMirror",
             "description": "An Automated AI Agent Tool for Plotting Your Data in Any Paper's Figure Style.",
             "url": "https://github.com/VILA-Lab/FigMirror",
-            "stars": 383,
+            "stars": 386,
             "forks": 24,
+            "score": 50
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "Deepseek-v4-Pro-App",
+            "full_name": "mikaeldengale-cloud/Deepseek-v4-Pro-App",
+            "description": "deepseek v4 flash pro chat  api  app windows 11 desktop client github open source ai assistant chatbot coding agent moe model 1.6t parameters free api setup guide reasoning max mode local deployment",
+            "url": "https://github.com/mikaeldengale-cloud/Deepseek-v4-Pro-App",
+            "stars": 420,
+            "forks": 0,
             "score": 49
         },
         {
@@ -227,7 +216,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "veryyoldman/Genspark-AI",
             "description": "Genspark AI open-source, self-hosted Super Agent. Free alternative to Genspark.ai with multi-agent orchestration, deep research, Sparkpages, AI slides & sheets, image generation and 80+ tools. One-command Windows install. Run locally with any LLM (OpenAI, Anthropic, Gemini, Ollama)",
             "url": "https://github.com/veryyoldman/Genspark-AI",
-            "stars": 354,
+            "stars": 356,
             "forks": 2,
             "score": 48
         },
@@ -240,6 +229,17 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/leiting-eric/DailyBrief",
             "stars": 206,
             "forks": 94,
+            "score": 48
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "harness-anything",
+            "full_name": "yb2460/harness-anything",
+            "description": "CLI harness for WPS Office -- let AI agents control Writer, Calc & Impress via COM automation",
+            "url": "https://github.com/yb2460/harness-anything",
+            "stars": 202,
+            "forks": 15,
             "score": 48
         },
         {
@@ -260,7 +260,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "simonlin1212/global-stock-data",
             "description": "\u7f8e\u80a1\u6e2f\u80a1\u5168\u6808\u6570\u636e\u5de5\u5177\u5305 (AI Skill) \u2014 7\u5c42\u67b6\u6784 \u00b7 17\u7aef\u70b9 \u00b7 5\u6570\u636e\u6e90 \u00b7 \u96f6\u9274\u6743 | US & HK Stock Full-Stack Data Toolkit for AI Coding Assistants",
             "url": "https://github.com/simonlin1212/global-stock-data",
-            "stars": 212,
+            "stars": 213,
             "forks": 49,
             "score": 44
         },
@@ -283,8 +283,8 @@ const ALPHA_DATA_V2 = {
             "description": "An enterprise AI workspace for model routing, multimodal chat, files, tools, billing, identity, and operations.",
             "url": "https://github.com/DEEIX-AI/DEEIX-Chat",
             "stars": 200,
-            "forks": 27,
-            "score": 41
+            "forks": 28,
+            "score": 42
         },
         {
             "main_cat": "AI",
@@ -359,7 +359,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "asdfo123/ForgeWM",
             "description": "Train a real-time, playable Minecraft Video World Models on 8 GPUs \u2014 keyboard & mouse control, fully open and reproducible.",
             "url": "https://github.com/asdfo123/ForgeWM",
-            "stars": 37,
+            "stars": 38,
             "forks": 0,
             "score": 33
         },
@@ -685,6 +685,20 @@ const ALPHA_DATA_V2 = {
     ],
     "news": [
         {
+            "title": "DP-SAPF: Saliency-Aware Parameter Fine-tuning of Public Models for Differentially Private Image Synthesis",
+            "source": "ArXiv",
+            "type": "Research Alpha",
+            "color": "text-indigo-600",
+            "url": "http://arxiv.org/abs/2605.30312v1"
+        },
+        {
+            "title": "bpK#: Delegatable Pseudonyms And Their Applications to National eID Systems",
+            "source": "ArXiv",
+            "type": "Research Alpha",
+            "color": "text-indigo-600",
+            "url": "http://arxiv.org/abs/2605.30212v1"
+        },
+        {
             "title": "Bitcoin volatility remains high ahead of key FED decision.",
             "source": "Polymarket",
             "type": "Expectation",
@@ -692,5 +706,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-05-31 16:01"
+    "timestamp": "2026-05-31 17:56"
 };
