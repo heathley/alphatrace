@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "pewdiepie-archdaemon/odysseus",
             "description": "Self-hosted AI workspace. ",
             "url": "https://github.com/pewdiepie-archdaemon/odysseus",
-            "stars": 7360,
-            "forks": 1036,
+            "stars": 9947,
+            "forks": 1357,
             "score": 99
         },
         {
@@ -18,8 +18,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "OpenBMB/PilotDeck",
             "description": "Task-oriented AI Agent productivity platform",
             "url": "https://github.com/OpenBMB/PilotDeck",
-            "stars": 2516,
-            "forks": 234,
+            "stars": 2603,
+            "forks": 241,
             "score": 99
         },
         {
@@ -29,8 +29,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "GordenSun/GordenPPTSkill",
             "description": "AI-friendly PPT builder skill: 17 hand-polished Chinese PPTX templates + non-destructive text-only editing tools (python-pptx based). Pick a template, write edits.json, build a real .pptx with the layout intact. Personal/research use only.",
             "url": "https://github.com/GordenSun/GordenPPTSkill",
-            "stars": 770,
-            "forks": 77,
+            "stars": 1126,
+            "forks": 108,
             "score": 99
         },
         {
@@ -40,8 +40,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "withkynam/vibecode-pro-max-kit",
             "description": "Your AI forgets. This remembers. Spec-driven coding harness for vibecoders, product owners, CEOs and real builders \u2014 self-improving context memory, 12 agents, 32 skills. Kills context rot, ships features, not spaghetti. Claude Code & Codex. Any stack. 30 seconds",
             "url": "https://github.com/withkynam/vibecode-pro-max-kit",
-            "stars": 666,
-            "forks": 160,
+            "stars": 678,
+            "forks": 162,
             "score": 99
         },
         {
@@ -52,19 +52,8 @@ const ALPHA_DATA_V2 = {
             "description": "Official docs for PolyMomentum \u2014 Polymarket CLOB V2 integration, trading strategies, bot architecture, and OpenClaw/MCP AI workflows.",
             "url": "https://github.com/PolyMomentum-Labs/.github",
             "stars": 287,
-            "forks": 2669,
+            "forks": 2887,
             "score": 99
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "awesome-architecture",
-            "full_name": "study8677/awesome-architecture",
-            "description": "\ud83d\uddfa\ufe0f Think like a software architect, not just a coder \u2014 21 architecture maps (incl. AI gateway, RAG, agents, inference serving, vector DB) + a language-agnostic system-design tutorial. Every template links to real open-source prototypes. \u4e2d\u82f1\u6587\u53cc\u8bed\u3002",
-            "url": "https://github.com/study8677/awesome-architecture",
-            "stars": 1014,
-            "forks": 103,
-            "score": 94
         },
         {
             "main_cat": "AI",
@@ -73,9 +62,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "liyue-aigc/female-portrait-director",
             "description": "A modular Codex Skill for directing and expanding detailed AI female portrait prompts.",
             "url": "https://github.com/liyue-aigc/female-portrait-director",
-            "stars": 227,
-            "forks": 37,
-            "score": 76
+            "stars": 313,
+            "forks": 46,
+            "score": 92
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "awesome-architecture",
+            "full_name": "study8677/awesome-architecture",
+            "description": "\ud83d\uddfa\ufe0f Think like a software architect, not just a coder \u2014 21 architecture maps (incl. AI gateway, RAG, agents, inference serving, vector DB) + a language-agnostic system-design tutorial. Every template links to real open-source prototypes. \u4e2d\u82f1\u6587\u53cc\u8bed\u3002",
+            "url": "https://github.com/study8677/awesome-architecture",
+            "stars": 1040,
+            "forks": 107,
+            "score": 91
         },
         {
             "main_cat": "AI",
@@ -84,9 +84,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "butterbase-ai/butterbase-oss",
             "description": "Open-source backend-as-a-service. Postgres, auth, storage, functions, AI gateway, MCP.",
             "url": "https://github.com/butterbase-ai/butterbase-oss",
-            "stars": 802,
-            "forks": 86,
-            "score": 70
+            "stars": 962,
+            "forks": 88,
+            "score": 73
         },
         {
             "main_cat": "AI",
@@ -95,31 +95,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "XingYu-Zhong/DeepSeek-GUI",
             "description": "AI agent workspace for DeepSeek models, with Code and Claw modes built into your application.",
             "url": "https://github.com/XingYu-Zhong/DeepSeek-GUI",
-            "stars": 735,
+            "stars": 754,
             "forks": 71,
             "score": 69
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "metamask-openclaw",
-            "full_name": "veryyoldman/metamask-openclaw",
-            "description": "\ud83e\udd8a OpenClaw \u2014 a safety-first MetaMask SDK toolkit & AI-agent skill. Connect wallets, read balances, sign messages and send transactions on Ethereum, Polygon, Base, Arbitrum & all EVM chains. TypeScript-first, one-line connect, never touches your seed phrase.",
-            "url": "https://github.com/veryyoldman/metamask-openclaw",
-            "stars": 193,
-            "forks": 0,
-            "score": 62
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "lanshu-awesome-ai-video-kit",
-            "full_name": "cclank/lanshu-awesome-ai-video-kit",
-            "description": "\u505a\u4f01\u4e1a AI \u89c6\u9891\u9879\u76ee\u903c\u51fa\u6765\u7684\u5de5\u5177\u5305 \u00b7 411 prompt \u00b7 15 \u6a21\u578b \u00b7 7 Claude Skill \u00b7 14 \u7bc7\u65b9\u6cd5\u8bba",
-            "url": "https://github.com/cclank/lanshu-awesome-ai-video-kit",
-            "stars": 238,
-            "forks": 63,
-            "score": 57
         },
         {
             "main_cat": "AI",
@@ -128,8 +106,19 @@ const ALPHA_DATA_V2 = {
             "full_name": "DannyMac180/skills",
             "description": "AI agent skills created by me: Dan McAteer",
             "url": "https://github.com/DannyMac180/skills",
-            "stars": 213,
+            "stars": 225,
             "forks": 15,
+            "score": 58
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "lanshu-awesome-ai-video-kit",
+            "full_name": "cclank/lanshu-awesome-ai-video-kit",
+            "description": "\u505a\u4f01\u4e1a AI \u89c6\u9891\u9879\u76ee\u903c\u51fa\u6765\u7684\u5de5\u5177\u5305 \u00b7 411 prompt \u00b7 15 \u6a21\u578b \u00b7 7 Claude Skill \u00b7 14 \u7bc7\u65b9\u6cd5\u8bba",
+            "url": "https://github.com/cclank/lanshu-awesome-ai-video-kit",
+            "stars": 240,
+            "forks": 63,
             "score": 57
         },
         {
@@ -139,7 +128,18 @@ const ALPHA_DATA_V2 = {
             "full_name": "anthropic-claude-code-ai/free-claude-code-ai-desktop-app",
             "description": "claude code ai free desktop app  api cli open source opencode aider gemini alternative download github local llm ollama setup guide tutorial api  2026",
             "url": "https://github.com/anthropic-claude-code-ai/free-claude-code-ai-desktop-app",
-            "stars": 318,
+            "stars": 323,
+            "forks": 0,
+            "score": 56
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "metamask-openclaw",
+            "full_name": "veryyoldman/metamask-openclaw",
+            "description": "\ud83e\udd8a OpenClaw \u2014 a safety-first MetaMask SDK toolkit & AI-agent skill. Connect wallets, read balances, sign messages and send transactions on Ethereum, Polygon, Base, Arbitrum & all EVM chains. TypeScript-first, one-line connect, never touches your seed phrase.",
+            "url": "https://github.com/veryyoldman/metamask-openclaw",
+            "stars": 208,
             "forks": 0,
             "score": 56
         },
@@ -150,31 +150,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "zhristophe/Claude-Mythos-AI-Anthropic-App",
             "description": "claude mythos ai anthropic app github open source desktop mobile client abhishekk130804 anthropic api key creative writing roleplay character cards deep reasoning chain of thought system prompts jailbreak windows macos linux android apk next js electron tauri python rust download setup guide tutorial latest version 2026 free update",
             "url": "https://github.com/zhristophe/Claude-Mythos-AI-Anthropic-App",
-            "stars": 366,
+            "stars": 372,
             "forks": 1,
             "score": 53
         },
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "no_ai_slop_writing_rules",
-            "full_name": "realrossmanngroup/no_ai_slop_writing_rules",
-            "description": "Claude Code reference: write in Louis Rossmann's voice, never like AI slop. Portable CLAUDE.md plus skills.",
-            "url": "https://github.com/realrossmanngroup/no_ai_slop_writing_rules",
-            "stars": 272,
-            "forks": 36,
-            "score": 53
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "agentic-ai-system-course",
-            "full_name": "bryanyzhu/agentic-ai-system-course",
-            "description": "Use agent to learn agent - A skeleton course on how to design, build, and operate production AI agents ",
-            "url": "https://github.com/bryanyzhu/agentic-ai-system-course",
-            "stars": 305,
-            "forks": 47,
-            "score": 52
+            "name": "harness-anything",
+            "full_name": "yb2460/harness-anything",
+            "description": "CLI harness for WPS Office -- let AI agents control Writer, Calc & Impress via COM automation",
+            "url": "https://github.com/yb2460/harness-anything",
+            "stars": 242,
+            "forks": 15,
+            "score": 51
         },
         {
             "main_cat": "AI",
@@ -183,7 +172,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "VILA-Lab/FigMirror",
             "description": "An Automated AI Agent Tool for Plotting Your Data in Any Paper's Figure Style.",
             "url": "https://github.com/VILA-Lab/FigMirror",
-            "stars": 390,
+            "stars": 393,
             "forks": 24,
             "score": 50
         },
@@ -194,8 +183,30 @@ const ALPHA_DATA_V2 = {
             "full_name": "Astraltenprosper/uncensored-ai-image-video-generator",
             "description": "AI tool for generating uncensored images and videos (18+)",
             "url": "https://github.com/Astraltenprosper/uncensored-ai-image-video-generator",
-            "stars": 369,
+            "stars": 380,
             "forks": 19,
+            "score": 50
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "agentic-ai-system-course",
+            "full_name": "bryanyzhu/agentic-ai-system-course",
+            "description": "Use agent to learn agent - A skeleton course on how to design, build, and operate production AI agents ",
+            "url": "https://github.com/bryanyzhu/agentic-ai-system-course",
+            "stars": 305,
+            "forks": 47,
+            "score": 50
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "no_ai_slop_writing_rules",
+            "full_name": "realrossmanngroup/no_ai_slop_writing_rules",
+            "description": "Claude Code reference: write in Louis Rossmann's voice, never like AI slop. Portable CLAUDE.md plus skills.",
+            "url": "https://github.com/realrossmanngroup/no_ai_slop_writing_rules",
+            "stars": 275,
+            "forks": 36,
             "score": 50
         },
         {
@@ -205,19 +216,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "mikaeldengale-cloud/Deepseek-v4-Pro-App",
             "description": "deepseek v4 flash pro chat  api  app windows 11 desktop client github open source ai assistant chatbot coding agent moe model 1.6t parameters free api setup guide reasoning max mode local deployment",
             "url": "https://github.com/mikaeldengale-cloud/Deepseek-v4-Pro-App",
-            "stars": 423,
+            "stars": 433,
             "forks": 0,
-            "score": 49
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "harness-anything",
-            "full_name": "yb2460/harness-anything",
-            "description": "CLI harness for WPS Office -- let AI agents control Writer, Calc & Impress via COM automation",
-            "url": "https://github.com/yb2460/harness-anything",
-            "stars": 206,
-            "forks": 15,
             "score": 49
         },
         {
@@ -238,20 +238,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "veryyoldman/Genspark-AI",
             "description": "Genspark AI open-source, self-hosted Super Agent. Free alternative to Genspark.ai with multi-agent orchestration, deep research, Sparkpages, AI slides & sheets, image generation and 80+ tools. One-command Windows install. Run locally with any LLM (OpenAI, Anthropic, Gemini, Ollama)",
             "url": "https://github.com/veryyoldman/Genspark-AI",
-            "stars": 358,
+            "stars": 365,
             "forks": 2,
             "score": 46
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "cursor_agent_status_light",
-            "full_name": "JasonLam08/cursor_agent_status_light",
-            "description": "A BLE-powered status light for Cursor Agent, using ESP32-C3 to visualize AI coding states such as thinking, busy,  success, error, and waiting for user action. \u57fa\u4e8e ESP32-C3 \u7684 Cursor Agent BLE \u72b6\u6001\u706f\uff0c\u7528\u7ea2\u7eff\u706f\u76f4\u89c2\u663e\u793a AI \u7f16\u7a0b\u8fc7\u7a0b\u4e2d\u7684\u601d\u8003\u3001\u5fd9\u788c\u3001\u6210\u529f\u3001\u9519\u8bef\u4ee5\u53ca\u7b49\u5f85\u7528\u6237\u64cd\u4f5c \u7b49\u72b6\u6001\u3002",
-            "url": "https://github.com/JasonLam08/cursor_agent_status_light",
-            "stars": 183,
-            "forks": 26,
-            "score": 45
         },
         {
             "main_cat": "AI",
@@ -260,8 +249,19 @@ const ALPHA_DATA_V2 = {
             "full_name": "simonlin1212/global-stock-data",
             "description": "\u7f8e\u80a1\u6e2f\u80a1\u5168\u6808\u6570\u636e\u5de5\u5177\u5305 (AI Skill) \u2014 7\u5c42\u67b6\u6784 \u00b7 17\u7aef\u70b9 \u00b7 5\u6570\u636e\u6e90 \u00b7 \u96f6\u9274\u6743 | US & HK Stock Full-Stack Data Toolkit for AI Coding Assistants",
             "url": "https://github.com/simonlin1212/global-stock-data",
-            "stars": 214,
+            "stars": 216,
             "forks": 49,
+            "score": 44
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "cursor_agent_status_light",
+            "full_name": "JasonLam08/cursor_agent_status_light",
+            "description": "A BLE-powered status light for Cursor Agent, using ESP32-C3 to visualize AI coding states such as thinking, busy,  success, error, and waiting for user action. \u57fa\u4e8e ESP32-C3 \u7684 Cursor Agent BLE \u72b6\u6001\u706f\uff0c\u7528\u7ea2\u7eff\u706f\u76f4\u89c2\u663e\u793a AI \u7f16\u7a0b\u8fc7\u7a0b\u4e2d\u7684\u601d\u8003\u3001\u5fd9\u788c\u3001\u6210\u529f\u3001\u9519\u8bef\u4ee5\u53ca\u7b49\u5f85\u7528\u6237\u64cd\u4f5c \u7b49\u72b6\u6001\u3002",
+            "url": "https://github.com/JasonLam08/cursor_agent_status_light",
+            "stars": 185,
+            "forks": 26,
             "score": 44
         },
         {
@@ -271,7 +271,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "scheidydude/codeindex",
             "description": "Repo dependency analyzer with **blast-radius impact scoring** for AI-assisted development.",
             "url": "https://github.com/scheidydude/codeindex",
-            "stars": 253,
+            "stars": 254,
             "forks": 34,
             "score": 43
         },
@@ -306,7 +306,7 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/next-1688/1688-cowboy",
             "stars": 269,
             "forks": 0,
-            "score": 40
+            "score": 39
         },
         {
             "main_cat": "AI",
@@ -326,7 +326,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "vincelele/ai-fomo-skills",
             "description": "Personal superalignment skills for turning AI information overload into reusable knowledge, signals, and digests.",
             "url": "https://github.com/vincelele/ai-fomo-skills",
-            "stars": 230,
+            "stars": 232,
             "forks": 0,
             "score": 37
         },
@@ -337,7 +337,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Health-Yang/MineEcho",
             "description": "Local-first Memory OS for personal AI assistants with L0-L3 memory, Wiki++ knowledge, skill routing, and TokenLess context compression.",
             "url": "https://github.com/Health-Yang/MineEcho",
-            "stars": 32,
+            "stars": 35,
             "forks": 5,
             "score": 34
         },
@@ -359,7 +359,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "asdfo123/ForgeWM",
             "description": "Train a real-time, playable Minecraft Video World Models on 8 GPUs \u2014 keyboard & mouse control, fully open and reproducible.",
             "url": "https://github.com/asdfo123/ForgeWM",
-            "stars": 39,
+            "stars": 42,
             "forks": 0,
             "score": 33
         },
@@ -370,7 +370,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "SikamikanikoBG/homelab-monitor",
             "description": "Plug-and-play homelab dashboard in one container \u2014 GPU, local-AI model VRAM, Docker, systemd and host health. One page, no Prometheus/Grafana.",
             "url": "https://github.com/SikamikanikoBG/homelab-monitor",
-            "stars": 6,
+            "stars": 7,
             "forks": 4,
             "score": 31
         },
@@ -392,7 +392,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "rustfs/GPUCache",
             "description": "A PB-scale, ultra-low latency distributed GPU cache for AI inference. Built with Rust, NVIDIA DOCA, RDMA, and BF-4 DPUs to bridge GPU HBM and NVMe storage, eliminating the recompute tax for large language models.",
             "url": "https://github.com/rustfs/GPUCache",
-            "stars": 8,
+            "stars": 9,
             "forks": 0,
             "score": 30
         },
@@ -619,32 +619,21 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "Stablecoin Infrastructure",
             "sub_cat": null,
+            "name": "UPICrypto",
+            "full_name": "ritulrashi/UPICrypto",
+            "description": "Decentralized cross-border payment infrastructure on Ethereum and Polygon \u2014 ERC-20 stablecoin, ZK proof privacy, L1/L2 bridge, gasless transactions, Go backend API, React dashboard, React Native mobile app",
+            "url": "https://github.com/ritulrashi/UPICrypto",
+            "stars": 0,
+            "forks": 0,
+            "score": 30
+        },
+        {
+            "main_cat": "Stablecoin Infrastructure",
+            "sub_cat": null,
             "name": "Neuro",
             "full_name": "miciexchanger-ops/Neuro",
             "description": "INDIENATION Ecosystem: A global crypto-fintech network integrating IND-EUR stablecoin, 1001NDONESIA Wallet, NFT debit cards, and eNFTverse. It enables cross-border payments, property, tourism, and UMKM trade, blending European financial power with Indonesian culture, arts & innovation.",
             "url": "https://github.com/miciexchanger-ops/Neuro",
-            "stars": 0,
-            "forks": 0,
-            "score": 30
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI Agents",
-            "name": "autonomous-agent-payment-rails",
-            "full_name": "akash8987/autonomous-agent-payment-rails",
-            "description": "A professional-grade implementation for the 2026 AI-Blockchain convergence, providing programmable, non-custodial payment infrastructure for AI agents to settle compute, data, and API costs autonomously using stablecoins and Account Abstraction.",
-            "url": "https://github.com/akash8987/autonomous-agent-payment-rails",
-            "stars": 0,
-            "forks": 0,
-            "score": 30
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "ChainOps",
-            "full_name": "X-roz/ChainOps",
-            "description": "ChainOps is an open-source Ethereum wallet monitoring and operational reporting platform that provides real-time transaction tracking, historical activity indexing, payment visibility, and audit-friendly export/reporting for ETH and stablecoin transactions.",
-            "url": "https://github.com/X-roz/ChainOps",
             "stars": 0,
             "forks": 0,
             "score": 30
@@ -681,9 +670,45 @@ const ALPHA_DATA_V2 = {
             "stars": 0,
             "forks": 0,
             "score": 30
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "umcp-protocol",
+            "full_name": "Meduria/umcp-protocol",
+            "description": "UMCP (Unified Memory Context Protocol) is a protocol for persistent, cross-model memory sharing between AI systems.",
+            "url": "https://github.com/Meduria/umcp-protocol",
+            "stars": 0,
+            "forks": 0,
+            "score": 30
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI Agents",
+            "name": "SIC-JS_3.0",
+            "full_name": "Endwar116/SIC-JS_3.0",
+            "description": "SIC-JS v3.0 \u2014 Semantic Integrity Control JSON. An AI agent semantic state protocol for cross-session, cross-model state persistence and verification.",
+            "url": "https://github.com/Endwar116/SIC-JS_3.0",
+            "stars": 0,
+            "forks": 0,
+            "score": 30
         }
     ],
     "news": [
+        {
+            "title": "Stateful Online Monitoring Catches Distributed Agent Attacks",
+            "source": "ArXiv",
+            "type": "Research Alpha",
+            "color": "text-indigo-600",
+            "url": "http://arxiv.org/abs/2605.31593v1"
+        },
+        {
+            "title": "High-rate and computationally-efficient seedless extractors for device-independent quantum cryptography",
+            "source": "ArXiv",
+            "type": "Research Alpha",
+            "color": "text-indigo-600",
+            "url": "http://arxiv.org/abs/2605.31525v1"
+        },
         {
             "title": "Bitcoin volatility remains high ahead of key FED decision.",
             "source": "Polymarket",
@@ -692,5 +717,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-06-01 00:01"
+    "timestamp": "2026-06-01 05:55"
 };
