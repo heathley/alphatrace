@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "pewdiepie-archdaemon/odysseus",
             "description": "Self-hosted AI workspace. ",
             "url": "https://github.com/pewdiepie-archdaemon/odysseus",
-            "stars": 17530,
-            "forks": 2181,
+            "stars": 19705,
+            "forks": 2416,
             "score": 99
         },
         {
@@ -18,8 +18,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "OpenBMB/PilotDeck",
             "description": "Task-oriented AI Agent productivity platform",
             "url": "https://github.com/OpenBMB/PilotDeck",
-            "stars": 2702,
-            "forks": 255,
+            "stars": 2722,
+            "forks": 258,
             "score": 99
         },
         {
@@ -29,8 +29,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "GordenSun/GordenPPTSkill",
             "description": "AI-friendly PPT builder skill: 17 hand-polished Chinese PPTX templates + non-destructive text-only editing tools (python-pptx based). Pick a template, write edits.json, build a real .pptx with the layout intact. Personal/research use only.",
             "url": "https://github.com/GordenSun/GordenPPTSkill",
-            "stars": 1366,
-            "forks": 126,
+            "stars": 1381,
+            "forks": 127,
             "score": 99
         },
         {
@@ -41,7 +41,7 @@ const ALPHA_DATA_V2 = {
             "description": "Your AI forgets. This remembers. Spec-driven coding harness for vibecoders, product owners, CEOs and real builders \u2014 self-improving context memory, 12 agents, 32 skills. Kills context rot, ships features, not spaghetti. Claude Code & Codex. Any stack. 30 seconds",
             "url": "https://github.com/withkynam/vibecode-pro-max-kit",
             "stars": 699,
-            "forks": 168,
+            "forks": 169,
             "score": 99
         },
         {
@@ -51,8 +51,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "asz798838958/aBaiAutoplus",
             "description": "\u591a\u5e73\u53f0 AI \u8d26\u53f7\u81ea\u52a8\u6ce8\u518c\u4e0e\u7ba1\u7406 \u00b7 \u534f\u8bae\u5316\u4ed8\u6b3e\u4e00\u952e\u5f00\u901a ChatGPT Plus",
             "url": "https://github.com/asz798838958/aBaiAutoplus",
-            "stars": 593,
-            "forks": 365,
+            "stars": 613,
+            "forks": 373,
             "score": 99
         },
         {
@@ -63,7 +63,7 @@ const ALPHA_DATA_V2 = {
             "description": "Official docs for PolyMomentum \u2014 Polymarket CLOB V2 integration, trading strategies, bot architecture, and OpenClaw/MCP AI workflows.",
             "url": "https://github.com/PolyMomentum-Labs/.github",
             "stars": 287,
-            "forks": 3215,
+            "forks": 3444,
             "score": 99
         },
         {
@@ -73,9 +73,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "study8677/awesome-architecture",
             "description": "\ud83d\uddfa\ufe0f Think like a software architect, not just a coder \u2014 21 architecture maps (incl. AI gateway, RAG, agents, inference serving, vector DB) + a language-agnostic system-design tutorial. Every template links to real open-source prototypes. \u4e2d\u82f1\u6587\u53cc\u8bed\u3002",
             "url": "https://github.com/study8677/awesome-architecture",
-            "stars": 1104,
-            "forks": 113,
-            "score": 94
+            "stars": 1109,
+            "forks": 114,
+            "score": 95
         },
         {
             "main_cat": "AI",
@@ -84,9 +84,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "liyue-aigc/female-portrait-director",
             "description": "A modular Codex Skill for directing and expanding detailed AI female portrait prompts.",
             "url": "https://github.com/liyue-aigc/female-portrait-director",
-            "stars": 389,
-            "forks": 58,
-            "score": 92
+            "stars": 401,
+            "forks": 60,
+            "score": 94
         },
         {
             "main_cat": "AI",
@@ -96,7 +96,7 @@ const ALPHA_DATA_V2 = {
             "description": "Open-source backend-as-a-service. Postgres, auth, storage, functions, AI gateway, MCP.",
             "url": "https://github.com/butterbase-ai/butterbase-oss",
             "stars": 1018,
-            "forks": 93,
+            "forks": 94,
             "score": 76
         },
         {
@@ -106,7 +106,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "XingYu-Zhong/DeepSeek-GUI",
             "description": "AI agent workspace for DeepSeek models, with Code and Claw modes built into your application.",
             "url": "https://github.com/XingYu-Zhong/DeepSeek-GUI",
-            "stars": 786,
+            "stars": 793,
             "forks": 72,
             "score": 68
         },
@@ -117,20 +117,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "DannyMac180/skills",
             "description": "AI agent skills created by me: Dan McAteer",
             "url": "https://github.com/DannyMac180/skills",
-            "stars": 301,
+            "stars": 309,
             "forks": 25,
-            "score": 63
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "antigravity-cli",
-            "full_name": "antigravity-cli-google/antigravity-cli",
-            "description": "google antigravity cli ide github agentic development platform gemini 3.5 flash terminal ai agent automatic coding workspace installation guide tutorial windows mac linux",
-            "url": "https://github.com/antigravity-cli-google/antigravity-cli",
-            "stars": 199,
-            "forks": 0,
-            "score": 63
+            "score": 64
         },
         {
             "main_cat": "AI",
@@ -139,9 +128,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "veryyoldman/metamask-openclaw",
             "description": "\ud83e\udd8a OpenClaw \u2014 a safety-first MetaMask SDK toolkit & AI-agent skill. Connect wallets, read balances, sign messages and send transactions on Ethereum, Polygon, Base, Arbitrum & all EVM chains. TypeScript-first, one-line connect, never touches your seed phrase.",
             "url": "https://github.com/veryyoldman/metamask-openclaw",
-            "stars": 234,
+            "stars": 242,
             "forks": 0,
-            "score": 59
+            "score": 60
         },
         {
             "main_cat": "AI",
@@ -150,8 +139,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "boona13/image-extender",
             "description": "Seamlessly extend any image in any direction with AI. Open-source web app powered by Gemini via OpenRouter, with Poisson-blended seams and best-of-3 variant picker.",
             "url": "https://github.com/boona13/image-extender",
-            "stars": 284,
-            "forks": 38,
+            "stars": 337,
+            "forks": 41,
             "score": 57
         },
         {
@@ -161,20 +150,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "cclank/lanshu-awesome-ai-video-kit",
             "description": "\u505a\u4f01\u4e1a AI \u89c6\u9891\u9879\u76ee\u903c\u51fa\u6765\u7684\u5de5\u5177\u5305 \u00b7 411 prompt \u00b7 15 \u6a21\u578b \u00b7 7 Claude Skill \u00b7 14 \u7bc7\u65b9\u6cd5\u8bba",
             "url": "https://github.com/cclank/lanshu-awesome-ai-video-kit",
-            "stars": 240,
+            "stars": 241,
             "forks": 63,
             "score": 57
         },
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "Claude-Mythos-AI-Anthropic-App",
-            "full_name": "zhristophe/Claude-Mythos-AI-Anthropic-App",
-            "description": "claude mythos ai anthropic app github open source desktop mobile client abhishekk130804 anthropic api key creative writing roleplay character cards deep reasoning chain of thought system prompts jailbreak windows macos linux android apk next js electron tauri python rust download setup guide tutorial latest version 2026 free update",
-            "url": "https://github.com/zhristophe/Claude-Mythos-AI-Anthropic-App",
-            "stars": 390,
-            "forks": 1,
-            "score": 54
+            "name": "antigravity-cli",
+            "full_name": "antigravity-cli-google/antigravity-cli",
+            "description": "google antigravity cli ide github agentic development platform gemini 3.5 flash terminal ai agent automatic coding workspace installation guide tutorial windows mac linux",
+            "url": "https://github.com/antigravity-cli-google/antigravity-cli",
+            "stars": 208,
+            "forks": 0,
+            "score": 56
         },
         {
             "main_cat": "AI",
@@ -183,7 +172,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "anthropic-claude-code-ai/free-claude-code-ai-desktop-app",
             "description": "claude code ai free desktop app  api cli open source opencode aider gemini alternative download github local llm ollama setup guide tutorial api  2026",
             "url": "https://github.com/anthropic-claude-code-ai/free-claude-code-ai-desktop-app",
-            "stars": 337,
+            "stars": 342,
             "forks": 0,
             "score": 54
         },
@@ -194,9 +183,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "Astraltenprosper/uncensored-ai-image-video-generator",
             "description": "AI tool for generating uncensored images and videos (18+)",
             "url": "https://github.com/Astraltenprosper/uncensored-ai-image-video-generator",
-            "stars": 398,
+            "stars": 401,
             "forks": 21,
-            "score": 51
+            "score": 52
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "Claude-Mythos-AI-Anthropic-App",
+            "full_name": "zhristophe/Claude-Mythos-AI-Anthropic-App",
+            "description": "claude mythos ai anthropic app github open source desktop mobile client abhishekk130804 anthropic api key creative writing roleplay character cards deep reasoning chain of thought system prompts jailbreak windows macos linux android apk next js electron tauri python rust download setup guide tutorial latest version 2026 free update",
+            "url": "https://github.com/zhristophe/Claude-Mythos-AI-Anthropic-App",
+            "stars": 395,
+            "forks": 1,
+            "score": 52
         },
         {
             "main_cat": "AI",
@@ -205,8 +205,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "realrossmanngroup/no_ai_slop_writing_rules",
             "description": "Claude Code reference: write in Louis Rossmann's voice, never like AI slop. Portable CLAUDE.md plus skills.",
             "url": "https://github.com/realrossmanngroup/no_ai_slop_writing_rules",
-            "stars": 276,
-            "forks": 36,
+            "stars": 278,
+            "forks": 37,
             "score": 51
         },
         {
@@ -238,7 +238,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "VILA-Lab/FigMirror",
             "description": "An Automated AI Agent Tool for Plotting Your Data in Any Paper's Figure Style.",
             "url": "https://github.com/VILA-Lab/FigMirror",
-            "stars": 399,
+            "stars": 400,
             "forks": 24,
             "score": 49
         },
@@ -249,7 +249,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "mikaeldengale-cloud/Deepseek-v4-Pro-App",
             "description": "deepseek v4 flash pro chat  api  app windows 11 desktop client github open source ai assistant chatbot coding agent moe model 1.6t parameters free api setup guide reasoning max mode local deployment",
             "url": "https://github.com/mikaeldengale-cloud/Deepseek-v4-Pro-App",
-            "stars": 451,
+            "stars": 455,
             "forks": 0,
             "score": 48
         },
@@ -260,7 +260,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "veryyoldman/Genspark-AI",
             "description": "Genspark AI open-source, self-hosted Super Agent. Free alternative to Genspark.ai with multi-agent orchestration, deep research, Sparkpages, AI slides & sheets, image generation and 80+ tools. One-command Windows install. Run locally with any LLM (OpenAI, Anthropic, Gemini, Ollama)",
             "url": "https://github.com/veryyoldman/Genspark-AI",
-            "stars": 379,
+            "stars": 383,
             "forks": 2,
             "score": 47
         },
@@ -326,7 +326,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "vincelele/ai-fomo-skills",
             "description": "Personal superalignment skills for turning AI information overload into reusable knowledge, signals, and digests.",
             "url": "https://github.com/vincelele/ai-fomo-skills",
-            "stars": 239,
+            "stars": 242,
             "forks": 0,
             "score": 37
         },
@@ -337,7 +337,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Health-Yang/MineEcho",
             "description": "Local-first Memory OS for personal AI assistants with L0-L3 memory, Wiki++ knowledge, skill routing, and TokenLess context compression.",
             "url": "https://github.com/Health-Yang/MineEcho",
-            "stars": 39,
+            "stars": 42,
             "forks": 6,
             "score": 34
         },
@@ -608,21 +608,21 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
-            "name": "deploycheck",
-            "full_name": "SarthakDhatrak/deploycheck",
-            "description": "An autonomous AI Site Reliability Engineer (SRE) built as a Model Context Protocol (MCP) server. It plugs into your IDE to analyze deployments, detect drifts, and automatically diagnose crash logs by cross-referencing your Git history.",
-            "url": "https://github.com/SarthakDhatrak/deploycheck",
-            "stars": 2,
+            "name": "ai-knowledge-base-template",
+            "full_name": "RandyRawgust/ai-knowledge-base-template",
+            "description": "Markdown-based AI operating system you can clone and run. Obsidian vault + Claude Code with 5 dept-head agents (Orchestrator / Builder / Writer / Archivist / Auditor), 11 specialists, 19 slash commands, drift-watcher, cross-model judge protocol.",
+            "url": "https://github.com/RandyRawgust/ai-knowledge-base-template",
+            "stars": 1,
             "forks": 0,
             "score": 30
         },
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
-            "name": "ai-knowledge-base-template",
-            "full_name": "RandyRawgust/ai-knowledge-base-template",
-            "description": "Markdown-based AI operating system you can clone and run. Obsidian vault + Claude Code with 5 dept-head agents (Orchestrator / Builder / Writer / Archivist / Auditor), 11 specialists, 19 slash commands, drift-watcher, cross-model judge protocol.",
-            "url": "https://github.com/RandyRawgust/ai-knowledge-base-template",
+            "name": "deploycheck",
+            "full_name": "SarthakDhatrak/deploycheck",
+            "description": "An autonomous AI Site Reliability Engineer (SRE) built as a Model Context Protocol (MCP) server. It plugs into your IDE to analyze deployments, detect drifts, and automatically diagnose crash logs by cross-referencing your Git history.",
+            "url": "https://github.com/SarthakDhatrak/deploycheck",
             "stars": 1,
             "forks": 0,
             "score": 30
@@ -663,6 +663,20 @@ const ALPHA_DATA_V2 = {
     ],
     "news": [
         {
+            "title": "Stateful Online Monitoring Catches Distributed Agent Attacks",
+            "source": "ArXiv",
+            "type": "Research Alpha",
+            "color": "text-indigo-600",
+            "url": "http://arxiv.org/abs/2605.31593v1"
+        },
+        {
+            "title": "High-rate and computationally-efficient seedless extractors for device-independent quantum cryptography",
+            "source": "ArXiv",
+            "type": "Research Alpha",
+            "color": "text-indigo-600",
+            "url": "http://arxiv.org/abs/2605.31525v1"
+        },
+        {
             "title": "Bitcoin volatility remains high ahead of key FED decision.",
             "source": "Polymarket",
             "type": "Expectation",
@@ -670,5 +684,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-06-01 17:25"
+    "timestamp": "2026-06-01 21:24"
 };
