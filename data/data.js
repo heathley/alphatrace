@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "pewdiepie-archdaemon/odysseus",
             "description": "Self-hosted AI workspace. ",
             "url": "https://github.com/pewdiepie-archdaemon/odysseus",
-            "stars": 6767,
-            "forks": 945,
+            "stars": 7360,
+            "forks": 1036,
             "score": 99
         },
         {
@@ -18,8 +18,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "OpenBMB/PilotDeck",
             "description": "Task-oriented AI Agent productivity platform",
             "url": "https://github.com/OpenBMB/PilotDeck",
-            "stars": 2504,
-            "forks": 233,
+            "stars": 2516,
+            "forks": 234,
             "score": 99
         },
         {
@@ -29,8 +29,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "GordenSun/GordenPPTSkill",
             "description": "AI-friendly PPT builder skill: 17 hand-polished Chinese PPTX templates + non-destructive text-only editing tools (python-pptx based). Pick a template, write edits.json, build a real .pptx with the layout intact. Personal/research use only.",
             "url": "https://github.com/GordenSun/GordenPPTSkill",
-            "stars": 746,
-            "forks": 74,
+            "stars": 770,
+            "forks": 77,
             "score": 99
         },
         {
@@ -40,7 +40,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "withkynam/vibecode-pro-max-kit",
             "description": "Your AI forgets. This remembers. Spec-driven coding harness for vibecoders, product owners, CEOs and real builders \u2014 self-improving context memory, 12 agents, 32 skills. Kills context rot, ships features, not spaghetti. Claude Code & Codex. Any stack. 30 seconds",
             "url": "https://github.com/withkynam/vibecode-pro-max-kit",
-            "stars": 664,
+            "stars": 666,
             "forks": 160,
             "score": 99
         },
@@ -58,35 +58,13 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
-            "name": "smallcode",
-            "full_name": "Doorman11991/smallcode",
-            "description": "AI coding agent optimized for small LLMs. 87% benchmark with 4B-active model.",
-            "url": "https://github.com/Doorman11991/smallcode",
-            "stars": 1683,
-            "forks": 128,
-            "score": 98
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
             "name": "awesome-architecture",
             "full_name": "study8677/awesome-architecture",
             "description": "\ud83d\uddfa\ufe0f Think like a software architect, not just a coder \u2014 21 architecture maps (incl. AI gateway, RAG, agents, inference serving, vector DB) + a language-agnostic system-design tutorial. Every template links to real open-source prototypes. \u4e2d\u82f1\u6587\u53cc\u8bed\u3002",
             "url": "https://github.com/study8677/awesome-architecture",
-            "stars": 1011,
+            "stars": 1014,
             "forks": 103,
             "score": 94
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "infinite-canvas",
-            "full_name": "basketikun/infinite-canvas",
-            "description": "\u9762\u5411AI\u521b\u4f5c\u7684\u5f00\u6e90\u65e0\u9650\u753b\u5e03\u5de5\u4f5c\u53f0\uff0c\u96c6\u6210 AI \u751f\u56fe\u3001\u53c2\u8003\u56fe\u7f16\u8f91\u3001\u89c6\u9891\u751f\u6210\u3001\u753b\u5e03\u7f16\u6392\u3001\u5bf9\u8bdd\u52a9\u624b\u3001\u63d0\u793a\u8bcd\u5e93\u548c\u7d20\u6750\u7ba1\u7406\u7b49\u529f\u80fd\u3001\u517c\u5bb9OpenAI\u63a5\u53e3\uff0c\u652f\u6301chatgpt2api\u3001grok2api\u3001flow2api\u3001newapi\u7b49\u63a5\u5165\u3002",
-            "url": "https://github.com/basketikun/infinite-canvas",
-            "stars": 802,
-            "forks": 178,
-            "score": 80
         },
         {
             "main_cat": "AI",
@@ -95,7 +73,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "liyue-aigc/female-portrait-director",
             "description": "A modular Codex Skill for directing and expanding detailed AI female portrait prompts.",
             "url": "https://github.com/liyue-aigc/female-portrait-director",
-            "stars": 220,
+            "stars": 227,
             "forks": 37,
             "score": 76
         },
@@ -112,17 +90,6 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
-            "sub_cat": null,
-            "name": "humanize-text",
-            "full_name": "lynote-ai/humanize-text",
-            "description": "Free open-source AI text humanizer to convert AI-generated content into undetectable, human-like writing. Bypass Turnitin, GPTZero, and all major AI detectors. No sign-up required. Try our unlimited free online tool",
-            "url": "https://github.com/lynote-ai/humanize-text",
-            "stars": 1041,
-            "forks": 54,
-            "score": 69
-        },
-        {
-            "main_cat": "AI",
             "sub_cat": "AI General",
             "name": "DeepSeek-GUI",
             "full_name": "XingYu-Zhong/DeepSeek-GUI",
@@ -134,14 +101,36 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "metamask-openclaw",
+            "full_name": "veryyoldman/metamask-openclaw",
+            "description": "\ud83e\udd8a OpenClaw \u2014 a safety-first MetaMask SDK toolkit & AI-agent skill. Connect wallets, read balances, sign messages and send transactions on Ethereum, Polygon, Base, Arbitrum & all EVM chains. TypeScript-first, one-line connect, never touches your seed phrase.",
+            "url": "https://github.com/veryyoldman/metamask-openclaw",
+            "stars": 193,
+            "forks": 0,
+            "score": 62
+        },
+        {
+            "main_cat": "AI",
             "sub_cat": null,
             "name": "lanshu-awesome-ai-video-kit",
             "full_name": "cclank/lanshu-awesome-ai-video-kit",
             "description": "\u505a\u4f01\u4e1a AI \u89c6\u9891\u9879\u76ee\u903c\u51fa\u6765\u7684\u5de5\u5177\u5305 \u00b7 411 prompt \u00b7 15 \u6a21\u578b \u00b7 7 Claude Skill \u00b7 14 \u7bc7\u65b9\u6cd5\u8bba",
             "url": "https://github.com/cclank/lanshu-awesome-ai-video-kit",
-            "stars": 234,
-            "forks": 62,
-            "score": 60
+            "stars": 238,
+            "forks": 63,
+            "score": 57
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "skills",
+            "full_name": "DannyMac180/skills",
+            "description": "AI agent skills created by me: Dan McAteer",
+            "url": "https://github.com/DannyMac180/skills",
+            "stars": 213,
+            "forks": 15,
+            "score": 57
         },
         {
             "main_cat": "AI",
@@ -152,17 +141,6 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/anthropic-claude-code-ai/free-claude-code-ai-desktop-app",
             "stars": 318,
             "forks": 0,
-            "score": 56
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "skills",
-            "full_name": "DannyMac180/skills",
-            "description": "AI agent skills created by me: Dan McAteer",
-            "url": "https://github.com/DannyMac180/skills",
-            "stars": 209,
-            "forks": 14,
             "score": 56
         },
         {
@@ -183,20 +161,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "realrossmanngroup/no_ai_slop_writing_rules",
             "description": "Claude Code reference: write in Louis Rossmann's voice, never like AI slop. Portable CLAUDE.md plus skills.",
             "url": "https://github.com/realrossmanngroup/no_ai_slop_writing_rules",
-            "stars": 271,
+            "stars": 272,
             "forks": 36,
             "score": 53
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "uncensored-ai-image-video-generator",
-            "full_name": "Astraltenprosper/uncensored-ai-image-video-generator",
-            "description": "AI tool for generating uncensored images and videos (18+)",
-            "url": "https://github.com/Astraltenprosper/uncensored-ai-image-video-generator",
-            "stars": 368,
-            "forks": 18,
-            "score": 52
         },
         {
             "main_cat": "AI",
@@ -222,6 +189,17 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
+            "sub_cat": null,
+            "name": "uncensored-ai-image-video-generator",
+            "full_name": "Astraltenprosper/uncensored-ai-image-video-generator",
+            "description": "AI tool for generating uncensored images and videos (18+)",
+            "url": "https://github.com/Astraltenprosper/uncensored-ai-image-video-generator",
+            "stars": 369,
+            "forks": 19,
+            "score": 50
+        },
+        {
+            "main_cat": "AI",
             "sub_cat": "AI General",
             "name": "Deepseek-v4-Pro-App",
             "full_name": "mikaeldengale-cloud/Deepseek-v4-Pro-App",
@@ -234,35 +212,13 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "Genspark-AI",
-            "full_name": "veryyoldman/Genspark-AI",
-            "description": "Genspark AI open-source, self-hosted Super Agent. Free alternative to Genspark.ai with multi-agent orchestration, deep research, Sparkpages, AI slides & sheets, image generation and 80+ tools. One-command Windows install. Run locally with any LLM (OpenAI, Anthropic, Gemini, Ollama)",
-            "url": "https://github.com/veryyoldman/Genspark-AI",
-            "stars": 358,
-            "forks": 2,
-            "score": 48
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "DailyBrief",
-            "full_name": "leiting-eric/DailyBrief",
-            "description": "AI \u6bcf\u65e5\u65b0\u95fb\u7b80\u62a5 \u00b7 GitHub \u70ed\u95e8 + X \u70ed\u95e8\u6587\u7ae0 + \u884c\u60c5\u6280\u672f\u5206\u6790 \u00b7 23 \u4e2a\u6570\u636e\u6e90\u805a\u5408 + LLM \u4e2d\u6587\u6458\u8981 \u00b7 \u672c\u5730\u6216 GitHub Actions \u90e8\u7f72",
-            "url": "https://github.com/leiting-eric/DailyBrief",
-            "stars": 206,
-            "forks": 94,
-            "score": 48
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
             "name": "harness-anything",
             "full_name": "yb2460/harness-anything",
             "description": "CLI harness for WPS Office -- let AI agents control Writer, Calc & Impress via COM automation",
             "url": "https://github.com/yb2460/harness-anything",
-            "stars": 204,
+            "stars": 206,
             "forks": 15,
-            "score": 48
+            "score": 49
         },
         {
             "main_cat": "AI",
@@ -274,6 +230,28 @@ const ALPHA_DATA_V2 = {
             "stars": 368,
             "forks": 42,
             "score": 47
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "Genspark-AI",
+            "full_name": "veryyoldman/Genspark-AI",
+            "description": "Genspark AI open-source, self-hosted Super Agent. Free alternative to Genspark.ai with multi-agent orchestration, deep research, Sparkpages, AI slides & sheets, image generation and 80+ tools. One-command Windows install. Run locally with any LLM (OpenAI, Anthropic, Gemini, Ollama)",
+            "url": "https://github.com/veryyoldman/Genspark-AI",
+            "stars": 358,
+            "forks": 2,
+            "score": 46
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "cursor_agent_status_light",
+            "full_name": "JasonLam08/cursor_agent_status_light",
+            "description": "A BLE-powered status light for Cursor Agent, using ESP32-C3 to visualize AI coding states such as thinking, busy,  success, error, and waiting for user action. \u57fa\u4e8e ESP32-C3 \u7684 Cursor Agent BLE \u72b6\u6001\u706f\uff0c\u7528\u7ea2\u7eff\u706f\u76f4\u89c2\u663e\u793a AI \u7f16\u7a0b\u8fc7\u7a0b\u4e2d\u7684\u601d\u8003\u3001\u5fd9\u788c\u3001\u6210\u529f\u3001\u9519\u8bef\u4ee5\u53ca\u7b49\u5f85\u7528\u6237\u64cd\u4f5c \u7b49\u72b6\u6001\u3002",
+            "url": "https://github.com/JasonLam08/cursor_agent_status_light",
+            "stars": 183,
+            "forks": 26,
+            "score": 45
         },
         {
             "main_cat": "AI",
@@ -296,6 +274,28 @@ const ALPHA_DATA_V2 = {
             "stars": 253,
             "forks": 34,
             "score": 43
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "DEEIX-Chat",
+            "full_name": "DEEIX-AI/DEEIX-Chat",
+            "description": "An enterprise AI workspace for model routing, multimodal chat, files, tools, billing, identity, and operations.",
+            "url": "https://github.com/DEEIX-AI/DEEIX-Chat",
+            "stars": 202,
+            "forks": 28,
+            "score": 42
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "agent-oss",
+            "full_name": "quarqlabs/agent-oss",
+            "description": "A recursive evidence-gated cognitive runtime for memory-native AI agents, combining hybrid retrieval, temporal reasoning, async learning, and plug-and-play tools.",
+            "url": "https://github.com/quarqlabs/agent-oss",
+            "stars": 187,
+            "forks": 16,
+            "score": 42
         },
         {
             "main_cat": "AI",
@@ -326,7 +326,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "vincelele/ai-fomo-skills",
             "description": "Personal superalignment skills for turning AI information overload into reusable knowledge, signals, and digests.",
             "url": "https://github.com/vincelele/ai-fomo-skills",
-            "stars": 228,
+            "stars": 230,
             "forks": 0,
             "score": 37
         },
@@ -338,7 +338,7 @@ const ALPHA_DATA_V2 = {
             "description": "Local-first Memory OS for personal AI assistants with L0-L3 memory, Wiki++ knowledge, skill routing, and TokenLess context compression.",
             "url": "https://github.com/Health-Yang/MineEcho",
             "stars": 32,
-            "forks": 4,
+            "forks": 5,
             "score": 34
         },
         {
@@ -366,22 +366,22 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
+            "name": "homelab-monitor",
+            "full_name": "SikamikanikoBG/homelab-monitor",
+            "description": "Plug-and-play homelab dashboard in one container \u2014 GPU, local-AI model VRAM, Docker, systemd and host health. One page, no Prometheus/Grafana.",
+            "url": "https://github.com/SikamikanikoBG/homelab-monitor",
+            "stars": 6,
+            "forks": 4,
+            "score": 31
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
             "name": "BIM-2",
             "full_name": "tgakathunderr/BIM-2",
             "description": "Biologically inspired language model using Jaccard Surprise as its only training signal. No backprop. No GPU. Online Hebbian learning from corrections. Two-layer cortex with apical feedback. Runs on CPU under 200MB.",
             "url": "https://github.com/tgakathunderr/BIM-2",
             "stars": 16,
-            "forks": 0,
-            "score": 30
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "ai-local-executive-team",
-            "full_name": "TechFreq/ai-local-executive-team",
-            "description": "A fully local multi-agent AI board \u2014 CEO, CTO, CFO, CPO, COO running on your own GPU/CPU. No cloud. Just Local Models.",
-            "url": "https://github.com/TechFreq/ai-local-executive-team",
-            "stars": 9,
             "forks": 0,
             "score": 30
         },
@@ -419,17 +419,6 @@ const ALPHA_DATA_V2 = {
             "score": 30
         },
         {
-            "main_cat": "RWA",
-            "sub_cat": null,
-            "name": "ApexCalculus",
-            "full_name": "KingzLabs/ApexCalculus",
-            "description": "A yield-rebalancing clearing house for tokenized Real-World Assets (RWAs) and institutional money market vaults, splitting pooled capital into distinct risk-and-reward profiles.",
-            "url": "https://github.com/KingzLabs/ApexCalculus",
-            "stars": 0,
-            "forks": 0,
-            "score": 30
-        },
-        {
             "main_cat": "AI",
             "sub_cat": "AI General",
             "name": "Auralis-Finance",
@@ -452,17 +441,6 @@ const ALPHA_DATA_V2 = {
             "score": 30
         },
         {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "StellarYield",
-            "full_name": "deborahamoni0-prog/StellarYield",
-            "description": "StellarYield (the \"Liquidity Rain\" protocol) is a decentralized real-world asset (RWA) yield aggregator built on the Soroban Network (Stellar) and integrated with the Drips Protocol. While conventional RWA platforms simply tokenize static assets like property deeds, StellarYield focuses on tokenizing and immediately streaming the underlying cash ",
-            "url": "https://github.com/deborahamoni0-prog/StellarYield",
-            "stars": 0,
-            "forks": 0,
-            "score": 30
-        },
-        {
             "main_cat": "Prediction Markets",
             "sub_cat": null,
             "name": "Achoja-Akpovona-",
@@ -470,17 +448,6 @@ const ALPHA_DATA_V2 = {
             "description": "social media mobile app** that combines features similar to **Facebook, Instagram, TikTok, and Snapchat**, with a focus on:  - Short\u2011form video and photo content.   - Stories and live\u2011streaming.   - Live \u201cbattle\u201d rooms where creators compete (e.g., artists, influencers).   - Token\u2011based betting and prediction markets around these battles.  ",
             "url": "https://github.com/achojagrace/Achoja-Akpovona-",
             "stars": 1,
-            "forks": 0,
-            "score": 30
-        },
-        {
-            "main_cat": "Prediction Markets",
-            "sub_cat": null,
-            "name": "prediction-market-projects",
-            "full_name": "pranay123-stack/prediction-market-projects",
-            "description": "Decentralized prediction market implementations \u2014 outcome tokens, LMSR/CPMM pricing, oracle resolution, sports betting, futarchy, and market infrastructure",
-            "url": "https://github.com/pranay123-stack/prediction-market-projects",
-            "stars": 0,
             "forks": 0,
             "score": 30
         },
@@ -542,11 +509,11 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
-            "name": "The-Stablecoins-Commerce-Stack",
-            "full_name": "riz82/The-Stablecoins-Commerce-Stack",
-            "description": "Stablecoin-powered commerce stack enabling fast, secure, scalable blockchain payments.",
-            "url": "https://github.com/riz82/The-Stablecoins-Commerce-Stack",
-            "stars": 1,
+            "name": "edged",
+            "full_name": "OutstandingVick/edged",
+            "description": "Edged is an autonomous AI prediction-market agent that scans Polymarket, reasons publicly, sizes bets with Kelly Criterion, and executes test USDC actions through Circle wallets on Arc Testnet.",
+            "url": "https://github.com/OutstandingVick/edged",
+            "stars": 0,
             "forks": 0,
             "score": 30
         },
@@ -608,17 +575,6 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "Stablecoin Infrastructure",
             "sub_cat": null,
-            "name": "web3-payments-projects",
-            "full_name": "pranay123-stack/web3-payments-projects",
-            "description": "Web3 payments & remittance \u2014 stablecoin transfers, payment streaming, cross-border remittance, merchant gateways, payroll, invoicing, micropayments, escrow, and full-stack payment infrastructure",
-            "url": "https://github.com/pranay123-stack/web3-payments-projects",
-            "stars": 0,
-            "forks": 0,
-            "score": 30
-        },
-        {
-            "main_cat": "Stablecoin Infrastructure",
-            "sub_cat": null,
             "name": "SolAUDDPay",
             "full_name": "Tanuu21/SolAUDDPay",
             "description": "Full-stack Solana stablecoin super app for AUDD, USDC & USDG payments, treasury management, and merchant invoicing with Solana Pay QR codes.",
@@ -641,10 +597,32 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
-            "name": "huma-finannce.github.io",
-            "full_name": "huma-finannce/huma-finannce.github.io",
-            "description": "Huma Finance is a decentralized PayFi network utilizing stablecoins and on-chain liquidity to enable instant, 24/7 real-world global payment settlements.",
-            "url": "https://github.com/huma-finannce/huma-finannce.github.io",
+            "name": "OmnisRouter",
+            "full_name": "Devendurance/OmnisRouter",
+            "description": "OmnisRouter is an AI stablecoin payment agent that lets users send USDC across chains without manually dealing with bridges, gas tokens, routing, or network confusion.",
+            "url": "https://github.com/Devendurance/OmnisRouter",
+            "stars": 0,
+            "forks": 0,
+            "score": 30
+        },
+        {
+            "main_cat": "Stablecoin Infrastructure",
+            "sub_cat": null,
+            "name": "fireblocks",
+            "full_name": "api-evangelist/fireblocks",
+            "description": "Fireblocks is an institutional digital-asset and stablecoin infrastructure company providing MPC-secured custody, wallets (custodial and non-custodial / embedded), payments, tokenization, staking, smart contracts, off-exchange settlement, and DeFi security to trading firms, fintechs, exchanges, payment service providers, banks, financial\u2026",
+            "url": "https://github.com/api-evangelist/fireblocks",
+            "stars": 0,
+            "forks": 0,
+            "score": 30
+        },
+        {
+            "main_cat": "Stablecoin Infrastructure",
+            "sub_cat": null,
+            "name": "Neuro",
+            "full_name": "miciexchanger-ops/Neuro",
+            "description": "INDIENATION Ecosystem: A global crypto-fintech network integrating IND-EUR stablecoin, 1001NDONESIA Wallet, NFT debit cards, and eNFTverse. It enables cross-border payments, property, tourism, and UMKM trade, blending European financial power with Indonesian culture, arts & innovation.",
+            "url": "https://github.com/miciexchanger-ops/Neuro",
             "stars": 0,
             "forks": 0,
             "score": 30
@@ -652,10 +630,10 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI Agents",
-            "name": "NovaMesh-Contract",
-            "full_name": "Legacy-Protocol/NovaMesh-Contract",
-            "description": "NovaMesh is a unified platform where developers monetize AI agents (trading bots, analytics tools, automation workflows) and users discover, test, and pay for agent services using instant stablecoin payments.",
-            "url": "https://github.com/Legacy-Protocol/NovaMesh-Contract",
+            "name": "autonomous-agent-payment-rails",
+            "full_name": "akash8987/autonomous-agent-payment-rails",
+            "description": "A professional-grade implementation for the 2026 AI-Blockchain convergence, providing programmable, non-custodial payment infrastructure for AI agents to settle compute, data, and API costs autonomously using stablecoins and Account Abstraction.",
+            "url": "https://github.com/akash8987/autonomous-agent-payment-rails",
             "stars": 0,
             "forks": 0,
             "score": 30
@@ -663,10 +641,10 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
-            "name": "OmnisRouter",
-            "full_name": "Devendurance/OmnisRouter",
-            "description": "OmnisRouter is an AI stablecoin payment agent that lets users send USDC across chains without manually dealing with bridges, gas tokens, routing, or network confusion.",
-            "url": "https://github.com/Devendurance/OmnisRouter",
+            "name": "ChainOps",
+            "full_name": "X-roz/ChainOps",
+            "description": "ChainOps is an open-source Ethereum wallet monitoring and operational reporting platform that provides real-time transaction tracking, historical activity indexing, payment visibility, and audit-friendly export/reporting for ETH and stablecoin transactions.",
+            "url": "https://github.com/X-roz/ChainOps",
             "stars": 0,
             "forks": 0,
             "score": 30
@@ -707,20 +685,6 @@ const ALPHA_DATA_V2 = {
     ],
     "news": [
         {
-            "title": "DP-SAPF: Saliency-Aware Parameter Fine-tuning of Public Models for Differentially Private Image Synthesis",
-            "source": "ArXiv",
-            "type": "Research Alpha",
-            "color": "text-indigo-600",
-            "url": "http://arxiv.org/abs/2605.30312v1"
-        },
-        {
-            "title": "bpK#: Delegatable Pseudonyms And Their Applications to National eID Systems",
-            "source": "ArXiv",
-            "type": "Research Alpha",
-            "color": "text-indigo-600",
-            "url": "http://arxiv.org/abs/2605.30212v1"
-        },
-        {
             "title": "Bitcoin volatility remains high ahead of key FED decision.",
             "source": "Polymarket",
             "type": "Expectation",
@@ -728,5 +692,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-05-31 22:54"
+    "timestamp": "2026-06-01 00:01"
 };
