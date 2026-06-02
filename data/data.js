@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "pewdiepie-archdaemon/odysseus",
             "description": "Self-hosted AI workspace. ",
             "url": "https://github.com/pewdiepie-archdaemon/odysseus",
-            "stars": 23265,
-            "forks": 2844,
+            "stars": 25459,
+            "forks": 3098,
             "score": 99
         },
         {
@@ -18,8 +18,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "OpenBMB/PilotDeck",
             "description": "Task-oriented AI Agent productivity platform",
             "url": "https://github.com/OpenBMB/PilotDeck",
-            "stars": 2769,
-            "forks": 266,
+            "stars": 2803,
+            "forks": 270,
             "score": 99
         },
         {
@@ -29,8 +29,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "GordenSun/GordenPPTSkill",
             "description": "AI-friendly PPT builder skill: 17 hand-polished Chinese PPTX templates + non-destructive text-only editing tools (python-pptx based). Pick a template, write edits.json, build a real .pptx with the layout intact. Personal/research use only.",
             "url": "https://github.com/GordenSun/GordenPPTSkill",
-            "stars": 1476,
-            "forks": 132,
+            "stars": 1522,
+            "forks": 136,
             "score": 99
         },
         {
@@ -40,8 +40,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "asz798838958/aBaiAutoplus",
             "description": "\u591a\u5e73\u53f0 AI \u8d26\u53f7\u81ea\u52a8\u6ce8\u518c\u4e0e\u7ba1\u7406 \u00b7 \u534f\u8bae\u5316\u4ed8\u6b3e\u4e00\u952e\u5f00\u901a ChatGPT Plus",
             "url": "https://github.com/asz798838958/aBaiAutoplus",
-            "stars": 718,
-            "forks": 427,
+            "stars": 806,
+            "forks": 464,
             "score": 99
         },
         {
@@ -51,31 +51,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "withkynam/vibecode-pro-max-kit",
             "description": "Your AI forgets. This remembers. Spec-driven coding harness for vibecoders, product owners, CEOs and real builders \u2014 self-improving context memory, 12 agents, 32 skills. Kills context rot, ships features, not spaghetti. Claude Code & Codex. Any stack. 30 seconds",
             "url": "https://github.com/withkynam/vibecode-pro-max-kit",
-            "stars": 706,
+            "stars": 709,
             "forks": 170,
             "score": 99
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": ".github",
-            "full_name": "PolyMomentum-Labs/.github",
-            "description": "Official docs for PolyMomentum \u2014 Polymarket CLOB V2 integration, trading strategies, bot architecture, and OpenClaw/MCP AI workflows.",
-            "url": "https://github.com/PolyMomentum-Labs/.github",
-            "stars": 287,
-            "forks": 3975,
-            "score": 99
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "awesome-architecture",
-            "full_name": "study8677/awesome-architecture",
-            "description": "\ud83d\uddfa\ufe0f Think like a software architect, not just a coder \u2014 21 architecture maps (incl. AI gateway, RAG, agents, inference serving, vector DB) + a language-agnostic system-design tutorial. Every template links to real open-source prototypes. \u4e2d\u82f1\u6587\u53cc\u8bed\u3002",
-            "url": "https://github.com/study8677/awesome-architecture",
-            "stars": 1123,
-            "forks": 116,
-            "score": 91
         },
         {
             "main_cat": "AI",
@@ -84,9 +62,31 @@ const ALPHA_DATA_V2 = {
             "full_name": "liyue-aigc/female-portrait-director",
             "description": "A modular Codex Skill for directing and expanding detailed AI female portrait prompts.",
             "url": "https://github.com/liyue-aigc/female-portrait-director",
-            "stars": 460,
-            "forks": 69,
+            "stars": 475,
+            "forks": 72,
+            "score": 93
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "awesome-architecture",
+            "full_name": "study8677/awesome-architecture",
+            "description": "\ud83d\uddfa\ufe0f Think like a software architect, not just a coder \u2014 21 architecture maps (incl. AI gateway, RAG, agents, inference serving, vector DB) + a language-agnostic system-design tutorial. Every template links to real open-source prototypes. \u4e2d\u82f1\u6587\u53cc\u8bed\u3002",
+            "url": "https://github.com/study8677/awesome-architecture",
+            "stars": 1127,
+            "forks": 116,
             "score": 91
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "image-extender",
+            "full_name": "boona13/image-extender",
+            "description": "Seamlessly extend any image in any direction with AI. Open-source web app powered by Gemini via OpenRouter, with Poisson-blended seams and best-of-3 variant picker.",
+            "url": "https://github.com/boona13/image-extender",
+            "stars": 631,
+            "forks": 71,
+            "score": 80
         },
         {
             "main_cat": "AI",
@@ -101,23 +101,12 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
-            "sub_cat": null,
-            "name": "image-extender",
-            "full_name": "boona13/image-extender",
-            "description": "Seamlessly extend any image in any direction with AI. Open-source web app powered by Gemini via OpenRouter, with Poisson-blended seams and best-of-3 variant picker.",
-            "url": "https://github.com/boona13/image-extender",
-            "stars": 562,
-            "forks": 63,
-            "score": 75
-        },
-        {
-            "main_cat": "AI",
             "sub_cat": "AI General",
             "name": "DeepSeek-GUI",
             "full_name": "XingYu-Zhong/DeepSeek-GUI",
             "description": "AI agent workspace for DeepSeek models, with Code and Claw modes built into your application.",
             "url": "https://github.com/XingYu-Zhong/DeepSeek-GUI",
-            "stars": 814,
+            "stars": 816,
             "forks": 73,
             "score": 69
         },
@@ -128,9 +117,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "DannyMac180/skills",
             "description": "AI agent skills created by me: Dan McAteer",
             "url": "https://github.com/DannyMac180/skills",
-            "stars": 346,
+            "stars": 358,
             "forks": 28,
-            "score": 68
+            "score": 69
         },
         {
             "main_cat": "AI",
@@ -139,9 +128,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "johnbean393/KeyType",
             "description": "An open-source Cotypist with macOS system wide AI autocomplete",
             "url": "https://github.com/johnbean393/KeyType",
-            "stars": 191,
+            "stars": 200,
             "forks": 5,
-            "score": 56
+            "score": 57
         },
         {
             "main_cat": "AI",
@@ -150,8 +139,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "cclank/lanshu-awesome-ai-video-kit",
             "description": "\u505a\u4f01\u4e1a AI \u89c6\u9891\u9879\u76ee\u903c\u51fa\u6765\u7684\u5de5\u5177\u5305 \u00b7 411 prompt \u00b7 15 \u6a21\u578b \u00b7 7 Claude Skill \u00b7 14 \u7bc7\u65b9\u6cd5\u8bba",
             "url": "https://github.com/cclank/lanshu-awesome-ai-video-kit",
-            "stars": 244,
-            "forks": 67,
+            "stars": 246,
+            "forks": 68,
             "score": 55
         },
         {
@@ -161,9 +150,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "antigravity-cli-google/antigravity-cli",
             "description": "google antigravity cli ide github agentic development platform gemini 3.5 flash terminal ai agent automatic coding workspace installation guide tutorial windows mac linux",
             "url": "https://github.com/antigravity-cli-google/antigravity-cli",
-            "stars": 186,
+            "stars": 193,
             "forks": 0,
-            "score": 53
+            "score": 54
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "NS-FW-AI-Image-and-Video-Generator-Uncens",
+            "full_name": "c873089902979/NS-FW-AI-Image-and-Video-Generator-Uncens",
+            "description": "A foundational toolkit for AI-driven image generation, focusing on creative expression and content creation.",
+            "url": "https://github.com/c873089902979/NS-FW-AI-Image-and-Video-Generator-Uncens",
+            "stars": 178,
+            "forks": 1,
+            "score": 52
         },
         {
             "main_cat": "AI",
@@ -172,20 +172,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "yb2460/harness-anything",
             "description": "CLI harness for WPS Office -- let AI agents control Writer, Calc & Impress via COM automation",
             "url": "https://github.com/yb2460/harness-anything",
-            "stars": 284,
-            "forks": 17,
-            "score": 52
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "CapC-Pro-2",
-            "full_name": "gerardapennant96075336582/CapC-Pro-2",
-            "description": "CapCut Pro Studio (2026) \u2014 The ultimate high-performance video editing suite with all premium features unlocked. Experience 4K HDR exporting, AI-powered transitions, and a full professional asset library without limitations.",
-            "url": "https://github.com/gerardapennant96075336582/CapC-Pro-2",
-            "stars": 180,
-            "forks": 0,
-            "score": 52
+            "stars": 297,
+            "forks": 18,
+            "score": 50
         },
         {
             "main_cat": "AI",
@@ -223,13 +212,57 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
+            "name": "CapC-Pro-2",
+            "full_name": "gerardapennant96075336582/CapC-Pro-2",
+            "description": "CapCut Pro Studio (2026) \u2014 The ultimate high-performance video editing suite with all premium features unlocked. Experience 4K HDR exporting, AI-powered transitions, and a full professional asset library without limitations.",
+            "url": "https://github.com/gerardapennant96075336582/CapC-Pro-2",
+            "stars": 180,
+            "forks": 0,
+            "score": 48
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
             "name": "free-claude-code-ai-desktop-app",
             "full_name": "anthropic-claude-code-ai/free-claude-code-ai-desktop-app",
             "description": "claude code ai free desktop app  api cli open source opencode aider gemini alternative download github local llm ollama setup guide tutorial api  2026",
             "url": "https://github.com/anthropic-claude-code-ai/free-claude-code-ai-desktop-app",
-            "stars": 198,
+            "stars": 207,
             "forks": 0,
             "score": 44
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "global-stock-data",
+            "full_name": "simonlin1212/global-stock-data",
+            "description": "\u7f8e\u80a1\u6e2f\u80a1\u5168\u6808\u6570\u636e\u5de5\u5177\u5305 (AI Skill) \u2014 7\u5c42\u67b6\u6784 \u00b7 17\u7aef\u70b9 \u00b7 5\u6570\u636e\u6e90 \u00b7 \u96f6\u9274\u6743 | US & HK Stock Full-Stack Data Toolkit for AI Coding Assistants",
+            "url": "https://github.com/simonlin1212/global-stock-data",
+            "stars": 220,
+            "forks": 49,
+            "score": 43
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "agent-oss",
+            "full_name": "quarqlabs/agent-oss",
+            "description": "A recursive evidence-gated cognitive runtime for memory-native AI agents, combining hybrid retrieval, temporal reasoning, async learning, and plug-and-play tools.",
+            "url": "https://github.com/quarqlabs/agent-oss",
+            "stars": 215,
+            "forks": 19,
+            "score": 43
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "cursor_agent_status_light",
+            "full_name": "JasonLam08/cursor_agent_status_light",
+            "description": "A BLE-powered status light for Cursor Agent, using ESP32-C3 to visualize AI coding states such as thinking, busy,  success, error, and waiting for user action. \u57fa\u4e8e ESP32-C3 \u7684 Cursor Agent BLE \u72b6\u6001\u706f\uff0c\u7528\u7ea2\u7eff\u706f\u76f4\u89c2\u663e\u793a AI \u7f16\u7a0b\u8fc7\u7a0b\u4e2d\u7684\u601d\u8003\u3001\u5fd9\u788c\u3001\u6210\u529f\u3001\u9519\u8bef\u4ee5\u53ca\u7b49\u5f85\u7528\u6237\u64cd\u4f5c \u7b49\u72b6\u6001\u3002",
+            "url": "https://github.com/JasonLam08/cursor_agent_status_light",
+            "stars": 193,
+            "forks": 27,
+            "score": 43
         },
         {
             "main_cat": "AI",
@@ -240,29 +273,7 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/scheidydude/codeindex",
             "stars": 255,
             "forks": 35,
-            "score": 43
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "global-stock-data",
-            "full_name": "simonlin1212/global-stock-data",
-            "description": "\u7f8e\u80a1\u6e2f\u80a1\u5168\u6808\u6570\u636e\u5de5\u5177\u5305 (AI Skill) \u2014 7\u5c42\u67b6\u6784 \u00b7 17\u7aef\u70b9 \u00b7 5\u6570\u636e\u6e90 \u00b7 \u96f6\u9274\u6743 | US & HK Stock Full-Stack Data Toolkit for AI Coding Assistants",
-            "url": "https://github.com/simonlin1212/global-stock-data",
-            "stars": 218,
-            "forks": 49,
-            "score": 43
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "cursor_agent_status_light",
-            "full_name": "JasonLam08/cursor_agent_status_light",
-            "description": "A BLE-powered status light for Cursor Agent, using ESP32-C3 to visualize AI coding states such as thinking, busy,  success, error, and waiting for user action. \u57fa\u4e8e ESP32-C3 \u7684 Cursor Agent BLE \u72b6\u6001\u706f\uff0c\u7528\u7ea2\u7eff\u706f\u76f4\u89c2\u663e\u793a AI \u7f16\u7a0b\u8fc7\u7a0b\u4e2d\u7684\u601d\u8003\u3001\u5fd9\u788c\u3001\u6210\u529f\u3001\u9519\u8bef\u4ee5\u53ca\u7b49\u5f85\u7528\u6237\u64cd\u4f5c \u7b49\u72b6\u6001\u3002",
-            "url": "https://github.com/JasonLam08/cursor_agent_status_light",
-            "stars": 191,
-            "forks": 26,
-            "score": 43
+            "score": 42
         },
         {
             "main_cat": "AI",
@@ -271,19 +282,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "zhristophe/Claude-Mythos-AI-Anthropic-App",
             "description": "claude mythos ai anthropic app github open source desktop mobile client abhishekk130804 anthropic api key creative writing roleplay character cards deep reasoning chain of thought system prompts jailbreak windows macos linux android apk next js electron tauri python rust download setup guide tutorial latest version 2026 free update",
             "url": "https://github.com/zhristophe/Claude-Mythos-AI-Anthropic-App",
-            "stars": 219,
+            "stars": 225,
             "forks": 1,
-            "score": 42
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "agent-oss",
-            "full_name": "quarqlabs/agent-oss",
-            "description": "A recursive evidence-gated cognitive runtime for memory-native AI agents, combining hybrid retrieval, temporal reasoning, async learning, and plug-and-play tools.",
-            "url": "https://github.com/quarqlabs/agent-oss",
-            "stars": 207,
-            "forks": 18,
             "score": 42
         },
         {
@@ -315,9 +315,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "mikaeldengale-cloud/Deepseek-v4-Pro-App",
             "description": "deepseek v4 flash pro chat  api  app windows 11 desktop client github open source ai assistant chatbot coding agent moe model 1.6t parameters free api setup guide reasoning max mode local deployment",
             "url": "https://github.com/mikaeldengale-cloud/Deepseek-v4-Pro-App",
-            "stars": 211,
+            "stars": 218,
             "forks": 0,
-            "score": 38
+            "score": 39
         },
         {
             "main_cat": "AI",
@@ -326,7 +326,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "veryyoldman/Genspark-AI",
             "description": "Genspark AI open-source, self-hosted Super Agent. Free alternative to Genspark.ai with multi-agent orchestration, deep research, Sparkpages, AI slides & sheets, image generation and 80+ tools. One-command Windows install. Run locally with any LLM (OpenAI, Anthropic, Gemini, Ollama)",
             "url": "https://github.com/veryyoldman/Genspark-AI",
-            "stars": 200,
+            "stars": 206,
             "forks": 2,
             "score": 38
         },
@@ -337,8 +337,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "Health-Yang/MineEcho",
             "description": "Local-first Memory OS for personal AI assistants with L0-L3 memory, Wiki++ knowledge, skill routing, and TokenLess context compression.",
             "url": "https://github.com/Health-Yang/MineEcho",
-            "stars": 55,
-            "forks": 7,
+            "stars": 58,
+            "forks": 8,
             "score": 35
         },
         {
@@ -359,7 +359,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "asdfo123/ForgeWM",
             "description": "Train a real-time, playable Minecraft Video World Models on 8 GPUs \u2014 keyboard & mouse control, fully open and reproducible.",
             "url": "https://github.com/asdfo123/ForgeWM",
-            "stars": 47,
+            "stars": 48,
             "forks": 0,
             "score": 33
         },
@@ -584,6 +584,17 @@ const ALPHA_DATA_V2 = {
             "score": 30
         },
         {
+            "main_cat": "AI",
+            "sub_cat": "AI Agents",
+            "name": "ArcVanga",
+            "full_name": "mduyenn/ArcVanga",
+            "description": "Arc Vanga AI is an AI-powered market intelligence platform built on Arc Testnet, showcasing how stablecoin-native infrastructure can power real-world financial experiences through AI agents, USDC payments, portfolio management, and automated investing.",
+            "url": "https://github.com/mduyenn/ArcVanga",
+            "stars": 0,
+            "forks": 0,
+            "score": 30
+        },
+        {
             "main_cat": "Stablecoin Infrastructure",
             "sub_cat": null,
             "name": "fireblocks",
@@ -695,5 +706,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-06-02 07:22"
+    "timestamp": "2026-06-02 11:59"
 };
