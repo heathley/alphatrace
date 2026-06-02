@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "pewdiepie-archdaemon/odysseus",
             "description": "Self-hosted AI workspace. ",
             "url": "https://github.com/pewdiepie-archdaemon/odysseus",
-            "stars": 25459,
-            "forks": 3098,
+            "stars": 28799,
+            "forks": 3471,
             "score": 99
         },
         {
@@ -18,8 +18,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "OpenBMB/PilotDeck",
             "description": "Task-oriented AI Agent productivity platform",
             "url": "https://github.com/OpenBMB/PilotDeck",
-            "stars": 2803,
-            "forks": 270,
+            "stars": 2823,
+            "forks": 276,
             "score": 99
         },
         {
@@ -29,8 +29,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "GordenSun/GordenPPTSkill",
             "description": "AI-friendly PPT builder skill: 17 hand-polished Chinese PPTX templates + non-destructive text-only editing tools (python-pptx based). Pick a template, write edits.json, build a real .pptx with the layout intact. Personal/research use only.",
             "url": "https://github.com/GordenSun/GordenPPTSkill",
-            "stars": 1522,
-            "forks": 136,
+            "stars": 1544,
+            "forks": 138,
             "score": 99
         },
         {
@@ -40,8 +40,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "asz798838958/aBaiAutoplus",
             "description": "\u591a\u5e73\u53f0 AI \u8d26\u53f7\u81ea\u52a8\u6ce8\u518c\u4e0e\u7ba1\u7406 \u00b7 \u534f\u8bae\u5316\u4ed8\u6b3e\u4e00\u952e\u5f00\u901a ChatGPT Plus",
             "url": "https://github.com/asz798838958/aBaiAutoplus",
-            "stars": 806,
-            "forks": 464,
+            "stars": 910,
+            "forks": 507,
             "score": 99
         },
         {
@@ -51,8 +51,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "withkynam/vibecode-pro-max-kit",
             "description": "Your AI forgets. This remembers. Spec-driven coding harness for vibecoders, product owners, CEOs and real builders \u2014 self-improving context memory, 12 agents, 32 skills. Kills context rot, ships features, not spaghetti. Claude Code & Codex. Any stack. 30 seconds",
             "url": "https://github.com/withkynam/vibecode-pro-max-kit",
-            "stars": 709,
-            "forks": 170,
+            "stars": 715,
+            "forks": 169,
             "score": 99
         },
         {
@@ -62,9 +62,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "liyue-aigc/female-portrait-director",
             "description": "A modular Codex Skill for directing and expanding detailed AI female portrait prompts.",
             "url": "https://github.com/liyue-aigc/female-portrait-director",
-            "stars": 475,
+            "stars": 482,
             "forks": 72,
-            "score": 93
+            "score": 94
         },
         {
             "main_cat": "AI",
@@ -73,7 +73,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "study8677/awesome-architecture",
             "description": "\ud83d\uddfa\ufe0f Think like a software architect, not just a coder \u2014 21 architecture maps (incl. AI gateway, RAG, agents, inference serving, vector DB) + a language-agnostic system-design tutorial. Every template links to real open-source prototypes. \u4e2d\u82f1\u6587\u53cc\u8bed\u3002",
             "url": "https://github.com/study8677/awesome-architecture",
-            "stars": 1127,
+            "stars": 1130,
             "forks": 116,
             "score": 91
         },
@@ -84,9 +84,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "boona13/image-extender",
             "description": "Seamlessly extend any image in any direction with AI. Open-source web app powered by Gemini via OpenRouter, with Poisson-blended seams and best-of-3 variant picker.",
             "url": "https://github.com/boona13/image-extender",
-            "stars": 631,
-            "forks": 71,
-            "score": 80
+            "stars": 720,
+            "forks": 79,
+            "score": 87
         },
         {
             "main_cat": "AI",
@@ -95,7 +95,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "butterbase-ai/butterbase",
             "description": "Open-source backend-as-a-service. Postgres, auth, storage, functions, AI gateway, MCP.",
             "url": "https://github.com/butterbase-ai/butterbase",
-            "stars": 1091,
+            "stars": 1092,
             "forks": 96,
             "score": 76
         },
@@ -106,9 +106,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "XingYu-Zhong/DeepSeek-GUI",
             "description": "AI agent workspace for DeepSeek models, with Code and Claw modes built into your application.",
             "url": "https://github.com/XingYu-Zhong/DeepSeek-GUI",
-            "stars": 816,
+            "stars": 817,
             "forks": 73,
-            "score": 69
+            "score": 66
         },
         {
             "main_cat": "AI",
@@ -117,20 +117,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "DannyMac180/skills",
             "description": "AI agent skills created by me: Dan McAteer",
             "url": "https://github.com/DannyMac180/skills",
-            "stars": 358,
+            "stars": 363,
             "forks": 28,
-            "score": 69
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "KeyType",
-            "full_name": "johnbean393/KeyType",
-            "description": "An open-source Cotypist with macOS system wide AI autocomplete",
-            "url": "https://github.com/johnbean393/KeyType",
-            "stars": 200,
-            "forks": 5,
-            "score": 57
+            "score": 63
         },
         {
             "main_cat": "AI",
@@ -146,23 +135,23 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "antigravity-cli",
-            "full_name": "antigravity-cli-google/antigravity-cli",
-            "description": "google antigravity cli ide github agentic development platform gemini 3.5 flash terminal ai agent automatic coding workspace installation guide tutorial windows mac linux",
-            "url": "https://github.com/antigravity-cli-google/antigravity-cli",
-            "stars": 193,
-            "forks": 0,
-            "score": 54
+            "name": "KeyType",
+            "full_name": "johnbean393/KeyType",
+            "description": "An open-source Cotypist with macOS system wide AI autocomplete",
+            "url": "https://github.com/johnbean393/KeyType",
+            "stars": 211,
+            "forks": 6,
+            "score": 53
         },
         {
             "main_cat": "AI",
-            "sub_cat": null,
-            "name": "NS-FW-AI-Image-and-Video-Generator-Uncens",
-            "full_name": "c873089902979/NS-FW-AI-Image-and-Video-Generator-Uncens",
-            "description": "A foundational toolkit for AI-driven image generation, focusing on creative expression and content creation.",
-            "url": "https://github.com/c873089902979/NS-FW-AI-Image-and-Video-Generator-Uncens",
-            "stars": 178,
-            "forks": 1,
+            "sub_cat": "AI General",
+            "name": "UltraCode-Shim",
+            "full_name": "OnlyTerp/UltraCode-Shim",
+            "description": "Give Claude Code's ultracode mode to ANY model you already pay for. A tiny local proxy + one config.json. Point your AI at AGENTS.md and it sets itself up.",
+            "url": "https://github.com/OnlyTerp/UltraCode-Shim",
+            "stars": 182,
+            "forks": 11,
             "score": 52
         },
         {
@@ -172,20 +161,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "yb2460/harness-anything",
             "description": "CLI harness for WPS Office -- let AI agents control Writer, Calc & Impress via COM automation",
             "url": "https://github.com/yb2460/harness-anything",
-            "stars": 297,
+            "stars": 307,
             "forks": 18,
-            "score": 50
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "FigMirror",
-            "full_name": "VILA-Lab/FigMirror",
-            "description": "An Automated AI Agent Tool for Plotting Your Data in Any Paper's Figure Style.",
-            "url": "https://github.com/VILA-Lab/FigMirror",
-            "stars": 402,
-            "forks": 24,
-            "score": 49
+            "score": 51
         },
         {
             "main_cat": "AI",
@@ -194,7 +172,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "bryanyzhu/agentic-ai-system-course",
             "description": "Use agent to learn agent - A skeleton course on how to design, build, and operate production AI agents ",
             "url": "https://github.com/bryanyzhu/agentic-ai-system-course",
-            "stars": 309,
+            "stars": 312,
             "forks": 47,
             "score": 49
         },
@@ -205,7 +183,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "realrossmanngroup/no_ai_slop_writing_rules",
             "description": "Claude Code reference: write in Louis Rossmann's voice, never like AI slop. Portable CLAUDE.md plus skills.",
             "url": "https://github.com/realrossmanngroup/no_ai_slop_writing_rules",
-            "stars": 279,
+            "stars": 280,
             "forks": 37,
             "score": 49
         },
@@ -223,11 +201,33 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
+            "name": "NS-FW-AI-Image-and-Video-Generator-Uncens",
+            "full_name": "c873089902979/NS-FW-AI-Image-and-Video-Generator-Uncens",
+            "description": "A foundational toolkit for AI-driven image generation, focusing on creative expression and content creation.",
+            "url": "https://github.com/c873089902979/NS-FW-AI-Image-and-Video-Generator-Uncens",
+            "stars": 179,
+            "forks": 2,
+            "score": 48
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "FigMirror",
+            "full_name": "VILA-Lab/FigMirror",
+            "description": "An Automated AI Agent Tool for Plotting Your Data in Any Paper's Figure Style.",
+            "url": "https://github.com/VILA-Lab/FigMirror",
+            "stars": 402,
+            "forks": 25,
+            "score": 47
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
             "name": "free-claude-code-ai-desktop-app",
             "full_name": "anthropic-claude-code-ai/free-claude-code-ai-desktop-app",
             "description": "claude code ai free desktop app  api cli open source opencode aider gemini alternative download github local llm ollama setup guide tutorial api  2026",
             "url": "https://github.com/anthropic-claude-code-ai/free-claude-code-ai-desktop-app",
-            "stars": 207,
+            "stars": 208,
             "forks": 0,
             "score": 44
         },
@@ -238,7 +238,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "simonlin1212/global-stock-data",
             "description": "\u7f8e\u80a1\u6e2f\u80a1\u5168\u6808\u6570\u636e\u5de5\u5177\u5305 (AI Skill) \u2014 7\u5c42\u67b6\u6784 \u00b7 17\u7aef\u70b9 \u00b7 5\u6570\u636e\u6e90 \u00b7 \u96f6\u9274\u6743 | US & HK Stock Full-Stack Data Toolkit for AI Coding Assistants",
             "url": "https://github.com/simonlin1212/global-stock-data",
-            "stars": 220,
+            "stars": 222,
             "forks": 49,
             "score": 43
         },
@@ -249,7 +249,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "quarqlabs/agent-oss",
             "description": "A recursive evidence-gated cognitive runtime for memory-native AI agents, combining hybrid retrieval, temporal reasoning, async learning, and plug-and-play tools.",
             "url": "https://github.com/quarqlabs/agent-oss",
-            "stars": 215,
+            "stars": 219,
             "forks": 19,
             "score": 43
         },
@@ -260,7 +260,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "JasonLam08/cursor_agent_status_light",
             "description": "A BLE-powered status light for Cursor Agent, using ESP32-C3 to visualize AI coding states such as thinking, busy,  success, error, and waiting for user action. \u57fa\u4e8e ESP32-C3 \u7684 Cursor Agent BLE \u72b6\u6001\u706f\uff0c\u7528\u7ea2\u7eff\u706f\u76f4\u89c2\u663e\u793a AI \u7f16\u7a0b\u8fc7\u7a0b\u4e2d\u7684\u601d\u8003\u3001\u5fd9\u788c\u3001\u6210\u529f\u3001\u9519\u8bef\u4ee5\u53ca\u7b49\u5f85\u7528\u6237\u64cd\u4f5c \u7b49\u72b6\u6001\u3002",
             "url": "https://github.com/JasonLam08/cursor_agent_status_light",
-            "stars": 193,
+            "stars": 196,
             "forks": 27,
             "score": 43
         },
@@ -282,7 +282,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "zhristophe/Claude-Mythos-AI-Anthropic-App",
             "description": "claude mythos ai anthropic app github open source desktop mobile client abhishekk130804 anthropic api key creative writing roleplay character cards deep reasoning chain of thought system prompts jailbreak windows macos linux android apk next js electron tauri python rust download setup guide tutorial latest version 2026 free update",
             "url": "https://github.com/zhristophe/Claude-Mythos-AI-Anthropic-App",
-            "stars": 225,
+            "stars": 229,
             "forks": 1,
             "score": 42
         },
@@ -299,25 +299,14 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "ai-detector-skill",
-            "full_name": "lynote-ai/ai-detector-skill",
-            "description": " A free detector capable of identifying content generated by all advanced AI models.",
-            "url": "https://github.com/lynote-ai/ai-detector-skill",
-            "stars": 204,
-            "forks": 1,
-            "score": 40
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "Deepseek-v4-Pro-App",
-            "full_name": "mikaeldengale-cloud/Deepseek-v4-Pro-App",
-            "description": "deepseek v4 flash pro chat  api  app windows 11 desktop client github open source ai assistant chatbot coding agent moe model 1.6t parameters free api setup guide reasoning max mode local deployment",
-            "url": "https://github.com/mikaeldengale-cloud/Deepseek-v4-Pro-App",
-            "stars": 218,
-            "forks": 0,
-            "score": 39
+            "sub_cat": null,
+            "name": "uncensored-ai-image-video-generator",
+            "full_name": "Astraltenprosper/uncensored-ai-image-video-generator",
+            "description": "AI tool for generating uncensored images and videos (18+)",
+            "url": "https://github.com/Astraltenprosper/uncensored-ai-image-video-generator",
+            "stars": 178,
+            "forks": 22,
+            "score": 41
         },
         {
             "main_cat": "AI",
@@ -326,9 +315,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "veryyoldman/Genspark-AI",
             "description": "Genspark AI open-source, self-hosted Super Agent. Free alternative to Genspark.ai with multi-agent orchestration, deep research, Sparkpages, AI slides & sheets, image generation and 80+ tools. One-command Windows install. Run locally with any LLM (OpenAI, Anthropic, Gemini, Ollama)",
             "url": "https://github.com/veryyoldman/Genspark-AI",
-            "stars": 206,
+            "stars": 208,
             "forks": 2,
-            "score": 38
+            "score": 39
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "ai-detector-skill",
+            "full_name": "lynote-ai/ai-detector-skill",
+            "description": " A free detector capable of identifying content generated by all advanced AI models.",
+            "url": "https://github.com/lynote-ai/ai-detector-skill",
+            "stars": 204,
+            "forks": 1,
+            "score": 39
         },
         {
             "main_cat": "AI",
@@ -337,7 +337,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Health-Yang/MineEcho",
             "description": "Local-first Memory OS for personal AI assistants with L0-L3 memory, Wiki++ knowledge, skill routing, and TokenLess context compression.",
             "url": "https://github.com/Health-Yang/MineEcho",
-            "stars": 58,
+            "stars": 61,
             "forks": 8,
             "score": 35
         },
@@ -359,7 +359,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "asdfo123/ForgeWM",
             "description": "Train a real-time, playable Minecraft Video World Models on 8 GPUs \u2014 keyboard & mouse control, fully open and reproducible.",
             "url": "https://github.com/asdfo123/ForgeWM",
-            "stars": 48,
+            "stars": 49,
             "forks": 0,
             "score": 33
         },
@@ -584,17 +584,6 @@ const ALPHA_DATA_V2 = {
             "score": 30
         },
         {
-            "main_cat": "AI",
-            "sub_cat": "AI Agents",
-            "name": "ArcVanga",
-            "full_name": "mduyenn/ArcVanga",
-            "description": "Arc Vanga AI is an AI-powered market intelligence platform built on Arc Testnet, showcasing how stablecoin-native infrastructure can power real-world financial experiences through AI agents, USDC payments, portfolio management, and automated investing.",
-            "url": "https://github.com/mduyenn/ArcVanga",
-            "stars": 0,
-            "forks": 0,
-            "score": 30
-        },
-        {
             "main_cat": "Stablecoin Infrastructure",
             "sub_cat": null,
             "name": "fireblocks",
@@ -670,17 +659,6 @@ const ALPHA_DATA_V2 = {
             "stars": 0,
             "forks": 0,
             "score": 30
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI Agents",
-            "name": "SIC-JS_3.0",
-            "full_name": "Endwar116/SIC-JS_3.0",
-            "description": "SIC-JS v3.0 \u2014 Semantic Integrity Control JSON. An AI agent semantic state protocol for cross-session, cross-model state persistence and verification.",
-            "url": "https://github.com/Endwar116/SIC-JS_3.0",
-            "stars": 0,
-            "forks": 0,
-            "score": 30
         }
     ],
     "news": [
@@ -706,5 +684,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-06-02 11:59"
+    "timestamp": "2026-06-02 16:43"
 };
