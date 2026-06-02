@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "pewdiepie-archdaemon/odysseus",
             "description": "Self-hosted AI workspace. ",
             "url": "https://github.com/pewdiepie-archdaemon/odysseus",
-            "stars": 31179,
-            "forks": 3725,
+            "stars": 32530,
+            "forks": 3877,
             "score": 99
         },
         {
@@ -18,8 +18,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "OpenBMB/PilotDeck",
             "description": "Task-oriented AI Agent productivity platform",
             "url": "https://github.com/OpenBMB/PilotDeck",
-            "stars": 2832,
-            "forks": 278,
+            "stars": 2837,
+            "forks": 281,
             "score": 99
         },
         {
@@ -29,8 +29,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "GordenSun/GordenPPTSkill",
             "description": "AI-friendly PPT builder skill: 17 hand-polished Chinese PPTX templates + non-destructive text-only editing tools (python-pptx based). Pick a template, write edits.json, build a real .pptx with the layout intact. Personal/research use only.",
             "url": "https://github.com/GordenSun/GordenPPTSkill",
-            "stars": 1549,
-            "forks": 139,
+            "stars": 1551,
+            "forks": 141,
             "score": 99
         },
         {
@@ -40,8 +40,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "asz798838958/aBaiAutoplus",
             "description": "\u591a\u5e73\u53f0 AI \u8d26\u53f7\u81ea\u52a8\u6ce8\u518c\u4e0e\u7ba1\u7406 \u00b7 \u534f\u8bae\u5316\u4ed8\u6b3e\u4e00\u952e\u5f00\u901a ChatGPT Plus",
             "url": "https://github.com/asz798838958/aBaiAutoplus",
-            "stars": 958,
-            "forks": 518,
+            "stars": 976,
+            "forks": 521,
             "score": 99
         },
         {
@@ -51,8 +51,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "withkynam/vibecode-pro-max-kit",
             "description": "Your AI forgets. This remembers. Spec-driven coding harness for vibecoders, product owners, CEOs and real builders \u2014 self-improving context memory, 12 agents, 32 skills. Kills context rot, ships features, not spaghetti. Claude Code & Codex. Any stack. 30 seconds",
             "url": "https://github.com/withkynam/vibecode-pro-max-kit",
-            "stars": 716,
-            "forks": 169,
+            "stars": 721,
+            "forks": 170,
             "score": 99
         },
         {
@@ -62,7 +62,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "liyue-aigc/female-portrait-director",
             "description": "A modular Codex Skill for directing and expanding detailed AI female portrait prompts.",
             "url": "https://github.com/liyue-aigc/female-portrait-director",
-            "stars": 482,
+            "stars": 484,
             "forks": 73,
             "score": 94
         },
@@ -84,7 +84,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "boona13/image-extender",
             "description": "Seamlessly extend any image in any direction with AI. Open-source web app powered by Gemini via OpenRouter, with Poisson-blended seams and best-of-3 variant picker.",
             "url": "https://github.com/boona13/image-extender",
-            "stars": 742,
+            "stars": 751,
             "forks": 81,
             "score": 83
         },
@@ -117,9 +117,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "DannyMac180/skills",
             "description": "AI agent skills created by me: Dan McAteer",
             "url": "https://github.com/DannyMac180/skills",
-            "stars": 367,
+            "stars": 377,
             "forks": 28,
             "score": 64
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "KeyType",
+            "full_name": "johnbean393/KeyType",
+            "description": "An open-source Cotypist with macOS system wide AI autocomplete",
+            "url": "https://github.com/johnbean393/KeyType",
+            "stars": 216,
+            "forks": 8,
+            "score": 54
         },
         {
             "main_cat": "AI",
@@ -130,17 +141,6 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/cclank/lanshu-awesome-ai-video-kit",
             "stars": 246,
             "forks": 68,
-            "score": 55
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "KeyType",
-            "full_name": "johnbean393/KeyType",
-            "description": "An open-source Cotypist with macOS system wide AI autocomplete",
-            "url": "https://github.com/johnbean393/KeyType",
-            "stars": 212,
-            "forks": 6,
             "score": 53
         },
         {
@@ -156,12 +156,23 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "UltraCode-Shim",
+            "full_name": "OnlyTerp/UltraCode-Shim",
+            "description": "Give Claude Code's ultracode mode to ANY model you already pay for. A tiny local proxy + one config.json. Point your AI at AGENTS.md and it sets itself up.",
+            "url": "https://github.com/OnlyTerp/UltraCode-Shim",
+            "stars": 198,
+            "forks": 14,
+            "score": 51
+        },
+        {
+            "main_cat": "AI",
             "sub_cat": null,
             "name": "agentic-ai-system-course",
             "full_name": "bryanyzhu/agentic-ai-system-course",
             "description": "Use agent to learn agent - A skeleton course on how to design, build, and operate production AI agents ",
             "url": "https://github.com/bryanyzhu/agentic-ai-system-course",
-            "stars": 318,
+            "stars": 319,
             "forks": 47,
             "score": 49
         },
@@ -172,19 +183,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "realrossmanngroup/no_ai_slop_writing_rules",
             "description": "Claude Code reference: write in Louis Rossmann's voice, never like AI slop. Portable CLAUDE.md plus skills.",
             "url": "https://github.com/realrossmanngroup/no_ai_slop_writing_rules",
-            "stars": 281,
-            "forks": 38,
-            "score": 49
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "UltraCode-Shim",
-            "full_name": "OnlyTerp/UltraCode-Shim",
-            "description": "Give Claude Code's ultracode mode to ANY model you already pay for. A tiny local proxy + one config.json. Point your AI at AGENTS.md and it sets itself up.",
-            "url": "https://github.com/OnlyTerp/UltraCode-Shim",
-            "stars": 186,
-            "forks": 11,
+            "stars": 282,
+            "forks": 39,
             "score": 49
         },
         {
@@ -229,7 +229,7 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/K-Dense-AI/science-superpowers",
             "stars": 170,
             "forks": 15,
-            "score": 46
+            "score": 44
         },
         {
             "main_cat": "AI",
@@ -326,7 +326,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "aws-samples/sample-well-architected-skills-and-steering",
             "description": "Reusable skills and steering that teach AI coding agents how to apply the AWS Well-Architected Framework. One set of playbooks, 13 supported tools.",
             "url": "https://github.com/aws-samples/sample-well-architected-skills-and-steering",
-            "stars": 157,
+            "stars": 158,
             "forks": 24,
             "score": 38
         },
@@ -337,20 +337,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "Health-Yang/MineEcho",
             "description": "Local-first Memory OS for personal AI assistants with L0-L3 memory, Wiki++ knowledge, skill routing, and TokenLess context compression.",
             "url": "https://github.com/Health-Yang/MineEcho",
-            "stars": 63,
+            "stars": 67,
             "forks": 8,
-            "score": 35
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "SSKills",
-            "full_name": "0xPira/SSKills",
-            "description": "SSkills (Slop Skills) is a public collection of specialist skills for security agents and human reviewers. Each skill packages structured domain knowledge, sources, examples, safety gates, and validation scripts to help turn noisy security signals into clear triage decisions, rejected false positives, and bounded manual proof contracts.",
-            "url": "https://github.com/0xPira/SSKills",
-            "stars": 25,
-            "forks": 6,
-            "score": 33
+            "score": 36
         },
         {
             "main_cat": "AI",
@@ -362,6 +351,17 @@ const ALPHA_DATA_V2 = {
             "stars": 49,
             "forks": 0,
             "score": 33
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "SSKills",
+            "full_name": "0xPira/SSKills",
+            "description": "SSkills (Slop Skills) is a public collection of specialist skills for security agents and human reviewers. Each skill packages structured domain knowledge, sources, examples, safety gates, and validation scripts to help turn noisy security signals into clear triage decisions, rejected false positives, and bounded manual proof contracts.",
+            "url": "https://github.com/0xPira/SSKills",
+            "stars": 25,
+            "forks": 6,
+            "score": 32
         },
         {
             "main_cat": "AI",
@@ -663,6 +663,20 @@ const ALPHA_DATA_V2 = {
     ],
     "news": [
         {
+            "title": "IntraShuffler: A Privacy Preserving Framework for Heterogeneous DP Federated Learning",
+            "source": "ArXiv",
+            "type": "Research Alpha",
+            "color": "text-indigo-600",
+            "url": "http://arxiv.org/abs/2606.02563v1"
+        },
+        {
+            "title": "Ghost Tool Calls: Issue-Time Privacy for Speculative Agent Tools",
+            "source": "ArXiv",
+            "type": "Research Alpha",
+            "color": "text-indigo-600",
+            "url": "http://arxiv.org/abs/2606.02483v1"
+        },
+        {
             "title": "Bitcoin volatility remains high ahead of key FED decision.",
             "source": "Polymarket",
             "type": "Expectation",
@@ -670,5 +684,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-06-02 20:01"
+    "timestamp": "2026-06-02 22:57"
 };
