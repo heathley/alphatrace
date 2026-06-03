@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "pewdiepie-archdaemon/odysseus",
             "description": "Self-hosted AI workspace. ",
             "url": "https://github.com/pewdiepie-archdaemon/odysseus",
-            "stars": 33023,
-            "forks": 3936,
+            "stars": 35082,
+            "forks": 4174,
             "score": 99
         },
         {
@@ -18,8 +18,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "OpenBMB/PilotDeck",
             "description": "Task-oriented AI Agent productivity platform",
             "url": "https://github.com/OpenBMB/PilotDeck",
-            "stars": 2837,
-            "forks": 282,
+            "stars": 2860,
+            "forks": 286,
             "score": 99
         },
         {
@@ -29,8 +29,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "GordenSun/GordenPPTSkill",
             "description": "AI-friendly PPT builder skill: 17 hand-polished Chinese PPTX templates + non-destructive text-only editing tools (python-pptx based). Pick a template, write edits.json, build a real .pptx with the layout intact. Personal/research use only.",
             "url": "https://github.com/GordenSun/GordenPPTSkill",
-            "stars": 1555,
-            "forks": 141,
+            "stars": 1579,
+            "forks": 144,
             "score": 99
         },
         {
@@ -40,8 +40,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "asz798838958/aBaiAutoplus",
             "description": "\u591a\u5e73\u53f0 AI \u8d26\u53f7\u81ea\u52a8\u6ce8\u518c\u4e0e\u7ba1\u7406 \u00b7 \u534f\u8bae\u5316\u4ed8\u6b3e\u4e00\u952e\u5f00\u901a ChatGPT Plus",
             "url": "https://github.com/asz798838958/aBaiAutoplus",
-            "stars": 1003,
-            "forks": 526,
+            "stars": 1140,
+            "forks": 572,
             "score": 99
         },
         {
@@ -51,7 +51,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "withkynam/vibecode-pro-max-kit",
             "description": "Your AI forgets. This remembers. Spec-driven coding harness for vibecoders, product owners, CEOs and real builders \u2014 self-improving context memory, 12 agents, 32 skills. Kills context rot, ships features, not spaghetti. Claude Code & Codex. Any stack. 30 seconds",
             "url": "https://github.com/withkynam/vibecode-pro-max-kit",
-            "stars": 722,
+            "stars": 730,
             "forks": 170,
             "score": 99
         },
@@ -62,9 +62,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "liyue-aigc/female-portrait-director",
             "description": "A modular Codex Skill for directing and expanding detailed AI female portrait prompts.",
             "url": "https://github.com/liyue-aigc/female-portrait-director",
-            "stars": 487,
+            "stars": 491,
             "forks": 73,
-            "score": 94
+            "score": 95
         },
         {
             "main_cat": "AI",
@@ -73,9 +73,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "study8677/awesome-architecture",
             "description": "\ud83d\uddfa\ufe0f Think like a software architect, not just a coder \u2014 21 architecture maps (incl. AI gateway, RAG, agents, inference serving, vector DB) + a language-agnostic system-design tutorial. Every template links to real open-source prototypes. \u4e2d\u82f1\u6587\u53cc\u8bed\u3002",
             "url": "https://github.com/study8677/awesome-architecture",
-            "stars": 1133,
-            "forks": 117,
-            "score": 91
+            "stars": 1142,
+            "forks": 118,
+            "score": 87
         },
         {
             "main_cat": "AI",
@@ -84,9 +84,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "boona13/image-extender",
             "description": "Seamlessly extend any image in any direction with AI. Open-source web app powered by Gemini via OpenRouter, with Poisson-blended seams and best-of-3 variant picker.",
             "url": "https://github.com/boona13/image-extender",
-            "stars": 758,
-            "forks": 81,
-            "score": 84
+            "stars": 793,
+            "forks": 84,
+            "score": 86
         },
         {
             "main_cat": "AI",
@@ -106,7 +106,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "DannyMac180/skills",
             "description": "AI agent skills created by me: Dan McAteer",
             "url": "https://github.com/DannyMac180/skills",
-            "stars": 380,
+            "stars": 391,
             "forks": 28,
             "score": 65
         },
@@ -117,8 +117,30 @@ const ALPHA_DATA_V2 = {
             "full_name": "johnbean393/KeyType",
             "description": "An open-source Cotypist with macOS system wide AI autocomplete",
             "url": "https://github.com/johnbean393/KeyType",
-            "stars": 216,
-            "forks": 8,
+            "stars": 218,
+            "forks": 9,
+            "score": 55
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "UltraCode-Shim",
+            "full_name": "OnlyTerp/UltraCode-Shim",
+            "description": "Give Claude Code's ultracode mode to ANY model you already pay for. A tiny local proxy + one config.json. Point your AI at AGENTS.md and it sets itself up.",
+            "url": "https://github.com/OnlyTerp/UltraCode-Shim",
+            "stars": 225,
+            "forks": 17,
+            "score": 54
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "vigils",
+            "full_name": "duncatzat/vigils",
+            "description": "A local control plane for AI agents \u2014 see what they do, approve what matters, keep secrets out. Rust + Tauri + Chrome MV3.",
+            "url": "https://github.com/duncatzat/vigils",
+            "stars": 203,
+            "forks": 11,
             "score": 54
         },
         {
@@ -128,20 +150,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "cclank/lanshu-awesome-ai-video-kit",
             "description": "\u505a\u4f01\u4e1a AI \u89c6\u9891\u9879\u76ee\u903c\u51fa\u6765\u7684\u5de5\u5177\u5305 \u00b7 411 prompt \u00b7 15 \u6a21\u578b \u00b7 7 Claude Skill \u00b7 14 \u7bc7\u65b9\u6cd5\u8bba",
             "url": "https://github.com/cclank/lanshu-awesome-ai-video-kit",
-            "stars": 246,
-            "forks": 68,
+            "stars": 247,
+            "forks": 69,
             "score": 53
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "UltraCode-Shim",
-            "full_name": "OnlyTerp/UltraCode-Shim",
-            "description": "Give Claude Code's ultracode mode to ANY model you already pay for. A tiny local proxy + one config.json. Point your AI at AGENTS.md and it sets itself up.",
-            "url": "https://github.com/OnlyTerp/UltraCode-Shim",
-            "stars": 203,
-            "forks": 16,
-            "score": 52
         },
         {
             "main_cat": "AI",
@@ -150,42 +161,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "yb2460/harness-anything",
             "description": "CLI harness for WPS Office -- let AI agents control Writer, Calc & Impress via COM automation",
             "url": "https://github.com/yb2460/harness-anything",
-            "stars": 307,
+            "stars": 314,
             "forks": 18,
             "score": 51
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "agentic-ai-system-course",
-            "full_name": "bryanyzhu/agentic-ai-system-course",
-            "description": "Use agent to learn agent - A skeleton course on how to design, build, and operate production AI agents ",
-            "url": "https://github.com/bryanyzhu/agentic-ai-system-course",
-            "stars": 320,
-            "forks": 47,
-            "score": 49
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "no_ai_slop_writing_rules",
-            "full_name": "realrossmanngroup/no_ai_slop_writing_rules",
-            "description": "Claude Code reference: write in Louis Rossmann's voice, never like AI slop. Portable CLAUDE.md plus skills.",
-            "url": "https://github.com/realrossmanngroup/no_ai_slop_writing_rules",
-            "stars": 282,
-            "forks": 39,
-            "score": 49
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "nullsec-s1",
-            "full_name": "trynullsec/nullsec-s1",
-            "description": "Security-native LLM system for AI-generated application security.",
-            "url": "https://github.com/trynullsec/nullsec-s1",
-            "stars": 151,
-            "forks": 40,
-            "score": 49
         },
         {
             "main_cat": "AI",
@@ -194,8 +172,30 @@ const ALPHA_DATA_V2 = {
             "full_name": "VILA-Lab/FigMirror",
             "description": "An Automated AI Agent Tool for Plotting Your Data in Any Paper's Figure Style.",
             "url": "https://github.com/VILA-Lab/FigMirror",
-            "stars": 404,
+            "stars": 407,
             "forks": 25,
+            "score": 48
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "agentic-ai-system-course",
+            "full_name": "bryanyzhu/agentic-ai-system-course",
+            "description": "Use agent to learn agent - A skeleton course on how to design, build, and operate production AI agents ",
+            "url": "https://github.com/bryanyzhu/agentic-ai-system-course",
+            "stars": 324,
+            "forks": 48,
+            "score": 48
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "no_ai_slop_writing_rules",
+            "full_name": "realrossmanngroup/no_ai_slop_writing_rules",
+            "description": "Claude Code reference: write in Louis Rossmann's voice, never like AI slop. Portable CLAUDE.md plus skills.",
+            "url": "https://github.com/realrossmanngroup/no_ai_slop_writing_rules",
+            "stars": 283,
+            "forks": 39,
             "score": 48
         },
         {
@@ -234,34 +234,23 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "cursor_agent_status_light",
-            "full_name": "JasonLam08/cursor_agent_status_light",
-            "description": "A BLE-powered status light for Cursor Agent, using ESP32-C3 to visualize AI coding states such as thinking, busy,  success, error, and waiting for user action. \u57fa\u4e8e ESP32-C3 \u7684 Cursor Agent BLE \u72b6\u6001\u706f\uff0c\u7528\u7ea2\u7eff\u706f\u76f4\u89c2\u663e\u793a AI \u7f16\u7a0b\u8fc7\u7a0b\u4e2d\u7684\u601d\u8003\u3001\u5fd9\u788c\u3001\u6210\u529f\u3001\u9519\u8bef\u4ee5\u53ca\u7b49\u5f85\u7528\u6237\u64cd\u4f5c \u7b49\u72b6\u6001\u3002",
-            "url": "https://github.com/JasonLam08/cursor_agent_status_light",
-            "stars": 196,
-            "forks": 27,
-            "score": 43
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "Agent Frameworks",
-            "name": "cli",
-            "full_name": "modelstudioai/cli",
-            "description": "Official Model Studio CLI\uff08\u963f\u91cc\u4e91\u767e\u70bc CLI\uff09built for AI Agent frameworks, exposing models, search, multimodal, and workflow capabilities as structured tool calls.",
-            "url": "https://github.com/modelstudioai/cli",
-            "stars": 173,
-            "forks": 9,
-            "score": 43
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
             "name": "agent-oss",
             "full_name": "quarqlabs/agent-oss",
             "description": "A recursive evidence-gated cognitive runtime for memory-native AI agents, combining hybrid retrieval, temporal reasoning, async learning, and plug-and-play tools.",
             "url": "https://github.com/quarqlabs/agent-oss",
-            "stars": 220,
+            "stars": 222,
             "forks": 19,
+            "score": 42
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "cursor_agent_status_light",
+            "full_name": "JasonLam08/cursor_agent_status_light",
+            "description": "A BLE-powered status light for Cursor Agent, using ESP32-C3 to visualize AI coding states such as thinking, busy,  success, error, and waiting for user action. \u57fa\u4e8e ESP32-C3 \u7684 Cursor Agent BLE \u72b6\u6001\u706f\uff0c\u7528\u7ea2\u7eff\u706f\u76f4\u89c2\u663e\u793a AI \u7f16\u7a0b\u8fc7\u7a0b\u4e2d\u7684\u601d\u8003\u3001\u5fd9\u788c\u3001\u6210\u529f\u3001\u9519\u8bef\u4ee5\u53ca\u7b49\u5f85\u7528\u6237\u64cd\u4f5c \u7b49\u72b6\u6001\u3002",
+            "url": "https://github.com/JasonLam08/cursor_agent_status_light",
+            "stars": 199,
+            "forks": 28,
             "score": 42
         },
         {
@@ -271,8 +260,19 @@ const ALPHA_DATA_V2 = {
             "full_name": "DEEIX-AI/DEEIX-Chat",
             "description": "An enterprise AI workspace for model routing, multimodal chat, files, tools, billing, identity, and operations.",
             "url": "https://github.com/DEEIX-AI/DEEIX-Chat",
-            "stars": 214,
+            "stars": 216,
             "forks": 30,
+            "score": 41
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "Agent Frameworks",
+            "name": "cli",
+            "full_name": "modelstudioai/cli",
+            "description": "Official Model Studio CLI\uff08\u963f\u91cc\u4e91\u767e\u70bc CLI\uff09built for AI Agent frameworks, exposing models, search, multimodal, and workflow capabilities as structured tool calls.",
+            "url": "https://github.com/modelstudioai/cli",
+            "stars": 174,
+            "forks": 9,
             "score": 41
         },
         {
@@ -282,19 +282,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "uu201/character-arc",
             "description": "\u5f27\u5149 \u00b7 AI \u5c0f\u8bf4\u521b\u4f5c\u684c\u9762\u5e94\u7528\uff0c\u96c6\u9879\u76ee\u8bbe\u5b9a\u3001\u89d2\u8272\u5173\u7cfb\u3001\u5267\u60c5\u5927\u7eb2\u3001\u7ae0\u8282\u5199\u4f5c\u4e0e\u591a\u6a21\u578b AI \u534f\u4f5c\u4e8e\u4e00\u4f53",
             "url": "https://github.com/uu201/character-arc",
-            "stars": 167,
-            "forks": 22,
-            "score": 40
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "tw-legal-rag",
-            "full_name": "aa0101181514/tw-legal-rag",
-            "description": "Open-source CLI for semantic Taiwan legal judgment retrieval. Search judgments, package them for your own AI (ChatGPT/Claude/Gemini), and run a bundle-level citation check. Bring your own LLM; retrieval-only.",
-            "url": "https://github.com/aa0101181514/tw-legal-rag",
-            "stars": 157,
-            "forks": 27,
+            "stars": 169,
+            "forks": 23,
             "score": 40
         },
         {
@@ -304,8 +293,19 @@ const ALPHA_DATA_V2 = {
             "full_name": "lynote-ai/ai-detector-skill",
             "description": " A free detector capable of identifying content generated by all advanced AI models.",
             "url": "https://github.com/lynote-ai/ai-detector-skill",
-            "stars": 204,
+            "stars": 205,
             "forks": 1,
+            "score": 39
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "tw-legal-rag",
+            "full_name": "aa0101181514/tw-legal-rag",
+            "description": "Open-source CLI for semantic Taiwan legal judgment retrieval. Search judgments, package them for your own AI (ChatGPT/Claude/Gemini), and run a bundle-level citation check. Bring your own LLM; retrieval-only.",
+            "url": "https://github.com/aa0101181514/tw-legal-rag",
+            "stars": 157,
+            "forks": 28,
             "score": 39
         },
         {
@@ -315,7 +315,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "aws-samples/sample-well-architected-skills-and-steering",
             "description": "Reusable skills and steering that teach AI coding agents how to apply the AWS Well-Architected Framework. One set of playbooks, 13 supported tools.",
             "url": "https://github.com/aws-samples/sample-well-architected-skills-and-steering",
-            "stars": 158,
+            "stars": 159,
             "forks": 24,
             "score": 38
         },
@@ -326,7 +326,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Health-Yang/MineEcho",
             "description": "Local-first Memory OS for personal AI assistants with L0-L3 memory, Wiki++ knowledge, skill routing, and TokenLess context compression.",
             "url": "https://github.com/Health-Yang/MineEcho",
-            "stars": 69,
+            "stars": 75,
             "forks": 9,
             "score": 36
         },
@@ -348,7 +348,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "asdfo123/ForgeWM",
             "description": "Train a real-time, playable Minecraft Video World Models on 8 GPUs \u2014 keyboard & mouse control, fully open and reproducible.",
             "url": "https://github.com/asdfo123/ForgeWM",
-            "stars": 49,
+            "stars": 51,
             "forks": 0,
             "score": 33
         },
@@ -362,17 +362,6 @@ const ALPHA_DATA_V2 = {
             "stars": 25,
             "forks": 6,
             "score": 32
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "homelab-monitor",
-            "full_name": "SikamikanikoBG/homelab-monitor",
-            "description": "Plug-and-play homelab dashboard in one container \u2014 GPU, local-AI model VRAM, Docker, systemd and host health. One page, no Prometheus/Grafana.",
-            "url": "https://github.com/SikamikanikoBG/homelab-monitor",
-            "stars": 7,
-            "forks": 4,
-            "score": 31
         },
         {
             "main_cat": "AI",
@@ -531,6 +520,17 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "Stablecoin Infrastructure",
             "sub_cat": null,
+            "name": "arc-institutional-treasury",
+            "full_name": "Proxtox/arc-institutional-treasury",
+            "description": "Smart contract suite + dashboard for institutional treasury operations on Arc: multi-sig, scheduled payments, and stablecoin yield strategies.",
+            "url": "https://github.com/Proxtox/arc-institutional-treasury",
+            "stars": 0,
+            "forks": 0,
+            "score": 30
+        },
+        {
+            "main_cat": "Stablecoin Infrastructure",
+            "sub_cat": null,
             "name": "payarc",
             "full_name": "gudbang/payarc",
             "description": "Payarc \u2014 P2P stablecoin payment DApp on Arc Testnet",
@@ -663,6 +663,17 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
+            "name": "base-arc-cctp-bridge",
+            "full_name": "Proxtox/base-arc-cctp-bridge",
+            "description": "Full example (contracts + frontend) for seamless USDC bridging between Base and Arc using Circle\u2019s Cross-Chain Transfer Protocol (CCTP).",
+            "url": "https://github.com/Proxtox/base-arc-cctp-bridge",
+            "stars": 0,
+            "forks": 0,
+            "score": 30
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
             "name": "aegis",
             "full_name": "HarmishTervadiya/aegis",
             "description": "Trustless cross-protocol automation for Solana DeFi. Monitors MarginFi and Kamino health on-chain, atomically reroutes capital when trigger conditions are met. No oracle. No trusted operator. Condition validation runs natively in Rust.",
@@ -696,6 +707,20 @@ const ALPHA_DATA_V2 = {
     ],
     "news": [
         {
+            "title": "Agent libOS: A Library-OS-Inspired Runtime for Long-Running, Capability-Controlled LLM Agents",
+            "source": "ArXiv",
+            "type": "Research Alpha",
+            "color": "text-indigo-600",
+            "url": "http://arxiv.org/abs/2606.03895v1"
+        },
+        {
+            "title": "AI Agents Enable Adaptive Computer Worms",
+            "source": "ArXiv",
+            "type": "Research Alpha",
+            "color": "text-indigo-600",
+            "url": "http://arxiv.org/abs/2606.03811v1"
+        },
+        {
             "title": "Bitcoin volatility remains high ahead of key FED decision.",
             "source": "Polymarket",
             "type": "Expectation",
@@ -703,5 +728,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-06-03 00:26"
+    "timestamp": "2026-06-03 05:58"
 };
