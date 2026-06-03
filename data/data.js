@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "pewdiepie-archdaemon/odysseus",
             "description": "Self-hosted AI workspace. ",
             "url": "https://github.com/pewdiepie-archdaemon/odysseus",
-            "stars": 40539,
-            "forks": 4725,
+            "stars": 42182,
+            "forks": 4901,
             "score": 99
         },
         {
@@ -18,8 +18,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "OpenBMB/PilotDeck",
             "description": "Task-oriented AI Agent productivity platform",
             "url": "https://github.com/OpenBMB/PilotDeck",
-            "stars": 2900,
-            "forks": 290,
+            "stars": 2902,
+            "forks": 292,
             "score": 99
         },
         {
@@ -29,7 +29,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "GordenSun/GordenPPTSkill",
             "description": "AI-friendly PPT builder skill: 17 hand-polished Chinese PPTX templates + non-destructive text-only editing tools (python-pptx based). Pick a template, write edits.json, build a real .pptx with the layout intact. Personal/research use only.",
             "url": "https://github.com/GordenSun/GordenPPTSkill",
-            "stars": 1617,
+            "stars": 1630,
             "forks": 148,
             "score": 99
         },
@@ -40,8 +40,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "asz798838958/aBaiAutoplus",
             "description": "\u591a\u5e73\u53f0 AI \u8d26\u53f7\u81ea\u52a8\u6ce8\u518c\u4e0e\u7ba1\u7406 \u00b7 \u534f\u8bae\u5316\u4ed8\u6b3e\u4e00\u952e\u5f00\u901a ChatGPT Plus",
             "url": "https://github.com/asz798838958/aBaiAutoplus",
-            "stars": 1347,
-            "forks": 636,
+            "stars": 1368,
+            "forks": 646,
             "score": 99
         },
         {
@@ -51,20 +51,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "withkynam/vibecode-pro-max-kit",
             "description": "Your AI forgets. This remembers. Spec-driven coding harness for vibecoders, product owners, CEOs and real builders \u2014 self-improving context memory, 12 agents, 32 skills. Kills context rot, ships features, not spaghetti. Claude Code & Codex. Any stack. 30 seconds",
             "url": "https://github.com/withkynam/vibecode-pro-max-kit",
-            "stars": 747,
-            "forks": 174,
+            "stars": 748,
+            "forks": 175,
             "score": 99
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "image-extender",
-            "full_name": "boona13/image-extender",
-            "description": "Seamlessly extend any image in any direction with AI. Open-source web app powered by Gemini via OpenRouter, with Poisson-blended seams and best-of-3 variant picker.",
-            "url": "https://github.com/boona13/image-extender",
-            "stars": 875,
-            "forks": 97,
-            "score": 93
         },
         {
             "main_cat": "AI",
@@ -73,8 +62,19 @@ const ALPHA_DATA_V2 = {
             "full_name": "study8677/awesome-architecture",
             "description": "\ud83d\uddfa\ufe0f Think like a software architect, not just a coder \u2014 21 architecture maps (incl. AI gateway, RAG, agents, inference serving, vector DB) + a language-agnostic system-design tutorial. Every template links to real open-source prototypes. \u4e2d\u82f1\u6587\u53cc\u8bed\u3002",
             "url": "https://github.com/study8677/awesome-architecture",
-            "stars": 1147,
-            "forks": 120,
+            "stars": 1148,
+            "forks": 121,
+            "score": 88
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "image-extender",
+            "full_name": "boona13/image-extender",
+            "description": "Seamlessly extend any image in any direction with AI. Open-source web app powered by Gemini via OpenRouter, with Poisson-blended seams and best-of-3 variant picker.",
+            "url": "https://github.com/boona13/image-extender",
+            "stars": 889,
+            "forks": 98,
             "score": 88
         },
         {
@@ -84,9 +84,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "liyue-aigc/female-portrait-director",
             "description": "A modular Codex Skill for directing and expanding detailed AI female portrait prompts.",
             "url": "https://github.com/liyue-aigc/female-portrait-director",
-            "stars": 500,
+            "stars": 503,
             "forks": 74,
-            "score": 86
+            "score": 87
         },
         {
             "main_cat": "AI",
@@ -95,7 +95,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "XingYu-Zhong/DeepSeek-GUI",
             "description": "AI agent workspace for DeepSeek models, with Code and Claw modes built into your application.",
             "url": "https://github.com/XingYu-Zhong/DeepSeek-GUI",
-            "stars": 820,
+            "stars": 821,
             "forks": 73,
             "score": 64
         },
@@ -106,9 +106,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "DannyMac180/skills",
             "description": "AI agent skills created by me: Dan McAteer",
             "url": "https://github.com/DannyMac180/skills",
-            "stars": 398,
-            "forks": 28,
-            "score": 61
+            "stars": 399,
+            "forks": 29,
+            "score": 62
         },
         {
             "main_cat": "AI",
@@ -117,20 +117,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "Mochocyang/QMAI",
             "description": "\u9752\u5e55AI\u5199\u4f5c\u8f6f\u4ef6\uff0c\u89e3\u51b3\u957f\u7bc7\u5c0f\u8bf4\u5199\u4f5c\u95ee\u9898\uff0c\u89e3\u51b3\u5c0f\u8bf4\u89d2\u8272\u6027\u683c\u4e0d\u7edf\u4e00\uff0c\u9632\u6b62\u4eba\u8bbe\u5d29\u574f\u3002",
             "url": "https://github.com/Mochocyang/QMAI",
-            "stars": 191,
-            "forks": 34,
-            "score": 57
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "UltraCode-Shim",
-            "full_name": "OnlyTerp/UltraCode-Shim",
-            "description": "Give Claude Code's ultracode mode to ANY model you already pay for. A tiny local proxy + one config.json. Point your AI at AGENTS.md and it sets itself up.",
-            "url": "https://github.com/OnlyTerp/UltraCode-Shim",
-            "stars": 245,
-            "forks": 17,
-            "score": 56
+            "stars": 200,
+            "forks": 35,
+            "score": 58
         },
         {
             "main_cat": "AI",
@@ -145,14 +134,14 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
-            "sub_cat": null,
-            "name": "harness-anything",
-            "full_name": "yb2460/harness-anything",
-            "description": "CLI harness for WPS Office -- let AI agents control Writer, Calc & Impress via COM automation",
-            "url": "https://github.com/yb2460/harness-anything",
-            "stars": 356,
+            "sub_cat": "AI General",
+            "name": "UltraCode-Shim",
+            "full_name": "OnlyTerp/UltraCode-Shim",
+            "description": "Give Claude Code's ultracode mode to ANY model you already pay for. A tiny local proxy + one config.json. Point your AI at AGENTS.md and it sets itself up.",
+            "url": "https://github.com/OnlyTerp/UltraCode-Shim",
+            "stars": 245,
             "forks": 18,
-            "score": 51
+            "score": 52
         },
         {
             "main_cat": "AI",
@@ -161,8 +150,19 @@ const ALPHA_DATA_V2 = {
             "full_name": "johnbean393/KeyType",
             "description": "An open-source Cotypist with macOS system wide AI autocomplete",
             "url": "https://github.com/johnbean393/KeyType",
-            "stars": 226,
+            "stars": 230,
             "forks": 9,
+            "score": 52
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "harness-anything",
+            "full_name": "yb2460/harness-anything",
+            "description": "CLI harness for WPS Office -- let AI agents control Writer, Calc & Impress via COM automation",
+            "url": "https://github.com/yb2460/harness-anything",
+            "stars": 362,
+            "forks": 19,
             "score": 51
         },
         {
@@ -194,7 +194,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "realrossmanngroup/no_ai_slop_writing_rules",
             "description": "Claude Code reference: write in Louis Rossmann's voice, never like AI slop. Portable CLAUDE.md plus skills.",
             "url": "https://github.com/realrossmanngroup/no_ai_slop_writing_rules",
-            "stars": 286,
+            "stars": 287,
             "forks": 39,
             "score": 48
         },
@@ -216,7 +216,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "c873089902979/NS-FW-AI-Image-and-Video-Generator-Uncens",
             "description": "A foundational toolkit for AI-driven image generation, focusing on creative expression and content creation.",
             "url": "https://github.com/c873089902979/NS-FW-AI-Image-and-Video-Generator-Uncens",
-            "stars": 182,
+            "stars": 183,
             "forks": 4,
             "score": 46
         },
@@ -238,20 +238,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "K-Dense-AI/science-superpowers",
             "description": "Composable computational-science methodology skills for AI research agents \u2014 pre-registration over TDD. A science-domain reimplementation of Superpowers.",
             "url": "https://github.com/K-Dense-AI/science-superpowers",
-            "stars": 174,
+            "stars": 175,
             "forks": 15,
             "score": 44
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "agent-oss",
-            "full_name": "quarqlabs/agent-oss",
-            "description": "A recursive evidence-gated cognitive runtime for memory-native AI agents, combining hybrid retrieval, temporal reasoning, async learning, and plug-and-play tools.",
-            "url": "https://github.com/quarqlabs/agent-oss",
-            "stars": 231,
-            "forks": 21,
-            "score": 43
         },
         {
             "main_cat": "AI",
@@ -263,6 +252,17 @@ const ALPHA_DATA_V2 = {
             "stars": 201,
             "forks": 29,
             "score": 43
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "agent-oss",
+            "full_name": "quarqlabs/agent-oss",
+            "description": "A recursive evidence-gated cognitive runtime for memory-native AI agents, combining hybrid retrieval, temporal reasoning, async learning, and plug-and-play tools.",
+            "url": "https://github.com/quarqlabs/agent-oss",
+            "stars": 231,
+            "forks": 21,
+            "score": 42
         },
         {
             "main_cat": "AI",
@@ -337,8 +337,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "Health-Yang/MineEcho",
             "description": "Local-first Memory OS for personal AI assistants with L0-L3 memory, Wiki++ knowledge, skill routing, and TokenLess context compression.",
             "url": "https://github.com/Health-Yang/MineEcho",
-            "stars": 89,
-            "forks": 10,
+            "stars": 92,
+            "forks": 11,
             "score": 37
         },
         {
@@ -630,17 +630,6 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
-            "name": "ChainOps",
-            "full_name": "X-roz/ChainOps",
-            "description": "ChainOps is an open-source Ethereum wallet monitoring and operational reporting platform that provides real-time transaction tracking, historical activity indexing, payment visibility, and audit-friendly export/reporting for ETH and stablecoin transactions.",
-            "url": "https://github.com/X-roz/ChainOps",
-            "stars": 0,
-            "forks": 0,
-            "score": 30
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
             "name": "CapturePort",
             "full_name": "wyrtensi/CapturePort",
             "description": "CapturePort is a secure, cross-platform media and capture bridge linking Android devices to your desktop environment (Windows, macOS, Linux). It includes a built-in Model Context Protocol (MCP) server, enabling real-time visual streams and clipboard synchronization directly inside agent-driven local IDEs and assistants.",
@@ -674,6 +663,17 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
+            "name": "nexus-ai-flow",
+            "full_name": "vaibhavquantprojects/nexus-ai-flow",
+            "description": "A AI-agent routing protocol for secure, verifiable cross-chain crypto liquidity transitions using Ed25519-based cryptographic proof.\"",
+            "url": "https://github.com/vaibhavquantprojects/nexus-ai-flow",
+            "stars": 0,
+            "forks": 0,
+            "score": 30
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
             "name": "aegis",
             "full_name": "HarmishTervadiya/aegis",
             "description": "Trustless cross-protocol automation for Solana DeFi. Monitors MarginFi and Kamino health on-chain, atomically reroutes capital when trigger conditions are met. No oracle. No trusted operator. Condition validation runs natively in Rust.",
@@ -692,17 +692,6 @@ const ALPHA_DATA_V2 = {
             "stars": 0,
             "forks": 0,
             "score": 30
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI Agents",
-            "name": "SIC-JS_3.0",
-            "full_name": "Endwar116/SIC-JS_3.0",
-            "description": "SIC-JS v3.0 \u2014 Semantic Integrity Control JSON. An AI agent semantic state protocol for cross-session, cross-model state persistence and verification.",
-            "url": "https://github.com/Endwar116/SIC-JS_3.0",
-            "stars": 0,
-            "forks": 0,
-            "score": 30
         }
     ],
     "news": [
@@ -714,5 +703,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-06-03 16:24"
+    "timestamp": "2026-06-03 20:14"
 };
