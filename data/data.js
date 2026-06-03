@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "pewdiepie-archdaemon/odysseus",
             "description": "Self-hosted AI workspace. ",
             "url": "https://github.com/pewdiepie-archdaemon/odysseus",
-            "stars": 35082,
-            "forks": 4174,
+            "stars": 37738,
+            "forks": 4426,
             "score": 99
         },
         {
@@ -18,8 +18,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "OpenBMB/PilotDeck",
             "description": "Task-oriented AI Agent productivity platform",
             "url": "https://github.com/OpenBMB/PilotDeck",
-            "stars": 2860,
-            "forks": 286,
+            "stars": 2886,
+            "forks": 287,
             "score": 99
         },
         {
@@ -29,8 +29,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "GordenSun/GordenPPTSkill",
             "description": "AI-friendly PPT builder skill: 17 hand-polished Chinese PPTX templates + non-destructive text-only editing tools (python-pptx based). Pick a template, write edits.json, build a real .pptx with the layout intact. Personal/research use only.",
             "url": "https://github.com/GordenSun/GordenPPTSkill",
-            "stars": 1579,
-            "forks": 144,
+            "stars": 1602,
+            "forks": 145,
             "score": 99
         },
         {
@@ -40,8 +40,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "asz798838958/aBaiAutoplus",
             "description": "\u591a\u5e73\u53f0 AI \u8d26\u53f7\u81ea\u52a8\u6ce8\u518c\u4e0e\u7ba1\u7406 \u00b7 \u534f\u8bae\u5316\u4ed8\u6b3e\u4e00\u952e\u5f00\u901a ChatGPT Plus",
             "url": "https://github.com/asz798838958/aBaiAutoplus",
-            "stars": 1140,
-            "forks": 572,
+            "stars": 1255,
+            "forks": 609,
             "score": 99
         },
         {
@@ -51,31 +51,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "withkynam/vibecode-pro-max-kit",
             "description": "Your AI forgets. This remembers. Spec-driven coding harness for vibecoders, product owners, CEOs and real builders \u2014 self-improving context memory, 12 agents, 32 skills. Kills context rot, ships features, not spaghetti. Claude Code & Codex. Any stack. 30 seconds",
             "url": "https://github.com/withkynam/vibecode-pro-max-kit",
-            "stars": 730,
-            "forks": 170,
+            "stars": 740,
+            "forks": 172,
             "score": 99
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "female-portrait-director",
-            "full_name": "liyue-aigc/female-portrait-director",
-            "description": "A modular Codex Skill for directing and expanding detailed AI female portrait prompts.",
-            "url": "https://github.com/liyue-aigc/female-portrait-director",
-            "stars": 491,
-            "forks": 73,
-            "score": 95
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "awesome-architecture",
-            "full_name": "study8677/awesome-architecture",
-            "description": "\ud83d\uddfa\ufe0f Think like a software architect, not just a coder \u2014 21 architecture maps (incl. AI gateway, RAG, agents, inference serving, vector DB) + a language-agnostic system-design tutorial. Every template links to real open-source prototypes. \u4e2d\u82f1\u6587\u53cc\u8bed\u3002",
-            "url": "https://github.com/study8677/awesome-architecture",
-            "stars": 1142,
-            "forks": 118,
-            "score": 87
         },
         {
             "main_cat": "AI",
@@ -84,8 +62,30 @@ const ALPHA_DATA_V2 = {
             "full_name": "boona13/image-extender",
             "description": "Seamlessly extend any image in any direction with AI. Open-source web app powered by Gemini via OpenRouter, with Poisson-blended seams and best-of-3 variant picker.",
             "url": "https://github.com/boona13/image-extender",
-            "stars": 793,
-            "forks": 84,
+            "stars": 828,
+            "forks": 92,
+            "score": 89
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "awesome-architecture",
+            "full_name": "study8677/awesome-architecture",
+            "description": "\ud83d\uddfa\ufe0f Think like a software architect, not just a coder \u2014 21 architecture maps (incl. AI gateway, RAG, agents, inference serving, vector DB) + a language-agnostic system-design tutorial. Every template links to real open-source prototypes. \u4e2d\u82f1\u6587\u53cc\u8bed\u3002",
+            "url": "https://github.com/study8677/awesome-architecture",
+            "stars": 1145,
+            "forks": 118,
+            "score": 87
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "female-portrait-director",
+            "full_name": "liyue-aigc/female-portrait-director",
+            "description": "A modular Codex Skill for directing and expanding detailed AI female portrait prompts.",
+            "url": "https://github.com/liyue-aigc/female-portrait-director",
+            "stars": 495,
+            "forks": 74,
             "score": 86
         },
         {
@@ -106,9 +106,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "DannyMac180/skills",
             "description": "AI agent skills created by me: Dan McAteer",
             "url": "https://github.com/DannyMac180/skills",
-            "stars": 391,
+            "stars": 392,
             "forks": 28,
-            "score": 65
+            "score": 66
         },
         {
             "main_cat": "AI",
@@ -117,8 +117,30 @@ const ALPHA_DATA_V2 = {
             "full_name": "johnbean393/KeyType",
             "description": "An open-source Cotypist with macOS system wide AI autocomplete",
             "url": "https://github.com/johnbean393/KeyType",
-            "stars": 218,
+            "stars": 221,
             "forks": 9,
+            "score": 55
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "vigils",
+            "full_name": "duncatzat/vigils",
+            "description": "A local control plane for AI agents \u2014 see what they do, approve what matters, keep secrets out. Rust + Tauri + Chrome MV3.",
+            "url": "https://github.com/duncatzat/vigils",
+            "stars": 204,
+            "forks": 12,
+            "score": 55
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "QMAI",
+            "full_name": "Mochocyang/QMAI",
+            "description": "\u9752\u5e55AI\u5199\u4f5c\u8f6f\u4ef6\uff0c\u89e3\u51b3\u957f\u7bc7\u5c0f\u8bf4\u5199\u4f5c\u95ee\u9898\uff0c\u89e3\u51b3\u5c0f\u8bf4\u89d2\u8272\u6027\u683c\u4e0d\u7edf\u4e00\uff0c\u9632\u6b62\u4eba\u8bbe\u5d29\u574f\u3002",
+            "url": "https://github.com/Mochocyang/QMAI",
+            "stars": 173,
+            "forks": 32,
             "score": 55
         },
         {
@@ -128,19 +150,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "OnlyTerp/UltraCode-Shim",
             "description": "Give Claude Code's ultracode mode to ANY model you already pay for. A tiny local proxy + one config.json. Point your AI at AGENTS.md and it sets itself up.",
             "url": "https://github.com/OnlyTerp/UltraCode-Shim",
-            "stars": 225,
+            "stars": 229,
             "forks": 17,
-            "score": 54
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "vigils",
-            "full_name": "duncatzat/vigils",
-            "description": "A local control plane for AI agents \u2014 see what they do, approve what matters, keep secrets out. Rust + Tauri + Chrome MV3.",
-            "url": "https://github.com/duncatzat/vigils",
-            "stars": 203,
-            "forks": 11,
             "score": 54
         },
         {
@@ -150,7 +161,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "cclank/lanshu-awesome-ai-video-kit",
             "description": "\u505a\u4f01\u4e1a AI \u89c6\u9891\u9879\u76ee\u903c\u51fa\u6765\u7684\u5de5\u5177\u5305 \u00b7 411 prompt \u00b7 15 \u6a21\u578b \u00b7 7 Claude Skill \u00b7 14 \u7bc7\u65b9\u6cd5\u8bba",
             "url": "https://github.com/cclank/lanshu-awesome-ai-video-kit",
-            "stars": 247,
+            "stars": 248,
             "forks": 69,
             "score": 53
         },
@@ -161,9 +172,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "yb2460/harness-anything",
             "description": "CLI harness for WPS Office -- let AI agents control Writer, Calc & Impress via COM automation",
             "url": "https://github.com/yb2460/harness-anything",
-            "stars": 314,
+            "stars": 332,
             "forks": 18,
-            "score": 51
+            "score": 50
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "NS-FW-AI-Image-and-Video-Generator-Uncens",
+            "full_name": "c873089902979/NS-FW-AI-Image-and-Video-Generator-Uncens",
+            "description": "A foundational toolkit for AI-driven image generation, focusing on creative expression and content creation.",
+            "url": "https://github.com/c873089902979/NS-FW-AI-Image-and-Video-Generator-Uncens",
+            "stars": 181,
+            "forks": 3,
+            "score": 49
         },
         {
             "main_cat": "AI",
@@ -172,7 +194,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "VILA-Lab/FigMirror",
             "description": "An Automated AI Agent Tool for Plotting Your Data in Any Paper's Figure Style.",
             "url": "https://github.com/VILA-Lab/FigMirror",
-            "stars": 407,
+            "stars": 411,
             "forks": 25,
             "score": 48
         },
@@ -183,7 +205,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "bryanyzhu/agentic-ai-system-course",
             "description": "Use agent to learn agent - A skeleton course on how to design, build, and operate production AI agents ",
             "url": "https://github.com/bryanyzhu/agentic-ai-system-course",
-            "stars": 324,
+            "stars": 325,
             "forks": 48,
             "score": 48
         },
@@ -194,19 +216,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "realrossmanngroup/no_ai_slop_writing_rules",
             "description": "Claude Code reference: write in Louis Rossmann's voice, never like AI slop. Portable CLAUDE.md plus skills.",
             "url": "https://github.com/realrossmanngroup/no_ai_slop_writing_rules",
-            "stars": 283,
+            "stars": 286,
             "forks": 39,
-            "score": 48
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "NS-FW-AI-Image-and-Video-Generator-Uncens",
-            "full_name": "c873089902979/NS-FW-AI-Image-and-Video-Generator-Uncens",
-            "description": "A foundational toolkit for AI-driven image generation, focusing on creative expression and content creation.",
-            "url": "https://github.com/c873089902979/NS-FW-AI-Image-and-Video-Generator-Uncens",
-            "stars": 181,
-            "forks": 2,
             "score": 48
         },
         {
@@ -218,7 +229,7 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/gerardapennant96075336582/CapC-Pro-2",
             "stars": 180,
             "forks": 0,
-            "score": 48
+            "score": 45
         },
         {
             "main_cat": "AI",
@@ -227,20 +238,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "K-Dense-AI/science-superpowers",
             "description": "Composable computational-science methodology skills for AI research agents \u2014 pre-registration over TDD. A science-domain reimplementation of Superpowers.",
             "url": "https://github.com/K-Dense-AI/science-superpowers",
-            "stars": 170,
+            "stars": 174,
             "forks": 15,
             "score": 44
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "agent-oss",
-            "full_name": "quarqlabs/agent-oss",
-            "description": "A recursive evidence-gated cognitive runtime for memory-native AI agents, combining hybrid retrieval, temporal reasoning, async learning, and plug-and-play tools.",
-            "url": "https://github.com/quarqlabs/agent-oss",
-            "stars": 222,
-            "forks": 19,
-            "score": 42
         },
         {
             "main_cat": "AI",
@@ -249,20 +249,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "JasonLam08/cursor_agent_status_light",
             "description": "A BLE-powered status light for Cursor Agent, using ESP32-C3 to visualize AI coding states such as thinking, busy,  success, error, and waiting for user action. \u57fa\u4e8e ESP32-C3 \u7684 Cursor Agent BLE \u72b6\u6001\u706f\uff0c\u7528\u7ea2\u7eff\u706f\u76f4\u89c2\u663e\u793a AI \u7f16\u7a0b\u8fc7\u7a0b\u4e2d\u7684\u601d\u8003\u3001\u5fd9\u788c\u3001\u6210\u529f\u3001\u9519\u8bef\u4ee5\u53ca\u7b49\u5f85\u7528\u6237\u64cd\u4f5c \u7b49\u72b6\u6001\u3002",
             "url": "https://github.com/JasonLam08/cursor_agent_status_light",
-            "stars": 199,
-            "forks": 28,
-            "score": 42
+            "stars": 201,
+            "forks": 29,
+            "score": 43
         },
         {
             "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "DEEIX-Chat",
-            "full_name": "DEEIX-AI/DEEIX-Chat",
-            "description": "An enterprise AI workspace for model routing, multimodal chat, files, tools, billing, identity, and operations.",
-            "url": "https://github.com/DEEIX-AI/DEEIX-Chat",
-            "stars": 216,
-            "forks": 30,
-            "score": 41
+            "sub_cat": null,
+            "name": "agent-oss",
+            "full_name": "quarqlabs/agent-oss",
+            "description": "A recursive evidence-gated cognitive runtime for memory-native AI agents, combining hybrid retrieval, temporal reasoning, async learning, and plug-and-play tools.",
+            "url": "https://github.com/quarqlabs/agent-oss",
+            "stars": 228,
+            "forks": 20,
+            "score": 42
         },
         {
             "main_cat": "AI",
@@ -277,12 +277,23 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "DEEIX-Chat",
+            "full_name": "DEEIX-AI/DEEIX-Chat",
+            "description": "An enterprise AI workspace for model routing, multimodal chat, files, tools, billing, identity, and operations.",
+            "url": "https://github.com/DEEIX-AI/DEEIX-Chat",
+            "stars": 216,
+            "forks": 30,
+            "score": 40
+        },
+        {
+            "main_cat": "AI",
             "sub_cat": null,
             "name": "character-arc",
             "full_name": "uu201/character-arc",
             "description": "\u5f27\u5149 \u00b7 AI \u5c0f\u8bf4\u521b\u4f5c\u684c\u9762\u5e94\u7528\uff0c\u96c6\u9879\u76ee\u8bbe\u5b9a\u3001\u89d2\u8272\u5173\u7cfb\u3001\u5267\u60c5\u5927\u7eb2\u3001\u7ae0\u8282\u5199\u4f5c\u4e0e\u591a\u6a21\u578b AI \u534f\u4f5c\u4e8e\u4e00\u4f53",
             "url": "https://github.com/uu201/character-arc",
-            "stars": 169,
+            "stars": 170,
             "forks": 23,
             "score": 40
         },
@@ -304,7 +315,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "aa0101181514/tw-legal-rag",
             "description": "Open-source CLI for semantic Taiwan legal judgment retrieval. Search judgments, package them for your own AI (ChatGPT/Claude/Gemini), and run a bundle-level citation check. Bring your own LLM; retrieval-only.",
             "url": "https://github.com/aa0101181514/tw-legal-rag",
-            "stars": 157,
+            "stars": 158,
             "forks": 28,
             "score": 39
         },
@@ -315,7 +326,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "aws-samples/sample-well-architected-skills-and-steering",
             "description": "Reusable skills and steering that teach AI coding agents how to apply the AWS Well-Architected Framework. One set of playbooks, 13 supported tools.",
             "url": "https://github.com/aws-samples/sample-well-architected-skills-and-steering",
-            "stars": 159,
+            "stars": 160,
             "forks": 24,
             "score": 38
         },
@@ -326,20 +337,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "Health-Yang/MineEcho",
             "description": "Local-first Memory OS for personal AI assistants with L0-L3 memory, Wiki++ knowledge, skill routing, and TokenLess context compression.",
             "url": "https://github.com/Health-Yang/MineEcho",
-            "stars": 75,
-            "forks": 9,
+            "stars": 81,
+            "forks": 10,
             "score": 36
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "velocitai",
-            "full_name": "DanielSuo117/velocitai",
-            "description": "Next-generation UI automation harness powered by Python & Playwright. Chat with AI Agents to seamlessly generate, architect, and execute enterprise-grade UI test code.",
-            "url": "https://github.com/DanielSuo117/velocitai",
-            "stars": 154,
-            "forks": 0,
-            "score": 35
         },
         {
             "main_cat": "AI",
@@ -348,7 +348,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "asdfo123/ForgeWM",
             "description": "Train a real-time, playable Minecraft Video World Models on 8 GPUs \u2014 keyboard & mouse control, fully open and reproducible.",
             "url": "https://github.com/asdfo123/ForgeWM",
-            "stars": 51,
+            "stars": 54,
             "forks": 0,
             "score": 33
         },
@@ -382,17 +382,6 @@ const ALPHA_DATA_V2 = {
             "description": "A PB-scale, ultra-low latency distributed GPU cache for AI inference. Built with Rust, NVIDIA DOCA, RDMA, and BF-4 DPUs to bridge GPU HBM and NVMe storage, eliminating the recompute tax for large language models.",
             "url": "https://github.com/rustfs/GPUCache",
             "stars": 11,
-            "forks": 0,
-            "score": 30
-        },
-        {
-            "main_cat": "DePIN",
-            "sub_cat": null,
-            "name": "novagpu-ts1t",
-            "full_name": "nova-studios-hw/novagpu-ts1t",
-            "description": "N.E.O.N. Architecture \u2014 Open source GPU RTL in Verilog. Token dataflow, hardware ray tracing, frame generation. First silicon target: 28nm.",
-            "url": "https://github.com/nova-studios-hw/novagpu-ts1t",
-            "stars": 9,
             "forks": 0,
             "score": 30
         },
@@ -707,20 +696,6 @@ const ALPHA_DATA_V2 = {
     ],
     "news": [
         {
-            "title": "Agent libOS: A Library-OS-Inspired Runtime for Long-Running, Capability-Controlled LLM Agents",
-            "source": "ArXiv",
-            "type": "Research Alpha",
-            "color": "text-indigo-600",
-            "url": "http://arxiv.org/abs/2606.03895v1"
-        },
-        {
-            "title": "AI Agents Enable Adaptive Computer Worms",
-            "source": "ArXiv",
-            "type": "Research Alpha",
-            "color": "text-indigo-600",
-            "url": "http://arxiv.org/abs/2606.03811v1"
-        },
-        {
             "title": "Bitcoin volatility remains high ahead of key FED decision.",
             "source": "Polymarket",
             "type": "Expectation",
@@ -728,5 +703,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-06-03 05:58"
+    "timestamp": "2026-06-03 11:06"
 };
