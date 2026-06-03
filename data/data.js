@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "pewdiepie-archdaemon/odysseus",
             "description": "Self-hosted AI workspace. ",
             "url": "https://github.com/pewdiepie-archdaemon/odysseus",
-            "stars": 32530,
-            "forks": 3877,
+            "stars": 33023,
+            "forks": 3936,
             "score": 99
         },
         {
@@ -19,7 +19,7 @@ const ALPHA_DATA_V2 = {
             "description": "Task-oriented AI Agent productivity platform",
             "url": "https://github.com/OpenBMB/PilotDeck",
             "stars": 2837,
-            "forks": 281,
+            "forks": 282,
             "score": 99
         },
         {
@@ -29,7 +29,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "GordenSun/GordenPPTSkill",
             "description": "AI-friendly PPT builder skill: 17 hand-polished Chinese PPTX templates + non-destructive text-only editing tools (python-pptx based). Pick a template, write edits.json, build a real .pptx with the layout intact. Personal/research use only.",
             "url": "https://github.com/GordenSun/GordenPPTSkill",
-            "stars": 1551,
+            "stars": 1555,
             "forks": 141,
             "score": 99
         },
@@ -40,8 +40,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "asz798838958/aBaiAutoplus",
             "description": "\u591a\u5e73\u53f0 AI \u8d26\u53f7\u81ea\u52a8\u6ce8\u518c\u4e0e\u7ba1\u7406 \u00b7 \u534f\u8bae\u5316\u4ed8\u6b3e\u4e00\u952e\u5f00\u901a ChatGPT Plus",
             "url": "https://github.com/asz798838958/aBaiAutoplus",
-            "stars": 976,
-            "forks": 521,
+            "stars": 1003,
+            "forks": 526,
             "score": 99
         },
         {
@@ -51,7 +51,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "withkynam/vibecode-pro-max-kit",
             "description": "Your AI forgets. This remembers. Spec-driven coding harness for vibecoders, product owners, CEOs and real builders \u2014 self-improving context memory, 12 agents, 32 skills. Kills context rot, ships features, not spaghetti. Claude Code & Codex. Any stack. 30 seconds",
             "url": "https://github.com/withkynam/vibecode-pro-max-kit",
-            "stars": 721,
+            "stars": 722,
             "forks": 170,
             "score": 99
         },
@@ -62,7 +62,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "liyue-aigc/female-portrait-director",
             "description": "A modular Codex Skill for directing and expanding detailed AI female portrait prompts.",
             "url": "https://github.com/liyue-aigc/female-portrait-director",
-            "stars": 484,
+            "stars": 487,
             "forks": 73,
             "score": 94
         },
@@ -74,7 +74,7 @@ const ALPHA_DATA_V2 = {
             "description": "\ud83d\uddfa\ufe0f Think like a software architect, not just a coder \u2014 21 architecture maps (incl. AI gateway, RAG, agents, inference serving, vector DB) + a language-agnostic system-design tutorial. Every template links to real open-source prototypes. \u4e2d\u82f1\u6587\u53cc\u8bed\u3002",
             "url": "https://github.com/study8677/awesome-architecture",
             "stars": 1133,
-            "forks": 116,
+            "forks": 117,
             "score": 91
         },
         {
@@ -84,20 +84,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "boona13/image-extender",
             "description": "Seamlessly extend any image in any direction with AI. Open-source web app powered by Gemini via OpenRouter, with Poisson-blended seams and best-of-3 variant picker.",
             "url": "https://github.com/boona13/image-extender",
-            "stars": 751,
+            "stars": 758,
             "forks": 81,
-            "score": 83
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "butterbase",
-            "full_name": "butterbase-ai/butterbase",
-            "description": "Open-source backend-as-a-service. Postgres, auth, storage, functions, AI gateway, MCP.",
-            "url": "https://github.com/butterbase-ai/butterbase",
-            "stars": 1093,
-            "forks": 96,
-            "score": 76
+            "score": 84
         },
         {
             "main_cat": "AI",
@@ -117,9 +106,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "DannyMac180/skills",
             "description": "AI agent skills created by me: Dan McAteer",
             "url": "https://github.com/DannyMac180/skills",
-            "stars": 377,
+            "stars": 380,
             "forks": 28,
-            "score": 64
+            "score": 65
         },
         {
             "main_cat": "AI",
@@ -145,6 +134,17 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "UltraCode-Shim",
+            "full_name": "OnlyTerp/UltraCode-Shim",
+            "description": "Give Claude Code's ultracode mode to ANY model you already pay for. A tiny local proxy + one config.json. Point your AI at AGENTS.md and it sets itself up.",
+            "url": "https://github.com/OnlyTerp/UltraCode-Shim",
+            "stars": 203,
+            "forks": 16,
+            "score": 52
+        },
+        {
+            "main_cat": "AI",
             "sub_cat": null,
             "name": "harness-anything",
             "full_name": "yb2460/harness-anything",
@@ -156,23 +156,12 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "UltraCode-Shim",
-            "full_name": "OnlyTerp/UltraCode-Shim",
-            "description": "Give Claude Code's ultracode mode to ANY model you already pay for. A tiny local proxy + one config.json. Point your AI at AGENTS.md and it sets itself up.",
-            "url": "https://github.com/OnlyTerp/UltraCode-Shim",
-            "stars": 198,
-            "forks": 14,
-            "score": 51
-        },
-        {
-            "main_cat": "AI",
             "sub_cat": null,
             "name": "agentic-ai-system-course",
             "full_name": "bryanyzhu/agentic-ai-system-course",
             "description": "Use agent to learn agent - A skeleton course on how to design, build, and operate production AI agents ",
             "url": "https://github.com/bryanyzhu/agentic-ai-system-course",
-            "stars": 319,
+            "stars": 320,
             "forks": 47,
             "score": 49
         },
@@ -185,6 +174,17 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/realrossmanngroup/no_ai_slop_writing_rules",
             "stars": 282,
             "forks": 39,
+            "score": 49
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "nullsec-s1",
+            "full_name": "trynullsec/nullsec-s1",
+            "description": "Security-native LLM system for AI-generated application security.",
+            "url": "https://github.com/trynullsec/nullsec-s1",
+            "stars": 151,
+            "forks": 40,
             "score": 49
         },
         {
@@ -205,7 +205,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "c873089902979/NS-FW-AI-Image-and-Video-Generator-Uncens",
             "description": "A foundational toolkit for AI-driven image generation, focusing on creative expression and content creation.",
             "url": "https://github.com/c873089902979/NS-FW-AI-Image-and-Video-Generator-Uncens",
-            "stars": 180,
+            "stars": 181,
             "forks": 2,
             "score": 48
         },
@@ -234,17 +234,6 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "global-stock-data",
-            "full_name": "simonlin1212/global-stock-data",
-            "description": "\u7f8e\u80a1\u6e2f\u80a1\u5168\u6808\u6570\u636e\u5de5\u5177\u5305 (AI Skill) \u2014 7\u5c42\u67b6\u6784 \u00b7 17\u7aef\u70b9 \u00b7 5\u6570\u636e\u6e90 \u00b7 \u96f6\u9274\u6743 | US & HK Stock Full-Stack Data Toolkit for AI Coding Assistants",
-            "url": "https://github.com/simonlin1212/global-stock-data",
-            "stars": 222,
-            "forks": 49,
-            "score": 43
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
             "name": "cursor_agent_status_light",
             "full_name": "JasonLam08/cursor_agent_status_light",
             "description": "A BLE-powered status light for Cursor Agent, using ESP32-C3 to visualize AI coding states such as thinking, busy,  success, error, and waiting for user action. \u57fa\u4e8e ESP32-C3 \u7684 Cursor Agent BLE \u72b6\u6001\u706f\uff0c\u7528\u7ea2\u7eff\u706f\u76f4\u89c2\u663e\u793a AI \u7f16\u7a0b\u8fc7\u7a0b\u4e2d\u7684\u601d\u8003\u3001\u5fd9\u788c\u3001\u6210\u529f\u3001\u9519\u8bef\u4ee5\u53ca\u7b49\u5f85\u7528\u6237\u64cd\u4f5c \u7b49\u72b6\u6001\u3002",
@@ -263,17 +252,6 @@ const ALPHA_DATA_V2 = {
             "stars": 173,
             "forks": 9,
             "score": 43
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "codeindex",
-            "full_name": "scheidydude/codeindex",
-            "description": "Repo dependency analyzer with **blast-radius impact scoring** for AI-assisted development.",
-            "url": "https://github.com/scheidydude/codeindex",
-            "stars": 255,
-            "forks": 35,
-            "score": 42
         },
         {
             "main_cat": "AI",
@@ -310,6 +288,17 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
+            "sub_cat": null,
+            "name": "tw-legal-rag",
+            "full_name": "aa0101181514/tw-legal-rag",
+            "description": "Open-source CLI for semantic Taiwan legal judgment retrieval. Search judgments, package them for your own AI (ChatGPT/Claude/Gemini), and run a bundle-level citation check. Bring your own LLM; retrieval-only.",
+            "url": "https://github.com/aa0101181514/tw-legal-rag",
+            "stars": 157,
+            "forks": 27,
+            "score": 40
+        },
+        {
+            "main_cat": "AI",
             "sub_cat": "AI General",
             "name": "ai-detector-skill",
             "full_name": "lynote-ai/ai-detector-skill",
@@ -337,9 +326,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "Health-Yang/MineEcho",
             "description": "Local-first Memory OS for personal AI assistants with L0-L3 memory, Wiki++ knowledge, skill routing, and TokenLess context compression.",
             "url": "https://github.com/Health-Yang/MineEcho",
-            "stars": 67,
-            "forks": 8,
+            "stars": 69,
+            "forks": 9,
             "score": 36
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "velocitai",
+            "full_name": "DanielSuo117/velocitai",
+            "description": "Next-generation UI automation harness powered by Python & Playwright. Chat with AI Agents to seamlessly generate, architect, and execute enterprise-grade UI test code.",
+            "url": "https://github.com/DanielSuo117/velocitai",
+            "stars": 154,
+            "forks": 0,
+            "score": 35
         },
         {
             "main_cat": "AI",
@@ -362,6 +362,17 @@ const ALPHA_DATA_V2 = {
             "stars": 25,
             "forks": 6,
             "score": 32
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "homelab-monitor",
+            "full_name": "SikamikanikoBG/homelab-monitor",
+            "description": "Plug-and-play homelab dashboard in one container \u2014 GPU, local-AI model VRAM, Docker, systemd and host health. One page, no Prometheus/Grafana.",
+            "url": "https://github.com/SikamikanikoBG/homelab-monitor",
+            "stars": 7,
+            "forks": 4,
+            "score": 31
         },
         {
             "main_cat": "AI",
@@ -520,17 +531,6 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "Stablecoin Infrastructure",
             "sub_cat": null,
-            "name": "arcpay",
-            "full_name": "gudbang/arcpay",
-            "description": "P2P stablecoin payment app on Arc Testnet",
-            "url": "https://github.com/gudbang/arcpay",
-            "stars": 0,
-            "forks": 0,
-            "score": 30
-        },
-        {
-            "main_cat": "Stablecoin Infrastructure",
-            "sub_cat": null,
             "name": "payarc",
             "full_name": "gudbang/payarc",
             "description": "Payarc \u2014 P2P stablecoin payment DApp on Arc Testnet",
@@ -606,12 +606,34 @@ const ALPHA_DATA_V2 = {
             "score": 30
         },
         {
-            "main_cat": "Stablecoin Infrastructure",
-            "sub_cat": null,
-            "name": "Neuro",
-            "full_name": "miciexchanger-ops/Neuro",
-            "description": "INDIENATION Ecosystem: A global crypto-fintech network integrating IND-EUR stablecoin, 1001NDONESIA Wallet, NFT debit cards, and eNFTverse. It enables cross-border payments, property, tourism, and UMKM trade, blending European financial power with Indonesian culture, arts & innovation.",
-            "url": "https://github.com/miciexchanger-ops/Neuro",
+            "main_cat": "AI",
+            "sub_cat": "AI Agents",
+            "name": "autonomous-agent-payment-rails",
+            "full_name": "akash8987/autonomous-agent-payment-rails",
+            "description": "A professional-grade implementation for the 2026 AI-Blockchain convergence, providing programmable, non-custodial payment infrastructure for AI agents to settle compute, data, and API costs autonomously using stablecoins and Account Abstraction.",
+            "url": "https://github.com/akash8987/autonomous-agent-payment-rails",
+            "stars": 0,
+            "forks": 0,
+            "score": 30
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "ChainOps",
+            "full_name": "X-roz/ChainOps",
+            "description": "ChainOps is an open-source Ethereum wallet monitoring and operational reporting platform that provides real-time transaction tracking, historical activity indexing, payment visibility, and audit-friendly export/reporting for ETH and stablecoin transactions.",
+            "url": "https://github.com/X-roz/ChainOps",
+            "stars": 0,
+            "forks": 0,
+            "score": 30
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI Agents",
+            "name": "x402-mcp",
+            "full_name": "x402node/x402-mcp",
+            "description": "MCP server bringing 100+ x402-paid APIs to AI agents. Auto-syncs from CDP Bazaar. Stablecoin micropayments via x402 protocol across multi-chain (Base, Solana, Polygon, BNB, EVM). Built for agentic commerce: developer utilities, validators, encoders, generators, M2M payments, autonomous workflows. Works with Claude, Cursor, and any MCP-aware client.",
+            "url": "https://github.com/x402node/x402-mcp",
             "stars": 0,
             "forks": 0,
             "score": 30
@@ -659,23 +681,20 @@ const ALPHA_DATA_V2 = {
             "stars": 0,
             "forks": 0,
             "score": 30
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI Agents",
+            "name": "SIC-JS_3.0",
+            "full_name": "Endwar116/SIC-JS_3.0",
+            "description": "SIC-JS v3.0 \u2014 Semantic Integrity Control JSON. An AI agent semantic state protocol for cross-session, cross-model state persistence and verification.",
+            "url": "https://github.com/Endwar116/SIC-JS_3.0",
+            "stars": 0,
+            "forks": 0,
+            "score": 30
         }
     ],
     "news": [
-        {
-            "title": "IntraShuffler: A Privacy Preserving Framework for Heterogeneous DP Federated Learning",
-            "source": "ArXiv",
-            "type": "Research Alpha",
-            "color": "text-indigo-600",
-            "url": "http://arxiv.org/abs/2606.02563v1"
-        },
-        {
-            "title": "Ghost Tool Calls: Issue-Time Privacy for Speculative Agent Tools",
-            "source": "ArXiv",
-            "type": "Research Alpha",
-            "color": "text-indigo-600",
-            "url": "http://arxiv.org/abs/2606.02483v1"
-        },
         {
             "title": "Bitcoin volatility remains high ahead of key FED decision.",
             "source": "Polymarket",
@@ -684,5 +703,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-06-02 22:57"
+    "timestamp": "2026-06-03 00:26"
 };
