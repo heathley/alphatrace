@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "pewdiepie-archdaemon/odysseus",
             "description": "Self-hosted AI workspace. ",
             "url": "https://github.com/pewdiepie-archdaemon/odysseus",
-            "stars": 49070,
-            "forks": 5672,
+            "stars": 49767,
+            "forks": 5763,
             "score": 99
         },
         {
@@ -18,8 +18,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "OpenBMB/PilotDeck",
             "description": "Task-oriented AI Agent productivity platform",
             "url": "https://github.com/OpenBMB/PilotDeck",
-            "stars": 2952,
-            "forks": 303,
+            "stars": 2957,
+            "forks": 305,
             "score": 99
         },
         {
@@ -29,7 +29,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "GordenSun/GordenPPTSkill",
             "description": "AI-friendly PPT builder skill: 17 hand-polished Chinese PPTX templates + non-destructive text-only editing tools (python-pptx based). Pick a template, write edits.json, build a real .pptx with the layout intact. Personal/research use only.",
             "url": "https://github.com/GordenSun/GordenPPTSkill",
-            "stars": 1694,
+            "stars": 1695,
             "forks": 150,
             "score": 99
         },
@@ -40,8 +40,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "asz798838958/aBaiAutoplus",
             "description": "\u591a\u5e73\u53f0 AI \u8d26\u53f7\u81ea\u52a8\u6ce8\u518c\u4e0e\u7ba1\u7406 \u00b7 \u534f\u8bae\u5316\u4ed8\u6b3e\u4e00\u952e\u5f00\u901a ChatGPT Plus",
             "url": "https://github.com/asz798838958/aBaiAutoplus",
-            "stars": 1470,
-            "forks": 681,
+            "stars": 1474,
+            "forks": 682,
             "score": 99
         },
         {
@@ -51,20 +51,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "withkynam/vibecode-pro-max-kit",
             "description": "Your AI forgets. This remembers. Spec-driven coding harness for vibecoders, product owners, CEOs and real builders \u2014 self-improving context memory, 12 agents, 32 skills. Kills context rot, ships features, not spaghetti. Claude Code & Codex. Any stack. 30 seconds",
             "url": "https://github.com/withkynam/vibecode-pro-max-kit",
-            "stars": 767,
-            "forks": 178,
+            "stars": 770,
+            "forks": 179,
             "score": 97
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "image-extender",
-            "full_name": "boona13/image-extender",
-            "description": "Seamlessly extend any image in any direction with AI. Open-source web app powered by Gemini via OpenRouter, with Poisson-blended seams and best-of-3 variant picker.",
-            "url": "https://github.com/boona13/image-extender",
-            "stars": 903,
-            "forks": 101,
-            "score": 89
         },
         {
             "main_cat": "AI",
@@ -73,8 +62,19 @@ const ALPHA_DATA_V2 = {
             "full_name": "study8677/awesome-architecture",
             "description": "\ud83e\udded Architecture-first system design: 26 bilingual tutorials, 25 architecture templates, and 6 end-to-end cases covering distributed systems, AI-native systems, RAG, coding Agents, and production trade-offs.",
             "url": "https://github.com/study8677/awesome-architecture",
-            "stars": 1156,
-            "forks": 121,
+            "stars": 1158,
+            "forks": 122,
+            "score": 84
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "image-extender",
+            "full_name": "boona13/image-extender",
+            "description": "Seamlessly extend any image in any direction with AI. Open-source web app powered by Gemini via OpenRouter, with Poisson-blended seams and best-of-3 variant picker.",
+            "url": "https://github.com/boona13/image-extender",
+            "stars": 905,
+            "forks": 101,
             "score": 84
         },
         {
@@ -95,9 +95,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "Mochocyang/QMAI",
             "description": "\u9752\u5e55AI\u5199\u4f5c\u8f6f\u4ef6\uff0c\u89e3\u51b3\u957f\u7bc7\u5c0f\u8bf4\u5199\u4f5c\u95ee\u9898\uff0c\u89e3\u51b3\u5c0f\u8bf4\u89d2\u8272\u6027\u683c\u4e0d\u7edf\u4e00\uff0c\u9632\u6b62\u4eba\u8bbe\u5d29\u574f\u3002",
             "url": "https://github.com/Mochocyang/QMAI",
-            "stars": 270,
-            "forks": 51,
-            "score": 63
+            "stars": 276,
+            "forks": 53,
+            "score": 64
         },
         {
             "main_cat": "AI",
@@ -123,24 +123,24 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "UltraCode-Shim",
-            "full_name": "OnlyTerp/UltraCode-Shim",
-            "description": "Give Claude Code's ultracode mode to ANY model you already pay for. A tiny local proxy + one config.json. Point your AI at AGENTS.md and it sets itself up.",
-            "url": "https://github.com/OnlyTerp/UltraCode-Shim",
-            "stars": 259,
-            "forks": 19,
-            "score": 53
-        },
-        {
-            "main_cat": "AI",
             "sub_cat": null,
             "name": "harness-anything",
             "full_name": "yb2460/harness-anything",
             "description": "CLI harness for WPS Office -- let AI agents control Writer, Calc & Impress via COM automation",
             "url": "https://github.com/yb2460/harness-anything",
-            "stars": 400,
+            "stars": 403,
             "forks": 20,
+            "score": 51
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "UltraCode-Shim",
+            "full_name": "OnlyTerp/UltraCode-Shim",
+            "description": "Give Claude Code's ultracode mode to ANY model you already pay for. A tiny local proxy + one config.json. Point your AI at AGENTS.md and it sets itself up.",
+            "url": "https://github.com/OnlyTerp/UltraCode-Shim",
+            "stars": 261,
+            "forks": 21,
             "score": 51
         },
         {
@@ -161,7 +161,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "johnbean393/KeyType",
             "description": "An open-source Cotypist with macOS system wide AI autocomplete",
             "url": "https://github.com/johnbean393/KeyType",
-            "stars": 249,
+            "stars": 251,
             "forks": 9,
             "score": 50
         },
@@ -216,7 +216,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "VILA-Lab/FigMirror",
             "description": "An Automated AI Agent Tool for Plotting Your Data in Any Paper's Figure Style.",
             "url": "https://github.com/VILA-Lab/FigMirror",
-            "stars": 423,
+            "stars": 425,
             "forks": 25,
             "score": 46
         },
@@ -227,7 +227,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "c873089902979/NS-FW-AI-Image-and-Video-Generator-Uncens",
             "description": "A foundational toolkit for AI-driven image generation, focusing on creative expression and content creation.",
             "url": "https://github.com/c873089902979/NS-FW-AI-Image-and-Video-Generator-Uncens",
-            "stars": 183,
+            "stars": 185,
             "forks": 6,
             "score": 44
         },
@@ -238,7 +238,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "fayazara/macos-app-skills",
             "description": "AI coding agent skills for building, shipping, and maintaining native macOS apps",
             "url": "https://github.com/fayazara/macos-app-skills",
-            "stars": 255,
+            "stars": 282,
             "forks": 6,
             "score": 43
         },
@@ -252,17 +252,6 @@ const ALPHA_DATA_V2 = {
             "stars": 183,
             "forks": 16,
             "score": 43
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "agent-oss",
-            "full_name": "quarqlabs/agent-oss",
-            "description": "A recursive evidence-gated cognitive runtime for memory-native AI agents, combining hybrid retrieval, temporal reasoning, async learning, and plug-and-play tools.",
-            "url": "https://github.com/quarqlabs/agent-oss",
-            "stars": 235,
-            "forks": 21,
-            "score": 42
         },
         {
             "main_cat": "AI",
@@ -285,6 +274,17 @@ const ALPHA_DATA_V2 = {
             "stars": 181,
             "forks": 0,
             "score": 42
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "agent-oss",
+            "full_name": "quarqlabs/agent-oss",
+            "description": "A recursive evidence-gated cognitive runtime for memory-native AI agents, combining hybrid retrieval, temporal reasoning, async learning, and plug-and-play tools.",
+            "url": "https://github.com/quarqlabs/agent-oss",
+            "stars": 235,
+            "forks": 21,
+            "score": 41
         },
         {
             "main_cat": "AI",
@@ -315,7 +315,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "aa0101181514/tw-legal-rag",
             "description": "Open-source CLI for semantic Taiwan legal judgment retrieval. Search judgments, package them for your own AI (ChatGPT/Claude/Gemini), and run a bundle-level citation check. Bring your own LLM; retrieval-only.",
             "url": "https://github.com/aa0101181514/tw-legal-rag",
-            "stars": 162,
+            "stars": 164,
             "forks": 30,
             "score": 39
         },
@@ -326,7 +326,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "lynote-ai/ai-detector-skill",
             "description": " A free detector capable of identifying content generated by all advanced AI models.",
             "url": "https://github.com/lynote-ai/ai-detector-skill",
-            "stars": 207,
+            "stars": 208,
             "forks": 2,
             "score": 38
         },
@@ -337,7 +337,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Health-Yang/MineEcho",
             "description": "Local-first Memory OS for personal AI assistants with L0-L3 memory, Wiki++ knowledge, skill routing, and TokenLess context compression.",
             "url": "https://github.com/Health-Yang/MineEcho",
-            "stars": 111,
+            "stars": 112,
             "forks": 14,
             "score": 38
         },
@@ -674,6 +674,20 @@ const ALPHA_DATA_V2 = {
     ],
     "news": [
         {
+            "title": "Preserving Data Privacy in Learning Causal Structure with Fully Homomorphic Encryption",
+            "source": "ArXiv",
+            "type": "Research Alpha",
+            "color": "text-indigo-600",
+            "url": "http://arxiv.org/abs/2606.05129v1"
+        },
+        {
+            "title": "A-Live: Passive Liveness Detection via Neuromuscular Micro-Motion Signatures on Commodity Sensors",
+            "source": "ArXiv",
+            "type": "Research Alpha",
+            "color": "text-indigo-600",
+            "url": "http://arxiv.org/abs/2606.05126v1"
+        },
+        {
             "title": "Bitcoin volatility remains high ahead of key FED decision.",
             "source": "Polymarket",
             "type": "Expectation",
@@ -681,5 +695,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-06-04 16:49"
+    "timestamp": "2026-06-04 19:18"
 };
