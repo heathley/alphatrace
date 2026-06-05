@@ -7,19 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "pewdiepie-archdaemon/odysseus",
             "description": "Self-hosted AI workspace. ",
             "url": "https://github.com/pewdiepie-archdaemon/odysseus",
-            "stars": 50885,
-            "forks": 5916,
-            "score": 99
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "PilotDeck",
-            "full_name": "OpenBMB/PilotDeck",
-            "description": "Task-oriented AI Agent productivity platform",
-            "url": "https://github.com/OpenBMB/PilotDeck",
-            "stars": 2958,
-            "forks": 305,
+            "stars": 51564,
+            "forks": 6019,
             "score": 99
         },
         {
@@ -29,7 +18,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "GordenSun/GordenPPTSkill",
             "description": "AI-friendly PPT builder skill: 17 hand-polished Chinese PPTX templates + non-destructive text-only editing tools (python-pptx based). Pick a template, write edits.json, build a real .pptx with the layout intact. Personal/research use only.",
             "url": "https://github.com/GordenSun/GordenPPTSkill",
-            "stars": 1695,
+            "stars": 1703,
             "forks": 150,
             "score": 99
         },
@@ -40,8 +29,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "asz798838958/aBaiAutoplus",
             "description": "\u591a\u5e73\u53f0 AI \u8d26\u53f7\u81ea\u52a8\u6ce8\u518c\u4e0e\u7ba1\u7406 \u00b7 \u534f\u8bae\u5316\u4ed8\u6b3e\u4e00\u952e\u5f00\u901a ChatGPT Plus",
             "url": "https://github.com/asz798838958/aBaiAutoplus",
-            "stars": 1478,
-            "forks": 683,
+            "stars": 1486,
+            "forks": 685,
             "score": 99
         },
         {
@@ -51,20 +40,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "withkynam/vibecode-pro-max-kit",
             "description": "Your AI forgets. This remembers. Spec-driven coding harness for vibecoders, product owners, CEOs and real builders \u2014 self-improving context memory, 12 agents, 32 skills. Kills context rot, ships features, not spaghetti. Claude Code & Codex. Any stack. 30 seconds",
             "url": "https://github.com/withkynam/vibecode-pro-max-kit",
-            "stars": 775,
-            "forks": 179,
-            "score": 97
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "awesome-architecture",
-            "full_name": "study8677/awesome-architecture",
-            "description": "\ud83e\udded Architecture-first system design: 26 bilingual tutorials, 25 architecture templates, and 6 end-to-end cases covering distributed systems, AI-native systems, RAG, coding Agents, and production trade-offs.",
-            "url": "https://github.com/study8677/awesome-architecture",
-            "stars": 1158,
-            "forks": 122,
-            "score": 84
+            "stars": 780,
+            "forks": 180,
+            "score": 98
         },
         {
             "main_cat": "AI",
@@ -73,9 +51,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "boona13/image-extender",
             "description": "Seamlessly extend any image in any direction with AI. Open-source web app powered by Gemini via OpenRouter, with Poisson-blended seams and best-of-3 variant picker.",
             "url": "https://github.com/boona13/image-extender",
-            "stars": 905,
+            "stars": 908,
             "forks": 101,
             "score": 84
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "awesome-architecture",
+            "full_name": "study8677/awesome-architecture",
+            "description": "\ud83e\udded Architecture-first system design: 26 bilingual tutorials, 25 architecture templates, and 6 end-to-end cases covering distributed systems, AI-native systems, RAG, coding Agents, and production trade-offs.",
+            "url": "https://github.com/study8677/awesome-architecture",
+            "stars": 1161,
+            "forks": 124,
+            "score": 81
         },
         {
             "main_cat": "AI",
@@ -84,7 +73,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "liyue-aigc/female-portrait-director",
             "description": "A modular Codex Skill for directing and expanding detailed AI female portrait prompts.",
             "url": "https://github.com/liyue-aigc/female-portrait-director",
-            "stars": 508,
+            "stars": 510,
             "forks": 74,
             "score": 80
         },
@@ -95,9 +84,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "Mochocyang/QMAI",
             "description": "\u9752\u5e55AI\u5199\u4f5c\u8f6f\u4ef6\uff0c\u89e3\u51b3\u957f\u7bc7\u5c0f\u8bf4\u5199\u4f5c\u95ee\u9898\uff0c\u89e3\u51b3\u5c0f\u8bf4\u89d2\u8272\u6027\u683c\u4e0d\u7edf\u4e00\uff0c\u9632\u6b62\u4eba\u8bbe\u5d29\u574f\u3002",
             "url": "https://github.com/Mochocyang/QMAI",
-            "stars": 277,
-            "forks": 53,
-            "score": 64
+            "stars": 287,
+            "forks": 54,
+            "score": 61
         },
         {
             "main_cat": "AI",
@@ -117,7 +106,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "zonghaoyuan/infiplot",
             "description": "InfiPlot is the world's first interactive plot game that AI generates all text and images in real-time. InfiPlot\u662f\u5168\u7403\u9996\u4e2a\u7531 AI \u5b9e\u65f6\u751f\u6210\u5168\u90e8\u56fe\u6587\u5185\u5bb9\u7684\u4ea4\u4e92\u5f0f\u5267\u60c5\u6e38\u620f",
             "url": "https://github.com/zonghaoyuan/infiplot",
-            "stars": 190,
+            "stars": 193,
             "forks": 26,
             "score": 59
         },
@@ -128,7 +117,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "yb2460/harness-anything",
             "description": "CLI harness for WPS Office -- let AI agents control Writer, Calc & Impress via COM automation",
             "url": "https://github.com/yb2460/harness-anything",
-            "stars": 407,
+            "stars": 409,
             "forks": 20,
             "score": 52
         },
@@ -139,7 +128,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "OnlyTerp/UltraCode-Shim",
             "description": "Give Claude Code's ultracode mode to ANY model you already pay for. A tiny local proxy + one config.json. Point your AI at AGENTS.md and it sets itself up.",
             "url": "https://github.com/OnlyTerp/UltraCode-Shim",
-            "stars": 261,
+            "stars": 262,
             "forks": 21,
             "score": 51
         },
@@ -150,8 +139,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "johnbean393/KeyType",
             "description": "An open-source Cotypist with macOS system wide AI autocomplete",
             "url": "https://github.com/johnbean393/KeyType",
-            "stars": 251,
-            "forks": 9,
+            "stars": 253,
+            "forks": 10,
             "score": 50
         },
         {
@@ -168,23 +157,23 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "vigils",
-            "full_name": "duncatzat/vigils",
-            "description": "A local control plane for AI agents \u2014 see what they do, approve what matters, keep secrets out. Rust + Tauri + Chrome MV3.",
-            "url": "https://github.com/duncatzat/vigils",
-            "stars": 208,
-            "forks": 13,
-            "score": 48
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
             "name": "nullsec-s1",
             "full_name": "trynullsec/nullsec-s1",
             "description": "Security-native LLM system for AI-generated application security.",
             "url": "https://github.com/trynullsec/nullsec-s1",
-            "stars": 169,
+            "stars": 179,
             "forks": 52,
+            "score": 49
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "vigils",
+            "full_name": "duncatzat/vigils",
+            "description": "A local control plane for AI agents \u2014 see what they do, approve what matters, keep secrets out. Rust + Tauri + Chrome MV3.",
+            "url": "https://github.com/duncatzat/vigils",
+            "stars": 211,
+            "forks": 13,
             "score": 48
         },
         {
@@ -201,24 +190,24 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
+            "name": "mnemo",
+            "full_name": "zaydmulani09/mnemo",
+            "description": "Local-first AI memory layer for any LLM. Persistent knowledge graph, entity extraction, semantic retrieval. Works with Ollama, OpenAI, Anthropic, or any OpenAI-compatible backend.",
+            "url": "https://github.com/zaydmulani09/mnemo",
+            "stars": 166,
+            "forks": 3,
+            "score": 47
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
             "name": "no_ai_slop_writing_rules",
             "full_name": "realrossmanngroup/no_ai_slop_writing_rules",
             "description": "Claude Code reference: write in Louis Rossmann's voice, never like AI slop. Portable CLAUDE.md plus skills.",
             "url": "https://github.com/realrossmanngroup/no_ai_slop_writing_rules",
             "stars": 290,
             "forks": 39,
-            "score": 47
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "FigMirror",
-            "full_name": "VILA-Lab/FigMirror",
-            "description": "An Automated AI Agent Tool for Plotting Your Data in Any Paper's Figure Style.",
-            "url": "https://github.com/VILA-Lab/FigMirror",
-            "stars": 427,
-            "forks": 25,
-            "score": 46
+            "score": 45
         },
         {
             "main_cat": "AI",
@@ -227,7 +216,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "fayazara/macos-app-skills",
             "description": "AI coding agent skills for building, shipping, and maintaining native macOS apps",
             "url": "https://github.com/fayazara/macos-app-skills",
-            "stars": 292,
+            "stars": 297,
             "forks": 6,
             "score": 44
         },
@@ -293,9 +282,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "modelstudioai/cli",
             "description": "Official Model Studio CLI\uff08\u963f\u91cc\u4e91\u767e\u70bc CLI\uff09built for AI Agent frameworks, exposing models, search, multimodal, and workflow capabilities as structured tool calls.",
             "url": "https://github.com/modelstudioai/cli",
-            "stars": 185,
+            "stars": 188,
             "forks": 10,
-            "score": 41
+            "score": 40
         },
         {
             "main_cat": "AI",
@@ -310,14 +299,14 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "ai-detector-skill",
-            "full_name": "lynote-ai/ai-detector-skill",
-            "description": " A free detector capable of identifying content generated by all advanced AI models.",
-            "url": "https://github.com/lynote-ai/ai-detector-skill",
-            "stars": 211,
-            "forks": 3,
-            "score": 38
+            "sub_cat": null,
+            "name": "tw-legal-rag",
+            "full_name": "aa0101181514/tw-legal-rag",
+            "description": "Open-source CLI for semantic Taiwan legal judgment retrieval. Search judgments, package them for your own AI (ChatGPT/Claude/Gemini), and run a bundle-level citation check. Bring your own LLM; retrieval-only.",
+            "url": "https://github.com/aa0101181514/tw-legal-rag",
+            "stars": 165,
+            "forks": 31,
+            "score": 39
         },
         {
             "main_cat": "AI",
@@ -326,8 +315,19 @@ const ALPHA_DATA_V2 = {
             "full_name": "Health-Yang/MineEcho",
             "description": "Local-first Memory OS for personal AI assistants with L0-L3 memory, Wiki++ knowledge, skill routing, and TokenLess context compression.",
             "url": "https://github.com/Health-Yang/MineEcho",
-            "stars": 119,
+            "stars": 120,
             "forks": 15,
+            "score": 39
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "ai-detector-skill",
+            "full_name": "lynote-ai/ai-detector-skill",
+            "description": " A free detector capable of identifying content generated by all advanced AI models.",
+            "url": "https://github.com/lynote-ai/ai-detector-skill",
+            "stars": 211,
+            "forks": 3,
             "score": 38
         },
         {
@@ -351,6 +351,17 @@ const ALPHA_DATA_V2 = {
             "stars": 25,
             "forks": 6,
             "score": 32
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "DevFleetSync",
+            "full_name": "credkellar-boop/DevFleetSync",
+            "description": "Meet DevFleetSync, your ultimate hub for cross-domain tech collaboration. Whether you are into Vibe Coding, Full Stack Development, AI/ML, Web3, or Cybersecurity, this bot connects you with like-minded innovators. Join our fleet to share knowledge, build new projects, and grow together. Drop your specific domain below and let's start syncing today!",
+            "url": "https://github.com/credkellar-boop/DevFleetSync",
+            "stars": 6,
+            "forks": 1,
+            "score": 30
         },
         {
             "main_cat": "AI",
@@ -397,17 +408,6 @@ const ALPHA_DATA_V2 = {
             "score": 30
         },
         {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "institutional-rwa-yield-aggregator",
-            "full_name": "0xsagor/institutional-rwa-yield-aggregator",
-            "description": "A professional-grade yield optimization framework for 2026, enabling institutional capital to access tokenized Real-World Assets (RWAs) and cross-chain liquidity pools with automated risk-adjusted rebalancing.",
-            "url": "https://github.com/0xsagor/institutional-rwa-yield-aggregator",
-            "stars": 0,
-            "forks": 0,
-            "score": 30
-        },
-        {
             "main_cat": "Prediction Markets",
             "sub_cat": null,
             "name": "Achoja-Akpovona-",
@@ -430,17 +430,6 @@ const ALPHA_DATA_V2 = {
             "score": 30
         },
         {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "baozi-idl",
-            "full_name": "bolivian-peru/baozi-idl",
-            "description": "Complete Anchor IDL + instruction reference for Baozi.bet prediction markets on Solana. The IDL is the complete agent interface.",
-            "url": "https://github.com/bolivian-peru/baozi-idl",
-            "stars": 0,
-            "forks": 0,
-            "score": 30
-        },
-        {
             "main_cat": "Prediction Markets",
             "sub_cat": null,
             "name": "worldcup-prediction-lottery",
@@ -454,11 +443,11 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
-            "name": "webshare-payment-proxies",
-            "full_name": "lcwwnw39/webshare-payment-proxies",
-            "description": "Webshare Payment Methods Explained: Does Webshare Accept PayPal? Can You Pay with Crypto? Full Breakdown of Cards, Wallets, Bitcoin & Stablecoins (Plus Plan-by-Plan Pricing Guide)",
-            "url": "https://github.com/lcwwnw39/webshare-payment-proxies",
-            "stars": 1,
+            "name": "stableops-wallet-typescript-sdk",
+            "full_name": "StableOps/stableops-wallet-typescript-sdk",
+            "description": "Stablecoin payment and on-chain event platform",
+            "url": "https://github.com/StableOps/stableops-wallet-typescript-sdk",
+            "stars": 0,
             "forks": 0,
             "score": 30
         },
@@ -529,6 +518,17 @@ const ALPHA_DATA_V2 = {
             "score": 30
         },
         {
+            "main_cat": "Stablecoin Infrastructure",
+            "sub_cat": null,
+            "name": "solana-compliance-hook",
+            "full_name": "sks006/solana-compliance-hook",
+            "description": "A Token-2022 transfer hook for Solana that enforces KYC allowlists, blacklists, and fee-on-transfer\u2014built for compliant stablecoin issuers and payment processors.",
+            "url": "https://github.com/sks006/solana-compliance-hook",
+            "stars": 0,
+            "forks": 0,
+            "score": 30
+        },
+        {
             "main_cat": "AI",
             "sub_cat": "AI General",
             "name": "OmnisRouter",
@@ -575,10 +575,10 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI Agents",
-            "name": "autonomous-agent-payment-rails",
-            "full_name": "akash8987/autonomous-agent-payment-rails",
-            "description": "A professional-grade implementation for the 2026 AI-Blockchain convergence, providing programmable, non-custodial payment infrastructure for AI agents to settle compute, data, and API costs autonomously using stablecoins and Account Abstraction.",
-            "url": "https://github.com/akash8987/autonomous-agent-payment-rails",
+            "name": "x402-mcp",
+            "full_name": "x402node/x402-mcp",
+            "description": "MCP server bringing 100+ x402-paid APIs to AI agents. Auto-syncs from CDP Bazaar. Stablecoin micropayments via x402 protocol across multi-chain (Base, Solana, Polygon, BNB, EVM). Built for agentic commerce: developer utilities, validators, encoders, generators, M2M payments, autonomous workflows. Works with Claude, Cursor, and any MCP-aware client.",
+            "url": "https://github.com/x402node/x402-mcp",
             "stars": 0,
             "forks": 0,
             "score": 30
@@ -659,6 +659,17 @@ const ALPHA_DATA_V2 = {
             "stars": 0,
             "forks": 0,
             "score": 30
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI Agents",
+            "name": "SIC-JS_3.0",
+            "full_name": "Endwar116/SIC-JS_3.0",
+            "description": "SIC-JS v3.0 \u2014 Semantic Integrity Control JSON. An AI agent semantic state protocol for cross-session, cross-model state persistence and verification.",
+            "url": "https://github.com/Endwar116/SIC-JS_3.0",
+            "stars": 0,
+            "forks": 0,
+            "score": 30
         }
     ],
     "news": [
@@ -670,5 +681,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-06-04 23:04"
+    "timestamp": "2026-06-05 02:48"
 };
