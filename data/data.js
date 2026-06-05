@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "pewdiepie-archdaemon/odysseus",
             "description": "Self-hosted AI workspace. ",
             "url": "https://github.com/pewdiepie-archdaemon/odysseus",
-            "stars": 54177,
-            "forks": 6395,
+            "stars": 54697,
+            "forks": 6467,
             "score": 99
         },
         {
@@ -18,7 +18,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "GordenSun/GordenPPTSkill",
             "description": "AI-friendly PPT builder skill: 17 hand-polished Chinese PPTX templates + non-destructive text-only editing tools (python-pptx based). Pick a template, write edits.json, build a real .pptx with the layout intact. Personal/research use only.",
             "url": "https://github.com/GordenSun/GordenPPTSkill",
-            "stars": 1725,
+            "stars": 1729,
             "forks": 155,
             "score": 99
         },
@@ -29,7 +29,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "asz798838958/aBaiAutoplus",
             "description": "\u591a\u5e73\u53f0 AI \u8d26\u53f7\u81ea\u52a8\u6ce8\u518c\u4e0e\u7ba1\u7406 \u00b7 \u534f\u8bae\u5316\u4ed8\u6b3e\u4e00\u952e\u5f00\u901a ChatGPT Plus",
             "url": "https://github.com/asz798838958/aBaiAutoplus",
-            "stars": 1519,
+            "stars": 1527,
             "forks": 695,
             "score": 99
         },
@@ -40,8 +40,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "nexu-io/html-video",
             "description": "Programmatic video for coding agents \u2014 turn HTML, CSS & data into real MP4s on your laptop. Pluggable render engines, 21 templates, AI soundtrack. Apache-2.0, no per-render fees. An official project by the Open Design team.",
             "url": "https://github.com/nexu-io/html-video",
-            "stars": 1184,
-            "forks": 123,
+            "stars": 1268,
+            "forks": 129,
             "score": 99
         },
         {
@@ -51,7 +51,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "withkynam/vibecode-pro-max-kit",
             "description": "Your AI forgets. This remembers. Spec-driven coding harness for vibecoders, product owners, CEOs and real builders \u2014 self-improving context memory, 12 agents, 32 skills. Kills context rot, ships features, not spaghetti. Claude Code & Codex. Any stack. 30 seconds",
             "url": "https://github.com/withkynam/vibecode-pro-max-kit",
-            "stars": 789,
+            "stars": 790,
             "forks": 181,
             "score": 93
         },
@@ -62,9 +62,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "boona13/image-extender",
             "description": "Seamlessly extend any image in any direction with AI. Open-source web app powered by Gemini via OpenRouter, with Poisson-blended seams and best-of-3 variant picker.",
             "url": "https://github.com/boona13/image-extender",
-            "stars": 914,
+            "stars": 916,
             "forks": 101,
-            "score": 84
+            "score": 85
         },
         {
             "main_cat": "AI",
@@ -73,7 +73,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "study8677/awesome-architecture",
             "description": "\ud83e\udded Architecture-first system design: 26 bilingual tutorials, 25 architecture templates, and 6 end-to-end cases covering distributed systems, AI-native systems, RAG, coding Agents, and production trade-offs.",
             "url": "https://github.com/study8677/awesome-architecture",
-            "stars": 1175,
+            "stars": 1176,
             "forks": 126,
             "score": 82
         },
@@ -95,7 +95,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Mochocyang/QMAI",
             "description": "\u9752\u5e55AI\u5199\u4f5c\u8f6f\u4ef6\uff0c\u89e3\u51b3\u957f\u7bc7\u5c0f\u8bf4\u5199\u4f5c\u95ee\u9898\uff0c\u89e3\u51b3\u5c0f\u8bf4\u89d2\u8272\u6027\u683c\u4e0d\u7edf\u4e00\uff0c\u9632\u6b62\u4eba\u8bbe\u5d29\u574f\u3002",
             "url": "https://github.com/Mochocyang/QMAI",
-            "stars": 344,
+            "stars": 346,
             "forks": 64,
             "score": 67
         },
@@ -108,7 +108,7 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/DannyMac180/skills",
             "stars": 412,
             "forks": 33,
-            "score": 60
+            "score": 57
         },
         {
             "main_cat": "AI",
@@ -117,20 +117,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "zonghaoyuan/infiplot",
             "description": "InfiPlot is the world's first interactive plot game that AI generates all text and images in real-time. InfiPlot\u662f\u5168\u7403\u9996\u4e2a\u7531 AI \u5b9e\u65f6\u751f\u6210\u5168\u90e8\u56fe\u6587\u5185\u5bb9\u7684\u4ea4\u4e92\u5f0f\u5267\u60c5\u6e38\u620f",
             "url": "https://github.com/zonghaoyuan/infiplot",
-            "stars": 200,
+            "stars": 201,
             "forks": 27,
             "score": 55
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "KeyType",
-            "full_name": "johnbean393/KeyType",
-            "description": "An open-source Cotypist with macOS system wide AI autocomplete",
-            "url": "https://github.com/johnbean393/KeyType",
-            "stars": 262,
-            "forks": 11,
-            "score": 51
         },
         {
             "main_cat": "AI",
@@ -146,22 +135,11 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "vigils",
-            "full_name": "duncatzat/vigils",
-            "description": "A local control plane for AI agents \u2014 see what they do, approve what matters, keep secrets out. Rust + Tauri + Chrome MV3.",
-            "url": "https://github.com/duncatzat/vigils",
-            "stars": 242,
-            "forks": 14,
-            "score": 51
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
             "name": "harness-anything",
             "full_name": "yb2460/harness-anything",
             "description": "Harness Anything - AI agent control hub: WPS, MS Office, Zotero, Photoshop, 47 CLI commands, 27 academic skills, SVG-to-PPTX",
             "url": "https://github.com/yb2460/harness-anything",
-            "stars": 417,
+            "stars": 421,
             "forks": 20,
             "score": 50
         },
@@ -172,8 +150,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "cclank/lanshu-awesome-ai-video-kit",
             "description": "\u505a\u4f01\u4e1a AI \u89c6\u9891\u9879\u76ee\u903c\u51fa\u6765\u7684\u5de5\u5177\u5305 \u00b7 411 prompt \u00b7 15 \u6a21\u578b \u00b7 7 Claude Skill \u00b7 14 \u7bc7\u65b9\u6cd5\u8bba",
             "url": "https://github.com/cclank/lanshu-awesome-ai-video-kit",
-            "stars": 252,
-            "forks": 70,
+            "stars": 253,
+            "forks": 71,
             "score": 50
         },
         {
@@ -186,6 +164,39 @@ const ALPHA_DATA_V2 = {
             "stars": 183,
             "forks": 6,
             "score": 50
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "KeyType",
+            "full_name": "johnbean393/KeyType",
+            "description": "An open-source Cotypist with macOS system wide AI autocomplete",
+            "url": "https://github.com/johnbean393/KeyType",
+            "stars": 263,
+            "forks": 11,
+            "score": 49
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "nullsec-s1",
+            "full_name": "trynullsec/nullsec-s1",
+            "description": "Security-native LLM system for AI-generated application security.",
+            "url": "https://github.com/trynullsec/nullsec-s1",
+            "stars": 188,
+            "forks": 52,
+            "score": 49
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "vigils",
+            "full_name": "duncatzat/vigils",
+            "description": "A local control plane for AI agents \u2014 see what they do, approve what matters, keep secrets out. Rust + Tauri + Chrome MV3.",
+            "url": "https://github.com/duncatzat/vigils",
+            "stars": 243,
+            "forks": 14,
+            "score": 48
         },
         {
             "main_cat": "AI",
@@ -205,7 +216,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "fayazara/macos-app-skills",
             "description": "AI coding agent skills for building, shipping, and maintaining native macOS apps",
             "url": "https://github.com/fayazara/macos-app-skills",
-            "stars": 314,
+            "stars": 316,
             "forks": 6,
             "score": 45
         },
@@ -227,7 +238,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "c873089902979/NS-FW-AI-Image-and-Video-Generator-Uncens",
             "description": "A foundational toolkit for AI-driven image generation, focusing on creative expression and content creation.",
             "url": "https://github.com/c873089902979/NS-FW-AI-Image-and-Video-Generator-Uncens",
-            "stars": 186,
+            "stars": 187,
             "forks": 9,
             "score": 43
         },
@@ -266,35 +277,13 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
-            "sub_cat": null,
-            "name": "CapC-Pro-2",
-            "full_name": "gerardapennant96075336582/CapC-Pro-2",
-            "description": "CapCut Pro Studio (2026) \u2014 The ultimate high-performance video editing suite with all premium features unlocked. Experience 4K HDR exporting, AI-powered transitions, and a full professional asset library without limitations.",
-            "url": "https://github.com/gerardapennant96075336582/CapC-Pro-2",
-            "stars": 181,
-            "forks": 0,
-            "score": 41
-        },
-        {
-            "main_cat": "AI",
             "sub_cat": "Agent Frameworks",
             "name": "cli",
             "full_name": "modelstudioai/cli",
             "description": "Official Model Studio CLI\uff08\u963f\u91cc\u4e91\u767e\u70bc CLI\uff09built for AI Agent frameworks, exposing models, search, multimodal, and workflow capabilities as structured tool calls.",
             "url": "https://github.com/modelstudioai/cli",
-            "stars": 200,
+            "stars": 201,
             "forks": 10,
-            "score": 40
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "zelda-hyrule-ui",
-            "full_name": "chaos-xxl/zelda-hyrule-ui",
-            "description": "\ud83d\udde1\ufe0f Zelda BOTW style React UI component library \u2014 84 components with Sheikah glow effects, dark theme, and AI-consumable design specs (Cursor/v0 ready)",
-            "url": "https://github.com/chaos-xxl/zelda-hyrule-ui",
-            "stars": 180,
-            "forks": 24,
             "score": 40
         },
         {
@@ -304,9 +293,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "uu201/character-arc",
             "description": "\u5f27\u5149 \u00b7 AI \u5c0f\u8bf4\u521b\u4f5c\u684c\u9762\u5e94\u7528\uff0c\u96c6\u9879\u76ee\u8bbe\u5b9a\u3001\u89d2\u8272\u5173\u7cfb\u3001\u5267\u60c5\u5927\u7eb2\u3001\u7ae0\u8282\u5199\u4f5c\u4e0e\u591a\u6a21\u578b AI \u534f\u4f5c\u4e8e\u4e00\u4f53",
             "url": "https://github.com/uu201/character-arc",
-            "stars": 191,
-            "forks": 26,
-            "score": 39
+            "stars": 197,
+            "forks": 27,
+            "score": 40
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "zelda-hyrule-ui",
+            "full_name": "chaos-xxl/zelda-hyrule-ui",
+            "description": "\ud83d\udde1\ufe0f Zelda BOTW style React UI component library \u2014 84 components with Sheikah glow effects, dark theme, and AI-consumable design specs (Cursor/v0 ready)",
+            "url": "https://github.com/chaos-xxl/zelda-hyrule-ui",
+            "stars": 182,
+            "forks": 24,
+            "score": 40
         },
         {
             "main_cat": "AI",
@@ -326,8 +326,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "Health-Yang/MineEcho",
             "description": "Local-first Memory OS for personal AI assistants with L0-L3 memory, Wiki++ knowledge, skill routing, and TokenLess context compression.",
             "url": "https://github.com/Health-Yang/MineEcho",
-            "stars": 128,
-            "forks": 15,
+            "stars": 132,
+            "forks": 16,
             "score": 38
         },
         {
@@ -355,17 +355,6 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
-            "name": "DevFleetSync",
-            "full_name": "credkellar-boop/DevFleetSync",
-            "description": "Meet DevFleetSync, your ultimate hub for cross-domain tech collaboration. Whether you are into Vibe Coding, Full Stack Development, AI/ML, Web3, or Cybersecurity, this bot connects you with like-minded innovators. Join our fleet to share knowledge, build new projects, and grow together. Drop your specific domain below and let's start syncing today!",
-            "url": "https://github.com/credkellar-boop/DevFleetSync",
-            "stars": 6,
-            "forks": 1,
-            "score": 30
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
             "name": "GPUCache",
             "full_name": "rustfs/GPUCache",
             "description": "A PB-scale, ultra-low latency distributed GPU cache for AI inference. Built with Rust, NVIDIA DOCA, RDMA, and BF-4 DPUs to bridge GPU HBM and NVMe storage, eliminating the recompute tax for large language models.",
@@ -383,6 +372,17 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/nova-studios-hw/novagpu-ts1t",
             "stars": 11,
             "forks": 0,
+            "score": 30
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "homelab-monitor",
+            "full_name": "SikamikanikoBG/homelab-monitor",
+            "description": "Plug-and-play homelab dashboard in one container \u2014 GPU, local-AI model VRAM, Docker, systemd and host health. One page, no Prometheus/Grafana.",
+            "url": "https://github.com/SikamikanikoBG/homelab-monitor",
+            "stars": 10,
+            "forks": 4,
             "score": 30
         },
         {
@@ -553,6 +553,17 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
+            "name": "TrustSplit",
+            "full_name": "HumanChainX/TrustSplit",
+            "description": "TrustSplit is a multi-chain, trustless expense-splitting platform that eliminates the trust dependency in group payments. Participants commit stablecoins or sign cryptographic payment promises into a shared escrow pool, which settles all payees in a single batch transaction \u2014 no intermediaries, no delays",
+            "url": "https://github.com/HumanChainX/TrustSplit",
+            "stars": 0,
+            "forks": 0,
+            "score": 30
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
             "name": "SwiftRemit",
             "full_name": "MentorsMind/SwiftRemit",
             "description": "SwiftRemit is a full-stack blockchain-powered cross-border payment platform built to eliminate the high costs and slow settlement times of international money transfers in Africa.  Built on the Stellar network, SwiftRemit enables near-instant, low-cost payments using XLM and USDC stablecoins",
@@ -659,5 +670,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-06-05 14:34"
+    "timestamp": "2026-06-05 17:10"
 };
