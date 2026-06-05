@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "pewdiepie-archdaemon/odysseus",
             "description": "Self-hosted AI workspace. ",
             "url": "https://github.com/pewdiepie-archdaemon/odysseus",
-            "stars": 54697,
-            "forks": 6467,
+            "stars": 55101,
+            "forks": 6515,
             "score": 99
         },
         {
@@ -40,8 +40,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "nexu-io/html-video",
             "description": "Programmatic video for coding agents \u2014 turn HTML, CSS & data into real MP4s on your laptop. Pluggable render engines, 21 templates, AI soundtrack. Apache-2.0, no per-render fees. An official project by the Open Design team.",
             "url": "https://github.com/nexu-io/html-video",
-            "stars": 1268,
-            "forks": 129,
+            "stars": 1314,
+            "forks": 137,
             "score": 99
         },
         {
@@ -58,17 +58,6 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "image-extender",
-            "full_name": "boona13/image-extender",
-            "description": "Seamlessly extend any image in any direction with AI. Open-source web app powered by Gemini via OpenRouter, with Poisson-blended seams and best-of-3 variant picker.",
-            "url": "https://github.com/boona13/image-extender",
-            "stars": 916,
-            "forks": 101,
-            "score": 85
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
             "name": "awesome-architecture",
             "full_name": "study8677/awesome-architecture",
             "description": "\ud83e\udded Architecture-first system design: 26 bilingual tutorials, 25 architecture templates, and 6 end-to-end cases covering distributed systems, AI-native systems, RAG, coding Agents, and production trade-offs.",
@@ -80,11 +69,22 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
+            "name": "image-extender",
+            "full_name": "boona13/image-extender",
+            "description": "Seamlessly extend any image in any direction with AI. Open-source web app powered by Gemini via OpenRouter, with Poisson-blended seams and best-of-3 variant picker.",
+            "url": "https://github.com/boona13/image-extender",
+            "stars": 916,
+            "forks": 101,
+            "score": 80
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
             "name": "female-portrait-director",
             "full_name": "liyue-aigc/female-portrait-director",
             "description": "A modular Codex Skill for directing and expanding detailed AI female portrait prompts.",
             "url": "https://github.com/liyue-aigc/female-portrait-director",
-            "stars": 517,
+            "stars": 519,
             "forks": 74,
             "score": 75
         },
@@ -95,7 +95,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Mochocyang/QMAI",
             "description": "\u9752\u5e55AI\u5199\u4f5c\u8f6f\u4ef6\uff0c\u89e3\u51b3\u957f\u7bc7\u5c0f\u8bf4\u5199\u4f5c\u95ee\u9898\uff0c\u89e3\u51b3\u5c0f\u8bf4\u89d2\u8272\u6027\u683c\u4e0d\u7edf\u4e00\uff0c\u9632\u6b62\u4eba\u8bbe\u5d29\u574f\u3002",
             "url": "https://github.com/Mochocyang/QMAI",
-            "stars": 346,
+            "stars": 351,
             "forks": 64,
             "score": 67
         },
@@ -117,20 +117,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "zonghaoyuan/infiplot",
             "description": "InfiPlot is the world's first interactive plot game that AI generates all text and images in real-time. InfiPlot\u662f\u5168\u7403\u9996\u4e2a\u7531 AI \u5b9e\u65f6\u751f\u6210\u5168\u90e8\u56fe\u6587\u5185\u5bb9\u7684\u4ea4\u4e92\u5f0f\u5267\u60c5\u6e38\u620f",
             "url": "https://github.com/zonghaoyuan/infiplot",
-            "stars": 201,
+            "stars": 204,
             "forks": 27,
-            "score": 55
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "UltraCode-Shim",
-            "full_name": "OnlyTerp/UltraCode-Shim",
-            "description": "Give Claude Code's ultracode mode to ANY model you already pay for. A tiny local proxy + one config.json. Point your AI at AGENTS.md and it sets itself up.",
-            "url": "https://github.com/OnlyTerp/UltraCode-Shim",
-            "stars": 262,
-            "forks": 21,
-            "score": 51
+            "score": 56
         },
         {
             "main_cat": "AI",
@@ -139,7 +128,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "yb2460/harness-anything",
             "description": "Harness Anything - AI agent control hub: WPS, MS Office, Zotero, Photoshop, 47 CLI commands, 27 academic skills, SVG-to-PPTX",
             "url": "https://github.com/yb2460/harness-anything",
-            "stars": 421,
+            "stars": 422,
             "forks": 20,
             "score": 50
         },
@@ -157,13 +146,35 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
+            "name": "nullsec-s1",
+            "full_name": "trynullsec/nullsec-s1",
+            "description": "Security-native LLM system for AI-generated application security.",
+            "url": "https://github.com/trynullsec/nullsec-s1",
+            "stars": 192,
+            "forks": 52,
+            "score": 50
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
             "name": "mnemo",
             "full_name": "zaydmulani09/mnemo",
             "description": "Local-first AI memory layer for any LLM. Persistent knowledge graph, entity extraction, semantic retrieval. Works with Ollama, OpenAI, Anthropic, or any OpenAI-compatible backend.",
             "url": "https://github.com/zaydmulani09/mnemo",
-            "stars": 183,
+            "stars": 185,
             "forks": 6,
             "score": 50
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "UltraCode-Shim",
+            "full_name": "OnlyTerp/UltraCode-Shim",
+            "description": "Give Claude Code's ultracode mode to ANY model you already pay for. A tiny local proxy + one config.json. Point your AI at AGENTS.md and it sets itself up.",
+            "url": "https://github.com/OnlyTerp/UltraCode-Shim",
+            "stars": 266,
+            "forks": 21,
+            "score": 49
         },
         {
             "main_cat": "AI",
@@ -172,19 +183,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "johnbean393/KeyType",
             "description": "An open-source Cotypist with macOS system wide AI autocomplete",
             "url": "https://github.com/johnbean393/KeyType",
-            "stars": 263,
+            "stars": 265,
             "forks": 11,
-            "score": 49
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "nullsec-s1",
-            "full_name": "trynullsec/nullsec-s1",
-            "description": "Security-native LLM system for AI-generated application security.",
-            "url": "https://github.com/trynullsec/nullsec-s1",
-            "stars": 188,
-            "forks": 52,
             "score": 49
         },
         {
@@ -205,20 +205,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "bryanyzhu/agentic-ai-system-course",
             "description": "Use agent to learn agent - A skeleton course on how to design, build, and operate production AI agents ",
             "url": "https://github.com/bryanyzhu/agentic-ai-system-course",
-            "stars": 337,
-            "forks": 48,
+            "stars": 338,
+            "forks": 49,
             "score": 46
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "macos-app-skills",
-            "full_name": "fayazara/macos-app-skills",
-            "description": "AI coding agent skills for building, shipping, and maintaining native macOS apps",
-            "url": "https://github.com/fayazara/macos-app-skills",
-            "stars": 316,
-            "forks": 6,
-            "score": 45
         },
         {
             "main_cat": "AI",
@@ -230,6 +219,17 @@ const ALPHA_DATA_V2 = {
             "stars": 291,
             "forks": 39,
             "score": 45
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "macos-app-skills",
+            "full_name": "fayazara/macos-app-skills",
+            "description": "AI coding agent skills for building, shipping, and maintaining native macOS apps",
+            "url": "https://github.com/fayazara/macos-app-skills",
+            "stars": 316,
+            "forks": 6,
+            "score": 44
         },
         {
             "main_cat": "AI",
@@ -250,7 +250,7 @@ const ALPHA_DATA_V2 = {
             "description": "Composable computational-science methodology skills for AI research agents \u2014 pre-registration over TDD. A science-domain reimplementation of Superpowers.",
             "url": "https://github.com/K-Dense-AI/science-superpowers",
             "stars": 184,
-            "forks": 16,
+            "forks": 17,
             "score": 42
         },
         {
@@ -260,7 +260,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "quarqlabs/agent-oss",
             "description": "A recursive evidence-gated cognitive runtime for memory-native AI agents, combining hybrid retrieval, temporal reasoning, async learning, and plug-and-play tools.",
             "url": "https://github.com/quarqlabs/agent-oss",
-            "stars": 239,
+            "stars": 242,
             "forks": 23,
             "score": 41
         },
@@ -293,7 +293,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "uu201/character-arc",
             "description": "\u5f27\u5149 \u00b7 AI \u5c0f\u8bf4\u521b\u4f5c\u684c\u9762\u5e94\u7528\uff0c\u96c6\u9879\u76ee\u8bbe\u5b9a\u3001\u89d2\u8272\u5173\u7cfb\u3001\u5267\u60c5\u5927\u7eb2\u3001\u7ae0\u8282\u5199\u4f5c\u4e0e\u591a\u6a21\u578b AI \u534f\u4f5c\u4e8e\u4e00\u4f53",
             "url": "https://github.com/uu201/character-arc",
-            "stars": 197,
+            "stars": 199,
             "forks": 27,
             "score": 40
         },
@@ -326,7 +326,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Health-Yang/MineEcho",
             "description": "Local-first Memory OS for personal AI assistants with L0-L3 memory, Wiki++ knowledge, skill routing, and TokenLess context compression.",
             "url": "https://github.com/Health-Yang/MineEcho",
-            "stars": 132,
+            "stars": 133,
             "forks": 16,
             "score": 38
         },
@@ -663,6 +663,20 @@ const ALPHA_DATA_V2 = {
     ],
     "news": [
         {
+            "title": "Will the Agent Recuse Itself? Measuring LLM-Agent Compliance with In-Band Access-Deny Signals",
+            "source": "ArXiv",
+            "type": "Research Alpha",
+            "color": "text-indigo-600",
+            "url": "http://arxiv.org/abs/2606.06460v1"
+        },
+        {
+            "title": "WebMCP Tool Surface Poisoning: Runtime Manipulation Attacks on LLM Agents",
+            "source": "ArXiv",
+            "type": "Research Alpha",
+            "color": "text-indigo-600",
+            "url": "http://arxiv.org/abs/2606.06387v1"
+        },
+        {
             "title": "Bitcoin volatility remains high ahead of key FED decision.",
             "source": "Polymarket",
             "type": "Expectation",
@@ -670,5 +684,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-06-05 17:10"
+    "timestamp": "2026-06-05 19:45"
 };
