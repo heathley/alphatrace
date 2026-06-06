@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "pewdiepie-archdaemon/odysseus",
             "description": "Self-hosted AI workspace. ",
             "url": "https://github.com/pewdiepie-archdaemon/odysseus",
-            "stars": 58173,
-            "forks": 6988,
+            "stars": 58500,
+            "forks": 7028,
             "score": 99
         },
         {
@@ -29,8 +29,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "nexu-io/html-video",
             "description": "Programmatic video for coding agents \u2014 HTML to video on your laptop. Turn HTML, CSS & data into real MP4s with pluggable render engines, 21 templates, AI soundtrack. Apache-2.0, no per-render fees. An official project by the Open Design team.",
             "url": "https://github.com/nexu-io/html-video",
-            "stars": 1675,
-            "forks": 180,
+            "stars": 1687,
+            "forks": 182,
             "score": 99
         },
         {
@@ -40,7 +40,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "asz798838958/aBaiAutoplus",
             "description": "\u591a\u5e73\u53f0 AI \u8d26\u53f7\u81ea\u52a8\u6ce8\u518c\u4e0e\u7ba1\u7406 \u00b7 \u534f\u8bae\u5316\u4ed8\u6b3e\u4e00\u952e\u5f00\u901a ChatGPT Plus",
             "url": "https://github.com/asz798838958/aBaiAutoplus",
-            "stars": 1554,
+            "stars": 1557,
             "forks": 704,
             "score": 99
         },
@@ -51,7 +51,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "withkynam/vibecode-pro-max-kit",
             "description": "Your AI forgets. This remembers. Spec-driven coding harness for vibecoders, product owners, CEOs and real builders \u2014 self-improving context memory, 12 agents, 32 skills. Kills context rot, ships features, not spaghetti. Claude Code & Codex. Any stack. 30 seconds",
             "url": "https://github.com/withkynam/vibecode-pro-max-kit",
-            "stars": 805,
+            "stars": 806,
             "forks": 186,
             "score": 89
         },
@@ -64,7 +64,7 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/boona13/image-extender",
             "stars": 932,
             "forks": 104,
-            "score": 81
+            "score": 78
         },
         {
             "main_cat": "AI",
@@ -85,7 +85,7 @@ const ALPHA_DATA_V2 = {
             "description": "\u9752\u5e55AI\u5199\u4f5c\u8f6f\u4ef6\uff0c\u89e3\u51b3\u957f\u7bc7\u5c0f\u8bf4\u5199\u4f5c\u95ee\u9898\uff0c\u89e3\u51b3\u5c0f\u8bf4\u89d2\u8272\u6027\u683c\u4e0d\u7edf\u4e00\uff0c\u9632\u6b62\u4eba\u8bbe\u5d29\u574f\u3002",
             "url": "https://github.com/Mochocyang/QMAI",
             "stars": 378,
-            "forks": 72,
+            "forks": 73,
             "score": 67
         },
         {
@@ -139,7 +139,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "duncatzat/vigils",
             "description": "A local control plane for AI agents \u2014 see what they do, approve what matters, keep secrets out. Rust + Tauri + Chrome MV3.",
             "url": "https://github.com/duncatzat/vigils",
-            "stars": 287,
+            "stars": 289,
             "forks": 14,
             "score": 49
         },
@@ -161,8 +161,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "OnlyTerp/UltraCode-Shim",
             "description": "Give Claude Code's ultracode mode to ANY model you already pay for. A tiny local proxy + one config.json. Point your AI at AGENTS.md and it sets itself up.",
             "url": "https://github.com/OnlyTerp/UltraCode-Shim",
-            "stars": 276,
-            "forks": 22,
+            "stars": 278,
+            "forks": 23,
             "score": 48
         },
         {
@@ -216,7 +216,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "fayazara/macos-app-skills",
             "description": "AI coding agent skills for building, shipping, and maintaining native macOS apps",
             "url": "https://github.com/fayazara/macos-app-skills",
-            "stars": 370,
+            "stars": 376,
             "forks": 8,
             "score": 45
         },
@@ -227,7 +227,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "realrossmanngroup/no_ai_slop_writing_rules",
             "description": "Claude Code reference: write in Louis Rossmann's voice, never like AI slop. Portable CLAUDE.md plus skills.",
             "url": "https://github.com/realrossmanngroup/no_ai_slop_writing_rules",
-            "stars": 294,
+            "stars": 296,
             "forks": 39,
             "score": 45
         },
@@ -304,7 +304,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Health-Yang/MineEcho",
             "description": "Local-first Memory OS for personal AI assistants with L0-L3 memory, Wiki++ knowledge, skill routing, and TokenLess context compression.",
             "url": "https://github.com/Health-Yang/MineEcho",
-            "stars": 168,
+            "stars": 171,
             "forks": 19,
             "score": 40
         },
@@ -359,7 +359,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "SikamikanikoBG/homelab-monitor",
             "description": "Plug-and-play homelab dashboard in one container \u2014 GPU, local-AI model VRAM, Docker, systemd and host health. One page, no Prometheus/Grafana.",
             "url": "https://github.com/SikamikanikoBG/homelab-monitor",
-            "stars": 19,
+            "stars": 20,
             "forks": 4,
             "score": 31
         },
@@ -662,5 +662,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-06-06 19:10"
+    "timestamp": "2026-06-06 20:57"
 };
