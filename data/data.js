@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "pewdiepie-archdaemon/odysseus",
             "description": "Self-hosted AI workspace. ",
             "url": "https://github.com/pewdiepie-archdaemon/odysseus",
-            "stars": 57252,
-            "forks": 6871,
+            "stars": 57512,
+            "forks": 6915,
             "score": 99
         },
         {
@@ -18,7 +18,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "GordenSun/GordenPPTSkill",
             "description": "AI-friendly PPT builder skill: 17 hand-polished Chinese PPTX templates + non-destructive text-only editing tools (python-pptx based). Pick a template, write edits.json, build a real .pptx with the layout intact. Personal/research use only.",
             "url": "https://github.com/GordenSun/GordenPPTSkill",
-            "stars": 1744,
+            "stars": 1748,
             "forks": 158,
             "score": 99
         },
@@ -29,8 +29,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "nexu-io/html-video",
             "description": "Programmatic video for coding agents \u2014 HTML to video on your laptop. Turn HTML, CSS & data into real MP4s with pluggable render engines, 21 templates, AI soundtrack. Apache-2.0, no per-render fees. An official project by the Open Design team.",
             "url": "https://github.com/nexu-io/html-video",
-            "stars": 1588,
-            "forks": 168,
+            "stars": 1620,
+            "forks": 175,
             "score": 99
         },
         {
@@ -40,7 +40,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "asz798838958/aBaiAutoplus",
             "description": "\u591a\u5e73\u53f0 AI \u8d26\u53f7\u81ea\u52a8\u6ce8\u518c\u4e0e\u7ba1\u7406 \u00b7 \u534f\u8bae\u5316\u4ed8\u6b3e\u4e00\u952e\u5f00\u901a ChatGPT Plus",
             "url": "https://github.com/asz798838958/aBaiAutoplus",
-            "stars": 1547,
+            "stars": 1549,
             "forks": 702,
             "score": 99
         },
@@ -51,9 +51,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "withkynam/vibecode-pro-max-kit",
             "description": "Your AI forgets. This remembers. Spec-driven coding harness for vibecoders, product owners, CEOs and real builders \u2014 self-improving context memory, 12 agents, 32 skills. Kills context rot, ships features, not spaghetti. Claude Code & Codex. Any stack. 30 seconds",
             "url": "https://github.com/withkynam/vibecode-pro-max-kit",
-            "stars": 803,
-            "forks": 182,
-            "score": 88
+            "stars": 804,
+            "forks": 183,
+            "score": 89
         },
         {
             "main_cat": "AI",
@@ -62,8 +62,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "boona13/image-extender",
             "description": "Seamlessly extend any image in any direction with AI. Open-source web app powered by Gemini via OpenRouter, with Poisson-blended seams and best-of-3 variant picker.",
             "url": "https://github.com/boona13/image-extender",
-            "stars": 925,
-            "forks": 102,
+            "stars": 930,
+            "forks": 103,
             "score": 81
         },
         {
@@ -73,7 +73,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "liyue-aigc/female-portrait-director",
             "description": "A modular Codex Skill for directing and expanding detailed AI female portrait prompts.",
             "url": "https://github.com/liyue-aigc/female-portrait-director",
-            "stars": 522,
+            "stars": 523,
             "forks": 74,
             "score": 70
         },
@@ -91,13 +91,24 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
+            "name": "ai-naughty-tools",
+            "full_name": "best-spicy-ai/ai-naughty-tools",
+            "description": "Discover uncensored AI image & video tools trusted by users worldwide for highly photorealistic results. Create without unnecessary limits using platforms built for realism, quality, and full creative freedom - https://tinyurl.com/videolabai",
+            "url": "https://github.com/best-spicy-ai/ai-naughty-tools",
+            "stars": 214,
+            "forks": 1,
+            "score": 57
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
             "name": "skills",
             "full_name": "DannyMac180/skills",
             "description": "AI agent skills created by me: Dan McAteer",
             "url": "https://github.com/DannyMac180/skills",
-            "stars": 417,
+            "stars": 418,
             "forks": 33,
-            "score": 57
+            "score": 55
         },
         {
             "main_cat": "AI",
@@ -117,20 +128,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "duncatzat/vigils",
             "description": "A local control plane for AI agents \u2014 see what they do, approve what matters, keep secrets out. Rust + Tauri + Chrome MV3.",
             "url": "https://github.com/duncatzat/vigils",
-            "stars": 283,
+            "stars": 285,
             "forks": 14,
             "score": 51
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "harness-anything",
-            "full_name": "yb2460/harness-anything",
-            "description": "Harness Anything - AI agent control hub: WPS, MS Office, Zotero, Photoshop, 47 CLI commands, 27 academic skills, SVG-to-PPTX",
-            "url": "https://github.com/yb2460/harness-anything",
-            "stars": 428,
-            "forks": 20,
-            "score": 49
         },
         {
             "main_cat": "AI",
@@ -139,8 +139,19 @@ const ALPHA_DATA_V2 = {
             "full_name": "OnlyTerp/UltraCode-Shim",
             "description": "Give Claude Code's ultracode mode to ANY model you already pay for. A tiny local proxy + one config.json. Point your AI at AGENTS.md and it sets itself up.",
             "url": "https://github.com/OnlyTerp/UltraCode-Shim",
-            "stars": 271,
-            "forks": 21,
+            "stars": 274,
+            "forks": 22,
+            "score": 50
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "harness-anything",
+            "full_name": "yb2460/harness-anything",
+            "description": "Harness Anything - AI agent control hub: WPS, MS Office, Zotero, Photoshop, 47 CLI commands, 27 academic skills, SVG-to-PPTX",
+            "url": "https://github.com/yb2460/harness-anything",
+            "stars": 429,
+            "forks": 20,
             "score": 49
         },
         {
@@ -172,19 +183,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "trynullsec/nullsec-s1",
             "description": "Security-native LLM system for AI-generated application security.",
             "url": "https://github.com/trynullsec/nullsec-s1",
-            "stars": 202,
+            "stars": 203,
             "forks": 52,
-            "score": 48
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "align-dev",
-            "full_name": "razr001/align-dev",
-            "description": "AlignDev helps AI-assisted frontend teams generate shared coding standards and SKILL.md so Claude Code, Codex, Cursor, Copilot, and other agents write consistently.",
-            "url": "https://github.com/razr001/align-dev",
-            "stars": 177,
-            "forks": 1,
             "score": 48
         },
         {
@@ -194,7 +194,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "zaydmulani09/mnemo",
             "description": "Local-first AI memory layer for any LLM. Persistent knowledge graph, entity extraction, semantic retrieval. Works with Ollama, OpenAI, Anthropic, or any OpenAI-compatible backend.",
             "url": "https://github.com/zaydmulani09/mnemo",
-            "stars": 188,
+            "stars": 189,
             "forks": 6,
             "score": 47
         },
@@ -205,9 +205,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "fayazara/macos-app-skills",
             "description": "AI coding agent skills for building, shipping, and maintaining native macOS apps",
             "url": "https://github.com/fayazara/macos-app-skills",
-            "stars": 322,
+            "stars": 339,
             "forks": 6,
-            "score": 44
+            "score": 45
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "NS-FW-AI-Image-and-Video-Generator-Uncens",
+            "full_name": "c873089902979/NS-FW-AI-Image-and-Video-Generator-Uncens",
+            "description": "A foundational toolkit for AI-driven image generation, focusing on creative expression and content creation.",
+            "url": "https://github.com/c873089902979/NS-FW-AI-Image-and-Video-Generator-Uncens",
+            "stars": 240,
+            "forks": 11,
+            "score": 45
         },
         {
             "main_cat": "AI",
@@ -234,17 +245,6 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "NS-FW-AI-Image-and-Video-Generator-Uncens",
-            "full_name": "c873089902979/NS-FW-AI-Image-and-Video-Generator-Uncens",
-            "description": "A foundational toolkit for AI-driven image generation, focusing on creative expression and content creation.",
-            "url": "https://github.com/c873089902979/NS-FW-AI-Image-and-Video-Generator-Uncens",
-            "stars": 190,
-            "forks": 11,
-            "score": 43
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
             "name": "agent-oss",
             "full_name": "quarqlabs/agent-oss",
             "description": "A recursive evidence-gated cognitive runtime for memory-native AI agents, combining hybrid retrieval, temporal reasoning, async learning, and plug-and-play tools.",
@@ -256,22 +256,11 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "zelda-hyrule-ui",
-            "full_name": "chaos-xxl/zelda-hyrule-ui",
-            "description": "\ud83d\udde1\ufe0f Zelda BOTW style React UI component library \u2014 84 components with Sheikah glow effects, dark theme, and AI-consumable design specs (Cursor/v0 ready)",
-            "url": "https://github.com/chaos-xxl/zelda-hyrule-ui",
-            "stars": 189,
-            "forks": 25,
-            "score": 41
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
             "name": "science-superpowers",
             "full_name": "K-Dense-AI/science-superpowers",
             "description": "Composable computational-science methodology skills for AI research agents \u2014 pre-registration over TDD. A science-domain reimplementation of Superpowers.",
             "url": "https://github.com/K-Dense-AI/science-superpowers",
-            "stars": 187,
+            "stars": 188,
             "forks": 17,
             "score": 41
         },
@@ -300,11 +289,22 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
+            "name": "zelda-hyrule-ui",
+            "full_name": "chaos-xxl/zelda-hyrule-ui",
+            "description": "\ud83d\udde1\ufe0f Zelda BOTW style React UI component library \u2014 84 components with Sheikah glow effects, dark theme, and AI-consumable design specs (Cursor/v0 ready)",
+            "url": "https://github.com/chaos-xxl/zelda-hyrule-ui",
+            "stars": 189,
+            "forks": 25,
+            "score": 40
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
             "name": "character-arc",
             "full_name": "uu201/character-arc",
             "description": "\u5f27\u5149 \u00b7 AI \u5c0f\u8bf4\u521b\u4f5c\u684c\u9762\u5e94\u7528\uff0c\u96c6\u9879\u76ee\u8bbe\u5b9a\u3001\u89d2\u8272\u5173\u7cfb\u3001\u5267\u60c5\u5927\u7eb2\u3001\u7ae0\u8282\u5199\u4f5c\u4e0e\u591a\u6a21\u578b AI \u534f\u4f5c\u4e8e\u4e00\u4f53",
             "url": "https://github.com/uu201/character-arc",
-            "stars": 202,
+            "stars": 203,
             "forks": 28,
             "score": 39
         },
@@ -315,8 +315,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "Health-Yang/MineEcho",
             "description": "Local-first Memory OS for personal AI assistants with L0-L3 memory, Wiki++ knowledge, skill routing, and TokenLess context compression.",
             "url": "https://github.com/Health-Yang/MineEcho",
-            "stars": 151,
-            "forks": 18,
+            "stars": 158,
+            "forks": 19,
             "score": 39
         },
         {
@@ -326,9 +326,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "lynote-ai/ai-detector-skill",
             "description": " A free detector capable of identifying content generated by all advanced AI models.",
             "url": "https://github.com/lynote-ai/ai-detector-skill",
-            "stars": 219,
+            "stars": 221,
             "forks": 4,
-            "score": 38
+            "score": 37
         },
         {
             "main_cat": "AI",
@@ -359,7 +359,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "SikamikanikoBG/homelab-monitor",
             "description": "Plug-and-play homelab dashboard in one container \u2014 GPU, local-AI model VRAM, Docker, systemd and host health. One page, no Prometheus/Grafana.",
             "url": "https://github.com/SikamikanikoBG/homelab-monitor",
-            "stars": 18,
+            "stars": 19,
             "forks": 4,
             "score": 31
         },
@@ -370,17 +370,6 @@ const ALPHA_DATA_V2 = {
             "full_name": "rustfs/GPUCache",
             "description": "A PB-scale, ultra-low latency distributed GPU cache for AI inference. Built with Rust, NVIDIA DOCA, RDMA, and BF-4 DPUs to bridge GPU HBM and NVMe storage, eliminating the recompute tax for large language models.",
             "url": "https://github.com/rustfs/GPUCache",
-            "stars": 11,
-            "forks": 0,
-            "score": 30
-        },
-        {
-            "main_cat": "DePIN",
-            "sub_cat": null,
-            "name": "novagpu-ts1t",
-            "full_name": "nova-studios-hw/novagpu-ts1t",
-            "description": "N.E.O.N. Architecture \u2014 Open source GPU RTL in Verilog. Token dataflow, hardware ray tracing, frame generation. First silicon target: 28nm.",
-            "url": "https://github.com/nova-studios-hw/novagpu-ts1t",
             "stars": 11,
             "forks": 0,
             "score": 30
@@ -648,20 +637,23 @@ const ALPHA_DATA_V2 = {
             "stars": 0,
             "forks": 0,
             "score": 30
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI Agents",
-            "name": "SIC-JS_3.0",
-            "full_name": "Endwar116/SIC-JS_3.0",
-            "description": "SIC-JS v3.0 \u2014 Semantic Integrity Control JSON. An AI agent semantic state protocol for cross-session, cross-model state persistence and verification.",
-            "url": "https://github.com/Endwar116/SIC-JS_3.0",
-            "stars": 0,
-            "forks": 0,
-            "score": 30
         }
     ],
     "news": [
+        {
+            "title": "Will the Agent Recuse Itself? Measuring LLM-Agent Compliance with In-Band Access-Deny Signals",
+            "source": "ArXiv",
+            "type": "Research Alpha",
+            "color": "text-indigo-600",
+            "url": "http://arxiv.org/abs/2606.06460v1"
+        },
+        {
+            "title": "WebMCP Tool Surface Poisoning: Runtime Manipulation Attacks on LLM Agents",
+            "source": "ArXiv",
+            "type": "Research Alpha",
+            "color": "text-indigo-600",
+            "url": "http://arxiv.org/abs/2606.06387v1"
+        },
         {
             "title": "Bitcoin volatility remains high ahead of key FED decision.",
             "source": "Polymarket",
@@ -670,5 +662,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-06-06 13:18"
+    "timestamp": "2026-06-06 15:08"
 };
