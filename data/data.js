@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "pewdiepie-archdaemon/odysseus",
             "description": "Self-hosted AI workspace. ",
             "url": "https://github.com/pewdiepie-archdaemon/odysseus",
-            "stars": 58682,
-            "forks": 7054,
+            "stars": 58948,
+            "forks": 7087,
             "score": 99
         },
         {
@@ -29,8 +29,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "nexu-io/html-video",
             "description": "Programmatic video for coding agents \u2014 HTML to video on your laptop. Turn HTML, CSS & data into real MP4s with pluggable render engines, 21 templates, AI soundtrack. Apache-2.0, no per-render fees. An official project by the Open Design team.",
             "url": "https://github.com/nexu-io/html-video",
-            "stars": 1697,
-            "forks": 183,
+            "stars": 1717,
+            "forks": 184,
             "score": 99
         },
         {
@@ -62,8 +62,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "boona13/image-extender",
             "description": "Seamlessly extend any image in any direction with AI. Open-source web app powered by Gemini via OpenRouter, with Poisson-blended seams and best-of-3 variant picker.",
             "url": "https://github.com/boona13/image-extender",
-            "stars": 932,
-            "forks": 104,
+            "stars": 933,
+            "forks": 105,
             "score": 78
         },
         {
@@ -117,7 +117,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "best-spicy-ai/ai-naughty-tools",
             "description": "Discover uncensored AI image & video tools trusted by users worldwide for highly photorealistic results. Create without unnecessary limits using platforms built for realism, quality, and full creative freedom - https://tinyurl.com/imggenai",
             "url": "https://github.com/best-spicy-ai/ai-naughty-tools",
-            "stars": 212,
+            "stars": 213,
             "forks": 1,
             "score": 51
         },
@@ -150,9 +150,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "duncatzat/vigils",
             "description": "A local control plane for AI agents \u2014 see what they do, approve what matters, keep secrets out. Rust + Tauri + Chrome MV3.",
             "url": "https://github.com/duncatzat/vigils",
-            "stars": 289,
+            "stars": 290,
             "forks": 14,
             "score": 49
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "UltraCode-Shim",
+            "full_name": "OnlyTerp/UltraCode-Shim",
+            "description": "Give Claude Code's ultracode mode to ANY model you already pay for. A tiny local proxy + one config.json. Point your AI at AGENTS.md and it sets itself up.",
+            "url": "https://github.com/OnlyTerp/UltraCode-Shim",
+            "stars": 281,
+            "forks": 23,
+            "score": 48
         },
         {
             "main_cat": "AI",
@@ -163,28 +174,6 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/cclank/lanshu-awesome-ai-video-kit",
             "stars": 257,
             "forks": 73,
-            "score": 49
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "UltraCode-Shim",
-            "full_name": "OnlyTerp/UltraCode-Shim",
-            "description": "Give Claude Code's ultracode mode to ANY model you already pay for. A tiny local proxy + one config.json. Point your AI at AGENTS.md and it sets itself up.",
-            "url": "https://github.com/OnlyTerp/UltraCode-Shim",
-            "stars": 278,
-            "forks": 23,
-            "score": 48
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "nullsec-s1",
-            "full_name": "trynullsec/nullsec-s1",
-            "description": "Security-native LLM system for AI-generated application security.",
-            "url": "https://github.com/trynullsec/nullsec-s1",
-            "stars": 209,
-            "forks": 52,
             "score": 48
         },
         {
@@ -194,20 +183,31 @@ const ALPHA_DATA_V2 = {
             "full_name": "johnbean393/KeyType",
             "description": "An open-source Cotypist with macOS system wide AI autocomplete",
             "url": "https://github.com/johnbean393/KeyType",
-            "stars": 272,
+            "stars": 276,
             "forks": 11,
             "score": 47
         },
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "mnemo",
-            "full_name": "zaydmulani09/mnemo",
-            "description": "Local-first AI memory layer for any LLM. Persistent knowledge graph, entity extraction, semantic retrieval. Works with Ollama, OpenAI, Anthropic, or any OpenAI-compatible backend.",
-            "url": "https://github.com/zaydmulani09/mnemo",
-            "stars": 190,
-            "forks": 6,
+            "name": "nullsec-s1",
+            "full_name": "trynullsec/nullsec-s1",
+            "description": "Security-native LLM system for AI-generated application security.",
+            "url": "https://github.com/trynullsec/nullsec-s1",
+            "stars": 211,
+            "forks": 52,
             "score": 47
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "macos-app-skills",
+            "full_name": "fayazara/macos-app-skills",
+            "description": "AI coding agent skills for building, shipping, and maintaining native macOS apps",
+            "url": "https://github.com/fayazara/macos-app-skills",
+            "stars": 390,
+            "forks": 8,
+            "score": 46
         },
         {
             "main_cat": "AI",
@@ -223,23 +223,23 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "macos-app-skills",
-            "full_name": "fayazara/macos-app-skills",
-            "description": "AI coding agent skills for building, shipping, and maintaining native macOS apps",
-            "url": "https://github.com/fayazara/macos-app-skills",
-            "stars": 382,
-            "forks": 8,
+            "name": "no_ai_slop_writing_rules",
+            "full_name": "realrossmanngroup/no_ai_slop_writing_rules",
+            "description": "Claude Code reference: write in Louis Rossmann's voice, never like AI slop. Portable CLAUDE.md plus skills.",
+            "url": "https://github.com/realrossmanngroup/no_ai_slop_writing_rules",
+            "stars": 300,
+            "forks": 39,
             "score": 45
         },
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "no_ai_slop_writing_rules",
-            "full_name": "realrossmanngroup/no_ai_slop_writing_rules",
-            "description": "Claude Code reference: write in Louis Rossmann's voice, never like AI slop. Portable CLAUDE.md plus skills.",
-            "url": "https://github.com/realrossmanngroup/no_ai_slop_writing_rules",
-            "stars": 296,
-            "forks": 39,
+            "name": "mnemo",
+            "full_name": "zaydmulani09/mnemo",
+            "description": "Local-first AI memory layer for any LLM. Persistent knowledge graph, entity extraction, semantic retrieval. Works with Ollama, OpenAI, Anthropic, or any OpenAI-compatible backend.",
+            "url": "https://github.com/zaydmulani09/mnemo",
+            "stars": 193,
+            "forks": 6,
             "score": 45
         },
         {
@@ -256,22 +256,11 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "science-superpowers",
-            "full_name": "K-Dense-AI/science-superpowers",
-            "description": "Composable computational-science methodology skills for AI research agents \u2014 pre-registration over TDD. A science-domain reimplementation of Superpowers.",
-            "url": "https://github.com/K-Dense-AI/science-superpowers",
-            "stars": 188,
-            "forks": 17,
-            "score": 41
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
             "name": "agent-oss",
             "full_name": "quarqlabs/agent-oss",
             "description": "A recursive evidence-gated cognitive runtime for memory-native AI agents, combining hybrid retrieval, temporal reasoning, async learning, and plug-and-play tools.",
             "url": "https://github.com/quarqlabs/agent-oss",
-            "stars": 245,
+            "stars": 246,
             "forks": 23,
             "score": 40
         },
@@ -293,8 +282,19 @@ const ALPHA_DATA_V2 = {
             "full_name": "modelstudioai/cli",
             "description": "Official Model Studio CLI\uff08\u963f\u91cc\u4e91\u767e\u70bc CLI\uff09built for AI Agent frameworks, exposing models, search, multimodal, and workflow capabilities as structured tool calls.",
             "url": "https://github.com/modelstudioai/cli",
-            "stars": 202,
+            "stars": 203,
             "forks": 10,
+            "score": 40
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "science-superpowers",
+            "full_name": "K-Dense-AI/science-superpowers",
+            "description": "Composable computational-science methodology skills for AI research agents \u2014 pre-registration over TDD. A science-domain reimplementation of Superpowers.",
+            "url": "https://github.com/K-Dense-AI/science-superpowers",
+            "stars": 190,
+            "forks": 17,
             "score": 40
         },
         {
@@ -315,7 +315,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Health-Yang/MineEcho",
             "description": "Local-first Memory OS for personal AI assistants with L0-L3 memory, Wiki++ knowledge, skill routing, and TokenLess context compression.",
             "url": "https://github.com/Health-Yang/MineEcho",
-            "stars": 171,
+            "stars": 175,
             "forks": 19,
             "score": 40
         },
@@ -370,7 +370,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "SikamikanikoBG/homelab-monitor",
             "description": "Plug-and-play homelab dashboard in one container \u2014 GPU, local-AI model VRAM, Docker, systemd and host health. One page, no Prometheus/Grafana.",
             "url": "https://github.com/SikamikanikoBG/homelab-monitor",
-            "stars": 21,
+            "stars": 22,
             "forks": 4,
             "score": 31
         },
@@ -585,17 +585,6 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
-            "sub_cat": "AI Agents",
-            "name": "x402-mcp",
-            "full_name": "x402node/x402-mcp",
-            "description": "MCP server bringing 100+ x402-paid APIs to AI agents. Auto-syncs from CDP Bazaar. Stablecoin micropayments via x402 protocol across multi-chain (Base, Solana, Polygon, BNB, EVM). Built for agentic commerce: developer utilities, validators, encoders, generators, M2M payments, autonomous workflows. Works with Claude, Cursor, and any MCP-aware client.",
-            "url": "https://github.com/x402node/x402-mcp",
-            "stars": 0,
-            "forks": 0,
-            "score": 30
-        },
-        {
-            "main_cat": "AI",
             "sub_cat": "AI General",
             "name": "cpp-quick-start-mcp",
             "full_name": "m-velikov/cpp-quick-start-mcp",
@@ -663,6 +652,20 @@ const ALPHA_DATA_V2 = {
     ],
     "news": [
         {
+            "title": "Will the Agent Recuse Itself? Measuring LLM-Agent Compliance with In-Band Access-Deny Signals",
+            "source": "ArXiv",
+            "type": "Research Alpha",
+            "color": "text-indigo-600",
+            "url": "http://arxiv.org/abs/2606.06460v1"
+        },
+        {
+            "title": "WebMCP Tool Surface Poisoning: Runtime Manipulation Attacks on LLM Agents",
+            "source": "ArXiv",
+            "type": "Research Alpha",
+            "color": "text-indigo-600",
+            "url": "http://arxiv.org/abs/2606.06387v1"
+        },
+        {
             "title": "Bitcoin volatility remains high ahead of key FED decision.",
             "source": "Polymarket",
             "type": "Expectation",
@@ -670,5 +673,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-06-06 22:02"
+    "timestamp": "2026-06-06 23:58"
 };
