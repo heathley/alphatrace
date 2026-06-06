@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "pewdiepie-archdaemon/odysseus",
             "description": "Self-hosted AI workspace. ",
             "url": "https://github.com/pewdiepie-archdaemon/odysseus",
-            "stars": 58500,
-            "forks": 7028,
+            "stars": 58682,
+            "forks": 7054,
             "score": 99
         },
         {
@@ -29,8 +29,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "nexu-io/html-video",
             "description": "Programmatic video for coding agents \u2014 HTML to video on your laptop. Turn HTML, CSS & data into real MP4s with pluggable render engines, 21 templates, AI soundtrack. Apache-2.0, no per-render fees. An official project by the Open Design team.",
             "url": "https://github.com/nexu-io/html-video",
-            "stars": 1687,
-            "forks": 182,
+            "stars": 1697,
+            "forks": 183,
             "score": 99
         },
         {
@@ -84,7 +84,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Mochocyang/QMAI",
             "description": "\u9752\u5e55AI\u5199\u4f5c\u8f6f\u4ef6\uff0c\u89e3\u51b3\u957f\u7bc7\u5c0f\u8bf4\u5199\u4f5c\u95ee\u9898\uff0c\u89e3\u51b3\u5c0f\u8bf4\u89d2\u8272\u6027\u683c\u4e0d\u7edf\u4e00\uff0c\u9632\u6b62\u4eba\u8bbe\u5d29\u574f\u3002",
             "url": "https://github.com/Mochocyang/QMAI",
-            "stars": 378,
+            "stars": 379,
             "forks": 73,
             "score": 67
         },
@@ -95,7 +95,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "DannyMac180/skills",
             "description": "AI agent skills created by me: Dan McAteer",
             "url": "https://github.com/DannyMac180/skills",
-            "stars": 418,
+            "stars": 419,
             "forks": 33,
             "score": 55
         },
@@ -117,9 +117,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "best-spicy-ai/ai-naughty-tools",
             "description": "Discover uncensored AI image & video tools trusted by users worldwide for highly photorealistic results. Create without unnecessary limits using platforms built for realism, quality, and full creative freedom - https://tinyurl.com/imggenai",
             "url": "https://github.com/best-spicy-ai/ai-naughty-tools",
-            "stars": 217,
+            "stars": 212,
             "forks": 1,
-            "score": 52
+            "score": 51
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "ai-interview-platform",
+            "full_name": "yuanzhongqiao/ai-interview-platform",
+            "description": "ai-interview-platform ",
+            "url": "https://github.com/yuanzhongqiao/ai-interview-platform",
+            "stars": 179,
+            "forks": 109,
+            "score": 51
         },
         {
             "main_cat": "AI",
@@ -216,7 +227,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "fayazara/macos-app-skills",
             "description": "AI coding agent skills for building, shipping, and maintaining native macOS apps",
             "url": "https://github.com/fayazara/macos-app-skills",
-            "stars": 376,
+            "stars": 382,
             "forks": 8,
             "score": 45
         },
@@ -315,7 +326,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "uu201/character-arc",
             "description": "\u5f27\u5149 \u00b7 AI \u5c0f\u8bf4\u521b\u4f5c\u684c\u9762\u5e94\u7528\uff0c\u96c6\u9879\u76ee\u8bbe\u5b9a\u3001\u89d2\u8272\u5173\u7cfb\u3001\u5267\u60c5\u5927\u7eb2\u3001\u7ae0\u8282\u5199\u4f5c\u4e0e\u591a\u6a21\u578b AI \u534f\u4f5c\u4e8e\u4e00\u4f53",
             "url": "https://github.com/uu201/character-arc",
-            "stars": 205,
+            "stars": 206,
             "forks": 28,
             "score": 39
         },
@@ -333,17 +344,6 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
-            "name": "SSKills",
-            "full_name": "0xPira/SSKills",
-            "description": "SSkills (Slop Skills) is a public collection of specialist skills for security agents and human reviewers. Each skill packages structured domain knowledge, sources, examples, safety gates, and validation scripts to help turn noisy security signals into clear triage decisions, rejected false positives, and bounded manual proof contracts.",
-            "url": "https://github.com/0xPira/SSKills",
-            "stars": 25,
-            "forks": 6,
-            "score": 32
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
             "name": "ForgeWM",
             "full_name": "asdfo123/ForgeWM",
             "description": "Train a real-time, playable Minecraft Video World Models on 8 GPUs \u2014 keyboard & mouse control, fully open and reproducible.",
@@ -355,11 +355,22 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
+            "name": "SSKills",
+            "full_name": "0xPira/SSKills",
+            "description": "SSkills (Slop Skills) is a public collection of specialist skills for security agents and human reviewers. Each skill packages structured domain knowledge, sources, examples, safety gates, and validation scripts to help turn noisy security signals into clear triage decisions, rejected false positives, and bounded manual proof contracts.",
+            "url": "https://github.com/0xPira/SSKills",
+            "stars": 25,
+            "forks": 6,
+            "score": 31
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
             "name": "homelab-monitor",
             "full_name": "SikamikanikoBG/homelab-monitor",
             "description": "Plug-and-play homelab dashboard in one container \u2014 GPU, local-AI model VRAM, Docker, systemd and host health. One page, no Prometheus/Grafana.",
             "url": "https://github.com/SikamikanikoBG/homelab-monitor",
-            "stars": 20,
+            "stars": 21,
             "forks": 4,
             "score": 31
         },
@@ -370,6 +381,17 @@ const ALPHA_DATA_V2 = {
             "full_name": "rustfs/GPUCache",
             "description": "A PB-scale, ultra-low latency distributed GPU cache for AI inference. Built with Rust, NVIDIA DOCA, RDMA, and BF-4 DPUs to bridge GPU HBM and NVMe storage, eliminating the recompute tax for large language models.",
             "url": "https://github.com/rustfs/GPUCache",
+            "stars": 11,
+            "forks": 0,
+            "score": 30
+        },
+        {
+            "main_cat": "DePIN",
+            "sub_cat": null,
+            "name": "novagpu-ts1t",
+            "full_name": "nova-studios-hw/novagpu-ts1t",
+            "description": "N.E.O.N. Architecture \u2014 Open source GPU RTL in Verilog. Token dataflow, hardware ray tracing, frame generation. First silicon target: 28nm.",
+            "url": "https://github.com/nova-studios-hw/novagpu-ts1t",
             "stars": 11,
             "forks": 0,
             "score": 30
@@ -641,20 +663,6 @@ const ALPHA_DATA_V2 = {
     ],
     "news": [
         {
-            "title": "Will the Agent Recuse Itself? Measuring LLM-Agent Compliance with In-Band Access-Deny Signals",
-            "source": "ArXiv",
-            "type": "Research Alpha",
-            "color": "text-indigo-600",
-            "url": "http://arxiv.org/abs/2606.06460v1"
-        },
-        {
-            "title": "WebMCP Tool Surface Poisoning: Runtime Manipulation Attacks on LLM Agents",
-            "source": "ArXiv",
-            "type": "Research Alpha",
-            "color": "text-indigo-600",
-            "url": "http://arxiv.org/abs/2606.06387v1"
-        },
-        {
             "title": "Bitcoin volatility remains high ahead of key FED decision.",
             "source": "Polymarket",
             "type": "Expectation",
@@ -662,5 +670,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-06-06 20:57"
+    "timestamp": "2026-06-06 22:02"
 };
