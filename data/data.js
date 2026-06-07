@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "pewdiepie-archdaemon/odysseus",
             "description": "Self-hosted AI workspace. ",
             "url": "https://github.com/pewdiepie-archdaemon/odysseus",
-            "stars": 60445,
-            "forks": 7303,
+            "stars": 60660,
+            "forks": 7342,
             "score": 99
         },
         {
@@ -18,8 +18,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "nexu-io/html-video",
             "description": "Programmatic video for coding agents \u2014 HTML to video on your laptop. Turn HTML, CSS & data into real MP4s with pluggable render engines, 21 templates, AI soundtrack. Apache-2.0, no per-render fees. An official project by the Open Design team.",
             "url": "https://github.com/nexu-io/html-video",
-            "stars": 1941,
-            "forks": 211,
+            "stars": 1978,
+            "forks": 219,
             "score": 99
         },
         {
@@ -29,7 +29,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "GordenSun/GordenPPTSkill",
             "description": "AI-friendly PPT builder skill: 17 hand-polished Chinese PPTX templates + non-destructive text-only editing tools (python-pptx based). Pick a template, write edits.json, build a real .pptx with the layout intact. Personal/research use only.",
             "url": "https://github.com/GordenSun/GordenPPTSkill",
-            "stars": 1767,
+            "stars": 1769,
             "forks": 160,
             "score": 99
         },
@@ -40,8 +40,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "asz798838958/aBaiAutoplus",
             "description": "\u591a\u5e73\u53f0 AI \u8d26\u53f7\u81ea\u52a8\u6ce8\u518c\u4e0e\u7ba1\u7406 \u00b7 \u534f\u8bae\u5316\u4ed8\u6b3e\u4e00\u952e\u5f00\u901a ChatGPT Plus",
             "url": "https://github.com/asz798838958/aBaiAutoplus",
-            "stars": 1568,
-            "forks": 706,
+            "stars": 1569,
+            "forks": 707,
             "score": 99
         },
         {
@@ -84,7 +84,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Mochocyang/QMAI",
             "description": "\u9752\u5e55AI\u5199\u4f5c\u8f6f\u4ef6\uff0c\u89e3\u51b3\u957f\u7bc7\u5c0f\u8bf4\u5199\u4f5c\u95ee\u9898\uff0c\u89e3\u51b3\u5c0f\u8bf4\u89d2\u8272\u6027\u683c\u4e0d\u7edf\u4e00\uff0c\u9632\u6b62\u4eba\u8bbe\u5d29\u574f\u3002",
             "url": "https://github.com/Mochocyang/QMAI",
-            "stars": 392,
+            "stars": 395,
             "forks": 76,
             "score": 64
         },
@@ -97,7 +97,7 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/DannyMac180/skills",
             "stars": 420,
             "forks": 33,
-            "score": 55
+            "score": 53
         },
         {
             "main_cat": "AI",
@@ -106,20 +106,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "best-spicy-ai/ai-naughty-tools",
             "description": "Discover uncensored AI image & video tools trusted by users worldwide for highly photorealistic results. Create without unnecessary limits using platforms built for realism, quality, and full creative freedom - https://tinyurl.com/imggenai",
             "url": "https://github.com/best-spicy-ai/ai-naughty-tools",
-            "stars": 221,
+            "stars": 222,
             "forks": 1,
             "score": 52
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "align-dev",
-            "full_name": "razr001/align-dev",
-            "description": "AlignDev helps AI-assisted frontend teams generate shared coding standards and SKILL.md so Claude Code, Codex, Cursor, Copilot, and other agents write consistently.",
-            "url": "https://github.com/razr001/align-dev",
-            "stars": 257,
-            "forks": 1,
-            "score": 51
         },
         {
             "main_cat": "AI",
@@ -139,9 +128,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "yuanzhongqiao/ai-interview-platform",
             "description": "ai-interview-platform ",
             "url": "https://github.com/yuanzhongqiao/ai-interview-platform",
-            "stars": 205,
+            "stars": 206,
             "forks": 110,
             "score": 51
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "macos-app-skills",
+            "full_name": "fayazara/macos-app-skills",
+            "description": "AI coding agent skills for building, shipping, and maintaining native macOS apps",
+            "url": "https://github.com/fayazara/macos-app-skills",
+            "stars": 457,
+            "forks": 11,
+            "score": 49
         },
         {
             "main_cat": "AI",
@@ -150,7 +150,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "OnlyTerp/UltraCode-Shim",
             "description": "Give Claude Code's ultracode mode to ANY model you already pay for. A tiny local proxy + one config.json. Point your AI at AGENTS.md and it sets itself up.",
             "url": "https://github.com/OnlyTerp/UltraCode-Shim",
-            "stars": 288,
+            "stars": 289,
             "forks": 23,
             "score": 49
         },
@@ -161,20 +161,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "duncatzat/vigils",
             "description": "A local control plane for AI agents \u2014 see what they do, approve what matters, keep secrets out. Rust + Tauri + Chrome MV3.",
             "url": "https://github.com/duncatzat/vigils",
-            "stars": 286,
+            "stars": 287,
             "forks": 14,
             "score": 49
         },
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "macos-app-skills",
-            "full_name": "fayazara/macos-app-skills",
-            "description": "AI coding agent skills for building, shipping, and maintaining native macOS apps",
-            "url": "https://github.com/fayazara/macos-app-skills",
-            "stars": 446,
-            "forks": 10,
-            "score": 48
+            "name": "align-dev",
+            "full_name": "razr001/align-dev",
+            "description": "AlignDev helps AI-assisted frontend teams generate shared coding standards and SKILL.md so Claude Code, Codex, Cursor, Copilot, and other agents write consistently.",
+            "url": "https://github.com/razr001/align-dev",
+            "stars": 258,
+            "forks": 2,
+            "score": 49
         },
         {
             "main_cat": "AI",
@@ -194,7 +194,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "cclank/lanshu-awesome-ai-video-kit",
             "description": "\u505a\u4f01\u4e1a AI \u89c6\u9891\u9879\u76ee\u903c\u51fa\u6765\u7684\u5de5\u5177\u5305 \u00b7 411 prompt \u00b7 15 \u6a21\u578b \u00b7 7 Claude Skill \u00b7 14 \u7bc7\u65b9\u6cd5\u8bba",
             "url": "https://github.com/cclank/lanshu-awesome-ai-video-kit",
-            "stars": 257,
+            "stars": 258,
             "forks": 73,
             "score": 48
         },
@@ -205,7 +205,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "trynullsec/nullsec-s1",
             "description": "Security-native LLM system for AI-generated application security.",
             "url": "https://github.com/trynullsec/nullsec-s1",
-            "stars": 229,
+            "stars": 231,
             "forks": 53,
             "score": 48
         },
@@ -219,6 +219,17 @@ const ALPHA_DATA_V2 = {
             "stars": 279,
             "forks": 11,
             "score": 47
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "NS-FW-AI-Image-and-Video-Generator-Uncens",
+            "full_name": "c873089902979/NS-FW-AI-Image-and-Video-Generator-Uncens",
+            "description": "A foundational toolkit for AI-driven image generation, focusing on creative expression and content creation.",
+            "url": "https://github.com/c873089902979/NS-FW-AI-Image-and-Video-Generator-Uncens",
+            "stars": 251,
+            "forks": 13,
+            "score": 45
         },
         {
             "main_cat": "AI",
@@ -238,19 +249,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "realrossmanngroup/no_ai_slop_writing_rules",
             "description": "Claude Code reference: write in Louis Rossmann's voice, never like AI slop. Portable CLAUDE.md plus skills.",
             "url": "https://github.com/realrossmanngroup/no_ai_slop_writing_rules",
-            "stars": 319,
+            "stars": 320,
             "forks": 39,
-            "score": 44
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "NS-FW-AI-Image-and-Video-Generator-Uncens",
-            "full_name": "c873089902979/NS-FW-AI-Image-and-Video-Generator-Uncens",
-            "description": "A foundational toolkit for AI-driven image generation, focusing on creative expression and content creation.",
-            "url": "https://github.com/c873089902979/NS-FW-AI-Image-and-Video-Generator-Uncens",
-            "stars": 251,
-            "forks": 12,
             "score": 44
         },
         {
@@ -278,23 +278,12 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "zelda-hyrule-ui",
-            "full_name": "chaos-xxl/zelda-hyrule-ui",
-            "description": "\ud83d\udde1\ufe0f Zelda BOTW style React UI component library \u2014 84 components with Sheikah glow effects, dark theme, and AI-consumable design specs (Cursor/v0 ready)",
-            "url": "https://github.com/chaos-xxl/zelda-hyrule-ui",
-            "stars": 193,
-            "forks": 26,
-            "score": 40
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "science-superpowers",
-            "full_name": "K-Dense-AI/science-superpowers",
-            "description": "Composable computational-science methodology skills for AI research agents \u2014 pre-registration over TDD. A science-domain reimplementation of Superpowers.",
-            "url": "https://github.com/K-Dense-AI/science-superpowers",
-            "stars": 192,
-            "forks": 17,
+            "name": "serenity-aleabitoreddit",
+            "full_name": "yan-labs/serenity-aleabitoreddit",
+            "description": "Installable Serenity tweet archive + AI/semi supply-chain skill. Install: npx skills add yan-labs/serenity-aleabitoreddit",
+            "url": "https://github.com/yan-labs/serenity-aleabitoreddit",
+            "stars": 208,
+            "forks": 31,
             "score": 40
         },
         {
@@ -304,7 +293,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Health-Yang/MineEcho",
             "description": "Local-first Memory OS for personal AI assistants with L0-L3 memory, Wiki++ knowledge, skill routing, and TokenLess context compression.",
             "url": "https://github.com/Health-Yang/MineEcho",
-            "stars": 190,
+            "stars": 193,
             "forks": 22,
             "score": 40
         },
@@ -315,19 +304,19 @@ const ALPHA_DATA_V2 = {
             "full_name": "modelstudioai/cli",
             "description": "Official Model Studio CLI\uff08\u963f\u91cc\u4e91\u767e\u70bc CLI\uff09built for AI Agent frameworks, exposing models, search, multimodal, and workflow capabilities as structured tool calls.",
             "url": "https://github.com/modelstudioai/cli",
-            "stars": 204,
+            "stars": 205,
             "forks": 10,
             "score": 39
         },
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "serenity-aleabitoreddit",
-            "full_name": "yan-labs/serenity-aleabitoreddit",
-            "description": "Installable Serenity tweet archive + AI/semi supply-chain skill. Install: npx skills add yan-labs/serenity-aleabitoreddit",
-            "url": "https://github.com/yan-labs/serenity-aleabitoreddit",
-            "stars": 200,
-            "forks": 27,
+            "name": "zelda-hyrule-ui",
+            "full_name": "chaos-xxl/zelda-hyrule-ui",
+            "description": "\ud83d\udde1\ufe0f Zelda BOTW style React UI component library \u2014 84 components with Sheikah glow effects, dark theme, and AI-consumable design specs (Cursor/v0 ready)",
+            "url": "https://github.com/chaos-xxl/zelda-hyrule-ui",
+            "stars": 193,
+            "forks": 26,
             "score": 39
         },
         {
@@ -491,6 +480,17 @@ const ALPHA_DATA_V2 = {
             "full_name": "osr21/basepay-dapp",
             "description": "BasePay \u2014 USDC stablecoin payments dApp on Base Mainnet. Send, batch pay, escrow, and subscribe with on-chain smart contracts.",
             "url": "https://github.com/osr21/basepay-dapp",
+            "stars": 0,
+            "forks": 0,
+            "score": 30
+        },
+        {
+            "main_cat": "Stablecoin Infrastructure",
+            "sub_cat": null,
+            "name": "Arc-pay",
+            "full_name": "Jaeyjayy/Arc-pay",
+            "description": "A USDC payment app built on Arc Testnet \u2014 send stablecoins instantly with no ETH gas required.",
+            "url": "https://github.com/Jaeyjayy/Arc-pay",
             "stars": 0,
             "forks": 0,
             "score": 30
@@ -695,5 +695,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-06-07 13:28"
+    "timestamp": "2026-06-07 15:19"
 };
