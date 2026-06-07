@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "pewdiepie-archdaemon/odysseus",
             "description": "Self-hosted AI workspace. ",
             "url": "https://github.com/pewdiepie-archdaemon/odysseus",
-            "stars": 60871,
-            "forks": 7365,
+            "stars": 61127,
+            "forks": 7399,
             "score": 99
         },
         {
@@ -18,8 +18,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "nexu-io/html-video",
             "description": "Programmatic video for coding agents \u2014 HTML to video on your laptop. Turn HTML, CSS & data into real MP4s with pluggable render engines, 21 templates, AI soundtrack. Apache-2.0, no per-render fees. An official project by the Open Design team.",
             "url": "https://github.com/nexu-io/html-video",
-            "stars": 1997,
-            "forks": 221,
+            "stars": 2013,
+            "forks": 223,
             "score": 99
         },
         {
@@ -29,8 +29,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "GordenSun/GordenPPTSkill",
             "description": "AI-friendly PPT builder skill: 17 hand-polished Chinese PPTX templates + non-destructive text-only editing tools (python-pptx based). Pick a template, write edits.json, build a real .pptx with the layout intact. Personal/research use only.",
             "url": "https://github.com/GordenSun/GordenPPTSkill",
-            "stars": 1772,
-            "forks": 160,
+            "stars": 1776,
+            "forks": 163,
             "score": 99
         },
         {
@@ -40,8 +40,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "asz798838958/aBaiAutoplus",
             "description": "\u591a\u5e73\u53f0 AI \u8d26\u53f7\u81ea\u52a8\u6ce8\u518c\u4e0e\u7ba1\u7406 \u00b7 \u534f\u8bae\u5316\u4ed8\u6b3e\u4e00\u952e\u5f00\u901a ChatGPT Plus",
             "url": "https://github.com/asz798838958/aBaiAutoplus",
-            "stars": 1571,
-            "forks": 708,
+            "stars": 1572,
+            "forks": 710,
             "score": 99
         },
         {
@@ -51,7 +51,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "withkynam/vibecode-pro-max-kit",
             "description": "Your AI forgets. This remembers. Spec-driven coding harness for vibecoders, product owners, CEOs and real builders \u2014 self-improving context memory, 12 agents, 32 skills. Kills context rot, ships features, not spaghetti. Claude Code & Codex. Any stack. 30 seconds",
             "url": "https://github.com/withkynam/vibecode-pro-max-kit",
-            "stars": 809,
+            "stars": 810,
             "forks": 187,
             "score": 85
         },
@@ -62,9 +62,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "boona13/image-extender",
             "description": "Seamlessly extend any image in any direction with AI. Open-source web app powered by Gemini via OpenRouter, with Poisson-blended seams and best-of-3 variant picker.",
             "url": "https://github.com/boona13/image-extender",
-            "stars": 938,
+            "stars": 940,
             "forks": 105,
-            "score": 78
+            "score": 75
         },
         {
             "main_cat": "AI",
@@ -73,9 +73,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "JimLiu/baoyu-design",
             "description": "Run Claude Design locally as an Agent Skill \u2014 Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/design. Best with Opus 4.8.",
             "url": "https://github.com/JimLiu/baoyu-design",
-            "stars": 204,
+            "stars": 222,
             "forks": 12,
-            "score": 72
+            "score": 75
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "guard-skills",
+            "full_name": "amElnagdy/guard-skills",
+            "description": "Guard skills for coding agents, quality gates that catch AI-generated failure modes in code, tests, and docs",
+            "url": "https://github.com/amElnagdy/guard-skills",
+            "stars": 210,
+            "forks": 25,
+            "score": 68
         },
         {
             "main_cat": "AI",
@@ -106,20 +117,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "DannyMac180/skills",
             "description": "AI agent skills created by me: Dan McAteer",
             "url": "https://github.com/DannyMac180/skills",
-            "stars": 421,
+            "stars": 422,
             "forks": 33,
             "score": 53
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "ai-naughty-tools",
-            "full_name": "best-spicy-ai/ai-naughty-tools",
-            "description": "Discover uncensored AI image & video tools trusted by users worldwide for highly photorealistic results. Create without unnecessary limits using platforms built for realism, quality, and full creative freedom - https://tinyurl.com/imggenai",
-            "url": "https://github.com/best-spicy-ai/ai-naughty-tools",
-            "stars": 222,
-            "forks": 1,
-            "score": 52
         },
         {
             "main_cat": "AI",
@@ -129,7 +129,7 @@ const ALPHA_DATA_V2 = {
             "description": "InfiPlot is the world's first interactive plot game that AI generates all text and images in real-time. InfiPlot\u662f\u5168\u7403\u9996\u4e2a\u7531 AI \u5b9e\u65f6\u751f\u6210\u5168\u90e8\u56fe\u6587\u5185\u5bb9\u7684\u4ea4\u4e92\u5f0f\u5267\u60c5\u6e38\u620f",
             "url": "https://github.com/zonghaoyuan/infiplot",
             "stars": 217,
-            "forks": 32,
+            "forks": 31,
             "score": 51
         },
         {
@@ -139,31 +139,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "yuanzhongqiao/ai-interview-platform",
             "description": "ai-interview-platform ",
             "url": "https://github.com/yuanzhongqiao/ai-interview-platform",
-            "stars": 209,
+            "stars": 211,
             "forks": 110,
             "score": 51
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "macos-app-skills",
-            "full_name": "fayazara/macos-app-skills",
-            "description": "AI coding agent skills for building, shipping, and maintaining native macOS apps",
-            "url": "https://github.com/fayazara/macos-app-skills",
-            "stars": 467,
-            "forks": 11,
-            "score": 49
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "UltraCode-Shim",
-            "full_name": "OnlyTerp/UltraCode-Shim",
-            "description": "Give Claude Code's ultracode mode to ANY model you already pay for. A tiny local proxy + one config.json. Point your AI at AGENTS.md and it sets itself up.",
-            "url": "https://github.com/OnlyTerp/UltraCode-Shim",
-            "stars": 290,
-            "forks": 23,
-            "score": 49
         },
         {
             "main_cat": "AI",
@@ -175,6 +153,17 @@ const ALPHA_DATA_V2 = {
             "stars": 258,
             "forks": 2,
             "score": 49
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "macos-app-skills",
+            "full_name": "fayazara/macos-app-skills",
+            "description": "AI coding agent skills for building, shipping, and maintaining native macOS apps",
+            "url": "https://github.com/fayazara/macos-app-skills",
+            "stars": 470,
+            "forks": 11,
+            "score": 48
         },
         {
             "main_cat": "AI",
@@ -212,6 +201,28 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
+            "name": "ai-naughty-tools",
+            "full_name": "best-spicy-ai/ai-naughty-tools",
+            "description": "Discover uncensored AI image & video tools trusted by users worldwide for highly photorealistic results. Create without unnecessary limits using platforms built for realism, quality, and full creative freedom - https://tinyurl.com/imggenai",
+            "url": "https://github.com/best-spicy-ai/ai-naughty-tools",
+            "stars": 222,
+            "forks": 1,
+            "score": 48
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "UltraCode-Shim",
+            "full_name": "OnlyTerp/UltraCode-Shim",
+            "description": "Give Claude Code's ultracode mode to ANY model you already pay for. A tiny local proxy + one config.json. Point your AI at AGENTS.md and it sets itself up.",
+            "url": "https://github.com/OnlyTerp/UltraCode-Shim",
+            "stars": 290,
+            "forks": 23,
+            "score": 47
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
             "name": "vigils",
             "full_name": "duncatzat/vigils",
             "description": "A local control plane for AI agents \u2014 see what they do, approve what matters, keep secrets out. Rust + Tauri + Chrome MV3.",
@@ -228,7 +239,7 @@ const ALPHA_DATA_V2 = {
             "description": "An open-source Cotypist with macOS system wide AI autocomplete",
             "url": "https://github.com/johnbean393/KeyType",
             "stars": 280,
-            "forks": 11,
+            "forks": 12,
             "score": 46
         },
         {
@@ -238,7 +249,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "c873089902979/NS-FW-AI-Image-and-Video-Generator-Uncens",
             "description": "A foundational toolkit for AI-driven image generation, focusing on creative expression and content creation.",
             "url": "https://github.com/c873089902979/NS-FW-AI-Image-and-Video-Generator-Uncens",
-            "stars": 252,
+            "stars": 253,
             "forks": 13,
             "score": 45
         },
@@ -249,7 +260,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "realrossmanngroup/no_ai_slop_writing_rules",
             "description": "Claude Code reference: write in Louis Rossmann's voice, never like AI slop. Portable CLAUDE.md plus skills.",
             "url": "https://github.com/realrossmanngroup/no_ai_slop_writing_rules",
-            "stars": 321,
+            "stars": 322,
             "forks": 39,
             "score": 44
         },
@@ -271,7 +282,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Health-Yang/MineEcho",
             "description": "Local-first Memory OS for personal AI assistants with L0-L3 memory, Wiki++ knowledge, skill routing, and TokenLess context compression.",
             "url": "https://github.com/Health-Yang/MineEcho",
-            "stars": 195,
+            "stars": 196,
             "forks": 23,
             "score": 41
         },
@@ -282,7 +293,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "yan-labs/serenity-aleabitoreddit",
             "description": "Installable Serenity tweet archive + AI/semi supply-chain skill. Install: npx skills add yan-labs/serenity-aleabitoreddit",
             "url": "https://github.com/yan-labs/serenity-aleabitoreddit",
-            "stars": 212,
+            "stars": 213,
             "forks": 31,
             "score": 40
         },
@@ -299,23 +310,12 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
-            "sub_cat": null,
-            "name": "science-superpowers",
-            "full_name": "K-Dense-AI/science-superpowers",
-            "description": "Composable computational-science methodology skills for AI research agents \u2014 pre-registration over TDD. A science-domain reimplementation of Superpowers.",
-            "url": "https://github.com/K-Dense-AI/science-superpowers",
-            "stars": 193,
-            "forks": 17,
-            "score": 40
-        },
-        {
-            "main_cat": "AI",
             "sub_cat": "Agent Frameworks",
             "name": "cli",
             "full_name": "modelstudioai/cli",
             "description": "Official Model Studio CLI\uff08\u963f\u91cc\u4e91\u767e\u70bc CLI\uff09built for AI Agent frameworks, exposing models, search, multimodal, and workflow capabilities as structured tool calls.",
             "url": "https://github.com/modelstudioai/cli",
-            "stars": 206,
+            "stars": 207,
             "forks": 10,
             "score": 39
         },
@@ -695,5 +695,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-06-07 17:08"
+    "timestamp": "2026-06-07 19:12"
 };
