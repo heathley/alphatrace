@@ -7,19 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "pewdiepie-archdaemon/odysseus",
             "description": "Self-hosted AI workspace. ",
             "url": "https://github.com/pewdiepie-archdaemon/odysseus",
-            "stars": 58948,
-            "forks": 7087,
-            "score": 99
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "GordenPPTSkill",
-            "full_name": "GordenSun/GordenPPTSkill",
-            "description": "AI-friendly PPT builder skill: 17 hand-polished Chinese PPTX templates + non-destructive text-only editing tools (python-pptx based). Pick a template, write edits.json, build a real .pptx with the layout intact. Personal/research use only.",
-            "url": "https://github.com/GordenSun/GordenPPTSkill",
-            "stars": 1753,
-            "forks": 158,
+            "stars": 59367,
+            "forks": 7147,
             "score": 99
         },
         {
@@ -29,8 +18,19 @@ const ALPHA_DATA_V2 = {
             "full_name": "nexu-io/html-video",
             "description": "Programmatic video for coding agents \u2014 HTML to video on your laptop. Turn HTML, CSS & data into real MP4s with pluggable render engines, 21 templates, AI soundtrack. Apache-2.0, no per-render fees. An official project by the Open Design team.",
             "url": "https://github.com/nexu-io/html-video",
-            "stars": 1717,
-            "forks": 184,
+            "stars": 1801,
+            "forks": 193,
+            "score": 99
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "GordenPPTSkill",
+            "full_name": "GordenSun/GordenPPTSkill",
+            "description": "AI-friendly PPT builder skill: 17 hand-polished Chinese PPTX templates + non-destructive text-only editing tools (python-pptx based). Pick a template, write edits.json, build a real .pptx with the layout intact. Personal/research use only.",
+            "url": "https://github.com/GordenSun/GordenPPTSkill",
+            "stars": 1756,
+            "forks": 159,
             "score": 99
         },
         {
@@ -40,7 +40,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "asz798838958/aBaiAutoplus",
             "description": "\u591a\u5e73\u53f0 AI \u8d26\u53f7\u81ea\u52a8\u6ce8\u518c\u4e0e\u7ba1\u7406 \u00b7 \u534f\u8bae\u5316\u4ed8\u6b3e\u4e00\u952e\u5f00\u901a ChatGPT Plus",
             "url": "https://github.com/asz798838958/aBaiAutoplus",
-            "stars": 1557,
+            "stars": 1560,
             "forks": 704,
             "score": 99
         },
@@ -51,7 +51,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "withkynam/vibecode-pro-max-kit",
             "description": "Your AI forgets. This remembers. Spec-driven coding harness for vibecoders, product owners, CEOs and real builders \u2014 self-improving context memory, 12 agents, 32 skills. Kills context rot, ships features, not spaghetti. Claude Code & Codex. Any stack. 30 seconds",
             "url": "https://github.com/withkynam/vibecode-pro-max-kit",
-            "stars": 806,
+            "stars": 807,
             "forks": 186,
             "score": 89
         },
@@ -62,7 +62,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "boona13/image-extender",
             "description": "Seamlessly extend any image in any direction with AI. Open-source web app powered by Gemini via OpenRouter, with Poisson-blended seams and best-of-3 variant picker.",
             "url": "https://github.com/boona13/image-extender",
-            "stars": 933,
+            "stars": 934,
             "forks": 105,
             "score": 78
         },
@@ -84,9 +84,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "Mochocyang/QMAI",
             "description": "\u9752\u5e55AI\u5199\u4f5c\u8f6f\u4ef6\uff0c\u89e3\u51b3\u957f\u7bc7\u5c0f\u8bf4\u5199\u4f5c\u95ee\u9898\uff0c\u89e3\u51b3\u5c0f\u8bf4\u89d2\u8272\u6027\u683c\u4e0d\u7edf\u4e00\uff0c\u9632\u6b62\u4eba\u8bbe\u5d29\u574f\u3002",
             "url": "https://github.com/Mochocyang/QMAI",
-            "stars": 379,
+            "stars": 381,
             "forks": 73,
-            "score": 67
+            "score": 63
         },
         {
             "main_cat": "AI",
@@ -102,13 +102,13 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "infiplot",
-            "full_name": "zonghaoyuan/infiplot",
-            "description": "InfiPlot is the world's first interactive plot game that AI generates all text and images in real-time. InfiPlot\u662f\u5168\u7403\u9996\u4e2a\u7531 AI \u5b9e\u65f6\u751f\u6210\u5168\u90e8\u56fe\u6587\u5185\u5bb9\u7684\u4ea4\u4e92\u5f0f\u5267\u60c5\u6e38\u620f",
-            "url": "https://github.com/zonghaoyuan/infiplot",
-            "stars": 213,
-            "forks": 32,
-            "score": 54
+            "name": "ai-interview-platform",
+            "full_name": "yuanzhongqiao/ai-interview-platform",
+            "description": "ai-interview-platform ",
+            "url": "https://github.com/yuanzhongqiao/ai-interview-platform",
+            "stars": 187,
+            "forks": 109,
+            "score": 52
         },
         {
             "main_cat": "AI",
@@ -117,19 +117,19 @@ const ALPHA_DATA_V2 = {
             "full_name": "best-spicy-ai/ai-naughty-tools",
             "description": "Discover uncensored AI image & video tools trusted by users worldwide for highly photorealistic results. Create without unnecessary limits using platforms built for realism, quality, and full creative freedom - https://tinyurl.com/imggenai",
             "url": "https://github.com/best-spicy-ai/ai-naughty-tools",
-            "stars": 213,
+            "stars": 215,
             "forks": 1,
             "score": 51
         },
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "ai-interview-platform",
-            "full_name": "yuanzhongqiao/ai-interview-platform",
-            "description": "ai-interview-platform ",
-            "url": "https://github.com/yuanzhongqiao/ai-interview-platform",
-            "stars": 179,
-            "forks": 109,
+            "name": "infiplot",
+            "full_name": "zonghaoyuan/infiplot",
+            "description": "InfiPlot is the world's first interactive plot game that AI generates all text and images in real-time. InfiPlot\u662f\u5168\u7403\u9996\u4e2a\u7531 AI \u5b9e\u65f6\u751f\u6210\u5168\u90e8\u56fe\u6587\u5185\u5bb9\u7684\u4ea4\u4e92\u5f0f\u5267\u60c5\u6e38\u620f",
+            "url": "https://github.com/zonghaoyuan/infiplot",
+            "stars": 213,
+            "forks": 32,
             "score": 51
         },
         {
@@ -139,7 +139,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "yb2460/harness-anything",
             "description": "Harness Anything - AI agent control hub: WPS, MS Office, Zotero, Photoshop, 47 CLI commands, 27 academic skills, SVG-to-PPTX",
             "url": "https://github.com/yb2460/harness-anything",
-            "stars": 432,
+            "stars": 434,
             "forks": 20,
             "score": 49
         },
@@ -161,7 +161,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "OnlyTerp/UltraCode-Shim",
             "description": "Give Claude Code's ultracode mode to ANY model you already pay for. A tiny local proxy + one config.json. Point your AI at AGENTS.md and it sets itself up.",
             "url": "https://github.com/OnlyTerp/UltraCode-Shim",
-            "stars": 281,
+            "stars": 285,
             "forks": 23,
             "score": 48
         },
@@ -175,6 +175,17 @@ const ALPHA_DATA_V2 = {
             "stars": 257,
             "forks": 73,
             "score": 48
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "macos-app-skills",
+            "full_name": "fayazara/macos-app-skills",
+            "description": "AI coding agent skills for building, shipping, and maintaining native macOS apps",
+            "url": "https://github.com/fayazara/macos-app-skills",
+            "stars": 410,
+            "forks": 10,
+            "score": 47
         },
         {
             "main_cat": "AI",
@@ -201,35 +212,13 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "macos-app-skills",
-            "full_name": "fayazara/macos-app-skills",
-            "description": "AI coding agent skills for building, shipping, and maintaining native macOS apps",
-            "url": "https://github.com/fayazara/macos-app-skills",
-            "stars": 390,
-            "forks": 8,
-            "score": 46
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
             "name": "NS-FW-AI-Image-and-Video-Generator-Uncens",
             "full_name": "c873089902979/NS-FW-AI-Image-and-Video-Generator-Uncens",
             "description": "A foundational toolkit for AI-driven image generation, focusing on creative expression and content creation.",
             "url": "https://github.com/c873089902979/NS-FW-AI-Image-and-Video-Generator-Uncens",
-            "stars": 249,
+            "stars": 251,
             "forks": 11,
             "score": 46
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "no_ai_slop_writing_rules",
-            "full_name": "realrossmanngroup/no_ai_slop_writing_rules",
-            "description": "Claude Code reference: write in Louis Rossmann's voice, never like AI slop. Portable CLAUDE.md plus skills.",
-            "url": "https://github.com/realrossmanngroup/no_ai_slop_writing_rules",
-            "stars": 300,
-            "forks": 39,
-            "score": 45
         },
         {
             "main_cat": "AI",
@@ -245,6 +234,28 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
+            "name": "align-dev",
+            "full_name": "razr001/align-dev",
+            "description": "AlignDev helps AI-assisted frontend teams generate shared coding standards and SKILL.md so Claude Code, Codex, Cursor, Copilot, and other agents write consistently.",
+            "url": "https://github.com/razr001/align-dev",
+            "stars": 187,
+            "forks": 1,
+            "score": 45
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "no_ai_slop_writing_rules",
+            "full_name": "realrossmanngroup/no_ai_slop_writing_rules",
+            "description": "Claude Code reference: write in Louis Rossmann's voice, never like AI slop. Portable CLAUDE.md plus skills.",
+            "url": "https://github.com/realrossmanngroup/no_ai_slop_writing_rules",
+            "stars": 307,
+            "forks": 39,
+            "score": 44
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
             "name": "CapC-Pro-2",
             "full_name": "gerardapennant96075336582/CapC-Pro-2",
             "description": "CapCut Pro Studio (2026) \u2014 The ultimate high-performance video editing suite with all premium features unlocked. Experience 4K HDR exporting, AI-powered transitions, and a full professional asset library without limitations.",
@@ -256,34 +267,12 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "agent-oss",
-            "full_name": "quarqlabs/agent-oss",
-            "description": "A recursive evidence-gated cognitive runtime for memory-native AI agents, combining hybrid retrieval, temporal reasoning, async learning, and plug-and-play tools.",
-            "url": "https://github.com/quarqlabs/agent-oss",
-            "stars": 246,
-            "forks": 23,
-            "score": 40
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
             "name": "cursor_agent_status_light",
             "full_name": "JasonLam08/cursor_agent_status_light",
             "description": "A BLE-powered status light for Cursor Agent, using ESP32-C3 to visualize AI coding states such as thinking, busy,  success, error, and waiting for user action. \u57fa\u4e8e ESP32-C3 \u7684 Cursor Agent BLE \u72b6\u6001\u706f\uff0c\u7528\u7ea2\u7eff\u706f\u76f4\u89c2\u663e\u793a AI \u7f16\u7a0b\u8fc7\u7a0b\u4e2d\u7684\u601d\u8003\u3001\u5fd9\u788c\u3001\u6210\u529f\u3001\u9519\u8bef\u4ee5\u53ca\u7b49\u5f85\u7528\u6237\u64cd\u4f5c \u7b49\u72b6\u6001\u3002",
             "url": "https://github.com/JasonLam08/cursor_agent_status_light",
-            "stars": 208,
+            "stars": 209,
             "forks": 29,
-            "score": 40
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "Agent Frameworks",
-            "name": "cli",
-            "full_name": "modelstudioai/cli",
-            "description": "Official Model Studio CLI\uff08\u963f\u91cc\u4e91\u767e\u70bc CLI\uff09built for AI Agent frameworks, exposing models, search, multimodal, and workflow capabilities as structured tool calls.",
-            "url": "https://github.com/modelstudioai/cli",
-            "stars": 203,
-            "forks": 10,
             "score": 40
         },
         {
@@ -293,7 +282,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "K-Dense-AI/science-superpowers",
             "description": "Composable computational-science methodology skills for AI research agents \u2014 pre-registration over TDD. A science-domain reimplementation of Superpowers.",
             "url": "https://github.com/K-Dense-AI/science-superpowers",
-            "stars": 190,
+            "stars": 191,
             "forks": 17,
             "score": 40
         },
@@ -315,19 +304,30 @@ const ALPHA_DATA_V2 = {
             "full_name": "Health-Yang/MineEcho",
             "description": "Local-first Memory OS for personal AI assistants with L0-L3 memory, Wiki++ knowledge, skill routing, and TokenLess context compression.",
             "url": "https://github.com/Health-Yang/MineEcho",
-            "stars": 175,
+            "stars": 181,
             "forks": 19,
             "score": 40
         },
         {
             "main_cat": "AI",
+            "sub_cat": "Agent Frameworks",
+            "name": "cli",
+            "full_name": "modelstudioai/cli",
+            "description": "Official Model Studio CLI\uff08\u963f\u91cc\u4e91\u767e\u70bc CLI\uff09built for AI Agent frameworks, exposing models, search, multimodal, and workflow capabilities as structured tool calls.",
+            "url": "https://github.com/modelstudioai/cli",
+            "stars": 204,
+            "forks": 10,
+            "score": 39
+        },
+        {
+            "main_cat": "AI",
             "sub_cat": null,
-            "name": "character-arc",
-            "full_name": "uu201/character-arc",
-            "description": "\u5f27\u5149 \u00b7 AI \u5c0f\u8bf4\u521b\u4f5c\u684c\u9762\u5e94\u7528\uff0c\u96c6\u9879\u76ee\u8bbe\u5b9a\u3001\u89d2\u8272\u5173\u7cfb\u3001\u5267\u60c5\u5927\u7eb2\u3001\u7ae0\u8282\u5199\u4f5c\u4e0e\u591a\u6a21\u578b AI \u534f\u4f5c\u4e8e\u4e00\u4f53",
-            "url": "https://github.com/uu201/character-arc",
-            "stars": 206,
-            "forks": 28,
+            "name": "serenity-aleabitoreddit",
+            "full_name": "yan-labs/serenity-aleabitoreddit",
+            "description": "Installable Serenity tweet archive + AI/semi supply-chain skill. Install: npx skills add yan-labs/serenity-aleabitoreddit",
+            "url": "https://github.com/yan-labs/serenity-aleabitoreddit",
+            "stars": 182,
+            "forks": 26,
             "score": 39
         },
         {
@@ -337,7 +337,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "lynote-ai/ai-detector-skill",
             "description": " A free detector capable of identifying content generated by all advanced AI models.",
             "url": "https://github.com/lynote-ai/ai-detector-skill",
-            "stars": 222,
+            "stars": 223,
             "forks": 4,
             "score": 37
         },
@@ -370,7 +370,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "SikamikanikoBG/homelab-monitor",
             "description": "Plug-and-play homelab dashboard in one container \u2014 GPU, local-AI model VRAM, Docker, systemd and host health. One page, no Prometheus/Grafana.",
             "url": "https://github.com/SikamikanikoBG/homelab-monitor",
-            "stars": 22,
+            "stars": 25,
             "forks": 4,
             "score": 31
         },
@@ -416,17 +416,6 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/bigneb1/Auralis-Finance",
             "stars": 0,
             "forks": 1,
-            "score": 30
-        },
-        {
-            "main_cat": "Prediction Markets",
-            "sub_cat": null,
-            "name": "nitro-bet",
-            "full_name": "57KingVibe/nitro-bet",
-            "description": "Nitro-Bet is a decentralized, high-frequency sports prediction market.",
-            "url": "https://github.com/57KingVibe/nitro-bet",
-            "stars": 0,
-            "forks": 0,
             "score": 30
         },
         {
@@ -648,23 +637,20 @@ const ALPHA_DATA_V2 = {
             "stars": 0,
             "forks": 0,
             "score": 30
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI Agents",
+            "name": "SIC-JS_3.0",
+            "full_name": "Endwar116/SIC-JS_3.0",
+            "description": "SIC-JS v3.0 \u2014 Semantic Integrity Control JSON. An AI agent semantic state protocol for cross-session, cross-model state persistence and verification.",
+            "url": "https://github.com/Endwar116/SIC-JS_3.0",
+            "stars": 0,
+            "forks": 0,
+            "score": 30
         }
     ],
     "news": [
-        {
-            "title": "Will the Agent Recuse Itself? Measuring LLM-Agent Compliance with In-Band Access-Deny Signals",
-            "source": "ArXiv",
-            "type": "Research Alpha",
-            "color": "text-indigo-600",
-            "url": "http://arxiv.org/abs/2606.06460v1"
-        },
-        {
-            "title": "WebMCP Tool Surface Poisoning: Runtime Manipulation Attacks on LLM Agents",
-            "source": "ArXiv",
-            "type": "Research Alpha",
-            "color": "text-indigo-600",
-            "url": "http://arxiv.org/abs/2606.06387v1"
-        },
         {
             "title": "Bitcoin volatility remains high ahead of key FED decision.",
             "source": "Polymarket",
@@ -673,5 +659,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-06-06 23:58"
+    "timestamp": "2026-06-07 04:15"
 };
