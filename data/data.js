@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "pewdiepie-archdaemon/odysseus",
             "description": "Self-hosted AI workspace. ",
             "url": "https://github.com/pewdiepie-archdaemon/odysseus",
-            "stars": 63498,
-            "forks": 7753,
+            "stars": 63683,
+            "forks": 7784,
             "score": 99
         },
         {
@@ -18,7 +18,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "nexu-io/html-video",
             "description": "Programmatic video for coding agents \u2014 HTML to video on your laptop. Turn HTML, CSS & data into real MP4s with pluggable render engines, 21 templates, AI soundtrack. Apache-2.0, no per-render fees. An official project by the Open Design team.",
             "url": "https://github.com/nexu-io/html-video",
-            "stars": 2259,
+            "stars": 2263,
             "forks": 258,
             "score": 99
         },
@@ -40,8 +40,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "asz798838958/aBaiAutoplus",
             "description": "\u591a\u5e73\u53f0 AI \u8d26\u53f7\u81ea\u52a8\u6ce8\u518c\u4e0e\u7ba1\u7406 \u00b7 \u534f\u8bae\u5316\u4ed8\u6b3e\u4e00\u952e\u5f00\u901a ChatGPT Plus",
             "url": "https://github.com/asz798838958/aBaiAutoplus",
-            "stars": 1586,
-            "forks": 715,
+            "stars": 1587,
+            "forks": 716,
             "score": 99
         },
         {
@@ -51,8 +51,19 @@ const ALPHA_DATA_V2 = {
             "full_name": "JimLiu/baoyu-design",
             "description": "Run Claude Design locally as an Agent Skill \u2014 Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/design. Best with Opus 4.8.",
             "url": "https://github.com/JimLiu/baoyu-design",
-            "stars": 510,
+            "stars": 514,
             "forks": 36,
+            "score": 99
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "GordenSuperPPTSkills",
+            "full_name": "GordenSun/GordenSuperPPTSkills",
+            "description": "AI PPT\u8d5b\u9053\u7ec8\u7ed3\u8005\uff0c\u53f2\u4e0a\u6700\u6700\u6700\u5f3a PPT Skill\uff01\uff01\uff01  \u4f7f\u7528GPT\u751f\u6210\u8c6a\u534e\u7684\u56fe\u7247\u683c\u5f0fPPT\uff0c\u7136\u540e\u8f6c\u6362\u4e3a\u5b8c\u5168\u53ef\u7f16\u8f91\u7684PPTX\u6587\u4ef6\u3002",
+            "url": "https://github.com/GordenSun/GordenSuperPPTSkills",
+            "stars": 368,
+            "forks": 46,
             "score": 99
         },
         {
@@ -62,20 +73,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "amElnagdy/guard-skills",
             "description": "Guard skills for coding agents, quality gates that catch AI-generated failure modes in code, tests, and docs",
             "url": "https://github.com/amElnagdy/guard-skills",
-            "stars": 452,
+            "stars": 465,
             "forks": 55,
-            "score": 97
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "GordenSuperPPTSkills",
-            "full_name": "GordenSun/GordenSuperPPTSkills",
-            "description": "AI PPT\u8d5b\u9053\u7ec8\u7ed3\u8005\uff0c\u53f2\u4e0a\u6700\u6700\u6700\u5f3a PPT Skill\uff01\uff01\uff01  \u4f7f\u7528GPT\u751f\u6210\u8c6a\u534e\u7684\u56fe\u7247\u683c\u5f0fPPT\uff0c\u7136\u540e\u8f6c\u6362\u4e3a\u5b8c\u5168\u53ef\u7f16\u8f91\u7684PPTX\u6587\u4ef6\u3002",
-            "url": "https://github.com/GordenSun/GordenSuperPPTSkills",
-            "stars": 360,
-            "forks": 44,
-            "score": 97
+            "score": 98
         },
         {
             "main_cat": "AI",
@@ -84,7 +84,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "withkynam/vibecode-pro-max-kit",
             "description": "Your AI forgets. This remembers. Spec-driven coding harness for vibecoders, product owners, CEOs and real builders \u2014 self-improving context memory, 12 agents, 32 skills. Kills context rot, ships features, not spaghetti. Claude Code & Codex. Any stack. 30 seconds",
             "url": "https://github.com/withkynam/vibecode-pro-max-kit",
-            "stars": 812,
+            "stars": 813,
             "forks": 190,
             "score": 82
         },
@@ -95,7 +95,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "boona13/image-extender",
             "description": "Seamlessly extend any image in any direction with AI. Open-source web app powered by Gemini via OpenRouter, with Poisson-blended seams and best-of-3 variant picker.",
             "url": "https://github.com/boona13/image-extender",
-            "stars": 950,
+            "stars": 952,
             "forks": 105,
             "score": 72
         },
@@ -128,7 +128,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "FerroxLabs/wayland",
             "description": "Wayland - The AI Agent That Perceives. Reasons. Acts. Evolves.",
             "url": "https://github.com/FerroxLabs/wayland",
-            "stars": 243,
+            "stars": 245,
             "forks": 42,
             "score": 64
         },
@@ -161,19 +161,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "yb2460/harness-anything",
             "description": "Harness Anything - AI agent control hub: WPS, MS Office, Zotero, Photoshop, 47 CLI commands, 27 academic skills, SVG-to-PPTX",
             "url": "https://github.com/yb2460/harness-anything",
-            "stars": 504,
+            "stars": 505,
             "forks": 26,
-            "score": 50
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "nullsec-s1",
-            "full_name": "trynullsec/nullsec-s1",
-            "description": "Security-native LLM system for AI-generated application security.",
-            "url": "https://github.com/trynullsec/nullsec-s1",
-            "stars": 252,
-            "forks": 69,
             "score": 50
         },
         {
@@ -222,12 +211,23 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
+            "sub_cat": null,
+            "name": "nullsec-s1",
+            "full_name": "trynullsec/nullsec-s1",
+            "description": "Security-native LLM system for AI-generated application security.",
+            "url": "https://github.com/trynullsec/nullsec-s1",
+            "stars": 253,
+            "forks": 69,
+            "score": 48
+        },
+        {
+            "main_cat": "AI",
             "sub_cat": "AI General",
             "name": "UltraCode-Shim",
             "full_name": "OnlyTerp/UltraCode-Shim",
             "description": "Give Claude Code's ultracode mode to ANY model you already pay for. A tiny local proxy + one config.json. Point your AI at AGENTS.md and it sets itself up.",
             "url": "https://github.com/OnlyTerp/UltraCode-Shim",
-            "stars": 301,
+            "stars": 302,
             "forks": 23,
             "score": 46
         },
@@ -282,7 +282,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "caezium/Burrow",
             "description": "A free, open-source mole.fit \u2014 a native macOS GUI for the Mole CLI (mo): clean, uninstall, optimize, analyze disk, and watch live status. Plus long-range history + an MCP server for AI agents",
             "url": "https://github.com/caezium/Burrow",
-            "stars": 194,
+            "stars": 196,
             "forks": 14,
             "score": 41
         },
@@ -322,13 +322,13 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "mempalace-evolve",
-            "full_name": "a2328275243/mempalace-evolve",
-            "description": "Self-evolving memory palace for AI agents \u2014 persistent memory with automatic learning, knowledge graph, and multi-agent support",
-            "url": "https://github.com/a2328275243/mempalace-evolve",
-            "stars": 152,
-            "forks": 5,
-            "score": 35
+            "name": "genomi",
+            "full_name": "exon-research/genomi",
+            "description": "An open-source agent harness that turns your AI agent into your personal DNA expert",
+            "url": "https://github.com/exon-research/genomi",
+            "stars": 156,
+            "forks": 14,
+            "score": 37
         },
         {
             "main_cat": "AI",
@@ -351,6 +351,17 @@ const ALPHA_DATA_V2 = {
             "stars": 27,
             "forks": 6,
             "score": 31
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "coreai-torch",
+            "full_name": "apple/coreai-torch",
+            "description": "Bridges PyTorch and Core AI. Convert existing models to Core AI IR, or author new ones from PyTorch via composite ops, custom op lowerings, and inline Metal GPU kernels.",
+            "url": "https://github.com/apple/coreai-torch",
+            "stars": 13,
+            "forks": 1,
+            "score": 30
         },
         {
             "main_cat": "AI",
@@ -394,6 +405,17 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/bigneb1/Auralis-Finance",
             "stars": 0,
             "forks": 1,
+            "score": 30
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "dxmarket-solana-prediction-market",
+            "full_name": "plinkdev1/dxmarket-solana-prediction-market",
+            "description": "On-chain satirical prediction market on Solana - community-resolved markets, $DATX micro-bets, deflationary burn, and a public bot API.",
+            "url": "https://github.com/plinkdev1/dxmarket-solana-prediction-market",
+            "stars": 1,
+            "forks": 0,
             "score": 30
         },
         {
@@ -496,6 +518,17 @@ const ALPHA_DATA_V2 = {
             "score": 30
         },
         {
+            "main_cat": "Stablecoin Infrastructure",
+            "sub_cat": null,
+            "name": "Absolis-testnet",
+            "full_name": "mattiasantims/Absolis-testnet",
+            "description": "Absolis - testnet MVP for stablecoin checkout, merchant payouts and verifiable payment records on Arc Testnet",
+            "url": "https://github.com/mattiasantims/Absolis-testnet",
+            "stars": 0,
+            "forks": 0,
+            "score": 30
+        },
+        {
             "main_cat": "AI",
             "sub_cat": "AI General",
             "name": "basepay-dapp",
@@ -568,17 +601,6 @@ const ALPHA_DATA_V2 = {
             "full_name": "ritulrashi/UPICrypto",
             "description": "Decentralized cross-border payment infrastructure on Ethereum and Polygon \u2014 ERC-20 stablecoin, ZK proof privacy, L1/L2 bridge, gasless transactions, Go backend API, React dashboard, React Native mobile app",
             "url": "https://github.com/ritulrashi/UPICrypto",
-            "stars": 0,
-            "forks": 0,
-            "score": 30
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "TrustSplit",
-            "full_name": "HumanChainX/TrustSplit",
-            "description": "TrustSplit is a multi-chain, trustless expense-splitting platform that eliminates the trust dependency in group payments. Participants commit stablecoins or sign cryptographic payment promises into a shared escrow pool, which settles all payees in a single batch transaction \u2014 no intermediaries, no delays",
-            "url": "https://github.com/HumanChainX/TrustSplit",
             "stars": 0,
             "forks": 0,
             "score": 30
@@ -695,5 +717,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-06-08 20:06"
+    "timestamp": "2026-06-08 22:21"
 };
