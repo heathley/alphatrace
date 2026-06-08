@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "pewdiepie-archdaemon/odysseus",
             "description": "Self-hosted AI workspace. ",
             "url": "https://github.com/pewdiepie-archdaemon/odysseus",
-            "stars": 62969,
-            "forks": 7669,
+            "stars": 63283,
+            "forks": 7719,
             "score": 99
         },
         {
@@ -18,8 +18,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "nexu-io/html-video",
             "description": "Programmatic video for coding agents \u2014 HTML to video on your laptop. Turn HTML, CSS & data into real MP4s with pluggable render engines, 21 templates, AI soundtrack. Apache-2.0, no per-render fees. An official project by the Open Design team.",
             "url": "https://github.com/nexu-io/html-video",
-            "stars": 2232,
-            "forks": 252,
+            "stars": 2253,
+            "forks": 256,
             "score": 99
         },
         {
@@ -29,8 +29,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "GordenSun/GordenPPTSkill",
             "description": "AI-friendly PPT builder skill: 17 hand-polished Chinese PPTX templates + non-destructive text-only editing tools (python-pptx based). Pick a template, write edits.json, build a real .pptx with the layout intact. Personal/research use only.",
             "url": "https://github.com/GordenSun/GordenPPTSkill",
-            "stars": 1824,
-            "forks": 166,
+            "stars": 1826,
+            "forks": 168,
             "score": 99
         },
         {
@@ -40,8 +40,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "asz798838958/aBaiAutoplus",
             "description": "\u591a\u5e73\u53f0 AI \u8d26\u53f7\u81ea\u52a8\u6ce8\u518c\u4e0e\u7ba1\u7406 \u00b7 \u534f\u8bae\u5316\u4ed8\u6b3e\u4e00\u952e\u5f00\u901a ChatGPT Plus",
             "url": "https://github.com/asz798838958/aBaiAutoplus",
-            "stars": 1582,
-            "forks": 715,
+            "stars": 1587,
+            "forks": 716,
             "score": 99
         },
         {
@@ -51,7 +51,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "JimLiu/baoyu-design",
             "description": "Run Claude Design locally as an Agent Skill \u2014 Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/design. Best with Opus 4.8.",
             "url": "https://github.com/JimLiu/baoyu-design",
-            "stars": 482,
+            "stars": 503,
             "forks": 34,
             "score": 99
         },
@@ -62,9 +62,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "amElnagdy/guard-skills",
             "description": "Guard skills for coding agents, quality gates that catch AI-generated failure modes in code, tests, and docs",
             "url": "https://github.com/amElnagdy/guard-skills",
-            "stars": 424,
-            "forks": 54,
-            "score": 99
+            "stars": 443,
+            "forks": 55,
+            "score": 96
         },
         {
             "main_cat": "AI",
@@ -73,9 +73,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "GordenSun/GordenSuperPPTSkills",
             "description": "AI PPT\u8d5b\u9053\u7ec8\u7ed3\u8005\uff0c\u53f2\u4e0a\u6700\u6700\u6700\u5f3a PPT Skill\uff01\uff01\uff01  \u4f7f\u7528GPT\u751f\u6210\u8c6a\u534e\u7684\u56fe\u7247\u683c\u5f0fPPT\uff0c\u7136\u540e\u8f6c\u6362\u4e3a\u5b8c\u5168\u53ef\u7f16\u8f91\u7684PPTX\u6587\u4ef6\u3002",
             "url": "https://github.com/GordenSun/GordenSuperPPTSkills",
-            "stars": 286,
-            "forks": 38,
-            "score": 99
+            "stars": 345,
+            "forks": 43,
+            "score": 94
         },
         {
             "main_cat": "AI",
@@ -85,7 +85,7 @@ const ALPHA_DATA_V2 = {
             "description": "Your AI forgets. This remembers. Spec-driven coding harness for vibecoders, product owners, CEOs and real builders \u2014 self-improving context memory, 12 agents, 32 skills. Kills context rot, ships features, not spaghetti. Claude Code & Codex. Any stack. 30 seconds",
             "url": "https://github.com/withkynam/vibecode-pro-max-kit",
             "stars": 812,
-            "forks": 189,
+            "forks": 190,
             "score": 82
         },
         {
@@ -95,20 +95,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "boona13/image-extender",
             "description": "Seamlessly extend any image in any direction with AI. Open-source web app powered by Gemini via OpenRouter, with Poisson-blended seams and best-of-3 variant picker.",
             "url": "https://github.com/boona13/image-extender",
-            "stars": 949,
+            "stars": 950,
             "forks": 105,
             "score": 75
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "wayland",
-            "full_name": "FerroxLabs/wayland",
-            "description": "Wayland - The AI Agent That Perceives. Reasons. Acts. Evolves.",
-            "url": "https://github.com/FerroxLabs/wayland",
-            "stars": 231,
-            "forks": 42,
-            "score": 69
         },
         {
             "main_cat": "AI",
@@ -117,7 +106,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "liyue-aigc/female-portrait-director",
             "description": "A modular Codex Skill for directing and expanding detailed AI female portrait prompts.",
             "url": "https://github.com/liyue-aigc/female-portrait-director",
-            "stars": 531,
+            "stars": 532,
             "forks": 75,
             "score": 64
         },
@@ -128,9 +117,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "Mochocyang/QMAI",
             "description": "\u9752\u5e55AI\u5199\u4f5c\u8f6f\u4ef6\uff0c\u89e3\u51b3\u957f\u7bc7\u5c0f\u8bf4\u5199\u4f5c\u95ee\u9898\uff0c\u89e3\u51b3\u5c0f\u8bf4\u89d2\u8272\u6027\u683c\u4e0d\u7edf\u4e00\uff0c\u9632\u6b62\u4eba\u8bbe\u5d29\u574f\u3002",
             "url": "https://github.com/Mochocyang/QMAI",
-            "stars": 426,
+            "stars": 430,
             "forks": 83,
             "score": 64
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "wayland",
+            "full_name": "FerroxLabs/wayland",
+            "description": "Wayland - The AI Agent That Perceives. Reasons. Acts. Evolves.",
+            "url": "https://github.com/FerroxLabs/wayland",
+            "stars": 238,
+            "forks": 42,
+            "score": 63
         },
         {
             "main_cat": "AI",
@@ -141,7 +141,7 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/DannyMac180/skills",
             "stars": 428,
             "forks": 33,
-            "score": 53
+            "score": 51
         },
         {
             "main_cat": "AI",
@@ -157,12 +157,23 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "vigils",
-            "full_name": "duncatzat/vigils",
-            "description": "A local control plane for AI agents \u2014 see what they do, approve what matters, keep secrets out. Rust + Tauri + Chrome MV3.",
-            "url": "https://github.com/duncatzat/vigils",
-            "stars": 320,
-            "forks": 21,
+            "name": "harness-anything",
+            "full_name": "yb2460/harness-anything",
+            "description": "Harness Anything - AI agent control hub: WPS, MS Office, Zotero, Photoshop, 47 CLI commands, 27 academic skills, SVG-to-PPTX",
+            "url": "https://github.com/yb2460/harness-anything",
+            "stars": 501,
+            "forks": 26,
+            "score": 50
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "nullsec-s1",
+            "full_name": "trynullsec/nullsec-s1",
+            "description": "Security-native LLM system for AI-generated application security.",
+            "url": "https://github.com/trynullsec/nullsec-s1",
+            "stars": 246,
+            "forks": 69,
             "score": 50
         },
         {
@@ -172,7 +183,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "yuanzhongqiao/ai-interview-platform",
             "description": "ai-interview-platform ",
             "url": "https://github.com/yuanzhongqiao/ai-interview-platform",
-            "stars": 224,
+            "stars": 226,
             "forks": 110,
             "score": 50
         },
@@ -183,7 +194,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "zonghaoyuan/infiplot",
             "description": "InfiPlot is the world's first interactive plot game that AI generates all text and images in real-time. InfiPlot\u662f\u5168\u7403\u9996\u4e2a\u7531 AI \u5b9e\u65f6\u751f\u6210\u5168\u90e8\u56fe\u6587\u5185\u5bb9\u7684\u4ea4\u4e92\u5f0f\u5267\u60c5\u6e38\u620f",
             "url": "https://github.com/zonghaoyuan/infiplot",
-            "stars": 223,
+            "stars": 224,
             "forks": 35,
             "score": 50
         },
@@ -201,13 +212,13 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "harness-anything",
-            "full_name": "yb2460/harness-anything",
-            "description": "Harness Anything - AI agent control hub: WPS, MS Office, Zotero, Photoshop, 47 CLI commands, 27 academic skills, SVG-to-PPTX",
-            "url": "https://github.com/yb2460/harness-anything",
-            "stars": 489,
-            "forks": 27,
-            "score": 49
+            "name": "vigils",
+            "full_name": "duncatzat/vigils",
+            "description": "A local control plane for AI agents \u2014 see what they do, approve what matters, keep secrets out. Rust + Tauri + Chrome MV3.",
+            "url": "https://github.com/duncatzat/vigils",
+            "stars": 319,
+            "forks": 21,
+            "score": 48
         },
         {
             "main_cat": "AI",
@@ -223,24 +234,13 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "nullsec-s1",
-            "full_name": "trynullsec/nullsec-s1",
-            "description": "Security-native LLM system for AI-generated application security.",
-            "url": "https://github.com/trynullsec/nullsec-s1",
-            "stars": 232,
-            "forks": 56,
-            "score": 47
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
             "name": "KeyType",
             "full_name": "johnbean393/KeyType",
             "description": "An open-source Cotypist with macOS system wide AI autocomplete",
             "url": "https://github.com/johnbean393/KeyType",
-            "stars": 285,
+            "stars": 284,
             "forks": 12,
-            "score": 46
+            "score": 45
         },
         {
             "main_cat": "AI",
@@ -249,7 +249,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "zaydmulani09/mnemo",
             "description": "Local-first AI memory layer for any LLM. Persistent knowledge graph, entity extraction, semantic retrieval. Works with Ollama, OpenAI, Anthropic, or any OpenAI-compatible backend.",
             "url": "https://github.com/zaydmulani09/mnemo",
-            "stars": 197,
+            "stars": 198,
             "forks": 7,
             "score": 44
         },
@@ -266,6 +266,17 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "MineEcho",
+            "full_name": "Health-Yang/MineEcho",
+            "description": "Local-first Memory OS for personal AI assistants with L0-L3 memory, Wiki++ knowledge, skill routing, and TokenLess context compression.",
+            "url": "https://github.com/Health-Yang/MineEcho",
+            "stars": 214,
+            "forks": 24,
+            "score": 41
+        },
+        {
+            "main_cat": "AI",
             "sub_cat": null,
             "name": "Burrow",
             "full_name": "caezium/Burrow",
@@ -274,17 +285,6 @@ const ALPHA_DATA_V2 = {
             "stars": 193,
             "forks": 14,
             "score": 41
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "MineEcho",
-            "full_name": "Health-Yang/MineEcho",
-            "description": "Local-first Memory OS for personal AI assistants with L0-L3 memory, Wiki++ knowledge, skill routing, and TokenLess context compression.",
-            "url": "https://github.com/Health-Yang/MineEcho",
-            "stars": 211,
-            "forks": 24,
-            "score": 40
         },
         {
             "main_cat": "AI",
@@ -476,6 +476,17 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
+            "name": "utilitypay",
+            "full_name": "GigaHierz/utilitypay",
+            "description": "Onchain utility payments agent on Celo \u2014 airtime, data & bills in stablecoins with gas abstraction. ERC-8004 + Self Agent ID.",
+            "url": "https://github.com/GigaHierz/utilitypay",
+            "stars": 0,
+            "forks": 0,
+            "score": 30
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
             "name": "basepay-dapp",
             "full_name": "osr21/basepay-dapp",
             "description": "BasePay \u2014 USDC stablecoin payments dApp on Base Mainnet. Send, batch pay, escrow, and subscribe with on-chain smart contracts.",
@@ -564,17 +575,6 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
-            "name": "SwiftRemit",
-            "full_name": "MentorsMind/SwiftRemit",
-            "description": "SwiftRemit is a full-stack blockchain-powered cross-border payment platform built to eliminate the high costs and slow settlement times of international money transfers in Africa.  Built on the Stellar network, SwiftRemit enables near-instant, low-cost payments using XLM and USDC stablecoins",
-            "url": "https://github.com/MentorsMind/SwiftRemit",
-            "stars": 0,
-            "forks": 0,
-            "score": 30
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
             "name": "cpp-quick-start-mcp",
             "full_name": "m-velikov/cpp-quick-start-mcp",
             "description": "A Model Context Protocol (MCP) server that equips any  AI agent with the ability to expertly scaffold cross-platform C++ projects",
@@ -607,6 +607,17 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
+            "sub_cat": "AI Agents",
+            "name": "code-explorer",
+            "full_name": "vmikhailov/code-explorer",
+            "description": "Ontology-driven codebase indexer and query service. Parses C#, TypeScript/JS, Go, Python, and SQL into a Memgraph graph database. Exposes Model Context Protocol (MCP) tools for AI agents to perform deep static analysis, cross-project call-graph tracing, and data lineage mapping.",
+            "url": "https://github.com/vmikhailov/code-explorer",
+            "stars": 1,
+            "forks": 0,
+            "score": 30
+        },
+        {
+            "main_cat": "AI",
             "sub_cat": "AI General",
             "name": "base-arc-cctp-bridge",
             "full_name": "Proxtox/base-arc-cctp-bridge",
@@ -630,21 +641,21 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
-            "name": "umcp-protocol",
-            "full_name": "Meduria/umcp-protocol",
-            "description": "UMCP (Unified Memory Context Protocol) is a protocol for persistent, cross-model memory sharing between AI systems.",
-            "url": "https://github.com/Meduria/umcp-protocol",
+            "name": "Layerzero-oapp-v2",
+            "full_name": "Danishu-art/Layerzero-oapp-v2",
+            "description": "Hi - I am a whitehat researcher working on finding the flaws in layerzero protocol to safeguard the cross-chain token ",
+            "url": "https://github.com/Danishu-art/Layerzero-oapp-v2",
             "stars": 0,
             "forks": 0,
             "score": 30
         },
         {
             "main_cat": "AI",
-            "sub_cat": "AI Agents",
-            "name": "SIC-JS_3.0",
-            "full_name": "Endwar116/SIC-JS_3.0",
-            "description": "SIC-JS v3.0 \u2014 Semantic Integrity Control JSON. An AI agent semantic state protocol for cross-session, cross-model state persistence and verification.",
-            "url": "https://github.com/Endwar116/SIC-JS_3.0",
+            "sub_cat": "AI General",
+            "name": "umcp-protocol",
+            "full_name": "Meduria/umcp-protocol",
+            "description": "UMCP (Unified Memory Context Protocol) is a protocol for persistent, cross-model memory sharing between AI systems.",
+            "url": "https://github.com/Meduria/umcp-protocol",
             "stars": 0,
             "forks": 0,
             "score": 30
@@ -673,5 +684,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-06-08 14:44"
+    "timestamp": "2026-06-08 17:47"
 };
