@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "pewdiepie-archdaemon/odysseus",
             "description": "Self-hosted AI workspace. ",
             "url": "https://github.com/pewdiepie-archdaemon/odysseus",
-            "stars": 61528,
-            "forks": 7453,
+            "stars": 61608,
+            "forks": 7475,
             "score": 99
         },
         {
@@ -18,8 +18,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "nexu-io/html-video",
             "description": "Programmatic video for coding agents \u2014 HTML to video on your laptop. Turn HTML, CSS & data into real MP4s with pluggable render engines, 21 templates, AI soundtrack. Apache-2.0, no per-render fees. An official project by the Open Design team.",
             "url": "https://github.com/nexu-io/html-video",
-            "stars": 2032,
-            "forks": 227,
+            "stars": 2046,
+            "forks": 228,
             "score": 99
         },
         {
@@ -29,7 +29,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "GordenSun/GordenPPTSkill",
             "description": "AI-friendly PPT builder skill: 17 hand-polished Chinese PPTX templates + non-destructive text-only editing tools (python-pptx based). Pick a template, write edits.json, build a real .pptx with the layout intact. Personal/research use only.",
             "url": "https://github.com/GordenSun/GordenPPTSkill",
-            "stars": 1777,
+            "stars": 1779,
             "forks": 163,
             "score": 99
         },
@@ -47,6 +47,17 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
+            "name": "guard-skills",
+            "full_name": "amElnagdy/guard-skills",
+            "description": "Guard skills for coding agents, quality gates that catch AI-generated failure modes in code, tests, and docs",
+            "url": "https://github.com/amElnagdy/guard-skills",
+            "stars": 309,
+            "forks": 38,
+            "score": 87
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
             "name": "vibecode-pro-max-kit",
             "full_name": "withkynam/vibecode-pro-max-kit",
             "description": "Your AI forgets. This remembers. Spec-driven coding harness for vibecoders, product owners, CEOs and real builders \u2014 self-improving context memory, 12 agents, 32 skills. Kills context rot, ships features, not spaghetti. Claude Code & Codex. Any stack. 30 seconds",
@@ -58,24 +69,13 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "guard-skills",
-            "full_name": "amElnagdy/guard-skills",
-            "description": "Guard skills for coding agents, quality gates that catch AI-generated failure modes in code, tests, and docs",
-            "url": "https://github.com/amElnagdy/guard-skills",
-            "stars": 294,
-            "forks": 36,
-            "score": 84
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
             "name": "baoyu-design",
             "full_name": "JimLiu/baoyu-design",
             "description": "Run Claude Design locally as an Agent Skill \u2014 Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/design. Best with Opus 4.8.",
             "url": "https://github.com/JimLiu/baoyu-design",
-            "stars": 233,
-            "forks": 15,
-            "score": 78
+            "stars": 253,
+            "forks": 17,
+            "score": 83
         },
         {
             "main_cat": "AI",
@@ -106,7 +106,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "FerroxLabs/wayland",
             "description": "Wayland - The AI Agent That Perceives. Reasons. Acts. Evolves.",
             "url": "https://github.com/FerroxLabs/wayland",
-            "stars": 200,
+            "stars": 202,
             "forks": 40,
             "score": 66
         },
@@ -183,7 +183,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "yb2460/harness-anything",
             "description": "Harness Anything - AI agent control hub: WPS, MS Office, Zotero, Photoshop, 47 CLI commands, 27 academic skills, SVG-to-PPTX",
             "url": "https://github.com/yb2460/harness-anything",
-            "stars": 444,
+            "stars": 445,
             "forks": 21,
             "score": 48
         },
@@ -212,17 +212,6 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "lanshu-awesome-ai-video-kit",
-            "full_name": "cclank/lanshu-awesome-ai-video-kit",
-            "description": "\u505a\u4f01\u4e1a AI \u89c6\u9891\u9879\u76ee\u903c\u51fa\u6765\u7684\u5de5\u5177\u5305 \u00b7 411 prompt \u00b7 15 \u6a21\u578b \u00b7 7 Claude Skill \u00b7 14 \u7bc7\u65b9\u6cd5\u8bba",
-            "url": "https://github.com/cclank/lanshu-awesome-ai-video-kit",
-            "stars": 260,
-            "forks": 73,
-            "score": 47
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
             "name": "nullsec-s1",
             "full_name": "trynullsec/nullsec-s1",
             "description": "Security-native LLM system for AI-generated application security.",
@@ -245,13 +234,13 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "no_ai_slop_writing_rules",
-            "full_name": "realrossmanngroup/no_ai_slop_writing_rules",
-            "description": "Claude Code reference: write in Louis Rossmann's voice, never like AI slop. Portable CLAUDE.md plus skills.",
-            "url": "https://github.com/realrossmanngroup/no_ai_slop_writing_rules",
-            "stars": 325,
-            "forks": 39,
-            "score": 45
+            "name": "ai-naughty-tools",
+            "full_name": "best-spicy-ai/ai-naughty-tools",
+            "description": "Discover uncensored AI image & video tools trusted by users worldwide for highly photorealistic results. Create without unnecessary limits using platforms built for realism, quality, and full creative freedom - https://tinyurl.com/imggenai",
+            "url": "https://github.com/best-spicy-ai/ai-naughty-tools",
+            "stars": 189,
+            "forks": 1,
+            "score": 46
         },
         {
             "main_cat": "AI",
@@ -263,6 +252,17 @@ const ALPHA_DATA_V2 = {
             "stars": 254,
             "forks": 13,
             "score": 45
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "mnemo",
+            "full_name": "zaydmulani09/mnemo",
+            "description": "Local-first AI memory layer for any LLM. Persistent knowledge graph, entity extraction, semantic retrieval. Works with Ollama, OpenAI, Anthropic, or any OpenAI-compatible backend.",
+            "url": "https://github.com/zaydmulani09/mnemo",
+            "stars": 194,
+            "forks": 6,
+            "score": 43
         },
         {
             "main_cat": "AI",
@@ -282,30 +282,19 @@ const ALPHA_DATA_V2 = {
             "full_name": "Health-Yang/MineEcho",
             "description": "Local-first Memory OS for personal AI assistants with L0-L3 memory, Wiki++ knowledge, skill routing, and TokenLess context compression.",
             "url": "https://github.com/Health-Yang/MineEcho",
-            "stars": 198,
+            "stars": 200,
             "forks": 23,
             "score": 41
         },
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "serenity-aleabitoreddit",
-            "full_name": "yan-labs/serenity-aleabitoreddit",
-            "description": "Installable Serenity tweet archive + AI/semi supply-chain skill. Install: npx skills add yan-labs/serenity-aleabitoreddit",
-            "url": "https://github.com/yan-labs/serenity-aleabitoreddit",
-            "stars": 215,
-            "forks": 31,
-            "score": 40
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "cursor_agent_status_light",
-            "full_name": "JasonLam08/cursor_agent_status_light",
-            "description": "A BLE-powered status light for Cursor Agent, using ESP32-C3 to visualize AI coding states such as thinking, busy,  success, error, and waiting for user action. \u57fa\u4e8e ESP32-C3 \u7684 Cursor Agent BLE \u72b6\u6001\u706f\uff0c\u7528\u7ea2\u7eff\u706f\u76f4\u89c2\u663e\u793a AI \u7f16\u7a0b\u8fc7\u7a0b\u4e2d\u7684\u601d\u8003\u3001\u5fd9\u788c\u3001\u6210\u529f\u3001\u9519\u8bef\u4ee5\u53ca\u7b49\u5f85\u7528\u6237\u64cd\u4f5c \u7b49\u72b6\u6001\u3002",
-            "url": "https://github.com/JasonLam08/cursor_agent_status_light",
-            "stars": 209,
-            "forks": 29,
+            "name": "science-superpowers",
+            "full_name": "K-Dense-AI/science-superpowers",
+            "description": "Composable computational-science methodology skills for AI research agents \u2014 pre-registration over TDD. A science-domain reimplementation of Superpowers.",
+            "url": "https://github.com/K-Dense-AI/science-superpowers",
+            "stars": 193,
+            "forks": 17,
             "score": 40
         },
         {
@@ -321,14 +310,25 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "ai-detector-skill",
-            "full_name": "lynote-ai/ai-detector-skill",
-            "description": " A free detector capable of identifying content generated by all advanced AI models.",
-            "url": "https://github.com/lynote-ai/ai-detector-skill",
-            "stars": 223,
-            "forks": 4,
-            "score": 37
+            "sub_cat": null,
+            "name": "zelda-hyrule-ui",
+            "full_name": "chaos-xxl/zelda-hyrule-ui",
+            "description": "\ud83d\udde1\ufe0f Zelda BOTW style React UI component library \u2014 84 components with Sheikah glow effects, dark theme, and AI-consumable design specs (Cursor/v0 ready)",
+            "url": "https://github.com/chaos-xxl/zelda-hyrule-ui",
+            "stars": 193,
+            "forks": 26,
+            "score": 39
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "mempalace-evolve",
+            "full_name": "a2328275243/mempalace-evolve",
+            "description": "Self-evolving memory palace for AI agents \u2014 persistent memory with automatic learning, knowledge graph, and multi-agent support",
+            "url": "https://github.com/a2328275243/mempalace-evolve",
+            "stars": 152,
+            "forks": 5,
+            "score": 35
         },
         {
             "main_cat": "AI",
@@ -350,17 +350,6 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/0xPira/SSKills",
             "stars": 26,
             "forks": 6,
-            "score": 31
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "homelab-monitor",
-            "full_name": "SikamikanikoBG/homelab-monitor",
-            "description": "Plug-and-play homelab dashboard in one container \u2014 GPU, local-AI model VRAM, Docker, systemd and host health. One page, no Prometheus/Grafana.",
-            "url": "https://github.com/SikamikanikoBG/homelab-monitor",
-            "stars": 29,
-            "forks": 4,
             "score": 31
         },
         {
@@ -553,17 +542,6 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "Stablecoin Infrastructure",
             "sub_cat": null,
-            "name": "fireblocks",
-            "full_name": "api-evangelist/fireblocks",
-            "description": "Fireblocks is an institutional digital-asset and stablecoin infrastructure company providing MPC-secured custody, wallets (custodial and non-custodial / embedded), payments, tokenization, staking, smart contracts, off-exchange settlement, and DeFi security to trading firms, fintechs, exchanges, payment service providers, banks, financial\u2026",
-            "url": "https://github.com/api-evangelist/fireblocks",
-            "stars": 0,
-            "forks": 0,
-            "score": 30
-        },
-        {
-            "main_cat": "Stablecoin Infrastructure",
-            "sub_cat": null,
             "name": "UPICrypto",
             "full_name": "ritulrashi/UPICrypto",
             "description": "Decentralized cross-border payment infrastructure on Ethereum and Polygon \u2014 ERC-20 stablecoin, ZK proof privacy, L1/L2 bridge, gasless transactions, Go backend API, React dashboard, React Native mobile app",
@@ -590,6 +568,17 @@ const ALPHA_DATA_V2 = {
             "full_name": "MentorsMind/SwiftRemit",
             "description": "SwiftRemit is a full-stack blockchain-powered cross-border payment platform built to eliminate the high costs and slow settlement times of international money transfers in Africa.  Built on the Stellar network, SwiftRemit enables near-instant, low-cost payments using XLM and USDC stablecoins",
             "url": "https://github.com/MentorsMind/SwiftRemit",
+            "stars": 0,
+            "forks": 0,
+            "score": 30
+        },
+        {
+            "main_cat": "Stablecoin Infrastructure",
+            "sub_cat": null,
+            "name": "anchorvault",
+            "full_name": "shriyashsoni/anchorvault",
+            "description": "AnchorVault is a production-grade, decentralized liquidity protocol built on the Stellar Soroban Smart Contract Platform. It bridges Liquidity Providers (LPs) with authorized off-ramp payment anchors to facilitate instant, cross-border remittances. LPs lock stablecoin reserves",
+            "url": "https://github.com/shriyashsoni/anchorvault",
             "stars": 0,
             "forks": 0,
             "score": 30
@@ -695,5 +684,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-06-07 22:58"
+    "timestamp": "2026-06-08 00:11"
 };
