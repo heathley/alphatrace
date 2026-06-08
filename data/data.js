@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "pewdiepie-archdaemon/odysseus",
             "description": "Self-hosted AI workspace. ",
             "url": "https://github.com/pewdiepie-archdaemon/odysseus",
-            "stars": 62031,
-            "forks": 7536,
+            "stars": 62538,
+            "forks": 7604,
             "score": 99
         },
         {
@@ -18,8 +18,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "nexu-io/html-video",
             "description": "Programmatic video for coding agents \u2014 HTML to video on your laptop. Turn HTML, CSS & data into real MP4s with pluggable render engines, 21 templates, AI soundtrack. Apache-2.0, no per-render fees. An official project by the Open Design team.",
             "url": "https://github.com/nexu-io/html-video",
-            "stars": 2116,
-            "forks": 235,
+            "stars": 2191,
+            "forks": 246,
             "score": 99
         },
         {
@@ -29,7 +29,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "GordenSun/GordenPPTSkill",
             "description": "AI-friendly PPT builder skill: 17 hand-polished Chinese PPTX templates + non-destructive text-only editing tools (python-pptx based). Pick a template, write edits.json, build a real .pptx with the layout intact. Personal/research use only.",
             "url": "https://github.com/GordenSun/GordenPPTSkill",
-            "stars": 1803,
+            "stars": 1815,
             "forks": 165,
             "score": 99
         },
@@ -40,8 +40,19 @@ const ALPHA_DATA_V2 = {
             "full_name": "asz798838958/aBaiAutoplus",
             "description": "\u591a\u5e73\u53f0 AI \u8d26\u53f7\u81ea\u52a8\u6ce8\u518c\u4e0e\u7ba1\u7406 \u00b7 \u534f\u8bae\u5316\u4ed8\u6b3e\u4e00\u952e\u5f00\u901a ChatGPT Plus",
             "url": "https://github.com/asz798838958/aBaiAutoplus",
-            "stars": 1576,
-            "forks": 711,
+            "stars": 1582,
+            "forks": 713,
+            "score": 99
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "baoyu-design",
+            "full_name": "JimLiu/baoyu-design",
+            "description": "Run Claude Design locally as an Agent Skill \u2014 Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/design. Best with Opus 4.8.",
+            "url": "https://github.com/JimLiu/baoyu-design",
+            "stars": 435,
+            "forks": 31,
             "score": 99
         },
         {
@@ -51,9 +62,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "amElnagdy/guard-skills",
             "description": "Guard skills for coding agents, quality gates that catch AI-generated failure modes in code, tests, and docs",
             "url": "https://github.com/amElnagdy/guard-skills",
-            "stars": 347,
-            "forks": 45,
-            "score": 95
+            "stars": 394,
+            "forks": 51,
+            "score": 99
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "GordenSuperPPTSkills",
+            "full_name": "GordenSun/GordenSuperPPTSkills",
+            "description": "AI PPT\u8d5b\u9053\u7ec8\u7ed3\u8005\uff0c\u53f2\u4e0a\u6700\u6700\u6700\u5f3a PPT Skill\uff01\uff01\uff01  \u4f7f\u7528GPT\u751f\u6210\u8c6a\u534e\u7684\u56fe\u7247\u683c\u5f0fPPT\uff0c\u7136\u540e\u8f6c\u6362\u4e3a\u5b8c\u5168\u53ef\u7f16\u8f91\u7684PPTX\u6587\u4ef6\u3002",
+            "url": "https://github.com/GordenSun/GordenSuperPPTSkills",
+            "stars": 195,
+            "forks": 33,
+            "score": 84
         },
         {
             "main_cat": "AI",
@@ -62,20 +84,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "withkynam/vibecode-pro-max-kit",
             "description": "Your AI forgets. This remembers. Spec-driven coding harness for vibecoders, product owners, CEOs and real builders \u2014 self-improving context memory, 12 agents, 32 skills. Kills context rot, ships features, not spaghetti. Claude Code & Codex. Any stack. 30 seconds",
             "url": "https://github.com/withkynam/vibecode-pro-max-kit",
-            "stars": 810,
+            "stars": 812,
             "forks": 188,
-            "score": 85
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "baoyu-design",
-            "full_name": "JimLiu/baoyu-design",
-            "description": "Run Claude Design locally as an Agent Skill \u2014 Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/design. Best with Opus 4.8.",
-            "url": "https://github.com/JimLiu/baoyu-design",
-            "stars": 359,
-            "forks": 21,
-            "score": 85
+            "score": 82
         },
         {
             "main_cat": "AI",
@@ -84,7 +95,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "boona13/image-extender",
             "description": "Seamlessly extend any image in any direction with AI. Open-source web app powered by Gemini via OpenRouter, with Poisson-blended seams and best-of-3 variant picker.",
             "url": "https://github.com/boona13/image-extender",
-            "stars": 946,
+            "stars": 948,
             "forks": 105,
             "score": 75
         },
@@ -95,9 +106,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "FerroxLabs/wayland",
             "description": "Wayland - The AI Agent That Perceives. Reasons. Acts. Evolves.",
             "url": "https://github.com/FerroxLabs/wayland",
-            "stars": 213,
+            "stars": 222,
             "forks": 42,
-            "score": 68
+            "score": 69
         },
         {
             "main_cat": "AI",
@@ -106,9 +117,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "liyue-aigc/female-portrait-director",
             "description": "A modular Codex Skill for directing and expanding detailed AI female portrait prompts.",
             "url": "https://github.com/liyue-aigc/female-portrait-director",
-            "stars": 530,
-            "forks": 74,
-            "score": 67
+            "stars": 531,
+            "forks": 75,
+            "score": 64
         },
         {
             "main_cat": "AI",
@@ -117,9 +128,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "Mochocyang/QMAI",
             "description": "\u9752\u5e55AI\u5199\u4f5c\u8f6f\u4ef6\uff0c\u89e3\u51b3\u957f\u7bc7\u5c0f\u8bf4\u5199\u4f5c\u95ee\u9898\uff0c\u89e3\u51b3\u5c0f\u8bf4\u89d2\u8272\u6027\u683c\u4e0d\u7edf\u4e00\uff0c\u9632\u6b62\u4eba\u8bbe\u5d29\u574f\u3002",
             "url": "https://github.com/Mochocyang/QMAI",
-            "stars": 408,
-            "forks": 77,
-            "score": 62
+            "stars": 419,
+            "forks": 82,
+            "score": 63
         },
         {
             "main_cat": "AI",
@@ -128,7 +139,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "DannyMac180/skills",
             "description": "AI agent skills created by me: Dan McAteer",
             "url": "https://github.com/DannyMac180/skills",
-            "stars": 424,
+            "stars": 428,
             "forks": 33,
             "score": 53
         },
@@ -139,9 +150,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "razr001/align-dev",
             "description": "AlignDev helps AI-assisted frontend teams generate shared coding standards and SKILL.md so Claude Code, Codex, Cursor, Copilot, and other agents write consistently.",
             "url": "https://github.com/razr001/align-dev",
-            "stars": 291,
+            "stars": 319,
             "forks": 4,
-            "score": 51
+            "score": 53
         },
         {
             "main_cat": "AI",
@@ -150,20 +161,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "yuanzhongqiao/ai-interview-platform",
             "description": "ai-interview-platform ",
             "url": "https://github.com/yuanzhongqiao/ai-interview-platform",
-            "stars": 217,
+            "stars": 221,
             "forks": 110,
-            "score": 51
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "harness-anything",
-            "full_name": "yb2460/harness-anything",
-            "description": "Harness Anything - AI agent control hub: WPS, MS Office, Zotero, Photoshop, 47 CLI commands, 27 academic skills, SVG-to-PPTX",
-            "url": "https://github.com/yb2460/harness-anything",
-            "stars": 449,
-            "forks": 21,
-            "score": 49
+            "score": 50
         },
         {
             "main_cat": "AI",
@@ -172,9 +172,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "fayazara/macos-app-skills",
             "description": "AI coding agent skills for building, shipping, and maintaining native macOS apps",
             "url": "https://github.com/fayazara/macos-app-skills",
-            "stars": 487,
+            "stars": 494,
             "forks": 11,
-            "score": 48
+            "score": 49
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "harness-anything",
+            "full_name": "yb2460/harness-anything",
+            "description": "Harness Anything - AI agent control hub: WPS, MS Office, Zotero, Photoshop, 47 CLI commands, 27 academic skills, SVG-to-PPTX",
+            "url": "https://github.com/yb2460/harness-anything",
+            "stars": 479,
+            "forks": 25,
+            "score": 49
         },
         {
             "main_cat": "AI",
@@ -183,9 +194,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "zonghaoyuan/infiplot",
             "description": "InfiPlot is the world's first interactive plot game that AI generates all text and images in real-time. InfiPlot\u662f\u5168\u7403\u9996\u4e2a\u7531 AI \u5b9e\u65f6\u751f\u6210\u5168\u90e8\u56fe\u6587\u5185\u5bb9\u7684\u4ea4\u4e92\u5f0f\u5267\u60c5\u6e38\u620f",
             "url": "https://github.com/zonghaoyuan/infiplot",
-            "stars": 217,
-            "forks": 31,
-            "score": 48
+            "stars": 218,
+            "forks": 32,
+            "score": 49
         },
         {
             "main_cat": "AI",
@@ -194,7 +205,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "OnlyTerp/UltraCode-Shim",
             "description": "Give Claude Code's ultracode mode to ANY model you already pay for. A tiny local proxy + one config.json. Point your AI at AGENTS.md and it sets itself up.",
             "url": "https://github.com/OnlyTerp/UltraCode-Shim",
-            "stars": 298,
+            "stars": 299,
             "forks": 23,
             "score": 47
         },
@@ -205,7 +216,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "duncatzat/vigils",
             "description": "A local control plane for AI agents \u2014 see what they do, approve what matters, keep secrets out. Rust + Tauri + Chrome MV3.",
             "url": "https://github.com/duncatzat/vigils",
-            "stars": 290,
+            "stars": 291,
             "forks": 14,
             "score": 47
         },
@@ -217,7 +228,7 @@ const ALPHA_DATA_V2 = {
             "description": "Security-native LLM system for AI-generated application security.",
             "url": "https://github.com/trynullsec/nullsec-s1",
             "stars": 232,
-            "forks": 55,
+            "forks": 56,
             "score": 47
         },
         {
@@ -228,18 +239,7 @@ const ALPHA_DATA_V2 = {
             "description": "An open-source Cotypist with macOS system wide AI autocomplete",
             "url": "https://github.com/johnbean393/KeyType",
             "stars": 281,
-            "forks": 11,
-            "score": 46
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "ai-naughty-tools",
-            "full_name": "best-spicy-ai/ai-naughty-tools",
-            "description": "Discover uncensored AI image & video tools trusted by users worldwide for highly photorealistic results. Create without unnecessary limits using platforms built for realism, quality, and full creative freedom - https://tinyurl.com/imggenai",
-            "url": "https://github.com/best-spicy-ai/ai-naughty-tools",
-            "stars": 189,
-            "forks": 1,
+            "forks": 12,
             "score": 46
         },
         {
@@ -249,7 +249,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "c873089902979/NS-FW-AI-Image-and-Video-Generator-Uncens",
             "description": "A foundational toolkit for AI-driven image generation, focusing on creative expression and content creation.",
             "url": "https://github.com/c873089902979/NS-FW-AI-Image-and-Video-Generator-Uncens",
-            "stars": 255,
+            "stars": 256,
             "forks": 13,
             "score": 45
         },
@@ -260,7 +260,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "zaydmulani09/mnemo",
             "description": "Local-first AI memory layer for any LLM. Persistent knowledge graph, entity extraction, semantic retrieval. Works with Ollama, OpenAI, Anthropic, or any OpenAI-compatible backend.",
             "url": "https://github.com/zaydmulani09/mnemo",
-            "stars": 194,
+            "stars": 196,
             "forks": 6,
             "score": 43
         },
@@ -277,14 +277,25 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
+            "sub_cat": null,
+            "name": "Burrow",
+            "full_name": "caezium/Burrow",
+            "description": "A free, open-source mole.fit \u2014 a native macOS GUI for the Mole CLI (mo): clean, uninstall, optimize, analyze disk, and watch live status. Plus long-range history + an MCP server for AI agents",
+            "url": "https://github.com/caezium/Burrow",
+            "stars": 190,
+            "forks": 14,
+            "score": 41
+        },
+        {
+            "main_cat": "AI",
             "sub_cat": "AI General",
             "name": "MineEcho",
             "full_name": "Health-Yang/MineEcho",
             "description": "Local-first Memory OS for personal AI assistants with L0-L3 memory, Wiki++ knowledge, skill routing, and TokenLess context compression.",
             "url": "https://github.com/Health-Yang/MineEcho",
-            "stars": 201,
+            "stars": 209,
             "forks": 24,
-            "score": 41
+            "score": 40
         },
         {
             "main_cat": "AI",
@@ -293,7 +304,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "chaos-xxl/zelda-hyrule-ui",
             "description": "\ud83d\udde1\ufe0f Zelda BOTW style React UI component library \u2014 84 components with Sheikah glow effects, dark theme, and AI-consumable design specs (Cursor/v0 ready)",
             "url": "https://github.com/chaos-xxl/zelda-hyrule-ui",
-            "stars": 195,
+            "stars": 205,
             "forks": 27,
             "score": 40
         },
@@ -315,20 +326,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "modelstudioai/cli",
             "description": "Official Model Studio CLI\uff08\u963f\u91cc\u4e91\u767e\u70bc CLI\uff09built for AI Agent frameworks, exposing models, search, multimodal, and workflow capabilities as structured tool calls.",
             "url": "https://github.com/modelstudioai/cli",
-            "stars": 208,
+            "stars": 211,
             "forks": 10,
             "score": 38
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "mempalace-evolve",
-            "full_name": "a2328275243/mempalace-evolve",
-            "description": "Self-evolving memory palace for AI agents \u2014 persistent memory with automatic learning, knowledge graph, and multi-agent support",
-            "url": "https://github.com/a2328275243/mempalace-evolve",
-            "stars": 152,
-            "forks": 5,
-            "score": 35
         },
         {
             "main_cat": "AI",
@@ -673,5 +673,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-06-08 05:25"
+    "timestamp": "2026-06-08 10:24"
 };
