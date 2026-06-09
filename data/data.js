@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "pewdiepie-archdaemon/odysseus",
             "description": "Self-hosted AI workspace. ",
             "url": "https://github.com/pewdiepie-archdaemon/odysseus",
-            "stars": 65090,
-            "forks": 7992,
+            "stars": 65243,
+            "forks": 8019,
             "score": 99
         },
         {
@@ -18,8 +18,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "nexu-io/html-video",
             "description": "Programmatic video for coding agents \u2014 HTML to video on your laptop. Turn HTML, CSS & data into real MP4s with pluggable render engines, 21 templates, AI soundtrack. Apache-2.0, no per-render fees. An official project by the Open Design team.",
             "url": "https://github.com/nexu-io/html-video",
-            "stars": 2456,
-            "forks": 277,
+            "stars": 2468,
+            "forks": 279,
             "score": 99
         },
         {
@@ -40,7 +40,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "JimLiu/baoyu-design",
             "description": "Run Claude Design locally as an Agent Skill \u2014 Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/design. Best with Opus 4.8.",
             "url": "https://github.com/JimLiu/baoyu-design",
-            "stars": 619,
+            "stars": 626,
             "forks": 45,
             "score": 99
         },
@@ -51,20 +51,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "GordenSun/GordenSuperPPTSkills",
             "description": "AI PPT\u8d5b\u9053\u7ec8\u7ed3\u8005\uff0c\u53f2\u4e0a\u6700\u6700\u6700\u5f3a PPT Skill\uff01\uff01\uff01  \u4f7f\u7528GPT\u751f\u6210\u8c6a\u534e\u7684\u56fe\u7247\u683c\u5f0fPPT\uff0c\u7136\u540e\u8f6c\u6362\u4e3a\u5b8c\u5168\u53ef\u7f16\u8f91\u7684PPTX\u6587\u4ef6\u3002",
             "url": "https://github.com/GordenSun/GordenSuperPPTSkills",
-            "stars": 564,
-            "forks": 61,
+            "stars": 569,
+            "forks": 63,
             "score": 99
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "guard-skills",
-            "full_name": "amElnagdy/guard-skills",
-            "description": "Guard skills for coding agents, quality gates that catch AI-generated failure modes in code, tests, and docs",
-            "url": "https://github.com/amElnagdy/guard-skills",
-            "stars": 500,
-            "forks": 58,
-            "score": 91
         },
         {
             "main_cat": "AI",
@@ -73,9 +62,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "xiaohuailabs/xiaohu-video-translate",
             "description": "\u5bf9 AI \u8bf4\u4e00\u53e5\u8bdd\uff0c\u628a\u5916\u8bed\u89c6\u9891\u81ea\u52a8\u914d\u4e0a\u4e2d\u6587\u5b57\u5e55 \u2014\u2014 \u4e0b\u8f7d/\u8f6c\u5199/\u7ffb\u8bd1/\u6da6\u8272/\u70e7\u5f55\u4e00\u6761\u9f99\uff0c\u5168\u7a0b\u672c\u5730\uff0c\u8f6c\u5199\u96f6 API \u8d39",
             "url": "https://github.com/xiaohuailabs/xiaohu-video-translate",
-            "stars": 313,
-            "forks": 42,
-            "score": 90
+            "stars": 320,
+            "forks": 44,
+            "score": 92
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "guard-skills",
+            "full_name": "amElnagdy/guard-skills",
+            "description": "Guard skills for coding agents, quality gates that catch AI-generated failure modes in code, tests, and docs",
+            "url": "https://github.com/amElnagdy/guard-skills",
+            "stars": 507,
+            "forks": 58,
+            "score": 91
         },
         {
             "main_cat": "AI",
@@ -91,24 +91,24 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "wayland",
-            "full_name": "FerroxLabs/wayland",
-            "description": "Wayland - The AI Agent That Perceives. Reasons. Acts. Evolves.",
-            "url": "https://github.com/FerroxLabs/wayland",
-            "stars": 306,
-            "forks": 49,
-            "score": 71
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
             "name": "superlog",
             "full_name": "superloglabs/superlog",
             "description": "Open-source observability tool that uses AI agents to self-heal your software",
             "url": "https://github.com/superloglabs/superlog",
-            "stars": 584,
-            "forks": 34,
-            "score": 70
+            "stars": 628,
+            "forks": 35,
+            "score": 68
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "wayland",
+            "full_name": "FerroxLabs/wayland",
+            "description": "Wayland - The AI Agent That Perceives. Reasons. Acts. Evolves.",
+            "url": "https://github.com/FerroxLabs/wayland",
+            "stars": 319,
+            "forks": 49,
+            "score": 66
         },
         {
             "main_cat": "AI",
@@ -117,9 +117,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "apple/coreai-models",
             "description": "Model export recipes, Python primitives, and Swift runtime utilities for on-device AI",
             "url": "https://github.com/apple/coreai-models",
-            "stars": 252,
-            "forks": 5,
-            "score": 64
+            "stars": 271,
+            "forks": 6,
+            "score": 66
         },
         {
             "main_cat": "AI",
@@ -128,7 +128,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "liyue-aigc/female-portrait-director",
             "description": "A modular Codex Skill for directing and expanding detailed AI female portrait prompts.",
             "url": "https://github.com/liyue-aigc/female-portrait-director",
-            "stars": 536,
+            "stars": 542,
             "forks": 76,
             "score": 62
         },
@@ -139,8 +139,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "Mochocyang/QMAI",
             "description": "\u9752\u5e55AI\u5199\u4f5c\u8f6f\u4ef6\uff0c\u89e3\u51b3\u957f\u7bc7\u5c0f\u8bf4\u5199\u4f5c\u95ee\u9898\uff0c\u89e3\u51b3\u5c0f\u8bf4\u89d2\u8272\u6027\u683c\u4e0d\u7edf\u4e00\uff0c\u9632\u6b62\u4eba\u8bbe\u5d29\u574f\u3002",
             "url": "https://github.com/Mochocyang/QMAI",
-            "stars": 449,
-            "forks": 84,
+            "stars": 450,
+            "forks": 85,
             "score": 62
         },
         {
@@ -150,7 +150,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "razr001/align-dev",
             "description": "AlignDev helps AI-assisted frontend teams generate shared coding standards and SKILL.md so Claude Code, Codex, Cursor, Copilot, and other agents write consistently.",
             "url": "https://github.com/razr001/align-dev",
-            "stars": 353,
+            "stars": 354,
             "forks": 9,
             "score": 51
         },
@@ -201,17 +201,6 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "macos-app-skills",
-            "full_name": "fayazara/macos-app-skills",
-            "description": "AI coding agent skills for building, shipping, and maintaining native macOS apps",
-            "url": "https://github.com/fayazara/macos-app-skills",
-            "stars": 506,
-            "forks": 11,
-            "score": 48
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
             "name": "infiplot",
             "full_name": "zonghaoyuan/infiplot",
             "description": "InfiPlot is the world's first interactive plot game that AI generates all text and images in real-time. InfiPlot\u662f\u5168\u7403\u9996\u4e2a\u7531 AI \u5b9e\u65f6\u751f\u6210\u5168\u90e8\u56fe\u6587\u5185\u5bb9\u7684\u4ea4\u4e92\u5f0f\u5267\u60c5\u6e38\u620f",
@@ -222,14 +211,25 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
+            "sub_cat": null,
+            "name": "macos-app-skills",
+            "full_name": "fayazara/macos-app-skills",
+            "description": "AI coding agent skills for building, shipping, and maintaining native macOS apps",
+            "url": "https://github.com/fayazara/macos-app-skills",
+            "stars": 506,
+            "forks": 11,
+            "score": 47
+        },
+        {
+            "main_cat": "AI",
             "sub_cat": "AI General",
             "name": "UltraCode-Shim",
             "full_name": "OnlyTerp/UltraCode-Shim",
             "description": "Give Claude Code's ultracode mode to ANY model you already pay for. A tiny local proxy + one config.json. Point your AI at AGENTS.md and it sets itself up.",
             "url": "https://github.com/OnlyTerp/UltraCode-Shim",
-            "stars": 308,
+            "stars": 310,
             "forks": 23,
-            "score": 46
+            "score": 45
         },
         {
             "main_cat": "AI",
@@ -238,7 +238,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "johnbean393/KeyType",
             "description": "An open-source Cotypist with macOS system wide AI autocomplete",
             "url": "https://github.com/johnbean393/KeyType",
-            "stars": 290,
+            "stars": 292,
             "forks": 12,
             "score": 44
         },
@@ -249,7 +249,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "caezium/Burrow",
             "description": "A free, open-source mole.fit \u2014 a native macOS GUI for the Mole CLI (mo): clean, uninstall, optimize, analyze disk, and watch live status. Plus long-range history + an MCP server for AI agents",
             "url": "https://github.com/caezium/Burrow",
-            "stars": 248,
+            "stars": 252,
             "forks": 19,
             "score": 43
         },
@@ -266,6 +266,17 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "MineEcho",
+            "full_name": "Health-Yang/MineEcho",
+            "description": "Local-first Memory OS for personal AI assistants with L0-L3 memory, Wiki++ knowledge, skill routing, and TokenLess context compression.",
+            "url": "https://github.com/Health-Yang/MineEcho",
+            "stars": 236,
+            "forks": 24,
+            "score": 41
+        },
+        {
+            "main_cat": "AI",
             "sub_cat": null,
             "name": "CapC-Pro-2",
             "full_name": "gerardapennant96075336582/CapC-Pro-2",
@@ -273,17 +284,6 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/gerardapennant96075336582/CapC-Pro-2",
             "stars": 256,
             "forks": 0,
-            "score": 40
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "MineEcho",
-            "full_name": "Health-Yang/MineEcho",
-            "description": "Local-first Memory OS for personal AI assistants with L0-L3 memory, Wiki++ knowledge, skill routing, and TokenLess context compression.",
-            "url": "https://github.com/Health-Yang/MineEcho",
-            "stars": 233,
-            "forks": 24,
             "score": 40
         },
         {
@@ -304,7 +304,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "modelstudioai/cli",
             "description": "Official Model Studio CLI\uff08\u963f\u91cc\u4e91\u767e\u70bc CLI\uff09built for AI Agent frameworks, exposing models, search, multimodal, and workflow capabilities as structured tool calls.",
             "url": "https://github.com/modelstudioai/cli",
-            "stars": 215,
+            "stars": 216,
             "forks": 11,
             "score": 38
         },
@@ -315,7 +315,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "exon-research/genomi",
             "description": "An open-source agent harness that turns your AI agent into your personal DNA expert",
             "url": "https://github.com/exon-research/genomi",
-            "stars": 167,
+            "stars": 170,
             "forks": 15,
             "score": 38
         },
@@ -606,12 +606,12 @@ const ALPHA_DATA_V2 = {
             "score": 30
         },
         {
-            "main_cat": "Stablecoin Infrastructure",
-            "sub_cat": null,
-            "name": "anchorvault",
-            "full_name": "shriyashsoni/anchorvault",
-            "description": "AnchorVault is a production-grade, decentralized liquidity protocol built on the Stellar Soroban Smart Contract Platform. It bridges Liquidity Providers (LPs) with authorized off-ramp payment anchors to facilitate instant, cross-border remittances. LPs lock stablecoin reserves",
-            "url": "https://github.com/shriyashsoni/anchorvault",
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "tieout",
+            "full_name": "jorge-j1m/tieout",
+            "description": "Open-source payments reconciliation engine. Tieout ingests money records from every system they live in \u2014 your ledger, payment processors, banks, stablecoin rails \u2014 normalizes them into one model, matches them against each other, and surfaces the transactions it can't explain. Every run and every decision is recorded immutably.",
+            "url": "https://github.com/jorge-j1m/tieout",
             "stars": 0,
             "forks": 0,
             "score": 30
@@ -623,17 +623,6 @@ const ALPHA_DATA_V2 = {
             "full_name": "m-velikov/cpp-quick-start-mcp",
             "description": "A Model Context Protocol (MCP) server that equips any  AI agent with the ability to expertly scaffold cross-platform C++ projects",
             "url": "https://github.com/m-velikov/cpp-quick-start-mcp",
-            "stars": 1,
-            "forks": 0,
-            "score": 30
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "CapturePort",
-            "full_name": "wyrtensi/CapturePort",
-            "description": "CapturePort is a secure, cross-platform media and capture bridge linking Android devices to your desktop environment (Windows, macOS, Linux). It includes a built-in Model Context Protocol (MCP) server, enabling real-time visual streams and clipboard synchronization directly inside agent-driven local IDEs and assistants.",
-            "url": "https://github.com/wyrtensi/CapturePort",
             "stars": 1,
             "forks": 0,
             "score": 30
@@ -750,5 +739,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-06-09 17:20"
+    "timestamp": "2026-06-09 20:00"
 };
