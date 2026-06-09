@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "pewdiepie-archdaemon/odysseus",
             "description": "Self-hosted AI workspace. ",
             "url": "https://github.com/pewdiepie-archdaemon/odysseus",
-            "stars": 65369,
-            "forks": 8045,
+            "stars": 65443,
+            "forks": 8049,
             "score": 99
         },
         {
@@ -18,8 +18,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "nexu-io/html-video",
             "description": "Programmatic video for coding agents \u2014 HTML to video on your laptop. Turn HTML, CSS & data into real MP4s with pluggable render engines, 21 templates, AI soundtrack. Apache-2.0, no per-render fees. An official project by the Open Design team.",
             "url": "https://github.com/nexu-io/html-video",
-            "stars": 2471,
-            "forks": 279,
+            "stars": 2479,
+            "forks": 282,
             "score": 99
         },
         {
@@ -40,7 +40,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "JimLiu/baoyu-design",
             "description": "Run Claude Design locally as an Agent Skill \u2014 Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/design. Best with Opus 4.8.",
             "url": "https://github.com/JimLiu/baoyu-design",
-            "stars": 628,
+            "stars": 630,
             "forks": 46,
             "score": 99
         },
@@ -51,20 +51,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "GordenSun/GordenSuperPPTSkills",
             "description": "AI PPT\u8d5b\u9053\u7ec8\u7ed3\u8005\uff0c\u53f2\u4e0a\u6700\u6700\u6700\u5f3a PPT Skill\uff01\uff01\uff01  \u4f7f\u7528GPT\u751f\u6210\u8c6a\u534e\u7684\u56fe\u7247\u683c\u5f0fPPT\uff0c\u7136\u540e\u8f6c\u6362\u4e3a\u5b8c\u5168\u53ef\u7f16\u8f91\u7684PPTX\u6587\u4ef6\u3002",
             "url": "https://github.com/GordenSun/GordenSuperPPTSkills",
-            "stars": 572,
+            "stars": 579,
             "forks": 63,
             "score": 99
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "guard-skills",
-            "full_name": "amElnagdy/guard-skills",
-            "description": "Guard skills for coding agents, quality gates that catch AI-generated failure modes in code, tests, and docs",
-            "url": "https://github.com/amElnagdy/guard-skills",
-            "stars": 510,
-            "forks": 59,
-            "score": 92
         },
         {
             "main_cat": "AI",
@@ -73,8 +62,19 @@ const ALPHA_DATA_V2 = {
             "full_name": "xiaohuailabs/xiaohu-video-translate",
             "description": "\u5bf9 AI \u8bf4\u4e00\u53e5\u8bdd\uff0c\u628a\u5916\u8bed\u89c6\u9891\u81ea\u52a8\u914d\u4e0a\u4e2d\u6587\u5b57\u5e55 \u2014\u2014 \u4e0b\u8f7d/\u8f6c\u5199/\u7ffb\u8bd1/\u6da6\u8272/\u70e7\u5f55\u4e00\u6761\u9f99\uff0c\u5168\u7a0b\u672c\u5730\uff0c\u8f6c\u5199\u96f6 API \u8d39",
             "url": "https://github.com/xiaohuailabs/xiaohu-video-translate",
-            "stars": 323,
-            "forks": 44,
+            "stars": 329,
+            "forks": 45,
+            "score": 93
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "guard-skills",
+            "full_name": "amElnagdy/guard-skills",
+            "description": "Guard skills for coding agents, quality gates that catch AI-generated failure modes in code, tests, and docs",
+            "url": "https://github.com/amElnagdy/guard-skills",
+            "stars": 512,
+            "forks": 59,
             "score": 92
         },
         {
@@ -95,9 +95,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "apple/coreai-models",
             "description": "Model export recipes, Python primitives, and Swift runtime utilities for on-device AI",
             "url": "https://github.com/apple/coreai-models",
-            "stars": 306,
-            "forks": 8,
-            "score": 72
+            "stars": 329,
+            "forks": 10,
+            "score": 76
         },
         {
             "main_cat": "AI",
@@ -106,7 +106,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "superloglabs/superlog",
             "description": "Open-source observability tool that uses AI agents to self-heal your software",
             "url": "https://github.com/superloglabs/superlog",
-            "stars": 643,
+            "stars": 654,
             "forks": 35,
             "score": 69
         },
@@ -117,7 +117,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "FerroxLabs/wayland",
             "description": "Wayland - The AI Agent That Perceives. Reasons. Acts. Evolves.",
             "url": "https://github.com/FerroxLabs/wayland",
-            "stars": 322,
+            "stars": 323,
             "forks": 50,
             "score": 67
         },
@@ -128,7 +128,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "liyue-aigc/female-portrait-director",
             "description": "A modular Codex Skill for directing and expanding detailed AI female portrait prompts.",
             "url": "https://github.com/liyue-aigc/female-portrait-director",
-            "stars": 543,
+            "stars": 548,
             "forks": 76,
             "score": 62
         },
@@ -161,7 +161,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "yb2460/harness-anything",
             "description": "Harness Anything - AI agent control hub: WPS, MS Office, Zotero, Photoshop, 47 CLI commands, 27 academic skills, SVG-to-PPTX",
             "url": "https://github.com/yb2460/harness-anything",
-            "stars": 543,
+            "stars": 544,
             "forks": 27,
             "score": 50
         },
@@ -194,9 +194,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "trynullsec/nullsec-s1",
             "description": "Security-native LLM system for AI-generated application security.",
             "url": "https://github.com/trynullsec/nullsec-s1",
-            "stars": 255,
+            "stars": 256,
             "forks": 71,
-            "score": 49
+            "score": 48
         },
         {
             "main_cat": "AI",
@@ -238,7 +238,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "johnbean393/KeyType",
             "description": "An open-source Cotypist with macOS system wide AI autocomplete",
             "url": "https://github.com/johnbean393/KeyType",
-            "stars": 293,
+            "stars": 294,
             "forks": 12,
             "score": 44
         },
@@ -271,7 +271,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Health-Yang/MineEcho",
             "description": "Local-first Memory OS for personal AI assistants with L0-L3 memory, Wiki++ knowledge, skill routing, and TokenLess context compression.",
             "url": "https://github.com/Health-Yang/MineEcho",
-            "stars": 237,
+            "stars": 240,
             "forks": 25,
             "score": 41
         },
@@ -288,17 +288,6 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
-            "sub_cat": null,
-            "name": "science-superpowers",
-            "full_name": "K-Dense-AI/science-superpowers",
-            "description": "Composable computational-science methodology skills for AI research agents \u2014 pre-registration over TDD. A science-domain reimplementation of Superpowers.",
-            "url": "https://github.com/K-Dense-AI/science-superpowers",
-            "stars": 197,
-            "forks": 17,
-            "score": 39
-        },
-        {
-            "main_cat": "AI",
             "sub_cat": "Agent Frameworks",
             "name": "cli",
             "full_name": "modelstudioai/cli",
@@ -311,12 +300,23 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
+            "name": "science-superpowers",
+            "full_name": "K-Dense-AI/science-superpowers",
+            "description": "Composable computational-science methodology skills for AI research agents \u2014 pre-registration over TDD. A science-domain reimplementation of Superpowers.",
+            "url": "https://github.com/K-Dense-AI/science-superpowers",
+            "stars": 197,
+            "forks": 17,
+            "score": 38
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
             "name": "genomi",
             "full_name": "exon-research/genomi",
             "description": "An open-source agent harness that turns your AI agent into your personal DNA expert",
             "url": "https://github.com/exon-research/genomi",
-            "stars": 172,
-            "forks": 16,
+            "stars": 173,
+            "forks": 17,
             "score": 38
         },
         {
@@ -728,5 +728,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-06-09 21:52"
+    "timestamp": "2026-06-09 23:14"
 };
