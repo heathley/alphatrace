@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "pewdiepie-archdaemon/odysseus",
             "description": "Self-hosted AI workspace. ",
             "url": "https://github.com/pewdiepie-archdaemon/odysseus",
-            "stars": 65243,
-            "forks": 8019,
+            "stars": 65369,
+            "forks": 8045,
             "score": 99
         },
         {
@@ -18,7 +18,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "nexu-io/html-video",
             "description": "Programmatic video for coding agents \u2014 HTML to video on your laptop. Turn HTML, CSS & data into real MP4s with pluggable render engines, 21 templates, AI soundtrack. Apache-2.0, no per-render fees. An official project by the Open Design team.",
             "url": "https://github.com/nexu-io/html-video",
-            "stars": 2468,
+            "stars": 2471,
             "forks": 279,
             "score": 99
         },
@@ -40,8 +40,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "JimLiu/baoyu-design",
             "description": "Run Claude Design locally as an Agent Skill \u2014 Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/design. Best with Opus 4.8.",
             "url": "https://github.com/JimLiu/baoyu-design",
-            "stars": 626,
-            "forks": 45,
+            "stars": 628,
+            "forks": 46,
             "score": 99
         },
         {
@@ -51,20 +51,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "GordenSun/GordenSuperPPTSkills",
             "description": "AI PPT\u8d5b\u9053\u7ec8\u7ed3\u8005\uff0c\u53f2\u4e0a\u6700\u6700\u6700\u5f3a PPT Skill\uff01\uff01\uff01  \u4f7f\u7528GPT\u751f\u6210\u8c6a\u534e\u7684\u56fe\u7247\u683c\u5f0fPPT\uff0c\u7136\u540e\u8f6c\u6362\u4e3a\u5b8c\u5168\u53ef\u7f16\u8f91\u7684PPTX\u6587\u4ef6\u3002",
             "url": "https://github.com/GordenSun/GordenSuperPPTSkills",
-            "stars": 569,
+            "stars": 572,
             "forks": 63,
             "score": 99
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "xiaohu-video-translate",
-            "full_name": "xiaohuailabs/xiaohu-video-translate",
-            "description": "\u5bf9 AI \u8bf4\u4e00\u53e5\u8bdd\uff0c\u628a\u5916\u8bed\u89c6\u9891\u81ea\u52a8\u914d\u4e0a\u4e2d\u6587\u5b57\u5e55 \u2014\u2014 \u4e0b\u8f7d/\u8f6c\u5199/\u7ffb\u8bd1/\u6da6\u8272/\u70e7\u5f55\u4e00\u6761\u9f99\uff0c\u5168\u7a0b\u672c\u5730\uff0c\u8f6c\u5199\u96f6 API \u8d39",
-            "url": "https://github.com/xiaohuailabs/xiaohu-video-translate",
-            "stars": 320,
-            "forks": 44,
-            "score": 92
         },
         {
             "main_cat": "AI",
@@ -73,9 +62,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "amElnagdy/guard-skills",
             "description": "Guard skills for coding agents, quality gates that catch AI-generated failure modes in code, tests, and docs",
             "url": "https://github.com/amElnagdy/guard-skills",
-            "stars": 507,
-            "forks": 58,
-            "score": 91
+            "stars": 510,
+            "forks": 59,
+            "score": 92
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "xiaohu-video-translate",
+            "full_name": "xiaohuailabs/xiaohu-video-translate",
+            "description": "\u5bf9 AI \u8bf4\u4e00\u53e5\u8bdd\uff0c\u628a\u5916\u8bed\u89c6\u9891\u81ea\u52a8\u914d\u4e0a\u4e2d\u6587\u5b57\u5e55 \u2014\u2014 \u4e0b\u8f7d/\u8f6c\u5199/\u7ffb\u8bd1/\u6da6\u8272/\u70e7\u5f55\u4e00\u6761\u9f99\uff0c\u5168\u7a0b\u672c\u5730\uff0c\u8f6c\u5199\u96f6 API \u8d39",
+            "url": "https://github.com/xiaohuailabs/xiaohu-video-translate",
+            "stars": 323,
+            "forks": 44,
+            "score": 92
         },
         {
             "main_cat": "AI",
@@ -90,14 +90,25 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "coreai-models",
+            "full_name": "apple/coreai-models",
+            "description": "Model export recipes, Python primitives, and Swift runtime utilities for on-device AI",
+            "url": "https://github.com/apple/coreai-models",
+            "stars": 306,
+            "forks": 8,
+            "score": 72
+        },
+        {
+            "main_cat": "AI",
             "sub_cat": null,
             "name": "superlog",
             "full_name": "superloglabs/superlog",
             "description": "Open-source observability tool that uses AI agents to self-heal your software",
             "url": "https://github.com/superloglabs/superlog",
-            "stars": 628,
+            "stars": 643,
             "forks": 35,
-            "score": 68
+            "score": 69
         },
         {
             "main_cat": "AI",
@@ -106,20 +117,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "FerroxLabs/wayland",
             "description": "Wayland - The AI Agent That Perceives. Reasons. Acts. Evolves.",
             "url": "https://github.com/FerroxLabs/wayland",
-            "stars": 319,
-            "forks": 49,
-            "score": 66
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "coreai-models",
-            "full_name": "apple/coreai-models",
-            "description": "Model export recipes, Python primitives, and Swift runtime utilities for on-device AI",
-            "url": "https://github.com/apple/coreai-models",
-            "stars": 271,
-            "forks": 6,
-            "score": 66
+            "stars": 322,
+            "forks": 50,
+            "score": 67
         },
         {
             "main_cat": "AI",
@@ -128,7 +128,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "liyue-aigc/female-portrait-director",
             "description": "A modular Codex Skill for directing and expanding detailed AI female portrait prompts.",
             "url": "https://github.com/liyue-aigc/female-portrait-director",
-            "stars": 542,
+            "stars": 543,
             "forks": 76,
             "score": 62
         },
@@ -139,7 +139,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Mochocyang/QMAI",
             "description": "\u9752\u5e55AI\u5199\u4f5c\u8f6f\u4ef6\uff0c\u89e3\u51b3\u957f\u7bc7\u5c0f\u8bf4\u5199\u4f5c\u95ee\u9898\uff0c\u89e3\u51b3\u5c0f\u8bf4\u89d2\u8272\u6027\u683c\u4e0d\u7edf\u4e00\uff0c\u9632\u6b62\u4eba\u8bbe\u5d29\u574f\u3002",
             "url": "https://github.com/Mochocyang/QMAI",
-            "stars": 450,
+            "stars": 451,
             "forks": 85,
             "score": 62
         },
@@ -161,7 +161,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "yb2460/harness-anything",
             "description": "Harness Anything - AI agent control hub: WPS, MS Office, Zotero, Photoshop, 47 CLI commands, 27 academic skills, SVG-to-PPTX",
             "url": "https://github.com/yb2460/harness-anything",
-            "stars": 542,
+            "stars": 543,
             "forks": 27,
             "score": 50
         },
@@ -227,7 +227,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "OnlyTerp/UltraCode-Shim",
             "description": "Give Claude Code's ultracode mode to ANY model you already pay for. A tiny local proxy + one config.json. Point your AI at AGENTS.md and it sets itself up.",
             "url": "https://github.com/OnlyTerp/UltraCode-Shim",
-            "stars": 310,
+            "stars": 311,
             "forks": 23,
             "score": 45
         },
@@ -238,7 +238,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "johnbean393/KeyType",
             "description": "An open-source Cotypist with macOS system wide AI autocomplete",
             "url": "https://github.com/johnbean393/KeyType",
-            "stars": 292,
+            "stars": 293,
             "forks": 12,
             "score": 44
         },
@@ -249,9 +249,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "caezium/Burrow",
             "description": "A free, open-source mole.fit \u2014 a native macOS GUI for the Mole CLI (mo): clean, uninstall, optimize, analyze disk, and watch live status. Plus long-range history + an MCP server for AI agents",
             "url": "https://github.com/caezium/Burrow",
-            "stars": 252,
-            "forks": 19,
-            "score": 43
+            "stars": 253,
+            "forks": 21,
+            "score": 44
         },
         {
             "main_cat": "AI",
@@ -271,8 +271,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "Health-Yang/MineEcho",
             "description": "Local-first Memory OS for personal AI assistants with L0-L3 memory, Wiki++ knowledge, skill routing, and TokenLess context compression.",
             "url": "https://github.com/Health-Yang/MineEcho",
-            "stars": 236,
-            "forks": 24,
+            "stars": 237,
+            "forks": 25,
             "score": 41
         },
         {
@@ -315,8 +315,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "exon-research/genomi",
             "description": "An open-source agent harness that turns your AI agent into your personal DNA expert",
             "url": "https://github.com/exon-research/genomi",
-            "stars": 170,
-            "forks": 15,
+            "stars": 172,
+            "forks": 16,
             "score": 38
         },
         {
@@ -414,17 +414,6 @@ const ALPHA_DATA_V2 = {
             "full_name": "KiarieDenis/WinDrawWin-Accuracy-Tracker",
             "description": "This repository contains a suite of scripts that ingest prediction data, compute betting scores, and generate high\u2011odds betting recommendation reports. It also tracks prediction accuracy over time.",
             "url": "https://github.com/KiarieDenis/WinDrawWin-Accuracy-Tracker",
-            "stars": 0,
-            "forks": 0,
-            "score": 30
-        },
-        {
-            "main_cat": "Prediction Markets",
-            "sub_cat": null,
-            "name": "worldcup-prediction-lottery",
-            "full_name": "Oyetundequ/worldcup-prediction-lottery",
-            "description": "World Cup Prediction Lottery on X Layer - Decentralized betting for World Cup matches. Built for OKX X Layer Hackathon 2026",
-            "url": "https://github.com/Oyetundequ/worldcup-prediction-lottery",
             "stars": 0,
             "forks": 0,
             "score": 30
@@ -618,6 +607,17 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
+            "sub_cat": "AI Agents",
+            "name": "code-explorer",
+            "full_name": "vmikhailov/code-explorer",
+            "description": "Ontology-driven codebase indexer and query service. Parses C#, TypeScript/JS, Go, Python, and SQL into a Memgraph graph database. Exposes Model Context Protocol (MCP) tools for AI agents to perform deep static analysis, cross-project call-graph tracing, and data lineage mapping.",
+            "url": "https://github.com/vmikhailov/code-explorer",
+            "stars": 2,
+            "forks": 0,
+            "score": 30
+        },
+        {
+            "main_cat": "AI",
             "sub_cat": "AI General",
             "name": "cpp-quick-start-mcp",
             "full_name": "m-velikov/cpp-quick-start-mcp",
@@ -634,17 +634,6 @@ const ALPHA_DATA_V2 = {
             "full_name": "SarthakDhatrak/deploycheck",
             "description": "An autonomous AI Site Reliability Engineer (SRE) built as a Model Context Protocol (MCP) server. It plugs into your IDE to analyze deployments, detect drifts, and automatically diagnose crash logs by cross-referencing your Git history.",
             "url": "https://github.com/SarthakDhatrak/deploycheck",
-            "stars": 1,
-            "forks": 0,
-            "score": 30
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI Agents",
-            "name": "code-explorer",
-            "full_name": "vmikhailov/code-explorer",
-            "description": "Ontology-driven codebase indexer and query service. Parses C#, TypeScript/JS, Go, Python, and SQL into a Memgraph graph database. Exposes Model Context Protocol (MCP) tools for AI agents to perform deep static analysis, cross-project call-graph tracing, and data lineage mapping.",
-            "url": "https://github.com/vmikhailov/code-explorer",
             "stars": 1,
             "forks": 0,
             "score": 30
@@ -739,5 +728,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-06-09 20:00"
+    "timestamp": "2026-06-09 21:52"
 };
