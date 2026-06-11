@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "pewdiepie-archdaemon/odysseus",
             "description": "Self-hosted AI workspace. ",
             "url": "https://github.com/pewdiepie-archdaemon/odysseus",
-            "stars": 68022,
-            "forks": 8518,
+            "stars": 68202,
+            "forks": 8544,
             "score": 99
         },
         {
@@ -18,7 +18,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "GordenSun/GordenSuperPPTSkills",
             "description": "AI PPT\u8d5b\u9053\u7ec8\u7ed3\u8005\uff0c\u53f2\u4e0a\u6700\u6700\u6700\u5f3a PPT Skill\uff01\uff01\uff01  \u4f7f\u7528GPT\u751f\u6210\u8c6a\u534e\u7684\u56fe\u7247\u683c\u5f0fPPT\uff0c\u7136\u540e\u8f6c\u6362\u4e3a\u5b8c\u5168\u53ef\u7f16\u8f91\u7684PPTX\u6587\u4ef6\u3002",
             "url": "https://github.com/GordenSun/GordenSuperPPTSkills",
-            "stars": 777,
+            "stars": 780,
             "forks": 81,
             "score": 99
         },
@@ -29,7 +29,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "JimLiu/baoyu-design",
             "description": "Run Claude Design locally as an Agent Skill \u2014 Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/design. Best with Opus 4.8.",
             "url": "https://github.com/JimLiu/baoyu-design",
-            "stars": 763,
+            "stars": 765,
             "forks": 58,
             "score": 99
         },
@@ -40,8 +40,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "apple/coreai-models",
             "description": "Model export recipes, Python primitives, and Swift runtime utilities for on-device AI",
             "url": "https://github.com/apple/coreai-models",
-            "stars": 697,
-            "forks": 45,
+            "stars": 710,
+            "forks": 48,
             "score": 99
         },
         {
@@ -51,7 +51,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "xiaohuailabs/xiaohu-video-translate",
             "description": "\u5bf9 AI \u8bf4\u4e00\u53e5\u8bdd\uff0c\u628a\u5916\u8bed\u89c6\u9891\u81ea\u52a8\u914d\u4e0a\u4e2d\u6587\u5b57\u5e55 \u2014\u2014 \u4e0b\u8f7d/\u8f6c\u5199/\u7ffb\u8bd1/\u6da6\u8272/\u70e7\u5f55\u4e00\u6761\u9f99\uff0c\u5168\u7a0b\u672c\u5730\uff0c\u8f6c\u5199\u96f6 API \u8d39",
             "url": "https://github.com/xiaohuailabs/xiaohu-video-translate",
-            "stars": 462,
+            "stars": 463,
             "forks": 71,
             "score": 92
         },
@@ -62,9 +62,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "amElnagdy/guard-skills",
             "description": "Guard skills for coding agents, quality gates that catch AI-generated failure modes in code, tests, and docs",
             "url": "https://github.com/amElnagdy/guard-skills",
-            "stars": 567,
+            "stars": 568,
             "forks": 63,
-            "score": 88
+            "score": 81
         },
         {
             "main_cat": "AI",
@@ -73,9 +73,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "superloglabs/superlog",
             "description": "Open-source observability tool that uses AI agents to self-heal your software",
             "url": "https://github.com/superloglabs/superlog",
-            "stars": 760,
+            "stars": 764,
             "forks": 40,
-            "score": 71
+            "score": 68
         },
         {
             "main_cat": "AI",
@@ -84,19 +84,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "caezium/Burrow",
             "description": "A free, open-source, native macOS GUI for the Mole CLI (mo): clean, uninstall, optimize, analyze disk, and watch live status. Plus long-range history + an MCP server for AI agents.",
             "url": "https://github.com/caezium/Burrow",
-            "stars": 570,
-            "forks": 125,
-            "score": 68
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "wayland",
-            "full_name": "FerroxLabs/wayland",
-            "description": "Wayland - The AI Agent That Perceives. Reasons. Acts. Evolves.",
-            "url": "https://github.com/FerroxLabs/wayland",
-            "stars": 380,
-            "forks": 57,
+            "stars": 574,
+            "forks": 126,
             "score": 68
         },
         {
@@ -106,7 +95,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "ziqihe10-droid/xuefeng-agent",
             "description": "AI \u9ad8\u8003\u5fd7\u613f\u987e\u95ee \u2014 \u4f1a\u8ffd\u95ee\u3001\u4f1a\u5206\u6790\u3001\u6562\u8bf4\u771f\u8bdd",
             "url": "https://github.com/ziqihe10-droid/xuefeng-agent",
-            "stars": 347,
+            "stars": 348,
             "forks": 49,
             "score": 68
         },
@@ -124,12 +113,23 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
+            "name": "wayland",
+            "full_name": "FerroxLabs/wayland",
+            "description": "Wayland - The AI Agent That Perceives. Reasons. Acts. Evolves.",
+            "url": "https://github.com/FerroxLabs/wayland",
+            "stars": 381,
+            "forks": 57,
+            "score": 63
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
             "name": "QMAI",
             "full_name": "Mochocyang/QMAI",
             "description": "\u9752\u5e55AI\u5199\u4f5c\u8f6f\u4ef6\uff0c\u89e3\u51b3\u957f\u7bc7\u5c0f\u8bf4\u5199\u4f5c\u95ee\u9898\uff0c\u89e3\u51b3\u5c0f\u8bf4\u89d2\u8272\u6027\u683c\u4e0d\u7edf\u4e00\uff0c\u9632\u6b62\u4eba\u8bbe\u5d29\u574f\u3002",
             "url": "https://github.com/Mochocyang/QMAI",
-            "stars": 489,
-            "forks": 97,
+            "stars": 491,
+            "forks": 98,
             "score": 61
         },
         {
@@ -139,9 +139,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "XBuilderLAB/cheat-on-money",
             "description": "AI \u65f6\u4ee3\u9760\u8c31\u517c\u804c\u53d1\u73b0 + \u53cd\u8bc8\u9a8c\u8bc1 skill\uff1a\u9700\u6c42\u4fe1\u53f7\u53cd\u63a8 + \u5b9e\u65f6\u65f6\u6548\u6838\u67e5 + \u53cd\u8bc8 rubric + \u4e2a\u6027\u5316\u6821\u51c6\u73af",
             "url": "https://github.com/XBuilderLAB/cheat-on-money",
-            "stars": 219,
-            "forks": 25,
-            "score": 56
+            "stars": 222,
+            "forks": 26,
+            "score": 57
         },
         {
             "main_cat": "AI",
@@ -183,7 +183,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "DannyMac180/skills",
             "description": "AI agent skills created by me: Dan McAteer",
             "url": "https://github.com/DannyMac180/skills",
-            "stars": 436,
+            "stars": 437,
             "forks": 34,
             "score": 47
         },
@@ -194,7 +194,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "duncatzat/vigils",
             "description": "A local control plane for AI agents \u2014 see what they do, approve what matters, keep secrets out. Rust + Tauri + Chrome MV3.",
             "url": "https://github.com/duncatzat/vigils",
-            "stars": 385,
+            "stars": 386,
             "forks": 24,
             "score": 47
         },
@@ -222,17 +222,6 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "UltraCode-Shim",
-            "full_name": "OnlyTerp/UltraCode-Shim",
-            "description": "Give Claude Code's ultracode mode to ANY model you already pay for. A tiny local proxy + one config.json. Point your AI at AGENTS.md and it sets itself up.",
-            "url": "https://github.com/OnlyTerp/UltraCode-Shim",
-            "stars": 321,
-            "forks": 26,
-            "score": 45
-        },
-        {
-            "main_cat": "AI",
             "sub_cat": null,
             "name": "concord",
             "full_name": "emollick/concord",
@@ -245,11 +234,22 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
+            "name": "UltraCode-Shim",
+            "full_name": "OnlyTerp/UltraCode-Shim",
+            "description": "Give Claude Code's ultracode mode to ANY model you already pay for. A tiny local proxy + one config.json. Point your AI at AGENTS.md and it sets itself up.",
+            "url": "https://github.com/OnlyTerp/UltraCode-Shim",
+            "stars": 322,
+            "forks": 26,
+            "score": 44
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
             "name": "awesome-free-models",
             "full_name": "12britz/awesome-free-models",
             "description": "A curated list of free AI models, APIs, and tools you can use without paying a cent.",
             "url": "https://github.com/12britz/awesome-free-models",
-            "stars": 177,
+            "stars": 180,
             "forks": 12,
             "score": 44
         },
@@ -304,7 +304,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "ferdinandobons/brand-docs",
             "description": "BrandDocs is a set of agent skills that learn your existing Word, PowerPoint and Excel templates and generate new on-brand documents from them. Unlike generic AI document generators, it preserves brand, structure, styles and formulas by construction. Built for Claude Code, Codex and compatible AI agents.",
             "url": "https://github.com/ferdinandobons/brand-docs",
-            "stars": 146,
+            "stars": 147,
             "forks": 13,
             "score": 41
         },
@@ -337,7 +337,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "john-rocky/coreai-model-zoo",
             "description": "Community model zoo + knowledge base for Apple Core AI (iOS/macOS 27): Qwen3.5 & Gemma 4 converted end-to-end, verified on-device (iPhone 17 Pro GPU/ANE), conversion gotchas, custom Metal kernels, Swift runner",
             "url": "https://github.com/john-rocky/coreai-model-zoo",
-            "stars": 32,
+            "stars": 34,
             "forks": 1,
             "score": 34
         },
@@ -586,6 +586,17 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
+            "name": "nexus-ai-flow",
+            "full_name": "vaibhavquantprojects/nexus-ai-flow",
+            "description": "A AI-agent routing protocol for secure, verifiable cross-chain crypto liquidity transitions using Ed25519-based cryptographic proof.\"",
+            "url": "https://github.com/vaibhavquantprojects/nexus-ai-flow",
+            "stars": 1,
+            "forks": 0,
+            "score": 30
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
             "name": "cpp-quick-start-mcp",
             "full_name": "m-velikov/cpp-quick-start-mcp",
             "description": "A Model Context Protocol (MCP) server that equips any  AI agent with the ability to expertly scaffold cross-platform C++ projects",
@@ -623,17 +634,6 @@ const ALPHA_DATA_V2 = {
             "full_name": "n8n-code/n8n-nodes-cow-protocol",
             "description": "CoW Protocol batch auction DEX aggregator with MEV protection for gasless, secure cross-chain token swaps.",
             "url": "https://github.com/n8n-code/n8n-nodes-cow-protocol",
-            "stars": 0,
-            "forks": 0,
-            "score": 30
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "nexus-ai-flow",
-            "full_name": "vaibhavquantprojects/nexus-ai-flow",
-            "description": "A AI-agent routing protocol for secure, verifiable cross-chain crypto liquidity transitions using Ed25519-based cryptographic proof.\"",
-            "url": "https://github.com/vaibhavquantprojects/nexus-ai-flow",
             "stars": 0,
             "forks": 0,
             "score": 30
@@ -706,5 +706,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-06-11 16:47"
+    "timestamp": "2026-06-11 19:30"
 };
