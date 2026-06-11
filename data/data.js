@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "pewdiepie-archdaemon/odysseus",
             "description": "Self-hosted AI workspace. ",
             "url": "https://github.com/pewdiepie-archdaemon/odysseus",
-            "stars": 68202,
-            "forks": 8544,
+            "stars": 68304,
+            "forks": 8565,
             "score": 99
         },
         {
@@ -40,7 +40,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "apple/coreai-models",
             "description": "Model export recipes, Python primitives, and Swift runtime utilities for on-device AI",
             "url": "https://github.com/apple/coreai-models",
-            "stars": 710,
+            "stars": 720,
             "forks": 48,
             "score": 99
         },
@@ -62,7 +62,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "amElnagdy/guard-skills",
             "description": "Guard skills for coding agents, quality gates that catch AI-generated failure modes in code, tests, and docs",
             "url": "https://github.com/amElnagdy/guard-skills",
-            "stars": 568,
+            "stars": 570,
             "forks": 63,
             "score": 81
         },
@@ -73,7 +73,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "superloglabs/superlog",
             "description": "Open-source observability tool that uses AI agents to self-heal your software",
             "url": "https://github.com/superloglabs/superlog",
-            "stars": 764,
+            "stars": 766,
             "forks": 40,
             "score": 68
         },
@@ -84,7 +84,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "caezium/Burrow",
             "description": "A free, open-source, native macOS GUI for the Mole CLI (mo): clean, uninstall, optimize, analyze disk, and watch live status. Plus long-range history + an MCP server for AI agents.",
             "url": "https://github.com/caezium/Burrow",
-            "stars": 574,
+            "stars": 575,
             "forks": 126,
             "score": 68
         },
@@ -102,6 +102,17 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
+            "name": "wayland",
+            "full_name": "FerroxLabs/wayland",
+            "description": "Wayland - The AI Agent That Perceives. Reasons. Acts. Evolves.",
+            "url": "https://github.com/FerroxLabs/wayland",
+            "stars": 385,
+            "forks": 57,
+            "score": 64
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
             "name": "female-portrait-director",
             "full_name": "liyue-aigc/female-portrait-director",
             "description": "A modular Codex Skill for directing and expanding detailed AI female portrait prompts.",
@@ -113,23 +124,12 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "wayland",
-            "full_name": "FerroxLabs/wayland",
-            "description": "Wayland - The AI Agent That Perceives. Reasons. Acts. Evolves.",
-            "url": "https://github.com/FerroxLabs/wayland",
-            "stars": 381,
-            "forks": 57,
-            "score": 63
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
             "name": "QMAI",
             "full_name": "Mochocyang/QMAI",
             "description": "\u9752\u5e55AI\u5199\u4f5c\u8f6f\u4ef6\uff0c\u89e3\u51b3\u957f\u7bc7\u5c0f\u8bf4\u5199\u4f5c\u95ee\u9898\uff0c\u89e3\u51b3\u5c0f\u8bf4\u89d2\u8272\u6027\u683c\u4e0d\u7edf\u4e00\uff0c\u9632\u6b62\u4eba\u8bbe\u5d29\u574f\u3002",
             "url": "https://github.com/Mochocyang/QMAI",
-            "stars": 491,
-            "forks": 98,
+            "stars": 490,
+            "forks": 97,
             "score": 61
         },
         {
@@ -161,7 +161,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "techjarves/Local-AI-Image-Generator",
             "description": "A fully self-contained, offline AI image generation studio for Windows. Runs Stable Diffusion (Safetensors/GGUF) locally with zero manual setup. Auto-configures CUDA for Nvidia GPUs and Vulkan for AMD/Intel Arc cards. Zero system-wide dependencies required.",
             "url": "https://github.com/techjarves/Local-AI-Image-Generator",
-            "stars": 180,
+            "stars": 181,
             "forks": 63,
             "score": 51
         },
@@ -227,8 +227,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "emollick/concord",
             "description": "Instrument-grade qualitative text analysis: AI-coded corpora, gold calibration, DSL/PPI-corrected statistics, Evidence Ladder",
             "url": "https://github.com/emollick/concord",
-            "stars": 150,
-            "forks": 15,
+            "stars": 151,
+            "forks": 17,
             "score": 45
         },
         {
@@ -238,7 +238,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "OnlyTerp/UltraCode-Shim",
             "description": "Give Claude Code's ultracode mode to ANY model you already pay for. A tiny local proxy + one config.json. Point your AI at AGENTS.md and it sets itself up.",
             "url": "https://github.com/OnlyTerp/UltraCode-Shim",
-            "stars": 322,
+            "stars": 323,
             "forks": 26,
             "score": 44
         },
@@ -249,8 +249,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "12britz/awesome-free-models",
             "description": "A curated list of free AI models, APIs, and tools you can use without paying a cent.",
             "url": "https://github.com/12britz/awesome-free-models",
-            "stars": 180,
-            "forks": 12,
+            "stars": 182,
+            "forks": 13,
             "score": 44
         },
         {
@@ -278,23 +278,23 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "agentpet",
-            "full_name": "ntd4996/agentpet",
-            "description": "A native macOS menu bar app with a desktop pet that monitors your AI coding agents (Claude Code, Codex, Gemini CLI) in real time.",
-            "url": "https://github.com/ntd4996/agentpet",
-            "stars": 194,
-            "forks": 36,
-            "score": 42
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
             "name": "mnemo",
             "full_name": "zaydmulani09/mnemo",
             "description": "Local-first AI memory layer for any LLM. Persistent knowledge graph, entity extraction, semantic retrieval. Works with Ollama, OpenAI, Anthropic, or any OpenAI-compatible backend.",
             "url": "https://github.com/zaydmulani09/mnemo",
-            "stars": 210,
+            "stars": 212,
             "forks": 8,
+            "score": 41
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "agentpet",
+            "full_name": "ntd4996/agentpet",
+            "description": "A native macOS menu bar app with a desktop pet that monitors your AI coding agents (Claude Code, Codex, Gemini CLI) in real time.",
+            "url": "https://github.com/ntd4996/agentpet",
+            "stars": 193,
+            "forks": 35,
             "score": 41
         },
         {
@@ -304,7 +304,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "ferdinandobons/brand-docs",
             "description": "BrandDocs is a set of agent skills that learn your existing Word, PowerPoint and Excel templates and generate new on-brand documents from them. Unlike generic AI document generators, it preserves brand, structure, styles and formulas by construction. Built for Claude Code, Codex and compatible AI agents.",
             "url": "https://github.com/ferdinandobons/brand-docs",
-            "stars": 147,
+            "stars": 148,
             "forks": 13,
             "score": 41
         },
@@ -337,9 +337,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "john-rocky/coreai-model-zoo",
             "description": "Community model zoo + knowledge base for Apple Core AI (iOS/macOS 27): Qwen3.5 & Gemma 4 converted end-to-end, verified on-device (iPhone 17 Pro GPU/ANE), conversion gotchas, custom Metal kernels, Swift runner",
             "url": "https://github.com/john-rocky/coreai-model-zoo",
-            "stars": 34,
+            "stars": 38,
+            "forks": 2,
+            "score": 35
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "Rivus",
+            "full_name": "caokai1073/Rivus",
+            "description": "Your personal knowledge base powered by local AI. Ingest anything, ask anything \u2014 fully offline with Ollama or cloud models.",
+            "url": "https://github.com/caokai1073/Rivus",
+            "stars": 6,
             "forks": 1,
-            "score": 34
+            "score": 31
         },
         {
             "main_cat": "AI",
@@ -706,5 +717,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-06-11 19:30"
+    "timestamp": "2026-06-11 21:55"
 };
