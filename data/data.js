@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "pewdiepie-archdaemon/odysseus",
             "description": "Self-hosted AI workspace. ",
             "url": "https://github.com/pewdiepie-archdaemon/odysseus",
-            "stars": 68365,
-            "forks": 8577,
+            "stars": 68473,
+            "forks": 8597,
             "score": 99
         },
         {
@@ -18,19 +18,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "GordenSun/GordenSuperPPTSkills",
             "description": "AI PPT\u8d5b\u9053\u7ec8\u7ed3\u8005\uff0c\u53f2\u4e0a\u6700\u6700\u6700\u5f3a PPT Skill\uff01\uff01\uff01  \u4f7f\u7528GPT\u751f\u6210\u8c6a\u534e\u7684\u56fe\u7247\u683c\u5f0fPPT\uff0c\u7136\u540e\u8f6c\u6362\u4e3a\u5b8c\u5168\u53ef\u7f16\u8f91\u7684PPTX\u6587\u4ef6\u3002",
             "url": "https://github.com/GordenSun/GordenSuperPPTSkills",
-            "stars": 780,
-            "forks": 81,
-            "score": 99
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "baoyu-design",
-            "full_name": "JimLiu/baoyu-design",
-            "description": "Run Claude Design locally as an Agent Skill \u2014 Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/design. Best with Opus 4.8.",
-            "url": "https://github.com/JimLiu/baoyu-design",
-            "stars": 767,
-            "forks": 58,
+            "stars": 793,
+            "forks": 82,
             "score": 99
         },
         {
@@ -40,9 +29,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "apple/coreai-models",
             "description": "Model export recipes, Python primitives, and Swift runtime utilities for on-device AI",
             "url": "https://github.com/apple/coreai-models",
-            "stars": 727,
-            "forks": 48,
+            "stars": 749,
+            "forks": 50,
             "score": 99
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "baoyu-design",
+            "full_name": "JimLiu/baoyu-design",
+            "description": "Run Claude Design locally as an Agent Skill \u2014 Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/design. Best with Opus 4.8.",
+            "url": "https://github.com/JimLiu/baoyu-design",
+            "stars": 780,
+            "forks": 61,
+            "score": 94
         },
         {
             "main_cat": "AI",
@@ -51,8 +51,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "xiaohuailabs/xiaohu-video-translate",
             "description": "\u5bf9 AI \u8bf4\u4e00\u53e5\u8bdd\uff0c\u628a\u5916\u8bed\u89c6\u9891\u81ea\u52a8\u914d\u4e0a\u4e2d\u6587\u5b57\u5e55 \u2014\u2014 \u4e0b\u8f7d/\u8f6c\u5199/\u7ffb\u8bd1/\u6da6\u8272/\u70e7\u5f55\u4e00\u6761\u9f99\uff0c\u5168\u7a0b\u672c\u5730\uff0c\u8f6c\u5199\u96f6 API \u8d39",
             "url": "https://github.com/xiaohuailabs/xiaohu-video-translate",
-            "stars": 463,
-            "forks": 71,
+            "stars": 466,
+            "forks": 72,
             "score": 92
         },
         {
@@ -69,24 +69,13 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "superlog",
-            "full_name": "superloglabs/superlog",
-            "description": "Open-source observability tool that uses AI agents to self-heal your software",
-            "url": "https://github.com/superloglabs/superlog",
-            "stars": 766,
-            "forks": 40,
-            "score": 68
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
             "name": "Burrow",
             "full_name": "caezium/Burrow",
             "description": "A free, open-source, native macOS GUI for the Mole CLI (mo): clean, uninstall, optimize, analyze disk, and watch live status. Plus long-range history + an MCP server for AI agents.",
             "url": "https://github.com/caezium/Burrow",
-            "stars": 576,
-            "forks": 126,
-            "score": 68
+            "stars": 589,
+            "forks": 130,
+            "score": 69
         },
         {
             "main_cat": "AI",
@@ -95,9 +84,31 @@ const ALPHA_DATA_V2 = {
             "full_name": "ziqihe10-droid/xuefeng-agent",
             "description": "AI \u9ad8\u8003\u5fd7\u613f\u987e\u95ee \u2014 \u4f1a\u8ffd\u95ee\u3001\u4f1a\u5206\u6790\u3001\u6562\u8bf4\u771f\u8bdd",
             "url": "https://github.com/ziqihe10-droid/xuefeng-agent",
-            "stars": 349,
-            "forks": 49,
+            "stars": 352,
+            "forks": 51,
+            "score": 69
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "superlog",
+            "full_name": "superloglabs/superlog",
+            "description": "Open-source observability tool that uses AI agents to self-heal your software",
+            "url": "https://github.com/superloglabs/superlog",
+            "stars": 769,
+            "forks": 40,
             "score": 68
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "text-humanizer",
+            "full_name": "khrisat/text-humanizer",
+            "description": "Advanced open-source AI humanizer designed to make AI-generated text undetectable by Turnitin, GPTZero, and other AI detection services.",
+            "url": "https://github.com/khrisat/text-humanizer",
+            "stars": 158,
+            "forks": 53,
+            "score": 67
         },
         {
             "main_cat": "AI",
@@ -106,7 +117,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "FerroxLabs/wayland",
             "description": "Wayland - The AI Agent That Perceives. Reasons. Acts. Evolves.",
             "url": "https://github.com/FerroxLabs/wayland",
-            "stars": 386,
+            "stars": 390,
             "forks": 58,
             "score": 64
         },
@@ -117,7 +128,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "liyue-aigc/female-portrait-director",
             "description": "A modular Codex Skill for directing and expanding detailed AI female portrait prompts.",
             "url": "https://github.com/liyue-aigc/female-portrait-director",
-            "stars": 660,
+            "stars": 662,
             "forks": 86,
             "score": 63
         },
@@ -130,7 +141,7 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/Mochocyang/QMAI",
             "stars": 491,
             "forks": 98,
-            "score": 61
+            "score": 59
         },
         {
             "main_cat": "AI",
@@ -139,9 +150,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "XBuilderLAB/cheat-on-money",
             "description": "AI \u65f6\u4ee3\u9760\u8c31\u517c\u804c\u53d1\u73b0 + \u53cd\u8bc8\u9a8c\u8bc1 skill\uff1a\u9700\u6c42\u4fe1\u53f7\u53cd\u63a8 + \u5b9e\u65f6\u65f6\u6548\u6838\u67e5 + \u53cd\u8bc8 rubric + \u4e2a\u6027\u5316\u6821\u51c6\u73af",
             "url": "https://github.com/XBuilderLAB/cheat-on-money",
-            "stars": 223,
-            "forks": 26,
-            "score": 57
+            "stars": 231,
+            "forks": 27,
+            "score": 58
         },
         {
             "main_cat": "AI",
@@ -179,17 +190,6 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "skills",
-            "full_name": "DannyMac180/skills",
-            "description": "AI agent skills created by me: Dan McAteer",
-            "url": "https://github.com/DannyMac180/skills",
-            "stars": 437,
-            "forks": 34,
-            "score": 47
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
             "name": "vigils",
             "full_name": "duncatzat/vigils",
             "description": "A local control plane for AI agents \u2014 see what they do, approve what matters, keep secrets out. Rust + Tauri + Chrome MV3.",
@@ -197,17 +197,6 @@ const ALPHA_DATA_V2 = {
             "stars": 386,
             "forks": 24,
             "score": 47
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "infiplot",
-            "full_name": "zonghaoyuan/infiplot",
-            "description": "InfiPlot is the world's first interactive plot game that AI generates all text and images in real-time. InfiPlot\u662f\u5168\u7403\u9996\u4e2a\u7531 AI \u5b9e\u65f6\u751f\u6210\u5168\u90e8\u56fe\u6587\u5185\u5bb9\u7684\u4ea4\u4e92\u5f0f\u5267\u60c5\u6e38\u620f",
-            "url": "https://github.com/zonghaoyuan/infiplot",
-            "stars": 243,
-            "forks": 36,
-            "score": 46
         },
         {
             "main_cat": "AI",
@@ -228,7 +217,7 @@ const ALPHA_DATA_V2 = {
             "description": "Instrument-grade qualitative text analysis: AI-coded corpora, gold calibration, DSL/PPI-corrected statistics, Evidence Ladder",
             "url": "https://github.com/emollick/concord",
             "stars": 151,
-            "forks": 17,
+            "forks": 18,
             "score": 45
         },
         {
@@ -238,8 +227,19 @@ const ALPHA_DATA_V2 = {
             "full_name": "OnlyTerp/UltraCode-Shim",
             "description": "Give Claude Code's ultracode mode to ANY model you already pay for. A tiny local proxy + one config.json. Point your AI at AGENTS.md and it sets itself up.",
             "url": "https://github.com/OnlyTerp/UltraCode-Shim",
-            "stars": 323,
+            "stars": 324,
             "forks": 26,
+            "score": 44
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "infiplot",
+            "full_name": "zonghaoyuan/infiplot",
+            "description": "InfiPlot is the world's first interactive plot game that AI generates all text and images in real-time. InfiPlot\u662f\u5168\u7403\u9996\u4e2a\u7531 AI \u5b9e\u65f6\u751f\u6210\u5168\u90e8\u56fe\u6587\u5185\u5bb9\u7684\u4ea4\u4e92\u5f0f\u5267\u60c5\u6e38\u620f",
+            "url": "https://github.com/zonghaoyuan/infiplot",
+            "stars": 243,
+            "forks": 36,
             "score": 44
         },
         {
@@ -249,7 +249,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "12britz/awesome-free-models",
             "description": "A curated list of free AI models, APIs, and tools you can use without paying a cent.",
             "url": "https://github.com/12britz/awesome-free-models",
-            "stars": 182,
+            "stars": 183,
             "forks": 13,
             "score": 44
         },
@@ -271,7 +271,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "johnbean393/KeyType",
             "description": "An open-source Cotypist with macOS system wide AI autocomplete",
             "url": "https://github.com/johnbean393/KeyType",
-            "stars": 309,
+            "stars": 310,
             "forks": 12,
             "score": 42
         },
@@ -282,7 +282,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "ntd4996/agentpet",
             "description": "A native macOS menu bar app with a desktop pet that monitors your AI coding agents (Claude Code, Codex, Gemini CLI) in real time.",
             "url": "https://github.com/ntd4996/agentpet",
-            "stars": 193,
+            "stars": 194,
             "forks": 35,
             "score": 41
         },
@@ -305,7 +305,7 @@ const ALPHA_DATA_V2 = {
             "description": "Local-first AI memory layer for any LLM. Persistent knowledge graph, entity extraction, semantic retrieval. Works with Ollama, OpenAI, Anthropic, or any OpenAI-compatible backend.",
             "url": "https://github.com/zaydmulani09/mnemo",
             "stars": 213,
-            "forks": 8,
+            "forks": 9,
             "score": 40
         },
         {
@@ -321,14 +321,14 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
-            "sub_cat": null,
-            "name": "seeking-stars",
-            "full_name": "xiao-chen-ai/seeking-stars",
-            "description": "\u89c5\u661f\u5c0f\u81e3 - AI\u667a\u80fd\u6c42\u804c\u52a9\u624b\uff08\u672c\u5730\u684c\u9762\u7248\uff09",
-            "url": "https://github.com/xiao-chen-ai/seeking-stars",
-            "stars": 144,
-            "forks": 7,
-            "score": 35
+            "sub_cat": "AI General",
+            "name": "ai-shortVideo-pipeline",
+            "full_name": "myccarl/ai-shortVideo-pipeline",
+            "description": "End-to-end AI short-video production pipeline. FastAPI orchestration + Spring Boot gateway with multi-model failover, circuit breaker, metering, and full-stack observability. AI quality gating: prompt anchoring, CLIP consistency, AV sync auto-rescue.",
+            "url": "https://github.com/myccarl/ai-shortVideo-pipeline",
+            "stars": 147,
+            "forks": 1,
+            "score": 37
         },
         {
             "main_cat": "AI",
@@ -337,9 +337,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "john-rocky/coreai-model-zoo",
             "description": "Community model zoo + knowledge base for Apple Core AI (iOS/macOS 27): Qwen3.5 & Gemma 4 converted end-to-end, verified on-device (iPhone 17 Pro GPU/ANE), conversion gotchas, custom Metal kernels, Swift runner",
             "url": "https://github.com/john-rocky/coreai-model-zoo",
-            "stars": 39,
+            "stars": 45,
             "forks": 2,
-            "score": 35
+            "score": 36
         },
         {
             "main_cat": "AI",
@@ -350,17 +350,6 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/caokai1073/Rivus",
             "stars": 6,
             "forks": 1,
-            "score": 31
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "ForgeWM",
-            "full_name": "asdfo123/ForgeWM",
-            "description": "Train a real-time, playable Minecraft Video World Models on 8 GPUs \u2014 keyboard & mouse control, fully open and reproducible.",
-            "url": "https://github.com/asdfo123/ForgeWM",
-            "stars": 61,
-            "forks": 0,
             "score": 31
         },
         {
@@ -685,6 +674,17 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
+            "name": "britevm",
+            "full_name": "rizbot4u/britevm",
+            "description": "The company's principal object is to design, develop, and deploy software and infrastructure built on Ethereum Virtual Machine (EVM) compatible blockchain networks, including but not limited to smart contract development, decentralised application (dApp) architecture, token engineering, cross-chain bridging protocols, and Web3 API tooling. ",
+            "url": "https://github.com/rizbot4u/britevm",
+            "stars": 0,
+            "forks": 0,
+            "score": 30
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
             "name": "umcp-protocol",
             "full_name": "Meduria/umcp-protocol",
             "description": "UMCP (Unified Memory Context Protocol) is a protocol for persistent, cross-model memory sharing between AI systems.",
@@ -696,6 +696,20 @@ const ALPHA_DATA_V2 = {
     ],
     "news": [
         {
+            "title": "Beyond Runtime Enforcement: Shield Synthesis as Defensibility Analysis for Adversarial Networks",
+            "source": "ArXiv",
+            "type": "Research Alpha",
+            "color": "text-indigo-600",
+            "url": "http://arxiv.org/abs/2606.13621v1"
+        },
+        {
+            "title": "Beyond the IT Checklist: Engineering a Reasonable Standard of Care for Cyber Safety",
+            "source": "ArXiv",
+            "type": "Research Alpha",
+            "color": "text-indigo-600",
+            "url": "http://arxiv.org/abs/2606.13612v1"
+        },
+        {
             "title": "Bitcoin volatility remains high ahead of key FED decision.",
             "source": "Polymarket",
             "type": "Expectation",
@@ -703,5 +717,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-06-11 23:18"
+    "timestamp": "2026-06-12 02:54"
 };
