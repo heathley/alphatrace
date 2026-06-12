@@ -7,8 +7,19 @@ const ALPHA_DATA_V2 = {
             "full_name": "pewdiepie-archdaemon/odysseus",
             "description": "Self-hosted AI workspace. ",
             "url": "https://github.com/pewdiepie-archdaemon/odysseus",
-            "stars": 69218,
-            "forks": 8722,
+            "stars": 69295,
+            "forks": 8738,
+            "score": 99
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "ponytail",
+            "full_name": "DietrichGebert/ponytail",
+            "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+            "url": "https://github.com/DietrichGebert/ponytail",
+            "stars": 867,
+            "forks": 39,
             "score": 99
         },
         {
@@ -29,19 +40,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "apple/coreai-models",
             "description": "Model export recipes, Python primitives, and Swift runtime utilities for on-device AI",
             "url": "https://github.com/apple/coreai-models",
-            "stars": 823,
-            "forks": 59,
-            "score": 99
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "ponytail",
-            "full_name": "DietrichGebert/ponytail",
-            "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-            "url": "https://github.com/DietrichGebert/ponytail",
-            "stars": 790,
-            "forks": 33,
+            "stars": 826,
+            "forks": 60,
             "score": 99
         },
         {
@@ -51,7 +51,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "JimLiu/baoyu-design",
             "description": "Run Claude Design locally as an Agent Skill \u2014 Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/design. Best with Opus 4.8.",
             "url": "https://github.com/JimLiu/baoyu-design",
-            "stars": 825,
+            "stars": 827,
             "forks": 64,
             "score": 97
         },
@@ -69,24 +69,24 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "guard-skills",
-            "full_name": "amElnagdy/guard-skills",
-            "description": "Guard skills for coding agents, quality gates that catch AI-generated failure modes in code, tests, and docs",
-            "url": "https://github.com/amElnagdy/guard-skills",
-            "stars": 591,
-            "forks": 67,
-            "score": 77
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
             "name": "text-humanizer",
             "full_name": "khrisat/text-humanizer",
             "description": "Advanced open-source AI humanizer designed to make AI-generated text undetectable by Turnitin, GPTZero, and other AI detection services.",
             "url": "https://github.com/khrisat/text-humanizer",
-            "stars": 350,
+            "stars": 373,
             "forks": 54,
-            "score": 77
+            "score": 79
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "guard-skills",
+            "full_name": "amElnagdy/guard-skills",
+            "description": "Guard skills for coding agents, quality gates that catch AI-generated failure modes in code, tests, and docs",
+            "url": "https://github.com/amElnagdy/guard-skills",
+            "stars": 597,
+            "forks": 68,
+            "score": 78
         },
         {
             "main_cat": "AI",
@@ -95,7 +95,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "caezium/Burrow",
             "description": "\ud83d\udc39 A free, open-source, native macOS GUI for the Mole CLI (mo): clean, uninstall, optimize, analyze disk, and watch live status. Plus long-range history + an MCP server for AI agents.",
             "url": "https://github.com/caezium/Burrow",
-            "stars": 626,
+            "stars": 627,
             "forks": 133,
             "score": 68
         },
@@ -106,8 +106,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "superloglabs/superlog",
             "description": "Open-source observability tool that uses AI agents to self-heal your software",
             "url": "https://github.com/superloglabs/superlog",
-            "stars": 791,
-            "forks": 40,
+            "stars": 793,
+            "forks": 41,
             "score": 66
         },
         {
@@ -117,9 +117,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "ziqihe10-droid/xuefeng-agent",
             "description": "AI \u9ad8\u8003\u5fd7\u613f\u987e\u95ee \u2014 \u4f1a\u8ffd\u95ee\u3001\u4f1a\u5206\u6790\u3001\u6562\u8bf4\u771f\u8bdd",
             "url": "https://github.com/ziqihe10-droid/xuefeng-agent",
-            "stars": 381,
+            "stars": 385,
             "forks": 51,
             "score": 66
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "wayland",
+            "full_name": "FerroxLabs/wayland",
+            "description": "Wayland - The AI Agent That Perceives. Reasons. Acts. Evolves.",
+            "url": "https://github.com/FerroxLabs/wayland",
+            "stars": 400,
+            "forks": 60,
+            "score": 62
         },
         {
             "main_cat": "AI",
@@ -130,17 +141,6 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/liyue-aigc/female-portrait-director",
             "stars": 666,
             "forks": 86,
-            "score": 61
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "wayland",
-            "full_name": "FerroxLabs/wayland",
-            "description": "Wayland - The AI Agent That Perceives. Reasons. Acts. Evolves.",
-            "url": "https://github.com/FerroxLabs/wayland",
-            "stars": 399,
-            "forks": 60,
             "score": 61
         },
         {
@@ -161,7 +161,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "XBuilderLAB/cheat-on-money",
             "description": "AI \u65f6\u4ee3\u9760\u8c31\u517c\u804c\u53d1\u73b0 + \u53cd\u8bc8\u9a8c\u8bc1 skill\uff1a\u9700\u6c42\u4fe1\u53f7\u53cd\u63a8 + \u5b9e\u65f6\u65f6\u6548\u6838\u67e5 + \u53cd\u8bc8 rubric + \u4e2a\u6027\u5316\u6821\u51c6\u73af",
             "url": "https://github.com/XBuilderLAB/cheat-on-money",
-            "stars": 273,
+            "stars": 275,
             "forks": 32,
             "score": 58
         },
@@ -256,6 +256,17 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
+            "name": "kickbacks.ai",
+            "full_name": "andrewmccalip/kickbacks.ai",
+            "description": "Get paid for waiting. The most-watched line on Earth now has a market. Kickbacks turns AI wait states into one sponsored status line, and users get 50% of ad revenue.",
+            "url": "https://github.com/andrewmccalip/kickbacks.ai",
+            "stars": 173,
+            "forks": 41,
+            "score": 42
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
             "name": "eatlah",
             "full_name": "thisishowen-spec/eatlah",
             "description": "Snap menu, Start QR orders. AI powered QR ordering for hawker stalls, small restaurants, and independent food businesses. \u4e94\u5206\u949f\u4e0a\u7ebf\u70b9\u9910\u7cfb\u7edf",
@@ -271,7 +282,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "ntd4996/agentpet",
             "description": "A native macOS menu bar app with a desktop pet that monitors your AI coding agents (Claude Code, Codex, Gemini CLI) in real time.",
             "url": "https://github.com/ntd4996/agentpet",
-            "stars": 203,
+            "stars": 204,
             "forks": 37,
             "score": 41
         },
@@ -289,22 +300,11 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "kickbacks.ai",
-            "full_name": "andrewmccalip/kickbacks.ai",
-            "description": "Get paid for waiting. The most-watched line on Earth now has a market. Kickbacks turns AI wait states into one sponsored status line, and users get 50% of ad revenue.",
-            "url": "https://github.com/andrewmccalip/kickbacks.ai",
-            "stars": 165,
-            "forks": 34,
-            "score": 40
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
             "name": "brand-docs",
             "full_name": "ferdinandobons/brand-docs",
             "description": "BrandDocs is a set of agent skills that learn your existing Word, PowerPoint and Excel templates and generate new on-brand documents from them. Unlike generic AI document generators, it preserves brand, structure, styles and formulas by construction. Built for Claude Code, Codex and compatible AI agents.",
             "url": "https://github.com/ferdinandobons/brand-docs",
-            "stars": 153,
+            "stars": 154,
             "forks": 15,
             "score": 40
         },
@@ -326,7 +326,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "myccarl/ai-shortVideo-pipeline",
             "description": "End-to-end AI short-video production pipeline. FastAPI orchestration + Spring Boot gateway with multi-model failover, circuit breaker, metering, and full-stack observability. AI quality gating: prompt anchoring, CLIP consistency, AV sync auto-rescue.",
             "url": "https://github.com/myccarl/ai-shortVideo-pipeline",
-            "stars": 168,
+            "stars": 169,
             "forks": 1,
             "score": 37
         },
@@ -337,7 +337,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "john-rocky/coreai-model-zoo",
             "description": "Community model zoo + knowledge base for Apple Core AI (iOS/macOS 27): Qwen3.5 & Gemma 4 converted end-to-end, verified on-device (iPhone 17 Pro GPU/ANE), conversion gotchas, custom Metal kernels, Swift runner",
             "url": "https://github.com/john-rocky/coreai-model-zoo",
-            "stars": 58,
+            "stars": 60,
             "forks": 2,
             "score": 36
         },
@@ -641,6 +641,17 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
+            "name": "cmtip",
+            "full_name": "lesterppo/cmtip",
+            "description": "CMTIP: Cross-Model Tensor Interoperability Protocol \u2014 LLM-native language for model-to-model communication in embedding space",
+            "url": "https://github.com/lesterppo/cmtip",
+            "stars": 0,
+            "forks": 0,
+            "score": 30
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
             "name": "Layerzero---oapp---shafin",
             "full_name": "Danishu-art/Layerzero---oapp---shafin",
             "description": "Hi - I am a whitehat researcher working on finding the flaws in layerzero protocol to safeguard the cross-chain token ",
@@ -717,5 +728,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-06-12 20:00"
+    "timestamp": "2026-06-12 22:20"
 };
