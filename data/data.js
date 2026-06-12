@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "pewdiepie-archdaemon/odysseus",
             "description": "Self-hosted AI workspace. ",
             "url": "https://github.com/pewdiepie-archdaemon/odysseus",
-            "stars": 69131,
-            "forks": 8707,
+            "stars": 69218,
+            "forks": 8722,
             "score": 99
         },
         {
@@ -18,8 +18,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "GordenSun/GordenSuperPPTSkills",
             "description": "AI PPT\u8d5b\u9053\u7ec8\u7ed3\u8005\uff0c\u53f2\u4e0a\u6700\u6700\u6700\u5f3a PPT Skill\uff01\uff01\uff01  \u4f7f\u7528GPT\u751f\u6210\u8c6a\u534e\u7684\u56fe\u7247\u683c\u5f0fPPT\uff0c\u7136\u540e\u8f6c\u6362\u4e3a\u5b8c\u5168\u53ef\u7f16\u8f91\u7684PPTX\u6587\u4ef6\u3002",
             "url": "https://github.com/GordenSun/GordenSuperPPTSkills",
-            "stars": 837,
-            "forks": 87,
+            "stars": 842,
+            "forks": 88,
             "score": 99
         },
         {
@@ -29,8 +29,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "apple/coreai-models",
             "description": "Model export recipes, Python primitives, and Swift runtime utilities for on-device AI",
             "url": "https://github.com/apple/coreai-models",
-            "stars": 819,
-            "forks": 58,
+            "stars": 823,
+            "forks": 59,
             "score": 99
         },
         {
@@ -40,8 +40,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "DietrichGebert/ponytail",
             "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
             "url": "https://github.com/DietrichGebert/ponytail",
-            "stars": 703,
-            "forks": 32,
+            "stars": 790,
+            "forks": 33,
             "score": 99
         },
         {
@@ -51,7 +51,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "JimLiu/baoyu-design",
             "description": "Run Claude Design locally as an Agent Skill \u2014 Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/design. Best with Opus 4.8.",
             "url": "https://github.com/JimLiu/baoyu-design",
-            "stars": 823,
+            "stars": 825,
             "forks": 64,
             "score": 97
         },
@@ -69,35 +69,24 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "text-humanizer",
-            "full_name": "khrisat/text-humanizer",
-            "description": "Advanced open-source AI humanizer designed to make AI-generated text undetectable by Turnitin, GPTZero, and other AI detection services.",
-            "url": "https://github.com/khrisat/text-humanizer",
-            "stars": 319,
-            "forks": 54,
-            "score": 83
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
             "name": "guard-skills",
             "full_name": "amElnagdy/guard-skills",
             "description": "Guard skills for coding agents, quality gates that catch AI-generated failure modes in code, tests, and docs",
             "url": "https://github.com/amElnagdy/guard-skills",
             "stars": 591,
-            "forks": 64,
+            "forks": 67,
             "score": 77
         },
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "superlog",
-            "full_name": "superloglabs/superlog",
-            "description": "Open-source observability tool that uses AI agents to self-heal your software",
-            "url": "https://github.com/superloglabs/superlog",
-            "stars": 787,
-            "forks": 40,
-            "score": 69
+            "name": "text-humanizer",
+            "full_name": "khrisat/text-humanizer",
+            "description": "Advanced open-source AI humanizer designed to make AI-generated text undetectable by Turnitin, GPTZero, and other AI detection services.",
+            "url": "https://github.com/khrisat/text-humanizer",
+            "stars": 350,
+            "forks": 54,
+            "score": 77
         },
         {
             "main_cat": "AI",
@@ -106,9 +95,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "caezium/Burrow",
             "description": "\ud83d\udc39 A free, open-source, native macOS GUI for the Mole CLI (mo): clean, uninstall, optimize, analyze disk, and watch live status. Plus long-range history + an MCP server for AI agents.",
             "url": "https://github.com/caezium/Burrow",
-            "stars": 625,
-            "forks": 132,
+            "stars": 626,
+            "forks": 133,
             "score": 68
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "superlog",
+            "full_name": "superloglabs/superlog",
+            "description": "Open-source observability tool that uses AI agents to self-heal your software",
+            "url": "https://github.com/superloglabs/superlog",
+            "stars": 791,
+            "forks": 40,
+            "score": 66
         },
         {
             "main_cat": "AI",
@@ -117,20 +117,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "ziqihe10-droid/xuefeng-agent",
             "description": "AI \u9ad8\u8003\u5fd7\u613f\u987e\u95ee \u2014 \u4f1a\u8ffd\u95ee\u3001\u4f1a\u5206\u6790\u3001\u6562\u8bf4\u771f\u8bdd",
             "url": "https://github.com/ziqihe10-droid/xuefeng-agent",
-            "stars": 379,
+            "stars": 381,
             "forks": 51,
             "score": 66
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "wayland",
-            "full_name": "FerroxLabs/wayland",
-            "description": "Wayland - The AI Agent That Perceives. Reasons. Acts. Evolves.",
-            "url": "https://github.com/FerroxLabs/wayland",
-            "stars": 399,
-            "forks": 60,
-            "score": 65
         },
         {
             "main_cat": "AI",
@@ -141,6 +130,17 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/liyue-aigc/female-portrait-director",
             "stars": 666,
             "forks": 86,
+            "score": 61
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "wayland",
+            "full_name": "FerroxLabs/wayland",
+            "description": "Wayland - The AI Agent That Perceives. Reasons. Acts. Evolves.",
+            "url": "https://github.com/FerroxLabs/wayland",
+            "stars": 399,
+            "forks": 60,
             "score": 61
         },
         {
@@ -161,7 +161,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "XBuilderLAB/cheat-on-money",
             "description": "AI \u65f6\u4ee3\u9760\u8c31\u517c\u804c\u53d1\u73b0 + \u53cd\u8bc8\u9a8c\u8bc1 skill\uff1a\u9700\u6c42\u4fe1\u53f7\u53cd\u63a8 + \u5b9e\u65f6\u65f6\u6548\u6838\u67e5 + \u53cd\u8bc8 rubric + \u4e2a\u6027\u5316\u6821\u51c6\u73af",
             "url": "https://github.com/XBuilderLAB/cheat-on-money",
-            "stars": 272,
+            "stars": 273,
             "forks": 32,
             "score": 58
         },
@@ -201,28 +201,6 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "21-day-self-interview",
-            "full_name": "Forlives/21-day-self-interview",
-            "description": "\ud83e\ude9e An AI existential-psychology counselor asks you 3 meaningful questions every night for 21 days \u2014 and remembers, reflecting your own words back to you. Bilingual zh/en. A Hermes Agent skill. \u6bcf\u665a\u4e09\u4e2a\u95ee\u9898\uff0c\u4e00\u9762\u6162\u6162\u663e\u5f71\u7684\u955c\u5b50\u3002",
-            "url": "https://github.com/Forlives/21-day-self-interview",
-            "stars": 153,
-            "forks": 53,
-            "score": 46
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "UltraCode-Shim",
-            "full_name": "OnlyTerp/UltraCode-Shim",
-            "description": "Give Claude Code's ultracode mode to ANY model you already pay for. A tiny local proxy + one config.json. Point your AI at AGENTS.md and it sets itself up.",
-            "url": "https://github.com/OnlyTerp/UltraCode-Shim",
-            "stars": 331,
-            "forks": 26,
-            "score": 44
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
             "name": "infiplot",
             "full_name": "zonghaoyuan/infiplot",
             "description": "InfiPlot is the world's first interactive plot game that AI generates all text and images in real-time. InfiPlot\u662f\u5168\u7403\u9996\u4e2a\u7531 AI \u5b9e\u65f6\u751f\u6210\u5168\u90e8\u56fe\u6587\u5185\u5bb9\u7684\u4ea4\u4e92\u5f0f\u5267\u60c5\u6e38\u620f",
@@ -233,24 +211,35 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "awesome-free-models",
+            "full_name": "12britz/awesome-free-models",
+            "description": "A curated list of free AI models, APIs, and tools you can use without paying a cent.",
+            "url": "https://github.com/12britz/awesome-free-models",
+            "stars": 196,
+            "forks": 14,
+            "score": 44
+        },
+        {
+            "main_cat": "AI",
             "sub_cat": null,
             "name": "concord",
             "full_name": "emollick/concord",
             "description": "Instrument-grade qualitative text analysis: AI-coded corpora, gold calibration, DSL/PPI-corrected statistics, Evidence Ladder",
             "url": "https://github.com/emollick/concord",
-            "stars": 155,
+            "stars": 157,
             "forks": 19,
             "score": 44
         },
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
-            "name": "awesome-free-models",
-            "full_name": "12britz/awesome-free-models",
-            "description": "A curated list of free AI models, APIs, and tools you can use without paying a cent.",
-            "url": "https://github.com/12britz/awesome-free-models",
-            "stars": 193,
-            "forks": 13,
+            "name": "UltraCode-Shim",
+            "full_name": "OnlyTerp/UltraCode-Shim",
+            "description": "Give Claude Code's ultracode mode to ANY model you already pay for. A tiny local proxy + one config.json. Point your AI at AGENTS.md and it sets itself up.",
+            "url": "https://github.com/OnlyTerp/UltraCode-Shim",
+            "stars": 331,
+            "forks": 26,
             "score": 43
         },
         {
@@ -260,7 +249,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "johnbean393/KeyType",
             "description": "An open-source Cotypist with macOS system wide AI autocomplete",
             "url": "https://github.com/johnbean393/KeyType",
-            "stars": 314,
+            "stars": 315,
             "forks": 12,
             "score": 42
         },
@@ -300,6 +289,17 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
+            "name": "kickbacks.ai",
+            "full_name": "andrewmccalip/kickbacks.ai",
+            "description": "Get paid for waiting. The most-watched line on Earth now has a market. Kickbacks turns AI wait states into one sponsored status line, and users get 50% of ad revenue.",
+            "url": "https://github.com/andrewmccalip/kickbacks.ai",
+            "stars": 165,
+            "forks": 34,
+            "score": 40
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
             "name": "brand-docs",
             "full_name": "ferdinandobons/brand-docs",
             "description": "BrandDocs is a set of agent skills that learn your existing Word, PowerPoint and Excel templates and generate new on-brand documents from them. Unlike generic AI document generators, it preserves brand, structure, styles and formulas by construction. Built for Claude Code, Codex and compatible AI agents.",
@@ -326,7 +326,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "myccarl/ai-shortVideo-pipeline",
             "description": "End-to-end AI short-video production pipeline. FastAPI orchestration + Spring Boot gateway with multi-model failover, circuit breaker, metering, and full-stack observability. AI quality gating: prompt anchoring, CLIP consistency, AV sync auto-rescue.",
             "url": "https://github.com/myccarl/ai-shortVideo-pipeline",
-            "stars": 166,
+            "stars": 168,
             "forks": 1,
             "score": 37
         },
@@ -337,7 +337,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "john-rocky/coreai-model-zoo",
             "description": "Community model zoo + knowledge base for Apple Core AI (iOS/macOS 27): Qwen3.5 & Gemma 4 converted end-to-end, verified on-device (iPhone 17 Pro GPU/ANE), conversion gotchas, custom Metal kernels, Swift runner",
             "url": "https://github.com/john-rocky/coreai-model-zoo",
-            "stars": 57,
+            "stars": 58,
             "forks": 2,
             "score": 36
         },
@@ -346,7 +346,7 @@ const ALPHA_DATA_V2 = {
             "sub_cat": "AI General",
             "name": "Rivus",
             "full_name": "caokai1073/Rivus",
-            "description": "Your personal knowledge base powered by local AI. Ingest anything, ask anything \u2014 fully offline with Ollama or cloud models.",
+            "description": "Your personal knowledge base powered by local AI. Ingest anything, ask anything \u2014 fully offline with Ollama, or connect to cloud models.",
             "url": "https://github.com/caokai1073/Rivus",
             "stars": 7,
             "forks": 1,
@@ -717,5 +717,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-06-12 17:34"
+    "timestamp": "2026-06-12 20:00"
 };
