@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "pewdiepie-archdaemon/odysseus",
             "description": "Self-hosted AI workspace. ",
             "url": "https://github.com/pewdiepie-archdaemon/odysseus",
-            "stars": 69587,
-            "forks": 8801,
+            "stars": 69673,
+            "forks": 8820,
             "score": 99
         },
         {
@@ -18,8 +18,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "DietrichGebert/ponytail",
             "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
             "url": "https://github.com/DietrichGebert/ponytail",
-            "stars": 1052,
-            "forks": 48,
+            "stars": 1084,
+            "forks": 49,
             "score": 99
         },
         {
@@ -29,8 +29,19 @@ const ALPHA_DATA_V2 = {
             "full_name": "GordenSun/GordenSuperPPTSkills",
             "description": "AI PPT\u8d5b\u9053\u7ec8\u7ed3\u8005\uff0c\u53f2\u4e0a\u6700\u6700\u6700\u5f3a PPT Skill\uff01\uff01\uff01  \u4f7f\u7528GPT\u751f\u6210\u8c6a\u534e\u7684\u56fe\u7247\u683c\u5f0fPPT\uff0c\u7136\u540e\u8f6c\u6362\u4e3a\u5b8c\u5168\u53ef\u7f16\u8f91\u7684PPTX\u6587\u4ef6\u3002",
             "url": "https://github.com/GordenSun/GordenSuperPPTSkills",
-            "stars": 857,
+            "stars": 864,
             "forks": 88,
+            "score": 99
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "renwei-writing",
+            "full_name": "orange2ai/renwei-writing",
+            "description": "\u4eba\u5473\u513f\u5199\u4f5c \u00b7 An AI agent skill: edit people's words without erasing the person behind them",
+            "url": "https://github.com/orange2ai/renwei-writing",
+            "stars": 293,
+            "forks": 32,
             "score": 99
         },
         {
@@ -40,8 +51,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "apple/coreai-models",
             "description": "Model export recipes, Python primitives, and Swift runtime utilities for on-device AI",
             "url": "https://github.com/apple/coreai-models",
-            "stars": 844,
-            "forks": 62,
+            "stars": 849,
+            "forks": 63,
             "score": 98
         },
         {
@@ -51,31 +62,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "JimLiu/baoyu-design",
             "description": "Run Claude Design locally as an Agent Skill \u2014 Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/design. Best with Opus 4.8.",
             "url": "https://github.com/JimLiu/baoyu-design",
-            "stars": 844,
+            "stars": 849,
             "forks": 65,
             "score": 91
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "renwei-writing",
-            "full_name": "orange2ai/renwei-writing",
-            "description": "\u4eba\u5473\u513f\u5199\u4f5c \u00b7 An AI agent skill: edit people's words without erasing the person behind them",
-            "url": "https://github.com/orange2ai/renwei-writing",
-            "stars": 244,
-            "forks": 28,
-            "score": 89
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "xiaohu-video-translate",
-            "full_name": "xiaohuailabs/xiaohu-video-translate",
-            "description": "\u5bf9 AI \u8bf4\u4e00\u53e5\u8bdd\uff0c\u628a\u5916\u8bed\u89c6\u9891\u81ea\u52a8\u914d\u4e0a\u4e2d\u6587\u5b57\u5e55 \u2014\u2014 \u4e0b\u8f7d/\u8f6c\u5199/\u7ffb\u8bd1/\u6da6\u8272/\u70e7\u5f55\u4e00\u6761\u9f99\uff0c\u5168\u7a0b\u672c\u5730\uff0c\u8f6c\u5199\u96f6 API \u8d39",
-            "url": "https://github.com/xiaohuailabs/xiaohu-video-translate",
-            "stars": 487,
-            "forks": 76,
-            "score": 86
         },
         {
             "main_cat": "AI",
@@ -84,7 +73,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "khrisat/text-humanizer",
             "description": "Advanced open-source AI humanizer designed to make AI-generated text undetectable by Turnitin, GPTZero, and other AI detection services.",
             "url": "https://github.com/khrisat/text-humanizer",
-            "stars": 438,
+            "stars": 442,
             "forks": 54,
             "score": 84
         },
@@ -95,9 +84,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "amElnagdy/guard-skills",
             "description": "Guard skills for coding agents, quality gates that catch AI-generated failure modes in code, tests, and docs",
             "url": "https://github.com/amElnagdy/guard-skills",
-            "stars": 604,
-            "forks": 68,
-            "score": 78
+            "stars": 606,
+            "forks": 69,
+            "score": 79
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "xiaohu-video-translate",
+            "full_name": "xiaohuailabs/xiaohu-video-translate",
+            "description": "\u5bf9 AI \u8bf4\u4e00\u53e5\u8bdd\uff0c\u628a\u5916\u8bed\u89c6\u9891\u81ea\u52a8\u914d\u4e0a\u4e2d\u6587\u5b57\u5e55 \u2014\u2014 \u4e0b\u8f7d/\u8f6c\u5199/\u7ffb\u8bd1/\u6da6\u8272/\u70e7\u5f55\u4e00\u6761\u9f99\uff0c\u5168\u7a0b\u672c\u5730\uff0c\u8f6c\u5199\u96f6 API \u8d39",
+            "url": "https://github.com/xiaohuailabs/xiaohu-video-translate",
+            "stars": 488,
+            "forks": 76,
+            "score": 79
         },
         {
             "main_cat": "AI",
@@ -106,7 +106,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "ziqihe10-droid/xuefeng-agent",
             "description": "AI \u9ad8\u8003\u5fd7\u613f\u987e\u95ee \u2014 \u4f1a\u8ffd\u95ee\u3001\u4f1a\u5206\u6790\u3001\u6562\u8bf4\u771f\u8bdd",
             "url": "https://github.com/ziqihe10-droid/xuefeng-agent",
-            "stars": 405,
+            "stars": 406,
             "forks": 54,
             "score": 68
         },
@@ -117,7 +117,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "superloglabs/superlog",
             "description": "Open-source observability tool that uses AI agents to self-heal your software",
             "url": "https://github.com/superloglabs/superlog",
-            "stars": 802,
+            "stars": 804,
             "forks": 44,
             "score": 67
         },
@@ -128,7 +128,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "caezium/Burrow",
             "description": "\ud83d\udc39 A free, open-source, native macOS GUI for the Mole CLI (mo): clean, uninstall, optimize, analyze disk, and watch live status. Plus long-range history + an MCP server for AI agents.",
             "url": "https://github.com/caezium/Burrow",
-            "stars": 638,
+            "stars": 640,
             "forks": 134,
             "score": 66
         },
@@ -150,7 +150,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "XBuilderLAB/cheat-on-money",
             "description": "AI \u65f6\u4ee3\u9760\u8c31\u517c\u804c\u53d1\u73b0 + \u53cd\u8bc8\u9a8c\u8bc1 skill\uff1a\u9700\u6c42\u4fe1\u53f7\u53cd\u63a8 + \u5b9e\u65f6\u65f6\u6548\u6838\u67e5 + \u53cd\u8bc8 rubric + \u4e2a\u6027\u5316\u6821\u51c6\u73af",
             "url": "https://github.com/XBuilderLAB/cheat-on-money",
-            "stars": 284,
+            "stars": 289,
             "forks": 35,
             "score": 60
         },
@@ -161,7 +161,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Mochocyang/QMAI",
             "description": "\u9752\u5e55AI\u5199\u4f5c\u8f6f\u4ef6\uff0c\u89e3\u51b3\u957f\u7bc7\u5c0f\u8bf4\u5199\u4f5c\u95ee\u9898\uff0c\u89e3\u51b3\u5c0f\u8bf4\u89d2\u8272\u6027\u683c\u4e0d\u7edf\u4e00\uff0c\u9632\u6b62\u4eba\u8bbe\u5d29\u574f\u3002",
             "url": "https://github.com/Mochocyang/QMAI",
-            "stars": 500,
+            "stars": 501,
             "forks": 101,
             "score": 58
         },
@@ -179,6 +179,17 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
+            "name": "ilab-gpt-conjure",
+            "full_name": "kadevin/ilab-gpt-conjure",
+            "description": "\u9762\u5411 GPT-image-2 \u7684 AI \u56fe\u7247\u751f\u6210 WebUI \u5de5\u4f5c\u53f0\uff0c\u652f\u6301 Codex Responses \u4e0e OpenAI \u517c\u5bb9 API \u63a5\u5165\uff0c\u5185\u7f6e\u516c\u7528\u56fe\u5e93\u3001\u591a\u7c7b\u578b Chip \u5feb\u6377\u5f15\u7528\u3001\u63d0\u793a\u8bcd\u6a21\u677f\u3001\u591a\u4efb\u52a1\u5e76\u53d1\u548c\u672c\u5730\u961f\u5217\u7ba1\u7406\u3002An AI image generation WebUI workbench for GPT-image-2 with Codex Responses and OpenAI-compatible API support, shared gallery references, multi-type quick chips, prompt templates, concurrent tasks, and local queue management.",
+            "url": "https://github.com/kadevin/ilab-gpt-conjure",
+            "stars": 213,
+            "forks": 20,
+            "score": 48
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
             "name": "Local-AI-Image-Generator",
             "full_name": "techjarves/Local-AI-Image-Generator",
             "description": "A fully self-contained, offline AI image generation studio for Windows. Runs Stable Diffusion (Safetensors/GGUF) locally with zero manual setup. Auto-configures CUDA for Nvidia GPUs and Vulkan for AMD/Intel Arc cards. Zero system-wide dependencies required.",
@@ -186,6 +197,17 @@ const ALPHA_DATA_V2 = {
             "stars": 186,
             "forks": 66,
             "score": 48
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "agent",
+            "full_name": "taisly/agent",
+            "description": "Taisly Agent Kit: SDK, CLI, examples, and docs for AI agents that publish videos through Taisly.",
+            "url": "https://github.com/taisly/agent",
+            "stars": 171,
+            "forks": 0,
+            "score": 47
         },
         {
             "main_cat": "AI",
@@ -201,13 +223,35 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "agent",
-            "full_name": "taisly/agent",
-            "description": "Taisly Agent Kit: SDK, CLI, examples, and docs for AI agents that publish videos through Taisly.",
-            "url": "https://github.com/taisly/agent",
-            "stars": 169,
-            "forks": 0,
-            "score": 46
+            "name": "infiplot",
+            "full_name": "zonghaoyuan/infiplot",
+            "description": "InfiPlot is the world's first interactive plot game that AI generates all text and images in real-time. InfiPlot\u662f\u5168\u7403\u9996\u4e2a\u7531 AI \u5b9e\u65f6\u751f\u6210\u5168\u90e8\u56fe\u6587\u5185\u5bb9\u7684\u4ea4\u4e92\u5f0f\u5267\u60c5\u6e38\u620f",
+            "url": "https://github.com/zonghaoyuan/infiplot",
+            "stars": 245,
+            "forks": 37,
+            "score": 44
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "concord",
+            "full_name": "emollick/concord",
+            "description": "Instrument-grade qualitative text analysis: AI-coded corpora, gold calibration, DSL/PPI-corrected statistics, Evidence Ladder",
+            "url": "https://github.com/emollick/concord",
+            "stars": 161,
+            "forks": 24,
+            "score": 44
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "kickbacks.ai",
+            "full_name": "andrewmccalip/kickbacks.ai",
+            "description": "Get paid for waiting. The most-watched line on Earth now has a market. Kickbacks turns AI wait states into one sponsored status line, and users get 50% of ad revenue.",
+            "url": "https://github.com/andrewmccalip/kickbacks.ai",
+            "stars": 216,
+            "forks": 48,
+            "score": 43
         },
         {
             "main_cat": "AI",
@@ -216,30 +260,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "12britz/awesome-free-models",
             "description": "A curated list of free AI models, APIs, and tools you can use without paying a cent.",
             "url": "https://github.com/12britz/awesome-free-models",
-            "stars": 203,
+            "stars": 206,
             "forks": 14,
-            "score": 44
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "ilab-gpt-conjure",
-            "full_name": "kadevin/ilab-gpt-conjure",
-            "description": "\u9762\u5411 GPT-image-2 \u7684 AI \u56fe\u7247\u751f\u6210 WebUI \u5de5\u4f5c\u53f0\uff0c\u652f\u6301 Codex Responses \u4e0e OpenAI \u517c\u5bb9 API \u63a5\u5165\uff0c\u5185\u7f6e\u516c\u7528\u56fe\u5e93\u3001\u591a\u7c7b\u578b Chip \u5feb\u6377\u5f15\u7528\u3001\u63d0\u793a\u8bcd\u6a21\u677f\u3001\u591a\u4efb\u52a1\u5e76\u53d1\u548c\u672c\u5730\u961f\u5217\u7ba1\u7406\u3002An AI image generation WebUI workbench for GPT-image-2 with Codex Responses and OpenAI-compatible API support, shared gallery references, multi-type quick chips, prompt templates, concurrent tasks, and local queue management.",
-            "url": "https://github.com/kadevin/ilab-gpt-conjure",
-            "stars": 167,
-            "forks": 18,
-            "score": 44
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "infiplot",
-            "full_name": "zonghaoyuan/infiplot",
-            "description": "InfiPlot is the world's first interactive plot game that AI generates all text and images in real-time. InfiPlot\u662f\u5168\u7403\u9996\u4e2a\u7531 AI \u5b9e\u65f6\u751f\u6210\u5168\u90e8\u56fe\u6587\u5185\u5bb9\u7684\u4ea4\u4e92\u5f0f\u5267\u60c5\u6e38\u620f",
-            "url": "https://github.com/zonghaoyuan/infiplot",
-            "stars": 244,
-            "forks": 36,
             "score": 43
         },
         {
@@ -256,28 +278,6 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "agentpet",
-            "full_name": "ntd4996/agentpet",
-            "description": "A native macOS menu bar app with a desktop pet that monitors your AI coding agents (Claude Code, Codex, Gemini CLI) in real time.",
-            "url": "https://github.com/ntd4996/agentpet",
-            "stars": 210,
-            "forks": 39,
-            "score": 42
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "kickbacks.ai",
-            "full_name": "andrewmccalip/kickbacks.ai",
-            "description": "Get paid for waiting. The most-watched line on Earth now has a market. Kickbacks turns AI wait states into one sponsored status line, and users get 50% of ad revenue.",
-            "url": "https://github.com/andrewmccalip/kickbacks.ai",
-            "stars": 205,
-            "forks": 45,
-            "score": 42
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
             "name": "eatlah",
             "full_name": "thisishowen-spec/eatlah",
             "description": "Snap menu, Start QR orders. AI powered QR ordering for hawker stalls, small restaurants, and independent food businesses. \u4e94\u5206\u949f\u4e0a\u7ebf\u70b9\u9910\u7cfb\u7edf",
@@ -289,13 +289,13 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "brand-docs",
-            "full_name": "ferdinandobons/brand-docs",
-            "description": "BrandDocs is a set of agent skills that learn your existing Word, PowerPoint and Excel templates and generate new on-brand documents from them. Unlike generic AI document generators, it preserves brand, structure, styles and formulas by construction. Built for Claude Code, Codex and compatible AI agents.",
-            "url": "https://github.com/ferdinandobons/brand-docs",
-            "stars": 159,
-            "forks": 15,
-            "score": 40
+            "name": "agentpet",
+            "full_name": "ntd4996/agentpet",
+            "description": "A native macOS menu bar app with a desktop pet that monitors your AI coding agents (Claude Code, Codex, Gemini CLI) in real time.",
+            "url": "https://github.com/ntd4996/agentpet",
+            "stars": 211,
+            "forks": 39,
+            "score": 41
         },
         {
             "main_cat": "AI",
@@ -326,7 +326,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "myccarl/ai-shortVideo-pipeline",
             "description": "End-to-end AI short-video production pipeline. FastAPI orchestration + Spring Boot gateway with multi-model failover, circuit breaker, metering, and full-stack observability. AI quality gating: prompt anchoring, CLIP consistency, AV sync auto-rescue.",
             "url": "https://github.com/myccarl/ai-shortVideo-pipeline",
-            "stars": 170,
+            "stars": 172,
             "forks": 2,
             "score": 38
         },
@@ -337,9 +337,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "john-rocky/coreai-model-zoo",
             "description": "Community model zoo + knowledge base for Apple Core AI (iOS/macOS 27): Qwen3.5 & Gemma 4 converted end-to-end, verified on-device (iPhone 17 Pro GPU/ANE), conversion gotchas, custom Metal kernels, Swift runner",
             "url": "https://github.com/john-rocky/coreai-model-zoo",
-            "stars": 61,
-            "forks": 2,
-            "score": 35
+            "stars": 63,
+            "forks": 3,
+            "score": 36
         },
         {
             "main_cat": "AI",
@@ -728,5 +728,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-06-13 08:49"
+    "timestamp": "2026-06-13 11:10"
 };
