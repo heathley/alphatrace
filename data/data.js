@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "pewdiepie-archdaemon/odysseus",
             "description": "Self-hosted AI workspace. ",
             "url": "https://github.com/pewdiepie-archdaemon/odysseus",
-            "stars": 69295,
-            "forks": 8738,
+            "stars": 69345,
+            "forks": 8746,
             "score": 99
         },
         {
@@ -18,8 +18,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "DietrichGebert/ponytail",
             "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
             "url": "https://github.com/DietrichGebert/ponytail",
-            "stars": 867,
-            "forks": 39,
+            "stars": 916,
+            "forks": 41,
             "score": 99
         },
         {
@@ -29,7 +29,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "GordenSun/GordenSuperPPTSkills",
             "description": "AI PPT\u8d5b\u9053\u7ec8\u7ed3\u8005\uff0c\u53f2\u4e0a\u6700\u6700\u6700\u5f3a PPT Skill\uff01\uff01\uff01  \u4f7f\u7528GPT\u751f\u6210\u8c6a\u534e\u7684\u56fe\u7247\u683c\u5f0fPPT\uff0c\u7136\u540e\u8f6c\u6362\u4e3a\u5b8c\u5168\u53ef\u7f16\u8f91\u7684PPTX\u6587\u4ef6\u3002",
             "url": "https://github.com/GordenSun/GordenSuperPPTSkills",
-            "stars": 842,
+            "stars": 843,
             "forks": 88,
             "score": 99
         },
@@ -40,8 +40,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "apple/coreai-models",
             "description": "Model export recipes, Python primitives, and Swift runtime utilities for on-device AI",
             "url": "https://github.com/apple/coreai-models",
-            "stars": 826,
-            "forks": 60,
+            "stars": 830,
+            "forks": 61,
             "score": 99
         },
         {
@@ -51,7 +51,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "JimLiu/baoyu-design",
             "description": "Run Claude Design locally as an Agent Skill \u2014 Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/design. Best with Opus 4.8.",
             "url": "https://github.com/JimLiu/baoyu-design",
-            "stars": 827,
+            "stars": 828,
             "forks": 64,
             "score": 97
         },
@@ -62,7 +62,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "xiaohuailabs/xiaohu-video-translate",
             "description": "\u5bf9 AI \u8bf4\u4e00\u53e5\u8bdd\uff0c\u628a\u5916\u8bed\u89c6\u9891\u81ea\u52a8\u914d\u4e0a\u4e2d\u6587\u5b57\u5e55 \u2014\u2014 \u4e0b\u8f7d/\u8f6c\u5199/\u7ffb\u8bd1/\u6da6\u8272/\u70e7\u5f55\u4e00\u6761\u9f99\uff0c\u5168\u7a0b\u672c\u5730\uff0c\u8f6c\u5199\u96f6 API \u8d39",
             "url": "https://github.com/xiaohuailabs/xiaohu-video-translate",
-            "stars": 480,
+            "stars": 481,
             "forks": 75,
             "score": 85
         },
@@ -73,9 +73,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "khrisat/text-humanizer",
             "description": "Advanced open-source AI humanizer designed to make AI-generated text undetectable by Turnitin, GPTZero, and other AI detection services.",
             "url": "https://github.com/khrisat/text-humanizer",
-            "stars": 373,
+            "stars": 407,
             "forks": 54,
-            "score": 79
+            "score": 81
         },
         {
             "main_cat": "AI",
@@ -84,7 +84,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "amElnagdy/guard-skills",
             "description": "Guard skills for coding agents, quality gates that catch AI-generated failure modes in code, tests, and docs",
             "url": "https://github.com/amElnagdy/guard-skills",
-            "stars": 597,
+            "stars": 600,
             "forks": 68,
             "score": 78
         },
@@ -95,7 +95,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "caezium/Burrow",
             "description": "\ud83d\udc39 A free, open-source, native macOS GUI for the Mole CLI (mo): clean, uninstall, optimize, analyze disk, and watch live status. Plus long-range history + an MCP server for AI agents.",
             "url": "https://github.com/caezium/Burrow",
-            "stars": 627,
+            "stars": 629,
             "forks": 133,
             "score": 68
         },
@@ -106,9 +106,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "superloglabs/superlog",
             "description": "Open-source observability tool that uses AI agents to self-heal your software",
             "url": "https://github.com/superloglabs/superlog",
-            "stars": 793,
-            "forks": 41,
-            "score": 66
+            "stars": 795,
+            "forks": 42,
+            "score": 67
         },
         {
             "main_cat": "AI",
@@ -117,9 +117,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "ziqihe10-droid/xuefeng-agent",
             "description": "AI \u9ad8\u8003\u5fd7\u613f\u987e\u95ee \u2014 \u4f1a\u8ffd\u95ee\u3001\u4f1a\u5206\u6790\u3001\u6562\u8bf4\u771f\u8bdd",
             "url": "https://github.com/ziqihe10-droid/xuefeng-agent",
-            "stars": 385,
-            "forks": 51,
-            "score": 66
+            "stars": 390,
+            "forks": 53,
+            "score": 67
         },
         {
             "main_cat": "AI",
@@ -128,20 +128,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "FerroxLabs/wayland",
             "description": "Wayland - The AI Agent That Perceives. Reasons. Acts. Evolves.",
             "url": "https://github.com/FerroxLabs/wayland",
-            "stars": 400,
+            "stars": 401,
             "forks": 60,
             "score": 62
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "female-portrait-director",
-            "full_name": "liyue-aigc/female-portrait-director",
-            "description": "A modular Codex Skill for directing and expanding detailed AI female portrait prompts.",
-            "url": "https://github.com/liyue-aigc/female-portrait-director",
-            "stars": 666,
-            "forks": 86,
-            "score": 61
         },
         {
             "main_cat": "AI",
@@ -150,7 +139,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Mochocyang/QMAI",
             "description": "\u9752\u5e55AI\u5199\u4f5c\u8f6f\u4ef6\uff0c\u89e3\u51b3\u957f\u7bc7\u5c0f\u8bf4\u5199\u4f5c\u95ee\u9898\uff0c\u89e3\u51b3\u5c0f\u8bf4\u89d2\u8272\u6027\u683c\u4e0d\u7edf\u4e00\uff0c\u9632\u6b62\u4eba\u8bbe\u5d29\u574f\u3002",
             "url": "https://github.com/Mochocyang/QMAI",
-            "stars": 496,
+            "stars": 497,
             "forks": 100,
             "score": 59
         },
@@ -172,7 +161,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "razr001/align-dev",
             "description": "AlignDev helps AI-assisted frontend teams generate shared coding standards and SKILL.md so Claude Code, Codex, Cursor, Copilot, and other agents write consistently.",
             "url": "https://github.com/razr001/align-dev",
-            "stars": 426,
+            "stars": 427,
             "forks": 20,
             "score": 51
         },
@@ -190,12 +179,34 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
+            "name": "agent",
+            "full_name": "taisly/agent",
+            "description": "Taisly Agent Kit: SDK, CLI, examples, and docs for AI agents that publish videos through Taisly.",
+            "url": "https://github.com/taisly/agent",
+            "stars": 153,
+            "forks": 0,
+            "score": 49
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
             "name": "vigils",
             "full_name": "duncatzat/vigils",
             "description": "A local control plane for AI agents \u2014 see what they do, approve what matters, keep secrets out. Rust + Tauri + Chrome MV3.",
             "url": "https://github.com/duncatzat/vigils",
             "stars": 388,
             "forks": 24,
+            "score": 46
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "21-day-self-interview",
+            "full_name": "Forlives/21-day-self-interview",
+            "description": "\ud83e\ude9e An AI existential-psychology counselor asks you 3 meaningful questions every night for 21 days \u2014 and remembers, reflecting your own words back to you. Bilingual zh/en. A Hermes Agent skill. \u6bcf\u665a\u4e09\u4e2a\u95ee\u9898\uff0c\u4e00\u9762\u6162\u6162\u663e\u5f71\u7684\u955c\u5b50\u3002",
+            "url": "https://github.com/Forlives/21-day-self-interview",
+            "stars": 153,
+            "forks": 53,
             "score": 46
         },
         {
@@ -216,7 +227,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "12britz/awesome-free-models",
             "description": "A curated list of free AI models, APIs, and tools you can use without paying a cent.",
             "url": "https://github.com/12britz/awesome-free-models",
-            "stars": 196,
+            "stars": 197,
             "forks": 14,
             "score": 44
         },
@@ -230,17 +241,6 @@ const ALPHA_DATA_V2 = {
             "stars": 157,
             "forks": 19,
             "score": 44
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "UltraCode-Shim",
-            "full_name": "OnlyTerp/UltraCode-Shim",
-            "description": "Give Claude Code's ultracode mode to ANY model you already pay for. A tiny local proxy + one config.json. Point your AI at AGENTS.md and it sets itself up.",
-            "url": "https://github.com/OnlyTerp/UltraCode-Shim",
-            "stars": 331,
-            "forks": 26,
-            "score": 43
         },
         {
             "main_cat": "AI",
@@ -260,7 +260,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "andrewmccalip/kickbacks.ai",
             "description": "Get paid for waiting. The most-watched line on Earth now has a market. Kickbacks turns AI wait states into one sponsored status line, and users get 50% of ad revenue.",
             "url": "https://github.com/andrewmccalip/kickbacks.ai",
-            "stars": 173,
+            "stars": 178,
             "forks": 41,
             "score": 42
         },
@@ -282,9 +282,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "ntd4996/agentpet",
             "description": "A native macOS menu bar app with a desktop pet that monitors your AI coding agents (Claude Code, Codex, Gemini CLI) in real time.",
             "url": "https://github.com/ntd4996/agentpet",
-            "stars": 204,
+            "stars": 205,
             "forks": 37,
             "score": 41
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "brand-docs",
+            "full_name": "ferdinandobons/brand-docs",
+            "description": "BrandDocs is a set of agent skills that learn your existing Word, PowerPoint and Excel templates and generate new on-brand documents from them. Unlike generic AI document generators, it preserves brand, structure, styles and formulas by construction. Built for Claude Code, Codex and compatible AI agents.",
+            "url": "https://github.com/ferdinandobons/brand-docs",
+            "stars": 156,
+            "forks": 15,
+            "score": 40
         },
         {
             "main_cat": "AI",
@@ -295,18 +306,7 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/zaydmulani09/mnemo",
             "stars": 214,
             "forks": 9,
-            "score": 40
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "brand-docs",
-            "full_name": "ferdinandobons/brand-docs",
-            "description": "BrandDocs is a set of agent skills that learn your existing Word, PowerPoint and Excel templates and generate new on-brand documents from them. Unlike generic AI document generators, it preserves brand, structure, styles and formulas by construction. Built for Claude Code, Codex and compatible AI agents.",
-            "url": "https://github.com/ferdinandobons/brand-docs",
-            "stars": 154,
-            "forks": 15,
-            "score": 40
+            "score": 39
         },
         {
             "main_cat": "AI",
@@ -326,7 +326,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "myccarl/ai-shortVideo-pipeline",
             "description": "End-to-end AI short-video production pipeline. FastAPI orchestration + Spring Boot gateway with multi-model failover, circuit breaker, metering, and full-stack observability. AI quality gating: prompt anchoring, CLIP consistency, AV sync auto-rescue.",
             "url": "https://github.com/myccarl/ai-shortVideo-pipeline",
-            "stars": 169,
+            "stars": 170,
             "forks": 1,
             "score": 37
         },
@@ -361,6 +361,17 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/solai25/ComfyUI-Bonsai-4B-2Bit",
             "stars": 6,
             "forks": 1,
+            "score": 30
+        },
+        {
+            "main_cat": "DePIN",
+            "sub_cat": null,
+            "name": "llama-cpp-mtp-turboquant-sm120-blackwell-windows",
+            "full_name": "Andgihat/llama-cpp-mtp-turboquant-sm120-blackwell-windows",
+            "description": "Windows prebuilt of llama.cpp combining Multi-Token Prediction (MTP) + TurboQuant KV cache compression + native sm_120 (Blackwell consumer GPU, FP4 tensor cores). For RTX 5060 Ti / 5070 / 5080 / 5090.",
+            "url": "https://github.com/Andgihat/llama-cpp-mtp-turboquant-sm120-blackwell-windows",
+            "stars": 6,
+            "forks": 0,
             "score": 30
         },
         {
@@ -414,17 +425,6 @@ const ALPHA_DATA_V2 = {
             "full_name": "Proxtox/arc-institutional-treasury",
             "description": "Smart contract suite + dashboard for institutional treasury operations on Arc: multi-sig, scheduled payments, and stablecoin yield strategies.",
             "url": "https://github.com/Proxtox/arc-institutional-treasury",
-            "stars": 0,
-            "forks": 0,
-            "score": 30
-        },
-        {
-            "main_cat": "Stablecoin Infrastructure",
-            "sub_cat": null,
-            "name": "whmcs",
-            "full_name": "Paymos-labs/whmcs",
-            "description": "WHMCS crypto payment gateway. Accept stablecoin payments (USDT, USDC) for hosting via Paymos.",
-            "url": "https://github.com/Paymos-labs/whmcs",
             "stars": 0,
             "forks": 0,
             "score": 30
@@ -728,5 +728,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-06-12 22:20"
+    "timestamp": "2026-06-13 00:15"
 };
