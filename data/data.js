@@ -3,23 +3,12 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "odysseus",
-            "full_name": "pewdiepie-archdaemon/odysseus",
-            "description": "Self-hosted AI workspace. ",
-            "url": "https://github.com/pewdiepie-archdaemon/odysseus",
-            "stars": 70108,
-            "forks": 8889,
-            "score": 99
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
             "name": "ponytail",
             "full_name": "DietrichGebert/ponytail",
             "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
             "url": "https://github.com/DietrichGebert/ponytail",
-            "stars": 1446,
-            "forks": 65,
+            "stars": 1483,
+            "forks": 69,
             "score": 99
         },
         {
@@ -29,7 +18,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "apple/coreai-models",
             "description": "Model export recipes, Python primitives, and Swift runtime utilities for on-device AI",
             "url": "https://github.com/apple/coreai-models",
-            "stars": 871,
+            "stars": 872,
             "forks": 64,
             "score": 99
         },
@@ -40,8 +29,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "orange2ai/renwei-writing",
             "description": "\u4eba\u5473\u513f\u5199\u4f5c \u00b7 An AI agent skill: edit people's words without erasing the person behind them",
             "url": "https://github.com/orange2ai/renwei-writing",
-            "stars": 409,
-            "forks": 41,
+            "stars": 416,
+            "forks": 43,
             "score": 99
         },
         {
@@ -62,9 +51,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "JimLiu/baoyu-design",
             "description": "Run Claude Design locally as an Agent Skill \u2014 Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/design. Best with Opus 4.8.",
             "url": "https://github.com/JimLiu/baoyu-design",
-            "stars": 911,
+            "stars": 926,
             "forks": 70,
-            "score": 96
+            "score": 97
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "omnigent",
+            "full_name": "omnigent-ai/omnigent",
+            "description": "A meta-harness for all your AI agents.  Omnigent provides a common layer over Claude Code, Codex, Pi, and the agents you write yourself: swap or combine harnesses without rewriting, keep them in check with policies and sandboxing, and collaborate in real time on the same live session, from any device.",
+            "url": "https://github.com/omnigent-ai/omnigent",
+            "stars": 430,
+            "forks": 51,
+            "score": 93
         },
         {
             "main_cat": "AI",
@@ -75,17 +75,6 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/khrisat/text-humanizer",
             "stars": 569,
             "forks": 54,
-            "score": 86
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "omnigent",
-            "full_name": "omnigent-ai/omnigent",
-            "description": "A meta-harness for all your AI agents.  Omnigent provides a common layer over Claude Code, Codex, Pi, and the agents you write yourself: swap or combine harnesses without rewriting, keep them in check with policies and sandboxing, and collaborate in real time on the same live session, from any device.",
-            "url": "https://github.com/omnigent-ai/omnigent",
-            "stars": 384,
-            "forks": 46,
             "score": 86
         },
         {
@@ -106,20 +95,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "amElnagdy/guard-skills",
             "description": "Guard skills for coding agents, quality gates that catch AI-generated failure modes in code, tests, and docs",
             "url": "https://github.com/amElnagdy/guard-skills",
-            "stars": 670,
-            "forks": 75,
+            "stars": 673,
+            "forks": 76,
             "score": 78
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "Burrow",
-            "full_name": "caezium/Burrow",
-            "description": "\ud83d\udc39 A free, open-source, native macOS GUI for the Mole CLI (mo): clean, uninstall, optimize, analyze disk, and watch live status. Plus long-range history + an MCP server for AI agents.",
-            "url": "https://github.com/caezium/Burrow",
-            "stars": 650,
-            "forks": 134,
-            "score": 67
         },
         {
             "main_cat": "AI",
@@ -157,17 +135,6 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "QMAI",
-            "full_name": "Mochocyang/QMAI",
-            "description": "\u9752\u5e55AI\u5199\u4f5c\u8f6f\u4ef6\uff0c\u89e3\u51b3\u957f\u7bc7\u5c0f\u8bf4\u5199\u4f5c\u95ee\u9898\uff0c\u89e3\u51b3\u5c0f\u8bf4\u89d2\u8272\u6027\u683c\u4e0d\u7edf\u4e00\uff0c\u9632\u6b62\u4eba\u8bbe\u5d29\u574f\u3002",
-            "url": "https://github.com/Mochocyang/QMAI",
-            "stars": 503,
-            "forks": 101,
-            "score": 58
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
             "name": "cheat-on-money",
             "full_name": "XBuilderLAB/cheat-on-money",
             "description": "AI \u65f6\u4ee3\u9760\u8c31\u517c\u804c\u53d1\u73b0 + \u53cd\u8bc8\u9a8c\u8bc1 skill\uff1a\u9700\u6c42\u4fe1\u53f7\u53cd\u63a8 + \u5b9e\u65f6\u65f6\u6548\u6838\u67e5 + \u53cd\u8bc8 rubric + \u4e2a\u6027\u5316\u6821\u51c6\u73af",
@@ -183,7 +150,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "kadevin/ilab-gpt-conjure",
             "description": "\u9762\u5411 GPT-image-2 \u7684 AI \u56fe\u7247\u751f\u6210 WebUI \u5de5\u4f5c\u53f0\uff0c\u652f\u6301 Codex Responses \u4e0e OpenAI \u517c\u5bb9 API \u63a5\u5165\uff0c\u5185\u7f6e\u516c\u7528\u56fe\u5e93\u3001\u591a\u7c7b\u578b Chip \u5feb\u6377\u5f15\u7528\u3001\u63d0\u793a\u8bcd\u6a21\u677f\u3001\u591a\u4efb\u52a1\u5e76\u53d1\u548c\u672c\u5730\u961f\u5217\u7ba1\u7406\u3002An AI image generation WebUI workbench for GPT-image-2 with Codex Responses and OpenAI-compatible API support, shared gallery references, multi-type quick chips, prompt templates, concurrent tasks, and local queue management.",
             "url": "https://github.com/kadevin/ilab-gpt-conjure",
-            "stars": 290,
+            "stars": 293,
             "forks": 25,
             "score": 54
         },
@@ -227,19 +194,19 @@ const ALPHA_DATA_V2 = {
             "full_name": "andrewmccalip/kickbacks.ai",
             "description": "Get paid for waiting. The most-watched line on Earth now has a market. Kickbacks turns AI wait states into one sponsored status line, and users get 50% of ad revenue.",
             "url": "https://github.com/andrewmccalip/kickbacks.ai",
-            "stars": 268,
+            "stars": 269,
             "forks": 55,
             "score": 46
         },
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "vigils",
-            "full_name": "duncatzat/vigils",
-            "description": "A local control plane for AI agents \u2014 see what they do, approve what matters, keep secrets out. Rust + Tauri + Chrome MV3.",
-            "url": "https://github.com/duncatzat/vigils",
-            "stars": 391,
-            "forks": 24,
+            "name": "21-day-self-interview",
+            "full_name": "Forlives/21-day-self-interview",
+            "description": "\ud83e\ude9e An AI existential-psychology counselor asks you 3 meaningful questions every night for 21 days \u2014 and remembers, reflecting your own words back to you. Bilingual zh/en. A Hermes Agent skill. \u6bcf\u665a\u4e09\u4e2a\u95ee\u9898\uff0c\u4e00\u9762\u6162\u6162\u663e\u5f71\u7684\u955c\u5b50\u3002",
+            "url": "https://github.com/Forlives/21-day-self-interview",
+            "stars": 153,
+            "forks": 53,
             "score": 45
         },
         {
@@ -260,31 +227,31 @@ const ALPHA_DATA_V2 = {
             "full_name": "12britz/awesome-free-models",
             "description": "A curated list of free AI models, APIs, and tools you can use without paying a cent.",
             "url": "https://github.com/12britz/awesome-free-models",
-            "stars": 235,
+            "stars": 236,
             "forks": 14,
             "score": 44
         },
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "KeyType",
-            "full_name": "johnbean393/KeyType",
-            "description": "An open-source Cotypist with macOS system wide AI autocomplete",
-            "url": "https://github.com/johnbean393/KeyType",
-            "stars": 315,
-            "forks": 13,
-            "score": 41
+            "name": "concord",
+            "full_name": "emollick/concord",
+            "description": "Instrument-grade qualitative text analysis: AI-coded corpora, gold calibration, DSL/PPI-corrected statistics, Evidence Ladder",
+            "url": "https://github.com/emollick/concord",
+            "stars": 165,
+            "forks": 24,
+            "score": 44
         },
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "agentpet",
-            "full_name": "ntd4996/agentpet",
-            "description": "A native macOS menu bar app with a desktop pet that monitors your AI coding agents (Claude Code, Codex, Gemini CLI) in real time.",
-            "url": "https://github.com/ntd4996/agentpet",
-            "stars": 215,
-            "forks": 40,
-            "score": 41
+            "name": "Agent_Manager",
+            "full_name": "Zafer-Liu/Agent_Manager",
+            "description": "A cross-platform desktop application for managing AI Agents and MCP Servers. \u4e00\u6b3e\u7528\u4e8e\u7ba1\u7406AI\u667a\u80fd\u4f53\u4e0eMCP\u670d\u52a1\u5668\u7684\u8de8\u5e73\u53f0\u684c\u9762\u5e94\u7528\u7a0b\u5e8f\u3002",
+            "url": "https://github.com/Zafer-Liu/Agent_Manager",
+            "stars": 144,
+            "forks": 37,
+            "score": 43
         },
         {
             "main_cat": "AI",
@@ -300,12 +267,23 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "mnemo",
-            "full_name": "zaydmulani09/mnemo",
-            "description": "Local-first AI memory layer for any LLM. Persistent knowledge graph, entity extraction, semantic retrieval. Works with Ollama, OpenAI, Anthropic, or any OpenAI-compatible backend.",
-            "url": "https://github.com/zaydmulani09/mnemo",
-            "stars": 215,
-            "forks": 9,
+            "name": "brand-docs",
+            "full_name": "ferdinandobons/brand-docs",
+            "description": "BrandDocs is a set of agent skills that learn your existing Word, PowerPoint and Excel templates and generate new on-brand documents from them. Unlike generic AI document generators, it preserves brand, structure, styles and formulas by construction. Built for Claude Code, Codex and compatible AI agents.",
+            "url": "https://github.com/ferdinandobons/brand-docs",
+            "stars": 163,
+            "forks": 15,
+            "score": 40
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "start-ai-engineering",
+            "full_name": "louisfb01/start-ai-engineering",
+            "description": "A complete guide to start and improve in AI engineering in 2026 without ANY background in the field and stay up-to-date with the latest news and state-of-the-art techniques!",
+            "url": "https://github.com/louisfb01/start-ai-engineering",
+            "stars": 144,
+            "forks": 18,
             "score": 39
         },
         {
@@ -315,19 +293,19 @@ const ALPHA_DATA_V2 = {
             "full_name": "john-rocky/coreai-model-zoo",
             "description": "Community model zoo + knowledge base for Apple Core AI (iOS/macOS 27): Qwen3.5 & Gemma 4 converted end-to-end, verified on-device (iPhone 17 Pro GPU/ANE), conversion gotchas, custom Metal kernels, Swift runner",
             "url": "https://github.com/john-rocky/coreai-model-zoo",
-            "stars": 95,
+            "stars": 99,
             "forks": 5,
             "score": 39
         },
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "CapC-Pro-2",
-            "full_name": "gerardapennant96075336582/CapC-Pro-2",
-            "description": "CapCut Pro Studio (2026) \u2014 The ultimate high-performance video editing suite with all premium features unlocked. Experience 4K HDR exporting, AI-powered transitions, and a full professional asset library without limitations.",
-            "url": "https://github.com/gerardapennant96075336582/CapC-Pro-2",
-            "stars": 257,
-            "forks": 0,
+            "name": "mnemo",
+            "full_name": "zaydmulani09/mnemo",
+            "description": "Local-first AI memory layer for any LLM. Persistent knowledge graph, entity extraction, semantic retrieval. Works with Ollama, OpenAI, Anthropic, or any OpenAI-compatible backend.",
+            "url": "https://github.com/zaydmulani09/mnemo",
+            "stars": 215,
+            "forks": 9,
             "score": 38
         },
         {
@@ -337,9 +315,31 @@ const ALPHA_DATA_V2 = {
             "full_name": "myccarl/ai-shortVideo-pipeline",
             "description": "End-to-end AI short-video production pipeline. FastAPI orchestration + Spring Boot gateway with multi-model failover, circuit breaker, metering, and full-stack observability. AI quality gating: prompt anchoring, CLIP consistency, AV sync auto-rescue.",
             "url": "https://github.com/myccarl/ai-shortVideo-pipeline",
-            "stars": 179,
+            "stars": 180,
             "forks": 2,
             "score": 37
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "paperjury",
+            "full_name": "u7079256/paperjury",
+            "description": "Pre-submission AI review stress-test for research papers. A Claude Code skill: review, verdict, revise, verify.",
+            "url": "https://github.com/u7079256/paperjury",
+            "stars": 157,
+            "forks": 15,
+            "score": 37
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "codex-app",
+            "full_name": "Shellstgrasp/codex-app",
+            "description": "codex app - AI coding tool for writing, reviewing, and debugging code. Comprehensive guide with setup instructions, feature highlights, and system requirements.",
+            "url": "https://github.com/Shellstgrasp/codex-app",
+            "stars": 146,
+            "forks": 0,
+            "score": 35
         },
         {
             "main_cat": "AI",
@@ -364,13 +364,13 @@ const ALPHA_DATA_V2 = {
             "score": 30
         },
         {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "rwa-investing-ai",
-            "full_name": "Mamaswae/rwa-investing-ai",
-            "description": "RWA Investing AI is an autonomous investment agent designed to optimize capital allocation across tokenized Real-World Assets (RWA) and DeFi yield opportunities.",
-            "url": "https://github.com/Mamaswae/rwa-investing-ai",
-            "stars": 0,
+            "main_cat": "DePIN",
+            "sub_cat": null,
+            "name": "llama-cpp-mtp-turboquant-sm120-blackwell-windows",
+            "full_name": "Andgihat/llama-cpp-mtp-turboquant-sm120-blackwell-windows",
+            "description": "Windows prebuilt of llama.cpp combining Multi-Token Prediction (MTP) + TurboQuant KV cache compression + native sm_120 (Blackwell consumer GPU, FP4 tensor cores). For RTX 5060 Ti / 5070 / 5080 / 5090.",
+            "url": "https://github.com/Andgihat/llama-cpp-mtp-turboquant-sm120-blackwell-windows",
+            "stars": 6,
             "forks": 0,
             "score": 30
         },
@@ -529,17 +529,6 @@ const ALPHA_DATA_V2 = {
             "score": 30
         },
         {
-            "main_cat": "Stablecoin Infrastructure",
-            "sub_cat": null,
-            "name": "UPICrypto",
-            "full_name": "ritulrashi/UPICrypto",
-            "description": "Decentralized cross-border payment infrastructure on Ethereum and Polygon \u2014 ERC-20 stablecoin, ZK proof privacy, L1/L2 bridge, gasless transactions, Go backend API, React dashboard, React Native mobile app",
-            "url": "https://github.com/ritulrashi/UPICrypto",
-            "stars": 0,
-            "forks": 0,
-            "score": 30
-        },
-        {
             "main_cat": "AI",
             "sub_cat": "AI General",
             "name": "TrustSplit",
@@ -557,6 +546,17 @@ const ALPHA_DATA_V2 = {
             "full_name": "MentorsMind/SwiftRemit",
             "description": "SwiftRemit is a full-stack blockchain-powered cross-border payment platform built to eliminate the high costs and slow settlement times of international money transfers in Africa.  Built on the Stellar network, SwiftRemit enables near-instant, low-cost payments using XLM and USDC stablecoins",
             "url": "https://github.com/MentorsMind/SwiftRemit",
+            "stars": 0,
+            "forks": 0,
+            "score": 30
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "tieout",
+            "full_name": "jorge-j1m/tieout",
+            "description": "Open-source payments reconciliation engine. Tieout ingests money records from every system they live in \u2014 your ledger, payment processors, banks, stablecoin rails \u2014 normalizes them into one model, matches them against each other, and surfaces the transactions it can't explain. Every run and every decision is recorded immutably.",
+            "url": "https://github.com/jorge-j1m/tieout",
             "stars": 0,
             "forks": 0,
             "score": 30
@@ -590,17 +590,6 @@ const ALPHA_DATA_V2 = {
             "full_name": "m-velikov/cpp-quick-start-mcp",
             "description": "A Model Context Protocol (MCP) server that equips any  AI agent with the ability to expertly scaffold cross-platform C++ projects",
             "url": "https://github.com/m-velikov/cpp-quick-start-mcp",
-            "stars": 1,
-            "forks": 0,
-            "score": 30
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "deploycheck",
-            "full_name": "SarthakDhatrak/deploycheck",
-            "description": "An autonomous AI Site Reliability Engineer (SRE) built as a Model Context Protocol (MCP) server. It plugs into your IDE to analyze deployments, detect drifts, and automatically diagnose crash logs by cross-referencing your Git history.",
-            "url": "https://github.com/SarthakDhatrak/deploycheck",
             "stars": 1,
             "forks": 0,
             "score": 30
@@ -703,6 +692,17 @@ const ALPHA_DATA_V2 = {
             "stars": 0,
             "forks": 0,
             "score": 30
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "umcp-protocol",
+            "full_name": "Meduria/umcp-protocol",
+            "description": "UMCP (Unified Memory Context Protocol) is a protocol for persistent, cross-model memory sharing between AI systems.",
+            "url": "https://github.com/Meduria/umcp-protocol",
+            "stars": 0,
+            "forks": 0,
+            "score": 30
         }
     ],
     "news": [
@@ -728,5 +728,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-06-13 22:58"
+    "timestamp": "2026-06-14 00:08"
 };
