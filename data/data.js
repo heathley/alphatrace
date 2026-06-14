@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "DietrichGebert/ponytail",
             "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
             "url": "https://github.com/DietrichGebert/ponytail",
-            "stars": 5107,
-            "forks": 219,
+            "stars": 5762,
+            "forks": 261,
             "score": 99
         },
         {
@@ -18,19 +18,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "omnigent-ai/omnigent",
             "description": "A meta-harness for all your AI agents.  Omnigent provides a common layer over Claude Code, Codex, Pi, and the agents you write yourself: swap or combine harnesses without rewriting, keep them in check with policies and sandboxing, and collaborate in real time on the same live session, from any device.",
             "url": "https://github.com/omnigent-ai/omnigent",
-            "stars": 946,
-            "forks": 115,
-            "score": 99
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "GordenSuperPPTSkills",
-            "full_name": "GordenSun/GordenSuperPPTSkills",
-            "description": "AI PPT\u8d5b\u9053\u7ec8\u7ed3\u8005\uff0c\u53f2\u4e0a\u6700\u6700\u6700\u5f3a PPT Skill\uff01\uff01\uff01  \u4f7f\u7528GPT\u751f\u6210\u8c6a\u534e\u7684\u56fe\u7247\u683c\u5f0fPPT\uff0c\u7136\u540e\u8f6c\u6362\u4e3a\u5b8c\u5168\u53ef\u7f16\u8f91\u7684PPTX\u6587\u4ef6\u3002",
-            "url": "https://github.com/GordenSun/GordenSuperPPTSkills",
-            "stars": 905,
-            "forks": 89,
+            "stars": 1013,
+            "forks": 120,
             "score": 99
         },
         {
@@ -40,7 +29,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "orange2ai/renwei-writing",
             "description": "\u4eba\u5473\u513f\u5199\u4f5c \u00b7 An AI agent skill: edit people's words without erasing the person behind them",
             "url": "https://github.com/orange2ai/renwei-writing",
-            "stars": 534,
+            "stars": 546,
             "forks": 56,
             "score": 99
         },
@@ -51,9 +40,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "JimLiu/baoyu-design",
             "description": "Run Claude Design locally as an Agent Skill \u2014 Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/design. Best with Opus 4.8.",
             "url": "https://github.com/JimLiu/baoyu-design",
-            "stars": 1042,
+            "stars": 1045,
             "forks": 74,
-            "score": 96
+            "score": 97
         },
         {
             "main_cat": "AI",
@@ -62,8 +51,19 @@ const ALPHA_DATA_V2 = {
             "full_name": "apple/coreai-models",
             "description": "Model export recipes, Python primitives, and Swift runtime utilities for on-device AI",
             "url": "https://github.com/apple/coreai-models",
-            "stars": 891,
+            "stars": 892,
             "forks": 65,
+            "score": 94
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "GordenSuperPPTSkills",
+            "full_name": "GordenSun/GordenSuperPPTSkills",
+            "description": "AI PPT\u8d5b\u9053\u7ec8\u7ed3\u8005\uff0c\u53f2\u4e0a\u6700\u6700\u6700\u5f3a PPT Skill\uff01\uff01\uff01  \u4f7f\u7528GPT\u751f\u6210\u8c6a\u534e\u7684\u56fe\u7247\u683c\u5f0fPPT\uff0c\u7136\u540e\u8f6c\u6362\u4e3a\u5b8c\u5168\u53ef\u7f16\u8f91\u7684PPTX\u6587\u4ef6\u3002",
+            "url": "https://github.com/GordenSun/GordenSuperPPTSkills",
+            "stars": 908,
+            "forks": 89,
             "score": 93
         },
         {
@@ -86,7 +86,7 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/amElnagdy/guard-skills",
             "stars": 717,
             "forks": 81,
-            "score": 82
+            "score": 77
         },
         {
             "main_cat": "AI",
@@ -106,20 +106,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "nolangz/pixel2motion",
             "description": "AI logo animation skill: turn raster logos into smooth SVG animation, animated HTML demos, GIF/video previews, and motion QA evidence.",
             "url": "https://github.com/nolangz/pixel2motion",
-            "stars": 264,
+            "stars": 272,
             "forks": 29,
             "score": 68
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "superlog",
-            "full_name": "superloglabs/superlog",
-            "description": "Open-source observability tool that uses AI agents to self-heal your software",
-            "url": "https://github.com/superloglabs/superlog",
-            "stars": 812,
-            "forks": 47,
-            "score": 65
         },
         {
             "main_cat": "AI",
@@ -128,8 +117,19 @@ const ALPHA_DATA_V2 = {
             "full_name": "kadevin/ilab-gpt-conjure",
             "description": "\u9762\u5411 GPT-image-2 \u7684 AI \u56fe\u7247\u751f\u6210 WebUI \u5de5\u4f5c\u53f0\uff0c\u652f\u6301 Codex Responses \u4e0e OpenAI \u517c\u5bb9 API \u63a5\u5165\uff0c\u5185\u7f6e\u516c\u7528\u56fe\u5e93\u3001\u591a\u7c7b\u578b Chip \u5feb\u6377\u5f15\u7528\u3001\u63d0\u793a\u8bcd\u6a21\u677f\u3001\u591a\u4efb\u52a1\u5e76\u53d1\u548c\u672c\u5730\u961f\u5217\u7ba1\u7406\u3002An AI image generation WebUI workbench for GPT-image-2 with Codex Responses and OpenAI-compatible API support, shared gallery references, multi-type quick chips, prompt templates, concurrent tasks, and local queue management.",
             "url": "https://github.com/kadevin/ilab-gpt-conjure",
-            "stars": 429,
-            "forks": 53,
+            "stars": 438,
+            "forks": 54,
+            "score": 66
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "superlog",
+            "full_name": "superloglabs/superlog",
+            "description": "Open-source observability tool that uses AI agents to self-heal your software",
+            "url": "https://github.com/superloglabs/superlog",
+            "stars": 813,
+            "forks": 48,
             "score": 65
         },
         {
@@ -139,7 +139,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "itsinseong/value-for-fable",
             "description": "Opus\uc5d0 \uadfc\uc811\ud55c \ud488\uc9c8\uc744 Sonnet \ub2e8\uac00\uc5d0 \u2014 \uac00\uc131\ube44 AI \uc6b4\uc601 \ubaa8\ub378\uc744 \uc9c1\uc811 \uad6c\ucd95\ud55c Claude Code \ud504\ub85c\uc81d\ud2b8",
             "url": "https://github.com/itsinseong/value-for-fable",
-            "stars": 175,
+            "stars": 174,
             "forks": 40,
             "score": 63
         },
@@ -162,7 +162,7 @@ const ALPHA_DATA_V2 = {
             "description": "Wayland - The AI Agent That Perceives. Reasons. Acts. Evolves.",
             "url": "https://github.com/FerroxLabs/wayland",
             "stars": 418,
-            "forks": 63,
+            "forks": 64,
             "score": 60
         },
         {
@@ -172,9 +172,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "XBuilderLAB/cheat-on-money",
             "description": "AI \u65f6\u4ee3\u9760\u8c31\u517c\u804c\u53d1\u73b0 + \u53cd\u8bc8\u9a8c\u8bc1 skill\uff1a\u9700\u6c42\u4fe1\u53f7\u53cd\u63a8 + \u5b9e\u65f6\u65f6\u6548\u6838\u67e5 + \u53cd\u8bc8 rubric + \u4e2a\u6027\u5316\u6821\u51c6\u73af",
             "url": "https://github.com/XBuilderLAB/cheat-on-money",
-            "stars": 308,
-            "forks": 39,
-            "score": 55
+            "stars": 310,
+            "forks": 40,
+            "score": 56
         },
         {
             "main_cat": "AI",
@@ -183,9 +183,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "chubbyguan/chubbyskills",
             "description": "chubby \u81ea\u7528\u77e5\u8bc6\u5e93\u5b9e\u7528skill\u96c6\u5408 - AI\u9a71\u52a8\u7684\u81ea\u52a8\u5316\u5de5\u4f5c\u6d41\u5de5\u5177\uff0c\u53ef\u4ee5\u5e2e\u52a9\u4f60\u4ece\u5404\u4e2a\u6e20\u9053\u83b7\u53d6\u4fe1\u606f\uff0c\u642d\u5efa\u81ea\u5df1\u7684\u77e5\u8bc6\u5e93",
             "url": "https://github.com/chubbyguan/chubbyskills",
-            "stars": 263,
-            "forks": 40,
-            "score": 53
+            "stars": 276,
+            "forks": 41,
+            "score": 54
         },
         {
             "main_cat": "AI",
@@ -194,9 +194,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "Nanako0129/coralline",
             "description": "\ud83e\udeb8 Powerlevel10k-inspired statusline for Claude Code \u2014 paste one prompt and your AI interviews you, then installs it",
             "url": "https://github.com/Nanako0129/coralline",
-            "stars": 183,
+            "stars": 193,
             "forks": 12,
-            "score": 53
+            "score": 54
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "aipath",
+            "full_name": "buynao/aipath",
+            "description": "Interactive AI General Education Course \u2014 30 Lessons, Zero Math",
+            "url": "https://github.com/buynao/aipath",
+            "stars": 170,
+            "forks": 14,
+            "score": 52
         },
         {
             "main_cat": "AI",
@@ -205,8 +216,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "razr001/align-dev",
             "description": "AlignDev helps AI-assisted frontend teams generate shared coding standards and SKILL.md so Claude Code, Codex, Cursor, Copilot, and other agents write consistently.",
             "url": "https://github.com/razr001/align-dev",
-            "stars": 428,
-            "forks": 20,
+            "stars": 429,
+            "forks": 21,
             "score": 48
         },
         {
@@ -227,8 +238,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "andrewmccalip/kickbacks.ai",
             "description": "Get paid for waiting. The most-watched line on Earth now has a market. Kickbacks turns AI wait states into one sponsored status line, and users get 50% of ad revenue.",
             "url": "https://github.com/andrewmccalip/kickbacks.ai",
-            "stars": 301,
-            "forks": 61,
+            "stars": 308,
+            "forks": 62,
             "score": 47
         },
         {
@@ -271,19 +282,19 @@ const ALPHA_DATA_V2 = {
             "full_name": "emollick/concord",
             "description": "Instrument-grade qualitative text analysis: AI-coded corpora, gold calibration, DSL/PPI-corrected statistics, Evidence Ladder",
             "url": "https://github.com/emollick/concord",
-            "stars": 170,
-            "forks": 25,
+            "stars": 172,
+            "forks": 26,
             "score": 43
         },
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "eatlah",
-            "full_name": "thisishowen-spec/eatlah",
-            "description": "Snap menu, Start QR orders. AI powered QR ordering for hawker stalls, small restaurants, and independent food businesses. \u4e94\u5206\u949f\u4e0a\u7ebf\u70b9\u9910\u7cfb\u7edf",
-            "url": "https://github.com/thisishowen-spec/eatlah",
-            "stars": 167,
-            "forks": 21,
+            "name": "brand-docs",
+            "full_name": "ferdinandobons/brand-docs",
+            "description": "BrandDocs is a set of agent skills that learn your existing Word, PowerPoint and Excel templates and generate new on-brand documents from them. Unlike generic AI document generators, it preserves brand, structure, styles and formulas by construction. Built for Claude Code, Codex and compatible AI agents.",
+            "url": "https://github.com/ferdinandobons/brand-docs",
+            "stars": 170,
+            "forks": 18,
             "score": 40
         },
         {
@@ -293,7 +304,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "john-rocky/coreai-model-zoo",
             "description": "Community model zoo + knowledge base for Apple Core AI (iOS/macOS 27): Qwen3.5 & Gemma 4 converted end-to-end, verified on-device (iPhone 17 Pro GPU/ANE), conversion gotchas, custom Metal kernels, Swift runner",
             "url": "https://github.com/john-rocky/coreai-model-zoo",
-            "stars": 120,
+            "stars": 121,
             "forks": 6,
             "score": 40
         },
@@ -304,31 +315,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "zaydmulani09/mnemo",
             "description": "Local-first AI memory layer for any LLM. Persistent knowledge graph, entity extraction, semantic retrieval. Works with Ollama, OpenAI, Anthropic, or any OpenAI-compatible backend.",
             "url": "https://github.com/zaydmulani09/mnemo",
-            "stars": 218,
+            "stars": 219,
             "forks": 9,
             "score": 39
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "brand-docs",
-            "full_name": "ferdinandobons/brand-docs",
-            "description": "BrandDocs is a set of agent skills that learn your existing Word, PowerPoint and Excel templates and generate new on-brand documents from them. Unlike generic AI document generators, it preserves brand, structure, styles and formulas by construction. Built for Claude Code, Codex and compatible AI agents.",
-            "url": "https://github.com/ferdinandobons/brand-docs",
-            "stars": 166,
-            "forks": 15,
-            "score": 39
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "ai-shortVideo-pipeline",
-            "full_name": "myccarl/ai-shortVideo-pipeline",
-            "description": "End-to-end AI short-video production pipeline. FastAPI orchestration + Spring Boot gateway with multi-model failover, circuit breaker, metering, and full-stack observability. AI quality gating: prompt anchoring, CLIP consistency, AV sync auto-rescue.",
-            "url": "https://github.com/myccarl/ai-shortVideo-pipeline",
-            "stars": 194,
-            "forks": 2,
-            "score": 37
         },
         {
             "main_cat": "AI",
@@ -337,9 +326,31 @@ const ALPHA_DATA_V2 = {
             "full_name": "u7079256/paperjury",
             "description": "Pre-submission AI review stress-test for research papers. A Claude Code skill: review, verdict, revise, verify.",
             "url": "https://github.com/u7079256/paperjury",
-            "stars": 173,
-            "forks": 16,
+            "stars": 176,
+            "forks": 17,
+            "score": 38
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "ai-shortVideo-pipeline",
+            "full_name": "myccarl/ai-shortVideo-pipeline",
+            "description": "End-to-end AI short-video production pipeline. FastAPI orchestration + Spring Boot gateway with multi-model failover, circuit breaker, metering, and full-stack observability. AI quality gating: prompt anchoring, CLIP consistency, AV sync auto-rescue.",
+            "url": "https://github.com/myccarl/ai-shortVideo-pipeline",
+            "stars": 196,
+            "forks": 2,
             "score": 37
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "HitPaw-Video-Enhancer-Setup",
+            "full_name": "LoopArmorerHelix/HitPaw-Video-Enhancer-Setup",
+            "description": "HitPaw Video Enhancer uses AI models to upscale videos to 4K, colorize black-and-white footage, reduce noise, and restore old recordings. One-click batch enhancement with GPU acceleration.",
+            "url": "https://github.com/LoopArmorerHelix/HitPaw-Video-Enhancer-Setup",
+            "stars": 8,
+            "forks": 0,
+            "score": 31
         },
         {
             "main_cat": "AI",
@@ -507,6 +518,17 @@ const ALPHA_DATA_V2 = {
             "score": 30
         },
         {
+            "main_cat": "Stablecoin Infrastructure",
+            "sub_cat": null,
+            "name": "USD-series",
+            "full_name": "forexstock/USD-series",
+            "description": "The USD Token Suite is a family of Stellar-native stablecoins issued from a single trusted account, each pegged 1:1 to the US Dollar. Together they form a modular financial infrastructure \u2014 spanning payments, anchoring, minting, industry, and beyond",
+            "url": "https://github.com/forexstock/USD-series",
+            "stars": 0,
+            "forks": 0,
+            "score": 30
+        },
+        {
             "main_cat": "AI",
             "sub_cat": "AI General",
             "name": "Arc-x-Elliptic-Blockchain-analytics-and-monitoring-for-compliance-first-Arc-apps",
@@ -535,17 +557,6 @@ const ALPHA_DATA_V2 = {
             "full_name": "HumanChainX/TrustSplit",
             "description": "TrustSplit is a multi-chain, trustless expense-splitting platform that eliminates the trust dependency in group payments. Participants commit stablecoins or sign cryptographic payment promises into a shared escrow pool, which settles all payees in a single batch transaction \u2014 no intermediaries, no delays",
             "url": "https://github.com/HumanChainX/TrustSplit",
-            "stars": 0,
-            "forks": 0,
-            "score": 30
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "SwiftRemit",
-            "full_name": "MentorsMind/SwiftRemit",
-            "description": "SwiftRemit is a full-stack blockchain-powered cross-border payment platform built to eliminate the high costs and slow settlement times of international money transfers in Africa.  Built on the Stellar network, SwiftRemit enables near-instant, low-cost payments using XLM and USDC stablecoins",
-            "url": "https://github.com/MentorsMind/SwiftRemit",
             "stars": 0,
             "forks": 0,
             "score": 30
@@ -706,5 +717,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-06-14 15:45"
+    "timestamp": "2026-06-14 17:14"
 };
