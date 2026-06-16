@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "DietrichGebert/ponytail",
             "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
             "url": "https://github.com/DietrichGebert/ponytail",
-            "stars": 17992,
-            "forks": 767,
+            "stars": 20227,
+            "forks": 855,
             "score": 99
         },
         {
@@ -18,8 +18,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "omnigent-ai/omnigent",
             "description": "A meta-harness for all your AI agents.  Omnigent provides a common layer over Claude Code, Codex, Pi, and the agents you write yourself: swap or combine harnesses without rewriting, keep them in check with policies and sandboxing, and collaborate in real time on the same live session, from any device.",
             "url": "https://github.com/omnigent-ai/omnigent",
-            "stars": 2067,
-            "forks": 254,
+            "stars": 2218,
+            "forks": 272,
             "score": 99
         },
         {
@@ -29,8 +29,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "orange2ai/renwei-writing",
             "description": "\u4eba\u5473\u513f\u5199\u4f5c \u00b7 An AI agent skill: edit people's words without erasing the person behind them",
             "url": "https://github.com/orange2ai/renwei-writing",
-            "stars": 685,
-            "forks": 65,
+            "stars": 706,
+            "forks": 70,
             "score": 99
         },
         {
@@ -40,9 +40,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "JimLiu/baoyu-design",
             "description": "Run Claude Design locally as an Agent Skill \u2014 Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/design. Best with Opus 4.8.",
             "url": "https://github.com/JimLiu/baoyu-design",
-            "stars": 1163,
-            "forks": 82,
-            "score": 92
+            "stars": 1210,
+            "forks": 85,
+            "score": 94
         },
         {
             "main_cat": "AI",
@@ -51,7 +51,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "GordenSun/GordenSuperPPTSkills",
             "description": "AI PPT\u8d5b\u9053\u7ec8\u7ed3\u8005\uff0c\u53f2\u4e0a\u6700\u6700\u6700\u5f3a PPT Skill\uff01\uff01\uff01  \u4f7f\u7528GPT\u751f\u6210\u8c6a\u534e\u7684\u56fe\u7247\u683c\u5f0fPPT\uff0c\u7136\u540e\u8f6c\u6362\u4e3a\u5b8c\u5168\u53ef\u7f16\u8f91\u7684PPTX\u6587\u4ef6\u3002",
             "url": "https://github.com/GordenSun/GordenSuperPPTSkills",
-            "stars": 967,
+            "stars": 977,
             "forks": 91,
             "score": 90
         },
@@ -62,20 +62,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "apple/coreai-models",
             "description": "Model export recipes, Python primitives, and Swift runtime utilities for on-device AI",
             "url": "https://github.com/apple/coreai-models",
-            "stars": 950,
+            "stars": 957,
             "forks": 73,
             "score": 86
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "text-humanizer",
-            "full_name": "khrisat/text-humanizer",
-            "description": "Advanced open-source AI humanizer designed to make AI-generated text undetectable by Turnitin, GPTZero, and other AI detection services.",
-            "url": "https://github.com/khrisat/text-humanizer",
-            "stars": 674,
-            "forks": 54,
-            "score": 79
         },
         {
             "main_cat": "AI",
@@ -84,9 +73,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "nolangz/pixel2motion",
             "description": "AI logo animation skill: turn raster logos into smooth SVG animation, animated HTML demos, GIF/video previews, and motion QA evidence.",
             "url": "https://github.com/nolangz/pixel2motion",
-            "stars": 515,
-            "forks": 42,
-            "score": 78
+            "stars": 549,
+            "forks": 46,
+            "score": 82
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "text-humanizer",
+            "full_name": "khrisat/text-humanizer",
+            "description": "Advanced open-source AI humanizer designed to make AI-generated text undetectable by Turnitin, GPTZero, and other AI detection services.",
+            "url": "https://github.com/khrisat/text-humanizer",
+            "stars": 689,
+            "forks": 55,
+            "score": 80
         },
         {
             "main_cat": "AI",
@@ -95,9 +95,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "amElnagdy/guard-skills",
             "description": "Guard skills for coding agents, quality gates that catch AI-generated failure modes in code, tests, and docs",
             "url": "https://github.com/amElnagdy/guard-skills",
-            "stars": 765,
+            "stars": 774,
             "forks": 89,
-            "score": 76
+            "score": 77
         },
         {
             "main_cat": "AI",
@@ -106,9 +106,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "xiaohuailabs/xiaohu-video-translate",
             "description": "\u5bf9 AI \u8bf4\u4e00\u53e5\u8bdd\uff0c\u628a\u5916\u8bed\u89c6\u9891\u81ea\u52a8\u914d\u4e0a\u4e2d\u6587\u5b57\u5e55 \u2014\u2014 \u4e0b\u8f7d/\u8f6c\u5199/\u7ffb\u8bd1/\u6da6\u8272/\u70e7\u5f55\u4e00\u6761\u9f99\uff0c\u5168\u7a0b\u672c\u5730\uff0c\u8f6c\u5199\u96f6 API \u8d39",
             "url": "https://github.com/xiaohuailabs/xiaohu-video-translate",
-            "stars": 515,
-            "forks": 82,
-            "score": 72
+            "stars": 522,
+            "forks": 83,
+            "score": 68
         },
         {
             "main_cat": "AI",
@@ -117,31 +117,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "kadevin/ilab-gpt-conjure",
             "description": "\u9762\u5411 GPT-image-2 \u7684 AI \u56fe\u7247\u751f\u6210 WebUI \u5de5\u4f5c\u53f0\uff0c\u652f\u6301 Codex Responses \u4e0e OpenAI \u517c\u5bb9 API \u63a5\u5165\uff0c\u5185\u7f6e\u516c\u7528\u56fe\u5e93\u3001\u591a\u7c7b\u578b Chip \u5feb\u6377\u5f15\u7528\u3001\u63d0\u793a\u8bcd\u6a21\u677f\u3001\u591a\u4efb\u52a1\u5e76\u53d1\u548c\u672c\u5730\u961f\u5217\u7ba1\u7406\u3002An AI image generation WebUI workbench for GPT-image-2 with Codex Responses and OpenAI-compatible API support, shared gallery references, multi-type quick chips, prompt templates, concurrent tasks, and local queue management.",
             "url": "https://github.com/kadevin/ilab-gpt-conjure",
-            "stars": 477,
-            "forks": 65,
-            "score": 66
+            "stars": 481,
+            "forks": 66,
+            "score": 63
         },
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "aipath",
-            "full_name": "buynao/aipath",
-            "description": "Interactive AI General Education Course \u2014 30 Lessons, Zero Math",
-            "url": "https://github.com/buynao/aipath",
-            "stars": 266,
-            "forks": 30,
-            "score": 62
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "coralline",
-            "full_name": "Nanako0129/coralline",
-            "description": "\ud83e\udeb8 Powerlevel10k-inspired statusline for Claude Code \u2014 paste one prompt and your AI interviews you, then installs it",
-            "url": "https://github.com/Nanako0129/coralline",
-            "stars": 302,
-            "forks": 18,
-            "score": 61
+            "name": "perfectpixel-studio",
+            "full_name": "gykim80/perfectpixel-studio",
+            "description": "AI-powered animation sprite studio \u2014 generate character sprite sheets with 8 directions and 100+ actions from a single text prompt (Wails + Go + React)",
+            "url": "https://github.com/gykim80/perfectpixel-studio",
+            "stars": 194,
+            "forks": 27,
+            "score": 60
         },
         {
             "main_cat": "AI",
@@ -150,19 +139,30 @@ const ALPHA_DATA_V2 = {
             "full_name": "ziqihe10-droid/xuefeng-agent",
             "description": "AI \u9ad8\u8003\u5fd7\u613f\u987e\u95ee \u2014 \u4f1a\u8ffd\u95ee\u3001\u4f1a\u5206\u6790\u3001\u6562\u8bf4\u771f\u8bdd",
             "url": "https://github.com/ziqihe10-droid/xuefeng-agent",
-            "stars": 427,
-            "forks": 58,
+            "stars": 429,
+            "forks": 57,
             "score": 59
         },
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "chubbyskills",
-            "full_name": "chubbyguan/chubbyskills",
-            "description": "\u628a\u4e2d\u6587\u5168\u6e20\u9053\u5185\u5bb9\uff08\u6296\u97f3 / B\u7ad9 / \u5c0f\u7ea2\u4e66 / \u516c\u4f17\u53f7 / X / \u64ad\u5ba2\uff09\u91c7\u96c6\u8fdb\u4e2a\u4eba\u77e5\u8bc6\u5e93\u7684 13 \u4e2a AI Skill\uff1a\u56fe\u6587\u5b58\u56fe\u3001\u89c6\u9891\u8f6c\u6587\u5b57\u7a3f\u3001\u5b57\u5e55\u4f18\u5148\u514d GPU\uff0c\u9644\u5e26\u77e5\u8bc6\u5e93 MCP server\u3002 \uff5c Ingest Chinese content into your personal knowledge base \u2014 image/video routing, subtitle-first transcription, and a KB MCP server.",
-            "url": "https://github.com/chubbyguan/chubbyskills",
-            "stars": 361,
-            "forks": 52,
+            "name": "coralline",
+            "full_name": "Nanako0129/coralline",
+            "description": "\ud83e\udeb8 Powerlevel10k-inspired statusline for Claude Code \u2014 paste one prompt and your AI interviews you, then installs it",
+            "url": "https://github.com/Nanako0129/coralline",
+            "stars": 307,
+            "forks": 24,
+            "score": 58
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "aipath",
+            "full_name": "buynao/aipath",
+            "description": "Interactive AI General Education Course \u2014 30 Lessons, Zero Math",
+            "url": "https://github.com/buynao/aipath",
+            "stars": 275,
+            "forks": 30,
             "score": 58
         },
         {
@@ -172,9 +172,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "FerroxLabs/wayland",
             "description": "Wayland - The AI Agent That Perceives. Reasons. Acts. Evolves.",
             "url": "https://github.com/FerroxLabs/wayland",
-            "stars": 432,
-            "forks": 68,
+            "stars": 433,
+            "forks": 69,
             "score": 57
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "chubbyskills",
+            "full_name": "chubbyguan/chubbyskills",
+            "description": "\u628a\u4e2d\u6587\u5168\u6e20\u9053\u5185\u5bb9\uff08\u6296\u97f3 / B\u7ad9 / \u5c0f\u7ea2\u4e66 / \u516c\u4f17\u53f7 / X / \u64ad\u5ba2\uff09\u91c7\u96c6\u8fdb\u4e2a\u4eba\u77e5\u8bc6\u5e93\u7684 13 \u4e2a AI Skill\uff1a\u56fe\u6587\u5b58\u56fe\u3001\u89c6\u9891\u8f6c\u6587\u5b57\u7a3f\u3001\u5b57\u5e55\u4f18\u5148\u514d GPU\uff0c\u9644\u5e26\u77e5\u8bc6\u5e93 MCP server\u3002 \uff5c Ingest Chinese content into your personal knowledge base \u2014 image/video routing, subtitle-first transcription, and a KB MCP server.",
+            "url": "https://github.com/chubbyguan/chubbyskills",
+            "stars": 367,
+            "forks": 53,
+            "score": 56
         },
         {
             "main_cat": "AI",
@@ -183,9 +194,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "itsinseong/value-for-fable",
             "description": "Opus\uc5d0 \uadfc\uc811\ud55c \ud488\uc9c8\uc744 Sonnet \ub2e8\uac00\uc5d0 \u2014 \uac00\uc131\ube44 AI \uc6b4\uc601 \ubaa8\ub378\uc744 \uc9c1\uc811 \uad6c\ucd95\ud55c Claude Code \ud504\ub85c\uc81d\ud2b8",
             "url": "https://github.com/itsinseong/value-for-fable",
-            "stars": 194,
+            "stars": 193,
             "forks": 46,
-            "score": 57
+            "score": 56
         },
         {
             "main_cat": "AI",
@@ -194,8 +205,19 @@ const ALPHA_DATA_V2 = {
             "full_name": "XBuilderLAB/cheat-on-money",
             "description": "AI \u65f6\u4ee3\u9760\u8c31\u517c\u804c\u53d1\u73b0 + \u53cd\u8bc8\u9a8c\u8bc1 skill\uff1a\u9700\u6c42\u4fe1\u53f7\u53cd\u63a8 + \u5b9e\u65f6\u65f6\u6548\u6838\u67e5 + \u53cd\u8bc8 rubric + \u4e2a\u6027\u5316\u6821\u51c6\u73af",
             "url": "https://github.com/XBuilderLAB/cheat-on-money",
-            "stars": 327,
-            "forks": 43,
+            "stars": 329,
+            "forks": 44,
+            "score": 55
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "flock",
+            "full_name": "duckbugio/flock",
+            "description": "Autonomous AI dev-team bot",
+            "url": "https://github.com/duckbugio/flock",
+            "stars": 491,
+            "forks": 0,
             "score": 54
         },
         {
@@ -205,20 +227,31 @@ const ALPHA_DATA_V2 = {
             "full_name": "cobusgreyling/loop-engineering",
             "description": "Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by Addy Osmani and Boris Cherny). Includes loop-audit, loop-init, loop-cost.",
             "url": "https://github.com/cobusgreyling/loop-engineering",
-            "stars": 284,
-            "forks": 38,
-            "score": 54
+            "stars": 301,
+            "forks": 39,
+            "score": 52
         },
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "flock",
-            "full_name": "duckbugio/flock",
-            "description": "Autonomous AI dev-team bot",
-            "url": "https://github.com/duckbugio/flock",
-            "stars": 442,
-            "forks": 0,
-            "score": 52
+            "name": "orange-line-illustration",
+            "full_name": "orange2ai/orange-line-illustration",
+            "description": "\ud83c\udf4a New Yorker-style minimalist editorial illustration skill for AI agents \u2014 one idea, one accent, lots of silence. Free for open-source use; commercial license for closed-source.",
+            "url": "https://github.com/orange2ai/orange-line-illustration",
+            "stars": 260,
+            "forks": 20,
+            "score": 51
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "testsprite-cli",
+            "full_name": "TestSprite/testsprite-cli",
+            "description": "Official TestSprite CLI \u2014 AI-powered automated testing from your terminal",
+            "url": "https://github.com/TestSprite/testsprite-cli",
+            "stars": 274,
+            "forks": 10,
+            "score": 49
         },
         {
             "main_cat": "AI",
@@ -229,28 +262,6 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/bingook/bingo",
             "stars": 188,
             "forks": 21,
-            "score": 52
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "testsprite-cli",
-            "full_name": "TestSprite/testsprite-cli",
-            "description": "Official TestSprite CLI \u2014 AI-powered automated testing from your terminal",
-            "url": "https://github.com/TestSprite/testsprite-cli",
-            "stars": 258,
-            "forks": 9,
-            "score": 51
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "orange-line-illustration",
-            "full_name": "orange2ai/orange-line-illustration",
-            "description": "\ud83c\udf4a New Yorker-style minimalist editorial illustration skill for AI agents \u2014 one idea, one accent, lots of silence. Free for open-source use; commercial license for closed-source.",
-            "url": "https://github.com/orange2ai/orange-line-illustration",
-            "stars": 247,
-            "forks": 16,
             "score": 49
         },
         {
@@ -271,8 +282,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "techjarves/Local-AI-Image-Generator",
             "description": "A fully self-contained, offline AI image generation studio for Windows. Runs Stable Diffusion (Safetensors/GGUF) locally with zero manual setup. Auto-configures CUDA for Nvidia GPUs and Vulkan for AMD/Intel Arc cards. Zero system-wide dependencies required.",
             "url": "https://github.com/techjarves/Local-AI-Image-Generator",
-            "stars": 199,
-            "forks": 73,
+            "stars": 200,
+            "forks": 74,
             "score": 46
         },
         {
@@ -282,20 +293,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "12britz/awesome-free-models",
             "description": "A curated list of free AI models, APIs, and tools you can use without paying a cent.",
             "url": "https://github.com/12britz/awesome-free-models",
-            "stars": 293,
+            "stars": 295,
             "forks": 20,
-            "score": 45
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "concord",
-            "full_name": "emollick/concord",
-            "description": "Instrument-grade qualitative text analysis: AI-coded corpora, gold calibration, DSL/PPI-corrected statistics, Evidence Ladder",
-            "url": "https://github.com/emollick/concord",
-            "stars": 186,
-            "forks": 32,
-            "score": 43
+            "score": 44
         },
         {
             "main_cat": "AI",
@@ -304,20 +304,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "taisly/agent",
             "description": "Taisly Agent Kit: SDK, CLI, examples, and docs for AI agents that publish videos through Taisly.",
             "url": "https://github.com/taisly/agent",
-            "stars": 197,
+            "stars": 201,
             "forks": 0,
             "score": 42
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "coreai-model-zoo",
-            "full_name": "john-rocky/coreai-model-zoo",
-            "description": "Community model zoo + knowledge base for Apple Core AI (iOS/macOS 27): Qwen3.5 & Gemma 4 converted end-to-end, verified on-device (iPhone 17 Pro GPU/ANE), conversion gotchas, custom Metal kernels, Swift runner",
-            "url": "https://github.com/john-rocky/coreai-model-zoo",
-            "stars": 138,
-            "forks": 9,
-            "score": 39
         },
         {
             "main_cat": "AI",
@@ -326,9 +315,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "myccarl/ai-shortVideo-pipeline",
             "description": "End-to-end AI short-video production pipeline. FastAPI orchestration + Spring Boot gateway with multi-model failover, circuit breaker, metering, and full-stack observability. AI quality gating: prompt anchoring, CLIP consistency, AV sync auto-rescue.",
             "url": "https://github.com/myccarl/ai-shortVideo-pipeline",
-            "stars": 242,
-            "forks": 2,
-            "score": 38
+            "stars": 246,
+            "forks": 3,
+            "score": 39
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "coreai-model-zoo",
+            "full_name": "john-rocky/coreai-model-zoo",
+            "description": "Community model zoo + knowledge base for Apple Core AI (iOS/macOS 27): Qwen3.5 & Gemma 4 converted end-to-end, verified on-device (iPhone 17 Pro GPU/ANE), conversion gotchas, custom Metal kernels, Swift runner",
+            "url": "https://github.com/john-rocky/coreai-model-zoo",
+            "stars": 140,
+            "forks": 9,
+            "score": 39
         },
         {
             "main_cat": "AI",
@@ -337,8 +337,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "Dong90/oh-my-taiyiforge",
             "description": "AI workflow automation plugin for intelligent code generation with Claude/Codex",
             "url": "https://github.com/Dong90/oh-my-taiyiforge",
-            "stars": 204,
-            "forks": 6,
+            "stars": 211,
+            "forks": 7,
             "score": 38
         },
         {
@@ -540,17 +540,6 @@ const ALPHA_DATA_V2 = {
             "score": 30
         },
         {
-            "main_cat": "Stablecoin Infrastructure",
-            "sub_cat": null,
-            "name": "solana-compliance-hook",
-            "full_name": "sks006/solana-compliance-hook",
-            "description": "A Token-2022 transfer hook for Solana that enforces KYC allowlists, blacklists, and fee-on-transfer\u2014built for compliant stablecoin issuers and payment processors.",
-            "url": "https://github.com/sks006/solana-compliance-hook",
-            "stars": 0,
-            "forks": 0,
-            "score": 30
-        },
-        {
             "main_cat": "AI",
             "sub_cat": "AI Agents",
             "name": "code-explorer",
@@ -717,5 +706,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-06-16 06:28"
+    "timestamp": "2026-06-16 12:07"
 };
