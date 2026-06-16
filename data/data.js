@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "DietrichGebert/ponytail",
             "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
             "url": "https://github.com/DietrichGebert/ponytail",
-            "stars": 23962,
-            "forks": 1047,
+            "stars": 24382,
+            "forks": 1075,
             "score": 99
         },
         {
@@ -18,8 +18,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "omnigent-ai/omnigent",
             "description": "A meta-harness for all your AI agents.  Omnigent provides a common layer over Claude Code, Codex, Pi, and the agents you write yourself: swap or combine harnesses without rewriting, keep them in check with policies and sandboxing, and collaborate in real time on the same live session, from any device.",
             "url": "https://github.com/omnigent-ai/omnigent",
-            "stars": 2668,
-            "forks": 310,
+            "stars": 2730,
+            "forks": 316,
             "score": 99
         },
         {
@@ -40,7 +40,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "JimLiu/baoyu-design",
             "description": "Run Claude Design locally as an Agent Skill \u2014 Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/design. Best with Opus 4.8.",
             "url": "https://github.com/JimLiu/baoyu-design",
-            "stars": 1235,
+            "stars": 1236,
             "forks": 86,
             "score": 95
         },
@@ -51,7 +51,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "apple/coreai-models",
             "description": "Model export recipes, Python primitives, and Swift runtime utilities for on-device AI",
             "url": "https://github.com/apple/coreai-models",
-            "stars": 1004,
+            "stars": 1010,
             "forks": 74,
             "score": 89
         },
@@ -62,7 +62,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "GordenSun/GordenSuperPPTSkills",
             "description": "AI PPT\u8d5b\u9053\u7ec8\u7ed3\u8005\uff0c\u53f2\u4e0a\u6700\u6700\u6700\u5f3a PPT Skill\uff01\uff01\uff01  \u4f7f\u7528GPT\u751f\u6210\u8c6a\u534e\u7684\u56fe\u7247\u683c\u5f0fPPT\uff0c\u7136\u540e\u8f6c\u6362\u4e3a\u5b8c\u5168\u53ef\u7f16\u8f91\u7684PPTX\u6587\u4ef6\u3002",
             "url": "https://github.com/GordenSun/GordenSuperPPTSkills",
-            "stars": 982,
+            "stars": 983,
             "forks": 91,
             "score": 86
         },
@@ -73,8 +73,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "nolangz/pixel2motion",
             "description": "AI logo animation skill: turn raster logos into smooth SVG animation, animated HTML demos, GIF/video previews, and motion QA evidence.",
             "url": "https://github.com/nolangz/pixel2motion",
-            "stars": 589,
-            "forks": 50,
+            "stars": 591,
+            "forks": 51,
             "score": 86
         },
         {
@@ -84,7 +84,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "amElnagdy/guard-skills",
             "description": "Guard skills for coding agents, quality gates that catch AI-generated failure modes in code, tests, and docs",
             "url": "https://github.com/amElnagdy/guard-skills",
-            "stars": 783,
+            "stars": 787,
             "forks": 93,
             "score": 74
         },
@@ -117,7 +117,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "gykim80/perfectpixel-studio",
             "description": "AI-powered animation sprite studio \u2014 generate character sprite sheets with 8 directions and 100+ actions from a single text prompt (Wails + Go + React)",
             "url": "https://github.com/gykim80/perfectpixel-studio",
-            "stars": 196,
+            "stars": 197,
             "forks": 27,
             "score": 60
         },
@@ -128,8 +128,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "Nanako0129/coralline",
             "description": "\ud83e\udeb8 Powerlevel10k-inspired statusline for Claude Code \u2014 paste one prompt and your AI interviews you, then installs it",
             "url": "https://github.com/Nanako0129/coralline",
-            "stars": 315,
-            "forks": 24,
+            "stars": 318,
+            "forks": 25,
             "score": 59
         },
         {
@@ -172,7 +172,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "duckbugio/flock",
             "description": "Autonomous AI dev-team bot",
             "url": "https://github.com/duckbugio/flock",
-            "stars": 557,
+            "stars": 561,
             "forks": 0,
             "score": 55
         },
@@ -194,7 +194,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "XBuilderLAB/cheat-on-money",
             "description": "AI \u65f6\u4ee3\u9760\u8c31\u517c\u804c\u53d1\u73b0 + \u53cd\u8bc8\u9a8c\u8bc1 skill\uff1a\u9700\u6c42\u4fe1\u53f7\u53cd\u63a8 + \u5b9e\u65f6\u65f6\u6548\u6838\u67e5 + \u53cd\u8bc8 rubric + \u4e2a\u6027\u5316\u6821\u51c6\u73af",
             "url": "https://github.com/XBuilderLAB/cheat-on-money",
-            "stars": 337,
+            "stars": 338,
             "forks": 44,
             "score": 53
         },
@@ -205,7 +205,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "cobusgreyling/loop-engineering",
             "description": "Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by Addy Osmani and Boris Cherny). Includes loop-audit, loop-init, loop-cost.",
             "url": "https://github.com/cobusgreyling/loop-engineering",
-            "stars": 310,
+            "stars": 311,
             "forks": 42,
             "score": 53
         },
@@ -227,7 +227,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "TestSprite/testsprite-cli",
             "description": "Official TestSprite CLI \u2014 AI-powered automated testing from your terminal",
             "url": "https://github.com/TestSprite/testsprite-cli",
-            "stars": 298,
+            "stars": 300,
             "forks": 10,
             "score": 51
         },
@@ -282,9 +282,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "12britz/awesome-free-models",
             "description": "A curated list of free AI models, APIs, and tools you can use without paying a cent.",
             "url": "https://github.com/12britz/awesome-free-models",
-            "stars": 307,
+            "stars": 320,
             "forks": 20,
-            "score": 44
+            "score": 45
         },
         {
             "main_cat": "AI",
@@ -315,20 +315,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "john-rocky/coreai-model-zoo",
             "description": "Community model zoo + knowledge base for Apple Core AI (iOS/macOS 27): Qwen3.5 & Gemma 4 converted end-to-end, verified on-device (iPhone 17 Pro GPU/ANE), conversion gotchas, custom Metal kernels, Swift runner",
             "url": "https://github.com/john-rocky/coreai-model-zoo",
-            "stars": 143,
+            "stars": 144,
             "forks": 10,
             "score": 40
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "oh-my-taiyiforge",
-            "full_name": "Dong90/oh-my-taiyiforge",
-            "description": "AI workflow automation plugin for intelligent code generation with Claude/Codex",
-            "url": "https://github.com/Dong90/oh-my-taiyiforge",
-            "stars": 226,
-            "forks": 7,
-            "score": 39
         },
         {
             "main_cat": "AI",
@@ -337,9 +326,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "myccarl/ai-shortVideo-pipeline",
             "description": "End-to-end AI short-video production pipeline. FastAPI orchestration + Spring Boot gateway with multi-model failover, circuit breaker, metering, and full-stack observability. AI quality gating: prompt anchoring, CLIP consistency, AV sync auto-rescue.",
             "url": "https://github.com/myccarl/ai-shortVideo-pipeline",
-            "stars": 257,
+            "stars": 259,
             "forks": 3,
-            "score": 38
+            "score": 39
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "oh-my-taiyiforge",
+            "full_name": "Dong90/oh-my-taiyiforge",
+            "description": "AI workflow automation plugin for intelligent code generation with Claude/Codex",
+            "url": "https://github.com/Dong90/oh-my-taiyiforge",
+            "stars": 228,
+            "forks": 7,
+            "score": 39
         },
         {
             "main_cat": "AI",
@@ -452,6 +452,17 @@ const ALPHA_DATA_V2 = {
             "score": 30
         },
         {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "payrail-dashboard",
+            "full_name": "ProstoKripta00/payrail-dashboard",
+            "description": "Non-custodial stablecoin invoice and payment tracking dashboard for Web3 startups.",
+            "url": "https://github.com/ProstoKripta00/payrail-dashboard",
+            "stars": 0,
+            "forks": 0,
+            "score": 30
+        },
+        {
             "main_cat": "Stablecoin Infrastructure",
             "sub_cat": null,
             "name": "arcorapay",
@@ -526,17 +537,6 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/LCS3002/eu-hk-hack-munich",
             "stars": 0,
             "forks": 1,
-            "score": 30
-        },
-        {
-            "main_cat": "Stablecoin Infrastructure",
-            "sub_cat": null,
-            "name": "USD-series",
-            "full_name": "forexstock/USD-series",
-            "description": "The USD Token Suite is a family of Stellar-native stablecoins issued from a single trusted account, each pegged 1:1 to the US Dollar. Together they form a modular financial infrastructure \u2014 spanning payments, anchoring, minting, industry, and beyond",
-            "url": "https://github.com/forexstock/USD-series",
-            "stars": 0,
-            "forks": 0,
             "score": 30
         },
         {
@@ -685,6 +685,20 @@ const ALPHA_DATA_V2 = {
     ],
     "news": [
         {
+            "title": "Your Privacy My Cloak: Backdoor Attacks on Differentially Private Federated Learning",
+            "source": "ArXiv",
+            "type": "Research Alpha",
+            "color": "text-indigo-600",
+            "url": "http://arxiv.org/abs/2606.17035v1"
+        },
+        {
+            "title": "Di5Guise: 5G Privacy with vSIM",
+            "source": "ArXiv",
+            "type": "Research Alpha",
+            "color": "text-indigo-600",
+            "url": "http://arxiv.org/abs/2606.16943v1"
+        },
+        {
             "title": "Bitcoin volatility remains high ahead of key FED decision.",
             "source": "Polymarket",
             "type": "Expectation",
@@ -692,5 +706,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-06-16 20:56"
+    "timestamp": "2026-06-16 22:51"
 };
