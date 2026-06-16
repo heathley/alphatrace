@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "DietrichGebert/ponytail",
             "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
             "url": "https://github.com/DietrichGebert/ponytail",
-            "stars": 23121,
-            "forks": 1015,
+            "stars": 23962,
+            "forks": 1047,
             "score": 99
         },
         {
@@ -18,8 +18,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "omnigent-ai/omnigent",
             "description": "A meta-harness for all your AI agents.  Omnigent provides a common layer over Claude Code, Codex, Pi, and the agents you write yourself: swap or combine harnesses without rewriting, keep them in check with policies and sandboxing, and collaborate in real time on the same live session, from any device.",
             "url": "https://github.com/omnigent-ai/omnigent",
-            "stars": 2561,
-            "forks": 303,
+            "stars": 2668,
+            "forks": 310,
             "score": 99
         },
         {
@@ -29,7 +29,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "orange2ai/renwei-writing",
             "description": "\u4eba\u5473\u513f\u5199\u4f5c \u00b7 An AI agent skill: edit people's words without erasing the person behind them",
             "url": "https://github.com/orange2ai/renwei-writing",
-            "stars": 714,
+            "stars": 716,
             "forks": 72,
             "score": 99
         },
@@ -40,7 +40,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "JimLiu/baoyu-design",
             "description": "Run Claude Design locally as an Agent Skill \u2014 Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/design. Best with Opus 4.8.",
             "url": "https://github.com/JimLiu/baoyu-design",
-            "stars": 1231,
+            "stars": 1235,
             "forks": 86,
             "score": 95
         },
@@ -51,9 +51,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "apple/coreai-models",
             "description": "Model export recipes, Python primitives, and Swift runtime utilities for on-device AI",
             "url": "https://github.com/apple/coreai-models",
-            "stars": 986,
+            "stars": 1004,
             "forks": 74,
-            "score": 88
+            "score": 89
         },
         {
             "main_cat": "AI",
@@ -73,7 +73,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "nolangz/pixel2motion",
             "description": "AI logo animation skill: turn raster logos into smooth SVG animation, animated HTML demos, GIF/video previews, and motion QA evidence.",
             "url": "https://github.com/nolangz/pixel2motion",
-            "stars": 585,
+            "stars": 589,
             "forks": 50,
             "score": 86
         },
@@ -84,8 +84,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "amElnagdy/guard-skills",
             "description": "Guard skills for coding agents, quality gates that catch AI-generated failure modes in code, tests, and docs",
             "url": "https://github.com/amElnagdy/guard-skills",
-            "stars": 780,
-            "forks": 92,
+            "stars": 783,
+            "forks": 93,
             "score": 74
         },
         {
@@ -106,7 +106,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "kadevin/ilab-gpt-conjure",
             "description": "\u9762\u5411 GPT-image-2 \u7684 AI \u56fe\u7247\u751f\u6210 WebUI \u5de5\u4f5c\u53f0\uff0c\u652f\u6301 Codex Responses \u4e0e OpenAI \u517c\u5bb9 API \u63a5\u5165\uff0c\u5185\u7f6e\u516c\u7528\u56fe\u5e93\u3001\u591a\u7c7b\u578b Chip \u5feb\u6377\u5f15\u7528\u3001\u63d0\u793a\u8bcd\u6a21\u677f\u3001\u591a\u4efb\u52a1\u5e76\u53d1\u548c\u672c\u5730\u961f\u5217\u7ba1\u7406\u3002An AI image generation WebUI workbench for GPT-image-2 with Codex Responses and OpenAI-compatible API support, shared gallery references, multi-type quick chips, prompt templates, concurrent tasks, and local queue management.",
             "url": "https://github.com/kadevin/ilab-gpt-conjure",
-            "stars": 484,
+            "stars": 485,
             "forks": 68,
             "score": 64
         },
@@ -128,7 +128,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Nanako0129/coralline",
             "description": "\ud83e\udeb8 Powerlevel10k-inspired statusline for Claude Code \u2014 paste one prompt and your AI interviews you, then installs it",
             "url": "https://github.com/Nanako0129/coralline",
-            "stars": 313,
+            "stars": 315,
             "forks": 24,
             "score": 59
         },
@@ -168,13 +168,13 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "value-for-fable",
-            "full_name": "itsinseong/value-for-fable",
-            "description": "Opus\uc5d0 \uadfc\uc811\ud55c \ud488\uc9c8\uc744 Sonnet \ub2e8\uac00\uc5d0 \u2014 \uac00\uc131\ube44 AI \uc6b4\uc601 \ubaa8\ub378\uc744 \uc9c1\uc811 \uad6c\ucd95\ud55c Claude Code \ud504\ub85c\uc81d\ud2b8",
-            "url": "https://github.com/itsinseong/value-for-fable",
-            "stars": 193,
-            "forks": 46,
-            "score": 56
+            "name": "flock",
+            "full_name": "duckbugio/flock",
+            "description": "Autonomous AI dev-team bot",
+            "url": "https://github.com/duckbugio/flock",
+            "stars": 557,
+            "forks": 0,
+            "score": 55
         },
         {
             "main_cat": "AI",
@@ -183,20 +183,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "FerroxLabs/wayland",
             "description": "Wayland - The AI Agent That Perceives. Reasons. Acts. Evolves.",
             "url": "https://github.com/FerroxLabs/wayland",
-            "stars": 437,
+            "stars": 438,
             "forks": 70,
             "score": 55
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "flock",
-            "full_name": "duckbugio/flock",
-            "description": "Autonomous AI dev-team bot",
-            "url": "https://github.com/duckbugio/flock",
-            "stars": 539,
-            "forks": 0,
-            "score": 54
         },
         {
             "main_cat": "AI",
@@ -216,20 +205,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "cobusgreyling/loop-engineering",
             "description": "Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by Addy Osmani and Boris Cherny). Includes loop-audit, loop-init, loop-cost.",
             "url": "https://github.com/cobusgreyling/loop-engineering",
-            "stars": 309,
-            "forks": 41,
+            "stars": 310,
+            "forks": 42,
             "score": 53
         },
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "orange-line-illustration",
-            "full_name": "orange2ai/orange-line-illustration",
-            "description": "\ud83c\udf4a New Yorker-style minimalist editorial illustration skill for AI agents \u2014 one idea, one accent, lots of silence. Free for open-source use; commercial license for closed-source.",
-            "url": "https://github.com/orange2ai/orange-line-illustration",
-            "stars": 266,
-            "forks": 20,
-            "score": 51
+            "name": "value-for-fable",
+            "full_name": "itsinseong/value-for-fable",
+            "description": "Opus\uc5d0 \uadfc\uc811\ud55c \ud488\uc9c8\uc744 Sonnet \ub2e8\uac00\uc5d0 \u2014 \uac00\uc131\ube44 AI \uc6b4\uc601 \ubaa8\ub378\uc744 \uc9c1\uc811 \uad6c\ucd95\ud55c Claude Code \ud504\ub85c\uc81d\ud2b8",
+            "url": "https://github.com/itsinseong/value-for-fable",
+            "stars": 193,
+            "forks": 46,
+            "score": 53
         },
         {
             "main_cat": "AI",
@@ -238,9 +227,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "TestSprite/testsprite-cli",
             "description": "Official TestSprite CLI \u2014 AI-powered automated testing from your terminal",
             "url": "https://github.com/TestSprite/testsprite-cli",
-            "stars": 292,
+            "stars": 298,
             "forks": 10,
-            "score": 50
+            "score": 51
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "orange-line-illustration",
+            "full_name": "orange2ai/orange-line-illustration",
+            "description": "\ud83c\udf4a New Yorker-style minimalist editorial illustration skill for AI agents \u2014 one idea, one accent, lots of silence. Free for open-source use; commercial license for closed-source.",
+            "url": "https://github.com/orange2ai/orange-line-illustration",
+            "stars": 267,
+            "forks": 20,
+            "score": 51
         },
         {
             "main_cat": "AI",
@@ -271,7 +271,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "techjarves/Local-AI-Image-Generator",
             "description": "A fully self-contained, offline AI image generation studio for Windows. Runs Stable Diffusion (Safetensors/GGUF) locally with zero manual setup. Auto-configures CUDA for Nvidia GPUs and Vulkan for AMD/Intel Arc cards. Zero system-wide dependencies required.",
             "url": "https://github.com/techjarves/Local-AI-Image-Generator",
-            "stars": 202,
+            "stars": 204,
             "forks": 74,
             "score": 46
         },
@@ -282,7 +282,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "12britz/awesome-free-models",
             "description": "A curated list of free AI models, APIs, and tools you can use without paying a cent.",
             "url": "https://github.com/12britz/awesome-free-models",
-            "stars": 297,
+            "stars": 307,
             "forks": 20,
             "score": 44
         },
@@ -321,24 +321,24 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "ai-shortVideo-pipeline",
-            "full_name": "myccarl/ai-shortVideo-pipeline",
-            "description": "End-to-end AI short-video production pipeline. FastAPI orchestration + Spring Boot gateway with multi-model failover, circuit breaker, metering, and full-stack observability. AI quality gating: prompt anchoring, CLIP consistency, AV sync auto-rescue.",
-            "url": "https://github.com/myccarl/ai-shortVideo-pipeline",
-            "stars": 252,
-            "forks": 3,
-            "score": 38
-        },
-        {
-            "main_cat": "AI",
             "sub_cat": null,
             "name": "oh-my-taiyiforge",
             "full_name": "Dong90/oh-my-taiyiforge",
             "description": "AI workflow automation plugin for intelligent code generation with Claude/Codex",
             "url": "https://github.com/Dong90/oh-my-taiyiforge",
-            "stars": 219,
+            "stars": 226,
             "forks": 7,
+            "score": 39
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "ai-shortVideo-pipeline",
+            "full_name": "myccarl/ai-shortVideo-pipeline",
+            "description": "End-to-end AI short-video production pipeline. FastAPI orchestration + Spring Boot gateway with multi-model failover, circuit breaker, metering, and full-stack observability. AI quality gating: prompt anchoring, CLIP consistency, AV sync auto-rescue.",
+            "url": "https://github.com/myccarl/ai-shortVideo-pipeline",
+            "stars": 257,
+            "forks": 3,
             "score": 38
         },
         {
@@ -685,20 +685,6 @@ const ALPHA_DATA_V2 = {
     ],
     "news": [
         {
-            "title": "Your Privacy My Cloak: Backdoor Attacks on Differentially Private Federated Learning",
-            "source": "ArXiv",
-            "type": "Research Alpha",
-            "color": "text-indigo-600",
-            "url": "http://arxiv.org/abs/2606.17035v1"
-        },
-        {
-            "title": "Di5Guise: 5G Privacy with vSIM",
-            "source": "ArXiv",
-            "type": "Research Alpha",
-            "color": "text-indigo-600",
-            "url": "http://arxiv.org/abs/2606.16943v1"
-        },
-        {
             "title": "Bitcoin volatility remains high ahead of key FED decision.",
             "source": "Polymarket",
             "type": "Expectation",
@@ -706,5 +692,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-06-16 17:59"
+    "timestamp": "2026-06-16 20:56"
 };
