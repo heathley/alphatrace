@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "DietrichGebert/ponytail",
             "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
             "url": "https://github.com/DietrichGebert/ponytail",
-            "stars": 24382,
-            "forks": 1075,
+            "stars": 24729,
+            "forks": 1092,
             "score": 99
         },
         {
@@ -18,8 +18,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "omnigent-ai/omnigent",
             "description": "A meta-harness for all your AI agents.  Omnigent provides a common layer over Claude Code, Codex, Pi, and the agents you write yourself: swap or combine harnesses without rewriting, keep them in check with policies and sandboxing, and collaborate in real time on the same live session, from any device.",
             "url": "https://github.com/omnigent-ai/omnigent",
-            "stars": 2730,
-            "forks": 316,
+            "stars": 2768,
+            "forks": 322,
             "score": 99
         },
         {
@@ -29,8 +29,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "orange2ai/renwei-writing",
             "description": "\u4eba\u5473\u513f\u5199\u4f5c \u00b7 An AI agent skill: edit people's words without erasing the person behind them",
             "url": "https://github.com/orange2ai/renwei-writing",
-            "stars": 716,
-            "forks": 72,
+            "stars": 717,
+            "forks": 73,
             "score": 99
         },
         {
@@ -40,9 +40,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "JimLiu/baoyu-design",
             "description": "Run Claude Design locally as an Agent Skill \u2014 Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/design. Best with Opus 4.8.",
             "url": "https://github.com/JimLiu/baoyu-design",
-            "stars": 1236,
+            "stars": 1240,
             "forks": 86,
-            "score": 95
+            "score": 96
         },
         {
             "main_cat": "AI",
@@ -51,9 +51,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "apple/coreai-models",
             "description": "Model export recipes, Python primitives, and Swift runtime utilities for on-device AI",
             "url": "https://github.com/apple/coreai-models",
-            "stars": 1010,
-            "forks": 74,
+            "stars": 1014,
+            "forks": 75,
             "score": 89
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "pixel2motion",
+            "full_name": "nolangz/pixel2motion",
+            "description": "AI logo animation skill: turn raster logos into smooth SVG animation, animated HTML demos, GIF/video previews, and motion QA evidence.",
+            "url": "https://github.com/nolangz/pixel2motion",
+            "stars": 596,
+            "forks": 52,
+            "score": 87
         },
         {
             "main_cat": "AI",
@@ -69,22 +80,11 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "pixel2motion",
-            "full_name": "nolangz/pixel2motion",
-            "description": "AI logo animation skill: turn raster logos into smooth SVG animation, animated HTML demos, GIF/video previews, and motion QA evidence.",
-            "url": "https://github.com/nolangz/pixel2motion",
-            "stars": 591,
-            "forks": 51,
-            "score": 86
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
             "name": "guard-skills",
             "full_name": "amElnagdy/guard-skills",
             "description": "Guard skills for coding agents, quality gates that catch AI-generated failure modes in code, tests, and docs",
             "url": "https://github.com/amElnagdy/guard-skills",
-            "stars": 787,
+            "stars": 790,
             "forks": 93,
             "score": 74
         },
@@ -106,9 +106,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "kadevin/ilab-gpt-conjure",
             "description": "\u9762\u5411 GPT-image-2 \u7684 AI \u56fe\u7247\u751f\u6210 WebUI \u5de5\u4f5c\u53f0\uff0c\u652f\u6301 Codex Responses \u4e0e OpenAI \u517c\u5bb9 API \u63a5\u5165\uff0c\u5185\u7f6e\u516c\u7528\u56fe\u5e93\u3001\u591a\u7c7b\u578b Chip \u5feb\u6377\u5f15\u7528\u3001\u63d0\u793a\u8bcd\u6a21\u677f\u3001\u591a\u4efb\u52a1\u5e76\u53d1\u548c\u672c\u5730\u961f\u5217\u7ba1\u7406\u3002An AI image generation WebUI workbench for GPT-image-2 with Codex Responses and OpenAI-compatible API support, shared gallery references, multi-type quick chips, prompt templates, concurrent tasks, and local queue management.",
             "url": "https://github.com/kadevin/ilab-gpt-conjure",
-            "stars": 485,
+            "stars": 486,
             "forks": 68,
             "score": 64
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "compass-skills",
+            "full_name": "dongshuyan/compass-skills",
+            "description": "\u53f8\u5357\uff1a\u4e2a\u6027\u5316 AI \u4efb\u52a1\u603b\u63a7 Skills \u7cfb\u7edf /COMPASS: Personal Alignment Skills OS for AI Agents",
+            "url": "https://github.com/dongshuyan/compass-skills",
+            "stars": 183,
+            "forks": 18,
+            "score": 61
         },
         {
             "main_cat": "AI",
@@ -117,7 +128,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "gykim80/perfectpixel-studio",
             "description": "AI-powered animation sprite studio \u2014 generate character sprite sheets with 8 directions and 100+ actions from a single text prompt (Wails + Go + React)",
             "url": "https://github.com/gykim80/perfectpixel-studio",
-            "stars": 197,
+            "stars": 199,
             "forks": 27,
             "score": 60
         },
@@ -172,7 +183,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "duckbugio/flock",
             "description": "Autonomous AI dev-team bot",
             "url": "https://github.com/duckbugio/flock",
-            "stars": 561,
+            "stars": 567,
             "forks": 0,
             "score": 55
         },
@@ -190,23 +201,23 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
+            "name": "loop-engineering",
+            "full_name": "cobusgreyling/loop-engineering",
+            "description": "Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by Addy Osmani and Boris Cherny). Includes loop-audit, loop-init, loop-cost.",
+            "url": "https://github.com/cobusgreyling/loop-engineering",
+            "stars": 313,
+            "forks": 42,
+            "score": 54
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
             "name": "cheat-on-money",
             "full_name": "XBuilderLAB/cheat-on-money",
             "description": "AI \u65f6\u4ee3\u9760\u8c31\u517c\u804c\u53d1\u73b0 + \u53cd\u8bc8\u9a8c\u8bc1 skill\uff1a\u9700\u6c42\u4fe1\u53f7\u53cd\u63a8 + \u5b9e\u65f6\u65f6\u6548\u6838\u67e5 + \u53cd\u8bc8 rubric + \u4e2a\u6027\u5316\u6821\u51c6\u73af",
             "url": "https://github.com/XBuilderLAB/cheat-on-money",
             "stars": 338,
             "forks": 44,
-            "score": 53
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "loop-engineering",
-            "full_name": "cobusgreyling/loop-engineering",
-            "description": "Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by Addy Osmani and Boris Cherny). Includes loop-audit, loop-init, loop-cost.",
-            "url": "https://github.com/cobusgreyling/loop-engineering",
-            "stars": 311,
-            "forks": 42,
             "score": 53
         },
         {
@@ -227,7 +238,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "TestSprite/testsprite-cli",
             "description": "Official TestSprite CLI \u2014 AI-powered automated testing from your terminal",
             "url": "https://github.com/TestSprite/testsprite-cli",
-            "stars": 300,
+            "stars": 304,
             "forks": 10,
             "score": 51
         },
@@ -238,9 +249,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "orange2ai/orange-line-illustration",
             "description": "\ud83c\udf4a New Yorker-style minimalist editorial illustration skill for AI agents \u2014 one idea, one accent, lots of silence. Free for open-source use; commercial license for closed-source.",
             "url": "https://github.com/orange2ai/orange-line-illustration",
-            "stars": 267,
+            "stars": 268,
             "forks": 20,
-            "score": 51
+            "score": 49
         },
         {
             "main_cat": "AI",
@@ -252,17 +263,6 @@ const ALPHA_DATA_V2 = {
             "stars": 189,
             "forks": 21,
             "score": 49
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "align-dev",
-            "full_name": "razr001/align-dev",
-            "description": "AlignDev helps AI-assisted frontend teams generate shared coding standards and SKILL.md so Claude Code, Codex, Cursor, Copilot, and other agents write consistently.",
-            "url": "https://github.com/razr001/align-dev",
-            "stars": 430,
-            "forks": 21,
-            "score": 46
         },
         {
             "main_cat": "AI",
@@ -282,7 +282,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "12britz/awesome-free-models",
             "description": "A curated list of free AI models, APIs, and tools you can use without paying a cent.",
             "url": "https://github.com/12britz/awesome-free-models",
-            "stars": 320,
+            "stars": 323,
             "forks": 20,
             "score": 45
         },
@@ -337,7 +337,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Dong90/oh-my-taiyiforge",
             "description": "AI workflow automation plugin for intelligent code generation with Claude/Codex",
             "url": "https://github.com/Dong90/oh-my-taiyiforge",
-            "stars": 228,
+            "stars": 230,
             "forks": 7,
             "score": 39
         },
@@ -421,17 +421,6 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "Stablecoin Infrastructure",
             "sub_cat": null,
-            "name": "arc-institutional-treasury",
-            "full_name": "Proxtox/arc-institutional-treasury",
-            "description": "Smart contract suite + dashboard for institutional treasury operations on Arc: multi-sig, scheduled payments, and stablecoin yield strategies.",
-            "url": "https://github.com/Proxtox/arc-institutional-treasury",
-            "stars": 0,
-            "forks": 0,
-            "score": 30
-        },
-        {
-            "main_cat": "Stablecoin Infrastructure",
-            "sub_cat": null,
             "name": "ezpay",
             "full_name": "KattyFury/ezpay",
             "description": "ezwallet - stablecoin payment app built on Arc + Circle",
@@ -474,17 +463,6 @@ const ALPHA_DATA_V2 = {
             "score": 30
         },
         {
-            "main_cat": "Stablecoin Infrastructure",
-            "sub_cat": null,
-            "name": "velora-starter-kit",
-            "full_name": "Mogie-IA/velora-starter-kit",
-            "description": "Open-source wallet-native commerce toolkit for Solana, enabling wallet sign-in, stablecoin payments, subscriptions, and merchant operations.",
-            "url": "https://github.com/Mogie-IA/velora-starter-kit",
-            "stars": 0,
-            "forks": 0,
-            "score": 30
-        },
-        {
             "main_cat": "AI",
             "sub_cat": "AI General",
             "name": "utilitypay",
@@ -502,17 +480,6 @@ const ALPHA_DATA_V2 = {
             "full_name": "mattiasantims/Absolis-testnet",
             "description": "Absolis - testnet MVP for stablecoin checkout, merchant payouts and verifiable payment records on Arc Testnet",
             "url": "https://github.com/mattiasantims/Absolis-testnet",
-            "stars": 0,
-            "forks": 0,
-            "score": 30
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "basepay-dapp",
-            "full_name": "osr21/basepay-dapp",
-            "description": "BasePay \u2014 USDC stablecoin payments dApp on Base Mainnet. Send, batch pay, escrow, and subscribe with on-chain smart contracts.",
-            "url": "https://github.com/osr21/basepay-dapp",
             "stars": 0,
             "forks": 0,
             "score": 30
@@ -540,24 +507,57 @@ const ALPHA_DATA_V2 = {
             "score": 30
         },
         {
-            "main_cat": "AI",
-            "sub_cat": "AI Agents",
-            "name": "code-explorer",
-            "full_name": "vmikhailov/code-explorer",
-            "description": "Ontology-driven codebase indexer and query service. Parses C#, TypeScript/JS, Go, Python, and SQL into a Memgraph graph database. Exposes Model Context Protocol (MCP) tools for AI agents to perform deep static analysis, cross-project call-graph tracing, and data lineage mapping.",
-            "url": "https://github.com/vmikhailov/code-explorer",
-            "stars": 2,
+            "main_cat": "Stablecoin Infrastructure",
+            "sub_cat": null,
+            "name": "USD-series",
+            "full_name": "forexstock/USD-series",
+            "description": "The USD Token Suite is a family of Stellar-native stablecoins issued from a single trusted account, each pegged 1:1 to the US Dollar. Together they form a modular financial infrastructure \u2014 spanning payments, anchoring, minting, industry, and beyond",
+            "url": "https://github.com/forexstock/USD-series",
+            "stars": 0,
             "forks": 0,
             "score": 30
         },
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
-            "name": "nexus-ai-flow",
-            "full_name": "vaibhavquantprojects/nexus-ai-flow",
-            "description": "A AI-agent routing protocol for secure, verifiable cross-chain crypto liquidity transitions using Ed25519-based cryptographic proof.\"",
-            "url": "https://github.com/vaibhavquantprojects/nexus-ai-flow",
-            "stars": 1,
+            "name": "Arc-x-Elliptic-Blockchain-analytics-and-monitoring-for-compliance-first-Arc-apps",
+            "full_name": "Alsani123/Arc-x-Elliptic-Blockchain-analytics-and-monitoring-for-compliance-first-Arc-apps",
+            "description": "Stablecoin apps don't get to treat compliance as a \"later\" problem. The moment you touch payments, treasury flows, or institutional users, risk visibility and monitoring matter.",
+            "url": "https://github.com/Alsani123/Arc-x-Elliptic-Blockchain-analytics-and-monitoring-for-compliance-first-Arc-apps",
+            "stars": 0,
+            "forks": 0,
+            "score": 30
+        },
+        {
+            "main_cat": "Stablecoin Infrastructure",
+            "sub_cat": null,
+            "name": "solana-compliance-hook",
+            "full_name": "sks006/solana-compliance-hook",
+            "description": "A Token-2022 transfer hook for Solana that enforces KYC allowlists, blacklists, and fee-on-transfer\u2014built for compliant stablecoin issuers and payment processors.",
+            "url": "https://github.com/sks006/solana-compliance-hook",
+            "stars": 0,
+            "forks": 0,
+            "score": 30
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "TrustSplit",
+            "full_name": "HumanChainX/TrustSplit",
+            "description": "TrustSplit is a multi-chain, trustless expense-splitting platform that eliminates the trust dependency in group payments. Participants commit stablecoins or sign cryptographic payment promises into a shared escrow pool, which settles all payees in a single batch transaction \u2014 no intermediaries, no delays",
+            "url": "https://github.com/HumanChainX/TrustSplit",
+            "stars": 0,
+            "forks": 0,
+            "score": 30
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "tieout",
+            "full_name": "jorge-j1m/tieout",
+            "description": "Open-source payments reconciliation engine. Tieout ingests money records from every system they live in \u2014 your ledger, payment processors, banks, stablecoin rails \u2014 normalizes them into one model, matches them against each other, and surfaces the transactions it can't explain. Every run and every decision is recorded immutably.",
+            "url": "https://github.com/jorge-j1m/tieout",
+            "stars": 0,
             "forks": 0,
             "score": 30
         },
@@ -568,17 +568,6 @@ const ALPHA_DATA_V2 = {
             "full_name": "khanfilzacs-tech/cctp-transfer",
             "description": "Transferring Tokens cross chain through Circle protocol ",
             "url": "https://github.com/khanfilzacs-tech/cctp-transfer",
-            "stars": 0,
-            "forks": 0,
-            "score": 30
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "base-arc-cctp-bridge",
-            "full_name": "Proxtox/base-arc-cctp-bridge",
-            "description": "Full example (contracts + frontend) for seamless USDC bridging between Base and Arc using Circle\u2019s Cross-Chain Transfer Protocol (CCTP).",
-            "url": "https://github.com/Proxtox/base-arc-cctp-bridge",
             "stars": 0,
             "forks": 0,
             "score": 30
@@ -630,17 +619,6 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
-            "name": "sdk",
-            "full_name": "opaquecash/sdk",
-            "description": "TypeScript SDK for the Opaque protocol \u2014 one client for stealth payments, ZK reputation, and cross-chain privacy on Ethereum + Solana.",
-            "url": "https://github.com/opaquecash/sdk",
-            "stars": 0,
-            "forks": 0,
-            "score": 30
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
             "name": "Layerzero-oapp-v2",
             "full_name": "Danishu-art/Layerzero-oapp-v2",
             "description": "Hi - I am a whitehat researcher working on finding the flaws in layerzero protocol to safeguard the cross-chain token ",
@@ -681,6 +659,17 @@ const ALPHA_DATA_V2 = {
             "stars": 0,
             "forks": 0,
             "score": 30
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "boundary-signature",
+            "full_name": "nicoveraz/boundary-signature",
+            "description": "A token-probability measurement protocol for per-step belief monitoring in chain-of-thought reasoning. Per-step answer-distribution scorers (mean entropy) as deferral signals, validated cross-domain on MedQA/MMLU under single-run 4-bit constraints, plus a pre-registered audit trail and reproduce-without-an-LLM cached measurements.",
+            "url": "https://github.com/nicoveraz/boundary-signature",
+            "stars": 0,
+            "forks": 0,
+            "score": 30
         }
     ],
     "news": [
@@ -706,5 +695,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-06-16 22:51"
+    "timestamp": "2026-06-17 00:12"
 };
