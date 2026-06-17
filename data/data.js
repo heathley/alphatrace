@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "DietrichGebert/ponytail",
             "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
             "url": "https://github.com/DietrichGebert/ponytail",
-            "stars": 30450,
-            "forks": 1367,
+            "stars": 30925,
+            "forks": 1396,
             "score": 99
         },
         {
@@ -18,8 +18,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "omnigent-ai/omnigent",
             "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents \u2014 swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.",
             "url": "https://github.com/omnigent-ai/omnigent",
-            "stars": 3393,
-            "forks": 376,
+            "stars": 3439,
+            "forks": 382,
             "score": 99
         },
         {
@@ -29,8 +29,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "JimLiu/baoyu-design",
             "description": "Run Claude Design locally as an Agent Skill \u2014 Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/design. Best with Opus 4.8.",
             "url": "https://github.com/JimLiu/baoyu-design",
-            "stars": 1435,
-            "forks": 104,
+            "stars": 1446,
+            "forks": 105,
             "score": 99
         },
         {
@@ -51,7 +51,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Plaer1/junction",
             "description": "VS Code chat sidebar for local AI coding agents",
             "url": "https://github.com/Plaer1/junction",
-            "stars": 497,
+            "stars": 498,
             "forks": 2,
             "score": 99
         },
@@ -62,9 +62,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "nolangz/pixel2motion",
             "description": "AI logo animation skill: turn raster logos into smooth SVG animation, animated HTML demos, GIF/video previews, and motion QA evidence.",
             "url": "https://github.com/nolangz/pixel2motion",
-            "stars": 698,
-            "forks": 65,
-            "score": 89
+            "stars": 702,
+            "forks": 66,
+            "score": 90
         },
         {
             "main_cat": "AI",
@@ -84,7 +84,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "GordenSun/GordenSuperPPTSkills",
             "description": "AI PPT\u8d5b\u9053\u7ec8\u7ed3\u8005\uff0c\u53f2\u4e0a\u6700\u6700\u6700\u5f3a PPT Skill\uff01\uff01\uff01  \u4f7f\u7528GPT\u751f\u6210\u8c6a\u534e\u7684\u56fe\u7247\u683c\u5f0fPPT\uff0c\u7136\u540e\u8f6c\u6362\u4e3a\u5b8c\u5168\u53ef\u7f16\u8f91\u7684PPTX\u6587\u4ef6\u3002",
             "url": "https://github.com/GordenSun/GordenSuperPPTSkills",
-            "stars": 1006,
+            "stars": 1007,
             "forks": 94,
             "score": 83
         },
@@ -95,7 +95,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "amElnagdy/guard-skills",
             "description": "Guard skills for coding agents, quality gates that catch AI-generated failure modes in code, tests, and docs",
             "url": "https://github.com/amElnagdy/guard-skills",
-            "stars": 805,
+            "stars": 809,
             "forks": 96,
             "score": 72
         },
@@ -117,7 +117,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "dongshuyan/compass-skills",
             "description": "\u53f8\u5357\uff1a\u4e2a\u6027\u5316 AI \u4efb\u52a1\u603b\u63a7 Skills \u7cfb\u7edf /COMPASS: Personal Alignment Skills OS for AI Agents",
             "url": "https://github.com/dongshuyan/compass-skills",
-            "stars": 259,
+            "stars": 260,
             "forks": 22,
             "score": 64
         },
@@ -128,7 +128,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "kadevin/ilab-gpt-conjure",
             "description": "\u9762\u5411 GPT-image-2 \u7684 AI \u56fe\u7247\u751f\u6210 WebUI \u5de5\u4f5c\u53f0\uff0c\u652f\u6301 Codex Responses \u4e0e OpenAI \u517c\u5bb9 API \u63a5\u5165\uff0c\u5185\u7f6e\u516c\u7528\u56fe\u5e93\u3001\u591a\u7c7b\u578b Chip \u5feb\u6377\u5f15\u7528\u3001\u63d0\u793a\u8bcd\u6a21\u677f\u3001\u591a\u4efb\u52a1\u5e76\u53d1\u548c\u672c\u5730\u961f\u5217\u7ba1\u7406\u3002An AI image generation WebUI workbench for GPT-image-2 with Codex Responses and OpenAI-compatible API support, shared gallery references, multi-type quick chips, prompt templates, concurrent tasks, and local queue management.",
             "url": "https://github.com/kadevin/ilab-gpt-conjure",
-            "stars": 492,
+            "stars": 493,
             "forks": 68,
             "score": 61
         },
@@ -150,7 +150,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Nanako0129/coralline",
             "description": "\ud83e\udeb8 Powerlevel10k-inspired statusline for Claude Code \u2014 paste one prompt and your AI interviews you, then installs it",
             "url": "https://github.com/Nanako0129/coralline",
-            "stars": 346,
+            "stars": 347,
             "forks": 27,
             "score": 58
         },
@@ -168,24 +168,24 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "aipath",
-            "full_name": "buynao/aipath",
-            "description": "Interactive AI General Education Course \u2014 30 Lessons, Zero Math",
-            "url": "https://github.com/buynao/aipath",
-            "stars": 297,
-            "forks": 32,
+            "name": "flock",
+            "full_name": "duckbugio/flock",
+            "description": "Autonomous AI dev-team bot",
+            "url": "https://github.com/duckbugio/flock",
+            "stars": 626,
+            "forks": 0,
             "score": 56
         },
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "flock",
-            "full_name": "duckbugio/flock",
-            "description": "Autonomous AI dev-team bot",
-            "url": "https://github.com/duckbugio/flock",
-            "stars": 621,
-            "forks": 0,
-            "score": 55
+            "name": "aipath",
+            "full_name": "buynao/aipath",
+            "description": "Interactive AI General Education Course \u2014 30 Lessons, Zero Math",
+            "url": "https://github.com/buynao/aipath",
+            "stars": 302,
+            "forks": 32,
+            "score": 56
         },
         {
             "main_cat": "AI",
@@ -196,6 +196,17 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/ziqihe10-droid/xuefeng-agent",
             "stars": 434,
             "forks": 58,
+            "score": 55
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "threejs-game-skills",
+            "full_name": "majidmanzarpour/threejs-game-skills",
+            "description": "Agent skills for building playable, polished Three.js browser games with gameplay, AAA-style graphics, UI, QA, and optional AI-generated 3D, image, and audio assets.",
+            "url": "https://github.com/majidmanzarpour/threejs-game-skills",
+            "stars": 231,
+            "forks": 18,
             "score": 55
         },
         {
@@ -216,7 +227,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "TestSprite/testsprite-cli",
             "description": "Official TestSprite CLI \u2014 AI-powered automated testing from your terminal",
             "url": "https://github.com/TestSprite/testsprite-cli",
-            "stars": 380,
+            "stars": 388,
             "forks": 15,
             "score": 54
         },
@@ -227,19 +238,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "cobusgreyling/loop-engineering",
             "description": "Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by Addy Osmani and Boris Cherny). Includes loop-audit, loop-init, loop-cost.",
             "url": "https://github.com/cobusgreyling/loop-engineering",
-            "stars": 354,
+            "stars": 356,
             "forks": 46,
-            "score": 54
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "threejs-game-skills",
-            "full_name": "majidmanzarpour/threejs-game-skills",
-            "description": "Agent skills for building playable, polished Three.js browser games with gameplay, AAA-style graphics, UI, QA, and optional AI-generated 3D, image, and audio assets.",
-            "url": "https://github.com/majidmanzarpour/threejs-game-skills",
-            "stars": 226,
-            "forks": 16,
             "score": 54
         },
         {
@@ -266,25 +266,14 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
-            "sub_cat": null,
-            "name": "best-humanizer-handbook",
-            "full_name": "fendouai/best-humanizer-handbook",
-            "description": "Best AI Humanizer Handbook A practical guide to making AI-assisted writing clearer, more credible, and more human",
-            "url": "https://github.com/fendouai/best-humanizer-handbook",
-            "stars": 196,
-            "forks": 2,
-            "score": 50
-        },
-        {
-            "main_cat": "AI",
             "sub_cat": "AI General",
             "name": "awesome-free-models",
             "full_name": "12britz/awesome-free-models",
             "description": "A curated list of free AI models, APIs, and tools you can use without paying a cent.",
             "url": "https://github.com/12britz/awesome-free-models",
-            "stars": 354,
+            "stars": 357,
             "forks": 23,
-            "score": 45
+            "score": 46
         },
         {
             "main_cat": "AI",
@@ -293,20 +282,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "techjarves/Local-AI-Image-Generator",
             "description": "A fully self-contained, offline AI image generation studio for Windows. Runs Stable Diffusion (Safetensors/GGUF) locally with zero manual setup. Auto-configures CUDA for Nvidia GPUs and Vulkan for AMD/Intel Arc cards. Zero system-wide dependencies required.",
             "url": "https://github.com/techjarves/Local-AI-Image-Generator",
-            "stars": 206,
+            "stars": 208,
             "forks": 74,
             "score": 45
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "agent",
-            "full_name": "taisly/agent",
-            "description": "Taisly Agent Kit: SDK, CLI, examples, and docs for AI agents that publish videos through Taisly.",
-            "url": "https://github.com/taisly/agent",
-            "stars": 207,
-            "forks": 0,
-            "score": 41
         },
         {
             "main_cat": "AI",
@@ -315,7 +293,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "john-rocky/coreai-model-zoo",
             "description": "Community model zoo + knowledge base for Apple Core AI (iOS/macOS 27): Qwen3.5 & Gemma 4 converted end-to-end, verified on-device (iPhone 17 Pro GPU/ANE), conversion gotchas, custom Metal kernels, Swift runner",
             "url": "https://github.com/john-rocky/coreai-model-zoo",
-            "stars": 158,
+            "stars": 159,
             "forks": 11,
             "score": 40
         },
@@ -326,7 +304,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Dong90/oh-my-taiyiforge",
             "description": "AI workflow automation plugin for intelligent code generation with Claude/Codex",
             "url": "https://github.com/Dong90/oh-my-taiyiforge",
-            "stars": 255,
+            "stars": 258,
             "forks": 7,
             "score": 39
         },
@@ -337,8 +315,30 @@ const ALPHA_DATA_V2 = {
             "full_name": "myccarl/ai-shortVideo-pipeline",
             "description": "End-to-end AI short-video production pipeline. FastAPI orchestration + Spring Boot gateway with multi-model failover, circuit breaker, metering, and full-stack observability. AI quality gating: prompt anchoring, CLIP consistency, AV sync auto-rescue.",
             "url": "https://github.com/myccarl/ai-shortVideo-pipeline",
-            "stars": 274,
+            "stars": 275,
             "forks": 3,
+            "score": 38
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "Claude-Pro-For-Free",
+            "full_name": "frontiersystempraise/Claude-Pro-For-Free",
+            "description": "claude code ai free desktop app  api cli open source opencode aider gemini alternative download github local llm ollama setup guide tutorial api  2026",
+            "url": "https://github.com/frontiersystempraise/Claude-Pro-For-Free",
+            "stars": 211,
+            "forks": 0,
+            "score": 38
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "Canva-Pro-26",
+            "full_name": "Electrondrastorm/Canva-Pro-26",
+            "description": "Canva Pro - Drag-and-drop design tool with templates, brand kit, background remover, and Magic Studio AI.",
+            "url": "https://github.com/Electrondrastorm/Canva-Pro-26",
+            "stars": 211,
+            "forks": 0,
             "score": 38
         },
         {
@@ -564,17 +564,6 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
-            "name": "tieout",
-            "full_name": "jorge-j1m/tieout",
-            "description": "Open-source payments reconciliation engine. Tieout ingests money records from every system they live in \u2014 your ledger, payment processors, banks, stablecoin rails \u2014 normalizes them into one model, matches them against each other, and surfaces the transactions it can't explain. Every run and every decision is recorded immutably.",
-            "url": "https://github.com/jorge-j1m/tieout",
-            "stars": 0,
-            "forks": 0,
-            "score": 30
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
             "name": "cctp-transfer",
             "full_name": "khanfilzacs-tech/cctp-transfer",
             "description": "Transferring Tokens cross chain through Circle protocol ",
@@ -706,5 +695,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-06-17 17:50"
+    "timestamp": "2026-06-17 20:05"
 };
