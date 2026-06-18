@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "DietrichGebert/ponytail",
             "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
             "url": "https://github.com/DietrichGebert/ponytail",
-            "stars": 31582,
-            "forks": 1424,
+            "stars": 32820,
+            "forks": 1485,
             "score": 99
         },
         {
@@ -18,8 +18,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "omnigent-ai/omnigent",
             "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents \u2014 swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.",
             "url": "https://github.com/omnigent-ai/omnigent",
-            "stars": 3496,
-            "forks": 387,
+            "stars": 3597,
+            "forks": 400,
             "score": 99
         },
         {
@@ -29,19 +29,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "JimLiu/baoyu-design",
             "description": "Run Claude Design locally as an Agent Skill \u2014 Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/design. Best with Opus 4.8.",
             "url": "https://github.com/JimLiu/baoyu-design",
-            "stars": 1451,
+            "stars": 1501,
             "forks": 109,
-            "score": 99
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "junction",
-            "full_name": "Plaer1/junction",
-            "description": "VS Code chat sidebar for local AI coding agents",
-            "url": "https://github.com/Plaer1/junction",
-            "stars": 499,
-            "forks": 2,
             "score": 99
         },
         {
@@ -51,9 +40,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "orange2ai/renwei-writing",
             "description": "\u4eba\u5473\u513f\u5199\u4f5c \u00b7 An AI agent skill: edit people's words without erasing the person behind them",
             "url": "https://github.com/orange2ai/renwei-writing",
-            "stars": 769,
+            "stars": 784,
             "forks": 77,
-            "score": 97
+            "score": 98
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "junction",
+            "full_name": "Plaer1/junction",
+            "description": "VS Code chat sidebar for local AI coding agents",
+            "url": "https://github.com/Plaer1/junction",
+            "stars": 503,
+            "forks": 3,
+            "score": 94
         },
         {
             "main_cat": "AI",
@@ -62,20 +62,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "nolangz/pixel2motion",
             "description": "AI logo animation skill: turn raster logos into smooth SVG animation, animated HTML demos, GIF/video previews, and motion QA evidence.",
             "url": "https://github.com/nolangz/pixel2motion",
-            "stars": 711,
-            "forks": 67,
-            "score": 91
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "coreai-models",
-            "full_name": "apple/coreai-models",
-            "description": "Model export recipes, Python primitives, and Swift runtime utilities for on-device AI",
-            "url": "https://github.com/apple/coreai-models",
-            "stars": 1052,
-            "forks": 80,
-            "score": 87
+            "stars": 739,
+            "forks": 69,
+            "score": 86
         },
         {
             "main_cat": "AI",
@@ -84,9 +73,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "GordenSun/GordenSuperPPTSkills",
             "description": "AI PPT\u8d5b\u9053\u7ec8\u7ed3\u8005\uff0c\u53f2\u4e0a\u6700\u6700\u6700\u5f3a PPT Skill\uff01\uff01\uff01  \u4f7f\u7528GPT\u751f\u6210\u8c6a\u534e\u7684\u56fe\u7247\u683c\u5f0fPPT\uff0c\u7136\u540e\u8f6c\u6362\u4e3a\u5b8c\u5168\u53ef\u7f16\u8f91\u7684PPTX\u6587\u4ef6\u3002",
             "url": "https://github.com/GordenSun/GordenSuperPPTSkills",
-            "stars": 1009,
-            "forks": 94,
-            "score": 83
+            "stars": 1031,
+            "forks": 96,
+            "score": 84
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "coreai-models",
+            "full_name": "apple/coreai-models",
+            "description": "Model export recipes, Python primitives, and Swift runtime utilities for on-device AI",
+            "url": "https://github.com/apple/coreai-models",
+            "stars": 1057,
+            "forks": 80,
+            "score": 82
         },
         {
             "main_cat": "AI",
@@ -95,20 +95,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "amElnagdy/guard-skills",
             "description": "Guard skills for coding agents, quality gates that catch AI-generated failure modes in code, tests, and docs",
             "url": "https://github.com/amElnagdy/guard-skills",
-            "stars": 816,
+            "stars": 817,
             "forks": 96,
             "score": 72
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "xiaohu-video-translate",
-            "full_name": "xiaohuailabs/xiaohu-video-translate",
-            "description": "\u5bf9 AI \u8bf4\u4e00\u53e5\u8bdd\uff0c\u628a\u5916\u8bed\u89c6\u9891\u81ea\u52a8\u914d\u4e0a\u4e2d\u6587\u5b57\u5e55 \u2014\u2014 \u4e0b\u8f7d/\u8f6c\u5199/\u7ffb\u8bd1/\u6da6\u8272/\u70e7\u5f55\u4e00\u6761\u9f99\uff0c\u5168\u7a0b\u672c\u5730\uff0c\u8f6c\u5199\u96f6 API \u8d39",
-            "url": "https://github.com/xiaohuailabs/xiaohu-video-translate",
-            "stars": 530,
-            "forks": 84,
-            "score": 66
         },
         {
             "main_cat": "AI",
@@ -117,9 +106,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "dongshuyan/compass-skills",
             "description": "\u53f8\u5357\uff1a\u4e2a\u6027\u5316 AI \u4efb\u52a1\u603b\u63a7 Skills \u7cfb\u7edf /COMPASS: Personal Alignment Skills OS for AI Agents",
             "url": "https://github.com/dongshuyan/compass-skills",
-            "stars": 262,
-            "forks": 22,
-            "score": 65
+            "stars": 288,
+            "forks": 26,
+            "score": 69
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "xiaohu-video-translate",
+            "full_name": "xiaohuailabs/xiaohu-video-translate",
+            "description": "\u5bf9 AI \u8bf4\u4e00\u53e5\u8bdd\uff0c\u628a\u5916\u8bed\u89c6\u9891\u81ea\u52a8\u914d\u4e0a\u4e2d\u6587\u5b57\u5e55 \u2014\u2014 \u4e0b\u8f7d/\u8f6c\u5199/\u7ffb\u8bd1/\u6da6\u8272/\u70e7\u5f55\u4e00\u6761\u9f99\uff0c\u5168\u7a0b\u672c\u5730\uff0c\u8f6c\u5199\u96f6 API \u8d39",
+            "url": "https://github.com/xiaohuailabs/xiaohu-video-translate",
+            "stars": 532,
+            "forks": 84,
+            "score": 66
         },
         {
             "main_cat": "AI",
@@ -129,19 +129,8 @@ const ALPHA_DATA_V2 = {
             "description": "\u9762\u5411 GPT-image-2 \u7684 AI \u56fe\u7247\u751f\u6210 WebUI \u5de5\u4f5c\u53f0\uff0c\u652f\u6301 Codex Responses \u4e0e OpenAI \u517c\u5bb9 API \u63a5\u5165\uff0c\u5185\u7f6e\u516c\u7528\u56fe\u5e93\u3001\u591a\u7c7b\u578b Chip \u5feb\u6377\u5f15\u7528\u3001\u63d0\u793a\u8bcd\u6a21\u677f\u3001\u591a\u4efb\u52a1\u5e76\u53d1\u548c\u672c\u5730\u961f\u5217\u7ba1\u7406\u3002An AI image generation WebUI workbench for GPT-image-2 with Codex Responses and OpenAI-compatible API support, shared gallery references, multi-type quick chips, prompt templates, concurrent tasks, and local queue management.",
             "url": "https://github.com/kadevin/ilab-gpt-conjure",
             "stars": 493,
-            "forks": 68,
-            "score": 61
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "perfectpixel-studio",
-            "full_name": "gykim80/perfectpixel-studio",
-            "description": "AI-powered animation sprite studio \u2014 generate character sprite sheets with 8 directions and 100+ actions from a single text prompt (Wails + Go + React)",
-            "url": "https://github.com/gykim80/perfectpixel-studio",
-            "stars": 226,
-            "forks": 31,
-            "score": 59
+            "forks": 69,
+            "score": 62
         },
         {
             "main_cat": "AI",
@@ -150,9 +139,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "Nanako0129/coralline",
             "description": "\ud83e\udeb8 Powerlevel10k-inspired statusline for Claude Code \u2014 paste one prompt and your AI interviews you, then installs it",
             "url": "https://github.com/Nanako0129/coralline",
-            "stars": 353,
-            "forks": 27,
-            "score": 58
+            "stars": 360,
+            "forks": 28,
+            "score": 59
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "testsprite-cli",
+            "full_name": "TestSprite/testsprite-cli",
+            "description": "Official TestSprite CLI \u2014 AI-powered automated testing from your terminal",
+            "url": "https://github.com/TestSprite/testsprite-cli",
+            "stars": 434,
+            "forks": 15,
+            "score": 57
         },
         {
             "main_cat": "AI",
@@ -161,7 +161,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "chubbyguan/chubbyskills",
             "description": "\u628a\u4e2d\u6587\u5168\u6e20\u9053\u5185\u5bb9\uff08\u6296\u97f3 / B\u7ad9 / \u5c0f\u7ea2\u4e66 / \u516c\u4f17\u53f7 / X / \u64ad\u5ba2\uff09\u91c7\u96c6\u8fdb\u4e2a\u4eba\u77e5\u8bc6\u5e93\u7684 13 \u4e2a AI Skill\uff1a\u56fe\u6587\u5b58\u56fe\u3001\u89c6\u9891\u8f6c\u6587\u5b57\u7a3f\u3001\u5b57\u5e55\u4f18\u5148\u514d GPU\uff0c\u9644\u5e26\u77e5\u8bc6\u5e93 MCP server\u3002 \uff5c Ingest Chinese content into your personal knowledge base \u2014 image/video routing, subtitle-first transcription, and a KB MCP server.",
             "url": "https://github.com/chubbyguan/chubbyskills",
-            "stars": 409,
+            "stars": 411,
             "forks": 64,
             "score": 57
         },
@@ -172,7 +172,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "buynao/aipath",
             "description": "Interactive AI General Education Course \u2014 30 Lessons, Zero Math",
             "url": "https://github.com/buynao/aipath",
-            "stars": 306,
+            "stars": 309,
             "forks": 33,
             "score": 57
         },
@@ -183,7 +183,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "duckbugio/flock",
             "description": "Autonomous AI dev-team bot",
             "url": "https://github.com/duckbugio/flock",
-            "stars": 632,
+            "stars": 645,
             "forks": 0,
             "score": 56
         },
@@ -201,23 +201,23 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "testsprite-cli",
-            "full_name": "TestSprite/testsprite-cli",
-            "description": "Official TestSprite CLI \u2014 AI-powered automated testing from your terminal",
-            "url": "https://github.com/TestSprite/testsprite-cli",
-            "stars": 404,
-            "forks": 15,
+            "name": "loop-engineering",
+            "full_name": "cobusgreyling/loop-engineering",
+            "description": "Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by Addy Osmani and Boris Cherny). Includes loop-audit, loop-init, loop-cost.",
+            "url": "https://github.com/cobusgreyling/loop-engineering",
+            "stars": 368,
+            "forks": 49,
             "score": 55
         },
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "threejs-game-skills",
-            "full_name": "majidmanzarpour/threejs-game-skills",
-            "description": "Agent skills for building playable, polished Three.js browser games with gameplay, AAA-style graphics, UI, QA, and optional AI-generated 3D, image, and audio assets.",
-            "url": "https://github.com/majidmanzarpour/threejs-game-skills",
-            "stars": 236,
-            "forks": 18,
+            "name": "perfectpixel-studio",
+            "full_name": "gykim80/perfectpixel-studio",
+            "description": "AI-powered animation sprite studio \u2014 generate character sprite sheets with 8 directions and 100+ actions from a single text prompt (Wails + Go + React)",
+            "url": "https://github.com/gykim80/perfectpixel-studio",
+            "stars": 232,
+            "forks": 31,
             "score": 55
         },
         {
@@ -227,19 +227,19 @@ const ALPHA_DATA_V2 = {
             "full_name": "FerroxLabs/wayland",
             "description": "Wayland - The AI Agent That Perceives. Reasons. Acts. Evolves.",
             "url": "https://github.com/FerroxLabs/wayland",
-            "stars": 440,
+            "stars": 442,
             "forks": 72,
             "score": 54
         },
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "loop-engineering",
-            "full_name": "cobusgreyling/loop-engineering",
-            "description": "Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by Addy Osmani and Boris Cherny). Includes loop-audit, loop-init, loop-cost.",
-            "url": "https://github.com/cobusgreyling/loop-engineering",
-            "stars": 357,
-            "forks": 46,
+            "name": "threejs-game-skills",
+            "full_name": "majidmanzarpour/threejs-game-skills",
+            "description": "Agent skills for building playable, polished Three.js browser games with gameplay, AAA-style graphics, UI, QA, and optional AI-generated 3D, image, and audio assets.",
+            "url": "https://github.com/majidmanzarpour/threejs-game-skills",
+            "stars": 248,
+            "forks": 23,
             "score": 54
         },
         {
@@ -249,8 +249,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "XBuilderLAB/cheat-on-money",
             "description": "AI \u65f6\u4ee3\u9760\u8c31\u517c\u804c\u53d1\u73b0 + \u53cd\u8bc8\u9a8c\u8bc1 skill\uff1a\u9700\u6c42\u4fe1\u53f7\u53cd\u63a8 + \u5b9e\u65f6\u65f6\u6548\u6838\u67e5 + \u53cd\u8bc8 rubric + \u4e2a\u6027\u5316\u6821\u51c6\u73af",
             "url": "https://github.com/XBuilderLAB/cheat-on-money",
-            "stars": 352,
-            "forks": 45,
+            "stars": 355,
+            "forks": 46,
             "score": 52
         },
         {
@@ -260,9 +260,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "fendouai/best-humanizer-handbook",
             "description": "Best AI Humanizer Handbook A practical guide to making AI-assisted writing clearer, more credible, and more human",
             "url": "https://github.com/fendouai/best-humanizer-handbook",
-            "stars": 203,
+            "stars": 217,
             "forks": 2,
-            "score": 51
+            "score": 52
         },
         {
             "main_cat": "AI",
@@ -271,7 +271,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "orange2ai/orange-line-illustration",
             "description": "\ud83c\udf4a New Yorker-style minimalist editorial illustration skill for AI agents \u2014 one idea, one accent, lots of silence. Free for open-source use; commercial license for closed-source.",
             "url": "https://github.com/orange2ai/orange-line-illustration",
-            "stars": 278,
+            "stars": 280,
             "forks": 21,
             "score": 48
         },
@@ -282,31 +282,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "12britz/awesome-free-models",
             "description": "A curated list of free AI models, APIs, and tools you can use without paying a cent.",
             "url": "https://github.com/12britz/awesome-free-models",
-            "stars": 361,
+            "stars": 366,
             "forks": 23,
             "score": 46
         },
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "agent",
-            "full_name": "taisly/agent",
-            "description": "Taisly Agent Kit: SDK, CLI, examples, and docs for AI agents that publish videos through Taisly.",
-            "url": "https://github.com/taisly/agent",
-            "stars": 207,
-            "forks": 0,
+            "name": "Nubase",
+            "full_name": "OtterMind/Nubase",
+            "description": "\ud83d\udd25\ud83d\udd25\ud83d\udd25 Turn AI-written code into real apps. Nubase is an open-source, AI-native backend platform for AI Coding, agentic applications, and modern product teams: Memory, Database, Storage, and Auth in one self-hostable service.",
+            "url": "https://github.com/OtterMind/Nubase",
+            "stars": 222,
+            "forks": 16,
             "score": 41
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "coreai-model-zoo",
-            "full_name": "john-rocky/coreai-model-zoo",
-            "description": "Community model zoo + knowledge base for Apple Core AI (iOS/macOS 27): Qwen3.5 & Gemma 4 converted end-to-end, verified on-device (iPhone 17 Pro GPU/ANE), conversion gotchas, custom Metal kernels, Swift runner",
-            "url": "https://github.com/john-rocky/coreai-model-zoo",
-            "stars": 159,
-            "forks": 11,
-            "score": 40
         },
         {
             "main_cat": "AI",
@@ -315,8 +304,19 @@ const ALPHA_DATA_V2 = {
             "full_name": "Dong90/oh-my-taiyiforge",
             "description": "AI workflow automation plugin for intelligent code generation with Claude/Codex",
             "url": "https://github.com/Dong90/oh-my-taiyiforge",
-            "stars": 260,
+            "stars": 270,
             "forks": 8,
+            "score": 39
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "coreai-model-zoo",
+            "full_name": "john-rocky/coreai-model-zoo",
+            "description": "Community model zoo + knowledge base for Apple Core AI (iOS/macOS 27): Qwen3.5 & Gemma 4 converted end-to-end, verified on-device (iPhone 17 Pro GPU/ANE), conversion gotchas, custom Metal kernels, Swift runner",
+            "url": "https://github.com/john-rocky/coreai-model-zoo",
+            "stars": 162,
+            "forks": 11,
             "score": 39
         },
         {
@@ -344,23 +344,23 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
+            "name": "raven",
+            "full_name": "8treenet/raven",
+            "description": "Raven is a self-hosted, multi-user AI Agent harness. It assembles models, tools, knowledge, files, skills, and workflows into a single runtime environment where agents can take on tasks, invoke tools, read documents, write code, and compound capabilities across sessions.",
+            "url": "https://github.com/8treenet/raven",
+            "stars": 8,
+            "forks": 3,
+            "score": 32
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
             "name": "Rivus",
             "full_name": "caokai1073/Rivus",
             "description": "Your personal knowledge base powered by local AI. Ingest anything, ask anything \u2014 fully offline with Ollama, or connect to cloud models.",
             "url": "https://github.com/caokai1073/Rivus",
             "stars": 8,
             "forks": 1,
-            "score": 30
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "toshllm",
-            "full_name": "engeldlgado/toshllm",
-            "description": "Run large language models locally on Intel Macs with AMD GPUs \u2014 native macOS app with Metal acceleration",
-            "url": "https://github.com/engeldlgado/toshllm",
-            "stars": 7,
-            "forks": 0,
             "score": 30
         },
         {
@@ -381,7 +381,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "companygondu-cyber/MLB-SYSTEM-ig-montecarlopicks",
             "description": "Machine learning system for MLB betting predictions using ensemble models (HGB, Random Forest, XGBoost), dynamic ELO calibration, player props forecasting, and real-time lineup data from the official MLB API. Includes historical backtesting engine and daily prediction scanner.",
             "url": "https://github.com/companygondu-cyber/MLB-SYSTEM-ig-montecarlopicks",
-            "stars": 1,
+            "stars": 2,
             "forks": 0,
             "score": 30
         },
@@ -685,18 +685,18 @@ const ALPHA_DATA_V2 = {
     ],
     "news": [
         {
-            "title": "Learning Red Agent Policy from Observations for Neurosymbolic Autonomous Cyber Agents",
+            "title": "CodeSentinel: A Three-Layer Defense Against Indirect Prompt Injection in Code Contexts",
             "source": "ArXiv",
             "type": "Research Alpha",
             "color": "text-indigo-600",
-            "url": "http://arxiv.org/abs/2606.18223v1"
+            "url": "http://arxiv.org/abs/2606.19235v1"
         },
         {
-            "title": "Gatling: Rapid-Fire Consensus from Parallel Composition",
+            "title": "PhantomSkill: Malicious Code Injection in Agent Skill Ecosystems",
             "source": "ArXiv",
             "type": "Research Alpha",
             "color": "text-indigo-600",
-            "url": "http://arxiv.org/abs/2606.18220v1"
+            "url": "http://arxiv.org/abs/2606.19191v1"
         },
         {
             "title": "Bitcoin volatility remains high ahead of key FED decision.",
@@ -706,5 +706,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-06-18 00:11"
+    "timestamp": "2026-06-18 05:51"
 };
