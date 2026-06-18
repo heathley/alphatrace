@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "DietrichGebert/ponytail",
             "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
             "url": "https://github.com/DietrichGebert/ponytail",
-            "stars": 31352,
-            "forks": 1411,
+            "stars": 31582,
+            "forks": 1424,
             "score": 99
         },
         {
@@ -18,8 +18,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "omnigent-ai/omnigent",
             "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents \u2014 swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.",
             "url": "https://github.com/omnigent-ai/omnigent",
-            "stars": 3471,
-            "forks": 384,
+            "stars": 3496,
+            "forks": 387,
             "score": 99
         },
         {
@@ -29,8 +29,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "JimLiu/baoyu-design",
             "description": "Run Claude Design locally as an Agent Skill \u2014 Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/design. Best with Opus 4.8.",
             "url": "https://github.com/JimLiu/baoyu-design",
-            "stars": 1448,
-            "forks": 108,
+            "stars": 1451,
+            "forks": 109,
             "score": 99
         },
         {
@@ -62,9 +62,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "nolangz/pixel2motion",
             "description": "AI logo animation skill: turn raster logos into smooth SVG animation, animated HTML demos, GIF/video previews, and motion QA evidence.",
             "url": "https://github.com/nolangz/pixel2motion",
-            "stars": 707,
+            "stars": 711,
             "forks": 67,
-            "score": 90
+            "score": 91
         },
         {
             "main_cat": "AI",
@@ -73,7 +73,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "apple/coreai-models",
             "description": "Model export recipes, Python primitives, and Swift runtime utilities for on-device AI",
             "url": "https://github.com/apple/coreai-models",
-            "stars": 1051,
+            "stars": 1052,
             "forks": 80,
             "score": 87
         },
@@ -84,7 +84,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "GordenSun/GordenSuperPPTSkills",
             "description": "AI PPT\u8d5b\u9053\u7ec8\u7ed3\u8005\uff0c\u53f2\u4e0a\u6700\u6700\u6700\u5f3a PPT Skill\uff01\uff01\uff01  \u4f7f\u7528GPT\u751f\u6210\u8c6a\u534e\u7684\u56fe\u7247\u683c\u5f0fPPT\uff0c\u7136\u540e\u8f6c\u6362\u4e3a\u5b8c\u5168\u53ef\u7f16\u8f91\u7684PPTX\u6587\u4ef6\u3002",
             "url": "https://github.com/GordenSun/GordenSuperPPTSkills",
-            "stars": 1008,
+            "stars": 1009,
             "forks": 94,
             "score": 83
         },
@@ -95,7 +95,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "amElnagdy/guard-skills",
             "description": "Guard skills for coding agents, quality gates that catch AI-generated failure modes in code, tests, and docs",
             "url": "https://github.com/amElnagdy/guard-skills",
-            "stars": 813,
+            "stars": 816,
             "forks": 96,
             "score": 72
         },
@@ -117,9 +117,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "dongshuyan/compass-skills",
             "description": "\u53f8\u5357\uff1a\u4e2a\u6027\u5316 AI \u4efb\u52a1\u603b\u63a7 Skills \u7cfb\u7edf /COMPASS: Personal Alignment Skills OS for AI Agents",
             "url": "https://github.com/dongshuyan/compass-skills",
-            "stars": 260,
+            "stars": 262,
             "forks": 22,
-            "score": 64
+            "score": 65
         },
         {
             "main_cat": "AI",
@@ -139,7 +139,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "gykim80/perfectpixel-studio",
             "description": "AI-powered animation sprite studio \u2014 generate character sprite sheets with 8 directions and 100+ actions from a single text prompt (Wails + Go + React)",
             "url": "https://github.com/gykim80/perfectpixel-studio",
-            "stars": 225,
+            "stars": 226,
             "forks": 31,
             "score": 59
         },
@@ -150,7 +150,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Nanako0129/coralline",
             "description": "\ud83e\udeb8 Powerlevel10k-inspired statusline for Claude Code \u2014 paste one prompt and your AI interviews you, then installs it",
             "url": "https://github.com/Nanako0129/coralline",
-            "stars": 352,
+            "stars": 353,
             "forks": 27,
             "score": 58
         },
@@ -161,7 +161,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "chubbyguan/chubbyskills",
             "description": "\u628a\u4e2d\u6587\u5168\u6e20\u9053\u5185\u5bb9\uff08\u6296\u97f3 / B\u7ad9 / \u5c0f\u7ea2\u4e66 / \u516c\u4f17\u53f7 / X / \u64ad\u5ba2\uff09\u91c7\u96c6\u8fdb\u4e2a\u4eba\u77e5\u8bc6\u5e93\u7684 13 \u4e2a AI Skill\uff1a\u56fe\u6587\u5b58\u56fe\u3001\u89c6\u9891\u8f6c\u6587\u5b57\u7a3f\u3001\u5b57\u5e55\u4f18\u5148\u514d GPU\uff0c\u9644\u5e26\u77e5\u8bc6\u5e93 MCP server\u3002 \uff5c Ingest Chinese content into your personal knowledge base \u2014 image/video routing, subtitle-first transcription, and a KB MCP server.",
             "url": "https://github.com/chubbyguan/chubbyskills",
-            "stars": 408,
+            "stars": 409,
             "forks": 64,
             "score": 57
         },
@@ -172,7 +172,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "buynao/aipath",
             "description": "Interactive AI General Education Course \u2014 30 Lessons, Zero Math",
             "url": "https://github.com/buynao/aipath",
-            "stars": 303,
+            "stars": 306,
             "forks": 33,
             "score": 57
         },
@@ -183,7 +183,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "duckbugio/flock",
             "description": "Autonomous AI dev-team bot",
             "url": "https://github.com/duckbugio/flock",
-            "stars": 631,
+            "stars": 632,
             "forks": 0,
             "score": 56
         },
@@ -205,7 +205,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "TestSprite/testsprite-cli",
             "description": "Official TestSprite CLI \u2014 AI-powered automated testing from your terminal",
             "url": "https://github.com/TestSprite/testsprite-cli",
-            "stars": 399,
+            "stars": 404,
             "forks": 15,
             "score": 55
         },
@@ -216,7 +216,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "majidmanzarpour/threejs-game-skills",
             "description": "Agent skills for building playable, polished Three.js browser games with gameplay, AAA-style graphics, UI, QA, and optional AI-generated 3D, image, and audio assets.",
             "url": "https://github.com/majidmanzarpour/threejs-game-skills",
-            "stars": 232,
+            "stars": 236,
             "forks": 18,
             "score": 55
         },
@@ -256,13 +256,24 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
+            "name": "best-humanizer-handbook",
+            "full_name": "fendouai/best-humanizer-handbook",
+            "description": "Best AI Humanizer Handbook A practical guide to making AI-assisted writing clearer, more credible, and more human",
+            "url": "https://github.com/fendouai/best-humanizer-handbook",
+            "stars": 203,
+            "forks": 2,
+            "score": 51
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
             "name": "orange-line-illustration",
             "full_name": "orange2ai/orange-line-illustration",
             "description": "\ud83c\udf4a New Yorker-style minimalist editorial illustration skill for AI agents \u2014 one idea, one accent, lots of silence. Free for open-source use; commercial license for closed-source.",
             "url": "https://github.com/orange2ai/orange-line-illustration",
             "stars": 278,
             "forks": 21,
-            "score": 50
+            "score": 48
         },
         {
             "main_cat": "AI",
@@ -271,20 +282,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "12britz/awesome-free-models",
             "description": "A curated list of free AI models, APIs, and tools you can use without paying a cent.",
             "url": "https://github.com/12britz/awesome-free-models",
-            "stars": 360,
+            "stars": 361,
             "forks": 23,
             "score": 46
         },
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "Local-AI-Image-Generator",
-            "full_name": "techjarves/Local-AI-Image-Generator",
-            "description": "A fully self-contained, offline AI image generation studio for Windows. Runs Stable Diffusion (Safetensors/GGUF) locally with zero manual setup. Auto-configures CUDA for Nvidia GPUs and Vulkan for AMD/Intel Arc cards. Zero system-wide dependencies required.",
-            "url": "https://github.com/techjarves/Local-AI-Image-Generator",
-            "stars": 208,
-            "forks": 74,
-            "score": 45
+            "name": "agent",
+            "full_name": "taisly/agent",
+            "description": "Taisly Agent Kit: SDK, CLI, examples, and docs for AI agents that publish videos through Taisly.",
+            "url": "https://github.com/taisly/agent",
+            "stars": 207,
+            "forks": 0,
+            "score": 41
         },
         {
             "main_cat": "AI",
@@ -299,24 +310,13 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "ai-shortVideo-pipeline",
-            "full_name": "myccarl/ai-shortVideo-pipeline",
-            "description": "End-to-end AI short-video production pipeline. FastAPI orchestration + Spring Boot gateway with multi-model failover, circuit breaker, metering, and full-stack observability. AI quality gating: prompt anchoring, CLIP consistency, AV sync auto-rescue.",
-            "url": "https://github.com/myccarl/ai-shortVideo-pipeline",
-            "stars": 278,
-            "forks": 3,
-            "score": 39
-        },
-        {
-            "main_cat": "AI",
             "sub_cat": null,
             "name": "oh-my-taiyiforge",
             "full_name": "Dong90/oh-my-taiyiforge",
             "description": "AI workflow automation plugin for intelligent code generation with Claude/Codex",
             "url": "https://github.com/Dong90/oh-my-taiyiforge",
             "stars": 260,
-            "forks": 7,
+            "forks": 8,
             "score": 39
         },
         {
@@ -342,12 +342,23 @@ const ALPHA_DATA_V2 = {
             "score": 38
         },
         {
-            "main_cat": "DePIN",
-            "sub_cat": null,
-            "name": "llama-cpp-mtp-turboquant-sm120-blackwell-windows",
-            "full_name": "Andgihat/llama-cpp-mtp-turboquant-sm120-blackwell-windows",
-            "description": "Windows prebuilt of llama.cpp combining Multi-Token Prediction (MTP) + TurboQuant KV cache compression + native sm_120 (Blackwell consumer GPU, FP4 tensor cores). For RTX 5060 Ti / 5070 / 5080 / 5090.",
-            "url": "https://github.com/Andgihat/llama-cpp-mtp-turboquant-sm120-blackwell-windows",
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "Rivus",
+            "full_name": "caokai1073/Rivus",
+            "description": "Your personal knowledge base powered by local AI. Ingest anything, ask anything \u2014 fully offline with Ollama, or connect to cloud models.",
+            "url": "https://github.com/caokai1073/Rivus",
+            "stars": 8,
+            "forks": 1,
+            "score": 30
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "toshllm",
+            "full_name": "engeldlgado/toshllm",
+            "description": "Run large language models locally on Intel Macs with AMD GPUs \u2014 native macOS app with Metal acceleration",
+            "url": "https://github.com/engeldlgado/toshllm",
             "stars": 7,
             "forks": 0,
             "score": 30
@@ -360,6 +371,17 @@ const ALPHA_DATA_V2 = {
             "description": "Autonomous AI CFO bringing banking-grade yield + on-chain credit to anyone with a phone & wallet \u2014 no bank, no jargon. Describe goals in plain English; the agent rebalances tokenized real-world assets (USDY treasuries + mETH) live on Mantle, builds a soulbound credit passport, and lends against it. AI \u00d7 RWA \u00b7 Financial Inclusion.",
             "url": "https://github.com/rupeshkumarvs/RWAkinss",
             "stars": 0,
+            "forks": 0,
+            "score": 30
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "MLB-SYSTEM-ig-montecarlopicks",
+            "full_name": "companygondu-cyber/MLB-SYSTEM-ig-montecarlopicks",
+            "description": "Machine learning system for MLB betting predictions using ensemble models (HGB, Random Forest, XGBoost), dynamic ELO calibration, player props forecasting, and real-time lineup data from the official MLB API. Includes historical backtesting engine and daily prediction scanner.",
+            "url": "https://github.com/companygondu-cyber/MLB-SYSTEM-ig-montecarlopicks",
+            "stars": 1,
             "forks": 0,
             "score": 30
         },
@@ -392,17 +414,6 @@ const ALPHA_DATA_V2 = {
             "full_name": "pmxpo/Worldcup-predictions-by-baysa",
             "description": "AI-powered FIFA World Cup prediction platform combining Machine Learning, Elo ratings, Poisson xG models, Monte Carlo tournament simulations, betting market analytics, score predictions, safe picks, and historical backtesting to deliver professional football forecasts and match intelligence.",
             "url": "https://github.com/pmxpo/Worldcup-predictions-by-baysa",
-            "stars": 0,
-            "forks": 0,
-            "score": 30
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "MLB-SYSTEM-ig-montecarlopicks",
-            "full_name": "companygondu-cyber/MLB-SYSTEM-ig-montecarlopicks",
-            "description": "Machine learning system for MLB betting predictions using ensemble models (HGB, Random Forest, XGBoost), dynamic ELO calibration, player props forecasting, and real-time lineup data from the official MLB API. Includes historical backtesting engine and daily prediction scanner.",
-            "url": "https://github.com/companygondu-cyber/MLB-SYSTEM-ig-montecarlopicks",
             "stars": 0,
             "forks": 0,
             "score": 30
@@ -540,17 +551,6 @@ const ALPHA_DATA_V2 = {
             "score": 30
         },
         {
-            "main_cat": "Stablecoin Infrastructure",
-            "sub_cat": null,
-            "name": "solana-compliance-hook",
-            "full_name": "sks006/solana-compliance-hook",
-            "description": "A Token-2022 transfer hook for Solana that enforces KYC allowlists, blacklists, and fee-on-transfer\u2014built for compliant stablecoin issuers and payment processors.",
-            "url": "https://github.com/sks006/solana-compliance-hook",
-            "stars": 0,
-            "forks": 0,
-            "score": 30
-        },
-        {
             "main_cat": "AI",
             "sub_cat": "AI General",
             "name": "TrustSplit",
@@ -558,6 +558,28 @@ const ALPHA_DATA_V2 = {
             "description": "TrustSplit is a multi-chain, trustless expense-splitting platform that eliminates the trust dependency in group payments. Participants commit stablecoins or sign cryptographic payment promises into a shared escrow pool, which settles all payees in a single batch transaction \u2014 no intermediaries, no delays",
             "url": "https://github.com/HumanChainX/TrustSplit",
             "stars": 0,
+            "forks": 0,
+            "score": 30
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "tieout",
+            "full_name": "jorge-j1m/tieout",
+            "description": "Open-source payments reconciliation engine. Tieout ingests money records from every system they live in \u2014 your ledger, payment processors, banks, stablecoin rails \u2014 normalizes them into one model, matches them against each other, and surfaces the transactions it can't explain. Every run and every decision is recorded immutably.",
+            "url": "https://github.com/jorge-j1m/tieout",
+            "stars": 0,
+            "forks": 0,
+            "score": 30
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "Maat",
+            "full_name": "Lord1Egypt/Maat",
+            "description": "\ud80c\udc67 Ma'at \u2014 The Order Blockchain: fixed-price cross-chain exchange with scheduled announcements. Central-bank model for crypto. Native coin + wrapped assets at protocol-set prices.",
+            "url": "https://github.com/Lord1Egypt/Maat",
+            "stars": 1,
             "forks": 0,
             "score": 30
         },
@@ -630,17 +652,6 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
-            "name": "Maat",
-            "full_name": "Lord1Egypt/Maat",
-            "description": "\ud80c\udc67 Ma'at \u2014 The Order Blockchain: fixed-price cross-chain exchange with scheduled announcements. Central-bank model for crypto. Native coin + wrapped assets at protocol-set prices.",
-            "url": "https://github.com/Lord1Egypt/Maat",
-            "stars": 0,
-            "forks": 0,
-            "score": 30
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
             "name": "waffle-finance-core",
             "full_name": "Waffle-finance/waffle-finance-core",
             "description": "WaffleFinance is a non-custodial cross-chain swap protocol bridging Ethereum, Stellar, and Solana using Hash Time-Lock Contracts. No validators, no attesters \u2014 just cryptographic settlement. Funds either swap atomically or refund permissionlessly. Connect MetaMask, Freighter, or Phantom and swap in seconds.",
@@ -695,5 +706,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-06-17 22:42"
+    "timestamp": "2026-06-18 00:11"
 };
