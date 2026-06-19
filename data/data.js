@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "DietrichGebert/ponytail",
             "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
             "url": "https://github.com/DietrichGebert/ponytail",
-            "stars": 36494,
-            "forks": 1687,
+            "stars": 36679,
+            "forks": 1701,
             "score": 99
         },
         {
@@ -18,8 +18,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "omnigent-ai/omnigent",
             "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents \u2014 swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.",
             "url": "https://github.com/omnigent-ai/omnigent",
-            "stars": 3791,
-            "forks": 420,
+            "stars": 3804,
+            "forks": 423,
             "score": 99
         },
         {
@@ -51,7 +51,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "orange2ai/renwei-writing",
             "description": "\u4eba\u5473\u513f\u5199\u4f5c \u00b7 An AI agent skill: edit people's words without erasing the person behind them",
             "url": "https://github.com/orange2ai/renwei-writing",
-            "stars": 809,
+            "stars": 810,
             "forks": 77,
             "score": 92
         },
@@ -62,7 +62,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "nolangz/pixel2motion",
             "description": "AI logo animation skill: turn raster logos into smooth SVG animation, animated HTML demos, GIF/video previews, and motion QA evidence.",
             "url": "https://github.com/nolangz/pixel2motion",
-            "stars": 793,
+            "stars": 797,
             "forks": 72,
             "score": 90
         },
@@ -74,7 +74,7 @@ const ALPHA_DATA_V2 = {
             "description": "Model export recipes, Python primitives, and Swift runtime utilities for on-device AI",
             "url": "https://github.com/apple/coreai-models",
             "stars": 1064,
-            "forks": 81,
+            "forks": 82,
             "score": 83
         },
         {
@@ -84,7 +84,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "GordenSun/GordenSuperPPTSkills",
             "description": "AI PPT\u8d5b\u9053\u7ec8\u7ed3\u8005\uff0c\u53f2\u4e0a\u6700\u6700\u6700\u5f3a PPT Skill\uff01\uff01\uff01  \u4f7f\u7528GPT\u751f\u6210\u8c6a\u534e\u7684\u56fe\u7247\u683c\u5f0fPPT\uff0c\u7136\u540e\u8f6c\u6362\u4e3a\u5b8c\u5168\u53ef\u7f16\u8f91\u7684PPTX\u6587\u4ef6\u3002",
             "url": "https://github.com/GordenSun/GordenSuperPPTSkills",
-            "stars": 1064,
+            "stars": 1065,
             "forks": 101,
             "score": 82
         },
@@ -106,8 +106,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "dzcmemory-web/bazi-ziwei-skill",
             "description": "AI \u516b\u5b57 + \u7d2b\u5fae\u6597\u6570\u6392\u76d8\u4e0e\u7efc\u5408\u5370\u8bc1 Skill\uff1a\u7b97\u6cd5\u7cbe\u51c6\u6392\u76d8\uff08\u4e0d\u9760 LLM \u731c\uff09\uff0c\u4e09\u79cd\u5206\u6790\u6a21\u5f0f\uff0c\u4e00\u952e\u751f\u6210\u6c34\u58a8\u98ce HTML \u547d\u76d8\u6d77\u62a5\u3002\u517c\u5bb9 Claude / Codex / Cursor / Workbuddy \u7b49 SKILL.md Agent\u3002",
             "url": "https://github.com/dzcmemory-web/bazi-ziwei-skill",
-            "stars": 380,
-            "forks": 42,
+            "stars": 384,
+            "forks": 43,
             "score": 64
         },
         {
@@ -128,7 +128,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "dongshuyan/compass-skills",
             "description": "\u53f8\u5357\uff1a\u4e2a\u6027\u5316 AI \u4efb\u52a1\u603b\u63a7 Skills \u7cfb\u7edf /COMPASS: Personal Alignment Skills OS for AI Agents",
             "url": "https://github.com/dongshuyan/compass-skills",
-            "stars": 295,
+            "stars": 296,
             "forks": 26,
             "score": 63
         },
@@ -139,9 +139,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "kadevin/ilab-gpt-conjure",
             "description": "\u9762\u5411 GPT-image-2 \u7684 AI \u56fe\u7247\u751f\u6210 WebUI \u5de5\u4f5c\u53f0\uff0c\u652f\u6301 Codex Responses \u4e0e OpenAI \u517c\u5bb9 API \u63a5\u5165\uff0c\u5185\u7f6e\u516c\u7528\u56fe\u5e93\u3001\u591a\u7c7b\u578b Chip \u5feb\u6377\u5f15\u7528\u3001\u63d0\u793a\u8bcd\u6a21\u677f\u3001\u591a\u4efb\u52a1\u5e76\u53d1\u548c\u672c\u5730\u961f\u5217\u7ba1\u7406\u3002An AI image generation WebUI workbench for GPT-image-2 with Codex Responses and OpenAI-compatible API support, shared gallery references, multi-type quick chips, prompt templates, concurrent tasks, and local queue management.",
             "url": "https://github.com/kadevin/ilab-gpt-conjure",
-            "stars": 510,
-            "forks": 72,
-            "score": 60
+            "stars": 515,
+            "forks": 73,
+            "score": 61
         },
         {
             "main_cat": "AI",
@@ -150,7 +150,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "duckbugio/flock",
             "description": "Autonomous AI dev-team bot",
             "url": "https://github.com/duckbugio/flock",
-            "stars": 701,
+            "stars": 703,
             "forks": 1,
             "score": 57
         },
@@ -161,7 +161,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "TestSprite/testsprite-cli",
             "description": "Official TestSprite CLI \u2014 AI-powered automated testing from your terminal",
             "url": "https://github.com/TestSprite/testsprite-cli",
-            "stars": 479,
+            "stars": 482,
             "forks": 16,
             "score": 57
         },
@@ -172,7 +172,18 @@ const ALPHA_DATA_V2 = {
             "full_name": "Nanako0129/coralline",
             "description": "\ud83e\udeb8 Powerlevel10k-inspired statusline for Claude Code \u2014 paste one prompt and your AI interviews you, then installs it",
             "url": "https://github.com/Nanako0129/coralline",
-            "stars": 376,
+            "stars": 377,
+            "forks": 28,
+            "score": 57
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "threejs-game-skills",
+            "full_name": "majidmanzarpour/threejs-game-skills",
+            "description": "Agent skills for building playable, polished Three.js browser games with gameplay, AAA-style graphics, UI, QA, and optional AI-generated 3D, image, and audio assets.",
+            "url": "https://github.com/majidmanzarpour/threejs-game-skills",
+            "stars": 268,
             "forks": 28,
             "score": 57
         },
@@ -190,12 +201,12 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "threejs-game-skills",
-            "full_name": "majidmanzarpour/threejs-game-skills",
-            "description": "Agent skills for building playable, polished Three.js browser games with gameplay, AAA-style graphics, UI, QA, and optional AI-generated 3D, image, and audio assets.",
-            "url": "https://github.com/majidmanzarpour/threejs-game-skills",
-            "stars": 266,
-            "forks": 27,
+            "name": "perfectpixel-studio",
+            "full_name": "gykim80/perfectpixel-studio",
+            "description": "AI-powered animation sprite studio \u2014 generate character sprite sheets with 8 directions and 100+ actions from a single text prompt (Wails + Go + React)",
+            "url": "https://github.com/gykim80/perfectpixel-studio",
+            "stars": 241,
+            "forks": 34,
             "score": 56
         },
         {
@@ -227,20 +238,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "buynao/aipath",
             "description": "Interactive AI General Education Course \u2014 30 Lessons, Zero Math",
             "url": "https://github.com/buynao/aipath",
-            "stars": 319,
+            "stars": 321,
             "forks": 34,
             "score": 55
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "wayland",
-            "full_name": "FerroxLabs/wayland",
-            "description": "Wayland - The AI Agent That Perceives. Reasons. Acts. Evolves.",
-            "url": "https://github.com/FerroxLabs/wayland",
-            "stars": 449,
-            "forks": 72,
-            "score": 53
         },
         {
             "main_cat": "AI",
@@ -266,6 +266,17 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "awesome-free-models",
+            "full_name": "12britz/awesome-free-models",
+            "description": "A curated list of free AI models, APIs, and tools you can use without paying a cent.",
+            "url": "https://github.com/12britz/awesome-free-models",
+            "stars": 426,
+            "forks": 27,
+            "score": 47
+        },
+        {
+            "main_cat": "AI",
             "sub_cat": null,
             "name": "orange-line-illustration",
             "full_name": "orange2ai/orange-line-illustration",
@@ -273,18 +284,18 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/orange2ai/orange-line-illustration",
             "stars": 283,
             "forks": 21,
-            "score": 48
+            "score": 46
         },
         {
             "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "awesome-free-models",
-            "full_name": "12britz/awesome-free-models",
-            "description": "A curated list of free AI models, APIs, and tools you can use without paying a cent.",
-            "url": "https://github.com/12britz/awesome-free-models",
-            "stars": 410,
-            "forks": 27,
-            "score": 47
+            "sub_cat": null,
+            "name": "personal-agent-template",
+            "full_name": "vercel-labs/personal-agent-template",
+            "description": "Open-source template for a durable personal AI agent \u2014 web chat, Slack, Linear, and long-term memory with user-approved saves. Eve, Nuxt, Better Auth, Vercel Connect.",
+            "url": "https://github.com/vercel-labs/personal-agent-template",
+            "stars": 266,
+            "forks": 13,
+            "score": 45
         },
         {
             "main_cat": "AI",
@@ -293,7 +304,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "OtterMind/Nubase",
             "description": "\ud83d\udd25\ud83d\udd25\ud83d\udd25 Turn AI-written code into real apps. Nubase is an open-source, AI-native backend platform for AI Coding, agentic applications, and modern product teams: Memory, Database, Storage, and Auth in one self-hostable service.",
             "url": "https://github.com/OtterMind/Nubase",
-            "stars": 284,
+            "stars": 286,
             "forks": 24,
             "score": 44
         },
@@ -306,7 +317,7 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/frontiersystempraise/Claude-Pro-For-Free",
             "stars": 318,
             "forks": 0,
-            "score": 42
+            "score": 41
         },
         {
             "main_cat": "AI",
@@ -317,17 +328,6 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/Electrondrastorm/Canva-Pro-26",
             "stars": 318,
             "forks": 0,
-            "score": 42
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "oh-my-taiyiforge",
-            "full_name": "Dong90/oh-my-taiyiforge",
-            "description": "AI workflow automation plugin for intelligent code generation with Claude/Codex",
-            "url": "https://github.com/Dong90/oh-my-taiyiforge",
-            "stars": 316,
-            "forks": 9,
             "score": 41
         },
         {
@@ -339,7 +339,7 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/Gulfsistable/codex-cursor-unlimited",
             "stars": 264,
             "forks": 0,
-            "score": 40
+            "score": 39
         },
         {
             "main_cat": "AI",
@@ -359,7 +359,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "leyten/shard",
             "description": "Pipeline-parallel LLM inference across GPUs on separate machines.",
             "url": "https://github.com/leyten/shard",
-            "stars": 29,
+            "stars": 35,
             "forks": 3,
             "score": 33
         },
@@ -373,6 +373,28 @@ const ALPHA_DATA_V2 = {
             "stars": 8,
             "forks": 3,
             "score": 31
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "Rivus",
+            "full_name": "caokai1073/Rivus",
+            "description": "Your personal knowledge base powered by local AI. Ingest anything, ask anything \u2014 fully offline with Ollama, or connect to cloud models.",
+            "url": "https://github.com/caokai1073/Rivus",
+            "stars": 8,
+            "forks": 1,
+            "score": 30
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "toshllm",
+            "full_name": "engeldlgado/toshllm",
+            "description": "Run large language models locally on Intel Macs with AMD GPUs \u2014 native macOS app with Metal acceleration",
+            "url": "https://github.com/engeldlgado/toshllm",
+            "stars": 9,
+            "forks": 1,
+            "score": 30
         },
         {
             "main_cat": "AI",
@@ -425,6 +447,17 @@ const ALPHA_DATA_V2 = {
             "full_name": "pmxpo/Worldcup-predictions-by-baysa",
             "description": "AI-powered FIFA World Cup prediction platform combining Machine Learning, Elo ratings, Poisson xG models, Monte Carlo tournament simulations, betting market analytics, score predictions, safe picks, and historical backtesting to deliver professional football forecasts and match intelligence.",
             "url": "https://github.com/pmxpo/Worldcup-predictions-by-baysa",
+            "stars": 0,
+            "forks": 0,
+            "score": 30
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "WinDrawWin-Accuracy-Tracker",
+            "full_name": "KiarieDenis/WinDrawWin-Accuracy-Tracker",
+            "description": "This repository contains a suite of scripts that ingest prediction data, compute betting scores, and generate high\u2011odds betting recommendation reports. It also tracks prediction accuracy over time.",
+            "url": "https://github.com/KiarieDenis/WinDrawWin-Accuracy-Tracker",
             "stars": 0,
             "forks": 0,
             "score": 30
@@ -575,17 +608,6 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
-            "name": "TrustSplit",
-            "full_name": "HumanChainX/TrustSplit",
-            "description": "TrustSplit is a multi-chain, trustless expense-splitting platform that eliminates the trust dependency in group payments. Participants commit stablecoins or sign cryptographic payment promises into a shared escrow pool, which settles all payees in a single batch transaction \u2014 no intermediaries, no delays",
-            "url": "https://github.com/HumanChainX/TrustSplit",
-            "stars": 0,
-            "forks": 0,
-            "score": 30
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
             "name": "tieout",
             "full_name": "jorge-j1m/tieout",
             "description": "Open-source payments reconciliation engine. Tieout ingests money records from every system they live in \u2014 your ledger, payment processors, banks, stablecoin rails \u2014 normalizes them into one model, matches them against each other, and surfaces the transactions it can't explain. Every run and every decision is recorded immutably.",
@@ -703,6 +725,17 @@ const ALPHA_DATA_V2 = {
             "stars": 0,
             "forks": 0,
             "score": 30
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "boundary-signature",
+            "full_name": "nicoveraz/boundary-signature",
+            "description": "A token-probability measurement protocol for per-step belief monitoring in chain-of-thought reasoning. Per-step answer-distribution scorers (mean entropy) as deferral signals, validated cross-domain on MedQA/MMLU under single-run 4-bit constraints, plus a pre-registered audit trail and reproduce-without-an-LLM cached measurements.",
+            "url": "https://github.com/nicoveraz/boundary-signature",
+            "stars": 0,
+            "forks": 0,
+            "score": 30
         }
     ],
     "news": [
@@ -728,5 +761,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-06-18 22:53"
+    "timestamp": "2026-06-19 00:21"
 };
