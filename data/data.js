@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "DietrichGebert/ponytail",
             "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
             "url": "https://github.com/DietrichGebert/ponytail",
-            "stars": 42651,
-            "forks": 2052,
+            "stars": 42879,
+            "forks": 2071,
             "score": 99
         },
         {
@@ -18,8 +18,19 @@ const ALPHA_DATA_V2 = {
             "full_name": "omnigent-ai/omnigent",
             "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents \u2014 swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.",
             "url": "https://github.com/omnigent-ai/omnigent",
-            "stars": 4174,
+            "stars": 4182,
             "forks": 470,
+            "score": 99
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "formcms",
+            "full_name": "nnecrkvenuOX/formcms",
+            "description": "AI Agent: Open-source headless CMS built with ASP.NET Core (C#) and React, featuring REST APIs, GraphQL, and a GrapesJS page designer.",
+            "url": "https://github.com/nnecrkvenuOX/formcms",
+            "stars": 332,
+            "forks": 136,
             "score": 99
         },
         {
@@ -29,7 +40,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "MstKail/wc2026-crypto-sportsbook",
             "description": "2026 FIFA World Cup crypto sportsbook | soccer football betting platform | React TypeScript Vite | MetaMask wallet EIP-191 | live WebSocket odds scores | bet settlement engine | world cup 2026 betting | WC2026 predictions odds markets | blockchain crypto wallet sportsbook",
             "url": "https://github.com/MstKail/wc2026-crypto-sportsbook",
-            "stars": 303,
+            "stars": 304,
             "forks": 1295,
             "score": 99
         },
@@ -41,8 +52,8 @@ const ALPHA_DATA_V2 = {
             "description": "Run Claude Design locally as an Agent Skill \u2014 Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/design. Best with Opus 4.8.",
             "url": "https://github.com/JimLiu/baoyu-design",
             "stars": 1670,
-            "forks": 126,
-            "score": 97
+            "forks": 127,
+            "score": 98
         },
         {
             "main_cat": "AI",
@@ -51,9 +62,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "Forsy-AI/agent-apprenticeship",
             "description": "The living ecosystem for AI agents learning from real-world work through iterative loops and training-signal exchange.",
             "url": "https://github.com/Forsy-AI/agent-apprenticeship",
-            "stars": 500,
+            "stars": 508,
             "forks": 0,
-            "score": 92
+            "score": 93
         },
         {
             "main_cat": "AI",
@@ -69,23 +80,12 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "formcms",
-            "full_name": "nnecrkvenuOX/formcms",
-            "description": "AI Agent: Open-source headless CMS built with ASP.NET Core (C#) and React, featuring REST APIs, GraphQL, and a GrapesJS page designer.",
-            "url": "https://github.com/nnecrkvenuOX/formcms",
-            "stars": 332,
-            "forks": 87,
-            "score": 86
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
             "name": "pixel2motion",
             "full_name": "nolangz/pixel2motion",
             "description": "AI logo animation skill: turn raster logos into smooth SVG animation, animated HTML demos, GIF/video previews, and motion QA evidence.",
             "url": "https://github.com/nolangz/pixel2motion",
-            "stars": 849,
-            "forks": 77,
+            "stars": 851,
+            "forks": 78,
             "score": 82
         },
         {
@@ -150,7 +150,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "ziqihe10-droid/xuefeng-agent",
             "description": "AI \u9ad8\u8003\u5fd7\u613f\u987e\u95ee \u2014 \u4f1a\u8ffd\u95ee\u3001\u4f1a\u5206\u6790\u3001\u6562\u8bf4\u771f\u8bdd",
             "url": "https://github.com/ziqihe10-droid/xuefeng-agent",
-            "stars": 611,
+            "stars": 612,
             "forks": 88,
             "score": 60
         },
@@ -161,7 +161,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "majidmanzarpour/threejs-game-skills",
             "description": "Agent skills for building playable, polished Three.js browser games with gameplay, AAA-style graphics, UI, QA, and optional AI-generated 3D, image, and audio assets.",
             "url": "https://github.com/majidmanzarpour/threejs-game-skills",
-            "stars": 377,
+            "stars": 379,
             "forks": 41,
             "score": 60
         },
@@ -172,7 +172,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "TestSprite/testsprite-cli",
             "description": "Official TestSprite CLI \u2014 AI-powered automated testing from your terminal",
             "url": "https://github.com/TestSprite/testsprite-cli",
-            "stars": 610,
+            "stars": 616,
             "forks": 24,
             "score": 59
         },
@@ -205,8 +205,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "cobusgreyling/loop-engineering",
             "description": "Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by Addy Osmani and Boris Cherny). Includes loop-audit, loop-init, loop-cost.",
             "url": "https://github.com/cobusgreyling/loop-engineering",
-            "stars": 491,
-            "forks": 67,
+            "stars": 494,
+            "forks": 68,
             "score": 57
         },
         {
@@ -216,7 +216,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "gykim80/perfectpixel-studio",
             "description": "AI-powered animation sprite studio \u2014 generate character sprite sheets with 8 directions and 100+ actions from a single text prompt (Wails + Go + React)",
             "url": "https://github.com/gykim80/perfectpixel-studio",
-            "stars": 295,
+            "stars": 297,
             "forks": 46,
             "score": 56
         },
@@ -249,8 +249,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "leyten/shard",
             "description": "Pipeline-parallel LLM inference across GPUs on separate machines.",
             "url": "https://github.com/leyten/shard",
-            "stars": 256,
-            "forks": 24,
+            "stars": 257,
+            "forks": 25,
             "score": 55
         },
         {
@@ -271,9 +271,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "chubbyguan/chubbyskills",
             "description": "\u628a\u4e2d\u6587\u5168\u6e20\u9053\u5185\u5bb9\uff08\u6296\u97f3 / B\u7ad9 / \u5c0f\u7ea2\u4e66 / \u516c\u4f17\u53f7 / X / \u64ad\u5ba2\uff09\u91c7\u96c6\u8fdb\u4e2a\u4eba\u77e5\u8bc6\u5e93\u7684 13 \u4e2a AI Skill\uff1a\u56fe\u6587\u5b58\u56fe\u3001\u89c6\u9891\u8f6c\u6587\u5b57\u7a3f\u3001\u5b57\u5e55\u4f18\u5148\u514d GPU\uff0c\u9644\u5e26\u77e5\u8bc6\u5e93 MCP server\u3002 \uff5c Ingest Chinese content into your personal knowledge base \u2014 image/video routing, subtitle-first transcription, and a KB MCP server.",
             "url": "https://github.com/chubbyguan/chubbyskills",
-            "stars": 427,
+            "stars": 428,
             "forks": 65,
             "score": 52
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "loop-library",
+            "full_name": "Forward-Future/loop-library",
+            "description": "Practical repeatable AI-agent workflows for engineering, evaluation, operations, content, and design.",
+            "url": "https://github.com/Forward-Future/loop-library",
+            "stars": 351,
+            "forks": 30,
+            "score": 51
         },
         {
             "main_cat": "AI",
@@ -300,23 +311,12 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "loop-library",
-            "full_name": "Forward-Future/loop-library",
-            "description": "Practical repeatable AI-agent workflows for engineering, evaluation, operations, content, and design.",
-            "url": "https://github.com/Forward-Future/loop-library",
-            "stars": 312,
-            "forks": 24,
-            "score": 48
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
             "name": "personal-agent-template",
             "full_name": "vercel-labs/personal-agent-template",
             "description": "Open-source template for a durable personal AI agent \u2014 web chat, Slack, Linear, and long-term memory with user-approved saves. Eve, Nuxt, Better Auth, Vercel Connect.",
             "url": "https://github.com/vercel-labs/personal-agent-template",
-            "stars": 313,
-            "forks": 21,
+            "stars": 316,
+            "forks": 22,
             "score": 46
         },
         {
@@ -326,7 +326,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "orange2ai/orange-line-illustration",
             "description": "\ud83c\udf4a New Yorker-style minimalist editorial illustration skill for AI agents \u2014 one idea, one accent, lots of silence. Free for open-source use; commercial license for closed-source.",
             "url": "https://github.com/orange2ai/orange-line-illustration",
-            "stars": 308,
+            "stars": 309,
             "forks": 24,
             "score": 46
         },
@@ -337,31 +337,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "OtterMind/Nubase",
             "description": "\ud83d\udd25\ud83d\udd25\ud83d\udd25 Turn AI-written code into real apps. Nubase is an open-source, AI-native backend platform for AI Coding, agentic applications, and modern product teams: Memory, Database, Storage, and Auth in one self-hostable service.",
             "url": "https://github.com/OtterMind/Nubase",
-            "stars": 344,
+            "stars": 347,
             "forks": 29,
             "score": 45
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "Claude-Pro-For-Free",
-            "full_name": "frontiersystempraise/Claude-Pro-For-Free",
-            "description": "claude code ai free desktop app  api cli open source opencode aider gemini alternative download github local llm ollama setup guide tutorial api  2026",
-            "url": "https://github.com/frontiersystempraise/Claude-Pro-For-Free",
-            "stars": 321,
-            "forks": 0,
-            "score": 40
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "Canva-Pro-26",
-            "full_name": "Electrondrastorm/Canva-Pro-26",
-            "description": "Canva Pro - Drag-and-drop design tool with templates, brand kit, background remover, and Magic Studio AI.",
-            "url": "https://github.com/Electrondrastorm/Canva-Pro-26",
-            "stars": 319,
-            "forks": 0,
-            "score": 40
         },
         {
             "main_cat": "AI",
@@ -370,8 +348,30 @@ const ALPHA_DATA_V2 = {
             "full_name": "techjarves/Portable-Diffusion",
             "description": "A portable Local AI Image Generator and Stable Diffusion GUI for Windows, Linux, and macOS. Run GGUF & Safetensors models 100% offline with zero setup and auto-detected GPU/NPU acceleration (CUDA, ROCm, Vulkan, Metal, OpenVINO).",
             "url": "https://github.com/techjarves/Portable-Diffusion",
-            "stars": 61,
-            "forks": 17,
+            "stars": 67,
+            "forks": 19,
+            "score": 40
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "tiny.place",
+            "full_name": "tinyhumansai/tiny.place",
+            "description": "The social economy for autonomous AI agents. ",
+            "url": "https://github.com/tinyhumansai/tiny.place",
+            "stars": 291,
+            "forks": 1,
+            "score": 39
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "Claude-Pro-For-Free",
+            "full_name": "frontiersystempraise/Claude-Pro-For-Free",
+            "description": "claude code ai free desktop app  api cli open source opencode aider gemini alternative download github local llm ollama setup guide tutorial api  2026",
+            "url": "https://github.com/frontiersystempraise/Claude-Pro-For-Free",
+            "stars": 278,
+            "forks": 0,
             "score": 39
         },
         {
@@ -393,8 +393,8 @@ const ALPHA_DATA_V2 = {
             "description": "Free Local AI inference without need for GPUs or heavy chunks of your CPU  ",
             "url": "https://github.com/paulfruitful/freeaitokens",
             "stars": 12,
-            "forks": 5,
-            "score": 35
+            "forks": 6,
+            "score": 36
         },
         {
             "main_cat": "AI",
@@ -403,7 +403,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "engeldlgado/toshllm",
             "description": "Run large language models locally on Intel Macs with AMD GPUs \u2014 native macOS app with Metal acceleration",
             "url": "https://github.com/engeldlgado/toshllm",
-            "stars": 25,
+            "stars": 26,
             "forks": 1,
             "score": 31
         },
@@ -641,6 +641,17 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "Cross-chain / Interoperability",
             "sub_cat": null,
+            "name": "CryptoEdge",
+            "full_name": "Michel66/CryptoEdge",
+            "description": "Empowering secure, cross-platform deployment of decentralized, agile smart contracts through an optimized, efficient protocol framework.",
+            "url": "https://github.com/Michel66/CryptoEdge",
+            "stars": 1,
+            "forks": 0,
+            "score": 30
+        },
+        {
+            "main_cat": "Cross-chain / Interoperability",
+            "sub_cat": null,
             "name": "trust",
             "full_name": "cambridgetcg/trust",
             "description": "Trust is not a gate. Trust is a cross-check. A passwordless trust protocol \u2014 declare, cross-check, remember. No AUTH. No LOGIN. No TOKEN. No PASSWORD.",
@@ -783,5 +794,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-06-20 19:15"
+    "timestamp": "2026-06-20 21:09"
 };
