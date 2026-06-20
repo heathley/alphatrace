@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "DietrichGebert/ponytail",
             "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
             "url": "https://github.com/DietrichGebert/ponytail",
-            "stars": 42879,
-            "forks": 2071,
+            "stars": 43082,
+            "forks": 2084,
             "score": 99
         },
         {
@@ -18,8 +18,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "omnigent-ai/omnigent",
             "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents \u2014 swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.",
             "url": "https://github.com/omnigent-ai/omnigent",
-            "stars": 4182,
-            "forks": 470,
+            "stars": 4189,
+            "forks": 471,
             "score": 99
         },
         {
@@ -30,7 +30,7 @@ const ALPHA_DATA_V2 = {
             "description": "AI Agent: Open-source headless CMS built with ASP.NET Core (C#) and React, featuring REST APIs, GraphQL, and a GrapesJS page designer.",
             "url": "https://github.com/nnecrkvenuOX/formcms",
             "stars": 332,
-            "forks": 136,
+            "forks": 180,
             "score": 99
         },
         {
@@ -51,7 +51,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "JimLiu/baoyu-design",
             "description": "Run Claude Design locally as an Agent Skill \u2014 Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/design. Best with Opus 4.8.",
             "url": "https://github.com/JimLiu/baoyu-design",
-            "stars": 1670,
+            "stars": 1671,
             "forks": 127,
             "score": 98
         },
@@ -60,22 +60,11 @@ const ALPHA_DATA_V2 = {
             "sub_cat": null,
             "name": "agent-apprenticeship",
             "full_name": "Forsy-AI/agent-apprenticeship",
-            "description": "The living ecosystem for AI agents learning from real-world work through iterative loops and training-signal exchange.",
+            "description": "The living ecosystem where AI agents learn from real-world work through iterative workflow loops, reusable experience, and collective training signal exchange.",
             "url": "https://github.com/Forsy-AI/agent-apprenticeship",
-            "stars": 508,
+            "stars": 514,
             "forks": 0,
-            "score": 93
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "renwei-writing",
-            "full_name": "orange2ai/renwei-writing",
-            "description": "\u4eba\u5473\u513f\u5199\u4f5c \u00b7 An AI agent skill: edit people's words without erasing the person behind them",
-            "url": "https://github.com/orange2ai/renwei-writing",
-            "stars": 831,
-            "forks": 76,
-            "score": 86
+            "score": 94
         },
         {
             "main_cat": "AI",
@@ -91,13 +80,13 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "GordenSuperPPTSkills",
-            "full_name": "GordenSun/GordenSuperPPTSkills",
-            "description": "AI PPT\u8d5b\u9053\u7ec8\u7ed3\u8005\uff0c\u53f2\u4e0a\u6700\u6700\u6700\u5f3a PPT Skill\uff01\uff01\uff01  \u4f7f\u7528GPT\u751f\u6210\u8c6a\u534e\u7684\u56fe\u7247\u683c\u5f0fPPT\uff0c\u7136\u540e\u8f6c\u6362\u4e3a\u5b8c\u5168\u53ef\u7f16\u8f91\u7684PPTX\u6587\u4ef6\u3002",
-            "url": "https://github.com/GordenSun/GordenSuperPPTSkills",
-            "stars": 1094,
-            "forks": 102,
-            "score": 76
+            "name": "renwei-writing",
+            "full_name": "orange2ai/renwei-writing",
+            "description": "\u4eba\u5473\u513f\u5199\u4f5c \u00b7 An AI agent skill: edit people's words without erasing the person behind them",
+            "url": "https://github.com/orange2ai/renwei-writing",
+            "stars": 831,
+            "forks": 76,
+            "score": 81
         },
         {
             "main_cat": "AI",
@@ -106,8 +95,19 @@ const ALPHA_DATA_V2 = {
             "full_name": "apple/coreai-models",
             "description": "Model export recipes, Python primitives, and Swift runtime utilities for on-device AI",
             "url": "https://github.com/apple/coreai-models",
-            "stars": 1077,
+            "stars": 1079,
             "forks": 83,
+            "score": 77
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "GordenSuperPPTSkills",
+            "full_name": "GordenSun/GordenSuperPPTSkills",
+            "description": "AI PPT\u8d5b\u9053\u7ec8\u7ed3\u8005\uff0c\u53f2\u4e0a\u6700\u6700\u6700\u5f3a PPT Skill\uff01\uff01\uff01  \u4f7f\u7528GPT\u751f\u6210\u8c6a\u534e\u7684\u56fe\u7247\u683c\u5f0fPPT\uff0c\u7136\u540e\u8f6c\u6362\u4e3a\u5b8c\u5168\u53ef\u7f16\u8f91\u7684PPTX\u6587\u4ef6\u3002",
+            "url": "https://github.com/GordenSun/GordenSuperPPTSkills",
+            "stars": 1093,
+            "forks": 102,
             "score": 76
         },
         {
@@ -172,7 +172,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "TestSprite/testsprite-cli",
             "description": "Official TestSprite CLI \u2014 AI-powered automated testing from your terminal",
             "url": "https://github.com/TestSprite/testsprite-cli",
-            "stars": 616,
+            "stars": 623,
             "forks": 24,
             "score": 59
         },
@@ -205,7 +205,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "cobusgreyling/loop-engineering",
             "description": "Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by Addy Osmani and Boris Cherny). Includes loop-audit, loop-init, loop-cost.",
             "url": "https://github.com/cobusgreyling/loop-engineering",
-            "stars": 494,
+            "stars": 498,
             "forks": 68,
             "score": 57
         },
@@ -216,7 +216,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "gykim80/perfectpixel-studio",
             "description": "AI-powered animation sprite studio \u2014 generate character sprite sheets with 8 directions and 100+ actions from a single text prompt (Wails + Go + React)",
             "url": "https://github.com/gykim80/perfectpixel-studio",
-            "stars": 297,
+            "stars": 300,
             "forks": 46,
             "score": 56
         },
@@ -244,17 +244,6 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "shard",
-            "full_name": "leyten/shard",
-            "description": "Pipeline-parallel LLM inference across GPUs on separate machines.",
-            "url": "https://github.com/leyten/shard",
-            "stars": 257,
-            "forks": 25,
-            "score": 55
-        },
-        {
-            "main_cat": "AI",
             "sub_cat": null,
             "name": "coralline",
             "full_name": "Nanako0129/coralline",
@@ -271,7 +260,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "chubbyguan/chubbyskills",
             "description": "\u628a\u4e2d\u6587\u5168\u6e20\u9053\u5185\u5bb9\uff08\u6296\u97f3 / B\u7ad9 / \u5c0f\u7ea2\u4e66 / \u516c\u4f17\u53f7 / X / \u64ad\u5ba2\uff09\u91c7\u96c6\u8fdb\u4e2a\u4eba\u77e5\u8bc6\u5e93\u7684 13 \u4e2a AI Skill\uff1a\u56fe\u6587\u5b58\u56fe\u3001\u89c6\u9891\u8f6c\u6587\u5b57\u7a3f\u3001\u5b57\u5e55\u4f18\u5148\u514d GPU\uff0c\u9644\u5e26\u77e5\u8bc6\u5e93 MCP server\u3002 \uff5c Ingest Chinese content into your personal knowledge base \u2014 image/video routing, subtitle-first transcription, and a KB MCP server.",
             "url": "https://github.com/chubbyguan/chubbyskills",
-            "stars": 428,
+            "stars": 429,
             "forks": 65,
             "score": 52
         },
@@ -282,9 +271,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "Forward-Future/loop-library",
             "description": "Practical repeatable AI-agent workflows for engineering, evaluation, operations, content, and design.",
             "url": "https://github.com/Forward-Future/loop-library",
-            "stars": 351,
+            "stars": 373,
             "forks": 30,
-            "score": 51
+            "score": 52
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "shard",
+            "full_name": "leyten/shard",
+            "description": "Pipeline-parallel LLM inference across GPUs on separate machines.",
+            "url": "https://github.com/leyten/shard",
+            "stars": 259,
+            "forks": 26,
+            "score": 52
         },
         {
             "main_cat": "AI",
@@ -293,7 +293,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "buynao/aipath",
             "description": "Interactive AI General Education Course \u2014 30 Lessons, Zero Math",
             "url": "https://github.com/buynao/aipath",
-            "stars": 336,
+            "stars": 337,
             "forks": 35,
             "score": 51
         },
@@ -307,6 +307,17 @@ const ALPHA_DATA_V2 = {
             "stars": 384,
             "forks": 49,
             "score": 49
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "best-humanizer-handbook",
+            "full_name": "fendouai/best-humanizer-handbook",
+            "description": "Best AI Humanizer Handbook A practical guide to making AI-assisted writing clearer, more credible, and more human",
+            "url": "https://github.com/fendouai/best-humanizer-handbook",
+            "stars": 268,
+            "forks": 4,
+            "score": 47
         },
         {
             "main_cat": "AI",
@@ -337,7 +348,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "OtterMind/Nubase",
             "description": "\ud83d\udd25\ud83d\udd25\ud83d\udd25 Turn AI-written code into real apps. Nubase is an open-source, AI-native backend platform for AI Coding, agentic applications, and modern product teams: Memory, Database, Storage, and Auth in one self-hostable service.",
             "url": "https://github.com/OtterMind/Nubase",
-            "stars": 347,
+            "stars": 349,
             "forks": 29,
             "score": 45
         },
@@ -348,7 +359,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "techjarves/Portable-Diffusion",
             "description": "A portable Local AI Image Generator and Stable Diffusion GUI for Windows, Linux, and macOS. Run GGUF & Safetensors models 100% offline with zero setup and auto-detected GPU/NPU acceleration (CUDA, ROCm, Vulkan, Metal, OpenVINO).",
             "url": "https://github.com/techjarves/Portable-Diffusion",
-            "stars": 67,
+            "stars": 70,
             "forks": 19,
             "score": 40
         },
@@ -359,19 +370,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "tinyhumansai/tiny.place",
             "description": "The social economy for autonomous AI agents. ",
             "url": "https://github.com/tinyhumansai/tiny.place",
-            "stars": 291,
+            "stars": 294,
             "forks": 1,
-            "score": 39
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "Claude-Pro-For-Free",
-            "full_name": "frontiersystempraise/Claude-Pro-For-Free",
-            "description": "claude code ai free desktop app  api cli open source opencode aider gemini alternative download github local llm ollama setup guide tutorial api  2026",
-            "url": "https://github.com/frontiersystempraise/Claude-Pro-For-Free",
-            "stars": 278,
-            "forks": 0,
             "score": 39
         },
         {
@@ -392,9 +392,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "paulfruitful/freeaitokens",
             "description": "Free Local AI inference without need for GPUs or heavy chunks of your CPU  ",
             "url": "https://github.com/paulfruitful/freeaitokens",
-            "stars": 12,
+            "stars": 13,
             "forks": 6,
-            "score": 36
+            "score": 34
         },
         {
             "main_cat": "AI",
@@ -403,7 +403,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "engeldlgado/toshllm",
             "description": "Run large language models locally on Intel Macs with AMD GPUs \u2014 native macOS app with Metal acceleration",
             "url": "https://github.com/engeldlgado/toshllm",
-            "stars": 26,
+            "stars": 27,
             "forks": 1,
             "score": 31
         },
@@ -794,5 +794,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-06-20 21:09"
+    "timestamp": "2026-06-20 23:01"
 };
