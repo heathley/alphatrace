@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "DietrichGebert/ponytail",
             "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
             "url": "https://github.com/DietrichGebert/ponytail",
-            "stars": 42387,
-            "forks": 2043,
+            "stars": 42651,
+            "forks": 2052,
             "score": 99
         },
         {
@@ -18,8 +18,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "omnigent-ai/omnigent",
             "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents \u2014 swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.",
             "url": "https://github.com/omnigent-ai/omnigent",
-            "stars": 4163,
-            "forks": 467,
+            "stars": 4174,
+            "forks": 470,
             "score": 99
         },
         {
@@ -29,7 +29,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "MstKail/wc2026-crypto-sportsbook",
             "description": "2026 FIFA World Cup crypto sportsbook | soccer football betting platform | React TypeScript Vite | MetaMask wallet EIP-191 | live WebSocket odds scores | bet settlement engine | world cup 2026 betting | WC2026 predictions odds markets | blockchain crypto wallet sportsbook",
             "url": "https://github.com/MstKail/wc2026-crypto-sportsbook",
-            "stars": 299,
+            "stars": 303,
             "forks": 1295,
             "score": 99
         },
@@ -40,7 +40,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "JimLiu/baoyu-design",
             "description": "Run Claude Design locally as an Agent Skill \u2014 Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/design. Best with Opus 4.8.",
             "url": "https://github.com/JimLiu/baoyu-design",
-            "stars": 1667,
+            "stars": 1670,
             "forks": 126,
             "score": 97
         },
@@ -51,9 +51,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "Forsy-AI/agent-apprenticeship",
             "description": "The living ecosystem for AI agents learning from real-world work through iterative loops and training-signal exchange.",
             "url": "https://github.com/Forsy-AI/agent-apprenticeship",
-            "stars": 483,
+            "stars": 500,
             "forks": 0,
-            "score": 90
+            "score": 92
         },
         {
             "main_cat": "AI",
@@ -69,11 +69,22 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
+            "name": "formcms",
+            "full_name": "nnecrkvenuOX/formcms",
+            "description": "AI Agent: Open-source headless CMS built with ASP.NET Core (C#) and React, featuring REST APIs, GraphQL, and a GrapesJS page designer.",
+            "url": "https://github.com/nnecrkvenuOX/formcms",
+            "stars": 332,
+            "forks": 87,
+            "score": 86
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
             "name": "pixel2motion",
             "full_name": "nolangz/pixel2motion",
             "description": "AI logo animation skill: turn raster logos into smooth SVG animation, animated HTML demos, GIF/video previews, and motion QA evidence.",
             "url": "https://github.com/nolangz/pixel2motion",
-            "stars": 847,
+            "stars": 849,
             "forks": 77,
             "score": 82
         },
@@ -113,22 +124,11 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "formcms",
-            "full_name": "nnecrkvenuOX/formcms",
-            "description": "AI Agent: Open-source headless CMS built with ASP.NET Core (C#) and React, featuring REST APIs, GraphQL, and a GrapesJS page designer.",
-            "url": "https://github.com/nnecrkvenuOX/formcms",
-            "stars": 330,
-            "forks": 40,
-            "score": 70
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
             "name": "bazi-ziwei-skill",
             "full_name": "dzcmemory-web/bazi-ziwei-skill",
             "description": "AI \u516b\u5b57 + \u7d2b\u5fae\u6597\u6570\u6392\u76d8\u4e0e\u7efc\u5408\u5370\u8bc1 Skill\uff1a\u7b97\u6cd5\u7cbe\u51c6\u6392\u76d8\uff08\u4e0d\u9760 LLM \u731c\uff09\uff0c\u4e09\u79cd\u5206\u6790\u6a21\u5f0f\uff0c\u4e00\u952e\u751f\u6210\u6c34\u58a8\u98ce HTML \u547d\u76d8\u6d77\u62a5\u3002\u517c\u5bb9 Claude / Codex / Cursor / Workbuddy \u7b49 SKILL.md Agent\u3002",
             "url": "https://github.com/dzcmemory-web/bazi-ziwei-skill",
-            "stars": 443,
+            "stars": 444,
             "forks": 55,
             "score": 63
         },
@@ -139,20 +139,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "dongshuyan/compass-skills",
             "description": "\u53f8\u5357\uff1a\u4e2a\u6027\u5316 AI \u4efb\u52a1\u603b\u63a7 Skills \u7cfb\u7edf /COMPASS: Personal Alignment Skills OS for AI Agents",
             "url": "https://github.com/dongshuyan/compass-skills",
-            "stars": 396,
+            "stars": 397,
             "forks": 34,
             "score": 63
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "Silent-Crypto-Miner",
-            "full_name": "Verdi38/Silent-Crypto-Miner",
-            "description": "Cryptocurrency mining toolkit with multi-algorithm CPU/GPU support, resource management, thermal throttling, activity-based pausing, scheduled mining, pool failover, hashrate optimization, real-time monitoring, and cross-platform builds for Windows, Linux, and macOS. Supports XMR, ETC, KAS, RVN, ERG, and BTG mining workflows.",
-            "url": "https://github.com/Verdi38/Silent-Crypto-Miner",
-            "stars": 183,
-            "forks": 35,
-            "score": 62
         },
         {
             "main_cat": "AI",
@@ -161,9 +150,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "ziqihe10-droid/xuefeng-agent",
             "description": "AI \u9ad8\u8003\u5fd7\u613f\u987e\u95ee \u2014 \u4f1a\u8ffd\u95ee\u3001\u4f1a\u5206\u6790\u3001\u6562\u8bf4\u771f\u8bdd",
             "url": "https://github.com/ziqihe10-droid/xuefeng-agent",
-            "stars": 605,
-            "forks": 86,
-            "score": 59
+            "stars": 611,
+            "forks": 88,
+            "score": 60
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "threejs-game-skills",
+            "full_name": "majidmanzarpour/threejs-game-skills",
+            "description": "Agent skills for building playable, polished Three.js browser games with gameplay, AAA-style graphics, UI, QA, and optional AI-generated 3D, image, and audio assets.",
+            "url": "https://github.com/majidmanzarpour/threejs-game-skills",
+            "stars": 377,
+            "forks": 41,
+            "score": 60
         },
         {
             "main_cat": "AI",
@@ -172,7 +172,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "TestSprite/testsprite-cli",
             "description": "Official TestSprite CLI \u2014 AI-powered automated testing from your terminal",
             "url": "https://github.com/TestSprite/testsprite-cli",
-            "stars": 602,
+            "stars": 610,
             "forks": 24,
             "score": 59
         },
@@ -183,19 +183,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "xiaohuailabs/xiaohu-video-translate",
             "description": "\u5bf9 AI \u8bf4\u4e00\u53e5\u8bdd\uff0c\u628a\u5916\u8bed\u89c6\u9891\u81ea\u52a8\u914d\u4e0a\u4e2d\u6587\u5b57\u5e55 \u2014\u2014 \u4e0b\u8f7d/\u8f6c\u5199/\u7ffb\u8bd1/\u6da6\u8272/\u70e7\u5f55\u4e00\u6761\u9f99\uff0c\u5168\u7a0b\u672c\u5730\uff0c\u8f6c\u5199\u96f6 API \u8d39",
             "url": "https://github.com/xiaohuailabs/xiaohu-video-translate",
-            "stars": 544,
+            "stars": 545,
             "forks": 86,
-            "score": 59
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "threejs-game-skills",
-            "full_name": "majidmanzarpour/threejs-game-skills",
-            "description": "Agent skills for building playable, polished Three.js browser games with gameplay, AAA-style graphics, UI, QA, and optional AI-generated 3D, image, and audio assets.",
-            "url": "https://github.com/majidmanzarpour/threejs-game-skills",
-            "stars": 375,
-            "forks": 41,
             "score": 59
         },
         {
@@ -216,9 +205,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "cobusgreyling/loop-engineering",
             "description": "Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by Addy Osmani and Boris Cherny). Includes loop-audit, loop-init, loop-cost.",
             "url": "https://github.com/cobusgreyling/loop-engineering",
-            "stars": 483,
-            "forks": 66,
-            "score": 56
+            "stars": 491,
+            "forks": 67,
+            "score": 57
         },
         {
             "main_cat": "AI",
@@ -227,8 +216,19 @@ const ALPHA_DATA_V2 = {
             "full_name": "gykim80/perfectpixel-studio",
             "description": "AI-powered animation sprite studio \u2014 generate character sprite sheets with 8 directions and 100+ actions from a single text prompt (Wails + Go + React)",
             "url": "https://github.com/gykim80/perfectpixel-studio",
-            "stars": 292,
-            "forks": 45,
+            "stars": 295,
+            "forks": 46,
+            "score": 56
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "Silent-Crypto-Miner",
+            "full_name": "Verdi38/Silent-Crypto-Miner",
+            "description": "Cryptocurrency mining toolkit with multi-algorithm CPU/GPU support, resource management, thermal throttling, activity-based pausing, scheduled mining, pool failover, hashrate optimization, real-time monitoring, and cross-platform builds for Windows, Linux, and macOS. Supports XMR, ETC, KAS, RVN, ERG, and BTG mining workflows.",
+            "url": "https://github.com/Verdi38/Silent-Crypto-Miner",
+            "stars": 183,
+            "forks": 35,
             "score": 56
         },
         {
@@ -249,9 +249,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "leyten/shard",
             "description": "Pipeline-parallel LLM inference across GPUs on separate machines.",
             "url": "https://github.com/leyten/shard",
-            "stars": 250,
-            "forks": 23,
-            "score": 54
+            "stars": 256,
+            "forks": 24,
+            "score": 55
         },
         {
             "main_cat": "AI",
@@ -260,7 +260,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Nanako0129/coralline",
             "description": "\ud83e\udeb8 Powerlevel10k-inspired statusline for Claude Code \u2014 paste one prompt and your AI interviews you, then installs it",
             "url": "https://github.com/Nanako0129/coralline",
-            "stars": 404,
+            "stars": 405,
             "forks": 28,
             "score": 53
         },
@@ -271,7 +271,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "chubbyguan/chubbyskills",
             "description": "\u628a\u4e2d\u6587\u5168\u6e20\u9053\u5185\u5bb9\uff08\u6296\u97f3 / B\u7ad9 / \u5c0f\u7ea2\u4e66 / \u516c\u4f17\u53f7 / X / \u64ad\u5ba2\uff09\u91c7\u96c6\u8fdb\u4e2a\u4eba\u77e5\u8bc6\u5e93\u7684 13 \u4e2a AI Skill\uff1a\u56fe\u6587\u5b58\u56fe\u3001\u89c6\u9891\u8f6c\u6587\u5b57\u7a3f\u3001\u5b57\u5e55\u4f18\u5148\u514d GPU\uff0c\u9644\u5e26\u77e5\u8bc6\u5e93 MCP server\u3002 \uff5c Ingest Chinese content into your personal knowledge base \u2014 image/video routing, subtitle-first transcription, and a KB MCP server.",
             "url": "https://github.com/chubbyguan/chubbyskills",
-            "stars": 426,
+            "stars": 427,
             "forks": 65,
             "score": 52
         },
@@ -300,12 +300,23 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
+            "name": "loop-library",
+            "full_name": "Forward-Future/loop-library",
+            "description": "Practical repeatable AI-agent workflows for engineering, evaluation, operations, content, and design.",
+            "url": "https://github.com/Forward-Future/loop-library",
+            "stars": 312,
+            "forks": 24,
+            "score": 48
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
             "name": "personal-agent-template",
             "full_name": "vercel-labs/personal-agent-template",
             "description": "Open-source template for a durable personal AI agent \u2014 web chat, Slack, Linear, and long-term memory with user-approved saves. Eve, Nuxt, Better Auth, Vercel Connect.",
             "url": "https://github.com/vercel-labs/personal-agent-template",
-            "stars": 311,
-            "forks": 20,
+            "stars": 313,
+            "forks": 21,
             "score": 46
         },
         {
@@ -315,7 +326,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "orange2ai/orange-line-illustration",
             "description": "\ud83c\udf4a New Yorker-style minimalist editorial illustration skill for AI agents \u2014 one idea, one accent, lots of silence. Free for open-source use; commercial license for closed-source.",
             "url": "https://github.com/orange2ai/orange-line-illustration",
-            "stars": 309,
+            "stars": 308,
             "forks": 24,
             "score": 46
         },
@@ -326,7 +337,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "OtterMind/Nubase",
             "description": "\ud83d\udd25\ud83d\udd25\ud83d\udd25 Turn AI-written code into real apps. Nubase is an open-source, AI-native backend platform for AI Coding, agentic applications, and modern product teams: Memory, Database, Storage, and Auth in one self-hostable service.",
             "url": "https://github.com/OtterMind/Nubase",
-            "stars": 342,
+            "stars": 344,
             "forks": 29,
             "score": 45
         },
@@ -354,14 +365,14 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
-            "sub_cat": null,
-            "name": "tiny.place",
-            "full_name": "tinyhumansai/tiny.place",
-            "description": "The social economy for autonomous AI agents. ",
-            "url": "https://github.com/tinyhumansai/tiny.place",
-            "stars": 278,
-            "forks": 1,
-            "score": 38
+            "sub_cat": "AI General",
+            "name": "Portable-Diffusion",
+            "full_name": "techjarves/Portable-Diffusion",
+            "description": "A portable Local AI Image Generator and Stable Diffusion GUI for Windows, Linux, and macOS. Run GGUF & Safetensors models 100% offline with zero setup and auto-detected GPU/NPU acceleration (CUDA, ROCm, Vulkan, Metal, OpenVINO).",
+            "url": "https://github.com/techjarves/Portable-Diffusion",
+            "stars": 61,
+            "forks": 17,
+            "score": 39
         },
         {
             "main_cat": "AI",
@@ -377,13 +388,13 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
-            "name": "Portable-Diffusion",
-            "full_name": "techjarves/Portable-Diffusion",
-            "description": "A portable Local AI Image Generator and Stable Diffusion GUI for Windows, Linux, and macOS. Run GGUF & Safetensors models 100% offline with zero setup and auto-detected GPU/NPU acceleration (CUDA, ROCm, Vulkan, Metal, OpenVINO).",
-            "url": "https://github.com/techjarves/Portable-Diffusion",
-            "stars": 54,
-            "forks": 14,
-            "score": 37
+            "name": "freeaitokens",
+            "full_name": "paulfruitful/freeaitokens",
+            "description": "Free Local AI inference without need for GPUs or heavy chunks of your CPU  ",
+            "url": "https://github.com/paulfruitful/freeaitokens",
+            "stars": 12,
+            "forks": 5,
+            "score": 35
         },
         {
             "main_cat": "AI",
@@ -392,7 +403,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "engeldlgado/toshllm",
             "description": "Run large language models locally on Intel Macs with AMD GPUs \u2014 native macOS app with Metal acceleration",
             "url": "https://github.com/engeldlgado/toshllm",
-            "stars": 22,
+            "stars": 25,
             "forks": 1,
             "score": 31
         },
@@ -436,6 +447,17 @@ const ALPHA_DATA_V2 = {
             "full_name": "sinascorpion/genlayer-prediction-market",
             "description": "GenLayer AI Prediction Market - decentralized oracle betting on GenLayer",
             "url": "https://github.com/sinascorpion/genlayer-prediction-market",
+            "stars": 0,
+            "forks": 0,
+            "score": 30
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "sui-market-forecast",
+            "full_name": "FranciscoPereira/sui-market-forecast",
+            "description": "A prediction market protocol on SUI with on-chain trading powered by DeepBook. Create markets, trade outcome tokens, and settle bets trustlessly on-chain.",
+            "url": "https://github.com/FranciscoPereira/sui-market-forecast",
             "stars": 0,
             "forks": 0,
             "score": 30
@@ -761,5 +783,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-06-20 17:19"
+    "timestamp": "2026-06-20 19:15"
 };
