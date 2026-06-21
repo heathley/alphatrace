@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "DietrichGebert/ponytail",
             "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
             "url": "https://github.com/DietrichGebert/ponytail",
-            "stars": 45282,
-            "forks": 2228,
+            "stars": 45476,
+            "forks": 2236,
             "score": 99
         },
         {
@@ -18,8 +18,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "omnigent-ai/omnigent",
             "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents \u2014 swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.",
             "url": "https://github.com/omnigent-ai/omnigent",
-            "stars": 4292,
-            "forks": 482,
+            "stars": 4298,
+            "forks": 484,
             "score": 99
         },
         {
@@ -30,7 +30,7 @@ const ALPHA_DATA_V2 = {
             "description": "AI Agent: Open-source headless CMS built with ASP.NET Core (C#) and React, featuring REST APIs, GraphQL, and a GrapesJS page designer.",
             "url": "https://github.com/nnecrkvenuOX/formcms",
             "stars": 356,
-            "forks": 650,
+            "forks": 702,
             "score": 99
         },
         {
@@ -51,7 +51,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Forsy-AI/agent-apprenticeship",
             "description": "The living ecosystem where AI agents learn from real-world work through iterative workflow loops, reusable experience, and collective training signal exchange.",
             "url": "https://github.com/Forsy-AI/agent-apprenticeship",
-            "stars": 602,
+            "stars": 605,
             "forks": 0,
             "score": 90
         },
@@ -106,20 +106,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "Forward-Future/loop-library",
             "description": "Practical repeatable AI-agent workflows for engineering, evaluation, operations, content, and design.",
             "url": "https://github.com/Forward-Future/loop-library",
-            "stars": 608,
-            "forks": 47,
-            "score": 63
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "bazi-ziwei-skill",
-            "full_name": "dzcmemory-web/bazi-ziwei-skill",
-            "description": "AI \u516b\u5b57 + \u7d2b\u5fae\u6597\u6570\u6392\u76d8\u4e0e\u7efc\u5408\u5370\u8bc1 Skill\uff1a\u7b97\u6cd5\u7cbe\u51c6\u6392\u76d8\uff08\u4e0d\u9760 LLM \u731c\uff09\uff0c\u4e09\u79cd\u5206\u6790\u6a21\u5f0f\uff0c\u4e00\u952e\u751f\u6210\u6c34\u58a8\u98ce HTML \u547d\u76d8\u6d77\u62a5\u3002\u517c\u5bb9 Claude / Codex / Cursor / Workbuddy \u7b49 SKILL.md Agent\u3002",
-            "url": "https://github.com/dzcmemory-web/bazi-ziwei-skill",
-            "stars": 457,
-            "forks": 57,
-            "score": 61
+            "stars": 640,
+            "forks": 49,
+            "score": 64
         },
         {
             "main_cat": "AI",
@@ -128,9 +117,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "TestSprite/testsprite-cli",
             "description": "Official TestSprite CLI \u2014 AI-powered automated testing from your terminal",
             "url": "https://github.com/TestSprite/testsprite-cli",
-            "stars": 699,
-            "forks": 26,
-            "score": 60
+            "stars": 705,
+            "forks": 27,
+            "score": 61
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "bazi-ziwei-skill",
+            "full_name": "dzcmemory-web/bazi-ziwei-skill",
+            "description": "AI \u516b\u5b57 + \u7d2b\u5fae\u6597\u6570\u6392\u76d8\u4e0e\u7efc\u5408\u5370\u8bc1 Skill\uff1a\u7b97\u6cd5\u7cbe\u51c6\u6392\u76d8\uff08\u4e0d\u9760 LLM \u731c\uff09\uff0c\u4e09\u79cd\u5206\u6790\u6a21\u5f0f\uff0c\u4e00\u952e\u751f\u6210\u6c34\u58a8\u98ce HTML \u547d\u76d8\u6d77\u62a5\u3002\u517c\u5bb9 Claude / Codex / Cursor / Workbuddy \u7b49 SKILL.md Agent\u3002",
+            "url": "https://github.com/dzcmemory-web/bazi-ziwei-skill",
+            "stars": 459,
+            "forks": 57,
+            "score": 61
         },
         {
             "main_cat": "AI",
@@ -139,8 +139,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "majidmanzarpour/threejs-game-skills",
             "description": "Agent skills for building playable, polished Three.js browser games with gameplay, AAA-style graphics, UI, QA, and optional AI-generated 3D, image, and audio assets.",
             "url": "https://github.com/majidmanzarpour/threejs-game-skills",
-            "stars": 406,
-            "forks": 44,
+            "stars": 409,
+            "forks": 45,
             "score": 59
         },
         {
@@ -161,7 +161,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "cobusgreyling/loop-engineering",
             "description": "Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by Addy Osmani and Boris Cherny). Includes loop-audit, loop-init, loop-cost.",
             "url": "https://github.com/cobusgreyling/loop-engineering",
-            "stars": 568,
+            "stars": 572,
             "forks": 74,
             "score": 58
         },
@@ -206,18 +206,7 @@ const ALPHA_DATA_V2 = {
             "description": "Pipeline-parallel LLM inference across GPUs on separate machines.",
             "url": "https://github.com/leyten/shard",
             "stars": 289,
-            "forks": 32,
-            "score": 56
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "Silent-Crypto-Miner",
-            "full_name": "Verdi38/Silent-Crypto-Miner",
-            "description": "Cryptocurrency mining toolkit with multi-algorithm CPU/GPU support, resource management, thermal throttling, activity-based pausing, scheduled mining, pool failover, hashrate optimization, real-time monitoring, and cross-platform builds for Windows, Linux, and macOS. Supports XMR, ETC, KAS, RVN, ERG, and BTG mining workflows.",
-            "url": "https://github.com/Verdi38/Silent-Crypto-Miner",
-            "stars": 183,
-            "forks": 35,
+            "forks": 33,
             "score": 56
         },
         {
@@ -233,6 +222,28 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "Silent-Crypto-Miner",
+            "full_name": "Verdi38/Silent-Crypto-Miner",
+            "description": "Cryptocurrency mining toolkit with multi-algorithm CPU/GPU support, resource management, thermal throttling, activity-based pausing, scheduled mining, pool failover, hashrate optimization, real-time monitoring, and cross-platform builds for Windows, Linux, and macOS. Supports XMR, ETC, KAS, RVN, ERG, and BTG mining workflows.",
+            "url": "https://github.com/Verdi38/Silent-Crypto-Miner",
+            "stars": 183,
+            "forks": 35,
+            "score": 53
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "coralline",
+            "full_name": "Nanako0129/coralline",
+            "description": "\ud83e\udeb8 Powerlevel10k-inspired statusline for Claude Code \u2014 paste one prompt and your AI interviews you, then installs it",
+            "url": "https://github.com/Nanako0129/coralline",
+            "stars": 414,
+            "forks": 29,
+            "score": 52
+        },
+        {
+            "main_cat": "AI",
             "sub_cat": null,
             "name": "chubbyskills",
             "full_name": "chubbyguan/chubbyskills",
@@ -245,13 +256,13 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "coralline",
-            "full_name": "Nanako0129/coralline",
-            "description": "\ud83e\udeb8 Powerlevel10k-inspired statusline for Claude Code \u2014 paste one prompt and your AI interviews you, then installs it",
-            "url": "https://github.com/Nanako0129/coralline",
-            "stars": 414,
-            "forks": 28,
-            "score": 51
+            "name": "aipath",
+            "full_name": "buynao/aipath",
+            "description": "Interactive AI General Education Course \u2014 30 Lessons, Zero Math",
+            "url": "https://github.com/buynao/aipath",
+            "stars": 340,
+            "forks": 35,
+            "score": 50
         },
         {
             "main_cat": "AI",
@@ -262,17 +273,6 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/XBuilderLAB/cheat-on-money",
             "stars": 408,
             "forks": 51,
-            "score": 49
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "aipath",
-            "full_name": "buynao/aipath",
-            "description": "Interactive AI General Education Course \u2014 30 Lessons, Zero Math",
-            "url": "https://github.com/buynao/aipath",
-            "stars": 339,
-            "forks": 35,
             "score": 49
         },
         {
@@ -289,24 +289,24 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "agent-harness-generator",
-            "full_name": "ruvnet/agent-harness-generator",
-            "description": "\ud83d\udee0\ufe0f The meta-harness for AI agents \u2014 scaffold your own focused, branded agent harness with its own npx CLI, MCP server, memory, learning loop, and witness-signed releases. Works with Claude Code, Codex, pi.dev, Hermes, OpenClaw, and RVM (hardware-isolated sandbox).",
-            "url": "https://github.com/ruvnet/agent-harness-generator",
-            "stars": 267,
-            "forks": 26,
-            "score": 48
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
             "name": "personal-agent-template",
             "full_name": "vercel-labs/personal-agent-template",
             "description": "Open-source template for a durable personal AI agent \u2014 web chat, Slack, Linear, and long-term memory with user-approved saves. Eve, Nuxt, Better Auth, Vercel Connect.",
             "url": "https://github.com/vercel-labs/personal-agent-template",
             "stars": 339,
-            "forks": 25,
-            "score": 46
+            "forks": 26,
+            "score": 47
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "agent-harness-generator",
+            "full_name": "ruvnet/agent-harness-generator",
+            "description": "\ud83d\udee0\ufe0f The meta-harness for AI agents \u2014 scaffold your own focused, branded agent harness with its own npx CLI, MCP server, memory, learning loop, and witness-signed releases. Works with Claude Code, Codex, pi.dev, Hermes, OpenClaw, and RVM (hardware-isolated sandbox).",
+            "url": "https://github.com/ruvnet/agent-harness-generator",
+            "stars": 268,
+            "forks": 27,
+            "score": 47
         },
         {
             "main_cat": "AI",
@@ -326,7 +326,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "OtterMind/Nubase",
             "description": "\ud83d\udd25\ud83d\udd25\ud83d\udd25 Turn AI-written code into real apps. Nubase is an open-source, AI-native backend platform for AI Coding, agentic applications, and modern product teams: Memory, Database, Storage, and Auth in one self-hostable service.",
             "url": "https://github.com/OtterMind/Nubase",
-            "stars": 384,
+            "stars": 387,
             "forks": 31,
             "score": 45
         },
@@ -359,7 +359,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "arnabbagxd/Brand-building-skills",
             "description": "Brand building skills for Claude Code and AI agents. strategy, naming, identity, voice, positioning, messaging, auditing, and launch",
             "url": "https://github.com/arnabbagxd/Brand-building-skills",
-            "stars": 207,
+            "stars": 208,
             "forks": 22,
             "score": 41
         },
@@ -370,9 +370,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "techjarves/Portable-Diffusion",
             "description": "A portable Local AI Image Generator and Stable Diffusion GUI for Windows, Linux, and macOS. Run GGUF & Safetensors models 100% offline with zero setup and auto-detected GPU/NPU acceleration (CUDA, ROCm, Vulkan, Metal, OpenVINO).",
             "url": "https://github.com/techjarves/Portable-Diffusion",
-            "stars": 84,
-            "forks": 22,
-            "score": 40
+            "stars": 86,
+            "forks": 23,
+            "score": 41
         },
         {
             "main_cat": "AI",
@@ -661,6 +661,17 @@ const ALPHA_DATA_V2 = {
             "score": 30
         },
         {
+            "main_cat": "Cross-chain / Interoperability",
+            "sub_cat": null,
+            "name": "NCP",
+            "full_name": "sepahead/NCP",
+            "description": "NCP (Neuro-Cybernetic Protocol): a versioned, typed, cross-language wire contract for a running NEST neural simulation (spiking, binary, rate) to perceive and act through robots, UAVs, and analysis clients over Zenoh \u2014 safety-gated action plane, per-frame provenance. Rust SDK with Python/C++/TypeScript peers. Pre-1.0 (wire v0.5).",
+            "url": "https://github.com/sepahead/NCP",
+            "stars": 2,
+            "forks": 0,
+            "score": 30
+        },
+        {
             "main_cat": "AI",
             "sub_cat": "AI General",
             "name": "Maat",
@@ -769,17 +780,6 @@ const ALPHA_DATA_V2 = {
             "stars": 0,
             "forks": 0,
             "score": 30
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "britevm",
-            "full_name": "rizbot4u/britevm",
-            "description": "The company's principal object is to design, develop, and deploy software and infrastructure built on Ethereum Virtual Machine (EVM) compatible blockchain networks, including but not limited to smart contract development, decentralised application (dApp) architecture, token engineering, cross-chain bridging protocols, and Web3 API tooling. ",
-            "url": "https://github.com/rizbot4u/britevm",
-            "stars": 0,
-            "forks": 0,
-            "score": 30
         }
     ],
     "news": [
@@ -805,5 +805,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-06-21 17:22"
+    "timestamp": "2026-06-21 19:21"
 };
