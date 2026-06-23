@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "DietrichGebert/ponytail",
             "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
             "url": "https://github.com/DietrichGebert/ponytail",
-            "stars": 51474,
-            "forks": 2543,
+            "stars": 51852,
+            "forks": 2570,
             "score": 99
         },
         {
@@ -18,8 +18,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "omnigent-ai/omnigent",
             "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents \u2014 swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.",
             "url": "https://github.com/omnigent-ai/omnigent",
-            "stars": 4516,
-            "forks": 523,
+            "stars": 4537,
+            "forks": 525,
             "score": 99
         },
         {
@@ -29,19 +29,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "Forsy-AI/agent-apprenticeship",
             "description": "The living ecosystem where AI agents learn from real-world work through iterative workflow loops, reusable experience, and collective training signal exchange.",
             "url": "https://github.com/Forsy-AI/agent-apprenticeship",
-            "stars": 789,
+            "stars": 802,
             "forks": 46,
-            "score": 99
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "formcms",
-            "full_name": "nnecrkvenuOX/formcms",
-            "description": "AI Agent: Open-source headless CMS built with ASP.NET Core (C#) and React, featuring REST APIs, GraphQL, and a GrapesJS page designer.",
-            "url": "https://github.com/nnecrkvenuOX/formcms",
-            "stars": 393,
-            "forks": 905,
             "score": 99
         },
         {
@@ -51,8 +40,19 @@ const ALPHA_DATA_V2 = {
             "full_name": "yo-WASSUP/Good-Badminton",
             "description": "\ud83c\udff8  AI Badminton Hawk-Eye System",
             "url": "https://github.com/yo-WASSUP/Good-Badminton",
-            "stars": 389,
-            "forks": 128,
+            "stars": 399,
+            "forks": 134,
+            "score": 99
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "formcms",
+            "full_name": "nnecrkvenuOX/formcms",
+            "description": "AI Agent: Open-source headless CMS built with ASP.NET Core (C#) and React, featuring REST APIs, GraphQL, and a GrapesJS page designer.",
+            "url": "https://github.com/nnecrkvenuOX/formcms",
+            "stars": 396,
+            "forks": 905,
             "score": 99
         },
         {
@@ -73,9 +73,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "Forward-Future/loop-library",
             "description": "A library of practical AI-agent loops and an installable skill for finding, adapting, and designing repeatable agent workflows.",
             "url": "https://github.com/Forward-Future/loop-library",
-            "stars": 1350,
-            "forks": 109,
-            "score": 98
+            "stars": 1404,
+            "forks": 112,
+            "score": 96
         },
         {
             "main_cat": "AI",
@@ -84,8 +84,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "nolangz/pixel2motion",
             "description": "AI logo animation skill: turn raster logos into smooth SVG animation, animated HTML demos, GIF/video previews, and motion QA evidence.",
             "url": "https://github.com/nolangz/pixel2motion",
-            "stars": 970,
-            "forks": 83,
+            "stars": 974,
+            "forks": 84,
             "score": 76
         },
         {
@@ -95,7 +95,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "orange2ai/renwei-writing",
             "description": "\u4eba\u5473\u513f\u5199\u4f5c \u00b7 An AI agent skill: edit people's words without erasing the person behind them",
             "url": "https://github.com/orange2ai/renwei-writing",
-            "stars": 852,
+            "stars": 854,
             "forks": 77,
             "score": 74
         },
@@ -106,8 +106,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "TestSprite/testsprite-cli",
             "description": "Official TestSprite CLI \u2014 AI-powered automated testing from your terminal",
             "url": "https://github.com/TestSprite/testsprite-cli",
-            "stars": 841,
-            "forks": 32,
+            "stars": 853,
+            "forks": 33,
             "score": 62
         },
         {
@@ -124,13 +124,24 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
+            "name": "threejs-game-skills",
+            "full_name": "majidmanzarpour/threejs-game-skills",
+            "description": "Agent skills for building playable, polished Three.js browser games with gameplay, AAA-style graphics, UI, QA, and optional AI-generated 3D, image, and audio assets.",
+            "url": "https://github.com/majidmanzarpour/threejs-game-skills",
+            "stars": 480,
+            "forks": 54,
+            "score": 59
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
             "name": "bazi-ziwei-skill",
             "full_name": "dzcmemory-web/bazi-ziwei-skill",
             "description": "AI \u516b\u5b57 + \u7d2b\u5fae\u6597\u6570\u6392\u76d8\u4e0e\u7efc\u5408\u5370\u8bc1 Skill\uff1a\u7b97\u6cd5\u7cbe\u51c6\u6392\u76d8\uff08\u4e0d\u9760 LLM \u731c\uff09\uff0c\u4e09\u79cd\u5206\u6790\u6a21\u5f0f\uff0c\u4e00\u952e\u751f\u6210\u6c34\u58a8\u98ce HTML \u547d\u76d8\u6d77\u62a5\u3002\u517c\u5bb9 Claude / Codex / Cursor / Workbuddy \u7b49 SKILL.md Agent\u3002",
             "url": "https://github.com/dzcmemory-web/bazi-ziwei-skill",
             "stars": 485,
             "forks": 64,
-            "score": 60
+            "score": 58
         },
         {
             "main_cat": "AI",
@@ -146,22 +157,11 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "threejs-game-skills",
-            "full_name": "majidmanzarpour/threejs-game-skills",
-            "description": "Agent skills for building playable, polished Three.js browser games with gameplay, AAA-style graphics, UI, QA, and optional AI-generated 3D, image, and audio assets.",
-            "url": "https://github.com/majidmanzarpour/threejs-game-skills",
-            "stars": 478,
-            "forks": 54,
-            "score": 58
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
             "name": "scholar-loop",
             "full_name": "renee-jia/scholar-loop",
             "description": "An autonomous AI scientist: a multi-agent loop over literature, experiments, self-critique and write-up, with deterministic guards against reward-hacking and hallucination.",
             "url": "https://github.com/renee-jia/scholar-loop",
-            "stars": 342,
+            "stars": 343,
             "forks": 54,
             "score": 55
         },
@@ -172,7 +172,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "gykim80/perfectpixel-studio",
             "description": "AI-powered animation sprite studio \u2014 generate character sprite sheets with 8 directions and 100+ actions from a single text prompt (Wails + Go + React)",
             "url": "https://github.com/gykim80/perfectpixel-studio",
-            "stars": 360,
+            "stars": 361,
             "forks": 55,
             "score": 54
         },
@@ -183,7 +183,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "leyten/shard",
             "description": "Pipeline-parallel LLM inference across GPUs on separate machines.",
             "url": "https://github.com/leyten/shard",
-            "stars": 336,
+            "stars": 342,
             "forks": 39,
             "score": 54
         },
@@ -194,9 +194,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "AI-Builder-Club/skills",
             "description": "Join the best AI Builder Community",
             "url": "https://github.com/AI-Builder-Club/skills",
-            "stars": 301,
-            "forks": 51,
+            "stars": 320,
+            "forks": 54,
             "score": 52
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "coralline",
+            "full_name": "Nanako0129/coralline",
+            "description": "\ud83e\udeb8 Powerlevel10k-inspired statusline for Claude Code \u2014 paste one prompt and your AI interviews you, then installs it",
+            "url": "https://github.com/Nanako0129/coralline",
+            "stars": 432,
+            "forks": 32,
+            "score": 50
         },
         {
             "main_cat": "AI",
@@ -205,8 +216,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "buynao/aipath",
             "description": "Interactive AI General Education Course \u2014 30 Lessons, Zero Math",
             "url": "https://github.com/buynao/aipath",
-            "stars": 403,
-            "forks": 43,
+            "stars": 409,
+            "forks": 44,
             "score": 50
         },
         {
@@ -223,45 +234,12 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "coralline",
-            "full_name": "Nanako0129/coralline",
-            "description": "\ud83e\udeb8 Powerlevel10k-inspired statusline for Claude Code \u2014 paste one prompt and your AI interviews you, then installs it",
-            "url": "https://github.com/Nanako0129/coralline",
-            "stars": 431,
-            "forks": 32,
-            "score": 49
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "personal-agent-template",
-            "full_name": "vercel-labs/personal-agent-template",
-            "description": "Open-source template for a durable personal AI agent \u2014 web chat, Slack, Linear, and long-term memory with user-approved saves. Eve, Nuxt, Better Auth, Vercel Connect.",
-            "url": "https://github.com/vercel-labs/personal-agent-template",
-            "stars": 368,
-            "forks": 30,
-            "score": 47
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
             "name": "agent-harness-generator",
             "full_name": "ruvnet/agent-harness-generator",
             "description": "\ud83d\udee0\ufe0f The meta-harness for AI agents \u2014 scaffold your own focused, branded agent harness with its own npx CLI, MCP server, memory, learning loop, and witness-signed releases. Works with Claude Code, Codex, pi.dev, Hermes, OpenClaw, and RVM (hardware-isolated sandbox).",
             "url": "https://github.com/ruvnet/agent-harness-generator",
-            "stars": 292,
+            "stars": 293,
             "forks": 29,
-            "score": 47
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "claude-directory",
-            "full_name": "pulkitxm/claude-directory",
-            "description": "Open-source gallery of AI-generated UI experiments built with Claude (Fable 5), landing pages, hero sections, GLSL shaders, design systems, animations & 3D in React, Tailwind & Three.js.",
-            "url": "https://github.com/pulkitxm/claude-directory",
-            "stars": 279,
-            "forks": 62,
             "score": 47
         },
         {
@@ -278,13 +256,35 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
+            "name": "personal-agent-template",
+            "full_name": "vercel-labs/personal-agent-template",
+            "description": "Open-source template for a durable personal AI agent \u2014 web chat, Slack, Linear, and long-term memory with user-approved saves. Eve, Nuxt, Better Auth, Vercel Connect.",
+            "url": "https://github.com/vercel-labs/personal-agent-template",
+            "stars": 370,
+            "forks": 31,
+            "score": 46
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "claude-directory",
+            "full_name": "pulkitxm/claude-directory",
+            "description": "Open-source gallery of AI-generated UI experiments built with Claude (Fable 5), landing pages, hero sections, GLSL shaders, design systems, animations & 3D in React, Tailwind & Three.js.",
+            "url": "https://github.com/pulkitxm/claude-directory",
+            "stars": 279,
+            "forks": 63,
+            "score": 46
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
             "name": "best-humanizer-handbook",
             "full_name": "fendouai/best-humanizer-handbook",
             "description": "Best AI Humanizer Handbook A practical guide to making AI-assisted writing clearer, more credible, and more human",
             "url": "https://github.com/fendouai/best-humanizer-handbook",
-            "stars": 311,
+            "stars": 314,
             "forks": 4,
-            "score": 46
+            "score": 45
         },
         {
             "main_cat": "AI",
@@ -315,7 +315,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "liuluhaixiu/DaVinci-AutoEdit-Agent",
             "description": "AI\u81ea\u52a8\u526a\u8f91\u7684\u201c\u7b2c\u4e00\u6b21\u63a5\u89e6\u201d\uff0c\u4e00\u6b3e\u57fa\u4e8edavinci mcp\u7684\u5168\u81ea\u52a8\u81ea\u5a92\u4f53\u89c6\u9891\u526a\u8f91skill",
             "url": "https://github.com/liuluhaixiu/DaVinci-AutoEdit-Agent",
-            "stars": 236,
+            "stars": 238,
             "forks": 37,
             "score": 43
         },
@@ -326,20 +326,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "techjarves/Portable-Diffusion",
             "description": "A portable Local AI Image Generator and Stable Diffusion GUI for Windows, Linux, and macOS. Run GGUF & Safetensors models 100% offline with zero setup and auto-detected GPU/NPU acceleration (CUDA, ROCm, Vulkan, Metal, OpenVINO).",
             "url": "https://github.com/techjarves/Portable-Diffusion",
-            "stars": 123,
-            "forks": 30,
+            "stars": 128,
+            "forks": 31,
             "score": 42
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "Awesome-Vibe-Research",
-            "full_name": "modelscope/Awesome-Vibe-Research",
-            "description": "An open, collaboratively-built repository for AI-assisted scientific research \u2014 collecting and curating agents, skills, workflows, tools, and best practices across the full research lifecycle. \u9762\u5411 AI \u8f85\u52a9\u79d1\u7814\u7684\u5f00\u653e\u5171\u5efa\u4ed3\u5e93 \u6536\u96c6\u548c\u6c89\u6dc0\u79d1\u7814\u5168\u6d41\u7a0b\u4e2d\u7684 agents\u3001skills\u3001workflows\u3001tools \u4e0e\u6700\u4f73\u5b9e\u8df5",
-            "url": "https://github.com/modelscope/Awesome-Vibe-Research",
-            "stars": 229,
-            "forks": 12,
-            "score": 40
         },
         {
             "main_cat": "AI",
@@ -355,13 +344,24 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
+            "name": "Awesome-Vibe-Research",
+            "full_name": "modelscope/Awesome-Vibe-Research",
+            "description": "An open, collaboratively-built repository for AI-assisted scientific research \u2014 collecting and curating agents, skills, workflows, tools, and best practices across the full research lifecycle. \u9762\u5411 AI \u8f85\u52a9\u79d1\u7814\u7684\u5f00\u653e\u5171\u5efa\u4ed3\u5e93 \u6536\u96c6\u548c\u6c89\u6dc0\u79d1\u7814\u5168\u6d41\u7a0b\u4e2d\u7684 agents\u3001skills\u3001workflows\u3001tools \u4e0e\u6700\u4f73\u5b9e\u8df5",
+            "url": "https://github.com/modelscope/Awesome-Vibe-Research",
+            "stars": 229,
+            "forks": 12,
+            "score": 39
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
             "name": "illo-skill",
             "full_name": "tmchow/illo-skill",
             "description": "illo skill \u2014 an AI agent skill that turns ideas and articles into original print-style editorial illustrations, starring a recurring mascot. 30+ characters packs, with ability to create your own.",
             "url": "https://github.com/tmchow/illo-skill",
-            "stars": 216,
+            "stars": 217,
             "forks": 8,
-            "score": 39
+            "score": 38
         },
         {
             "main_cat": "AI",
@@ -370,8 +370,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "john-rocky/coreai-model-zoo",
             "description": "Community model zoo + knowledge base for Apple Core AI (iOS/macOS 27): Qwen3.5 & Gemma 4 converted end-to-end, verified on-device (iPhone 17 Pro GPU/ANE), conversion gotchas, custom Metal kernels, Swift runner",
             "url": "https://github.com/john-rocky/coreai-model-zoo",
-            "stars": 185,
-            "forks": 11,
+            "stars": 188,
+            "forks": 12,
             "score": 37
         },
         {
@@ -772,5 +772,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-06-23 13:39"
+    "timestamp": "2026-06-23 16:23"
 };
