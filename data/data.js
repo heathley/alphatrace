@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "DietrichGebert/ponytail",
             "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
             "url": "https://github.com/DietrichGebert/ponytail",
-            "stars": 54869,
-            "forks": 2767,
+            "stars": 54980,
+            "forks": 2774,
             "score": 99
         },
         {
@@ -18,8 +18,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "omnigent-ai/omnigent",
             "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents \u2014 swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.",
             "url": "https://github.com/omnigent-ai/omnigent",
-            "stars": 4704,
-            "forks": 553,
+            "stars": 4713,
+            "forks": 556,
             "score": 99
         },
         {
@@ -29,7 +29,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Forward-Future/loop-library",
             "description": "A library of practical AI-agent loops and an installable skill for finding, adapting, and designing repeatable agent workflows.",
             "url": "https://github.com/Forward-Future/loop-library",
-            "stars": 1585,
+            "stars": 1590,
             "forks": 131,
             "score": 99
         },
@@ -62,9 +62,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "Forsy-AI/agent-apprenticeship",
             "description": "The living ecosystem where AI agents learn from real-world work through iterative workflow loops, reusable experience, and collective training signal exchange.",
             "url": "https://github.com/Forsy-AI/agent-apprenticeship",
-            "stars": 901,
+            "stars": 905,
             "forks": 46,
-            "score": 97
+            "score": 98
         },
         {
             "main_cat": "AI",
@@ -86,7 +86,7 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/orange2ai/renwei-writing",
             "stars": 860,
             "forks": 77,
-            "score": 71
+            "score": 68
         },
         {
             "main_cat": "AI",
@@ -95,20 +95,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "TestSprite/testsprite-cli",
             "description": "Official TestSprite CLI \u2014 AI-powered automated testing from your terminal",
             "url": "https://github.com/TestSprite/testsprite-cli",
-            "stars": 930,
+            "stars": 936,
             "forks": 40,
             "score": 64
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "skills",
-            "full_name": "AI-Builder-Club/skills",
-            "description": "Join the best AI Builder Community",
-            "url": "https://github.com/AI-Builder-Club/skills",
-            "stars": 518,
-            "forks": 89,
-            "score": 63
         },
         {
             "main_cat": "AI",
@@ -161,8 +150,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "dongshuyan/compass-skills",
             "description": "\u53f8\u5357\uff1a\u4e2a\u6027\u5316 AI \u4efb\u52a1\u603b\u63a7 Skills \u7cfb\u7edf /COMPASS: Personal Alignment Skills OS for AI Agents",
             "url": "https://github.com/dongshuyan/compass-skills",
-            "stars": 485,
-            "forks": 38,
+            "stars": 486,
+            "forks": 39,
             "score": 56
         },
         {
@@ -172,7 +161,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "gykim80/perfectpixel-studio",
             "description": "AI-powered animation sprite studio \u2014 generate character sprite sheets with 8 directions and 100+ actions from a single text prompt (Wails + Go + React)",
             "url": "https://github.com/gykim80/perfectpixel-studio",
-            "stars": 376,
+            "stars": 377,
             "forks": 57,
             "score": 53
         },
@@ -185,7 +174,7 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/leyten/shard",
             "stars": 359,
             "forks": 42,
-            "score": 53
+            "score": 51
         },
         {
             "main_cat": "AI",
@@ -249,8 +238,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "JCarterJohnson/vibecoded-design-tells",
             "description": "Reddit-mined data ranking the visual tells of vibe-coded (AI-built) sites: 3.2M posts scanned across 47 subreddits, with scripts, raw data, and charts.",
             "url": "https://github.com/JCarterJohnson/vibecoded-design-tells",
-            "stars": 257,
-            "forks": 20,
+            "stars": 260,
+            "forks": 21,
             "score": 45
         },
         {
@@ -260,7 +249,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "fendouai/best-humanizer-handbook",
             "description": "Best AI Humanizer Handbook A practical guide to making AI-assisted writing clearer, more credible, and more human",
             "url": "https://github.com/fendouai/best-humanizer-handbook",
-            "stars": 328,
+            "stars": 329,
             "forks": 4,
             "score": 44
         },
@@ -350,6 +339,17 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/tmchow/illo-skill",
             "stars": 222,
             "forks": 9,
+            "score": 38
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "open-dungeon",
+            "full_name": "newideas99/open-dungeon",
+            "description": "Open Dungeon \u2014 the first easy-to-use, fully local AI roleplay app. Story and inline scene images generated 100% on your machine (Gemma 4 QAT via Ollama(and others) + FLUX). No accounts, no API keys, no cloud.",
+            "url": "https://github.com/newideas99/open-dungeon",
+            "stars": 196,
+            "forks": 17,
             "score": 38
         },
         {
@@ -750,5 +750,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-06-24 20:43"
+    "timestamp": "2026-06-24 22:11"
 };
