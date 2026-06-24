@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "DietrichGebert/ponytail",
             "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
             "url": "https://github.com/DietrichGebert/ponytail",
-            "stars": 54396,
-            "forks": 2729,
+            "stars": 54682,
+            "forks": 2754,
             "score": 99
         },
         {
@@ -18,8 +18,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "omnigent-ai/omnigent",
             "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents \u2014 swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.",
             "url": "https://github.com/omnigent-ai/omnigent",
-            "stars": 4671,
-            "forks": 551,
+            "stars": 4684,
+            "forks": 553,
             "score": 99
         },
         {
@@ -29,19 +29,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "Forward-Future/loop-library",
             "description": "A library of practical AI-agent loops and an installable skill for finding, adapting, and designing repeatable agent workflows.",
             "url": "https://github.com/Forward-Future/loop-library",
-            "stars": 1565,
-            "forks": 128,
-            "score": 99
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "agent-apprenticeship",
-            "full_name": "Forsy-AI/agent-apprenticeship",
-            "description": "The living ecosystem where AI agents learn from real-world work through iterative workflow loops, reusable experience, and collective training signal exchange.",
-            "url": "https://github.com/Forsy-AI/agent-apprenticeship",
-            "stars": 898,
-            "forks": 46,
+            "stars": 1573,
+            "forks": 129,
             "score": 99
         },
         {
@@ -51,7 +40,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "yo-WASSUP/Good-Badminton",
             "description": "\ud83c\udff8  AI Badminton Hawk-Eye System",
             "url": "https://github.com/yo-WASSUP/Good-Badminton",
-            "stars": 468,
+            "stars": 475,
             "forks": 149,
             "score": 99
         },
@@ -69,11 +58,22 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
+            "name": "agent-apprenticeship",
+            "full_name": "Forsy-AI/agent-apprenticeship",
+            "description": "The living ecosystem where AI agents learn from real-world work through iterative workflow loops, reusable experience, and collective training signal exchange.",
+            "url": "https://github.com/Forsy-AI/agent-apprenticeship",
+            "stars": 899,
+            "forks": 46,
+            "score": 97
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
             "name": "pixel2motion",
             "full_name": "nolangz/pixel2motion",
             "description": "AI logo animation skill: turn raster logos into smooth SVG animation, animated HTML demos, GIF/video previews, and motion QA evidence.",
             "url": "https://github.com/nolangz/pixel2motion",
-            "stars": 997,
+            "stars": 999,
             "forks": 85,
             "score": 74
         },
@@ -84,7 +84,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "orange2ai/renwei-writing",
             "description": "\u4eba\u5473\u513f\u5199\u4f5c \u00b7 An AI agent skill: edit people's words without erasing the person behind them",
             "url": "https://github.com/orange2ai/renwei-writing",
-            "stars": 858,
+            "stars": 859,
             "forks": 77,
             "score": 71
         },
@@ -95,7 +95,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "TestSprite/testsprite-cli",
             "description": "Official TestSprite CLI \u2014 AI-powered automated testing from your terminal",
             "url": "https://github.com/TestSprite/testsprite-cli",
-            "stars": 919,
+            "stars": 927,
             "forks": 40,
             "score": 63
         },
@@ -106,7 +106,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "AI-Builder-Club/skills",
             "description": "Join the best AI Builder Community",
             "url": "https://github.com/AI-Builder-Club/skills",
-            "stars": 508,
+            "stars": 517,
             "forks": 89,
             "score": 63
         },
@@ -128,9 +128,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "majidmanzarpour/threejs-game-skills",
             "description": "Agent skills for building playable, polished Three.js browser games with gameplay, AAA-style graphics, UI, QA, and optional AI-generated 3D, image, and audio assets.",
             "url": "https://github.com/majidmanzarpour/threejs-game-skills",
-            "stars": 502,
-            "forks": 55,
-            "score": 57
+            "stars": 504,
+            "forks": 56,
+            "score": 58
         },
         {
             "main_cat": "AI",
@@ -139,9 +139,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "dzcmemory-web/bazi-ziwei-skill",
             "description": "AI \u516b\u5b57 + \u7d2b\u5fae\u6597\u6570\u6392\u76d8\u4e0e\u7efc\u5408\u5370\u8bc1 Skill\uff1a\u7b97\u6cd5\u7cbe\u51c6\u6392\u76d8\uff08\u4e0d\u9760 LLM \u731c\uff09\uff0c\u4e09\u79cd\u5206\u6790\u6a21\u5f0f\uff0c\u4e00\u952e\u751f\u6210\u6c34\u58a8\u98ce HTML \u547d\u76d8\u6d77\u62a5\u3002\u517c\u5bb9 Claude / Codex / Cursor / Workbuddy \u7b49 SKILL.md Agent\u3002",
             "url": "https://github.com/dzcmemory-web/bazi-ziwei-skill",
-            "stars": 499,
+            "stars": 500,
             "forks": 64,
-            "score": 56
+            "score": 57
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "scholar-loop",
+            "full_name": "renee-jia/scholar-loop",
+            "description": "An autonomous AI scientist: a multi-agent loop over literature, experiments, self-critique and write-up, with deterministic guards against reward-hacking and hallucination.",
+            "url": "https://github.com/renee-jia/scholar-loop",
+            "stars": 436,
+            "forks": 55,
+            "score": 57
         },
         {
             "main_cat": "AI",
@@ -157,22 +168,11 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "scholar-loop",
-            "full_name": "renee-jia/scholar-loop",
-            "description": "An autonomous AI scientist: a multi-agent loop over literature, experiments, self-critique and write-up, with deterministic guards against reward-hacking and hallucination.",
-            "url": "https://github.com/renee-jia/scholar-loop",
-            "stars": 417,
-            "forks": 55,
-            "score": 56
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
             "name": "perfectpixel-studio",
             "full_name": "gykim80/perfectpixel-studio",
             "description": "AI-powered animation sprite studio \u2014 generate character sprite sheets with 8 directions and 100+ actions from a single text prompt (Wails + Go + React)",
             "url": "https://github.com/gykim80/perfectpixel-studio",
-            "stars": 374,
+            "stars": 376,
             "forks": 57,
             "score": 53
         },
@@ -183,8 +183,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "leyten/shard",
             "description": "Pipeline-parallel LLM inference across GPUs on separate machines.",
             "url": "https://github.com/leyten/shard",
-            "stars": 357,
-            "forks": 41,
+            "stars": 358,
+            "forks": 42,
             "score": 53
         },
         {
@@ -194,7 +194,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "buynao/aipath",
             "description": "Interactive AI General Education Course \u2014 30 Lessons, Zero Math",
             "url": "https://github.com/buynao/aipath",
-            "stars": 430,
+            "stars": 431,
             "forks": 48,
             "score": 50
         },
@@ -228,8 +228,8 @@ const ALPHA_DATA_V2 = {
             "description": "Open-source template for a durable personal AI agent \u2014 web chat, Slack, Linear, and long-term memory with user-approved saves. Eve, Nuxt, Better Auth, Vercel Connect.",
             "url": "https://github.com/vercel-labs/personal-agent-template",
             "stars": 384,
-            "forks": 32,
-            "score": 46
+            "forks": 31,
+            "score": 45
         },
         {
             "main_cat": "AI",
@@ -238,9 +238,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "ruvnet/agent-harness-generator",
             "description": "\ud83d\udee0\ufe0f The meta-harness for AI agents \u2014 scaffold your own focused, branded agent harness with its own npx CLI, MCP server, memory, learning loop, and witness-signed releases. Works with Claude Code, Codex, pi.dev, Hermes, OpenClaw, and RVM (hardware-isolated sandbox).",
             "url": "https://github.com/ruvnet/agent-harness-generator",
-            "stars": 303,
-            "forks": 30,
-            "score": 46
+            "stars": 304,
+            "forks": 31,
+            "score": 45
         },
         {
             "main_cat": "AI",
@@ -249,7 +249,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "JCarterJohnson/vibecoded-design-tells",
             "description": "Reddit-mined data ranking the visual tells of vibe-coded (AI-built) sites: 3.2M posts scanned across 47 subreddits, with scripts, raw data, and charts.",
             "url": "https://github.com/JCarterJohnson/vibecoded-design-tells",
-            "stars": 250,
+            "stars": 254,
             "forks": 20,
             "score": 45
         },
@@ -260,7 +260,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "fendouai/best-humanizer-handbook",
             "description": "Best AI Humanizer Handbook A practical guide to making AI-assisted writing clearer, more credible, and more human",
             "url": "https://github.com/fendouai/best-humanizer-handbook",
-            "stars": 327,
+            "stars": 328,
             "forks": 4,
             "score": 44
         },
@@ -294,7 +294,7 @@ const ALPHA_DATA_V2 = {
             "description": "A portable Local AI Image Generator and Stable Diffusion GUI for Windows, Linux, and macOS. Run GGUF & Safetensors models 100% offline with zero setup and auto-detected GPU/NPU acceleration (CUDA, ROCm, Vulkan, Metal, OpenVINO).",
             "url": "https://github.com/techjarves/Portable-Diffusion",
             "stars": 142,
-            "forks": 32,
+            "forks": 31,
             "score": 42
         },
         {
@@ -326,7 +326,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "yolfinance/yolfi-agent",
             "description": "Yolfi Agent Kit SDK, CLI, and MCP server for AI coding agents.",
             "url": "https://github.com/yolfinance/yolfi-agent",
-            "stars": 202,
+            "stars": 203,
             "forks": 1,
             "score": 39
         },
@@ -348,7 +348,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "tmchow/illo-skill",
             "description": "illo skill \u2014 an AI agent skill that turns ideas and articles into original print-style editorial illustrations, starring a recurring mascot. 30+ characters packs, with ability to create your own.",
             "url": "https://github.com/tmchow/illo-skill",
-            "stars": 221,
+            "stars": 222,
             "forks": 9,
             "score": 38
         },
@@ -729,6 +729,20 @@ const ALPHA_DATA_V2 = {
     ],
     "news": [
         {
+            "title": "HelpBench: Assessing the Ability of LLMs to Provide Privacy, Safety, and Security Advice",
+            "source": "ArXiv",
+            "type": "Research Alpha",
+            "color": "text-indigo-600",
+            "url": "http://arxiv.org/abs/2606.24819v1"
+        },
+        {
+            "title": "Burnyard: Future of Malware Analysis",
+            "source": "ArXiv",
+            "type": "Research Alpha",
+            "color": "text-indigo-600",
+            "url": "http://arxiv.org/abs/2606.24778v1"
+        },
+        {
             "title": "Bitcoin volatility remains high ahead of key FED decision.",
             "source": "Polymarket",
             "type": "Expectation",
@@ -736,5 +750,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-06-24 16:12"
+    "timestamp": "2026-06-24 18:29"
 };
