@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "DietrichGebert/ponytail",
             "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
             "url": "https://github.com/DietrichGebert/ponytail",
-            "stars": 54682,
-            "forks": 2754,
+            "stars": 54869,
+            "forks": 2767,
             "score": 99
         },
         {
@@ -18,7 +18,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "omnigent-ai/omnigent",
             "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents \u2014 swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.",
             "url": "https://github.com/omnigent-ai/omnigent",
-            "stars": 4684,
+            "stars": 4704,
             "forks": 553,
             "score": 99
         },
@@ -29,8 +29,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "Forward-Future/loop-library",
             "description": "A library of practical AI-agent loops and an installable skill for finding, adapting, and designing repeatable agent workflows.",
             "url": "https://github.com/Forward-Future/loop-library",
-            "stars": 1573,
-            "forks": 129,
+            "stars": 1585,
+            "forks": 131,
             "score": 99
         },
         {
@@ -40,7 +40,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "yo-WASSUP/Good-Badminton",
             "description": "\ud83c\udff8  AI Badminton Hawk-Eye System",
             "url": "https://github.com/yo-WASSUP/Good-Badminton",
-            "stars": 475,
+            "stars": 476,
             "forks": 149,
             "score": 99
         },
@@ -62,7 +62,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Forsy-AI/agent-apprenticeship",
             "description": "The living ecosystem where AI agents learn from real-world work through iterative workflow loops, reusable experience, and collective training signal exchange.",
             "url": "https://github.com/Forsy-AI/agent-apprenticeship",
-            "stars": 899,
+            "stars": 901,
             "forks": 46,
             "score": 97
         },
@@ -73,7 +73,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "nolangz/pixel2motion",
             "description": "AI logo animation skill: turn raster logos into smooth SVG animation, animated HTML demos, GIF/video previews, and motion QA evidence.",
             "url": "https://github.com/nolangz/pixel2motion",
-            "stars": 999,
+            "stars": 1000,
             "forks": 85,
             "score": 74
         },
@@ -84,7 +84,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "orange2ai/renwei-writing",
             "description": "\u4eba\u5473\u513f\u5199\u4f5c \u00b7 An AI agent skill: edit people's words without erasing the person behind them",
             "url": "https://github.com/orange2ai/renwei-writing",
-            "stars": 859,
+            "stars": 860,
             "forks": 77,
             "score": 71
         },
@@ -95,9 +95,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "TestSprite/testsprite-cli",
             "description": "Official TestSprite CLI \u2014 AI-powered automated testing from your terminal",
             "url": "https://github.com/TestSprite/testsprite-cli",
-            "stars": 927,
+            "stars": 930,
             "forks": 40,
-            "score": 63
+            "score": 64
         },
         {
             "main_cat": "AI",
@@ -106,7 +106,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "AI-Builder-Club/skills",
             "description": "Join the best AI Builder Community",
             "url": "https://github.com/AI-Builder-Club/skills",
-            "stars": 517,
+            "stars": 518,
             "forks": 89,
             "score": 63
         },
@@ -117,7 +117,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Plaer1/junction",
             "description": "VS Code chat sidebar for local AI coding agents",
             "url": "https://github.com/Plaer1/junction",
-            "stars": 532,
+            "stars": 533,
             "forks": 9,
             "score": 58
         },
@@ -128,7 +128,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "majidmanzarpour/threejs-game-skills",
             "description": "Agent skills for building playable, polished Three.js browser games with gameplay, AAA-style graphics, UI, QA, and optional AI-generated 3D, image, and audio assets.",
             "url": "https://github.com/majidmanzarpour/threejs-game-skills",
-            "stars": 504,
+            "stars": 505,
             "forks": 56,
             "score": 58
         },
@@ -150,7 +150,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "renee-jia/scholar-loop",
             "description": "An autonomous AI scientist: a multi-agent loop over literature, experiments, self-critique and write-up, with deterministic guards against reward-hacking and hallucination.",
             "url": "https://github.com/renee-jia/scholar-loop",
-            "stars": 436,
+            "stars": 437,
             "forks": 55,
             "score": 57
         },
@@ -161,7 +161,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "dongshuyan/compass-skills",
             "description": "\u53f8\u5357\uff1a\u4e2a\u6027\u5316 AI \u4efb\u52a1\u603b\u63a7 Skills \u7cfb\u7edf /COMPASS: Personal Alignment Skills OS for AI Agents",
             "url": "https://github.com/dongshuyan/compass-skills",
-            "stars": 484,
+            "stars": 485,
             "forks": 38,
             "score": 56
         },
@@ -183,7 +183,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "leyten/shard",
             "description": "Pipeline-parallel LLM inference across GPUs on separate machines.",
             "url": "https://github.com/leyten/shard",
-            "stars": 358,
+            "stars": 359,
             "forks": 42,
             "score": 53
         },
@@ -194,7 +194,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "buynao/aipath",
             "description": "Interactive AI General Education Course \u2014 30 Lessons, Zero Math",
             "url": "https://github.com/buynao/aipath",
-            "stars": 431,
+            "stars": 432,
             "forks": 48,
             "score": 50
         },
@@ -218,7 +218,7 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/Verdi38/Silent-Crypto-Miner",
             "stars": 184,
             "forks": 35,
-            "score": 48
+            "score": 46
         },
         {
             "main_cat": "AI",
@@ -238,7 +238,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "ruvnet/agent-harness-generator",
             "description": "\ud83d\udee0\ufe0f The meta-harness for AI agents \u2014 scaffold your own focused, branded agent harness with its own npx CLI, MCP server, memory, learning loop, and witness-signed releases. Works with Claude Code, Codex, pi.dev, Hermes, OpenClaw, and RVM (hardware-isolated sandbox).",
             "url": "https://github.com/ruvnet/agent-harness-generator",
-            "stars": 304,
+            "stars": 305,
             "forks": 31,
             "score": 45
         },
@@ -249,7 +249,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "JCarterJohnson/vibecoded-design-tells",
             "description": "Reddit-mined data ranking the visual tells of vibe-coded (AI-built) sites: 3.2M posts scanned across 47 subreddits, with scripts, raw data, and charts.",
             "url": "https://github.com/JCarterJohnson/vibecoded-design-tells",
-            "stars": 254,
+            "stars": 257,
             "forks": 20,
             "score": 45
         },
@@ -267,23 +267,23 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "value-for-fable",
-            "full_name": "itsinseong/value-for-fable",
-            "description": "Opus\uc5d0 \uadfc\uc811\ud55c \ud488\uc9c8\uc744 Sonnet \ub2e8\uac00\uc5d0 \u2014 \uac00\uc131\ube44 AI \uc6b4\uc601 \ubaa8\ub378\uc744 \uc9c1\uc811 \uad6c\ucd95\ud55c Claude Code \ud504\ub85c\uc81d\ud2b8",
-            "url": "https://github.com/itsinseong/value-for-fable",
-            "stars": 216,
-            "forks": 47,
-            "score": 43
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
             "name": "DaVinci-AutoEdit-Agent",
             "full_name": "liuluhaixiu/DaVinci-AutoEdit-Agent",
             "description": "AI\u81ea\u52a8\u526a\u8f91\u7684\u201c\u7b2c\u4e00\u6b21\u63a5\u89e6\u201d\uff0c\u4e00\u6b3e\u57fa\u4e8edavinci mcp\u7684\u5168\u81ea\u52a8\u81ea\u5a92\u4f53\u89c6\u9891\u526a\u8f91skill",
             "url": "https://github.com/liuluhaixiu/DaVinci-AutoEdit-Agent",
             "stars": 241,
             "forks": 37,
+            "score": 42
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "value-for-fable",
+            "full_name": "itsinseong/value-for-fable",
+            "description": "Opus\uc5d0 \uadfc\uc811\ud55c \ud488\uc9c8\uc744 Sonnet \ub2e8\uac00\uc5d0 \u2014 \uac00\uc131\ube44 AI \uc6b4\uc601 \ubaa8\ub378\uc744 \uc9c1\uc811 \uad6c\ucd95\ud55c Claude Code \ud504\ub85c\uc81d\ud2b8",
+            "url": "https://github.com/itsinseong/value-for-fable",
+            "stars": 216,
+            "forks": 47,
             "score": 42
         },
         {
@@ -326,7 +326,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "yolfinance/yolfi-agent",
             "description": "Yolfi Agent Kit SDK, CLI, and MCP server for AI coding agents.",
             "url": "https://github.com/yolfinance/yolfi-agent",
-            "stars": 203,
+            "stars": 204,
             "forks": 1,
             "score": 39
         },
@@ -750,5 +750,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-06-24 18:29"
+    "timestamp": "2026-06-24 20:43"
 };
