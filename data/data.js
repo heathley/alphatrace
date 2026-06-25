@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "DietrichGebert/ponytail",
             "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
             "url": "https://github.com/DietrichGebert/ponytail",
-            "stars": 57826,
-            "forks": 2938,
+            "stars": 57935,
+            "forks": 2945,
             "score": 99
         },
         {
@@ -18,7 +18,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Forward-Future/loop-library",
             "description": "A library of practical AI-agent loops and an installable skill for finding, adapting, and designing repeatable agent workflows.",
             "url": "https://github.com/Forward-Future/loop-library",
-            "stars": 1655,
+            "stars": 1662,
             "forks": 145,
             "score": 99
         },
@@ -51,7 +51,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Forsy-AI/agent-apprenticeship",
             "description": "The living ecosystem where AI agents learn from real-world work through iterative workflow loops, reusable experience, and collective training signal exchange.",
             "url": "https://github.com/Forsy-AI/agent-apprenticeship",
-            "stars": 936,
+            "stars": 939,
             "forks": 47,
             "score": 92
         },
@@ -62,7 +62,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "nolangz/pixel2motion",
             "description": "AI logo animation skill: turn raster logos into smooth SVG animation, animated HTML demos, GIF/video previews, and motion QA evidence.",
             "url": "https://github.com/nolangz/pixel2motion",
-            "stars": 1025,
+            "stars": 1026,
             "forks": 86,
             "score": 72
         },
@@ -73,9 +73,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "benchflow-ai/awesome-evals",
             "description": "A curated, non-BS library of the best resources for building and evaluating AI agents \u2014 papers, blogs, talks, tools, benchmarks. Maintained by BenchFlow.",
             "url": "https://github.com/benchflow-ai/awesome-evals",
-            "stars": 265,
-            "forks": 14,
-            "score": 70
+            "stars": 273,
+            "forks": 16,
+            "score": 72
         },
         {
             "main_cat": "AI",
@@ -86,7 +86,7 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/orange2ai/renwei-writing",
             "stars": 869,
             "forks": 77,
-            "score": 69
+            "score": 66
         },
         {
             "main_cat": "AI",
@@ -95,9 +95,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "Plaer1/junction",
             "description": "VS Code chat sidebar for local AI coding agents",
             "url": "https://github.com/Plaer1/junction",
-            "stars": 638,
-            "forks": 9,
-            "score": 60
+            "stars": 652,
+            "forks": 10,
+            "score": 61
         },
         {
             "main_cat": "AI",
@@ -106,7 +106,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "majidmanzarpour/threejs-game-skills",
             "description": "Agent skills for building playable, polished Three.js browser games with gameplay, AAA-style graphics, UI, QA, and optional AI-generated 3D, image, and audio assets.",
             "url": "https://github.com/majidmanzarpour/threejs-game-skills",
-            "stars": 520,
+            "stars": 521,
             "forks": 56,
             "score": 56
         },
@@ -150,7 +150,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "CortexPrism/cortex",
             "description": "CortexPrism \u2014 open-source AI agent operating system",
             "url": "https://github.com/CortexPrism/cortex",
-            "stars": 208,
+            "stars": 209,
             "forks": 119,
             "score": 54
         },
@@ -185,7 +185,7 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/leyten/shard",
             "stars": 364,
             "forks": 44,
-            "score": 52
+            "score": 50
         },
         {
             "main_cat": "AI",
@@ -227,7 +227,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "JCarterJohnson/vibecoded-design-tells",
             "description": "Reddit-mined data ranking the visual tells of vibe-coded (AI-built) sites: 3.2M posts scanned across 47 subreddits, with scripts, raw data, and charts.",
             "url": "https://github.com/JCarterJohnson/vibecoded-design-tells",
-            "stars": 279,
+            "stars": 280,
             "forks": 21,
             "score": 45
         },
@@ -304,7 +304,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "tmchow/illo-skill",
             "description": "illo skill \u2014 an AI agent skill that turns ideas and articles into original print-style editorial illustrations, starring a recurring mascot. 30+ characters packs, with ability to create your own.",
             "url": "https://github.com/tmchow/illo-skill",
-            "stars": 223,
+            "stars": 224,
             "forks": 9,
             "score": 38
         },
@@ -761,5 +761,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-06-25 21:26"
+    "timestamp": "2026-06-25 23:11"
 };
