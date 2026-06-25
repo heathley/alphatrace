@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "DietrichGebert/ponytail",
             "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
             "url": "https://github.com/DietrichGebert/ponytail",
-            "stars": 56833,
-            "forks": 2874,
+            "stars": 57187,
+            "forks": 2899,
             "score": 99
         },
         {
@@ -18,8 +18,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "Forward-Future/loop-library",
             "description": "A library of practical AI-agent loops and an installable skill for finding, adapting, and designing repeatable agent workflows.",
             "url": "https://github.com/Forward-Future/loop-library",
-            "stars": 1626,
-            "forks": 140,
+            "stars": 1638,
+            "forks": 142,
             "score": 99
         },
         {
@@ -29,7 +29,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Forsy-AI/agent-apprenticeship",
             "description": "The living ecosystem where AI agents learn from real-world work through iterative workflow loops, reusable experience, and collective training signal exchange.",
             "url": "https://github.com/Forsy-AI/agent-apprenticeship",
-            "stars": 923,
+            "stars": 927,
             "forks": 46,
             "score": 99
         },
@@ -40,8 +40,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "yo-WASSUP/Good-Badminton",
             "description": "\ud83c\udff8  AI Badminton Hawk-Eye System",
             "url": "https://github.com/yo-WASSUP/Good-Badminton",
-            "stars": 500,
-            "forks": 157,
+            "stars": 508,
+            "forks": 159,
             "score": 99
         },
         {
@@ -62,8 +62,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "nolangz/pixel2motion",
             "description": "AI logo animation skill: turn raster logos into smooth SVG animation, animated HTML demos, GIF/video previews, and motion QA evidence.",
             "url": "https://github.com/nolangz/pixel2motion",
-            "stars": 1016,
-            "forks": 85,
+            "stars": 1017,
+            "forks": 86,
             "score": 72
         },
         {
@@ -73,7 +73,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "orange2ai/renwei-writing",
             "description": "\u4eba\u5473\u513f\u5199\u4f5c \u00b7 An AI agent skill: edit people's words without erasing the person behind them",
             "url": "https://github.com/orange2ai/renwei-writing",
-            "stars": 866,
+            "stars": 867,
             "forks": 77,
             "score": 69
         },
@@ -84,9 +84,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "benchflow-ai/awesome-evals",
             "description": "A curated, non-BS library of the best resources for building and evaluating AI agents \u2014 papers, blogs, talks, tools, benchmarks. Maintained by BenchFlow.",
             "url": "https://github.com/benchflow-ai/awesome-evals",
-            "stars": 230,
+            "stars": 243,
             "forks": 11,
-            "score": 64
+            "score": 65
         },
         {
             "main_cat": "AI",
@@ -106,19 +106,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "majidmanzarpour/threejs-game-skills",
             "description": "Agent skills for building playable, polished Three.js browser games with gameplay, AAA-style graphics, UI, QA, and optional AI-generated 3D, image, and audio assets.",
             "url": "https://github.com/majidmanzarpour/threejs-game-skills",
-            "stars": 518,
+            "stars": 519,
             "forks": 56,
-            "score": 56
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "motion-skills",
-            "full_name": "iart-ai/motion-skills",
-            "description": "50 open-source skills that teach your AI coding agent to make motion graphics, animation & video \u2014 kinetic typography, data-viz, explainers, TikTok/Reels, WebGL, Manim. 14 installable packs. By iart.ai, the AI motion agent.",
-            "url": "https://github.com/iart-ai/motion-skills",
-            "stars": 199,
-            "forks": 17,
             "score": 56
         },
         {
@@ -178,6 +167,17 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
+            "sub_cat": null,
+            "name": "motion-skills",
+            "full_name": "iart-ai/motion-skills",
+            "description": "50 open-source skills that teach your AI coding agent to make motion graphics, animation & video \u2014 kinetic typography, data-viz, explainers, TikTok/Reels, WebGL, Manim. 14 installable packs. By iart.ai, the AI motion agent.",
+            "url": "https://github.com/iart-ai/motion-skills",
+            "stars": 200,
+            "forks": 17,
+            "score": 52
+        },
+        {
+            "main_cat": "AI",
             "sub_cat": "AI General",
             "name": "shard",
             "full_name": "leyten/shard",
@@ -216,7 +216,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "ruvnet/agent-harness-generator",
             "description": "\ud83d\udee0\ufe0f The meta-harness for AI agents \u2014 scaffold your own focused, branded agent harness with its own npx CLI, MCP server, memory, learning loop, and witness-signed releases. Works with Claude Code, Codex, pi.dev, Hermes, OpenClaw, and RVM (hardware-isolated sandbox).",
             "url": "https://github.com/ruvnet/agent-harness-generator",
-            "stars": 313,
+            "stars": 314,
             "forks": 34,
             "score": 46
         },
@@ -238,7 +238,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "fendouai/best-humanizer-handbook",
             "description": "Best AI Humanizer Handbook A practical guide to making AI-assisted writing clearer, more credible, and more human",
             "url": "https://github.com/fendouai/best-humanizer-handbook",
-            "stars": 332,
+            "stars": 334,
             "forks": 4,
             "score": 44
         },
@@ -249,7 +249,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "JCarterJohnson/vibecoded-design-tells",
             "description": "Reddit-mined data ranking the visual tells of vibe-coded (AI-built) sites: 3.2M posts scanned across 47 subreddits, with scripts, raw data, and charts.",
             "url": "https://github.com/JCarterJohnson/vibecoded-design-tells",
-            "stars": 273,
+            "stars": 275,
             "forks": 21,
             "score": 44
         },
@@ -260,7 +260,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Karovia/fullstack-ai-agent-roadmap",
             "description": "\ud83c\udfaf \u4ece\u96f6\u57fa\u7840\u5230 AI Agent \u5168\u6808\u5de5\u7a0b\u5e08 \u00b7 110 \u4e2a\u8be6\u7ec6\u6559\u7a0b \u00b7 58 \u4e07\u5b57 \u00b7 400+ GitHub \u9879\u76ee\u7cbe\u9009 \u00b7 Obsidian \u53cb\u597d \u00b7 \u4e2d\u6587",
             "url": "https://github.com/Karovia/fullstack-ai-agent-roadmap",
-            "stars": 191,
+            "stars": 193,
             "forks": 13,
             "score": 43
         },
@@ -293,7 +293,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "modelscope/Awesome-Vibe-Research",
             "description": "An open, collaboratively-built repository for AI-assisted scientific research \u2014 collecting and curating agents, skills, workflows, tools, and best practices across the full research lifecycle. \u9762\u5411 AI \u8f85\u52a9\u79d1\u7814\u7684\u5f00\u653e\u5171\u5efa\u4ed3\u5e93 \u6536\u96c6\u548c\u6c89\u6dc0\u79d1\u7814\u5168\u6d41\u7a0b\u4e2d\u7684 agents\u3001skills\u3001workflows\u3001tools \u4e0e\u6700\u4f73\u5b9e\u8df5",
             "url": "https://github.com/modelscope/Awesome-Vibe-Research",
-            "stars": 244,
+            "stars": 247,
             "forks": 12,
             "score": 39
         },
@@ -304,7 +304,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "bingook/bingo",
             "description": "Bingo - AI-powered Red Team Terminal (DeepSeek/Claude/GPT/GLM)",
             "url": "https://github.com/bingook/bingo",
-            "stars": 221,
+            "stars": 223,
             "forks": 23,
             "score": 39
         },
@@ -315,7 +315,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "yolfinance/yolfi-agent",
             "description": "Yolfi Agent Kit SDK, CLI, and MCP server for AI coding agents.",
             "url": "https://github.com/yolfinance/yolfi-agent",
-            "stars": 208,
+            "stars": 209,
             "forks": 1,
             "score": 39
         },
@@ -370,7 +370,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "paulfruitful/freeaitokens",
             "description": "Free Local AI inference without need for GPUs or heavy chunks of your CPU  ",
             "url": "https://github.com/paulfruitful/freeaitokens",
-            "stars": 26,
+            "stars": 27,
             "forks": 12,
             "score": 34
         },
@@ -542,6 +542,17 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
+            "name": "arcitex",
+            "full_name": "allethx/arcitex",
+            "description": "Smart cross-chain decentralized exchange built with Next.js, designed for seamless stablecoin swaps and modern Web3 payments.",
+            "url": "https://github.com/allethx/arcitex",
+            "stars": 0,
+            "forks": 0,
+            "score": 30
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
             "name": "G-V-M",
             "full_name": "maniknur/G-V-M",
             "description": "A blockchain-based escrow marketplace on Stellar Soroban connecting local farmers with global buyers through secure stablecoin payments.",
@@ -601,17 +612,6 @@ const ALPHA_DATA_V2 = {
             "full_name": "Blessed-Shammah/solana-payments",
             "description": "Production-grade stablecoin payments for Solana builders \u2014 a skill for the Solana AI Kit. Turns any coding agent into a payments engineer: checkout, subscriptions, safe confirmation, webhook\u2192ledger reconciliation, refunds, on/off-ramp, treasury, and the compliance minimum.",
             "url": "https://github.com/Blessed-Shammah/solana-payments",
-            "stars": 0,
-            "forks": 0,
-            "score": 30
-        },
-        {
-            "main_cat": "Stablecoin Infrastructure",
-            "sub_cat": null,
-            "name": "VOU-Volume-of-Use",
-            "full_name": "ECON-Sentry/VOU-Volume-of-Use",
-            "description": "Volume of Use\u2122 (VOU) \u2013 ECON Sentry\u2019s framework for turning stablecoin payment flows into investable signals, governed by the ECON Sentry Token (Sentry), ticker EVOU.",
-            "url": "https://github.com/ECON-Sentry/VOU-Volume-of-Use",
             "stars": 0,
             "forks": 0,
             "score": 30
@@ -761,5 +761,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-06-25 11:35"
+    "timestamp": "2026-06-25 14:11"
 };
