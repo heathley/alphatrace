@@ -7,19 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "DietrichGebert/ponytail",
             "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
             "url": "https://github.com/DietrichGebert/ponytail",
-            "stars": 54980,
-            "forks": 2774,
-            "score": 99
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "omnigent",
-            "full_name": "omnigent-ai/omnigent",
-            "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents \u2014 swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.",
-            "url": "https://github.com/omnigent-ai/omnigent",
-            "stars": 4713,
-            "forks": 556,
+            "stars": 55101,
+            "forks": 2787,
             "score": 99
         },
         {
@@ -29,8 +18,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "Forward-Future/loop-library",
             "description": "A library of practical AI-agent loops and an installable skill for finding, adapting, and designing repeatable agent workflows.",
             "url": "https://github.com/Forward-Future/loop-library",
-            "stars": 1590,
-            "forks": 131,
+            "stars": 1594,
+            "forks": 132,
             "score": 99
         },
         {
@@ -51,7 +40,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "nnecrkvenuOX/formcms",
             "description": "AI Agent: Open-source headless CMS built with ASP.NET Core (C#) and React, featuring REST APIs, GraphQL, and a GrapesJS page designer.",
             "url": "https://github.com/nnecrkvenuOX/formcms",
-            "stars": 404,
+            "stars": 406,
             "forks": 905,
             "score": 99
         },
@@ -73,7 +62,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "nolangz/pixel2motion",
             "description": "AI logo animation skill: turn raster logos into smooth SVG animation, animated HTML demos, GIF/video previews, and motion QA evidence.",
             "url": "https://github.com/nolangz/pixel2motion",
-            "stars": 1000,
+            "stars": 1001,
             "forks": 85,
             "score": 74
         },
@@ -91,13 +80,13 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "testsprite-cli",
-            "full_name": "TestSprite/testsprite-cli",
-            "description": "Official TestSprite CLI \u2014 AI-powered automated testing from your terminal",
-            "url": "https://github.com/TestSprite/testsprite-cli",
-            "stars": 936,
-            "forks": 40,
-            "score": 64
+            "name": "awesome-evals",
+            "full_name": "benchflow-ai/awesome-evals",
+            "description": "A curated, non-BS library of the best resources for building and evaluating AI agents \u2014 papers, blogs, talks, tools, benchmarks. Maintained by BenchFlow.",
+            "url": "https://github.com/benchflow-ai/awesome-evals",
+            "stars": 170,
+            "forks": 7,
+            "score": 63
         },
         {
             "main_cat": "AI",
@@ -139,7 +128,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "renee-jia/scholar-loop",
             "description": "An autonomous AI scientist: a multi-agent loop over literature, experiments, self-critique and write-up, with deterministic guards against reward-hacking and hallucination.",
             "url": "https://github.com/renee-jia/scholar-loop",
-            "stars": 437,
+            "stars": 438,
             "forks": 55,
             "score": 57
         },
@@ -172,9 +161,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "leyten/shard",
             "description": "Pipeline-parallel LLM inference across GPUs on separate machines.",
             "url": "https://github.com/leyten/shard",
-            "stars": 359,
-            "forks": 42,
-            "score": 51
+            "stars": 360,
+            "forks": 43,
+            "score": 52
         },
         {
             "main_cat": "AI",
@@ -212,22 +201,11 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "personal-agent-template",
-            "full_name": "vercel-labs/personal-agent-template",
-            "description": "Open-source template for a durable personal AI agent \u2014 web chat, Slack, Linear, and long-term memory with user-approved saves. Eve, Nuxt, Better Auth, Vercel Connect.",
-            "url": "https://github.com/vercel-labs/personal-agent-template",
-            "stars": 384,
-            "forks": 31,
-            "score": 45
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
             "name": "agent-harness-generator",
             "full_name": "ruvnet/agent-harness-generator",
             "description": "\ud83d\udee0\ufe0f The meta-harness for AI agents \u2014 scaffold your own focused, branded agent harness with its own npx CLI, MCP server, memory, learning loop, and witness-signed releases. Works with Claude Code, Codex, pi.dev, Hermes, OpenClaw, and RVM (hardware-isolated sandbox).",
             "url": "https://github.com/ruvnet/agent-harness-generator",
-            "stars": 305,
+            "stars": 307,
             "forks": 31,
             "score": 45
         },
@@ -238,7 +216,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "JCarterJohnson/vibecoded-design-tells",
             "description": "Reddit-mined data ranking the visual tells of vibe-coded (AI-built) sites: 3.2M posts scanned across 47 subreddits, with scripts, raw data, and charts.",
             "url": "https://github.com/JCarterJohnson/vibecoded-design-tells",
-            "stars": 260,
+            "stars": 262,
             "forks": 21,
             "score": 45
         },
@@ -256,23 +234,23 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
+            "name": "fullstack-ai-agent-roadmap",
+            "full_name": "Karovia/fullstack-ai-agent-roadmap",
+            "description": "\ud83c\udfaf \u4ece\u96f6\u57fa\u7840\u5230 AI Agent \u5168\u6808\u5de5\u7a0b\u5e08 \u00b7 110 \u4e2a\u8be6\u7ec6\u6559\u7a0b \u00b7 58 \u4e07\u5b57 \u00b7 400+ GitHub \u9879\u76ee\u7cbe\u9009 \u00b7 Obsidian \u53cb\u597d \u00b7 \u4e2d\u6587",
+            "url": "https://github.com/Karovia/fullstack-ai-agent-roadmap",
+            "stars": 171,
+            "forks": 11,
+            "score": 43
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
             "name": "DaVinci-AutoEdit-Agent",
             "full_name": "liuluhaixiu/DaVinci-AutoEdit-Agent",
             "description": "AI\u81ea\u52a8\u526a\u8f91\u7684\u201c\u7b2c\u4e00\u6b21\u63a5\u89e6\u201d\uff0c\u4e00\u6b3e\u57fa\u4e8edavinci mcp\u7684\u5168\u81ea\u52a8\u81ea\u5a92\u4f53\u89c6\u9891\u526a\u8f91skill",
             "url": "https://github.com/liuluhaixiu/DaVinci-AutoEdit-Agent",
             "stars": 241,
             "forks": 37,
-            "score": 42
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "value-for-fable",
-            "full_name": "itsinseong/value-for-fable",
-            "description": "Opus\uc5d0 \uadfc\uc811\ud55c \ud488\uc9c8\uc744 Sonnet \ub2e8\uac00\uc5d0 \u2014 \uac00\uc131\ube44 AI \uc6b4\uc601 \ubaa8\ub378\uc744 \uc9c1\uc811 \uad6c\ucd95\ud55c Claude Code \ud504\ub85c\uc81d\ud2b8",
-            "url": "https://github.com/itsinseong/value-for-fable",
-            "stars": 216,
-            "forks": 47,
             "score": 42
         },
         {
@@ -295,17 +273,6 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/modelscope/Awesome-Vibe-Research",
             "stars": 238,
             "forks": 12,
-            "score": 39
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "Brand-building-skills",
-            "full_name": "arnabbagxd/Brand-building-skills",
-            "description": "Brand building skills for Claude Code and AI agents. strategy, naming, identity, voice, positioning, messaging, auditing, and launch",
-            "url": "https://github.com/arnabbagxd/Brand-building-skills",
-            "stars": 219,
-            "forks": 23,
             "score": 39
         },
         {
@@ -355,13 +322,46 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "agent",
-            "full_name": "taisly/agent",
-            "description": "Taisly Agent Kit: SDK, CLI, examples, and docs for AI agents that publish videos through Taisly.",
-            "url": "https://github.com/taisly/agent",
-            "stars": 196,
-            "forks": 0,
-            "score": 36
+            "name": "workout-gate",
+            "full_name": "BotchetDig/workout-gate",
+            "description": "A Claude Code hook that blocks your prompt until you do your push-ups, counted live via webcam. Random reps, session-persistent debt (no closing the tab to skip), streak stats, and three trigger modes. Your AI works hard, so should you.",
+            "url": "https://github.com/BotchetDig/workout-gate",
+            "stars": 188,
+            "forks": 19,
+            "score": 38
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "LeoAI",
+            "full_name": "cha0upup/LeoAI",
+            "description": "AI \u9a71\u52a8\u7684\u540e\u6e17\u900f\u7efc\u5408\u7ba1\u7406\u5e73\u53f0\uff0c\u6df1\u5ea6\u96c6\u6210 LLM Agent\uff0c\u5f00\u7bb1\u5373\u7528\u3002",
+            "url": "https://github.com/cha0upup/LeoAI",
+            "stars": 187,
+            "forks": 19,
+            "score": 38
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "claude-ai-free-desktop-app",
+            "full_name": "Sorathiya123/claude-ai-free-desktop-app",
+            "description": "free claude code ai github  desktop pc windows linux macOS proxy server anthropic free api local llm router nvidia nim openrouter deepseek ollama lm studio vscode extension jetbrains cli terminal coding assistant",
+            "url": "https://github.com/Sorathiya123/claude-ai-free-desktop-app",
+            "stars": 183,
+            "forks": 3,
+            "score": 38
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "plain-writing-skill",
+            "full_name": "shreyashankar/plain-writing-skill",
+            "description": "A plain-language writing skill for AI agents, with a revision view that shows what changed.",
+            "url": "https://github.com/shreyashankar/plain-writing-skill",
+            "stars": 176,
+            "forks": 7,
+            "score": 38
         },
         {
             "main_cat": "AI",
@@ -371,7 +371,7 @@ const ALPHA_DATA_V2 = {
             "description": "Free Local AI inference without need for GPUs or heavy chunks of your CPU  ",
             "url": "https://github.com/paulfruitful/freeaitokens",
             "stars": 24,
-            "forks": 11,
+            "forks": 12,
             "score": 34
         },
         {
@@ -394,17 +394,6 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/engeldlgado/toshllm",
             "stars": 40,
             "forks": 2,
-            "score": 31
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "waffle-finance-core",
-            "full_name": "Waffle-finance/waffle-finance-core",
-            "description": "WaffleFinance is a non-custodial cross-chain swap protocol bridging Ethereum, Stellar, and Solana using Hash Time-Lock Contracts. No validators, no attesters \u2014 just cryptographic settlement. Funds either swap atomically or refund permissionlessly. Connect MetaMask, Freighter, or Phantom and swap in seconds.",
-            "url": "https://github.com/Waffle-finance/waffle-finance-core",
-            "stars": 0,
-            "forks": 15,
             "score": 31
         },
         {
@@ -729,20 +718,6 @@ const ALPHA_DATA_V2 = {
     ],
     "news": [
         {
-            "title": "HelpBench: Assessing the Ability of LLMs to Provide Privacy, Safety, and Security Advice",
-            "source": "ArXiv",
-            "type": "Research Alpha",
-            "color": "text-indigo-600",
-            "url": "http://arxiv.org/abs/2606.24819v1"
-        },
-        {
-            "title": "Burnyard: Future of Malware Analysis",
-            "source": "ArXiv",
-            "type": "Research Alpha",
-            "color": "text-indigo-600",
-            "url": "http://arxiv.org/abs/2606.24778v1"
-        },
-        {
             "title": "Bitcoin volatility remains high ahead of key FED decision.",
             "source": "Polymarket",
             "type": "Expectation",
@@ -750,5 +725,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-06-24 22:11"
+    "timestamp": "2026-06-25 00:03"
 };
