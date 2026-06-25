@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "DietrichGebert/ponytail",
             "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
             "url": "https://github.com/DietrichGebert/ponytail",
-            "stars": 57544,
-            "forks": 2920,
+            "stars": 57732,
+            "forks": 2931,
             "score": 99
         },
         {
@@ -18,8 +18,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "Forward-Future/loop-library",
             "description": "A library of practical AI-agent loops and an installable skill for finding, adapting, and designing repeatable agent workflows.",
             "url": "https://github.com/Forward-Future/loop-library",
-            "stars": 1645,
-            "forks": 142,
+            "stars": 1651,
+            "forks": 145,
             "score": 99
         },
         {
@@ -30,7 +30,7 @@ const ALPHA_DATA_V2 = {
             "description": "\ud83c\udff8  AI Badminton Hawk-Eye System",
             "url": "https://github.com/yo-WASSUP/Good-Badminton",
             "stars": 515,
-            "forks": 160,
+            "forks": 161,
             "score": 99
         },
         {
@@ -51,9 +51,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "Forsy-AI/agent-apprenticeship",
             "description": "The living ecosystem where AI agents learn from real-world work through iterative workflow loops, reusable experience, and collective training signal exchange.",
             "url": "https://github.com/Forsy-AI/agent-apprenticeship",
-            "stars": 928,
-            "forks": 46,
-            "score": 91
+            "stars": 934,
+            "forks": 47,
+            "score": 92
         },
         {
             "main_cat": "AI",
@@ -62,7 +62,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "nolangz/pixel2motion",
             "description": "AI logo animation skill: turn raster logos into smooth SVG animation, animated HTML demos, GIF/video previews, and motion QA evidence.",
             "url": "https://github.com/nolangz/pixel2motion",
-            "stars": 1022,
+            "stars": 1025,
             "forks": 86,
             "score": 72
         },
@@ -73,7 +73,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "orange2ai/renwei-writing",
             "description": "\u4eba\u5473\u513f\u5199\u4f5c \u00b7 An AI agent skill: edit people's words without erasing the person behind them",
             "url": "https://github.com/orange2ai/renwei-writing",
-            "stars": 867,
+            "stars": 869,
             "forks": 77,
             "score": 69
         },
@@ -84,9 +84,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "benchflow-ai/awesome-evals",
             "description": "A curated, non-BS library of the best resources for building and evaluating AI agents \u2014 papers, blogs, talks, tools, benchmarks. Maintained by BenchFlow.",
             "url": "https://github.com/benchflow-ai/awesome-evals",
-            "stars": 258,
-            "forks": 13,
-            "score": 68
+            "stars": 260,
+            "forks": 14,
+            "score": 69
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "junction",
+            "full_name": "Plaer1/junction",
+            "description": "VS Code chat sidebar for local AI coding agents",
+            "url": "https://github.com/Plaer1/junction",
+            "stars": 610,
+            "forks": 9,
+            "score": 59
         },
         {
             "main_cat": "AI",
@@ -98,17 +109,6 @@ const ALPHA_DATA_V2 = {
             "stars": 520,
             "forks": 56,
             "score": 56
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "junction",
-            "full_name": "Plaer1/junction",
-            "description": "VS Code chat sidebar for local AI coding agents",
-            "url": "https://github.com/Plaer1/junction",
-            "stars": 534,
-            "forks": 9,
-            "score": 55
         },
         {
             "main_cat": "AI",
@@ -135,23 +135,23 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "cortex",
-            "full_name": "CortexPrism/cortex",
-            "description": "CortexPrism \u2014 open-source AI agent operating system",
-            "url": "https://github.com/CortexPrism/cortex",
-            "stars": 210,
-            "forks": 123,
-            "score": 55
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
             "name": "compass-skills",
             "full_name": "dongshuyan/compass-skills",
             "description": "\u53f8\u5357\uff1a\u4e2a\u6027\u5316 AI \u4efb\u52a1\u603b\u63a7 Skills \u7cfb\u7edf /COMPASS: Personal Alignment Skills OS for AI Agents",
             "url": "https://github.com/dongshuyan/compass-skills",
-            "stars": 487,
+            "stars": 488,
             "forks": 39,
+            "score": 54
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "cortex",
+            "full_name": "CortexPrism/cortex",
+            "description": "CortexPrism \u2014 open-source AI agent operating system",
+            "url": "https://github.com/CortexPrism/cortex",
+            "stars": 208,
+            "forks": 119,
             "score": 54
         },
         {
@@ -172,7 +172,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "iart-ai/motion-skills",
             "description": "50 open-source skills that teach your AI coding agent to make motion graphics, animation & video \u2014 kinetic typography, data-viz, explainers, TikTok/Reels, WebGL, Manim. 14 installable packs. By iart.ai, the AI motion agent.",
             "url": "https://github.com/iart-ai/motion-skills",
-            "stars": 205,
+            "stars": 207,
             "forks": 17,
             "score": 52
         },
@@ -184,7 +184,7 @@ const ALPHA_DATA_V2 = {
             "description": "Pipeline-parallel LLM inference across GPUs on separate machines.",
             "url": "https://github.com/leyten/shard",
             "stars": 364,
-            "forks": 43,
+            "forks": 44,
             "score": 52
         },
         {
@@ -194,7 +194,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "buynao/aipath",
             "description": "Interactive AI General Education Course \u2014 30 Lessons, Zero Math",
             "url": "https://github.com/buynao/aipath",
-            "stars": 438,
+            "stars": 439,
             "forks": 49,
             "score": 49
         },
@@ -216,9 +216,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "ruvnet/agent-harness-generator",
             "description": "\ud83d\udee0\ufe0f The meta-harness for AI agents \u2014 scaffold your own focused, branded agent harness with its own npx CLI, MCP server, memory, learning loop, and witness-signed releases. Works with Claude Code, Codex, pi.dev, Hermes, OpenClaw, and RVM (hardware-isolated sandbox).",
             "url": "https://github.com/ruvnet/agent-harness-generator",
-            "stars": 316,
+            "stars": 317,
             "forks": 34,
-            "score": 46
+            "score": 45
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "vibecoded-design-tells",
+            "full_name": "JCarterJohnson/vibecoded-design-tells",
+            "description": "Reddit-mined data ranking the visual tells of vibe-coded (AI-built) sites: 3.2M posts scanned across 47 subreddits, with scripts, raw data, and charts.",
+            "url": "https://github.com/JCarterJohnson/vibecoded-design-tells",
+            "stars": 279,
+            "forks": 21,
+            "score": 45
         },
         {
             "main_cat": "AI",
@@ -229,18 +240,7 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/Verdi38/Silent-Crypto-Miner",
             "stars": 184,
             "forks": 35,
-            "score": 46
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "vibecoded-design-tells",
-            "full_name": "JCarterJohnson/vibecoded-design-tells",
-            "description": "Reddit-mined data ranking the visual tells of vibe-coded (AI-built) sites: 3.2M posts scanned across 47 subreddits, with scripts, raw data, and charts.",
-            "url": "https://github.com/JCarterJohnson/vibecoded-design-tells",
-            "stars": 277,
-            "forks": 21,
-            "score": 45
+            "score": 44
         },
         {
             "main_cat": "AI",
@@ -282,7 +282,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "modelscope/Awesome-Vibe-Research",
             "description": "An open, collaboratively-built repository for AI-assisted scientific research \u2014 collecting and curating agents, skills, workflows, tools, and best practices across the full research lifecycle. \u9762\u5411 AI \u8f85\u52a9\u79d1\u7814\u7684\u5f00\u653e\u5171\u5efa\u4ed3\u5e93 \u6536\u96c6\u548c\u6c89\u6dc0\u79d1\u7814\u5168\u6d41\u7a0b\u4e2d\u7684 agents\u3001skills\u3001workflows\u3001tools \u4e0e\u6700\u4f73\u5b9e\u8df5",
             "url": "https://github.com/modelscope/Awesome-Vibe-Research",
-            "stars": 247,
+            "stars": 249,
             "forks": 12,
             "score": 39
         },
@@ -304,7 +304,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "tmchow/illo-skill",
             "description": "illo skill \u2014 an AI agent skill that turns ideas and articles into original print-style editorial illustrations, starring a recurring mascot. 30+ characters packs, with ability to create your own.",
             "url": "https://github.com/tmchow/illo-skill",
-            "stars": 222,
+            "stars": 223,
             "forks": 9,
             "score": 38
         },
@@ -333,23 +333,23 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
+            "name": "workout-gate",
+            "full_name": "BotchetDig/workout-gate",
+            "description": "A Claude Code hook that blocks your prompt until you do your push-ups, counted live via webcam. Random reps, session-persistent debt (no closing the tab to skip), streak stats, and three trigger modes. Your AI works hard, so should you.",
+            "url": "https://github.com/BotchetDig/workout-gate",
+            "stars": 193,
+            "forks": 19,
+            "score": 38
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
             "name": "LeoAI",
             "full_name": "cha0upup/LeoAI",
             "description": "AI \u9a71\u52a8\u7684\u540e\u6e17\u900f\u7efc\u5408\u7ba1\u7406\u5e73\u53f0\uff0c\u6df1\u5ea6\u96c6\u6210 LLM Agent\uff0c\u5f00\u7bb1\u5373\u7528\u3002",
             "url": "https://github.com/cha0upup/LeoAI",
             "stars": 191,
             "forks": 20,
-            "score": 38
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "workout-gate",
-            "full_name": "BotchetDig/workout-gate",
-            "description": "A Claude Code hook that blocks your prompt until you do your push-ups, counted live via webcam. Random reps, session-persistent debt (no closing the tab to skip), streak stats, and three trigger modes. Your AI works hard, so should you.",
-            "url": "https://github.com/BotchetDig/workout-gate",
-            "stars": 191,
-            "forks": 19,
             "score": 38
         },
         {
@@ -761,5 +761,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-06-25 17:06"
+    "timestamp": "2026-06-25 19:49"
 };
