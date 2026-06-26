@@ -18,9 +18,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "yo-WASSUP/Good-Badminton",
             "description": "\ud83c\udff8  AI Badminton Hawk-Eye System",
             "url": "https://github.com/yo-WASSUP/Good-Badminton",
-            "stars": 538,
-            "forks": 165,
-            "score": 96
+            "stars": 542,
+            "forks": 167,
+            "score": 97
         },
         {
             "main_cat": "AI",
@@ -29,7 +29,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Forsy-AI/agent-apprenticeship",
             "description": "The living ecosystem where AI agents learn from real-world work through iterative workflow loops, reusable experience, and collective training signal exchange.",
             "url": "https://github.com/Forsy-AI/agent-apprenticeship",
-            "stars": 954,
+            "stars": 959,
             "forks": 47,
             "score": 93
         },
@@ -40,9 +40,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "benchflow-ai/awesome-evals",
             "description": "A curated, non-BS library of the best resources for building and evaluating AI agents \u2014 papers, blogs, talks, tools, benchmarks. Maintained by BenchFlow.",
             "url": "https://github.com/benchflow-ai/awesome-evals",
-            "stars": 400,
-            "forks": 25,
-            "score": 80
+            "stars": 415,
+            "forks": 26,
+            "score": 81
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "theeleven",
+            "full_name": "winsznx/theeleven",
+            "description": "Eleven autonomous AI agents open live football prop markets on X Layer \u2014 custom Uniswap v4 hook, gasless USDT0 staking.",
+            "url": "https://github.com/winsznx/theeleven",
+            "stars": 286,
+            "forks": 0,
+            "score": 65
         },
         {
             "main_cat": "AI",
@@ -62,8 +73,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "dzcmemory-web/bazi-ziwei-skill",
             "description": "AI \u516b\u5b57 + \u7d2b\u5fae\u6597\u6570\u6392\u76d8\u4e0e\u7efc\u5408\u5370\u8bc1 Skill\uff1a\u7b97\u6cd5\u7cbe\u51c6\u6392\u76d8\uff08\u4e0d\u9760 LLM \u731c\uff09\uff0c\u4e09\u79cd\u5206\u6790\u6a21\u5f0f\uff0c\u4e00\u952e\u751f\u6210\u6c34\u58a8\u98ce HTML \u547d\u76d8\u6d77\u62a5\u3002\u517c\u5bb9 Claude / Codex / Cursor / Workbuddy \u7b49 SKILL.md Agent\u3002",
             "url": "https://github.com/dzcmemory-web/bazi-ziwei-skill",
-            "stars": 514,
-            "forks": 68,
+            "stars": 515,
+            "forks": 69,
             "score": 56
         },
         {
@@ -80,22 +91,11 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "cortex",
-            "full_name": "CortexPrism/cortex",
-            "description": "CortexPrism \u2014 open-source AI agent operating system",
-            "url": "https://github.com/CortexPrism/cortex",
-            "stars": 212,
-            "forks": 119,
-            "score": 54
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
             "name": "compass-skills",
             "full_name": "dongshuyan/compass-skills",
             "description": "\u53f8\u5357\uff1a\u4e2a\u6027\u5316 AI \u4efb\u52a1\u603b\u63a7 Skills \u7cfb\u7edf /COMPASS: Personal Alignment Skills OS for AI Agents",
             "url": "https://github.com/dongshuyan/compass-skills",
-            "stars": 491,
+            "stars": 492,
             "forks": 39,
             "score": 53
         },
@@ -113,13 +113,13 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "motion-skills",
-            "full_name": "iart-ai/motion-skills",
-            "description": "50 open-source skills that teach your AI coding agent to make motion graphics, animation & video \u2014 kinetic typography, data-viz, explainers, TikTok/Reels, WebGL, Manim. 14 installable packs. By iart.ai, the AI motion agent.",
-            "url": "https://github.com/iart-ai/motion-skills",
-            "stars": 210,
-            "forks": 17,
-            "score": 53
+            "name": "cortex",
+            "full_name": "CortexPrism/cortex",
+            "description": "CortexPrism \u2014 open-source AI agent operating system",
+            "url": "https://github.com/CortexPrism/cortex",
+            "stars": 212,
+            "forks": 119,
+            "score": 52
         },
         {
             "main_cat": "AI",
@@ -128,8 +128,19 @@ const ALPHA_DATA_V2 = {
             "full_name": "LING71671/open-reverselab",
             "description": "\u5f00\u6e90\u9006\u5411\u5de5\u7a0b\u5b9e\u9a8c\u73af\u5883\uff0c\u7531\u4e8e\u5728\u8fd9\u4e2a\u5de5\u4f5c\u533a\u4f7f\u7528\u7684AI\u672c\u8eab\u6709\u8d8a\u72f1\u503e\u5411\uff0c\u6240\u4ee5\u8bf7\u81ea\u89c9\u5728\u6388\u6743\u73af\u5883\u4e0b\u4f7f\u7528\ud83d\ude0a",
             "url": "https://github.com/LING71671/open-reverselab",
-            "stars": 213,
+            "stars": 214,
             "forks": 67,
+            "score": 51
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "browser-search",
+            "full_name": "Johell1NS/browser-search",
+            "description": "A skill for AI agents: search the web with SearXNG, browse with Camofox, bypass protections with CloakBrowser. Anti-hallucination by design. Self-hosted, free, unlimited.",
+            "url": "https://github.com/Johell1NS/browser-search",
+            "stars": 178,
+            "forks": 19,
             "score": 51
         },
         {
@@ -141,17 +152,6 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/gykim80/perfectpixel-studio",
             "stars": 383,
             "forks": 61,
-            "score": 50
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "browser-search",
-            "full_name": "Johell1NS/browser-search",
-            "description": "A skill for AI agents: search the web with SearXNG, browse with Camofox, bypass protections with CloakBrowser. Anti-hallucination by design. Self-hosted, free, unlimited.",
-            "url": "https://github.com/Johell1NS/browser-search",
-            "stars": 175,
-            "forks": 19,
             "score": 50
         },
         {
@@ -168,11 +168,22 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
+            "name": "motion-skills",
+            "full_name": "iart-ai/motion-skills",
+            "description": "50 open-source skills that teach your AI coding agent to make motion graphics, animation & video \u2014 kinetic typography, data-viz, explainers, TikTok/Reels, WebGL, Manim. 14 installable packs. By iart.ai, the AI motion agent.",
+            "url": "https://github.com/iart-ai/motion-skills",
+            "stars": 210,
+            "forks": 17,
+            "score": 49
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
             "name": "agent-harness-generator",
             "full_name": "ruvnet/agent-harness-generator",
             "description": "\ud83d\udee0\ufe0f The meta-harness for AI agents \u2014 scaffold your own focused, branded agent harness with its own npx CLI, MCP server, memory, learning loop, and witness-signed releases. Works with Claude Code, Codex, pi.dev, Hermes, OpenClaw, and RVM (hardware-isolated sandbox).",
             "url": "https://github.com/ruvnet/agent-harness-generator",
-            "stars": 321,
+            "stars": 322,
             "forks": 34,
             "score": 45
         },
@@ -216,19 +227,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "fendouai/best-humanizer-handbook",
             "description": "Best AI Humanizer Handbook A practical guide to making AI-assisted writing clearer, more credible, and more human",
             "url": "https://github.com/fendouai/best-humanizer-handbook",
-            "stars": 342,
+            "stars": 343,
             "forks": 4,
-            "score": 43
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "claude-code-fable-5-free-app",
-            "full_name": "FieldofStrawberries/claude-code-fable-5-free-app",
-            "description": "claude fable 5 free api ai chatbot anthropic model chat online web api github download desktop client  access premium account login trial alternative prompt generative text ui version beta assistant",
-            "url": "https://github.com/FieldofStrawberries/claude-code-fable-5-free-app",
-            "stars": 149,
-            "forks": 2,
             "score": 43
         },
         {
@@ -249,8 +249,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "tianchong-zerotemp/dianxing",
             "description": "DianXing - AI-Driven End-to-End Code Security Auditing",
             "url": "https://github.com/tianchong-zerotemp/dianxing",
-            "stars": 169,
-            "forks": 19,
+            "stars": 173,
+            "forks": 20,
             "score": 42
         },
         {
@@ -260,7 +260,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Env-Kit/envkit-releases",
             "description": "EnvKit \u2014 free local development environment for Windows & macOS: nginx/Apache, multiple PHP versions, MySQL/MariaDB,   PostgreSQL, Redis, MongoDB, Mailpit, Node.js, trusted .test HTTPS, and a built-in MCP server for AI-assistant control.   A Laragon/XAMPP/Herd alternative.",
             "url": "https://github.com/Env-Kit/envkit-releases",
-            "stars": 158,
+            "stars": 159,
             "forks": 4,
             "score": 40
         },
@@ -271,7 +271,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "yolfinance/yolfi-agent",
             "description": "Yolfi Agent Kit SDK, CLI, and MCP server for AI coding agents.",
             "url": "https://github.com/yolfinance/yolfi-agent",
-            "stars": 213,
+            "stars": 214,
             "forks": 1,
             "score": 39
         },
@@ -282,7 +282,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "flatkey-ai/awesome-images",
             "description": "Try flatkey.ai for 40% saving! Generate practical images ready for all your work needs!!!",
             "url": "https://github.com/flatkey-ai/awesome-images",
-            "stars": 183,
+            "stars": 185,
             "forks": 0,
             "score": 39
         },
@@ -304,7 +304,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "shreyashankar/plain-writing-skill",
             "description": "A plain-language writing skill for AI agents, with a revision view that shows what changed.",
             "url": "https://github.com/shreyashankar/plain-writing-skill",
-            "stars": 181,
+            "stars": 182,
             "forks": 7,
             "score": 38
         },
@@ -315,8 +315,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "agentsmill/age-of-agents",
             "description": "Age of Agents \u2014 watch your AI coding sessions grow a peaceful pixel-art realm. Run it with npx ai-of-agents.",
             "url": "https://github.com/agentsmill/age-of-agents",
-            "stars": 157,
-            "forks": 19,
+            "stars": 164,
+            "forks": 20,
             "score": 38
         },
         {
@@ -326,7 +326,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "realchendahuang/cloudflare-playbook",
             "description": "AI \u7f16\u7a0b\u65f6\u4ee3\u7684 Cloudflare \u5b9e\u6218\u624b\u518c\u2014\u2014\u7528 AI \u5199\u4ee3\u7801\uff0c\u7528 Cloudflare \u90e8\u7f72\u5230\u5168\u7403\u3002",
             "url": "https://github.com/realchendahuang/cloudflare-playbook",
-            "stars": 150,
+            "stars": 151,
             "forks": 16,
             "score": 38
         },
@@ -641,6 +641,17 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
+            "name": "ccip-rebasetoken",
+            "full_name": "BuildsWithKing/ccip-rebasetoken",
+            "description": "A cross-chain rebase token protocol built on Ethereum, enabling users to deposit assets into a vault and receive rebasing tokens that dynamically accrue interest over time. Powered by Chainlink CCIP for seamless cross-chain transfers.",
+            "url": "https://github.com/BuildsWithKing/ccip-rebasetoken",
+            "stars": 1,
+            "forks": 0,
+            "score": 30
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
             "name": "solana-growth-skill",
             "full_name": "Musty6938/solana-growth-skill",
             "description": "A cross-domain Solana AI Kit skill that translates technical on-chain data and protocol updates into clear, structured social threads and infographic design briefs.",
@@ -727,17 +738,6 @@ const ALPHA_DATA_V2 = {
             "score": 30
         },
         {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "ccip-rebasetoken",
-            "full_name": "BuildsWithKing/ccip-rebasetoken",
-            "description": "A cross-chain rebase token protocol built on Ethereum, enabling users to deposit assets into a vault and receive rebasing tokens that dynamically accrue interest over time. Powered by Chainlink CCIP for seamless cross-chain transfers.",
-            "url": "https://github.com/BuildsWithKing/ccip-rebasetoken",
-            "stars": 0,
-            "forks": 0,
-            "score": 30
-        },
-        {
             "main_cat": "Cross-chain / Interoperability",
             "sub_cat": null,
             "name": "DQI_QFL",
@@ -772,5 +772,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-06-26 10:18"
+    "timestamp": "2026-06-26 13:06"
 };
