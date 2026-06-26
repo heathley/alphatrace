@@ -7,7 +7,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "nnecrkvenuOX/formcms",
             "description": "AI Agent: Open-source headless CMS built with ASP.NET Core (C#) and React, featuring REST APIs, GraphQL, and a GrapesJS page designer.",
             "url": "https://github.com/nnecrkvenuOX/formcms",
-            "stars": 414,
+            "stars": 413,
             "forks": 905,
             "score": 99
         },
@@ -18,9 +18,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "yo-WASSUP/Good-Badminton",
             "description": "\ud83c\udff8  AI Badminton Hawk-Eye System",
             "url": "https://github.com/yo-WASSUP/Good-Badminton",
-            "stars": 546,
-            "forks": 167,
-            "score": 97
+            "stars": 548,
+            "forks": 170,
+            "score": 98
         },
         {
             "main_cat": "AI",
@@ -29,9 +29,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "Forsy-AI/agent-apprenticeship",
             "description": "The living ecosystem where AI agents run automated workflow loops on any task, improve through execution, and turn each run into reusable work experience + data to improve future agents.",
             "url": "https://github.com/Forsy-AI/agent-apprenticeship",
-            "stars": 964,
+            "stars": 968,
             "forks": 47,
-            "score": 94
+            "score": 87
         },
         {
             "main_cat": "AI",
@@ -40,9 +40,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "benchflow-ai/awesome-evals",
             "description": "A curated, non-BS library of the best resources for building and evaluating AI agents \u2014 papers, blogs, talks, tools, benchmarks. Maintained by BenchFlow.",
             "url": "https://github.com/benchflow-ai/awesome-evals",
-            "stars": 428,
+            "stars": 445,
             "forks": 28,
-            "score": 84
+            "score": 85
         },
         {
             "main_cat": "AI",
@@ -51,9 +51,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "winsznx/theeleven",
             "description": "Eleven autonomous AI agents open live football prop markets on X Layer \u2014 custom Uniswap v4 hook, gasless USDT0 staking.",
             "url": "https://github.com/winsznx/theeleven",
-            "stars": 390,
+            "stars": 438,
             "forks": 0,
-            "score": 78
+            "score": 84
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "video-production-skills",
+            "full_name": "Pluviobyte/video-production-skills",
+            "description": "Reusable AI video production skills library for creation, recreation, motion design, openers, and QA.",
+            "url": "https://github.com/Pluviobyte/video-production-skills",
+            "stars": 173,
+            "forks": 17,
+            "score": 70
         },
         {
             "main_cat": "AI",
@@ -73,7 +84,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "majidmanzarpour/threejs-game-skills",
             "description": "Agent skills for building playable, polished Three.js browser games with gameplay, AAA-style graphics, UI, QA, and optional AI-generated 3D, image, and audio assets.",
             "url": "https://github.com/majidmanzarpour/threejs-game-skills",
-            "stars": 532,
+            "stars": 534,
             "forks": 58,
             "score": 55
         },
@@ -95,7 +106,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "dongshuyan/compass-skills",
             "description": "\u53f8\u5357\uff1a\u4e2a\u6027\u5316 AI \u4efb\u52a1\u603b\u63a7 Skills \u7cfb\u7edf /COMPASS: Personal Alignment Skills OS for AI Agents",
             "url": "https://github.com/dongshuyan/compass-skills",
-            "stars": 493,
+            "stars": 494,
             "forks": 39,
             "score": 53
         },
@@ -139,8 +150,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "LING71671/open-reverselab",
             "description": "\u5f00\u6e90\u9006\u5411\u5de5\u7a0b\u5b9e\u9a8c\u73af\u5883\uff0c\u7531\u4e8e\u5728\u8fd9\u4e2a\u5de5\u4f5c\u533a\u4f7f\u7528\u7684AI\u672c\u8eab\u6709\u8d8a\u72f1\u503e\u5411\uff0c\u6240\u4ee5\u8bf7\u81ea\u89c9\u5728\u6388\u6743\u73af\u5883\u4e0b\u4f7f\u7528\ud83d\ude0a",
             "url": "https://github.com/LING71671/open-reverselab",
-            "stars": 214,
-            "forks": 67,
+            "stars": 216,
+            "forks": 68,
             "score": 50
         },
         {
@@ -172,7 +183,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Johell1NS/browser-search",
             "description": "A skill for AI agents: search the web with SearXNG, browse with Camofox, bypass protections with CloakBrowser. Anti-hallucination by design. Self-hosted, free, unlimited.",
             "url": "https://github.com/Johell1NS/browser-search",
-            "stars": 177,
+            "stars": 178,
             "forks": 19,
             "score": 48
         },
@@ -184,18 +195,7 @@ const ALPHA_DATA_V2 = {
             "description": "\ud83d\udee0\ufe0f The meta-harness for AI agents \u2014 scaffold your own focused, branded agent harness with its own npx CLI, MCP server, memory, learning loop, and witness-signed releases. Works with Claude Code, Codex, pi.dev, Hermes, OpenClaw, and RVM (hardware-isolated sandbox).",
             "url": "https://github.com/ruvnet/agent-harness-generator",
             "stars": 322,
-            "forks": 34,
-            "score": 45
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "AI-Canvas",
-            "full_name": "binghe1980/AI-Canvas",
-            "description": "Codex-integrated infinite canvas for AI image generation, annotation, and iterative editing.",
-            "url": "https://github.com/binghe1980/AI-Canvas",
-            "stars": 160,
-            "forks": 21,
+            "forks": 33,
             "score": 45
         },
         {
@@ -219,6 +219,17 @@ const ALPHA_DATA_V2 = {
             "stars": 184,
             "forks": 35,
             "score": 44
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "AI-Canvas",
+            "full_name": "binghe1980/AI-Canvas",
+            "description": "Codex-integrated infinite canvas for AI image generation, annotation, and iterative editing.",
+            "url": "https://github.com/binghe1980/AI-Canvas",
+            "stars": 160,
+            "forks": 21,
+            "score": 43
         },
         {
             "main_cat": "AI",
@@ -251,18 +262,7 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/tianchong-zerotemp/dianxing",
             "stars": 173,
             "forks": 20,
-            "score": 42
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "age-of-agents",
-            "full_name": "agentsmill/age-of-agents",
-            "description": "Age of Agents \u2014 watch your AI coding sessions grow a peaceful pixel-art realm. Run it with npx ai-of-agents.",
-            "url": "https://github.com/agentsmill/age-of-agents",
-            "stars": 169,
-            "forks": 21,
-            "score": 39
+            "score": 41
         },
         {
             "main_cat": "AI",
@@ -271,9 +271,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "Env-Kit/envkit-releases",
             "description": "EnvKit \u2014 free local development environment for Windows & macOS: nginx/Apache, multiple PHP versions, MySQL/MariaDB,   PostgreSQL, Redis, MongoDB, Mailpit, Node.js, trusted .test HTTPS, and a built-in MCP server for AI-assistant control.   A Laragon/XAMPP/Herd alternative.",
             "url": "https://github.com/Env-Kit/envkit-releases",
-            "stars": 163,
+            "stars": 164,
             "forks": 4,
-            "score": 39
+            "score": 40
         },
         {
             "main_cat": "AI",
@@ -300,35 +300,35 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "claude-ai-free-desktop-app",
-            "full_name": "Sorathiya123/claude-ai-free-desktop-app",
-            "description": "free claude code ai github  desktop pc windows linux macOS proxy server anthropic free api local llm router nvidia nim openrouter deepseek ollama lm studio vscode extension jetbrains cli terminal coding assistant",
-            "url": "https://github.com/Sorathiya123/claude-ai-free-desktop-app",
-            "stars": 184,
-            "forks": 3,
-            "score": 38
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
             "name": "plain-writing-skill",
             "full_name": "shreyashankar/plain-writing-skill",
             "description": "A plain-language writing skill for AI agents, with a revision view that shows what changed.",
             "url": "https://github.com/shreyashankar/plain-writing-skill",
-            "stars": 183,
+            "stars": 184,
             "forks": 7,
             "score": 38
         },
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "cloudflare-playbook",
-            "full_name": "realchendahuang/cloudflare-playbook",
-            "description": "AI \u7f16\u7a0b\u65f6\u4ee3\u7684 Cloudflare \u5b9e\u6218\u624b\u518c\u2014\u2014\u7528 AI \u5199\u4ee3\u7801\uff0c\u7528 Cloudflare \u90e8\u7f72\u5230\u5168\u7403\u3002",
-            "url": "https://github.com/realchendahuang/cloudflare-playbook",
-            "stars": 151,
-            "forks": 16,
+            "name": "age-of-agents",
+            "full_name": "agentsmill/age-of-agents",
+            "description": "Age of Agents \u2014 watch your AI coding sessions grow a peaceful pixel-art realm. Run it with npx ai-of-agents.",
+            "url": "https://github.com/agentsmill/age-of-agents",
+            "stars": 169,
+            "forks": 21,
             "score": 38
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "claude-ai-free-desktop-app",
+            "full_name": "Sorathiya123/claude-ai-free-desktop-app",
+            "description": "free claude code ai github  desktop pc windows linux macOS proxy server anthropic free api local llm router nvidia nim openrouter deepseek ollama lm studio vscode extension jetbrains cli terminal coding assistant",
+            "url": "https://github.com/Sorathiya123/claude-ai-free-desktop-app",
+            "stars": 184,
+            "forks": 3,
+            "score": 37
         },
         {
             "main_cat": "AI",
@@ -656,7 +656,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "sepahead/NCP",
             "description": "NCP (Neuro-Cybernetic Protocol): a versioned, typed, cross-language wire contract for a running NEST neural simulation (spiking, binary, rate) to perceive and act through robots, UAVs, and analysis clients over Zenoh \u2014 safety-gated action plane, per-frame provenance. Rust SDK with Python/C++/TypeScript peers. Pre-1.0 (wire v0.5).",
             "url": "https://github.com/sepahead/NCP",
-            "stars": 6,
+            "stars": 9,
             "forks": 0,
             "score": 30
         },
@@ -794,5 +794,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-06-26 16:10"
+    "timestamp": "2026-06-26 18:26"
 };
