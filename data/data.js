@@ -3,24 +3,24 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "Good-Badminton",
-            "full_name": "yo-WASSUP/Good-Badminton",
-            "description": "\ud83c\udff8  AI Badminton Hawk-Eye System",
-            "url": "https://github.com/yo-WASSUP/Good-Badminton",
-            "stars": 529,
-            "forks": 163,
+            "name": "formcms",
+            "full_name": "nnecrkvenuOX/formcms",
+            "description": "AI Agent: Open-source headless CMS built with ASP.NET Core (C#) and React, featuring REST APIs, GraphQL, and a GrapesJS page designer.",
+            "url": "https://github.com/nnecrkvenuOX/formcms",
+            "stars": 414,
+            "forks": 905,
             "score": 99
         },
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "formcms",
-            "full_name": "nnecrkvenuOX/formcms",
-            "description": "AI Agent: Open-source headless CMS built with ASP.NET Core (C#) and React, featuring REST APIs, GraphQL, and a GrapesJS page designer.",
-            "url": "https://github.com/nnecrkvenuOX/formcms",
-            "stars": 413,
-            "forks": 905,
-            "score": 99
+            "name": "Good-Badminton",
+            "full_name": "yo-WASSUP/Good-Badminton",
+            "description": "\ud83c\udff8  AI Badminton Hawk-Eye System",
+            "url": "https://github.com/yo-WASSUP/Good-Badminton",
+            "stars": 538,
+            "forks": 165,
+            "score": 96
         },
         {
             "main_cat": "AI",
@@ -29,7 +29,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Forsy-AI/agent-apprenticeship",
             "description": "The living ecosystem where AI agents learn from real-world work through iterative workflow loops, reusable experience, and collective training signal exchange.",
             "url": "https://github.com/Forsy-AI/agent-apprenticeship",
-            "stars": 949,
+            "stars": 954,
             "forks": 47,
             "score": 93
         },
@@ -40,9 +40,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "benchflow-ai/awesome-evals",
             "description": "A curated, non-BS library of the best resources for building and evaluating AI agents \u2014 papers, blogs, talks, tools, benchmarks. Maintained by BenchFlow.",
             "url": "https://github.com/benchflow-ai/awesome-evals",
-            "stars": 360,
-            "forks": 23,
-            "score": 86
+            "stars": 400,
+            "forks": 25,
+            "score": 80
         },
         {
             "main_cat": "AI",
@@ -62,7 +62,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "dzcmemory-web/bazi-ziwei-skill",
             "description": "AI \u516b\u5b57 + \u7d2b\u5fae\u6597\u6570\u6392\u76d8\u4e0e\u7efc\u5408\u5370\u8bc1 Skill\uff1a\u7b97\u6cd5\u7cbe\u51c6\u6392\u76d8\uff08\u4e0d\u9760 LLM \u731c\uff09\uff0c\u4e09\u79cd\u5206\u6790\u6a21\u5f0f\uff0c\u4e00\u952e\u751f\u6210\u6c34\u58a8\u98ce HTML \u547d\u76d8\u6d77\u62a5\u3002\u517c\u5bb9 Claude / Codex / Cursor / Workbuddy \u7b49 SKILL.md Agent\u3002",
             "url": "https://github.com/dzcmemory-web/bazi-ziwei-skill",
-            "stars": 512,
+            "stars": 514,
             "forks": 68,
             "score": 56
         },
@@ -73,7 +73,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "majidmanzarpour/threejs-game-skills",
             "description": "Agent skills for building playable, polished Three.js browser games with gameplay, AAA-style graphics, UI, QA, and optional AI-generated 3D, image, and audio assets.",
             "url": "https://github.com/majidmanzarpour/threejs-game-skills",
-            "stars": 526,
+            "stars": 532,
             "forks": 56,
             "score": 55
         },
@@ -95,7 +95,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "dongshuyan/compass-skills",
             "description": "\u53f8\u5357\uff1a\u4e2a\u6027\u5316 AI \u4efb\u52a1\u603b\u63a7 Skills \u7cfb\u7edf /COMPASS: Personal Alignment Skills OS for AI Agents",
             "url": "https://github.com/dongshuyan/compass-skills",
-            "stars": 490,
+            "stars": 491,
             "forks": 39,
             "score": 53
         },
@@ -117,9 +117,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "iart-ai/motion-skills",
             "description": "50 open-source skills that teach your AI coding agent to make motion graphics, animation & video \u2014 kinetic typography, data-viz, explainers, TikTok/Reels, WebGL, Manim. 14 installable packs. By iart.ai, the AI motion agent.",
             "url": "https://github.com/iart-ai/motion-skills",
-            "stars": 209,
+            "stars": 210,
             "forks": 17,
             "score": 53
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "open-reverselab",
+            "full_name": "LING71671/open-reverselab",
+            "description": "\u5f00\u6e90\u9006\u5411\u5de5\u7a0b\u5b9e\u9a8c\u73af\u5883\uff0c\u7531\u4e8e\u5728\u8fd9\u4e2a\u5de5\u4f5c\u533a\u4f7f\u7528\u7684AI\u672c\u8eab\u6709\u8d8a\u72f1\u503e\u5411\uff0c\u6240\u4ee5\u8bf7\u81ea\u89c9\u5728\u6388\u6743\u73af\u5883\u4e0b\u4f7f\u7528\ud83d\ude0a",
+            "url": "https://github.com/LING71671/open-reverselab",
+            "stars": 213,
+            "forks": 67,
+            "score": 51
         },
         {
             "main_cat": "AI",
@@ -128,7 +139,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "gykim80/perfectpixel-studio",
             "description": "AI-powered animation sprite studio \u2014 generate character sprite sheets with 8 directions and 100+ actions from a single text prompt (Wails + Go + React)",
             "url": "https://github.com/gykim80/perfectpixel-studio",
-            "stars": 381,
+            "stars": 383,
             "forks": 61,
             "score": 50
         },
@@ -139,7 +150,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Johell1NS/browser-search",
             "description": "A skill for AI agents: search the web with SearXNG, browse with Camofox, bypass protections with CloakBrowser. Anti-hallucination by design. Self-hosted, free, unlimited.",
             "url": "https://github.com/Johell1NS/browser-search",
-            "stars": 174,
+            "stars": 175,
             "forks": 19,
             "score": 50
         },
@@ -161,19 +172,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "ruvnet/agent-harness-generator",
             "description": "\ud83d\udee0\ufe0f The meta-harness for AI agents \u2014 scaffold your own focused, branded agent harness with its own npx CLI, MCP server, memory, learning loop, and witness-signed releases. Works with Claude Code, Codex, pi.dev, Hermes, OpenClaw, and RVM (hardware-isolated sandbox).",
             "url": "https://github.com/ruvnet/agent-harness-generator",
-            "stars": 320,
+            "stars": 321,
             "forks": 34,
-            "score": 45
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "vibecoded-design-tells",
-            "full_name": "JCarterJohnson/vibecoded-design-tells",
-            "description": "Reddit-mined data ranking the visual tells of vibe-coded (AI-built) sites: 3.2M posts scanned across 47 subreddits, with scripts, raw data, and charts.",
-            "url": "https://github.com/JCarterJohnson/vibecoded-design-tells",
-            "stars": 283,
-            "forks": 22,
             "score": 45
         },
         {
@@ -184,8 +184,19 @@ const ALPHA_DATA_V2 = {
             "description": "Codex-integrated infinite canvas for AI image generation, annotation, and iterative editing.",
             "url": "https://github.com/binghe1980/AI-Canvas",
             "stars": 160,
-            "forks": 20,
+            "forks": 21,
             "score": 45
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "vibecoded-design-tells",
+            "full_name": "JCarterJohnson/vibecoded-design-tells",
+            "description": "Reddit-mined data ranking the visual tells of vibe-coded (AI-built) sites: 3.2M posts scanned across 47 subreddits, with scripts, raw data, and charts.",
+            "url": "https://github.com/JCarterJohnson/vibecoded-design-tells",
+            "stars": 285,
+            "forks": 22,
+            "score": 44
         },
         {
             "main_cat": "AI",
@@ -205,7 +216,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "fendouai/best-humanizer-handbook",
             "description": "Best AI Humanizer Handbook A practical guide to making AI-assisted writing clearer, more credible, and more human",
             "url": "https://github.com/fendouai/best-humanizer-handbook",
-            "stars": 341,
+            "stars": 342,
             "forks": 4,
             "score": 43
         },
@@ -227,7 +238,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Karovia/fullstack-ai-agent-roadmap",
             "description": "\ud83c\udfaf \u4ece\u96f6\u57fa\u7840\u5230 AI Agent \u5168\u6808\u5de5\u7a0b\u5e08 \u00b7 110 \u4e2a\u8be6\u7ec6\u6559\u7a0b \u00b7 58 \u4e07\u5b57 \u00b7 400+ GitHub \u9879\u76ee\u7cbe\u9009 \u00b7 Obsidian \u53cb\u597d \u00b7 \u4e2d\u6587",
             "url": "https://github.com/Karovia/fullstack-ai-agent-roadmap",
-            "stars": 198,
+            "stars": 199,
             "forks": 14,
             "score": 42
         },
@@ -238,7 +249,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "tianchong-zerotemp/dianxing",
             "description": "DianXing - AI-Driven End-to-End Code Security Auditing",
             "url": "https://github.com/tianchong-zerotemp/dianxing",
-            "stars": 164,
+            "stars": 169,
             "forks": 19,
             "score": 42
         },
@@ -249,31 +260,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "Env-Kit/envkit-releases",
             "description": "EnvKit \u2014 free local development environment for Windows & macOS: nginx/Apache, multiple PHP versions, MySQL/MariaDB,   PostgreSQL, Redis, MongoDB, Mailpit, Node.js, trusted .test HTTPS, and a built-in MCP server for AI-assistant control.   A Laragon/XAMPP/Herd alternative.",
             "url": "https://github.com/Env-Kit/envkit-releases",
-            "stars": 155,
+            "stars": 158,
             "forks": 4,
             "score": 40
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "Portable-Diffusion",
-            "full_name": "techjarves/Portable-Diffusion",
-            "description": "[Deprecated] Zero-configuration local AI studio. Active development has moved to Uncensored-Local-Studio.",
-            "url": "https://github.com/techjarves/Portable-Diffusion",
-            "stars": 146,
-            "forks": 33,
-            "score": 40
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "awesome-images",
-            "full_name": "flatkey-ai/awesome-images",
-            "description": "Try flatkey.ai for 40% saving! Generate practical images ready for all your work needs!!!",
-            "url": "https://github.com/flatkey-ai/awesome-images",
-            "stars": 180,
-            "forks": 0,
-            "score": 39
         },
         {
             "main_cat": "AI",
@@ -282,9 +271,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "yolfinance/yolfi-agent",
             "description": "Yolfi Agent Kit SDK, CLI, and MCP server for AI coding agents.",
             "url": "https://github.com/yolfinance/yolfi-agent",
-            "stars": 211,
+            "stars": 213,
             "forks": 1,
-            "score": 38
+            "score": 39
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "awesome-images",
+            "full_name": "flatkey-ai/awesome-images",
+            "description": "Try flatkey.ai for 40% saving! Generate practical images ready for all your work needs!!!",
+            "url": "https://github.com/flatkey-ai/awesome-images",
+            "stars": 183,
+            "forks": 0,
+            "score": 39
         },
         {
             "main_cat": "AI",
@@ -293,7 +293,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Sorathiya123/claude-ai-free-desktop-app",
             "description": "free claude code ai github  desktop pc windows linux macOS proxy server anthropic free api local llm router nvidia nim openrouter deepseek ollama lm studio vscode extension jetbrains cli terminal coding assistant",
             "url": "https://github.com/Sorathiya123/claude-ai-free-desktop-app",
-            "stars": 185,
+            "stars": 184,
             "forks": 3,
             "score": 38
         },
@@ -311,11 +311,22 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
+            "name": "age-of-agents",
+            "full_name": "agentsmill/age-of-agents",
+            "description": "Age of Agents \u2014 watch your AI coding sessions grow a peaceful pixel-art realm. Run it with npx ai-of-agents.",
+            "url": "https://github.com/agentsmill/age-of-agents",
+            "stars": 157,
+            "forks": 19,
+            "score": 38
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
             "name": "cloudflare-playbook",
             "full_name": "realchendahuang/cloudflare-playbook",
             "description": "AI \u7f16\u7a0b\u65f6\u4ee3\u7684 Cloudflare \u5b9e\u6218\u624b\u518c\u2014\u2014\u7528 AI \u5199\u4ee3\u7801\uff0c\u7528 Cloudflare \u90e8\u7f72\u5230\u5168\u7403\u3002",
             "url": "https://github.com/realchendahuang/cloudflare-playbook",
-            "stars": 147,
+            "stars": 150,
             "forks": 16,
             "score": 38
         },
@@ -328,17 +339,6 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/frtghyujkiolsas-lab/ai-sdd",
             "stars": 153,
             "forks": 2,
-            "score": 37
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "age-of-agents",
-            "full_name": "agentsmill/age-of-agents",
-            "description": "Age of Agents \u2014 watch your AI coding sessions grow a peaceful pixel-art realm. Run it with npx ai-of-agents.",
-            "url": "https://github.com/agentsmill/age-of-agents",
-            "stars": 152,
-            "forks": 17,
             "score": 37
         },
         {
@@ -359,7 +359,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "paulfruitful/freeaitokens",
             "description": "Free Local AI inference without need for GPUs or heavy chunks of your CPU  ",
             "url": "https://github.com/paulfruitful/freeaitokens",
-            "stars": 28,
+            "stars": 29,
             "forks": 12,
             "score": 34
         },
@@ -447,6 +447,17 @@ const ALPHA_DATA_V2 = {
             "full_name": "sinascorpion/genlayer-prediction-market",
             "description": "GenLayer AI Prediction Market - decentralized oracle betting on GenLayer",
             "url": "https://github.com/sinascorpion/genlayer-prediction-market",
+            "stars": 0,
+            "forks": 0,
+            "score": 30
+        },
+        {
+            "main_cat": "Prediction Markets",
+            "sub_cat": null,
+            "name": "arc-prediction-market",
+            "full_name": "debo9210/arc-prediction-market",
+            "description": "Prediction Market on Arc Testnet with real USDC betting, auto-resolution, and custodial accounts",
+            "url": "https://github.com/debo9210/arc-prediction-market",
             "stars": 0,
             "forks": 0,
             "score": 30
@@ -761,5 +772,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-06-26 06:49"
+    "timestamp": "2026-06-26 10:18"
 };
