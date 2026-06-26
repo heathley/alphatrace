@@ -29,8 +29,19 @@ const ALPHA_DATA_V2 = {
             "full_name": "Forsy-AI/agent-apprenticeship",
             "description": "The living ecosystem where AI agents run automated workflow loops on any task, improve through execution, and turn each run into reusable work experience + data to improve future agents.",
             "url": "https://github.com/Forsy-AI/agent-apprenticeship",
-            "stars": 968,
+            "stars": 971,
             "forks": 47,
+            "score": 87
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "theeleven",
+            "full_name": "winsznx/theeleven",
+            "description": "Eleven autonomous AI agents open live football prop markets on X Layer \u2014 custom Uniswap v4 hook, gasless USDT0 staking.",
+            "url": "https://github.com/winsznx/theeleven",
+            "stars": 463,
+            "forks": 0,
             "score": 87
         },
         {
@@ -40,20 +51,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "benchflow-ai/awesome-evals",
             "description": "A curated, non-BS library of the best resources for building and evaluating AI agents \u2014 papers, blogs, talks, tools, benchmarks. Maintained by BenchFlow.",
             "url": "https://github.com/benchflow-ai/awesome-evals",
-            "stars": 445,
-            "forks": 28,
-            "score": 85
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "theeleven",
-            "full_name": "winsznx/theeleven",
-            "description": "Eleven autonomous AI agents open live football prop markets on X Layer \u2014 custom Uniswap v4 hook, gasless USDT0 staking.",
-            "url": "https://github.com/winsznx/theeleven",
-            "stars": 438,
-            "forks": 0,
-            "score": 84
+            "stars": 452,
+            "forks": 30,
+            "score": 87
         },
         {
             "main_cat": "AI",
@@ -62,9 +62,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "Pluviobyte/video-production-skills",
             "description": "Reusable AI video production skills library for creation, recreation, motion design, openers, and QA.",
             "url": "https://github.com/Pluviobyte/video-production-skills",
-            "stars": 173,
+            "stars": 180,
             "forks": 17,
-            "score": 70
+            "score": 71
         },
         {
             "main_cat": "AI",
@@ -113,17 +113,6 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "scholar-loop",
-            "full_name": "renee-jia/scholar-loop",
-            "description": "An autonomous AI scientist: a multi-agent loop over literature, experiments, self-critique and write-up, with deterministic guards against reward-hacking and hallucination.",
-            "url": "https://github.com/renee-jia/scholar-loop",
-            "stars": 444,
-            "forks": 55,
-            "score": 53
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
             "name": "cortex",
             "full_name": "CortexPrism/cortex",
             "description": "CortexPrism \u2014 open-source AI agent operating system",
@@ -131,6 +120,17 @@ const ALPHA_DATA_V2 = {
             "stars": 212,
             "forks": 119,
             "score": 52
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "shard",
+            "full_name": "leyten/shard",
+            "description": "Pipeline-parallel LLM inference across GPUs on separate machines.",
+            "url": "https://github.com/leyten/shard",
+            "stars": 367,
+            "forks": 46,
+            "score": 51
         },
         {
             "main_cat": "AI",
@@ -152,17 +152,6 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/LING71671/open-reverselab",
             "stars": 216,
             "forks": 68,
-            "score": 50
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "shard",
-            "full_name": "leyten/shard",
-            "description": "Pipeline-parallel LLM inference across GPUs on separate machines.",
-            "url": "https://github.com/leyten/shard",
-            "stars": 367,
-            "forks": 44,
             "score": 50
         },
         {
@@ -190,13 +179,24 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
+            "name": "scholar-loop",
+            "full_name": "renee-jia/scholar-loop",
+            "description": "An autonomous AI scientist: a multi-agent loop over literature, experiments, self-critique and write-up, with deterministic guards against reward-hacking and hallucination.",
+            "url": "https://github.com/renee-jia/scholar-loop",
+            "stars": 346,
+            "forks": 23,
+            "score": 45
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
             "name": "agent-harness-generator",
             "full_name": "ruvnet/agent-harness-generator",
             "description": "\ud83d\udee0\ufe0f The meta-harness for AI agents \u2014 scaffold your own focused, branded agent harness with its own npx CLI, MCP server, memory, learning loop, and witness-signed releases. Works with Claude Code, Codex, pi.dev, Hermes, OpenClaw, and RVM (hardware-isolated sandbox).",
             "url": "https://github.com/ruvnet/agent-harness-generator",
-            "stars": 322,
+            "stars": 323,
             "forks": 33,
-            "score": 45
+            "score": 44
         },
         {
             "main_cat": "AI",
@@ -205,19 +205,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "JCarterJohnson/vibecoded-design-tells",
             "description": "Reddit-mined data ranking the visual tells of vibe-coded (AI-built) sites: 3.2M posts scanned across 47 subreddits, with scripts, raw data, and charts.",
             "url": "https://github.com/JCarterJohnson/vibecoded-design-tells",
-            "stars": 286,
+            "stars": 287,
             "forks": 22,
-            "score": 44
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "Silent-Crypto-Miner",
-            "full_name": "Verdi38/Silent-Crypto-Miner",
-            "description": "Cryptocurrency mining toolkit with multi-algorithm CPU/GPU support, resource management, thermal throttling, activity-based pausing, scheduled mining, pool failover, hashrate optimization, real-time monitoring, and cross-platform builds for Windows, Linux, and macOS. Supports XMR, ETC, KAS, RVN, ERG, and BTG mining workflows.",
-            "url": "https://github.com/Verdi38/Silent-Crypto-Miner",
-            "stars": 184,
-            "forks": 35,
             "score": 44
         },
         {
@@ -229,6 +218,17 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/binghe1980/AI-Canvas",
             "stars": 160,
             "forks": 21,
+            "score": 43
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "Silent-Crypto-Miner",
+            "full_name": "Verdi38/Silent-Crypto-Miner",
+            "description": "Cryptocurrency mining toolkit with multi-algorithm CPU/GPU support, resource management, thermal throttling, activity-based pausing, scheduled mining, pool failover, hashrate optimization, real-time monitoring, and cross-platform builds for Windows, Linux, and macOS. Supports XMR, ETC, KAS, RVN, ERG, and BTG mining workflows.",
+            "url": "https://github.com/Verdi38/Silent-Crypto-Miner",
+            "stars": 184,
+            "forks": 35,
             "score": 43
         },
         {
@@ -260,8 +260,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "tianchong-zerotemp/dianxing",
             "description": "DianXing - AI-Driven End-to-End Code Security Auditing",
             "url": "https://github.com/tianchong-zerotemp/dianxing",
-            "stars": 173,
-            "forks": 20,
+            "stars": 176,
+            "forks": 21,
             "score": 41
         },
         {
@@ -271,7 +271,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Env-Kit/envkit-releases",
             "description": "EnvKit \u2014 free local development environment for Windows & macOS: nginx/Apache, multiple PHP versions, MySQL/MariaDB,   PostgreSQL, Redis, MongoDB, Mailpit, Node.js, trusted .test HTTPS, and a built-in MCP server for AI-assistant control.   A Laragon/XAMPP/Herd alternative.",
             "url": "https://github.com/Env-Kit/envkit-releases",
-            "stars": 164,
+            "stars": 166,
             "forks": 4,
             "score": 40
         },
@@ -293,7 +293,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "flatkey-ai/awesome-images",
             "description": "Try flatkey.ai for 40% saving! Generate practical images ready for all your work needs!!!",
             "url": "https://github.com/flatkey-ai/awesome-images",
-            "stars": 185,
+            "stars": 187,
             "forks": 0,
             "score": 38
         },
@@ -315,7 +315,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "agentsmill/age-of-agents",
             "description": "Age of Agents \u2014 watch your AI coding sessions grow a peaceful pixel-art realm. Run it with npx ai-of-agents.",
             "url": "https://github.com/agentsmill/age-of-agents",
-            "stars": 169,
+            "stars": 170,
             "forks": 21,
             "score": 38
         },
@@ -373,17 +373,6 @@ const ALPHA_DATA_V2 = {
             "stars": 43,
             "forks": 2,
             "score": 31
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "raven",
-            "full_name": "8treenet/raven",
-            "description": "Raven is a self-hostable team Agent platform that provides every member with an isolated workspace. It brings together models, tools, knowledge, files, skills, and workflows into a unified runtime environment, enabling agents to take on tasks, invoke tools, read documents, write code, and compound capabilities across sessions.",
-            "url": "https://github.com/8treenet/raven",
-            "stars": 12,
-            "forks": 3,
-            "score": 30
         },
         {
             "main_cat": "AI",
@@ -656,7 +645,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "sepahead/NCP",
             "description": "NCP (Neuro-Cybernetic Protocol): a versioned, typed, cross-language wire contract for a running NEST neural simulation (spiking, binary, rate) to perceive and act through robots, UAVs, and analysis clients over Zenoh \u2014 safety-gated action plane, per-frame provenance. Rust SDK with Python/C++/TypeScript peers. Pre-1.0 (wire v0.5).",
             "url": "https://github.com/sepahead/NCP",
-            "stars": 9,
+            "stars": 15,
             "forks": 0,
             "score": 30
         },
@@ -794,5 +783,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-06-26 18:26"
+    "timestamp": "2026-06-26 20:29"
 };
