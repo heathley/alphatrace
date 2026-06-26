@@ -18,7 +18,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "yo-WASSUP/Good-Badminton",
             "description": "\ud83c\udff8  AI Badminton Hawk-Eye System",
             "url": "https://github.com/yo-WASSUP/Good-Badminton",
-            "stars": 542,
+            "stars": 546,
             "forks": 167,
             "score": 97
         },
@@ -27,11 +27,11 @@ const ALPHA_DATA_V2 = {
             "sub_cat": null,
             "name": "agent-apprenticeship",
             "full_name": "Forsy-AI/agent-apprenticeship",
-            "description": "The living ecosystem where AI agents learn from real-world work through iterative workflow loops, reusable experience, and collective training signal exchange.",
+            "description": "The living ecosystem where AI agents run automated workflow loops on any task, improve through execution, and turn each run into reusable work experience + data to improve future agents.",
             "url": "https://github.com/Forsy-AI/agent-apprenticeship",
-            "stars": 959,
+            "stars": 964,
             "forks": 47,
-            "score": 93
+            "score": 94
         },
         {
             "main_cat": "AI",
@@ -40,9 +40,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "benchflow-ai/awesome-evals",
             "description": "A curated, non-BS library of the best resources for building and evaluating AI agents \u2014 papers, blogs, talks, tools, benchmarks. Maintained by BenchFlow.",
             "url": "https://github.com/benchflow-ai/awesome-evals",
-            "stars": 415,
-            "forks": 26,
-            "score": 81
+            "stars": 428,
+            "forks": 28,
+            "score": 84
         },
         {
             "main_cat": "AI",
@@ -51,9 +51,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "winsznx/theeleven",
             "description": "Eleven autonomous AI agents open live football prop markets on X Layer \u2014 custom Uniswap v4 hook, gasless USDT0 staking.",
             "url": "https://github.com/winsznx/theeleven",
-            "stars": 286,
+            "stars": 390,
             "forks": 0,
-            "score": 65
+            "score": 78
         },
         {
             "main_cat": "AI",
@@ -69,24 +69,24 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "bazi-ziwei-skill",
-            "full_name": "dzcmemory-web/bazi-ziwei-skill",
-            "description": "AI \u516b\u5b57 + \u7d2b\u5fae\u6597\u6570\u6392\u76d8\u4e0e\u7efc\u5408\u5370\u8bc1 Skill\uff1a\u7b97\u6cd5\u7cbe\u51c6\u6392\u76d8\uff08\u4e0d\u9760 LLM \u731c\uff09\uff0c\u4e09\u79cd\u5206\u6790\u6a21\u5f0f\uff0c\u4e00\u952e\u751f\u6210\u6c34\u58a8\u98ce HTML \u547d\u76d8\u6d77\u62a5\u3002\u517c\u5bb9 Claude / Codex / Cursor / Workbuddy \u7b49 SKILL.md Agent\u3002",
-            "url": "https://github.com/dzcmemory-web/bazi-ziwei-skill",
-            "stars": 515,
-            "forks": 69,
-            "score": 56
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
             "name": "threejs-game-skills",
             "full_name": "majidmanzarpour/threejs-game-skills",
             "description": "Agent skills for building playable, polished Three.js browser games with gameplay, AAA-style graphics, UI, QA, and optional AI-generated 3D, image, and audio assets.",
             "url": "https://github.com/majidmanzarpour/threejs-game-skills",
             "stars": 532,
-            "forks": 56,
+            "forks": 58,
             "score": 55
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "bazi-ziwei-skill",
+            "full_name": "dzcmemory-web/bazi-ziwei-skill",
+            "description": "AI \u516b\u5b57 + \u7d2b\u5fae\u6597\u6570\u6392\u76d8\u4e0e\u7efc\u5408\u5370\u8bc1 Skill\uff1a\u7b97\u6cd5\u7cbe\u51c6\u6392\u76d8\uff08\u4e0d\u9760 LLM \u731c\uff09\uff0c\u4e09\u79cd\u5206\u6790\u6a21\u5f0f\uff0c\u4e00\u952e\u751f\u6210\u6c34\u58a8\u98ce HTML \u547d\u76d8\u6d77\u62a5\u3002\u517c\u5bb9 Claude / Codex / Cursor / Workbuddy \u7b49 SKILL.md Agent\u3002",
+            "url": "https://github.com/dzcmemory-web/bazi-ziwei-skill",
+            "stars": 517,
+            "forks": 69,
+            "score": 54
         },
         {
             "main_cat": "AI",
@@ -95,7 +95,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "dongshuyan/compass-skills",
             "description": "\u53f8\u5357\uff1a\u4e2a\u6027\u5316 AI \u4efb\u52a1\u603b\u63a7 Skills \u7cfb\u7edf /COMPASS: Personal Alignment Skills OS for AI Agents",
             "url": "https://github.com/dongshuyan/compass-skills",
-            "stars": 492,
+            "stars": 493,
             "forks": 39,
             "score": 53
         },
@@ -124,28 +124,6 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "open-reverselab",
-            "full_name": "LING71671/open-reverselab",
-            "description": "\u5f00\u6e90\u9006\u5411\u5de5\u7a0b\u5b9e\u9a8c\u73af\u5883\uff0c\u7531\u4e8e\u5728\u8fd9\u4e2a\u5de5\u4f5c\u533a\u4f7f\u7528\u7684AI\u672c\u8eab\u6709\u8d8a\u72f1\u503e\u5411\uff0c\u6240\u4ee5\u8bf7\u81ea\u89c9\u5728\u6388\u6743\u73af\u5883\u4e0b\u4f7f\u7528\ud83d\ude0a",
-            "url": "https://github.com/LING71671/open-reverselab",
-            "stars": 214,
-            "forks": 67,
-            "score": 51
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "browser-search",
-            "full_name": "Johell1NS/browser-search",
-            "description": "A skill for AI agents: search the web with SearXNG, browse with Camofox, bypass protections with CloakBrowser. Anti-hallucination by design. Self-hosted, free, unlimited.",
-            "url": "https://github.com/Johell1NS/browser-search",
-            "stars": 178,
-            "forks": 19,
-            "score": 51
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
             "name": "perfectpixel-studio",
             "full_name": "gykim80/perfectpixel-studio",
             "description": "AI-powered animation sprite studio \u2014 generate character sprite sheets with 8 directions and 100+ actions from a single text prompt (Wails + Go + React)",
@@ -156,12 +134,23 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
+            "sub_cat": null,
+            "name": "open-reverselab",
+            "full_name": "LING71671/open-reverselab",
+            "description": "\u5f00\u6e90\u9006\u5411\u5de5\u7a0b\u5b9e\u9a8c\u73af\u5883\uff0c\u7531\u4e8e\u5728\u8fd9\u4e2a\u5de5\u4f5c\u533a\u4f7f\u7528\u7684AI\u672c\u8eab\u6709\u8d8a\u72f1\u503e\u5411\uff0c\u6240\u4ee5\u8bf7\u81ea\u89c9\u5728\u6388\u6743\u73af\u5883\u4e0b\u4f7f\u7528\ud83d\ude0a",
+            "url": "https://github.com/LING71671/open-reverselab",
+            "stars": 214,
+            "forks": 67,
+            "score": 50
+        },
+        {
+            "main_cat": "AI",
             "sub_cat": "AI General",
             "name": "shard",
             "full_name": "leyten/shard",
             "description": "Pipeline-parallel LLM inference across GPUs on separate machines.",
             "url": "https://github.com/leyten/shard",
-            "stars": 366,
+            "stars": 367,
             "forks": 44,
             "score": 50
         },
@@ -175,6 +164,17 @@ const ALPHA_DATA_V2 = {
             "stars": 210,
             "forks": 17,
             "score": 49
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "browser-search",
+            "full_name": "Johell1NS/browser-search",
+            "description": "A skill for AI agents: search the web with SearXNG, browse with Camofox, bypass protections with CloakBrowser. Anti-hallucination by design. Self-hosted, free, unlimited.",
+            "url": "https://github.com/Johell1NS/browser-search",
+            "stars": 177,
+            "forks": 19,
+            "score": 48
         },
         {
             "main_cat": "AI",
@@ -205,7 +205,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "JCarterJohnson/vibecoded-design-tells",
             "description": "Reddit-mined data ranking the visual tells of vibe-coded (AI-built) sites: 3.2M posts scanned across 47 subreddits, with scripts, raw data, and charts.",
             "url": "https://github.com/JCarterJohnson/vibecoded-design-tells",
-            "stars": 285,
+            "stars": 286,
             "forks": 22,
             "score": 44
         },
@@ -229,7 +229,7 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/fendouai/best-humanizer-handbook",
             "stars": 343,
             "forks": 4,
-            "score": 43
+            "score": 42
         },
         {
             "main_cat": "AI",
@@ -256,13 +256,24 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
+            "name": "age-of-agents",
+            "full_name": "agentsmill/age-of-agents",
+            "description": "Age of Agents \u2014 watch your AI coding sessions grow a peaceful pixel-art realm. Run it with npx ai-of-agents.",
+            "url": "https://github.com/agentsmill/age-of-agents",
+            "stars": 169,
+            "forks": 21,
+            "score": 39
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
             "name": "envkit-releases",
             "full_name": "Env-Kit/envkit-releases",
             "description": "EnvKit \u2014 free local development environment for Windows & macOS: nginx/Apache, multiple PHP versions, MySQL/MariaDB,   PostgreSQL, Redis, MongoDB, Mailpit, Node.js, trusted .test HTTPS, and a built-in MCP server for AI-assistant control.   A Laragon/XAMPP/Herd alternative.",
             "url": "https://github.com/Env-Kit/envkit-releases",
-            "stars": 159,
+            "stars": 163,
             "forks": 4,
-            "score": 40
+            "score": 39
         },
         {
             "main_cat": "AI",
@@ -273,7 +284,7 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/yolfinance/yolfi-agent",
             "stars": 214,
             "forks": 1,
-            "score": 39
+            "score": 38
         },
         {
             "main_cat": "AI",
@@ -284,7 +295,7 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/flatkey-ai/awesome-images",
             "stars": 185,
             "forks": 0,
-            "score": 39
+            "score": 38
         },
         {
             "main_cat": "AI",
@@ -304,19 +315,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "shreyashankar/plain-writing-skill",
             "description": "A plain-language writing skill for AI agents, with a revision view that shows what changed.",
             "url": "https://github.com/shreyashankar/plain-writing-skill",
-            "stars": 182,
+            "stars": 183,
             "forks": 7,
-            "score": 38
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "age-of-agents",
-            "full_name": "agentsmill/age-of-agents",
-            "description": "Age of Agents \u2014 watch your AI coding sessions grow a peaceful pixel-art realm. Run it with npx ai-of-agents.",
-            "url": "https://github.com/agentsmill/age-of-agents",
-            "stars": 164,
-            "forks": 20,
             "score": 38
         },
         {
@@ -339,7 +339,7 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/frtghyujkiolsas-lab/ai-sdd",
             "stars": 153,
             "forks": 2,
-            "score": 37
+            "score": 36
         },
         {
             "main_cat": "AI",
@@ -370,19 +370,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "engeldlgado/toshllm",
             "description": "Run large language models locally on Intel Macs with AMD GPUs \u2014 native macOS app with Metal acceleration",
             "url": "https://github.com/engeldlgado/toshllm",
-            "stars": 42,
+            "stars": 43,
             "forks": 2,
-            "score": 31
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI Agents",
-            "name": "Bridle-Layer",
-            "full_name": "L0-0LL0-0L/Bridle-Layer",
-            "description": "BRIDLE Marries AI agents, GPUs, APIs, PCs, wallets & datasets into one programmable network. Rein in the idle.",
-            "url": "https://github.com/L0-0LL0-0L/Bridle-Layer",
-            "stars": 11,
-            "forks": 0,
             "score": 31
         },
         {
@@ -394,6 +383,17 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/8treenet/raven",
             "stars": 12,
             "forks": 3,
+            "score": 30
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI Agents",
+            "name": "Bridle-Layer",
+            "full_name": "L0-0LL0-0L/Bridle-Layer",
+            "description": "BRIDLE Marries AI agents, GPUs, APIs, PCs, wallets & datasets into one programmable network. Rein in the idle.",
+            "url": "https://github.com/L0-0LL0-0L/Bridle-Layer",
+            "stars": 11,
+            "forks": 0,
             "score": 30
         },
         {
@@ -436,6 +436,17 @@ const ALPHA_DATA_V2 = {
             "full_name": "companygondu-cyber/MLB-SYSTEM-ig-montecarlopicks",
             "description": "Machine learning system for MLB betting predictions using ensemble models (HGB, Random Forest, XGBoost), dynamic ELO calibration, player props forecasting, and real-time lineup data from the official MLB API. Includes historical backtesting engine and daily prediction scanner.",
             "url": "https://github.com/companygondu-cyber/MLB-SYSTEM-ig-montecarlopicks",
+            "stars": 1,
+            "forks": 0,
+            "score": 30
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "zerocup-predict",
+            "full_name": "Anoi-xyz/zerocup-predict",
+            "description": "Zer0Cup Predicts is a high-performance, decentralized prediction market built natively on the 0G network infrastructure. Designed to capture the fast-paced nature of real-time events, the platform serves as a high-throughput playground where users can stress-test their analytical and betting strategies before migrating to mainnet applications.",
+            "url": "https://github.com/Anoi-xyz/zerocup-predict",
             "stars": 1,
             "forks": 0,
             "score": 30
@@ -564,6 +575,17 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "Stablecoin Infrastructure",
             "sub_cat": null,
+            "name": "private-channel-ui",
+            "full_name": "gitteri/private-channel-ui",
+            "description": "Browser demo: ZUSD (Token-2022 stablecoin) over Solana Private Channels \u2014 gasless private payments with a per-key privacy explorer",
+            "url": "https://github.com/gitteri/private-channel-ui",
+            "stars": 0,
+            "forks": 0,
+            "score": 30
+        },
+        {
+            "main_cat": "Stablecoin Infrastructure",
+            "sub_cat": null,
             "name": "Dshield",
             "full_name": "tech-adrian/Dshield",
             "description": "DShield is a consumer-grade shielded stablecoin wallet built on Stellar that enables private USDC payments using Zero-Knowledge Proofs (ZKPs).",
@@ -634,7 +656,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "sepahead/NCP",
             "description": "NCP (Neuro-Cybernetic Protocol): a versioned, typed, cross-language wire contract for a running NEST neural simulation (spiking, binary, rate) to perceive and act through robots, UAVs, and analysis clients over Zenoh \u2014 safety-gated action plane, per-frame provenance. Rust SDK with Python/C++/TypeScript peers. Pre-1.0 (wire v0.5).",
             "url": "https://github.com/sepahead/NCP",
-            "stars": 2,
+            "stars": 6,
             "forks": 0,
             "score": 30
         },
@@ -772,5 +794,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-06-26 13:06"
+    "timestamp": "2026-06-26 16:10"
 };
