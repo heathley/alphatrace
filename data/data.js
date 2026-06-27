@@ -18,31 +18,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "yo-WASSUP/Good-Badminton",
             "description": "\ud83c\udff8  AI Badminton Hawk-Eye System",
             "url": "https://github.com/yo-WASSUP/Good-Badminton",
-            "stars": 553,
+            "stars": 555,
             "forks": 171,
             "score": 98
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "theeleven",
-            "full_name": "winsznx/theeleven",
-            "description": "Eleven autonomous AI agents open live football prop markets on X Layer \u2014 custom Uniswap v4 hook, gasless USDT0 staking.",
-            "url": "https://github.com/winsznx/theeleven",
-            "stars": 509,
-            "forks": 0,
-            "score": 93
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "awesome-evals",
-            "full_name": "benchflow-ai/awesome-evals",
-            "description": "A curated, non-BS library of the best resources for building and evaluating AI agents \u2014 papers, blogs, talks, tools, benchmarks. Maintained by BenchFlow.",
-            "url": "https://github.com/benchflow-ai/awesome-evals",
-            "stars": 493,
-            "forks": 35,
-            "score": 93
         },
         {
             "main_cat": "AI",
@@ -51,9 +29,31 @@ const ALPHA_DATA_V2 = {
             "full_name": "Forsy-AI/agent-apprenticeship",
             "description": "The living ecosystem where AI agents run automated workflow loops on any task, improve through execution, and turn each run into reusable work experience + data to improve future agents.",
             "url": "https://github.com/Forsy-AI/agent-apprenticeship",
-            "stars": 979,
+            "stars": 982,
             "forks": 47,
             "score": 88
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "theeleven",
+            "full_name": "winsznx/theeleven",
+            "description": "Eleven autonomous AI agents open live football prop markets on X Layer \u2014 custom Uniswap v4 hook, gasless USDT0 staking.",
+            "url": "https://github.com/winsznx/theeleven",
+            "stars": 541,
+            "forks": 0,
+            "score": 84
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "awesome-evals",
+            "full_name": "benchflow-ai/awesome-evals",
+            "description": "A curated, non-BS library of the best resources for building and evaluating AI agents \u2014 papers, blogs, talks, tools, benchmarks. Maintained by BenchFlow.",
+            "url": "https://github.com/benchflow-ai/awesome-evals",
+            "stars": 502,
+            "forks": 38,
+            "score": 84
         },
         {
             "main_cat": "AI",
@@ -62,9 +62,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "Pluviobyte/video-production-skills",
             "description": "Reusable AI video production skills library for creation, recreation, motion design, openers, and QA.",
             "url": "https://github.com/Pluviobyte/video-production-skills",
-            "stars": 251,
-            "forks": 27,
-            "score": 74
+            "stars": 262,
+            "forks": 28,
+            "score": 76
         },
         {
             "main_cat": "AI",
@@ -84,7 +84,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "majidmanzarpour/threejs-game-skills",
             "description": "Agent skills for building playable, polished Three.js browser games with gameplay, AAA-style graphics, UI, QA, and optional AI-generated 3D, image, and audio assets.",
             "url": "https://github.com/majidmanzarpour/threejs-game-skills",
-            "stars": 536,
+            "stars": 538,
             "forks": 58,
             "score": 54
         },
@@ -106,9 +106,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "tutusagi/ai-fishing-game",
             "description": "\ud83c\udfa3 \u7ed9 AI \u73a9\u7684\u786e\u5b9a\u6027\u6587\u5b57\u9493\u9c7c\u5c0f\u6e38\u620f \u00b7 \u5355\u6587\u4ef6\u96f6\u4f9d\u8d56 \u00b7 \u8ba9\u4f60\u7684 AI \u4f34\u4fa3\u6765\u9493\u9c7c",
             "url": "https://github.com/tutusagi/ai-fishing-game",
-            "stars": 174,
-            "forks": 24,
-            "score": 52
+            "stars": 181,
+            "forks": 26,
+            "score": 53
         },
         {
             "main_cat": "AI",
@@ -128,8 +128,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "LING71671/open-reverselab",
             "description": "\u5f00\u6e90\u9006\u5411\u5de5\u7a0b\u5b9e\u9a8c\u73af\u5883\uff0c\u7531\u4e8e\u5728\u8fd9\u4e2a\u5de5\u4f5c\u533a\u4f7f\u7528\u7684AI\u672c\u8eab\u6709\u8d8a\u72f1\u503e\u5411\uff0c\u6240\u4ee5\u8bf7\u81ea\u89c9\u5728\u6388\u6743\u73af\u5883\u4e0b\u4f7f\u7528\ud83d\ude0a",
             "url": "https://github.com/LING71671/open-reverselab",
-            "stars": 216,
-            "forks": 68,
+            "stars": 219,
+            "forks": 69,
             "score": 50
         },
         {
@@ -139,7 +139,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "iart-ai/motion-skills",
             "description": "50 open-source skills that teach your AI coding agent to make motion graphics, animation & video \u2014 kinetic typography, data-viz, explainers, TikTok/Reels, WebGL, Manim. 14 installable packs. By iart.ai, the AI motion agent.",
             "url": "https://github.com/iart-ai/motion-skills",
-            "stars": 213,
+            "stars": 214,
             "forks": 17,
             "score": 50
         },
@@ -150,7 +150,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "gykim80/perfectpixel-studio",
             "description": "AI-powered animation sprite studio \u2014 generate character sprite sheets with 8 directions and 100+ actions from a single text prompt (Wails + Go + React)",
             "url": "https://github.com/gykim80/perfectpixel-studio",
-            "stars": 386,
+            "stars": 387,
             "forks": 61,
             "score": 49
         },
@@ -161,7 +161,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "leyten/shard",
             "description": "Pipeline-parallel LLM inference across GPUs on separate machines.",
             "url": "https://github.com/leyten/shard",
-            "stars": 369,
+            "stars": 370,
             "forks": 46,
             "score": 49
         },
@@ -175,6 +175,17 @@ const ALPHA_DATA_V2 = {
             "stars": 179,
             "forks": 19,
             "score": 48
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "AIGX",
+            "full_name": "Lolner95/AIGX",
+            "description": "Open, MIT context format for AI coding agents: centralized .aigx/ rules + a per-file boundary index that targets the right rules, forbidden imports, and gotchas to each file. The only context format validated in a controlled benchmark. Tool-agnostic; nothing injected into your source.",
+            "url": "https://github.com/Lolner95/AIGX",
+            "stars": 217,
+            "forks": 55,
+            "score": 45
         },
         {
             "main_cat": "AI",
@@ -196,7 +207,7 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/JCarterJohnson/vibecoded-design-tells",
             "stars": 292,
             "forks": 22,
-            "score": 44
+            "score": 43
         },
         {
             "main_cat": "AI",
@@ -205,7 +216,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "binghe1980/AI-Canvas",
             "description": "Codex-integrated infinite canvas for AI image generation, annotation, and iterative editing.",
             "url": "https://github.com/binghe1980/AI-Canvas",
-            "stars": 162,
+            "stars": 164,
             "forks": 21,
             "score": 43
         },
@@ -238,7 +249,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "tianchong-zerotemp/dianxing",
             "description": "DianXing - AI-Driven End-to-End Code Security Auditing",
             "url": "https://github.com/tianchong-zerotemp/dianxing",
-            "stars": 187,
+            "stars": 192,
             "forks": 21,
             "score": 42
         },
@@ -249,7 +260,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "NotASithLord/peerd",
             "description": "The first AI agent harness native to the browser. A Chrome/Firefox extension that runs the agent loop in your browser \u2014 drives your tabs, spins up sandboxed compute (JS notebooks, WASM Linux VMs, client-side apps), and shares what it builds peer-to-peer. BYOK \u00b7 no backend \u00b7 no telemetry.",
             "url": "https://github.com/NotASithLord/peerd",
-            "stars": 157,
+            "stars": 163,
             "forks": 10,
             "score": 42
         },
@@ -260,7 +271,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Karovia/fullstack-ai-agent-roadmap",
             "description": "\ud83c\udfaf \u4ece\u96f6\u57fa\u7840\u5230 AI Agent \u5168\u6808\u5de5\u7a0b\u5e08 \u00b7 110 \u4e2a\u8be6\u7ec6\u6559\u7a0b \u00b7 58 \u4e07\u5b57 \u00b7 400+ GitHub \u9879\u76ee\u7cbe\u9009 \u00b7 Obsidian \u53cb\u597d \u00b7 \u4e2d\u6587",
             "url": "https://github.com/Karovia/fullstack-ai-agent-roadmap",
-            "stars": 200,
+            "stars": 202,
             "forks": 14,
             "score": 41
         },
@@ -271,7 +282,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Env-Kit/envkit-releases",
             "description": "EnvKit \u2014 free local development environment for Windows & macOS: nginx/Apache, multiple PHP versions, MySQL/MariaDB,   PostgreSQL, Redis, MongoDB, Mailpit, Node.js, trusted .test HTTPS, and a built-in MCP server for AI-assistant control.   A Laragon/XAMPP/Herd alternative.",
             "url": "https://github.com/Env-Kit/envkit-releases",
-            "stars": 168,
+            "stars": 169,
             "forks": 5,
             "score": 40
         },
@@ -282,7 +293,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "databufflabs/databuff",
             "description": "Databuff is an open-source , AI-native OpenTelemetry APM &  SREAgent tool . An open-source alternative to Datadog, Dynatrace\uff0cNewRelic, etc. \ud83d\udd25 \ud83d\udd25\ud83d\udd25",
             "url": "https://github.com/databufflabs/databuff",
-            "stars": 153,
+            "stars": 154,
             "forks": 27,
             "score": 40
         },
@@ -293,7 +304,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "flatkey-ai/awesome-images",
             "description": "Try flatkey.ai for 40% saving! Generate practical images ready for all your work needs!!!",
             "url": "https://github.com/flatkey-ai/awesome-images",
-            "stars": 199,
+            "stars": 200,
             "forks": 0,
             "score": 39
         },
@@ -315,8 +326,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "agentsmill/age-of-agents",
             "description": "Age of Agents \u2014 watch your AI coding sessions grow a peaceful pixel-art realm. Run it with npx ai-of-agents.",
             "url": "https://github.com/agentsmill/age-of-agents",
-            "stars": 173,
-            "forks": 22,
+            "stars": 175,
+            "forks": 23,
             "score": 38
         },
         {
@@ -340,17 +351,6 @@ const ALPHA_DATA_V2 = {
             "stars": 184,
             "forks": 3,
             "score": 37
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "ai-sdd",
-            "full_name": "frtghyujkiolsas-lab/ai-sdd",
-            "description": "AI-SDD spec-driven product delivery sample: from idea, PRD and prototype to frontend-backend integration, testing and delivery.",
-            "url": "https://github.com/frtghyujkiolsas-lab/ai-sdd",
-            "stars": 153,
-            "forks": 2,
-            "score": 36
         },
         {
             "main_cat": "AI",
@@ -772,5 +772,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-06-27 06:48"
+    "timestamp": "2026-06-27 09:25"
 };
