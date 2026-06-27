@@ -18,31 +18,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "yo-WASSUP/Good-Badminton",
             "description": "\ud83c\udff8  AI Badminton Hawk-Eye System",
             "url": "https://github.com/yo-WASSUP/Good-Badminton",
-            "stars": 552,
-            "forks": 170,
+            "stars": 553,
+            "forks": 171,
             "score": 98
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "awesome-evals",
-            "full_name": "benchflow-ai/awesome-evals",
-            "description": "A curated, non-BS library of the best resources for building and evaluating AI agents \u2014 papers, blogs, talks, tools, benchmarks. Maintained by BenchFlow.",
-            "url": "https://github.com/benchflow-ai/awesome-evals",
-            "stars": 472,
-            "forks": 33,
-            "score": 90
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "agent-apprenticeship",
-            "full_name": "Forsy-AI/agent-apprenticeship",
-            "description": "The living ecosystem where AI agents run automated workflow loops on any task, improve through execution, and turn each run into reusable work experience + data to improve future agents.",
-            "url": "https://github.com/Forsy-AI/agent-apprenticeship",
-            "stars": 976,
-            "forks": 47,
-            "score": 88
         },
         {
             "main_cat": "AI",
@@ -51,8 +29,30 @@ const ALPHA_DATA_V2 = {
             "full_name": "winsznx/theeleven",
             "description": "Eleven autonomous AI agents open live football prop markets on X Layer \u2014 custom Uniswap v4 hook, gasless USDT0 staking.",
             "url": "https://github.com/winsznx/theeleven",
-            "stars": 468,
+            "stars": 509,
             "forks": 0,
+            "score": 93
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "awesome-evals",
+            "full_name": "benchflow-ai/awesome-evals",
+            "description": "A curated, non-BS library of the best resources for building and evaluating AI agents \u2014 papers, blogs, talks, tools, benchmarks. Maintained by BenchFlow.",
+            "url": "https://github.com/benchflow-ai/awesome-evals",
+            "stars": 493,
+            "forks": 35,
+            "score": 93
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "agent-apprenticeship",
+            "full_name": "Forsy-AI/agent-apprenticeship",
+            "description": "The living ecosystem where AI agents run automated workflow loops on any task, improve through execution, and turn each run into reusable work experience + data to improve future agents.",
+            "url": "https://github.com/Forsy-AI/agent-apprenticeship",
+            "stars": 979,
+            "forks": 47,
             "score": 88
         },
         {
@@ -62,9 +62,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "Pluviobyte/video-production-skills",
             "description": "Reusable AI video production skills library for creation, recreation, motion design, openers, and QA.",
             "url": "https://github.com/Pluviobyte/video-production-skills",
-            "stars": 230,
-            "forks": 25,
-            "score": 85
+            "stars": 251,
+            "forks": 27,
+            "score": 74
         },
         {
             "main_cat": "AI",
@@ -75,7 +75,7 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/Plaer1/junction",
             "stars": 648,
             "forks": 10,
-            "score": 58
+            "score": 56
         },
         {
             "main_cat": "AI",
@@ -86,7 +86,18 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/majidmanzarpour/threejs-game-skills",
             "stars": 536,
             "forks": 58,
-            "score": 55
+            "score": 54
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "cortex",
+            "full_name": "CortexPrism/cortex",
+            "description": "CortexPrism \u2014 open-source AI agent operating system",
+            "url": "https://github.com/CortexPrism/cortex",
+            "stars": 214,
+            "forks": 119,
+            "score": 53
         },
         {
             "main_cat": "AI",
@@ -95,9 +106,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "tutusagi/ai-fishing-game",
             "description": "\ud83c\udfa3 \u7ed9 AI \u73a9\u7684\u786e\u5b9a\u6027\u6587\u5b57\u9493\u9c7c\u5c0f\u6e38\u620f \u00b7 \u5355\u6587\u4ef6\u96f6\u4f9d\u8d56 \u00b7 \u8ba9\u4f60\u7684 AI \u4f34\u4fa3\u6765\u9493\u9c7c",
             "url": "https://github.com/tutusagi/ai-fishing-game",
-            "stars": 156,
-            "forks": 22,
-            "score": 54
+            "stars": 174,
+            "forks": 24,
+            "score": 52
         },
         {
             "main_cat": "AI",
@@ -108,29 +119,7 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/dongshuyan/compass-skills",
             "stars": 496,
             "forks": 39,
-            "score": 53
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "cortex",
-            "full_name": "CortexPrism/cortex",
-            "description": "CortexPrism \u2014 open-source AI agent operating system",
-            "url": "https://github.com/CortexPrism/cortex",
-            "stars": 212,
-            "forks": 119,
-            "score": 52
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "perfectpixel-studio",
-            "full_name": "gykim80/perfectpixel-studio",
-            "description": "AI-powered animation sprite studio \u2014 generate character sprite sheets with 8 directions and 100+ actions from a single text prompt (Wails + Go + React)",
-            "url": "https://github.com/gykim80/perfectpixel-studio",
-            "stars": 384,
-            "forks": 61,
-            "score": 50
+            "score": 51
         },
         {
             "main_cat": "AI",
@@ -156,6 +145,17 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
+            "sub_cat": null,
+            "name": "perfectpixel-studio",
+            "full_name": "gykim80/perfectpixel-studio",
+            "description": "AI-powered animation sprite studio \u2014 generate character sprite sheets with 8 directions and 100+ actions from a single text prompt (Wails + Go + React)",
+            "url": "https://github.com/gykim80/perfectpixel-studio",
+            "stars": 386,
+            "forks": 61,
+            "score": 49
+        },
+        {
+            "main_cat": "AI",
             "sub_cat": "AI General",
             "name": "shard",
             "full_name": "leyten/shard",
@@ -172,7 +172,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Johell1NS/browser-search",
             "description": "A skill for AI agents: search the web with SearXNG, browse with Camofox, bypass protections with CloakBrowser. Anti-hallucination by design. Self-hosted, free, unlimited.",
             "url": "https://github.com/Johell1NS/browser-search",
-            "stars": 178,
+            "stars": 179,
             "forks": 19,
             "score": 48
         },
@@ -185,7 +185,7 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/renee-jia/scholar-loop",
             "stars": 346,
             "forks": 23,
-            "score": 45
+            "score": 44
         },
         {
             "main_cat": "AI",
@@ -194,7 +194,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "JCarterJohnson/vibecoded-design-tells",
             "description": "Reddit-mined data ranking the visual tells of vibe-coded (AI-built) sites: 3.2M posts scanned across 47 subreddits, with scripts, raw data, and charts.",
             "url": "https://github.com/JCarterJohnson/vibecoded-design-tells",
-            "stars": 291,
+            "stars": 292,
             "forks": 22,
             "score": 44
         },
@@ -227,8 +227,30 @@ const ALPHA_DATA_V2 = {
             "full_name": "fendouai/best-humanizer-handbook",
             "description": "Best AI Humanizer Handbook A practical guide to making AI-assisted writing clearer, more credible, and more human",
             "url": "https://github.com/fendouai/best-humanizer-handbook",
-            "stars": 343,
+            "stars": 344,
             "forks": 4,
+            "score": 42
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "dianxing",
+            "full_name": "tianchong-zerotemp/dianxing",
+            "description": "DianXing - AI-Driven End-to-End Code Security Auditing",
+            "url": "https://github.com/tianchong-zerotemp/dianxing",
+            "stars": 187,
+            "forks": 21,
+            "score": 42
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "peerd",
+            "full_name": "NotASithLord/peerd",
+            "description": "The first AI agent harness native to the browser. A Chrome/Firefox extension that runs the agent loop in your browser \u2014 drives your tabs, spins up sandboxed compute (JS notebooks, WASM Linux VMs, client-side apps), and shares what it builds peer-to-peer. BYOK \u00b7 no backend \u00b7 no telemetry.",
+            "url": "https://github.com/NotASithLord/peerd",
+            "stars": 157,
+            "forks": 10,
             "score": 42
         },
         {
@@ -240,18 +262,7 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/Karovia/fullstack-ai-agent-roadmap",
             "stars": 200,
             "forks": 14,
-            "score": 42
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "dianxing",
-            "full_name": "tianchong-zerotemp/dianxing",
-            "description": "DianXing - AI-Driven End-to-End Code Security Auditing",
-            "url": "https://github.com/tianchong-zerotemp/dianxing",
-            "stars": 185,
-            "forks": 21,
-            "score": 42
+            "score": 41
         },
         {
             "main_cat": "AI",
@@ -282,7 +293,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "flatkey-ai/awesome-images",
             "description": "Try flatkey.ai for 40% saving! Generate practical images ready for all your work needs!!!",
             "url": "https://github.com/flatkey-ai/awesome-images",
-            "stars": 198,
+            "stars": 199,
             "forks": 0,
             "score": 39
         },
@@ -304,8 +315,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "agentsmill/age-of-agents",
             "description": "Age of Agents \u2014 watch your AI coding sessions grow a peaceful pixel-art realm. Run it with npx ai-of-agents.",
             "url": "https://github.com/agentsmill/age-of-agents",
-            "stars": 172,
-            "forks": 21,
+            "stars": 173,
+            "forks": 22,
             "score": 38
         },
         {
@@ -339,17 +350,6 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/frtghyujkiolsas-lab/ai-sdd",
             "stars": 153,
             "forks": 2,
-            "score": 36
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "awesome-ad-video-prompts",
-            "full_name": "LichAmnesia/awesome-ad-video-prompts",
-            "description": "Curated, original high-craft prompts for AI video ads (Seedance 2.0 / Veo 3 / Kling / Runway). Companion to HeyDreaming.",
-            "url": "https://github.com/LichAmnesia/awesome-ad-video-prompts",
-            "stars": 152,
-            "forks": 7,
             "score": 36
         },
         {
@@ -480,7 +480,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "sks006/stablecoin_payment_system",
             "description": "A high-performance, dual-implementation (Anchor reference + native zero-copy) Solana stablecoin payment rail with enterprise-grade orchestrator, idempotent APIs, webhook reliability, and future-proof on-chain state",
             "url": "https://github.com/sks006/stablecoin_payment_system",
-            "stars": 0,
+            "stars": 1,
             "forks": 1,
             "score": 30
         },
@@ -751,6 +751,20 @@ const ALPHA_DATA_V2 = {
     ],
     "news": [
         {
+            "title": "Tilikum: Transaction Fair Ordering on a DAG without Weak Edges",
+            "source": "ArXiv",
+            "type": "Research Alpha",
+            "color": "text-indigo-600",
+            "url": "http://arxiv.org/abs/2606.27250v1"
+        },
+        {
+            "title": "The Observer World: A Cryptographic Extension of Impagliazzo's Five Worlds",
+            "source": "ArXiv",
+            "type": "Research Alpha",
+            "color": "text-indigo-600",
+            "url": "http://arxiv.org/abs/2606.27139v1"
+        },
+        {
             "title": "Bitcoin volatility remains high ahead of key FED decision.",
             "source": "Polymarket",
             "type": "Expectation",
@@ -758,5 +772,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-06-27 03:46"
+    "timestamp": "2026-06-27 06:48"
 };
