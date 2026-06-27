@@ -18,20 +18,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "yo-WASSUP/Good-Badminton",
             "description": "\ud83c\udff8  AI Badminton Hawk-Eye System",
             "url": "https://github.com/yo-WASSUP/Good-Badminton",
-            "stars": 548,
+            "stars": 552,
             "forks": 170,
             "score": 98
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "agent-apprenticeship",
-            "full_name": "Forsy-AI/agent-apprenticeship",
-            "description": "The living ecosystem where AI agents run automated workflow loops on any task, improve through execution, and turn each run into reusable work experience + data to improve future agents.",
-            "url": "https://github.com/Forsy-AI/agent-apprenticeship",
-            "stars": 974,
-            "forks": 47,
-            "score": 88
         },
         {
             "main_cat": "AI",
@@ -40,8 +29,19 @@ const ALPHA_DATA_V2 = {
             "full_name": "benchflow-ai/awesome-evals",
             "description": "A curated, non-BS library of the best resources for building and evaluating AI agents \u2014 papers, blogs, talks, tools, benchmarks. Maintained by BenchFlow.",
             "url": "https://github.com/benchflow-ai/awesome-evals",
-            "stars": 460,
-            "forks": 30,
+            "stars": 472,
+            "forks": 33,
+            "score": 90
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "agent-apprenticeship",
+            "full_name": "Forsy-AI/agent-apprenticeship",
+            "description": "The living ecosystem where AI agents run automated workflow loops on any task, improve through execution, and turn each run into reusable work experience + data to improve future agents.",
+            "url": "https://github.com/Forsy-AI/agent-apprenticeship",
+            "stars": 976,
+            "forks": 47,
             "score": 88
         },
         {
@@ -51,9 +51,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "winsznx/theeleven",
             "description": "Eleven autonomous AI agents open live football prop markets on X Layer \u2014 custom Uniswap v4 hook, gasless USDT0 staking.",
             "url": "https://github.com/winsznx/theeleven",
-            "stars": 447,
+            "stars": 468,
             "forks": 0,
-            "score": 85
+            "score": 88
         },
         {
             "main_cat": "AI",
@@ -62,9 +62,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "Pluviobyte/video-production-skills",
             "description": "Reusable AI video production skills library for creation, recreation, motion design, openers, and QA.",
             "url": "https://github.com/Pluviobyte/video-production-skills",
-            "stars": 198,
-            "forks": 17,
-            "score": 74
+            "stars": 230,
+            "forks": 25,
+            "score": 85
         },
         {
             "main_cat": "AI",
@@ -84,19 +84,19 @@ const ALPHA_DATA_V2 = {
             "full_name": "majidmanzarpour/threejs-game-skills",
             "description": "Agent skills for building playable, polished Three.js browser games with gameplay, AAA-style graphics, UI, QA, and optional AI-generated 3D, image, and audio assets.",
             "url": "https://github.com/majidmanzarpour/threejs-game-skills",
-            "stars": 535,
+            "stars": 536,
             "forks": 58,
             "score": 55
         },
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "bazi-ziwei-skill",
-            "full_name": "dzcmemory-web/bazi-ziwei-skill",
-            "description": "AI \u516b\u5b57 + \u7d2b\u5fae\u6597\u6570\u6392\u76d8\u4e0e\u7efc\u5408\u5370\u8bc1 Skill\uff1a\u7b97\u6cd5\u7cbe\u51c6\u6392\u76d8\uff08\u4e0d\u9760 LLM \u731c\uff09\uff0c\u4e09\u79cd\u5206\u6790\u6a21\u5f0f\uff0c\u4e00\u952e\u751f\u6210\u6c34\u58a8\u98ce HTML \u547d\u76d8\u6d77\u62a5\u3002\u517c\u5bb9 Claude / Codex / Cursor / Workbuddy \u7b49 SKILL.md Agent\u3002",
-            "url": "https://github.com/dzcmemory-web/bazi-ziwei-skill",
-            "stars": 518,
-            "forks": 69,
+            "name": "ai-fishing-game",
+            "full_name": "tutusagi/ai-fishing-game",
+            "description": "\ud83c\udfa3 \u7ed9 AI \u73a9\u7684\u786e\u5b9a\u6027\u6587\u5b57\u9493\u9c7c\u5c0f\u6e38\u620f \u00b7 \u5355\u6587\u4ef6\u96f6\u4f9d\u8d56 \u00b7 \u8ba9\u4f60\u7684 AI \u4f34\u4fa3\u6765\u9493\u9c7c",
+            "url": "https://github.com/tutusagi/ai-fishing-game",
+            "stars": 156,
+            "forks": 22,
             "score": 54
         },
         {
@@ -106,7 +106,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "dongshuyan/compass-skills",
             "description": "\u53f8\u5357\uff1a\u4e2a\u6027\u5316 AI \u4efb\u52a1\u603b\u63a7 Skills \u7cfb\u7edf /COMPASS: Personal Alignment Skills OS for AI Agents",
             "url": "https://github.com/dongshuyan/compass-skills",
-            "stars": 494,
+            "stars": 496,
             "forks": 39,
             "score": 53
         },
@@ -150,7 +150,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "iart-ai/motion-skills",
             "description": "50 open-source skills that teach your AI coding agent to make motion graphics, animation & video \u2014 kinetic typography, data-viz, explainers, TikTok/Reels, WebGL, Manim. 14 installable packs. By iart.ai, the AI motion agent.",
             "url": "https://github.com/iart-ai/motion-skills",
-            "stars": 212,
+            "stars": 213,
             "forks": 17,
             "score": 50
         },
@@ -161,7 +161,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "leyten/shard",
             "description": "Pipeline-parallel LLM inference across GPUs on separate machines.",
             "url": "https://github.com/leyten/shard",
-            "stars": 367,
+            "stars": 369,
             "forks": 46,
             "score": 49
         },
@@ -190,22 +190,11 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "agent-harness-generator",
-            "full_name": "ruvnet/agent-harness-generator",
-            "description": "\ud83d\udee0\ufe0f The meta-harness for AI agents \u2014 scaffold your own focused, branded agent harness with its own npx CLI, MCP server, memory, learning loop, and witness-signed releases. Works with Claude Code, Codex, pi.dev, Hermes, OpenClaw, and RVM (hardware-isolated sandbox).",
-            "url": "https://github.com/ruvnet/agent-harness-generator",
-            "stars": 325,
-            "forks": 33,
-            "score": 44
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
             "name": "vibecoded-design-tells",
             "full_name": "JCarterJohnson/vibecoded-design-tells",
             "description": "Reddit-mined data ranking the visual tells of vibe-coded (AI-built) sites: 3.2M posts scanned across 47 subreddits, with scripts, raw data, and charts.",
             "url": "https://github.com/JCarterJohnson/vibecoded-design-tells",
-            "stars": 290,
+            "stars": 291,
             "forks": 22,
             "score": 44
         },
@@ -216,7 +205,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "binghe1980/AI-Canvas",
             "description": "Codex-integrated infinite canvas for AI image generation, annotation, and iterative editing.",
             "url": "https://github.com/binghe1980/AI-Canvas",
-            "stars": 160,
+            "stars": 162,
             "forks": 21,
             "score": 43
         },
@@ -249,7 +238,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Karovia/fullstack-ai-agent-roadmap",
             "description": "\ud83c\udfaf \u4ece\u96f6\u57fa\u7840\u5230 AI Agent \u5168\u6808\u5de5\u7a0b\u5e08 \u00b7 110 \u4e2a\u8be6\u7ec6\u6559\u7a0b \u00b7 58 \u4e07\u5b57 \u00b7 400+ GitHub \u9879\u76ee\u7cbe\u9009 \u00b7 Obsidian \u53cb\u597d \u00b7 \u4e2d\u6587",
             "url": "https://github.com/Karovia/fullstack-ai-agent-roadmap",
-            "stars": 199,
+            "stars": 200,
             "forks": 14,
             "score": 42
         },
@@ -260,20 +249,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "tianchong-zerotemp/dianxing",
             "description": "DianXing - AI-Driven End-to-End Code Security Auditing",
             "url": "https://github.com/tianchong-zerotemp/dianxing",
-            "stars": 180,
+            "stars": 185,
             "forks": 21,
             "score": 42
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "databuff",
-            "full_name": "databufflabs/databuff",
-            "description": "DataBuff is an open-source AI Native  OpenTelemetry APM tool.An open-source alternative to DataDog, NewRelic, dynatrace,etc. ",
-            "url": "https://github.com/databufflabs/databuff",
-            "stars": 152,
-            "forks": 26,
-            "score": 41
         },
         {
             "main_cat": "AI",
@@ -282,9 +260,31 @@ const ALPHA_DATA_V2 = {
             "full_name": "Env-Kit/envkit-releases",
             "description": "EnvKit \u2014 free local development environment for Windows & macOS: nginx/Apache, multiple PHP versions, MySQL/MariaDB,   PostgreSQL, Redis, MongoDB, Mailpit, Node.js, trusted .test HTTPS, and a built-in MCP server for AI-assistant control.   A Laragon/XAMPP/Herd alternative.",
             "url": "https://github.com/Env-Kit/envkit-releases",
-            "stars": 167,
-            "forks": 4,
+            "stars": 168,
+            "forks": 5,
             "score": 40
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "databuff",
+            "full_name": "databufflabs/databuff",
+            "description": "Databuff is an open-source , AI-native OpenTelemetry APM &  SREAgent tool . An open-source alternative to Datadog, Dynatrace\uff0cNewRelic, etc. \ud83d\udd25 \ud83d\udd25\ud83d\udd25",
+            "url": "https://github.com/databufflabs/databuff",
+            "stars": 153,
+            "forks": 27,
+            "score": 40
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "awesome-images",
+            "full_name": "flatkey-ai/awesome-images",
+            "description": "Try flatkey.ai for 40% saving! Generate practical images ready for all your work needs!!!",
+            "url": "https://github.com/flatkey-ai/awesome-images",
+            "stars": 198,
+            "forks": 0,
+            "score": 39
         },
         {
             "main_cat": "AI",
@@ -295,17 +295,6 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/yolfinance/yolfi-agent",
             "stars": 213,
             "forks": 1,
-            "score": 38
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "awesome-images",
-            "full_name": "flatkey-ai/awesome-images",
-            "description": "Try flatkey.ai for 40% saving! Generate practical images ready for all your work needs!!!",
-            "url": "https://github.com/flatkey-ai/awesome-images",
-            "stars": 189,
-            "forks": 0,
             "score": 38
         },
         {
@@ -326,8 +315,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "shreyashankar/plain-writing-skill",
             "description": "A plain-language writing skill for AI agents, with a revision view that shows what changed.",
             "url": "https://github.com/shreyashankar/plain-writing-skill",
-            "stars": 184,
-            "forks": 7,
+            "stars": 185,
+            "forks": 8,
             "score": 37
         },
         {
@@ -350,6 +339,17 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/frtghyujkiolsas-lab/ai-sdd",
             "stars": 153,
             "forks": 2,
+            "score": 36
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "awesome-ad-video-prompts",
+            "full_name": "LichAmnesia/awesome-ad-video-prompts",
+            "description": "Curated, original high-craft prompts for AI video ads (Seedance 2.0 / Veo 3 / Kling / Runway). Companion to HeyDreaming.",
+            "url": "https://github.com/LichAmnesia/awesome-ad-video-prompts",
+            "stars": 152,
+            "forks": 7,
             "score": 36
         },
         {
@@ -496,17 +496,6 @@ const ALPHA_DATA_V2 = {
             "score": 30
         },
         {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "agent-commerce-kit",
-            "full_name": "kmjones1979/agent-commerce-kit",
-            "description": "Onchain AI agent with stablecoin payments, 1Claw HSM vault, and Ampersend policy enforcement",
-            "url": "https://github.com/kmjones1979/agent-commerce-kit",
-            "stars": 0,
-            "forks": 0,
-            "score": 30
-        },
-        {
             "main_cat": "Stablecoin Infrastructure",
             "sub_cat": null,
             "name": "pharos-defi-suite",
@@ -597,17 +586,6 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
-            "name": "Arc-x-Elliptic-Blockchain-analytics-and-monitoring-for-compliance-first-Arc-apps",
-            "full_name": "Alsani123/Arc-x-Elliptic-Blockchain-analytics-and-monitoring-for-compliance-first-Arc-apps",
-            "description": "Stablecoin apps don't get to treat compliance as a \"later\" problem. The moment you touch payments, treasury flows, or institutional users, risk visibility and monitoring matter.",
-            "url": "https://github.com/Alsani123/Arc-x-Elliptic-Blockchain-analytics-and-monitoring-for-compliance-first-Arc-apps",
-            "stars": 0,
-            "forks": 0,
-            "score": 30
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
             "name": "RailFlow",
             "full_name": "longbds0108/RailFlow",
             "description": "Testnet demo dApp on Arc (Circle's stablecoin L1): Payment, Swap, Staking, Bridge + History/Admin. Self-custody via MetaMask, Circle App Kit, CCTP V2.",
@@ -634,6 +612,28 @@ const ALPHA_DATA_V2 = {
             "full_name": "Blessed-Shammah/solana-payments",
             "description": "Production-grade stablecoin payments for Solana builders \u2014 a skill for the Solana AI Kit. Turns any coding agent into a payments engineer: checkout, subscriptions, safe confirmation, webhook\u2192ledger reconciliation, refunds, on/off-ramp, treasury, and the compliance minimum.",
             "url": "https://github.com/Blessed-Shammah/solana-payments",
+            "stars": 0,
+            "forks": 0,
+            "score": 30
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "oxachain",
+            "full_name": "sftgroup/oxachain",
+            "description": "AI-Native Ethereum L2 Rollup \u2014 OP Stack fork with x402 Agent payment precompiles, USDX stablecoin, 0x governance token. Settlement layer for 0xAINet's 18 products.",
+            "url": "https://github.com/sftgroup/oxachain",
+            "stars": 0,
+            "forks": 0,
+            "score": 30
+        },
+        {
+            "main_cat": "Stablecoin Infrastructure",
+            "sub_cat": null,
+            "name": "VOU-Volume-of-Use",
+            "full_name": "ECON-Sentry/VOU-Volume-of-Use",
+            "description": "Volume of Use\u2122 (VOU) \u2013 ECON Sentry\u2019s framework for turning stablecoin payment flows into investable signals, governed by the ECON Sentry Token (Sentry), ticker EVOU.",
+            "url": "https://github.com/ECON-Sentry/VOU-Volume-of-Use",
             "stars": 0,
             "forks": 0,
             "score": 30
@@ -751,20 +751,6 @@ const ALPHA_DATA_V2 = {
     ],
     "news": [
         {
-            "title": "Tilikum: Transaction Fair Ordering on a DAG without Weak Edges",
-            "source": "ArXiv",
-            "type": "Research Alpha",
-            "color": "text-indigo-600",
-            "url": "http://arxiv.org/abs/2606.27250v1"
-        },
-        {
-            "title": "The Observer World: A Cryptographic Extension of Impagliazzo's Five Worlds",
-            "source": "ArXiv",
-            "type": "Research Alpha",
-            "color": "text-indigo-600",
-            "url": "http://arxiv.org/abs/2606.27139v1"
-        },
-        {
             "title": "Bitcoin volatility remains high ahead of key FED decision.",
             "source": "Polymarket",
             "type": "Expectation",
@@ -772,5 +758,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-06-26 23:59"
+    "timestamp": "2026-06-27 03:46"
 };
