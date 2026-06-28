@@ -7,7 +7,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "winsznx/theeleven",
             "description": "Eleven autonomous AI agents open live football prop markets on X Layer \u2014 custom Uniswap v4 hook, gasless USDT0 staking.",
             "url": "https://github.com/winsznx/theeleven",
-            "stars": 692,
+            "stars": 694,
             "forks": 2,
             "score": 88
         },
@@ -128,7 +128,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "lemma-work/lemma-platform",
             "description": "The open-source workspace where humans and AI agents work as one team.",
             "url": "https://github.com/lemma-work/lemma-platform",
-            "stars": 160,
+            "stars": 162,
             "forks": 36,
             "score": 49
         },
@@ -139,9 +139,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "leyten/shard",
             "description": "Pipeline-parallel LLM inference across GPUs on separate machines.",
             "url": "https://github.com/leyten/shard",
-            "stars": 375,
+            "stars": 376,
             "forks": 48,
-            "score": 48
+            "score": 47
         },
         {
             "main_cat": "AI",
@@ -161,7 +161,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "NotASithLord/peerd",
             "description": "The first AI agent harness native to the browser. A Chrome/Firefox extension that runs the agent loop in your browser \u2014 drives your tabs, spins up sandboxed compute (JS notebooks, WASM Linux VMs, client-side apps), and shares what it builds peer-to-peer. BYOK \u00b7 no backend \u00b7 no telemetry.",
             "url": "https://github.com/NotASithLord/peerd",
-            "stars": 219,
+            "stars": 220,
             "forks": 19,
             "score": 46
         },
@@ -227,9 +227,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "gamedev-skills/awesome-gamedev-agent-skills",
             "description": "Game-development Agent Skills for AI coding agents: install once and a master router loads the right skill for your engine and task. 66 original, version-pinned skills (plus a master router) in the portable SKILL.md format that runs across Claude Code, Cursor, Codex, Copilot, Gemini CLI and more, for Godot, Unity, Unreal, web and beyond.",
             "url": "https://github.com/gamedev-skills/awesome-gamedev-agent-skills",
-            "stars": 157,
+            "stars": 158,
             "forks": 6,
-            "score": 42
+            "score": 43
         },
         {
             "main_cat": "AI",
@@ -282,7 +282,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "flatkey-ai/awesome-images",
             "description": "Try flatkey.ai for 40% saving! Generate practical images ready for all your work needs!!!",
             "url": "https://github.com/flatkey-ai/awesome-images",
-            "stars": 230,
+            "stars": 231,
             "forks": 0,
             "score": 38
         },
@@ -348,7 +348,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "LichAmnesia/awesome-ad-video-prompts",
             "description": "Curated, original high-craft prompts for AI video ads (Seedance 2.0 / Veo 3 / Kling / Runway). Companion to HeyDreaming.",
             "url": "https://github.com/LichAmnesia/awesome-ad-video-prompts",
-            "stars": 155,
+            "stars": 156,
             "forks": 7,
             "score": 36
         },
@@ -750,5 +750,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-06-28 20:55"
+    "timestamp": "2026-06-28 21:57"
 };
