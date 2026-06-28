@@ -29,7 +29,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Forsy-AI/agent-apprenticeship",
             "description": "The living ecosystem where AI agents run automated workflow loops on any task, improve through execution, and turn each run into reusable work experience + data to improve future agents.",
             "url": "https://github.com/Forsy-AI/agent-apprenticeship",
-            "stars": 1035,
+            "stars": 1036,
             "forks": 49,
             "score": 81
         },
@@ -40,7 +40,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "benchflow-ai/awesome-evals",
             "description": "A curated, non-BS library of the best resources for building and evaluating AI agents \u2014 papers, blogs, talks, tools, benchmarks. Maintained by BenchFlow.",
             "url": "https://github.com/benchflow-ai/awesome-evals",
-            "stars": 558,
+            "stars": 559,
             "forks": 41,
             "score": 81
         },
@@ -79,24 +79,24 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
-            "sub_cat": null,
-            "name": "ai-fishing-game",
-            "full_name": "tutusagi/ai-fishing-game",
-            "description": "\ud83c\udfa3 \u7ed9 AI \u73a9\u7684\u786e\u5b9a\u6027\u6587\u5b57\u9493\u9c7c\u5c0f\u6e38\u620f \u00b7 \u5355\u6587\u4ef6\u96f6\u4f9d\u8d56 \u00b7 \u8ba9\u4f60\u7684 AI \u4f34\u4fa3\u6765\u9493\u9c7c",
-            "url": "https://github.com/tutusagi/ai-fishing-game",
-            "stars": 262,
-            "forks": 34,
-            "score": 58
-        },
-        {
-            "main_cat": "AI",
             "sub_cat": "AI General",
             "name": "Silent-Crypto-Miner",
             "full_name": "Verdi38/Silent-Crypto-Miner",
             "description": "Cryptocurrency mining toolkit with multi-algorithm CPU/GPU support, resource management, thermal throttling, activity-based pausing, scheduled mining, pool failover, hashrate optimization, real-time monitoring, and cross-platform builds for Windows, Linux, and macOS. Supports XMR, ETC, KAS, RVN, ERG, and BTG mining workflows.",
             "url": "https://github.com/Verdi38/Silent-Crypto-Miner",
-            "stars": 475,
-            "forks": 80,
+            "stars": 486,
+            "forks": 82,
+            "score": 59
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "ai-fishing-game",
+            "full_name": "tutusagi/ai-fishing-game",
+            "description": "\ud83c\udfa3 \u7ed9 AI \u73a9\u7684\u786e\u5b9a\u6027\u6587\u5b57\u9493\u9c7c\u5c0f\u6e38\u620f \u00b7 \u5355\u6587\u4ef6\u96f6\u4f9d\u8d56 \u00b7 \u8ba9\u4f60\u7684 AI \u4f34\u4fa3\u6765\u9493\u9c7c",
+            "url": "https://github.com/tutusagi/ai-fishing-game",
+            "stars": 263,
+            "forks": 34,
             "score": 58
         },
         {
@@ -139,7 +139,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "leyten/shard",
             "description": "Pipeline-parallel LLM inference across GPUs on separate machines.",
             "url": "https://github.com/leyten/shard",
-            "stars": 376,
+            "stars": 377,
             "forks": 48,
             "score": 47
         },
@@ -161,7 +161,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "NotASithLord/peerd",
             "description": "The first AI agent harness native to the browser. A Chrome/Firefox extension that runs the agent loop in your browser \u2014 drives your tabs, spins up sandboxed compute (JS notebooks, WASM Linux VMs, client-side apps), and shares what it builds peer-to-peer. BYOK \u00b7 no backend \u00b7 no telemetry.",
             "url": "https://github.com/NotASithLord/peerd",
-            "stars": 220,
+            "stars": 221,
             "forks": 19,
             "score": 46
         },
@@ -183,7 +183,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "JCarterJohnson/vibecoded-design-tells",
             "description": "Reddit-mined data ranking the visual tells of vibe-coded (AI-built) sites: 3.2M posts scanned across 47 subreddits, with scripts, raw data, and charts.",
             "url": "https://github.com/JCarterJohnson/vibecoded-design-tells",
-            "stars": 330,
+            "stars": 331,
             "forks": 23,
             "score": 44
         },
@@ -216,7 +216,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "tianchong-zerotemp/dianxing",
             "description": "DianXing - AI-Driven End-to-End Code Security Auditing",
             "url": "https://github.com/tianchong-zerotemp/dianxing",
-            "stars": 231,
+            "stars": 232,
             "forks": 28,
             "score": 43
         },
@@ -272,7 +272,7 @@ const ALPHA_DATA_V2 = {
             "description": "Databuff is an open-source , AI-native OpenTelemetry APM &  SREAgent tool . An open-source alternative to Datadog, Dynatrace\uff0cNewRelic, etc. \ud83d\udd25 \ud83d\udd25\ud83d\udd25",
             "url": "https://github.com/databufflabs/databuff",
             "stars": 167,
-            "forks": 28,
+            "forks": 29,
             "score": 40
         },
         {
@@ -750,5 +750,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-06-28 21:57"
+    "timestamp": "2026-06-28 23:02"
 };
