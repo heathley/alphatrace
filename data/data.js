@@ -7,9 +7,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "winsznx/theeleven",
             "description": "Eleven autonomous AI agents open live football prop markets on X Layer \u2014 custom Uniswap v4 hook, gasless USDT0 staking.",
             "url": "https://github.com/winsznx/theeleven",
-            "stars": 686,
+            "stars": 691,
             "forks": 2,
-            "score": 87
+            "score": 88
         },
         {
             "main_cat": "AI",
@@ -18,9 +18,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "yo-WASSUP/Good-Badminton",
             "description": "\ud83c\udff8  AI Badminton Hawk-Eye System",
             "url": "https://github.com/yo-WASSUP/Good-Badminton",
-            "stars": 575,
+            "stars": 576,
             "forks": 175,
-            "score": 87
+            "score": 88
         },
         {
             "main_cat": "AI",
@@ -29,8 +29,19 @@ const ALPHA_DATA_V2 = {
             "full_name": "Forsy-AI/agent-apprenticeship",
             "description": "The living ecosystem where AI agents run automated workflow loops on any task, improve through execution, and turn each run into reusable work experience + data to improve future agents.",
             "url": "https://github.com/Forsy-AI/agent-apprenticeship",
-            "stars": 1028,
+            "stars": 1032,
             "forks": 49,
+            "score": 81
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "awesome-evals",
+            "full_name": "benchflow-ai/awesome-evals",
+            "description": "A curated, non-BS library of the best resources for building and evaluating AI agents \u2014 papers, blogs, talks, tools, benchmarks. Maintained by BenchFlow.",
+            "url": "https://github.com/benchflow-ai/awesome-evals",
+            "stars": 556,
+            "forks": 41,
             "score": 81
         },
         {
@@ -47,24 +58,13 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "awesome-evals",
-            "full_name": "benchflow-ai/awesome-evals",
-            "description": "A curated, non-BS library of the best resources for building and evaluating AI agents \u2014 papers, blogs, talks, tools, benchmarks. Maintained by BenchFlow.",
-            "url": "https://github.com/benchflow-ai/awesome-evals",
-            "stars": 553,
-            "forks": 40,
-            "score": 80
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
             "name": "ainovel-cli",
             "full_name": "kentjuno/ainovel-cli",
             "description": "CLI s\u00e1ng t\u00e1c ti\u1ec3u thuy\u1ebft AI \u0111a agent \u2014 B\u1ea3n ti\u1ebfng Vi\u1ec7t c\u1ee7a voocel/ainovel-cli",
             "url": "https://github.com/kentjuno/ainovel-cli",
-            "stars": 160,
-            "forks": 87,
-            "score": 72
+            "stars": 170,
+            "forks": 92,
+            "score": 74
         },
         {
             "main_cat": "AI",
@@ -74,8 +74,8 @@ const ALPHA_DATA_V2 = {
             "description": "A local-first, open-source coding agent for your desktop. Bring your own LLM key; your code stays on your machine and only ever leaves to the model provider. The AI Agent builds its own Harnes.",
             "url": "https://github.com/eli-labz/Godcoder",
             "stars": 245,
-            "forks": 0,
-            "score": 60
+            "forks": 1,
+            "score": 61
         },
         {
             "main_cat": "AI",
@@ -95,7 +95,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "tutusagi/ai-fishing-game",
             "description": "\ud83c\udfa3 \u7ed9 AI \u73a9\u7684\u786e\u5b9a\u6027\u6587\u5b57\u9493\u9c7c\u5c0f\u6e38\u620f \u00b7 \u5355\u6587\u4ef6\u96f6\u4f9d\u8d56 \u00b7 \u8ba9\u4f60\u7684 AI \u4f34\u4fa3\u6765\u9493\u9c7c",
             "url": "https://github.com/tutusagi/ai-fishing-game",
-            "stars": 256,
+            "stars": 260,
             "forks": 34,
             "score": 58
         },
@@ -128,7 +128,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "lemma-work/lemma-platform",
             "description": "The open-source workspace where humans and AI agents work as one team.",
             "url": "https://github.com/lemma-work/lemma-platform",
-            "stars": 156,
+            "stars": 159,
             "forks": 36,
             "score": 48
         },
@@ -156,6 +156,17 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "peerd",
+            "full_name": "NotASithLord/peerd",
+            "description": "The first AI agent harness native to the browser. A Chrome/Firefox extension that runs the agent loop in your browser \u2014 drives your tabs, spins up sandboxed compute (JS notebooks, WASM Linux VMs, client-side apps), and shares what it builds peer-to-peer. BYOK \u00b7 no backend \u00b7 no telemetry.",
+            "url": "https://github.com/NotASithLord/peerd",
+            "stars": 217,
+            "forks": 19,
+            "score": 46
+        },
+        {
+            "main_cat": "AI",
             "sub_cat": null,
             "name": "AIGX",
             "full_name": "Lolner95/AIGX",
@@ -167,14 +178,14 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "peerd",
-            "full_name": "NotASithLord/peerd",
-            "description": "The first AI agent harness native to the browser. A Chrome/Firefox extension that runs the agent loop in your browser \u2014 drives your tabs, spins up sandboxed compute (JS notebooks, WASM Linux VMs, client-side apps), and shares what it builds peer-to-peer. BYOK \u00b7 no backend \u00b7 no telemetry.",
-            "url": "https://github.com/NotASithLord/peerd",
-            "stars": 213,
-            "forks": 18,
-            "score": 45
+            "sub_cat": null,
+            "name": "vibecoded-design-tells",
+            "full_name": "JCarterJohnson/vibecoded-design-tells",
+            "description": "Reddit-mined data ranking the visual tells of vibe-coded (AI-built) sites: 3.2M posts scanned across 47 subreddits, with scripts, raw data, and charts.",
+            "url": "https://github.com/JCarterJohnson/vibecoded-design-tells",
+            "stars": 329,
+            "forks": 23,
+            "score": 44
         },
         {
             "main_cat": "AI",
@@ -201,34 +212,23 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "vibecoded-design-tells",
-            "full_name": "JCarterJohnson/vibecoded-design-tells",
-            "description": "Reddit-mined data ranking the visual tells of vibe-coded (AI-built) sites: 3.2M posts scanned across 47 subreddits, with scripts, raw data, and charts.",
-            "url": "https://github.com/JCarterJohnson/vibecoded-design-tells",
-            "stars": 327,
-            "forks": 22,
-            "score": 43
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
             "name": "dianxing",
             "full_name": "tianchong-zerotemp/dianxing",
             "description": "DianXing - AI-Driven End-to-End Code Security Auditing",
             "url": "https://github.com/tianchong-zerotemp/dianxing",
-            "stars": 226,
+            "stars": 229,
             "forks": 27,
             "score": 42
         },
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "AI-Canvas",
-            "full_name": "binghe1980/AI-Canvas",
-            "description": "Codex-integrated infinite canvas for AI image generation, annotation, and iterative editing.",
-            "url": "https://github.com/binghe1980/AI-Canvas",
-            "stars": 171,
-            "forks": 22,
+            "name": "awesome-gamedev-agent-skills",
+            "full_name": "gamedev-skills/awesome-gamedev-agent-skills",
+            "description": "Game-development Agent Skills for AI coding agents: install once and a master router loads the right skill for your engine and task. 66 original, version-pinned skills (plus a master router) in the portable SKILL.md format that runs across Claude Code, Cursor, Codex, Copilot, Gemini CLI and more, for Godot, Unity, Unreal, web and beyond.",
+            "url": "https://github.com/gamedev-skills/awesome-gamedev-agent-skills",
+            "stars": 153,
+            "forks": 6,
             "score": 42
         },
         {
@@ -256,6 +256,17 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
+            "name": "AI-Canvas",
+            "full_name": "binghe1980/AI-Canvas",
+            "description": "Codex-integrated infinite canvas for AI image generation, annotation, and iterative editing.",
+            "url": "https://github.com/binghe1980/AI-Canvas",
+            "stars": 172,
+            "forks": 22,
+            "score": 41
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
             "name": "databuff",
             "full_name": "databufflabs/databuff",
             "description": "Databuff is an open-source , AI-native OpenTelemetry APM &  SREAgent tool . An open-source alternative to Datadog, Dynatrace\uff0cNewRelic, etc. \ud83d\udd25 \ud83d\udd25\ud83d\udd25",
@@ -271,7 +282,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "flatkey-ai/awesome-images",
             "description": "Try flatkey.ai for 40% saving! Generate practical images ready for all your work needs!!!",
             "url": "https://github.com/flatkey-ai/awesome-images",
-            "stars": 228,
+            "stars": 229,
             "forks": 0,
             "score": 38
         },
@@ -282,7 +293,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Env-Kit/envkit-releases",
             "description": "EnvKit \u2014 free local development environment for Windows & macOS: nginx/Apache, multiple PHP versions, MySQL/MariaDB,   PostgreSQL, Redis, MongoDB, Mailpit, Node.js, trusted .test HTTPS, and a built-in MCP server for AI-assistant control.   A Laragon/XAMPP/Herd alternative.",
             "url": "https://github.com/Env-Kit/envkit-releases",
-            "stars": 176,
+            "stars": 177,
             "forks": 5,
             "score": 38
         },
@@ -293,7 +304,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "yolfinance/yolfi-agent",
             "description": "Yolfi Agent Kit SDK, CLI, and MCP server for AI coding agents.",
             "url": "https://github.com/yolfinance/yolfi-agent",
-            "stars": 217,
+            "stars": 218,
             "forks": 1,
             "score": 37
         },
@@ -311,17 +322,6 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "claude-ai-free-desktop-app",
-            "full_name": "Sorathiya123/claude-ai-free-desktop-app",
-            "description": "free claude code ai github  desktop pc windows linux macOS proxy server anthropic free api local llm router nvidia nim openrouter deepseek ollama lm studio vscode extension jetbrains cli terminal coding assistant",
-            "url": "https://github.com/Sorathiya123/claude-ai-free-desktop-app",
-            "stars": 184,
-            "forks": 3,
-            "score": 37
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
             "name": "cloudflare-playbook",
             "full_name": "realchendahuang/cloudflare-playbook",
             "description": "AI \u7f16\u7a0b\u65f6\u4ee3\u7684 Cloudflare \u5b9e\u6218\u624b\u518c\u2014\u2014\u7528 AI \u5199\u4ee3\u7801\uff0c\u7528 Cloudflare \u90e8\u7f72\u5230\u5168\u7403\u3002",
@@ -333,6 +333,17 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
+            "name": "claude-ai-free-desktop-app",
+            "full_name": "Sorathiya123/claude-ai-free-desktop-app",
+            "description": "free claude code ai github  desktop pc windows linux macOS proxy server anthropic free api local llm router nvidia nim openrouter deepseek ollama lm studio vscode extension jetbrains cli terminal coding assistant",
+            "url": "https://github.com/Sorathiya123/claude-ai-free-desktop-app",
+            "stars": 184,
+            "forks": 3,
+            "score": 36
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
             "name": "awesome-ad-video-prompts",
             "full_name": "LichAmnesia/awesome-ad-video-prompts",
             "description": "Curated, original high-craft prompts for AI video ads (Seedance 2.0 / Veo 3 / Kling / Runway). Companion to HeyDreaming.",
@@ -340,17 +351,6 @@ const ALPHA_DATA_V2 = {
             "stars": 155,
             "forks": 7,
             "score": 36
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "ai-sdd",
-            "full_name": "frtghyujkiolsas-lab/ai-sdd",
-            "description": "AI-SDD spec-driven product delivery sample: from idea, PRD and prototype to frontend-backend integration, testing and delivery.",
-            "url": "https://github.com/frtghyujkiolsas-lab/ai-sdd",
-            "stars": 153,
-            "forks": 2,
-            "score": 35
         },
         {
             "main_cat": "AI",
@@ -750,5 +750,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-06-28 17:02"
+    "timestamp": "2026-06-28 19:09"
 };
