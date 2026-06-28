@@ -3,23 +3,23 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
+            "name": "theeleven",
+            "full_name": "winsznx/theeleven",
+            "description": "Eleven autonomous AI agents open live football prop markets on X Layer \u2014 custom Uniswap v4 hook, gasless USDT0 staking.",
+            "url": "https://github.com/winsznx/theeleven",
+            "stars": 678,
+            "forks": 2,
+            "score": 87
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
             "name": "Good-Badminton",
             "full_name": "yo-WASSUP/Good-Badminton",
             "description": "\ud83c\udff8  AI Badminton Hawk-Eye System",
             "url": "https://github.com/yo-WASSUP/Good-Badminton",
             "stars": 570,
             "forks": 175,
-            "score": 93
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "theeleven",
-            "full_name": "winsznx/theeleven",
-            "description": "Eleven autonomous AI agents open live football prop markets on X Layer \u2014 custom Uniswap v4 hook, gasless USDT0 staking.",
-            "url": "https://github.com/winsznx/theeleven",
-            "stars": 677,
-            "forks": 2,
             "score": 87
         },
         {
@@ -29,7 +29,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Forsy-AI/agent-apprenticeship",
             "description": "The living ecosystem where AI agents run automated workflow loops on any task, improve through execution, and turn each run into reusable work experience + data to improve future agents.",
             "url": "https://github.com/Forsy-AI/agent-apprenticeship",
-            "stars": 1014,
+            "stars": 1018,
             "forks": 49,
             "score": 85
         },
@@ -40,9 +40,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "Pluviobyte/video-production-skills",
             "description": "Reusable AI video production skills library for creation, recreation, motion design, openers, and QA.",
             "url": "https://github.com/Pluviobyte/video-production-skills",
-            "stars": 353,
+            "stars": 354,
             "forks": 39,
-            "score": 80
+            "score": 81
         },
         {
             "main_cat": "AI",
@@ -51,9 +51,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "benchflow-ai/awesome-evals",
             "description": "A curated, non-BS library of the best resources for building and evaluating AI agents \u2014 papers, blogs, talks, tools, benchmarks. Maintained by BenchFlow.",
             "url": "https://github.com/benchflow-ai/awesome-evals",
-            "stars": 541,
+            "stars": 544,
             "forks": 39,
-            "score": 79
+            "score": 80
         },
         {
             "main_cat": "AI",
@@ -62,7 +62,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "eli-labz/Godcoder",
             "description": "A local-first, open-source coding agent for your desktop. Bring your own LLM key; your code stays on your machine and only ever leaves to the model provider. The AI Agent builds its own Harnes.",
             "url": "https://github.com/eli-labz/Godcoder",
-            "stars": 244,
+            "stars": 245,
             "forks": 0,
             "score": 60
         },
@@ -84,8 +84,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "tutusagi/ai-fishing-game",
             "description": "\ud83c\udfa3 \u7ed9 AI \u73a9\u7684\u786e\u5b9a\u6027\u6587\u5b57\u9493\u9c7c\u5c0f\u6e38\u620f \u00b7 \u5355\u6587\u4ef6\u96f6\u4f9d\u8d56 \u00b7 \u8ba9\u4f60\u7684 AI \u4f34\u4fa3\u6765\u9493\u9c7c",
             "url": "https://github.com/tutusagi/ai-fishing-game",
-            "stars": 237,
-            "forks": 32,
+            "stars": 243,
+            "forks": 33,
             "score": 56
         },
         {
@@ -117,8 +117,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "lemma-work/lemma-platform",
             "description": "The open-source workspace where humans and AI agents work as one team.",
             "url": "https://github.com/lemma-work/lemma-platform",
-            "stars": 148,
-            "forks": 33,
+            "stars": 151,
+            "forks": 34,
             "score": 50
         },
         {
@@ -161,7 +161,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Johell1NS/browser-search",
             "description": "A skill for AI agents: search the web with SearXNG, browse with Camofox, bypass protections with CloakBrowser. Anti-hallucination by design. Self-hosted, free, unlimited.",
             "url": "https://github.com/Johell1NS/browser-search",
-            "stars": 185,
+            "stars": 186,
             "forks": 20,
             "score": 46
         },
@@ -194,8 +194,19 @@ const ALPHA_DATA_V2 = {
             "full_name": "JCarterJohnson/vibecoded-design-tells",
             "description": "Reddit-mined data ranking the visual tells of vibe-coded (AI-built) sites: 3.2M posts scanned across 47 subreddits, with scripts, raw data, and charts.",
             "url": "https://github.com/JCarterJohnson/vibecoded-design-tells",
-            "stars": 314,
+            "stars": 315,
             "forks": 22,
+            "score": 43
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "dianxing",
+            "full_name": "tianchong-zerotemp/dianxing",
+            "description": "DianXing - AI-Driven End-to-End Code Security Auditing",
+            "url": "https://github.com/tianchong-zerotemp/dianxing",
+            "stars": 220,
+            "forks": 24,
             "score": 43
         },
         {
@@ -205,19 +216,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "fendouai/best-humanizer-handbook",
             "description": "Best AI Humanizer Handbook A practical guide to making AI-assisted writing clearer, more credible, and more human",
             "url": "https://github.com/fendouai/best-humanizer-handbook",
-            "stars": 350,
+            "stars": 351,
             "forks": 4,
-            "score": 42
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "dianxing",
-            "full_name": "tianchong-zerotemp/dianxing",
-            "description": "DianXing - AI-Driven End-to-End Code Security Auditing",
-            "url": "https://github.com/tianchong-zerotemp/dianxing",
-            "stars": 215,
-            "forks": 24,
             "score": 42
         },
         {
@@ -238,7 +238,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Karovia/fullstack-ai-agent-roadmap",
             "description": "\ud83c\udfaf \u4ece\u96f6\u57fa\u7840\u5230 AI Agent \u5168\u6808\u5de5\u7a0b\u5e08 \u00b7 110 \u4e2a\u8be6\u7ec6\u6559\u7a0b \u00b7 58 \u4e07\u5b57 \u00b7 400+ GitHub \u9879\u76ee\u7cbe\u9009 \u00b7 Obsidian \u53cb\u597d \u00b7 \u4e2d\u6587",
             "url": "https://github.com/Karovia/fullstack-ai-agent-roadmap",
-            "stars": 211,
+            "stars": 213,
             "forks": 15,
             "score": 41
         },
@@ -260,7 +260,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "flatkey-ai/awesome-images",
             "description": "Try flatkey.ai for 40% saving! Generate practical images ready for all your work needs!!!",
             "url": "https://github.com/flatkey-ai/awesome-images",
-            "stars": 220,
+            "stars": 223,
             "forks": 0,
             "score": 39
         },
@@ -271,7 +271,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Env-Kit/envkit-releases",
             "description": "EnvKit \u2014 free local development environment for Windows & macOS: nginx/Apache, multiple PHP versions, MySQL/MariaDB,   PostgreSQL, Redis, MongoDB, Mailpit, Node.js, trusted .test HTTPS, and a built-in MCP server for AI-assistant control.   A Laragon/XAMPP/Herd alternative.",
             "url": "https://github.com/Env-Kit/envkit-releases",
-            "stars": 174,
+            "stars": 175,
             "forks": 5,
             "score": 39
         },
@@ -750,5 +750,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-06-28 09:57"
+    "timestamp": "2026-06-28 11:46"
 };
