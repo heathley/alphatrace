@@ -18,7 +18,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Pluviobyte/video-production-skills",
             "description": "Reusable AI video production skills library for creation, recreation, motion design, openers, and QA.",
             "url": "https://github.com/Pluviobyte/video-production-skills",
-            "stars": 424,
+            "stars": 429,
             "forks": 51,
             "score": 82
         },
@@ -40,7 +40,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Forsy-AI/agent-apprenticeship",
             "description": "The living ecosystem where AI agents run automated workflow loops on any task, improve through execution, and turn each run into reusable work experience + data to improve future agents.",
             "url": "https://github.com/Forsy-AI/agent-apprenticeship",
-            "stars": 1055,
+            "stars": 1058,
             "forks": 49,
             "score": 78
         },
@@ -51,7 +51,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "benchflow-ai/awesome-evals",
             "description": "A curated, non-BS library of the best resources for building and evaluating AI agents \u2014 papers, blogs, talks, tools, benchmarks. Maintained by BenchFlow.",
             "url": "https://github.com/benchflow-ai/awesome-evals",
-            "stars": 585,
+            "stars": 586,
             "forks": 42,
             "score": 77
         },
@@ -73,9 +73,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "tutusagi/ai-fishing-game",
             "description": "\ud83c\udfa3 \u7ed9 AI \u73a9\u7684\u786e\u5b9a\u6027\u6587\u5b57\u9493\u9c7c\u5c0f\u6e38\u620f \u00b7 \u5355\u6587\u4ef6\u96f6\u4f9d\u8d56 \u00b7 \u8ba9\u4f60\u7684 AI \u4f34\u4fa3\u6765\u9493\u9c7c",
             "url": "https://github.com/tutusagi/ai-fishing-game",
-            "stars": 307,
+            "stars": 309,
             "forks": 39,
-            "score": 58
+            "score": 59
         },
         {
             "main_cat": "AI",
@@ -112,24 +112,35 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
-            "sub_cat": null,
-            "name": "sim-use",
-            "full_name": "lycorp-jp/sim-use",
-            "description": "Give your AI agent eyes and hands on iOS Simulator and Android emulator/devices.",
-            "url": "https://github.com/lycorp-jp/sim-use",
-            "stars": 182,
-            "forks": 4,
-            "score": 46
-        },
-        {
-            "main_cat": "AI",
             "sub_cat": "AI General",
             "name": "peerd",
             "full_name": "NotASithLord/peerd",
             "description": "The first AI agent harness native to the browser. A Chrome/Firefox extension that runs the agent loop in your browser \u2014 drives your tabs, spins up sandboxed compute (JS notebooks, WASM Linux VMs, client-side apps), and shares what it builds peer-to-peer. BYOK \u00b7 no backend \u00b7 no telemetry.",
             "url": "https://github.com/NotASithLord/peerd",
-            "stars": 235,
+            "stars": 236,
             "forks": 21,
+            "score": 46
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "sim-use",
+            "full_name": "lycorp-jp/sim-use",
+            "description": "Give your AI agent eyes and hands on iOS Simulator and Android emulator/devices.",
+            "url": "https://github.com/lycorp-jp/sim-use",
+            "stars": 185,
+            "forks": 4,
+            "score": 46
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "browser-search",
+            "full_name": "Johell1NS/browser-search",
+            "description": "A skill for AI agents: search the web with SearXNG, browse with Camofox, bypass protections with CloakBrowser. Anti-hallucination by design. Self-hosted, free, unlimited.",
+            "url": "https://github.com/Johell1NS/browser-search",
+            "stars": 226,
+            "forks": 23,
             "score": 45
         },
         {
@@ -141,17 +152,6 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/iart-ai/motion-skills",
             "stars": 224,
             "forks": 19,
-            "score": 45
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "browser-search",
-            "full_name": "Johell1NS/browser-search",
-            "description": "A skill for AI agents: search the web with SearXNG, browse with Camofox, bypass protections with CloakBrowser. Anti-hallucination by design. Self-hosted, free, unlimited.",
-            "url": "https://github.com/Johell1NS/browser-search",
-            "stars": 224,
-            "forks": 23,
             "score": 45
         },
         {
@@ -172,7 +172,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "tianchong-zerotemp/dianxing",
             "description": "DianXing - AI-Driven End-to-End Code Security Auditing",
             "url": "https://github.com/tianchong-zerotemp/dianxing",
-            "stars": 261,
+            "stars": 267,
             "forks": 30,
             "score": 43
         },
@@ -234,6 +234,17 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
+            "name": "lfg",
+            "full_name": "BennyKok/lfg",
+            "description": "lfg \u2014 run and manage your AI coding agents (Claude Code / Codex / OpenCode) on your own VPS",
+            "url": "https://github.com/BennyKok/lfg",
+            "stars": 219,
+            "forks": 13,
+            "score": 39
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
             "name": "humation",
             "full_name": "humation-labs/humation",
             "description": "Hand-drawn kawaii avatar engine for your app. No AI, no API calls.",
@@ -256,23 +267,23 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "lfg",
-            "full_name": "BennyKok/lfg",
-            "description": "lfg \u2014 run and manage your AI coding agents (Claude Code / Codex / OpenCode) on your own VPS",
-            "url": "https://github.com/BennyKok/lfg",
-            "stars": 213,
-            "forks": 13,
+            "name": "envkit-releases",
+            "full_name": "Env-Kit/envkit-releases",
+            "description": "EnvKit \u2014 free local development environment for Windows & macOS: nginx/Apache, multiple PHP versions, MySQL/MariaDB,   PostgreSQL, Redis, MongoDB, Mailpit, Node.js, trusted .test HTTPS, and a built-in MCP server for AI-assistant control.   A Laragon/XAMPP/Herd alternative.",
+            "url": "https://github.com/Env-Kit/envkit-releases",
+            "stars": 185,
+            "forks": 5,
             "score": 38
         },
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "envkit-releases",
-            "full_name": "Env-Kit/envkit-releases",
-            "description": "EnvKit \u2014 free local development environment for Windows & macOS: nginx/Apache, multiple PHP versions, MySQL/MariaDB,   PostgreSQL, Redis, MongoDB, Mailpit, Node.js, trusted .test HTTPS, and a built-in MCP server for AI-assistant control.   A Laragon/XAMPP/Herd alternative.",
-            "url": "https://github.com/Env-Kit/envkit-releases",
-            "stars": 184,
-            "forks": 5,
+            "name": "Accordion",
+            "full_name": "a-Fig/Accordion",
+            "description": "\ud83c\udfc6 AI Hackathon 2026 @ UC Berkeley  Intelligent context management for developers",
+            "url": "https://github.com/a-Fig/Accordion",
+            "stars": 156,
+            "forks": 12,
             "score": 38
         },
         {
@@ -332,17 +343,6 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
-            "sub_cat": null,
-            "name": "awesome-ad-video-prompts",
-            "full_name": "LichAmnesia/awesome-ad-video-prompts",
-            "description": "Curated, original high-craft prompts for AI video ads (Seedance 2.0 / Veo 3 / Kling / Runway). Companion to HeyDreaming.",
-            "url": "https://github.com/LichAmnesia/awesome-ad-video-prompts",
-            "stars": 156,
-            "forks": 7,
-            "score": 35
-        },
-        {
-            "main_cat": "AI",
             "sub_cat": "AI General",
             "name": "freeaitokens",
             "full_name": "paulfruitful/freeaitokens",
@@ -370,7 +370,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "ai9app/AI-Cinematic-Prompt-Director",
             "description": "250 AI Cinematic knowledge base of Master camera movements, 3D design, and video effects with this professional prompt engineering framework for AI video models (Seedance 2.0, Sora, Kling). Features a scene-by-scene video prompt structure and a 250-base cinematography dictionary. Let's gen it!",
             "url": "https://github.com/ai9app/AI-Cinematic-Prompt-Director",
-            "stars": 10,
+            "stars": 11,
             "forks": 2,
             "score": 30
         },
@@ -761,5 +761,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-06-29 19:00"
+    "timestamp": "2026-06-29 21:19"
 };
