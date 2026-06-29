@@ -18,9 +18,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "Pluviobyte/video-production-skills",
             "description": "Reusable AI video production skills library for creation, recreation, motion design, openers, and QA.",
             "url": "https://github.com/Pluviobyte/video-production-skills",
-            "stars": 429,
-            "forks": 51,
-            "score": 82
+            "stars": 434,
+            "forks": 53,
+            "score": 83
         },
         {
             "main_cat": "AI",
@@ -40,7 +40,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Forsy-AI/agent-apprenticeship",
             "description": "The living ecosystem where AI agents run automated workflow loops on any task, improve through execution, and turn each run into reusable work experience + data to improve future agents.",
             "url": "https://github.com/Forsy-AI/agent-apprenticeship",
-            "stars": 1058,
+            "stars": 1061,
             "forks": 49,
             "score": 78
         },
@@ -107,7 +107,7 @@ const ALPHA_DATA_V2 = {
             "description": "The open-source workspace where humans and AI agents work as one team.",
             "url": "https://github.com/lemma-work/lemma-platform",
             "stars": 183,
-            "forks": 38,
+            "forks": 39,
             "score": 48
         },
         {
@@ -117,19 +117,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "NotASithLord/peerd",
             "description": "The first AI agent harness native to the browser. A Chrome/Firefox extension that runs the agent loop in your browser \u2014 drives your tabs, spins up sandboxed compute (JS notebooks, WASM Linux VMs, client-side apps), and shares what it builds peer-to-peer. BYOK \u00b7 no backend \u00b7 no telemetry.",
             "url": "https://github.com/NotASithLord/peerd",
-            "stars": 236,
-            "forks": 21,
-            "score": 46
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "sim-use",
-            "full_name": "lycorp-jp/sim-use",
-            "description": "Give your AI agent eyes and hands on iOS Simulator and Android emulator/devices.",
-            "url": "https://github.com/lycorp-jp/sim-use",
-            "stars": 185,
-            "forks": 4,
+            "stars": 237,
+            "forks": 22,
             "score": 46
         },
         {
@@ -139,9 +128,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "Johell1NS/browser-search",
             "description": "A skill for AI agents: search the web with SearXNG, browse with Camofox, bypass protections with CloakBrowser. Anti-hallucination by design. Self-hosted, free, unlimited.",
             "url": "https://github.com/Johell1NS/browser-search",
-            "stars": 226,
+            "stars": 229,
             "forks": 23,
-            "score": 45
+            "score": 46
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "sim-use",
+            "full_name": "lycorp-jp/sim-use",
+            "description": "Give your AI agent eyes and hands on iOS Simulator and Android emulator/devices.",
+            "url": "https://github.com/lycorp-jp/sim-use",
+            "stars": 186,
+            "forks": 4,
+            "score": 46
         },
         {
             "main_cat": "AI",
@@ -172,7 +172,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "tianchong-zerotemp/dianxing",
             "description": "DianXing - AI-Driven End-to-End Code Security Auditing",
             "url": "https://github.com/tianchong-zerotemp/dianxing",
-            "stars": 267,
+            "stars": 269,
             "forks": 30,
             "score": 43
         },
@@ -194,7 +194,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "gamedev-skills/awesome-gamedev-agent-skills",
             "description": "Game-development Agent Skills for AI coding agents: install once and a master router loads the right skill for your engine and task. 66 original, version-pinned skills (plus a master router) in the portable SKILL.md format that runs across Claude Code, Cursor, Codex, Copilot, Gemini CLI and more, for Godot, Unity, Unreal, web and beyond.",
             "url": "https://github.com/gamedev-skills/awesome-gamedev-agent-skills",
-            "stars": 180,
+            "stars": 181,
             "forks": 7,
             "score": 43
         },
@@ -238,7 +238,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "BennyKok/lfg",
             "description": "lfg \u2014 run and manage your AI coding agents (Claude Code / Codex / OpenCode) on your own VPS",
             "url": "https://github.com/BennyKok/lfg",
-            "stars": 219,
+            "stars": 220,
             "forks": 13,
             "score": 39
         },
@@ -255,12 +255,23 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "claude-mythos-ai-anthropic-desktop-app",
+            "full_name": "ikarma/claude-mythos-ai-anthropic-desktop-app",
+            "description": "claude mythos ai anthropic free large language model llm frontier model project glasswing cybersecurity agent vulnerability research software engineering agentic workflows multi step reasoning recurrent depth transformer rdt openmythos repository open source claude fable 5 multi agent",
+            "url": "https://github.com/ikarma/claude-mythos-ai-anthropic-desktop-app",
+            "stars": 158,
+            "forks": 2,
+            "score": 39
+        },
+        {
+            "main_cat": "AI",
             "sub_cat": null,
             "name": "awesome-images",
             "full_name": "flatkey-ai/awesome-images",
             "description": "Try flatkey.ai for 40% saving! Generate practical images ready for all your work needs!!!",
             "url": "https://github.com/flatkey-ai/awesome-images",
-            "stars": 247,
+            "stars": 249,
             "forks": 0,
             "score": 38
         },
@@ -282,19 +293,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "a-Fig/Accordion",
             "description": "\ud83c\udfc6 AI Hackathon 2026 @ UC Berkeley  Intelligent context management for developers",
             "url": "https://github.com/a-Fig/Accordion",
-            "stars": 156,
+            "stars": 158,
             "forks": 12,
-            "score": 38
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "HermesAgent-MultiModel",
-            "full_name": "InfiniteWhispers/HermesAgent-MultiModel",
-            "description": "A fully-local, multi-model AI agent framework with Mixture-of-Agents (MoA) orchestration. Run a high-performance agentic stack on consumer GPUs (RTX 4080/5080) using Hermes + Ollama, with zero cloud dependencies.",
-            "url": "https://github.com/InfiniteWhispers/HermesAgent-MultiModel",
-            "stars": 32,
-            "forks": 5,
             "score": 38
         },
         {
@@ -304,19 +304,19 @@ const ALPHA_DATA_V2 = {
             "full_name": "alexchan197611/ai_media_assistant",
             "description": "AI-Powered Automate Self-Media Video Generation Tools\u200c",
             "url": "https://github.com/alexchan197611/ai_media_assistant",
-            "stars": 172,
+            "stars": 173,
             "forks": 20,
             "score": 37
         },
         {
             "main_cat": "AI",
-            "sub_cat": null,
-            "name": "cloudflare-playbook",
-            "full_name": "realchendahuang/cloudflare-playbook",
-            "description": "AI \u7f16\u7a0b\u65f6\u4ee3\u7684 Cloudflare \u5b9e\u6218\u624b\u518c\u2014\u2014\u7528 AI \u5199\u4ee3\u7801\uff0c\u7528 Cloudflare \u90e8\u7f72\u5230\u5168\u7403\u3002",
-            "url": "https://github.com/realchendahuang/cloudflare-playbook",
-            "stars": 156,
-            "forks": 17,
+            "sub_cat": "AI General",
+            "name": "HermesAgent-MultiModel",
+            "full_name": "InfiniteWhispers/HermesAgent-MultiModel",
+            "description": "A fully-local, multi-model AI agent framework with Mixture-of-Agents (MoA) orchestration. Run a high-performance agentic stack on consumer GPUs (RTX 4080/5080) using Hermes + Ollama, with zero cloud dependencies.",
+            "url": "https://github.com/InfiniteWhispers/HermesAgent-MultiModel",
+            "stars": 33,
+            "forks": 6,
             "score": 37
         },
         {
@@ -359,7 +359,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Dicklesworthstone/franken_ocr",
             "description": "Pure-Rust, CPU-only OCR engine for Baidu Unlimited-OCR (a DeepSeek-OCR-derived 3B MoE VLM). One fixed model, custom int4/int8 kernels, no ML framework, no GPU. Pre-Phase-0 scaffold.",
             "url": "https://github.com/Dicklesworthstone/franken_ocr",
-            "stars": 16,
+            "stars": 17,
             "forks": 0,
             "score": 31
         },
@@ -370,7 +370,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "ai9app/AI-Cinematic-Prompt-Director",
             "description": "250 AI Cinematic knowledge base of Master camera movements, 3D design, and video effects with this professional prompt engineering framework for AI video models (Seedance 2.0, Sora, Kling). Features a scene-by-scene video prompt structure and a 250-base cinematography dictionary. Let's gen it!",
             "url": "https://github.com/ai9app/AI-Cinematic-Prompt-Director",
-            "stars": 11,
+            "stars": 12,
             "forks": 2,
             "score": 30
         },
@@ -761,5 +761,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-06-29 21:19"
+    "timestamp": "2026-06-29 22:50"
 };
