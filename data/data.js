@@ -7,31 +7,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "yo-WASSUP/Good-Badminton",
             "description": "\ud83c\udff8  AI Badminton Hawk-Eye System",
             "url": "https://github.com/yo-WASSUP/Good-Badminton",
-            "stars": 599,
+            "stars": 600,
             "forks": 180,
-            "score": 84
-        },
-        {
-            "main_cat": "DePIN",
-            "sub_cat": null,
-            "name": "Silent-Crypto-Miner",
-            "full_name": "kelseys1996/Silent-Crypto-Miner",
-            "description": "Silent Crypto Miner is an advanced cryptocurrency mining builder and runtime engine with multi-algorithm CPU/GPU support and intelligent resource management. Create custom mining executables with configurable algorithms, cross-platform output, real-time monitoring, session persistence, thermal throttling, scheduling, and hashrate optimization.",
-            "url": "https://github.com/kelseys1996/Silent-Crypto-Miner",
-            "stars": 190,
-            "forks": 34,
-            "score": 84
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "theeleven",
-            "full_name": "winsznx/theeleven",
-            "description": "Eleven autonomous AI agents open live football prop markets on X Layer \u2014 custom Uniswap v4 hook, gasless USDT0 staking.",
-            "url": "https://github.com/winsznx/theeleven",
-            "stars": 713,
-            "forks": 2,
-            "score": 81
+            "score": 85
         },
         {
             "main_cat": "AI",
@@ -40,8 +18,19 @@ const ALPHA_DATA_V2 = {
             "full_name": "Pluviobyte/video-production-skills",
             "description": "Reusable AI video production skills library for creation, recreation, motion design, openers, and QA.",
             "url": "https://github.com/Pluviobyte/video-production-skills",
-            "stars": 418,
-            "forks": 50,
+            "stars": 424,
+            "forks": 51,
+            "score": 82
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "theeleven",
+            "full_name": "winsznx/theeleven",
+            "description": "Eleven autonomous AI agents open live football prop markets on X Layer \u2014 custom Uniswap v4 hook, gasless USDT0 staking.",
+            "url": "https://github.com/winsznx/theeleven",
+            "stars": 714,
+            "forks": 2,
             "score": 81
         },
         {
@@ -51,9 +40,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "Forsy-AI/agent-apprenticeship",
             "description": "The living ecosystem where AI agents run automated workflow loops on any task, improve through execution, and turn each run into reusable work experience + data to improve future agents.",
             "url": "https://github.com/Forsy-AI/agent-apprenticeship",
-            "stars": 1050,
+            "stars": 1055,
             "forks": 49,
-            "score": 77
+            "score": 78
         },
         {
             "main_cat": "AI",
@@ -62,9 +51,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "benchflow-ai/awesome-evals",
             "description": "A curated, non-BS library of the best resources for building and evaluating AI agents \u2014 papers, blogs, talks, tools, benchmarks. Maintained by BenchFlow.",
             "url": "https://github.com/benchflow-ai/awesome-evals",
-            "stars": 582,
+            "stars": 585,
             "forks": 42,
-            "score": 76
+            "score": 77
         },
         {
             "main_cat": "AI",
@@ -74,7 +63,7 @@ const ALPHA_DATA_V2 = {
             "description": "CLI s\u00e1ng t\u00e1c ti\u1ec3u thuy\u1ebft AI \u0111a agent \u2014 B\u1ea3n ti\u1ebfng Vi\u1ec7t c\u1ee7a voocel/ainovel-cli",
             "url": "https://github.com/kentjuno/ainovel-cli",
             "stars": 188,
-            "forks": 101,
+            "forks": 102,
             "score": 72
         },
         {
@@ -84,7 +73,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "tutusagi/ai-fishing-game",
             "description": "\ud83c\udfa3 \u7ed9 AI \u73a9\u7684\u786e\u5b9a\u6027\u6587\u5b57\u9493\u9c7c\u5c0f\u6e38\u620f \u00b7 \u5355\u6587\u4ef6\u96f6\u4f9d\u8d56 \u00b7 \u8ba9\u4f60\u7684 AI \u4f34\u4fa3\u6765\u9493\u9c7c",
             "url": "https://github.com/tutusagi/ai-fishing-game",
-            "stars": 304,
+            "stars": 307,
             "forks": 39,
             "score": 58
         },
@@ -95,7 +84,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "eli-labz/Godcoder",
             "description": "A local-first, open-source coding agent for your desktop. Bring your own LLM key; your code stays on your machine and only ever leaves to the model provider. The AI Agent builds its own Harnes.",
             "url": "https://github.com/eli-labz/Godcoder",
-            "stars": 250,
+            "stars": 251,
             "forks": 1,
             "score": 55
         },
@@ -117,7 +106,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "lemma-work/lemma-platform",
             "description": "The open-source workspace where humans and AI agents work as one team.",
             "url": "https://github.com/lemma-work/lemma-platform",
-            "stars": 181,
+            "stars": 183,
             "forks": 38,
             "score": 48
         },
@@ -128,7 +117,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "lycorp-jp/sim-use",
             "description": "Give your AI agent eyes and hands on iOS Simulator and Android emulator/devices.",
             "url": "https://github.com/lycorp-jp/sim-use",
-            "stars": 176,
+            "stars": 182,
             "forks": 4,
             "score": 46
         },
@@ -140,7 +129,7 @@ const ALPHA_DATA_V2 = {
             "description": "The first AI agent harness native to the browser. A Chrome/Firefox extension that runs the agent loop in your browser \u2014 drives your tabs, spins up sandboxed compute (JS notebooks, WASM Linux VMs, client-side apps), and shares what it builds peer-to-peer. BYOK \u00b7 no backend \u00b7 no telemetry.",
             "url": "https://github.com/NotASithLord/peerd",
             "stars": 235,
-            "forks": 20,
+            "forks": 21,
             "score": 45
         },
         {
@@ -161,20 +150,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "Johell1NS/browser-search",
             "description": "A skill for AI agents: search the web with SearXNG, browse with Camofox, bypass protections with CloakBrowser. Anti-hallucination by design. Self-hosted, free, unlimited.",
             "url": "https://github.com/Johell1NS/browser-search",
-            "stars": 222,
-            "forks": 22,
+            "stars": 224,
+            "forks": 23,
             "score": 45
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "dianxing",
-            "full_name": "tianchong-zerotemp/dianxing",
-            "description": "DianXing - AI-Driven End-to-End Code Security Auditing",
-            "url": "https://github.com/tianchong-zerotemp/dianxing",
-            "stars": 257,
-            "forks": 30,
-            "score": 44
         },
         {
             "main_cat": "AI",
@@ -190,11 +168,22 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
+            "name": "dianxing",
+            "full_name": "tianchong-zerotemp/dianxing",
+            "description": "DianXing - AI-Driven End-to-End Code Security Auditing",
+            "url": "https://github.com/tianchong-zerotemp/dianxing",
+            "stars": 261,
+            "forks": 30,
+            "score": 43
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
             "name": "hlwy-ai-checker",
             "full_name": "hanlinwenyuan/hlwy-ai-checker",
             "description": "\u68c0\u67e5\u7b2c\u4e09\u65b9AI API\u662f\u5426\u63ba\u5047\u4ee5\u53ca\u6e20\u9053\u4e00\u81f4",
             "url": "https://github.com/hanlinwenyuan/hlwy-ai-checker",
-            "stars": 181,
+            "stars": 182,
             "forks": 10,
             "score": 43
         },
@@ -205,9 +194,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "gamedev-skills/awesome-gamedev-agent-skills",
             "description": "Game-development Agent Skills for AI coding agents: install once and a master router loads the right skill for your engine and task. 66 original, version-pinned skills (plus a master router) in the portable SKILL.md format that runs across Claude Code, Cursor, Codex, Copilot, Gemini CLI and more, for Godot, Unity, Unreal, web and beyond.",
             "url": "https://github.com/gamedev-skills/awesome-gamedev-agent-skills",
-            "stars": 179,
+            "stars": 180,
             "forks": 7,
-            "score": 42
+            "score": 43
         },
         {
             "main_cat": "AI",
@@ -240,7 +229,7 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/binghe1980/AI-Canvas",
             "stars": 174,
             "forks": 22,
-            "score": 41
+            "score": 40
         },
         {
             "main_cat": "AI",
@@ -260,7 +249,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "flatkey-ai/awesome-images",
             "description": "Try flatkey.ai for 40% saving! Generate practical images ready for all your work needs!!!",
             "url": "https://github.com/flatkey-ai/awesome-images",
-            "stars": 245,
+            "stars": 247,
             "forks": 0,
             "score": 38
         },
@@ -271,7 +260,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "BennyKok/lfg",
             "description": "lfg \u2014 run and manage your AI coding agents (Claude Code / Codex / OpenCode) on your own VPS",
             "url": "https://github.com/BennyKok/lfg",
-            "stars": 210,
+            "stars": 213,
             "forks": 13,
             "score": 38
         },
@@ -293,7 +282,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "InfiniteWhispers/HermesAgent-MultiModel",
             "description": "A fully-local, multi-model AI agent framework with Mixture-of-Agents (MoA) orchestration. Run a high-performance agentic stack on consumer GPUs (RTX 4080/5080) using Hermes + Ollama, with zero cloud dependencies.",
             "url": "https://github.com/InfiniteWhispers/HermesAgent-MultiModel",
-            "stars": 30,
+            "stars": 32,
             "forks": 5,
             "score": 38
         },
@@ -304,7 +293,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "alexchan197611/ai_media_assistant",
             "description": "AI-Powered Automate Self-Media Video Generation Tools\u200c",
             "url": "https://github.com/alexchan197611/ai_media_assistant",
-            "stars": 170,
+            "stars": 172,
             "forks": 20,
             "score": 37
         },
@@ -772,5 +761,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-06-29 16:35"
+    "timestamp": "2026-06-29 19:00"
 };
