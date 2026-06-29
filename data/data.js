@@ -18,9 +18,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "Pluviobyte/video-production-skills",
             "description": "Reusable AI video production skills library for creation, recreation, motion design, openers, and QA.",
             "url": "https://github.com/Pluviobyte/video-production-skills",
-            "stars": 434,
-            "forks": 53,
-            "score": 83
+            "stars": 435,
+            "forks": 54,
+            "score": 84
         },
         {
             "main_cat": "AI",
@@ -63,7 +63,7 @@ const ALPHA_DATA_V2 = {
             "description": "CLI s\u00e1ng t\u00e1c ti\u1ec3u thuy\u1ebft AI \u0111a agent \u2014 B\u1ea3n ti\u1ebfng Vi\u1ec7t c\u1ee7a voocel/ainovel-cli",
             "url": "https://github.com/kentjuno/ainovel-cli",
             "stars": 188,
-            "forks": 102,
+            "forks": 103,
             "score": 72
         },
         {
@@ -117,8 +117,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "NotASithLord/peerd",
             "description": "The first AI agent harness native to the browser. A Chrome/Firefox extension that runs the agent loop in your browser \u2014 drives your tabs, spins up sandboxed compute (JS notebooks, WASM Linux VMs, client-side apps), and shares what it builds peer-to-peer. BYOK \u00b7 no backend \u00b7 no telemetry.",
             "url": "https://github.com/NotASithLord/peerd",
-            "stars": 237,
-            "forks": 22,
+            "stars": 238,
+            "forks": 23,
             "score": 46
         },
         {
@@ -128,7 +128,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Johell1NS/browser-search",
             "description": "A skill for AI agents: search the web with SearXNG, browse with Camofox, bypass protections with CloakBrowser. Anti-hallucination by design. Self-hosted, free, unlimited.",
             "url": "https://github.com/Johell1NS/browser-search",
-            "stars": 229,
+            "stars": 230,
             "forks": 23,
             "score": 46
         },
@@ -139,7 +139,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "lycorp-jp/sim-use",
             "description": "Give your AI agent eyes and hands on iOS Simulator and Android emulator/devices.",
             "url": "https://github.com/lycorp-jp/sim-use",
-            "stars": 186,
+            "stars": 187,
             "forks": 4,
             "score": 46
         },
@@ -172,7 +172,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "tianchong-zerotemp/dianxing",
             "description": "DianXing - AI-Driven End-to-End Code Security Auditing",
             "url": "https://github.com/tianchong-zerotemp/dianxing",
-            "stars": 269,
+            "stars": 270,
             "forks": 30,
             "score": 43
         },
@@ -222,6 +222,17 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "claude-mythos-ai-anthropic-desktop-app",
+            "full_name": "ikarma/claude-mythos-ai-anthropic-desktop-app",
+            "description": "claude mythos ai anthropic free large language model llm frontier model project glasswing cybersecurity agent vulnerability research software engineering agentic workflows multi step reasoning recurrent depth transformer rdt openmythos repository open source claude fable 5 multi agent",
+            "url": "https://github.com/ikarma/claude-mythos-ai-anthropic-desktop-app",
+            "stars": 174,
+            "forks": 2,
+            "score": 40
+        },
+        {
+            "main_cat": "AI",
             "sub_cat": null,
             "name": "AI-Canvas",
             "full_name": "binghe1980/AI-Canvas",
@@ -251,17 +262,6 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/humation-labs/humation",
             "stars": 161,
             "forks": 9,
-            "score": 39
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "claude-mythos-ai-anthropic-desktop-app",
-            "full_name": "ikarma/claude-mythos-ai-anthropic-desktop-app",
-            "description": "claude mythos ai anthropic free large language model llm frontier model project glasswing cybersecurity agent vulnerability research software engineering agentic workflows multi step reasoning recurrent depth transformer rdt openmythos repository open source claude fable 5 multi agent",
-            "url": "https://github.com/ikarma/claude-mythos-ai-anthropic-desktop-app",
-            "stars": 158,
-            "forks": 2,
             "score": 39
         },
         {
@@ -761,5 +761,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-06-29 22:50"
+    "timestamp": "2026-06-29 23:57"
 };
