@@ -29,8 +29,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "revfactory/webtoon-harness",
             "description": "\ud2b8\ub80c\ub4dc \uc870\uc0ac\ubd80\ud130 \uc138\ub85c \uc2a4\ud06c\ub864 \ubdf0\uc5b4 \uc644\uc131\uae4c\uc9c0, \uc6f9\ud230 \ud55c \ud68c\ucc28\ub97c 27\uac1c AI \uc5d0\uc774\uc804\ud2b8 \ud300\uc774 \ub9cc\ub4e4\uc5b4\ub0b4\ub294 Claude Code \ud558\ub124\uc2a4",
             "url": "https://github.com/revfactory/webtoon-harness",
-            "stars": 205,
-            "forks": 69,
+            "stars": 207,
+            "forks": 70,
             "score": 78
         },
         {
@@ -51,7 +51,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "winsznx/theeleven",
             "description": "Eleven autonomous AI agents open live football prop markets on X Layer \u2014 custom Uniswap v4 hook, gasless USDT0 staking.",
             "url": "https://github.com/winsznx/theeleven",
-            "stars": 690,
+            "stars": 691,
             "forks": 2,
             "score": 73
         },
@@ -161,7 +161,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "NotASithLord/peerd",
             "description": "The first AI agent harness native to the browser. A Chrome/Firefox extension that runs the agent loop in your browser \u2014 drives your tabs, spins up sandboxed compute (JS notebooks, WASM Linux VMs, client-side apps), and shares what it builds peer-to-peer. BYOK \u00b7 no backend \u00b7 no telemetry.",
             "url": "https://github.com/NotASithLord/peerd",
-            "stars": 257,
+            "stars": 258,
             "forks": 26,
             "score": 46
         },
@@ -172,7 +172,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "tianchong-zerotemp/dianxing",
             "description": "DianXing - AI-Driven End-to-End Code Security Auditing",
             "url": "https://github.com/tianchong-zerotemp/dianxing",
-            "stars": 302,
+            "stars": 303,
             "forks": 32,
             "score": 44
         },
@@ -228,8 +228,8 @@ const ALPHA_DATA_V2 = {
             "description": "Databuff is an open-source , AI-native OpenTelemetry APM &  SREAgent tool . An open-source alternative to Datadog, Dynatrace\uff0cNewRelic, etc. \ud83d\udd25 \ud83d\udd25\ud83d\udd25",
             "url": "https://github.com/databufflabs/databuff",
             "stars": 194,
-            "forks": 33,
-            "score": 40
+            "forks": 34,
+            "score": 41
         },
         {
             "main_cat": "AI",
@@ -271,7 +271,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "flatkey-ai/awesome-images",
             "description": "Try flatkey.ai for 40% saving! Generate practical images ready for all your work needs!!!",
             "url": "https://github.com/flatkey-ai/awesome-images",
-            "stars": 258,
+            "stars": 259,
             "forks": 0,
             "score": 38
         },
@@ -750,5 +750,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-06-30 20:54"
+    "timestamp": "2026-06-30 22:11"
 };
