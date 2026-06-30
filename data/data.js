@@ -29,9 +29,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "revfactory/webtoon-harness",
             "description": "\ud2b8\ub80c\ub4dc \uc870\uc0ac\ubd80\ud130 \uc138\ub85c \uc2a4\ud06c\ub864 \ubdf0\uc5b4 \uc644\uc131\uae4c\uc9c0, \uc6f9\ud230 \ud55c \ud68c\ucc28\ub97c 27\uac1c AI \uc5d0\uc774\uc804\ud2b8 \ud300\uc774 \ub9cc\ub4e4\uc5b4\ub0b4\ub294 Claude Code \ud558\ub124\uc2a4",
             "url": "https://github.com/revfactory/webtoon-harness",
-            "stars": 202,
+            "stars": 205,
             "forks": 69,
-            "score": 77
+            "score": 78
         },
         {
             "main_cat": "AI",
@@ -51,9 +51,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "winsznx/theeleven",
             "description": "Eleven autonomous AI agents open live football prop markets on X Layer \u2014 custom Uniswap v4 hook, gasless USDT0 staking.",
             "url": "https://github.com/winsznx/theeleven",
-            "stars": 711,
+            "stars": 690,
             "forks": 2,
-            "score": 74
+            "score": 73
         },
         {
             "main_cat": "AI",
@@ -62,7 +62,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "benchflow-ai/awesome-evals",
             "description": "A curated, non-BS library of the best resources for building and evaluating AI agents \u2014 papers, blogs, talks, tools, benchmarks. Maintained by BenchFlow.",
             "url": "https://github.com/benchflow-ai/awesome-evals",
-            "stars": 602,
+            "stars": 606,
             "forks": 41,
             "score": 72
         },
@@ -84,8 +84,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "tutusagi/ai-fishing-game",
             "description": "\ud83c\udfa3 \u7ed9 AI \u73a9\u7684\u786e\u5b9a\u6027\u6587\u5b57\u9493\u9c7c\u5c0f\u6e38\u620f \u00b7 \u5355\u6587\u4ef6\u96f6\u4f9d\u8d56 \u00b7 \u8ba9\u4f60\u7684 AI \u4f34\u4fa3\u6765\u9493\u9c7c",
             "url": "https://github.com/tutusagi/ai-fishing-game",
-            "stars": 331,
-            "forks": 40,
+            "stars": 332,
+            "forks": 41,
             "score": 57
         },
         {
@@ -95,7 +95,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "lycorp-jp/sim-use",
             "description": "Give your AI agent eyes and hands on iOS Simulator and Android emulator/devices.",
             "url": "https://github.com/lycorp-jp/sim-use",
-            "stars": 322,
+            "stars": 325,
             "forks": 14,
             "score": 57
         },
@@ -139,20 +139,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "lemma-work/lemma-platform",
             "description": "The open-source workspace where humans and AI agents work as one team.",
             "url": "https://github.com/lemma-work/lemma-platform",
-            "stars": 195,
+            "stars": 196,
             "forks": 40,
             "score": 47
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "peerd",
-            "full_name": "NotASithLord/peerd",
-            "description": "The first AI agent harness native to the browser. A Chrome/Firefox extension that runs the agent loop in your browser \u2014 drives your tabs, spins up sandboxed compute (JS notebooks, WASM Linux VMs, client-side apps), and shares what it builds peer-to-peer. BYOK \u00b7 no backend \u00b7 no telemetry.",
-            "url": "https://github.com/NotASithLord/peerd",
-            "stars": 256,
-            "forks": 26,
-            "score": 46
         },
         {
             "main_cat": "AI",
@@ -161,9 +150,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "Johell1NS/browser-search",
             "description": "A skill for AI agents: search the web with SearXNG, browse with Camofox, bypass protections with CloakBrowser. Anti-hallucination by design. Self-hosted, free, unlimited.",
             "url": "https://github.com/Johell1NS/browser-search",
-            "stars": 255,
+            "stars": 260,
             "forks": 23,
-            "score": 45
+            "score": 46
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "peerd",
+            "full_name": "NotASithLord/peerd",
+            "description": "The first AI agent harness native to the browser. A Chrome/Firefox extension that runs the agent loop in your browser \u2014 drives your tabs, spins up sandboxed compute (JS notebooks, WASM Linux VMs, client-side apps), and shares what it builds peer-to-peer. BYOK \u00b7 no backend \u00b7 no telemetry.",
+            "url": "https://github.com/NotASithLord/peerd",
+            "stars": 257,
+            "forks": 26,
+            "score": 46
         },
         {
             "main_cat": "AI",
@@ -172,7 +172,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "tianchong-zerotemp/dianxing",
             "description": "DianXing - AI-Driven End-to-End Code Security Auditing",
             "url": "https://github.com/tianchong-zerotemp/dianxing",
-            "stars": 299,
+            "stars": 302,
             "forks": 32,
             "score": 44
         },
@@ -256,17 +256,6 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "Accordion",
-            "full_name": "a-Fig/Accordion",
-            "description": "\ud83c\udfc6 AI Hackathon 2026 @ UC Berkeley  Intelligent context management for developers",
-            "url": "https://github.com/a-Fig/Accordion",
-            "stars": 170,
-            "forks": 13,
-            "score": 39
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
             "name": "humation",
             "full_name": "humation-labs/humation",
             "description": "Hand-drawn kawaii avatar engine for your app. No AI, no API calls.",
@@ -282,7 +271,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "flatkey-ai/awesome-images",
             "description": "Try flatkey.ai for 40% saving! Generate practical images ready for all your work needs!!!",
             "url": "https://github.com/flatkey-ai/awesome-images",
-            "stars": 268,
+            "stars": 258,
             "forks": 0,
             "score": 38
         },
@@ -294,7 +283,7 @@ const ALPHA_DATA_V2 = {
             "description": "lfg \u2014 run and manage your AI coding agents (Claude Code / Codex / OpenCode) on your own VPS",
             "url": "https://github.com/BennyKok/lfg",
             "stars": 230,
-            "forks": 13,
+            "forks": 14,
             "score": 38
         },
         {
@@ -306,6 +295,17 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/Env-Kit/envkit-releases",
             "stars": 190,
             "forks": 5,
+            "score": 38
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "Accordion",
+            "full_name": "a-Fig/Accordion",
+            "description": "\ud83c\udfc6 AI Hackathon 2026 @ UC Berkeley  Intelligent context management for developers",
+            "url": "https://github.com/a-Fig/Accordion",
+            "stars": 171,
+            "forks": 13,
             "score": 38
         },
         {
@@ -322,23 +322,23 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "agentteam-email",
-            "full_name": "agentteamhq/agentteam-email",
-            "description": "Open-source email infrastructure for AI agents.",
-            "url": "https://github.com/agentteamhq/agentteam-email",
-            "stars": 175,
-            "forks": 0,
-            "score": 36
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
             "name": "agent-sphere",
             "full_name": "nullpointexception-i/agent-sphere",
             "description": "This project is an AI Agent orchestration platform. It uses an LLM-driven decision engine, combined with capabilities (built-in tools, MCP protocol, CLI execution, browser operations, etc.), to achieve a basic closed loop from perception \u2192 planning \u2192 execution \u2192 feedback.\u672c\u9879\u76ee\u662f\u4e00\u4e2a\u9762\u5411 AI Agent \u7f16\u6392\u5e73\u53f0\u3002\u5b83\u901a\u8fc7 LLM \u9a71\u52a8\u7684\u51b3\u7b56\u5f15\u64ce\uff0c\u7ed3\u5408\u80fd\u529b\uff08\u5185\u7f6e\u5de5\u5177\u3001MCP \u534f\u8bae\u3001CLI \u6267\u884c\u3001\u6d4f\u89c8\u5668\u64cd\u4f5c\u7b49\uff09",
             "url": "https://github.com/nullpointexception-i/agent-sphere",
             "stars": 169,
             "forks": 3,
+            "score": 36
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "agentteam-email",
+            "full_name": "agentteamhq/agentteam-email",
+            "description": "Open-source email infrastructure for AI agents.",
+            "url": "https://github.com/agentteamhq/agentteam-email",
+            "stars": 166,
+            "forks": 0,
             "score": 36
         },
         {
@@ -520,6 +520,17 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
+            "name": "jacobowilliam.github.io",
+            "full_name": "JacobsTech/jacobowilliam.github.io",
+            "description": "Personal website and writing portfolio featuring articles on fintech, payments, AI, stablecoins, blockchain, financial infrastructure, and digital trust. Home to my published work, essays, and thought leadership.",
+            "url": "https://github.com/JacobsTech/jacobowilliam.github.io",
+            "stars": 0,
+            "forks": 0,
+            "score": 30
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
             "name": "RailFlow",
             "full_name": "longbds0108/RailFlow",
             "description": "Testnet demo dApp on Arc (Circle's stablecoin L1): Payment, Swap, Staking, Bridge + History/Admin. Self-custody via MetaMask, Circle App Kit, CCTP V2.",
@@ -592,17 +603,6 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/OrbitFlow-AI/Backend",
             "stars": 0,
             "forks": 0,
-            "score": 30
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "AI-Engine",
-            "full_name": "OrbitFlow-AI/AI-Engine",
-            "description": "An **AI Agent Treasury & Micropayment Router**. A specialized Soroban smart contract framework built specifically for multi-agent LLM systems. Agents can be spun up with an allocated budget of stablecoins on Stellar, and use automated condition-based path-payments to purchase API access, data, or computing power from other agents natively.",
-            "url": "https://github.com/OrbitFlow-AI/AI-Engine",
-            "stars": 0,
-            "forks": 2,
             "score": 30
         },
         {
@@ -750,5 +750,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-06-30 18:52"
+    "timestamp": "2026-06-30 20:54"
 };
