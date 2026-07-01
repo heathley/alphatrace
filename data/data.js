@@ -7,9 +7,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "Kulaxyz/self-learning-skills",
             "description": "A self-improving skill for AI coding agents (Claude Code, Cursor, AGENTS.md): recognize a hard-won golden path in a session and harvest it into a reusable skill/rule for next time.",
             "url": "https://github.com/Kulaxyz/self-learning-skills",
-            "stars": 727,
+            "stars": 739,
             "forks": 7,
-            "score": 92
+            "score": 93
         },
         {
             "main_cat": "AI",
@@ -29,7 +29,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "revfactory/webtoon-harness",
             "description": "\ud2b8\ub80c\ub4dc \uc870\uc0ac\ubd80\ud130 \uc138\ub85c \uc2a4\ud06c\ub864 \ubdf0\uc5b4 \uc644\uc131\uae4c\uc9c0, \uc6f9\ud230 \ud55c \ud68c\ucc28\ub97c 27\uac1c AI \uc5d0\uc774\uc804\ud2b8 \ud300\uc774 \ub9cc\ub4e4\uc5b4\ub0b4\ub294 Claude Code \ud558\ub124\uc2a4",
             "url": "https://github.com/revfactory/webtoon-harness",
-            "stars": 236,
+            "stars": 237,
             "forks": 79,
             "score": 76
         },
@@ -51,7 +51,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Forsy-AI/agent-apprenticeship",
             "description": "The living ecosystem where AI agents run automated workflow loops on any task, improve through execution, and turn each run into reusable work experience + data to improve future agents.",
             "url": "https://github.com/Forsy-AI/agent-apprenticeship",
-            "stars": 1136,
+            "stars": 1138,
             "forks": 50,
             "score": 74
         },
@@ -73,7 +73,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "benchflow-ai/awesome-evals",
             "description": "A curated, non-BS library of the best resources for building and evaluating AI agents \u2014 papers, blogs, talks, tools, benchmarks. Maintained by BenchFlow.",
             "url": "https://github.com/benchflow-ai/awesome-evals",
-            "stars": 620,
+            "stars": 622,
             "forks": 44,
             "score": 69
         },
@@ -124,11 +124,22 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
+            "name": "Captcha_Solver_AI",
+            "full_name": "scolwell/Captcha_Solver_AI",
+            "description": "Automatically solve text, image, and audio CAPTCHAs using AI. Supports reCAPTCHA, hCaptcha, and custom CAPTCHAs.",
+            "url": "https://github.com/scolwell/Captcha_Solver_AI",
+            "stars": 195,
+            "forks": 0,
+            "score": 62
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
             "name": "sim-use",
             "full_name": "lycorp-jp/sim-use",
             "description": "Give your AI agent eyes and hands on iOS Simulator and Android emulator/devices.",
             "url": "https://github.com/lycorp-jp/sim-use",
-            "stars": 394,
+            "stars": 395,
             "forks": 19,
             "score": 59
         },
@@ -146,22 +157,11 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "Awesome-Blender-Seedance-Workflow-Usecases",
-            "full_name": "cheercheung/Awesome-Blender-Seedance-Workflow-Usecases",
-            "description": "Curated Blender + Seedance workflows for AI filmmaking: previs, camera control, Blender MCP, reference video, and agent-guided use cases.",
-            "url": "https://github.com/cheercheung/Awesome-Blender-Seedance-Workflow-Usecases",
-            "stars": 188,
-            "forks": 14,
-            "score": 54
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
             "name": "ackem",
             "full_name": "JasonLiu0826/ackem",
             "description": "Ackem \u2014 \u672c\u5730\u4f18\u5148 AI \u684c\u9762\u966a\u4f34 \u00b7 Local-first AI desktop companion. \u9690\u79c1\u6570\u636e\u4e0d\u4e0a\u4f20\uff0c\u652f\u6301\u8bb0\u5fc6/\u60c5\u7eea/\u6269\u5c55/ \u3002AGPL-3.0",
             "url": "https://github.com/JasonLiu0826/ackem",
-            "stars": 239,
+            "stars": 240,
             "forks": 22,
             "score": 53
         },
@@ -205,7 +205,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "NotASithLord/peerd",
             "description": "The first AI agent harness native to the browser. A Chrome/Firefox extension that runs the agent loop in your browser \u2014 drives your tabs, spins up sandboxed compute (JS notebooks, WASM Linux VMs, client-side apps), and shares what it builds peer-to-peer. BYOK \u00b7 no backend \u00b7 no telemetry.",
             "url": "https://github.com/NotASithLord/peerd",
-            "stars": 273,
+            "stars": 274,
             "forks": 28,
             "score": 46
         },
@@ -216,7 +216,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "tianchong-zerotemp/dianxing",
             "description": "DianXing - AI-Driven End-to-End Code Security Auditing",
             "url": "https://github.com/tianchong-zerotemp/dianxing",
-            "stars": 340,
+            "stars": 342,
             "forks": 36,
             "score": 45
         },
@@ -249,7 +249,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "hanlinwenyuan/hlwy-ai-checker",
             "description": "\u68c0\u67e5\u7b2c\u4e09\u65b9AI API\u662f\u5426\u63ba\u5047\u4ee5\u53ca\u6e20\u9053\u4e00\u81f4",
             "url": "https://github.com/hanlinwenyuan/hlwy-ai-checker",
-            "stars": 239,
+            "stars": 240,
             "forks": 13,
             "score": 44
         },
@@ -304,7 +304,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "SewLightningTake35/claude-fable-5-free-desktop-app",
             "description": "free claude 5 fable anthropic large language model llm frontier reasoning autonomous agentic workflows long horizon autonomy claude code terminal claude.ai pro max  alternative mirrors github repository hugging face tool setup windows 11 macos linux stable build free trial usage tutorial",
             "url": "https://github.com/SewLightningTake35/claude-fable-5-free-desktop-app",
-            "stars": 244,
+            "stars": 245,
             "forks": 0,
             "score": 39
         },
@@ -326,7 +326,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Env-Kit/envkit-releases",
             "description": "EnvKit \u2014 free local development environment for Windows & macOS: nginx/Apache, multiple PHP versions, MySQL/MariaDB,   PostgreSQL, Redis, MongoDB, Mailpit, Node.js, trusted .test HTTPS, and a built-in MCP server for AI-assistant control.   A Laragon/XAMPP/Herd alternative.",
             "url": "https://github.com/Env-Kit/envkit-releases",
-            "stars": 201,
+            "stars": 202,
             "forks": 5,
             "score": 37
         },
@@ -339,18 +339,7 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/InfiniteWhispers/HermesAgent-MultiModel",
             "stars": 39,
             "forks": 7,
-            "score": 36
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "freeaitokens",
-            "full_name": "paulfruitful/freeaitokens",
-            "description": "Free Local AI inference without need for GPUs or heavy chunks of your CPU  ",
-            "url": "https://github.com/paulfruitful/freeaitokens",
-            "stars": 30,
-            "forks": 14,
-            "score": 33
+            "score": 35
         },
         {
             "main_cat": "AI",
@@ -361,6 +350,17 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/Dicklesworthstone/franken_ocr",
             "stars": 35,
             "forks": 1,
+            "score": 32
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "freeaitokens",
+            "full_name": "paulfruitful/freeaitokens",
+            "description": "Free Local AI inference without need for GPUs or heavy chunks of your CPU  ",
+            "url": "https://github.com/paulfruitful/freeaitokens",
+            "stars": 30,
+            "forks": 14,
             "score": 32
         },
         {
@@ -607,17 +607,6 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "AfriFX",
-            "full_name": "soft-developper/AfriFX",
-            "description": "AfriFX is a decentralised foreign exchange and cross-border payments platform built on the Arc blockchain. It enables individuals and businesses across Africa to move money across borders using USDC stablecoins as the settlement layer with real local currency amounts on both ends. Every transaction is settled on-chain, transparent, and traceable",
-            "url": "https://github.com/soft-developper/AfriFX",
-            "stars": 0,
-            "forks": 0,
-            "score": 30
-        },
-        {
-            "main_cat": "AI",
             "sub_cat": "AI Agents",
             "name": "mcp-forge",
             "full_name": "Mowen559/mcp-forge",
@@ -718,20 +707,6 @@ const ALPHA_DATA_V2 = {
     ],
     "news": [
         {
-            "title": "Semantic Leakage and Privacy Preservation in Relay-Assisted Semantic Communications",
-            "source": "ArXiv",
-            "type": "Research Alpha",
-            "color": "text-indigo-600",
-            "url": "http://arxiv.org/abs/2606.31973v1"
-        },
-        {
-            "title": "Robocalls: A Worldwide or US-only Problem? Analyzing Spam and Fraud in International Phone Calls",
-            "source": "ArXiv",
-            "type": "Research Alpha",
-            "color": "text-indigo-600",
-            "url": "http://arxiv.org/abs/2606.31790v1"
-        },
-        {
             "title": "Bitcoin volatility remains high ahead of key FED decision.",
             "source": "Polymarket",
             "type": "Expectation",
@@ -739,5 +714,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-07-01 21:21"
+    "timestamp": "2026-07-01 23:07"
 };
