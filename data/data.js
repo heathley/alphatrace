@@ -7,9 +7,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "Kulaxyz/self-learning-skills",
             "description": "A self-improving skill for AI coding agents (Claude Code, Cursor, AGENTS.md): recognize a hard-won golden path in a session and harvest it into a reusable skill/rule for next time.",
             "url": "https://github.com/Kulaxyz/self-learning-skills",
-            "stars": 501,
+            "stars": 597,
             "forks": 2,
-            "score": 80
+            "score": 90
         },
         {
             "main_cat": "AI",
@@ -18,8 +18,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "yo-WASSUP/Good-Badminton",
             "description": "\ud83c\udff8  AI Badminton Hawk-Eye System",
             "url": "https://github.com/yo-WASSUP/Good-Badminton",
-            "stars": 619,
-            "forks": 183,
+            "stars": 620,
+            "forks": 184,
             "score": 78
         },
         {
@@ -29,9 +29,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "Forsy-AI/agent-apprenticeship",
             "description": "The living ecosystem where AI agents run automated workflow loops on any task, improve through execution, and turn each run into reusable work experience + data to improve future agents.",
             "url": "https://github.com/Forsy-AI/agent-apprenticeship",
-            "stars": 1114,
+            "stars": 1121,
             "forks": 50,
-            "score": 76
+            "score": 77
         },
         {
             "main_cat": "AI",
@@ -40,7 +40,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Pluviobyte/video-production-skills",
             "description": "Reusable AI video production skills library for creation, recreation, motion design, openers, and QA.",
             "url": "https://github.com/Pluviobyte/video-production-skills",
-            "stars": 490,
+            "stars": 492,
             "forks": 59,
             "score": 75
         },
@@ -51,20 +51,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "revfactory/webtoon-harness",
             "description": "\ud2b8\ub80c\ub4dc \uc870\uc0ac\ubd80\ud130 \uc138\ub85c \uc2a4\ud06c\ub864 \ubdf0\uc5b4 \uc644\uc131\uae4c\uc9c0, \uc6f9\ud230 \ud55c \ud68c\ucc28\ub97c 27\uac1c AI \uc5d0\uc774\uc804\ud2b8 \ud300\uc774 \ub9cc\ub4e4\uc5b4\ub0b4\ub294 Claude Code \ud558\ub124\uc2a4",
             "url": "https://github.com/revfactory/webtoon-harness",
-            "stars": 234,
+            "stars": 235,
             "forks": 79,
             "score": 75
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "ainovel-cli",
-            "full_name": "kentjuno/ainovel-cli",
-            "description": "CLI s\u00e1ng t\u00e1c ti\u1ec3u thuy\u1ebft AI \u0111a agent \u2014 B\u1ea3n ti\u1ebfng Vi\u1ec7t c\u1ee7a voocel/ainovel-cli",
-            "url": "https://github.com/kentjuno/ainovel-cli",
-            "stars": 213,
-            "forks": 110,
-            "score": 70
         },
         {
             "main_cat": "AI",
@@ -73,7 +62,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "benchflow-ai/awesome-evals",
             "description": "A curated, non-BS library of the best resources for building and evaluating AI agents \u2014 papers, blogs, talks, tools, benchmarks. Maintained by BenchFlow.",
             "url": "https://github.com/benchflow-ai/awesome-evals",
-            "stars": 611,
+            "stars": 612,
             "forks": 43,
             "score": 69
         },
@@ -85,7 +74,7 @@ const ALPHA_DATA_V2 = {
             "description": "Eleven autonomous AI agents open live football prop markets on X Layer \u2014 custom Uniswap v4 hook, gasless USDT0 staking.",
             "url": "https://github.com/winsznx/theeleven",
             "stars": 681,
-            "forks": 2,
+            "forks": 1,
             "score": 68
         },
         {
@@ -113,24 +102,24 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "sim-use",
-            "full_name": "lycorp-jp/sim-use",
-            "description": "Give your AI agent eyes and hands on iOS Simulator and Android emulator/devices.",
-            "url": "https://github.com/lycorp-jp/sim-use",
-            "stars": 382,
-            "forks": 18,
-            "score": 58
+            "name": "ainovel-cli",
+            "full_name": "kentjuno/ainovel-cli",
+            "description": "CLI s\u00e1ng t\u00e1c ti\u1ec3u thuy\u1ebft AI \u0111a agent \u2014 B\u1ea3n ti\u1ebfng Vi\u1ec7t c\u1ee7a voocel/ainovel-cli",
+            "url": "https://github.com/kentjuno/ainovel-cli",
+            "stars": 214,
+            "forks": 110,
+            "score": 66
         },
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "ai-fishing-game",
-            "full_name": "tutusagi/ai-fishing-game",
-            "description": "\ud83c\udfa3 \u7ed9 AI \u73a9\u7684\u786e\u5b9a\u6027\u6587\u5b57\u9493\u9c7c\u5c0f\u6e38\u620f \u00b7 \u5355\u6587\u4ef6\u96f6\u4f9d\u8d56 \u00b7 \u8ba9\u4f60\u7684 AI \u4f34\u4fa3\u6765\u9493\u9c7c",
-            "url": "https://github.com/tutusagi/ai-fishing-game",
-            "stars": 338,
-            "forks": 42,
-            "score": 55
+            "name": "sim-use",
+            "full_name": "lycorp-jp/sim-use",
+            "description": "Give your AI agent eyes and hands on iOS Simulator and Android emulator/devices.",
+            "url": "https://github.com/lycorp-jp/sim-use",
+            "stars": 390,
+            "forks": 19,
+            "score": 59
         },
         {
             "main_cat": "AI",
@@ -139,9 +128,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "JasonLiu0826/ackem",
             "description": "Ackem \u2014 \u672c\u5730\u4f18\u5148 AI \u684c\u9762\u966a\u4f34 \u00b7 Local-first AI desktop companion. \u9690\u79c1\u6570\u636e\u4e0d\u4e0a\u4f20\uff0c\u652f\u6301\u8bb0\u5fc6/\u60c5\u7eea/\u6269\u5c55/ \u3002AGPL-3.0",
             "url": "https://github.com/JasonLiu0826/ackem",
-            "stars": 209,
+            "stars": 232,
             "forks": 22,
-            "score": 54
+            "score": 56
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "ai-fishing-game",
+            "full_name": "tutusagi/ai-fishing-game",
+            "description": "\ud83c\udfa3 \u7ed9 AI \u73a9\u7684\u786e\u5b9a\u6027\u6587\u5b57\u9493\u9c7c\u5c0f\u6e38\u620f \u00b7 \u5355\u6587\u4ef6\u96f6\u4f9d\u8d56 \u00b7 \u8ba9\u4f60\u7684 AI \u4f34\u4fa3\u6765\u9493\u9c7c",
+            "url": "https://github.com/tutusagi/ai-fishing-game",
+            "stars": 344,
+            "forks": 42,
+            "score": 55
         },
         {
             "main_cat": "AI",
@@ -152,7 +152,7 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/JayWebtech/autoshorts",
             "stars": 262,
             "forks": 66,
-            "score": 53
+            "score": 51
         },
         {
             "main_cat": "AI",
@@ -161,7 +161,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "eli-labz/Godcoder",
             "description": "A local-first, open-source coding agent for your desktop. Bring your own LLM key; your code stays on your machine and only ever leaves to the model provider. The AI Agent builds its own Harnes.",
             "url": "https://github.com/eli-labz/Godcoder",
-            "stars": 259,
+            "stars": 260,
             "forks": 2,
             "score": 49
         },
@@ -172,9 +172,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "lemma-work/lemma-platform",
             "description": "The open-source workspace where humans and AI agents work as one team.",
             "url": "https://github.com/lemma-work/lemma-platform",
-            "stars": 203,
+            "stars": 206,
             "forks": 42,
-            "score": 48
+            "score": 47
         },
         {
             "main_cat": "AI",
@@ -183,9 +183,31 @@ const ALPHA_DATA_V2 = {
             "full_name": "FishCodeTech/muteki",
             "description": "Project Muteki (\u7121\u6575): autonomous multi-model CTF-solving AI agent swarm",
             "url": "https://github.com/FishCodeTech/muteki",
-            "stars": 198,
+            "stars": 200,
             "forks": 27,
             "score": 47
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "dianxing",
+            "full_name": "tianchong-zerotemp/dianxing",
+            "description": "DianXing - AI-Driven End-to-End Code Security Auditing",
+            "url": "https://github.com/tianchong-zerotemp/dianxing",
+            "stars": 337,
+            "forks": 36,
+            "score": 46
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "peerd",
+            "full_name": "NotASithLord/peerd",
+            "description": "The first AI agent harness native to the browser. A Chrome/Firefox extension that runs the agent loop in your browser \u2014 drives your tabs, spins up sandboxed compute (JS notebooks, WASM Linux VMs, client-side apps), and shares what it builds peer-to-peer. BYOK \u00b7 no backend \u00b7 no telemetry.",
+            "url": "https://github.com/NotASithLord/peerd",
+            "stars": 270,
+            "forks": 28,
+            "score": 45
         },
         {
             "main_cat": "AI",
@@ -196,29 +218,18 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/Johell1NS/browser-search",
             "stars": 270,
             "forks": 23,
-            "score": 46
+            "score": 45
         },
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "dianxing",
-            "full_name": "tianchong-zerotemp/dianxing",
-            "description": "DianXing - AI-Driven End-to-End Code Security Auditing",
-            "url": "https://github.com/tianchong-zerotemp/dianxing",
-            "stars": 334,
-            "forks": 36,
-            "score": 45
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "peerd",
-            "full_name": "NotASithLord/peerd",
-            "description": "The first AI agent harness native to the browser. A Chrome/Firefox extension that runs the agent loop in your browser \u2014 drives your tabs, spins up sandboxed compute (JS notebooks, WASM Linux VMs, client-side apps), and shares what it builds peer-to-peer. BYOK \u00b7 no backend \u00b7 no telemetry.",
-            "url": "https://github.com/NotASithLord/peerd",
-            "stars": 269,
-            "forks": 28,
-            "score": 45
+            "name": "hlwy-ai-checker",
+            "full_name": "hanlinwenyuan/hlwy-ai-checker",
+            "description": "\u68c0\u67e5\u7b2c\u4e09\u65b9AI API\u662f\u5426\u63ba\u5047\u4ee5\u53ca\u6e20\u9053\u4e00\u81f4",
+            "url": "https://github.com/hanlinwenyuan/hlwy-ai-checker",
+            "stars": 235,
+            "forks": 13,
+            "score": 44
         },
         {
             "main_cat": "AI",
@@ -229,18 +240,7 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/iart-ai/motion-skills",
             "stars": 231,
             "forks": 19,
-            "score": 43
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "hlwy-ai-checker",
-            "full_name": "hanlinwenyuan/hlwy-ai-checker",
-            "description": "\u68c0\u67e5\u7b2c\u4e09\u65b9AI API\u662f\u5426\u63ba\u5047\u4ee5\u53ca\u6e20\u9053\u4e00\u81f4",
-            "url": "https://github.com/hanlinwenyuan/hlwy-ai-checker",
-            "stars": 226,
-            "forks": 13,
-            "score": 43
+            "score": 42
         },
         {
             "main_cat": "AI",
@@ -261,7 +261,7 @@ const ALPHA_DATA_V2 = {
             "description": "\ud83c\udfaf \u4ece\u96f6\u57fa\u7840\u5230 AI Agent \u5168\u6808\u5de5\u7a0b\u5e08 \u00b7 110 \u4e2a\u8be6\u7ec6\u6559\u7a0b \u00b7 58 \u4e07\u5b57 \u00b7 400+ GitHub \u9879\u76ee\u7cbe\u9009 \u00b7 Obsidian \u53cb\u597d \u00b7 \u4e2d\u6587",
             "url": "https://github.com/Karovia/fullstack-ai-agent-roadmap",
             "stars": 243,
-            "forks": 19,
+            "forks": 20,
             "score": 40
         },
         {
@@ -288,35 +288,24 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
-            "sub_cat": null,
-            "name": "awesome-images",
-            "full_name": "flatkey-ai/awesome-images",
-            "description": "Try flatkey.ai for 40% saving! Generate practical images ready for all your work needs!!!",
-            "url": "https://github.com/flatkey-ai/awesome-images",
-            "stars": 273,
-            "forks": 0,
-            "score": 39
-        },
-        {
-            "main_cat": "AI",
             "sub_cat": "AI General",
             "name": "claude-mythos-ai-anthropic-desktop-app",
             "full_name": "ikarma/claude-mythos-ai-anthropic-desktop-app",
             "description": "claude mythos ai anthropic free large language model llm frontier model project glasswing cybersecurity agent vulnerability research software engineering agentic workflows multi step reasoning recurrent depth transformer rdt openmythos repository open source claude fable 5 multi agent",
             "url": "https://github.com/ikarma/claude-mythos-ai-anthropic-desktop-app",
-            "stars": 175,
+            "stars": 176,
             "forks": 2,
             "score": 39
         },
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "envkit-releases",
-            "full_name": "Env-Kit/envkit-releases",
-            "description": "EnvKit \u2014 free local development environment for Windows & macOS: nginx/Apache, multiple PHP versions, MySQL/MariaDB,   PostgreSQL, Redis, MongoDB, Mailpit, Node.js, trusted .test HTTPS, and a built-in MCP server for AI-assistant control.   A Laragon/XAMPP/Herd alternative.",
-            "url": "https://github.com/Env-Kit/envkit-releases",
-            "stars": 199,
-            "forks": 5,
+            "name": "awesome-images",
+            "full_name": "flatkey-ai/awesome-images",
+            "description": "Try flatkey.ai for 40% saving! Generate practical images ready for all your work needs!!!",
+            "url": "https://github.com/flatkey-ai/awesome-images",
+            "stars": 276,
+            "forks": 0,
             "score": 38
         },
         {
@@ -326,9 +315,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "a-Fig/Accordion",
             "description": "\ud83c\udfc6 AI Hackathon 2026 @ UC Berkeley  Intelligent context management for developers",
             "url": "https://github.com/a-Fig/Accordion",
-            "stars": 175,
+            "stars": 176,
             "forks": 14,
             "score": 38
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "envkit-releases",
+            "full_name": "Env-Kit/envkit-releases",
+            "description": "EnvKit \u2014 free local development environment for Windows & macOS: nginx/Apache, multiple PHP versions, MySQL/MariaDB,   PostgreSQL, Redis, MongoDB, Mailpit, Node.js, trusted .test HTTPS, and a built-in MCP server for AI-assistant control.   A Laragon/XAMPP/Herd alternative.",
+            "url": "https://github.com/Env-Kit/envkit-releases",
+            "stars": 200,
+            "forks": 5,
+            "score": 37
         },
         {
             "main_cat": "AI",
@@ -382,6 +382,17 @@ const ALPHA_DATA_V2 = {
             "description": "BRIDLE Marries AI agents, GPUs, APIs, PCs, wallets & datasets into one programmable network. Rein in the idle.",
             "url": "https://github.com/L0-0LL0-0L/Bridle-Layer",
             "stars": 10,
+            "forks": 0,
+            "score": 30
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "rwa-asset-management",
+            "full_name": "geekybot/rwa-asset-management",
+            "description": "Decentralized risk & yield assessment for tokenized real-world assets (RWAs) \u2014 Avalanche + Chainlink Functions, Automation, Data Feeds & Proof of Reserves.",
+            "url": "https://github.com/geekybot/rwa-asset-management",
+            "stars": 0,
             "forks": 0,
             "score": 30
         },
@@ -728,5 +739,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-07-01 12:29"
+    "timestamp": "2026-07-01 15:36"
 };
