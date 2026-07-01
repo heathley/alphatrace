@@ -7,9 +7,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "Kulaxyz/self-learning-skills",
             "description": "A self-improving skill for AI coding agents (Claude Code, Cursor, AGENTS.md): recognize a hard-won golden path in a session and harvest it into a reusable skill/rule for next time.",
             "url": "https://github.com/Kulaxyz/self-learning-skills",
-            "stars": 597,
-            "forks": 2,
-            "score": 90
+            "stars": 661,
+            "forks": 3,
+            "score": 97
         },
         {
             "main_cat": "AI",
@@ -25,13 +25,13 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "agent-apprenticeship",
-            "full_name": "Forsy-AI/agent-apprenticeship",
-            "description": "The living ecosystem where AI agents run automated workflow loops on any task, improve through execution, and turn each run into reusable work experience + data to improve future agents.",
-            "url": "https://github.com/Forsy-AI/agent-apprenticeship",
-            "stars": 1121,
-            "forks": 50,
-            "score": 77
+            "name": "webtoon-harness",
+            "full_name": "revfactory/webtoon-harness",
+            "description": "\ud2b8\ub80c\ub4dc \uc870\uc0ac\ubd80\ud130 \uc138\ub85c \uc2a4\ud06c\ub864 \ubdf0\uc5b4 \uc644\uc131\uae4c\uc9c0, \uc6f9\ud230 \ud55c \ud68c\ucc28\ub97c 27\uac1c AI \uc5d0\uc774\uc804\ud2b8 \ud300\uc774 \ub9cc\ub4e4\uc5b4\ub0b4\ub294 Claude Code \ud558\ub124\uc2a4",
+            "url": "https://github.com/revfactory/webtoon-harness",
+            "stars": 236,
+            "forks": 79,
+            "score": 76
         },
         {
             "main_cat": "AI",
@@ -47,13 +47,13 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "webtoon-harness",
-            "full_name": "revfactory/webtoon-harness",
-            "description": "\ud2b8\ub80c\ub4dc \uc870\uc0ac\ubd80\ud130 \uc138\ub85c \uc2a4\ud06c\ub864 \ubdf0\uc5b4 \uc644\uc131\uae4c\uc9c0, \uc6f9\ud230 \ud55c \ud68c\ucc28\ub97c 27\uac1c AI \uc5d0\uc774\uc804\ud2b8 \ud300\uc774 \ub9cc\ub4e4\uc5b4\ub0b4\ub294 Claude Code \ud558\ub124\uc2a4",
-            "url": "https://github.com/revfactory/webtoon-harness",
-            "stars": 235,
-            "forks": 79,
-            "score": 75
+            "name": "agent-apprenticeship",
+            "full_name": "Forsy-AI/agent-apprenticeship",
+            "description": "The living ecosystem where AI agents run automated workflow loops on any task, improve through execution, and turn each run into reusable work experience + data to improve future agents.",
+            "url": "https://github.com/Forsy-AI/agent-apprenticeship",
+            "stars": 1125,
+            "forks": 50,
+            "score": 74
         },
         {
             "main_cat": "AI",
@@ -62,7 +62,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "benchflow-ai/awesome-evals",
             "description": "A curated, non-BS library of the best resources for building and evaluating AI agents \u2014 papers, blogs, talks, tools, benchmarks. Maintained by BenchFlow.",
             "url": "https://github.com/benchflow-ai/awesome-evals",
-            "stars": 612,
+            "stars": 613,
             "forks": 43,
             "score": 69
         },
@@ -106,7 +106,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "kentjuno/ainovel-cli",
             "description": "CLI s\u00e1ng t\u00e1c ti\u1ec3u thuy\u1ebft AI \u0111a agent \u2014 B\u1ea3n ti\u1ebfng Vi\u1ec7t c\u1ee7a voocel/ainovel-cli",
             "url": "https://github.com/kentjuno/ainovel-cli",
-            "stars": 214,
+            "stars": 216,
             "forks": 110,
             "score": 66
         },
@@ -117,20 +117,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "lycorp-jp/sim-use",
             "description": "Give your AI agent eyes and hands on iOS Simulator and Android emulator/devices.",
             "url": "https://github.com/lycorp-jp/sim-use",
-            "stars": 390,
+            "stars": 392,
             "forks": 19,
             "score": 59
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "ackem",
-            "full_name": "JasonLiu0826/ackem",
-            "description": "Ackem \u2014 \u672c\u5730\u4f18\u5148 AI \u684c\u9762\u966a\u4f34 \u00b7 Local-first AI desktop companion. \u9690\u79c1\u6570\u636e\u4e0d\u4e0a\u4f20\uff0c\u652f\u6301\u8bb0\u5fc6/\u60c5\u7eea/\u6269\u5c55/ \u3002AGPL-3.0",
-            "url": "https://github.com/JasonLiu0826/ackem",
-            "stars": 232,
-            "forks": 22,
-            "score": 56
         },
         {
             "main_cat": "AI",
@@ -146,11 +135,33 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
+            "name": "ackem",
+            "full_name": "JasonLiu0826/ackem",
+            "description": "Ackem \u2014 \u672c\u5730\u4f18\u5148 AI \u684c\u9762\u966a\u4f34 \u00b7 Local-first AI desktop companion. \u9690\u79c1\u6570\u636e\u4e0d\u4e0a\u4f20\uff0c\u652f\u6301\u8bb0\u5fc6/\u60c5\u7eea/\u6269\u5c55/ \u3002AGPL-3.0",
+            "url": "https://github.com/JasonLiu0826/ackem",
+            "stars": 239,
+            "forks": 22,
+            "score": 53
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "Awesome-Blender-Seedance-Workflow-Usecases",
+            "full_name": "cheercheung/Awesome-Blender-Seedance-Workflow-Usecases",
+            "description": "Curated Blender + Seedance workflows for AI filmmaking: previs, camera control, Blender MCP, reference video, and agent-guided use cases.",
+            "url": "https://github.com/cheercheung/Awesome-Blender-Seedance-Workflow-Usecases",
+            "stars": 177,
+            "forks": 12,
+            "score": 52
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
             "name": "autoshorts",
             "full_name": "JayWebtech/autoshorts",
             "description": "AutoShorts is a local-first desktop application for turning long-form video or audio recordings into high-impact, vertical short-form clip candidates (9:16 portrait) with AI-powered viral moment ranking.",
             "url": "https://github.com/JayWebtech/autoshorts",
-            "stars": 262,
+            "stars": 263,
             "forks": 66,
             "score": 51
         },
@@ -161,8 +172,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "eli-labz/Godcoder",
             "description": "A local-first, open-source coding agent for your desktop. Bring your own LLM key; your code stays on your machine and only ever leaves to the model provider. The AI Agent builds its own Harnes.",
             "url": "https://github.com/eli-labz/Godcoder",
-            "stars": 260,
-            "forks": 2,
+            "stars": 264,
+            "forks": 3,
             "score": 49
         },
         {
@@ -172,7 +183,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "lemma-work/lemma-platform",
             "description": "The open-source workspace where humans and AI agents work as one team.",
             "url": "https://github.com/lemma-work/lemma-platform",
-            "stars": 206,
+            "stars": 209,
             "forks": 42,
             "score": 47
         },
@@ -194,9 +205,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "tianchong-zerotemp/dianxing",
             "description": "DianXing - AI-Driven End-to-End Code Security Auditing",
             "url": "https://github.com/tianchong-zerotemp/dianxing",
-            "stars": 337,
+            "stars": 338,
             "forks": 36,
-            "score": 46
+            "score": 45
         },
         {
             "main_cat": "AI",
@@ -205,7 +216,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "NotASithLord/peerd",
             "description": "The first AI agent harness native to the browser. A Chrome/Firefox extension that runs the agent loop in your browser \u2014 drives your tabs, spins up sandboxed compute (JS notebooks, WASM Linux VMs, client-side apps), and shares what it builds peer-to-peer. BYOK \u00b7 no backend \u00b7 no telemetry.",
             "url": "https://github.com/NotASithLord/peerd",
-            "stars": 270,
+            "stars": 271,
             "forks": 28,
             "score": 45
         },
@@ -216,7 +227,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Johell1NS/browser-search",
             "description": "A skill for AI agents: search the web with SearXNG, browse with Camofox, bypass protections with CloakBrowser. Anti-hallucination by design. Self-hosted, free, unlimited.",
             "url": "https://github.com/Johell1NS/browser-search",
-            "stars": 270,
+            "stars": 271,
             "forks": 23,
             "score": 45
         },
@@ -227,7 +238,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "hanlinwenyuan/hlwy-ai-checker",
             "description": "\u68c0\u67e5\u7b2c\u4e09\u65b9AI API\u662f\u5426\u63ba\u5047\u4ee5\u53ca\u6e20\u9053\u4e00\u81f4",
             "url": "https://github.com/hanlinwenyuan/hlwy-ai-checker",
-            "stars": 235,
+            "stars": 238,
             "forks": 13,
             "score": 44
         },
@@ -249,7 +260,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "gamedev-skills/awesome-gamedev-agent-skills",
             "description": "Game-development Agent Skills for AI coding agents: install once and a master router loads the right skill for your engine and task. 66 original, version-pinned skills (plus a master router) in the portable SKILL.md format that runs across Claude Code, Cursor, Codex, Copilot, Gemini CLI and more, for Godot, Unity, Unreal, web and beyond.",
             "url": "https://github.com/gamedev-skills/awesome-gamedev-agent-skills",
-            "stars": 193,
+            "stars": 194,
             "forks": 7,
             "score": 41
         },
@@ -288,6 +299,17 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
+            "sub_cat": null,
+            "name": "awesome-images",
+            "full_name": "flatkey-ai/awesome-images",
+            "description": "Try flatkey.ai for 40% saving! Generate practical images ready for all your work needs!!!",
+            "url": "https://github.com/flatkey-ai/awesome-images",
+            "stars": 277,
+            "forks": 0,
+            "score": 38
+        },
+        {
+            "main_cat": "AI",
             "sub_cat": "AI General",
             "name": "claude-mythos-ai-anthropic-desktop-app",
             "full_name": "ikarma/claude-mythos-ai-anthropic-desktop-app",
@@ -295,28 +317,6 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/ikarma/claude-mythos-ai-anthropic-desktop-app",
             "stars": 176,
             "forks": 2,
-            "score": 39
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "awesome-images",
-            "full_name": "flatkey-ai/awesome-images",
-            "description": "Try flatkey.ai for 40% saving! Generate practical images ready for all your work needs!!!",
-            "url": "https://github.com/flatkey-ai/awesome-images",
-            "stars": 276,
-            "forks": 0,
-            "score": 38
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "Accordion",
-            "full_name": "a-Fig/Accordion",
-            "description": "\ud83c\udfc6 AI Hackathon 2026 @ UC Berkeley  Intelligent context management for developers",
-            "url": "https://github.com/a-Fig/Accordion",
-            "stars": 176,
-            "forks": 14,
             "score": 38
         },
         {
@@ -355,22 +355,22 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
+            "name": "franken_ocr",
+            "full_name": "Dicklesworthstone/franken_ocr",
+            "description": "Pure-Rust, CPU-only OCR engine for Baidu Unlimited-OCR (a DeepSeek-OCR-derived 3B MoE VLM). One fixed model, custom int4/int8 kernels, no ML framework, no GPU. Pre-Phase-0 scaffold.",
+            "url": "https://github.com/Dicklesworthstone/franken_ocr",
+            "stars": 33,
+            "forks": 1,
+            "score": 32
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
             "name": "agentkyro-on-stellar",
             "full_name": "David-patrick-chuks/agentkyro-on-stellar",
             "description": "AI agent that turns plain-English requests into zero-knowledge proofs, verified on-chain by a Stellar Soroban contract. Real-World ZK on Stellar \u2014 prove what's true, reveal nothing.",
             "url": "https://github.com/David-patrick-chuks/agentkyro-on-stellar",
             "stars": 10,
-            "forks": 0,
-            "score": 31
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "franken_ocr",
-            "full_name": "Dicklesworthstone/franken_ocr",
-            "description": "Pure-Rust, CPU-only OCR engine for Baidu Unlimited-OCR (a DeepSeek-OCR-derived 3B MoE VLM). One fixed model, custom int4/int8 kernels, no ML framework, no GPU. Pre-Phase-0 scaffold.",
-            "url": "https://github.com/Dicklesworthstone/franken_ocr",
-            "stars": 30,
             "forks": 0,
             "score": 31
         },
@@ -739,5 +739,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-07-01 15:36"
+    "timestamp": "2026-07-01 17:49"
 };
