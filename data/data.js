@@ -7,9 +7,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "Kulaxyz/self-learning-skills",
             "description": "A self-improving skill for AI coding agents (Claude Code, Cursor, AGENTS.md): recognize a hard-won golden path in a session and harvest it into a reusable skill/rule for next time.",
             "url": "https://github.com/Kulaxyz/self-learning-skills",
-            "stars": 702,
+            "stars": 727,
             "forks": 7,
-            "score": 90
+            "score": 92
         },
         {
             "main_cat": "AI",
@@ -51,9 +51,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "Forsy-AI/agent-apprenticeship",
             "description": "The living ecosystem where AI agents run automated workflow loops on any task, improve through execution, and turn each run into reusable work experience + data to improve future agents.",
             "url": "https://github.com/Forsy-AI/agent-apprenticeship",
-            "stars": 1132,
+            "stars": 1136,
             "forks": 50,
             "score": 74
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "leronx",
+            "full_name": "Leron-X/leronx",
+            "description": "LeronX \u2014 AI Image & Video Generation Platform",
+            "url": "https://github.com/Leron-X/leronx",
+            "stars": 418,
+            "forks": 57,
+            "score": 70
         },
         {
             "main_cat": "AI",
@@ -62,8 +73,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "benchflow-ai/awesome-evals",
             "description": "A curated, non-BS library of the best resources for building and evaluating AI agents \u2014 papers, blogs, talks, tools, benchmarks. Maintained by BenchFlow.",
             "url": "https://github.com/benchflow-ai/awesome-evals",
-            "stars": 616,
-            "forks": 43,
+            "stars": 620,
+            "forks": 44,
             "score": 69
         },
         {
@@ -113,22 +124,11 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "leronx",
-            "full_name": "Leron-X/leronx",
-            "description": "LeronX \u2014 AI Image & Video Generation Platform",
-            "url": "https://github.com/Leron-X/leronx",
-            "stars": 293,
-            "forks": 57,
-            "score": 62
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
             "name": "sim-use",
             "full_name": "lycorp-jp/sim-use",
             "description": "Give your AI agent eyes and hands on iOS Simulator and Android emulator/devices.",
             "url": "https://github.com/lycorp-jp/sim-use",
-            "stars": 393,
+            "stars": 394,
             "forks": 19,
             "score": 59
         },
@@ -146,6 +146,17 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
+            "name": "Awesome-Blender-Seedance-Workflow-Usecases",
+            "full_name": "cheercheung/Awesome-Blender-Seedance-Workflow-Usecases",
+            "description": "Curated Blender + Seedance workflows for AI filmmaking: previs, camera control, Blender MCP, reference video, and agent-guided use cases.",
+            "url": "https://github.com/cheercheung/Awesome-Blender-Seedance-Workflow-Usecases",
+            "stars": 188,
+            "forks": 14,
+            "score": 54
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
             "name": "ackem",
             "full_name": "JasonLiu0826/ackem",
             "description": "Ackem \u2014 \u672c\u5730\u4f18\u5148 AI \u684c\u9762\u966a\u4f34 \u00b7 Local-first AI desktop companion. \u9690\u79c1\u6570\u636e\u4e0d\u4e0a\u4f20\uff0c\u652f\u6301\u8bb0\u5fc6/\u60c5\u7eea/\u6269\u5c55/ \u3002AGPL-3.0",
@@ -157,24 +168,13 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "Awesome-Blender-Seedance-Workflow-Usecases",
-            "full_name": "cheercheung/Awesome-Blender-Seedance-Workflow-Usecases",
-            "description": "Curated Blender + Seedance workflows for AI filmmaking: previs, camera control, Blender MCP, reference video, and agent-guided use cases.",
-            "url": "https://github.com/cheercheung/Awesome-Blender-Seedance-Workflow-Usecases",
-            "stars": 183,
-            "forks": 13,
-            "score": 53
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
             "name": "autoshorts",
             "full_name": "JayWebtech/autoshorts",
             "description": "AutoShorts is a local-first desktop application for turning long-form video or audio recordings into high-impact, vertical short-form clip candidates (9:16 portrait) with AI-powered viral moment ranking.",
             "url": "https://github.com/JayWebtech/autoshorts",
-            "stars": 263,
+            "stars": 264,
             "forks": 66,
-            "score": 51
+            "score": 52
         },
         {
             "main_cat": "AI",
@@ -205,7 +205,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "NotASithLord/peerd",
             "description": "The first AI agent harness native to the browser. A Chrome/Firefox extension that runs the agent loop in your browser \u2014 drives your tabs, spins up sandboxed compute (JS notebooks, WASM Linux VMs, client-side apps), and shares what it builds peer-to-peer. BYOK \u00b7 no backend \u00b7 no telemetry.",
             "url": "https://github.com/NotASithLord/peerd",
-            "stars": 272,
+            "stars": 273,
             "forks": 28,
             "score": 46
         },
@@ -216,7 +216,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "tianchong-zerotemp/dianxing",
             "description": "DianXing - AI-Driven End-to-End Code Security Auditing",
             "url": "https://github.com/tianchong-zerotemp/dianxing",
-            "stars": 339,
+            "stars": 340,
             "forks": 36,
             "score": 45
         },
@@ -299,13 +299,13 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
-            "sub_cat": null,
-            "name": "AI-Canvas",
-            "full_name": "binghe1980/AI-Canvas",
-            "description": "Codex-integrated infinite canvas for AI image generation, annotation, and iterative editing.",
-            "url": "https://github.com/binghe1980/AI-Canvas",
-            "stars": 179,
-            "forks": 24,
+            "sub_cat": "AI General",
+            "name": "claude-fable-5-free-desktop-app",
+            "full_name": "SewLightningTake35/claude-fable-5-free-desktop-app",
+            "description": "free claude 5 fable anthropic large language model llm frontier reasoning autonomous agentic workflows long horizon autonomy claude code terminal claude.ai pro max  alternative mirrors github repository hugging face tool setup windows 11 macos linux stable build free trial usage tutorial",
+            "url": "https://github.com/SewLightningTake35/claude-fable-5-free-desktop-app",
+            "stars": 244,
+            "forks": 0,
             "score": 39
         },
         {
@@ -315,7 +315,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "flatkey-ai/awesome-images",
             "description": "Try flatkey.ai for 40% saving! Generate practical images ready for all your work needs!!!",
             "url": "https://github.com/flatkey-ai/awesome-images",
-            "stars": 279,
+            "stars": 280,
             "forks": 0,
             "score": 38
         },
@@ -326,7 +326,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Env-Kit/envkit-releases",
             "description": "EnvKit \u2014 free local development environment for Windows & macOS: nginx/Apache, multiple PHP versions, MySQL/MariaDB,   PostgreSQL, Redis, MongoDB, Mailpit, Node.js, trusted .test HTTPS, and a built-in MCP server for AI-assistant control.   A Laragon/XAMPP/Herd alternative.",
             "url": "https://github.com/Env-Kit/envkit-releases",
-            "stars": 200,
+            "stars": 201,
             "forks": 5,
             "score": 37
         },
@@ -359,7 +359,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Dicklesworthstone/franken_ocr",
             "description": "Pure-Rust, CPU-only OCR engine for Baidu Unlimited-OCR (a DeepSeek-OCR-derived 3B MoE VLM). One fixed model, custom int4/int8 kernels, no ML framework, no GPU. Pre-Phase-0 scaffold.",
             "url": "https://github.com/Dicklesworthstone/franken_ocr",
-            "stars": 34,
+            "stars": 35,
             "forks": 1,
             "score": 32
         },
@@ -739,5 +739,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-07-01 19:44"
+    "timestamp": "2026-07-01 21:21"
 };
