@@ -18,9 +18,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "Pluviobyte/video-production-skills",
             "description": "Reusable AI video production skills library for creation, recreation, motion design, openers, and QA.",
             "url": "https://github.com/Pluviobyte/video-production-skills",
-            "stars": 481,
+            "stars": 482,
             "forks": 58,
-            "score": 80
+            "score": 81
         },
         {
             "main_cat": "AI",
@@ -29,7 +29,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "revfactory/webtoon-harness",
             "description": "\ud2b8\ub80c\ub4dc \uc870\uc0ac\ubd80\ud130 \uc138\ub85c \uc2a4\ud06c\ub864 \ubdf0\uc5b4 \uc644\uc131\uae4c\uc9c0, \uc6f9\ud230 \ud55c \ud68c\ucc28\ub97c 27\uac1c AI \uc5d0\uc774\uc804\ud2b8 \ud300\uc774 \ub9cc\ub4e4\uc5b4\ub0b4\ub294 Claude Code \ud558\ub124\uc2a4",
             "url": "https://github.com/revfactory/webtoon-harness",
-            "stars": 207,
+            "stars": 209,
             "forks": 70,
             "score": 78
         },
@@ -40,7 +40,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Forsy-AI/agent-apprenticeship",
             "description": "The living ecosystem where AI agents run automated workflow loops on any task, improve through execution, and turn each run into reusable work experience + data to improve future agents.",
             "url": "https://github.com/Forsy-AI/agent-apprenticeship",
-            "stars": 1093,
+            "stars": 1096,
             "forks": 50,
             "score": 76
         },
@@ -62,7 +62,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "benchflow-ai/awesome-evals",
             "description": "A curated, non-BS library of the best resources for building and evaluating AI agents \u2014 papers, blogs, talks, tools, benchmarks. Maintained by BenchFlow.",
             "url": "https://github.com/benchflow-ai/awesome-evals",
-            "stars": 606,
+            "stars": 607,
             "forks": 41,
             "score": 72
         },
@@ -84,8 +84,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "tutusagi/ai-fishing-game",
             "description": "\ud83c\udfa3 \u7ed9 AI \u73a9\u7684\u786e\u5b9a\u6027\u6587\u5b57\u9493\u9c7c\u5c0f\u6e38\u620f \u00b7 \u5355\u6587\u4ef6\u96f6\u4f9d\u8d56 \u00b7 \u8ba9\u4f60\u7684 AI \u4f34\u4fa3\u6765\u9493\u9c7c",
             "url": "https://github.com/tutusagi/ai-fishing-game",
-            "stars": 332,
-            "forks": 41,
+            "stars": 333,
+            "forks": 42,
             "score": 57
         },
         {
@@ -95,7 +95,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "lycorp-jp/sim-use",
             "description": "Give your AI agent eyes and hands on iOS Simulator and Android emulator/devices.",
             "url": "https://github.com/lycorp-jp/sim-use",
-            "stars": 325,
+            "stars": 328,
             "forks": 14,
             "score": 57
         },
@@ -112,23 +112,12 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
-            "sub_cat": null,
-            "name": "junction",
-            "full_name": "Plaer1/junction",
-            "description": "VS Code chat sidebar for local AI coding agents",
-            "url": "https://github.com/Plaer1/junction",
-            "stars": 646,
-            "forks": 10,
-            "score": 51
-        },
-        {
-            "main_cat": "AI",
             "sub_cat": "AI General",
             "name": "Godcoder",
             "full_name": "eli-labz/Godcoder",
             "description": "A local-first, open-source coding agent for your desktop. Bring your own LLM key; your code stays on your machine and only ever leaves to the model provider. The AI Agent builds its own Harnes.",
             "url": "https://github.com/eli-labz/Godcoder",
-            "stars": 253,
+            "stars": 254,
             "forks": 1,
             "score": 51
         },
@@ -139,7 +128,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "lemma-work/lemma-platform",
             "description": "The open-source workspace where humans and AI agents work as one team.",
             "url": "https://github.com/lemma-work/lemma-platform",
-            "stars": 196,
+            "stars": 198,
             "forks": 40,
             "score": 47
         },
@@ -150,7 +139,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Johell1NS/browser-search",
             "description": "A skill for AI agents: search the web with SearXNG, browse with Camofox, bypass protections with CloakBrowser. Anti-hallucination by design. Self-hosted, free, unlimited.",
             "url": "https://github.com/Johell1NS/browser-search",
-            "stars": 260,
+            "stars": 262,
             "forks": 23,
             "score": 46
         },
@@ -161,9 +150,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "NotASithLord/peerd",
             "description": "The first AI agent harness native to the browser. A Chrome/Firefox extension that runs the agent loop in your browser \u2014 drives your tabs, spins up sandboxed compute (JS notebooks, WASM Linux VMs, client-side apps), and shares what it builds peer-to-peer. BYOK \u00b7 no backend \u00b7 no telemetry.",
             "url": "https://github.com/NotASithLord/peerd",
-            "stars": 258,
-            "forks": 26,
+            "stars": 261,
+            "forks": 27,
             "score": 46
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "agent-pilot",
+            "full_name": "Brenonunesx/agent-pilot",
+            "description": "AI Agent Toolkit 2026: Smart Device Control for iOS & Android",
+            "url": "https://github.com/Brenonunesx/agent-pilot",
+            "stars": 153,
+            "forks": 0,
+            "score": 45
         },
         {
             "main_cat": "AI",
@@ -172,7 +172,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "tianchong-zerotemp/dianxing",
             "description": "DianXing - AI-Driven End-to-End Code Security Auditing",
             "url": "https://github.com/tianchong-zerotemp/dianxing",
-            "stars": 303,
+            "stars": 305,
             "forks": 32,
             "score": 44
         },
@@ -228,7 +228,7 @@ const ALPHA_DATA_V2 = {
             "description": "Databuff is an open-source , AI-native OpenTelemetry APM &  SREAgent tool . An open-source alternative to Datadog, Dynatrace\uff0cNewRelic, etc. \ud83d\udd25 \ud83d\udd25\ud83d\udd25",
             "url": "https://github.com/databufflabs/databuff",
             "stars": 194,
-            "forks": 34,
+            "forks": 35,
             "score": 41
         },
         {
@@ -260,8 +260,19 @@ const ALPHA_DATA_V2 = {
             "full_name": "humation-labs/humation",
             "description": "Hand-drawn kawaii avatar engine for your app. No AI, no API calls.",
             "url": "https://github.com/humation-labs/humation",
-            "stars": 166,
+            "stars": 168,
             "forks": 9,
+            "score": 39
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "ShipGenAI",
+            "full_name": "benlamiro/ShipGenAI",
+            "description": "\ud83d\ude80 50 production-ready Generative AI SaaS apps \u2014 brand them, ship them, keep 100% of the revenue. Stripe billing \u00b7 Google OAuth \u00b7 Vercel deploy \u00b7 MIT licensed",
+            "url": "https://github.com/benlamiro/ShipGenAI",
+            "stars": 155,
+            "forks": 6,
             "score": 39
         },
         {
@@ -271,19 +282,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "flatkey-ai/awesome-images",
             "description": "Try flatkey.ai for 40% saving! Generate practical images ready for all your work needs!!!",
             "url": "https://github.com/flatkey-ai/awesome-images",
-            "stars": 259,
+            "stars": 261,
             "forks": 0,
-            "score": 38
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "lfg",
-            "full_name": "BennyKok/lfg",
-            "description": "lfg \u2014 run and manage your AI coding agents (Claude Code / Codex / OpenCode) on your own VPS",
-            "url": "https://github.com/BennyKok/lfg",
-            "stars": 230,
-            "forks": 14,
             "score": 38
         },
         {
@@ -293,7 +293,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Env-Kit/envkit-releases",
             "description": "EnvKit \u2014 free local development environment for Windows & macOS: nginx/Apache, multiple PHP versions, MySQL/MariaDB,   PostgreSQL, Redis, MongoDB, Mailpit, Node.js, trusted .test HTTPS, and a built-in MCP server for AI-assistant control.   A Laragon/XAMPP/Herd alternative.",
             "url": "https://github.com/Env-Kit/envkit-releases",
-            "stars": 190,
+            "stars": 191,
             "forks": 5,
             "score": 38
         },
@@ -304,19 +304,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "a-Fig/Accordion",
             "description": "\ud83c\udfc6 AI Hackathon 2026 @ UC Berkeley  Intelligent context management for developers",
             "url": "https://github.com/a-Fig/Accordion",
-            "stars": 171,
-            "forks": 13,
-            "score": 38
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "HermesAgent-MultiModel",
-            "full_name": "InfiniteWhispers/HermesAgent-MultiModel",
-            "description": "A fully-local, multi-model AI agent framework with Mixture-of-Agents (MoA) orchestration. Run a high-performance agentic stack on consumer GPUs (RTX 4080/5080) using Hermes + Ollama, with zero cloud dependencies.",
-            "url": "https://github.com/InfiniteWhispers/HermesAgent-MultiModel",
-            "stars": 37,
-            "forks": 7,
+            "stars": 174,
+            "forks": 14,
             "score": 38
         },
         {
@@ -332,14 +321,25 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "HermesAgent-MultiModel",
+            "full_name": "InfiniteWhispers/HermesAgent-MultiModel",
+            "description": "A fully-local, multi-model AI agent framework with Mixture-of-Agents (MoA) orchestration. Run a high-performance agentic stack on consumer GPUs (RTX 4080/5080) using Hermes + Ollama, with zero cloud dependencies.",
+            "url": "https://github.com/InfiniteWhispers/HermesAgent-MultiModel",
+            "stars": 37,
+            "forks": 7,
+            "score": 36
+        },
+        {
+            "main_cat": "AI",
             "sub_cat": null,
             "name": "agentteam-email",
             "full_name": "agentteamhq/agentteam-email",
             "description": "Open-source email infrastructure for AI agents.",
             "url": "https://github.com/agentteamhq/agentteam-email",
-            "stars": 166,
+            "stars": 167,
             "forks": 0,
-            "score": 36
+            "score": 35
         },
         {
             "main_cat": "AI",
@@ -362,6 +362,17 @@ const ALPHA_DATA_V2 = {
             "stars": 18,
             "forks": 0,
             "score": 31
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "conversational-infill",
+            "full_name": "vysri/conversational-infill",
+            "description": "The ConvFill Repository provides training and inference code for the Conversational Infill task proposed and implemented in Thinking While Speaking: Inference-Time Knowledge Transfer for Responsive and Intelligent Conversational Voice Agents.",
+            "url": "https://github.com/vysri/conversational-infill",
+            "stars": 7,
+            "forks": 0,
+            "score": 30
         },
         {
             "main_cat": "AI",
@@ -392,17 +403,6 @@ const ALPHA_DATA_V2 = {
             "full_name": "FranciscoPereira/sui-market-forecast",
             "description": "A prediction market protocol on SUI with on-chain trading powered by DeepBook. Create markets, trade outcome tokens, and settle bets trustlessly on-chain.",
             "url": "https://github.com/FranciscoPereira/sui-market-forecast",
-            "stars": 1,
-            "forks": 0,
-            "score": 30
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "MLB-SYSTEM-ig-montecarlopicks",
-            "full_name": "companygondu-cyber/MLB-SYSTEM-ig-montecarlopicks",
-            "description": "Machine learning system for MLB betting predictions using ensemble models (HGB, Random Forest, XGBoost), dynamic ELO calibration, player props forecasting, and real-time lineup data from the official MLB API. Includes historical backtesting engine and daily prediction scanner.",
-            "url": "https://github.com/companygondu-cyber/MLB-SYSTEM-ig-montecarlopicks",
             "stars": 1,
             "forks": 0,
             "score": 30
@@ -531,17 +531,6 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
-            "name": "RailFlow",
-            "full_name": "longbds0108/RailFlow",
-            "description": "Testnet demo dApp on Arc (Circle's stablecoin L1): Payment, Swap, Staking, Bridge + History/Admin. Self-custody via MetaMask, Circle App Kit, CCTP V2.",
-            "url": "https://github.com/longbds0108/RailFlow",
-            "stars": 0,
-            "forks": 0,
-            "score": 30
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
             "name": "solana-payments",
             "full_name": "Blessed-Shammah/solana-payments",
             "description": "Production-grade stablecoin payments for Solana builders \u2014 a skill for the Solana AI Kit. Turns any coding agent into a payments engineer: checkout, subscriptions, safe confirmation, webhook\u2192ledger reconciliation, refunds, on/off-ramp, treasury, and the compliance minimum.",
@@ -607,6 +596,28 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "AI-Engine",
+            "full_name": "OrbitFlow-AI/AI-Engine",
+            "description": "An **AI Agent Treasury & Micropayment Router**. A specialized Soroban smart contract framework built specifically for multi-agent LLM systems. Agents can be spun up with an allocated budget of stablecoins on Stellar, and use automated condition-based path-payments to purchase API access, data, or computing power from other agents natively.",
+            "url": "https://github.com/OrbitFlow-AI/AI-Engine",
+            "stars": 0,
+            "forks": 2,
+            "score": 30
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "AfriFX",
+            "full_name": "soft-developper/AfriFX",
+            "description": "AfriFX is a decentralised foreign exchange and cross-border payments platform built on the Arc blockchain. It enables individuals and businesses across Africa to move money across borders using USDC stablecoins as the settlement layer with real local currency amounts on both ends. Every transaction is settled on-chain, transparent, and traceable",
+            "url": "https://github.com/soft-developper/AfriFX",
+            "stars": 0,
+            "forks": 0,
+            "score": 30
+        },
+        {
+            "main_cat": "AI",
             "sub_cat": "AI Agents",
             "name": "mcp-forge",
             "full_name": "Mowen559/mcp-forge",
@@ -634,28 +645,6 @@ const ALPHA_DATA_V2 = {
             "full_name": "Musty6938/solana-growth-skill",
             "description": "A cross-domain Solana AI Kit skill that translates technical on-chain data and protocol updates into clear, structured social threads and infographic design briefs.",
             "url": "https://github.com/Musty6938/solana-growth-skill",
-            "stars": 1,
-            "forks": 0,
-            "score": 30
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "Maat",
-            "full_name": "Lord1Egypt/Maat",
-            "description": "\ud80c\udc67 Ma'at \u2014 The Order Blockchain: fixed-price cross-chain exchange with scheduled announcements. Central-bank model for crypto. Native coin + wrapped assets at protocol-set prices.",
-            "url": "https://github.com/Lord1Egypt/Maat",
-            "stars": 1,
-            "forks": 0,
-            "score": 30
-        },
-        {
-            "main_cat": "Cross-chain / Interoperability",
-            "sub_cat": null,
-            "name": "CryptoEdge",
-            "full_name": "Michel66/CryptoEdge",
-            "description": "Empowering secure, cross-platform deployment of decentralized, agile smart contracts through an optimized, efficient protocol framework.",
-            "url": "https://github.com/Michel66/CryptoEdge",
             "stars": 1,
             "forks": 0,
             "score": 30
@@ -725,23 +714,20 @@ const ALPHA_DATA_V2 = {
             "stars": 0,
             "forks": 0,
             "score": 30
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "novahaven",
+            "full_name": "novahaven-code/novahaven",
+            "description": "NovaHaven is a non-custodial cross-chain swap protocol. Funds are locked in Hash Time-Lock Contracts (HTLCs) on each chain simultaneously. Settlement is a `sha256` preimage reveal \u2014 not a multisig, not an attester signature.",
+            "url": "https://github.com/novahaven-code/novahaven",
+            "stars": 0,
+            "forks": 0,
+            "score": 30
         }
     ],
     "news": [
-        {
-            "title": "Authentication in Quantum Networks",
-            "source": "ArXiv",
-            "type": "Research Alpha",
-            "color": "text-indigo-600",
-            "url": "http://arxiv.org/abs/2606.30636v1"
-        },
-        {
-            "title": "MESA: Prioritizing Vulnerable Communication Channels for Securing Multi-Agent Systems",
-            "source": "ArXiv",
-            "type": "Research Alpha",
-            "color": "text-indigo-600",
-            "url": "http://arxiv.org/abs/2606.30602v1"
-        },
         {
             "title": "Bitcoin volatility remains high ahead of key FED decision.",
             "source": "Polymarket",
@@ -750,5 +736,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-06-30 22:11"
+    "timestamp": "2026-07-01 00:01"
 };
