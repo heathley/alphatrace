@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "lingbol088-spec/reverse-flow-skill",
             "description": "\u9762\u5411 AI Agent / Codex \u7684\u672c\u5730 CTF \u9006\u5411\u5de5\u7a0b\u6d41\u7a0b\u6280\u80fd\u3002\u52a0\u8f7d\u540e\u901a\u8fc7\u201c\u771f\u5fc3\u4e3a\u4f60\u201d\u8fdb\u5165\u9006\u5411\u6a21\u5f0f\uff0c\u9ed8\u8ba4\u5728\u672c\u5730\u6c99\u76d2\u3001CTF\u3001crackme\u3001wargame \u6216\u8bad\u7ec3\u9776\u573a\u73af\u5883\u4e2d\u5de5\u4f5c\uff0c\u6309\u201c\u5206\u6790 \u2192 \u62a5\u544a \u2192 \u9006\u5411 \u2192 \u6df1\u5ea6\u9006\u5411 \u2192 \u6f0f\u6d1e\u7814\u5224 \u2192 \u7528\u6237\u9009\u62e9\u4e0b\u4e00\u6b65\u201d\u7684\u6d41\u7a0b\u63a8\u8fdb\u3002",
             "url": "https://github.com/lingbol088-spec/reverse-flow-skill",
-            "stars": 270,
-            "forks": 153,
+            "stars": 271,
+            "forks": 154,
             "score": 99
         },
         {
@@ -18,7 +18,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Kulaxyz/self-learning-skills",
             "description": "A self-improving skill for AI coding agents (Claude Code, Cursor, AGENTS.md): recognize a hard-won golden path in a session and harvest it into a reusable skill/rule for next time.",
             "url": "https://github.com/Kulaxyz/self-learning-skills",
-            "stars": 889,
+            "stars": 893,
             "forks": 13,
             "score": 97
         },
@@ -29,7 +29,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "yo-WASSUP/Good-Badminton",
             "description": "\ud83c\udff8  AI Badminton Hawk-Eye System",
             "url": "https://github.com/yo-WASSUP/Good-Badminton",
-            "stars": 623,
+            "stars": 624,
             "forks": 184,
             "score": 75
         },
@@ -73,7 +73,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "benchflow-ai/awesome-evals",
             "description": "A curated, non-BS library of the best resources for building and evaluating AI agents \u2014 papers, blogs, talks, tools, benchmarks. Maintained by BenchFlow.",
             "url": "https://github.com/benchflow-ai/awesome-evals",
-            "stars": 645,
+            "stars": 646,
             "forks": 46,
             "score": 67
         },
@@ -150,8 +150,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "lycorp-jp/sim-use",
             "description": "Give your AI agent eyes and hands on iOS Simulator and Android emulator/devices.",
             "url": "https://github.com/lycorp-jp/sim-use",
-            "stars": 451,
-            "forks": 23,
+            "stars": 453,
+            "forks": 24,
             "score": 60
         },
         {
@@ -166,17 +166,6 @@ const ALPHA_DATA_V2 = {
             "score": 57
         },
         {
-            "main_cat": "DePIN",
-            "sub_cat": null,
-            "name": "Silent-Crypto-Miner",
-            "full_name": "SeVipl8/Silent-Crypto-Miner",
-            "description": "Silent Crypto Miner is an advanced cryptocurrency mining builder and runtime engine with multi-algorithm CPU/GPU support and intelligent resource management. Create custom mining executables with configurable algorithms, cross-platform output, real-time monitoring, session persistence, thermal throttling, scheduling, and hashrate optimization.",
-            "url": "https://github.com/SeVipl8/Silent-Crypto-Miner",
-            "stars": 96,
-            "forks": 15,
-            "score": 56
-        },
-        {
             "main_cat": "AI",
             "sub_cat": null,
             "name": "ackem",
@@ -188,13 +177,24 @@ const ALPHA_DATA_V2 = {
             "score": 55
         },
         {
+            "main_cat": "DePIN",
+            "sub_cat": null,
+            "name": "Silent-Crypto-Miner",
+            "full_name": "SeVipl8/Silent-Crypto-Miner",
+            "description": "Silent Crypto Miner is an advanced cryptocurrency mining builder and runtime engine with multi-algorithm CPU/GPU support and intelligent resource management. Create custom mining executables with configurable algorithms, cross-platform output, real-time monitoring, session persistence, thermal throttling, scheduling, and hashrate optimization.",
+            "url": "https://github.com/SeVipl8/Silent-Crypto-Miner",
+            "stars": 92,
+            "forks": 15,
+            "score": 55
+        },
+        {
             "main_cat": "AI",
             "sub_cat": null,
             "name": "ai-fishing-game",
             "full_name": "tutusagi/ai-fishing-game",
             "description": "\ud83c\udfa3 \u7ed9 AI \u73a9\u7684\u786e\u5b9a\u6027\u6587\u5b57\u9493\u9c7c\u5c0f\u6e38\u620f \u00b7 \u5355\u6587\u4ef6\u96f6\u4f9d\u8d56 \u00b7 \u8ba9\u4f60\u7684 AI \u4f34\u4fa3\u6765\u9493\u9c7c",
             "url": "https://github.com/tutusagi/ai-fishing-game",
-            "stars": 358,
+            "stars": 359,
             "forks": 44,
             "score": 54
         },
@@ -205,7 +205,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "JayWebtech/autoshorts",
             "description": "AutoShorts is a local-first desktop application for turning long-form video or audio recordings into high-impact, vertical short-form clip candidates (9:16 portrait) with AI-powered viral moment ranking.",
             "url": "https://github.com/JayWebtech/autoshorts",
-            "stars": 277,
+            "stars": 279,
             "forks": 69,
             "score": 51
         },
@@ -260,7 +260,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "hanlinwenyuan/hlwy-ai-checker",
             "description": "\u68c0\u67e5\u7b2c\u4e09\u65b9AI API\u662f\u5426\u63ba\u5047\u4ee5\u53ca\u6e20\u9053\u4e00\u81f4",
             "url": "https://github.com/hanlinwenyuan/hlwy-ai-checker",
-            "stars": 258,
+            "stars": 260,
             "forks": 13,
             "score": 44
         },
@@ -718,20 +718,6 @@ const ALPHA_DATA_V2 = {
     ],
     "news": [
         {
-            "title": "All-out Attack: Optimal Block Withholding Under Pay-Per-Share Scheme",
-            "source": "ArXiv",
-            "type": "Research Alpha",
-            "color": "text-indigo-600",
-            "url": "http://arxiv.org/abs/2607.01209v1"
-        },
-        {
-            "title": "Detecting Adversarial Evasion Attacks Against Autoencoder-Based Network Intrusion Detection Systems",
-            "source": "ArXiv",
-            "type": "Research Alpha",
-            "color": "text-indigo-600",
-            "url": "http://arxiv.org/abs/2607.01194v1"
-        },
-        {
             "title": "Bitcoin volatility remains high ahead of key FED decision.",
             "source": "Polymarket",
             "type": "Expectation",
@@ -739,5 +725,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-07-02 20:57"
+    "timestamp": "2026-07-02 22:06"
 };
