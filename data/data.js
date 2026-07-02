@@ -7,9 +7,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "Kulaxyz/self-learning-skills",
             "description": "A self-improving skill for AI coding agents (Claude Code, Cursor, AGENTS.md): recognize a hard-won golden path in a session and harvest it into a reusable skill/rule for next time.",
             "url": "https://github.com/Kulaxyz/self-learning-skills",
-            "stars": 739,
+            "stars": 753,
             "forks": 7,
-            "score": 93
+            "score": 95
         },
         {
             "main_cat": "AI",
@@ -18,7 +18,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "yo-WASSUP/Good-Badminton",
             "description": "\ud83c\udff8  AI Badminton Hawk-Eye System",
             "url": "https://github.com/yo-WASSUP/Good-Badminton",
-            "stars": 620,
+            "stars": 621,
             "forks": 184,
             "score": 78
         },
@@ -30,7 +30,7 @@ const ALPHA_DATA_V2 = {
             "description": "\ud2b8\ub80c\ub4dc \uc870\uc0ac\ubd80\ud130 \uc138\ub85c \uc2a4\ud06c\ub864 \ubdf0\uc5b4 \uc644\uc131\uae4c\uc9c0, \uc6f9\ud230 \ud55c \ud68c\ucc28\ub97c 27\uac1c AI \uc5d0\uc774\uc804\ud2b8 \ud300\uc774 \ub9cc\ub4e4\uc5b4\ub0b4\ub294 Claude Code \ud558\ub124\uc2a4",
             "url": "https://github.com/revfactory/webtoon-harness",
             "stars": 237,
-            "forks": 79,
+            "forks": 81,
             "score": 76
         },
         {
@@ -51,9 +51,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "Forsy-AI/agent-apprenticeship",
             "description": "The living ecosystem where AI agents run automated workflow loops on any task, improve through execution, and turn each run into reusable work experience + data to improve future agents.",
             "url": "https://github.com/Forsy-AI/agent-apprenticeship",
-            "stars": 1138,
+            "stars": 1140,
             "forks": 50,
             "score": 74
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "awesome-evals",
+            "full_name": "benchflow-ai/awesome-evals",
+            "description": "A curated, non-BS library of the best resources for building and evaluating AI agents \u2014 papers, blogs, talks, tools, benchmarks. Maintained by BenchFlow.",
+            "url": "https://github.com/benchflow-ai/awesome-evals",
+            "stars": 627,
+            "forks": 45,
+            "score": 70
         },
         {
             "main_cat": "AI",
@@ -69,46 +80,24 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "awesome-evals",
-            "full_name": "benchflow-ai/awesome-evals",
-            "description": "A curated, non-BS library of the best resources for building and evaluating AI agents \u2014 papers, blogs, talks, tools, benchmarks. Maintained by BenchFlow.",
-            "url": "https://github.com/benchflow-ai/awesome-evals",
-            "stars": 622,
-            "forks": 44,
-            "score": 69
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "theeleven",
-            "full_name": "winsznx/theeleven",
-            "description": "Eleven autonomous AI agents open live football prop markets on X Layer \u2014 custom Uniswap v4 hook, gasless USDT0 staking.",
-            "url": "https://github.com/winsznx/theeleven",
-            "stars": 681,
-            "forks": 1,
-            "score": 68
+            "name": "Captcha_Solver_AI",
+            "full_name": "scolwell/Captcha_Solver_AI",
+            "description": "Automatically solve text, image, and audio CAPTCHAs using AI. Supports reCAPTCHA, hCaptcha, and custom CAPTCHAs.",
+            "url": "https://github.com/scolwell/Captcha_Solver_AI",
+            "stars": 243,
+            "forks": 0,
+            "score": 70
         },
         {
             "main_cat": "AI",
             "sub_cat": null,
             "name": "League_of_Legends_Skillshot_Dodger",
-            "full_name": "Mbovu222/League_of_Legends_Skillshot_Dodger",
-            "description": "AI dodger and last-hit assistant for LoL (undetected by Vanguard). Auto-dodge skillshots, perfect CS, reveal fog, and execute combos. Works in all game modes.",
-            "url": "https://github.com/Mbovu222/League_of_Legends_Skillshot_Dodger",
-            "stars": 221,
+            "full_name": "jongwonkim987/League_of_Legends_Skillshot_Dodger",
+            "description": "AI-powered skillshot dodger, last-hit assistant, and map hack for LoL. Dodge skillshots perfectly, never miss a CS, and see invisible enemies.",
+            "url": "https://github.com/jongwonkim987/League_of_Legends_Skillshot_Dodger",
+            "stars": 229,
             "forks": 0,
-            "score": 66
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "Valorant_TriggerBot_Elite",
-            "full_name": "omarabdelazez11/Valorant_TriggerBot_Elite",
-            "description": "AI-powered triggerbot and radar hack for Valorant with human-like behavior. Auto-shoot when crosshair locks on, reveal enemy positions, and unlock all skins. Works with Vanguard bypass.",
-            "url": "https://github.com/omarabdelazez11/Valorant_TriggerBot_Elite",
-            "stars": 221,
-            "forks": 0,
-            "score": 66
+            "score": 68
         },
         {
             "main_cat": "AI",
@@ -117,20 +106,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "kentjuno/ainovel-cli",
             "description": "CLI s\u00e1ng t\u00e1c ti\u1ec3u thuy\u1ebft AI \u0111a agent \u2014 B\u1ea3n ti\u1ebfng Vi\u1ec7t c\u1ee7a voocel/ainovel-cli",
             "url": "https://github.com/kentjuno/ainovel-cli",
-            "stars": 216,
+            "stars": 217,
             "forks": 110,
             "score": 66
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "Captcha_Solver_AI",
-            "full_name": "scolwell/Captcha_Solver_AI",
-            "description": "Automatically solve text, image, and audio CAPTCHAs using AI. Supports reCAPTCHA, hCaptcha, and custom CAPTCHAs.",
-            "url": "https://github.com/scolwell/Captcha_Solver_AI",
-            "stars": 195,
-            "forks": 0,
-            "score": 62
         },
         {
             "main_cat": "AI",
@@ -139,9 +117,42 @@ const ALPHA_DATA_V2 = {
             "full_name": "lycorp-jp/sim-use",
             "description": "Give your AI agent eyes and hands on iOS Simulator and Android emulator/devices.",
             "url": "https://github.com/lycorp-jp/sim-use",
-            "stars": 395,
-            "forks": 19,
+            "stars": 400,
+            "forks": 20,
+            "score": 60
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "Awesome-Blender-Seedance-Workflow-Usecases",
+            "full_name": "cheercheung/Awesome-Blender-Seedance-Workflow-Usecases",
+            "description": "Curated Blender + Seedance workflows for AI filmmaking: previs, camera control, Blender MCP, reference video, and agent-guided use cases.",
+            "url": "https://github.com/cheercheung/Awesome-Blender-Seedance-Workflow-Usecases",
+            "stars": 219,
+            "forks": 18,
             "score": 59
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "League_of_Legends_Skillshot_Dodger",
+            "full_name": "Mbovu222/League_of_Legends_Skillshot_Dodger",
+            "description": "AI dodger and last-hit assistant for LoL (undetected by Vanguard). Auto-dodge skillshots, perfect CS, reveal fog, and execute combos. Works in all game modes.",
+            "url": "https://github.com/Mbovu222/League_of_Legends_Skillshot_Dodger",
+            "stars": 220,
+            "forks": 0,
+            "score": 57
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "Valorant_TriggerBot_Elite",
+            "full_name": "omarabdelazez11/Valorant_TriggerBot_Elite",
+            "description": "AI-powered triggerbot and radar hack for Valorant with human-like behavior. Auto-shoot when crosshair locks on, reveal enemy positions, and unlock all skins. Works with Vanguard bypass.",
+            "url": "https://github.com/omarabdelazez11/Valorant_TriggerBot_Elite",
+            "stars": 220,
+            "forks": 0,
+            "score": 57
         },
         {
             "main_cat": "AI",
@@ -150,7 +161,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "tutusagi/ai-fishing-game",
             "description": "\ud83c\udfa3 \u7ed9 AI \u73a9\u7684\u786e\u5b9a\u6027\u6587\u5b57\u9493\u9c7c\u5c0f\u6e38\u620f \u00b7 \u5355\u6587\u4ef6\u96f6\u4f9d\u8d56 \u00b7 \u8ba9\u4f60\u7684 AI \u4f34\u4fa3\u6765\u9493\u9c7c",
             "url": "https://github.com/tutusagi/ai-fishing-game",
-            "stars": 345,
+            "stars": 346,
             "forks": 43,
             "score": 55
         },
@@ -161,9 +172,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "JasonLiu0826/ackem",
             "description": "Ackem \u2014 \u672c\u5730\u4f18\u5148 AI \u684c\u9762\u966a\u4f34 \u00b7 Local-first AI desktop companion. \u9690\u79c1\u6570\u636e\u4e0d\u4e0a\u4f20\uff0c\u652f\u6301\u8bb0\u5fc6/\u60c5\u7eea/\u6269\u5c55/ \u3002AGPL-3.0",
             "url": "https://github.com/JasonLiu0826/ackem",
-            "stars": 240,
-            "forks": 22,
-            "score": 53
+            "stars": 248,
+            "forks": 23,
+            "score": 54
         },
         {
             "main_cat": "AI",
@@ -172,9 +183,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "JayWebtech/autoshorts",
             "description": "AutoShorts is a local-first desktop application for turning long-form video or audio recordings into high-impact, vertical short-form clip candidates (9:16 portrait) with AI-powered viral moment ranking.",
             "url": "https://github.com/JayWebtech/autoshorts",
-            "stars": 264,
+            "stars": 266,
             "forks": 66,
             "score": 52
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "OpenRAM",
+            "full_name": "tryOpenRAM/OpenRAM",
+            "description": "Rent GPUs and run any AI model, paid in SOL. Buy with $RAM and every $RAM spent gets burned. ",
+            "url": "https://github.com/tryOpenRAM/OpenRAM",
+            "stars": 334,
+            "forks": 3,
+            "score": 51
         },
         {
             "main_cat": "AI",
@@ -183,9 +205,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "eli-labz/Godcoder",
             "description": "A local-first, open-source coding agent for your desktop. Bring your own LLM key; your code stays on your machine and only ever leaves to the model provider. The AI Agent builds its own Harnes.",
             "url": "https://github.com/eli-labz/Godcoder",
-            "stars": 265,
+            "stars": 268,
             "forks": 3,
-            "score": 49
+            "score": 47
         },
         {
             "main_cat": "AI",
@@ -205,20 +227,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "NotASithLord/peerd",
             "description": "The first AI agent harness native to the browser. A Chrome/Firefox extension that runs the agent loop in your browser \u2014 drives your tabs, spins up sandboxed compute (JS notebooks, WASM Linux VMs, client-side apps), and shares what it builds peer-to-peer. BYOK \u00b7 no backend \u00b7 no telemetry.",
             "url": "https://github.com/NotASithLord/peerd",
-            "stars": 274,
-            "forks": 28,
+            "stars": 276,
+            "forks": 29,
             "score": 46
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "dianxing",
-            "full_name": "tianchong-zerotemp/dianxing",
-            "description": "DianXing - AI-Driven End-to-End Code Security Auditing",
-            "url": "https://github.com/tianchong-zerotemp/dianxing",
-            "stars": 342,
-            "forks": 36,
-            "score": 45
         },
         {
             "main_cat": "AI",
@@ -227,7 +238,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Johell1NS/browser-search",
             "description": "A skill for AI agents: search the web with SearXNG, browse with Camofox, bypass protections with CloakBrowser. Anti-hallucination by design. Self-hosted, free, unlimited.",
             "url": "https://github.com/Johell1NS/browser-search",
-            "stars": 272,
+            "stars": 275,
             "forks": 23,
             "score": 45
         },
@@ -249,7 +260,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "hanlinwenyuan/hlwy-ai-checker",
             "description": "\u68c0\u67e5\u7b2c\u4e09\u65b9AI API\u662f\u5426\u63ba\u5047\u4ee5\u53ca\u6e20\u9053\u4e00\u81f4",
             "url": "https://github.com/hanlinwenyuan/hlwy-ai-checker",
-            "stars": 240,
+            "stars": 243,
             "forks": 13,
             "score": 44
         },
@@ -271,8 +282,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "gamedev-skills/awesome-gamedev-agent-skills",
             "description": "Game-development Agent Skills for AI coding agents: install once and a master router loads the right skill for your engine and task. 66 original, version-pinned skills (plus a master router) in the portable SKILL.md format that runs across Claude Code, Cursor, Codex, Copilot, Gemini CLI and more, for Godot, Unity, Unreal, web and beyond.",
             "url": "https://github.com/gamedev-skills/awesome-gamedev-agent-skills",
-            "stars": 194,
-            "forks": 7,
+            "stars": 195,
+            "forks": 8,
             "score": 41
         },
         {
@@ -282,19 +293,19 @@ const ALPHA_DATA_V2 = {
             "full_name": "Karovia/fullstack-ai-agent-roadmap",
             "description": "\ud83c\udfaf \u4ece\u96f6\u57fa\u7840\u5230 AI Agent \u5168\u6808\u5de5\u7a0b\u5e08 \u00b7 110 \u4e2a\u8be6\u7ec6\u6559\u7a0b \u00b7 58 \u4e07\u5b57 \u00b7 400+ GitHub \u9879\u76ee\u7cbe\u9009 \u00b7 Obsidian \u53cb\u597d \u00b7 \u4e2d\u6587",
             "url": "https://github.com/Karovia/fullstack-ai-agent-roadmap",
-            "stars": 243,
+            "stars": 244,
             "forks": 20,
             "score": 40
         },
         {
             "main_cat": "AI",
-            "sub_cat": null,
-            "name": "databuff",
-            "full_name": "databufflabs/databuff",
-            "description": "Databuff is an open-source , AI-native OpenTelemetry APM &  SREAgent  . AI-assisted troubleshooting. \ud83d\udd25 \ud83d\udd25\ud83d\udd25",
-            "url": "https://github.com/databufflabs/databuff",
-            "stars": 197,
-            "forks": 35,
+            "sub_cat": "AI General",
+            "name": "deepseek-v4-pro-flash-desktop-app",
+            "full_name": "HiyuCat/deepseek-v4-pro-flash-desktop-app",
+            "description": "deepseek-v4-pro-flash deepseek ai large language model llm mixture of experts moe 1m context window hybrid attention architecture compressed sparse attention csa heavily compressed attention hca manifold constrained hyper deepseek-v4-pro deepseek-v4-flash open source hugging face github repository api access local llm inference vllm ollama",
+            "url": "https://github.com/HiyuCat/deepseek-v4-pro-flash-desktop-app",
+            "stars": 189,
+            "forks": 0,
             "score": 40
         },
         {
@@ -306,17 +317,6 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/SewLightningTake35/claude-fable-5-free-desktop-app",
             "stars": 245,
             "forks": 0,
-            "score": 39
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "awesome-images",
-            "full_name": "flatkey-ai/awesome-images",
-            "description": "Try flatkey.ai for 40% saving! Generate practical images ready for all your work needs!!!",
-            "url": "https://github.com/flatkey-ai/awesome-images",
-            "stars": 280,
-            "forks": 0,
             "score": 38
         },
         {
@@ -326,7 +326,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Env-Kit/envkit-releases",
             "description": "EnvKit \u2014 free local development environment for Windows & macOS: nginx/Apache, multiple PHP versions, MySQL/MariaDB,   PostgreSQL, Redis, MongoDB, Mailpit, Node.js, trusted .test HTTPS, and a built-in MCP server for AI-assistant control.   A Laragon/XAMPP/Herd alternative.",
             "url": "https://github.com/Env-Kit/envkit-releases",
-            "stars": 202,
+            "stars": 203,
             "forks": 5,
             "score": 37
         },
@@ -337,7 +337,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "InfiniteWhispers/HermesAgent-MultiModel",
             "description": "A fully-local, multi-model AI agent framework with Mixture-of-Agents (MoA) orchestration. Run a high-performance agentic stack on consumer GPUs (RTX 4080/5080) using Hermes + Ollama, with zero cloud dependencies.",
             "url": "https://github.com/InfiniteWhispers/HermesAgent-MultiModel",
-            "stars": 39,
+            "stars": 40,
             "forks": 7,
             "score": 35
         },
@@ -348,7 +348,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Dicklesworthstone/franken_ocr",
             "description": "Pure-Rust, CPU-only OCR engine for Baidu Unlimited-OCR (a DeepSeek-OCR-derived 3B MoE VLM). One fixed model, custom int4/int8 kernels, no ML framework, no GPU. Pre-Phase-0 scaffold.",
             "url": "https://github.com/Dicklesworthstone/franken_ocr",
-            "stars": 35,
+            "stars": 40,
             "forks": 1,
             "score": 32
         },
@@ -480,17 +480,6 @@ const ALPHA_DATA_V2 = {
             "full_name": "mandar-ghub/blockchain-stablecoin",
             "description": "Projects focused on payments, blockchain and stablecoin ",
             "url": "https://github.com/mandar-ghub/blockchain-stablecoin",
-            "stars": 0,
-            "forks": 0,
-            "score": 30
-        },
-        {
-            "main_cat": "Stablecoin Infrastructure",
-            "sub_cat": null,
-            "name": "pharos-defi-suite",
-            "full_name": "sambitsargam/pharos-defi-suite",
-            "description": "Complete DeFi protocol suite as a Pharos Skill Engine skill \u2014 25 contracts: tokens, AMM DEX, yield, lending, CDP stablecoin, flash loans, payments, governance, oracles.",
-            "url": "https://github.com/sambitsargam/pharos-defi-suite",
             "stars": 0,
             "forks": 0,
             "score": 30
@@ -703,9 +692,34 @@ const ALPHA_DATA_V2 = {
             "stars": 0,
             "forks": 0,
             "score": 30
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "novahaven",
+            "full_name": "novahaven-code/novahaven",
+            "description": "NovaHaven is a non-custodial cross-chain swap protocol. Funds are locked in Hash Time-Lock Contracts (HTLCs) on each chain simultaneously. Settlement is a `sha256` preimage reveal \u2014 not a multisig, not an attester signature.",
+            "url": "https://github.com/novahaven-code/novahaven",
+            "stars": 0,
+            "forks": 0,
+            "score": 30
         }
     ],
     "news": [
+        {
+            "title": "All-out Attack: Optimal Block Withholding Under Pay-Per-Share Scheme",
+            "source": "ArXiv",
+            "type": "Research Alpha",
+            "color": "text-indigo-600",
+            "url": "http://arxiv.org/abs/2607.01209v1"
+        },
+        {
+            "title": "Detecting Adversarial Evasion Attacks Against Autoencoder-Based Network Intrusion Detection Systems",
+            "source": "ArXiv",
+            "type": "Research Alpha",
+            "color": "text-indigo-600",
+            "url": "http://arxiv.org/abs/2607.01194v1"
+        },
         {
             "title": "Bitcoin volatility remains high ahead of key FED decision.",
             "source": "Polymarket",
@@ -714,5 +728,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-07-01 23:07"
+    "timestamp": "2026-07-02 02:40"
 };
