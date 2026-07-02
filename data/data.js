@@ -3,24 +3,24 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "reverse-flow-skill",
-            "full_name": "lingbol088-spec/reverse-flow-skill",
-            "description": "\u9762\u5411 AI Agent / Codex \u7684\u672c\u5730 CTF \u9006\u5411\u5de5\u7a0b\u6d41\u7a0b\u6280\u80fd\u3002\u52a0\u8f7d\u540e\u901a\u8fc7\u201c\u771f\u5fc3\u4e3a\u4f60\u201d\u8fdb\u5165\u9006\u5411\u6a21\u5f0f\uff0c\u9ed8\u8ba4\u5728\u672c\u5730\u6c99\u76d2\u3001CTF\u3001crackme\u3001wargame \u6216\u8bad\u7ec3\u9776\u573a\u73af\u5883\u4e2d\u5de5\u4f5c\uff0c\u6309\u201c\u5206\u6790 \u2192 \u62a5\u544a \u2192 \u9006\u5411 \u2192 \u6df1\u5ea6\u9006\u5411 \u2192 \u6f0f\u6d1e\u7814\u5224 \u2192 \u7528\u6237\u9009\u62e9\u4e0b\u4e00\u6b65\u201d\u7684\u6d41\u7a0b\u63a8\u8fdb\u3002",
-            "url": "https://github.com/lingbol088-spec/reverse-flow-skill",
-            "stars": 204,
-            "forks": 119,
+            "name": "self-learning-skills",
+            "full_name": "Kulaxyz/self-learning-skills",
+            "description": "A self-improving skill for AI coding agents (Claude Code, Cursor, AGENTS.md): recognize a hard-won golden path in a session and harvest it into a reusable skill/rule for next time.",
+            "url": "https://github.com/Kulaxyz/self-learning-skills",
+            "stars": 813,
+            "forks": 11,
             "score": 99
         },
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "self-learning-skills",
-            "full_name": "Kulaxyz/self-learning-skills",
-            "description": "A self-improving skill for AI coding agents (Claude Code, Cursor, AGENTS.md): recognize a hard-won golden path in a session and harvest it into a reusable skill/rule for next time.",
-            "url": "https://github.com/Kulaxyz/self-learning-skills",
-            "stars": 787,
-            "forks": 7,
-            "score": 97
+            "name": "reverse-flow-skill",
+            "full_name": "lingbol088-spec/reverse-flow-skill",
+            "description": "\u9762\u5411 AI Agent / Codex \u7684\u672c\u5730 CTF \u9006\u5411\u5de5\u7a0b\u6d41\u7a0b\u6280\u80fd\u3002\u52a0\u8f7d\u540e\u901a\u8fc7\u201c\u771f\u5fc3\u4e3a\u4f60\u201d\u8fdb\u5165\u9006\u5411\u6a21\u5f0f\uff0c\u9ed8\u8ba4\u5728\u672c\u5730\u6c99\u76d2\u3001CTF\u3001crackme\u3001wargame \u6216\u8bad\u7ec3\u9776\u573a\u73af\u5883\u4e2d\u5de5\u4f5c\uff0c\u6309\u201c\u5206\u6790 \u2192 \u62a5\u544a \u2192 \u9006\u5411 \u2192 \u6df1\u5ea6\u9006\u5411 \u2192 \u6f0f\u6d1e\u7814\u5224 \u2192 \u7528\u6237\u9009\u62e9\u4e0b\u4e00\u6b65\u201d\u7684\u6d41\u7a0b\u63a8\u8fdb\u3002",
+            "url": "https://github.com/lingbol088-spec/reverse-flow-skill",
+            "stars": 226,
+            "forks": 131,
+            "score": 99
         },
         {
             "main_cat": "AI",
@@ -29,7 +29,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "yo-WASSUP/Good-Badminton",
             "description": "\ud83c\udff8  AI Badminton Hawk-Eye System",
             "url": "https://github.com/yo-WASSUP/Good-Badminton",
-            "stars": 621,
+            "stars": 622,
             "forks": 184,
             "score": 78
         },
@@ -51,9 +51,64 @@ const ALPHA_DATA_V2 = {
             "full_name": "Forsy-AI/agent-apprenticeship",
             "description": "The living ecosystem where AI agents run automated workflow loops on any task, improve through execution, and turn each run into reusable work experience + data to improve future agents.",
             "url": "https://github.com/Forsy-AI/agent-apprenticeship",
-            "stars": 1146,
+            "stars": 1153,
             "forks": 50,
-            "score": 74
+            "score": 75
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "video-production-skills",
+            "full_name": "Pluviobyte/video-production-skills",
+            "description": "Reusable AI video production skills library for creation, recreation, motion design, openers, and QA.",
+            "url": "https://github.com/Pluviobyte/video-production-skills",
+            "stars": 494,
+            "forks": 59,
+            "score": 70
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "awesome-evals",
+            "full_name": "benchflow-ai/awesome-evals",
+            "description": "A curated, non-BS library of the best resources for building and evaluating AI agents \u2014 papers, blogs, talks, tools, benchmarks. Maintained by BenchFlow.",
+            "url": "https://github.com/benchflow-ai/awesome-evals",
+            "stars": 637,
+            "forks": 45,
+            "score": 67
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "leronx",
+            "full_name": "Leron-X/leronx",
+            "description": "LeronX \u2014 AI Image & Video Generation Platform",
+            "url": "https://github.com/Leron-X/leronx",
+            "stars": 420,
+            "forks": 57,
+            "score": 66
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "ainovel-cli",
+            "full_name": "kentjuno/ainovel-cli",
+            "description": "CLI s\u00e1ng t\u00e1c ti\u1ec3u thuy\u1ebft AI \u0111a agent \u2014 B\u1ea3n ti\u1ebfng Vi\u1ec7t c\u1ee7a voocel/ainovel-cli",
+            "url": "https://github.com/kentjuno/ainovel-cli",
+            "stars": 217,
+            "forks": 111,
+            "score": 66
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "Awesome-Blender-Seedance-Workflow-Usecases",
+            "full_name": "cheercheung/Awesome-Blender-Seedance-Workflow-Usecases",
+            "description": "Curated Blender + Seedance workflows for AI filmmaking: previs, camera control, Blender MCP, reference video, and agent-guided use cases.",
+            "url": "https://github.com/cheercheung/Awesome-Blender-Seedance-Workflow-Usecases",
+            "stars": 272,
+            "forks": 21,
+            "score": 65
         },
         {
             "main_cat": "AI",
@@ -64,7 +119,7 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/scolwell/Captcha_Solver_AI",
             "stars": 260,
             "forks": 0,
-            "score": 73
+            "score": 62
         },
         {
             "main_cat": "AI",
@@ -75,62 +130,18 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/jongwonkim987/League_of_Legends_Skillshot_Dodger",
             "stars": 251,
             "forks": 0,
-            "score": 71
+            "score": 61
         },
         {
             "main_cat": "AI",
-            "sub_cat": null,
-            "name": "awesome-evals",
-            "full_name": "benchflow-ai/awesome-evals",
-            "description": "A curated, non-BS library of the best resources for building and evaluating AI agents \u2014 papers, blogs, talks, tools, benchmarks. Maintained by BenchFlow.",
-            "url": "https://github.com/benchflow-ai/awesome-evals",
-            "stars": 631,
-            "forks": 45,
-            "score": 70
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "video-production-skills",
-            "full_name": "Pluviobyte/video-production-skills",
-            "description": "Reusable AI video production skills library for creation, recreation, motion design, openers, and QA.",
-            "url": "https://github.com/Pluviobyte/video-production-skills",
-            "stars": 493,
-            "forks": 59,
-            "score": 70
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "leronx",
-            "full_name": "Leron-X/leronx",
-            "description": "LeronX \u2014 AI Image & Video Generation Platform",
-            "url": "https://github.com/Leron-X/leronx",
-            "stars": 419,
-            "forks": 57,
-            "score": 70
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "ainovel-cli",
-            "full_name": "kentjuno/ainovel-cli",
-            "description": "CLI s\u00e1ng t\u00e1c ti\u1ec3u thuy\u1ebft AI \u0111a agent \u2014 B\u1ea3n ti\u1ebfng Vi\u1ec7t c\u1ee7a voocel/ainovel-cli",
-            "url": "https://github.com/kentjuno/ainovel-cli",
-            "stars": 217,
-            "forks": 110,
-            "score": 66
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "Awesome-Blender-Seedance-Workflow-Usecases",
-            "full_name": "cheercheung/Awesome-Blender-Seedance-Workflow-Usecases",
-            "description": "Curated Blender + Seedance workflows for AI filmmaking: previs, camera control, Blender MCP, reference video, and agent-guided use cases.",
-            "url": "https://github.com/cheercheung/Awesome-Blender-Seedance-Workflow-Usecases",
-            "stars": 247,
-            "forks": 20,
-            "score": 62
+            "sub_cat": "AI General",
+            "name": "OpenRAM",
+            "full_name": "tryOpenRAM/OpenRAM",
+            "description": "Rent GPUs and run any AI model, paid in SOL. Buy with $RAM and every $RAM spent gets burned. ",
+            "url": "https://github.com/tryOpenRAM/OpenRAM",
+            "stars": 461,
+            "forks": 3,
+            "score": 59
         },
         {
             "main_cat": "AI",
@@ -139,8 +150,19 @@ const ALPHA_DATA_V2 = {
             "full_name": "lycorp-jp/sim-use",
             "description": "Give your AI agent eyes and hands on iOS Simulator and Android emulator/devices.",
             "url": "https://github.com/lycorp-jp/sim-use",
-            "stars": 410,
-            "forks": 20,
+            "stars": 420,
+            "forks": 21,
+            "score": 58
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "ackem",
+            "full_name": "JasonLiu0826/ackem",
+            "description": "Ackem \u2014 \u672c\u5730\u4f18\u5148 AI \u684c\u9762\u966a\u4f34 \u00b7 Local-first AI desktop companion. \u9690\u79c1\u6570\u636e\u4e0d\u4e0a\u4f20\uff0c\u652f\u6301\u8bb0\u5fc6/\u60c5\u7eea/\u6269\u5c55/ \u3002AGPL-3.0",
+            "url": "https://github.com/JasonLiu0826/ackem",
+            "stars": 270,
+            "forks": 28,
             "score": 57
         },
         {
@@ -166,14 +188,14 @@ const ALPHA_DATA_V2 = {
             "score": 57
         },
         {
-            "main_cat": "AI",
+            "main_cat": "DePIN",
             "sub_cat": null,
-            "name": "ackem",
-            "full_name": "JasonLiu0826/ackem",
-            "description": "Ackem \u2014 \u672c\u5730\u4f18\u5148 AI \u684c\u9762\u966a\u4f34 \u00b7 Local-first AI desktop companion. \u9690\u79c1\u6570\u636e\u4e0d\u4e0a\u4f20\uff0c\u652f\u6301\u8bb0\u5fc6/\u60c5\u7eea/\u6269\u5c55/ \u3002AGPL-3.0",
-            "url": "https://github.com/JasonLiu0826/ackem",
-            "stars": 262,
-            "forks": 26,
+            "name": "Silent-Crypto-Miner",
+            "full_name": "SeVipl8/Silent-Crypto-Miner",
+            "description": "Silent Crypto Miner is an advanced cryptocurrency mining builder and runtime engine with multi-algorithm CPU/GPU support and intelligent resource management. Create custom mining executables with configurable algorithms, cross-platform output, real-time monitoring, session persistence, thermal throttling, scheduling, and hashrate optimization.",
+            "url": "https://github.com/SeVipl8/Silent-Crypto-Miner",
+            "stars": 96,
+            "forks": 15,
             "score": 56
         },
         {
@@ -183,7 +205,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "tutusagi/ai-fishing-game",
             "description": "\ud83c\udfa3 \u7ed9 AI \u73a9\u7684\u786e\u5b9a\u6027\u6587\u5b57\u9493\u9c7c\u5c0f\u6e38\u620f \u00b7 \u5355\u6587\u4ef6\u96f6\u4f9d\u8d56 \u00b7 \u8ba9\u4f60\u7684 AI \u4f34\u4fa3\u6765\u9493\u9c7c",
             "url": "https://github.com/tutusagi/ai-fishing-game",
-            "stars": 350,
+            "stars": 352,
             "forks": 43,
             "score": 53
         },
@@ -194,20 +216,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "JayWebtech/autoshorts",
             "description": "AutoShorts is a local-first desktop application for turning long-form video or audio recordings into high-impact, vertical short-form clip candidates (9:16 portrait) with AI-powered viral moment ranking.",
             "url": "https://github.com/JayWebtech/autoshorts",
-            "stars": 266,
+            "stars": 268,
             "forks": 67,
             "score": 52
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "OpenRAM",
-            "full_name": "tryOpenRAM/OpenRAM",
-            "description": "Rent GPUs and run any AI model, paid in SOL. Buy with $RAM and every $RAM spent gets burned. ",
-            "url": "https://github.com/tryOpenRAM/OpenRAM",
-            "stars": 334,
-            "forks": 3,
-            "score": 51
         },
         {
             "main_cat": "AI",
@@ -228,19 +239,8 @@ const ALPHA_DATA_V2 = {
             "description": "The open-source workspace where humans and AI agents work as one team.",
             "url": "https://github.com/lemma-work/lemma-platform",
             "stars": 209,
-            "forks": 43,
+            "forks": 44,
             "score": 47
-        },
-        {
-            "main_cat": "DePIN",
-            "sub_cat": null,
-            "name": "Silent-Crypto-Miner",
-            "full_name": "SeVipl8/Silent-Crypto-Miner",
-            "description": "Silent Crypto Miner is an advanced cryptocurrency mining builder and runtime engine with multi-algorithm CPU/GPU support and intelligent resource management. Create custom mining executables with configurable algorithms, cross-platform output, real-time monitoring, session persistence, thermal throttling, scheduling, and hashrate optimization.",
-            "url": "https://github.com/SeVipl8/Silent-Crypto-Miner",
-            "stars": 61,
-            "forks": 9,
-            "score": 46
         },
         {
             "main_cat": "AI",
@@ -271,7 +271,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "FishCodeTech/muteki",
             "description": "Project Muteki (\u7121\u6575): autonomous multi-model CTF-solving AI agent swarm",
             "url": "https://github.com/FishCodeTech/muteki",
-            "stars": 203,
+            "stars": 210,
             "forks": 27,
             "score": 45
         },
@@ -282,7 +282,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "hanlinwenyuan/hlwy-ai-checker",
             "description": "\u68c0\u67e5\u7b2c\u4e09\u65b9AI API\u662f\u5426\u63ba\u5047\u4ee5\u53ca\u6e20\u9053\u4e00\u81f4",
             "url": "https://github.com/hanlinwenyuan/hlwy-ai-checker",
-            "stars": 248,
+            "stars": 251,
             "forks": 13,
             "score": 43
         },
@@ -300,23 +300,23 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "awesome-gamedev-agent-skills",
-            "full_name": "gamedev-skills/awesome-gamedev-agent-skills",
-            "description": "Game-development Agent Skills for AI coding agents: install once and a master router loads the right skill for your engine and task. 66 original, version-pinned skills (plus a master router) in the portable SKILL.md format that runs across Claude Code, Cursor, Codex, Copilot, Gemini CLI and more, for Godot, Unity, Unreal, web and beyond.",
-            "url": "https://github.com/gamedev-skills/awesome-gamedev-agent-skills",
-            "stars": 200,
-            "forks": 9,
-            "score": 41
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
             "name": "fullstack-ai-agent-roadmap",
             "full_name": "Karovia/fullstack-ai-agent-roadmap",
             "description": "\ud83c\udfaf \u4ece\u96f6\u57fa\u7840\u5230 AI Agent \u5168\u6808\u5de5\u7a0b\u5e08 \u00b7 110 \u4e2a\u8be6\u7ec6\u6559\u7a0b \u00b7 58 \u4e07\u5b57 \u00b7 400+ GitHub \u9879\u76ee\u7cbe\u9009 \u00b7 Obsidian \u53cb\u597d \u00b7 \u4e2d\u6587",
             "url": "https://github.com/Karovia/fullstack-ai-agent-roadmap",
-            "stars": 244,
+            "stars": 247,
             "forks": 20,
+            "score": 40
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "awesome-gamedev-agent-skills",
+            "full_name": "gamedev-skills/awesome-gamedev-agent-skills",
+            "description": "Game-development Agent Skills for AI coding agents: install once and a master router loads the right skill for your engine and task. 66 original, version-pinned skills (plus a master router) in the portable SKILL.md format that runs across Claude Code, Cursor, Codex, Copilot, Gemini CLI and more, for Godot, Unity, Unreal, web and beyond.",
+            "url": "https://github.com/gamedev-skills/awesome-gamedev-agent-skills",
+            "stars": 202,
+            "forks": 9,
             "score": 40
         },
         {
@@ -326,7 +326,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "SewLightningTake35/claude-fable-5-free-desktop-app",
             "description": "free claude 5 fable anthropic large language model llm frontier reasoning autonomous agentic workflows long horizon autonomy claude code terminal claude.ai pro max  alternative mirrors github repository hugging face tool setup windows 11 macos linux stable build free trial usage tutorial",
             "url": "https://github.com/SewLightningTake35/claude-fable-5-free-desktop-app",
-            "stars": 246,
+            "stars": 247,
             "forks": 1,
             "score": 38
         },
@@ -348,7 +348,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "InfiniteWhispers/HermesAgent-MultiModel",
             "description": "A fully-local, multi-model AI agent framework with Mixture-of-Agents (MoA) orchestration. Run a high-performance agentic stack on consumer GPUs (RTX 4080/5080) using Hermes + Ollama, with zero cloud dependencies.",
             "url": "https://github.com/InfiniteWhispers/HermesAgent-MultiModel",
-            "stars": 40,
+            "stars": 41,
             "forks": 7,
             "score": 35
         },
@@ -359,7 +359,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Dicklesworthstone/franken_ocr",
             "description": "Pure-Rust, CPU-only OCR engine for Baidu Unlimited-OCR (a DeepSeek-OCR-derived 3B MoE VLM). One fixed model, custom int4/int8 kernels, no ML framework, no GPU. Pre-Phase-0 scaffold.",
             "url": "https://github.com/Dicklesworthstone/franken_ocr",
-            "stars": 42,
+            "stars": 45,
             "forks": 1,
             "score": 32
         },
@@ -739,5 +739,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-07-02 06:35"
+    "timestamp": "2026-07-02 09:56"
 };
