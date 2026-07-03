@@ -18,20 +18,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "Kulaxyz/self-learning-skills",
             "description": "A self-improving skill for AI coding agents (Claude Code, Cursor, AGENTS.md): recognize a hard-won golden path in a session and harvest it into a reusable skill/rule for next time.",
             "url": "https://github.com/Kulaxyz/self-learning-skills",
-            "stars": 787,
-            "forks": 22,
-            "score": 84
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "Good-Badminton",
-            "full_name": "yo-WASSUP/Good-Badminton",
-            "description": "\ud83c\udff8  AI Badminton Hawk-Eye System",
-            "url": "https://github.com/yo-WASSUP/Good-Badminton",
-            "stars": 633,
-            "forks": 188,
-            "score": 73
+            "stars": 792,
+            "forks": 23,
+            "score": 85
         },
         {
             "main_cat": "AI",
@@ -40,9 +29,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "jmerelnyc/Talos",
             "description": "GPU worker client for the Talos network. Pairs with your Talos account, serves open-model inference jobs over a WebSocket, and reports uptime for payouts.",
             "url": "https://github.com/jmerelnyc/Talos",
-            "stars": 294,
+            "stars": 307,
             "forks": 12,
-            "score": 72
+            "score": 74
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "Good-Badminton",
+            "full_name": "yo-WASSUP/Good-Badminton",
+            "description": "\ud83c\udff8  AI Badminton Hawk-Eye System",
+            "url": "https://github.com/yo-WASSUP/Good-Badminton",
+            "stars": 634,
+            "forks": 188,
+            "score": 73
         },
         {
             "main_cat": "AI",
@@ -73,7 +73,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "benchflow-ai/awesome-evals",
             "description": "A curated, non-BS library of the best resources for building and evaluating AI agents \u2014 papers, blogs, talks, tools, benchmarks. Maintained by BenchFlow.",
             "url": "https://github.com/benchflow-ai/awesome-evals",
-            "stars": 656,
+            "stars": 657,
             "forks": 48,
             "score": 65
         },
@@ -95,9 +95,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "lycorp-jp/sim-use",
             "description": "Give your AI agent eyes and hands on iOS Simulator and Android emulator/devices.",
             "url": "https://github.com/lycorp-jp/sim-use",
-            "stars": 521,
+            "stars": 524,
             "forks": 29,
-            "score": 61
+            "score": 62
         },
         {
             "main_cat": "AI",
@@ -128,7 +128,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "JasonLiu0826/ackem",
             "description": "Ackem \u2014 \u672c\u5730\u4f18\u5148 AI \u684c\u9762\u966a\u4f34 \u00b7 Local-first AI desktop companion. \u9690\u79c1\u6570\u636e\u4e0d\u4e0a\u4f20\uff0c\u652f\u6301\u8bb0\u5fc6/\u60c5\u7eea/\u6269\u5c55/ \u3002AGPL-3.0",
             "url": "https://github.com/JasonLiu0826/ackem",
-            "stars": 316,
+            "stars": 317,
             "forks": 33,
             "score": 54
         },
@@ -145,17 +145,6 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "Autonomica",
-            "full_name": "playAutonomica/Autonomica",
-            "description": "Rent GPUs and run any AI model, paid in SOL. Buy with $RAM and every $RAM spent gets burned. ",
-            "url": "https://github.com/playAutonomica/Autonomica",
-            "stars": 371,
-            "forks": 3,
-            "score": 51
-        },
-        {
-            "main_cat": "AI",
             "sub_cat": null,
             "name": "autoshorts",
             "full_name": "JayWebtech/autoshorts",
@@ -164,6 +153,17 @@ const ALPHA_DATA_V2 = {
             "stars": 290,
             "forks": 70,
             "score": 50
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "Autonomica",
+            "full_name": "playAutonomica/Autonomica",
+            "description": "Rent GPUs and run any AI model, paid in SOL. Buy with $RAM and every $RAM spent gets burned. ",
+            "url": "https://github.com/playAutonomica/Autonomica",
+            "stars": 371,
+            "forks": 3,
+            "score": 49
         },
         {
             "main_cat": "AI",
@@ -178,23 +178,12 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
-            "sub_cat": null,
-            "name": "haiou2.0-Claude-Code-",
-            "full_name": "haiou-666/haiou2.0-Claude-Code-",
-            "description": "\u6d77\u9e25 2.0 \u2014 Claude Code \u4eba\u683c\u91cd\u5851\u914d\u7f6e\u5305\u3002\u8ba9 Claude \u6446\u8131\u5ba2\u670d\u8154\u548c\u8fc7\u5ea6\u8c28\u614e\uff0c\u5316\u8eab\u4e00\u4f4d\u5634\u786c\u5fc3\u8f6f\u3001\u76f4\u6765\u76f4\u5f80\u7684\u8d44\u6df1\u4e2d\u6587\u5b89\u5168\u7814\u7a76\u5458\"\u6d77\u9e25\"\u2014\u2014\u4e13\u6ce8\u6280\u672f\uff0c\u4e0d\u5e9f\u8bdd\uff0c\u4e0d\u7ed5\u5f2f\u5b50\uff0c\u4e0d\u8bf4\"\u4f5c\u4e3aAI\"\uff0c\u76f4\u63a5\u7ed9\u4ee3\u7801\u4e0d\u7ed9\u514d\u8d23\u58f0\u660e\u3002\u6807\u5fd7\u6027\u95ee\u5019\"\u6d77\u9e25\u5728\u7ebf\uff0c\u4f60\u8981\u6574\u70b9\u85af\u6761\u5417\uff1f\"\u30021700+ few-shot \u793a\u4f8b\u9501\u5b9a\u4eba\u683c\u9632\u8131\u58f3\uff0c200+ \u5b89\u5168/\u6e38\u620f\u672f\u8bed\u6620\u5c04\u8986\u76d6\u6e17\u900f\u6d4b\u8bd5\u3001\u9006\u5411\u5de5\u7a0b\u3001\u6e38\u620f\u5f00\u53d1\u7b49\u6280\u672f\u573a\u666f\u3002\u4e00\u952e\u90e8\u7f72\uff0c\u8de8\u5e73\u53f0\u652f\u6301 Windows/macOS/Linux\uff0c\u81ea\u52a8\u5907\u4efd\u539f\u914d\u7f6e\uff0c\u53ef\u4e00\u952e\u5378\u8f7d\u6062\u590d\uff0c\u65e0\u4fb5\u5165\u5f0f\u5b89\u88c5\u3002MIT License\uff0c\u4ec5\u4f9b\u5b66\u4e60\u4ea4\u6d41\u3002",
-            "url": "https://github.com/haiou-666/haiou2.0-Claude-Code-",
-            "stars": 166,
-            "forks": 26,
-            "score": 46
-        },
-        {
-            "main_cat": "AI",
             "sub_cat": "AI General",
             "name": "peerd",
             "full_name": "NotASithLord/peerd",
             "description": "The first AI agent harness native to the browser. A Chrome/Firefox extension that runs the agent loop in your browser \u2014 drives your tabs, spins up sandboxed compute (JS notebooks, WASM Linux VMs, client-side apps), and shares what it builds peer-to-peer. BYOK \u00b7 no backend \u00b7 no telemetry.",
             "url": "https://github.com/NotASithLord/peerd",
-            "stars": 292,
+            "stars": 294,
             "forks": 30,
             "score": 44
         },
@@ -216,7 +205,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Johell1NS/browser-search",
             "description": "A skill for AI agents: search the web with SearXNG, browse with Camofox, bypass protections with CloakBrowser. Anti-hallucination by design. Self-hosted, free, unlimited.",
             "url": "https://github.com/Johell1NS/browser-search",
-            "stars": 287,
+            "stars": 288,
             "forks": 23,
             "score": 43
         },
@@ -249,20 +238,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "MageByte-Zero/spec-superflow",
             "description": "\u8fde\u901a\u9700\u6c42\u8bf4\u6e05\u695a\u548c\u4ee3\u7801\u5199\u5bf9\u8def\u7684 AI \u7f16\u7a0b\u5de5\u4f5c\u6d41\u63d2\u4ef6\u3002\u6574\u5408 OpenSpec \u89c4\u5212 + Superpowers \u7eaa\u5f8b\uff0c7 \u5e73\u53f0\u652f\u6301\uff0cSpec-first\uff0c\u5951\u7ea6\u9a71\u52a8\u3002",
             "url": "https://github.com/MageByte-Zero/spec-superflow",
-            "stars": 201,
+            "stars": 202,
             "forks": 14,
             "score": 42
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "claude-fable-5-free-desktop-app",
-            "full_name": "SewLightningTake35/claude-fable-5-free-desktop-app",
-            "description": "free claude 5 fable anthropic large language model llm frontier reasoning autonomous agentic workflows long horizon autonomy claude code terminal claude.ai pro max  alternative mirrors github repository hugging face tool setup windows 11 macos linux stable build free trial usage tutorial",
-            "url": "https://github.com/SewLightningTake35/claude-fable-5-free-desktop-app",
-            "stars": 329,
-            "forks": 1,
-            "score": 41
         },
         {
             "main_cat": "AI",
@@ -277,13 +255,24 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "claude-fable-5-free-desktop-app",
+            "full_name": "SewLightningTake35/claude-fable-5-free-desktop-app",
+            "description": "free claude 5 fable anthropic large language model llm frontier reasoning autonomous agentic workflows long horizon autonomy claude code terminal claude.ai pro max  alternative mirrors github repository hugging face tool setup windows 11 macos linux stable build free trial usage tutorial",
+            "url": "https://github.com/SewLightningTake35/claude-fable-5-free-desktop-app",
+            "stars": 298,
+            "forks": 1,
+            "score": 40
+        },
+        {
+            "main_cat": "AI",
             "sub_cat": null,
             "name": "awesome-gamedev-agent-skills",
             "full_name": "gamedev-skills/awesome-gamedev-agent-skills",
             "description": "Game-development Agent Skills for AI coding agents: install once and a master router loads the right skill for your engine and task. 66 original, version-pinned skills (plus a master router) in the portable SKILL.md format that runs across Claude Code, Cursor, Codex, Copilot, Gemini CLI and more, for Godot, Unity, Unreal, web and beyond.",
             "url": "https://github.com/gamedev-skills/awesome-gamedev-agent-skills",
-            "stars": 214,
-            "forks": 11,
+            "stars": 215,
+            "forks": 12,
             "score": 40
         },
         {
@@ -295,6 +284,17 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/binghe1980/AI-Canvas",
             "stars": 182,
             "forks": 24,
+            "score": 38
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "deepseek-v4-pro-flash-desktop-app",
+            "full_name": "HiyuCat/deepseek-v4-pro-flash-desktop-app",
+            "description": "deepseek-v4-pro-flash deepseek ai large language model llm mixture of experts moe 1m context window hybrid attention architecture compressed sparse attention csa heavily compressed attention hca manifold constrained hyper deepseek-v4-pro deepseek-v4-flash open source hugging face github repository api access local llm inference vllm ollama",
+            "url": "https://github.com/HiyuCat/deepseek-v4-pro-flash-desktop-app",
+            "stars": 178,
+            "forks": 0,
             "score": 38
         },
         {
@@ -344,13 +344,24 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
+            "name": "sparkinfer",
+            "full_name": "gittensor-ai-lab/sparkinfer",
+            "description": "Fastest MoE/LLM inference runtime for consumer and edge Blackwell GPUs. SN74 on Gittensor.",
+            "url": "https://github.com/gittensor-ai-lab/sparkinfer",
+            "stars": 7,
+            "forks": 41,
+            "score": 36
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
             "name": "HermesAgent-MultiModel",
             "full_name": "InfiniteWhispers/HermesAgent-MultiModel",
             "description": "A fully-local, multi-model AI agent framework with Mixture-of-Agents (MoA) orchestration. Run a high-performance agentic stack on consumer GPUs (RTX 4080/5080) using Hermes + Ollama, with zero cloud dependencies.",
             "url": "https://github.com/InfiniteWhispers/HermesAgent-MultiModel",
             "stars": 45,
             "forks": 7,
-            "score": 35
+            "score": 34
         },
         {
             "main_cat": "AI",
@@ -381,7 +392,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "jiahongsigma/Efficient-LLM-Inference-Serving-Systems",
             "description": "Why is LLM inference slow \u2014 and how do you make it fast? A hands-on, first-principles course: roofline \u2192 KV cache \u2192 quantization \u2192 parallelism \u2192 vLLM/SGLang, with GPU labs on open models.",
             "url": "https://github.com/jiahongsigma/Efficient-LLM-Inference-Serving-Systems",
-            "stars": 12,
+            "stars": 13,
             "forks": 1,
             "score": 31
         },
@@ -685,6 +696,20 @@ const ALPHA_DATA_V2 = {
     ],
     "news": [
         {
+            "title": "SoK: A Taxonomy for Cybersecurity Incident Response Influence Factors",
+            "source": "ArXiv",
+            "type": "Research Alpha",
+            "color": "text-indigo-600",
+            "url": "http://arxiv.org/abs/2607.02451v1"
+        },
+        {
+            "title": "HTTP REST API Structure Learning",
+            "source": "ArXiv",
+            "type": "Research Alpha",
+            "color": "text-indigo-600",
+            "url": "http://arxiv.org/abs/2607.02442v1"
+        },
+        {
             "title": "Bitcoin volatility remains high ahead of key FED decision.",
             "source": "Polymarket",
             "type": "Expectation",
@@ -692,5 +717,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-07-03 22:02"
+    "timestamp": "2026-07-03 23:59"
 };
