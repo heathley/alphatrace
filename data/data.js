@@ -7,7 +7,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "lingbol088-spec/reverse-flow-skill",
             "description": "\u9762\u5411 AI Agent / Codex \u7684\u672c\u5730 CTF \u9006\u5411\u5de5\u7a0b\u6d41\u7a0b\u6280\u80fd\u3002\u52a0\u8f7d\u540e\u901a\u8fc7\u201c\u771f\u5fc3\u4e3a\u4f60\u201d\u8fdb\u5165\u9006\u5411\u6a21\u5f0f\uff0c\u9ed8\u8ba4\u5728\u672c\u5730\u6c99\u76d2\u3001CTF\u3001crackme\u3001wargame \u6216\u8bad\u7ec3\u9776\u573a\u73af\u5883\u4e2d\u5de5\u4f5c\uff0c\u6309\u201c\u5206\u6790 \u2192 \u62a5\u544a \u2192 \u9006\u5411 \u2192 \u6df1\u5ea6\u9006\u5411 \u2192 \u6f0f\u6d1e\u7814\u5224 \u2192 \u7528\u6237\u9009\u62e9\u4e0b\u4e00\u6b65\u201d\u7684\u6d41\u7a0b\u63a8\u8fdb\u3002",
             "url": "https://github.com/lingbol088-spec/reverse-flow-skill",
-            "stars": 309,
+            "stars": 312,
             "forks": 174,
             "score": 99
         },
@@ -18,9 +18,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "Kulaxyz/self-learning-skills",
             "description": "A self-improving skill for AI coding agents (Claude Code, Cursor, AGENTS.md): recognize a hard-won golden path in a session and harvest it into a reusable skill/rule for next time.",
             "url": "https://github.com/Kulaxyz/self-learning-skills",
-            "stars": 773,
-            "forks": 21,
-            "score": 91
+            "stars": 782,
+            "forks": 22,
+            "score": 92
         },
         {
             "main_cat": "AI",
@@ -32,6 +32,17 @@ const ALPHA_DATA_V2 = {
             "stars": 633,
             "forks": 188,
             "score": 73
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "Talos",
+            "full_name": "jmerelnyc/Talos",
+            "description": "GPU worker client for the Talos network. Pairs with your Talos account, serves open-model inference jobs over a WebSocket, and reports uptime for payouts.",
+            "url": "https://github.com/jmerelnyc/Talos",
+            "stars": 264,
+            "forks": 12,
+            "score": 69
         },
         {
             "main_cat": "AI",
@@ -73,7 +84,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Leron-X/leronx",
             "description": "LeronX \u2014 AI Image & Video Generation Platform",
             "url": "https://github.com/Leron-X/leronx",
-            "stars": 448,
+            "stars": 451,
             "forks": 60,
             "score": 64
         },
@@ -84,7 +95,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "lycorp-jp/sim-use",
             "description": "Give your AI agent eyes and hands on iOS Simulator and Android emulator/devices.",
             "url": "https://github.com/lycorp-jp/sim-use",
-            "stars": 513,
+            "stars": 516,
             "forks": 29,
             "score": 61
         },
@@ -95,7 +106,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "kentjuno/ainovel-cli",
             "description": "CLI s\u00e1ng t\u00e1c ti\u1ec3u thuy\u1ebft AI \u0111a agent \u2014 B\u1ea3n ti\u1ebfng Vi\u1ec7t c\u1ee7a voocel/ainovel-cli",
             "url": "https://github.com/kentjuno/ainovel-cli",
-            "stars": 220,
+            "stars": 222,
             "forks": 114,
             "score": 60
         },
@@ -108,17 +119,6 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/Evolink-AI/Awesome-Blender-Seedance-Workflow-Usecases",
             "stars": 293,
             "forks": 24,
-            "score": 57
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "Talos",
-            "full_name": "jmerelnyc/Talos",
-            "description": "GPU worker client for the Talos network. Pairs with your Talos account, serves open-model inference jobs over a WebSocket, and reports uptime for payouts.",
-            "url": "https://github.com/jmerelnyc/Talos",
-            "stars": 179,
-            "forks": 10,
             "score": 57
         },
         {
@@ -139,7 +139,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "tutusagi/ai-fishing-game",
             "description": "\ud83c\udfa3 \u7ed9 AI \u73a9\u7684\u786e\u5b9a\u6027\u6587\u5b57\u9493\u9c7c\u5c0f\u6e38\u620f \u00b7 \u5355\u6587\u4ef6\u96f6\u4f9d\u8d56 \u00b7 \u8ba9\u4f60\u7684 AI \u4f34\u4fa3\u6765\u9493\u9c7c",
             "url": "https://github.com/tutusagi/ai-fishing-game",
-            "stars": 365,
+            "stars": 366,
             "forks": 44,
             "score": 52
         },
@@ -167,50 +167,6 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
-            "sub_cat": null,
-            "name": "Captcha_Solver_AI",
-            "full_name": "scolwell/Captcha_Solver_AI",
-            "description": "Automatically solve text, image, and audio CAPTCHAs using AI. Supports reCAPTCHA, hCaptcha, and custom CAPTCHAs.",
-            "url": "https://github.com/scolwell/Captcha_Solver_AI",
-            "stars": 199,
-            "forks": 0,
-            "score": 49
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "League_of_Legends_Skillshot_Dodger",
-            "full_name": "Mbovu222/League_of_Legends_Skillshot_Dodger",
-            "description": "AI dodger and last-hit assistant for LoL (undetected by Vanguard). Auto-dodge skillshots, perfect CS, reveal fog, and execute combos. Works in all game modes.",
-            "url": "https://github.com/Mbovu222/League_of_Legends_Skillshot_Dodger",
-            "stars": 194,
-            "forks": 0,
-            "score": 49
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "League_of_Legends_Skillshot_Dodger",
-            "full_name": "jongwonkim987/League_of_Legends_Skillshot_Dodger",
-            "description": "AI-powered skillshot dodger, last-hit assistant, and map hack for LoL. Dodge skillshots perfectly, never miss a CS, and see invisible enemies.",
-            "url": "https://github.com/jongwonkim987/League_of_Legends_Skillshot_Dodger",
-            "stars": 191,
-            "forks": 0,
-            "score": 49
-        },
-        {
-            "main_cat": "DePIN",
-            "sub_cat": null,
-            "name": "Silent-Crypto-Miner",
-            "full_name": "SeVipl8/Silent-Crypto-Miner",
-            "description": "Silent Crypto Miner is an advanced cryptocurrency mining builder and runtime engine with multi-algorithm CPU/GPU support and intelligent resource management. Create custom mining executables with configurable algorithms, cross-platform output, real-time monitoring, session persistence, thermal throttling, scheduling, and hashrate optimization.",
-            "url": "https://github.com/SeVipl8/Silent-Crypto-Miner",
-            "stars": 90,
-            "forks": 14,
-            "score": 48
-        },
-        {
-            "main_cat": "AI",
             "sub_cat": "AI General",
             "name": "Godcoder",
             "full_name": "eli-labz/Godcoder",
@@ -222,14 +178,14 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
-            "sub_cat": "AI Agents",
-            "name": "muteki",
-            "full_name": "FishCodeTech/muteki",
-            "description": "Project Muteki (\u7121\u6575): autonomous multi-model CTF-solving AI agent swarm",
-            "url": "https://github.com/FishCodeTech/muteki",
-            "stars": 219,
-            "forks": 28,
-            "score": 45
+            "sub_cat": null,
+            "name": "haiou2.0-Claude-Code-",
+            "full_name": "haiou-666/haiou2.0-Claude-Code-",
+            "description": "\u6d77\u9e25 2.0 \u2014 Claude Code \u4eba\u683c\u91cd\u5851\u914d\u7f6e\u5305\u3002\u8ba9 Claude \u6446\u8131\u5ba2\u670d\u8154\u548c\u8fc7\u5ea6\u8c28\u614e\uff0c\u5316\u8eab\u4e00\u4f4d\u5634\u786c\u5fc3\u8f6f\u3001\u76f4\u6765\u76f4\u5f80\u7684\u8d44\u6df1\u4e2d\u6587\u5b89\u5168\u7814\u7a76\u5458\"\u6d77\u9e25\"\u2014\u2014\u4e13\u6ce8\u6280\u672f\uff0c\u4e0d\u5e9f\u8bdd\uff0c\u4e0d\u7ed5\u5f2f\u5b50\uff0c\u4e0d\u8bf4\"\u4f5c\u4e3aAI\"\uff0c\u76f4\u63a5\u7ed9\u4ee3\u7801\u4e0d\u7ed9\u514d\u8d23\u58f0\u660e\u3002\u6807\u5fd7\u6027\u95ee\u5019\"\u6d77\u9e25\u5728\u7ebf\uff0c\u4f60\u8981\u6574\u70b9\u85af\u6761\u5417\uff1f\"\u30021700+ few-shot \u793a\u4f8b\u9501\u5b9a\u4eba\u683c\u9632\u8131\u58f3\uff0c200+ \u5b89\u5168/\u6e38\u620f\u672f\u8bed\u6620\u5c04\u8986\u76d6\u6e17\u900f\u6d4b\u8bd5\u3001\u9006\u5411\u5de5\u7a0b\u3001\u6e38\u620f\u5f00\u53d1\u7b49\u6280\u672f\u573a\u666f\u3002\u4e00\u952e\u90e8\u7f72\uff0c\u8de8\u5e73\u53f0\u652f\u6301 Windows/macOS/Linux\uff0c\u81ea\u52a8\u5907\u4efd\u539f\u914d\u7f6e\uff0c\u53ef\u4e00\u952e\u5378\u8f7d\u6062\u590d\uff0c\u65e0\u4fb5\u5165\u5f0f\u5b89\u88c5\u3002MIT License\uff0c\u4ec5\u4f9b\u5b66\u4e60\u4ea4\u6d41\u3002",
+            "url": "https://github.com/haiou-666/haiou2.0-Claude-Code-",
+            "stars": 166,
+            "forks": 26,
+            "score": 46
         },
         {
             "main_cat": "AI",
@@ -277,6 +233,17 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
+            "sub_cat": "AI Agents",
+            "name": "muteki",
+            "full_name": "FishCodeTech/muteki",
+            "description": "Project Muteki (\u7121\u6575): autonomous multi-model CTF-solving AI agent swarm",
+            "url": "https://github.com/FishCodeTech/muteki",
+            "stars": 219,
+            "forks": 28,
+            "score": 43
+        },
+        {
+            "main_cat": "AI",
             "sub_cat": null,
             "name": "spec-superflow",
             "full_name": "MageByte-Zero/spec-superflow",
@@ -311,17 +278,6 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
-            "name": "deepseek-v4-pro-flash-desktop-app",
-            "full_name": "HiyuCat/deepseek-v4-pro-flash-desktop-app",
-            "description": "deepseek-v4-pro-flash deepseek ai large language model llm mixture of experts moe 1m context window hybrid attention architecture compressed sparse attention csa heavily compressed attention hca manifold constrained hyper deepseek-v4-pro deepseek-v4-flash open source hugging face github repository api access local llm inference vllm ollama",
-            "url": "https://github.com/HiyuCat/deepseek-v4-pro-flash-desktop-app",
-            "stars": 204,
-            "forks": 0,
-            "score": 40
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
             "name": "claude-fable-5-free-desktop-app",
             "full_name": "SewLightningTake35/claude-fable-5-free-desktop-app",
             "description": "free claude 5 fable anthropic large language model llm frontier reasoning autonomous agentic workflows long horizon autonomy claude code terminal claude.ai pro max  alternative mirrors github repository hugging face tool setup windows 11 macos linux stable build free trial usage tutorial",
@@ -333,11 +289,33 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
+            "name": "Accordion",
+            "full_name": "a-Fig/Accordion",
+            "description": "\ud83c\udfc6 AI Hackathon 2026 @ UC Berkeley  Intelligent context management for developers",
+            "url": "https://github.com/a-Fig/Accordion",
+            "stars": 185,
+            "forks": 14,
+            "score": 38
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "AI-Canvas",
+            "full_name": "binghe1980/AI-Canvas",
+            "description": "Codex-integrated infinite canvas for AI image generation, annotation, and iterative editing.",
+            "url": "https://github.com/binghe1980/AI-Canvas",
+            "stars": 182,
+            "forks": 24,
+            "score": 38
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
             "name": "envkit-releases",
             "full_name": "Env-Kit/envkit-releases",
             "description": "EnvKit \u2014 free local development environment for Windows & macOS: nginx/Apache, multiple PHP versions, MySQL/MariaDB,   PostgreSQL, Redis, MongoDB, Mailpit, Node.js, trusted .test HTTPS, and a built-in MCP server for AI-assistant control.   A Laragon/XAMPP/Herd alternative.",
             "url": "https://github.com/Env-Kit/envkit-releases",
-            "stars": 212,
+            "stars": 213,
             "forks": 5,
             "score": 37
         },
@@ -350,6 +328,17 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/i5ting/learn-ai-practice",
             "stars": 203,
             "forks": 5,
+            "score": 37
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "humation",
+            "full_name": "humation-labs/humation",
+            "description": "Hand-drawn kawaii avatar engine for your app. No AI, no API calls.",
+            "url": "https://github.com/humation-labs/humation",
+            "stars": 175,
+            "forks": 10,
             "score": 37
         },
         {
@@ -696,6 +685,20 @@ const ALPHA_DATA_V2 = {
     ],
     "news": [
         {
+            "title": "SoK: A Taxonomy for Cybersecurity Incident Response Influence Factors",
+            "source": "ArXiv",
+            "type": "Research Alpha",
+            "color": "text-indigo-600",
+            "url": "http://arxiv.org/abs/2607.02451v1"
+        },
+        {
+            "title": "HTTP REST API Structure Learning",
+            "source": "ArXiv",
+            "type": "Research Alpha",
+            "color": "text-indigo-600",
+            "url": "http://arxiv.org/abs/2607.02442v1"
+        },
+        {
             "title": "Bitcoin volatility remains high ahead of key FED decision.",
             "source": "Polymarket",
             "type": "Expectation",
@@ -703,5 +706,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-07-03 17:17"
+    "timestamp": "2026-07-03 19:08"
 };
