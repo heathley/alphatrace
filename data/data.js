@@ -7,7 +7,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Kulaxyz/self-learning-skills",
             "description": "A self-improving skill for AI coding agents (Claude Code, Cursor, AGENTS.md): recognize a hard-won golden path in a session and harvest it into a reusable skill/rule for next time.",
             "url": "https://github.com/Kulaxyz/self-learning-skills",
-            "stars": 952,
+            "stars": 973,
             "forks": 21,
             "score": 99
         },
@@ -18,7 +18,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "lingbol088-spec/reverse-flow-skill",
             "description": "\u9762\u5411 AI Agent / Codex \u7684\u672c\u5730 CTF \u9006\u5411\u5de5\u7a0b\u6d41\u7a0b\u6280\u80fd\u3002\u52a0\u8f7d\u540e\u901a\u8fc7\u201c\u771f\u5fc3\u4e3a\u4f60\u201d\u8fdb\u5165\u9006\u5411\u6a21\u5f0f\uff0c\u9ed8\u8ba4\u5728\u672c\u5730\u6c99\u76d2\u3001CTF\u3001crackme\u3001wargame \u6216\u8bad\u7ec3\u9776\u573a\u73af\u5883\u4e2d\u5de5\u4f5c\uff0c\u6309\u201c\u5206\u6790 \u2192 \u62a5\u544a \u2192 \u9006\u5411 \u2192 \u6df1\u5ea6\u9006\u5411 \u2192 \u6f0f\u6d1e\u7814\u5224 \u2192 \u7528\u6237\u9009\u62e9\u4e0b\u4e00\u6b65\u201d\u7684\u6d41\u7a0b\u63a8\u8fdb\u3002",
             "url": "https://github.com/lingbol088-spec/reverse-flow-skill",
-            "stars": 294,
+            "stars": 301,
             "forks": 168,
             "score": 99
         },
@@ -31,18 +31,7 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/yo-WASSUP/Good-Badminton",
             "stars": 629,
             "forks": 187,
-            "score": 75
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "webtoon-harness",
-            "full_name": "revfactory/webtoon-harness",
-            "description": "\ud2b8\ub80c\ub4dc \uc870\uc0ac\ubd80\ud130 \uc138\ub85c \uc2a4\ud06c\ub864 \ubdf0\uc5b4 \uc644\uc131\uae4c\uc9c0, \uc6f9\ud230 \ud55c \ud68c\ucc28\ub97c 27\uac1c AI \uc5d0\uc774\uc804\ud2b8 \ud300\uc774 \ub9cc\ub4e4\uc5b4\ub0b4\ub294 Claude Code \ud558\ub124\uc2a4",
-            "url": "https://github.com/revfactory/webtoon-harness",
-            "stars": 248,
-            "forks": 88,
-            "score": 72
+            "score": 73
         },
         {
             "main_cat": "AI",
@@ -53,6 +42,17 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/Pluviobyte/video-production-skills",
             "stars": 500,
             "forks": 60,
+            "score": 67
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "webtoon-harness",
+            "full_name": "revfactory/webtoon-harness",
+            "description": "\ud2b8\ub80c\ub4dc \uc870\uc0ac\ubd80\ud130 \uc138\ub85c \uc2a4\ud06c\ub864 \ubdf0\uc5b4 \uc644\uc131\uae4c\uc9c0, \uc6f9\ud230 \ud55c \ud68c\ucc28\ub97c 27\uac1c AI \uc5d0\uc774\uc804\ud2b8 \ud300\uc774 \ub9cc\ub4e4\uc5b4\ub0b4\ub294 Claude Code \ud558\ub124\uc2a4",
+            "url": "https://github.com/revfactory/webtoon-harness",
+            "stars": 248,
+            "forks": 88,
             "score": 67
         },
         {
@@ -73,9 +73,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "Leron-X/leronx",
             "description": "LeronX \u2014 AI Image & Video Generation Platform",
             "url": "https://github.com/Leron-X/leronx",
-            "stars": 438,
-            "forks": 60,
-            "score": 63
+            "stars": 442,
+            "forks": 61,
+            "score": 64
         },
         {
             "main_cat": "AI",
@@ -95,7 +95,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "tryOpenRAM/OpenRAM",
             "description": "Rent GPUs and run any AI model, paid in SOL. Buy with $RAM and every $RAM spent gets burned. ",
             "url": "https://github.com/tryOpenRAM/OpenRAM",
-            "stars": 567,
+            "stars": 568,
             "forks": 4,
             "score": 62
         },
@@ -117,8 +117,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "lycorp-jp/sim-use",
             "description": "Give your AI agent eyes and hands on iOS Simulator and Android emulator/devices.",
             "url": "https://github.com/lycorp-jp/sim-use",
-            "stars": 493,
-            "forks": 28,
+            "stars": 497,
+            "forks": 29,
             "score": 60
         },
         {
@@ -128,7 +128,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "JasonLiu0826/ackem",
             "description": "Ackem \u2014 \u672c\u5730\u4f18\u5148 AI \u684c\u9762\u966a\u4f34 \u00b7 Local-first AI desktop companion. \u9690\u79c1\u6570\u636e\u4e0d\u4e0a\u4f20\uff0c\u652f\u6301\u8bb0\u5fc6/\u60c5\u7eea/\u6269\u5c55/ \u3002AGPL-3.0",
             "url": "https://github.com/JasonLiu0826/ackem",
-            "stars": 306,
+            "stars": 310,
             "forks": 33,
             "score": 57
         },
@@ -161,7 +161,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "tutusagi/ai-fishing-game",
             "description": "\ud83c\udfa3 \u7ed9 AI \u73a9\u7684\u786e\u5b9a\u6027\u6587\u5b57\u9493\u9c7c\u5c0f\u6e38\u620f \u00b7 \u5355\u6587\u4ef6\u96f6\u4f9d\u8d56 \u00b7 \u8ba9\u4f60\u7684 AI \u4f34\u4fa3\u6765\u9493\u9c7c",
             "url": "https://github.com/tutusagi/ai-fishing-game",
-            "stars": 363,
+            "stars": 364,
             "forks": 45,
             "score": 52
         },
@@ -172,7 +172,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "JayWebtech/autoshorts",
             "description": "AutoShorts is a local-first desktop application for turning long-form video or audio recordings into high-impact, vertical short-form clip candidates (9:16 portrait) with AI-powered viral moment ranking.",
             "url": "https://github.com/JayWebtech/autoshorts",
-            "stars": 286,
+            "stars": 287,
             "forks": 70,
             "score": 51
         },
@@ -200,24 +200,35 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
-            "sub_cat": null,
-            "name": "lemma-platform",
-            "full_name": "lemma-work/lemma-platform",
-            "description": "The open-source workspace where humans and AI agents work as one team.",
-            "url": "https://github.com/lemma-work/lemma-platform",
-            "stars": 214,
-            "forks": 44,
-            "score": 46
-        },
-        {
-            "main_cat": "AI",
             "sub_cat": "AI General",
             "name": "Godcoder",
             "full_name": "eli-labz/Godcoder",
             "description": "A local-first, open-source coding agent for your desktop. Bring your own LLM key; your code stays on your machine and only ever leaves to the model provider. The AI Agent builds its own Harnes.",
             "url": "https://github.com/eli-labz/Godcoder",
             "stars": 272,
-            "forks": 3,
+            "forks": 4,
+            "score": 46
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "lemma-platform",
+            "full_name": "lemma-work/lemma-platform",
+            "description": "The open-source workspace where humans and AI agents work as one team.",
+            "url": "https://github.com/lemma-work/lemma-platform",
+            "stars": 214,
+            "forks": 43,
+            "score": 46
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI Agents",
+            "name": "muteki",
+            "full_name": "FishCodeTech/muteki",
+            "description": "Project Muteki (\u7121\u6575): autonomous multi-model CTF-solving AI agent swarm",
+            "url": "https://github.com/FishCodeTech/muteki",
+            "stars": 218,
+            "forks": 28,
             "score": 45
         },
         {
@@ -244,23 +255,12 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
-            "sub_cat": "AI Agents",
-            "name": "muteki",
-            "full_name": "FishCodeTech/muteki",
-            "description": "Project Muteki (\u7121\u6575): autonomous multi-model CTF-solving AI agent swarm",
-            "url": "https://github.com/FishCodeTech/muteki",
-            "stars": 216,
-            "forks": 28,
-            "score": 44
-        },
-        {
-            "main_cat": "AI",
             "sub_cat": null,
             "name": "hlwy-ai-checker",
             "full_name": "hanlinwenyuan/hlwy-ai-checker",
             "description": "\u68c0\u67e5\u7b2c\u4e09\u65b9AI API\u662f\u5426\u63ba\u5047\u4ee5\u53ca\u6e20\u9053\u4e00\u81f4",
             "url": "https://github.com/hanlinwenyuan/hlwy-ai-checker",
-            "stars": 265,
+            "stars": 266,
             "forks": 13,
             "score": 43
         },
@@ -282,7 +282,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "MageByte-Zero/spec-superflow",
             "description": "\u8fde\u901a\u9700\u6c42\u8bf4\u6e05\u695a\u548c\u4ee3\u7801\u5199\u5bf9\u8def\u7684 AI \u7f16\u7a0b\u5de5\u4f5c\u6d41\u63d2\u4ef6\u3002\u6574\u5408 OpenSpec \u89c4\u5212 + Superpowers \u7eaa\u5f8b\uff0c7 \u5e73\u53f0\u652f\u6301\uff0cSpec-first\uff0c\u5951\u7ea6\u9a71\u52a8\u3002",
             "url": "https://github.com/MageByte-Zero/spec-superflow",
-            "stars": 195,
+            "stars": 196,
             "forks": 13,
             "score": 42
         },
@@ -381,7 +381,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "jiahongsigma/Efficient-LLM-Inference-Serving-Systems",
             "description": "Why is LLM inference slow \u2014 and how do you make it fast? A hands-on, first-principles course: roofline \u2192 KV cache \u2192 quantization \u2192 parallelism \u2192 vLLM/SGLang, with GPU labs on open models.",
             "url": "https://github.com/jiahongsigma/Efficient-LLM-Inference-Serving-Systems",
-            "stars": 11,
+            "stars": 12,
             "forks": 1,
             "score": 31
         },
@@ -474,6 +474,17 @@ const ALPHA_DATA_V2 = {
             "score": 30
         },
         {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "arcitex",
+            "full_name": "allethx/arcitex",
+            "description": "Smart cross-chain decentralized exchange built with Next.js, designed for seamless stablecoin swaps and modern Web3 payments.",
+            "url": "https://github.com/allethx/arcitex",
+            "stars": 1,
+            "forks": 0,
+            "score": 30
+        },
+        {
             "main_cat": "Stablecoin Infrastructure",
             "sub_cat": null,
             "name": "private-channel-ui",
@@ -502,17 +513,6 @@ const ALPHA_DATA_V2 = {
             "full_name": "FurlPay/furlpay-x402",
             "description": "x402 facilitator client + payment middleware (Next.js/Express) \u2014 the first Solana-native x402 facilitator for agentic stablecoin payments.",
             "url": "https://github.com/FurlPay/furlpay-x402",
-            "stars": 0,
-            "forks": 0,
-            "score": 30
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "arcitex",
-            "full_name": "allethx/arcitex",
-            "description": "Smart cross-chain decentralized exchange built with Next.js, designed for seamless stablecoin swaps and modern Web3 payments.",
-            "url": "https://github.com/allethx/arcitex",
             "stars": 0,
             "forks": 0,
             "score": 30
@@ -695,5 +695,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-07-03 09:54"
+    "timestamp": "2026-07-03 12:04"
 };
