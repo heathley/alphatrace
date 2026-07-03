@@ -7,7 +7,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Kulaxyz/self-learning-skills",
             "description": "A self-improving skill for AI coding agents (Claude Code, Cursor, AGENTS.md): recognize a hard-won golden path in a session and harvest it into a reusable skill/rule for next time.",
             "url": "https://github.com/Kulaxyz/self-learning-skills",
-            "stars": 973,
+            "stars": 994,
             "forks": 21,
             "score": 99
         },
@@ -18,8 +18,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "lingbol088-spec/reverse-flow-skill",
             "description": "\u9762\u5411 AI Agent / Codex \u7684\u672c\u5730 CTF \u9006\u5411\u5de5\u7a0b\u6d41\u7a0b\u6280\u80fd\u3002\u52a0\u8f7d\u540e\u901a\u8fc7\u201c\u771f\u5fc3\u4e3a\u4f60\u201d\u8fdb\u5165\u9006\u5411\u6a21\u5f0f\uff0c\u9ed8\u8ba4\u5728\u672c\u5730\u6c99\u76d2\u3001CTF\u3001crackme\u3001wargame \u6216\u8bad\u7ec3\u9776\u573a\u73af\u5883\u4e2d\u5de5\u4f5c\uff0c\u6309\u201c\u5206\u6790 \u2192 \u62a5\u544a \u2192 \u9006\u5411 \u2192 \u6df1\u5ea6\u9006\u5411 \u2192 \u6f0f\u6d1e\u7814\u5224 \u2192 \u7528\u6237\u9009\u62e9\u4e0b\u4e00\u6b65\u201d\u7684\u6d41\u7a0b\u63a8\u8fdb\u3002",
             "url": "https://github.com/lingbol088-spec/reverse-flow-skill",
-            "stars": 301,
-            "forks": 168,
+            "stars": 305,
+            "forks": 172,
             "score": 99
         },
         {
@@ -29,8 +29,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "yo-WASSUP/Good-Badminton",
             "description": "\ud83c\udff8  AI Badminton Hawk-Eye System",
             "url": "https://github.com/yo-WASSUP/Good-Badminton",
-            "stars": 629,
-            "forks": 187,
+            "stars": 630,
+            "forks": 188,
             "score": 73
         },
         {
@@ -41,7 +41,7 @@ const ALPHA_DATA_V2 = {
             "description": "Reusable AI video production skills library for creation, recreation, motion design, openers, and QA.",
             "url": "https://github.com/Pluviobyte/video-production-skills",
             "stars": 500,
-            "forks": 60,
+            "forks": 61,
             "score": 67
         },
         {
@@ -51,8 +51,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "revfactory/webtoon-harness",
             "description": "\ud2b8\ub80c\ub4dc \uc870\uc0ac\ubd80\ud130 \uc138\ub85c \uc2a4\ud06c\ub864 \ubdf0\uc5b4 \uc644\uc131\uae4c\uc9c0, \uc6f9\ud230 \ud55c \ud68c\ucc28\ub97c 27\uac1c AI \uc5d0\uc774\uc804\ud2b8 \ud300\uc774 \ub9cc\ub4e4\uc5b4\ub0b4\ub294 Claude Code \ud558\ub124\uc2a4",
             "url": "https://github.com/revfactory/webtoon-harness",
-            "stars": 248,
-            "forks": 88,
+            "stars": 249,
+            "forks": 89,
             "score": 67
         },
         {
@@ -62,7 +62,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "benchflow-ai/awesome-evals",
             "description": "A curated, non-BS library of the best resources for building and evaluating AI agents \u2014 papers, blogs, talks, tools, benchmarks. Maintained by BenchFlow.",
             "url": "https://github.com/benchflow-ai/awesome-evals",
-            "stars": 653,
+            "stars": 654,
             "forks": 48,
             "score": 65
         },
@@ -73,7 +73,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Leron-X/leronx",
             "description": "LeronX \u2014 AI Image & Video Generation Platform",
             "url": "https://github.com/Leron-X/leronx",
-            "stars": 442,
+            "stars": 447,
             "forks": 61,
             "score": 64
         },
@@ -95,19 +95,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "tryOpenRAM/OpenRAM",
             "description": "Rent GPUs and run any AI model, paid in SOL. Buy with $RAM and every $RAM spent gets burned. ",
             "url": "https://github.com/tryOpenRAM/OpenRAM",
-            "stars": 568,
+            "stars": 569,
             "forks": 4,
-            "score": 62
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "Awesome-Blender-Seedance-Workflow-Usecases",
-            "full_name": "Evolink-AI/Awesome-Blender-Seedance-Workflow-Usecases",
-            "description": "Curated Blender + Seedance workflows for AI filmmaking: previs, camera control, Blender MCP, reference video, and agent-guided use cases.",
-            "url": "https://github.com/Evolink-AI/Awesome-Blender-Seedance-Workflow-Usecases",
-            "stars": 292,
-            "forks": 24,
             "score": 62
         },
         {
@@ -117,7 +106,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "lycorp-jp/sim-use",
             "description": "Give your AI agent eyes and hands on iOS Simulator and Android emulator/devices.",
             "url": "https://github.com/lycorp-jp/sim-use",
-            "stars": 497,
+            "stars": 503,
             "forks": 29,
             "score": 60
         },
@@ -128,8 +117,19 @@ const ALPHA_DATA_V2 = {
             "full_name": "JasonLiu0826/ackem",
             "description": "Ackem \u2014 \u672c\u5730\u4f18\u5148 AI \u684c\u9762\u966a\u4f34 \u00b7 Local-first AI desktop companion. \u9690\u79c1\u6570\u636e\u4e0d\u4e0a\u4f20\uff0c\u652f\u6301\u8bb0\u5fc6/\u60c5\u7eea/\u6269\u5c55/ \u3002AGPL-3.0",
             "url": "https://github.com/JasonLiu0826/ackem",
-            "stars": 310,
+            "stars": 313,
             "forks": 33,
+            "score": 57
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "Awesome-Blender-Seedance-Workflow-Usecases",
+            "full_name": "Evolink-AI/Awesome-Blender-Seedance-Workflow-Usecases",
+            "description": "Curated Blender + Seedance workflows for AI filmmaking: previs, camera control, Blender MCP, reference video, and agent-guided use cases.",
+            "url": "https://github.com/Evolink-AI/Awesome-Blender-Seedance-Workflow-Usecases",
+            "stars": 293,
+            "forks": 24,
             "score": 57
         },
         {
@@ -168,17 +168,6 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "autoshorts",
-            "full_name": "JayWebtech/autoshorts",
-            "description": "AutoShorts is a local-first desktop application for turning long-form video or audio recordings into high-impact, vertical short-form clip candidates (9:16 portrait) with AI-powered viral moment ranking.",
-            "url": "https://github.com/JayWebtech/autoshorts",
-            "stars": 287,
-            "forks": 70,
-            "score": 51
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
             "name": "League_of_Legends_Skillshot_Dodger",
             "full_name": "Mbovu222/League_of_Legends_Skillshot_Dodger",
             "description": "AI dodger and last-hit assistant for LoL (undetected by Vanguard). Auto-dodge skillshots, perfect CS, reveal fog, and execute combos. Works in all game modes.",
@@ -186,6 +175,17 @@ const ALPHA_DATA_V2 = {
             "stars": 219,
             "forks": 0,
             "score": 51
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "autoshorts",
+            "full_name": "JayWebtech/autoshorts",
+            "description": "AutoShorts is a local-first desktop application for turning long-form video or audio recordings into high-impact, vertical short-form clip candidates (9:16 portrait) with AI-powered viral moment ranking.",
+            "url": "https://github.com/JayWebtech/autoshorts",
+            "stars": 289,
+            "forks": 70,
+            "score": 50
         },
         {
             "main_cat": "DePIN",
@@ -205,19 +205,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "eli-labz/Godcoder",
             "description": "A local-first, open-source coding agent for your desktop. Bring your own LLM key; your code stays on your machine and only ever leaves to the model provider. The AI Agent builds its own Harnes.",
             "url": "https://github.com/eli-labz/Godcoder",
-            "stars": 272,
+            "stars": 278,
             "forks": 4,
-            "score": 46
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "lemma-platform",
-            "full_name": "lemma-work/lemma-platform",
-            "description": "The open-source workspace where humans and AI agents work as one team.",
-            "url": "https://github.com/lemma-work/lemma-platform",
-            "stars": 214,
-            "forks": 43,
             "score": 46
         },
         {
@@ -227,7 +216,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "FishCodeTech/muteki",
             "description": "Project Muteki (\u7121\u6575): autonomous multi-model CTF-solving AI agent swarm",
             "url": "https://github.com/FishCodeTech/muteki",
-            "stars": 218,
+            "stars": 219,
             "forks": 28,
             "score": 45
         },
@@ -238,8 +227,19 @@ const ALPHA_DATA_V2 = {
             "full_name": "NotASithLord/peerd",
             "description": "The first AI agent harness native to the browser. A Chrome/Firefox extension that runs the agent loop in your browser \u2014 drives your tabs, spins up sandboxed compute (JS notebooks, WASM Linux VMs, client-side apps), and shares what it builds peer-to-peer. BYOK \u00b7 no backend \u00b7 no telemetry.",
             "url": "https://github.com/NotASithLord/peerd",
-            "stars": 287,
+            "stars": 289,
             "forks": 30,
+            "score": 44
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "lemma-platform",
+            "full_name": "lemma-work/lemma-platform",
+            "description": "The open-source workspace where humans and AI agents work as one team.",
+            "url": "https://github.com/lemma-work/lemma-platform",
+            "stars": 217,
+            "forks": 43,
             "score": 44
         },
         {
@@ -251,7 +251,7 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/Johell1NS/browser-search",
             "stars": 287,
             "forks": 23,
-            "score": 44
+            "score": 43
         },
         {
             "main_cat": "AI",
@@ -260,9 +260,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "hanlinwenyuan/hlwy-ai-checker",
             "description": "\u68c0\u67e5\u7b2c\u4e09\u65b9AI API\u662f\u5426\u63ba\u5047\u4ee5\u53ca\u6e20\u9053\u4e00\u81f4",
             "url": "https://github.com/hanlinwenyuan/hlwy-ai-checker",
-            "stars": 266,
+            "stars": 268,
             "forks": 13,
             "score": 43
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "spec-superflow",
+            "full_name": "MageByte-Zero/spec-superflow",
+            "description": "\u8fde\u901a\u9700\u6c42\u8bf4\u6e05\u695a\u548c\u4ee3\u7801\u5199\u5bf9\u8def\u7684 AI \u7f16\u7a0b\u5de5\u4f5c\u6d41\u63d2\u4ef6\u3002\u6574\u5408 OpenSpec \u89c4\u5212 + Superpowers \u7eaa\u5f8b\uff0c7 \u5e73\u53f0\u652f\u6301\uff0cSpec-first\uff0c\u5951\u7ea6\u9a71\u52a8\u3002",
+            "url": "https://github.com/MageByte-Zero/spec-superflow",
+            "stars": 198,
+            "forks": 14,
+            "score": 42
         },
         {
             "main_cat": "AI",
@@ -273,18 +284,7 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/iart-ai/motion-skills",
             "stars": 238,
             "forks": 20,
-            "score": 42
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "spec-superflow",
-            "full_name": "MageByte-Zero/spec-superflow",
-            "description": "\u8fde\u901a\u9700\u6c42\u8bf4\u6e05\u695a\u548c\u4ee3\u7801\u5199\u5bf9\u8def\u7684 AI \u7f16\u7a0b\u5de5\u4f5c\u6d41\u63d2\u4ef6\u3002\u6574\u5408 OpenSpec \u89c4\u5212 + Superpowers \u7eaa\u5f8b\uff0c7 \u5e73\u53f0\u652f\u6301\uff0cSpec-first\uff0c\u5951\u7ea6\u9a71\u52a8\u3002",
-            "url": "https://github.com/MageByte-Zero/spec-superflow",
-            "stars": 196,
-            "forks": 13,
-            "score": 42
+            "score": 41
         },
         {
             "main_cat": "AI",
@@ -322,22 +322,22 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "learn-ai-practice",
-            "full_name": "i5ting/learn-ai-practice",
-            "description": "\u72fc\u53d4\u7684ai\u81ea\u7559\u5730\uff0c2026\u4e0a\u534a\u5e74\u603b\u7ed3",
-            "url": "https://github.com/i5ting/learn-ai-practice",
-            "stars": 203,
-            "forks": 5,
-            "score": 38
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
             "name": "envkit-releases",
             "full_name": "Env-Kit/envkit-releases",
             "description": "EnvKit \u2014 free local development environment for Windows & macOS: nginx/Apache, multiple PHP versions, MySQL/MariaDB,   PostgreSQL, Redis, MongoDB, Mailpit, Node.js, trusted .test HTTPS, and a built-in MCP server for AI-assistant control.   A Laragon/XAMPP/Herd alternative.",
             "url": "https://github.com/Env-Kit/envkit-releases",
             "stars": 211,
+            "forks": 5,
+            "score": 37
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "learn-ai-practice",
+            "full_name": "i5ting/learn-ai-practice",
+            "description": "\u72fc\u53d4\u7684ai\u81ea\u7559\u5730\uff0c2026\u4e0a\u534a\u5e74\u603b\u7ed3",
+            "url": "https://github.com/i5ting/learn-ai-practice",
+            "stars": 203,
             "forks": 5,
             "score": 37
         },
@@ -359,7 +359,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Dicklesworthstone/franken_ocr",
             "description": "Pure-Rust, CPU-only OCR engine for Baidu Unlimited-OCR (a DeepSeek-OCR-derived 3B MoE VLM). One fixed model, custom int4/int8 kernels, no ML framework, no GPU. Pre-Phase-0 scaffold.",
             "url": "https://github.com/Dicklesworthstone/franken_ocr",
-            "stars": 45,
+            "stars": 46,
             "forks": 1,
             "score": 32
         },
@@ -384,17 +384,6 @@ const ALPHA_DATA_V2 = {
             "stars": 12,
             "forks": 1,
             "score": 31
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI Agents",
-            "name": "Bridle-Layer",
-            "full_name": "L0-0LL0-0L/Bridle-Layer",
-            "description": "BRIDLE Marries AI agents, GPUs, APIs, PCs, wallets & datasets into one programmable network. Rein in the idle.",
-            "url": "https://github.com/L0-0LL0-0L/Bridle-Layer",
-            "stars": 10,
-            "forks": 0,
-            "score": 30
         },
         {
             "main_cat": "AI",
@@ -507,6 +496,28 @@ const ALPHA_DATA_V2 = {
             "score": 30
         },
         {
+            "main_cat": "Stablecoin Infrastructure",
+            "sub_cat": null,
+            "name": "furlpay-python",
+            "full_name": "FurlPay/furlpay-python",
+            "description": "Official Furlpay server-side SDK for Python \u2014 stablecoin payments, wallets, cards, investing & webhooks. Zero dependencies.",
+            "url": "https://github.com/FurlPay/furlpay-python",
+            "stars": 0,
+            "forks": 0,
+            "score": 30
+        },
+        {
+            "main_cat": "Stablecoin Infrastructure",
+            "sub_cat": null,
+            "name": "furlpay-go",
+            "full_name": "FurlPay/furlpay-go",
+            "description": "Official Furlpay server-side SDK for Go \u2014 stablecoin payments, wallets, cards, investing & webhooks. Zero dependencies.",
+            "url": "https://github.com/FurlPay/furlpay-go",
+            "stars": 0,
+            "forks": 0,
+            "score": 30
+        },
+        {
             "main_cat": "AI",
             "sub_cat": "AI General",
             "name": "furlpay-x402",
@@ -568,17 +579,6 @@ const ALPHA_DATA_V2 = {
             "full_name": "soft-developper/AfriFX",
             "description": "AfriFX is a decentralised foreign exchange and cross-border payments platform built on the Arc blockchain. It enables individuals and businesses across Africa to move money across borders using USDC stablecoins as the settlement layer with real local currency amounts on both ends. Every transaction is settled on-chain, transparent, and traceable",
             "url": "https://github.com/soft-developper/AfriFX",
-            "stars": 0,
-            "forks": 0,
-            "score": 30
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "Worqen-Solana",
-            "full_name": "Worqen-Labs/Worqen-Solana",
-            "description": "Trustless on-chain payment escrow for the Worqen job marketplace \u2014 Solana + Anchor. SOL & SPL stablecoins, fee-on-top commission, milestone groups, partial releases, platform-mediated disputes with permissionless deadline fallback, direct/batch pay, and a guaranteed weekly hourly-settlement (GWS) engine. Apache-2.0.",
-            "url": "https://github.com/Worqen-Labs/Worqen-Solana",
             "stars": 0,
             "forks": 0,
             "score": 30
@@ -674,20 +674,6 @@ const ALPHA_DATA_V2 = {
     ],
     "news": [
         {
-            "title": "SoK: A Taxonomy for Cybersecurity Incident Response Influence Factors",
-            "source": "ArXiv",
-            "type": "Research Alpha",
-            "color": "text-indigo-600",
-            "url": "http://arxiv.org/abs/2607.02451v1"
-        },
-        {
-            "title": "HTTP REST API Structure Learning",
-            "source": "ArXiv",
-            "type": "Research Alpha",
-            "color": "text-indigo-600",
-            "url": "http://arxiv.org/abs/2607.02442v1"
-        },
-        {
             "title": "Bitcoin volatility remains high ahead of key FED decision.",
             "source": "Polymarket",
             "type": "Expectation",
@@ -695,5 +681,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-07-03 12:04"
+    "timestamp": "2026-07-03 15:05"
 };
