@@ -18,7 +18,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Kulaxyz/self-learning-skills",
             "description": "A self-improving skill for AI coding agents (Claude Code, Cursor, AGENTS.md): recognize a hard-won golden path in a session and harvest it into a reusable skill/rule for next time.",
             "url": "https://github.com/Kulaxyz/self-learning-skills",
-            "stars": 785,
+            "stars": 787,
             "forks": 22,
             "score": 84
         },
@@ -40,7 +40,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "jmerelnyc/Talos",
             "description": "GPU worker client for the Talos network. Pairs with your Talos account, serves open-model inference jobs over a WebSocket, and reports uptime for payouts.",
             "url": "https://github.com/jmerelnyc/Talos",
-            "stars": 291,
+            "stars": 294,
             "forks": 12,
             "score": 72
         },
@@ -73,7 +73,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "benchflow-ai/awesome-evals",
             "description": "A curated, non-BS library of the best resources for building and evaluating AI agents \u2014 papers, blogs, talks, tools, benchmarks. Maintained by BenchFlow.",
             "url": "https://github.com/benchflow-ai/awesome-evals",
-            "stars": 655,
+            "stars": 656,
             "forks": 48,
             "score": 65
         },
@@ -95,7 +95,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "lycorp-jp/sim-use",
             "description": "Give your AI agent eyes and hands on iOS Simulator and Android emulator/devices.",
             "url": "https://github.com/lycorp-jp/sim-use",
-            "stars": 518,
+            "stars": 521,
             "forks": 29,
             "score": 61
         },
@@ -106,7 +106,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "kentjuno/ainovel-cli",
             "description": "CLI s\u00e1ng t\u00e1c ti\u1ec3u thuy\u1ebft AI \u0111a agent \u2014 B\u1ea3n ti\u1ebfng Vi\u1ec7t c\u1ee7a voocel/ainovel-cli",
             "url": "https://github.com/kentjuno/ainovel-cli",
-            "stars": 222,
+            "stars": 223,
             "forks": 114,
             "score": 60
         },
@@ -161,7 +161,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "JayWebtech/autoshorts",
             "description": "AutoShorts is a local-first desktop application for turning long-form video or audio recordings into high-impact, vertical short-form clip candidates (9:16 portrait) with AI-powered viral moment ranking.",
             "url": "https://github.com/JayWebtech/autoshorts",
-            "stars": 289,
+            "stars": 290,
             "forks": 70,
             "score": 50
         },
@@ -249,9 +249,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "MageByte-Zero/spec-superflow",
             "description": "\u8fde\u901a\u9700\u6c42\u8bf4\u6e05\u695a\u548c\u4ee3\u7801\u5199\u5bf9\u8def\u7684 AI \u7f16\u7a0b\u5de5\u4f5c\u6d41\u63d2\u4ef6\u3002\u6574\u5408 OpenSpec \u89c4\u5212 + Superpowers \u7eaa\u5f8b\uff0c7 \u5e73\u53f0\u652f\u6301\uff0cSpec-first\uff0c\u5951\u7ea6\u9a71\u52a8\u3002",
             "url": "https://github.com/MageByte-Zero/spec-superflow",
-            "stars": 200,
+            "stars": 201,
             "forks": 14,
             "score": 42
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "claude-fable-5-free-desktop-app",
+            "full_name": "SewLightningTake35/claude-fable-5-free-desktop-app",
+            "description": "free claude 5 fable anthropic large language model llm frontier reasoning autonomous agentic workflows long horizon autonomy claude code terminal claude.ai pro max  alternative mirrors github repository hugging face tool setup windows 11 macos linux stable build free trial usage tutorial",
+            "url": "https://github.com/SewLightningTake35/claude-fable-5-free-desktop-app",
+            "stars": 329,
+            "forks": 1,
+            "score": 41
         },
         {
             "main_cat": "AI",
@@ -274,17 +285,6 @@ const ALPHA_DATA_V2 = {
             "stars": 214,
             "forks": 11,
             "score": 40
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "claude-fable-5-free-desktop-app",
-            "full_name": "SewLightningTake35/claude-fable-5-free-desktop-app",
-            "description": "free claude 5 fable anthropic large language model llm frontier reasoning autonomous agentic workflows long horizon autonomy claude code terminal claude.ai pro max  alternative mirrors github repository hugging face tool setup windows 11 macos linux stable build free trial usage tutorial",
-            "url": "https://github.com/SewLightningTake35/claude-fable-5-free-desktop-app",
-            "stars": 251,
-            "forks": 1,
-            "score": 38
         },
         {
             "main_cat": "AI",
@@ -692,5 +692,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-07-03 20:57"
+    "timestamp": "2026-07-03 22:02"
 };
