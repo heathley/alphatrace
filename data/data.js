@@ -18,7 +18,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "jmerelnyc/Talos",
             "description": "GPU worker client for the Talos network. Pairs with your Talos account, serves open-model inference jobs over a WebSocket, and reports uptime for payouts.",
             "url": "https://github.com/jmerelnyc/Talos",
-            "stars": 579,
+            "stars": 581,
             "forks": 12,
             "score": 92
         },
@@ -62,7 +62,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "benchflow-ai/awesome-evals",
             "description": "A curated, non-BS library of the best resources for building and evaluating AI agents \u2014 papers, blogs, talks, tools, benchmarks. Maintained by BenchFlow.",
             "url": "https://github.com/benchflow-ai/awesome-evals",
-            "stars": 663,
+            "stars": 664,
             "forks": 48,
             "score": 62
         },
@@ -139,9 +139,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "tutusagi/ai-fishing-game",
             "description": "\ud83c\udfa3 \u7ed9 AI \u73a9\u7684\u786e\u5b9a\u6027\u6587\u5b57\u9493\u9c7c\u5c0f\u6e38\u620f \u00b7 \u5355\u6587\u4ef6\u96f6\u4f9d\u8d56 \u00b7 \u8ba9\u4f60\u7684 AI \u4f34\u4fa3\u6765\u9493\u9c7c",
             "url": "https://github.com/tutusagi/ai-fishing-game",
-            "stars": 369,
+            "stars": 371,
             "forks": 44,
-            "score": 50
+            "score": 51
         },
         {
             "main_cat": "AI",
@@ -183,7 +183,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Johell1NS/browser-search",
             "description": "A skill for AI agents: search the web with SearXNG, browse with Camofox, bypass protections with CloakBrowser. Anti-hallucination by design. Self-hosted, free, unlimited.",
             "url": "https://github.com/Johell1NS/browser-search",
-            "stars": 301,
+            "stars": 302,
             "forks": 23,
             "score": 43
         },
@@ -271,7 +271,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "kerlenton/mcpsnoop",
             "description": "Wireshark for MCP. A transparent proxy that shows every real tool call between your AI client and your MCP servers, live in your terminal.",
             "url": "https://github.com/kerlenton/mcpsnoop",
-            "stars": 178,
+            "stars": 179,
             "forks": 7,
             "score": 40
         },
@@ -299,6 +299,17 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "deepseek-v4-pro-flash-desktop-app",
+            "full_name": "HiyuCat/deepseek-v4-pro-flash-desktop-app",
+            "description": "deepseek-v4-pro-flash deepseek ai large language model llm mixture of experts moe 1m context window hybrid attention architecture compressed sparse attention csa heavily compressed attention hca manifold constrained hyper deepseek-v4-pro deepseek-v4-flash open source hugging face github repository api access local llm inference vllm ollama",
+            "url": "https://github.com/HiyuCat/deepseek-v4-pro-flash-desktop-app",
+            "stars": 198,
+            "forks": 0,
+            "score": 38
+        },
+        {
+            "main_cat": "AI",
             "sub_cat": null,
             "name": "learn-ai-practice",
             "full_name": "i5ting/learn-ai-practice",
@@ -306,17 +317,6 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/i5ting/learn-ai-practice",
             "stars": 204,
             "forks": 5,
-            "score": 37
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "deepseek-v4-pro-flash-desktop-app",
-            "full_name": "HiyuCat/deepseek-v4-pro-flash-desktop-app",
-            "description": "deepseek-v4-pro-flash deepseek ai large language model llm mixture of experts moe 1m context window hybrid attention architecture compressed sparse attention csa heavily compressed attention hca manifold constrained hyper deepseek-v4-pro deepseek-v4-flash open source hugging face github repository api access local llm inference vllm ollama",
-            "url": "https://github.com/HiyuCat/deepseek-v4-pro-flash-desktop-app",
-            "stars": 188,
-            "forks": 0,
             "score": 37
         },
         {
@@ -717,5 +717,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-07-04 22:52"
+    "timestamp": "2026-07-04 23:56"
 };
