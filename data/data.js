@@ -18,7 +18,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "jmerelnyc/Talos",
             "description": "GPU worker client for the Talos network. Pairs with your Talos account, serves open-model inference jobs over a WebSocket, and reports uptime for payouts.",
             "url": "https://github.com/jmerelnyc/Talos",
-            "stars": 552,
+            "stars": 559,
             "forks": 12,
             "score": 90
         },
@@ -73,7 +73,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Leron-X/leronx",
             "description": "LeronX \u2014 AI Image & Video Generation Platform",
             "url": "https://github.com/Leron-X/leronx",
-            "stars": 464,
+            "stars": 465,
             "forks": 60,
             "score": 62
         },
@@ -89,6 +89,17 @@ const ALPHA_DATA_V2 = {
             "score": 60
         },
         {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "ainovel-cli",
+            "full_name": "kentjuno/ainovel-cli",
+            "description": "CLI s\u00e1ng t\u00e1c ti\u1ec3u thuy\u1ebft AI \u0111a agent \u2014 B\u1ea3n ti\u1ebfng Vi\u1ec7t c\u1ee7a voocel/ainovel-cli",
+            "url": "https://github.com/kentjuno/ainovel-cli",
+            "stars": 228,
+            "forks": 118,
+            "score": 59
+        },
+        {
             "main_cat": "DePIN",
             "sub_cat": null,
             "name": "Silent-Crypto-Miner",
@@ -98,17 +109,6 @@ const ALPHA_DATA_V2 = {
             "stars": 96,
             "forks": 20,
             "score": 59
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "ainovel-cli",
-            "full_name": "kentjuno/ainovel-cli",
-            "description": "CLI s\u00e1ng t\u00e1c ti\u1ec3u thuy\u1ebft AI \u0111a agent \u2014 B\u1ea3n ti\u1ebfng Vi\u1ec7t c\u1ee7a voocel/ainovel-cli",
-            "url": "https://github.com/kentjuno/ainovel-cli",
-            "stars": 227,
-            "forks": 117,
-            "score": 58
         },
         {
             "main_cat": "AI",
@@ -178,6 +178,17 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
+            "sub_cat": null,
+            "name": "browser-search",
+            "full_name": "Johell1NS/browser-search",
+            "description": "A skill for AI agents: search the web with SearXNG, browse with Camofox, bypass protections with CloakBrowser. Anti-hallucination by design. Self-hosted, free, unlimited.",
+            "url": "https://github.com/Johell1NS/browser-search",
+            "stars": 299,
+            "forks": 23,
+            "score": 43
+        },
+        {
+            "main_cat": "AI",
             "sub_cat": "AI General",
             "name": "peerd",
             "full_name": "NotASithLord/peerd",
@@ -190,34 +201,12 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "browser-search",
-            "full_name": "Johell1NS/browser-search",
-            "description": "A skill for AI agents: search the web with SearXNG, browse with Camofox, bypass protections with CloakBrowser. Anti-hallucination by design. Self-hosted, free, unlimited.",
-            "url": "https://github.com/Johell1NS/browser-search",
-            "stars": 298,
-            "forks": 23,
-            "score": 43
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
             "name": "spec-superflow",
             "full_name": "MageByte-Zero/spec-superflow",
             "description": "\u8fde\u901a\u9700\u6c42\u8bf4\u6e05\u695a\u548c\u4ee3\u7801\u5199\u5bf9\u8def\u7684 AI \u7f16\u7a0b\u5de5\u4f5c\u6d41\u63d2\u4ef6\u3002\u6574\u5408 OpenSpec \u89c4\u5212 + Superpowers \u7eaa\u5f8b\uff0c7 \u5e73\u53f0\u652f\u6301\uff0cSpec-first\uff0c\u5951\u7ea6\u9a71\u52a8\u3002",
             "url": "https://github.com/MageByte-Zero/spec-superflow",
             "stars": 225,
             "forks": 16,
-            "score": 43
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI Agents",
-            "name": "muteki",
-            "full_name": "FishCodeTech/muteki",
-            "description": "Project Muteki (\u7121\u6575): autonomous multi-model CTF-solving AI agent swarm",
-            "url": "https://github.com/FishCodeTech/muteki",
-            "stars": 221,
-            "forks": 28,
             "score": 43
         },
         {
@@ -244,6 +233,17 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
+            "sub_cat": "AI Agents",
+            "name": "muteki",
+            "full_name": "FishCodeTech/muteki",
+            "description": "Project Muteki (\u7121\u6575): autonomous multi-model CTF-solving AI agent swarm",
+            "url": "https://github.com/FishCodeTech/muteki",
+            "stars": 221,
+            "forks": 28,
+            "score": 42
+        },
+        {
+            "main_cat": "AI",
             "sub_cat": null,
             "name": "motion-skills",
             "full_name": "iart-ai/motion-skills",
@@ -266,24 +266,24 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "claude-fable-5-free-desktop-app",
-            "full_name": "SewLightningTake35/claude-fable-5-free-desktop-app",
-            "description": "free claude 5 fable anthropic large language model llm frontier reasoning autonomous agentic workflows long horizon autonomy claude code terminal claude.ai pro max  alternative mirrors github repository hugging face tool setup windows 11 macos linux stable build free trial usage tutorial",
-            "url": "https://github.com/SewLightningTake35/claude-fable-5-free-desktop-app",
-            "stars": 300,
-            "forks": 1,
-            "score": 39
-        },
-        {
-            "main_cat": "AI",
             "sub_cat": null,
             "name": "mcpsnoop",
             "full_name": "kerlenton/mcpsnoop",
             "description": "Wireshark for MCP. A transparent proxy that shows every real tool call between your AI client and your MCP servers, live in your terminal.",
             "url": "https://github.com/kerlenton/mcpsnoop",
-            "stars": 174,
-            "forks": 6,
+            "stars": 175,
+            "forks": 7,
+            "score": 40
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "claude-fable-5-free-desktop-app",
+            "full_name": "SewLightningTake35/claude-fable-5-free-desktop-app",
+            "description": "free claude 5 fable anthropic large language model llm frontier reasoning autonomous agentic workflows long horizon autonomy claude code terminal claude.ai pro max  alternative mirrors github repository hugging face tool setup windows 11 macos linux stable build free trial usage tutorial",
+            "url": "https://github.com/SewLightningTake35/claude-fable-5-free-desktop-app",
+            "stars": 299,
+            "forks": 1,
             "score": 39
         },
         {
@@ -370,7 +370,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "InfiniteWhispers/HermesAgent-MultiModel",
             "description": "A fully-local, multi-model AI agent framework with Mixture-of-Agents (MoA) orchestration. Run a high-performance agentic stack on consumer GPUs (RTX 4080/5080) using Hermes + Ollama, with zero cloud dependencies.",
             "url": "https://github.com/InfiniteWhispers/HermesAgent-MultiModel",
-            "stars": 47,
+            "stars": 48,
             "forks": 7,
             "score": 34
         },
@@ -717,5 +717,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-07-04 17:59"
+    "timestamp": "2026-07-04 19:19"
 };
