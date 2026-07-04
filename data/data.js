@@ -18,9 +18,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "jmerelnyc/Talos",
             "description": "GPU worker client for the Talos network. Pairs with your Talos account, serves open-model inference jobs over a WebSocket, and reports uptime for payouts.",
             "url": "https://github.com/jmerelnyc/Talos",
-            "stars": 559,
+            "stars": 569,
             "forks": 12,
-            "score": 90
+            "score": 91
         },
         {
             "main_cat": "AI",
@@ -31,7 +31,7 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/Kulaxyz/self-learning-skills",
             "stars": 824,
             "forks": 24,
-            "score": 87
+            "score": 81
         },
         {
             "main_cat": "AI",
@@ -73,7 +73,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Leron-X/leronx",
             "description": "LeronX \u2014 AI Image & Video Generation Platform",
             "url": "https://github.com/Leron-X/leronx",
-            "stars": 465,
+            "stars": 467,
             "forks": 60,
             "score": 62
         },
@@ -150,7 +150,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "JayWebtech/autoshorts",
             "description": "AutoShorts is a local-first desktop application for turning long-form video or audio recordings into high-impact, vertical short-form clip candidates (9:16 portrait) with AI-powered viral moment ranking.",
             "url": "https://github.com/JayWebtech/autoshorts",
-            "stars": 294,
+            "stars": 295,
             "forks": 71,
             "score": 49
         },
@@ -271,7 +271,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "kerlenton/mcpsnoop",
             "description": "Wireshark for MCP. A transparent proxy that shows every real tool call between your AI client and your MCP servers, live in your terminal.",
             "url": "https://github.com/kerlenton/mcpsnoop",
-            "stars": 175,
+            "stars": 176,
             "forks": 7,
             "score": 40
         },
@@ -361,7 +361,7 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/gittensor-ai-lab/sparkinfer",
             "stars": 7,
             "forks": 43,
-            "score": 36
+            "score": 35
         },
         {
             "main_cat": "AI",
@@ -717,5 +717,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-07-04 19:19"
+    "timestamp": "2026-07-04 20:48"
 };
