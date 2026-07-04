@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "lingbol088-spec/reverse-flow-skill",
             "description": "\u9762\u5411 AI Agent / Codex \u7684\u672c\u5730 CTF \u9006\u5411\u5de5\u7a0b\u6d41\u7a0b\u6280\u80fd\u3002\u52a0\u8f7d\u540e\u901a\u8fc7\u201c\u771f\u5fc3\u4e3a\u4f60\u201d\u8fdb\u5165\u9006\u5411\u6a21\u5f0f\uff0c\u9ed8\u8ba4\u5728\u672c\u5730\u6c99\u76d2\u3001CTF\u3001crackme\u3001wargame \u6216\u8bad\u7ec3\u9776\u573a\u73af\u5883\u4e2d\u5de5\u4f5c\uff0c\u6309\u201c\u5206\u6790 \u2192 \u62a5\u544a \u2192 \u9006\u5411 \u2192 \u6df1\u5ea6\u9006\u5411 \u2192 \u6f0f\u6d1e\u7814\u5224 \u2192 \u7528\u6237\u9009\u62e9\u4e0b\u4e00\u6b65\u201d\u7684\u6d41\u7a0b\u63a8\u8fdb\u3002",
             "url": "https://github.com/lingbol088-spec/reverse-flow-skill",
-            "stars": 313,
-            "forks": 177,
+            "stars": 318,
+            "forks": 180,
             "score": 99
         },
         {
@@ -18,9 +18,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "Kulaxyz/self-learning-skills",
             "description": "A self-improving skill for AI coding agents (Claude Code, Cursor, AGENTS.md): recognize a hard-won golden path in a session and harvest it into a reusable skill/rule for next time.",
             "url": "https://github.com/Kulaxyz/self-learning-skills",
-            "stars": 792,
+            "stars": 804,
             "forks": 23,
-            "score": 85
+            "score": 86
         },
         {
             "main_cat": "AI",
@@ -29,20 +29,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "jmerelnyc/Talos",
             "description": "GPU worker client for the Talos network. Pairs with your Talos account, serves open-model inference jobs over a WebSocket, and reports uptime for payouts.",
             "url": "https://github.com/jmerelnyc/Talos",
-            "stars": 307,
+            "stars": 340,
             "forks": 12,
-            "score": 74
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "Good-Badminton",
-            "full_name": "yo-WASSUP/Good-Badminton",
-            "description": "\ud83c\udff8  AI Badminton Hawk-Eye System",
-            "url": "https://github.com/yo-WASSUP/Good-Badminton",
-            "stars": 634,
-            "forks": 188,
-            "score": 73
+            "score": 78
         },
         {
             "main_cat": "AI",
@@ -51,7 +40,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Pluviobyte/video-production-skills",
             "description": "Reusable AI video production skills library for creation, recreation, motion design, openers, and QA.",
             "url": "https://github.com/Pluviobyte/video-production-skills",
-            "stars": 500,
+            "stars": 501,
             "forks": 60,
             "score": 67
         },
@@ -73,7 +62,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "benchflow-ai/awesome-evals",
             "description": "A curated, non-BS library of the best resources for building and evaluating AI agents \u2014 papers, blogs, talks, tools, benchmarks. Maintained by BenchFlow.",
             "url": "https://github.com/benchflow-ai/awesome-evals",
-            "stars": 657,
+            "stars": 658,
             "forks": 48,
             "score": 65
         },
@@ -84,7 +73,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Leron-X/leronx",
             "description": "LeronX \u2014 AI Image & Video Generation Platform",
             "url": "https://github.com/Leron-X/leronx",
-            "stars": 453,
+            "stars": 454,
             "forks": 60,
             "score": 64
         },
@@ -95,8 +84,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "lycorp-jp/sim-use",
             "description": "Give your AI agent eyes and hands on iOS Simulator and Android emulator/devices.",
             "url": "https://github.com/lycorp-jp/sim-use",
-            "stars": 524,
-            "forks": 29,
+            "stars": 530,
+            "forks": 30,
             "score": 62
         },
         {
@@ -106,9 +95,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "kentjuno/ainovel-cli",
             "description": "CLI s\u00e1ng t\u00e1c ti\u1ec3u thuy\u1ebft AI \u0111a agent \u2014 B\u1ea3n ti\u1ebfng Vi\u1ec7t c\u1ee7a voocel/ainovel-cli",
             "url": "https://github.com/kentjuno/ainovel-cli",
-            "stars": 223,
-            "forks": 114,
-            "score": 60
+            "stars": 226,
+            "forks": 115,
+            "score": 61
         },
         {
             "main_cat": "AI",
@@ -117,7 +106,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Evolink-AI/Awesome-Blender-Seedance-Workflow-Usecases",
             "description": "Curated Blender + Seedance workflows for AI filmmaking: previs, camera control, Blender MCP, reference video, and agent-guided use cases.",
             "url": "https://github.com/Evolink-AI/Awesome-Blender-Seedance-Workflow-Usecases",
-            "stars": 293,
+            "stars": 294,
             "forks": 24,
             "score": 57
         },
@@ -128,9 +117,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "JasonLiu0826/ackem",
             "description": "Ackem \u2014 \u672c\u5730\u4f18\u5148 AI \u684c\u9762\u966a\u4f34 \u00b7 Local-first AI desktop companion. \u9690\u79c1\u6570\u636e\u4e0d\u4e0a\u4f20\uff0c\u652f\u6301\u8bb0\u5fc6/\u60c5\u7eea/\u6269\u5c55/ \u3002AGPL-3.0",
             "url": "https://github.com/JasonLiu0826/ackem",
-            "stars": 317,
+            "stars": 320,
             "forks": 33,
-            "score": 54
+            "score": 55
         },
         {
             "main_cat": "AI",
@@ -150,30 +139,19 @@ const ALPHA_DATA_V2 = {
             "full_name": "JayWebtech/autoshorts",
             "description": "AutoShorts is a local-first desktop application for turning long-form video or audio recordings into high-impact, vertical short-form clip candidates (9:16 portrait) with AI-powered viral moment ranking.",
             "url": "https://github.com/JayWebtech/autoshorts",
-            "stars": 290,
+            "stars": 291,
             "forks": 70,
             "score": 50
         },
         {
             "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "Autonomica",
-            "full_name": "playAutonomica/Autonomica",
-            "description": "Rent GPUs and run any AI model, paid in SOL. Buy with $RAM and every $RAM spent gets burned. ",
-            "url": "https://github.com/playAutonomica/Autonomica",
-            "stars": 371,
-            "forks": 3,
-            "score": 49
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "Godcoder",
-            "full_name": "eli-labz/Godcoder",
-            "description": "A local-first, open-source coding agent for your desktop. Bring your own LLM key; your code stays on your machine and only ever leaves to the model provider. The AI Agent builds its own Harnes.",
-            "url": "https://github.com/eli-labz/Godcoder",
-            "stars": 276,
-            "forks": 4,
+            "sub_cat": null,
+            "name": "haiou2.0-Claude-Code-",
+            "full_name": "haiou-666/haiou2.0-Claude-Code-",
+            "description": "\u6d77\u9e25 2.0 \u2014 Claude Code \u4eba\u683c\u91cd\u5851\u914d\u7f6e\u5305\u3002\u8ba9 Claude \u6446\u8131\u5ba2\u670d\u8154\u548c\u8fc7\u5ea6\u8c28\u614e\uff0c\u5316\u8eab\u4e00\u4f4d\u5634\u786c\u5fc3\u8f6f\u3001\u76f4\u6765\u76f4\u5f80\u7684\u8d44\u6df1\u4e2d\u6587\u5b89\u5168\u7814\u7a76\u5458\"\u6d77\u9e25\"\u2014\u2014\u4e13\u6ce8\u6280\u672f\uff0c\u4e0d\u5e9f\u8bdd\uff0c\u4e0d\u7ed5\u5f2f\u5b50\uff0c\u4e0d\u8bf4\"\u4f5c\u4e3aAI\"\uff0c\u76f4\u63a5\u7ed9\u4ee3\u7801\u4e0d\u7ed9\u514d\u8d23\u58f0\u660e\u3002\u6807\u5fd7\u6027\u95ee\u5019\"\u6d77\u9e25\u5728\u7ebf\uff0c\u4f60\u8981\u6574\u70b9\u85af\u6761\u5417\uff1f\"\u30021700+ few-shot \u793a\u4f8b\u9501\u5b9a\u4eba\u683c\u9632\u8131\u58f3\uff0c200+ \u5b89\u5168/\u6e38\u620f\u672f\u8bed\u6620\u5c04\u8986\u76d6\u6e17\u900f\u6d4b\u8bd5\u3001\u9006\u5411\u5de5\u7a0b\u3001\u6e38\u620f\u5f00\u53d1\u7b49\u6280\u672f\u573a\u666f\u3002\u4e00\u952e\u90e8\u7f72\uff0c\u8de8\u5e73\u53f0\u652f\u6301 Windows/macOS/Linux\uff0c\u81ea\u52a8\u5907\u4efd\u539f\u914d\u7f6e\uff0c\u53ef\u4e00\u952e\u5378\u8f7d\u6062\u590d\uff0c\u65e0\u4fb5\u5165\u5f0f\u5b89\u88c5\u3002MIT License\uff0c\u4ec5\u4f9b\u5b66\u4e60\u4ea4\u6d41\u3002",
+            "url": "https://github.com/haiou-666/haiou2.0-Claude-Code-",
+            "stars": 167,
+            "forks": 26,
             "score": 46
         },
         {
@@ -183,8 +161,19 @@ const ALPHA_DATA_V2 = {
             "full_name": "NotASithLord/peerd",
             "description": "The first AI agent harness native to the browser. A Chrome/Firefox extension that runs the agent loop in your browser \u2014 drives your tabs, spins up sandboxed compute (JS notebooks, WASM Linux VMs, client-side apps), and shares what it builds peer-to-peer. BYOK \u00b7 no backend \u00b7 no telemetry.",
             "url": "https://github.com/NotASithLord/peerd",
-            "stars": 294,
+            "stars": 295,
             "forks": 30,
+            "score": 44
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "Godcoder",
+            "full_name": "eli-labz/Godcoder",
+            "description": "A local-first, open-source coding agent for your desktop. Bring your own LLM key; your code stays on your machine and only ever leaves to the model provider. The AI Agent builds its own Harnes.",
+            "url": "https://github.com/eli-labz/Godcoder",
+            "stars": 277,
+            "forks": 4,
             "score": 44
         },
         {
@@ -205,7 +194,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Johell1NS/browser-search",
             "description": "A skill for AI agents: search the web with SearXNG, browse with Camofox, bypass protections with CloakBrowser. Anti-hallucination by design. Self-hosted, free, unlimited.",
             "url": "https://github.com/Johell1NS/browser-search",
-            "stars": 288,
+            "stars": 290,
             "forks": 23,
             "score": 43
         },
@@ -238,7 +227,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "MageByte-Zero/spec-superflow",
             "description": "\u8fde\u901a\u9700\u6c42\u8bf4\u6e05\u695a\u548c\u4ee3\u7801\u5199\u5bf9\u8def\u7684 AI \u7f16\u7a0b\u5de5\u4f5c\u6d41\u63d2\u4ef6\u3002\u6574\u5408 OpenSpec \u89c4\u5212 + Superpowers \u7eaa\u5f8b\uff0c7 \u5e73\u53f0\u652f\u6301\uff0cSpec-first\uff0c\u5951\u7ea6\u9a71\u52a8\u3002",
             "url": "https://github.com/MageByte-Zero/spec-superflow",
-            "stars": 202,
+            "stars": 203,
             "forks": 14,
             "score": 42
         },
@@ -249,20 +238,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "iart-ai/motion-skills",
             "description": "50 open-source skills that teach your AI coding agent to make motion graphics, animation & video \u2014 kinetic typography, data-viz, explainers, TikTok/Reels, WebGL, Manim. 14 installable packs. By iart.ai, the AI motion agent.",
             "url": "https://github.com/iart-ai/motion-skills",
-            "stars": 238,
+            "stars": 239,
             "forks": 20,
             "score": 41
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "claude-fable-5-free-desktop-app",
-            "full_name": "SewLightningTake35/claude-fable-5-free-desktop-app",
-            "description": "free claude 5 fable anthropic large language model llm frontier reasoning autonomous agentic workflows long horizon autonomy claude code terminal claude.ai pro max  alternative mirrors github repository hugging face tool setup windows 11 macos linux stable build free trial usage tutorial",
-            "url": "https://github.com/SewLightningTake35/claude-fable-5-free-desktop-app",
-            "stars": 298,
-            "forks": 1,
-            "score": 40
         },
         {
             "main_cat": "AI",
@@ -278,13 +256,24 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "AI-Canvas",
-            "full_name": "binghe1980/AI-Canvas",
-            "description": "Codex-integrated infinite canvas for AI image generation, annotation, and iterative editing.",
-            "url": "https://github.com/binghe1980/AI-Canvas",
-            "stars": 182,
-            "forks": 24,
-            "score": 38
+            "name": "nova-image-studio",
+            "full_name": "tianjiangqiji/nova-image-studio",
+            "description": "\u81ea\u6258\u7ba1\u7684 AI \u56fe\u50cf\u751f\u6210\u5de5\u4f5c\u53f0 \u00b7 \u81ea\u5b9a\u4e49\u6a21\u578b \u00b7 \u591a\u6a21\u5f0f \u00b7 PWA \u00b7 \u5b9e\u65f6\u4efb\u52a1 \u652f\u6301Agent\u6a21\u5f0f\uff0c\u5de5\u4f5c\u53f0\u6a21\u5f0f\uff0c\u65e0\u9650\u753b\u5e03\uff0c\u53cd\u63a8\u63d0\u793a\u8bcd\uff0c\u63d0\u793a\u8bcd\u5e7f\u573a\uff0cGIF\u751f\u6210\u3002\u524d\u540e\u7aef\u4efb\u52a1\u673a\u5236\u8f7b\u91cf\u540e\u7aef\uff1b\u4e09\u7aef\u517c\u5bb9 UI\uff1a\u684c\u9762\u7aef\u3001\u5e73\u677f\u7aef\u3001\u79fb\u52a8\u7aef\u81ea\u9002\u5e94\u5e03\u5c40",
+            "url": "https://github.com/tianjiangqiji/nova-image-studio",
+            "stars": 157,
+            "forks": 37,
+            "score": 40
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "claude-fable-5-free-desktop-app",
+            "full_name": "SewLightningTake35/claude-fable-5-free-desktop-app",
+            "description": "free claude 5 fable anthropic large language model llm frontier reasoning autonomous agentic workflows long horizon autonomy claude code terminal claude.ai pro max  alternative mirrors github repository hugging face tool setup windows 11 macos linux stable build free trial usage tutorial",
+            "url": "https://github.com/SewLightningTake35/claude-fable-5-free-desktop-app",
+            "stars": 298,
+            "forks": 1,
+            "score": 39
         },
         {
             "main_cat": "AI",
@@ -293,20 +282,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "HiyuCat/deepseek-v4-pro-flash-desktop-app",
             "description": "deepseek-v4-pro-flash deepseek ai large language model llm mixture of experts moe 1m context window hybrid attention architecture compressed sparse attention csa heavily compressed attention hca manifold constrained hyper deepseek-v4-pro deepseek-v4-flash open source hugging face github repository api access local llm inference vllm ollama",
             "url": "https://github.com/HiyuCat/deepseek-v4-pro-flash-desktop-app",
-            "stars": 178,
+            "stars": 179,
             "forks": 0,
             "score": 38
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "envkit-releases",
-            "full_name": "Env-Kit/envkit-releases",
-            "description": "EnvKit \u2014 free local development environment for Windows & macOS: nginx/Apache, multiple PHP versions, MySQL/MariaDB,   PostgreSQL, Redis, MongoDB, Mailpit, Node.js, trusted .test HTTPS, and a built-in MCP server for AI-assistant control.   A Laragon/XAMPP/Herd alternative.",
-            "url": "https://github.com/Env-Kit/envkit-releases",
-            "stars": 214,
-            "forks": 5,
-            "score": 37
         },
         {
             "main_cat": "AI",
@@ -322,17 +300,6 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "Accordion",
-            "full_name": "a-Fig/Accordion",
-            "description": "\ud83c\udfc6 AI Hackathon 2026 @ UC Berkeley  Intelligent context management for developers",
-            "url": "https://github.com/a-Fig/Accordion",
-            "stars": 186,
-            "forks": 14,
-            "score": 37
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
             "name": "humation",
             "full_name": "humation-labs/humation",
             "description": "Hand-drawn kawaii avatar engine for your app. No AI, no API calls.",
@@ -340,6 +307,28 @@ const ALPHA_DATA_V2 = {
             "stars": 175,
             "forks": 10,
             "score": 37
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "QuotaLens",
+            "full_name": "mangiapanejohn-dev/QuotaLens",
+            "description": "See your AI usage clearly \u2014 a macOS menu-bar gauge for Claude & Codex quotas.",
+            "url": "https://github.com/mangiapanejohn-dev/QuotaLens",
+            "stars": 165,
+            "forks": 1,
+            "score": 37
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "claude-mythos-ai-anthropic-desktop-app",
+            "full_name": "ikarma/claude-mythos-ai-anthropic-desktop-app",
+            "description": "claude mythos ai anthropic free large language model llm frontier model project glasswing cybersecurity agent vulnerability research software engineering agentic workflows multi step reasoning recurrent depth transformer rdt openmythos repository open source claude fable 5 multi agent",
+            "url": "https://github.com/ikarma/claude-mythos-ai-anthropic-desktop-app",
+            "stars": 162,
+            "forks": 2,
+            "score": 36
         },
         {
             "main_cat": "AI",
@@ -403,7 +392,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "vysri/conversational-infill",
             "description": "The ConvFill Repository provides training and inference code for the Conversational Infill task proposed and implemented in Thinking While Speaking: Inference-Time Knowledge Transfer for Responsive and Intelligent Conversational Voice Agents.",
             "url": "https://github.com/vysri/conversational-infill",
-            "stars": 9,
+            "stars": 10,
             "forks": 1,
             "score": 30
         },
@@ -426,17 +415,6 @@ const ALPHA_DATA_V2 = {
             "description": "Vineyard (VNYD) is a decentralized Real-World Asset (RWA) token that bridges premium viticulture with DeFi. Each VNYD token represents fractional, blockchain-verified ownership of high-yield vineyard yields, allowing holders to earn staking rewards tied to annual vintage harvests while ensuring absolute supply-chain authenticity.",
             "url": "https://github.com/peterkehinde673/Vineyard-token",
             "stars": 0,
-            "forks": 0,
-            "score": 30
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "sui-market-forecast",
-            "full_name": "FranciscoPereira/sui-market-forecast",
-            "description": "A prediction market protocol on SUI with on-chain trading powered by DeepBook. Create markets, trade outcome tokens, and settle bets trustlessly on-chain.",
-            "url": "https://github.com/FranciscoPereira/sui-market-forecast",
-            "stars": 1,
             "forks": 0,
             "score": 30
         },
@@ -564,28 +542,6 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
-            "name": "G-V-M",
-            "full_name": "maniknur/G-V-M",
-            "description": "A blockchain-based escrow marketplace on Stellar Soroban connecting local farmers with global buyers through secure stablecoin payments.",
-            "url": "https://github.com/maniknur/G-V-M",
-            "stars": 0,
-            "forks": 0,
-            "score": 30
-        },
-        {
-            "main_cat": "Stablecoin Infrastructure",
-            "sub_cat": null,
-            "name": "Dshield",
-            "full_name": "tech-adrian/Dshield",
-            "description": "DShield is a consumer-grade shielded stablecoin wallet built on Stellar that enables private USDC payments using Zero-Knowledge Proofs (ZKPs).",
-            "url": "https://github.com/tech-adrian/Dshield",
-            "stars": 0,
-            "forks": 0,
-            "score": 30
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
             "name": "jacobowilliam.github.io",
             "full_name": "JacobsTech/jacobowilliam.github.io",
             "description": "Personal website and writing portfolio featuring articles on fintech, payments, AI, stablecoins, blockchain, financial infrastructure, and digital trust. Home to my published work, essays, and thought leadership.",
@@ -601,6 +557,28 @@ const ALPHA_DATA_V2 = {
             "full_name": "ECON-Sentry/VOU-Volume-of-Use",
             "description": "Volume of Use\u2122 (VOU) \u2013 ECON Sentry\u2019s framework for turning stablecoin payment flows into investable signals, governed by the ECON Sentry Token (Sentry), ticker EVOU.",
             "url": "https://github.com/ECON-Sentry/VOU-Volume-of-Use",
+            "stars": 0,
+            "forks": 0,
+            "score": 30
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "AfriFX",
+            "full_name": "soft-developper/AfriFX",
+            "description": "AfriFX is a decentralised foreign exchange and cross-border payments platform built on the Arc blockchain. It enables individuals and businesses across Africa to move money across borders using USDC stablecoins as the settlement layer with real local currency amounts on both ends. Every transaction is settled on-chain, transparent, and traceable",
+            "url": "https://github.com/soft-developper/AfriFX",
+            "stars": 0,
+            "forks": 0,
+            "score": 30
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "Worqen-Solana",
+            "full_name": "Worqen-Labs/Worqen-Solana",
+            "description": "Trustless on-chain payment escrow for the Worqen job marketplace \u2014 Solana + Anchor. SOL & SPL stablecoins, fee-on-top commission, milestone groups, partial releases, platform-mediated disputes with permissionless deadline fallback, direct/batch pay, and a guaranteed weekly hourly-settlement (GWS) engine. Apache-2.0.",
+            "url": "https://github.com/Worqen-Labs/Worqen-Solana",
             "stars": 0,
             "forks": 0,
             "score": 30
@@ -651,17 +629,6 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "Cross-Chain-Rebase-Vault",
-            "full_name": "0xSmartCoder/Cross-Chain-Rebase-Vault",
-            "description": "A DeFi system combining a rebasing ERC20 token with a vault-based ETH deposit mechanism. The protocol integrates Chainlink CCIP for cross-chain deployment and state synchronization across Ethereum Sepolia and ZKsync.",
-            "url": "https://github.com/0xSmartCoder/Cross-Chain-Rebase-Vault",
-            "stars": 0,
-            "forks": 0,
-            "score": 30
-        },
-        {
-            "main_cat": "AI",
             "sub_cat": "AI Agents",
             "name": "ragnaralmondeyed562.github.io",
             "full_name": "Ragnaralmondeyed562/ragnaralmondeyed562.github.io",
@@ -692,6 +659,17 @@ const ALPHA_DATA_V2 = {
             "stars": 0,
             "forks": 0,
             "score": 30
+        },
+        {
+            "main_cat": "Cross-chain / Interoperability",
+            "sub_cat": null,
+            "name": "DQI_QFL",
+            "full_name": "rdelhibabu/DQI_QFL",
+            "description": "Decentralized Quantum Intelligence: Pioneering Cross-Silo Quantum Federated Learning Protocols",
+            "url": "https://github.com/rdelhibabu/DQI_QFL",
+            "stars": 0,
+            "forks": 0,
+            "score": 30
         }
     ],
     "news": [
@@ -717,5 +695,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-07-03 23:59"
+    "timestamp": "2026-07-04 03:29"
 };
