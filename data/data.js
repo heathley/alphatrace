@@ -40,9 +40,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "HKUDS/OpenOPC",
             "description": "OpenOPC: Build Your Personal AI-Native Company \u2014 Self-Built, Self-Run, Self-Grown",
             "url": "https://github.com/HKUDS/OpenOPC",
-            "stars": 369,
-            "forks": 42,
-            "score": 68
+            "stars": 374,
+            "forks": 43,
+            "score": 69
         },
         {
             "main_cat": "AI",
@@ -51,9 +51,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "Pluviobyte/rnskill",
             "description": "\u96ea\u8e0f\u4e4c\u4e91\u7684 AI Agent Skills \u96c6\u5408",
             "url": "https://github.com/Pluviobyte/rnskill",
-            "stars": 181,
+            "stars": 188,
             "forks": 19,
-            "score": 62
+            "score": 63
         },
         {
             "main_cat": "AI",
@@ -84,7 +84,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Leron-X/leronx",
             "description": "LeronX \u2014 AI Image & Video Generation Platform",
             "url": "https://github.com/Leron-X/leronx",
-            "stars": 477,
+            "stars": 479,
             "forks": 61,
             "score": 60
         },
@@ -128,7 +128,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "JasonLiu0826/ackem",
             "description": "Ackem \u2014 \u672c\u5730\u4f18\u5148 AI \u684c\u9762\u966a\u4f34 \u00b7 Local-first AI desktop companion. \u9690\u79c1\u6570\u636e\u4e0d\u4e0a\u4f20\uff0c\u652f\u6301\u8bb0\u5fc6/\u60c5\u7eea/\u6269\u5c55/ \u3002AGPL-3.0",
             "url": "https://github.com/JasonLiu0826/ackem",
-            "stars": 350,
+            "stars": 352,
             "forks": 35,
             "score": 52
         },
@@ -194,7 +194,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "oomol-lab/open-connector",
             "description": "Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAPI.",
             "url": "https://github.com/oomol-lab/open-connector",
-            "stars": 226,
+            "stars": 228,
             "forks": 10,
             "score": 44
         },
@@ -205,7 +205,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "NotASithLord/peerd",
             "description": "The first AI agent harness native to the browser. A Chrome/Firefox extension that runs the agent loop in your browser \u2014 drives your tabs, spins up sandboxed compute (JS notebooks, WASM Linux VMs, client-side apps), and shares what it builds peer-to-peer. BYOK \u00b7 no backend \u00b7 no telemetry.",
             "url": "https://github.com/NotASithLord/peerd",
-            "stars": 311,
+            "stars": 313,
             "forks": 31,
             "score": 43
         },
@@ -282,8 +282,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "iart-ai/motion-skills",
             "description": "50 open-source skills that teach your AI coding agent to make motion graphics, animation & video \u2014 kinetic typography, data-viz, explainers, TikTok/Reels, WebGL, Manim. 14 installable packs. By iart.ai, the AI motion agent.",
             "url": "https://github.com/iart-ai/motion-skills",
-            "stars": 244,
-            "forks": 20,
+            "stars": 245,
+            "forks": 19,
             "score": 40
         },
         {
@@ -294,7 +294,7 @@ const ALPHA_DATA_V2 = {
             "description": "Wireshark for MCP. A transparent proxy that shows every real tool call between your AI client and your MCP servers, live in your terminal.",
             "url": "https://github.com/kerlenton/mcpsnoop",
             "stars": 193,
-            "forks": 8,
+            "forks": 9,
             "score": 40
         },
         {
@@ -372,7 +372,7 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/InfiniteWhispers/HermesAgent-MultiModel",
             "stars": 49,
             "forks": 7,
-            "score": 34
+            "score": 33
         },
         {
             "main_cat": "AI",
@@ -717,5 +717,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-07-05 21:55"
+    "timestamp": "2026-07-05 22:57"
 };
