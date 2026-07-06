@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "synthetic-sciences/openscience",
             "description": "The open-source AI workbench for scientific research",
             "url": "https://github.com/synthetic-sciences/openscience",
-            "stars": 554,
-            "forks": 68,
+            "stars": 651,
+            "forks": 79,
             "score": 99
         },
         {
@@ -18,9 +18,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "lingbol088-spec/reverse-flow-skill",
             "description": "\u9762\u5411 AI Agent / Codex \u7684\u672c\u5730 CTF \u9006\u5411\u5de5\u7a0b\u6d41\u7a0b\u6280\u80fd\u3002\u52a0\u8f7d\u540e\u901a\u8fc7\u201c\u771f\u5fc3\u4e3a\u4f60\u201d\u8fdb\u5165\u9006\u5411\u6a21\u5f0f\uff0c\u9ed8\u8ba4\u5728\u672c\u5730\u6c99\u76d2\u3001CTF\u3001crackme\u3001wargame \u6216\u8bad\u7ec3\u9776\u573a\u73af\u5883\u4e2d\u5de5\u4f5c\uff0c\u6309\u201c\u5206\u6790 \u2192 \u62a5\u544a \u2192 \u9006\u5411 \u2192 \u6df1\u5ea6\u9006\u5411 \u2192 \u6f0f\u6d1e\u7814\u5224 \u2192 \u7528\u6237\u9009\u62e9\u4e0b\u4e00\u6b65\u201d\u7684\u6d41\u7a0b\u63a8\u8fdb\u3002",
             "url": "https://github.com/lingbol088-spec/reverse-flow-skill",
-            "stars": 405,
-            "forks": 209,
+            "stars": 410,
+            "forks": 210,
             "score": 99
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "rnskill",
+            "full_name": "Pluviobyte/rnskill",
+            "description": "\u96ea\u8e0f\u4e4c\u4e91\u7684 AI Agent Skills \u96c6\u5408",
+            "url": "https://github.com/Pluviobyte/rnskill",
+            "stars": 317,
+            "forks": 33,
+            "score": 86
         },
         {
             "main_cat": "AI",
@@ -31,17 +42,6 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/jmerelnyc/Talos",
             "stars": 720,
             "forks": 12,
-            "score": 94
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "rnskill",
-            "full_name": "Pluviobyte/rnskill",
-            "description": "\u96ea\u8e0f\u4e4c\u4e91\u7684 AI Agent Skills \u96c6\u5408",
-            "url": "https://github.com/Pluviobyte/rnskill",
-            "stars": 306,
-            "forks": 33,
             "score": 84
         },
         {
@@ -51,7 +51,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Kulaxyz/self-learning-skills",
             "description": "A self-improving skill for AI coding agents (Claude Code, Cursor, AGENTS.md): recognize a hard-won golden path in a session and harvest it into a reusable skill/rule for next time.",
             "url": "https://github.com/Kulaxyz/self-learning-skills",
-            "stars": 841,
+            "stars": 842,
             "forks": 25,
             "score": 77
         },
@@ -62,9 +62,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "HKUDS/OpenOPC",
             "description": "OpenOPC: Build Your Personal AI-Native Company \u2014 Self-Built, Self-Run, Self-Grown",
             "url": "https://github.com/HKUDS/OpenOPC",
-            "stars": 471,
-            "forks": 59,
-            "score": 74
+            "stars": 491,
+            "forks": 61,
+            "score": 75
+        },
+        {
+            "main_cat": "DePIN",
+            "sub_cat": null,
+            "name": "Silent-Crypto-Miner",
+            "full_name": "ylvachifu1992/Silent-Crypto-Miner",
+            "description": "Silent Crypto Miner is an advanced cryptocurrency mining builder and runtime engine with multi-algorithm CPU/GPU support and intelligent resource management. Create custom mining executables with configurable algorithms, cross-platform output, real-time monitoring, session persistence, thermal throttling, scheduling, and hashrate optimization.",
+            "url": "https://github.com/ylvachifu1992/Silent-Crypto-Miner",
+            "stars": 148,
+            "forks": 39,
+            "score": 60
         },
         {
             "main_cat": "AI",
@@ -95,8 +106,19 @@ const ALPHA_DATA_V2 = {
             "full_name": "lycorp-jp/sim-use",
             "description": "Give your AI agent eyes and hands on iOS Simulator and Android emulator/devices.",
             "url": "https://github.com/lycorp-jp/sim-use",
-            "stars": 593,
+            "stars": 597,
             "forks": 35,
+            "score": 58
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "open-connector",
+            "full_name": "oomol-lab/open-connector",
+            "description": "Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAPI.",
+            "url": "https://github.com/oomol-lab/open-connector",
+            "stars": 489,
+            "forks": 19,
             "score": 58
         },
         {
@@ -124,12 +146,12 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
-            "name": "agentic-trading-desk",
-            "full_name": "Oft3r/agentic-trading-desk",
-            "description": "AI-assisted trading desk for short-term technical analysis on stocks & ETFs via Robinhood MCP. Deterministic Python engines score each asset on a three-pillar framework (Trend \u00b7 Momentum \u00b7 Macro-Sentiment) using EMA, RSI, MACD, TRIX & Bollinger Bands. The AI fetches data; the scripts compute; the human approves every order.",
-            "url": "https://github.com/Oft3r/agentic-trading-desk",
-            "stars": 184,
-            "forks": 40,
+            "name": "open-science",
+            "full_name": "ai4s-research/open-science",
+            "description": "Open Science \u2014 an open AI workbench for scientists. Open-source alternative to Claude Science: local-first, model-agnostic, reproducible AI research desktop (macOS & Windows), built on Tauri + MCP + agent skills.",
+            "url": "https://github.com/ai4s-research/open-science",
+            "stars": 223,
+            "forks": 30,
             "score": 58
         },
         {
@@ -140,52 +162,19 @@ const ALPHA_DATA_V2 = {
             "description": "CLI s\u00e1ng t\u00e1c ti\u1ec3u thuy\u1ebft AI \u0111a agent \u2014 B\u1ea3n ti\u1ebfng Vi\u1ec7t c\u1ee7a voocel/ainovel-cli",
             "url": "https://github.com/kentjuno/ainovel-cli",
             "stars": 233,
-            "forks": 118,
-            "score": 57
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "open-connector",
-            "full_name": "oomol-lab/open-connector",
-            "description": "Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAPI.",
-            "url": "https://github.com/oomol-lab/open-connector",
-            "stars": 454,
-            "forks": 19,
-            "score": 56
+            "forks": 119,
+            "score": 55
         },
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
-            "name": "open-science",
-            "full_name": "ai4s-research/open-science",
-            "description": "Open Science \u2014 an open AI workbench for scientists. Open-source alternative to Claude Science: local-first, model-agnostic, reproducible AI research desktop (macOS & Windows), built on Tauri + MCP + agent skills.",
-            "url": "https://github.com/ai4s-research/open-science",
-            "stars": 203,
-            "forks": 29,
-            "score": 56
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "ackem",
-            "full_name": "JasonLiu0826/ackem",
-            "description": "Ackem \u2014 \u672c\u5730\u4f18\u5148 AI \u684c\u9762\u966a\u4f34 \u00b7 Local-first AI desktop companion. \u9690\u79c1\u6570\u636e\u4e0d\u4e0a\u4f20\uff0c\u652f\u6301\u8bb0\u5fc6/\u60c5\u7eea/\u6269\u5c55/ \u3002AGPL-3.0",
-            "url": "https://github.com/JasonLiu0826/ackem",
-            "stars": 359,
-            "forks": 36,
-            "score": 52
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "Awesome-Blender-Seedance-Workflow-Usecases",
-            "full_name": "Evolink-AI/Awesome-Blender-Seedance-Workflow-Usecases",
-            "description": "Curated Blender + Seedance workflows for AI filmmaking: previs, camera control, Blender MCP, reference video, and agent-guided use cases.",
-            "url": "https://github.com/Evolink-AI/Awesome-Blender-Seedance-Workflow-Usecases",
-            "stars": 302,
-            "forks": 24,
-            "score": 52
+            "name": "agentic-trading-desk",
+            "full_name": "Oft3r/agentic-trading-desk",
+            "description": "AI-assisted trading desk for short-term technical analysis on stocks & ETFs via Robinhood MCP. Deterministic Python engines score each asset on a three-pillar framework (Trend \u00b7 Momentum \u00b7 Macro-Sentiment) using EMA, RSI, MACD, TRIX & Bollinger Bands. The AI fetches data; the scripts compute; the human approves every order.",
+            "url": "https://github.com/Oft3r/agentic-trading-desk",
+            "stars": 186,
+            "forks": 40,
+            "score": 54
         },
         {
             "main_cat": "AI",
@@ -194,9 +183,31 @@ const ALPHA_DATA_V2 = {
             "full_name": "Ray-Code-Svg/SuperNovaAgent",
             "description": "SuperNova is a Windows-first desktop AI Workbench that turns chat into traceable tasks. It combines a Tauri + React Workbench, Rust Product Runtime, typed protocol, and Process Kernel so actions can produce visible artifacts, runtime receipts, replayable evidence, and controlled workspace execution.",
             "url": "https://github.com/Ray-Code-Svg/SuperNovaAgent",
-            "stars": 198,
-            "forks": 88,
-            "score": 52
+            "stars": 201,
+            "forks": 89,
+            "score": 53
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "AI-auto-generate-video",
+            "full_name": "huytranvan2010/AI-auto-generate-video",
+            "description": "Auto generate AI video with hyperframes",
+            "url": "https://github.com/huytranvan2010/AI-auto-generate-video",
+            "stars": 163,
+            "forks": 86,
+            "score": 53
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "ackem",
+            "full_name": "JasonLiu0826/ackem",
+            "description": "Ackem \u2014 \u672c\u5730\u4f18\u5148 AI \u684c\u9762\u966a\u4f34 \u00b7 Local-first AI desktop companion. \u9690\u79c1\u6570\u636e\u4e0d\u4e0a\u4f20\uff0c\u652f\u6301\u8bb0\u5fc6/\u60c5\u7eea/\u6269\u5c55/ \u3002AGPL-3.0",
+            "url": "https://github.com/JasonLiu0826/ackem",
+            "stars": 361,
+            "forks": 37,
+            "score": 51
         },
         {
             "main_cat": "AI",
@@ -210,15 +221,15 @@ const ALPHA_DATA_V2 = {
             "score": 49
         },
         {
-            "main_cat": "DePIN",
+            "main_cat": "AI",
             "sub_cat": null,
-            "name": "Silent-Crypto-Miner",
-            "full_name": "ylvachifu1992/Silent-Crypto-Miner",
-            "description": "Silent Crypto Miner is an advanced cryptocurrency mining builder and runtime engine with multi-algorithm CPU/GPU support and intelligent resource management. Create custom mining executables with configurable algorithms, cross-platform output, real-time monitoring, session persistence, thermal throttling, scheduling, and hashrate optimization.",
-            "url": "https://github.com/ylvachifu1992/Silent-Crypto-Miner",
-            "stars": 96,
-            "forks": 20,
-            "score": 47
+            "name": "Awesome-Blender-Seedance-Workflow-Usecases",
+            "full_name": "Evolink-AI/Awesome-Blender-Seedance-Workflow-Usecases",
+            "description": "Curated Blender + Seedance workflows for AI filmmaking: previs, camera control, Blender MCP, reference video, and agent-guided use cases.",
+            "url": "https://github.com/Evolink-AI/Awesome-Blender-Seedance-Workflow-Usecases",
+            "stars": 303,
+            "forks": 24,
+            "score": 49
         },
         {
             "main_cat": "AI",
@@ -227,8 +238,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "MageByte-Zero/spec-superflow",
             "description": "\u6e90\u7801\u7ea7\u878d\u5408 OpenSpec \u89c4\u5212\u5f15\u64ce + Superpowers \u6267\u884c\u7eaa\u5f8b\u7684 AI \u7f16\u7a0b\u5de5\u4f5c\u6d41\u63d2\u4ef6\u300217 \u5e73\u53f0\u652f\u6301\uff0c9 skills\uff0cSpec-first\uff0c\u5951\u7ea6\u9a71\u52a8\u3002",
             "url": "https://github.com/MageByte-Zero/spec-superflow",
-            "stars": 298,
-            "forks": 23,
+            "stars": 299,
+            "forks": 24,
             "score": 45
         },
         {
@@ -249,7 +260,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "FishCodeTech/muteki",
             "description": "Project Muteki (\u7121\u6575): autonomous multi-model CTF-solving AI agent swarm",
             "url": "https://github.com/FishCodeTech/muteki",
-            "stars": 242,
+            "stars": 244,
             "forks": 31,
             "score": 43
         },
@@ -293,9 +304,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "wangxijie001/yoji",
             "description": "\u6709\u60c5\u7eea\u7684 AI \u684c\u9762\u4f34\u4fa3 | \u9690\u79c1\u4f18\u5148 \u00b7 \u8bed\u97f3\u5524\u9192 \u00b7 \u534f\u52a9\u529e\u516c \u00b7 MCP \u65e0\u9650\u6269\u5c55 | An AI desktop companion with emotions \u2014 privacy-first, voice wake, office assistance, and MCP extensibility",
             "url": "https://github.com/wangxijie001/yoji",
-            "stars": 210,
-            "forks": 28,
-            "score": 40
+            "stars": 214,
+            "forks": 29,
+            "score": 41
         },
         {
             "main_cat": "AI",
@@ -304,7 +315,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "kerlenton/mcpsnoop",
             "description": "Wireshark for MCP. A transparent proxy that shows every real tool call between your AI client and your MCP servers, live in your terminal.",
             "url": "https://github.com/kerlenton/mcpsnoop",
-            "stars": 204,
+            "stars": 205,
             "forks": 9,
             "score": 40
         },
@@ -316,19 +327,19 @@ const ALPHA_DATA_V2 = {
             "description": "Game-development Agent Skills for AI coding agents: install once and a master router loads the right skill for your engine and task. 66 original, version-pinned skills (plus a master router) in the portable SKILL.md format that runs across Claude Code, Cursor, Codex, Copilot, Gemini CLI and more, for Godot, Unity, Unreal, web and beyond.",
             "url": "https://github.com/gamedev-skills/awesome-gamedev-agent-skills",
             "stars": 224,
-            "forks": 14,
+            "forks": 13,
             "score": 39
         },
         {
             "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "claude-fable-5-free-desktop-app",
-            "full_name": "ahmadrj80/claude-fable-5-free-desktop-app",
-            "description": "free claude 5 fable anthropic large language model llm frontier reasoning autonomous agentic workflows long horizon autonomy claude code terminal claude.ai pro max  alternative mirrors github repository hugging face tool setup windows 11 macos linux stable build free trial usage tutorial",
-            "url": "https://github.com/ahmadrj80/claude-fable-5-free-desktop-app",
-            "stars": 174,
-            "forks": 1,
-            "score": 38
+            "sub_cat": null,
+            "name": "google-health-cli",
+            "full_name": "Google-Health-API/google-health-cli",
+            "description": "Google Health CLI \u2014 one command-line tool for the Google Health API. Includes AI agent skills.",
+            "url": "https://github.com/Google-Health-API/google-health-cli",
+            "stars": 162,
+            "forks": 14,
+            "score": 37
         },
         {
             "main_cat": "AI",
@@ -340,17 +351,6 @@ const ALPHA_DATA_V2 = {
             "stars": 172,
             "forks": 2,
             "score": 36
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "claude-mythos-ai-anthropic-desktop-app",
-            "full_name": "ikarma/claude-mythos-ai-anthropic-desktop-app",
-            "description": "claude mythos ai anthropic free large language model llm frontier model project glasswing cybersecurity agent vulnerability research software engineering agentic workflows multi step reasoning recurrent depth transformer rdt openmythos repository open source claude fable 5 multi agent",
-            "url": "https://github.com/ikarma/claude-mythos-ai-anthropic-desktop-app",
-            "stars": 164,
-            "forks": 2,
-            "score": 35
         },
         {
             "main_cat": "AI",
@@ -684,5 +684,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-07-06 14:21"
+    "timestamp": "2026-07-06 17:37"
 };
