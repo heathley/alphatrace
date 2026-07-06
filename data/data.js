@@ -18,7 +18,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "jmerelnyc/Talos",
             "description": "GPU worker client for the Talos network. Pairs with your Talos account, serves open-model inference jobs over a WebSocket, and reports uptime for payouts.",
             "url": "https://github.com/jmerelnyc/Talos",
-            "stars": 675,
+            "stars": 676,
             "forks": 12,
             "score": 90
         },
@@ -40,8 +40,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "HKUDS/OpenOPC",
             "description": "OpenOPC: Build Your Personal AI-Native Company \u2014 Self-Built, Self-Run, Self-Grown",
             "url": "https://github.com/HKUDS/OpenOPC",
-            "stars": 374,
-            "forks": 43,
+            "stars": 378,
+            "forks": 44,
             "score": 69
         },
         {
@@ -51,9 +51,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "Pluviobyte/rnskill",
             "description": "\u96ea\u8e0f\u4e4c\u4e91\u7684 AI Agent Skills \u96c6\u5408",
             "url": "https://github.com/Pluviobyte/rnskill",
-            "stars": 188,
+            "stars": 195,
             "forks": 19,
             "score": 63
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "awesome-evals",
+            "full_name": "benchflow-ai/awesome-evals",
+            "description": "A curated, non-BS library of the best resources for building and evaluating AI agents \u2014 papers, blogs, talks, tools, benchmarks. Maintained by BenchFlow.",
+            "url": "https://github.com/benchflow-ai/awesome-evals",
+            "stars": 676,
+            "forks": 48,
+            "score": 61
         },
         {
             "main_cat": "AI",
@@ -65,17 +76,6 @@ const ALPHA_DATA_V2 = {
             "stars": 514,
             "forks": 61,
             "score": 61
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "awesome-evals",
-            "full_name": "benchflow-ai/awesome-evals",
-            "description": "A curated, non-BS library of the best resources for building and evaluating AI agents \u2014 papers, blogs, talks, tools, benchmarks. Maintained by BenchFlow.",
-            "url": "https://github.com/benchflow-ai/awesome-evals",
-            "stars": 675,
-            "forks": 48,
-            "score": 60
         },
         {
             "main_cat": "AI",
@@ -123,6 +123,17 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "agentic-trading-desk",
+            "full_name": "Oft3r/agentic-trading-desk",
+            "description": "AI-assisted trading desk for short-term technical analysis on stocks & ETFs via Robinhood MCP. Deterministic Python engines score each asset on a three-pillar framework (Trend \u00b7 Momentum \u00b7 Macro-Sentiment) using EMA, RSI, MACD, TRIX & Bollinger Bands. The AI fetches data; the scripts compute; the human approves every order.",
+            "url": "https://github.com/Oft3r/agentic-trading-desk",
+            "stars": 165,
+            "forks": 34,
+            "score": 55
+        },
+        {
+            "main_cat": "AI",
             "sub_cat": null,
             "name": "ackem",
             "full_name": "JasonLiu0826/ackem",
@@ -141,6 +152,17 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/Evolink-AI/Awesome-Blender-Seedance-Workflow-Usecases",
             "stars": 300,
             "forks": 24,
+            "score": 52
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "SuperNovaAgent",
+            "full_name": "Ray-Code-Svg/SuperNovaAgent",
+            "description": "SuperNova is a Windows-first desktop AI Workbench that turns chat into traceable tasks. It combines a Tauri + React Workbench, Rust Product Runtime, typed protocol, and Process Kernel so actions can produce visible artifacts, runtime receipts, replayable evidence, and controlled workspace execution.",
+            "url": "https://github.com/Ray-Code-Svg/SuperNovaAgent",
+            "stars": 172,
+            "forks": 78,
             "score": 52
         },
         {
@@ -168,13 +190,13 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "autoshorts",
-            "full_name": "JayWebtech/autoshorts",
-            "description": "AutoShorts is a local-first desktop application for turning long-form video or audio recordings into high-impact, vertical short-form clip candidates (9:16 portrait) with AI-powered viral moment ranking.",
-            "url": "https://github.com/JayWebtech/autoshorts",
-            "stars": 302,
-            "forks": 73,
-            "score": 48
+            "name": "open-connector",
+            "full_name": "oomol-lab/open-connector",
+            "description": "Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAPI.",
+            "url": "https://github.com/oomol-lab/open-connector",
+            "stars": 234,
+            "forks": 10,
+            "score": 45
         },
         {
             "main_cat": "AI",
@@ -186,28 +208,6 @@ const ALPHA_DATA_V2 = {
             "stars": 181,
             "forks": 30,
             "score": 45
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "open-connector",
-            "full_name": "oomol-lab/open-connector",
-            "description": "Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAPI.",
-            "url": "https://github.com/oomol-lab/open-connector",
-            "stars": 228,
-            "forks": 10,
-            "score": 44
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "peerd",
-            "full_name": "NotASithLord/peerd",
-            "description": "The first AI agent harness native to the browser. A Chrome/Firefox extension that runs the agent loop in your browser \u2014 drives your tabs, spins up sandboxed compute (JS notebooks, WASM Linux VMs, client-side apps), and shares what it builds peer-to-peer. BYOK \u00b7 no backend \u00b7 no telemetry.",
-            "url": "https://github.com/NotASithLord/peerd",
-            "stars": 313,
-            "forks": 31,
-            "score": 43
         },
         {
             "main_cat": "AI",
@@ -230,17 +230,6 @@ const ALPHA_DATA_V2 = {
             "stars": 246,
             "forks": 19,
             "score": 43
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "browser-search",
-            "full_name": "Johell1NS/browser-search",
-            "description": "A skill for AI agents: search the web with SearXNG, browse with Camofox, bypass protections with CloakBrowser. Anti-hallucination by design. Self-hosted, free, unlimited.",
-            "url": "https://github.com/Johell1NS/browser-search",
-            "stars": 306,
-            "forks": 24,
-            "score": 42
         },
         {
             "main_cat": "AI",
@@ -278,22 +267,11 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "motion-skills",
-            "full_name": "iart-ai/motion-skills",
-            "description": "50 open-source skills that teach your AI coding agent to make motion graphics, animation & video \u2014 kinetic typography, data-viz, explainers, TikTok/Reels, WebGL, Manim. 14 installable packs. By iart.ai, the AI motion agent.",
-            "url": "https://github.com/iart-ai/motion-skills",
-            "stars": 245,
-            "forks": 19,
-            "score": 40
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
             "name": "mcpsnoop",
             "full_name": "kerlenton/mcpsnoop",
             "description": "Wireshark for MCP. A transparent proxy that shows every real tool call between your AI client and your MCP servers, live in your terminal.",
             "url": "https://github.com/kerlenton/mcpsnoop",
-            "stars": 193,
+            "stars": 194,
             "forks": 9,
             "score": 40
         },
@@ -310,14 +288,25 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "claude-fable-5-free-desktop-app",
+            "full_name": "ahmadrj80/claude-fable-5-free-desktop-app",
+            "description": "free claude 5 fable anthropic large language model llm frontier reasoning autonomous agentic workflows long horizon autonomy claude code terminal claude.ai pro max  alternative mirrors github repository hugging face tool setup windows 11 macos linux stable build free trial usage tutorial",
+            "url": "https://github.com/ahmadrj80/claude-fable-5-free-desktop-app",
+            "stars": 170,
+            "forks": 1,
+            "score": 38
+        },
+        {
+            "main_cat": "AI",
             "sub_cat": null,
-            "name": "learn-ai-practice",
-            "full_name": "i5ting/learn-ai-practice",
-            "description": "\u72fc\u53d4\u7684ai\u81ea\u7559\u5730\uff0c2026\u4e0a\u534a\u5e74\u603b\u7ed3",
-            "url": "https://github.com/i5ting/learn-ai-practice",
-            "stars": 206,
-            "forks": 5,
-            "score": 37
+            "name": "Chinese-Grant-Writer-Skills",
+            "full_name": "HuiyuLi-2000/Chinese-Grant-Writer-Skills",
+            "description": "\u9762\u5411 NSFC\u3001NSSFC\u3001\u7701\u90e8\u7ea7\u81ea/\u793e\u79d1\u7533\u8bf7\u4e66\u7684 AI \u5199\u4f5c\u6280\u80fd\u96c6\u3002\u4ece\u8fd1 20 \u672c\u7ba1\u7406\u53e3\u7533\u8bf7\u4e66\u4e2d\u63d0\u70bc\u5199\u4f5c\u8303\u5f0f\uff0c\u8986\u76d6\u6838\u5fc3\u64b0\u5199\u73af\u8282\u3002",
+            "url": "https://github.com/HuiyuLi-2000/Chinese-Grant-Writer-Skills",
+            "stars": 157,
+            "forks": 21,
+            "score": 38
         },
         {
             "main_cat": "AI",
@@ -333,13 +322,13 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "humation",
-            "full_name": "humation-labs/humation",
-            "description": "Hand-drawn kawaii avatar engine for your app. No AI, no API calls.",
-            "url": "https://github.com/humation-labs/humation",
-            "stars": 176,
-            "forks": 10,
-            "score": 36
+            "name": "google-health-cli",
+            "full_name": "Google-Health-API/google-health-cli",
+            "description": "Google Health CLI \u2014 one command-line tool for the Google Health API. Includes AI agent skills.",
+            "url": "https://github.com/Google-Health-API/google-health-cli",
+            "stars": 159,
+            "forks": 14,
+            "score": 37
         },
         {
             "main_cat": "AI",
@@ -355,12 +344,12 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
-            "name": "sparkinfer",
-            "full_name": "gittensor-ai-lab/sparkinfer",
-            "description": "Fastest MoE/LLM inference runtime for consumer and edge Blackwell GPUs. SN74 on Gittensor.",
-            "url": "https://github.com/gittensor-ai-lab/sparkinfer",
-            "stars": 7,
-            "forks": 44,
+            "name": "claude-mythos-ai-anthropic-desktop-app",
+            "full_name": "ikarma/claude-mythos-ai-anthropic-desktop-app",
+            "description": "claude mythos ai anthropic free large language model llm frontier model project glasswing cybersecurity agent vulnerability research software engineering agentic workflows multi step reasoning recurrent depth transformer rdt openmythos repository open source claude fable 5 multi agent",
+            "url": "https://github.com/ikarma/claude-mythos-ai-anthropic-desktop-app",
+            "stars": 164,
+            "forks": 2,
             "score": 35
         },
         {
@@ -405,17 +394,6 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/David-patrick-chuks/agentkyro-on-stellar",
             "stars": 10,
             "forks": 0,
-            "score": 30
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "conversational-infill",
-            "full_name": "vysri/conversational-infill",
-            "description": "The ConvFill Repository provides training and inference code for the Conversational Infill task proposed and implemented in Thinking While Speaking: Inference-Time Knowledge Transfer for Responsive and Intelligent Conversational Voice Agents.",
-            "url": "https://github.com/vysri/conversational-infill",
-            "stars": 10,
-            "forks": 1,
             "score": 30
         },
         {
@@ -618,17 +596,6 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "ccip-rebasetoken",
-            "full_name": "BuildsWithKing/ccip-rebasetoken",
-            "description": "A cross-chain rebase token protocol built on Ethereum, enabling users to deposit assets into a vault and receive rebasing tokens that dynamically accrue interest over time. Powered by Chainlink CCIP for seamless cross-chain transfers.",
-            "url": "https://github.com/BuildsWithKing/ccip-rebasetoken",
-            "stars": 1,
-            "forks": 0,
-            "score": 30
-        },
-        {
-            "main_cat": "AI",
             "sub_cat": "AI Agents",
             "name": "AIHub",
             "full_name": "mowen2478-rgb/AIHub",
@@ -681,17 +648,6 @@ const ALPHA_DATA_V2 = {
             "stars": 0,
             "forks": 0,
             "score": 30
-        },
-        {
-            "main_cat": "Cross-chain / Interoperability",
-            "sub_cat": null,
-            "name": "DQI_QFL",
-            "full_name": "rdelhibabu/DQI_QFL",
-            "description": "Decentralized Quantum Intelligence: Pioneering Cross-Silo Quantum Federated Learning Protocols",
-            "url": "https://github.com/rdelhibabu/DQI_QFL",
-            "stars": 0,
-            "forks": 0,
-            "score": 30
         }
     ],
     "news": [
@@ -717,5 +673,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-07-05 22:57"
+    "timestamp": "2026-07-06 00:04"
 };
