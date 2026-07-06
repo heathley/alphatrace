@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "synthetic-sciences/openscience",
             "description": "The open-source AI workbench for scientific research",
             "url": "https://github.com/synthetic-sciences/openscience",
-            "stars": 705,
-            "forks": 91,
+            "stars": 720,
+            "forks": 94,
             "score": 99
         },
         {
@@ -18,7 +18,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "lingbol088-spec/reverse-flow-skill",
             "description": "\u9762\u5411 AI Agent / Codex \u7684\u672c\u5730 CTF \u9006\u5411\u5de5\u7a0b\u6d41\u7a0b\u6280\u80fd\u3002\u52a0\u8f7d\u540e\u901a\u8fc7\u201c\u771f\u5fc3\u4e3a\u4f60\u201d\u8fdb\u5165\u9006\u5411\u6a21\u5f0f\uff0c\u9ed8\u8ba4\u5728\u672c\u5730\u6c99\u76d2\u3001CTF\u3001crackme\u3001wargame \u6216\u8bad\u7ec3\u9776\u573a\u73af\u5883\u4e2d\u5de5\u4f5c\uff0c\u6309\u201c\u5206\u6790 \u2192 \u62a5\u544a \u2192 \u9006\u5411 \u2192 \u6df1\u5ea6\u9006\u5411 \u2192 \u6f0f\u6d1e\u7814\u5224 \u2192 \u7528\u6237\u9009\u62e9\u4e0b\u4e00\u6b65\u201d\u7684\u6d41\u7a0b\u63a8\u8fdb\u3002",
             "url": "https://github.com/lingbol088-spec/reverse-flow-skill",
-            "stars": 412,
+            "stars": 413,
             "forks": 210,
             "score": 99
         },
@@ -40,8 +40,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "HKUDS/OpenOPC",
             "description": "OpenOPC: Build Your Personal AI-Native Company \u2014 Self-Built, Self-Run, Self-Grown",
             "url": "https://github.com/HKUDS/OpenOPC",
-            "stars": 501,
-            "forks": 64,
+            "stars": 504,
+            "forks": 65,
             "score": 77
         },
         {
@@ -84,7 +84,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "benchflow-ai/awesome-evals",
             "description": "A curated, non-BS library of the best resources for building and evaluating AI agents \u2014 papers, blogs, talks, tools, benchmarks. Maintained by BenchFlow.",
             "url": "https://github.com/benchflow-ai/awesome-evals",
-            "stars": 679,
+            "stars": 680,
             "forks": 49,
             "score": 59
         },
@@ -102,6 +102,17 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
+            "name": "open-connector",
+            "full_name": "oomol-lab/open-connector",
+            "description": "Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAPI.",
+            "url": "https://github.com/oomol-lab/open-connector",
+            "stars": 506,
+            "forks": 19,
+            "score": 59
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
             "name": "sim-use",
             "full_name": "lycorp-jp/sim-use",
             "description": "Give your AI agent eyes and hands on iOS Simulator and Android emulator/devices.",
@@ -113,22 +124,11 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "open-connector",
-            "full_name": "oomol-lab/open-connector",
-            "description": "Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAPI.",
-            "url": "https://github.com/oomol-lab/open-connector",
-            "stars": 500,
-            "forks": 19,
-            "score": 58
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
             "name": "leronx",
             "full_name": "Leron-X/leronx",
             "description": "LeronX \u2014 AI Image & Video Generation Platform",
             "url": "https://github.com/Leron-X/leronx",
-            "stars": 480,
+            "stars": 481,
             "forks": 62,
             "score": 58
         },
@@ -150,7 +150,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "ai4s-research/open-science",
             "description": "Open Science \u2014 an open AI workbench for scientists. Open-source alternative to Claude Science: local-first, model-agnostic, reproducible AI research desktop (macOS & Windows), built on Tauri + MCP + agent skills.",
             "url": "https://github.com/ai4s-research/open-science",
-            "stars": 225,
+            "stars": 227,
             "forks": 30,
             "score": 58
         },
@@ -172,9 +172,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "Oft3r/agentic-trading-desk",
             "description": "AI-assisted trading desk for short-term technical analysis on stocks & ETFs via Robinhood MCP. Deterministic Python engines score each asset on a three-pillar framework (Trend \u00b7 Momentum \u00b7 Macro-Sentiment) using EMA, RSI, MACD, TRIX & Bollinger Bands. The AI fetches data; the scripts compute; the human approves every order.",
             "url": "https://github.com/Oft3r/agentic-trading-desk",
-            "stars": 186,
-            "forks": 40,
-            "score": 54
+            "stars": 187,
+            "forks": 41,
+            "score": 55
         },
         {
             "main_cat": "AI",
@@ -183,7 +183,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Ray-Code-Svg/SuperNovaAgent",
             "description": "SuperNova is a Windows-first desktop AI Workbench that turns chat into traceable tasks. It combines a Tauri + React Workbench, Rust Product Runtime, typed protocol, and Process Kernel so actions can produce visible artifacts, runtime receipts, replayable evidence, and controlled workspace execution.",
             "url": "https://github.com/Ray-Code-Svg/SuperNovaAgent",
-            "stars": 206,
+            "stars": 211,
             "forks": 90,
             "score": 53
         },
@@ -205,7 +205,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "JasonLiu0826/ackem",
             "description": "Ackem \u2014 \u672c\u5730\u4f18\u5148 AI \u684c\u9762\u966a\u4f34 \u00b7 Local-first AI desktop companion. \u9690\u79c1\u6570\u636e\u4e0d\u4e0a\u4f20\uff0c\u652f\u6301\u8bb0\u5fc6/\u60c5\u7eea/\u6269\u5c55/ \u3002AGPL-3.0",
             "url": "https://github.com/JasonLiu0826/ackem",
-            "stars": 361,
+            "stars": 362,
             "forks": 37,
             "score": 51
         },
@@ -304,7 +304,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "wangxijie001/yoji",
             "description": "\u6709\u60c5\u7eea\u7684 AI \u684c\u9762\u4f34\u4fa3 | \u9690\u79c1\u4f18\u5148 \u00b7 \u8bed\u97f3\u5524\u9192 \u00b7 \u534f\u52a9\u529e\u516c \u00b7 MCP \u65e0\u9650\u6269\u5c55 | An AI desktop companion with emotions \u2014 privacy-first, voice wake, office assistance, and MCP extensibility",
             "url": "https://github.com/wangxijie001/yoji",
-            "stars": 216,
+            "stars": 219,
             "forks": 30,
             "score": 41
         },
@@ -315,7 +315,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "kerlenton/mcpsnoop",
             "description": "Wireshark for MCP. A transparent proxy that shows every real tool call between your AI client and your MCP servers, live in your terminal.",
             "url": "https://github.com/kerlenton/mcpsnoop",
-            "stars": 207,
+            "stars": 208,
             "forks": 10,
             "score": 40
         },
@@ -337,7 +337,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Google-Health-API/google-health-cli",
             "description": "Google Health CLI \u2014 one command-line tool for the Google Health API. Includes AI agent skills.",
             "url": "https://github.com/Google-Health-API/google-health-cli",
-            "stars": 162,
+            "stars": 163,
             "forks": 15,
             "score": 37
         },
@@ -392,7 +392,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "BBALabs/athanor-lite",
             "description": "Free GPU detection and local AI model manager. Scans your hardware, recommends compatible models, and handles download + launch in one click.",
             "url": "https://github.com/BBALabs/athanor-lite",
-            "stars": 8,
+            "stars": 9,
             "forks": 0,
             "score": 31
         },
@@ -684,5 +684,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-07-06 19:46"
+    "timestamp": "2026-07-06 21:23"
 };
