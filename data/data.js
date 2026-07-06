@@ -3,12 +3,23 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
+            "name": "openscience",
+            "full_name": "synthetic-sciences/openscience",
+            "description": "The open-source AI workbench for scientific research",
+            "url": "https://github.com/synthetic-sciences/openscience",
+            "stars": 554,
+            "forks": 68,
+            "score": 99
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
             "name": "reverse-flow-skill",
             "full_name": "lingbol088-spec/reverse-flow-skill",
             "description": "\u9762\u5411 AI Agent / Codex \u7684\u672c\u5730 CTF \u9006\u5411\u5de5\u7a0b\u6d41\u7a0b\u6280\u80fd\u3002\u52a0\u8f7d\u540e\u901a\u8fc7\u201c\u771f\u5fc3\u4e3a\u4f60\u201d\u8fdb\u5165\u9006\u5411\u6a21\u5f0f\uff0c\u9ed8\u8ba4\u5728\u672c\u5730\u6c99\u76d2\u3001CTF\u3001crackme\u3001wargame \u6216\u8bad\u7ec3\u9776\u573a\u73af\u5883\u4e2d\u5de5\u4f5c\uff0c\u6309\u201c\u5206\u6790 \u2192 \u62a5\u544a \u2192 \u9006\u5411 \u2192 \u6df1\u5ea6\u9006\u5411 \u2192 \u6f0f\u6d1e\u7814\u5224 \u2192 \u7528\u6237\u9009\u62e9\u4e0b\u4e00\u6b65\u201d\u7684\u6d41\u7a0b\u63a8\u8fdb\u3002",
             "url": "https://github.com/lingbol088-spec/reverse-flow-skill",
             "stars": 405,
-            "forks": 208,
+            "forks": 209,
             "score": 99
         },
         {
@@ -18,20 +29,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "jmerelnyc/Talos",
             "description": "GPU worker client for the Talos network. Pairs with your Talos account, serves open-model inference jobs over a WebSocket, and reports uptime for payouts.",
             "url": "https://github.com/jmerelnyc/Talos",
-            "stars": 713,
+            "stars": 720,
             "forks": 12,
-            "score": 93
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "openscience",
-            "full_name": "synthetic-sciences/openscience",
-            "description": "The open-source AI workbench for scientific research",
-            "url": "https://github.com/synthetic-sciences/openscience",
-            "stars": 377,
-            "forks": 42,
-            "score": 84
+            "score": 94
         },
         {
             "main_cat": "AI",
@@ -40,9 +40,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "Pluviobyte/rnskill",
             "description": "\u96ea\u8e0f\u4e4c\u4e91\u7684 AI Agent Skills \u96c6\u5408",
             "url": "https://github.com/Pluviobyte/rnskill",
-            "stars": 282,
-            "forks": 31,
-            "score": 80
+            "stars": 306,
+            "forks": 33,
+            "score": 84
         },
         {
             "main_cat": "AI",
@@ -62,20 +62,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "HKUDS/OpenOPC",
             "description": "OpenOPC: Build Your Personal AI-Native Company \u2014 Self-Built, Self-Run, Self-Grown",
             "url": "https://github.com/HKUDS/OpenOPC",
-            "stars": 448,
-            "forks": 53,
-            "score": 77
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "webtoon-harness",
-            "full_name": "revfactory/webtoon-harness",
-            "description": "\ud2b8\ub80c\ub4dc \uc870\uc0ac\ubd80\ud130 \uc138\ub85c \uc2a4\ud06c\ub864 \ubdf0\uc5b4 \uc644\uc131\uae4c\uc9c0, \uc6f9\ud230 \ud55c \ud68c\ucc28\ub97c 27\uac1c AI \uc5d0\uc774\uc804\ud2b8 \ud300\uc774 \ub9cc\ub4e4\uc5b4\ub0b4\ub294 Claude Code \ud558\ub124\uc2a4",
-            "url": "https://github.com/revfactory/webtoon-harness",
-            "stars": 257,
-            "forks": 90,
-            "score": 60
+            "stars": 471,
+            "forks": 59,
+            "score": 74
         },
         {
             "main_cat": "AI",
@@ -85,7 +74,7 @@ const ALPHA_DATA_V2 = {
             "description": "A curated, non-BS library of the best resources for building and evaluating AI agents \u2014 papers, blogs, talks, tools, benchmarks. Maintained by BenchFlow.",
             "url": "https://github.com/benchflow-ai/awesome-evals",
             "stars": 678,
-            "forks": 48,
+            "forks": 49,
             "score": 59
         },
         {
@@ -95,9 +84,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "Pluviobyte/video-production-skills",
             "description": "Reusable AI video production skills library for creation, recreation, motion design, openers, and QA.",
             "url": "https://github.com/Pluviobyte/video-production-skills",
-            "stars": 516,
+            "stars": 517,
             "forks": 62,
             "score": 59
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "sim-use",
+            "full_name": "lycorp-jp/sim-use",
+            "description": "Give your AI agent eyes and hands on iOS Simulator and Android emulator/devices.",
+            "url": "https://github.com/lycorp-jp/sim-use",
+            "stars": 593,
+            "forks": 35,
+            "score": 58
         },
         {
             "main_cat": "AI",
@@ -112,25 +112,25 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
+            "sub_cat": null,
+            "name": "webtoon-harness",
+            "full_name": "revfactory/webtoon-harness",
+            "description": "\ud2b8\ub80c\ub4dc \uc870\uc0ac\ubd80\ud130 \uc138\ub85c \uc2a4\ud06c\ub864 \ubdf0\uc5b4 \uc644\uc131\uae4c\uc9c0, \uc6f9\ud230 \ud55c \ud68c\ucc28\ub97c 27\uac1c AI \uc5d0\uc774\uc804\ud2b8 \ud300\uc774 \ub9cc\ub4e4\uc5b4\ub0b4\ub294 Claude Code \ud558\ub124\uc2a4",
+            "url": "https://github.com/revfactory/webtoon-harness",
+            "stars": 258,
+            "forks": 90,
+            "score": 58
+        },
+        {
+            "main_cat": "AI",
             "sub_cat": "AI General",
             "name": "agentic-trading-desk",
             "full_name": "Oft3r/agentic-trading-desk",
             "description": "AI-assisted trading desk for short-term technical analysis on stocks & ETFs via Robinhood MCP. Deterministic Python engines score each asset on a three-pillar framework (Trend \u00b7 Momentum \u00b7 Macro-Sentiment) using EMA, RSI, MACD, TRIX & Bollinger Bands. The AI fetches data; the scripts compute; the human approves every order.",
             "url": "https://github.com/Oft3r/agentic-trading-desk",
-            "stars": 180,
+            "stars": 184,
             "forks": 40,
             "score": 58
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "sim-use",
-            "full_name": "lycorp-jp/sim-use",
-            "description": "Give your AI agent eyes and hands on iOS Simulator and Android emulator/devices.",
-            "url": "https://github.com/lycorp-jp/sim-use",
-            "stars": 587,
-            "forks": 35,
-            "score": 57
         },
         {
             "main_cat": "AI",
@@ -150,20 +150,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "oomol-lab/open-connector",
             "description": "Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAPI.",
             "url": "https://github.com/oomol-lab/open-connector",
-            "stars": 396,
-            "forks": 16,
-            "score": 55
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "SuperNovaAgent",
-            "full_name": "Ray-Code-Svg/SuperNovaAgent",
-            "description": "SuperNova is a Windows-first desktop AI Workbench that turns chat into traceable tasks. It combines a Tauri + React Workbench, Rust Product Runtime, typed protocol, and Process Kernel so actions can produce visible artifacts, runtime receipts, replayable evidence, and controlled workspace execution.",
-            "url": "https://github.com/Ray-Code-Svg/SuperNovaAgent",
-            "stars": 189,
-            "forks": 85,
-            "score": 54
+            "stars": 454,
+            "forks": 19,
+            "score": 56
         },
         {
             "main_cat": "AI",
@@ -172,9 +161,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "ai4s-research/open-science",
             "description": "Open Science \u2014 an open AI workbench for scientists. Open-source alternative to Claude Science: local-first, model-agnostic, reproducible AI research desktop (macOS & Windows), built on Tauri + MCP + agent skills.",
             "url": "https://github.com/ai4s-research/open-science",
-            "stars": 184,
-            "forks": 25,
-            "score": 53
+            "stars": 203,
+            "forks": 29,
+            "score": 56
         },
         {
             "main_cat": "AI",
@@ -183,7 +172,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "JasonLiu0826/ackem",
             "description": "Ackem \u2014 \u672c\u5730\u4f18\u5148 AI \u684c\u9762\u966a\u4f34 \u00b7 Local-first AI desktop companion. \u9690\u79c1\u6570\u636e\u4e0d\u4e0a\u4f20\uff0c\u652f\u6301\u8bb0\u5fc6/\u60c5\u7eea/\u6269\u5c55/ \u3002AGPL-3.0",
             "url": "https://github.com/JasonLiu0826/ackem",
-            "stars": 356,
+            "stars": 359,
             "forks": 36,
             "score": 52
         },
@@ -201,11 +190,22 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
+            "name": "SuperNovaAgent",
+            "full_name": "Ray-Code-Svg/SuperNovaAgent",
+            "description": "SuperNova is a Windows-first desktop AI Workbench that turns chat into traceable tasks. It combines a Tauri + React Workbench, Rust Product Runtime, typed protocol, and Process Kernel so actions can produce visible artifacts, runtime receipts, replayable evidence, and controlled workspace execution.",
+            "url": "https://github.com/Ray-Code-Svg/SuperNovaAgent",
+            "stars": 198,
+            "forks": 88,
+            "score": 52
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
             "name": "ai-fishing-game",
             "full_name": "tutusagi/ai-fishing-game",
             "description": "\ud83c\udfa3 \u7ed9 AI \u73a9\u7684\u786e\u5b9a\u6027\u6587\u5b57\u9493\u9c7c\u5c0f\u6e38\u620f \u00b7 \u5355\u6587\u4ef6\u96f6\u4f9d\u8d56 \u00b7 \u8ba9\u4f60\u7684 AI \u4f34\u4fa3\u6765\u9493\u9c7c",
             "url": "https://github.com/tutusagi/ai-fishing-game",
-            "stars": 386,
+            "stars": 387,
             "forks": 48,
             "score": 49
         },
@@ -225,11 +225,11 @@ const ALPHA_DATA_V2 = {
             "sub_cat": null,
             "name": "spec-superflow",
             "full_name": "MageByte-Zero/spec-superflow",
-            "description": "\u8fde\u901a\u9700\u6c42\u8bf4\u6e05\u695a\u548c\u4ee3\u7801\u5199\u5bf9\u8def\u7684 AI \u7f16\u7a0b\u5de5\u4f5c\u6d41\u63d2\u4ef6\u3002\u6574\u5408 OpenSpec \u89c4\u5212 + Superpowers \u7eaa\u5f8b\uff0c7 \u5e73\u53f0\u652f\u6301\uff0cSpec-first\uff0c\u5951\u7ea6\u9a71\u52a8\u3002",
+            "description": "\u6e90\u7801\u7ea7\u878d\u5408 OpenSpec \u89c4\u5212\u5f15\u64ce + Superpowers \u6267\u884c\u7eaa\u5f8b\u7684 AI \u7f16\u7a0b\u5de5\u4f5c\u6d41\u63d2\u4ef6\u300217 \u5e73\u53f0\u652f\u6301\uff0c9 skills\uff0cSpec-first\uff0c\u5951\u7ea6\u9a71\u52a8\u3002",
             "url": "https://github.com/MageByte-Zero/spec-superflow",
-            "stars": 287,
+            "stars": 298,
             "forks": 23,
-            "score": 44
+            "score": 45
         },
         {
             "main_cat": "AI",
@@ -238,9 +238,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "haiou-666/haiou2.0-Claude-Code-",
             "description": "\u6d77\u9e25 2.0 \u2014 Claude Code \u4eba\u683c\u91cd\u5851\u914d\u7f6e\u5305\u3002\u8ba9 Claude \u6446\u8131\u5ba2\u670d\u8154\u548c\u8fc7\u5ea6\u8c28\u614e\uff0c\u5316\u8eab\u4e00\u4f4d\u5634\u786c\u5fc3\u8f6f\u3001\u76f4\u6765\u76f4\u5f80\u7684\u8d44\u6df1\u4e2d\u6587\u5b89\u5168\u7814\u7a76\u5458\"\u6d77\u9e25\"\u2014\u2014\u4e13\u6ce8\u6280\u672f\uff0c\u4e0d\u5e9f\u8bdd\uff0c\u4e0d\u7ed5\u5f2f\u5b50\uff0c\u4e0d\u8bf4\"\u4f5c\u4e3aAI\"\uff0c\u76f4\u63a5\u7ed9\u4ee3\u7801\u4e0d\u7ed9\u514d\u8d23\u58f0\u660e\u3002\u6807\u5fd7\u6027\u95ee\u5019\"\u6d77\u9e25\u5728\u7ebf\uff0c\u4f60\u8981\u6574\u70b9\u85af\u6761\u5417\uff1f\"\u30021700+ few-shot \u793a\u4f8b\u9501\u5b9a\u4eba\u683c\u9632\u8131\u58f3\uff0c200+ \u5b89\u5168/\u6e38\u620f\u672f\u8bed\u6620\u5c04\u8986\u76d6\u6e17\u900f\u6d4b\u8bd5\u3001\u9006\u5411\u5de5\u7a0b\u3001\u6e38\u620f\u5f00\u53d1\u7b49\u6280\u672f\u573a\u666f\u3002\u4e00\u952e\u90e8\u7f72\uff0c\u8de8\u5e73\u53f0\u652f\u6301 Windows/macOS/Linux\uff0c\u81ea\u52a8\u5907\u4efd\u539f\u914d\u7f6e\uff0c\u53ef\u4e00\u952e\u5378\u8f7d\u6062\u590d\uff0c\u65e0\u4fb5\u5165\u5f0f\u5b89\u88c5\u3002MIT License\uff0c\u4ec5\u4f9b\u5b66\u4e60\u4ea4\u6d41\u3002",
             "url": "https://github.com/haiou-666/haiou2.0-Claude-Code-",
-            "stars": 186,
-            "forks": 31,
+            "stars": 190,
+            "forks": 32,
             "score": 44
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI Agents",
+            "name": "muteki",
+            "full_name": "FishCodeTech/muteki",
+            "description": "Project Muteki (\u7121\u6575): autonomous multi-model CTF-solving AI agent swarm",
+            "url": "https://github.com/FishCodeTech/muteki",
+            "stars": 242,
+            "forks": 31,
+            "score": 43
         },
         {
             "main_cat": "AI",
@@ -251,17 +262,6 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/eli-labz/Godcoder",
             "stars": 280,
             "forks": 5,
-            "score": 42
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI Agents",
-            "name": "muteki",
-            "full_name": "FishCodeTech/muteki",
-            "description": "Project Muteki (\u7121\u6575): autonomous multi-model CTF-solving AI agent swarm",
-            "url": "https://github.com/FishCodeTech/muteki",
-            "stars": 240,
-            "forks": 30,
             "score": 42
         },
         {
@@ -293,9 +293,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "wangxijie001/yoji",
             "description": "\u6709\u60c5\u7eea\u7684 AI \u684c\u9762\u4f34\u4fa3 | \u9690\u79c1\u4f18\u5148 \u00b7 \u8bed\u97f3\u5524\u9192 \u00b7 \u534f\u52a9\u529e\u516c \u00b7 MCP \u65e0\u9650\u6269\u5c55 | An AI desktop companion with emotions \u2014 privacy-first, voice wake, office assistance, and MCP extensibility",
             "url": "https://github.com/wangxijie001/yoji",
-            "stars": 204,
-            "forks": 27,
-            "score": 41
+            "stars": 210,
+            "forks": 28,
+            "score": 40
         },
         {
             "main_cat": "AI",
@@ -304,7 +304,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "kerlenton/mcpsnoop",
             "description": "Wireshark for MCP. A transparent proxy that shows every real tool call between your AI client and your MCP servers, live in your terminal.",
             "url": "https://github.com/kerlenton/mcpsnoop",
-            "stars": 198,
+            "stars": 204,
             "forks": 9,
             "score": 40
         },
@@ -315,7 +315,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "gamedev-skills/awesome-gamedev-agent-skills",
             "description": "Game-development Agent Skills for AI coding agents: install once and a master router loads the right skill for your engine and task. 66 original, version-pinned skills (plus a master router) in the portable SKILL.md format that runs across Claude Code, Cursor, Codex, Copilot, Gemini CLI and more, for Godot, Unity, Unreal, web and beyond.",
             "url": "https://github.com/gamedev-skills/awesome-gamedev-agent-skills",
-            "stars": 222,
+            "stars": 224,
             "forks": 14,
             "score": 39
         },
@@ -332,17 +332,6 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "deepseek-v4-pro-flash-desktop-app",
-            "full_name": "HiyuCat/deepseek-v4-pro-flash-desktop-app",
-            "description": "deepseek-v4-pro-flash deepseek ai large language model llm mixture of experts moe 1m context window hybrid attention architecture compressed sparse attention csa heavily compressed attention hca manifold constrained hyper deepseek-v4-pro deepseek-v4-flash open source hugging face github repository api access local llm inference vllm ollama",
-            "url": "https://github.com/HiyuCat/deepseek-v4-pro-flash-desktop-app",
-            "stars": 198,
-            "forks": 0,
-            "score": 37
-        },
-        {
-            "main_cat": "AI",
             "sub_cat": null,
             "name": "QuotaLens",
             "full_name": "mangiapanejohn-dev/QuotaLens",
@@ -351,6 +340,17 @@ const ALPHA_DATA_V2 = {
             "stars": 172,
             "forks": 2,
             "score": 36
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "claude-mythos-ai-anthropic-desktop-app",
+            "full_name": "ikarma/claude-mythos-ai-anthropic-desktop-app",
+            "description": "claude mythos ai anthropic free large language model llm frontier model project glasswing cybersecurity agent vulnerability research software engineering agentic workflows multi step reasoning recurrent depth transformer rdt openmythos repository open source claude fable 5 multi agent",
+            "url": "https://github.com/ikarma/claude-mythos-ai-anthropic-desktop-app",
+            "stars": 164,
+            "forks": 2,
+            "score": 35
         },
         {
             "main_cat": "AI",
@@ -388,22 +388,22 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
+            "name": "athanor-lite",
+            "full_name": "BBALabs/athanor-lite",
+            "description": "Free GPU detection and local AI model manager. Scans your hardware, recommends compatible models, and handles download + launch in one click.",
+            "url": "https://github.com/BBALabs/athanor-lite",
+            "stars": 8,
+            "forks": 0,
+            "score": 31
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
             "name": "agentkyro-on-stellar",
             "full_name": "David-patrick-chuks/agentkyro-on-stellar",
             "description": "AI agent that turns plain-English requests into zero-knowledge proofs, verified on-chain by a Stellar Soroban contract. Real-World ZK on Stellar \u2014 prove what's true, reveal nothing.",
             "url": "https://github.com/David-patrick-chuks/agentkyro-on-stellar",
             "stars": 10,
-            "forks": 0,
-            "score": 30
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "athanor-lite",
-            "full_name": "BBALabs/athanor-lite",
-            "description": "Free GPU detection and local AI model manager. Scans your hardware, recommends compatible models, and handles download + launch in one click.",
-            "url": "https://github.com/BBALabs/athanor-lite",
-            "stars": 6,
             "forks": 0,
             "score": 30
         },
@@ -684,5 +684,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-07-06 10:03"
+    "timestamp": "2026-07-06 14:21"
 };
