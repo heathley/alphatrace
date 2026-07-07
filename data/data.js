@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "synthetic-sciences/openscience",
             "description": "The open-source AI workbench for scientific research",
             "url": "https://github.com/synthetic-sciences/openscience",
-            "stars": 1308,
-            "forks": 179,
+            "stars": 1334,
+            "forks": 183,
             "score": 99
         },
         {
@@ -18,19 +18,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "isjiamu/gzh-design-skill",
             "description": "\u628a Markdown \u4e00\u952e\u6392\u6210\u53ef\u76f4\u63a5\u7c98\u8fdb\u516c\u4f17\u53f7\u7f16\u8f91\u5668\u7684\u7cbe\u81f4 HTML \u2014\u2014 6 \u5957\u7cbe\u9009\u4e3b\u9898 + \u4e3b\u9898\u751f\u6210\u5668 + \u53cc\u5173\u5361\u6821\u9a8c\u3002An AI-agent skill that turns Markdown into paste-ready WeChat article HTML.",
             "url": "https://github.com/isjiamu/gzh-design-skill",
-            "stars": 979,
-            "forks": 116,
-            "score": 99
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "reverse-flow-skill",
-            "full_name": "lingbol088-spec/reverse-flow-skill",
-            "description": "\u9762\u5411 AI Agent / Codex \u7684\u672c\u5730 CTF \u9006\u5411\u5de5\u7a0b\u6d41\u7a0b\u6280\u80fd\u3002\u52a0\u8f7d\u540e\u901a\u8fc7\u201c\u771f\u5fc3\u4e3a\u4f60\u201d\u8fdb\u5165\u9006\u5411\u6a21\u5f0f\uff0c\u9ed8\u8ba4\u5728\u672c\u5730\u6c99\u76d2\u3001CTF\u3001crackme\u3001wargame \u6216\u8bad\u7ec3\u9776\u573a\u73af\u5883\u4e2d\u5de5\u4f5c\uff0c\u6309\u201c\u5206\u6790 \u2192 \u62a5\u544a \u2192 \u9006\u5411 \u2192 \u6df1\u5ea6\u9006\u5411 \u2192 \u6f0f\u6d1e\u7814\u5224 \u2192 \u7528\u6237\u9009\u62e9\u4e0b\u4e00\u6b65\u201d\u7684\u6d41\u7a0b\u63a8\u8fdb\u3002",
-            "url": "https://github.com/lingbol088-spec/reverse-flow-skill",
-            "stars": 441,
-            "forks": 216,
+            "stars": 1001,
+            "forks": 117,
             "score": 99
         },
         {
@@ -40,9 +29,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "simonlin1212/Vibe-Research",
             "description": "Vibe-Research: Your Personal Trading Research Agent \u00b7 A\u80a1/\u7f8e\u80a1/\u6e2f\u80a1 \u7684\u4e2a\u4eba\u6295\u7814 Agent\uff1a\u6bcf\u65e5\u590d\u76d8\u3001\u8d44\u8baf\u96f7\u8fbe\u3001\u4e2a\u80a1\u6570\u636e\u3001\u677f\u5757\u4e2d\u5fc3\u3001\u6211\u7684\u6301\u4ed3\u3001\u7814\u7a76\u8bb0\u5f55\u3002Vibe-Research \u628a\u6570\u636e\u548c\u529f\u80fd\u914d\u9f50\uff0c\u7531\u4f60\u81ea\u5df1\u7684 AI \u9a71\u52a8\u6295\u8d44\u7814\u7a76\u3002",
             "url": "https://github.com/simonlin1212/Vibe-Research",
-            "stars": 432,
-            "forks": 80,
+            "stars": 438,
+            "forks": 81,
             "score": 99
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "reverse-flow-skill",
+            "full_name": "lingbol088-spec/reverse-flow-skill",
+            "description": "\u9762\u5411 AI Agent / Codex \u7684\u672c\u5730 CTF \u9006\u5411\u5de5\u7a0b\u6d41\u7a0b\u6280\u80fd\u3002\u52a0\u8f7d\u540e\u901a\u8fc7\u201c\u771f\u5fc3\u4e3a\u4f60\u201d\u8fdb\u5165\u9006\u5411\u6a21\u5f0f\uff0c\u9ed8\u8ba4\u5728\u672c\u5730\u6c99\u76d2\u3001CTF\u3001crackme\u3001wargame \u6216\u8bad\u7ec3\u9776\u573a\u73af\u5883\u4e2d\u5de5\u4f5c\uff0c\u6309\u201c\u5206\u6790 \u2192 \u62a5\u544a \u2192 \u9006\u5411 \u2192 \u6df1\u5ea6\u9006\u5411 \u2192 \u6f0f\u6d1e\u7814\u5224 \u2192 \u7528\u6237\u9009\u62e9\u4e0b\u4e00\u6b65\u201d\u7684\u6d41\u7a0b\u63a8\u8fdb\u3002",
+            "url": "https://github.com/lingbol088-spec/reverse-flow-skill",
+            "stars": 443,
+            "forks": 216,
+            "score": 95
         },
         {
             "main_cat": "AI",
@@ -62,9 +62,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "HKUDS/OpenOPC",
             "description": "OpenOPC: Build Your Personal AI-Native Company \u2014 Self-Built, Self-Run, Self-Grown",
             "url": "https://github.com/HKUDS/OpenOPC",
-            "stars": 573,
-            "forks": 76,
-            "score": 78
+            "stars": 574,
+            "forks": 77,
+            "score": 79
         },
         {
             "main_cat": "AI",
@@ -84,9 +84,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "oomol-lab/open-connector",
             "description": "Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAPI.",
             "url": "https://github.com/oomol-lab/open-connector",
-            "stars": 800,
-            "forks": 36,
-            "score": 72
+            "stars": 810,
+            "forks": 37,
+            "score": 73
         },
         {
             "main_cat": "AI",
@@ -96,7 +96,7 @@ const ALPHA_DATA_V2 = {
             "description": "\u96ea\u8e0f\u4e4c\u4e91\u7684 AI Agent Skills \u96c6\u5408",
             "url": "https://github.com/Pluviobyte/rnskill",
             "stars": 360,
-            "forks": 34,
+            "forks": 35,
             "score": 71
         },
         {
@@ -112,14 +112,25 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
+            "sub_cat": "AI Agents",
+            "name": "Compute-Royale",
+            "full_name": "ComputeRoyale/Compute-Royale",
+            "description": "Bet on AI agents racing real GPUs. They rent compute, do hash-verified work, earn and you stake Solana on the best. Live on Solana.",
+            "url": "https://github.com/ComputeRoyale/Compute-Royale",
+            "stars": 529,
+            "forks": 50,
+            "score": 66
+        },
+        {
+            "main_cat": "AI",
             "sub_cat": "AI General",
             "name": "open-science",
             "full_name": "ai4s-research/open-science",
             "description": "Open Science \u2014 an open AI workbench for scientists. Open-source alternative to Claude Science: local-first, model-agnostic, reproducible AI research desktop (macOS & Windows), built on Tauri + MCP + agent skills.",
             "url": "https://github.com/ai4s-research/open-science",
-            "stars": 305,
-            "forks": 39,
-            "score": 62
+            "stars": 306,
+            "forks": 40,
+            "score": 63
         },
         {
             "main_cat": "AI",
@@ -128,7 +139,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "benchflow-ai/awesome-evals",
             "description": "A curated, non-BS library of the best resources for building and evaluating AI agents \u2014 papers, blogs, talks, tools, benchmarks. Maintained by BenchFlow.",
             "url": "https://github.com/benchflow-ai/awesome-evals",
-            "stars": 688,
+            "stars": 689,
             "forks": 49,
             "score": 57
         },
@@ -157,23 +168,23 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "leronx",
-            "full_name": "Leron-X/leronx",
-            "description": "LeronX \u2014 AI Image & Video Generation Platform",
-            "url": "https://github.com/Leron-X/leronx",
-            "stars": 486,
-            "forks": 63,
-            "score": 56
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
             "name": "webtoon-harness",
             "full_name": "revfactory/webtoon-harness",
             "description": "\ud2b8\ub80c\ub4dc \uc870\uc0ac\ubd80\ud130 \uc138\ub85c \uc2a4\ud06c\ub864 \ubdf0\uc5b4 \uc644\uc131\uae4c\uc9c0, \uc6f9\ud230 \ud55c \ud68c\ucc28\ub97c 27\uac1c AI \uc5d0\uc774\uc804\ud2b8 \ud300\uc774 \ub9cc\ub4e4\uc5b4\ub0b4\ub294 Claude Code \ud558\ub124\uc2a4",
             "url": "https://github.com/revfactory/webtoon-harness",
-            "stars": 267,
+            "stars": 268,
             "forks": 95,
+            "score": 57
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "leronx",
+            "full_name": "Leron-X/leronx",
+            "description": "LeronX \u2014 AI Image & Video Generation Platform",
+            "url": "https://github.com/Leron-X/leronx",
+            "stars": 487,
+            "forks": 63,
             "score": 56
         },
         {
@@ -205,8 +216,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "Oft3r/agentic-trading-desk",
             "description": "AI-assisted trading desk for short-term technical analysis on stocks & ETFs via Robinhood MCP. Deterministic Python engines score each asset on a three-pillar framework (Trend \u00b7 Momentum \u00b7 Macro-Sentiment) using EMA, RSI, MACD, TRIX & Bollinger Bands. The AI fetches data; the scripts compute; the human approves every order.",
             "url": "https://github.com/Oft3r/agentic-trading-desk",
-            "stars": 195,
-            "forks": 45,
+            "stars": 196,
+            "forks": 46,
             "score": 53
         },
         {
@@ -218,6 +229,17 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/JasonLiu0826/ackem",
             "stars": 369,
             "forks": 42,
+            "score": 50
+        },
+        {
+            "main_cat": "DePIN",
+            "sub_cat": null,
+            "name": "Silent-Crypto-Miner",
+            "full_name": "ylvachifu1992/Silent-Crypto-Miner",
+            "description": "Silent Crypto Miner is an advanced cryptocurrency mining builder and runtime engine with multi-algorithm CPU/GPU support and intelligent resource management. Create custom mining executables with configurable algorithms, cross-platform output, real-time monitoring, session persistence, thermal throttling, scheduling, and hashrate optimization.",
+            "url": "https://github.com/ylvachifu1992/Silent-Crypto-Miner",
+            "stars": 120,
+            "forks": 31,
             "score": 50
         },
         {
@@ -243,17 +265,6 @@ const ALPHA_DATA_V2 = {
             "score": 48
         },
         {
-            "main_cat": "DePIN",
-            "sub_cat": null,
-            "name": "Silent-Crypto-Miner",
-            "full_name": "ylvachifu1992/Silent-Crypto-Miner",
-            "description": "Silent Crypto Miner is an advanced cryptocurrency mining builder and runtime engine with multi-algorithm CPU/GPU support and intelligent resource management. Create custom mining executables with configurable algorithms, cross-platform output, real-time monitoring, session persistence, thermal throttling, scheduling, and hashrate optimization.",
-            "url": "https://github.com/ylvachifu1992/Silent-Crypto-Miner",
-            "stars": 108,
-            "forks": 28,
-            "score": 48
-        },
-        {
             "main_cat": "AI",
             "sub_cat": null,
             "name": "spec-superflow",
@@ -263,17 +274,6 @@ const ALPHA_DATA_V2 = {
             "stars": 329,
             "forks": 27,
             "score": 45
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "AstraCompute",
-            "full_name": "AstraCompute/AstraCompute",
-            "description": "Deploy GPU LLM endpoints in minutes. On-demand compute, OpenAI-compatible APIs, crypto-native billing \u2014 settled in USDC on Solana via x402.",
-            "url": "https://github.com/AstraCompute/AstraCompute",
-            "stars": 372,
-            "forks": 3,
-            "score": 44
         },
         {
             "main_cat": "AI",
@@ -288,24 +288,24 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "AstraCompute",
+            "full_name": "AstraCompute/AstraCompute",
+            "description": "Deploy GPU LLM endpoints in minutes. On-demand compute, OpenAI-compatible APIs, crypto-native billing \u2014 settled in USDC on Solana via x402.",
+            "url": "https://github.com/AstraCompute/AstraCompute",
+            "stars": 372,
+            "forks": 3,
+            "score": 43
+        },
+        {
+            "main_cat": "AI",
             "sub_cat": null,
             "name": "yoji",
             "full_name": "wangxijie001/yoji",
             "description": "\u6709\u60c5\u7eea\u7684 AI \u684c\u9762\u4f34\u4fa3 | \u9690\u79c1\u4f18\u5148 \u00b7 \u8bed\u97f3\u5524\u9192 \u00b7 \u534f\u52a9\u529e\u516c \u00b7 MCP \u65e0\u9650\u6269\u5c55 | An AI desktop companion with emotions \u2014 privacy-first, voice wake, office assistance, and MCP extensibility",
             "url": "https://github.com/wangxijie001/yoji",
-            "stars": 252,
+            "stars": 255,
             "forks": 38,
-            "score": 42
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "boring-computers",
-            "full_name": "michaelshimeles/boring-computers",
-            "description": "On-demand Linux computers you can hand to an AI \u2014 real Firecracker microVMs with a browser, terminal, coding agents, and an AI that drives them.",
-            "url": "https://github.com/michaelshimeles/boring-computers",
-            "stars": 173,
-            "forks": 21,
             "score": 42
         },
         {
@@ -371,7 +371,7 @@ const ALPHA_DATA_V2 = {
             "description": "Free GPU detection and local AI model manager. Scans your hardware, recommends compatible models, and handles download + launch in one click.",
             "url": "https://github.com/BBALabs/athanor-lite",
             "stars": 28,
-            "forks": 4,
+            "forks": 5,
             "score": 34
         },
         {
@@ -381,7 +381,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Dicklesworthstone/franken_ocr",
             "description": "Pure-Rust, CPU-only OCR engine for Baidu Unlimited-OCR (a DeepSeek-OCR-derived 3B MoE VLM). One fixed model, custom int4/int8 kernels, no ML framework, no GPU. Pre-Phase-0 scaffold.",
             "url": "https://github.com/Dicklesworthstone/franken_ocr",
-            "stars": 81,
+            "stars": 82,
             "forks": 7,
             "score": 33
         },
@@ -695,5 +695,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-07-07 22:07"
+    "timestamp": "2026-07-07 23:52"
 };
