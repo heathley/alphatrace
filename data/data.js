@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "synthetic-sciences/openscience",
             "description": "The open-source AI workbench for scientific research",
             "url": "https://github.com/synthetic-sciences/openscience",
-            "stars": 1724,
-            "forks": 243,
+            "stars": 1730,
+            "forks": 244,
             "score": 99
         },
         {
@@ -18,7 +18,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "isjiamu/gzh-design-skill",
             "description": "\u628a Markdown \u4e00\u952e\u6392\u6210\u53ef\u76f4\u63a5\u7c98\u8fdb\u516c\u4f17\u53f7\u7f16\u8f91\u5668\u7684\u7cbe\u81f4 HTML \u2014\u2014 6 \u5957\u7cbe\u9009\u4e3b\u9898 + \u4e3b\u9898\u751f\u6210\u5668 + \u53cc\u5173\u5361\u6821\u9a8c\u3002An AI-agent skill that turns Markdown into paste-ready WeChat article HTML.",
             "url": "https://github.com/isjiamu/gzh-design-skill",
-            "stars": 1492,
+            "stars": 1495,
             "forks": 168,
             "score": 99
         },
@@ -29,7 +29,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "simonlin1212/Vibe-Research",
             "description": "Vibe-Research: Your Personal Trading Research Agent \u00b7 A\u80a1/\u7f8e\u80a1/\u6e2f\u80a1 \u7684\u4e2a\u4eba\u6295\u7814 Agent\uff1a\u6bcf\u65e5\u590d\u76d8\u3001\u8d44\u8baf\u96f7\u8fbe\u3001\u4e2a\u80a1\u6570\u636e\u3001\u677f\u5757\u4e2d\u5fc3\u3001\u6211\u7684\u6301\u4ed3\u3001\u7814\u7a76\u8bb0\u5f55\u3002Vibe-Research \u628a\u6570\u636e\u548c\u529f\u80fd\u914d\u9f50\uff0c\u7531\u4f60\u81ea\u5df1\u7684 AI \u9a71\u52a8\u6295\u8d44\u7814\u7a76\u3002",
             "url": "https://github.com/simonlin1212/Vibe-Research",
-            "stars": 548,
+            "stars": 549,
             "forks": 106,
             "score": 99
         },
@@ -42,18 +42,7 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/lingbol088-spec/reverse-flow-skill",
             "stars": 455,
             "forks": 222,
-            "score": 97
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI Agents",
-            "name": "Cognitive-Core-Skills",
-            "full_name": "eli-labz/Cognitive-Core-Skills",
-            "description": "A universal, industry-neutral taxonomy of cognitive core skills (perception, memory, reasoning, planning, action, verification, learning, governance) for LLMs, SLMs, AI agents, and world models \u2014 with schemas, 159 skill cards, benchmarks, and CI.",
-            "url": "https://github.com/eli-labz/Cognitive-Core-Skills",
-            "stars": 273,
-            "forks": 77,
-            "score": 88
+            "score": 91
         },
         {
             "main_cat": "AI",
@@ -65,6 +54,17 @@ const ALPHA_DATA_V2 = {
             "stars": 991,
             "forks": 47,
             "score": 79
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI Agents",
+            "name": "Cognitive-Core-Skills",
+            "full_name": "eli-labz/Cognitive-Core-Skills",
+            "description": "A universal, industry-neutral taxonomy of cognitive core skills (perception, memory, reasoning, planning, action, verification, learning, governance) for LLMs, SLMs, AI agents, and world models \u2014 with schemas, 159 skill cards, benchmarks, and CI.",
+            "url": "https://github.com/eli-labz/Cognitive-Core-Skills",
+            "stars": 273,
+            "forks": 77,
+            "score": 78
         },
         {
             "main_cat": "AI",
@@ -84,9 +84,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "jmerelnyc/Talos",
             "description": "GPU worker client for the Talos network. Pairs with your Talos account, serves open-model inference jobs over a WebSocket, and reports uptime for payouts.",
             "url": "https://github.com/jmerelnyc/Talos",
-            "stars": 774,
+            "stars": 776,
             "forks": 13,
-            "score": 75
+            "score": 76
         },
         {
             "main_cat": "AI",
@@ -95,7 +95,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "nexu-io/motion-anything",
             "description": "\u2728 The agentic motion layer \u2014 an open-source, chat-native motion engine. Describe the feeling; your AI ships the animation.",
             "url": "https://github.com/nexu-io/motion-anything",
-            "stars": 295,
+            "stars": 296,
             "forks": 27,
             "score": 70
         },
@@ -106,8 +106,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "Pluviobyte/rnskill",
             "description": "\u96ea\u8e0f\u4e4c\u4e91\u7684 AI Agent Skills \u96c6\u5408",
             "url": "https://github.com/Pluviobyte/rnskill",
-            "stars": 381,
-            "forks": 36,
+            "stars": 382,
+            "forks": 37,
             "score": 67
         },
         {
@@ -128,7 +128,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "ai4s-research/open-science",
             "description": "Open Science \u2014 an open AI workbench for scientists. Open-source alternative to Claude Science: local-first, model-agnostic, reproducible AI research desktop (macOS & Windows), built on Tauri + MCP + agent skills.",
             "url": "https://github.com/ai4s-research/open-science",
-            "stars": 385,
+            "stars": 387,
             "forks": 42,
             "score": 64
         },
@@ -150,9 +150,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "wassermanproductions/motion-previs-studio",
             "description": "Open-source desktop app for AI-film motion, depth, pose, and camera-move previsualization.",
             "url": "https://github.com/wassermanproductions/motion-previs-studio",
-            "stars": 170,
+            "stars": 172,
             "forks": 27,
-            "score": 57
+            "score": 58
         },
         {
             "main_cat": "AI",
@@ -179,24 +179,13 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "Autonomous-Forge",
-            "full_name": "OmarH-creator/Autonomous-Forge",
-            "description": "This repo is automated and is fully AI-built and AI-maintained project that continuously plans, codes, tests, and improves itself.",
-            "url": "https://github.com/OmarH-creator/Autonomous-Forge",
-            "stars": 187,
-            "forks": 6,
-            "score": 56
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
             "name": "video-production-skills",
             "full_name": "Pluviobyte/video-production-skills",
             "description": "Reusable AI video production skills library for creation, recreation, motion design, openers, and QA.",
             "url": "https://github.com/Pluviobyte/video-production-skills",
             "stars": 524,
-            "forks": 63,
-            "score": 55
+            "forks": 64,
+            "score": 56
         },
         {
             "main_cat": "AI",
@@ -245,6 +234,17 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
+            "name": "Autonomous-Forge",
+            "full_name": "OmarH-creator/Autonomous-Forge",
+            "description": "This repo is automated and is fully AI-built and AI-maintained project that continuously plans, codes, tests, and improves itself.",
+            "url": "https://github.com/OmarH-creator/Autonomous-Forge",
+            "stars": 190,
+            "forks": 6,
+            "score": 51
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
             "name": "AI-auto-generate-video",
             "full_name": "huytranvan2010/AI-auto-generate-video",
             "description": "Auto generate AI video with hyperframes",
@@ -260,7 +260,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "JasonLiu0826/ackem",
             "description": "Ackem \u2014 \u672c\u5730\u4f18\u5148 AI \u684c\u9762\u966a\u4f34 \u00b7 Local-first AI desktop companion. \u9690\u79c1\u6570\u636e\u4e0d\u4e0a\u4f20\uff0c\u652f\u6301\u8bb0\u5fc6/\u60c5\u7eea/\u6269\u5c55/ \u3002AGPL-3.0",
             "url": "https://github.com/JasonLiu0826/ackem",
-            "stars": 370,
+            "stars": 371,
             "forks": 42,
             "score": 49
         },
@@ -348,7 +348,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Dicklesworthstone/franken_ocr",
             "description": "Pure-Rust, CPU-only OCR engine for Baidu Unlimited-OCR (a DeepSeek-OCR-derived 3B MoE VLM). One fixed model, custom int4/int8 kernels, no ML framework, no GPU. Pre-Phase-0 scaffold.",
             "url": "https://github.com/Dicklesworthstone/franken_ocr",
-            "stars": 169,
+            "stars": 171,
             "forks": 13,
             "score": 36
         },
@@ -684,5 +684,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-07-08 20:59"
+    "timestamp": "2026-07-08 22:12"
 };
