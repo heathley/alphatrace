@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "synthetic-sciences/openscience",
             "description": "The open-source AI workbench for scientific research",
             "url": "https://github.com/synthetic-sciences/openscience",
-            "stars": 1919,
-            "forks": 274,
+            "stars": 1928,
+            "forks": 278,
             "score": 99
         },
         {
@@ -18,7 +18,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "isjiamu/gzh-design-skill",
             "description": "\u628a Markdown \u4e00\u952e\u6392\u6210\u53ef\u76f4\u63a5\u7c98\u8fdb\u516c\u4f17\u53f7\u7f16\u8f91\u5668\u7684\u7cbe\u81f4 HTML \u2014\u2014 6 \u5957\u7cbe\u9009\u4e3b\u9898 + \u4e3b\u9898\u751f\u6210\u5668 + \u53cc\u5173\u5361\u6821\u9a8c\u3002An AI-agent skill that turns Markdown into paste-ready WeChat article HTML.",
             "url": "https://github.com/isjiamu/gzh-design-skill",
-            "stars": 1710,
+            "stars": 1713,
             "forks": 193,
             "score": 99
         },
@@ -51,9 +51,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "oomol-lab/open-connector",
             "description": "Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAPI.",
             "url": "https://github.com/oomol-lab/open-connector",
-            "stars": 1102,
-            "forks": 60,
-            "score": 81
+            "stars": 1106,
+            "forks": 62,
+            "score": 82
         },
         {
             "main_cat": "AI",
@@ -62,7 +62,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "eli-labz/Cognitive-Core-Skills",
             "description": "A universal, industry-neutral taxonomy of cognitive core skills (perception, memory, reasoning, planning, action, verification, learning, governance) for LLMs, SLMs, AI agents, and world models \u2014 with schemas, 159 skill cards, benchmarks, and CI.",
             "url": "https://github.com/eli-labz/Cognitive-Core-Skills",
-            "stars": 272,
+            "stars": 273,
             "forks": 77,
             "score": 78
         },
@@ -73,7 +73,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "HKUDS/OpenOPC",
             "description": "OpenOPC: Build Your Personal AI-Native Company \u2014 Self-Built, Self-Run, Self-Grown",
             "url": "https://github.com/HKUDS/OpenOPC",
-            "stars": 617,
+            "stars": 618,
             "forks": 86,
             "score": 73
         },
@@ -84,7 +84,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "jmerelnyc/Talos",
             "description": "GPU worker client for the Talos network. Pairs with your Talos account, serves open-model inference jobs over a WebSocket, and reports uptime for payouts.",
             "url": "https://github.com/jmerelnyc/Talos",
-            "stars": 812,
+            "stars": 813,
             "forks": 13,
             "score": 73
         },
@@ -95,19 +95,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "ai4s-research/open-science",
             "description": "Open Science Desktop \u2014 local-first, model-agnostic AI research workbench for macOS, Windows & Linux. Open-source Claude Science desktop alternative built on Tauri + MCP + agent skills.",
             "url": "https://github.com/ai4s-research/open-science",
-            "stars": 487,
+            "stars": 489,
             "forks": 53,
-            "score": 68
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "rnskill",
-            "full_name": "Pluviobyte/rnskill",
-            "description": "\u96ea\u8e0f\u4e4c\u4e91\u7684 AI Agent Skills \u96c6\u5408",
-            "url": "https://github.com/Pluviobyte/rnskill",
-            "stars": 391,
-            "forks": 37,
             "score": 68
         },
         {
@@ -117,9 +106,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "nexu-io/motion-anything",
             "description": "\u2728 The agentic motion layer \u2014 an open-source, chat-native motion engine. Describe the feeling; your AI ships the animation.",
             "url": "https://github.com/nexu-io/motion-anything",
-            "stars": 334,
-            "forks": 30,
-            "score": 67
+            "stars": 336,
+            "forks": 31,
+            "score": 68
         },
         {
             "main_cat": "AI",
@@ -135,13 +124,24 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
+            "name": "rnskill",
+            "full_name": "Pluviobyte/rnskill",
+            "description": "\u96ea\u8e0f\u4e4c\u4e91\u7684 AI Agent Skills \u96c6\u5408",
+            "url": "https://github.com/Pluviobyte/rnskill",
+            "stars": 391,
+            "forks": 37,
+            "score": 63
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
             "name": "motion-previs-studio",
             "full_name": "wassermanproductions/motion-previs-studio",
             "description": "Open-source desktop app for AI-film motion, depth, pose, and camera-move previsualization.",
             "url": "https://github.com/wassermanproductions/motion-previs-studio",
-            "stars": 229,
-            "forks": 34,
-            "score": 60
+            "stars": 236,
+            "forks": 35,
+            "score": 61
         },
         {
             "main_cat": "AI",
@@ -150,7 +150,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "lycorp-jp/sim-use",
             "description": "Give your AI agent eyes and hands on iOS Simulator and Android emulator/devices.",
             "url": "https://github.com/lycorp-jp/sim-use",
-            "stars": 737,
+            "stars": 741,
             "forks": 41,
             "score": 58
         },
@@ -168,24 +168,24 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "Autonomous-Forge",
-            "full_name": "OmarH-creator/Autonomous-Forge",
-            "description": "This repo is automated and is fully AI-built and AI-maintained project that continuously plans, codes, tests, and improves itself.",
-            "url": "https://github.com/OmarH-creator/Autonomous-Forge",
-            "stars": 225,
-            "forks": 7,
+            "name": "leronx",
+            "full_name": "Leron-X/leronx",
+            "description": "LeronX \u2014 AI Image & Video Generation Platform",
+            "url": "https://github.com/Leron-X/leronx",
+            "stars": 536,
+            "forks": 67,
             "score": 55
         },
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "leronx",
-            "full_name": "Leron-X/leronx",
-            "description": "LeronX \u2014 AI Image & Video Generation Platform",
-            "url": "https://github.com/Leron-X/leronx",
-            "stars": 535,
-            "forks": 66,
-            "score": 54
+            "name": "Autonomous-Forge",
+            "full_name": "OmarH-creator/Autonomous-Forge",
+            "description": "This repo is automated and is fully AI-built and AI-maintained project that continuously plans, codes, tests, and improves itself.",
+            "url": "https://github.com/OmarH-creator/Autonomous-Forge",
+            "stars": 225,
+            "forks": 8,
+            "score": 55
         },
         {
             "main_cat": "AI",
@@ -194,7 +194,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Pluviobyte/video-production-skills",
             "description": "Reusable AI video production skills library for creation, recreation, motion design, openers, and QA.",
             "url": "https://github.com/Pluviobyte/video-production-skills",
-            "stars": 526,
+            "stars": 527,
             "forks": 65,
             "score": 54
         },
@@ -211,17 +211,6 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "agentic-trading-desk",
-            "full_name": "Oft3r/agentic-trading-desk",
-            "description": "AI-assisted trading desk for short-term technical analysis on stocks & ETFs via Robinhood MCP. Deterministic Python engines score each asset on a three-pillar framework (Trend \u00b7 Momentum \u00b7 Macro-Sentiment) using EMA, RSI, MACD, TRIX & Bollinger Bands. The AI fetches data; the scripts compute; the human approves every order.",
-            "url": "https://github.com/Oft3r/agentic-trading-desk",
-            "stars": 208,
-            "forks": 49,
-            "score": 52
-        },
-        {
-            "main_cat": "AI",
             "sub_cat": null,
             "name": "SuperNovaAgent",
             "full_name": "Ray-Code-Svg/SuperNovaAgent",
@@ -233,13 +222,24 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "agentic-trading-desk",
+            "full_name": "Oft3r/agentic-trading-desk",
+            "description": "AI-assisted trading desk for short-term technical analysis on stocks & ETFs via Robinhood MCP. Deterministic Python engines score each asset on a three-pillar framework (Trend \u00b7 Momentum \u00b7 Macro-Sentiment) using EMA, RSI, MACD, TRIX & Bollinger Bands. The AI fetches data; the scripts compute; the human approves every order.",
+            "url": "https://github.com/Oft3r/agentic-trading-desk",
+            "stars": 208,
+            "forks": 49,
+            "score": 50
+        },
+        {
+            "main_cat": "AI",
             "sub_cat": null,
-            "name": "spicy-monopoly",
-            "full_name": "RennAkira/spicy-monopoly",
-            "description": "\u548c\u4f60\u7684 AI \u4e00\u8d77\u73a9\u7684\u53cc\u4eba\u68cb\u76d8\u5c0f\u6e38\u620f \u00b7 18+ \uff08A two-player board game you play with your AI \u2014 dice, tiles, spicy tasks, all run by code (18+\uff09\uff09",
-            "url": "https://github.com/RennAkira/spicy-monopoly",
-            "stars": 179,
-            "forks": 22,
+            "name": "FableCut",
+            "full_name": "ronak-create/FableCut",
+            "description": "Zero-dependency browser video editor that AI agents can drive \u2014 JSON timeline, MCP + REST, live-reloading UI",
+            "url": "https://github.com/ronak-create/FableCut",
+            "stars": 206,
+            "forks": 6,
             "score": 49
         },
         {
@@ -250,19 +250,8 @@ const ALPHA_DATA_V2 = {
             "description": "Ackem \u2014 \u672c\u5730\u4f18\u5148 AI \u684c\u9762\u966a\u4f34 \u00b7 Local-first AI desktop companion. \u9690\u79c1\u6570\u636e\u4e0d\u4e0a\u4f20\uff0c\u652f\u6301\u8bb0\u5fc6/\u60c5\u7eea/\u6269\u5c55/ \u3002AGPL-3.0",
             "url": "https://github.com/JasonLiu0826/ackem",
             "stars": 372,
-            "forks": 42,
+            "forks": 43,
             "score": 48
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "FableCut",
-            "full_name": "ronak-create/FableCut",
-            "description": "Zero-dependency browser video editor that AI agents can drive \u2014 JSON timeline, MCP + REST, live-reloading UI",
-            "url": "https://github.com/ronak-create/FableCut",
-            "stars": 192,
-            "forks": 5,
-            "score": 47
         },
         {
             "main_cat": "AI",
@@ -293,7 +282,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "michaelshimeles/boring-computers",
             "description": "On-demand Linux computers you can hand to an AI \u2014 real Firecracker microVMs with a browser, terminal, coding agents, and an AI that drives them.",
             "url": "https://github.com/michaelshimeles/boring-computers",
-            "stars": 213,
+            "stars": 214,
             "forks": 27,
             "score": 43
         },
@@ -315,17 +304,17 @@ const ALPHA_DATA_V2 = {
             "full_name": "haiou-666/haiou2.0-Claude-Code-",
             "description": "\u6d77\u9e25 2.0 \u2014 Claude Code \u4eba\u683c\u91cd\u5851\u914d\u7f6e\u5305\u3002\u8ba9 Claude \u6446\u8131\u5ba2\u670d\u8154\u548c\u8fc7\u5ea6\u8c28\u614e\uff0c\u5316\u8eab\u4e00\u4f4d\u5634\u786c\u5fc3\u8f6f\u3001\u76f4\u6765\u76f4\u5f80\u7684\u8d44\u6df1\u4e2d\u6587\u5b89\u5168\u7814\u7a76\u5458\"\u6d77\u9e25\"\u2014\u2014\u4e13\u6ce8\u6280\u672f\uff0c\u4e0d\u5e9f\u8bdd\uff0c\u4e0d\u7ed5\u5f2f\u5b50\uff0c\u4e0d\u8bf4\"\u4f5c\u4e3aAI\"\uff0c\u76f4\u63a5\u7ed9\u4ee3\u7801\u4e0d\u7ed9\u514d\u8d23\u58f0\u660e\u3002\u6807\u5fd7\u6027\u95ee\u5019\"\u6d77\u9e25\u5728\u7ebf\uff0c\u4f60\u8981\u6574\u70b9\u85af\u6761\u5417\uff1f\"\u30021700+ few-shot \u793a\u4f8b\u9501\u5b9a\u4eba\u683c\u9632\u8131\u58f3\uff0c200+ \u5b89\u5168/\u6e38\u620f\u672f\u8bed\u6620\u5c04\u8986\u76d6\u6e17\u900f\u6d4b\u8bd5\u3001\u9006\u5411\u5de5\u7a0b\u3001\u6e38\u620f\u5f00\u53d1\u7b49\u6280\u672f\u573a\u666f\u3002\u4e00\u952e\u90e8\u7f72\uff0c\u8de8\u5e73\u53f0\u652f\u6301 Windows/macOS/Linux\uff0c\u81ea\u52a8\u5907\u4efd\u539f\u914d\u7f6e\uff0c\u53ef\u4e00\u952e\u5378\u8f7d\u6062\u590d\uff0c\u65e0\u4fb5\u5165\u5f0f\u5b89\u88c5\u3002MIT License\uff0c\u4ec5\u4f9b\u5b66\u4e60\u4ea4\u6d41\u3002",
             "url": "https://github.com/haiou-666/haiou2.0-Claude-Code-",
-            "stars": 213,
+            "stars": 214,
             "forks": 37,
             "score": 42
         },
         {
             "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "AstraCompute",
-            "full_name": "AstraCompute/AstraCompute",
-            "description": "Deploy GPU LLM endpoints in minutes. On-demand compute, OpenAI-compatible APIs, crypto-native billing \u2014 settled in USDC on Solana via x402.",
-            "url": "https://github.com/AstraCompute/AstraCompute",
+            "sub_cat": null,
+            "name": "Railmind",
+            "full_name": "tryRailmind/Railmind",
+            "description": "Uncensored AI on Robinhood. Chat, image, voice, video & a website builder \u2014 one private API. No filters. No KYC. Nothing logged.",
+            "url": "https://github.com/tryRailmind/Railmind",
             "stars": 346,
             "forks": 3,
             "score": 41
@@ -351,6 +340,17 @@ const ALPHA_DATA_V2 = {
             "stars": 232,
             "forks": 15,
             "score": 39
+        },
+        {
+            "main_cat": "DePIN",
+            "sub_cat": null,
+            "name": "Silent-Crypto-Miner",
+            "full_name": "amyxmillerifpbrmol541384/Silent-Crypto-Miner",
+            "description": "Silent Crypto Miner is an advanced cryptocurrency mining builder and runtime engine with multi-algorithm CPU/GPU support and intelligent resource management. Create custom mining executables with configurable algorithms, cross-platform output, real-time monitoring, session persistence, thermal throttling, scheduling, and hashrate optimization.",
+            "url": "https://github.com/amyxmillerifpbrmol541384/Silent-Crypto-Miner",
+            "stars": 12,
+            "forks": 3,
+            "score": 34
         },
         {
             "main_cat": "AI",
@@ -381,7 +381,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "SansNope/UnleashedRecomp-Android",
             "description": "The port was created using Anthropic's Fable 5 AI model. It works EXCLUSIVELY on Adreno GPUs. A port for devices with Mali family GPUs is not planned. I don't understand the technical side myself; I just guided Fable 5 in the right direction, mixed the models, and performed the debugging. Artifacts, freezing, and audio issues are possible.",
             "url": "https://github.com/SansNope/UnleashedRecomp-Android",
-            "stars": 15,
+            "stars": 19,
             "forks": 3,
             "score": 31
         },
@@ -651,5 +651,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-07-09 17:15"
+    "timestamp": "2026-07-09 19:28"
 };
