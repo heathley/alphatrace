@@ -7,7 +7,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "synthetic-sciences/openscience",
             "description": "The open-source AI workbench for scientific research",
             "url": "https://github.com/synthetic-sciences/openscience",
-            "stars": 1931,
+            "stars": 1935,
             "forks": 278,
             "score": 99
         },
@@ -18,7 +18,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "isjiamu/gzh-design-skill",
             "description": "\u628a Markdown \u4e00\u952e\u6392\u6210\u53ef\u76f4\u63a5\u7c98\u8fdb\u516c\u4f17\u53f7\u7f16\u8f91\u5668\u7684\u7cbe\u81f4 HTML \u2014\u2014 6 \u5957\u7cbe\u9009\u4e3b\u9898 + \u4e3b\u9898\u751f\u6210\u5668 + \u53cc\u5173\u5361\u6821\u9a8c\u3002An AI-agent skill that turns Markdown into paste-ready WeChat article HTML.",
             "url": "https://github.com/isjiamu/gzh-design-skill",
-            "stars": 1716,
+            "stars": 1720,
             "forks": 193,
             "score": 99
         },
@@ -42,7 +42,7 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/lingbol088-spec/reverse-flow-skill",
             "stars": 473,
             "forks": 227,
-            "score": 92
+            "score": 87
         },
         {
             "main_cat": "AI",
@@ -51,20 +51,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "oomol-lab/open-connector",
             "description": "Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAPI.",
             "url": "https://github.com/oomol-lab/open-connector",
-            "stars": 1108,
+            "stars": 1114,
             "forks": 62,
             "score": 82
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI Agents",
-            "name": "Cognitive-Core-Skills",
-            "full_name": "eli-labz/Cognitive-Core-Skills",
-            "description": "A universal, industry-neutral taxonomy of cognitive core skills (perception, memory, reasoning, planning, action, verification, learning, governance) for LLMs, SLMs, AI agents, and world models \u2014 with schemas, 159 skill cards, benchmarks, and CI.",
-            "url": "https://github.com/eli-labz/Cognitive-Core-Skills",
-            "stars": 273,
-            "forks": 77,
-            "score": 78
         },
         {
             "main_cat": "AI",
@@ -90,12 +79,23 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
+            "sub_cat": "AI Agents",
+            "name": "Cognitive-Core-Skills",
+            "full_name": "eli-labz/Cognitive-Core-Skills",
+            "description": "A universal, industry-neutral taxonomy of cognitive core skills (perception, memory, reasoning, planning, action, verification, learning, governance) for LLMs, SLMs, AI agents, and world models \u2014 with schemas, 159 skill cards, benchmarks, and CI.",
+            "url": "https://github.com/eli-labz/Cognitive-Core-Skills",
+            "stars": 273,
+            "forks": 77,
+            "score": 71
+        },
+        {
+            "main_cat": "AI",
             "sub_cat": "AI General",
             "name": "open-science",
             "full_name": "ai4s-research/open-science",
             "description": "Open Science Desktop \u2014 local-first, model-agnostic AI research workbench for macOS, Windows & Linux. Open-source Claude Science desktop alternative built on Tauri + MCP + agent skills.",
             "url": "https://github.com/ai4s-research/open-science",
-            "stars": 490,
+            "stars": 493,
             "forks": 53,
             "score": 69
         },
@@ -106,7 +106,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "nexu-io/motion-anything",
             "description": "\u2728 The agentic motion layer \u2014 an open-source, chat-native motion engine. Describe the feeling; your AI ships the animation.",
             "url": "https://github.com/nexu-io/motion-anything",
-            "stars": 340,
+            "stars": 342,
             "forks": 31,
             "score": 68
         },
@@ -117,7 +117,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Kulaxyz/self-learning-skills",
             "description": "A self-improving skill for AI coding agents (Claude Code, Cursor, AGENTS.md): recognize a hard-won golden path in a session and harvest it into a reusable skill/rule for next time.",
             "url": "https://github.com/Kulaxyz/self-learning-skills",
-            "stars": 841,
+            "stars": 842,
             "forks": 27,
             "score": 63
         },
@@ -139,7 +139,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "wassermanproductions/motion-previs-studio",
             "description": "Open-source desktop app for AI-film motion, depth, pose, and camera-move previsualization.",
             "url": "https://github.com/wassermanproductions/motion-previs-studio",
-            "stars": 240,
+            "stars": 241,
             "forks": 35,
             "score": 61
         },
@@ -150,7 +150,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "lycorp-jp/sim-use",
             "description": "Give your AI agent eyes and hands on iOS Simulator and Android emulator/devices.",
             "url": "https://github.com/lycorp-jp/sim-use",
-            "stars": 741,
+            "stars": 742,
             "forks": 41,
             "score": 58
         },
@@ -222,6 +222,17 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
+            "sub_cat": null,
+            "name": "FableCut",
+            "full_name": "ronak-create/FableCut",
+            "description": "Zero-dependency browser video editor that AI agents can drive \u2014 JSON timeline, MCP + REST, live-reloading UI",
+            "url": "https://github.com/ronak-create/FableCut",
+            "stars": 218,
+            "forks": 7,
+            "score": 50
+        },
+        {
+            "main_cat": "AI",
             "sub_cat": "AI General",
             "name": "agentic-trading-desk",
             "full_name": "Oft3r/agentic-trading-desk",
@@ -230,17 +241,6 @@ const ALPHA_DATA_V2 = {
             "stars": 208,
             "forks": 49,
             "score": 50
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "FableCut",
-            "full_name": "ronak-create/FableCut",
-            "description": "Zero-dependency browser video editor that AI agents can drive \u2014 JSON timeline, MCP + REST, live-reloading UI",
-            "url": "https://github.com/ronak-create/FableCut",
-            "stars": 214,
-            "forks": 6,
-            "score": 49
         },
         {
             "main_cat": "AI",
@@ -293,7 +293,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "fendouai/humanize-text-skill",
             "description": "Free AI Humanizer: Humanize AI Text Online",
             "url": "https://github.com/fendouai/humanize-text-skill",
-            "stars": 207,
+            "stars": 208,
             "forks": 1,
             "score": 43
         },
@@ -342,6 +342,17 @@ const ALPHA_DATA_V2 = {
             "score": 39
         },
         {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "StellarPulse",
+            "full_name": "Steller-StellarPulse-org/StellarPulse",
+            "description": "Stellar Pulse is a decentralized prediction market built on Stellar/Soroban. Users connect a wallet, bet XLM on YES/NO markets, earn PULSE tokens and points, and claim payouts on-chain.",
+            "url": "https://github.com/Steller-StellarPulse-org/StellarPulse",
+            "stars": 6,
+            "forks": 6,
+            "score": 35
+        },
+        {
             "main_cat": "DePIN",
             "sub_cat": null,
             "name": "Silent-Crypto-Miner",
@@ -351,17 +362,6 @@ const ALPHA_DATA_V2 = {
             "stars": 12,
             "forks": 3,
             "score": 34
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "HermesAgent-MultiModel",
-            "full_name": "InfiniteWhispers/HermesAgent-MultiModel",
-            "description": "A fully-local, multi-model AI agent framework with Mixture-of-Agents (MoA) orchestration. Run a high-performance agentic stack on consumer GPUs (RTX 4080/5080) using Hermes + Ollama, with zero cloud dependencies.",
-            "url": "https://github.com/InfiniteWhispers/HermesAgent-MultiModel",
-            "stars": 50,
-            "forks": 7,
-            "score": 33
         },
         {
             "main_cat": "AI",
@@ -377,22 +377,22 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
-            "name": "UnleashedRecomp-Android",
-            "full_name": "SansNope/UnleashedRecomp-Android",
-            "description": "The port was created using Anthropic's Fable 5 AI model. It works EXCLUSIVELY on Adreno GPUs. A port for devices with Mali family GPUs is not planned. I don't understand the technical side myself; I just guided Fable 5 in the right direction, mixed the models, and performed the debugging. Artifacts, freezing, and audio issues are possible.",
-            "url": "https://github.com/SansNope/UnleashedRecomp-Android",
-            "stars": 20,
-            "forks": 3,
+            "name": "HermesAgent-MultiModel",
+            "full_name": "InfiniteWhispers/HermesAgent-MultiModel",
+            "description": "A fully-local, multi-model AI agent framework with Mixture-of-Agents (MoA) orchestration. Run a high-performance agentic stack on consumer GPUs (RTX 4080/5080) using Hermes + Ollama, with zero cloud dependencies.",
+            "url": "https://github.com/InfiniteWhispers/HermesAgent-MultiModel",
+            "stars": 50,
+            "forks": 7,
             "score": 32
         },
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
-            "name": "StellarPulse",
-            "full_name": "Steller-StellarPulse-org/StellarPulse",
-            "description": "Stellar Pulse is a decentralized prediction market built on Stellar/Soroban. Users connect a wallet, bet XLM on YES/NO markets, earn PULSE tokens and points, and claim payouts on-chain.",
-            "url": "https://github.com/Steller-StellarPulse-org/StellarPulse",
-            "stars": 5,
+            "name": "UnleashedRecomp-Android",
+            "full_name": "SansNope/UnleashedRecomp-Android",
+            "description": "The port was created using Anthropic's Fable 5 AI model. It works EXCLUSIVELY on Adreno GPUs. A port for devices with Mali family GPUs is not planned. I don't understand the technical side myself; I just guided Fable 5 in the right direction, mixed the models, and performed the debugging. Artifacts, freezing, and audio issues are possible.",
+            "url": "https://github.com/SansNope/UnleashedRecomp-Android",
+            "stars": 20,
             "forks": 3,
             "score": 32
         },
@@ -651,5 +651,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-07-09 21:16"
+    "timestamp": "2026-07-09 23:05"
 };
