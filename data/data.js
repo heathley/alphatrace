@@ -7,7 +7,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "synthetic-sciences/openscience",
             "description": "The open-source AI workbench for scientific research",
             "url": "https://github.com/synthetic-sciences/openscience",
-            "stars": 2069,
+            "stars": 2071,
             "forks": 294,
             "score": 99
         },
@@ -29,8 +29,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "simonlin1212/Vibe-Research",
             "description": "Vibe-Research: Your Personal Trading Research Agent \u00b7 A\u80a1/\u7f8e\u80a1/\u6e2f\u80a1 \u7684\u4e2a\u4eba\u6295\u7814 Agent\uff1a\u6bcf\u65e5\u590d\u76d8\u3001\u8d44\u8baf\u96f7\u8fbe\u3001\u4e2a\u80a1\u6570\u636e\u3001\u677f\u5757\u4e2d\u5fc3\u3001\u6211\u7684\u6301\u4ed3\u3001\u7814\u7a76\u8bb0\u5f55\u3002Vibe-Research \u628a\u6570\u636e\u548c\u529f\u80fd\u914d\u9f50\uff0c\u7531\u4f60\u81ea\u5df1\u7684 AI \u9a71\u52a8\u6295\u8d44\u7814\u7a76\u3002",
             "url": "https://github.com/simonlin1212/Vibe-Research",
-            "stars": 660,
-            "forks": 127,
+            "stars": 662,
+            "forks": 128,
             "score": 99
         },
         {
@@ -42,7 +42,7 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/lingbol088-spec/reverse-flow-skill",
             "stars": 490,
             "forks": 231,
-            "score": 88
+            "score": 84
         },
         {
             "main_cat": "AI",
@@ -51,7 +51,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "oomol-lab/open-connector",
             "description": "Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAPI.",
             "url": "https://github.com/oomol-lab/open-connector",
-            "stars": 1235,
+            "stars": 1238,
             "forks": 68,
             "score": 83
         },
@@ -73,7 +73,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "ai4s-research/open-science",
             "description": "Open Science Desktop \u2014 local-first, model-agnostic AI research workbench for macOS, Windows & Linux. Open-source Claude Science desktop alternative built on Tauri + MCP + agent skills.",
             "url": "https://github.com/ai4s-research/open-science",
-            "stars": 596,
+            "stars": 598,
             "forks": 65,
             "score": 72
         },
@@ -96,7 +96,7 @@ const ALPHA_DATA_V2 = {
             "description": "\u62c9\u7247\u7b14\u8bb0:\u628a\u7535\u5f71\u53d8\u6210 AI \u8f85\u52a9\u7684\u62c9\u7247\u7b14\u8bb0 - \u672c\u5730\u62bd\u5e27/\u5267\u60c5\u6cf3\u9053\u65f6\u95f4\u8f74/\u7ed3\u6784\u6811/\u60c5\u7eea\u66f2\u7ebf/\u6bb5\u843d\u6df1\u62c6",
             "url": "https://github.com/bkingfilm/lapian-notes",
             "stars": 247,
-            "forks": 32,
+            "forks": 33,
             "score": 67
         },
         {
@@ -117,7 +117,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "nexu-io/motion-anything",
             "description": "\u2728 The agentic motion layer \u2014 an open-source, chat-native motion engine. Describe the feeling; your AI ships the animation.",
             "url": "https://github.com/nexu-io/motion-anything",
-            "stars": 364,
+            "stars": 365,
             "forks": 32,
             "score": 65
         },
@@ -135,6 +135,17 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
+            "name": "motion-previs-studio",
+            "full_name": "wassermanproductions/motion-previs-studio",
+            "description": "Open-source desktop app for AI-film motion, depth, pose, and camera-move previsualization.",
+            "url": "https://github.com/wassermanproductions/motion-previs-studio",
+            "stars": 274,
+            "forks": 40,
+            "score": 61
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
             "name": "rnskill",
             "full_name": "Pluviobyte/rnskill",
             "description": "\u96ea\u8e0f\u4e4c\u4e91\u7684 AI Agent Skills \u96c6\u5408",
@@ -146,22 +157,11 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "motion-previs-studio",
-            "full_name": "wassermanproductions/motion-previs-studio",
-            "description": "Open-source desktop app for AI-film motion, depth, pose, and camera-move previsualization.",
-            "url": "https://github.com/wassermanproductions/motion-previs-studio",
-            "stars": 274,
-            "forks": 39,
-            "score": 60
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
             "name": "FableCut",
             "full_name": "ronak-create/FableCut",
             "description": "Zero-dependency browser video editor that AI agents can drive \u2014 JSON timeline, MCP + REST, live-reloading UI",
             "url": "https://github.com/ronak-create/FableCut",
-            "stars": 298,
+            "stars": 301,
             "forks": 15,
             "score": 55
         },
@@ -205,9 +205,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "OmarH-creator/Autonomous-Forge",
             "description": "This repo is automated and is fully AI-built and AI-maintained project that continuously plans, codes, tests, and improves itself.",
             "url": "https://github.com/OmarH-creator/Autonomous-Forge",
-            "stars": 233,
+            "stars": 235,
             "forks": 9,
             "score": 49
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "ax",
+            "full_name": "yusukebe/ax",
+            "description": "The AI-era curl",
+            "url": "https://github.com/yusukebe/ax",
+            "stars": 243,
+            "forks": 4,
+            "score": 48
         },
         {
             "main_cat": "AI",
@@ -251,17 +262,6 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/JasonLiu0826/ackem",
             "stars": 378,
             "forks": 44,
-            "score": 47
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "ax",
-            "full_name": "yusukebe/ax",
-            "description": "The AI-era curl",
-            "url": "https://github.com/yusukebe/ax",
-            "stars": 234,
-            "forks": 4,
             "score": 47
         },
         {
@@ -326,7 +326,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "eli-labz/Godcoder",
             "description": "A local-first, open-source coding agent for your desktop. Bring your own LLM key; your code stays on your machine and only ever leaves to the model provider. The AI Agent builds its own Harnes.",
             "url": "https://github.com/eli-labz/Godcoder",
-            "stars": 284,
+            "stars": 285,
             "forks": 6,
             "score": 39
         },
@@ -359,8 +359,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "SansNope/UnleashedRecomp-Android",
             "description": "The port was created using Anthropic's Fable 5 AI model. It works EXCLUSIVELY on Adreno GPUs. A port for devices with Mali family GPUs is not planned. I don't understand the technical side myself; I just guided Fable 5 in the right direction, mixed the models, and performed the debugging. Artifacts, freezing, and audio issues are possible.",
             "url": "https://github.com/SansNope/UnleashedRecomp-Android",
-            "stars": 38,
-            "forks": 7,
+            "stars": 39,
+            "forks": 8,
             "score": 33
         },
         {
@@ -392,7 +392,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "tinyBigGAMES/Gemma4.pas",
             "description": "Gemma4.pas is a high-performance AI inference engine developed entirely in Delphi to run Google\u2019s Gemma 4 model natively on Windows. Unlike most platforms, this project features zero external dependencies and utilizes Vulkan compute shaders to accelerate complex mathematical operations directly on the user's GPU.",
             "url": "https://github.com/tinyBigGAMES/Gemma4.pas",
-            "stars": 18,
+            "stars": 19,
             "forks": 4,
             "score": 32
         },
@@ -640,5 +640,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-07-10 21:55"
+    "timestamp": "2026-07-10 22:55"
 };
