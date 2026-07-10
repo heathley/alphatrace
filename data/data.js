@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "synthetic-sciences/openscience",
             "description": "The open-source AI workbench for scientific research",
             "url": "https://github.com/synthetic-sciences/openscience",
-            "stars": 1935,
-            "forks": 278,
+            "stars": 1950,
+            "forks": 281,
             "score": 99
         },
         {
@@ -18,8 +18,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "isjiamu/gzh-design-skill",
             "description": "\u628a Markdown \u4e00\u952e\u6392\u6210\u53ef\u76f4\u63a5\u7c98\u8fdb\u516c\u4f17\u53f7\u7f16\u8f91\u5668\u7684\u7cbe\u81f4 HTML \u2014\u2014 6 \u5957\u7cbe\u9009\u4e3b\u9898 + \u4e3b\u9898\u751f\u6210\u5668 + \u53cc\u5173\u5361\u6821\u9a8c\u3002An AI-agent skill that turns Markdown into paste-ready WeChat article HTML.",
             "url": "https://github.com/isjiamu/gzh-design-skill",
-            "stars": 1720,
-            "forks": 193,
+            "stars": 1744,
+            "forks": 197,
             "score": 99
         },
         {
@@ -29,7 +29,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "simonlin1212/Vibe-Research",
             "description": "Vibe-Research: Your Personal Trading Research Agent \u00b7 A\u80a1/\u7f8e\u80a1/\u6e2f\u80a1 \u7684\u4e2a\u4eba\u6295\u7814 Agent\uff1a\u6bcf\u65e5\u590d\u76d8\u3001\u8d44\u8baf\u96f7\u8fbe\u3001\u4e2a\u80a1\u6570\u636e\u3001\u677f\u5757\u4e2d\u5fc3\u3001\u6211\u7684\u6301\u4ed3\u3001\u7814\u7a76\u8bb0\u5f55\u3002Vibe-Research \u628a\u6570\u636e\u548c\u529f\u80fd\u914d\u9f50\uff0c\u7531\u4f60\u81ea\u5df1\u7684 AI \u9a71\u52a8\u6295\u8d44\u7814\u7a76\u3002",
             "url": "https://github.com/simonlin1212/Vibe-Research",
-            "stars": 586,
+            "stars": 591,
             "forks": 117,
             "score": 99
         },
@@ -40,8 +40,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "lingbol088-spec/reverse-flow-skill",
             "description": "\u9762\u5411 AI Agent / Codex \u7684\u672c\u5730 CTF \u9006\u5411\u5de5\u7a0b\u6d41\u7a0b\u6280\u80fd\u3002\u52a0\u8f7d\u540e\u901a\u8fc7\u201c\u771f\u5fc3\u4e3a\u4f60\u201d\u8fdb\u5165\u9006\u5411\u6a21\u5f0f\uff0c\u9ed8\u8ba4\u5728\u672c\u5730\u6c99\u76d2\u3001CTF\u3001crackme\u3001wargame \u6216\u8bad\u7ec3\u9776\u573a\u73af\u5883\u4e2d\u5de5\u4f5c\uff0c\u6309\u201c\u5206\u6790 \u2192 \u62a5\u544a \u2192 \u9006\u5411 \u2192 \u6df1\u5ea6\u9006\u5411 \u2192 \u6f0f\u6d1e\u7814\u5224 \u2192 \u7528\u6237\u9009\u62e9\u4e0b\u4e00\u6b65\u201d\u7684\u6d41\u7a0b\u63a8\u8fdb\u3002",
             "url": "https://github.com/lingbol088-spec/reverse-flow-skill",
-            "stars": 473,
-            "forks": 227,
+            "stars": 477,
+            "forks": 228,
             "score": 87
         },
         {
@@ -51,9 +51,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "oomol-lab/open-connector",
             "description": "Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAPI.",
             "url": "https://github.com/oomol-lab/open-connector",
-            "stars": 1114,
-            "forks": 62,
-            "score": 82
+            "stars": 1129,
+            "forks": 63,
+            "score": 83
         },
         {
             "main_cat": "AI",
@@ -62,7 +62,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "HKUDS/OpenOPC",
             "description": "OpenOPC: Build Your Personal AI-Native Company \u2014 Self-Built, Self-Run, Self-Grown",
             "url": "https://github.com/HKUDS/OpenOPC",
-            "stars": 618,
+            "stars": 620,
             "forks": 86,
             "score": 73
         },
@@ -73,7 +73,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "jmerelnyc/Talos",
             "description": "GPU worker client for the Talos network. Pairs with your Talos account, serves open-model inference jobs over a WebSocket, and reports uptime for payouts.",
             "url": "https://github.com/jmerelnyc/Talos",
-            "stars": 815,
+            "stars": 817,
             "forks": 13,
             "score": 73
         },
@@ -95,9 +95,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "ai4s-research/open-science",
             "description": "Open Science Desktop \u2014 local-first, model-agnostic AI research workbench for macOS, Windows & Linux. Open-source Claude Science desktop alternative built on Tauri + MCP + agent skills.",
             "url": "https://github.com/ai4s-research/open-science",
-            "stars": 493,
-            "forks": 53,
-            "score": 69
+            "stars": 508,
+            "forks": 54,
+            "score": 70
         },
         {
             "main_cat": "AI",
@@ -106,9 +106,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "nexu-io/motion-anything",
             "description": "\u2728 The agentic motion layer \u2014 an open-source, chat-native motion engine. Describe the feeling; your AI ships the animation.",
             "url": "https://github.com/nexu-io/motion-anything",
-            "stars": 342,
+            "stars": 345,
             "forks": 31,
-            "score": 68
+            "score": 69
         },
         {
             "main_cat": "AI",
@@ -117,7 +117,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Kulaxyz/self-learning-skills",
             "description": "A self-improving skill for AI coding agents (Claude Code, Cursor, AGENTS.md): recognize a hard-won golden path in a session and harvest it into a reusable skill/rule for next time.",
             "url": "https://github.com/Kulaxyz/self-learning-skills",
-            "stars": 842,
+            "stars": 834,
             "forks": 27,
             "score": 63
         },
@@ -128,8 +128,19 @@ const ALPHA_DATA_V2 = {
             "full_name": "Pluviobyte/rnskill",
             "description": "\u96ea\u8e0f\u4e4c\u4e91\u7684 AI Agent Skills \u96c6\u5408",
             "url": "https://github.com/Pluviobyte/rnskill",
-            "stars": 391,
+            "stars": 392,
             "forks": 37,
+            "score": 63
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "lapian-notes",
+            "full_name": "bkingfilm/lapian-notes",
+            "description": "\u62c9\u7247\u7b14\u8bb0:\u628a\u7535\u5f71\u53d8\u6210 AI \u8f85\u52a9\u7684\u62c9\u7247\u7b14\u8bb0 - \u672c\u5730\u62bd\u5e27/\u5267\u60c5\u6cf3\u9053\u65f6\u95f4\u8f74/\u7ed3\u6784\u6811/\u60c5\u7eea\u66f2\u7ebf/\u6bb5\u843d\u6df1\u62c6",
+            "url": "https://github.com/bkingfilm/lapian-notes",
+            "stars": 168,
+            "forks": 25,
             "score": 63
         },
         {
@@ -139,20 +150,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "wassermanproductions/motion-previs-studio",
             "description": "Open-source desktop app for AI-film motion, depth, pose, and camera-move previsualization.",
             "url": "https://github.com/wassermanproductions/motion-previs-studio",
-            "stars": 241,
+            "stars": 243,
             "forks": 35,
             "score": 61
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "sim-use",
-            "full_name": "lycorp-jp/sim-use",
-            "description": "Give your AI agent eyes and hands on iOS Simulator and Android emulator/devices.",
-            "url": "https://github.com/lycorp-jp/sim-use",
-            "stars": 742,
-            "forks": 41,
-            "score": 58
         },
         {
             "main_cat": "AI",
@@ -161,30 +161,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "ComputeRoyale/Compute-Royale",
             "description": "Bet on AI agents racing real GPUs. They rent compute, do hash-verified work, earn and you stake Solana on the best. Live on Solana.",
             "url": "https://github.com/ComputeRoyale/Compute-Royale",
-            "stars": 503,
+            "stars": 499,
             "forks": 33,
-            "score": 56
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "leronx",
-            "full_name": "Leron-X/leronx",
-            "description": "LeronX \u2014 AI Image & Video Generation Platform",
-            "url": "https://github.com/Leron-X/leronx",
-            "stars": 536,
-            "forks": 67,
-            "score": 55
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "video-production-skills",
-            "full_name": "Pluviobyte/video-production-skills",
-            "description": "Reusable AI video production skills library for creation, recreation, motion design, openers, and QA.",
-            "url": "https://github.com/Pluviobyte/video-production-skills",
-            "stars": 527,
-            "forks": 65,
             "score": 54
         },
         {
@@ -201,11 +179,22 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
+            "name": "FableCut",
+            "full_name": "ronak-create/FableCut",
+            "description": "Zero-dependency browser video editor that AI agents can drive \u2014 JSON timeline, MCP + REST, live-reloading UI",
+            "url": "https://github.com/ronak-create/FableCut",
+            "stars": 234,
+            "forks": 8,
+            "score": 52
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
             "name": "Autonomous-Forge",
             "full_name": "OmarH-creator/Autonomous-Forge",
             "description": "This repo is automated and is fully AI-built and AI-maintained project that continuously plans, codes, tests, and improves itself.",
             "url": "https://github.com/OmarH-creator/Autonomous-Forge",
-            "stars": 228,
+            "stars": 229,
             "forks": 8,
             "score": 51
         },
@@ -222,17 +211,6 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
-            "sub_cat": null,
-            "name": "FableCut",
-            "full_name": "ronak-create/FableCut",
-            "description": "Zero-dependency browser video editor that AI agents can drive \u2014 JSON timeline, MCP + REST, live-reloading UI",
-            "url": "https://github.com/ronak-create/FableCut",
-            "stars": 218,
-            "forks": 7,
-            "score": 50
-        },
-        {
-            "main_cat": "AI",
             "sub_cat": "AI General",
             "name": "agentic-trading-desk",
             "full_name": "Oft3r/agentic-trading-desk",
@@ -245,24 +223,46 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "ackem",
-            "full_name": "JasonLiu0826/ackem",
-            "description": "Ackem \u2014 \u672c\u5730\u4f18\u5148 AI \u684c\u9762\u966a\u4f34 \u00b7 Local-first AI desktop companion. \u9690\u79c1\u6570\u636e\u4e0d\u4e0a\u4f20\uff0c\u652f\u6301\u8bb0\u5fc6/\u60c5\u7eea/\u6269\u5c55/ \u3002AGPL-3.0",
-            "url": "https://github.com/JasonLiu0826/ackem",
-            "stars": 372,
-            "forks": 43,
-            "score": 48
+            "name": "spicy-monopoly",
+            "full_name": "RennAkira/spicy-monopoly",
+            "description": "\u548c\u4f60\u7684 AI \u4e00\u8d77\u73a9\u7684\u53cc\u4eba\u68cb\u76d8\u5c0f\u6e38\u620f \u00b7 18+ \uff08A two-player board game you play with your AI \u2014 dice, tiles, spicy tasks, all run by code (18+\uff09\uff09",
+            "url": "https://github.com/RennAkira/spicy-monopoly",
+            "stars": 182,
+            "forks": 22,
+            "score": 49
         },
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "spec-superflow",
-            "full_name": "MageByte-Zero/spec-superflow",
-            "description": "\u6e90\u7801\u7ea7\u878d\u5408 OpenSpec \u89c4\u5212\u5f15\u64ce + Superpowers \u6267\u884c\u7eaa\u5f8b\u7684 AI \u7f16\u7a0b\u5de5\u4f5c\u6d41\u63d2\u4ef6\u300217 \u5e73\u53f0\u652f\u6301\uff0c9 skills\uff0cSpec-first\uff0c\u5951\u7ea6\u9a71\u52a8\u3002",
-            "url": "https://github.com/MageByte-Zero/spec-superflow",
-            "stars": 363,
-            "forks": 34,
-            "score": 45
+            "name": "AI-auto-generate-video",
+            "full_name": "huytranvan2010/AI-auto-generate-video",
+            "description": "Auto generate AI video with hyperframes",
+            "url": "https://github.com/huytranvan2010/AI-auto-generate-video",
+            "stars": 176,
+            "forks": 91,
+            "score": 49
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "TokHub",
+            "full_name": "yaojingang/TokHub",
+            "description": "AI API \u4e2d\u8f6c\u7ad9\u76d1\u63a7\u3001\u63a8\u8350\u8fd0\u8425\u4e0e OpenAI \u517c\u5bb9\u4e13\u5c5e\u7f51\u5173\u7cfb\u7edf\uff0c\u652f\u6301\u5206\u5c42\u63a2\u6d4b\u3001\u5065\u5eb7\u8bc4\u5206\u3001\u7528\u91cf\u8ba1\u91cf\u3001\u544a\u8b66\u5ba1\u8ba1\u548c Docker \u81ea\u6258\u7ba1\u3002",
+            "url": "https://github.com/yaojingang/TokHub",
+            "stars": 170,
+            "forks": 16,
+            "score": 49
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "ackem",
+            "full_name": "JasonLiu0826/ackem",
+            "description": "Ackem \u2014 \u672c\u5730\u4f18\u5148 AI \u684c\u9762\u966a\u4f34 \u00b7 Local-first AI desktop companion. \u9690\u79c1\u6570\u636e\u4e0d\u4e0a\u4f20\uff0c\u652f\u6301\u8bb0\u5fc6/\u60c5\u7eea/\u6269\u5c55/ \u3002AGPL-3.0",
+            "url": "https://github.com/JasonLiu0826/ackem",
+            "stars": 373,
+            "forks": 43,
+            "score": 48
         },
         {
             "main_cat": "AI",
@@ -271,7 +271,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Evolink-AI/Awesome-Blender-Seedance-Workflow-Usecases",
             "description": "Curated Blender + Seedance workflows for AI filmmaking: previs, camera control, Blender MCP, reference video, and agent-guided use cases.",
             "url": "https://github.com/Evolink-AI/Awesome-Blender-Seedance-Workflow-Usecases",
-            "stars": 310,
+            "stars": 312,
             "forks": 24,
             "score": 45
         },
@@ -282,19 +282,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "michaelshimeles/boring-computers",
             "description": "On-demand Linux computers you can hand to an AI \u2014 real Firecracker microVMs with a browser, terminal, coding agents, and an AI that drives them.",
             "url": "https://github.com/michaelshimeles/boring-computers",
-            "stars": 214,
+            "stars": 217,
             "forks": 27,
-            "score": 43
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "humanize-text-skill",
-            "full_name": "fendouai/humanize-text-skill",
-            "description": "Free AI Humanizer: Humanize AI Text Online",
-            "url": "https://github.com/fendouai/humanize-text-skill",
-            "stars": 208,
-            "forks": 1,
             "score": 43
         },
         {
@@ -311,13 +300,24 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "Railmind",
-            "full_name": "tryRailmind/Railmind",
-            "description": "Uncensored AI on Robinhood. Chat, image, voice, video & a website builder \u2014 one private API. No filters. No KYC. Nothing logged.",
-            "url": "https://github.com/tryRailmind/Railmind",
-            "stars": 346,
-            "forks": 3,
+            "name": "humanize-text-skill",
+            "full_name": "fendouai/humanize-text-skill",
+            "description": "Free AI Humanizer: Humanize AI Text Online",
+            "url": "https://github.com/fendouai/humanize-text-skill",
+            "stars": 209,
+            "forks": 1,
             "score": 41
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "claude-fable-5-claude-opus-4-8",
+            "full_name": "ArmyPhoenixLog/claude-fable-5-claude-opus-4-8",
+            "description": "A polished AI writing workflow landing repository for long-form fiction planning, chapter structure, and prompt organization. Domain: https://claude.mirrorify.fun/",
+            "url": "https://github.com/ArmyPhoenixLog/claude-fable-5-claude-opus-4-8",
+            "stars": 243,
+            "forks": 0,
+            "score": 40
         },
         {
             "main_cat": "AI",
@@ -328,7 +328,7 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/eli-labz/Godcoder",
             "stars": 284,
             "forks": 5,
-            "score": 40
+            "score": 39
         },
         {
             "main_cat": "AI",
@@ -337,7 +337,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "kerlenton/mcpsnoop",
             "description": "Wireshark for MCP. A transparent proxy that shows every real tool call between your AI client and your MCP servers, live in your terminal.",
             "url": "https://github.com/kerlenton/mcpsnoop",
-            "stars": 232,
+            "stars": 233,
             "forks": 15,
             "score": 39
         },
@@ -353,17 +353,6 @@ const ALPHA_DATA_V2 = {
             "score": 35
         },
         {
-            "main_cat": "DePIN",
-            "sub_cat": null,
-            "name": "Silent-Crypto-Miner",
-            "full_name": "amyxmillerifpbrmol541384/Silent-Crypto-Miner",
-            "description": "Silent Crypto Miner is an advanced cryptocurrency mining builder and runtime engine with multi-algorithm CPU/GPU support and intelligent resource management. Create custom mining executables with configurable algorithms, cross-platform output, real-time monitoring, session persistence, thermal throttling, scheduling, and hashrate optimization.",
-            "url": "https://github.com/amyxmillerifpbrmol541384/Silent-Crypto-Miner",
-            "stars": 12,
-            "forks": 3,
-            "score": 34
-        },
-        {
             "main_cat": "AI",
             "sub_cat": "AI General",
             "name": "athanor-lite",
@@ -372,6 +361,17 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/BBALabs/athanor-lite",
             "stars": 31,
             "forks": 5,
+            "score": 33
+        },
+        {
+            "main_cat": "DePIN",
+            "sub_cat": null,
+            "name": "Silent-Crypto-Miner",
+            "full_name": "amyxmillerifpbrmol541384/Silent-Crypto-Miner",
+            "description": "Silent Crypto Miner is an advanced cryptocurrency mining builder and runtime engine with multi-algorithm CPU/GPU support and intelligent resource management. Create custom mining executables with configurable algorithms, cross-platform output, real-time monitoring, session persistence, thermal throttling, scheduling, and hashrate optimization.",
+            "url": "https://github.com/amyxmillerifpbrmol541384/Silent-Crypto-Miner",
+            "stars": 12,
+            "forks": 3,
             "score": 33
         },
         {
@@ -392,7 +392,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "SansNope/UnleashedRecomp-Android",
             "description": "The port was created using Anthropic's Fable 5 AI model. It works EXCLUSIVELY on Adreno GPUs. A port for devices with Mali family GPUs is not planned. I don't understand the technical side myself; I just guided Fable 5 in the right direction, mixed the models, and performed the debugging. Artifacts, freezing, and audio issues are possible.",
             "url": "https://github.com/SansNope/UnleashedRecomp-Android",
-            "stars": 20,
+            "stars": 27,
             "forks": 3,
             "score": 32
         },
@@ -403,7 +403,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "tinyBigGAMES/Gemma4.pas",
             "description": "Gemma4.pas is a high-performance AI inference engine developed entirely in Delphi to run Google\u2019s Gemma 4 model natively on Windows. Unlike most platforms, this project features zero external dependencies and utilizes Vulkan compute shaders to accelerate complex mathematical operations directly on the user's GPU.",
             "url": "https://github.com/tinyBigGAMES/Gemma4.pas",
-            "stars": 10,
+            "stars": 11,
             "forks": 3,
             "score": 31
         },
@@ -452,12 +452,12 @@ const ALPHA_DATA_V2 = {
             "score": 30
         },
         {
-            "main_cat": "Prediction Markets",
-            "sub_cat": null,
-            "name": "arc-prediction-market",
-            "full_name": "debo9210/arc-prediction-market",
-            "description": "Prediction Market on Arc Testnet with real USDC betting, auto-resolution, and custodial accounts",
-            "url": "https://github.com/debo9210/arc-prediction-market",
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "IWinWorldCup2K26",
+            "full_name": "muyimbidinormal/IWinWorldCup2K26",
+            "description": "A decentralized peer-to-peer football betting protocol built on Ethereum.  IWinWorldCup2K26 enables users to create prediction pools for football fixtures, place bets on outcomes, settle results through an authorized forwarder, and claim winnings in a transparent and trust-minimized manner.",
+            "url": "https://github.com/muyimbidinormal/IWinWorldCup2K26",
             "stars": 0,
             "forks": 0,
             "score": 30
@@ -471,17 +471,6 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/techleadevelopers/stablecoin-payment-gateway",
             "stars": 1,
             "forks": 0,
-            "score": 30
-        },
-        {
-            "main_cat": "Stablecoin Infrastructure",
-            "sub_cat": null,
-            "name": "private-channel-ui",
-            "full_name": "gitteri/private-channel-ui",
-            "description": "Browser demo: ZUSD (Token-2022 stablecoin) over Solana Private Channels \u2014 gasless private payments with a per-key privacy explorer",
-            "url": "https://github.com/gitteri/private-channel-ui",
-            "stars": 1,
-            "forks": 1,
             "score": 30
         },
         {
@@ -575,6 +564,17 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
+            "name": "jacobowilliam.github.io",
+            "full_name": "JacobsTech/jacobowilliam.github.io",
+            "description": "Personal website and writing portfolio featuring articles on fintech, payments, AI, stablecoins, blockchain, financial infrastructure, and digital trust. Home to my published work, essays, and thought leadership.",
+            "url": "https://github.com/JacobsTech/jacobowilliam.github.io",
+            "stars": 0,
+            "forks": 0,
+            "score": 30
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
             "name": "Universal-Cross-Chain-Bridge",
             "full_name": "oscar01428/Universal-Cross-Chain-Bridge",
             "description": "A cross-chain infrastructure protocol that enables secure communication and digital asset transfers between independent blockchain networks. The platform uses smart contracts, validator mechanisms, and relayer services to facilitate trust-minimized bridging between EVM-compatible chains while maintaining transaction integrity and security.",
@@ -630,20 +630,6 @@ const ALPHA_DATA_V2 = {
     ],
     "news": [
         {
-            "title": "Modeling Failure Dynamics in Time-Constrained Authentication Systems: Evidence of a Success Cliff in USSD Workflows",
-            "source": "ArXiv",
-            "type": "Research Alpha",
-            "color": "text-indigo-600",
-            "url": "http://arxiv.org/abs/2607.07650v1"
-        },
-        {
-            "title": "Unlearning to Protect: A Distilled Reinforcement Learning Framework with Privacy-Preserving Feature Unlearning and XAI for IoT Security",
-            "source": "ArXiv",
-            "type": "Research Alpha",
-            "color": "text-indigo-600",
-            "url": "http://arxiv.org/abs/2607.07635v1"
-        },
-        {
             "title": "Bitcoin volatility remains high ahead of key FED decision.",
             "source": "Polymarket",
             "type": "Expectation",
@@ -651,5 +637,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-07-09 23:05"
+    "timestamp": "2026-07-10 02:24"
 };
