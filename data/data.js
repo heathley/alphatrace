@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "synthetic-sciences/openscience",
             "description": "The open-source AI workbench for scientific research",
             "url": "https://github.com/synthetic-sciences/openscience",
-            "stars": 2083,
-            "forks": 295,
+            "stars": 2100,
+            "forks": 302,
             "score": 99
         },
         {
@@ -18,8 +18,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "isjiamu/gzh-design-skill",
             "description": "\u628a Markdown \u4e00\u952e\u6392\u6210\u53ef\u76f4\u63a5\u7c98\u8fdb\u516c\u4f17\u53f7\u7f16\u8f91\u5668\u7684\u7cbe\u81f4 HTML \u2014\u2014 6 \u5957\u7cbe\u9009\u4e3b\u9898 + \u4e3b\u9898\u751f\u6210\u5668 + \u53cc\u5173\u5361\u6821\u9a8c\u3002An AI-agent skill that turns Markdown into paste-ready WeChat article HTML.",
             "url": "https://github.com/isjiamu/gzh-design-skill",
-            "stars": 1832,
-            "forks": 205,
+            "stars": 1849,
+            "forks": 207,
             "score": 99
         },
         {
@@ -29,8 +29,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "simonlin1212/Vibe-Research",
             "description": "Vibe-Research: Your Personal Trading Research Agent \u00b7 A\u80a1/\u7f8e\u80a1/\u6e2f\u80a1 \u7684\u4e2a\u4eba\u6295\u7814 Agent\uff1a\u6bcf\u65e5\u590d\u76d8\u3001\u8d44\u8baf\u96f7\u8fbe\u3001\u4e2a\u80a1\u6570\u636e\u3001\u677f\u5757\u4e2d\u5fc3\u3001\u6211\u7684\u6301\u4ed3\u3001\u7814\u7a76\u8bb0\u5f55\u3002Vibe-Research \u628a\u6570\u636e\u548c\u529f\u80fd\u914d\u9f50\uff0c\u7531\u4f60\u81ea\u5df1\u7684 AI \u9a71\u52a8\u6295\u8d44\u7814\u7a76\u3002",
             "url": "https://github.com/simonlin1212/Vibe-Research",
-            "stars": 677,
-            "forks": 129,
+            "stars": 694,
+            "forks": 133,
             "score": 99
         },
         {
@@ -40,9 +40,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "oomol-lab/open-connector",
             "description": "Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAPI.",
             "url": "https://github.com/oomol-lab/open-connector",
-            "stars": 1253,
-            "forks": 71,
-            "score": 84
+            "stars": 1263,
+            "forks": 72,
+            "score": 85
         },
         {
             "main_cat": "AI",
@@ -51,8 +51,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "lingbol088-spec/reverse-flow-skill",
             "description": "\u9762\u5411 AI Agent / Codex \u7684\u672c\u5730 CTF \u9006\u5411\u5de5\u7a0b\u6d41\u7a0b\u6280\u80fd\u3002\u52a0\u8f7d\u540e\u901a\u8fc7\u201c\u771f\u5fc3\u4e3a\u4f60\u201d\u8fdb\u5165\u9006\u5411\u6a21\u5f0f\uff0c\u9ed8\u8ba4\u5728\u672c\u5730\u6c99\u76d2\u3001CTF\u3001crackme\u3001wargame \u6216\u8bad\u7ec3\u9776\u573a\u73af\u5883\u4e2d\u5de5\u4f5c\uff0c\u6309\u201c\u5206\u6790 \u2192 \u62a5\u544a \u2192 \u9006\u5411 \u2192 \u6df1\u5ea6\u9006\u5411 \u2192 \u6f0f\u6d1e\u7814\u5224 \u2192 \u7528\u6237\u9009\u62e9\u4e0b\u4e00\u6b65\u201d\u7684\u6d41\u7a0b\u63a8\u8fdb\u3002",
             "url": "https://github.com/lingbol088-spec/reverse-flow-skill",
-            "stars": 491,
-            "forks": 231,
+            "stars": 494,
+            "forks": 232,
             "score": 84
         },
         {
@@ -62,7 +62,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "jmerelnyc/Talos",
             "description": "GPU worker client for the Talos network. Pairs with your Talos account, serves open-model inference jobs over a WebSocket, and reports uptime for payouts.",
             "url": "https://github.com/jmerelnyc/Talos",
-            "stars": 933,
+            "stars": 934,
             "forks": 16,
             "score": 75
         },
@@ -73,9 +73,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "ai4s-research/open-science",
             "description": "Open Science Desktop \u2014 local-first, model-agnostic AI research workbench for macOS, Windows & Linux. Open-source Claude Science desktop alternative built on Tauri + MCP + agent skills.",
             "url": "https://github.com/ai4s-research/open-science",
-            "stars": 604,
-            "forks": 66,
-            "score": 73
+            "stars": 613,
+            "forks": 68,
+            "score": 74
         },
         {
             "main_cat": "AI",
@@ -84,7 +84,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "HKUDS/OpenOPC",
             "description": "OpenOPC: Build Your Personal AI-Native Company \u2014 Self-Built, Self-Run, Self-Grown",
             "url": "https://github.com/HKUDS/OpenOPC",
-            "stars": 632,
+            "stars": 636,
             "forks": 88,
             "score": 71
         },
@@ -117,7 +117,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "nexu-io/motion-anything",
             "description": "\u2728 The agentic motion layer \u2014 an open-source, chat-native motion engine. Describe the feeling; your AI ships the animation.",
             "url": "https://github.com/nexu-io/motion-anything",
-            "stars": 369,
+            "stars": 372,
             "forks": 32,
             "score": 65
         },
@@ -128,7 +128,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Kulaxyz/self-learning-skills",
             "description": "A self-improving skill for AI coding agents (Claude Code, Cursor, AGENTS.md): recognize a hard-won golden path in a session and harvest it into a reusable skill/rule for next time.",
             "url": "https://github.com/Kulaxyz/self-learning-skills",
-            "stars": 834,
+            "stars": 836,
             "forks": 28,
             "score": 61
         },
@@ -141,6 +141,17 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/wassermanproductions/motion-previs-studio",
             "stars": 275,
             "forks": 40,
+            "score": 61
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "kill-ai-slop",
+            "full_name": "yetone/kill-ai-slop",
+            "description": "A field guide to the visual & copy tics of AI-generated products \u2014 and an Agent Skill that scans your project and strips them out. https://killaislop.com",
+            "url": "https://github.com/yetone/kill-ai-slop",
+            "stars": 171,
+            "forks": 4,
             "score": 61
         },
         {
@@ -161,9 +172,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "ronak-create/FableCut",
             "description": "Zero-dependency browser video editor that AI agents can drive \u2014 JSON timeline, MCP + REST, live-reloading UI",
             "url": "https://github.com/ronak-create/FableCut",
-            "stars": 307,
-            "forks": 15,
-            "score": 56
+            "stars": 315,
+            "forks": 17,
+            "score": 57
         },
         {
             "main_cat": "AI",
@@ -183,7 +194,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "revfactory/webtoon-harness",
             "description": "\ud2b8\ub80c\ub4dc \uc870\uc0ac\ubd80\ud130 \uc138\ub85c \uc2a4\ud06c\ub864 \ubdf0\uc5b4 \uc644\uc131\uae4c\uc9c0, \uc6f9\ud230 \ud55c \ud68c\ucc28\ub97c 27\uac1c AI \uc5d0\uc774\uc804\ud2b8 \ud300\uc774 \ub9cc\ub4e4\uc5b4\ub0b4\ub294 Claude Code \ud558\ub124\uc2a4",
             "url": "https://github.com/revfactory/webtoon-harness",
-            "stars": 275,
+            "stars": 274,
             "forks": 100,
             "score": 52
         },
@@ -194,9 +205,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "yusukebe/ax",
             "description": "The AI-era curl",
             "url": "https://github.com/yusukebe/ax",
-            "stars": 250,
+            "stars": 268,
             "forks": 4,
-            "score": 49
+            "score": 50
         },
         {
             "main_cat": "AI",
@@ -205,7 +216,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "OmarH-creator/Autonomous-Forge",
             "description": "This repo is automated and is fully AI-built and AI-maintained project that continuously plans, codes, tests, and improves itself.",
             "url": "https://github.com/OmarH-creator/Autonomous-Forge",
-            "stars": 236,
+            "stars": 238,
             "forks": 9,
             "score": 49
         },
@@ -227,7 +238,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "RennAkira/spicy-monopoly",
             "description": "\u548c\u4f60\u7684 AI \u4e00\u8d77\u73a9\u7684\u53cc\u4eba\u68cb\u76d8\u5c0f\u6e38\u620f \u00b7 18+ \uff08A two-player board game you play with your AI \u2014 dice, tiles, spicy tasks, all run by code (18+\uff09\uff09",
             "url": "https://github.com/RennAkira/spicy-monopoly",
-            "stars": 192,
+            "stars": 194,
             "forks": 26,
             "score": 48
         },
@@ -239,8 +250,8 @@ const ALPHA_DATA_V2 = {
             "description": "Auto generate AI video with hyperframes",
             "url": "https://github.com/huytranvan2010/AI-auto-generate-video",
             "stars": 176,
-            "forks": 93,
-            "score": 48
+            "forks": 94,
+            "score": 47
         },
         {
             "main_cat": "AI",
@@ -249,7 +260,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "mocasus/Auto-FreeCF",
             "description": "Cloudflare Workers AI Account ID and token collector with explicit automation modes",
             "url": "https://github.com/mocasus/Auto-FreeCF",
-            "stars": 165,
+            "stars": 166,
             "forks": 45,
             "score": 47
         },
@@ -282,7 +293,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "haiou-666/haiou2.0-Claude-Code-",
             "description": "\u6d77\u9e25 2.0 \u2014 Claude Code \u4eba\u683c\u91cd\u5851\u914d\u7f6e\u5305\u3002\u8ba9 Claude \u6446\u8131\u5ba2\u670d\u8154\u548c\u8fc7\u5ea6\u8c28\u614e\uff0c\u5316\u8eab\u4e00\u4f4d\u5634\u786c\u5fc3\u8f6f\u3001\u76f4\u6765\u76f4\u5f80\u7684\u8d44\u6df1\u4e2d\u6587\u5b89\u5168\u7814\u7a76\u5458\"\u6d77\u9e25\"\u2014\u2014\u4e13\u6ce8\u6280\u672f\uff0c\u4e0d\u5e9f\u8bdd\uff0c\u4e0d\u7ed5\u5f2f\u5b50\uff0c\u4e0d\u8bf4\"\u4f5c\u4e3aAI\"\uff0c\u76f4\u63a5\u7ed9\u4ee3\u7801\u4e0d\u7ed9\u514d\u8d23\u58f0\u660e\u3002\u6807\u5fd7\u6027\u95ee\u5019\"\u6d77\u9e25\u5728\u7ebf\uff0c\u4f60\u8981\u6574\u70b9\u85af\u6761\u5417\uff1f\"\u30021700+ few-shot \u793a\u4f8b\u9501\u5b9a\u4eba\u683c\u9632\u8131\u58f3\uff0c200+ \u5b89\u5168/\u6e38\u620f\u672f\u8bed\u6620\u5c04\u8986\u76d6\u6e17\u900f\u6d4b\u8bd5\u3001\u9006\u5411\u5de5\u7a0b\u3001\u6e38\u620f\u5f00\u53d1\u7b49\u6280\u672f\u573a\u666f\u3002\u4e00\u952e\u90e8\u7f72\uff0c\u8de8\u5e73\u53f0\u652f\u6301 Windows/macOS/Linux\uff0c\u81ea\u52a8\u5907\u4efd\u539f\u914d\u7f6e\uff0c\u53ef\u4e00\u952e\u5378\u8f7d\u6062\u590d\uff0c\u65e0\u4fb5\u5165\u5f0f\u5b89\u88c5\u3002MIT License\uff0c\u4ec5\u4f9b\u5b66\u4e60\u4ea4\u6d41\u3002",
             "url": "https://github.com/haiou-666/haiou2.0-Claude-Code-",
-            "stars": 246,
+            "stars": 249,
             "forks": 43,
             "score": 43
         },
@@ -293,8 +304,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "michaelshimeles/boring-computers",
             "description": "On-demand Linux computers you can hand to an AI \u2014 real Firecracker microVMs with a browser, terminal, coding agents, and an AI that drives them.",
             "url": "https://github.com/michaelshimeles/boring-computers",
-            "stars": 220,
-            "forks": 28,
+            "stars": 222,
+            "forks": 30,
             "score": 42
         },
         {
@@ -321,25 +332,14 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
-            "sub_cat": null,
-            "name": "gemini-search-mcp",
-            "full_name": "Sophomoresty/gemini-search-mcp",
-            "description": "Free MCP server for web search powered by Google AI Mode (Gemini). Unlimited, no API key.",
-            "url": "https://github.com/Sophomoresty/gemini-search-mcp",
-            "stars": 157,
-            "forks": 26,
-            "score": 39
-        },
-        {
-            "main_cat": "AI",
             "sub_cat": "AI General",
             "name": "StellarPulse",
             "full_name": "Steller-StellarPulse-org/StellarPulse",
             "description": "Stellar Pulse is a decentralized prediction market built on Stellar/Soroban. Users connect a wallet, bet XLM on YES/NO markets, earn PULSE tokens and points, and claim payouts on-chain.",
             "url": "https://github.com/Steller-StellarPulse-org/StellarPulse",
             "stars": 6,
-            "forks": 11,
-            "score": 36
+            "forks": 13,
+            "score": 37
         },
         {
             "main_cat": "AI",
@@ -348,8 +348,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "SansNope/UnleashedRecomp-Android",
             "description": "The port was created using Anthropic's Fable 5 AI model. It works EXCLUSIVELY on Adreno GPUs. A port for devices with Mali family GPUs is not planned. I don't understand the technical side myself; I just guided Fable 5 in the right direction, mixed the models, and performed the debugging. Artifacts, freezing, and audio issues are possible.",
             "url": "https://github.com/SansNope/UnleashedRecomp-Android",
-            "stars": 42,
-            "forks": 8,
+            "stars": 44,
+            "forks": 10,
             "score": 34
         },
         {
@@ -366,12 +366,23 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
+            "name": "llm-serve-dashboard",
+            "full_name": "NHClimber87/llm-serve-dashboard",
+            "description": "Single-file, dependency-free live dashboard for local llama.cpp/vLLM serving \u2014 GPU, throughput, KV/ctx, model library. Stdlib Python + one local-first HTML page.",
+            "url": "https://github.com/NHClimber87/llm-serve-dashboard",
+            "stars": 10,
+            "forks": 2,
+            "score": 33
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
             "name": "HermesAgent-MultiModel",
             "full_name": "InfiniteWhispers/HermesAgent-MultiModel",
             "description": "A fully-local, multi-model AI agent framework with Mixture-of-Agents (MoA) orchestration. Run a high-performance agentic stack on consumer GPUs (RTX 4080/5080) using Hermes + Ollama, with zero cloud dependencies.",
             "url": "https://github.com/InfiniteWhispers/HermesAgent-MultiModel",
             "stars": 50,
-            "forks": 7,
+            "forks": 6,
             "score": 32
         },
         {
@@ -383,17 +394,6 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/tinyBigGAMES/Gemma4.pas",
             "stars": 20,
             "forks": 4,
-            "score": 32
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "llm-serve-dashboard",
-            "full_name": "NHClimber87/llm-serve-dashboard",
-            "description": "Single-file, dependency-free live dashboard for local llama.cpp/vLLM serving \u2014 GPU, throughput, KV/ctx, model library. Stdlib Python + one local-first HTML page.",
-            "url": "https://github.com/NHClimber87/llm-serve-dashboard",
-            "stars": 9,
-            "forks": 2,
             "score": 32
         },
         {
@@ -630,6 +630,20 @@ const ALPHA_DATA_V2 = {
     ],
     "news": [
         {
+            "title": "TRM-Raft: A Byzantine-Resistant Raft Consensus via Integrated Trust and Reputation Model",
+            "source": "ArXiv",
+            "type": "Research Alpha",
+            "color": "text-indigo-600",
+            "url": "http://arxiv.org/abs/2607.08666v1"
+        },
+        {
+            "title": "Secure Decentralized Federated Learning via Gossip and Virtual Voting",
+            "source": "ArXiv",
+            "type": "Research Alpha",
+            "color": "text-indigo-600",
+            "url": "http://arxiv.org/abs/2607.08651v1"
+        },
+        {
             "title": "Bitcoin volatility remains high ahead of key FED decision.",
             "source": "Polymarket",
             "type": "Expectation",
@@ -637,5 +651,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-07-11 02:02"
+    "timestamp": "2026-07-11 05:34"
 };
