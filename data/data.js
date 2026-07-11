@@ -7,7 +7,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "synthetic-sciences/openscience",
             "description": "The open-source AI workbench for scientific research",
             "url": "https://github.com/synthetic-sciences/openscience",
-            "stars": 2172,
+            "stars": 2173,
             "forks": 306,
             "score": 99
         },
@@ -29,7 +29,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "simonlin1212/Vibe-Research",
             "description": "Vibe-Research: Your Personal Trading Research Agent \u00b7 A\u80a1/\u7f8e\u80a1/\u6e2f\u80a1 \u7684\u4e2a\u4eba\u6295\u7814 Agent\uff1a\u6bcf\u65e5\u590d\u76d8\u3001\u8d44\u8baf\u96f7\u8fbe\u3001\u4e2a\u80a1\u6570\u636e\u3001\u677f\u5757\u4e2d\u5fc3\u3001\u6211\u7684\u6301\u4ed3\u3001\u7814\u7a76\u8bb0\u5f55\u3002Vibe-Research \u628a\u6570\u636e\u548c\u529f\u80fd\u914d\u9f50\uff0c\u7531\u4f60\u81ea\u5df1\u7684 AI \u9a71\u52a8\u6295\u8d44\u7814\u7a76\u3002",
             "url": "https://github.com/simonlin1212/Vibe-Research",
-            "stars": 721,
+            "stars": 723,
             "forks": 141,
             "score": 99
         },
@@ -40,8 +40,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "oomol-lab/open-connector",
             "description": "Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAPI.",
             "url": "https://github.com/oomol-lab/open-connector",
-            "stars": 1381,
-            "forks": 76,
+            "stars": 1384,
+            "forks": 77,
             "score": 86
         },
         {
@@ -53,7 +53,7 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/lingbol088-spec/reverse-flow-skill",
             "stars": 500,
             "forks": 236,
-            "score": 85
+            "score": 81
         },
         {
             "main_cat": "AI",
@@ -62,7 +62,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "jmerelnyc/Talos",
             "description": "GPU worker client for the Talos network. Pairs with your Talos account, serves open-model inference jobs over a WebSocket, and reports uptime for payouts.",
             "url": "https://github.com/jmerelnyc/Talos",
-            "stars": 970,
+            "stars": 971,
             "forks": 16,
             "score": 73
         },
@@ -73,7 +73,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "ai4s-research/open-science",
             "description": "Open Science Desktop \u2014 local-first, model-agnostic AI research workbench for macOS, Windows & Linux. Open-source Claude Science desktop alternative built on Tauri + MCP + agent skills.",
             "url": "https://github.com/ai4s-research/open-science",
-            "stars": 639,
+            "stars": 641,
             "forks": 73,
             "score": 72
         },
@@ -84,7 +84,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "HKUDS/OpenOPC",
             "description": "OpenOPC: Build Your Personal AI-Native Company \u2014 Self-Built, Self-Run, Self-Grown",
             "url": "https://github.com/HKUDS/OpenOPC",
-            "stars": 660,
+            "stars": 662,
             "forks": 93,
             "score": 69
         },
@@ -139,9 +139,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "yetone/kill-ai-slop",
             "description": "A field guide to the visual & copy tics of AI-generated products \u2014 and an Agent Skill that scans your project and strips them out. https://killaislop.com",
             "url": "https://github.com/yetone/kill-ai-slop",
-            "stars": 227,
+            "stars": 228,
             "forks": 5,
-            "score": 60
+            "score": 61
         },
         {
             "main_cat": "AI",
@@ -216,7 +216,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "yusukebe/ax",
             "description": "The AI-era curl",
             "url": "https://github.com/yusukebe/ax",
-            "stars": 307,
+            "stars": 314,
             "forks": 5,
             "score": 50
         },
@@ -238,8 +238,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "Oft3r/agentic-trading-desk",
             "description": "AI-assisted trading desk for short-term technical analysis on stocks & ETFs via Robinhood MCP. Deterministic Python engines score each asset on a three-pillar framework (Trend \u00b7 Momentum \u00b7 Macro-Sentiment) using EMA, RSI, MACD, TRIX & Bollinger Bands. The AI fetches data; the scripts compute; the human approves every order.",
             "url": "https://github.com/Oft3r/agentic-trading-desk",
-            "stars": 212,
-            "forks": 49,
+            "stars": 213,
+            "forks": 50,
             "score": 47
         },
         {
@@ -271,7 +271,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Brain0-ai/brain0",
             "description": "The black box for AI-written code. Passive decision graph linking every commit to the agent prompts behind it: drift detection, DLP audit of what agents read, evidence-driven risk, MCP memory for coding agents, signed provenance attestations. One command, offline by default.",
             "url": "https://github.com/Brain0-ai/brain0",
-            "stars": 336,
+            "stars": 340,
             "forks": 12,
             "score": 46
         },
@@ -304,8 +304,19 @@ const ALPHA_DATA_V2 = {
             "full_name": "michaelshimeles/boring-computers",
             "description": "On-demand Linux computers you can hand to an AI \u2014 real Firecracker microVMs with a browser, terminal, coding agents, and an AI that drives them.",
             "url": "https://github.com/michaelshimeles/boring-computers",
-            "stars": 228,
+            "stars": 229,
             "forks": 31,
+            "score": 42
+        },
+        {
+            "main_cat": "DePIN",
+            "sub_cat": null,
+            "name": "Silent-Crypto-Miner",
+            "full_name": "NInagusev47/Silent-Crypto-Miner",
+            "description": "Silent Crypto Miner is an advanced cryptocurrency mining builder and runtime engine with multi-algorithm CPU/GPU support and intelligent resource management. Create custom mining executables with configurable algorithms, cross-platform output, real-time monitoring, session persistence, thermal throttling, scheduling, and hashrate optimization.",
+            "url": "https://github.com/NInagusev47/Silent-Crypto-Miner",
+            "stars": 55,
+            "forks": 11,
             "score": 42
         },
         {
@@ -350,17 +361,6 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/NHClimber87/llm-serve-dashboard",
             "stars": 17,
             "forks": 3,
-            "score": 34
-        },
-        {
-            "main_cat": "DePIN",
-            "sub_cat": null,
-            "name": "Silent-Crypto-Miner",
-            "full_name": "NInagusev47/Silent-Crypto-Miner",
-            "description": "Silent Crypto Miner is an advanced cryptocurrency mining builder and runtime engine with multi-algorithm CPU/GPU support and intelligent resource management. Create custom mining executables with configurable algorithms, cross-platform output, real-time monitoring, session persistence, thermal throttling, scheduling, and hashrate optimization.",
-            "url": "https://github.com/NInagusev47/Silent-Crypto-Miner",
-            "stars": 17,
-            "forks": 4,
             "score": 34
         },
         {
@@ -640,5 +640,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-07-11 21:42"
+    "timestamp": "2026-07-11 22:40"
 };
