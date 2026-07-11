@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "synthetic-sciences/openscience",
             "description": "The open-source AI workbench for scientific research",
             "url": "https://github.com/synthetic-sciences/openscience",
-            "stars": 2164,
-            "forks": 305,
+            "stars": 2168,
+            "forks": 306,
             "score": 99
         },
         {
@@ -18,7 +18,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "isjiamu/gzh-design-skill",
             "description": "\u628a Markdown \u4e00\u952e\u6392\u6210\u53ef\u76f4\u63a5\u7c98\u8fdb\u516c\u4f17\u53f7\u7f16\u8f91\u5668\u7684\u7cbe\u81f4 HTML \u2014\u2014 6 \u5957\u7cbe\u9009\u4e3b\u9898 + \u4e3b\u9898\u751f\u6210\u5668 + \u53cc\u5173\u5361\u6821\u9a8c\u3002An AI-agent skill that turns Markdown into paste-ready WeChat article HTML.",
             "url": "https://github.com/isjiamu/gzh-design-skill",
-            "stars": 1898,
+            "stars": 1899,
             "forks": 210,
             "score": 99
         },
@@ -40,7 +40,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "oomol-lab/open-connector",
             "description": "Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAPI.",
             "url": "https://github.com/oomol-lab/open-connector",
-            "stars": 1363,
+            "stars": 1372,
             "forks": 76,
             "score": 85
         },
@@ -58,23 +58,23 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
-            "name": "open-science",
-            "full_name": "ai4s-research/open-science",
-            "description": "Open Science Desktop \u2014 local-first, model-agnostic AI research workbench for macOS, Windows & Linux. Open-source Claude Science desktop alternative built on Tauri + MCP + agent skills.",
-            "url": "https://github.com/ai4s-research/open-science",
-            "stars": 637,
-            "forks": 72,
-            "score": 72
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
             "name": "Talos",
             "full_name": "jmerelnyc/Talos",
             "description": "GPU worker client for the Talos network. Pairs with your Talos account, serves open-model inference jobs over a WebSocket, and reports uptime for payouts.",
             "url": "https://github.com/jmerelnyc/Talos",
-            "stars": 964,
+            "stars": 969,
             "forks": 16,
+            "score": 73
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "open-science",
+            "full_name": "ai4s-research/open-science",
+            "description": "Open Science Desktop \u2014 local-first, model-agnostic AI research workbench for macOS, Windows & Linux. Open-source Claude Science desktop alternative built on Tauri + MCP + agent skills.",
+            "url": "https://github.com/ai4s-research/open-science",
+            "stars": 638,
+            "forks": 72,
             "score": 72
         },
         {
@@ -84,7 +84,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "HKUDS/OpenOPC",
             "description": "OpenOPC: Build Your Personal AI-Native Company \u2014 Self-Built, Self-Run, Self-Grown",
             "url": "https://github.com/HKUDS/OpenOPC",
-            "stars": 655,
+            "stars": 658,
             "forks": 92,
             "score": 69
         },
@@ -106,9 +106,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "Raymondhou0917/speak-human-tw",
             "description": "\u300c\u8aaa\u4eba\u8a71\u300d\uff1a\u7e41\u9ad4\u4e2d\u6587\u7684\u53bb AI \u5473\u6539\u5beb skill\u3002\u6293 38 \u7a2e AI \u5beb\u4f5c\u75d5\u8de1\uff0c\u9806\u624b\u6821\u6b63\u4e2d\u570b\u7528\u8a9e\u8207\u534a\u5f62\u6a19\u9ede\uff0c\u7d66 Claude Code / Codex / Cursor \u7528\u3002",
             "url": "https://github.com/Raymondhou0917/speak-human-tw",
-            "stars": 262,
-            "forks": 38,
-            "score": 64
+            "stars": 266,
+            "forks": 39,
+            "score": 65
         },
         {
             "main_cat": "AI",
@@ -117,7 +117,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "bkingfilm/lapian-notes",
             "description": "\u62c9\u7247\u7b14\u8bb0:\u628a\u7535\u5f71\u53d8\u6210 AI \u8f85\u52a9\u7684\u62c9\u7247\u7b14\u8bb0 - \u672c\u5730\u62bd\u5e27/\u5267\u60c5\u6cf3\u9053\u65f6\u95f4\u8f74/\u7ed3\u6784\u6811/\u60c5\u7eea\u66f2\u7ebf/\u6bb5\u843d\u6df1\u62c6",
             "url": "https://github.com/bkingfilm/lapian-notes",
-            "stars": 268,
+            "stars": 269,
             "forks": 34,
             "score": 63
         },
@@ -128,9 +128,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "nexu-io/motion-anything",
             "description": "\u2728 The agentic motion layer \u2014 an open-source, chat-native motion engine. Describe the feeling; your AI ships the animation.",
             "url": "https://github.com/nexu-io/motion-anything",
-            "stars": 386,
+            "stars": 387,
             "forks": 33,
             "score": 62
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "kill-ai-slop",
+            "full_name": "yetone/kill-ai-slop",
+            "description": "A field guide to the visual & copy tics of AI-generated products \u2014 and an Agent Skill that scans your project and strips them out. https://killaislop.com",
+            "url": "https://github.com/yetone/kill-ai-slop",
+            "stars": 226,
+            "forks": 5,
+            "score": 60
         },
         {
             "main_cat": "AI",
@@ -141,17 +152,6 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/Kulaxyz/self-learning-skills",
             "stars": 840,
             "forks": 28,
-            "score": 61
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "kill-ai-slop",
-            "full_name": "yetone/kill-ai-slop",
-            "description": "A field guide to the visual & copy tics of AI-generated products \u2014 and an Agent Skill that scans your project and strips them out. https://killaislop.com",
-            "url": "https://github.com/yetone/kill-ai-slop",
-            "stars": 223,
-            "forks": 4,
             "score": 59
         },
         {
@@ -194,7 +194,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "ComputeRoyale/Compute-Royale",
             "description": "Bet on AI agents racing real GPUs. They rent compute, do hash-verified work, earn and you stake Solana on the best. Live on Solana.",
             "url": "https://github.com/ComputeRoyale/Compute-Royale",
-            "stars": 500,
+            "stars": 501,
             "forks": 33,
             "score": 52
         },
@@ -233,6 +233,17 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "agentic-trading-desk",
+            "full_name": "Oft3r/agentic-trading-desk",
+            "description": "AI-assisted trading desk for short-term technical analysis on stocks & ETFs via Robinhood MCP. Deterministic Python engines score each asset on a three-pillar framework (Trend \u00b7 Momentum \u00b7 Macro-Sentiment) using EMA, RSI, MACD, TRIX & Bollinger Bands. The AI fetches data; the scripts compute; the human approves every order.",
+            "url": "https://github.com/Oft3r/agentic-trading-desk",
+            "stars": 212,
+            "forks": 49,
+            "score": 47
+        },
+        {
+            "main_cat": "AI",
             "sub_cat": null,
             "name": "spicy-monopoly",
             "full_name": "RennAkira/spicy-monopoly",
@@ -255,23 +266,12 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "agentic-trading-desk",
-            "full_name": "Oft3r/agentic-trading-desk",
-            "description": "AI-assisted trading desk for short-term technical analysis on stocks & ETFs via Robinhood MCP. Deterministic Python engines score each asset on a three-pillar framework (Trend \u00b7 Momentum \u00b7 Macro-Sentiment) using EMA, RSI, MACD, TRIX & Bollinger Bands. The AI fetches data; the scripts compute; the human approves every order.",
-            "url": "https://github.com/Oft3r/agentic-trading-desk",
-            "stars": 211,
-            "forks": 49,
-            "score": 46
-        },
-        {
-            "main_cat": "AI",
             "sub_cat": null,
             "name": "brain0",
             "full_name": "Brain0-ai/brain0",
             "description": "The black box for AI-written code. Passive decision graph linking every commit to the agent prompts behind it: drift detection, DLP audit of what agents read, evidence-driven risk, MCP memory for coding agents, signed provenance attestations. One command, offline by default.",
             "url": "https://github.com/Brain0-ai/brain0",
-            "stars": 315,
+            "stars": 330,
             "forks": 12,
             "score": 45
         },
@@ -304,7 +304,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "michaelshimeles/boring-computers",
             "description": "On-demand Linux computers you can hand to an AI \u2014 real Firecracker microVMs with a browser, terminal, coding agents, and an AI that drives them.",
             "url": "https://github.com/michaelshimeles/boring-computers",
-            "stars": 227,
+            "stars": 228,
             "forks": 31,
             "score": 42
         },
@@ -339,7 +339,7 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/Steller-StellarPulse-org/StellarPulse",
             "stars": 6,
             "forks": 17,
-            "score": 39
+            "score": 37
         },
         {
             "main_cat": "AI",
@@ -629,5 +629,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-07-11 18:51"
+    "timestamp": "2026-07-11 20:01"
 };
