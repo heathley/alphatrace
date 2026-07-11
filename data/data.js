@@ -7,7 +7,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "synthetic-sciences/openscience",
             "description": "The open-source AI workbench for scientific research",
             "url": "https://github.com/synthetic-sciences/openscience",
-            "stars": 2132,
+            "stars": 2136,
             "forks": 303,
             "score": 99
         },
@@ -18,7 +18,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "isjiamu/gzh-design-skill",
             "description": "\u628a Markdown \u4e00\u952e\u6392\u6210\u53ef\u76f4\u63a5\u7c98\u8fdb\u516c\u4f17\u53f7\u7f16\u8f91\u5668\u7684\u7cbe\u81f4 HTML \u2014\u2014 6 \u5957\u7cbe\u9009\u4e3b\u9898 + \u4e3b\u9898\u751f\u6210\u5668 + \u53cc\u5173\u5361\u6821\u9a8c\u3002An AI-agent skill that turns Markdown into paste-ready WeChat article HTML.",
             "url": "https://github.com/isjiamu/gzh-design-skill",
-            "stars": 1879,
+            "stars": 1882,
             "forks": 210,
             "score": 99
         },
@@ -29,7 +29,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "simonlin1212/Vibe-Research",
             "description": "Vibe-Research: Your Personal Trading Research Agent \u00b7 A\u80a1/\u7f8e\u80a1/\u6e2f\u80a1 \u7684\u4e2a\u4eba\u6295\u7814 Agent\uff1a\u6bcf\u65e5\u590d\u76d8\u3001\u8d44\u8baf\u96f7\u8fbe\u3001\u4e2a\u80a1\u6570\u636e\u3001\u677f\u5757\u4e2d\u5fc3\u3001\u6211\u7684\u6301\u4ed3\u3001\u7814\u7a76\u8bb0\u5f55\u3002Vibe-Research \u628a\u6570\u636e\u548c\u529f\u80fd\u914d\u9f50\uff0c\u7531\u4f60\u81ea\u5df1\u7684 AI \u9a71\u52a8\u6295\u8d44\u7814\u7a76\u3002",
             "url": "https://github.com/simonlin1212/Vibe-Research",
-            "stars": 708,
+            "stars": 709,
             "forks": 136,
             "score": 99
         },
@@ -51,7 +51,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "oomol-lab/open-connector",
             "description": "Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAPI.",
             "url": "https://github.com/oomol-lab/open-connector",
-            "stars": 1308,
+            "stars": 1317,
             "forks": 75,
             "score": 83
         },
@@ -62,7 +62,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "jmerelnyc/Talos",
             "description": "GPU worker client for the Talos network. Pairs with your Talos account, serves open-model inference jobs over a WebSocket, and reports uptime for payouts.",
             "url": "https://github.com/jmerelnyc/Talos",
-            "stars": 944,
+            "stars": 946,
             "forks": 16,
             "score": 75
         },
@@ -74,7 +74,7 @@ const ALPHA_DATA_V2 = {
             "description": "Open Science Desktop \u2014 local-first, model-agnostic AI research workbench for macOS, Windows & Linux. Open-source Claude Science desktop alternative built on Tauri + MCP + agent skills.",
             "url": "https://github.com/ai4s-research/open-science",
             "stars": 627,
-            "forks": 69,
+            "forks": 70,
             "score": 71
         },
         {
@@ -84,7 +84,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "HKUDS/OpenOPC",
             "description": "OpenOPC: Build Your Personal AI-Native Company \u2014 Self-Built, Self-Run, Self-Grown",
             "url": "https://github.com/HKUDS/OpenOPC",
-            "stars": 645,
+            "stars": 646,
             "forks": 91,
             "score": 68
         },
@@ -117,7 +117,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "bkingfilm/lapian-notes",
             "description": "\u62c9\u7247\u7b14\u8bb0:\u628a\u7535\u5f71\u53d8\u6210 AI \u8f85\u52a9\u7684\u62c9\u7247\u7b14\u8bb0 - \u672c\u5730\u62bd\u5e27/\u5267\u60c5\u6cf3\u9053\u65f6\u95f4\u8f74/\u7ed3\u6784\u6811/\u60c5\u7eea\u66f2\u7ebf/\u6bb5\u843d\u6df1\u62c6",
             "url": "https://github.com/bkingfilm/lapian-notes",
-            "stars": 262,
+            "stars": 263,
             "forks": 34,
             "score": 63
         },
@@ -128,7 +128,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Kulaxyz/self-learning-skills",
             "description": "A self-improving skill for AI coding agents (Claude Code, Cursor, AGENTS.md): recognize a hard-won golden path in a session and harvest it into a reusable skill/rule for next time.",
             "url": "https://github.com/Kulaxyz/self-learning-skills",
-            "stars": 837,
+            "stars": 838,
             "forks": 28,
             "score": 61
         },
@@ -150,9 +150,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "Raymondhou0917/speak-human-tw",
             "description": "\u300c\u8aaa\u4eba\u8a71\u300d\uff1a\u7e41\u9ad4\u4e2d\u6587\u7684\u53bb AI \u5473\u6539\u5beb skill\u3002\u6293 38 \u7a2e AI \u5beb\u4f5c\u75d5\u8de1\uff0c\u9806\u624b\u6821\u6b63\u4e2d\u570b\u7528\u8a9e\u8207\u534a\u5f62\u6a19\u9ede\uff0c\u7d66 Claude Code / Codex / Cursor \u7528\u3002",
             "url": "https://github.com/Raymondhou0917/speak-human-tw",
-            "stars": 219,
-            "forks": 33,
-            "score": 59
+            "stars": 230,
+            "forks": 34,
+            "score": 60
         },
         {
             "main_cat": "AI",
@@ -161,8 +161,19 @@ const ALPHA_DATA_V2 = {
             "full_name": "ronak-create/FableCut",
             "description": "Zero-dependency browser video editor that AI agents can drive \u2014 JSON timeline, MCP + REST, live-reloading UI",
             "url": "https://github.com/ronak-create/FableCut",
-            "stars": 324,
+            "stars": 326,
             "forks": 19,
+            "score": 58
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "kill-ai-slop",
+            "full_name": "yetone/kill-ai-slop",
+            "description": "A field guide to the visual & copy tics of AI-generated products \u2014 and an Agent Skill that scans your project and strips them out. https://killaislop.com",
+            "url": "https://github.com/yetone/kill-ai-slop",
+            "stars": 208,
+            "forks": 4,
             "score": 58
         },
         {
@@ -174,17 +185,6 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/wassermanproductions/motion-previs-studio",
             "stars": 278,
             "forks": 40,
-            "score": 57
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "kill-ai-slop",
-            "full_name": "yetone/kill-ai-slop",
-            "description": "A field guide to the visual & copy tics of AI-generated products \u2014 and an Agent Skill that scans your project and strips them out. https://killaislop.com",
-            "url": "https://github.com/yetone/kill-ai-slop",
-            "stars": 204,
-            "forks": 4,
             "score": 57
         },
         {
@@ -207,7 +207,7 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/revfactory/webtoon-harness",
             "stars": 274,
             "forks": 100,
-            "score": 52
+            "score": 51
         },
         {
             "main_cat": "AI",
@@ -216,7 +216,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "yusukebe/ax",
             "description": "The AI-era curl",
             "url": "https://github.com/yusukebe/ax",
-            "stars": 289,
+            "stars": 291,
             "forks": 4,
             "score": 49
         },
@@ -260,7 +260,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "RennAkira/spicy-monopoly",
             "description": "\u548c\u4f60\u7684 AI \u4e00\u8d77\u73a9\u7684\u53cc\u4eba\u68cb\u76d8\u5c0f\u6e38\u620f \u00b7 18+ \uff08A two-player board game you play with your AI \u2014 dice, tiles, spicy tasks, all run by code (18+\uff09\uff09",
             "url": "https://github.com/RennAkira/spicy-monopoly",
-            "stars": 195,
+            "stars": 196,
             "forks": 27,
             "score": 46
         },
@@ -271,7 +271,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Evolink-AI/Awesome-Blender-Seedance-Workflow-Usecases",
             "description": "Curated Blender + Seedance workflows for AI filmmaking: previs, camera control, Blender MCP, reference video, and agent-guided use cases.",
             "url": "https://github.com/Evolink-AI/Awesome-Blender-Seedance-Workflow-Usecases",
-            "stars": 313,
+            "stars": 314,
             "forks": 24,
             "score": 44
         },
@@ -293,8 +293,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "haiou-666/haiou2.0-Claude-Code-",
             "description": "\u6d77\u9e25 2.0 \u2014 Claude Code \u4eba\u683c\u91cd\u5851\u914d\u7f6e\u5305\u3002\u8ba9 Claude \u6446\u8131\u5ba2\u670d\u8154\u548c\u8fc7\u5ea6\u8c28\u614e\uff0c\u5316\u8eab\u4e00\u4f4d\u5634\u786c\u5fc3\u8f6f\u3001\u76f4\u6765\u76f4\u5f80\u7684\u8d44\u6df1\u4e2d\u6587\u5b89\u5168\u7814\u7a76\u5458\"\u6d77\u9e25\"\u2014\u2014\u4e13\u6ce8\u6280\u672f\uff0c\u4e0d\u5e9f\u8bdd\uff0c\u4e0d\u7ed5\u5f2f\u5b50\uff0c\u4e0d\u8bf4\"\u4f5c\u4e3aAI\"\uff0c\u76f4\u63a5\u7ed9\u4ee3\u7801\u4e0d\u7ed9\u514d\u8d23\u58f0\u660e\u3002\u6807\u5fd7\u6027\u95ee\u5019\"\u6d77\u9e25\u5728\u7ebf\uff0c\u4f60\u8981\u6574\u70b9\u85af\u6761\u5417\uff1f\"\u30021700+ few-shot \u793a\u4f8b\u9501\u5b9a\u4eba\u683c\u9632\u8131\u58f3\uff0c200+ \u5b89\u5168/\u6e38\u620f\u672f\u8bed\u6620\u5c04\u8986\u76d6\u6e17\u900f\u6d4b\u8bd5\u3001\u9006\u5411\u5de5\u7a0b\u3001\u6e38\u620f\u5f00\u53d1\u7b49\u6280\u672f\u573a\u666f\u3002\u4e00\u952e\u90e8\u7f72\uff0c\u8de8\u5e73\u53f0\u652f\u6301 Windows/macOS/Linux\uff0c\u81ea\u52a8\u5907\u4efd\u539f\u914d\u7f6e\uff0c\u53ef\u4e00\u952e\u5378\u8f7d\u6062\u590d\uff0c\u65e0\u4fb5\u5165\u5f0f\u5b89\u88c5\u3002MIT License\uff0c\u4ec5\u4f9b\u5b66\u4e60\u4ea4\u6d41\u3002",
             "url": "https://github.com/haiou-666/haiou2.0-Claude-Code-",
-            "stars": 256,
-            "forks": 46,
+            "stars": 258,
+            "forks": 47,
             "score": 43
         },
         {
@@ -315,7 +315,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "lynote-ai/humanize-text-skill",
             "description": "Free AI Humanizer: Humanize AI Text Online",
             "url": "https://github.com/lynote-ai/humanize-text-skill",
-            "stars": 223,
+            "stars": 225,
             "forks": 1,
             "score": 41
         },
@@ -348,7 +348,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "SansNope/UnleashedRecomp-Android",
             "description": "The port was created using Anthropic's Fable 5 AI model. It works EXCLUSIVELY on Adreno GPUs. A port for devices with Mali family GPUs is not planned. I don't understand the technical side myself; I just guided Fable 5 in the right direction, mixed the models, and performed the debugging. Artifacts, freezing, and audio issues are possible.",
             "url": "https://github.com/SansNope/UnleashedRecomp-Android",
-            "stars": 47,
+            "stars": 46,
             "forks": 10,
             "score": 34
         },
@@ -640,5 +640,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-07-11 11:53"
+    "timestamp": "2026-07-11 13:03"
 };
