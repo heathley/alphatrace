@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "synthetic-sciences/openscience",
             "description": "The open-source AI workbench for scientific research",
             "url": "https://github.com/synthetic-sciences/openscience",
-            "stars": 2200,
-            "forks": 312,
+            "stars": 2210,
+            "forks": 314,
             "score": 99
         },
         {
@@ -18,8 +18,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "isjiamu/gzh-design-skill",
             "description": "\u628a Markdown \u4e00\u952e\u6392\u6210\u53ef\u76f4\u63a5\u7c98\u8fdb\u516c\u4f17\u53f7\u7f16\u8f91\u5668\u7684\u7cbe\u81f4 HTML \u2014\u2014 6 \u5957\u7cbe\u9009\u4e3b\u9898 + \u4e3b\u9898\u751f\u6210\u5668 + \u53cc\u5173\u5361\u6821\u9a8c\u3002An AI-agent skill that turns Markdown into paste-ready WeChat article HTML.",
             "url": "https://github.com/isjiamu/gzh-design-skill",
-            "stars": 1920,
-            "forks": 214,
+            "stars": 1926,
+            "forks": 216,
             "score": 99
         },
         {
@@ -29,9 +29,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "simonlin1212/Vibe-Research",
             "description": "Vibe-Research: Your Personal Trading Research Agent \u00b7 A\u80a1/\u7f8e\u80a1/\u6e2f\u80a1 \u7684\u4e2a\u4eba\u6295\u7814 Agent\uff1a\u6bcf\u65e5\u590d\u76d8\u3001\u8d44\u8baf\u96f7\u8fbe\u3001\u4e2a\u80a1\u6570\u636e\u3001\u677f\u5757\u4e2d\u5fc3\u3001\u6211\u7684\u6301\u4ed3\u3001\u7814\u7a76\u8bb0\u5f55\u3002Vibe-Research \u628a\u6570\u636e\u548c\u529f\u80fd\u914d\u9f50\uff0c\u7531\u4f60\u81ea\u5df1\u7684 AI \u9a71\u52a8\u6295\u8d44\u7814\u7a76\u3002",
             "url": "https://github.com/simonlin1212/Vibe-Research",
-            "stars": 732,
+            "stars": 735,
             "forks": 145,
-            "score": 99
+            "score": 95
         },
         {
             "main_cat": "AI",
@@ -40,9 +40,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "dongguatanglinux/grok-build-auth",
             "description": "Protocol research client: x.ai signup \u2192 SSO \u2192 Grok Build OAuth \u2192 CLIProxyAPI auth export (authorized use only)",
             "url": "https://github.com/dongguatanglinux/grok-build-auth",
-            "stars": 178,
-            "forks": 79,
-            "score": 91
+            "stars": 183,
+            "forks": 81,
+            "score": 93
         },
         {
             "main_cat": "AI",
@@ -51,9 +51,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "oomol-lab/open-connector",
             "description": "Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAPI.",
             "url": "https://github.com/oomol-lab/open-connector",
-            "stars": 1453,
-            "forks": 81,
-            "score": 89
+            "stars": 1491,
+            "forks": 83,
+            "score": 90
         },
         {
             "main_cat": "AI",
@@ -62,7 +62,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "lingbol088-spec/reverse-flow-skill",
             "description": "\u9762\u5411 AI Agent / Codex \u7684\u672c\u5730 CTF \u9006\u5411\u5de5\u7a0b\u6d41\u7a0b\u6280\u80fd\u3002\u52a0\u8f7d\u540e\u901a\u8fc7\u201c\u771f\u5fc3\u4e3a\u4f60\u201d\u8fdb\u5165\u9006\u5411\u6a21\u5f0f\uff0c\u9ed8\u8ba4\u5728\u672c\u5730\u6c99\u76d2\u3001CTF\u3001crackme\u3001wargame \u6216\u8bad\u7ec3\u9776\u573a\u73af\u5883\u4e2d\u5de5\u4f5c\uff0c\u6309\u201c\u5206\u6790 \u2192 \u62a5\u544a \u2192 \u9006\u5411 \u2192 \u6df1\u5ea6\u9006\u5411 \u2192 \u6f0f\u6d1e\u7814\u5224 \u2192 \u7528\u6237\u9009\u62e9\u4e0b\u4e00\u6b65\u201d\u7684\u6d41\u7a0b\u63a8\u8fdb\u3002",
             "url": "https://github.com/lingbol088-spec/reverse-flow-skill",
-            "stars": 504,
+            "stars": 507,
             "forks": 237,
             "score": 81
         },
@@ -73,8 +73,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "ai4s-research/open-science",
             "description": "Open Science Desktop \u2014 local-first, model-agnostic AI research workbench for macOS, Windows & Linux. Open-source Claude Science desktop alternative built on Tauri + MCP + agent skills.",
             "url": "https://github.com/ai4s-research/open-science",
-            "stars": 651,
-            "forks": 76,
+            "stars": 652,
+            "forks": 77,
             "score": 73
         },
         {
@@ -84,7 +84,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "jmerelnyc/Talos",
             "description": "GPU worker client for the Talos network. Pairs with your Talos account, serves open-model inference jobs over a WebSocket, and reports uptime for payouts.",
             "url": "https://github.com/jmerelnyc/Talos",
-            "stars": 977,
+            "stars": 982,
             "forks": 16,
             "score": 73
         },
@@ -95,9 +95,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "HKUDS/OpenOPC",
             "description": "OpenOPC: Build Your Personal AI-Native Company \u2014 Self-Built, Self-Run, Self-Grown",
             "url": "https://github.com/HKUDS/OpenOPC",
-            "stars": 669,
-            "forks": 98,
-            "score": 70
+            "stars": 671,
+            "forks": 99,
+            "score": 71
         },
         {
             "main_cat": "AI",
@@ -106,31 +106,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "Raymondhou0917/speak-human-tw",
             "description": "\u300c\u8aaa\u4eba\u8a71\u300d\uff1a\u7e41\u9ad4\u4e2d\u6587\u7684\u53bb AI \u5473\u6539\u5beb skill\u3002\u6293 38 \u7a2e AI \u5beb\u4f5c\u75d5\u8de1\uff0c\u9806\u624b\u6821\u6b63\u4e2d\u570b\u7528\u8a9e\u8207\u534a\u5f62\u6a19\u9ede\uff0c\u7d66 Claude Code / Codex / Cursor \u7528\u3002",
             "url": "https://github.com/Raymondhou0917/speak-human-tw",
-            "stars": 303,
+            "stars": 308,
             "forks": 43,
-            "score": 69
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "lapian-notes",
-            "full_name": "bkingfilm/lapian-notes",
-            "description": "\u62c9\u7247\u7b14\u8bb0:\u628a\u7535\u5f71\u53d8\u6210 AI \u8f85\u52a9\u7684\u62c9\u7247\u7b14\u8bb0 - \u672c\u5730\u62bd\u5e27/\u5267\u60c5\u6cf3\u9053\u65f6\u95f4\u8f74/\u7ed3\u6784\u6811/\u60c5\u7eea\u66f2\u7ebf/\u6bb5\u843d\u6df1\u62c6",
-            "url": "https://github.com/bkingfilm/lapian-notes",
-            "stars": 272,
-            "forks": 35,
-            "score": 64
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "motion-anything",
-            "full_name": "nexu-io/motion-anything",
-            "description": "\u2728 The agentic motion layer \u2014 an open-source, chat-native motion engine. Describe the feeling; your AI ships the animation.",
-            "url": "https://github.com/nexu-io/motion-anything",
-            "stars": 400,
-            "forks": 35,
-            "score": 63
+            "score": 70
         },
         {
             "main_cat": "AI",
@@ -139,8 +117,19 @@ const ALPHA_DATA_V2 = {
             "full_name": "yetone/kill-ai-slop",
             "description": "A field guide to the visual & copy tics of AI-generated products \u2014 and an Agent Skill that scans your project and strips them out. https://killaislop.com",
             "url": "https://github.com/yetone/kill-ai-slop",
-            "stars": 247,
-            "forks": 6,
+            "stars": 257,
+            "forks": 8,
+            "score": 66
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "motion-anything",
+            "full_name": "nexu-io/motion-anything",
+            "description": "\u2728 The agentic motion layer \u2014 an open-source, chat-native motion engine. Describe the feeling; your AI ships the animation.",
+            "url": "https://github.com/nexu-io/motion-anything",
+            "stars": 401,
+            "forks": 35,
             "score": 63
         },
         {
@@ -157,11 +146,22 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
+            "name": "lapian-notes",
+            "full_name": "bkingfilm/lapian-notes",
+            "description": "\u62c9\u7247\u7b14\u8bb0:\u628a\u7535\u5f71\u53d8\u6210 AI \u8f85\u52a9\u7684\u62c9\u7247\u7b14\u8bb0 - \u672c\u5730\u62bd\u5e27/\u5267\u60c5\u6cf3\u9053\u65f6\u95f4\u8f74/\u7ed3\u6784\u6811/\u60c5\u7eea\u66f2\u7ebf/\u6bb5\u843d\u6df1\u62c6",
+            "url": "https://github.com/bkingfilm/lapian-notes",
+            "stars": 272,
+            "forks": 35,
+            "score": 59
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
             "name": "rnskill",
             "full_name": "Pluviobyte/rnskill",
             "description": "\u96ea\u8e0f\u4e4c\u4e91\u7684 AI Agent Skills \u96c6\u5408",
             "url": "https://github.com/Pluviobyte/rnskill",
-            "stars": 401,
+            "stars": 406,
             "forks": 38,
             "score": 57
         },
@@ -172,8 +172,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "ronak-create/FableCut",
             "description": "Zero-dependency browser video editor that AI agents can drive \u2014 JSON timeline, MCP + REST, live-reloading UI",
             "url": "https://github.com/ronak-create/FableCut",
-            "stars": 343,
-            "forks": 23,
+            "stars": 344,
+            "forks": 24,
             "score": 57
         },
         {
@@ -185,7 +185,7 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/wassermanproductions/motion-previs-studio",
             "stars": 279,
             "forks": 40,
-            "score": 57
+            "score": 54
         },
         {
             "main_cat": "AI",
@@ -194,9 +194,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "yusukebe/ax",
             "description": "The AI-era curl",
             "url": "https://github.com/yusukebe/ax",
-            "stars": 342,
+            "stars": 355,
             "forks": 5,
-            "score": 52
+            "score": 53
         },
         {
             "main_cat": "AI",
@@ -205,7 +205,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "ComputeRoyale/Compute-Royale",
             "description": "Bet on AI agents racing real GPUs. They rent compute, do hash-verified work, earn and you stake Solana on the best. Live on Solana.",
             "url": "https://github.com/ComputeRoyale/Compute-Royale",
-            "stars": 501,
+            "stars": 500,
             "forks": 33,
             "score": 51
         },
@@ -216,9 +216,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "Brain0-ai/brain0",
             "description": "The black box for AI-written code. Passive decision graph linking every commit to the agent prompts behind it: drift detection, DLP audit of what agents read, evidence-driven risk, MCP memory for coding agents, signed provenance attestations. One command, offline by default.",
             "url": "https://github.com/Brain0-ai/brain0",
-            "stars": 382,
-            "forks": 12,
-            "score": 47
+            "stars": 410,
+            "forks": 13,
+            "score": 49
         },
         {
             "main_cat": "AI",
@@ -238,7 +238,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Oft3r/agentic-trading-desk",
             "description": "AI-assisted trading desk for short-term technical analysis on stocks & ETFs via Robinhood MCP. Deterministic Python engines score each asset on a three-pillar framework (Trend \u00b7 Momentum \u00b7 Macro-Sentiment) using EMA, RSI, MACD, TRIX & Bollinger Bands. The AI fetches data; the scripts compute; the human approves every order.",
             "url": "https://github.com/Oft3r/agentic-trading-desk",
-            "stars": 213,
+            "stars": 214,
             "forks": 50,
             "score": 47
         },
@@ -249,7 +249,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "RennAkira/spicy-monopoly",
             "description": "\u548c\u4f60\u7684 AI \u4e00\u8d77\u73a9\u7684\u53cc\u4eba\u68cb\u76d8\u5c0f\u6e38\u620f \u00b7 18+ \uff08A two-player board game you play with your AI \u2014 dice, tiles, spicy tasks, all run by code (18+\uff09\uff09",
             "url": "https://github.com/RennAkira/spicy-monopoly",
-            "stars": 204,
+            "stars": 205,
             "forks": 28,
             "score": 47
         },
@@ -271,7 +271,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "mocasus/Auto-FreeCF",
             "description": "Cloudflare Workers AI Account ID and token collector with explicit automation modes",
             "url": "https://github.com/mocasus/Auto-FreeCF",
-            "stars": 168,
+            "stars": 169,
             "forks": 45,
             "score": 45
         },
@@ -315,7 +315,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "michaelshimeles/boring-computers",
             "description": "On-demand Linux computers you can hand to an AI \u2014 real Firecracker microVMs with a browser, terminal, coding agents, and an AI that drives them.",
             "url": "https://github.com/michaelshimeles/boring-computers",
-            "stars": 236,
+            "stars": 239,
             "forks": 33,
             "score": 42
         },
@@ -618,5 +618,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-07-12 05:50"
+    "timestamp": "2026-07-12 08:06"
 };
