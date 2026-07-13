@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "synthetic-sciences/openscience",
             "description": "The open-source AI workbench for scientific research",
             "url": "https://github.com/synthetic-sciences/openscience",
-            "stars": 2354,
-            "forks": 338,
+            "stars": 2358,
+            "forks": 339,
             "score": 99
         },
         {
@@ -29,8 +29,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "KORAYTEACHER/fintech-advisor",
             "description": "ai fintech financial advisor for your portfolio",
             "url": "https://github.com/KORAYTEACHER/fintech-advisor",
-            "stars": 174,
-            "forks": 1021,
+            "stars": 175,
+            "forks": 1041,
             "score": 99
         },
         {
@@ -47,24 +47,24 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
+            "name": "grok-build-auth",
+            "full_name": "dongguatanglinux/grok-build-auth",
+            "description": "Protocol research client: x.ai signup \u2192 SSO \u2192 Grok Build OAuth \u2192 CLIProxyAPI auth export (authorized use only)",
+            "url": "https://github.com/dongguatanglinux/grok-build-auth",
+            "stars": 216,
+            "forks": 95,
+            "score": 79
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
             "name": "reverse-flow-skill",
             "full_name": "lingbol088-spec/reverse-flow-skill",
             "description": "\u9762\u5411 AI Agent / Codex \u7684\u672c\u5730 CTF \u9006\u5411\u5de5\u7a0b\u6d41\u7a0b\u6280\u80fd\u3002\u52a0\u8f7d\u540e\u901a\u8fc7\u201c\u771f\u5fc3\u4e3a\u4f60\u201d\u8fdb\u5165\u9006\u5411\u6a21\u5f0f\uff0c\u9ed8\u8ba4\u5728\u672c\u5730\u6c99\u76d2\u3001CTF\u3001crackme\u3001wargame \u6216\u8bad\u7ec3\u9776\u573a\u73af\u5883\u4e2d\u5de5\u4f5c\uff0c\u6309\u201c\u5206\u6790 \u2192 \u62a5\u544a \u2192 \u9006\u5411 \u2192 \u6df1\u5ea6\u9006\u5411 \u2192 \u6f0f\u6d1e\u7814\u5224 \u2192 \u7528\u6237\u9009\u62e9\u4e0b\u4e00\u6b65\u201d\u7684\u6d41\u7a0b\u63a8\u8fdb\u3002",
             "url": "https://github.com/lingbol088-spec/reverse-flow-skill",
             "stars": 528,
             "forks": 237,
-            "score": 79
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "grok-build-auth",
-            "full_name": "dongguatanglinux/grok-build-auth",
-            "description": "Protocol research client: x.ai signup \u2192 SSO \u2192 Grok Build OAuth \u2192 CLIProxyAPI auth export (authorized use only)",
-            "url": "https://github.com/dongguatanglinux/grok-build-auth",
-            "stars": 215,
-            "forks": 94,
-            "score": 79
+            "score": 76
         },
         {
             "main_cat": "AI",
@@ -73,7 +73,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Raymondhou0917/speak-human-tw",
             "description": "\u300c\u8aaa\u4eba\u8a71\u300d\uff1a\u7e41\u9ad4\u4e2d\u6587\u7684\u53bb AI \u5473\u6539\u5beb skill\u3002\u6293 38 \u7a2e AI \u5beb\u4f5c\u75d5\u8de1\uff0c\u9806\u624b\u6821\u6b63\u4e2d\u570b\u7528\u8a9e\u8207\u534a\u5f62\u6a19\u9ede\uff0c\u7d66 Claude Code / Codex / Cursor \u7528\u3002",
             "url": "https://github.com/Raymondhou0917/speak-human-tw",
-            "stars": 472,
+            "stars": 474,
             "forks": 57,
             "score": 73
         },
@@ -106,7 +106,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "yetone/kill-ai-slop",
             "description": "A field guide to the visual & copy tics of AI-generated products \u2014 and an Agent Skill that scans your project and strips them out. https://killaislop.com",
             "url": "https://github.com/yetone/kill-ai-slop",
-            "stars": 395,
+            "stars": 398,
             "forks": 14,
             "score": 67
         },
@@ -172,9 +172,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "yusukebe/ax",
             "description": "The AI-era curl",
             "url": "https://github.com/yusukebe/ax",
-            "stars": 468,
+            "stars": 472,
             "forks": 7,
-            "score": 54
+            "score": 55
         },
         {
             "main_cat": "AI",
@@ -183,7 +183,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Pluviobyte/rnskill",
             "description": "\u96ea\u8e0f\u4e4c\u4e91\u7684 AI Agent Skills \u96c6\u5408",
             "url": "https://github.com/Pluviobyte/rnskill",
-            "stars": 423,
+            "stars": 424,
             "forks": 40,
             "score": 54
         },
@@ -223,6 +223,17 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
+            "name": "clawk",
+            "full_name": "clawkwork/clawk",
+            "description": "Disposable, network-restricted Linux VMs for AI coding agents",
+            "url": "https://github.com/clawkwork/clawk",
+            "stars": 270,
+            "forks": 9,
+            "score": 45
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
             "name": "spicy-monopoly",
             "full_name": "RennAkira/spicy-monopoly",
             "description": "\u548c\u4f60\u7684 AI \u4e00\u8d77\u73a9\u7684\u53cc\u4eba\u68cb\u76d8\u5c0f\u6e38\u620f \u00b7 18+ \uff08A two-player board game you play with your AI \u2014 dice, tiles, spicy tasks, all run by code (18+\uff09\uff09",
@@ -241,17 +252,6 @@ const ALPHA_DATA_V2 = {
             "stars": 218,
             "forks": 52,
             "score": 45
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "clawk",
-            "full_name": "clawkwork/clawk",
-            "description": "Disposable, network-restricted Linux VMs for AI coding agents",
-            "url": "https://github.com/clawkwork/clawk",
-            "stars": 258,
-            "forks": 8,
-            "score": 44
         },
         {
             "main_cat": "AI",
@@ -277,17 +277,6 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
-            "sub_cat": null,
-            "name": "undress-design",
-            "full_name": "chordswallowthrust/undress-design",
-            "description": "AI-powered fashion visualization and virtual try-on toolkit for consent-based garment editing, outfit prototyping, and creative design workflows. https://undress.design/edit?utm_source=gist.github.com/chordswallowthrust/undress-design",
-            "url": "https://github.com/chordswallowthrust/undress-design",
-            "stars": 173,
-            "forks": 0,
-            "score": 44
-        },
-        {
-            "main_cat": "AI",
             "sub_cat": "AI General",
             "name": "boring-computers",
             "full_name": "michaelshimeles/boring-computers",
@@ -306,6 +295,17 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/yaojingang/TokHub",
             "stars": 180,
             "forks": 16,
+            "score": 42
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "exxperts",
+            "full_name": "EXXETA/exxperts",
+            "description": "Persistent AI rooms with governed, approval-gated memory: local-first, on your machine.",
+            "url": "https://github.com/EXXETA/exxperts",
+            "stars": 175,
+            "forks": 14,
             "score": 42
         },
         {
@@ -359,7 +359,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "NHClimber87/llm-serve-dashboard",
             "description": "Single-file, dependency-free live dashboard for local llama.cpp/vLLM serving \u2014 GPU, throughput, KV/ctx, model library. Stdlib Python + one local-first HTML page.",
             "url": "https://github.com/NHClimber87/llm-serve-dashboard",
-            "stars": 21,
+            "stars": 22,
             "forks": 5,
             "score": 34
         },
@@ -662,5 +662,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-07-13 21:50"
+    "timestamp": "2026-07-13 22:50"
 };
