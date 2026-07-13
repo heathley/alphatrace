@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "synthetic-sciences/openscience",
             "description": "The open-source AI workbench for scientific research",
             "url": "https://github.com/synthetic-sciences/openscience",
-            "stars": 2342,
-            "forks": 331,
+            "stars": 2346,
+            "forks": 335,
             "score": 99
         },
         {
@@ -18,7 +18,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "isjiamu/gzh-design-skill",
             "description": "\u628a Markdown \u4e00\u952e\u6392\u6210\u53ef\u76f4\u63a5\u7c98\u8fdb\u516c\u4f17\u53f7\u7f16\u8f91\u5668\u7684\u7cbe\u81f4 HTML \u2014\u2014 6 \u5957\u7cbe\u9009\u4e3b\u9898 + \u4e3b\u9898\u751f\u6210\u5668 + \u53cc\u5173\u5361\u6821\u9a8c\u3002An AI-agent skill that turns Markdown into paste-ready WeChat article HTML.",
             "url": "https://github.com/isjiamu/gzh-design-skill",
-            "stars": 2064,
+            "stars": 2066,
             "forks": 232,
             "score": 99
         },
@@ -29,8 +29,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "KORAYTEACHER/fintech-advisor",
             "description": "ai fintech financial advisor for your portfolio",
             "url": "https://github.com/KORAYTEACHER/fintech-advisor",
-            "stars": 173,
-            "forks": 913,
+            "stars": 174,
+            "forks": 954,
             "score": 99
         },
         {
@@ -40,9 +40,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "simonlin1212/Vibe-Research",
             "description": "Vibe-Research: Your Personal Trading Research Agent \u00b7 A\u80a1/\u7f8e\u80a1/\u6e2f\u80a1 \u7684\u4e2a\u4eba\u6295\u7814 Agent\uff1a\u6bcf\u65e5\u590d\u76d8\u3001\u8d44\u8baf\u96f7\u8fbe\u3001\u4e2a\u80a1\u6570\u636e\u3001\u677f\u5757\u4e2d\u5fc3\u3001\u6211\u7684\u6301\u4ed3\u3001\u7814\u7a76\u8bb0\u5f55\u3002Vibe-Research \u628a\u6570\u636e\u548c\u529f\u80fd\u914d\u9f50\uff0c\u7531\u4f60\u81ea\u5df1\u7684 AI \u9a71\u52a8\u6295\u8d44\u7814\u7a76\u3002",
             "url": "https://github.com/simonlin1212/Vibe-Research",
-            "stars": 782,
-            "forks": 167,
-            "score": 95
+            "stars": 783,
+            "forks": 168,
+            "score": 96
         },
         {
             "main_cat": "AI",
@@ -62,7 +62,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "dongguatanglinux/grok-build-auth",
             "description": "Protocol research client: x.ai signup \u2192 SSO \u2192 Grok Build OAuth \u2192 CLIProxyAPI auth export (authorized use only)",
             "url": "https://github.com/dongguatanglinux/grok-build-auth",
-            "stars": 211,
+            "stars": 213,
             "forks": 92,
             "score": 78
         },
@@ -73,7 +73,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Raymondhou0917/speak-human-tw",
             "description": "\u300c\u8aaa\u4eba\u8a71\u300d\uff1a\u7e41\u9ad4\u4e2d\u6587\u7684\u53bb AI \u5473\u6539\u5beb skill\u3002\u6293 38 \u7a2e AI \u5beb\u4f5c\u75d5\u8de1\uff0c\u9806\u624b\u6821\u6b63\u4e2d\u570b\u7528\u8a9e\u8207\u534a\u5f62\u6a19\u9ede\uff0c\u7d66 Claude Code / Codex / Cursor \u7528\u3002",
             "url": "https://github.com/Raymondhou0917/speak-human-tw",
-            "stars": 465,
+            "stars": 467,
             "forks": 57,
             "score": 73
         },
@@ -84,7 +84,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "ai4s-research/open-science",
             "description": "Open Science Desktop \u2014 local-first, model-agnostic AI research workbench for macOS, Windows & Linux. Open-source Claude Science desktop alternative built on Tauri + MCP + agent skills.",
             "url": "https://github.com/ai4s-research/open-science",
-            "stars": 701,
+            "stars": 703,
             "forks": 79,
             "score": 69
         },
@@ -95,9 +95,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "HKUDS/OpenOPC",
             "description": "OpenOPC: Build Your Personal AI-Native Company \u2014 Self-Built, Self-Run, Self-Grown",
             "url": "https://github.com/HKUDS/OpenOPC",
-            "stars": 722,
+            "stars": 723,
             "forks": 110,
             "score": 68
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "kill-ai-slop",
+            "full_name": "yetone/kill-ai-slop",
+            "description": "A field guide to the visual & copy tics of AI-generated products \u2014 and an Agent Skill that scans your project and strips them out. https://killaislop.com",
+            "url": "https://github.com/yetone/kill-ai-slop",
+            "stars": 391,
+            "forks": 14,
+            "score": 67
         },
         {
             "main_cat": "AI",
@@ -109,17 +120,6 @@ const ALPHA_DATA_V2 = {
             "stars": 995,
             "forks": 17,
             "score": 67
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "kill-ai-slop",
-            "full_name": "yetone/kill-ai-slop",
-            "description": "A field guide to the visual & copy tics of AI-generated products \u2014 and an Agent Skill that scans your project and strips them out. https://killaislop.com",
-            "url": "https://github.com/yetone/kill-ai-slop",
-            "stars": 387,
-            "forks": 14,
-            "score": 66
         },
         {
             "main_cat": "AI",
@@ -139,7 +139,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "bkingfilm/lapian-notes",
             "description": "\u62c9\u7247\u7b14\u8bb0:\u628a\u7535\u5f71\u53d8\u6210 AI \u8f85\u52a9\u7684\u62c9\u7247\u7b14\u8bb0 - \u672c\u5730\u62bd\u5e27/\u5267\u60c5\u6cf3\u9053\u65f6\u95f4\u8f74/\u7ed3\u6784\u6811/\u60c5\u7eea\u66f2\u7ebf/\u6bb5\u843d\u6df1\u62c6",
             "url": "https://github.com/bkingfilm/lapian-notes",
-            "stars": 309,
+            "stars": 310,
             "forks": 40,
             "score": 59
         },
@@ -172,9 +172,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "ronak-create/FableCut",
             "description": "Zero-dependency browser video editor that AI agents can drive \u2014 JSON timeline, MCP + REST, live-reloading UI",
             "url": "https://github.com/ronak-create/FableCut",
-            "stars": 405,
-            "forks": 28,
-            "score": 55
+            "stars": 406,
+            "forks": 29,
+            "score": 56
         },
         {
             "main_cat": "AI",
@@ -183,7 +183,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "yusukebe/ax",
             "description": "The AI-era curl",
             "url": "https://github.com/yusukebe/ax",
-            "stars": 460,
+            "stars": 464,
             "forks": 7,
             "score": 54
         },
@@ -194,7 +194,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "wassermanproductions/motion-previs-studio",
             "description": "Open-source desktop app for AI-film motion, depth, pose, and camera-move previsualization.",
             "url": "https://github.com/wassermanproductions/motion-previs-studio",
-            "stars": 286,
+            "stars": 287,
             "forks": 41,
             "score": 52
         },
@@ -233,17 +233,6 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "agentic-trading-desk",
-            "full_name": "Oft3r/agentic-trading-desk",
-            "description": "AI-assisted trading desk for short-term technical analysis on stocks & ETFs via Robinhood MCP. Deterministic Python engines score each asset on a three-pillar framework (Trend \u00b7 Momentum \u00b7 Macro-Sentiment) using EMA, RSI, MACD, TRIX & Bollinger Bands. The AI fetches data; the scripts compute; the human approves every order.",
-            "url": "https://github.com/Oft3r/agentic-trading-desk",
-            "stars": 216,
-            "forks": 51,
-            "score": 46
-        },
-        {
-            "main_cat": "AI",
             "sub_cat": null,
             "name": "spicy-monopoly",
             "full_name": "RennAkira/spicy-monopoly",
@@ -255,14 +244,14 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
-            "sub_cat": null,
-            "name": "undress-design",
-            "full_name": "chordswallowthrust/undress-design",
-            "description": "AI-powered fashion visualization and virtual try-on toolkit for consent-based garment editing, outfit prototyping, and creative design workflows. https://undress.design/edit?utm_source=gist.github.com/chordswallowthrust/undress-design",
-            "url": "https://github.com/chordswallowthrust/undress-design",
-            "stars": 171,
-            "forks": 0,
-            "score": 44
+            "sub_cat": "AI General",
+            "name": "agentic-trading-desk",
+            "full_name": "Oft3r/agentic-trading-desk",
+            "description": "AI-assisted trading desk for short-term technical analysis on stocks & ETFs via Robinhood MCP. Deterministic Python engines score each asset on a three-pillar framework (Trend \u00b7 Momentum \u00b7 Macro-Sentiment) using EMA, RSI, MACD, TRIX & Bollinger Bands. The AI fetches data; the scripts compute; the human approves every order.",
+            "url": "https://github.com/Oft3r/agentic-trading-desk",
+            "stars": 216,
+            "forks": 51,
+            "score": 45
         },
         {
             "main_cat": "AI",
@@ -271,9 +260,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "oxbshw/watch-skill",
             "description": "Video understanding and self-verification for AI agents. Turn videos, streams, and agent screen recordings into searchable, timestamped evidence\u2014then use THE LOOP to inspect, fix, and verify the work. MCP, CLI, REST, local-first.",
             "url": "https://github.com/oxbshw/watch-skill",
-            "stars": 186,
-            "forks": 23,
-            "score": 43
+            "stars": 188,
+            "forks": 24,
+            "score": 44
         },
         {
             "main_cat": "AI",
@@ -295,6 +284,17 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/michaelshimeles/boring-computers",
             "stars": 259,
             "forks": 34,
+            "score": 42
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "clawk",
+            "full_name": "clawkwork/clawk",
+            "description": "Disposable, network-restricted Linux VMs for AI coding agents",
+            "url": "https://github.com/clawkwork/clawk",
+            "stars": 199,
+            "forks": 6,
             "score": 42
         },
         {
@@ -337,7 +337,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "NInagusev47/Silent-Crypto-Miner",
             "description": "Silent Crypto Miner is an advanced cryptocurrency mining builder and runtime engine with multi-algorithm CPU/GPU support and intelligent resource management. Create custom mining executables with configurable algorithms, cross-platform output, real-time monitoring, session persistence, thermal throttling, scheduling, and hashrate optimization.",
             "url": "https://github.com/NInagusev47/Silent-Crypto-Miner",
-            "stars": 63,
+            "stars": 52,
             "forks": 11,
             "score": 38
         },
@@ -349,7 +349,7 @@ const ALPHA_DATA_V2 = {
             "description": "Stellar Pulse is a decentralized prediction market built on Stellar/Soroban. Users connect a wallet, bet XLM on YES/NO markets, earn PULSE tokens and points, and claim payouts on-chain.",
             "url": "https://github.com/Steller-StellarPulse-org/StellarPulse",
             "stars": 6,
-            "forks": 22,
+            "forks": 21,
             "score": 37
         },
         {
@@ -381,7 +381,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "tinyBigGAMES/Gemma4.pas",
             "description": "Gemma4.pas is a high-performance AI inference engine developed entirely in Delphi to run Google\u2019s Gemma 4 model natively on Windows. Unlike most platforms, this project features zero external dependencies and utilizes Vulkan compute shaders to accelerate complex mathematical operations directly on the user's GPU.",
             "url": "https://github.com/tinyBigGAMES/Gemma4.pas",
-            "stars": 21,
+            "stars": 22,
             "forks": 4,
             "score": 31
         },
@@ -552,6 +552,17 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "Trustlink-Research",
+            "full_name": "Trustlink-Labs/Trustlink-Research",
+            "description": "Official research library of TrustLink Labs \u2014 publishing protocol research on blockchain identity, stablecoin settlement, privacy infrastructure, and decentralized payment architecture.",
+            "url": "https://github.com/Trustlink-Labs/Trustlink-Research",
+            "stars": 0,
+            "forks": 0,
+            "score": 30
+        },
+        {
+            "main_cat": "AI",
             "sub_cat": "AI Agents",
             "name": "paygate",
             "full_name": "eudehh/paygate",
@@ -586,22 +597,22 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
-            "name": ".github",
-            "full_name": "Trustlink-Labs/.github",
-            "description": "TrustLink Labs builds open blockchain infrastructure for identity-aware, privacy-preserving, and scalable digital payments. Our protocols include ZK-PRU, TINS (identity), TSN (settlement), and VPP (confidential stablecoin infrastructure).",
-            "url": "https://github.com/Trustlink-Labs/.github",
-            "stars": 0,
+            "name": "Universal-Cross-Chain-Bridge",
+            "full_name": "oscar01428/Universal-Cross-Chain-Bridge",
+            "description": "A cross-chain infrastructure protocol that enables secure communication and digital asset transfers between independent blockchain networks. The platform uses smart contracts, validator mechanisms, and relayer services to facilitate trust-minimized bridging between EVM-compatible chains while maintaining transaction integrity and security.",
+            "url": "https://github.com/oscar01428/Universal-Cross-Chain-Bridge",
+            "stars": 4,
             "forks": 0,
             "score": 30
         },
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
-            "name": "Universal-Cross-Chain-Bridge",
-            "full_name": "oscar01428/Universal-Cross-Chain-Bridge",
-            "description": "A cross-chain infrastructure protocol that enables secure communication and digital asset transfers between independent blockchain networks. The platform uses smart contracts, validator mechanisms, and relayer services to facilitate trust-minimized bridging between EVM-compatible chains while maintaining transaction integrity and security.",
-            "url": "https://github.com/oscar01428/Universal-Cross-Chain-Bridge",
-            "stars": 4,
+            "name": "RAI",
+            "full_name": "mehsarreza374/RAI",
+            "description": "RAI System (v1.0.0) - A next-generation, high-security autonomous AI gateway engineered for absolute privacy and cross-device control. Designed with multi-layered biometric authentication, dynamic intrusion countermeasures, and decentralized automation protocols. \u200bDeveloped & Conceptualized by: Mehsar Reza",
+            "url": "https://github.com/mehsarreza374/RAI",
+            "stars": 1,
             "forks": 0,
             "score": 30
         },
@@ -651,5 +662,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-07-13 16:24"
+    "timestamp": "2026-07-13 18:28"
 };
