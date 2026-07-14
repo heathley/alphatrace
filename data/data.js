@@ -7,7 +7,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "synthetic-sciences/openscience",
             "description": "The open-source AI workbench for scientific research",
             "url": "https://github.com/synthetic-sciences/openscience",
-            "stars": 2409,
+            "stars": 2410,
             "forks": 350,
             "score": 99
         },
@@ -30,7 +30,7 @@ const ALPHA_DATA_V2 = {
             "description": "AI SRE AgenticOps for Kubernetes and cloud infrastructure.",
             "url": "https://github.com/William-Lu-stack/Flawless",
             "stars": 615,
-            "forks": 92,
+            "forks": 94,
             "score": 99
         },
         {
@@ -62,7 +62,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Raymondhou0917/speak-human-tw",
             "description": "\u300c\u8aaa\u4eba\u8a71\u300d\uff1a\u7e41\u9ad4\u4e2d\u6587\u7684\u53bb AI \u5473\u6539\u5beb skill\u3002\u6293 38 \u7a2e AI \u5beb\u4f5c\u75d5\u8de1\uff0c\u9806\u624b\u6821\u6b63\u4e2d\u570b\u7528\u8a9e\u8207\u534a\u5f62\u6a19\u9ede\uff0c\u7d66 Claude Code / Codex / Cursor \u7528\u3002",
             "url": "https://github.com/Raymondhou0917/speak-human-tw",
-            "stars": 502,
+            "stars": 503,
             "forks": 59,
             "score": 71
         },
@@ -73,7 +73,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "HKUDS/OpenOPC",
             "description": "OpenOPC: Build Your Personal AI-Native Company \u2014 Self-Built, Self-Run, Self-Grown",
             "url": "https://github.com/HKUDS/OpenOPC",
-            "stars": 751,
+            "stars": 752,
             "forks": 118,
             "score": 68
         },
@@ -95,7 +95,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "yetone/kill-ai-slop",
             "description": "A field guide to the visual & copy tics of AI-generated products \u2014 and an Agent Skill that scans your project and strips them out. https://killaislop.com",
             "url": "https://github.com/yetone/kill-ai-slop",
-            "stars": 434,
+            "stars": 435,
             "forks": 17,
             "score": 65
         },
@@ -145,17 +145,6 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
-            "sub_cat": "AI Agents",
-            "name": "Cognitive-Core-Skills",
-            "full_name": "eli-labz/Cognitive-Core-Skills",
-            "description": "A universal, industry-neutral taxonomy of cognitive core skills (perception, memory, reasoning, planning, action, verification, learning, governance) for LLMs, SLMs, AI agents, and world models \u2014 with schemas, 159 skill cards, benchmarks, and CI.",
-            "url": "https://github.com/eli-labz/Cognitive-Core-Skills",
-            "stars": 275,
-            "forks": 77,
-            "score": 56
-        },
-        {
-            "main_cat": "AI",
             "sub_cat": null,
             "name": "rnskill",
             "full_name": "Pluviobyte/rnskill",
@@ -189,14 +178,25 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
+            "sub_cat": "AI Agents",
+            "name": "Cognitive-Core-Skills",
+            "full_name": "eli-labz/Cognitive-Core-Skills",
+            "description": "A universal, industry-neutral taxonomy of cognitive core skills (perception, memory, reasoning, planning, action, verification, learning, governance) for LLMs, SLMs, AI agents, and world models \u2014 with schemas, 159 skill cards, benchmarks, and CI.",
+            "url": "https://github.com/eli-labz/Cognitive-Core-Skills",
+            "stars": 275,
+            "forks": 77,
+            "score": 54
+        },
+        {
+            "main_cat": "AI",
             "sub_cat": null,
             "name": "clawk",
             "full_name": "clawkwork/clawk",
             "description": "Disposable, network-restricted Linux VMs for AI coding agents",
             "url": "https://github.com/clawkwork/clawk",
-            "stars": 452,
+            "stars": 454,
             "forks": 9,
-            "score": 54
+            "score": 52
         },
         {
             "main_cat": "AI",
@@ -216,20 +216,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "Brain0-ai/brain0",
             "description": "The black box for AI-written code. Passive decision graph linking every commit to the agent prompts behind it: drift detection, DLP audit of what agents read, evidence-driven risk, MCP memory for coding agents, signed provenance attestations. One command, offline by default.",
             "url": "https://github.com/Brain0-ai/brain0",
-            "stars": 434,
+            "stars": 435,
             "forks": 13,
             "score": 46
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "Autonomous-Forge",
-            "full_name": "OmarH-creator/Autonomous-Forge",
-            "description": "This repo is automated and is fully AI-built and AI-maintained project that continuously plans, codes, tests, and improves itself.",
-            "url": "https://github.com/OmarH-creator/Autonomous-Forge",
-            "stars": 251,
-            "forks": 10,
-            "score": 44
         },
         {
             "main_cat": "AI",
@@ -238,9 +227,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "RennAkira/spicy-monopoly",
             "description": "\u548c\u4f60\u7684 AI \u4e00\u8d77\u73a9\u7684\u53cc\u4eba\u68cb\u76d8\u5c0f\u6e38\u620f \u00b7 18+ \uff08A two-player board game you play with your AI \u2014 dice, tiles, spicy tasks, all run by code (18+\uff09\uff09",
             "url": "https://github.com/RennAkira/spicy-monopoly",
-            "stars": 235,
+            "stars": 236,
             "forks": 31,
-            "score": 44
+            "score": 45
         },
         {
             "main_cat": "AI",
@@ -252,6 +241,17 @@ const ALPHA_DATA_V2 = {
             "stars": 219,
             "forks": 54,
             "score": 44
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "Autonomous-Forge",
+            "full_name": "OmarH-creator/Autonomous-Forge",
+            "description": "This repo is automated and is fully AI-built and AI-maintained project that continuously plans, codes, tests, and improves itself.",
+            "url": "https://github.com/OmarH-creator/Autonomous-Forge",
+            "stars": 251,
+            "forks": 10,
+            "score": 43
         },
         {
             "main_cat": "AI",
@@ -392,8 +392,19 @@ const ALPHA_DATA_V2 = {
             "full_name": "tinyBigGAMES/Gemma4.pas",
             "description": "Gemma4.pas is a high-performance AI inference engine developed entirely in Delphi to run Google\u2019s Gemma 4 model natively on Windows. Unlike most platforms, this project features zero external dependencies and utilizes Vulkan compute shaders to accelerate complex mathematical operations directly on the user's GPU.",
             "url": "https://github.com/tinyBigGAMES/Gemma4.pas",
-            "stars": 22,
+            "stars": 23,
             "forks": 4,
+            "score": 31
+        },
+        {
+            "main_cat": "Stablecoin Infrastructure",
+            "sub_cat": null,
+            "name": "horizonflow-core",
+            "full_name": "benedictworks-home/horizonflow-core",
+            "description": "Automated, non-custodial recurring stablecoin payments and subscriptions on Stellar using Soroban smart contracts.",
+            "url": "https://github.com/benedictworks-home/horizonflow-core",
+            "stars": 0,
+            "forks": 2,
             "score": 31
         },
         {
@@ -515,17 +526,6 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/TychiWallet/.github",
             "stars": 0,
             "forks": 0,
-            "score": 30
-        },
-        {
-            "main_cat": "Stablecoin Infrastructure",
-            "sub_cat": null,
-            "name": "horizonflow-core",
-            "full_name": "benedictworks-home/horizonflow-core",
-            "description": "Automated, non-custodial recurring stablecoin payments and subscriptions on Stellar using Soroban smart contracts.",
-            "url": "https://github.com/benedictworks-home/horizonflow-core",
-            "stars": 0,
-            "forks": 1,
             "score": 30
         },
         {
@@ -673,5 +673,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-07-14 20:53"
+    "timestamp": "2026-07-14 21:52"
 };
