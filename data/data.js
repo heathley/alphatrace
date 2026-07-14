@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "synthetic-sciences/openscience",
             "description": "The open-source AI workbench for scientific research",
             "url": "https://github.com/synthetic-sciences/openscience",
-            "stars": 2358,
-            "forks": 339,
+            "stars": 2364,
+            "forks": 340,
             "score": 99
         },
         {
@@ -18,8 +18,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "isjiamu/gzh-design-skill",
             "description": "\u628a Markdown \u4e00\u952e\u6392\u6210\u53ef\u76f4\u63a5\u7c98\u8fdb\u516c\u4f17\u53f7\u7f16\u8f91\u5668\u7684\u7cbe\u81f4 HTML \u2014\u2014 6 \u5957\u7cbe\u9009\u4e3b\u9898 + \u4e3b\u9898\u751f\u6210\u5668 + \u53cc\u5173\u5361\u6821\u9a8c\u3002An AI-agent skill that turns Markdown into paste-ready WeChat article HTML.",
             "url": "https://github.com/isjiamu/gzh-design-skill",
-            "stars": 2067,
-            "forks": 233,
+            "stars": 2072,
+            "forks": 235,
             "score": 99
         },
         {
@@ -40,8 +40,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "simonlin1212/Vibe-Research",
             "description": "Vibe-Research: Your Personal Trading Research Agent \u00b7 A\u80a1/\u7f8e\u80a1/\u6e2f\u80a1 \u7684\u4e2a\u4eba\u6295\u7814 Agent\uff1a\u6bcf\u65e5\u590d\u76d8\u3001\u8d44\u8baf\u96f7\u8fbe\u3001\u4e2a\u80a1\u6570\u636e\u3001\u677f\u5757\u4e2d\u5fc3\u3001\u6211\u7684\u6301\u4ed3\u3001\u7814\u7a76\u8bb0\u5f55\u3002Vibe-Research \u628a\u6570\u636e\u548c\u529f\u80fd\u914d\u9f50\uff0c\u7531\u4f60\u81ea\u5df1\u7684 AI \u9a71\u52a8\u6295\u8d44\u7814\u7a76\u3002",
             "url": "https://github.com/simonlin1212/Vibe-Research",
-            "stars": 785,
-            "forks": 169,
+            "stars": 787,
+            "forks": 170,
             "score": 96
         },
         {
@@ -51,20 +51,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "dongguatanglinux/grok-build-auth",
             "description": "Protocol research client: x.ai signup \u2192 SSO \u2192 Grok Build OAuth \u2192 CLIProxyAPI auth export (authorized use only)",
             "url": "https://github.com/dongguatanglinux/grok-build-auth",
-            "stars": 216,
-            "forks": 95,
-            "score": 79
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "reverse-flow-skill",
-            "full_name": "lingbol088-spec/reverse-flow-skill",
-            "description": "\u9762\u5411 AI Agent / Codex \u7684\u672c\u5730 CTF \u9006\u5411\u5de5\u7a0b\u6d41\u7a0b\u6280\u80fd\u3002\u52a0\u8f7d\u540e\u901a\u8fc7\u201c\u771f\u5fc3\u4e3a\u4f60\u201d\u8fdb\u5165\u9006\u5411\u6a21\u5f0f\uff0c\u9ed8\u8ba4\u5728\u672c\u5730\u6c99\u76d2\u3001CTF\u3001crackme\u3001wargame \u6216\u8bad\u7ec3\u9776\u573a\u73af\u5883\u4e2d\u5de5\u4f5c\uff0c\u6309\u201c\u5206\u6790 \u2192 \u62a5\u544a \u2192 \u9006\u5411 \u2192 \u6df1\u5ea6\u9006\u5411 \u2192 \u6f0f\u6d1e\u7814\u5224 \u2192 \u7528\u6237\u9009\u62e9\u4e0b\u4e00\u6b65\u201d\u7684\u6d41\u7a0b\u63a8\u8fdb\u3002",
-            "url": "https://github.com/lingbol088-spec/reverse-flow-skill",
-            "stars": 528,
-            "forks": 237,
-            "score": 76
+            "stars": 218,
+            "forks": 96,
+            "score": 80
         },
         {
             "main_cat": "AI",
@@ -73,7 +62,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Raymondhou0917/speak-human-tw",
             "description": "\u300c\u8aaa\u4eba\u8a71\u300d\uff1a\u7e41\u9ad4\u4e2d\u6587\u7684\u53bb AI \u5473\u6539\u5beb skill\u3002\u6293 38 \u7a2e AI \u5beb\u4f5c\u75d5\u8de1\uff0c\u9806\u624b\u6821\u6b63\u4e2d\u570b\u7528\u8a9e\u8207\u534a\u5f62\u6a19\u9ede\uff0c\u7d66 Claude Code / Codex / Cursor \u7528\u3002",
             "url": "https://github.com/Raymondhou0917/speak-human-tw",
-            "stars": 476,
+            "stars": 482,
             "forks": 57,
             "score": 74
         },
@@ -84,7 +73,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "ai4s-research/open-science",
             "description": "Open Science Desktop \u2014 local-first, model-agnostic AI research workbench for macOS, Windows & Linux. Open-source Claude Science desktop alternative built on Tauri + MCP + agent skills.",
             "url": "https://github.com/ai4s-research/open-science",
-            "stars": 705,
+            "stars": 707,
             "forks": 79,
             "score": 69
         },
@@ -95,7 +84,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "HKUDS/OpenOPC",
             "description": "OpenOPC: Build Your Personal AI-Native Company \u2014 Self-Built, Self-Run, Self-Grown",
             "url": "https://github.com/HKUDS/OpenOPC",
-            "stars": 724,
+            "stars": 725,
             "forks": 111,
             "score": 68
         },
@@ -106,9 +95,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "yetone/kill-ai-slop",
             "description": "A field guide to the visual & copy tics of AI-generated products \u2014 and an Agent Skill that scans your project and strips them out. https://killaislop.com",
             "url": "https://github.com/yetone/kill-ai-slop",
-            "stars": 399,
+            "stars": 401,
             "forks": 14,
-            "score": 67
+            "score": 68
         },
         {
             "main_cat": "AI",
@@ -128,8 +117,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "nexu-io/motion-anything",
             "description": "\u2728 The agentic motion layer \u2014 an open-source, chat-native motion engine. Describe the feeling; your AI ships the animation.",
             "url": "https://github.com/nexu-io/motion-anything",
-            "stars": 447,
-            "forks": 41,
+            "stars": 449,
+            "forks": 42,
             "score": 60
         },
         {
@@ -150,7 +139,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "ronak-create/FableCut",
             "description": "Zero-dependency browser video editor that AI agents can drive \u2014 JSON timeline, MCP + REST, live-reloading UI",
             "url": "https://github.com/ronak-create/FableCut",
-            "stars": 411,
+            "stars": 413,
             "forks": 29,
             "score": 56
         },
@@ -172,7 +161,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "yusukebe/ax",
             "description": "The AI-era curl",
             "url": "https://github.com/yusukebe/ax",
-            "stars": 475,
+            "stars": 481,
             "forks": 7,
             "score": 55
         },
@@ -183,7 +172,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Pluviobyte/rnskill",
             "description": "\u96ea\u8e0f\u4e4c\u4e91\u7684 AI Agent Skills \u96c6\u5408",
             "url": "https://github.com/Pluviobyte/rnskill",
-            "stars": 425,
+            "stars": 430,
             "forks": 40,
             "score": 54
         },
@@ -197,17 +186,6 @@ const ALPHA_DATA_V2 = {
             "stars": 287,
             "forks": 41,
             "score": 52
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI Agents",
-            "name": "Compute-Royale",
-            "full_name": "ComputeRoyale/Compute-Royale",
-            "description": "Bet on AI agents racing real GPUs. They rent compute, do hash-verified work, earn and you stake Solana on the best. Live on Solana.",
-            "url": "https://github.com/ComputeRoyale/Compute-Royale",
-            "stars": 492,
-            "forks": 33,
-            "score": 49
         },
         {
             "main_cat": "AI",
@@ -227,7 +205,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "clawkwork/clawk",
             "description": "Disposable, network-restricted Linux VMs for AI coding agents",
             "url": "https://github.com/clawkwork/clawk",
-            "stars": 274,
+            "stars": 283,
             "forks": 9,
             "score": 45
         },
@@ -238,8 +216,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "RennAkira/spicy-monopoly",
             "description": "\u548c\u4f60\u7684 AI \u4e00\u8d77\u73a9\u7684\u53cc\u4eba\u68cb\u76d8\u5c0f\u6e38\u620f \u00b7 18+ \uff08A two-player board game you play with your AI \u2014 dice, tiles, spicy tasks, all run by code (18+\uff09\uff09",
             "url": "https://github.com/RennAkira/spicy-monopoly",
-            "stars": 224,
-            "forks": 30,
+            "stars": 226,
+            "forks": 31,
             "score": 45
         },
         {
@@ -267,24 +245,35 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
+            "name": "undress-design",
+            "full_name": "chordswallowthrust/undress-design",
+            "description": "AI-powered fashion visualization and virtual try-on toolkit for consent-based garment editing, outfit prototyping, and creative design workflows. https://undress.design/edit?utm_source=gist.github.com/chordswallowthrust/undress-design",
+            "url": "https://github.com/chordswallowthrust/undress-design",
+            "stars": 174,
+            "forks": 0,
+            "score": 44
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
             "name": "exxperts",
             "full_name": "EXXETA/exxperts",
             "description": "Persistent AI rooms with governed, approval-gated memory: local-first, on your machine.",
             "url": "https://github.com/EXXETA/exxperts",
-            "stars": 176,
+            "stars": 177,
             "forks": 15,
             "score": 43
         },
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
-            "name": "boring-computers",
-            "full_name": "michaelshimeles/boring-computers",
-            "description": "On-demand Linux computers you can hand to an AI \u2014 real Firecracker microVMs with a browser, terminal, coding agents, and an AI that drives them.",
-            "url": "https://github.com/michaelshimeles/boring-computers",
-            "stars": 260,
-            "forks": 35,
-            "score": 42
+            "name": "Auto-FreeCF",
+            "full_name": "mocasus/Auto-FreeCF",
+            "description": "Cloudflare Workers AI Account ID and token collector with explicit automation modes",
+            "url": "https://github.com/mocasus/Auto-FreeCF",
+            "stars": 173,
+            "forks": 46,
+            "score": 43
         },
         {
             "main_cat": "AI",
@@ -317,7 +306,18 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/lynote-ai/humanize-text-skill",
             "stars": 225,
             "forks": 2,
-            "score": 39
+            "score": 38
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "glm-5.2-free-desktop-app",
+            "full_name": "zai-project/glm-5.2-free-desktop-app",
+            "description": "glm-5.2 free z.ai z-ai open source open-weights mit license mixture of experts moe artificial intelligence large language model 1m context window api key zenmux openrouter chat.z.ai browser interface coding agent claude code setup guide tutorial download documentation github huggingface benchmark performance terminal-bench",
+            "url": "https://github.com/zai-project/glm-5.2-free-desktop-app",
+            "stars": 163,
+            "forks": 0,
+            "score": 38
         },
         {
             "main_cat": "AI",
@@ -328,7 +328,18 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/ArmyPhoenixLog/claude-fable-5-claude-opus-4-8",
             "stars": 243,
             "forks": 0,
-            "score": 38
+            "score": 37
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "ComfyUI-Krea2-Ostris-Edit",
+            "full_name": "ostris/ComfyUI-Krea2-Ostris-Edit",
+            "description": "Comfy UI Nodes for Krea 2 LoRAs trained with AI Toolkit Experimental Edit",
+            "url": "https://github.com/ostris/ComfyUI-Krea2-Ostris-Edit",
+            "stars": 162,
+            "forks": 4,
+            "score": 37
         },
         {
             "main_cat": "AI",
@@ -348,9 +359,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "NInagusev47/Silent-Crypto-Miner",
             "description": "Silent Crypto Miner is an advanced cryptocurrency mining builder and runtime engine with multi-algorithm CPU/GPU support and intelligent resource management. Create custom mining executables with configurable algorithms, cross-platform output, real-time monitoring, session persistence, thermal throttling, scheduling, and hashrate optimization.",
             "url": "https://github.com/NInagusev47/Silent-Crypto-Miner",
-            "stars": 36,
+            "stars": 32,
             "forks": 6,
-            "score": 35
+            "score": 34
         },
         {
             "main_cat": "AI",
@@ -359,9 +370,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "NHClimber87/llm-serve-dashboard",
             "description": "Single-file, dependency-free live dashboard for local llama.cpp/vLLM serving \u2014 GPU, throughput, KV/ctx, model library. Stdlib Python + one local-first HTML page.",
             "url": "https://github.com/NHClimber87/llm-serve-dashboard",
-            "stars": 22,
-            "forks": 5,
-            "score": 33
+            "stars": 24,
+            "forks": 6,
+            "score": 34
         },
         {
             "main_cat": "AI",
@@ -399,12 +410,12 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
-            "name": "Efficient-LLM-Inference-Serving-Systems",
-            "full_name": "jiahongsigma/Efficient-LLM-Inference-Serving-Systems",
-            "description": "Why is LLM inference slow \u2014 and how do you make it fast? A hands-on, first-principles course: roofline \u2192 KV cache \u2192 quantization \u2192 parallelism \u2192 vLLM/SGLang, with GPU labs on open models.",
-            "url": "https://github.com/jiahongsigma/Efficient-LLM-Inference-Serving-Systems",
-            "stars": 19,
-            "forks": 1,
+            "name": "cmf",
+            "full_name": "infosave2007/cmf",
+            "description": "One backbone, many specialists. CMF is a self-describing, memory-mappable single-file format and a dependency-free runtime for quantized LLMs \u2014 zero-copy execution on CPU or GPU (Vulkan \u00b7 Metal \u00b7 DX12) that overlays task-specialized skills onto one shared model, with no per-model duplication.",
+            "url": "https://github.com/infosave2007/cmf",
+            "stars": 7,
+            "forks": 0,
             "score": 30
         },
         {
@@ -563,33 +574,33 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
-            "sub_cat": "AI Agents",
-            "name": "paygate",
-            "full_name": "eudehh/paygate",
-            "description": "x402 payment infrastructure for AI agents \u2014 charge agents in stablecoins (USDC) on Solana & Base. Replay-proof, non-custodial, fully typed.",
-            "url": "https://github.com/eudehh/paygate",
-            "stars": 0,
-            "forks": 0,
-            "score": 30
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "jacobowilliam.github.io",
-            "full_name": "JacobsTech/jacobowilliam.github.io",
-            "description": "Personal website and writing portfolio featuring articles on fintech, payments, AI, stablecoins, blockchain, financial infrastructure, and digital trust. Home to my published work, essays, and thought leadership.",
-            "url": "https://github.com/JacobsTech/jacobowilliam.github.io",
-            "stars": 0,
-            "forks": 0,
-            "score": 30
-        },
-        {
-            "main_cat": "AI",
             "sub_cat": "AI General",
             "name": "arc-activity-bot",
             "full_name": "Madaprtma/arc-activity-bot",
             "description": "On-chain activity bot for Arc Testnet. Automates smart contract interactions to explore Arc's payment infrastructure built on Circle's stablecoin stack.",
             "url": "https://github.com/Madaprtma/arc-activity-bot",
+            "stars": 0,
+            "forks": 0,
+            "score": 30
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": ".github",
+            "full_name": "Trustlink-Labs/.github",
+            "description": "TrustLink Labs builds open blockchain infrastructure for identity-aware, privacy-preserving, and scalable digital payments. Our protocols include ZK-PRU, TINS (identity), TSN (settlement), and VPP (confidential stablecoin infrastructure).",
+            "url": "https://github.com/Trustlink-Labs/.github",
+            "stars": 0,
+            "forks": 0,
+            "score": 30
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "Worqen-Solana",
+            "full_name": "Worqen-Labs/Worqen-Solana",
+            "description": "Trustless on-chain payment escrow for the Worqen job marketplace \u2014 Solana + Anchor. SOL & SPL stablecoins, fee-on-top commission, milestone groups, partial releases, platform-mediated disputes with permissionless deadline fallback, direct/batch pay, and a guaranteed weekly hourly-settlement (GWS) engine. Apache-2.0.",
+            "url": "https://github.com/Worqen-Labs/Worqen-Solana",
             "stars": 0,
             "forks": 0,
             "score": 30
@@ -641,20 +652,6 @@ const ALPHA_DATA_V2 = {
     ],
     "news": [
         {
-            "title": "Impact of Benign Connectivity Variations on Intrusion Detection for Encrypted OPC UA Traffic in Industrial Private 5G Networks",
-            "source": "ArXiv",
-            "type": "Research Alpha",
-            "color": "text-indigo-600",
-            "url": "http://arxiv.org/abs/2607.09659v1"
-        },
-        {
-            "title": "VEXAIoT: Autonomous IoT Vulnerability EXploitation using AI Agents",
-            "source": "ArXiv",
-            "type": "Research Alpha",
-            "color": "text-indigo-600",
-            "url": "http://arxiv.org/abs/2607.09653v1"
-        },
-        {
             "title": "Bitcoin volatility remains high ahead of key FED decision.",
             "source": "Polymarket",
             "type": "Expectation",
@@ -662,5 +659,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-07-13 23:47"
+    "timestamp": "2026-07-14 01:53"
 };
