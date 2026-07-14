@@ -8,7 +8,7 @@ const ALPHA_DATA_V2 = {
             "description": "The open-source AI workbench for scientific research",
             "url": "https://github.com/synthetic-sciences/openscience",
             "stars": 2410,
-            "forks": 350,
+            "forks": 351,
             "score": 99
         },
         {
@@ -29,7 +29,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "William-Lu-stack/Flawless",
             "description": "AI SRE AgenticOps for Kubernetes and cloud infrastructure.",
             "url": "https://github.com/William-Lu-stack/Flawless",
-            "stars": 615,
+            "stars": 616,
             "forks": 94,
             "score": 99
         },
@@ -40,8 +40,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "simonlin1212/Vibe-Research",
             "description": "Vibe-Research: Your Personal Trading Research Agent \u00b7 A\u80a1/\u7f8e\u80a1/\u6e2f\u80a1 \u7684\u4e2a\u4eba\u6295\u7814 Agent\uff1a\u6bcf\u65e5\u590d\u76d8\u3001\u8d44\u8baf\u96f7\u8fbe\u3001\u4e2a\u80a1\u6570\u636e\u3001\u677f\u5757\u4e2d\u5fc3\u3001\u6211\u7684\u6301\u4ed3\u3001\u7814\u7a76\u8bb0\u5f55\u3002Vibe-Research \u628a\u6570\u636e\u548c\u529f\u80fd\u914d\u9f50\uff0c\u7531\u4f60\u81ea\u5df1\u7684 AI \u9a71\u52a8\u6295\u8d44\u7814\u7a76\u3002",
             "url": "https://github.com/simonlin1212/Vibe-Research",
-            "stars": 815,
-            "forks": 176,
+            "stars": 819,
+            "forks": 177,
             "score": 93
         },
         {
@@ -73,7 +73,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "HKUDS/OpenOPC",
             "description": "OpenOPC: Build Your Personal AI-Native Company \u2014 Self-Built, Self-Run, Self-Grown",
             "url": "https://github.com/HKUDS/OpenOPC",
-            "stars": 752,
+            "stars": 753,
             "forks": 118,
             "score": 68
         },
@@ -96,8 +96,8 @@ const ALPHA_DATA_V2 = {
             "description": "A field guide to the visual & copy tics of AI-generated products \u2014 and an Agent Skill that scans your project and strips them out. https://killaislop.com",
             "url": "https://github.com/yetone/kill-ai-slop",
             "stars": 435,
-            "forks": 17,
-            "score": 65
+            "forks": 18,
+            "score": 66
         },
         {
             "main_cat": "AI",
@@ -135,24 +135,24 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "FableCut",
-            "full_name": "ronak-create/FableCut",
-            "description": "Zero-dependency browser video editor that AI agents can drive \u2014 JSON timeline, MCP + REST, live-reloading UI",
-            "url": "https://github.com/ronak-create/FableCut",
-            "stars": 432,
-            "forks": 38,
+            "name": "rnskill",
+            "full_name": "Pluviobyte/rnskill",
+            "description": "\u96ea\u8e0f\u4e4c\u4e91\u7684 AI Agent Skills \u96c6\u5408",
+            "url": "https://github.com/Pluviobyte/rnskill",
+            "stars": 501,
+            "forks": 44,
             "score": 56
         },
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "rnskill",
-            "full_name": "Pluviobyte/rnskill",
-            "description": "\u96ea\u8e0f\u4e4c\u4e91\u7684 AI Agent Skills \u96c6\u5408",
-            "url": "https://github.com/Pluviobyte/rnskill",
-            "stars": 499,
-            "forks": 44,
-            "score": 55
+            "name": "FableCut",
+            "full_name": "ronak-create/FableCut",
+            "description": "Zero-dependency browser video editor that AI agents can drive \u2014 JSON timeline, MCP + REST, live-reloading UI",
+            "url": "https://github.com/ronak-create/FableCut",
+            "stars": 433,
+            "forks": 39,
+            "score": 56
         },
         {
             "main_cat": "AI",
@@ -161,7 +161,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "fxy2311-youyou/expression-trainer",
             "description": "\u5b87\u5b99\u65e0\u654c\u8868\u8fbe\u8bad\u7ec3\u7cfb\u7edf \u2014 \u5b9e\u65f6\u8bed\u97f3\u8f6c\u6587\u5b57 + 27000\u8bcd\u60c5\u611f\u8bcd\u5e93 + AI\u8868\u8fbe\u5206\u6790\u62a5\u544a\u3002\u79bb\u7ebf\u8fd0\u884c\uff0c\u5bf9\u7740\u5b83\u8bf4\u8bdd\uff0c\u5b83\u5e2e\u4f60\u770b\u89c1\u81ea\u5df1\u7684\u8868\u8fbe\u95ee\u9898\u3002",
             "url": "https://github.com/fxy2311-youyou/expression-trainer",
-            "stars": 308,
+            "stars": 307,
             "forks": 61,
             "score": 55
         },
@@ -172,7 +172,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "yusukebe/ax",
             "description": "The AI-era curl",
             "url": "https://github.com/yusukebe/ax",
-            "stars": 502,
+            "stars": 503,
             "forks": 10,
             "score": 54
         },
@@ -194,7 +194,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "clawkwork/clawk",
             "description": "Disposable, network-restricted Linux VMs for AI coding agents",
             "url": "https://github.com/clawkwork/clawk",
-            "stars": 454,
+            "stars": 459,
             "forks": 9,
             "score": 52
         },
@@ -227,9 +227,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "RennAkira/spicy-monopoly",
             "description": "\u548c\u4f60\u7684 AI \u4e00\u8d77\u73a9\u7684\u53cc\u4eba\u68cb\u76d8\u5c0f\u6e38\u620f \u00b7 18+ \uff08A two-player board game you play with your AI \u2014 dice, tiles, spicy tasks, all run by code (18+\uff09\uff09",
             "url": "https://github.com/RennAkira/spicy-monopoly",
-            "stars": 236,
+            "stars": 235,
             "forks": 31,
-            "score": 45
+            "score": 44
         },
         {
             "main_cat": "AI",
@@ -337,7 +337,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "zai-project/glm-5.2-free-desktop-app",
             "description": "glm-5.2 free z.ai z-ai open source open-weights mit license mixture of experts moe artificial intelligence large language model 1m context window api key zenmux openrouter chat.z.ai browser interface coding agent claude code setup guide tutorial download documentation github huggingface benchmark performance terminal-bench",
             "url": "https://github.com/zai-project/glm-5.2-free-desktop-app",
-            "stars": 169,
+            "stars": 173,
             "forks": 0,
             "score": 37
         },
@@ -370,7 +370,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "NInagusev47/Silent-Crypto-Miner",
             "description": "Silent Crypto Miner is an advanced cryptocurrency mining builder and runtime engine with multi-algorithm CPU/GPU support and intelligent resource management. Create custom mining executables with configurable algorithms, cross-platform output, real-time monitoring, session persistence, thermal throttling, scheduling, and hashrate optimization.",
             "url": "https://github.com/NInagusev47/Silent-Crypto-Miner",
-            "stars": 27,
+            "stars": 26,
             "forks": 5,
             "score": 33
         },
@@ -673,5 +673,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-07-14 21:52"
+    "timestamp": "2026-07-14 22:52"
 };
