@@ -7,19 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "synthetic-sciences/openscience",
             "description": "The open-source AI workbench for scientific research",
             "url": "https://github.com/synthetic-sciences/openscience",
-            "stars": 2462,
+            "stars": 2463,
             "forks": 354,
-            "score": 99
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "fintech-advisor",
-            "full_name": "KORAYTEACHER/fintech-advisor",
-            "description": "ai fintech financial advisor for your portfolio",
-            "url": "https://github.com/KORAYTEACHER/fintech-advisor",
-            "stars": 162,
-            "forks": 1233,
             "score": 99
         },
         {
@@ -29,9 +18,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "William-Lu-stack/Flawless",
             "description": "AI SRE AgenticOps for Kubernetes and cloud infrastructure.",
             "url": "https://github.com/William-Lu-stack/Flawless",
-            "stars": 621,
-            "forks": 98,
-            "score": 93
+            "stars": 622,
+            "forks": 101,
+            "score": 94
         },
         {
             "main_cat": "AI",
@@ -62,8 +51,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "Raymondhou0917/speak-human-tw",
             "description": "\u300c\u8aaa\u4eba\u8a71\u300d\uff1a\u7e41\u9ad4\u4e2d\u6587\u7684\u53bb AI \u5473\u6539\u5beb skill\u3002\u6293 38 \u7a2e AI \u5beb\u4f5c\u75d5\u8de1\uff0c\u9806\u624b\u6821\u6b63\u4e2d\u570b\u7528\u8a9e\u8207\u534a\u5f62\u6a19\u9ede\uff0c\u7d66 Claude Code / Codex / Cursor \u7528\u3002",
             "url": "https://github.com/Raymondhou0917/speak-human-tw",
-            "stars": 525,
-            "forks": 61,
+            "stars": 528,
+            "forks": 62,
             "score": 68
         },
         {
@@ -106,20 +95,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "fxy2311-youyou/expression-trainer",
             "description": "\u5b87\u5b99\u65e0\u654c\u8868\u8fbe\u8bad\u7ec3\u7cfb\u7edf \u2014 \u5b9e\u65f6\u8bed\u97f3\u8f6c\u6587\u5b57 + 27000\u8bcd\u60c5\u611f\u8bcd\u5e93 + AI\u8868\u8fbe\u5206\u6790\u62a5\u544a\u3002\u79bb\u7ebf\u8fd0\u884c\uff0c\u5bf9\u7740\u5b83\u8bf4\u8bdd\uff0c\u5b83\u5e2e\u4f60\u770b\u89c1\u81ea\u5df1\u7684\u8868\u8fbe\u95ee\u9898\u3002",
             "url": "https://github.com/fxy2311-youyou/expression-trainer",
-            "stars": 390,
+            "stars": 391,
             "forks": 85,
             "score": 60
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "rnskill",
-            "full_name": "Pluviobyte/rnskill",
-            "description": "\u96ea\u8e0f\u4e4c\u4e91\u7684 AI Agent Skills \u96c6\u5408",
-            "url": "https://github.com/Pluviobyte/rnskill",
-            "stars": 525,
-            "forks": 45,
-            "score": 57
         },
         {
             "main_cat": "AI",
@@ -128,9 +106,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "nexu-io/motion-anything",
             "description": "\u2728 The agentic motion layer \u2014 an open-source, chat-native motion engine. Describe the feeling; your AI ships the animation.",
             "url": "https://github.com/nexu-io/motion-anything",
-            "stars": 465,
+            "stars": 466,
             "forks": 48,
             "score": 57
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "rnskill",
+            "full_name": "Pluviobyte/rnskill",
+            "description": "\u96ea\u8e0f\u4e4c\u4e91\u7684 AI Agent Skills \u96c6\u5408",
+            "url": "https://github.com/Pluviobyte/rnskill",
+            "stars": 526,
+            "forks": 45,
+            "score": 55
         },
         {
             "main_cat": "AI",
@@ -139,7 +128,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "ronak-create/FableCut",
             "description": "Zero-dependency browser video editor that AI agents can drive \u2014 JSON timeline, MCP + REST, live-reloading UI",
             "url": "https://github.com/ronak-create/FableCut",
-            "stars": 446,
+            "stars": 447,
             "forks": 42,
             "score": 55
         },
@@ -194,7 +183,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "barretlee/agent-pulse",
             "description": "Evidence-backed AI industry intelligence \u2014 trends, source updates, daily data refreshes, and weekly decision briefs.",
             "url": "https://github.com/barretlee/agent-pulse",
-            "stars": 185,
+            "stars": 186,
             "forks": 17,
             "score": 48
         },
@@ -227,19 +216,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "RennAkira/spicy-monopoly",
             "description": "\u548c\u4f60\u7684 AI \u4e00\u8d77\u73a9\u7684\u53cc\u4eba\u68cb\u76d8\u5c0f\u6e38\u620f \u00b7 18+ \uff08A two-player board game you play with your AI \u2014 dice, tiles, spicy tasks, all run by code (18+\uff09\uff09",
             "url": "https://github.com/RennAkira/spicy-monopoly",
-            "stars": 243,
-            "forks": 32,
-            "score": 44
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "agentic-trading-desk",
-            "full_name": "Oft3r/agentic-trading-desk",
-            "description": "AI-assisted trading desk for short-term technical analysis on stocks & ETFs via Robinhood MCP. Deterministic Python engines score each asset on a three-pillar framework (Trend \u00b7 Momentum \u00b7 Macro-Sentiment) using EMA, RSI, MACD, TRIX & Bollinger Bands. The AI fetches data; the scripts compute; the human approves every order.",
-            "url": "https://github.com/Oft3r/agentic-trading-desk",
-            "stars": 221,
-            "forks": 54,
+            "stars": 244,
+            "forks": 33,
             "score": 44
         },
         {
@@ -255,12 +233,23 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "agentic-trading-desk",
+            "full_name": "Oft3r/agentic-trading-desk",
+            "description": "AI-assisted trading desk for short-term technical analysis on stocks & ETFs via Robinhood MCP. Deterministic Python engines score each asset on a three-pillar framework (Trend \u00b7 Momentum \u00b7 Macro-Sentiment) using EMA, RSI, MACD, TRIX & Bollinger Bands. The AI fetches data; the scripts compute; the human approves every order.",
+            "url": "https://github.com/Oft3r/agentic-trading-desk",
+            "stars": 221,
+            "forks": 54,
+            "score": 43
+        },
+        {
+            "main_cat": "AI",
             "sub_cat": null,
             "name": "exxperts",
             "full_name": "EXXETA/exxperts",
             "description": "Persistent AI rooms with governed, approval-gated memory: local-first, on your machine.",
             "url": "https://github.com/EXXETA/exxperts",
-            "stars": 201,
+            "stars": 202,
             "forks": 19,
             "score": 42
         },
@@ -271,7 +260,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "oxbshw/watch-skill",
             "description": "Video understanding and self-verification for AI agents. Turn videos, streams, and agent screen recordings into searchable, timestamped evidence\u2014then use THE LOOP to inspect, fix, and verify the work. MCP, CLI, REST, local-first.",
             "url": "https://github.com/oxbshw/watch-skill",
-            "stars": 199,
+            "stars": 200,
             "forks": 26,
             "score": 42
         },
@@ -293,7 +282,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "chordswallowthrust/undress-design",
             "description": "AI-powered fashion visualization and virtual try-on toolkit for consent-based garment editing, outfit prototyping, and creative design workflows. https://undress.design/edit?utm_source=gist.github.com/chordswallowthrust/undress-design",
             "url": "https://github.com/chordswallowthrust/undress-design",
-            "stars": 184,
+            "stars": 186,
             "forks": 0,
             "score": 41
         },
@@ -307,6 +296,17 @@ const ALPHA_DATA_V2 = {
             "stars": 182,
             "forks": 18,
             "score": 40
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "ProductSpec",
+            "full_name": "gokulrajaram/ProductSpec",
+            "description": "Open standard for software intent in the AI agent era.",
+            "url": "https://github.com/gokulrajaram/ProductSpec",
+            "stars": 163,
+            "forks": 20,
+            "score": 39
         },
         {
             "main_cat": "AI",
@@ -417,6 +417,28 @@ const ALPHA_DATA_V2 = {
             "stars": 23,
             "forks": 4,
             "score": 31
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI Agents",
+            "name": "power-framework",
+            "full_name": "weby-homelab/power-framework",
+            "description": "Validate, index, search, and manage your knowledge base from the command line \u2014 or let AI agents do it through MCP. Built for knowledge workers who want machine-readable notes, automated quality checks, and token-efficient AI access to their Second Brain",
+            "url": "https://github.com/weby-homelab/power-framework",
+            "stars": 9,
+            "forks": 0,
+            "score": 30
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI Agents",
+            "name": "sample-okf-llm-wiki",
+            "full_name": "aws-samples/sample-okf-llm-wiki",
+            "description": "Data Wiki turns AWS Glue databases into portable knowledge bundles following Open Knowledge Format (OKF) and serves them to AI agents over the Model Context Protocol (MCP).",
+            "url": "https://github.com/aws-samples/sample-okf-llm-wiki",
+            "stars": 7,
+            "forks": 0,
+            "score": 30
         },
         {
             "main_cat": "RWA",
@@ -684,5 +706,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-07-15 17:09"
+    "timestamp": "2026-07-15 19:00"
 };
