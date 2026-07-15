@@ -7,19 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "synthetic-sciences/openscience",
             "description": "The open-source AI workbench for scientific research",
             "url": "https://github.com/synthetic-sciences/openscience",
-            "stars": 2410,
+            "stars": 2415,
             "forks": 351,
-            "score": 99
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "gzh-design-skill",
-            "full_name": "isjiamu/gzh-design-skill",
-            "description": "\u628a Markdown \u4e00\u952e\u6392\u6210\u53ef\u76f4\u63a5\u7c98\u8fdb\u516c\u4f17\u53f7\u7f16\u8f91\u5668\u7684\u7cbe\u81f4 HTML \u2014\u2014 6 \u5957\u7cbe\u9009\u4e3b\u9898 + \u4e3b\u9898\u751f\u6210\u5668 + \u53cc\u5173\u5361\u6821\u9a8c\u3002An AI-agent skill that turns Markdown into paste-ready WeChat article HTML.",
-            "url": "https://github.com/isjiamu/gzh-design-skill",
-            "stars": 2134,
-            "forks": 247,
             "score": 99
         },
         {
@@ -40,9 +29,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "simonlin1212/Vibe-Research",
             "description": "Vibe-Research: Your Personal Trading Research Agent \u00b7 A\u80a1/\u7f8e\u80a1/\u6e2f\u80a1 \u7684\u4e2a\u4eba\u6295\u7814 Agent\uff1a\u6bcf\u65e5\u590d\u76d8\u3001\u8d44\u8baf\u96f7\u8fbe\u3001\u4e2a\u80a1\u6570\u636e\u3001\u677f\u5757\u4e2d\u5fc3\u3001\u6211\u7684\u6301\u4ed3\u3001\u7814\u7a76\u8bb0\u5f55\u3002Vibe-Research \u628a\u6570\u636e\u548c\u529f\u80fd\u914d\u9f50\uff0c\u7531\u4f60\u81ea\u5df1\u7684 AI \u9a71\u52a8\u6295\u8d44\u7814\u7a76\u3002",
             "url": "https://github.com/simonlin1212/Vibe-Research",
-            "stars": 820,
-            "forks": 178,
-            "score": 93
+            "stars": 826,
+            "forks": 179,
+            "score": 94
         },
         {
             "main_cat": "AI",
@@ -51,7 +40,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "dongguatanglinux/grok-build-auth",
             "description": "Protocol research client: x.ai signup \u2192 SSO \u2192 Grok Build OAuth \u2192 CLIProxyAPI auth export (authorized use only)",
             "url": "https://github.com/dongguatanglinux/grok-build-auth",
-            "stars": 224,
+            "stars": 225,
             "forks": 100,
             "score": 74
         },
@@ -62,20 +51,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "Raymondhou0917/speak-human-tw",
             "description": "\u300c\u8aaa\u4eba\u8a71\u300d\uff1a\u7e41\u9ad4\u4e2d\u6587\u7684\u53bb AI \u5473\u6539\u5beb skill\u3002\u6293 38 \u7a2e AI \u5beb\u4f5c\u75d5\u8de1\uff0c\u9806\u624b\u6821\u6b63\u4e2d\u570b\u7528\u8a9e\u8207\u534a\u5f62\u6a19\u9ede\uff0c\u7d66 Claude Code / Codex / Cursor \u7528\u3002",
             "url": "https://github.com/Raymondhou0917/speak-human-tw",
-            "stars": 503,
+            "stars": 507,
             "forks": 59,
             "score": 71
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "OpenOPC",
-            "full_name": "HKUDS/OpenOPC",
-            "description": "OpenOPC: Build Your Personal AI-Native Company \u2014 Self-Built, Self-Run, Self-Grown",
-            "url": "https://github.com/HKUDS/OpenOPC",
-            "stars": 754,
-            "forks": 118,
-            "score": 68
         },
         {
             "main_cat": "AI",
@@ -84,8 +62,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "ai4s-research/open-science",
             "description": "Open Science Desktop \u2014 local-first, model-agnostic AI research workbench for macOS, Windows & Linux. Open-source Claude Science desktop alternative built on Tauri + MCP + agent skills.",
             "url": "https://github.com/ai4s-research/open-science",
-            "stars": 733,
-            "forks": 84,
+            "stars": 734,
+            "forks": 86,
             "score": 68
         },
         {
@@ -117,9 +95,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "nexu-io/motion-anything",
             "description": "\u2728 The agentic motion layer \u2014 an open-source, chat-native motion engine. Describe the feeling; your AI ships the animation.",
             "url": "https://github.com/nexu-io/motion-anything",
-            "stars": 461,
+            "stars": 462,
             "forks": 44,
-            "score": 58
+            "score": 59
         },
         {
             "main_cat": "AI",
@@ -150,7 +128,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Pluviobyte/rnskill",
             "description": "\u96ea\u8e0f\u4e4c\u4e91\u7684 AI Agent Skills \u96c6\u5408",
             "url": "https://github.com/Pluviobyte/rnskill",
-            "stars": 503,
+            "stars": 506,
             "forks": 44,
             "score": 56
         },
@@ -161,8 +139,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "fxy2311-youyou/expression-trainer",
             "description": "\u5b87\u5b99\u65e0\u654c\u8868\u8fbe\u8bad\u7ec3\u7cfb\u7edf \u2014 \u5b9e\u65f6\u8bed\u97f3\u8f6c\u6587\u5b57 + 27000\u8bcd\u60c5\u611f\u8bcd\u5e93 + AI\u8868\u8fbe\u5206\u6790\u62a5\u544a\u3002\u79bb\u7ebf\u8fd0\u884c\uff0c\u5bf9\u7740\u5b83\u8bf4\u8bdd\uff0c\u5b83\u5e2e\u4f60\u770b\u89c1\u81ea\u5df1\u7684\u8868\u8fbe\u95ee\u9898\u3002",
             "url": "https://github.com/fxy2311-youyou/expression-trainer",
-            "stars": 307,
-            "forks": 61,
+            "stars": 313,
+            "forks": 62,
             "score": 55
         },
         {
@@ -172,7 +150,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "yusukebe/ax",
             "description": "The AI-era curl",
             "url": "https://github.com/yusukebe/ax",
-            "stars": 503,
+            "stars": 506,
             "forks": 9,
             "score": 54
         },
@@ -194,7 +172,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "clawkwork/clawk",
             "description": "Disposable, network-restricted Linux VMs for AI coding agents",
             "url": "https://github.com/clawkwork/clawk",
-            "stars": 460,
+            "stars": 465,
             "forks": 9,
             "score": 52
         },
@@ -216,8 +194,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "Brain0-ai/brain0",
             "description": "The black box for AI-written code. Passive decision graph linking every commit to the agent prompts behind it: drift detection, DLP audit of what agents read, evidence-driven risk, MCP memory for coding agents, signed provenance attestations. One command, offline by default.",
             "url": "https://github.com/Brain0-ai/brain0",
-            "stars": 437,
-            "forks": 13,
+            "stars": 441,
+            "forks": 14,
             "score": 46
         },
         {
@@ -271,7 +249,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "oxbshw/watch-skill",
             "description": "Video understanding and self-verification for AI agents. Turn videos, streams, and agent screen recordings into searchable, timestamped evidence\u2014then use THE LOOP to inspect, fix, and verify the work. MCP, CLI, REST, local-first.",
             "url": "https://github.com/oxbshw/watch-skill",
-            "stars": 196,
+            "stars": 197,
             "forks": 26,
             "score": 42
         },
@@ -310,6 +288,28 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "glm-5.2-free-desktop-app",
+            "full_name": "zai-project/glm-5.2-free-desktop-app",
+            "description": "glm-5.2 free z.ai z-ai open source open-weights mit license mixture of experts moe artificial intelligence large language model 1m context window api key zenmux openrouter chat.z.ai browser interface coding agent claude code setup guide tutorial download documentation github huggingface benchmark performance terminal-bench",
+            "url": "https://github.com/zai-project/glm-5.2-free-desktop-app",
+            "stars": 201,
+            "forks": 0,
+            "score": 39
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "google-gemini-desktop-app",
+            "full_name": "geminidesktop/google-gemini-desktop-app",
+            "description": "google gemini desktop ai desktop-app standalone-utility pwa progressive-web-app chrome-installation edge-apps taskbar-pinning system-shortcut system-integration setup-guide tutorial windows-11 windows-10 workstation-optimization browser-extension-tradeoffs",
+            "url": "https://github.com/geminidesktop/google-gemini-desktop-app",
+            "stars": 176,
+            "forks": 0,
+            "score": 39
+        },
+        {
+            "main_cat": "AI",
             "sub_cat": null,
             "name": "humanize-text-skill",
             "full_name": "lynote-ai/humanize-text-skill",
@@ -321,25 +321,25 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "glm-5.2-free-desktop-app",
-            "full_name": "zai-project/glm-5.2-free-desktop-app",
-            "description": "glm-5.2 free z.ai z-ai open source open-weights mit license mixture of experts moe artificial intelligence large language model 1m context window api key zenmux openrouter chat.z.ai browser interface coding agent claude code setup guide tutorial download documentation github huggingface benchmark performance terminal-bench",
-            "url": "https://github.com/zai-project/glm-5.2-free-desktop-app",
-            "stars": 185,
+            "sub_cat": null,
+            "name": "claude-code-sonnet-5-free-desktop-app",
+            "full_name": "anthropic-sonnet/claude-code-sonnet-5-free-desktop-app",
+            "description": "claude-code claude code ai anthropic sonnet 5 free desktop claudecode terminal agent cli coding assistant developer tool automation project development bug fixing code generation local workspace setup guide installation tutorial no subscription",
+            "url": "https://github.com/anthropic-sonnet/claude-code-sonnet-5-free-desktop-app",
+            "stars": 169,
             "forks": 0,
             "score": 38
         },
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "claude-fable-5-claude-opus-4-8",
-            "full_name": "ArmyPhoenixLog/claude-fable-5-claude-opus-4-8",
-            "description": "A polished AI writing workflow landing repository for long-form fiction planning, chapter structure, and prompt organization. Domain: https://claude.mirrorify.fun/",
-            "url": "https://github.com/ArmyPhoenixLog/claude-fable-5-claude-opus-4-8",
-            "stars": 243,
-            "forks": 0,
-            "score": 37
+            "name": "ComfyUI-Krea2-Ostris-Edit",
+            "full_name": "ostris/ComfyUI-Krea2-Ostris-Edit",
+            "description": "Comfy UI Nodes for Krea 2 LoRAs trained with AI Toolkit Experimental Edit",
+            "url": "https://github.com/ostris/ComfyUI-Krea2-Ostris-Edit",
+            "stars": 163,
+            "forks": 4,
+            "score": 36
         },
         {
             "main_cat": "AI",
@@ -386,6 +386,17 @@ const ALPHA_DATA_V2 = {
             "score": 32
         },
         {
+            "main_cat": "Stablecoin Infrastructure",
+            "sub_cat": null,
+            "name": "horizonflow-core",
+            "full_name": "benedictworks-home/horizonflow-core",
+            "description": "Automated, non-custodial recurring stablecoin payments and subscriptions on Stellar using Soroban smart contracts.",
+            "url": "https://github.com/benedictworks-home/horizonflow-core",
+            "stars": 0,
+            "forks": 3,
+            "score": 32
+        },
+        {
             "main_cat": "AI",
             "sub_cat": "AI General",
             "name": "Gemma4.pas",
@@ -397,35 +408,13 @@ const ALPHA_DATA_V2 = {
             "score": 31
         },
         {
-            "main_cat": "Stablecoin Infrastructure",
-            "sub_cat": null,
-            "name": "horizonflow-core",
-            "full_name": "benedictworks-home/horizonflow-core",
-            "description": "Automated, non-custodial recurring stablecoin payments and subscriptions on Stellar using Soroban smart contracts.",
-            "url": "https://github.com/benedictworks-home/horizonflow-core",
-            "stars": 0,
-            "forks": 2,
-            "score": 31
-        },
-        {
             "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "agentkyro-on-stellar",
-            "full_name": "David-patrick-chuks/agentkyro-on-stellar",
-            "description": "AI agent that turns plain-English requests into zero-knowledge proofs, verified on-chain by a Stellar Soroban contract. Real-World ZK on Stellar \u2014 prove what's true, reveal nothing.",
-            "url": "https://github.com/David-patrick-chuks/agentkyro-on-stellar",
-            "stars": 10,
-            "forks": 0,
-            "score": 30
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "rwa-asset-management",
-            "full_name": "geekybot/rwa-asset-management",
-            "description": "Decentralized risk & yield assessment for tokenized real-world assets (RWAs) \u2014 Avalanche + Chainlink Functions, Automation, Data Feeds & Proof of Reserves.",
-            "url": "https://github.com/geekybot/rwa-asset-management",
-            "stars": 0,
+            "sub_cat": "AI Agents",
+            "name": "sample-okf-llm-wiki",
+            "full_name": "aws-samples/sample-okf-llm-wiki",
+            "description": "Data Wiki turns AWS Glue databases into portable knowledge bundles following Open Knowledge Format (OKF) and serves them to AI agents over the Model Context Protocol (MCP).",
+            "url": "https://github.com/aws-samples/sample-okf-llm-wiki",
+            "stars": 6,
             "forks": 0,
             "score": 30
         },
@@ -492,17 +481,6 @@ const ALPHA_DATA_V2 = {
             "description": "built ecosystem for finance stablecoin payments with deterministic wallet management, blockchain monitoring, settlement engine, banking connectivity, secure payment orchestration, concurrent workers and production-ready financial infrastructure.",
             "url": "https://github.com/techleadevelopers/stablecoin-payment-gateway",
             "stars": 1,
-            "forks": 0,
-            "score": 30
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "blockchain-stablecoin",
-            "full_name": "mandar-ghub/blockchain-stablecoin",
-            "description": "Projects focused on payments, blockchain and stablecoin ",
-            "url": "https://github.com/mandar-ghub/blockchain-stablecoin",
-            "stars": 0,
             "forks": 0,
             "score": 30
         },
@@ -597,6 +575,39 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
+            "name": "arc-activity-bot",
+            "full_name": "Madaprtma/arc-activity-bot",
+            "description": "On-chain activity bot for Arc Testnet. Automates smart contract interactions to explore Arc's payment infrastructure built on Circle's stablecoin stack.",
+            "url": "https://github.com/Madaprtma/arc-activity-bot",
+            "stars": 0,
+            "forks": 0,
+            "score": 30
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": ".github",
+            "full_name": "Trustlink-Labs/.github",
+            "description": "TrustLink Labs builds open blockchain infrastructure for identity-aware, privacy-preserving, and scalable digital payments. Our protocols include ZK-PRU, TINS (identity), TSN (settlement), and VPP (confidential stablecoin infrastructure).",
+            "url": "https://github.com/Trustlink-Labs/.github",
+            "stars": 0,
+            "forks": 0,
+            "score": 30
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "Worqen-Solana",
+            "full_name": "Worqen-Labs/Worqen-Solana",
+            "description": "Trustless on-chain payment escrow for the Worqen job marketplace \u2014 Solana + Anchor. SOL & SPL stablecoins, fee-on-top commission, milestone groups, partial releases, platform-mediated disputes with permissionless deadline fallback, direct/batch pay, and a guaranteed weekly hourly-settlement (GWS) engine. Apache-2.0.",
+            "url": "https://github.com/Worqen-Labs/Worqen-Solana",
+            "stars": 0,
+            "forks": 0,
+            "score": 30
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
             "name": "Universal-Cross-Chain-Bridge",
             "full_name": "oscar01428/Universal-Cross-Chain-Bridge",
             "description": "A cross-chain infrastructure protocol that enables secure communication and digital asset transfers between independent blockchain networks. The platform uses smart contracts, validator mechanisms, and relayer services to facilitate trust-minimized bridging between EVM-compatible chains while maintaining transaction integrity and security.",
@@ -652,18 +663,18 @@ const ALPHA_DATA_V2 = {
     ],
     "news": [
         {
-            "title": "When Local Monitors Miss Compositional Harm: Diagnosing Distributed Backdoors in Multi-Agent Systems",
+            "title": "Silent Alarm: A J-Space Protocol for Comparing Danger Recognition Across Models and Quantization Levels",
             "source": "ArXiv",
             "type": "Research Alpha",
             "color": "text-indigo-600",
-            "url": "http://arxiv.org/abs/2607.11751v1"
+            "url": "http://arxiv.org/abs/2607.12792v1"
         },
         {
-            "title": "Quantum Arithmetic Circuits in Public-Key Cryptography",
+            "title": "A Scalable Cloud-Orchestrated and Service-Oriented Multi-Domain QKD Network with PQC Integration",
             "source": "ArXiv",
             "type": "Research Alpha",
             "color": "text-indigo-600",
-            "url": "http://arxiv.org/abs/2607.11713v1"
+            "url": "http://arxiv.org/abs/2607.12765v1"
         },
         {
             "title": "Bitcoin volatility remains high ahead of key FED decision.",
@@ -673,5 +684,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-07-14 23:45"
+    "timestamp": "2026-07-15 01:50"
 };
