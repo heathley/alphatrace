@@ -18,8 +18,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "William-Lu-stack/Flawless",
             "description": "AI SRE AgenticOps for Kubernetes and cloud infrastructure.",
             "url": "https://github.com/William-Lu-stack/Flawless",
-            "stars": 624,
-            "forks": 109,
+            "stars": 628,
+            "forks": 110,
             "score": 96
         },
         {
@@ -62,7 +62,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "ai4s-research/open-science",
             "description": "Open Science Desktop \u2014 local-first, model-agnostic AI research workbench for macOS, Windows & Linux. Open-source Claude Science desktop alternative built on Tauri + MCP + agent skills.",
             "url": "https://github.com/ai4s-research/open-science",
-            "stars": 767,
+            "stars": 768,
             "forks": 88,
             "score": 67
         },
@@ -139,20 +139,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "bkingfilm/lapian-notes",
             "description": "AI \u8f85\u52a9\u7684\u7535\u5f71\u62c9\u7247\u5de5\u5177\uff1a\u5bfc\u5165\u5f71\u7247\uff0cAI \u62c6\u51fa\u5267\u60c5\u6cf3\u9053\u65f6\u95f4\u8f74\u3001\u7ed3\u6784\u6811\u3001\u89c2\u4f17\u60c5\u7eea\u66f2\u7ebf\uff0c\u8fb9\u64ad\u8fb9\u5199\u4f60\u7684\u62c9\u7247\u7b14\u8bb0\u3002\u514d\u8d39\u5f00\u6e90\uff0c\u6570\u636e\u5168\u5728\u672c\u5730",
             "url": "https://github.com/bkingfilm/lapian-notes",
-            "stars": 338,
+            "stars": 339,
             "forks": 45,
             "score": 55
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI Agents",
-            "name": "Cognitive-Core-Skills",
-            "full_name": "eli-labz/Cognitive-Core-Skills",
-            "description": "A universal, industry-neutral taxonomy of cognitive core skills (perception, memory, reasoning, planning, action, verification, learning, governance) for LLMs, SLMs, AI agents, and world models \u2014 with schemas, 159 skill cards, benchmarks, and CI.",
-            "url": "https://github.com/eli-labz/Cognitive-Core-Skills",
-            "stars": 274,
-            "forks": 77,
-            "score": 54
         },
         {
             "main_cat": "AI",
@@ -164,6 +153,17 @@ const ALPHA_DATA_V2 = {
             "stars": 518,
             "forks": 10,
             "score": 53
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI Agents",
+            "name": "Cognitive-Core-Skills",
+            "full_name": "eli-labz/Cognitive-Core-Skills",
+            "description": "A universal, industry-neutral taxonomy of cognitive core skills (perception, memory, reasoning, planning, action, verification, learning, governance) for LLMs, SLMs, AI agents, and world models \u2014 with schemas, 159 skill cards, benchmarks, and CI.",
+            "url": "https://github.com/eli-labz/Cognitive-Core-Skills",
+            "stars": 274,
+            "forks": 77,
+            "score": 52
         },
         {
             "main_cat": "AI",
@@ -222,6 +222,17 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "agentic-trading-desk",
+            "full_name": "Oft3r/agentic-trading-desk",
+            "description": "AI-assisted trading desk for short-term technical analysis on stocks & ETFs via Robinhood MCP. Deterministic Python engines score each asset on a three-pillar framework (Trend \u00b7 Momentum \u00b7 Macro-Sentiment) using EMA, RSI, MACD, TRIX & Bollinger Bands. The AI fetches data; the scripts compute; the human approves every order.",
+            "url": "https://github.com/Oft3r/agentic-trading-desk",
+            "stars": 221,
+            "forks": 55,
+            "score": 43
+        },
+        {
+            "main_cat": "AI",
             "sub_cat": null,
             "name": "Autonomous-Forge",
             "full_name": "OmarH-creator/Autonomous-Forge",
@@ -229,18 +240,7 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/OmarH-creator/Autonomous-Forge",
             "stars": 251,
             "forks": 10,
-            "score": 43
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "agentic-trading-desk",
-            "full_name": "Oft3r/agentic-trading-desk",
-            "description": "AI-assisted trading desk for short-term technical analysis on stocks & ETFs via Robinhood MCP. Deterministic Python engines score each asset on a three-pillar framework (Trend \u00b7 Momentum \u00b7 Macro-Sentiment) using EMA, RSI, MACD, TRIX & Bollinger Bands. The AI fetches data; the scripts compute; the human approves every order.",
-            "url": "https://github.com/Oft3r/agentic-trading-desk",
-            "stars": 221,
-            "forks": 54,
-            "score": 43
+            "score": 42
         },
         {
             "main_cat": "AI",
@@ -326,7 +326,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "DasterProkio/awesome-ai-companion",
             "description": "A curated list of open-source projects for building long-term AI companion relationships: frontends, backends, memory systems, hardware carriers, and world integrations.",
             "url": "https://github.com/DasterProkio/awesome-ai-companion",
-            "stars": 167,
+            "stars": 168,
             "forks": 11,
             "score": 37
         },
@@ -717,5 +717,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-07-15 20:52"
+    "timestamp": "2026-07-15 21:52"
 };
