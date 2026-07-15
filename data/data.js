@@ -18,8 +18,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "William-Lu-stack/Flawless",
             "description": "AI SRE AgenticOps for Kubernetes and cloud infrastructure.",
             "url": "https://github.com/William-Lu-stack/Flawless",
-            "stars": 632,
-            "forks": 110,
+            "stars": 635,
+            "forks": 111,
             "score": 97
         },
         {
@@ -29,7 +29,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "simonlin1212/Vibe-Research",
             "description": "Vibe-Research: Your Personal Trading Research Agent \u00b7 A\u80a1/\u7f8e\u80a1/\u6e2f\u80a1 \u7684\u4e2a\u4eba\u6295\u7814 Agent\uff1a\u6bcf\u65e5\u590d\u76d8\u3001\u8d44\u8baf\u96f7\u8fbe\u3001\u4e2a\u80a1\u6570\u636e\u3001\u677f\u5757\u4e2d\u5fc3\u3001\u6211\u7684\u6301\u4ed3\u3001\u7814\u7a76\u8bb0\u5f55\u3002Vibe-Research \u628a\u6570\u636e\u548c\u529f\u80fd\u914d\u9f50\uff0c\u7531\u4f60\u81ea\u5df1\u7684 AI \u9a71\u52a8\u6295\u8d44\u7814\u7a76\u3002",
             "url": "https://github.com/simonlin1212/Vibe-Research",
-            "stars": 852,
+            "stars": 854,
             "forks": 190,
             "score": 92
         },
@@ -40,7 +40,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "dongguatanglinux/grok-build-auth",
             "description": "Protocol research client: x.ai signup \u2192 SSO \u2192 Grok Build OAuth \u2192 CLIProxyAPI auth export (authorized use only)",
             "url": "https://github.com/dongguatanglinux/grok-build-auth",
-            "stars": 237,
+            "stars": 238,
             "forks": 108,
             "score": 71
         },
@@ -73,7 +73,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "yetone/kill-ai-slop",
             "description": "A field guide to the visual & copy tics of AI-generated products \u2014 and an Agent Skill that scans your project and strips them out. https://killaislop.com",
             "url": "https://github.com/yetone/kill-ai-slop",
-            "stars": 459,
+            "stars": 460,
             "forks": 18,
             "score": 63
         },
@@ -95,7 +95,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "fxy2311-youyou/expression-trainer",
             "description": "\u5b87\u5b99\u65e0\u654c\u8868\u8fbe\u8bad\u7ec3\u7cfb\u7edf \u2014 \u5b9e\u65f6\u8bed\u97f3\u8f6c\u6587\u5b57 + 27000\u8bcd\u60c5\u611f\u8bcd\u5e93 + AI\u8868\u8fbe\u5206\u6790\u62a5\u544a\u3002\u79bb\u7ebf\u8fd0\u884c\uff0c\u5bf9\u7740\u5b83\u8bf4\u8bdd\uff0c\u5b83\u5e2e\u4f60\u770b\u89c1\u81ea\u5df1\u7684\u8868\u8fbe\u95ee\u9898\u3002",
             "url": "https://github.com/fxy2311-youyou/expression-trainer",
-            "stars": 392,
+            "stars": 393,
             "forks": 85,
             "score": 60
         },
@@ -117,7 +117,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Pluviobyte/rnskill",
             "description": "\u96ea\u8e0f\u4e4c\u4e91\u7684 AI Agent Skills \u96c6\u5408",
             "url": "https://github.com/Pluviobyte/rnskill",
-            "stars": 528,
+            "stars": 530,
             "forks": 46,
             "score": 55
         },
@@ -128,7 +128,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "ronak-create/FableCut",
             "description": "Zero-dependency browser video editor that AI agents can drive \u2014 JSON timeline, MCP + REST, live-reloading UI",
             "url": "https://github.com/ronak-create/FableCut",
-            "stars": 448,
+            "stars": 449,
             "forks": 42,
             "score": 55
         },
@@ -255,6 +255,17 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "Auto-FreeCF",
+            "full_name": "mocasus/Auto-FreeCF",
+            "description": "Cloudflare Workers AI Account ID and token collector with explicit automation modes",
+            "url": "https://github.com/mocasus/Auto-FreeCF",
+            "stars": 178,
+            "forks": 46,
+            "score": 42
+        },
+        {
+            "main_cat": "AI",
             "sub_cat": null,
             "name": "watch-skill",
             "full_name": "oxbshw/watch-skill",
@@ -262,18 +273,7 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/oxbshw/watch-skill",
             "stars": 200,
             "forks": 26,
-            "score": 42
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "Auto-FreeCF",
-            "full_name": "mocasus/Auto-FreeCF",
-            "description": "Cloudflare Workers AI Account ID and token collector with explicit automation modes",
-            "url": "https://github.com/mocasus/Auto-FreeCF",
-            "stars": 177,
-            "forks": 46,
-            "score": 42
+            "score": 41
         },
         {
             "main_cat": "AI",
@@ -348,9 +348,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "NHClimber87/llm-serve-dashboard",
             "description": "Single-file, dependency-free live dashboard for local llama.cpp/vLLM serving \u2014 GPU, throughput, KV/ctx, model library. Stdlib Python + one local-first HTML page.",
             "url": "https://github.com/NHClimber87/llm-serve-dashboard",
-            "stars": 53,
+            "stars": 54,
             "forks": 9,
-            "score": 36
+            "score": 35
         },
         {
             "main_cat": "AI",
@@ -717,5 +717,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-07-15 22:52"
+    "timestamp": "2026-07-15 23:53"
 };
