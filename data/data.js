@@ -7,7 +7,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "synthetic-sciences/openscience",
             "description": "The open-source AI workbench for scientific research",
             "url": "https://github.com/synthetic-sciences/openscience",
-            "stars": 2463,
+            "stars": 2464,
             "forks": 354,
             "score": 99
         },
@@ -18,9 +18,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "William-Lu-stack/Flawless",
             "description": "AI SRE AgenticOps for Kubernetes and cloud infrastructure.",
             "url": "https://github.com/William-Lu-stack/Flawless",
-            "stars": 622,
-            "forks": 101,
-            "score": 94
+            "stars": 624,
+            "forks": 109,
+            "score": 96
         },
         {
             "main_cat": "AI",
@@ -40,7 +40,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "dongguatanglinux/grok-build-auth",
             "description": "Protocol research client: x.ai signup \u2192 SSO \u2192 Grok Build OAuth \u2192 CLIProxyAPI auth export (authorized use only)",
             "url": "https://github.com/dongguatanglinux/grok-build-auth",
-            "stars": 236,
+            "stars": 237,
             "forks": 107,
             "score": 71
         },
@@ -51,7 +51,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Raymondhou0917/speak-human-tw",
             "description": "\u300c\u8aaa\u4eba\u8a71\u300d\uff1a\u7e41\u9ad4\u4e2d\u6587\u7684\u53bb AI \u5473\u6539\u5beb skill\u3002\u6293 38 \u7a2e AI \u5beb\u4f5c\u75d5\u8de1\uff0c\u9806\u624b\u6821\u6b63\u4e2d\u570b\u7528\u8a9e\u8207\u534a\u5f62\u6a19\u9ede\uff0c\u7d66 Claude Code / Codex / Cursor \u7528\u3002",
             "url": "https://github.com/Raymondhou0917/speak-human-tw",
-            "stars": 528,
+            "stars": 529,
             "forks": 62,
             "score": 68
         },
@@ -62,7 +62,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "ai4s-research/open-science",
             "description": "Open Science Desktop \u2014 local-first, model-agnostic AI research workbench for macOS, Windows & Linux. Open-source Claude Science desktop alternative built on Tauri + MCP + agent skills.",
             "url": "https://github.com/ai4s-research/open-science",
-            "stars": 766,
+            "stars": 767,
             "forks": 88,
             "score": 67
         },
@@ -95,7 +95,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "fxy2311-youyou/expression-trainer",
             "description": "\u5b87\u5b99\u65e0\u654c\u8868\u8fbe\u8bad\u7ec3\u7cfb\u7edf \u2014 \u5b9e\u65f6\u8bed\u97f3\u8f6c\u6587\u5b57 + 27000\u8bcd\u60c5\u611f\u8bcd\u5e93 + AI\u8868\u8fbe\u5206\u6790\u62a5\u544a\u3002\u79bb\u7ebf\u8fd0\u884c\uff0c\u5bf9\u7740\u5b83\u8bf4\u8bdd\uff0c\u5b83\u5e2e\u4f60\u770b\u89c1\u81ea\u5df1\u7684\u8868\u8fbe\u95ee\u9898\u3002",
             "url": "https://github.com/fxy2311-youyou/expression-trainer",
-            "stars": 391,
+            "stars": 392,
             "forks": 85,
             "score": 60
         },
@@ -128,7 +128,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "ronak-create/FableCut",
             "description": "Zero-dependency browser video editor that AI agents can drive \u2014 JSON timeline, MCP + REST, live-reloading UI",
             "url": "https://github.com/ronak-create/FableCut",
-            "stars": 447,
+            "stars": 448,
             "forks": 42,
             "score": 55
         },
@@ -139,7 +139,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "bkingfilm/lapian-notes",
             "description": "AI \u8f85\u52a9\u7684\u7535\u5f71\u62c9\u7247\u5de5\u5177\uff1a\u5bfc\u5165\u5f71\u7247\uff0cAI \u62c6\u51fa\u5267\u60c5\u6cf3\u9053\u65f6\u95f4\u8f74\u3001\u7ed3\u6784\u6811\u3001\u89c2\u4f17\u60c5\u7eea\u66f2\u7ebf\uff0c\u8fb9\u64ad\u8fb9\u5199\u4f60\u7684\u62c9\u7247\u7b14\u8bb0\u3002\u514d\u8d39\u5f00\u6e90\uff0c\u6570\u636e\u5168\u5728\u672c\u5730",
             "url": "https://github.com/bkingfilm/lapian-notes",
-            "stars": 336,
+            "stars": 338,
             "forks": 45,
             "score": 55
         },
@@ -161,7 +161,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "yusukebe/ax",
             "description": "The AI-era curl",
             "url": "https://github.com/yusukebe/ax",
-            "stars": 517,
+            "stars": 518,
             "forks": 10,
             "score": 53
         },
@@ -205,7 +205,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "aipoch/open-science",
             "description": "An open-source, model-agnostic AI workbench for scientific discovery.",
             "url": "https://github.com/aipoch/open-science",
-            "stars": 187,
+            "stars": 188,
             "forks": 67,
             "score": 45
         },
@@ -217,7 +217,7 @@ const ALPHA_DATA_V2 = {
             "description": "\u548c\u4f60\u7684 AI \u4e00\u8d77\u73a9\u7684\u53cc\u4eba\u68cb\u76d8\u5c0f\u6e38\u620f \u00b7 18+ \uff08A two-player board game you play with your AI \u2014 dice, tiles, spicy tasks, all run by code (18+\uff09\uff09",
             "url": "https://github.com/RennAkira/spicy-monopoly",
             "stars": 244,
-            "forks": 33,
+            "forks": 34,
             "score": 44
         },
         {
@@ -249,7 +249,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "EXXETA/exxperts",
             "description": "Persistent AI rooms with governed, approval-gated memory: local-first, on your machine.",
             "url": "https://github.com/EXXETA/exxperts",
-            "stars": 202,
+            "stars": 203,
             "forks": 19,
             "score": 42
         },
@@ -300,23 +300,23 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "ProductSpec",
-            "full_name": "gokulrajaram/ProductSpec",
-            "description": "Open standard for software intent in the AI agent era.",
-            "url": "https://github.com/gokulrajaram/ProductSpec",
-            "stars": 163,
-            "forks": 20,
-            "score": 39
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
             "name": "humanize-text-skill",
             "full_name": "lynote-ai/humanize-text-skill",
             "description": "Free AI Humanizer: Humanize AI Text Online",
             "url": "https://github.com/lynote-ai/humanize-text-skill",
             "stars": 226,
             "forks": 3,
+            "score": 38
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "ProductSpec",
+            "full_name": "gokulrajaram/ProductSpec",
+            "description": "Open standard for software intent in the AI agent era.",
+            "url": "https://github.com/gokulrajaram/ProductSpec",
+            "stars": 163,
+            "forks": 20,
             "score": 38
         },
         {
@@ -349,7 +349,7 @@ const ALPHA_DATA_V2 = {
             "description": "Single-file, dependency-free live dashboard for local llama.cpp/vLLM serving \u2014 GPU, throughput, KV/ctx, model library. Stdlib Python + one local-first HTML page.",
             "url": "https://github.com/NHClimber87/llm-serve-dashboard",
             "stars": 53,
-            "forks": 8,
+            "forks": 9,
             "score": 36
         },
         {
@@ -361,7 +361,7 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/Steller-StellarPulse-org/StellarPulse",
             "stars": 6,
             "forks": 23,
-            "score": 36
+            "score": 35
         },
         {
             "main_cat": "Stablecoin Infrastructure",
@@ -372,7 +372,7 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/Vicwell99/horizonflow-core",
             "stars": 0,
             "forks": 10,
-            "score": 36
+            "score": 35
         },
         {
             "main_cat": "AI",
@@ -436,6 +436,17 @@ const ALPHA_DATA_V2 = {
             "full_name": "aws-samples/sample-okf-llm-wiki",
             "description": "Data Wiki turns AWS Glue databases into portable knowledge bundles following Open Knowledge Format (OKF) and serves them to AI agents over the Model Context Protocol (MCP).",
             "url": "https://github.com/aws-samples/sample-okf-llm-wiki",
+            "stars": 7,
+            "forks": 0,
+            "score": 30
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "ckg-nvidia-ai",
+            "full_name": "Yarmoluk/ckg-nvidia-ai",
+            "description": "MCP server \u2014 Compressed Knowledge Graph for the NVIDIA AI developer stack. 20 domains \u00b7 998 nodes \u00b7 4\u00d7 F1 vs RAG \u00b7 11\u00d7 fewer tokens \u00b7 deterministic traversal.",
+            "url": "https://github.com/Yarmoluk/ckg-nvidia-ai",
             "stars": 7,
             "forks": 0,
             "score": 30
@@ -706,5 +717,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-07-15 19:00"
+    "timestamp": "2026-07-15 20:52"
 };
