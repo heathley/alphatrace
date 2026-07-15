@@ -8,7 +8,7 @@ const ALPHA_DATA_V2 = {
             "description": "The open-source AI workbench for scientific research",
             "url": "https://github.com/synthetic-sciences/openscience",
             "stars": 2462,
-            "forks": 353,
+            "forks": 354,
             "score": 99
         },
         {
@@ -30,7 +30,7 @@ const ALPHA_DATA_V2 = {
             "description": "AI SRE AgenticOps for Kubernetes and cloud infrastructure.",
             "url": "https://github.com/William-Lu-stack/Flawless",
             "stars": 621,
-            "forks": 97,
+            "forks": 98,
             "score": 93
         },
         {
@@ -40,9 +40,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "simonlin1212/Vibe-Research",
             "description": "Vibe-Research: Your Personal Trading Research Agent \u00b7 A\u80a1/\u7f8e\u80a1/\u6e2f\u80a1 \u7684\u4e2a\u4eba\u6295\u7814 Agent\uff1a\u6bcf\u65e5\u590d\u76d8\u3001\u8d44\u8baf\u96f7\u8fbe\u3001\u4e2a\u80a1\u6570\u636e\u3001\u677f\u5757\u4e2d\u5fc3\u3001\u6211\u7684\u6301\u4ed3\u3001\u7814\u7a76\u8bb0\u5f55\u3002Vibe-Research \u628a\u6570\u636e\u548c\u529f\u80fd\u914d\u9f50\uff0c\u7531\u4f60\u81ea\u5df1\u7684 AI \u9a71\u52a8\u6295\u8d44\u7814\u7a76\u3002",
             "url": "https://github.com/simonlin1212/Vibe-Research",
-            "stars": 848,
-            "forks": 188,
-            "score": 91
+            "stars": 852,
+            "forks": 190,
+            "score": 92
         },
         {
             "main_cat": "AI",
@@ -51,9 +51,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "dongguatanglinux/grok-build-auth",
             "description": "Protocol research client: x.ai signup \u2192 SSO \u2192 Grok Build OAuth \u2192 CLIProxyAPI auth export (authorized use only)",
             "url": "https://github.com/dongguatanglinux/grok-build-auth",
-            "stars": 234,
-            "forks": 105,
-            "score": 70
+            "stars": 236,
+            "forks": 107,
+            "score": 71
         },
         {
             "main_cat": "AI",
@@ -62,7 +62,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Raymondhou0917/speak-human-tw",
             "description": "\u300c\u8aaa\u4eba\u8a71\u300d\uff1a\u7e41\u9ad4\u4e2d\u6587\u7684\u53bb AI \u5473\u6539\u5beb skill\u3002\u6293 38 \u7a2e AI \u5beb\u4f5c\u75d5\u8de1\uff0c\u9806\u624b\u6821\u6b63\u4e2d\u570b\u7528\u8a9e\u8207\u534a\u5f62\u6a19\u9ede\uff0c\u7d66 Claude Code / Codex / Cursor \u7528\u3002",
             "url": "https://github.com/Raymondhou0917/speak-human-tw",
-            "stars": 523,
+            "stars": 525,
             "forks": 61,
             "score": 68
         },
@@ -73,9 +73,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "ai4s-research/open-science",
             "description": "Open Science Desktop \u2014 local-first, model-agnostic AI research workbench for macOS, Windows & Linux. Open-source Claude Science desktop alternative built on Tauri + MCP + agent skills.",
             "url": "https://github.com/ai4s-research/open-science",
-            "stars": 763,
+            "stars": 766,
             "forks": 88,
             "score": 67
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "kill-ai-slop",
+            "full_name": "yetone/kill-ai-slop",
+            "description": "A field guide to the visual & copy tics of AI-generated products \u2014 and an Agent Skill that scans your project and strips them out. https://killaislop.com",
+            "url": "https://github.com/yetone/kill-ai-slop",
+            "stars": 456,
+            "forks": 18,
+            "score": 63
         },
         {
             "main_cat": "AI",
@@ -91,24 +102,24 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "kill-ai-slop",
-            "full_name": "yetone/kill-ai-slop",
-            "description": "A field guide to the visual & copy tics of AI-generated products \u2014 and an Agent Skill that scans your project and strips them out. https://killaislop.com",
-            "url": "https://github.com/yetone/kill-ai-slop",
-            "stars": 454,
-            "forks": 18,
-            "score": 62
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
             "name": "expression-trainer",
             "full_name": "fxy2311-youyou/expression-trainer",
             "description": "\u5b87\u5b99\u65e0\u654c\u8868\u8fbe\u8bad\u7ec3\u7cfb\u7edf \u2014 \u5b9e\u65f6\u8bed\u97f3\u8f6c\u6587\u5b57 + 27000\u8bcd\u60c5\u611f\u8bcd\u5e93 + AI\u8868\u8fbe\u5206\u6790\u62a5\u544a\u3002\u79bb\u7ebf\u8fd0\u884c\uff0c\u5bf9\u7740\u5b83\u8bf4\u8bdd\uff0c\u5b83\u5e2e\u4f60\u770b\u89c1\u81ea\u5df1\u7684\u8868\u8fbe\u95ee\u9898\u3002",
             "url": "https://github.com/fxy2311-youyou/expression-trainer",
-            "stars": 383,
-            "forks": 82,
-            "score": 59
+            "stars": 390,
+            "forks": 85,
+            "score": 60
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "rnskill",
+            "full_name": "Pluviobyte/rnskill",
+            "description": "\u96ea\u8e0f\u4e4c\u4e91\u7684 AI Agent Skills \u96c6\u5408",
+            "url": "https://github.com/Pluviobyte/rnskill",
+            "stars": 525,
+            "forks": 45,
+            "score": 57
         },
         {
             "main_cat": "AI",
@@ -128,20 +139,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "ronak-create/FableCut",
             "description": "Zero-dependency browser video editor that AI agents can drive \u2014 JSON timeline, MCP + REST, live-reloading UI",
             "url": "https://github.com/ronak-create/FableCut",
-            "stars": 445,
+            "stars": 446,
             "forks": 42,
-            "score": 57
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "rnskill",
-            "full_name": "Pluviobyte/rnskill",
-            "description": "\u96ea\u8e0f\u4e4c\u4e91\u7684 AI Agent Skills \u96c6\u5408",
-            "url": "https://github.com/Pluviobyte/rnskill",
-            "stars": 521,
-            "forks": 45,
-            "score": 56
+            "score": 55
         },
         {
             "main_cat": "AI",
@@ -150,7 +150,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "bkingfilm/lapian-notes",
             "description": "AI \u8f85\u52a9\u7684\u7535\u5f71\u62c9\u7247\u5de5\u5177\uff1a\u5bfc\u5165\u5f71\u7247\uff0cAI \u62c6\u51fa\u5267\u60c5\u6cf3\u9053\u65f6\u95f4\u8f74\u3001\u7ed3\u6784\u6811\u3001\u89c2\u4f17\u60c5\u7eea\u66f2\u7ebf\uff0c\u8fb9\u64ad\u8fb9\u5199\u4f60\u7684\u62c9\u7247\u7b14\u8bb0\u3002\u514d\u8d39\u5f00\u6e90\uff0c\u6570\u636e\u5168\u5728\u672c\u5730",
             "url": "https://github.com/bkingfilm/lapian-notes",
-            "stars": 335,
+            "stars": 336,
             "forks": 45,
             "score": 55
         },
@@ -194,7 +194,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "barretlee/agent-pulse",
             "description": "Evidence-backed AI industry intelligence \u2014 trends, source updates, daily data refreshes, and weekly decision briefs.",
             "url": "https://github.com/barretlee/agent-pulse",
-            "stars": 184,
+            "stars": 185,
             "forks": 17,
             "score": 48
         },
@@ -216,7 +216,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "aipoch/open-science",
             "description": "An open-source, model-agnostic AI workbench for scientific discovery.",
             "url": "https://github.com/aipoch/open-science",
-            "stars": 182,
+            "stars": 187,
             "forks": 67,
             "score": 45
         },
@@ -256,22 +256,11 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "undress-design",
-            "full_name": "chordswallowthrust/undress-design",
-            "description": "AI-powered fashion visualization and virtual try-on toolkit for consent-based garment editing, outfit prototyping, and creative design workflows. https://undress.design/edit?utm_source=gist.github.com/chordswallowthrust/undress-design",
-            "url": "https://github.com/chordswallowthrust/undress-design",
-            "stars": 184,
-            "forks": 0,
-            "score": 43
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
             "name": "exxperts",
             "full_name": "EXXETA/exxperts",
             "description": "Persistent AI rooms with governed, approval-gated memory: local-first, on your machine.",
             "url": "https://github.com/EXXETA/exxperts",
-            "stars": 200,
+            "stars": 201,
             "forks": 19,
             "score": 42
         },
@@ -293,9 +282,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "mocasus/Auto-FreeCF",
             "description": "Cloudflare Workers AI Account ID and token collector with explicit automation modes",
             "url": "https://github.com/mocasus/Auto-FreeCF",
-            "stars": 176,
+            "stars": 177,
             "forks": 46,
             "score": 42
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "undress-design",
+            "full_name": "chordswallowthrust/undress-design",
+            "description": "AI-powered fashion visualization and virtual try-on toolkit for consent-based garment editing, outfit prototyping, and creative design workflows. https://undress.design/edit?utm_source=gist.github.com/chordswallowthrust/undress-design",
+            "url": "https://github.com/chordswallowthrust/undress-design",
+            "stars": 184,
+            "forks": 0,
+            "score": 41
         },
         {
             "main_cat": "AI",
@@ -322,23 +322,23 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
+            "name": "awesome-ai-companion",
+            "full_name": "DasterProkio/awesome-ai-companion",
+            "description": "A curated list of open-source projects for building long-term AI companion relationships: frontends, backends, memory systems, hardware carriers, and world integrations.",
+            "url": "https://github.com/DasterProkio/awesome-ai-companion",
+            "stars": 167,
+            "forks": 11,
+            "score": 37
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
             "name": "ComfyUI-Krea2-Ostris-Edit",
             "full_name": "ostris/ComfyUI-Krea2-Ostris-Edit",
             "description": "Comfy UI Nodes for Krea 2 LoRAs trained with AI Toolkit Experimental Edit",
             "url": "https://github.com/ostris/ComfyUI-Krea2-Ostris-Edit",
             "stars": 167,
             "forks": 4,
-            "score": 36
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "awesome-ai-companion",
-            "full_name": "DasterProkio/awesome-ai-companion",
-            "description": "A curated list of open-source projects for building long-term AI companion relationships: frontends, backends, memory systems, hardware carriers, and world integrations.",
-            "url": "https://github.com/DasterProkio/awesome-ai-companion",
-            "stars": 165,
-            "forks": 11,
             "score": 36
         },
         {
@@ -403,7 +403,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "unitedclinic/crypto-wallet-bruteforce",
             "description": "Advanced cryptocurrency wallet brute force tool for educational purposes supporting Ethereum, BNB, Polygon, and EVM-compatible chains with GPU acceleration.",
             "url": "https://github.com/unitedclinic/crypto-wallet-bruteforce",
-            "stars": 17,
+            "stars": 16,
             "forks": 0,
             "score": 32
         },
@@ -684,5 +684,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-07-15 15:21"
+    "timestamp": "2026-07-15 17:09"
 };
