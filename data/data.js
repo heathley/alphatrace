@@ -7,9 +7,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "synthetic-sciences/openscience",
             "description": "The open-source AI workbench for scientific research",
             "url": "https://github.com/synthetic-sciences/openscience",
-            "stars": 2510,
+            "stars": 2511,
             "forks": 359,
             "score": 99
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "cue",
+            "full_name": "Blueturboguy07/cue",
+            "description": "Open-source macOS AI copilot that floats over your screen, sees/hears your meetings, and stays hidden from screen shares. Cluely alternative, bring-your-own-key.",
+            "url": "https://github.com/Blueturboguy07/cue",
+            "stars": 208,
+            "forks": 50,
+            "score": 98
         },
         {
             "main_cat": "AI",
@@ -31,17 +42,6 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/simonlin1212/Vibe-Research",
             "stars": 866,
             "forks": 193,
-            "score": 88
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "cue",
-            "full_name": "Blueturboguy07/cue",
-            "description": "Open-source macOS AI copilot that floats over your screen, sees/hears your meetings, and stays hidden from screen shares. Cluely alternative, bring-your-own-key.",
-            "url": "https://github.com/Blueturboguy07/cue",
-            "stars": 188,
-            "forks": 41,
             "score": 88
         },
         {
@@ -84,7 +84,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "yetone/kill-ai-slop",
             "description": "A field guide to the visual & copy tics of AI-generated products \u2014 and an Agent Skill that scans your project and strips them out. https://killaislop.com",
             "url": "https://github.com/yetone/kill-ai-slop",
-            "stars": 545,
+            "stars": 548,
             "forks": 22,
             "score": 65
         },
@@ -150,8 +150,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "ShenSeanChen/waku-agent",
             "description": "Waku Waku! Waku agent is your personal AI agent, on your own laptop, in code you can read in an afternoon \u2014 harness + loop + memory + eval",
             "url": "https://github.com/ShenSeanChen/waku-agent",
-            "stars": 218,
-            "forks": 54,
+            "stars": 220,
+            "forks": 55,
             "score": 54
         },
         {
@@ -183,7 +183,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "yusukebe/ax",
             "description": "The AI-era curl",
             "url": "https://github.com/yusukebe/ax",
-            "stars": 526,
+            "stars": 527,
             "forks": 10,
             "score": 51
         },
@@ -216,7 +216,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "aipoch/open-science",
             "description": "An open-source, model-agnostic AI workbench for scientific discovery.",
             "url": "https://github.com/aipoch/open-science",
-            "stars": 230,
+            "stars": 231,
             "forks": 68,
             "score": 45
         },
@@ -227,9 +227,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "RennAkira/spicy-monopoly",
             "description": "\u548c\u4f60\u7684 AI \u4e00\u8d77\u73a9\u7684\u53cc\u4eba\u68cb\u76d8\u5c0f\u6e38\u620f \u00b7 18+ \uff08A two-player board game you play with your AI \u2014 dice, tiles, spicy tasks, all run by code (18+\uff09\uff09",
             "url": "https://github.com/RennAkira/spicy-monopoly",
-            "stars": 251,
+            "stars": 252,
             "forks": 35,
-            "score": 43
+            "score": 44
         },
         {
             "main_cat": "AI",
@@ -260,7 +260,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "EXXETA/exxperts",
             "description": "Persistent AI rooms with governed, approval-gated memory: local-first, on your machine.",
             "url": "https://github.com/EXXETA/exxperts",
-            "stars": 207,
+            "stars": 208,
             "forks": 19,
             "score": 41
         },
@@ -282,7 +282,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "chordswallowthrust/undress-design",
             "description": "AI-powered fashion visualization and virtual try-on toolkit for consent-based garment editing, outfit prototyping, and creative design workflows. https://undress.design/edit?utm_source=gist.github.com/chordswallowthrust/undress-design",
             "url": "https://github.com/chordswallowthrust/undress-design",
-            "stars": 192,
+            "stars": 193,
             "forks": 0,
             "score": 40
         },
@@ -337,7 +337,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "NHClimber87/llm-serve-dashboard",
             "description": "Single-file, dependency-free live dashboard for local llama.cpp/vLLM serving \u2014 GPU, throughput, KV/ctx, model library. Stdlib Python + one local-first HTML page.",
             "url": "https://github.com/NHClimber87/llm-serve-dashboard",
-            "stars": 55,
+            "stars": 56,
             "forks": 9,
             "score": 35
         },
@@ -361,7 +361,7 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/Vicwell99/horizonflow-core",
             "stars": 0,
             "forks": 10,
-            "score": 35
+            "score": 34
         },
         {
             "main_cat": "AI",
@@ -673,5 +673,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-07-16 19:21"
+    "timestamp": "2026-07-16 20:50"
 };
