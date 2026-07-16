@@ -7,7 +7,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "synthetic-sciences/openscience",
             "description": "The open-source AI workbench for scientific research",
             "url": "https://github.com/synthetic-sciences/openscience",
-            "stars": 2509,
+            "stars": 2510,
             "forks": 359,
             "score": 99
         },
@@ -18,9 +18,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "William-Lu-stack/Flawless",
             "description": "AI SRE AgenticOps for Kubernetes and cloud infrastructure.",
             "url": "https://github.com/William-Lu-stack/Flawless",
-            "stars": 686,
-            "forks": 129,
-            "score": 96
+            "stars": 689,
+            "forks": 131,
+            "score": 97
         },
         {
             "main_cat": "AI",
@@ -31,6 +31,17 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/simonlin1212/Vibe-Research",
             "stars": 866,
             "forks": 193,
+            "score": 88
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "cue",
+            "full_name": "Blueturboguy07/cue",
+            "description": "Open-source macOS AI copilot that floats over your screen, sees/hears your meetings, and stays hidden from screen shares. Cluely alternative, bring-your-own-key.",
+            "url": "https://github.com/Blueturboguy07/cue",
+            "stars": 188,
+            "forks": 41,
             "score": 88
         },
         {
@@ -84,9 +95,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "fxy2311-youyou/expression-trainer",
             "description": "\u5b87\u5b99\u65e0\u654c\u8868\u8fbe\u8bad\u7ec3\u7cfb\u7edf \u2014 \u5b9e\u65f6\u8bed\u97f3\u8f6c\u6587\u5b57 + 27000\u8bcd\u60c5\u611f\u8bcd\u5e93 + AI\u8868\u8fbe\u5206\u6790\u62a5\u544a\u3002\u79bb\u7ebf\u8fd0\u884c\uff0c\u5bf9\u7740\u5b83\u8bf4\u8bdd\uff0c\u5b83\u5e2e\u4f60\u770b\u89c1\u81ea\u5df1\u7684\u8868\u8fbe\u95ee\u9898\u3002",
             "url": "https://github.com/fxy2311-youyou/expression-trainer",
-            "stars": 432,
+            "stars": 433,
             "forks": 94,
             "score": 61
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "motion-anything",
+            "full_name": "nexu-io/motion-anything",
+            "description": "\u2728 The agentic motion layer \u2014 an open-source, chat-native motion engine. Describe the feeling; your AI ships the animation.",
+            "url": "https://github.com/nexu-io/motion-anything",
+            "stars": 471,
+            "forks": 48,
+            "score": 55
         },
         {
             "main_cat": "AI",
@@ -97,18 +119,7 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/Pluviobyte/rnskill",
             "stars": 540,
             "forks": 49,
-            "score": 56
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "motion-anything",
-            "full_name": "nexu-io/motion-anything",
-            "description": "\u2728 The agentic motion layer \u2014 an open-source, chat-native motion engine. Describe the feeling; your AI ships the animation.",
-            "url": "https://github.com/nexu-io/motion-anything",
-            "stars": 470,
-            "forks": 48,
-            "score": 55
+            "score": 54
         },
         {
             "main_cat": "AI",
@@ -117,7 +128,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "ronak-create/FableCut",
             "description": "Zero-dependency browser video editor that AI agents can drive \u2014 JSON timeline, MCP + REST, live-reloading UI",
             "url": "https://github.com/ronak-create/FableCut",
-            "stars": 460,
+            "stars": 462,
             "forks": 44,
             "score": 54
         },
@@ -135,23 +146,23 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
+            "name": "waku-agent",
+            "full_name": "ShenSeanChen/waku-agent",
+            "description": "Waku Waku! Waku agent is your personal AI agent, on your own laptop, in code you can read in an afternoon \u2014 harness + loop + memory + eval",
+            "url": "https://github.com/ShenSeanChen/waku-agent",
+            "stars": 218,
+            "forks": 54,
+            "score": 54
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
             "name": "xiaohongshu-ai-workbench",
             "full_name": "nihe0909/xiaohongshu-ai-workbench",
             "description": "\u300a\u5c0f\u7ea2\u4e66\u8fd0\u8425\u624b\u518c \u00b7 AI\u5de5\u4f5c\u53f0\u300b: free Codex Skills for Xiaohongshu operations",
             "url": "https://github.com/nihe0909/xiaohongshu-ai-workbench",
             "stars": 221,
             "forks": 16,
-            "score": 53
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "waku-agent",
-            "full_name": "ShenSeanChen/waku-agent",
-            "description": "Waku Waku! Waku agent is your personal AI agent, on your own laptop, in code you can read in an afternoon \u2014 harness + loop + memory + eval",
-            "url": "https://github.com/ShenSeanChen/waku-agent",
-            "stars": 215,
-            "forks": 53,
             "score": 53
         },
         {
@@ -172,7 +183,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "yusukebe/ax",
             "description": "The AI-era curl",
             "url": "https://github.com/yusukebe/ax",
-            "stars": 525,
+            "stars": 526,
             "forks": 10,
             "score": 51
         },
@@ -239,7 +250,7 @@ const ALPHA_DATA_V2 = {
             "description": "Video understanding and self-verification for AI agents. Turn videos, streams, and agent screen recordings into searchable, timestamped evidence\u2014then use THE LOOP to inspect, fix, and verify the work. MCP, CLI, REST, local-first.",
             "url": "https://github.com/oxbshw/watch-skill",
             "stars": 207,
-            "forks": 27,
+            "forks": 28,
             "score": 42
         },
         {
@@ -249,7 +260,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "EXXETA/exxperts",
             "description": "Persistent AI rooms with governed, approval-gated memory: local-first, on your machine.",
             "url": "https://github.com/EXXETA/exxperts",
-            "stars": 206,
+            "stars": 207,
             "forks": 19,
             "score": 41
         },
@@ -321,23 +332,12 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
-            "sub_cat": null,
-            "name": "ComfyUI-Krea2-Ostris-Edit",
-            "full_name": "ostris/ComfyUI-Krea2-Ostris-Edit",
-            "description": "Comfy UI Nodes for Krea 2 LoRAs trained with AI Toolkit Experimental Edit",
-            "url": "https://github.com/ostris/ComfyUI-Krea2-Ostris-Edit",
-            "stars": 171,
-            "forks": 4,
-            "score": 36
-        },
-        {
-            "main_cat": "AI",
             "sub_cat": "AI General",
             "name": "llm-serve-dashboard",
             "full_name": "NHClimber87/llm-serve-dashboard",
             "description": "Single-file, dependency-free live dashboard for local llama.cpp/vLLM serving \u2014 GPU, throughput, KV/ctx, model library. Stdlib Python + one local-first HTML page.",
             "url": "https://github.com/NHClimber87/llm-serve-dashboard",
-            "stars": 54,
+            "stars": 55,
             "forks": 9,
             "score": 35
         },
@@ -381,8 +381,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "NInagusev47/Silent-Crypto-Miner",
             "description": "Silent Crypto Miner is an advanced cryptocurrency mining builder and runtime engine with multi-algorithm CPU/GPU support and intelligent resource management. Create custom mining executables with configurable algorithms, cross-platform output, real-time monitoring, session persistence, thermal throttling, scheduling, and hashrate optimization.",
             "url": "https://github.com/NInagusev47/Silent-Crypto-Miner",
-            "stars": 26,
-            "forks": 5,
+            "stars": 23,
+            "forks": 4,
             "score": 32
         },
         {
@@ -569,7 +569,7 @@ const ALPHA_DATA_V2 = {
             "description": "DShield is a consumer-grade shielded stablecoin wallet built on Stellar that enables private USDC payments using Zero-Knowledge Proofs (ZKPs).",
             "url": "https://github.com/Dshield-xyz/Dshield",
             "stars": 0,
-            "forks": 3,
+            "forks": 4,
             "score": 30
         },
         {
@@ -673,5 +673,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-07-16 18:00"
+    "timestamp": "2026-07-16 19:21"
 };
