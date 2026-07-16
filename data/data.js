@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "synthetic-sciences/openscience",
             "description": "The open-source AI workbench for scientific research",
             "url": "https://github.com/synthetic-sciences/openscience",
-            "stars": 2486,
-            "forks": 357,
+            "stars": 2490,
+            "forks": 358,
             "score": 99
         },
         {
@@ -18,9 +18,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "William-Lu-stack/Flawless",
             "description": "AI SRE AgenticOps for Kubernetes and cloud infrastructure.",
             "url": "https://github.com/William-Lu-stack/Flawless",
-            "stars": 655,
-            "forks": 118,
-            "score": 92
+            "stars": 665,
+            "forks": 122,
+            "score": 94
         },
         {
             "main_cat": "AI",
@@ -29,7 +29,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "simonlin1212/Vibe-Research",
             "description": "Vibe-Research: Your Personal Trading Research Agent \u00b7 A\u80a1/\u7f8e\u80a1/\u6e2f\u80a1 \u7684\u4e2a\u4eba\u6295\u7814 Agent\uff1a\u6bcf\u65e5\u590d\u76d8\u3001\u8d44\u8baf\u96f7\u8fbe\u3001\u4e2a\u80a1\u6570\u636e\u3001\u677f\u5757\u4e2d\u5fc3\u3001\u6211\u7684\u6301\u4ed3\u3001\u7814\u7a76\u8bb0\u5f55\u3002Vibe-Research \u628a\u6570\u636e\u548c\u529f\u80fd\u914d\u9f50\uff0c\u7531\u4f60\u81ea\u5df1\u7684 AI \u9a71\u52a8\u6295\u8d44\u7814\u7a76\u3002",
             "url": "https://github.com/simonlin1212/Vibe-Research",
-            "stars": 860,
+            "stars": 862,
             "forks": 191,
             "score": 88
         },
@@ -40,9 +40,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "dongguatanglinux/grok-build-auth",
             "description": "Protocol research client: x.ai signup \u2192 SSO \u2192 Grok Build OAuth \u2192 CLIProxyAPI auth export (authorized use only)",
             "url": "https://github.com/dongguatanglinux/grok-build-auth",
-            "stars": 245,
-            "forks": 111,
-            "score": 73
+            "stars": 247,
+            "forks": 114,
+            "score": 69
         },
         {
             "main_cat": "AI",
@@ -51,9 +51,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "Raymondhou0917/speak-human-tw",
             "description": "\u300c\u8aaa\u4eba\u8a71\u300d\uff1a\u7e41\u9ad4\u4e2d\u6587\u7684\u53bb AI \u5473\u6539\u5beb skill\u3002\u6293 38 \u7a2e AI \u5beb\u4f5c\u75d5\u8de1\uff0c\u9806\u624b\u6821\u6b63\u4e2d\u570b\u7528\u8a9e\u8207\u534a\u5f62\u6a19\u9ede\uff0c\u7d66 Claude Code / Codex / Cursor \u7528\u3002",
             "url": "https://github.com/Raymondhou0917/speak-human-tw",
-            "stars": 537,
+            "stars": 540,
             "forks": 63,
-            "score": 69
+            "score": 66
         },
         {
             "main_cat": "AI",
@@ -62,9 +62,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "ai4s-research/open-science",
             "description": "Open Science Desktop \u2014 local-first, model-agnostic AI research workbench for macOS, Windows & Linux. Open-source Claude Science desktop alternative built on Tauri + MCP + agent skills.",
             "url": "https://github.com/ai4s-research/open-science",
-            "stars": 784,
+            "stars": 787,
             "forks": 89,
-            "score": 68
+            "score": 65
         },
         {
             "main_cat": "AI",
@@ -73,9 +73,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "yetone/kill-ai-slop",
             "description": "A field guide to the visual & copy tics of AI-generated products \u2014 and an Agent Skill that scans your project and strips them out. https://killaislop.com",
             "url": "https://github.com/yetone/kill-ai-slop",
-            "stars": 490,
+            "stars": 514,
             "forks": 21,
-            "score": 65
+            "score": 63
         },
         {
             "main_cat": "AI",
@@ -84,9 +84,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "fxy2311-youyou/expression-trainer",
             "description": "\u5b87\u5b99\u65e0\u654c\u8868\u8fbe\u8bad\u7ec3\u7cfb\u7edf \u2014 \u5b9e\u65f6\u8bed\u97f3\u8f6c\u6587\u5b57 + 27000\u8bcd\u60c5\u611f\u8bcd\u5e93 + AI\u8868\u8fbe\u5206\u6790\u62a5\u544a\u3002\u79bb\u7ebf\u8fd0\u884c\uff0c\u5bf9\u7740\u5b83\u8bf4\u8bdd\uff0c\u5b83\u5e2e\u4f60\u770b\u89c1\u81ea\u5df1\u7684\u8868\u8fbe\u95ee\u9898\u3002",
             "url": "https://github.com/fxy2311-youyou/expression-trainer",
-            "stars": 413,
-            "forks": 88,
-            "score": 61
+            "stars": 420,
+            "forks": 90,
+            "score": 60
         },
         {
             "main_cat": "AI",
@@ -106,7 +106,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Pluviobyte/rnskill",
             "description": "\u96ea\u8e0f\u4e4c\u4e91\u7684 AI Agent Skills \u96c6\u5408",
             "url": "https://github.com/Pluviobyte/rnskill",
-            "stars": 536,
+            "stars": 537,
             "forks": 48,
             "score": 56
         },
@@ -117,9 +117,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "ronak-create/FableCut",
             "description": "Zero-dependency browser video editor that AI agents can drive \u2014 JSON timeline, MCP + REST, live-reloading UI",
             "url": "https://github.com/ronak-create/FableCut",
-            "stars": 458,
+            "stars": 459,
             "forks": 43,
             "score": 56
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "xiaohongshu-ai-workbench",
+            "full_name": "nihe0909/xiaohongshu-ai-workbench",
+            "description": "\u300a\u5c0f\u7ea2\u4e66\u8fd0\u8425\u624b\u518c \u00b7 AI\u5de5\u4f5c\u53f0\u300b: free Codex Skills for Xiaohongshu operations",
+            "url": "https://github.com/nihe0909/xiaohongshu-ai-workbench",
+            "stars": 195,
+            "forks": 15,
+            "score": 55
         },
         {
             "main_cat": "AI",
@@ -128,19 +139,19 @@ const ALPHA_DATA_V2 = {
             "full_name": "bkingfilm/lapian-notes",
             "description": "AI \u8f85\u52a9\u7684\u7535\u5f71\u62c9\u7247\u5de5\u5177\uff1a\u5bfc\u5165\u5f71\u7247\uff0cAI \u62c6\u51fa\u5267\u60c5\u6cf3\u9053\u65f6\u95f4\u8f74\u3001\u7ed3\u6784\u6811\u3001\u89c2\u4f17\u60c5\u7eea\u66f2\u7ebf\uff0c\u8fb9\u64ad\u8fb9\u5199\u4f60\u7684\u62c9\u7247\u7b14\u8bb0\u3002\u514d\u8d39\u5f00\u6e90\uff0c\u6570\u636e\u5168\u5728\u672c\u5730",
             "url": "https://github.com/bkingfilm/lapian-notes",
-            "stars": 347,
-            "forks": 46,
+            "stars": 349,
+            "forks": 47,
             "score": 54
         },
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "ax",
-            "full_name": "yusukebe/ax",
-            "description": "The AI-era curl",
-            "url": "https://github.com/yusukebe/ax",
-            "stars": 521,
-            "forks": 10,
+            "name": "waku-agent",
+            "full_name": "ShenSeanChen/waku-agent",
+            "description": "Waku Waku! Waku agent is your personal AI agent, on your own laptop, in code you can read in an afternoon \u2014 harness + loop + memory + eval",
+            "url": "https://github.com/ShenSeanChen/waku-agent",
+            "stars": 192,
+            "forks": 47,
             "score": 53
         },
         {
@@ -157,24 +168,13 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "waku-agent",
-            "full_name": "ShenSeanChen/waku-agent",
-            "description": "Waku Waku! Waku agent is your personal AI agent, on your own laptop, in code you can read in an afternoon \u2014 harness + loop + memory + eval",
-            "url": "https://github.com/ShenSeanChen/waku-agent",
-            "stars": 182,
-            "forks": 45,
-            "score": 52
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "xiaohongshu-ai-workbench",
-            "full_name": "nihe0909/xiaohongshu-ai-workbench",
-            "description": "\u300a\u5c0f\u7ea2\u4e66\u8fd0\u8425\u624b\u518c \u00b7 AI\u5de5\u4f5c\u53f0\u300b: free Codex Skills for Xiaohongshu operations",
-            "url": "https://github.com/nihe0909/xiaohongshu-ai-workbench",
-            "stars": 177,
-            "forks": 12,
-            "score": 52
+            "name": "ax",
+            "full_name": "yusukebe/ax",
+            "description": "The AI-era curl",
+            "url": "https://github.com/yusukebe/ax",
+            "stars": 523,
+            "forks": 10,
+            "score": 51
         },
         {
             "main_cat": "AI",
@@ -184,7 +184,7 @@ const ALPHA_DATA_V2 = {
             "description": "Evidence-backed AI industry intelligence \u2014 trends, source updates, daily data refreshes, and weekly decision briefs.",
             "url": "https://github.com/barretlee/agent-pulse",
             "stars": 193,
-            "forks": 19,
+            "forks": 20,
             "score": 49
         },
         {
@@ -205,8 +205,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "aipoch/open-science",
             "description": "An open-source, model-agnostic AI workbench for scientific discovery.",
             "url": "https://github.com/aipoch/open-science",
-            "stars": 208,
-            "forks": 69,
+            "stars": 213,
+            "forks": 68,
             "score": 45
         },
         {
@@ -218,7 +218,7 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/RennAkira/spicy-monopoly",
             "stars": 248,
             "forks": 34,
-            "score": 44
+            "score": 43
         },
         {
             "main_cat": "AI",
@@ -249,7 +249,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "oxbshw/watch-skill",
             "description": "Video understanding and self-verification for AI agents. Turn videos, streams, and agent screen recordings into searchable, timestamped evidence\u2014then use THE LOOP to inspect, fix, and verify the work. MCP, CLI, REST, local-first.",
             "url": "https://github.com/oxbshw/watch-skill",
-            "stars": 201,
+            "stars": 202,
             "forks": 26,
             "score": 41
         },
@@ -260,7 +260,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "chordswallowthrust/undress-design",
             "description": "AI-powered fashion visualization and virtual try-on toolkit for consent-based garment editing, outfit prototyping, and creative design workflows. https://undress.design/edit?utm_source=gist.github.com/chordswallowthrust/undress-design",
             "url": "https://github.com/chordswallowthrust/undress-design",
-            "stars": 189,
+            "stars": 191,
             "forks": 0,
             "score": 41
         },
@@ -293,7 +293,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "gokulrajaram/ProductSpec",
             "description": "Open standard for software intent in the AI agent era.",
             "url": "https://github.com/gokulrajaram/ProductSpec",
-            "stars": 166,
+            "stars": 167,
             "forks": 20,
             "score": 38
         },
@@ -315,8 +315,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "DasterProkio/awesome-ai-companion",
             "description": "A curated list of open-source projects for building long-term AI companion relationships: frontends, backends, memory systems, hardware carriers, and world integrations.",
             "url": "https://github.com/DasterProkio/awesome-ai-companion",
-            "stars": 170,
-            "forks": 11,
+            "stars": 171,
+            "forks": 12,
             "score": 36
         },
         {
@@ -326,7 +326,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "ostris/ComfyUI-Krea2-Ostris-Edit",
             "description": "Comfy UI Nodes for Krea 2 LoRAs trained with AI Toolkit Experimental Edit",
             "url": "https://github.com/ostris/ComfyUI-Krea2-Ostris-Edit",
-            "stars": 167,
+            "stars": 168,
             "forks": 4,
             "score": 36
         },
@@ -536,7 +536,7 @@ const ALPHA_DATA_V2 = {
             "description": "It is an automated, non-custodial recurring stablecoin payments and subscriptions on Stellar using Soroban smart contracts.",
             "url": "https://github.com/benedictworks-home/horizonflow-core",
             "stars": 0,
-            "forks": 0,
+            "forks": 1,
             "score": 30
         },
         {
@@ -559,6 +559,17 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/justinfread/forge-analytics",
             "stars": 0,
             "forks": 0,
+            "score": 30
+        },
+        {
+            "main_cat": "Stablecoin Infrastructure",
+            "sub_cat": null,
+            "name": "Dshield",
+            "full_name": "Dshield-xyz/Dshield",
+            "description": "DShield is a consumer-grade shielded stablecoin wallet built on Stellar that enables private USDC payments using Zero-Knowledge Proofs (ZKPs).",
+            "url": "https://github.com/Dshield-xyz/Dshield",
+            "stars": 0,
+            "forks": 1,
             "score": 30
         },
         {
@@ -586,33 +597,22 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
-            "name": "arc-activity-bot",
-            "full_name": "Madaprtma/arc-activity-bot",
-            "description": "On-chain activity bot for Arc Testnet. Automates smart contract interactions to explore Arc's payment infrastructure built on Circle's stablecoin stack.",
-            "url": "https://github.com/Madaprtma/arc-activity-bot",
-            "stars": 0,
-            "forks": 0,
-            "score": 30
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": ".github",
-            "full_name": "Trustlink-Labs/.github",
-            "description": "TrustLink Labs builds open blockchain infrastructure for identity-aware, privacy-preserving, and scalable digital payments. Our protocols include ZK-PRU, TINS (identity), TSN (settlement), and VPP (confidential stablecoin infrastructure).",
-            "url": "https://github.com/Trustlink-Labs/.github",
-            "stars": 0,
-            "forks": 0,
-            "score": 30
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
             "name": "Universal-Cross-Chain-Bridge",
             "full_name": "oscar01428/Universal-Cross-Chain-Bridge",
             "description": "A cross-chain infrastructure protocol that enables secure communication and digital asset transfers between independent blockchain networks. The platform uses smart contracts, validator mechanisms, and relayer services to facilitate trust-minimized bridging between EVM-compatible chains while maintaining transaction integrity and security.",
             "url": "https://github.com/oscar01428/Universal-Cross-Chain-Bridge",
             "stars": 4,
+            "forks": 0,
+            "score": 30
+        },
+        {
+            "main_cat": "Cross-chain / Interoperability",
+            "sub_cat": null,
+            "name": "solidity-contracts",
+            "full_name": "crossprotocolorg/solidity-contracts",
+            "description": "Smart contracts for Cross Protocol",
+            "url": "https://github.com/crossprotocolorg/solidity-contracts",
+            "stars": 2,
             "forks": 0,
             "score": 30
         },
@@ -684,5 +684,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-07-16 08:01"
+    "timestamp": "2026-07-16 10:51"
 };
