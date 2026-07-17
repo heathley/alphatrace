@@ -7,7 +7,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Blueturboguy07/cue",
             "description": "Open-source macOS AI copilot that floats over your screen, sees/hears your meetings, and stays hidden from screen shares. Cluely alternative, bring-your-own-key.",
             "url": "https://github.com/Blueturboguy07/cue",
-            "stars": 477,
+            "stars": 479,
             "forks": 98,
             "score": 99
         },
@@ -19,8 +19,8 @@ const ALPHA_DATA_V2 = {
             "description": "AI SRE AgenticOps for Kubernetes and cloud infrastructure.",
             "url": "https://github.com/William-Lu-stack/Flawless",
             "stars": 707,
-            "forks": 136,
-            "score": 92
+            "forks": 140,
+            "score": 93
         },
         {
             "main_cat": "AI",
@@ -40,9 +40,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "dongguatanglinux/grok-build-auth",
             "description": "Protocol research client: x.ai signup \u2192 SSO \u2192 Grok Build OAuth \u2192 CLIProxyAPI auth export (authorized use only)",
             "url": "https://github.com/dongguatanglinux/grok-build-auth",
-            "stars": 258,
-            "forks": 120,
-            "score": 66
+            "stars": 259,
+            "forks": 121,
+            "score": 67
         },
         {
             "main_cat": "AI",
@@ -62,9 +62,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "Raymondhou0917/speak-human-tw",
             "description": "\u300c\u8aaa\u4eba\u8a71\u300d\uff1a\u7e41\u9ad4\u4e2d\u6587\u7684\u53bb AI \u5473\u6539\u5beb skill\u3002\u6293 38 \u7a2e AI \u5beb\u4f5c\u75d5\u8de1\uff0c\u9806\u624b\u6821\u6b63\u4e2d\u570b\u7528\u8a9e\u8207\u534a\u5f62\u6a19\u9ede\uff0c\u7d66 Claude Code / Codex / Cursor \u7528\u3002",
             "url": "https://github.com/Raymondhou0917/speak-human-tw",
-            "stars": 556,
+            "stars": 560,
             "forks": 64,
-            "score": 63
+            "score": 64
         },
         {
             "main_cat": "AI",
@@ -80,6 +80,17 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
+            "name": "yuwen-publish-precheck",
+            "full_name": "yuwen-cool/yuwen-publish-precheck",
+            "description": "\u53d1\u5e03\u524d\u5ba1\uff5c\u53d1\u6296\u97f3/\u5c0f\u7ea2\u4e66/\u89c6\u9891\u53f7\u524d\u5148\u8ba9 AI \u5ba1\u4e00\u904d\uff1a\u54ea\u53e5\u8e29\u7ebf\u3001\u4f9d\u636e\u54ea\u6761\u5b98\u65b9\u89c4\u5219\u3001\u7ed9\u80fd\u76f4\u63a5\u7528\u7684\u6539\u6cd5\u300238 \u7bc7\u771f\u5b9e\u6837\u672c\u6821\u51c6\u5224\u5b9a\u5c3a\u5ea6\uff0c72 \u6761\u5b98\u65b9\u539f\u6587\u5f15\u6587\u53ef\u67e5\u8bc1\uff0c\u4f60\u8e29\u8fc7\u7684\u5751\u6c89\u6dc0\u6210\u672c\u5730\u89c4\u5219\u5e93\u8d8a\u7528\u8d8a\u51c6\u3002\u4e0d\u627f\u8bfa\u8fc7\u5ba1\uff0c\u4e0d\u6559\u7ed5\u5ba1\u3002",
+            "url": "https://github.com/yuwen-cool/yuwen-publish-precheck",
+            "stars": 206,
+            "forks": 19,
+            "score": 58
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
             "name": "waku-agent",
             "full_name": "ShenSeanChen/waku-agent",
             "description": "Waku Waku! Waku agent is your personal AI agent, on your own laptop, in code you can read in an afternoon \u2014 harness + loop + memory + eval",
@@ -91,22 +102,11 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "yuwen-publish-precheck",
-            "full_name": "yuwen-cool/yuwen-publish-precheck",
-            "description": "\u53d1\u5e03\u524d\u5ba1\uff5c\u53d1\u6296\u97f3/\u5c0f\u7ea2\u4e66/\u89c6\u9891\u53f7\u524d\u5148\u8ba9 AI \u5ba1\u4e00\u904d\uff1a\u54ea\u53e5\u8e29\u7ebf\u3001\u4f9d\u636e\u54ea\u6761\u5b98\u65b9\u89c4\u5219\u3001\u7ed9\u80fd\u76f4\u63a5\u7528\u7684\u6539\u6cd5\u300238 \u7bc7\u771f\u5b9e\u6837\u672c\u6821\u51c6\u5224\u5b9a\u5c3a\u5ea6\uff0c72 \u6761\u5b98\u65b9\u539f\u6587\u5f15\u6587\u53ef\u67e5\u8bc1\uff0c\u4f60\u8e29\u8fc7\u7684\u5751\u6c89\u6dc0\u6210\u672c\u5730\u89c4\u5219\u5e93\u8d8a\u7528\u8d8a\u51c6\u3002\u4e0d\u627f\u8bfa\u8fc7\u5ba1\uff0c\u4e0d\u6559\u7ed5\u5ba1\u3002",
-            "url": "https://github.com/yuwen-cool/yuwen-publish-precheck",
-            "stars": 201,
-            "forks": 19,
-            "score": 57
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
             "name": "motion-anything",
             "full_name": "nexu-io/motion-anything",
             "description": "\u2728 The agentic motion layer \u2014 an open-source, chat-native motion engine. Describe the feeling; your AI ships the animation.",
             "url": "https://github.com/nexu-io/motion-anything",
-            "stars": 483,
+            "stars": 484,
             "forks": 50,
             "score": 54
         },
@@ -190,6 +190,17 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
+            "name": "VulnHunter",
+            "full_name": "capitalone/VulnHunter",
+            "description": "Agentic AI security tool that applies proactive, attacker-first analysis directly to source code.",
+            "url": "https://github.com/capitalone/VulnHunter",
+            "stars": 302,
+            "forks": 37,
+            "score": 47
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
             "name": "motion-previs-studio",
             "full_name": "wassermanproductions/motion-previs-studio",
             "description": "Open-source desktop app for AI-film motion, depth, pose, and camera-move previsualization.",
@@ -201,23 +212,12 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "VulnHunter",
-            "full_name": "capitalone/VulnHunter",
-            "description": "Agentic AI security tool that applies proactive, attacker-first analysis directly to source code.",
-            "url": "https://github.com/capitalone/VulnHunter",
-            "stars": 293,
-            "forks": 37,
-            "score": 46
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
             "name": "agent-pulse",
             "full_name": "barretlee/agent-pulse",
             "description": "Evidence-backed AI industry intelligence \u2014 trends, source updates, daily data refreshes, and weekly decision briefs.",
             "url": "https://github.com/barretlee/agent-pulse",
             "stars": 205,
-            "forks": 23,
+            "forks": 24,
             "score": 46
         },
         {
@@ -245,23 +245,23 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "watch-skill",
-            "full_name": "oxbshw/watch-skill",
-            "description": "Video understanding and self-verification for AI agents. Turn videos, streams, and agent screen recordings into searchable, timestamped evidence\u2014then use THE LOOP to inspect, fix, and verify the work. MCP, CLI, REST, local-first.",
-            "url": "https://github.com/oxbshw/watch-skill",
-            "stars": 208,
-            "forks": 28,
-            "score": 41
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
             "name": "Autonomous-Forge",
             "full_name": "OmarH-creator/Autonomous-Forge",
             "description": "This repo is automated and is fully AI-built and AI-maintained project that continuously plans, codes, tests, and improves itself.",
             "url": "https://github.com/OmarH-creator/Autonomous-Forge",
             "stars": 251,
             "forks": 10,
+            "score": 40
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "watch-skill",
+            "full_name": "oxbshw/watch-skill",
+            "description": "Video understanding and self-verification for AI agents. Turn videos, streams, and agent screen recordings into searchable, timestamped evidence\u2014then use THE LOOP to inspect, fix, and verify the work. MCP, CLI, REST, local-first.",
+            "url": "https://github.com/oxbshw/watch-skill",
+            "stars": 208,
+            "forks": 28,
             "score": 40
         },
         {
@@ -326,8 +326,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "NInagusev47/Silent-Crypto-Miner",
             "description": "Silent Crypto Miner is an advanced cryptocurrency mining builder and runtime engine with multi-algorithm CPU/GPU support and intelligent resource management. Create custom mining executables with configurable algorithms, cross-platform output, real-time monitoring, session persistence, thermal throttling, scheduling, and hashrate optimization.",
             "url": "https://github.com/NInagusev47/Silent-Crypto-Miner",
-            "stars": 93,
-            "forks": 15,
+            "stars": 92,
+            "forks": 14,
             "score": 37
         },
         {
@@ -350,7 +350,7 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/NHClimber87/llm-serve-dashboard",
             "stars": 58,
             "forks": 10,
-            "score": 35
+            "score": 34
         },
         {
             "main_cat": "AI",
@@ -706,5 +706,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-07-17 22:42"
+    "timestamp": "2026-07-17 23:45"
 };
