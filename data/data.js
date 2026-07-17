@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "Blueturboguy07/cue",
             "description": "Open-source macOS AI copilot that floats over your screen, sees/hears your meetings, and stays hidden from screen shares. Cluely alternative, bring-your-own-key.",
             "url": "https://github.com/Blueturboguy07/cue",
-            "stars": 406,
-            "forks": 81,
+            "stars": 420,
+            "forks": 83,
             "score": 99
         },
         {
@@ -29,7 +29,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "simonlin1212/Vibe-Research",
             "description": "Vibe-Research: Your Personal Trading Research Agent \u00b7 A\u80a1/\u7f8e\u80a1/\u6e2f\u80a1 \u7684\u4e2a\u4eba\u6295\u7814 Agent\uff1a\u6bcf\u65e5\u590d\u76d8\u3001\u8d44\u8baf\u96f7\u8fbe\u3001\u4e2a\u80a1\u6570\u636e\u3001\u677f\u5757\u4e2d\u5fc3\u3001\u6211\u7684\u6301\u4ed3\u3001\u7814\u7a76\u8bb0\u5f55\u3002Vibe-Research \u628a\u6570\u636e\u548c\u529f\u80fd\u914d\u9f50\uff0c\u7531\u4f60\u81ea\u5df1\u7684 AI \u9a71\u52a8\u6295\u8d44\u7814\u7a76\u3002",
             "url": "https://github.com/simonlin1212/Vibe-Research",
-            "stars": 874,
+            "stars": 875,
             "forks": 195,
             "score": 85
         },
@@ -40,7 +40,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "dongguatanglinux/grok-build-auth",
             "description": "Protocol research client: x.ai signup \u2192 SSO \u2192 Grok Build OAuth \u2192 CLIProxyAPI auth export (authorized use only)",
             "url": "https://github.com/dongguatanglinux/grok-build-auth",
-            "stars": 258,
+            "stars": 259,
             "forks": 120,
             "score": 66
         },
@@ -51,7 +51,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "yetone/kill-ai-slop",
             "description": "A field guide to the visual & copy tics of AI-generated products \u2014 and an Agent Skill that scans your project and strips them out. https://killaislop.com",
             "url": "https://github.com/yetone/kill-ai-slop",
-            "stars": 580,
+            "stars": 585,
             "forks": 22,
             "score": 63
         },
@@ -84,20 +84,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "CodeDrobe/skills",
             "description": "Open-source OpenAI Codex theming Skill, AI theme generator, and cross-platform runtime for custom Codex desktop themes.",
             "url": "https://github.com/CodeDrobe/skills",
-            "stars": 169,
+            "stars": 171,
             "forks": 16,
             "score": 59
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "waku-agent",
-            "full_name": "ShenSeanChen/waku-agent",
-            "description": "Waku Waku! Waku agent is your personal AI agent, on your own laptop, in code you can read in an afternoon \u2014 harness + loop + memory + eval",
-            "url": "https://github.com/ShenSeanChen/waku-agent",
-            "stars": 249,
-            "forks": 62,
-            "score": 57
         },
         {
             "main_cat": "AI",
@@ -124,11 +113,22 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
+            "name": "waku-agent",
+            "full_name": "ShenSeanChen/waku-agent",
+            "description": "Waku Waku! Waku agent is your personal AI agent, on your own laptop, in code you can read in an afternoon \u2014 harness + loop + memory + eval",
+            "url": "https://github.com/ShenSeanChen/waku-agent",
+            "stars": 254,
+            "forks": 64,
+            "score": 55
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
             "name": "rnskill",
             "full_name": "Pluviobyte/rnskill",
             "description": "\u96ea\u8e0f\u4e4c\u4e91\u7684 AI Agent Skills \u96c6\u5408",
             "url": "https://github.com/Pluviobyte/rnskill",
-            "stars": 544,
+            "stars": 546,
             "forks": 50,
             "score": 54
         },
@@ -139,7 +139,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "nihe0909/xiaohongshu-ai-workbench",
             "description": "\u300a\u5c0f\u7ea2\u4e66\u8fd0\u8425\u624b\u518c \u00b7 AI\u5de5\u4f5c\u53f0\u300b: free Codex Skills for Xiaohongshu operations",
             "url": "https://github.com/nihe0909/xiaohongshu-ai-workbench",
-            "stars": 230,
+            "stars": 231,
             "forks": 16,
             "score": 54
         },
@@ -150,7 +150,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "bkingfilm/lapian-notes",
             "description": "AI \u8f85\u52a9\u7684\u7535\u5f71\u62c9\u7247\u5de5\u5177\uff1a\u5bfc\u5165\u5f71\u7247\uff0cAI \u62c6\u51fa\u5267\u60c5\u6cf3\u9053\u65f6\u95f4\u8f74\u3001\u7ed3\u6784\u6811\u3001\u89c2\u4f17\u60c5\u7eea\u66f2\u7ebf\uff0c\u8fb9\u64ad\u8fb9\u5199\u4f60\u7684\u62c9\u7247\u7b14\u8bb0\u3002\u514d\u8d39\u5f00\u6e90\uff0c\u6570\u636e\u5168\u5728\u672c\u5730",
             "url": "https://github.com/bkingfilm/lapian-notes",
-            "stars": 361,
+            "stars": 362,
             "forks": 49,
             "score": 53
         },
@@ -227,7 +227,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "EXXETA/exxperts",
             "description": "Persistent AI rooms with governed, approval-gated memory: local-first, on your machine.",
             "url": "https://github.com/EXXETA/exxperts",
-            "stars": 214,
+            "stars": 215,
             "forks": 19,
             "score": 41
         },
@@ -271,7 +271,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Danau5tin/ai-trains-ai",
             "description": "RL-training an AI agent to RL-train AI agents.",
             "url": "https://github.com/Danau5tin/ai-trains-ai",
-            "stars": 184,
+            "stars": 185,
             "forks": 14,
             "score": 39
         },
@@ -326,7 +326,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "ostris/ComfyUI-Krea2-Ostris-Edit",
             "description": "Comfy UI Nodes for Krea 2 LoRAs trained with AI Toolkit Experimental Edit",
             "url": "https://github.com/ostris/ComfyUI-Krea2-Ostris-Edit",
-            "stars": 172,
+            "stars": 173,
             "forks": 4,
             "score": 36
         },
@@ -337,7 +337,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "NHClimber87/llm-serve-dashboard",
             "description": "Single-file, dependency-free live dashboard for local llama.cpp/vLLM serving \u2014 GPU, throughput, KV/ctx, model library. Stdlib Python + one local-first HTML page.",
             "url": "https://github.com/NHClimber87/llm-serve-dashboard",
-            "stars": 55,
+            "stars": 57,
             "forks": 9,
             "score": 35
         },
@@ -364,17 +364,6 @@ const ALPHA_DATA_V2 = {
             "score": 34
         },
         {
-            "main_cat": "DePIN",
-            "sub_cat": null,
-            "name": "Silent-Crypto-Miner",
-            "full_name": "NInagusev47/Silent-Crypto-Miner",
-            "description": "Silent Crypto Miner is an advanced cryptocurrency mining builder and runtime engine with multi-algorithm CPU/GPU support and intelligent resource management. Create custom mining executables with configurable algorithms, cross-platform output, real-time monitoring, session persistence, thermal throttling, scheduling, and hashrate optimization.",
-            "url": "https://github.com/NInagusev47/Silent-Crypto-Miner",
-            "stars": 23,
-            "forks": 4,
-            "score": 32
-        },
-        {
             "main_cat": "AI",
             "sub_cat": "AI General",
             "name": "athanor-lite",
@@ -392,6 +381,17 @@ const ALPHA_DATA_V2 = {
             "full_name": "tinyBigGAMES/Gemma4.pas",
             "description": "Gemma4.pas is a high-performance AI inference engine developed entirely in Delphi to run Google\u2019s Gemma 4 model natively on Windows. Unlike most platforms, this project features zero external dependencies and utilizes Vulkan compute shaders to accelerate complex mathematical operations directly on the user's GPU.",
             "url": "https://github.com/tinyBigGAMES/Gemma4.pas",
+            "stars": 23,
+            "forks": 4,
+            "score": 31
+        },
+        {
+            "main_cat": "DePIN",
+            "sub_cat": null,
+            "name": "Silent-Crypto-Miner",
+            "full_name": "NInagusev47/Silent-Crypto-Miner",
+            "description": "Silent Crypto Miner is an advanced cryptocurrency mining builder and runtime engine with multi-algorithm CPU/GPU support and intelligent resource management. Create custom mining executables with configurable algorithms, cross-platform output, real-time monitoring, session persistence, thermal throttling, scheduling, and hashrate optimization.",
+            "url": "https://github.com/NInagusev47/Silent-Crypto-Miner",
             "stars": 23,
             "forks": 4,
             "score": 31
@@ -480,17 +480,6 @@ const ALPHA_DATA_V2 = {
             "full_name": "logiover/polymarket-events-odds-ai-scraper",
             "description": "Polymarket scraper \u2014 prediction market odds, live sports scores, AI betting analysis & Twitter signals in one run. Export to JSON/CSV. No API key, no wallet.",
             "url": "https://github.com/logiover/polymarket-events-odds-ai-scraper",
-            "stars": 0,
-            "forks": 0,
-            "score": 30
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "ninety",
-            "full_name": "bigdann09/ninety",
-            "description": "Ninety Protocol is a decentralized prediction market allowing users to speculate on the outcome of various events. This Next.js application provides a sleek, real-time, and mobile-responsive interface for users to connect their Solana wallets, view live markets, place bets (positions), and claim their winnings.",
-            "url": "https://github.com/bigdann09/ninety",
             "stars": 0,
             "forks": 0,
             "score": 30
@@ -676,7 +665,7 @@ const ALPHA_DATA_V2 = {
             "sub_cat": "AI General",
             "name": "API-Bridge",
             "full_name": "zhangshengying97/API-Bridge",
-            "description": "apibridge \u2014\u2014 \u672c\u5730 AI \u6a21\u578b API \u8def\u7531\u4ee3\u7406\u684c\u9762\u7aef\u3002\u8de8\u5e73\u53f0\uff0c\u652f\u6301 OpenAI/Anthropic/Gemini \u591a\u534f\u8bae\u4e92\u8f6c\uff0c\u865a\u62df\u6a21\u578b\u62bd\u8c61\u4e0e\u591a\u7b56\u7565\u667a\u80fd\u8def\u7531\u3002  &#x20;apibridge \u2014 Local AI Model API Routing Proxy Desktop App. Cross-platform, multi-protocol conversion (OpenAI/Anthropic/Gemini), virtual model abstraction with intelligent routing.&#x20;",
+            "description": "apibridge \u2014\u2014 \u672c\u5730 AI \u6a21\u578b API \u8def\u7531\u4ee3\u7406\u684c\u9762\u7aef\u3002\u8de8\u5e73\u53f0\uff0c\u652f\u6301 OpenAI/Anthropic/Gemini \u591a\u534f\u8bae\u4e92\u8f6c\uff0c\u865a\u62df\u6a21\u578b\u62bd\u8c61\u4e0e\u591a\u7b56\u7565\u667a\u80fd\u8def\u7531\u3002  apibridge \u2014 Local AI Model API Routing Proxy Desktop App. Cross-platform, multi-protocol conversion (OpenAI/Anthropic/Gemini), virtual model abstraction with intelligent routing.",
             "url": "https://github.com/zhangshengying97/API-Bridge",
             "stars": 0,
             "forks": 0,
@@ -717,5 +706,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-07-17 11:17"
+    "timestamp": "2026-07-17 13:13"
 };
