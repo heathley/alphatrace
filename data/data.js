@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "Blueturboguy07/cue",
             "description": "Open-source macOS AI copilot that floats over your screen, sees/hears your meetings, and stays hidden from screen shares. Cluely alternative, bring-your-own-key.",
             "url": "https://github.com/Blueturboguy07/cue",
-            "stars": 446,
-            "forks": 91,
+            "stars": 457,
+            "forks": 94,
             "score": 99
         },
         {
@@ -18,9 +18,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "William-Lu-stack/Flawless",
             "description": "AI SRE AgenticOps for Kubernetes and cloud infrastructure.",
             "url": "https://github.com/William-Lu-stack/Flawless",
-            "stars": 703,
-            "forks": 133,
-            "score": 91
+            "stars": 705,
+            "forks": 135,
+            "score": 92
         },
         {
             "main_cat": "AI",
@@ -29,7 +29,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "simonlin1212/Vibe-Research",
             "description": "Vibe-Research: Your Personal Trading Research Agent \u00b7 A\u80a1/\u7f8e\u80a1/\u6e2f\u80a1 \u7684\u4e2a\u4eba\u6295\u7814 Agent\uff1a\u6bcf\u65e5\u590d\u76d8\u3001\u8d44\u8baf\u96f7\u8fbe\u3001\u4e2a\u80a1\u6570\u636e\u3001\u677f\u5757\u4e2d\u5fc3\u3001\u6211\u7684\u6301\u4ed3\u3001\u7814\u7a76\u8bb0\u5f55\u3002Vibe-Research \u628a\u6570\u636e\u548c\u529f\u80fd\u914d\u9f50\uff0c\u7531\u4f60\u81ea\u5df1\u7684 AI \u9a71\u52a8\u6295\u8d44\u7814\u7a76\u3002",
             "url": "https://github.com/simonlin1212/Vibe-Research",
-            "stars": 879,
+            "stars": 880,
             "forks": 196,
             "score": 85
         },
@@ -51,7 +51,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "yetone/kill-ai-slop",
             "description": "A field guide to the visual & copy tics of AI-generated products \u2014 and an Agent Skill that scans your project and strips them out. https://killaislop.com",
             "url": "https://github.com/yetone/kill-ai-slop",
-            "stars": 596,
+            "stars": 598,
             "forks": 22,
             "score": 64
         },
@@ -62,7 +62,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Raymondhou0917/speak-human-tw",
             "description": "\u300c\u8aaa\u4eba\u8a71\u300d\uff1a\u7e41\u9ad4\u4e2d\u6587\u7684\u53bb AI \u5473\u6539\u5beb skill\u3002\u6293 38 \u7a2e AI \u5beb\u4f5c\u75d5\u8de1\uff0c\u9806\u624b\u6821\u6b63\u4e2d\u570b\u7528\u8a9e\u8207\u534a\u5f62\u6a19\u9ede\uff0c\u7d66 Claude Code / Codex / Cursor \u7528\u3002",
             "url": "https://github.com/Raymondhou0917/speak-human-tw",
-            "stars": 551,
+            "stars": 552,
             "forks": 64,
             "score": 63
         },
@@ -84,9 +84,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "CodeDrobe/skills",
             "description": "Open-source OpenAI Codex theming Skill, AI theme generator, and cross-platform runtime for custom Codex desktop themes.",
             "url": "https://github.com/CodeDrobe/skills",
-            "stars": 175,
+            "stars": 177,
             "forks": 16,
-            "score": 59
+            "score": 60
         },
         {
             "main_cat": "AI",
@@ -95,20 +95,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "ShenSeanChen/waku-agent",
             "description": "Waku Waku! Waku agent is your personal AI agent, on your own laptop, in code you can read in an afternoon \u2014 harness + loop + memory + eval",
             "url": "https://github.com/ShenSeanChen/waku-agent",
-            "stars": 262,
-            "forks": 66,
+            "stars": 264,
+            "forks": 67,
             "score": 56
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "rnskill",
-            "full_name": "Pluviobyte/rnskill",
-            "description": "\u96ea\u8e0f\u4e4c\u4e91\u7684 AI Agent Skills \u96c6\u5408",
-            "url": "https://github.com/Pluviobyte/rnskill",
-            "stars": 550,
-            "forks": 51,
-            "score": 55
         },
         {
             "main_cat": "AI",
@@ -117,9 +106,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "yuwen-cool/yuwen-publish-precheck",
             "description": "\u53d1\u5e03\u524d\u5ba1\uff5c\u53d1\u6296\u97f3/\u5c0f\u7ea2\u4e66/\u89c6\u9891\u53f7\u524d\u5148\u8ba9 AI \u5ba1\u4e00\u904d\uff1a\u54ea\u53e5\u8e29\u7ebf\u3001\u4f9d\u636e\u54ea\u6761\u5b98\u65b9\u89c4\u5219\u3001\u7ed9\u80fd\u76f4\u63a5\u7528\u7684\u6539\u6cd5\u300238 \u7bc7\u771f\u5b9e\u6837\u672c\u6821\u51c6\u5224\u5b9a\u5c3a\u5ea6\uff0c72 \u6761\u5b98\u65b9\u539f\u6587\u5f15\u6587\u53ef\u67e5\u8bc1\uff0c\u4f60\u8e29\u8fc7\u7684\u5751\u6c89\u6dc0\u6210\u672c\u5730\u89c4\u5219\u5e93\u8d8a\u7528\u8d8a\u51c6\u3002\u4e0d\u627f\u8bfa\u8fc7\u5ba1\uff0c\u4e0d\u6559\u7ed5\u5ba1\u3002",
             "url": "https://github.com/yuwen-cool/yuwen-publish-precheck",
-            "stars": 189,
-            "forks": 16,
-            "score": 55
+            "stars": 195,
+            "forks": 18,
+            "score": 56
         },
         {
             "main_cat": "AI",
@@ -135,11 +124,22 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
+            "name": "rnskill",
+            "full_name": "Pluviobyte/rnskill",
+            "description": "\u96ea\u8e0f\u4e4c\u4e91\u7684 AI Agent Skills \u96c6\u5408",
+            "url": "https://github.com/Pluviobyte/rnskill",
+            "stars": 550,
+            "forks": 51,
+            "score": 53
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
             "name": "FableCut",
             "full_name": "ronak-create/FableCut",
             "description": "Zero-dependency browser video editor that AI agents can drive \u2014 JSON timeline, MCP + REST, live-reloading UI",
             "url": "https://github.com/ronak-create/FableCut",
-            "stars": 467,
+            "stars": 468,
             "forks": 46,
             "score": 53
         },
@@ -150,7 +150,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "bkingfilm/lapian-notes",
             "description": "AI \u8f85\u52a9\u7684\u7535\u5f71\u62c9\u7247\u5de5\u5177\uff1a\u5bfc\u5165\u5f71\u7247\uff0cAI \u62c6\u51fa\u5267\u60c5\u6cf3\u9053\u65f6\u95f4\u8f74\u3001\u7ed3\u6784\u6811\u3001\u89c2\u4f17\u60c5\u7eea\u66f2\u7ebf\uff0c\u8fb9\u64ad\u8fb9\u5199\u4f60\u7684\u62c9\u7247\u7b14\u8bb0\u3002\u514d\u8d39\u5f00\u6e90\uff0c\u6570\u636e\u5168\u5728\u672c\u5730",
             "url": "https://github.com/bkingfilm/lapian-notes",
-            "stars": 364,
+            "stars": 365,
             "forks": 49,
             "score": 53
         },
@@ -172,7 +172,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "yusukebe/ax",
             "description": "The AI-era curl",
             "url": "https://github.com/yusukebe/ax",
-            "stars": 531,
+            "stars": 532,
             "forks": 10,
             "score": 50
         },
@@ -194,8 +194,19 @@ const ALPHA_DATA_V2 = {
             "full_name": "wassermanproductions/motion-previs-studio",
             "description": "Open-source desktop app for AI-film motion, depth, pose, and camera-move previsualization.",
             "url": "https://github.com/wassermanproductions/motion-previs-studio",
-            "stars": 296,
+            "stars": 297,
             "forks": 43,
+            "score": 46
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "VulnHunter",
+            "full_name": "capitalone/VulnHunter",
+            "description": "Agentic AI security tool that applies proactive, attacker-first analysis directly to source code.",
+            "url": "https://github.com/capitalone/VulnHunter",
+            "stars": 252,
+            "forks": 35,
             "score": 46
         },
         {
@@ -208,17 +219,6 @@ const ALPHA_DATA_V2 = {
             "stars": 204,
             "forks": 22,
             "score": 46
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "VulnHunter",
-            "full_name": "capitalone/VulnHunter",
-            "description": "Agentic AI security tool that applies proactive, attacker-first analysis directly to source code.",
-            "url": "https://github.com/capitalone/VulnHunter",
-            "stars": 224,
-            "forks": 33,
-            "score": 44
         },
         {
             "main_cat": "AI",
@@ -337,8 +337,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "NHClimber87/llm-serve-dashboard",
             "description": "Single-file, dependency-free live dashboard for local llama.cpp/vLLM serving \u2014 GPU, throughput, KV/ctx, model library. Stdlib Python + one local-first HTML page.",
             "url": "https://github.com/NHClimber87/llm-serve-dashboard",
-            "stars": 57,
-            "forks": 9,
+            "stars": 58,
+            "forks": 10,
             "score": 35
         },
         {
@@ -706,5 +706,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-07-17 17:05"
+    "timestamp": "2026-07-17 18:58"
 };
