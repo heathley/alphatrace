@@ -7,7 +7,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Blueturboguy07/cue",
             "description": "Open-source macOS AI copilot that floats over your screen, sees/hears your meetings, and stays hidden from screen shares. Cluely alternative, bring-your-own-key.",
             "url": "https://github.com/Blueturboguy07/cue",
-            "stars": 465,
+            "stars": 476,
             "forks": 98,
             "score": 99
         },
@@ -19,7 +19,7 @@ const ALPHA_DATA_V2 = {
             "description": "AI SRE AgenticOps for Kubernetes and cloud infrastructure.",
             "url": "https://github.com/William-Lu-stack/Flawless",
             "stars": 707,
-            "forks": 135,
+            "forks": 136,
             "score": 92
         },
         {
@@ -80,23 +80,12 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "skills",
-            "full_name": "CodeDrobe/skills",
-            "description": "Open-source OpenAI Codex theming Skill, AI theme generator, and cross-platform runtime for custom Codex desktop themes.",
-            "url": "https://github.com/CodeDrobe/skills",
-            "stars": 177,
-            "forks": 16,
-            "score": 60
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
             "name": "waku-agent",
             "full_name": "ShenSeanChen/waku-agent",
             "description": "Waku Waku! Waku agent is your personal AI agent, on your own laptop, in code you can read in an afternoon \u2014 harness + loop + memory + eval",
             "url": "https://github.com/ShenSeanChen/waku-agent",
-            "stars": 265,
-            "forks": 69,
+            "stars": 268,
+            "forks": 70,
             "score": 57
         },
         {
@@ -106,7 +95,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "yuwen-cool/yuwen-publish-precheck",
             "description": "\u53d1\u5e03\u524d\u5ba1\uff5c\u53d1\u6296\u97f3/\u5c0f\u7ea2\u4e66/\u89c6\u9891\u53f7\u524d\u5148\u8ba9 AI \u5ba1\u4e00\u904d\uff1a\u54ea\u53e5\u8e29\u7ebf\u3001\u4f9d\u636e\u54ea\u6761\u5b98\u65b9\u89c4\u5219\u3001\u7ed9\u80fd\u76f4\u63a5\u7528\u7684\u6539\u6cd5\u300238 \u7bc7\u771f\u5b9e\u6837\u672c\u6821\u51c6\u5224\u5b9a\u5c3a\u5ea6\uff0c72 \u6761\u5b98\u65b9\u539f\u6587\u5f15\u6587\u53ef\u67e5\u8bc1\uff0c\u4f60\u8e29\u8fc7\u7684\u5751\u6c89\u6dc0\u6210\u672c\u5730\u89c4\u5219\u5e93\u8d8a\u7528\u8d8a\u51c6\u3002\u4e0d\u627f\u8bfa\u8fc7\u5ba1\uff0c\u4e0d\u6559\u7ed5\u5ba1\u3002",
             "url": "https://github.com/yuwen-cool/yuwen-publish-precheck",
-            "stars": 196,
+            "stars": 200,
             "forks": 19,
             "score": 57
         },
@@ -124,12 +113,23 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
+            "name": "skills",
+            "full_name": "CodeDrobe/skills",
+            "description": "Open-source OpenAI Codex theming Skill, AI theme generator, and cross-platform runtime for custom Codex desktop themes.",
+            "url": "https://github.com/CodeDrobe/skills",
+            "stars": 177,
+            "forks": 16,
+            "score": 54
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
             "name": "rnskill",
             "full_name": "Pluviobyte/rnskill",
             "description": "\u96ea\u8e0f\u4e4c\u4e91\u7684 AI Agent Skills \u96c6\u5408",
             "url": "https://github.com/Pluviobyte/rnskill",
             "stars": 551,
-            "forks": 51,
+            "forks": 52,
             "score": 53
         },
         {
@@ -185,7 +185,7 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/eli-labz/Cognitive-Core-Skills",
             "stars": 274,
             "forks": 77,
-            "score": 50
+            "score": 49
         },
         {
             "main_cat": "AI",
@@ -205,8 +205,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "capitalone/VulnHunter",
             "description": "Agentic AI security tool that applies proactive, attacker-first analysis directly to source code.",
             "url": "https://github.com/capitalone/VulnHunter",
-            "stars": 267,
-            "forks": 35,
+            "stars": 280,
+            "forks": 37,
             "score": 46
         },
         {
@@ -216,7 +216,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "barretlee/agent-pulse",
             "description": "Evidence-backed AI industry intelligence \u2014 trends, source updates, daily data refreshes, and weekly decision briefs.",
             "url": "https://github.com/barretlee/agent-pulse",
-            "stars": 204,
+            "stars": 205,
             "forks": 22,
             "score": 46
         },
@@ -230,17 +230,6 @@ const ALPHA_DATA_V2 = {
             "stars": 257,
             "forks": 35,
             "score": 43
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "Autonomous-Forge",
-            "full_name": "OmarH-creator/Autonomous-Forge",
-            "description": "This repo is automated and is fully AI-built and AI-maintained project that continuously plans, codes, tests, and improves itself.",
-            "url": "https://github.com/OmarH-creator/Autonomous-Forge",
-            "stars": 251,
-            "forks": 10,
-            "score": 41
         },
         {
             "main_cat": "AI",
@@ -267,6 +256,17 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
+            "name": "Autonomous-Forge",
+            "full_name": "OmarH-creator/Autonomous-Forge",
+            "description": "This repo is automated and is fully AI-built and AI-maintained project that continuously plans, codes, tests, and improves itself.",
+            "url": "https://github.com/OmarH-creator/Autonomous-Forge",
+            "stars": 251,
+            "forks": 10,
+            "score": 40
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
             "name": "undress-design",
             "full_name": "chordswallowthrust/undress-design",
             "description": "AI-powered fashion visualization and virtual try-on toolkit for consent-based garment editing, outfit prototyping, and creative design workflows. https://undress.design/edit?utm_source=gist.github.com/chordswallowthrust/undress-design",
@@ -282,7 +282,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Danau5tin/ai-trains-ai",
             "description": "RL-training an AI agent to RL-train AI agents.",
             "url": "https://github.com/Danau5tin/ai-trains-ai",
-            "stars": 186,
+            "stars": 187,
             "forks": 14,
             "score": 39
         },
@@ -320,6 +320,17 @@ const ALPHA_DATA_V2 = {
             "score": 37
         },
         {
+            "main_cat": "DePIN",
+            "sub_cat": null,
+            "name": "Silent-Crypto-Miner",
+            "full_name": "NInagusev47/Silent-Crypto-Miner",
+            "description": "Silent Crypto Miner is an advanced cryptocurrency mining builder and runtime engine with multi-algorithm CPU/GPU support and intelligent resource management. Create custom mining executables with configurable algorithms, cross-platform output, real-time monitoring, session persistence, thermal throttling, scheduling, and hashrate optimization.",
+            "url": "https://github.com/NInagusev47/Silent-Crypto-Miner",
+            "stars": 95,
+            "forks": 13,
+            "score": 37
+        },
+        {
             "main_cat": "AI",
             "sub_cat": null,
             "name": "ComfyUI-Krea2-Ostris-Edit",
@@ -349,7 +360,7 @@ const ALPHA_DATA_V2 = {
             "description": "Stellar Pulse is a decentralized prediction market built on Stellar/Soroban. Users connect a wallet, bet XLM on YES/NO markets, earn PULSE tokens and points, and claim payouts on-chain.",
             "url": "https://github.com/Steller-StellarPulse-org/StellarPulse",
             "stars": 6,
-            "forks": 24,
+            "forks": 25,
             "score": 34
         },
         {
@@ -361,17 +372,6 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/Vicwell99/horizonflow-core",
             "stars": 0,
             "forks": 10,
-            "score": 34
-        },
-        {
-            "main_cat": "DePIN",
-            "sub_cat": null,
-            "name": "Silent-Crypto-Miner",
-            "full_name": "NInagusev47/Silent-Crypto-Miner",
-            "description": "Silent Crypto Miner is an advanced cryptocurrency mining builder and runtime engine with multi-algorithm CPU/GPU support and intelligent resource management. Create custom mining executables with configurable algorithms, cross-platform output, real-time monitoring, session persistence, thermal throttling, scheduling, and hashrate optimization.",
-            "url": "https://github.com/NInagusev47/Silent-Crypto-Miner",
-            "stars": 44,
-            "forks": 6,
             "score": 33
         },
         {
@@ -706,5 +706,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-07-17 20:06"
+    "timestamp": "2026-07-17 21:44"
 };
