@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "Blueturboguy07/cue",
             "description": "Open-source macOS AI copilot that floats over your screen, sees/hears your meetings, and stays hidden from screen shares. Cluely alternative, bring-your-own-key.",
             "url": "https://github.com/Blueturboguy07/cue",
-            "stars": 351,
-            "forks": 74,
+            "stars": 385,
+            "forks": 79,
             "score": 99
         },
         {
@@ -29,8 +29,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "William-Lu-stack/Flawless",
             "description": "AI SRE AgenticOps for Kubernetes and cloud infrastructure.",
             "url": "https://github.com/William-Lu-stack/Flawless",
-            "stars": 694,
-            "forks": 132,
+            "stars": 698,
+            "forks": 133,
             "score": 91
         },
         {
@@ -40,9 +40,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "simonlin1212/Vibe-Research",
             "description": "Vibe-Research: Your Personal Trading Research Agent \u00b7 A\u80a1/\u7f8e\u80a1/\u6e2f\u80a1 \u7684\u4e2a\u4eba\u6295\u7814 Agent\uff1a\u6bcf\u65e5\u590d\u76d8\u3001\u8d44\u8baf\u96f7\u8fbe\u3001\u4e2a\u80a1\u6570\u636e\u3001\u677f\u5757\u4e2d\u5fc3\u3001\u6211\u7684\u6301\u4ed3\u3001\u7814\u7a76\u8bb0\u5f55\u3002Vibe-Research \u628a\u6570\u636e\u548c\u529f\u80fd\u914d\u9f50\uff0c\u7531\u4f60\u81ea\u5df1\u7684 AI \u9a71\u52a8\u6295\u8d44\u7814\u7a76\u3002",
             "url": "https://github.com/simonlin1212/Vibe-Research",
-            "stars": 871,
-            "forks": 193,
-            "score": 88
+            "stars": 873,
+            "forks": 194,
+            "score": 84
         },
         {
             "main_cat": "AI",
@@ -51,20 +51,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "dongguatanglinux/grok-build-auth",
             "description": "Protocol research client: x.ai signup \u2192 SSO \u2192 Grok Build OAuth \u2192 CLIProxyAPI auth export (authorized use only)",
             "url": "https://github.com/dongguatanglinux/grok-build-auth",
-            "stars": 256,
-            "forks": 119,
-            "score": 70
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "kill-ai-slop",
-            "full_name": "yetone/kill-ai-slop",
-            "description": "A field guide to the visual & copy tics of AI-generated products \u2014 and an Agent Skill that scans your project and strips them out. https://killaislop.com",
-            "url": "https://github.com/yetone/kill-ai-slop",
-            "stars": 568,
-            "forks": 22,
-            "score": 66
+            "stars": 258,
+            "forks": 120,
+            "score": 71
         },
         {
             "main_cat": "AI",
@@ -73,9 +62,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "Raymondhou0917/speak-human-tw",
             "description": "\u300c\u8aaa\u4eba\u8a71\u300d\uff1a\u7e41\u9ad4\u4e2d\u6587\u7684\u53bb AI \u5473\u6539\u5beb skill\u3002\u6293 38 \u7a2e AI \u5beb\u4f5c\u75d5\u8de1\uff0c\u9806\u624b\u6821\u6b63\u4e2d\u570b\u7528\u8a9e\u8207\u534a\u5f62\u6a19\u9ede\uff0c\u7d66 Claude Code / Codex / Cursor \u7528\u3002",
             "url": "https://github.com/Raymondhou0917/speak-human-tw",
-            "stars": 546,
+            "stars": 548,
             "forks": 64,
             "score": 66
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "kill-ai-slop",
+            "full_name": "yetone/kill-ai-slop",
+            "description": "A field guide to the visual & copy tics of AI-generated products \u2014 and an Agent Skill that scans your project and strips them out. https://killaislop.com",
+            "url": "https://github.com/yetone/kill-ai-slop",
+            "stars": 573,
+            "forks": 22,
+            "score": 63
         },
         {
             "main_cat": "AI",
@@ -84,9 +84,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "fxy2311-youyou/expression-trainer",
             "description": "\u5b87\u5b99\u65e0\u654c\u8868\u8fbe\u8bad\u7ec3\u7cfb\u7edf \u2014 \u5b9e\u65f6\u8bed\u97f3\u8f6c\u6587\u5b57 + 27000\u8bcd\u60c5\u611f\u8bcd\u5e93 + AI\u8868\u8fbe\u5206\u6790\u62a5\u544a\u3002\u79bb\u7ebf\u8fd0\u884c\uff0c\u5bf9\u7740\u5b83\u8bf4\u8bdd\uff0c\u5b83\u5e2e\u4f60\u770b\u89c1\u81ea\u5df1\u7684\u8868\u8fbe\u95ee\u9898\u3002",
             "url": "https://github.com/fxy2311-youyou/expression-trainer",
-            "stars": 440,
+            "stars": 444,
             "forks": 97,
-            "score": 61
+            "score": 62
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "waku-agent",
+            "full_name": "ShenSeanChen/waku-agent",
+            "description": "Waku Waku! Waku agent is your personal AI agent, on your own laptop, in code you can read in an afternoon \u2014 harness + loop + memory + eval",
+            "url": "https://github.com/ShenSeanChen/waku-agent",
+            "stars": 246,
+            "forks": 60,
+            "score": 57
         },
         {
             "main_cat": "AI",
@@ -102,22 +113,11 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "waku-agent",
-            "full_name": "ShenSeanChen/waku-agent",
-            "description": "Waku Waku! Waku agent is your personal AI agent, on your own laptop, in code you can read in an afternoon \u2014 harness + loop + memory + eval",
-            "url": "https://github.com/ShenSeanChen/waku-agent",
-            "stars": 240,
-            "forks": 59,
-            "score": 56
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
             "name": "rnskill",
             "full_name": "Pluviobyte/rnskill",
             "description": "\u96ea\u8e0f\u4e4c\u4e91\u7684 AI Agent Skills \u96c6\u5408",
             "url": "https://github.com/Pluviobyte/rnskill",
-            "stars": 542,
+            "stars": 543,
             "forks": 49,
             "score": 54
         },
@@ -128,7 +128,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "ronak-create/FableCut",
             "description": "Zero-dependency browser video editor that AI agents can drive \u2014 JSON timeline, MCP + REST, live-reloading UI",
             "url": "https://github.com/ronak-create/FableCut",
-            "stars": 464,
+            "stars": 465,
             "forks": 46,
             "score": 54
         },
@@ -139,7 +139,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "nihe0909/xiaohongshu-ai-workbench",
             "description": "\u300a\u5c0f\u7ea2\u4e66\u8fd0\u8425\u624b\u518c \u00b7 AI\u5de5\u4f5c\u53f0\u300b: free Codex Skills for Xiaohongshu operations",
             "url": "https://github.com/nihe0909/xiaohongshu-ai-workbench",
-            "stars": 227,
+            "stars": 229,
             "forks": 16,
             "score": 54
         },
@@ -161,7 +161,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "yusukebe/ax",
             "description": "The AI-era curl",
             "url": "https://github.com/yusukebe/ax",
-            "stars": 530,
+            "stars": 531,
             "forks": 10,
             "score": 51
         },
@@ -179,24 +179,24 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
+            "name": "agent-pulse",
+            "full_name": "barretlee/agent-pulse",
+            "description": "Evidence-backed AI industry intelligence \u2014 trends, source updates, daily data refreshes, and weekly decision briefs.",
+            "url": "https://github.com/barretlee/agent-pulse",
+            "stars": 202,
+            "forks": 22,
+            "score": 48
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
             "name": "motion-previs-studio",
             "full_name": "wassermanproductions/motion-previs-studio",
             "description": "Open-source desktop app for AI-film motion, depth, pose, and camera-move previsualization.",
             "url": "https://github.com/wassermanproductions/motion-previs-studio",
             "stars": 295,
             "forks": 41,
-            "score": 47
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "agent-pulse",
-            "full_name": "barretlee/agent-pulse",
-            "description": "Evidence-backed AI industry intelligence \u2014 trends, source updates, daily data refreshes, and weekly decision briefs.",
-            "url": "https://github.com/barretlee/agent-pulse",
-            "stars": 201,
-            "forks": 20,
-            "score": 47
+            "score": 46
         },
         {
             "main_cat": "AI",
@@ -208,6 +208,17 @@ const ALPHA_DATA_V2 = {
             "stars": 253,
             "forks": 35,
             "score": 44
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "exxperts",
+            "full_name": "EXXETA/exxperts",
+            "description": "Persistent AI rooms with governed, approval-gated memory: local-first, on your machine.",
+            "url": "https://github.com/EXXETA/exxperts",
+            "stars": 214,
+            "forks": 19,
+            "score": 42
         },
         {
             "main_cat": "AI",
@@ -229,17 +240,6 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/oxbshw/watch-skill",
             "stars": 208,
             "forks": 28,
-            "score": 41
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "exxperts",
-            "full_name": "EXXETA/exxperts",
-            "description": "Persistent AI rooms with governed, approval-gated memory: local-first, on your machine.",
-            "url": "https://github.com/EXXETA/exxperts",
-            "stars": 208,
-            "forks": 19,
             "score": 41
         },
         {
@@ -282,8 +282,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "ai-builders-foundation/ai-builders-curriculum",
             "description": "Open, vendor-neutral curriculum and hackathon starter kits for learning to build full-stack AI applications end-to-end. MIT-licensed. A project of the AI Builders Foundation (501c3).",
             "url": "https://github.com/ai-builders-foundation/ai-builders-curriculum",
-            "stars": 168,
-            "forks": 33,
+            "stars": 172,
+            "forks": 34,
             "score": 40
         },
         {
@@ -293,7 +293,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Danau5tin/ai-trains-ai",
             "description": "RL-training an AI agent to RL-train AI agents.",
             "url": "https://github.com/Danau5tin/ai-trains-ai",
-            "stars": 183,
+            "stars": 184,
             "forks": 14,
             "score": 39
         },
@@ -304,7 +304,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "gokulrajaram/ProductSpec",
             "description": "Open standard for software intent in the AI agent era.",
             "url": "https://github.com/gokulrajaram/ProductSpec",
-            "stars": 170,
+            "stars": 171,
             "forks": 20,
             "score": 38
         },
@@ -326,7 +326,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "ostris/ComfyUI-Krea2-Ostris-Edit",
             "description": "Comfy UI Nodes for Krea 2 LoRAs trained with AI Toolkit Experimental Edit",
             "url": "https://github.com/ostris/ComfyUI-Krea2-Ostris-Edit",
-            "stars": 173,
+            "stars": 172,
             "forks": 4,
             "score": 36
         },
@@ -419,6 +419,17 @@ const ALPHA_DATA_V2 = {
             "score": 30
         },
         {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "cmf",
+            "full_name": "infosave2007/cmf",
+            "description": "One backbone, many specialists. CMF is a self-describing, memory-mappable single-file format and a dependency-free runtime for quantized LLMs \u2014 zero-copy execution on CPU or GPU (Vulkan \u00b7 Metal \u00b7 DX12) that overlays task-specialized skills onto one shared model, with no per-model duplication.",
+            "url": "https://github.com/infosave2007/cmf",
+            "stars": 7,
+            "forks": 0,
+            "score": 30
+        },
+        {
             "main_cat": "RWA",
             "sub_cat": null,
             "name": "RWA-Yield-Distribution-Suite",
@@ -486,17 +497,6 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "ninety-backend",
-            "full_name": "bigdann09/ninety-backend",
-            "description": "Ninety Protocol is a decentralized prediction market allowing users to speculate on the outcome of various events. This Next.js application provides a sleek, real-time, and mobile-responsive interface for users to connect their Solana wallets, view live markets, place bets (positions), and claim their winnings.",
-            "url": "https://github.com/bigdann09/ninety-backend",
-            "stars": 0,
-            "forks": 0,
-            "score": 30
-        },
-        {
-            "main_cat": "AI",
             "sub_cat": "AI Agents",
             "name": ".github",
             "full_name": "TychiWallet/.github",
@@ -515,6 +515,17 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/benedictworks-home/horizonflow-core",
             "stars": 0,
             "forks": 1,
+            "score": 30
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "payment-rail",
+            "full_name": "dz3ka/payment-rail",
+            "description": "Self-hostable stablecoin payment orchestration rail: a correct, auditable payments API backed by a double-entry ledger. Portfolio/learning project \u2014 testnet only.",
+            "url": "https://github.com/dz3ka/payment-rail",
+            "stars": 0,
+            "forks": 0,
             "score": 30
         },
         {
@@ -548,6 +559,17 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/Dshield-xyz/Dshield",
             "stars": 0,
             "forks": 4,
+            "score": 30
+        },
+        {
+            "main_cat": "Stablecoin Infrastructure",
+            "sub_cat": null,
+            "name": "web3-beginner-toolkit",
+            "full_name": "vera2824/web3-beginner-toolkit",
+            "description": "A bilingual read-only Web3 beginner toolkit for address analysis, stablecoin payment checks, and DEX swap explanation.",
+            "url": "https://github.com/vera2824/web3-beginner-toolkit",
+            "stars": 0,
+            "forks": 0,
             "score": 30
         },
         {
@@ -590,17 +612,6 @@ const ALPHA_DATA_V2 = {
             "full_name": "Trustlink-Labs/.github",
             "description": "TrustLink Labs builds open blockchain infrastructure for identity-aware, privacy-preserving, and scalable digital payments. Our protocols include ZK-PRU, TINS (identity), TSN (settlement), and VPP (confidential stablecoin infrastructure).",
             "url": "https://github.com/Trustlink-Labs/.github",
-            "stars": 0,
-            "forks": 0,
-            "score": 30
-        },
-        {
-            "main_cat": "Stablecoin Infrastructure",
-            "sub_cat": null,
-            "name": "daloy",
-            "full_name": "OrangeJuice023/daloy",
-            "description": "is an open, zero-infrastructure analytics platform for stablecoin flows on Stellar, focused on Philippine remittance corridors. It is built on a production-grade ELT pipeline that ingests Stellar's public Hubble dataset (crypto-stellar.crypto_stellar), near real-time payment data from the Horizon API, and market data from CoinGecko and DeFiLlama",
-            "url": "https://github.com/OrangeJuice023/daloy",
             "stars": 0,
             "forks": 0,
             "score": 30
@@ -685,6 +696,20 @@ const ALPHA_DATA_V2 = {
     ],
     "news": [
         {
+            "title": "Beyond Success Rate: Cost-Aware Evaluation of Offensive and Defensive Security Agents",
+            "source": "ArXiv",
+            "type": "Research Alpha",
+            "color": "text-indigo-600",
+            "url": "http://arxiv.org/abs/2607.15263v1"
+        },
+        {
+            "title": "Decoding Market Emotion from Blockchain Activity: A Data-Driven Sentiment Classifier",
+            "source": "ArXiv",
+            "type": "Research Alpha",
+            "color": "text-indigo-600",
+            "url": "http://arxiv.org/abs/2607.15258v1"
+        },
+        {
             "title": "Bitcoin volatility remains high ahead of key FED decision.",
             "source": "Polymarket",
             "type": "Expectation",
@@ -692,5 +717,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-07-17 06:12"
+    "timestamp": "2026-07-17 09:04"
 };
