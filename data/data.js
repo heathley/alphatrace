@@ -7,19 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "Blueturboguy07/cue",
             "description": "Open-source macOS AI copilot that floats over your screen, sees/hears your meetings, and stays hidden from screen shares. Cluely alternative, bring-your-own-key.",
             "url": "https://github.com/Blueturboguy07/cue",
-            "stars": 500,
-            "forks": 101,
-            "score": 99
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "fintech-advisor",
-            "full_name": "KORAYTEACHER/fintech-advisor",
-            "description": "ai fintech financial advisor for your portfolio",
-            "url": "https://github.com/KORAYTEACHER/fintech-advisor",
-            "stars": 165,
-            "forks": 1234,
+            "stars": 505,
+            "forks": 102,
             "score": 99
         },
         {
@@ -29,9 +18,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "William-Lu-stack/Flawless",
             "description": "AI SRE AgenticOps for Kubernetes and cloud infrastructure.",
             "url": "https://github.com/William-Lu-stack/Flawless",
-            "stars": 712,
-            "forks": 145,
-            "score": 88
+            "stars": 715,
+            "forks": 146,
+            "score": 89
         },
         {
             "main_cat": "AI",
@@ -40,7 +29,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "simonlin1212/Vibe-Research",
             "description": "Vibe-Research: Your Personal Trading Research Agent \u00b7 A\u80a1/\u7f8e\u80a1/\u6e2f\u80a1 \u7684\u4e2a\u4eba\u6295\u7814 Agent\uff1a\u6bcf\u65e5\u590d\u76d8\u3001\u8d44\u8baf\u96f7\u8fbe\u3001\u4e2a\u80a1\u6570\u636e\u3001\u677f\u5757\u4e2d\u5fc3\u3001\u6211\u7684\u6301\u4ed3\u3001\u7814\u7a76\u8bb0\u5f55\u3002Vibe-Research \u628a\u6570\u636e\u548c\u529f\u80fd\u914d\u9f50\uff0c\u7531\u4f60\u81ea\u5df1\u7684 AI \u9a71\u52a8\u6295\u8d44\u7814\u7a76\u3002",
             "url": "https://github.com/simonlin1212/Vibe-Research",
-            "stars": 884,
+            "stars": 887,
             "forks": 197,
             "score": 82
         },
@@ -51,7 +40,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "dongguatanglinux/grok-build-auth",
             "description": "Protocol research client: x.ai signup \u2192 SSO \u2192 Grok Build OAuth \u2192 CLIProxyAPI auth export (authorized use only)",
             "url": "https://github.com/dongguatanglinux/grok-build-auth",
-            "stars": 261,
+            "stars": 263,
             "forks": 121,
             "score": 67
         },
@@ -62,7 +51,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Raymondhou0917/speak-human-tw",
             "description": "\u300c\u8aaa\u4eba\u8a71\u300d\uff1a\u7e41\u9ad4\u4e2d\u6587\u7684\u53bb AI \u5473\u6539\u5beb skill\u3002\u6293 38 \u7a2e AI \u5beb\u4f5c\u75d5\u8de1\uff0c\u9806\u624b\u6821\u6b63\u4e2d\u570b\u7528\u8a9e\u8207\u534a\u5f62\u6a19\u9ede\uff0c\u7d66 Claude Code / Codex / Cursor \u7528\u3002",
             "url": "https://github.com/Raymondhou0917/speak-human-tw",
-            "stars": 590,
+            "stars": 591,
             "forks": 66,
             "score": 65
         },
@@ -73,7 +62,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "yetone/kill-ai-slop",
             "description": "A field guide to the visual & copy tics of AI-generated products \u2014 and an Agent Skill that scans your project and strips them out. https://killaislop.com",
             "url": "https://github.com/yetone/kill-ai-slop",
-            "stars": 606,
+            "stars": 608,
             "forks": 22,
             "score": 64
         },
@@ -84,20 +73,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "yuwen-cool/yuwen-publish-precheck",
             "description": "\u53d1\u5e03\u524d\u5ba1\uff5c\u53d1\u6296\u97f3/\u5c0f\u7ea2\u4e66/\u89c6\u9891\u53f7\u524d\u5148\u8ba9 AI \u5ba1\u4e00\u904d\uff1a\u54ea\u53e5\u8e29\u7ebf\u3001\u4f9d\u636e\u54ea\u6761\u5b98\u65b9\u89c4\u5219\u3001\u7ed9\u80fd\u76f4\u63a5\u7528\u7684\u6539\u6cd5\u300238 \u7bc7\u771f\u5b9e\u6837\u672c\u6821\u51c6\u5224\u5b9a\u5c3a\u5ea6\uff0c72 \u6761\u5b98\u65b9\u539f\u6587\u5f15\u6587\u53ef\u67e5\u8bc1\uff0c\u4f60\u8e29\u8fc7\u7684\u5751\u6c89\u6dc0\u6210\u672c\u5730\u89c4\u5219\u5e93\u8d8a\u7528\u8d8a\u51c6\u3002\u4e0d\u627f\u8bfa\u8fc7\u5ba1\uff0c\u4e0d\u6559\u7ed5\u5ba1\u3002",
             "url": "https://github.com/yuwen-cool/yuwen-publish-precheck",
-            "stars": 230,
+            "stars": 232,
             "forks": 22,
-            "score": 61
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "LLMVault",
-            "full_name": "CyberSunil/LLMVault",
-            "description": "An intentionally vulnerable OWASP LLM Top 10 training platform for AI Security, Prompt Injection, RAG Security, Agent Security, and GenAI penetration testing.",
-            "url": "https://github.com/CyberSunil/LLMVault",
-            "stars": 163,
-            "forks": 39,
-            "score": 61
+            "score": 62
         },
         {
             "main_cat": "AI",
@@ -106,7 +84,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "fxy2311-youyou/expression-trainer",
             "description": "\u5b87\u5b99\u65e0\u654c\u8868\u8fbe\u8bad\u7ec3\u7cfb\u7edf \u2014 \u5b9e\u65f6\u8bed\u97f3\u8f6c\u6587\u5b57 + 27000\u8bcd\u60c5\u611f\u8bcd\u5e93 + AI\u8868\u8fbe\u5206\u6790\u62a5\u544a\u3002\u79bb\u7ebf\u8fd0\u884c\uff0c\u5bf9\u7740\u5b83\u8bf4\u8bdd\uff0c\u5b83\u5e2e\u4f60\u770b\u89c1\u81ea\u5df1\u7684\u8868\u8fbe\u95ee\u9898\u3002",
             "url": "https://github.com/fxy2311-youyou/expression-trainer",
-            "stars": 454,
+            "stars": 455,
             "forks": 100,
             "score": 60
         },
@@ -117,9 +95,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "ShenSeanChen/waku-agent",
             "description": "Waku Waku! Waku agent is your personal AI agent, on your own laptop, in code you can read in an afternoon \u2014 harness + loop + memory + eval",
             "url": "https://github.com/ShenSeanChen/waku-agent",
-            "stars": 277,
-            "forks": 74,
+            "stars": 278,
+            "forks": 75,
             "score": 58
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "skills",
+            "full_name": "CodeDrobe/skills",
+            "description": "Open-source OpenAI Codex theming Skill, AI theme generator, and cross-platform runtime for custom Codex desktop themes.",
+            "url": "https://github.com/CodeDrobe/skills",
+            "stars": 187,
+            "forks": 16,
+            "score": 55
         },
         {
             "main_cat": "AI",
@@ -134,13 +123,13 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
-            "sub_cat": null,
-            "name": "skills",
-            "full_name": "CodeDrobe/skills",
-            "description": "Open-source OpenAI Codex theming Skill, AI theme generator, and cross-platform runtime for custom Codex desktop themes.",
-            "url": "https://github.com/CodeDrobe/skills",
-            "stars": 183,
-            "forks": 16,
+            "sub_cat": "AI Agents",
+            "name": "agentsmith",
+            "full_name": "PromptPartner/agentsmith",
+            "description": "Universal, model-agnostic operating harness for AI agents (Claude, Codex, Gemini, \u2026) \u2014 a lean core + work-type profiles assembled by one setup script.",
+            "url": "https://github.com/PromptPartner/agentsmith",
+            "stars": 193,
+            "forks": 0,
             "score": 54
         },
         {
@@ -150,7 +139,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "ronak-create/FableCut",
             "description": "Zero-dependency browser video editor that AI agents can drive \u2014 JSON timeline, MCP + REST, live-reloading UI",
             "url": "https://github.com/ronak-create/FableCut",
-            "stars": 473,
+            "stars": 474,
             "forks": 47,
             "score": 53
         },
@@ -161,7 +150,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "bkingfilm/lapian-notes",
             "description": "AI \u8f85\u52a9\u7684\u7535\u5f71\u62c9\u7247\u5de5\u5177\uff1a\u5bfc\u5165\u5f71\u7247\uff0cAI \u62c6\u51fa\u5267\u60c5\u6cf3\u9053\u65f6\u95f4\u8f74\u3001\u7ed3\u6784\u6811\u3001\u89c2\u4f17\u60c5\u7eea\u66f2\u7ebf\uff0c\u8fb9\u64ad\u8fb9\u5199\u4f60\u7684\u62c9\u7247\u7b14\u8bb0\u3002\u514d\u8d39\u5f00\u6e90\uff0c\u6570\u636e\u5168\u5728\u672c\u5730",
             "url": "https://github.com/bkingfilm/lapian-notes",
-            "stars": 368,
+            "stars": 369,
             "forks": 49,
             "score": 51
         },
@@ -172,7 +161,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "nihe0909/xiaohongshu-ai-workbench",
             "description": "\u300a\u5c0f\u7ea2\u4e66\u8fd0\u8425\u624b\u518c \u00b7 AI\u5de5\u4f5c\u53f0\u300b: free Codex Skills for Xiaohongshu operations",
             "url": "https://github.com/nihe0909/xiaohongshu-ai-workbench",
-            "stars": 234,
+            "stars": 235,
             "forks": 16,
             "score": 51
         },
@@ -194,8 +183,19 @@ const ALPHA_DATA_V2 = {
             "full_name": "capitalone/VulnHunter",
             "description": "Agentic AI security tool that applies proactive, attacker-first analysis directly to source code.",
             "url": "https://github.com/capitalone/VulnHunter",
-            "stars": 362,
-            "forks": 41,
+            "stars": 368,
+            "forks": 42,
+            "score": 50
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "penecho",
+            "full_name": "erickong/penecho",
+            "description": "Think with AI beyond the chat box. A shared canvas for handwriting, equations, diagrams, and spatial reasoning.",
+            "url": "https://github.com/erickong/penecho",
+            "stars": 169,
+            "forks": 20,
             "score": 50
         },
         {
@@ -212,24 +212,24 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
+            "name": "agent-pulse",
+            "full_name": "barretlee/agent-pulse",
+            "description": "Evidence-backed AI industry intelligence \u2014 trends, source updates, daily data refreshes, and weekly decision briefs.",
+            "url": "https://github.com/barretlee/agent-pulse",
+            "stars": 210,
+            "forks": 25,
+            "score": 47
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
             "name": "motion-previs-studio",
             "full_name": "wassermanproductions/motion-previs-studio",
             "description": "Open-source desktop app for AI-film motion, depth, pose, and camera-move previsualization.",
             "url": "https://github.com/wassermanproductions/motion-previs-studio",
             "stars": 297,
             "forks": 43,
-            "score": 46
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "agent-pulse",
-            "full_name": "barretlee/agent-pulse",
-            "description": "Evidence-backed AI industry intelligence \u2014 trends, source updates, daily data refreshes, and weekly decision briefs.",
-            "url": "https://github.com/barretlee/agent-pulse",
-            "stars": 207,
-            "forks": 24,
-            "score": 46
+            "score": 45
         },
         {
             "main_cat": "DePIN",
@@ -293,7 +293,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "ai-builders-foundation/ai-builders-curriculum",
             "description": "Open, vendor-neutral curriculum and hackathon starter kits for learning to build full-stack AI applications end-to-end. MIT-licensed. A project of the AI Builders Foundation (501c3).",
             "url": "https://github.com/ai-builders-foundation/ai-builders-curriculum",
-            "stars": 185,
+            "stars": 188,
             "forks": 37,
             "score": 40
         },
@@ -306,17 +306,6 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/chordswallowthrust/undress-design",
             "stars": 197,
             "forks": 0,
-            "score": 39
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "ai-trains-ai",
-            "full_name": "Danau5tin/ai-trains-ai",
-            "description": "RL-training an AI agent to RL-train AI agents.",
-            "url": "https://github.com/Danau5tin/ai-trains-ai",
-            "stars": 189,
-            "forks": 14,
             "score": 39
         },
         {
@@ -340,6 +329,17 @@ const ALPHA_DATA_V2 = {
             "stars": 176,
             "forks": 2,
             "score": 39
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "ai-trains-ai",
+            "full_name": "Danau5tin/ai-trains-ai",
+            "description": "RL-training an AI agent to RL-train AI agents.",
+            "url": "https://github.com/Danau5tin/ai-trains-ai",
+            "stars": 189,
+            "forks": 14,
+            "score": 38
         },
         {
             "main_cat": "AI",
@@ -425,7 +425,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "infosave2007/cmf",
             "description": "One backbone, many specialists. CMF is a self-describing, memory-mappable single-file format and a dependency-free runtime for quantized LLMs \u2014 zero-copy execution on CPU or GPU (Vulkan \u00b7 Metal \u00b7 DX12) that overlays task-specialized skills onto one shared model, with no per-model duplication.",
             "url": "https://github.com/infosave2007/cmf",
-            "stars": 7,
+            "stars": 8,
             "forks": 0,
             "score": 30
         },
@@ -634,7 +634,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "oscar01428/Universal-Cross-Chain-Bridge",
             "description": "A cross-chain infrastructure protocol that enables secure communication and digital asset transfers between independent blockchain networks. The platform uses smart contracts, validator mechanisms, and relayer services to facilitate trust-minimized bridging between EVM-compatible chains while maintaining transaction integrity and security.",
             "url": "https://github.com/oscar01428/Universal-Cross-Chain-Bridge",
-            "stars": 7,
+            "stars": 8,
             "forks": 0,
             "score": 30
         },
@@ -728,5 +728,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-07-18 06:56"
+    "timestamp": "2026-07-18 08:46"
 };
