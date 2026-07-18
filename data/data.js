@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "Blueturboguy07/cue",
             "description": "Open-source macOS AI copilot that floats over your screen, sees/hears your meetings, and stays hidden from screen shares. Cluely alternative, bring-your-own-key.",
             "url": "https://github.com/Blueturboguy07/cue",
-            "stars": 510,
-            "forks": 102,
+            "stars": 518,
+            "forks": 105,
             "score": 99
         },
         {
@@ -18,8 +18,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "William-Lu-stack/Flawless",
             "description": "AI SRE AgenticOps for Kubernetes and cloud infrastructure.",
             "url": "https://github.com/William-Lu-stack/Flawless",
-            "stars": 718,
-            "forks": 147,
+            "stars": 722,
+            "forks": 148,
             "score": 89
         },
         {
@@ -29,7 +29,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "simonlin1212/Vibe-Research",
             "description": "Vibe-Research: Your Personal Trading Research Agent \u00b7 A\u80a1/\u7f8e\u80a1/\u6e2f\u80a1 \u7684\u4e2a\u4eba\u6295\u7814 Agent\uff1a\u6bcf\u65e5\u590d\u76d8\u3001\u8d44\u8baf\u96f7\u8fbe\u3001\u4e2a\u80a1\u6570\u636e\u3001\u677f\u5757\u4e2d\u5fc3\u3001\u6211\u7684\u6301\u4ed3\u3001\u7814\u7a76\u8bb0\u5f55\u3002Vibe-Research \u628a\u6570\u636e\u548c\u529f\u80fd\u914d\u9f50\uff0c\u7531\u4f60\u81ea\u5df1\u7684 AI \u9a71\u52a8\u6295\u8d44\u7814\u7a76\u3002",
             "url": "https://github.com/simonlin1212/Vibe-Research",
-            "stars": 890,
+            "stars": 891,
             "forks": 199,
             "score": 82
         },
@@ -40,9 +40,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "PromptPartner/agentsmith",
             "description": "Universal, model-agnostic operating harness for AI agents (Claude, Codex, Gemini, \u2026) \u2014 a lean core + work-type profiles assembled by one setup script.",
             "url": "https://github.com/PromptPartner/agentsmith",
-            "stars": 285,
+            "stars": 307,
             "forks": 15,
-            "score": 73
+            "score": 66
         },
         {
             "main_cat": "AI",
@@ -52,8 +52,8 @@ const ALPHA_DATA_V2 = {
             "description": "Protocol research client: x.ai signup \u2192 SSO \u2192 Grok Build OAuth \u2192 CLIProxyAPI auth export (authorized use only)",
             "url": "https://github.com/dongguatanglinux/grok-build-auth",
             "stars": 265,
-            "forks": 121,
-            "score": 67
+            "forks": 122,
+            "score": 64
         },
         {
             "main_cat": "AI",
@@ -62,9 +62,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "Raymondhou0917/speak-human-tw",
             "description": "\u300c\u8aaa\u4eba\u8a71\u300d\uff1a\u7e41\u9ad4\u4e2d\u6587\u7684\u53bb AI \u5473\u6539\u5beb skill\u3002\u6293 38 \u7a2e AI \u5beb\u4f5c\u75d5\u8de1\uff0c\u9806\u624b\u6821\u6b63\u4e2d\u570b\u7528\u8a9e\u8207\u534a\u5f62\u6a19\u9ede\uff0c\u7d66 Claude Code / Codex / Cursor \u7528\u3002",
             "url": "https://github.com/Raymondhou0917/speak-human-tw",
-            "stars": 592,
+            "stars": 594,
             "forks": 66,
-            "score": 62
+            "score": 63
         },
         {
             "main_cat": "AI",
@@ -73,9 +73,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "yuwen-cool/yuwen-publish-precheck",
             "description": "\u53d1\u5e03\u524d\u5ba1\uff5c\u53d1\u6296\u97f3/\u5c0f\u7ea2\u4e66/\u89c6\u9891\u53f7\u524d\u5148\u8ba9 AI \u5ba1\u4e00\u904d\uff1a\u54ea\u53e5\u8e29\u7ebf\u3001\u4f9d\u636e\u54ea\u6761\u5b98\u65b9\u89c4\u5219\u3001\u7ed9\u80fd\u76f4\u63a5\u7528\u7684\u6539\u6cd5\u300238 \u7bc7\u771f\u5b9e\u6837\u672c\u6821\u51c6\u5224\u5b9a\u5c3a\u5ea6\uff0c72 \u6761\u5b98\u65b9\u539f\u6587\u5f15\u6587\u53ef\u67e5\u8bc1\uff0c\u4f60\u8e29\u8fc7\u7684\u5751\u6c89\u6dc0\u6210\u672c\u5730\u89c4\u5219\u5e93\u8d8a\u7528\u8d8a\u51c6\u3002\u4e0d\u627f\u8bfa\u8fc7\u5ba1\uff0c\u4e0d\u6559\u7ed5\u5ba1\u3002",
             "url": "https://github.com/yuwen-cool/yuwen-publish-precheck",
-            "stars": 237,
-            "forks": 22,
-            "score": 62
+            "stars": 241,
+            "forks": 23,
+            "score": 63
         },
         {
             "main_cat": "AI",
@@ -84,20 +84,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "yetone/kill-ai-slop",
             "description": "A field guide to the visual & copy tics of AI-generated products \u2014 and an Agent Skill that scans your project and strips them out. https://killaislop.com",
             "url": "https://github.com/yetone/kill-ai-slop",
-            "stars": 608,
+            "stars": 609,
             "forks": 22,
             "score": 61
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "expression-trainer",
-            "full_name": "fxy2311-youyou/expression-trainer",
-            "description": "\u5b87\u5b99\u65e0\u654c\u8868\u8fbe\u8bad\u7ec3\u7cfb\u7edf \u2014 \u5b9e\u65f6\u8bed\u97f3\u8f6c\u6587\u5b57 + 27000\u8bcd\u60c5\u611f\u8bcd\u5e93 + AI\u8868\u8fbe\u5206\u6790\u62a5\u544a\u3002\u79bb\u7ebf\u8fd0\u884c\uff0c\u5bf9\u7740\u5b83\u8bf4\u8bdd\uff0c\u5b83\u5e2e\u4f60\u770b\u89c1\u81ea\u5df1\u7684\u8868\u8fbe\u95ee\u9898\u3002",
-            "url": "https://github.com/fxy2311-youyou/expression-trainer",
-            "stars": 458,
-            "forks": 100,
-            "score": 60
         },
         {
             "main_cat": "AI",
@@ -106,8 +95,19 @@ const ALPHA_DATA_V2 = {
             "full_name": "ShenSeanChen/waku-agent",
             "description": "Waku Waku! Waku agent is your personal AI agent, on your own laptop, in code you can read in an afternoon \u2014 harness + loop + memory + eval",
             "url": "https://github.com/ShenSeanChen/waku-agent",
-            "stars": 279,
+            "stars": 280,
             "forks": 75,
+            "score": 59
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "expression-trainer",
+            "full_name": "fxy2311-youyou/expression-trainer",
+            "description": "\u5b87\u5b99\u65e0\u654c\u8868\u8fbe\u8bad\u7ec3\u7cfb\u7edf \u2014 \u5b9e\u65f6\u8bed\u97f3\u8f6c\u6587\u5b57 + 27000\u8bcd\u60c5\u611f\u8bcd\u5e93 + AI\u8868\u8fbe\u5206\u6790\u62a5\u544a\u3002\u79bb\u7ebf\u8fd0\u884c\uff0c\u5bf9\u7740\u5b83\u8bf4\u8bdd\uff0c\u5b83\u5e2e\u4f60\u770b\u89c1\u81ea\u5df1\u7684\u8868\u8fbe\u95ee\u9898\u3002",
+            "url": "https://github.com/fxy2311-youyou/expression-trainer",
+            "stars": 459,
+            "forks": 100,
             "score": 58
         },
         {
@@ -115,9 +115,9 @@ const ALPHA_DATA_V2 = {
             "sub_cat": null,
             "name": "skills",
             "full_name": "CodeDrobe/skills",
-            "description": "Open-source OpenAI Codex theming Skill, AI theme generator, and cross-platform runtime for custom Codex desktop themes.",
+            "description": "Agent Skills for theming AI desktop apps: reference image \u2192 reversible Codex/WorkBuddy skin \u2192 verify, repair, publish. | \u7ed9 AI \u684c\u9762\u5e94\u7528\u6362\u80a4\u7684 Agent Skills\uff1a\u53c2\u8003\u56fe \u2192 \u53ef\u9006\u76ae\u80a4 \u2192 \u9a8c\u8bc1\u3001\u4fee\u590d\u3001\u53d1\u5e03\u3002",
             "url": "https://github.com/CodeDrobe/skills",
-            "stars": 188,
+            "stars": 189,
             "forks": 16,
             "score": 55
         },
@@ -150,8 +150,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "capitalone/VulnHunter",
             "description": "Agentic AI security tool that applies proactive, attacker-first analysis directly to source code.",
             "url": "https://github.com/capitalone/VulnHunter",
-            "stars": 373,
-            "forks": 44,
+            "stars": 385,
+            "forks": 45,
             "score": 51
         },
         {
@@ -172,7 +172,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "nihe0909/xiaohongshu-ai-workbench",
             "description": "\u300a\u5c0f\u7ea2\u4e66\u8fd0\u8425\u624b\u518c \u00b7 AI\u5de5\u4f5c\u53f0\u300b: free Codex Skills for Xiaohongshu operations",
             "url": "https://github.com/nihe0909/xiaohongshu-ai-workbench",
-            "stars": 235,
+            "stars": 237,
             "forks": 16,
             "score": 51
         },
@@ -183,7 +183,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "erickong/penecho",
             "description": "Think with AI beyond the chat box. A shared canvas for handwriting, equations, diagrams, and spatial reasoning.",
             "url": "https://github.com/erickong/penecho",
-            "stars": 170,
+            "stars": 173,
             "forks": 21,
             "score": 51
         },
@@ -249,20 +249,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "RennAkira/spicy-monopoly",
             "description": "\u548c\u4f60\u7684 AI \u4e00\u8d77\u73a9\u7684\u53cc\u4eba\u68cb\u76d8\u5c0f\u6e38\u620f \u00b7 18+ \uff08A two-player board game you play with your AI \u2014 dice, tiles, spicy tasks, all run by code (18+\uff09\uff09",
             "url": "https://github.com/RennAkira/spicy-monopoly",
-            "stars": 261,
+            "stars": 262,
             "forks": 35,
             "score": 42
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "exxperts",
-            "full_name": "EXXETA/exxperts",
-            "description": "Persistent AI rooms with governed, approval-gated memory: local-first, on your machine.",
-            "url": "https://github.com/EXXETA/exxperts",
-            "stars": 215,
-            "forks": 19,
-            "score": 41
         },
         {
             "main_cat": "AI",
@@ -273,6 +262,17 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/OmarH-creator/Autonomous-Forge",
             "stars": 252,
             "forks": 10,
+            "score": 40
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "exxperts",
+            "full_name": "EXXETA/exxperts",
+            "description": "Persistent AI rooms with governed, approval-gated memory: local-first, on your machine.",
+            "url": "https://github.com/EXXETA/exxperts",
+            "stars": 215,
+            "forks": 19,
             "score": 40
         },
         {
@@ -294,7 +294,7 @@ const ALPHA_DATA_V2 = {
             "description": "Open, vendor-neutral curriculum and hackathon starter kits for learning to build full-stack AI applications end-to-end. MIT-licensed. A project of the AI Builders Foundation (501c3).",
             "url": "https://github.com/ai-builders-foundation/ai-builders-curriculum",
             "stars": 188,
-            "forks": 37,
+            "forks": 38,
             "score": 40
         },
         {
@@ -311,17 +311,6 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "TokHub",
-            "full_name": "yaojingang/TokHub",
-            "description": "AI API \u4e2d\u8f6c\u7ad9\u76d1\u63a7\u3001\u63a8\u8350\u8fd0\u8425\u4e0e OpenAI \u517c\u5bb9\u4e13\u5c5e\u7f51\u5173\u7cfb\u7edf\uff0c\u652f\u6301\u5206\u5c42\u63a2\u6d4b\u3001\u5065\u5eb7\u8bc4\u5206\u3001\u7528\u91cf\u8ba1\u91cf\u3001\u544a\u8b66\u5ba1\u8ba1\u548c Docker \u81ea\u6258\u7ba1\u3002",
-            "url": "https://github.com/yaojingang/TokHub",
-            "stars": 185,
-            "forks": 19,
-            "score": 39
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
             "name": "ai-trains-ai",
             "full_name": "Danau5tin/ai-trains-ai",
             "description": "RL-training an AI agent to RL-train AI agents.",
@@ -333,12 +322,23 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
+            "name": "TokHub",
+            "full_name": "yaojingang/TokHub",
+            "description": "AI API \u4e2d\u8f6c\u7ad9\u76d1\u63a7\u3001\u63a8\u8350\u8fd0\u8425\u4e0e OpenAI \u517c\u5bb9\u4e13\u5c5e\u7f51\u5173\u7cfb\u7edf\uff0c\u652f\u6301\u5206\u5c42\u63a2\u6d4b\u3001\u5065\u5eb7\u8bc4\u5206\u3001\u7528\u91cf\u8ba1\u91cf\u3001\u544a\u8b66\u5ba1\u8ba1\u548c Docker \u81ea\u6258\u7ba1\u3002",
+            "url": "https://github.com/yaojingang/TokHub",
+            "stars": 185,
+            "forks": 19,
+            "score": 38
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
             "name": "sample-specship",
             "full_name": "aws-samples/sample-specship",
             "description": "Spec-driven autonomous engineering workflow for AI coding agents: recon \u2192 plan \u2192 build \u2192 validate \u2192 ship \u2014 with TDD, adversarial validation, and anti-slop quality gates. Packaged as a Kiro Power.",
             "url": "https://github.com/aws-samples/sample-specship",
             "stars": 176,
-            "forks": 2,
+            "forks": 3,
             "score": 38
         },
         {
@@ -349,7 +349,7 @@ const ALPHA_DATA_V2 = {
             "description": "Stellar Pulse is a decentralized prediction market built on Stellar/Soroban. Users connect a wallet, bet XLM on YES/NO markets, earn PULSE tokens and points, and claim payouts on-chain.",
             "url": "https://github.com/Steller-StellarPulse-org/StellarPulse",
             "stars": 6,
-            "forks": 26,
+            "forks": 27,
             "score": 35
         },
         {
@@ -728,5 +728,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-07-18 10:13"
+    "timestamp": "2026-07-18 11:48"
 };
