@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "Blueturboguy07/cue",
             "description": "Open-source macOS AI copilot that floats over your screen, sees/hears your meetings, and stays hidden from screen shares. Cluely alternative, bring-your-own-key.",
             "url": "https://github.com/Blueturboguy07/cue",
-            "stars": 536,
-            "forks": 109,
+            "stars": 538,
+            "forks": 110,
             "score": 99
         },
         {
@@ -18,7 +18,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "William-Lu-stack/Flawless",
             "description": "AI SRE AgenticOps for Kubernetes and cloud infrastructure.",
             "url": "https://github.com/William-Lu-stack/Flawless",
-            "stars": 728,
+            "stars": 730,
             "forks": 148,
             "score": 90
         },
@@ -73,9 +73,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "yetone/kill-ai-slop",
             "description": "A field guide to the visual & copy tics of AI-generated products \u2014 and an Agent Skill that scans your project and strips them out. https://killaislop.com",
             "url": "https://github.com/yetone/kill-ai-slop",
-            "stars": 615,
+            "stars": 616,
             "forks": 22,
-            "score": 61
+            "score": 62
         },
         {
             "main_cat": "AI",
@@ -84,7 +84,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "fxy2311-youyou/expression-trainer",
             "description": "\u5b87\u5b99\u65e0\u654c\u8868\u8fbe\u8bad\u7ec3\u7cfb\u7edf \u2014 \u5b9e\u65f6\u8bed\u97f3\u8f6c\u6587\u5b57 + 27000\u8bcd\u60c5\u611f\u8bcd\u5e93 + AI\u8868\u8fbe\u5206\u6790\u62a5\u544a\u3002\u79bb\u7ebf\u8fd0\u884c\uff0c\u5bf9\u7740\u5b83\u8bf4\u8bdd\uff0c\u5b83\u5e2e\u4f60\u770b\u89c1\u81ea\u5df1\u7684\u8868\u8fbe\u95ee\u9898\u3002",
             "url": "https://github.com/fxy2311-youyou/expression-trainer",
-            "stars": 465,
+            "stars": 466,
             "forks": 102,
             "score": 59
         },
@@ -95,8 +95,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "CyberSunil/LLMVault",
             "description": "An intentionally vulnerable OWASP LLM Top 10 training platform for AI Security, Prompt Injection, RAG Security, Agent Security, and GenAI penetration testing.",
             "url": "https://github.com/CyberSunil/LLMVault",
-            "stars": 180,
-            "forks": 43,
+            "stars": 181,
+            "forks": 44,
             "score": 59
         },
         {
@@ -139,8 +139,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "capitalone/VulnHunter",
             "description": "Agentic AI security tool that applies proactive, attacker-first analysis directly to source code.",
             "url": "https://github.com/capitalone/VulnHunter",
-            "stars": 433,
-            "forks": 52,
+            "stars": 436,
+            "forks": 53,
             "score": 54
         },
         {
@@ -161,7 +161,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "ronak-create/FableCut",
             "description": "Zero-dependency browser video editor that AI agents can drive \u2014 JSON timeline, MCP + REST, live-reloading UI",
             "url": "https://github.com/ronak-create/FableCut",
-            "stars": 475,
+            "stars": 476,
             "forks": 47,
             "score": 52
         },
@@ -194,7 +194,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "yusukebe/ax",
             "description": "The AI-era curl",
             "url": "https://github.com/yusukebe/ax",
-            "stars": 535,
+            "stars": 536,
             "forks": 10,
             "score": 49
         },
@@ -216,7 +216,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "erickong/penecho",
             "description": "Think with AI beyond the chat box. A shared canvas for handwriting, equations, diagrams, and spatial reasoning.",
             "url": "https://github.com/erickong/penecho",
-            "stars": 184,
+            "stars": 186,
             "forks": 22,
             "score": 49
         },
@@ -227,7 +227,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "nihe0909/xiaohongshu-ai-workbench",
             "description": "\u300a\u5c0f\u7ea2\u4e66\u8fd0\u8425\u624b\u518c \u00b7 AI\u5de5\u4f5c\u53f0\u300b: free Codex Skills for Xiaohongshu operations",
             "url": "https://github.com/nihe0909/xiaohongshu-ai-workbench",
-            "stars": 237,
+            "stars": 239,
             "forks": 16,
             "score": 48
         },
@@ -260,7 +260,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "RennAkira/spicy-monopoly",
             "description": "\u548c\u4f60\u7684 AI \u4e00\u8d77\u73a9\u7684\u53cc\u4eba\u68cb\u76d8\u5c0f\u6e38\u620f \u00b7 18+ \uff08A two-player board game you play with your AI \u2014 dice, tiles, spicy tasks, all run by code (18+\uff09\uff09",
             "url": "https://github.com/RennAkira/spicy-monopoly",
-            "stars": 265,
+            "stars": 266,
             "forks": 35,
             "score": 42
         },
@@ -305,7 +305,7 @@ const ALPHA_DATA_V2 = {
             "description": "Open, vendor-neutral curriculum and hackathon starter kits for learning to build full-stack AI applications end-to-end. MIT-licensed. A project of the AI Builders Foundation (501c3).",
             "url": "https://github.com/ai-builders-foundation/ai-builders-curriculum",
             "stars": 188,
-            "forks": 38,
+            "forks": 39,
             "score": 40
         },
         {
@@ -326,7 +326,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Danau5tin/ai-trains-ai",
             "description": "RL-training an AI agent to RL-train AI agents.",
             "url": "https://github.com/Danau5tin/ai-trains-ai",
-            "stars": 194,
+            "stars": 195,
             "forks": 14,
             "score": 38
         },
@@ -717,5 +717,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-07-18 16:49"
+    "timestamp": "2026-07-18 17:51"
 };
