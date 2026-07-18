@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "Blueturboguy07/cue",
             "description": "Open-source macOS AI copilot that floats over your screen, sees/hears your meetings, and stays hidden from screen shares. Cluely alternative, bring-your-own-key.",
             "url": "https://github.com/Blueturboguy07/cue",
-            "stars": 525,
-            "forks": 107,
+            "stars": 530,
+            "forks": 109,
             "score": 99
         },
         {
@@ -18,9 +18,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "William-Lu-stack/Flawless",
             "description": "AI SRE AgenticOps for Kubernetes and cloud infrastructure.",
             "url": "https://github.com/William-Lu-stack/Flawless",
-            "stars": 725,
+            "stars": 728,
             "forks": 148,
-            "score": 89
+            "score": 90
         },
         {
             "main_cat": "AI",
@@ -29,7 +29,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "simonlin1212/Vibe-Research",
             "description": "Vibe-Research: Your Personal Trading Research Agent \u00b7 A\u80a1/\u7f8e\u80a1/\u6e2f\u80a1 \u7684\u4e2a\u4eba\u6295\u7814 Agent\uff1a\u6bcf\u65e5\u590d\u76d8\u3001\u8d44\u8baf\u96f7\u8fbe\u3001\u4e2a\u80a1\u6570\u636e\u3001\u677f\u5757\u4e2d\u5fc3\u3001\u6211\u7684\u6301\u4ed3\u3001\u7814\u7a76\u8bb0\u5f55\u3002Vibe-Research \u628a\u6570\u636e\u548c\u529f\u80fd\u914d\u9f50\uff0c\u7531\u4f60\u81ea\u5df1\u7684 AI \u9a71\u52a8\u6295\u8d44\u7814\u7a76\u3002",
             "url": "https://github.com/simonlin1212/Vibe-Research",
-            "stars": 893,
+            "stars": 894,
             "forks": 200,
             "score": 82
         },
@@ -62,7 +62,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Raymondhou0917/speak-human-tw",
             "description": "\u300c\u8aaa\u4eba\u8a71\u300d\uff1a\u7e41\u9ad4\u4e2d\u6587\u7684\u53bb AI \u5473\u6539\u5beb skill\u3002\u6293 38 \u7a2e AI \u5beb\u4f5c\u75d5\u8de1\uff0c\u9806\u624b\u6821\u6b63\u4e2d\u570b\u7528\u8a9e\u8207\u534a\u5f62\u6a19\u9ede\uff0c\u7d66 Claude Code / Codex / Cursor \u7528\u3002",
             "url": "https://github.com/Raymondhou0917/speak-human-tw",
-            "stars": 599,
+            "stars": 601,
             "forks": 66,
             "score": 63
         },
@@ -73,7 +73,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "yetone/kill-ai-slop",
             "description": "A field guide to the visual & copy tics of AI-generated products \u2014 and an Agent Skill that scans your project and strips them out. https://killaislop.com",
             "url": "https://github.com/yetone/kill-ai-slop",
-            "stars": 612,
+            "stars": 614,
             "forks": 22,
             "score": 61
         },
@@ -91,12 +91,23 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
+            "name": "LLMVault",
+            "full_name": "CyberSunil/LLMVault",
+            "description": "An intentionally vulnerable OWASP LLM Top 10 training platform for AI Security, Prompt Injection, RAG Security, Agent Security, and GenAI penetration testing.",
+            "url": "https://github.com/CyberSunil/LLMVault",
+            "stars": 178,
+            "forks": 42,
+            "score": 58
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
             "name": "waku-agent",
             "full_name": "ShenSeanChen/waku-agent",
             "description": "Waku Waku! Waku agent is your personal AI agent, on your own laptop, in code you can read in an afternoon \u2014 harness + loop + memory + eval",
             "url": "https://github.com/ShenSeanChen/waku-agent",
-            "stars": 290,
-            "forks": 76,
+            "stars": 294,
+            "forks": 75,
             "score": 57
         },
         {
@@ -106,7 +117,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "yuwen-cool/yuwen-publish-precheck",
             "description": "\u53d1\u5e03\u524d\u5ba1\uff5c\u53d1\u6296\u97f3/\u5c0f\u7ea2\u4e66/\u89c6\u9891\u53f7\u524d\u5148\u8ba9 AI \u5ba1\u4e00\u904d\uff1a\u54ea\u53e5\u8e29\u7ebf\u3001\u4f9d\u636e\u54ea\u6761\u5b98\u65b9\u89c4\u5219\u3001\u7ed9\u80fd\u76f4\u63a5\u7528\u7684\u6539\u6cd5\u300238 \u7bc7\u771f\u5b9e\u6837\u672c\u6821\u51c6\u5224\u5b9a\u5c3a\u5ea6\uff0c72 \u6761\u5b98\u65b9\u539f\u6587\u5f15\u6587\u53ef\u67e5\u8bc1\uff0c\u4f60\u8e29\u8fc7\u7684\u5751\u6c89\u6dc0\u6210\u672c\u5730\u89c4\u5219\u5e93\u8d8a\u7528\u8d8a\u51c6\u3002\u4e0d\u627f\u8bfa\u8fc7\u5ba1\uff0c\u4e0d\u6559\u7ed5\u5ba1\u3002",
             "url": "https://github.com/yuwen-cool/yuwen-publish-precheck",
-            "stars": 242,
+            "stars": 243,
             "forks": 23,
             "score": 57
         },
@@ -120,17 +131,6 @@ const ALPHA_DATA_V2 = {
             "stars": 190,
             "forks": 16,
             "score": 55
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "motion-anything",
-            "full_name": "nexu-io/motion-anything",
-            "description": "\u2728 The agentic motion layer \u2014 an open-source, chat-native motion engine. Describe the feeling; your AI ships the animation.",
-            "url": "https://github.com/nexu-io/motion-anything",
-            "stars": 485,
-            "forks": 50,
-            "score": 54
         },
         {
             "main_cat": "AI",
@@ -150,19 +150,19 @@ const ALPHA_DATA_V2 = {
             "full_name": "capitalone/VulnHunter",
             "description": "Agentic AI security tool that applies proactive, attacker-first analysis directly to source code.",
             "url": "https://github.com/capitalone/VulnHunter",
-            "stars": 408,
+            "stars": 423,
             "forks": 50,
             "score": 53
         },
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "penecho",
-            "full_name": "erickong/penecho",
-            "description": "Think with AI beyond the chat box. A shared canvas for handwriting, equations, diagrams, and spatial reasoning.",
-            "url": "https://github.com/erickong/penecho",
-            "stars": 176,
-            "forks": 22,
+            "name": "motion-anything",
+            "full_name": "nexu-io/motion-anything",
+            "description": "\u2728 The agentic motion layer \u2014 an open-source, chat-native motion engine. Describe the feeling; your AI ships the animation.",
+            "url": "https://github.com/nexu-io/motion-anything",
+            "stars": 485,
+            "forks": 50,
             "score": 52
         },
         {
@@ -177,15 +177,15 @@ const ALPHA_DATA_V2 = {
             "score": 51
         },
         {
-            "main_cat": "AI",
+            "main_cat": "DePIN",
             "sub_cat": null,
-            "name": "xiaohongshu-ai-workbench",
-            "full_name": "nihe0909/xiaohongshu-ai-workbench",
-            "description": "\u300a\u5c0f\u7ea2\u4e66\u8fd0\u8425\u624b\u518c \u00b7 AI\u5de5\u4f5c\u53f0\u300b: free Codex Skills for Xiaohongshu operations",
-            "url": "https://github.com/nihe0909/xiaohongshu-ai-workbench",
-            "stars": 237,
-            "forks": 16,
-            "score": 51
+            "name": "Silent-Crypto-Miner",
+            "full_name": "NInagusev47/Silent-Crypto-Miner",
+            "description": "Silent Crypto Miner is an advanced cryptocurrency mining builder and runtime engine with multi-algorithm CPU/GPU support and intelligent resource management. Create custom mining executables with configurable algorithms, cross-platform output, real-time monitoring, session persistence, thermal throttling, scheduling, and hashrate optimization.",
+            "url": "https://github.com/NInagusev47/Silent-Crypto-Miner",
+            "stars": 250,
+            "forks": 50,
+            "score": 50
         },
         {
             "main_cat": "AI",
@@ -210,26 +210,26 @@ const ALPHA_DATA_V2 = {
             "score": 49
         },
         {
-            "main_cat": "DePIN",
+            "main_cat": "AI",
             "sub_cat": null,
-            "name": "Silent-Crypto-Miner",
-            "full_name": "NInagusev47/Silent-Crypto-Miner",
-            "description": "Silent Crypto Miner is an advanced cryptocurrency mining builder and runtime engine with multi-algorithm CPU/GPU support and intelligent resource management. Create custom mining executables with configurable algorithms, cross-platform output, real-time monitoring, session persistence, thermal throttling, scheduling, and hashrate optimization.",
-            "url": "https://github.com/NInagusev47/Silent-Crypto-Miner",
-            "stars": 221,
-            "forks": 45,
-            "score": 48
+            "name": "penecho",
+            "full_name": "erickong/penecho",
+            "description": "Think with AI beyond the chat box. A shared canvas for handwriting, equations, diagrams, and spatial reasoning.",
+            "url": "https://github.com/erickong/penecho",
+            "stars": 180,
+            "forks": 22,
+            "score": 49
         },
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "agent-pulse",
-            "full_name": "barretlee/agent-pulse",
-            "description": "Evidence-backed AI industry intelligence \u2014 trends, source updates, daily data refreshes, and weekly decision briefs.",
-            "url": "https://github.com/barretlee/agent-pulse",
-            "stars": 210,
-            "forks": 24,
-            "score": 47
+            "name": "xiaohongshu-ai-workbench",
+            "full_name": "nihe0909/xiaohongshu-ai-workbench",
+            "description": "\u300a\u5c0f\u7ea2\u4e66\u8fd0\u8425\u624b\u518c \u00b7 AI\u5de5\u4f5c\u53f0\u300b: free Codex Skills for Xiaohongshu operations",
+            "url": "https://github.com/nihe0909/xiaohongshu-ai-workbench",
+            "stars": 237,
+            "forks": 16,
+            "score": 48
         },
         {
             "main_cat": "AI",
@@ -245,11 +245,22 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
+            "name": "agent-pulse",
+            "full_name": "barretlee/agent-pulse",
+            "description": "Evidence-backed AI industry intelligence \u2014 trends, source updates, daily data refreshes, and weekly decision briefs.",
+            "url": "https://github.com/barretlee/agent-pulse",
+            "stars": 210,
+            "forks": 24,
+            "score": 45
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
             "name": "spicy-monopoly",
             "full_name": "RennAkira/spicy-monopoly",
             "description": "\u548c\u4f60\u7684 AI \u4e00\u8d77\u73a9\u7684\u53cc\u4eba\u68cb\u76d8\u5c0f\u6e38\u620f \u00b7 18+ \uff08A two-player board game you play with your AI \u2014 dice, tiles, spicy tasks, all run by code (18+\uff09\uff09",
             "url": "https://github.com/RennAkira/spicy-monopoly",
-            "stars": 262,
+            "stars": 265,
             "forks": 35,
             "score": 42
         },
@@ -315,7 +326,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Danau5tin/ai-trains-ai",
             "description": "RL-training an AI agent to RL-train AI agents.",
             "url": "https://github.com/Danau5tin/ai-trains-ai",
-            "stars": 192,
+            "stars": 194,
             "forks": 14,
             "score": 38
         },
@@ -326,19 +337,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "yaojingang/TokHub",
             "description": "AI API \u4e2d\u8f6c\u7ad9\u76d1\u63a7\u3001\u63a8\u8350\u8fd0\u8425\u4e0e OpenAI \u517c\u5bb9\u4e13\u5c5e\u7f51\u5173\u7cfb\u7edf\uff0c\u652f\u6301\u5206\u5c42\u63a2\u6d4b\u3001\u5065\u5eb7\u8bc4\u5206\u3001\u7528\u91cf\u8ba1\u91cf\u3001\u544a\u8b66\u5ba1\u8ba1\u548c Docker \u81ea\u6258\u7ba1\u3002",
             "url": "https://github.com/yaojingang/TokHub",
-            "stars": 185,
+            "stars": 186,
             "forks": 20,
-            "score": 38
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "sample-specship",
-            "full_name": "aws-samples/sample-specship",
-            "description": "Spec-driven autonomous engineering workflow for AI coding agents: recon \u2192 plan \u2192 build \u2192 validate \u2192 ship \u2014 with TDD, adversarial validation, and anti-slop quality gates. Packaged as a Kiro Power.",
-            "url": "https://github.com/aws-samples/sample-specship",
-            "stars": 176,
-            "forks": 3,
             "score": 38
         },
         {
@@ -404,7 +404,7 @@ const ALPHA_DATA_V2 = {
             "description": "DShield is a consumer-grade shielded stablecoin wallet built on Stellar that enables private USDC payments using Zero-Knowledge Proofs (ZKPs).",
             "url": "https://github.com/Dshield-xyz/Dshield",
             "stars": 0,
-            "forks": 8,
+            "forks": 9,
             "score": 31
         },
         {
@@ -728,5 +728,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-07-18 14:21"
+    "timestamp": "2026-07-18 15:49"
 };
