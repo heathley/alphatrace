@@ -7,7 +7,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Blueturboguy07/cue",
             "description": "Open-source macOS AI copilot that floats over your screen, sees/hears your meetings, and stays hidden from screen shares. Cluely alternative, bring-your-own-key.",
             "url": "https://github.com/Blueturboguy07/cue",
-            "stars": 530,
+            "stars": 536,
             "forks": 109,
             "score": 99
         },
@@ -40,7 +40,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "PromptPartner/agentsmith",
             "description": "Universal, model-agnostic operating harness for AI agents (Claude, Codex, Gemini, \u2026) \u2014 a lean core + work-type profiles assembled by one setup script.",
             "url": "https://github.com/PromptPartner/agentsmith",
-            "stars": 307,
+            "stars": 308,
             "forks": 16,
             "score": 67
         },
@@ -73,7 +73,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "yetone/kill-ai-slop",
             "description": "A field guide to the visual & copy tics of AI-generated products \u2014 and an Agent Skill that scans your project and strips them out. https://killaislop.com",
             "url": "https://github.com/yetone/kill-ai-slop",
-            "stars": 614,
+            "stars": 615,
             "forks": 22,
             "score": 61
         },
@@ -84,7 +84,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "fxy2311-youyou/expression-trainer",
             "description": "\u5b87\u5b99\u65e0\u654c\u8868\u8fbe\u8bad\u7ec3\u7cfb\u7edf \u2014 \u5b9e\u65f6\u8bed\u97f3\u8f6c\u6587\u5b57 + 27000\u8bcd\u60c5\u611f\u8bcd\u5e93 + AI\u8868\u8fbe\u5206\u6790\u62a5\u544a\u3002\u79bb\u7ebf\u8fd0\u884c\uff0c\u5bf9\u7740\u5b83\u8bf4\u8bdd\uff0c\u5b83\u5e2e\u4f60\u770b\u89c1\u81ea\u5df1\u7684\u8868\u8fbe\u95ee\u9898\u3002",
             "url": "https://github.com/fxy2311-youyou/expression-trainer",
-            "stars": 464,
+            "stars": 465,
             "forks": 102,
             "score": 59
         },
@@ -95,9 +95,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "CyberSunil/LLMVault",
             "description": "An intentionally vulnerable OWASP LLM Top 10 training platform for AI Security, Prompt Injection, RAG Security, Agent Security, and GenAI penetration testing.",
             "url": "https://github.com/CyberSunil/LLMVault",
-            "stars": 178,
-            "forks": 42,
-            "score": 58
+            "stars": 180,
+            "forks": 43,
+            "score": 59
         },
         {
             "main_cat": "AI",
@@ -106,7 +106,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "ShenSeanChen/waku-agent",
             "description": "Waku Waku! Waku agent is your personal AI agent, on your own laptop, in code you can read in an afternoon \u2014 harness + loop + memory + eval",
             "url": "https://github.com/ShenSeanChen/waku-agent",
-            "stars": 294,
+            "stars": 295,
             "forks": 75,
             "score": 57
         },
@@ -128,20 +128,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "CodeDrobe/skills",
             "description": "Agent Skills for theming AI desktop apps: reference image \u2192 reversible Codex/WorkBuddy skin \u2192 verify, repair, publish. | \u7ed9 AI \u684c\u9762\u5e94\u7528\u6362\u80a4\u7684 Agent Skills\uff1a\u53c2\u8003\u56fe \u2192 \u53ef\u9006\u76ae\u80a4 \u2192 \u9a8c\u8bc1\u3001\u4fee\u590d\u3001\u53d1\u5e03\u3002",
             "url": "https://github.com/CodeDrobe/skills",
-            "stars": 190,
+            "stars": 192,
             "forks": 16,
             "score": 55
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "FableCut",
-            "full_name": "ronak-create/FableCut",
-            "description": "Zero-dependency browser video editor that AI agents can drive \u2014 JSON timeline, MCP + REST, live-reloading UI",
-            "url": "https://github.com/ronak-create/FableCut",
-            "stars": 475,
-            "forks": 47,
-            "score": 53
         },
         {
             "main_cat": "AI",
@@ -150,9 +139,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "capitalone/VulnHunter",
             "description": "Agentic AI security tool that applies proactive, attacker-first analysis directly to source code.",
             "url": "https://github.com/capitalone/VulnHunter",
-            "stars": 423,
-            "forks": 50,
-            "score": 53
+            "stars": 433,
+            "forks": 52,
+            "score": 54
         },
         {
             "main_cat": "AI",
@@ -163,6 +152,17 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/nexu-io/motion-anything",
             "stars": 485,
             "forks": 50,
+            "score": 52
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "FableCut",
+            "full_name": "ronak-create/FableCut",
+            "description": "Zero-dependency browser video editor that AI agents can drive \u2014 JSON timeline, MCP + REST, live-reloading UI",
+            "url": "https://github.com/ronak-create/FableCut",
+            "stars": 475,
+            "forks": 47,
             "score": 52
         },
         {
@@ -216,7 +216,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "erickong/penecho",
             "description": "Think with AI beyond the chat box. A shared canvas for handwriting, equations, diagrams, and spatial reasoning.",
             "url": "https://github.com/erickong/penecho",
-            "stars": 180,
+            "stars": 184,
             "forks": 22,
             "score": 49
         },
@@ -249,7 +249,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "barretlee/agent-pulse",
             "description": "Evidence-backed AI industry intelligence \u2014 trends, source updates, daily data refreshes, and weekly decision briefs.",
             "url": "https://github.com/barretlee/agent-pulse",
-            "stars": 210,
+            "stars": 211,
             "forks": 24,
             "score": 45
         },
@@ -294,7 +294,7 @@ const ALPHA_DATA_V2 = {
             "description": "Video understanding and self-verification for AI agents. Turn videos, streams, and agent screen recordings into searchable, timestamped evidence\u2014then use THE LOOP to inspect, fix, and verify the work. MCP, CLI, REST, local-first.",
             "url": "https://github.com/oxbshw/watch-skill",
             "stars": 210,
-            "forks": 28,
+            "forks": 29,
             "score": 40
         },
         {
@@ -617,17 +617,6 @@ const ALPHA_DATA_V2 = {
             "score": 30
         },
         {
-            "main_cat": "Stablecoin Infrastructure",
-            "sub_cat": null,
-            "name": "daloy",
-            "full_name": "OrangeJuice023/daloy",
-            "description": "is an open, zero-infrastructure analytics platform for stablecoin flows on Stellar, focused on Philippine remittance corridors. It is built on a production-grade ELT pipeline that ingests Stellar's public Hubble dataset (crypto-stellar.crypto_stellar), near real-time payment data from the Horizon API, and market data from CoinGecko and DeFiLlama",
-            "url": "https://github.com/OrangeJuice023/daloy",
-            "stars": 0,
-            "forks": 0,
-            "score": 30
-        },
-        {
             "main_cat": "AI",
             "sub_cat": "AI General",
             "name": "Universal-Cross-Chain-Bridge",
@@ -728,5 +717,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-07-18 15:49"
+    "timestamp": "2026-07-18 16:49"
 };
