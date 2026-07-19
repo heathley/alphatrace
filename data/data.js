@@ -8,7 +8,7 @@ const ALPHA_DATA_V2 = {
             "description": "Open-source macOS AI copilot that floats over your screen, sees/hears your meetings, and stays hidden from screen shares. Cluely alternative, bring-your-own-key.",
             "url": "https://github.com/Blueturboguy07/cue",
             "stars": 605,
-            "forks": 131,
+            "forks": 132,
             "score": 99
         },
         {
@@ -18,8 +18,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "William-Lu-stack/Flawless",
             "description": "AI SRE AgenticOps for Kubernetes and cloud infrastructure.",
             "url": "https://github.com/William-Lu-stack/Flawless",
-            "stars": 772,
-            "forks": 171,
+            "stars": 774,
+            "forks": 172,
             "score": 90
         },
         {
@@ -29,9 +29,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "v-modal/vmodal_sdk_flutter",
             "description": "V- Modal AI: Search anything anywhere SDK Flutter",
             "url": "https://github.com/v-modal/vmodal_sdk_flutter",
-            "stars": 565,
+            "stars": 573,
             "forks": 1,
-            "score": 77
+            "score": 78
         },
         {
             "main_cat": "AI",
@@ -80,6 +80,17 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
+            "name": "penecho",
+            "full_name": "erickong/penecho",
+            "description": "Think with AI beyond the chat box. A shared canvas for handwriting, equations, diagrams, and spatial reasoning.",
+            "url": "https://github.com/erickong/penecho",
+            "stars": 322,
+            "forks": 41,
+            "score": 60
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
             "name": "yuwen-publish-precheck",
             "full_name": "yuwen-cool/yuwen-publish-precheck",
             "description": "\u53d1\u5e03\u524d\u5ba1\uff5c\u53d1\u6296\u97f3/\u5c0f\u7ea2\u4e66/\u89c6\u9891\u53f7\u524d\u5148\u8ba9 AI \u5ba1\u4e00\u904d\uff1a\u54ea\u53e5\u8e29\u7ebf\u3001\u4f9d\u636e\u54ea\u6761\u5b98\u65b9\u89c4\u5219\u3001\u7ed9\u80fd\u76f4\u63a5\u7528\u7684\u6539\u6cd5\u300238 \u7bc7\u771f\u5b9e\u6837\u672c\u6821\u51c6\u5224\u5b9a\u5c3a\u5ea6\uff0c72 \u6761\u5b98\u65b9\u539f\u6587\u5f15\u6587\u53ef\u67e5\u8bc1\uff0c\u4f60\u8e29\u8fc7\u7684\u5751\u6c89\u6dc0\u6210\u672c\u5730\u89c4\u5219\u5e93\u8d8a\u7528\u8d8a\u51c6\u3002\u4e0d\u627f\u8bfa\u8fc7\u5ba1\uff0c\u4e0d\u6559\u7ed5\u5ba1\u3002",
@@ -87,28 +98,6 @@ const ALPHA_DATA_V2 = {
             "stars": 307,
             "forks": 29,
             "score": 60
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "penecho",
-            "full_name": "erickong/penecho",
-            "description": "Think with AI beyond the chat box. A shared canvas for handwriting, equations, diagrams, and spatial reasoning.",
-            "url": "https://github.com/erickong/penecho",
-            "stars": 313,
-            "forks": 41,
-            "score": 59
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "VulnHunter",
-            "full_name": "capitalone/VulnHunter",
-            "description": "Agentic AI security tool that applies proactive, attacker-first analysis directly to source code.",
-            "url": "https://github.com/capitalone/VulnHunter",
-            "stars": 520,
-            "forks": 69,
-            "score": 58
         },
         {
             "main_cat": "AI",
@@ -146,13 +135,13 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "skills",
-            "full_name": "CodeDrobe/skills",
-            "description": "Agent Skills for theming AI desktop apps: reference image \u2192 reversible Codex/WorkBuddy skin \u2192 verify, repair, publish. | \u7ed9 AI \u684c\u9762\u5e94\u7528\u6362\u80a4\u7684 Agent Skills\uff1a\u53c2\u8003\u56fe \u2192 \u53ef\u9006\u76ae\u80a4 \u2192 \u9a8c\u8bc1\u3001\u4fee\u590d\u3001\u53d1\u5e03\u3002",
-            "url": "https://github.com/CodeDrobe/skills",
-            "stars": 204,
-            "forks": 16,
-            "score": 52
+            "name": "VulnHunter",
+            "full_name": "capitalone/VulnHunter",
+            "description": "Agentic AI security tool that applies proactive, attacker-first analysis directly to source code.",
+            "url": "https://github.com/capitalone/VulnHunter",
+            "stars": 524,
+            "forks": 69,
+            "score": 56
         },
         {
             "main_cat": "AI",
@@ -186,6 +175,17 @@ const ALPHA_DATA_V2 = {
             "stars": 379,
             "forks": 49,
             "score": 50
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "skills",
+            "full_name": "CodeDrobe/skills",
+            "description": "Agent Skills for theming AI desktop apps: reference image \u2192 reversible Codex/WorkBuddy skin \u2192 verify, repair, publish. | \u7ed9 AI \u684c\u9762\u5e94\u7528\u6362\u80a4\u7684 Agent Skills\uff1a\u53c2\u8003\u56fe \u2192 \u53ef\u9006\u76ae\u80a4 \u2192 \u9a8c\u8bc1\u3001\u4fee\u590d\u3001\u53d1\u5e03\u3002",
+            "url": "https://github.com/CodeDrobe/skills",
+            "stars": 205,
+            "forks": 16,
+            "score": 49
         },
         {
             "main_cat": "AI",
@@ -249,9 +249,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "zhouwei713/seedance-prompt",
             "description": "Hermes skill for realistic AI video prompts for Seedance and text-to-video models.",
             "url": "https://github.com/zhouwei713/seedance-prompt",
-            "stars": 221,
-            "forks": 42,
-            "score": 42
+            "stars": 222,
+            "forks": 43,
+            "score": 43
         },
         {
             "main_cat": "AI",
@@ -706,5 +706,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-07-19 20:05"
+    "timestamp": "2026-07-19 21:44"
 };
