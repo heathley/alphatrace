@@ -7,7 +7,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Blueturboguy07/cue",
             "description": "Open-source macOS AI copilot that floats over your screen, sees/hears your meetings, and stays hidden from screen shares. Cluely alternative, bring-your-own-key.",
             "url": "https://github.com/Blueturboguy07/cue",
-            "stars": 600,
+            "stars": 605,
             "forks": 131,
             "score": 99
         },
@@ -18,8 +18,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "William-Lu-stack/Flawless",
             "description": "AI SRE AgenticOps for Kubernetes and cloud infrastructure.",
             "url": "https://github.com/William-Lu-stack/Flawless",
-            "stars": 771,
-            "forks": 170,
+            "stars": 772,
+            "forks": 171,
             "score": 90
         },
         {
@@ -29,9 +29,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "v-modal/vmodal_sdk_flutter",
             "description": "V- Modal AI: Search anything anywhere SDK Flutter",
             "url": "https://github.com/v-modal/vmodal_sdk_flutter",
-            "stars": 553,
+            "stars": 565,
             "forks": 1,
-            "score": 76
+            "score": 77
         },
         {
             "main_cat": "AI",
@@ -73,7 +73,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "yetone/kill-ai-slop",
             "description": "A field guide to the visual & copy tics of AI-generated products \u2014 and an Agent Skill that scans your project and strips them out. https://killaislop.com",
             "url": "https://github.com/yetone/kill-ai-slop",
-            "stars": 637,
+            "stars": 639,
             "forks": 22,
             "score": 60
         },
@@ -95,7 +95,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "erickong/penecho",
             "description": "Think with AI beyond the chat box. A shared canvas for handwriting, equations, diagrams, and spatial reasoning.",
             "url": "https://github.com/erickong/penecho",
-            "stars": 307,
+            "stars": 313,
             "forks": 41,
             "score": 59
         },
@@ -106,7 +106,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "capitalone/VulnHunter",
             "description": "Agentic AI security tool that applies proactive, attacker-first analysis directly to source code.",
             "url": "https://github.com/capitalone/VulnHunter",
-            "stars": 518,
+            "stars": 520,
             "forks": 69,
             "score": 58
         },
@@ -128,7 +128,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "CyberSunil/LLMVault",
             "description": "An intentionally vulnerable OWASP LLM Top 10 training platform for AI Security, Prompt Injection, RAG Security, Agent Security, and GenAI penetration testing.",
             "url": "https://github.com/CyberSunil/LLMVault",
-            "stars": 199,
+            "stars": 200,
             "forks": 50,
             "score": 58
         },
@@ -139,7 +139,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "ShenSeanChen/waku-agent",
             "description": "Waku Waku! Waku agent is your personal AI agent, on your own laptop, in code you can read in an afternoon \u2014 harness + loop + memory + eval",
             "url": "https://github.com/ShenSeanChen/waku-agent",
-            "stars": 325,
+            "stars": 326,
             "forks": 83,
             "score": 57
         },
@@ -183,7 +183,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "bkingfilm/lapian-notes",
             "description": "AI \u8f85\u52a9\u7684\u7535\u5f71\u62c9\u7247\u5de5\u5177\uff1a\u5bfc\u5165\u5f71\u7247\uff0cAI \u62c6\u51fa\u5267\u60c5\u6cf3\u9053\u65f6\u95f4\u8f74\u3001\u7ed3\u6784\u6811\u3001\u89c2\u4f17\u60c5\u7eea\u66f2\u7ebf\uff0c\u8fb9\u64ad\u8fb9\u5199\u4f60\u7684\u62c9\u7247\u7b14\u8bb0\u3002\u514d\u8d39\u5f00\u6e90\uff0c\u6570\u636e\u5168\u5728\u672c\u5730",
             "url": "https://github.com/bkingfilm/lapian-notes",
-            "stars": 378,
+            "stars": 379,
             "forks": 49,
             "score": 50
         },
@@ -249,8 +249,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "zhouwei713/seedance-prompt",
             "description": "Hermes skill for realistic AI video prompts for Seedance and text-to-video models.",
             "url": "https://github.com/zhouwei713/seedance-prompt",
-            "stars": 220,
-            "forks": 41,
+            "stars": 221,
+            "forks": 42,
             "score": 42
         },
         {
@@ -293,7 +293,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Danau5tin/ai-trains-ai",
             "description": "RL-training an AI agent to RL-train AI agents.",
             "url": "https://github.com/Danau5tin/ai-trains-ai",
-            "stars": 206,
+            "stars": 207,
             "forks": 16,
             "score": 39
         },
@@ -344,23 +344,23 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
+            "name": "llm-serve-dashboard",
+            "full_name": "NHClimber87/llm-serve-dashboard",
+            "description": "Single-file, dependency-free live dashboard for local llama.cpp/vLLM serving \u2014 GPU, throughput, KV/ctx, model library. Stdlib Python + one local-first HTML page.",
+            "url": "https://github.com/NHClimber87/llm-serve-dashboard",
+            "stars": 60,
+            "forks": 10,
+            "score": 34
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
             "name": "StellarPulse",
             "full_name": "Steller-StellarPulse-org/StellarPulse",
             "description": "Stellar Pulse is a decentralized prediction market built on Stellar/Soroban. Users connect a wallet, bet XLM on YES/NO markets, earn PULSE tokens and points, and claim payouts on-chain.",
             "url": "https://github.com/Steller-StellarPulse-org/StellarPulse",
             "stars": 6,
             "forks": 29,
-            "score": 35
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "llm-serve-dashboard",
-            "full_name": "NHClimber87/llm-serve-dashboard",
-            "description": "Single-file, dependency-free live dashboard for local llama.cpp/vLLM serving \u2014 GPU, throughput, KV/ctx, model library. Stdlib Python + one local-first HTML page.",
-            "url": "https://github.com/NHClimber87/llm-serve-dashboard",
-            "stars": 59,
-            "forks": 10,
             "score": 34
         },
         {
@@ -392,8 +392,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "tinyBigGAMES/Gemma4.pas",
             "description": "Gemma4.pas is a high-performance AI inference engine developed entirely in Delphi to run Google\u2019s Gemma 4 model natively on Windows. Unlike most platforms, this project features zero external dependencies and utilizes Vulkan compute shaders to accelerate complex mathematical operations directly on the user's GPU.",
             "url": "https://github.com/tinyBigGAMES/Gemma4.pas",
-            "stars": 26,
-            "forks": 4,
+            "stars": 27,
+            "forks": 5,
             "score": 31
         },
         {
@@ -706,5 +706,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-07-19 18:57"
+    "timestamp": "2026-07-19 20:05"
 };
