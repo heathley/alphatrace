@@ -7,7 +7,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Blueturboguy07/cue",
             "description": "Open-source macOS AI copilot that floats over your screen, sees/hears your meetings, and stays hidden from screen shares. Cluely alternative, bring-your-own-key.",
             "url": "https://github.com/Blueturboguy07/cue",
-            "stars": 605,
+            "stars": 607,
             "forks": 132,
             "score": 99
         },
@@ -18,9 +18,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "William-Lu-stack/Flawless",
             "description": "AI SRE AgenticOps for Kubernetes and cloud infrastructure.",
             "url": "https://github.com/William-Lu-stack/Flawless",
-            "stars": 774,
+            "stars": 777,
             "forks": 172,
-            "score": 90
+            "score": 91
         },
         {
             "main_cat": "AI",
@@ -29,7 +29,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "v-modal/vmodal_sdk_flutter",
             "description": "V- Modal AI: Search anything anywhere SDK Flutter",
             "url": "https://github.com/v-modal/vmodal_sdk_flutter",
-            "stars": 573,
+            "stars": 576,
             "forks": 1,
             "score": 78
         },
@@ -40,7 +40,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Raymondhou0917/speak-human-tw",
             "description": "\u300c\u8aaa\u4eba\u8a71\u300d\uff1a\u7e41\u9ad4\u4e2d\u6587\u7684\u53bb AI \u5473\u6539\u5beb skill\u3002\u6293 38 \u7a2e AI \u5beb\u4f5c\u75d5\u8de1\uff0c\u9806\u624b\u6821\u6b63\u4e2d\u570b\u7528\u8a9e\u8207\u534a\u5f62\u6a19\u9ede\uff0c\u7d66 Claude Code / Codex / Cursor \u7528\u3002",
             "url": "https://github.com/Raymondhou0917/speak-human-tw",
-            "stars": 614,
+            "stars": 615,
             "forks": 67,
             "score": 61
         },
@@ -84,7 +84,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "erickong/penecho",
             "description": "Think with AI beyond the chat box. A shared canvas for handwriting, equations, diagrams, and spatial reasoning.",
             "url": "https://github.com/erickong/penecho",
-            "stars": 322,
+            "stars": 323,
             "forks": 41,
             "score": 60
         },
@@ -139,7 +139,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "capitalone/VulnHunter",
             "description": "Agentic AI security tool that applies proactive, attacker-first analysis directly to source code.",
             "url": "https://github.com/capitalone/VulnHunter",
-            "stars": 524,
+            "stars": 525,
             "forks": 69,
             "score": 56
         },
@@ -238,7 +238,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "barretlee/agent-pulse",
             "description": "Evidence-backed AI industry intelligence \u2014 trends, source updates, daily data refreshes, and weekly decision briefs.",
             "url": "https://github.com/barretlee/agent-pulse",
-            "stars": 216,
+            "stars": 217,
             "forks": 24,
             "score": 44
         },
@@ -249,8 +249,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "zhouwei713/seedance-prompt",
             "description": "Hermes skill for realistic AI video prompts for Seedance and text-to-video models.",
             "url": "https://github.com/zhouwei713/seedance-prompt",
-            "stars": 222,
-            "forks": 43,
+            "stars": 225,
+            "forks": 44,
             "score": 43
         },
         {
@@ -261,7 +261,7 @@ const ALPHA_DATA_V2 = {
             "description": "PentestCode - Multi-agent AI penetration testing system with persistent engagement state, strategic coordination, and parallel autonomous operations.",
             "url": "https://github.com/s0ld13rr/pentestcode",
             "stars": 197,
-            "forks": 37,
+            "forks": 38,
             "score": 42
         },
         {
@@ -706,5 +706,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-07-19 21:44"
+    "timestamp": "2026-07-19 22:43"
 };
