@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "Blueturboguy07/cue",
             "description": "Open-source macOS AI copilot that floats over your screen, sees/hears your meetings, and stays hidden from screen shares. Cluely alternative, bring-your-own-key.",
             "url": "https://github.com/Blueturboguy07/cue",
-            "stars": 583,
-            "forks": 129,
+            "stars": 586,
+            "forks": 130,
             "score": 99
         },
         {
@@ -18,8 +18,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "William-Lu-stack/Flawless",
             "description": "AI SRE AgenticOps for Kubernetes and cloud infrastructure.",
             "url": "https://github.com/William-Lu-stack/Flawless",
-            "stars": 767,
-            "forks": 164,
+            "stars": 768,
+            "forks": 165,
             "score": 89
         },
         {
@@ -29,9 +29,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "v-modal/vmodal_sdk_flutter",
             "description": "V- Modal AI: Search anything anywhere SDK Flutter",
             "url": "https://github.com/v-modal/vmodal_sdk_flutter",
-            "stars": 503,
+            "stars": 517,
             "forks": 1,
-            "score": 72
+            "score": 73
         },
         {
             "main_cat": "AI",
@@ -40,7 +40,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Raymondhou0917/speak-human-tw",
             "description": "\u300c\u8aaa\u4eba\u8a71\u300d\uff1a\u7e41\u9ad4\u4e2d\u6587\u7684\u53bb AI \u5473\u6539\u5beb skill\u3002\u6293 38 \u7a2e AI \u5beb\u4f5c\u75d5\u8de1\uff0c\u9806\u624b\u6821\u6b63\u4e2d\u570b\u7528\u8a9e\u8207\u534a\u5f62\u6a19\u9ede\uff0c\u7d66 Claude Code / Codex / Cursor \u7528\u3002",
             "url": "https://github.com/Raymondhou0917/speak-human-tw",
-            "stars": 612,
+            "stars": 614,
             "forks": 67,
             "score": 61
         },
@@ -62,7 +62,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "dongguatanglinux/grok-build-auth",
             "description": "Protocol research client: x.ai signup \u2192 SSO \u2192 Grok Build OAuth \u2192 CLIProxyAPI auth export (authorized use only)",
             "url": "https://github.com/dongguatanglinux/grok-build-auth",
-            "stars": 269,
+            "stars": 270,
             "forks": 123,
             "score": 61
         },
@@ -84,9 +84,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "yuwen-cool/yuwen-publish-precheck",
             "description": "\u53d1\u5e03\u524d\u5ba1\uff5c\u53d1\u6296\u97f3/\u5c0f\u7ea2\u4e66/\u89c6\u9891\u53f7\u524d\u5148\u8ba9 AI \u5ba1\u4e00\u904d\uff1a\u54ea\u53e5\u8e29\u7ebf\u3001\u4f9d\u636e\u54ea\u6761\u5b98\u65b9\u89c4\u5219\u3001\u7ed9\u80fd\u76f4\u63a5\u7528\u7684\u6539\u6cd5\u300238 \u7bc7\u771f\u5b9e\u6837\u672c\u6821\u51c6\u5224\u5b9a\u5c3a\u5ea6\uff0c72 \u6761\u5b98\u65b9\u539f\u6587\u5f15\u6587\u53ef\u67e5\u8bc1\uff0c\u4f60\u8e29\u8fc7\u7684\u5751\u6c89\u6dc0\u6210\u672c\u5730\u89c4\u5219\u5e93\u8d8a\u7528\u8d8a\u51c6\u3002\u4e0d\u627f\u8bfa\u8fc7\u5ba1\uff0c\u4e0d\u6559\u7ed5\u5ba1\u3002",
             "url": "https://github.com/yuwen-cool/yuwen-publish-precheck",
-            "stars": 300,
+            "stars": 306,
             "forks": 28,
             "score": 59
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "VulnHunter",
+            "full_name": "capitalone/VulnHunter",
+            "description": "Agentic AI security tool that applies proactive, attacker-first analysis directly to source code.",
+            "url": "https://github.com/capitalone/VulnHunter",
+            "stars": 512,
+            "forks": 68,
+            "score": 58
         },
         {
             "main_cat": "AI",
@@ -95,8 +106,19 @@ const ALPHA_DATA_V2 = {
             "full_name": "fxy2311-youyou/expression-trainer",
             "description": "\u5b87\u5b99\u65e0\u654c\u8868\u8fbe\u8bad\u7ec3\u7cfb\u7edf \u2014 \u5b9e\u65f6\u8bed\u97f3\u8f6c\u6587\u5b57 + 27000\u8bcd\u60c5\u611f\u8bcd\u5e93 + AI\u8868\u8fbe\u5206\u6790\u62a5\u544a\u3002\u79bb\u7ebf\u8fd0\u884c\uff0c\u5bf9\u7740\u5b83\u8bf4\u8bdd\uff0c\u5b83\u5e2e\u4f60\u770b\u89c1\u81ea\u5df1\u7684\u8868\u8fbe\u95ee\u9898\u3002",
             "url": "https://github.com/fxy2311-youyou/expression-trainer",
-            "stars": 488,
-            "forks": 105,
+            "stars": 490,
+            "forks": 106,
+            "score": 58
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "penecho",
+            "full_name": "erickong/penecho",
+            "description": "Think with AI beyond the chat box. A shared canvas for handwriting, equations, diagrams, and spatial reasoning.",
+            "url": "https://github.com/erickong/penecho",
+            "stars": 298,
+            "forks": 39,
             "score": 58
         },
         {
@@ -106,20 +128,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "CyberSunil/LLMVault",
             "description": "An intentionally vulnerable OWASP LLM Top 10 training platform for AI Security, Prompt Injection, RAG Security, Agent Security, and GenAI penetration testing.",
             "url": "https://github.com/CyberSunil/LLMVault",
-            "stars": 196,
+            "stars": 197,
             "forks": 49,
             "score": 58
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "VulnHunter",
-            "full_name": "capitalone/VulnHunter",
-            "description": "Agentic AI security tool that applies proactive, attacker-first analysis directly to source code.",
-            "url": "https://github.com/capitalone/VulnHunter",
-            "stars": 509,
-            "forks": 68,
-            "score": 57
         },
         {
             "main_cat": "AI",
@@ -128,31 +139,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "ShenSeanChen/waku-agent",
             "description": "Waku Waku! Waku agent is your personal AI agent, on your own laptop, in code you can read in an afternoon \u2014 harness + loop + memory + eval",
             "url": "https://github.com/ShenSeanChen/waku-agent",
-            "stars": 321,
+            "stars": 323,
             "forks": 83,
             "score": 57
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "penecho",
-            "full_name": "erickong/penecho",
-            "description": "Think with AI beyond the chat box. A shared canvas for handwriting, equations, diagrams, and spatial reasoning.",
-            "url": "https://github.com/erickong/penecho",
-            "stars": 280,
-            "forks": 38,
-            "score": 57
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "FableCut",
-            "full_name": "ronak-create/FableCut",
-            "description": "Zero-dependency browser video editor that AI agents can drive \u2014 JSON timeline, MCP + REST, live-reloading UI",
-            "url": "https://github.com/ronak-create/FableCut",
-            "stars": 480,
-            "forks": 47,
-            "score": 52
         },
         {
             "main_cat": "AI",
@@ -172,9 +161,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "nexu-io/motion-anything",
             "description": "\u2728 The agentic motion layer \u2014 an open-source, chat-native motion engine. Describe the feeling; your AI ships the animation.",
             "url": "https://github.com/nexu-io/motion-anything",
-            "stars": 488,
+            "stars": 489,
             "forks": 50,
             "score": 51
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "FableCut",
+            "full_name": "ronak-create/FableCut",
+            "description": "Zero-dependency browser video editor that AI agents can drive \u2014 JSON timeline, MCP + REST, live-reloading UI",
+            "url": "https://github.com/ronak-create/FableCut",
+            "stars": 480,
+            "forks": 47,
+            "score": 50
         },
         {
             "main_cat": "AI",
@@ -183,7 +183,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "bkingfilm/lapian-notes",
             "description": "AI \u8f85\u52a9\u7684\u7535\u5f71\u62c9\u7247\u5de5\u5177\uff1a\u5bfc\u5165\u5f71\u7247\uff0cAI \u62c6\u51fa\u5267\u60c5\u6cf3\u9053\u65f6\u95f4\u8f74\u3001\u7ed3\u6784\u6811\u3001\u89c2\u4f17\u60c5\u7eea\u66f2\u7ebf\uff0c\u8fb9\u64ad\u8fb9\u5199\u4f60\u7684\u62c9\u7247\u7b14\u8bb0\u3002\u514d\u8d39\u5f00\u6e90\uff0c\u6570\u636e\u5168\u5728\u672c\u5730",
             "url": "https://github.com/bkingfilm/lapian-notes",
-            "stars": 377,
+            "stars": 378,
             "forks": 49,
             "score": 50
         },
@@ -249,9 +249,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "zhouwei713/seedance-prompt",
             "description": "Hermes skill for realistic AI video prompts for Seedance and text-to-video models.",
             "url": "https://github.com/zhouwei713/seedance-prompt",
-            "stars": 209,
-            "forks": 37,
-            "score": 41
+            "stars": 216,
+            "forks": 40,
+            "score": 42
         },
         {
             "main_cat": "AI",
@@ -260,9 +260,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "s0ld13rr/pentestcode",
             "description": "PentestCode - Multi-agent AI penetration testing system with persistent engagement state, strategic coordination, and parallel autonomous operations.",
             "url": "https://github.com/s0ld13rr/pentestcode",
-            "stars": 191,
+            "stars": 192,
             "forks": 36,
-            "score": 41
+            "score": 42
         },
         {
             "main_cat": "AI",
@@ -304,7 +304,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Danau5tin/ai-trains-ai",
             "description": "RL-training an AI agent to RL-train AI agents.",
             "url": "https://github.com/Danau5tin/ai-trains-ai",
-            "stars": 204,
+            "stars": 205,
             "forks": 16,
             "score": 38
         },
@@ -315,7 +315,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "chordswallowthrust/undress-design",
             "description": "AI-powered fashion visualization and virtual try-on toolkit for consent-based garment editing, outfit prototyping, and creative design workflows. https://undress.design/edit?utm_source=gist.github.com/chordswallowthrust/undress-design",
             "url": "https://github.com/chordswallowthrust/undress-design",
-            "stars": 204,
+            "stars": 205,
             "forks": 0,
             "score": 38
         },
@@ -337,7 +337,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "aws-samples/sample-specship",
             "description": "Spec-driven autonomous engineering workflow for AI coding agents: recon \u2192 plan \u2192 build \u2192 validate \u2192 ship \u2014 with TDD, adversarial validation, and anti-slop quality gates. Packaged as a Kiro Power.",
             "url": "https://github.com/aws-samples/sample-specship",
-            "stars": 181,
+            "stars": 182,
             "forks": 3,
             "score": 38
         },
@@ -375,6 +375,17 @@ const ALPHA_DATA_V2 = {
             "score": 32
         },
         {
+            "main_cat": "Stablecoin Infrastructure",
+            "sub_cat": null,
+            "name": "Dshield",
+            "full_name": "Dshield-xyz/Dshield",
+            "description": "DShield is a consumer-grade shielded stablecoin wallet built on Stellar that enables private USDC payments using Zero-Knowledge Proofs (ZKPs).",
+            "url": "https://github.com/Dshield-xyz/Dshield",
+            "stars": 0,
+            "forks": 14,
+            "score": 32
+        },
+        {
             "main_cat": "AI",
             "sub_cat": "AI General",
             "name": "Gemma4.pas",
@@ -383,17 +394,6 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/tinyBigGAMES/Gemma4.pas",
             "stars": 26,
             "forks": 4,
-            "score": 31
-        },
-        {
-            "main_cat": "Stablecoin Infrastructure",
-            "sub_cat": null,
-            "name": "Dshield",
-            "full_name": "Dshield-xyz/Dshield",
-            "description": "DShield is a consumer-grade shielded stablecoin wallet built on Stellar that enables private USDC payments using Zero-Knowledge Proofs (ZKPs).",
-            "url": "https://github.com/Dshield-xyz/Dshield",
-            "stars": 0,
-            "forks": 13,
             "score": 31
         },
         {
@@ -706,5 +706,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-07-19 15:51"
+    "timestamp": "2026-07-19 16:50"
 };
