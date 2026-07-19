@@ -7,7 +7,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Blueturboguy07/cue",
             "description": "Open-source macOS AI copilot that floats over your screen, sees/hears your meetings, and stays hidden from screen shares. Cluely alternative, bring-your-own-key.",
             "url": "https://github.com/Blueturboguy07/cue",
-            "stars": 579,
+            "stars": 583,
             "forks": 129,
             "score": 99
         },
@@ -18,8 +18,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "William-Lu-stack/Flawless",
             "description": "AI SRE AgenticOps for Kubernetes and cloud infrastructure.",
             "url": "https://github.com/William-Lu-stack/Flawless",
-            "stars": 765,
-            "forks": 163,
+            "stars": 767,
+            "forks": 164,
             "score": 89
         },
         {
@@ -29,9 +29,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "v-modal/vmodal_sdk_flutter",
             "description": "V- Modal AI: Search anything anywhere SDK Flutter",
             "url": "https://github.com/v-modal/vmodal_sdk_flutter",
-            "stars": 468,
+            "stars": 503,
             "forks": 1,
-            "score": 69
+            "score": 72
         },
         {
             "main_cat": "AI",
@@ -40,7 +40,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Raymondhou0917/speak-human-tw",
             "description": "\u300c\u8aaa\u4eba\u8a71\u300d\uff1a\u7e41\u9ad4\u4e2d\u6587\u7684\u53bb AI \u5473\u6539\u5beb skill\u3002\u6293 38 \u7a2e AI \u5beb\u4f5c\u75d5\u8de1\uff0c\u9806\u624b\u6821\u6b63\u4e2d\u570b\u7528\u8a9e\u8207\u534a\u5f62\u6a19\u9ede\uff0c\u7d66 Claude Code / Codex / Cursor \u7528\u3002",
             "url": "https://github.com/Raymondhou0917/speak-human-tw",
-            "stars": 611,
+            "stars": 612,
             "forks": 67,
             "score": 61
         },
@@ -73,20 +73,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "yetone/kill-ai-slop",
             "description": "A field guide to the visual & copy tics of AI-generated products \u2014 and an Agent Skill that scans your project and strips them out. https://killaislop.com",
             "url": "https://github.com/yetone/kill-ai-slop",
-            "stars": 633,
+            "stars": 634,
             "forks": 22,
             "score": 60
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "expression-trainer",
-            "full_name": "fxy2311-youyou/expression-trainer",
-            "description": "\u5b87\u5b99\u65e0\u654c\u8868\u8fbe\u8bad\u7ec3\u7cfb\u7edf \u2014 \u5b9e\u65f6\u8bed\u97f3\u8f6c\u6587\u5b57 + 27000\u8bcd\u60c5\u611f\u8bcd\u5e93 + AI\u8868\u8fbe\u5206\u6790\u62a5\u544a\u3002\u79bb\u7ebf\u8fd0\u884c\uff0c\u5bf9\u7740\u5b83\u8bf4\u8bdd\uff0c\u5b83\u5e2e\u4f60\u770b\u89c1\u81ea\u5df1\u7684\u8868\u8fbe\u95ee\u9898\u3002",
-            "url": "https://github.com/fxy2311-youyou/expression-trainer",
-            "stars": 486,
-            "forks": 105,
-            "score": 58
         },
         {
             "main_cat": "AI",
@@ -95,8 +84,30 @@ const ALPHA_DATA_V2 = {
             "full_name": "yuwen-cool/yuwen-publish-precheck",
             "description": "\u53d1\u5e03\u524d\u5ba1\uff5c\u53d1\u6296\u97f3/\u5c0f\u7ea2\u4e66/\u89c6\u9891\u53f7\u524d\u5148\u8ba9 AI \u5ba1\u4e00\u904d\uff1a\u54ea\u53e5\u8e29\u7ebf\u3001\u4f9d\u636e\u54ea\u6761\u5b98\u65b9\u89c4\u5219\u3001\u7ed9\u80fd\u76f4\u63a5\u7528\u7684\u6539\u6cd5\u300238 \u7bc7\u771f\u5b9e\u6837\u672c\u6821\u51c6\u5224\u5b9a\u5c3a\u5ea6\uff0c72 \u6761\u5b98\u65b9\u539f\u6587\u5f15\u6587\u53ef\u67e5\u8bc1\uff0c\u4f60\u8e29\u8fc7\u7684\u5751\u6c89\u6dc0\u6210\u672c\u5730\u89c4\u5219\u5e93\u8d8a\u7528\u8d8a\u51c6\u3002\u4e0d\u627f\u8bfa\u8fc7\u5ba1\uff0c\u4e0d\u6559\u7ed5\u5ba1\u3002",
             "url": "https://github.com/yuwen-cool/yuwen-publish-precheck",
-            "stars": 291,
+            "stars": 300,
             "forks": 28,
+            "score": 59
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "expression-trainer",
+            "full_name": "fxy2311-youyou/expression-trainer",
+            "description": "\u5b87\u5b99\u65e0\u654c\u8868\u8fbe\u8bad\u7ec3\u7cfb\u7edf \u2014 \u5b9e\u65f6\u8bed\u97f3\u8f6c\u6587\u5b57 + 27000\u8bcd\u60c5\u611f\u8bcd\u5e93 + AI\u8868\u8fbe\u5206\u6790\u62a5\u544a\u3002\u79bb\u7ebf\u8fd0\u884c\uff0c\u5bf9\u7740\u5b83\u8bf4\u8bdd\uff0c\u5b83\u5e2e\u4f60\u770b\u89c1\u81ea\u5df1\u7684\u8868\u8fbe\u95ee\u9898\u3002",
+            "url": "https://github.com/fxy2311-youyou/expression-trainer",
+            "stars": 488,
+            "forks": 105,
+            "score": 58
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "LLMVault",
+            "full_name": "CyberSunil/LLMVault",
+            "description": "An intentionally vulnerable OWASP LLM Top 10 training platform for AI Security, Prompt Injection, RAG Security, Agent Security, and GenAI penetration testing.",
+            "url": "https://github.com/CyberSunil/LLMVault",
+            "stars": 196,
+            "forks": 49,
             "score": 58
         },
         {
@@ -106,7 +117,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "capitalone/VulnHunter",
             "description": "Agentic AI security tool that applies proactive, attacker-first analysis directly to source code.",
             "url": "https://github.com/capitalone/VulnHunter",
-            "stars": 506,
+            "stars": 509,
             "forks": 68,
             "score": 57
         },
@@ -117,19 +128,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "ShenSeanChen/waku-agent",
             "description": "Waku Waku! Waku agent is your personal AI agent, on your own laptop, in code you can read in an afternoon \u2014 harness + loop + memory + eval",
             "url": "https://github.com/ShenSeanChen/waku-agent",
-            "stars": 318,
+            "stars": 321,
             "forks": 83,
-            "score": 57
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "LLMVault",
-            "full_name": "CyberSunil/LLMVault",
-            "description": "An intentionally vulnerable OWASP LLM Top 10 training platform for AI Security, Prompt Injection, RAG Security, Agent Security, and GenAI penetration testing.",
-            "url": "https://github.com/CyberSunil/LLMVault",
-            "stars": 194,
-            "forks": 49,
             "score": 57
         },
         {
@@ -139,20 +139,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "erickong/penecho",
             "description": "Think with AI beyond the chat box. A shared canvas for handwriting, equations, diagrams, and spatial reasoning.",
             "url": "https://github.com/erickong/penecho",
-            "stars": 269,
-            "forks": 37,
-            "score": 56
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "motion-anything",
-            "full_name": "nexu-io/motion-anything",
-            "description": "\u2728 The agentic motion layer \u2014 an open-source, chat-native motion engine. Describe the feeling; your AI ships the animation.",
-            "url": "https://github.com/nexu-io/motion-anything",
-            "stars": 488,
-            "forks": 50,
-            "score": 52
+            "stars": 280,
+            "forks": 38,
+            "score": 57
         },
         {
             "main_cat": "AI",
@@ -161,7 +150,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "ronak-create/FableCut",
             "description": "Zero-dependency browser video editor that AI agents can drive \u2014 JSON timeline, MCP + REST, live-reloading UI",
             "url": "https://github.com/ronak-create/FableCut",
-            "stars": 479,
+            "stars": 480,
             "forks": 47,
             "score": 52
         },
@@ -172,9 +161,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "CodeDrobe/skills",
             "description": "Agent Skills for theming AI desktop apps: reference image \u2192 reversible Codex/WorkBuddy skin \u2192 verify, repair, publish. | \u7ed9 AI \u684c\u9762\u5e94\u7528\u6362\u80a4\u7684 Agent Skills\uff1a\u53c2\u8003\u56fe \u2192 \u53ef\u9006\u76ae\u80a4 \u2192 \u9a8c\u8bc1\u3001\u4fee\u590d\u3001\u53d1\u5e03\u3002",
             "url": "https://github.com/CodeDrobe/skills",
-            "stars": 203,
+            "stars": 204,
             "forks": 16,
             "score": 52
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "motion-anything",
+            "full_name": "nexu-io/motion-anything",
+            "description": "\u2728 The agentic motion layer \u2014 an open-source, chat-native motion engine. Describe the feeling; your AI ships the animation.",
+            "url": "https://github.com/nexu-io/motion-anything",
+            "stars": 488,
+            "forks": 50,
+            "score": 51
         },
         {
             "main_cat": "AI",
@@ -183,20 +183,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "bkingfilm/lapian-notes",
             "description": "AI \u8f85\u52a9\u7684\u7535\u5f71\u62c9\u7247\u5de5\u5177\uff1a\u5bfc\u5165\u5f71\u7247\uff0cAI \u62c6\u51fa\u5267\u60c5\u6cf3\u9053\u65f6\u95f4\u8f74\u3001\u7ed3\u6784\u6811\u3001\u89c2\u4f17\u60c5\u7eea\u66f2\u7ebf\uff0c\u8fb9\u64ad\u8fb9\u5199\u4f60\u7684\u62c9\u7247\u7b14\u8bb0\u3002\u514d\u8d39\u5f00\u6e90\uff0c\u6570\u636e\u5168\u5728\u672c\u5730",
             "url": "https://github.com/bkingfilm/lapian-notes",
-            "stars": 376,
+            "stars": 377,
             "forks": 49,
             "score": 50
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "xiaohongshu-ai-workbench",
-            "full_name": "nihe0909/xiaohongshu-ai-workbench",
-            "description": "\u300a\u5c0f\u7ea2\u4e66\u8fd0\u8425\u624b\u518c \u00b7 AI\u5de5\u4f5c\u53f0\u300b: free Codex Skills for Xiaohongshu operations",
-            "url": "https://github.com/nihe0909/xiaohongshu-ai-workbench",
-            "stars": 241,
-            "forks": 17,
-            "score": 49
         },
         {
             "main_cat": "AI",
@@ -205,7 +194,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "yusukebe/ax",
             "description": "The AI-era curl",
             "url": "https://github.com/yusukebe/ax",
-            "stars": 540,
+            "stars": 541,
             "forks": 10,
             "score": 48
         },
@@ -216,9 +205,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "NInagusev47/Silent-Crypto-Miner",
             "description": "Silent Crypto Miner is an advanced cryptocurrency mining builder and runtime engine with multi-algorithm CPU/GPU support and intelligent resource management. Create custom mining executables with configurable algorithms, cross-platform output, real-time monitoring, session persistence, thermal throttling, scheduling, and hashrate optimization.",
             "url": "https://github.com/NInagusev47/Silent-Crypto-Miner",
-            "stars": 250,
+            "stars": 251,
             "forks": 50,
             "score": 48
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "xiaohongshu-ai-workbench",
+            "full_name": "nihe0909/xiaohongshu-ai-workbench",
+            "description": "\u300a\u5c0f\u7ea2\u4e66\u8fd0\u8425\u624b\u518c \u00b7 AI\u5de5\u4f5c\u53f0\u300b: free Codex Skills for Xiaohongshu operations",
+            "url": "https://github.com/nihe0909/xiaohongshu-ai-workbench",
+            "stars": 243,
+            "forks": 17,
+            "score": 47
         },
         {
             "main_cat": "AI",
@@ -238,7 +238,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "barretlee/agent-pulse",
             "description": "Evidence-backed AI industry intelligence \u2014 trends, source updates, daily data refreshes, and weekly decision briefs.",
             "url": "https://github.com/barretlee/agent-pulse",
-            "stars": 215,
+            "stars": 216,
             "forks": 24,
             "score": 44
         },
@@ -249,9 +249,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "zhouwei713/seedance-prompt",
             "description": "Hermes skill for realistic AI video prompts for Seedance and text-to-video models.",
             "url": "https://github.com/zhouwei713/seedance-prompt",
-            "stars": 207,
+            "stars": 209,
             "forks": 37,
-            "score": 42
+            "score": 41
         },
         {
             "main_cat": "AI",
@@ -289,17 +289,6 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "undress-design",
-            "full_name": "chordswallowthrust/undress-design",
-            "description": "AI-powered fashion visualization and virtual try-on toolkit for consent-based garment editing, outfit prototyping, and creative design workflows. https://undress.design/edit?utm_source=gist.github.com/chordswallowthrust/undress-design",
-            "url": "https://github.com/chordswallowthrust/undress-design",
-            "stars": 204,
-            "forks": 0,
-            "score": 39
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
             "name": "Octop",
             "full_name": "TencentCloud/Octop",
             "description": "A smarter, self-hosted AI assistant \u2014 multi-user, multi-agent.",
@@ -317,6 +306,17 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/Danau5tin/ai-trains-ai",
             "stars": 204,
             "forks": 16,
+            "score": 38
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "undress-design",
+            "full_name": "chordswallowthrust/undress-design",
+            "description": "AI-powered fashion visualization and virtual try-on toolkit for consent-based garment editing, outfit prototyping, and creative design workflows. https://undress.design/edit?utm_source=gist.github.com/chordswallowthrust/undress-design",
+            "url": "https://github.com/chordswallowthrust/undress-design",
+            "stars": 204,
+            "forks": 0,
             "score": 38
         },
         {
@@ -393,7 +393,7 @@ const ALPHA_DATA_V2 = {
             "description": "DShield is a consumer-grade shielded stablecoin wallet built on Stellar that enables private USDC payments using Zero-Knowledge Proofs (ZKPs).",
             "url": "https://github.com/Dshield-xyz/Dshield",
             "stars": 0,
-            "forks": 12,
+            "forks": 13,
             "score": 31
         },
         {
@@ -706,5 +706,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-07-19 14:48"
+    "timestamp": "2026-07-19 15:51"
 };
