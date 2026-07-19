@@ -7,7 +7,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Blueturboguy07/cue",
             "description": "Open-source macOS AI copilot that floats over your screen, sees/hears your meetings, and stays hidden from screen shares. Cluely alternative, bring-your-own-key.",
             "url": "https://github.com/Blueturboguy07/cue",
-            "stars": 586,
+            "stars": 592,
             "forks": 130,
             "score": 99
         },
@@ -18,9 +18,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "William-Lu-stack/Flawless",
             "description": "AI SRE AgenticOps for Kubernetes and cloud infrastructure.",
             "url": "https://github.com/William-Lu-stack/Flawless",
-            "stars": 768,
-            "forks": 165,
-            "score": 89
+            "stars": 769,
+            "forks": 169,
+            "score": 90
         },
         {
             "main_cat": "AI",
@@ -29,9 +29,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "v-modal/vmodal_sdk_flutter",
             "description": "V- Modal AI: Search anything anywhere SDK Flutter",
             "url": "https://github.com/v-modal/vmodal_sdk_flutter",
-            "stars": 517,
+            "stars": 537,
             "forks": 1,
-            "score": 73
+            "score": 75
         },
         {
             "main_cat": "AI",
@@ -73,7 +73,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "yetone/kill-ai-slop",
             "description": "A field guide to the visual & copy tics of AI-generated products \u2014 and an Agent Skill that scans your project and strips them out. https://killaislop.com",
             "url": "https://github.com/yetone/kill-ai-slop",
-            "stars": 634,
+            "stars": 635,
             "forks": 22,
             "score": 60
         },
@@ -84,9 +84,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "yuwen-cool/yuwen-publish-precheck",
             "description": "\u53d1\u5e03\u524d\u5ba1\uff5c\u53d1\u6296\u97f3/\u5c0f\u7ea2\u4e66/\u89c6\u9891\u53f7\u524d\u5148\u8ba9 AI \u5ba1\u4e00\u904d\uff1a\u54ea\u53e5\u8e29\u7ebf\u3001\u4f9d\u636e\u54ea\u6761\u5b98\u65b9\u89c4\u5219\u3001\u7ed9\u80fd\u76f4\u63a5\u7528\u7684\u6539\u6cd5\u300238 \u7bc7\u771f\u5b9e\u6837\u672c\u6821\u51c6\u5224\u5b9a\u5c3a\u5ea6\uff0c72 \u6761\u5b98\u65b9\u539f\u6587\u5f15\u6587\u53ef\u67e5\u8bc1\uff0c\u4f60\u8e29\u8fc7\u7684\u5751\u6c89\u6dc0\u6210\u672c\u5730\u89c4\u5219\u5e93\u8d8a\u7528\u8d8a\u51c6\u3002\u4e0d\u627f\u8bfa\u8fc7\u5ba1\uff0c\u4e0d\u6559\u7ed5\u5ba1\u3002",
             "url": "https://github.com/yuwen-cool/yuwen-publish-precheck",
-            "stars": 306,
-            "forks": 28,
-            "score": 59
+            "stars": 307,
+            "forks": 29,
+            "score": 60
         },
         {
             "main_cat": "AI",
@@ -95,8 +95,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "capitalone/VulnHunter",
             "description": "Agentic AI security tool that applies proactive, attacker-first analysis directly to source code.",
             "url": "https://github.com/capitalone/VulnHunter",
-            "stars": 512,
-            "forks": 68,
+            "stars": 514,
+            "forks": 69,
             "score": 58
         },
         {
@@ -106,7 +106,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "fxy2311-youyou/expression-trainer",
             "description": "\u5b87\u5b99\u65e0\u654c\u8868\u8fbe\u8bad\u7ec3\u7cfb\u7edf \u2014 \u5b9e\u65f6\u8bed\u97f3\u8f6c\u6587\u5b57 + 27000\u8bcd\u60c5\u611f\u8bcd\u5e93 + AI\u8868\u8fbe\u5206\u6790\u62a5\u544a\u3002\u79bb\u7ebf\u8fd0\u884c\uff0c\u5bf9\u7740\u5b83\u8bf4\u8bdd\uff0c\u5b83\u5e2e\u4f60\u770b\u89c1\u81ea\u5df1\u7684\u8868\u8fbe\u95ee\u9898\u3002",
             "url": "https://github.com/fxy2311-youyou/expression-trainer",
-            "stars": 490,
+            "stars": 491,
             "forks": 106,
             "score": 58
         },
@@ -117,8 +117,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "erickong/penecho",
             "description": "Think with AI beyond the chat box. A shared canvas for handwriting, equations, diagrams, and spatial reasoning.",
             "url": "https://github.com/erickong/penecho",
-            "stars": 298,
-            "forks": 39,
+            "stars": 302,
+            "forks": 40,
             "score": 58
         },
         {
@@ -128,8 +128,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "CyberSunil/LLMVault",
             "description": "An intentionally vulnerable OWASP LLM Top 10 training platform for AI Security, Prompt Injection, RAG Security, Agent Security, and GenAI penetration testing.",
             "url": "https://github.com/CyberSunil/LLMVault",
-            "stars": 197,
-            "forks": 49,
+            "stars": 199,
+            "forks": 50,
             "score": 58
         },
         {
@@ -139,7 +139,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "ShenSeanChen/waku-agent",
             "description": "Waku Waku! Waku agent is your personal AI agent, on your own laptop, in code you can read in an afternoon \u2014 harness + loop + memory + eval",
             "url": "https://github.com/ShenSeanChen/waku-agent",
-            "stars": 323,
+            "stars": 325,
             "forks": 83,
             "score": 57
         },
@@ -161,7 +161,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "nexu-io/motion-anything",
             "description": "\u2728 The agentic motion layer \u2014 an open-source, chat-native motion engine. Describe the feeling; your AI ships the animation.",
             "url": "https://github.com/nexu-io/motion-anything",
-            "stars": 489,
+            "stars": 490,
             "forks": 50,
             "score": 51
         },
@@ -172,7 +172,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "ronak-create/FableCut",
             "description": "Zero-dependency browser video editor that AI agents can drive \u2014 JSON timeline, MCP + REST, live-reloading UI",
             "url": "https://github.com/ronak-create/FableCut",
-            "stars": 480,
+            "stars": 481,
             "forks": 47,
             "score": 50
         },
@@ -249,7 +249,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "zhouwei713/seedance-prompt",
             "description": "Hermes skill for realistic AI video prompts for Seedance and text-to-video models.",
             "url": "https://github.com/zhouwei713/seedance-prompt",
-            "stars": 216,
+            "stars": 219,
             "forks": 40,
             "score": 42
         },
@@ -260,7 +260,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "s0ld13rr/pentestcode",
             "description": "PentestCode - Multi-agent AI penetration testing system with persistent engagement state, strategic coordination, and parallel autonomous operations.",
             "url": "https://github.com/s0ld13rr/pentestcode",
-            "stars": 192,
+            "stars": 195,
             "forks": 36,
             "score": 42
         },
@@ -282,7 +282,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "EXXETA/exxperts",
             "description": "Persistent AI rooms with governed, approval-gated memory: local-first, on your machine.",
             "url": "https://github.com/EXXETA/exxperts",
-            "stars": 215,
+            "stars": 216,
             "forks": 19,
             "score": 39
         },
@@ -685,20 +685,6 @@ const ALPHA_DATA_V2 = {
     ],
     "news": [
         {
-            "title": "Beyond Success Rate: Cost-Aware Evaluation of Offensive and Defensive Security Agents",
-            "source": "ArXiv",
-            "type": "Research Alpha",
-            "color": "text-indigo-600",
-            "url": "http://arxiv.org/abs/2607.15263v1"
-        },
-        {
-            "title": "Decoding Market Emotion from Blockchain Activity: A Data-Driven Sentiment Classifier",
-            "source": "ArXiv",
-            "type": "Research Alpha",
-            "color": "text-indigo-600",
-            "url": "http://arxiv.org/abs/2607.15258v1"
-        },
-        {
             "title": "Bitcoin volatility remains high ahead of key FED decision.",
             "source": "Polymarket",
             "type": "Expectation",
@@ -706,5 +692,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-07-19 16:50"
+    "timestamp": "2026-07-19 17:53"
 };
