@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "Blueturboguy07/cue",
             "description": "Open-source macOS AI copilot that floats over your screen, sees/hears your meetings, and stays hidden from screen shares. Cluely alternative, bring-your-own-key.",
             "url": "https://github.com/Blueturboguy07/cue",
-            "stars": 560,
-            "forks": 121,
+            "stars": 565,
+            "forks": 123,
             "score": 99
         },
         {
@@ -18,9 +18,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "William-Lu-stack/Flawless",
             "description": "AI SRE AgenticOps for Kubernetes and cloud infrastructure.",
             "url": "https://github.com/William-Lu-stack/Flawless",
-            "stars": 755,
+            "stars": 758,
             "forks": 159,
-            "score": 87
+            "score": 88
         },
         {
             "main_cat": "AI",
@@ -32,6 +32,17 @@ const ALPHA_DATA_V2 = {
             "stars": 308,
             "forks": 17,
             "score": 67
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "vmodal_sdk_flutter",
+            "full_name": "v-modal/vmodal_sdk_flutter",
+            "description": "V- Modal AI: Search anything anywhere SDK Flutter",
+            "url": "https://github.com/v-modal/vmodal_sdk_flutter",
+            "stars": 347,
+            "forks": 1,
+            "score": 65
         },
         {
             "main_cat": "AI",
@@ -51,20 +62,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "Raymondhou0917/speak-human-tw",
             "description": "\u300c\u8aaa\u4eba\u8a71\u300d\uff1a\u7e41\u9ad4\u4e2d\u6587\u7684\u53bb AI \u5473\u6539\u5beb skill\u3002\u6293 38 \u7a2e AI \u5beb\u4f5c\u75d5\u8de1\uff0c\u9806\u624b\u6821\u6b63\u4e2d\u570b\u7528\u8a9e\u8207\u534a\u5f62\u6a19\u9ede\uff0c\u7d66 Claude Code / Codex / Cursor \u7528\u3002",
             "url": "https://github.com/Raymondhou0917/speak-human-tw",
-            "stars": 607,
+            "stars": 609,
             "forks": 67,
-            "score": 63
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "kill-ai-slop",
-            "full_name": "yetone/kill-ai-slop",
-            "description": "A field guide to the visual & copy tics of AI-generated products \u2014 and an Agent Skill that scans your project and strips them out. https://killaislop.com",
-            "url": "https://github.com/yetone/kill-ai-slop",
-            "stars": 628,
-            "forks": 22,
-            "score": 62
+            "score": 61
         },
         {
             "main_cat": "AI",
@@ -73,20 +73,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "yuwen-cool/yuwen-publish-precheck",
             "description": "\u53d1\u5e03\u524d\u5ba1\uff5c\u53d1\u6296\u97f3/\u5c0f\u7ea2\u4e66/\u89c6\u9891\u53f7\u524d\u5148\u8ba9 AI \u5ba1\u4e00\u904d\uff1a\u54ea\u53e5\u8e29\u7ebf\u3001\u4f9d\u636e\u54ea\u6761\u5b98\u65b9\u89c4\u5219\u3001\u7ed9\u80fd\u76f4\u63a5\u7528\u7684\u6539\u6cd5\u300238 \u7bc7\u771f\u5b9e\u6837\u672c\u6821\u51c6\u5224\u5b9a\u5c3a\u5ea6\uff0c72 \u6761\u5b98\u65b9\u539f\u6587\u5f15\u6587\u53ef\u67e5\u8bc1\uff0c\u4f60\u8e29\u8fc7\u7684\u5751\u6c89\u6dc0\u6210\u672c\u5730\u89c4\u5219\u5e93\u8d8a\u7528\u8d8a\u51c6\u3002\u4e0d\u627f\u8bfa\u8fc7\u5ba1\uff0c\u4e0d\u6559\u7ed5\u5ba1\u3002",
             "url": "https://github.com/yuwen-cool/yuwen-publish-precheck",
-            "stars": 261,
+            "stars": 271,
             "forks": 25,
             "score": 60
         },
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "LLMVault",
-            "full_name": "CyberSunil/LLMVault",
-            "description": "An intentionally vulnerable OWASP LLM Top 10 training platform for AI Security, Prompt Injection, RAG Security, Agent Security, and GenAI penetration testing.",
-            "url": "https://github.com/CyberSunil/LLMVault",
-            "stars": 190,
-            "forks": 45,
-            "score": 60
+            "name": "kill-ai-slop",
+            "full_name": "yetone/kill-ai-slop",
+            "description": "A field guide to the visual & copy tics of AI-generated products \u2014 and an Agent Skill that scans your project and strips them out. https://killaislop.com",
+            "url": "https://github.com/yetone/kill-ai-slop",
+            "stars": 630,
+            "forks": 22,
+            "score": 59
         },
         {
             "main_cat": "AI",
@@ -95,8 +95,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "fxy2311-youyou/expression-trainer",
             "description": "\u5b87\u5b99\u65e0\u654c\u8868\u8fbe\u8bad\u7ec3\u7cfb\u7edf \u2014 \u5b9e\u65f6\u8bed\u97f3\u8f6c\u6587\u5b57 + 27000\u8bcd\u60c5\u611f\u8bcd\u5e93 + AI\u8868\u8fbe\u5206\u6790\u62a5\u544a\u3002\u79bb\u7ebf\u8fd0\u884c\uff0c\u5bf9\u7740\u5b83\u8bf4\u8bdd\uff0c\u5b83\u5e2e\u4f60\u770b\u89c1\u81ea\u5df1\u7684\u8868\u8fbe\u95ee\u9898\u3002",
             "url": "https://github.com/fxy2311-youyou/expression-trainer",
-            "stars": 469,
-            "forks": 103,
+            "stars": 474,
+            "forks": 104,
             "score": 59
         },
         {
@@ -106,8 +106,19 @@ const ALPHA_DATA_V2 = {
             "full_name": "ShenSeanChen/waku-agent",
             "description": "Waku Waku! Waku agent is your personal AI agent, on your own laptop, in code you can read in an afternoon \u2014 harness + loop + memory + eval",
             "url": "https://github.com/ShenSeanChen/waku-agent",
-            "stars": 308,
-            "forks": 76,
+            "stars": 311,
+            "forks": 77,
+            "score": 58
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "penecho",
+            "full_name": "erickong/penecho",
+            "description": "Think with AI beyond the chat box. A shared canvas for handwriting, equations, diagrams, and spatial reasoning.",
+            "url": "https://github.com/erickong/penecho",
+            "stars": 239,
+            "forks": 35,
             "score": 57
         },
         {
@@ -117,31 +128,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "capitalone/VulnHunter",
             "description": "Agentic AI security tool that applies proactive, attacker-first analysis directly to source code.",
             "url": "https://github.com/capitalone/VulnHunter",
-            "stars": 489,
+            "stars": 495,
             "forks": 65,
             "score": 56
         },
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "penecho",
-            "full_name": "erickong/penecho",
-            "description": "Think with AI beyond the chat box. A shared canvas for handwriting, equations, diagrams, and spatial reasoning.",
-            "url": "https://github.com/erickong/penecho",
-            "stars": 232,
-            "forks": 34,
+            "name": "LLMVault",
+            "full_name": "CyberSunil/LLMVault",
+            "description": "An intentionally vulnerable OWASP LLM Top 10 training platform for AI Security, Prompt Injection, RAG Security, Agent Security, and GenAI penetration testing.",
+            "url": "https://github.com/CyberSunil/LLMVault",
+            "stars": 191,
+            "forks": 46,
             "score": 56
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "vmodal_sdk_flutter",
-            "full_name": "v-modal/vmodal_sdk_flutter",
-            "description": "V- Modal AI: Search anything anywhere SDK Flutter",
-            "url": "https://github.com/v-modal/vmodal_sdk_flutter",
-            "stars": 251,
-            "forks": 1,
-            "score": 55
         },
         {
             "main_cat": "AI",
@@ -172,7 +172,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "CodeDrobe/skills",
             "description": "Agent Skills for theming AI desktop apps: reference image \u2192 reversible Codex/WorkBuddy skin \u2192 verify, repair, publish. | \u7ed9 AI \u684c\u9762\u5e94\u7528\u6362\u80a4\u7684 Agent Skills\uff1a\u53c2\u8003\u56fe \u2192 \u53ef\u9006\u76ae\u80a4 \u2192 \u9a8c\u8bc1\u3001\u4fee\u590d\u3001\u53d1\u5e03\u3002",
             "url": "https://github.com/CodeDrobe/skills",
-            "stars": 195,
+            "stars": 199,
             "forks": 16,
             "score": 51
         },
@@ -183,7 +183,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "bkingfilm/lapian-notes",
             "description": "AI \u8f85\u52a9\u7684\u7535\u5f71\u62c9\u7247\u5de5\u5177\uff1a\u5bfc\u5165\u5f71\u7247\uff0cAI \u62c6\u51fa\u5267\u60c5\u6cf3\u9053\u65f6\u95f4\u8f74\u3001\u7ed3\u6784\u6811\u3001\u89c2\u4f17\u60c5\u7eea\u66f2\u7ebf\uff0c\u8fb9\u64ad\u8fb9\u5199\u4f60\u7684\u62c9\u7247\u7b14\u8bb0\u3002\u514d\u8d39\u5f00\u6e90\uff0c\u6570\u636e\u5168\u5728\u672c\u5730",
             "url": "https://github.com/bkingfilm/lapian-notes",
-            "stars": 372,
+            "stars": 376,
             "forks": 49,
             "score": 50
         },
@@ -201,17 +201,6 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "ax",
-            "full_name": "yusukebe/ax",
-            "description": "The AI-era curl",
-            "url": "https://github.com/yusukebe/ax",
-            "stars": 539,
-            "forks": 10,
-            "score": 49
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
             "name": "xiaohongshu-ai-workbench",
             "full_name": "nihe0909/xiaohongshu-ai-workbench",
             "description": "\u300a\u5c0f\u7ea2\u4e66\u8fd0\u8425\u624b\u518c \u00b7 AI\u5de5\u4f5c\u53f0\u300b: free Codex Skills for Xiaohongshu operations",
@@ -219,6 +208,17 @@ const ALPHA_DATA_V2 = {
             "stars": 240,
             "forks": 17,
             "score": 49
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "ax",
+            "full_name": "yusukebe/ax",
+            "description": "The AI-era curl",
+            "url": "https://github.com/yusukebe/ax",
+            "stars": 539,
+            "forks": 10,
+            "score": 48
         },
         {
             "main_cat": "AI",
@@ -244,24 +244,24 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
-            "sub_cat": "AI Agents",
-            "name": "understory",
-            "full_name": "thecodacus/understory",
-            "description": "understory \u2014 memory that grows. Self-wiring, plain-markdown memory for AI agents (MCP + local models + a living graph).",
-            "url": "https://github.com/thecodacus/understory",
-            "stars": 173,
-            "forks": 29,
-            "score": 42
-        },
-        {
-            "main_cat": "AI",
             "sub_cat": null,
             "name": "pentestcode",
             "full_name": "s0ld13rr/pentestcode",
             "description": "PentestCode - Multi-agent AI penetration testing system with persistent engagement state, strategic coordination, and parallel autonomous operations.",
             "url": "https://github.com/s0ld13rr/pentestcode",
-            "stars": 178,
-            "forks": 33,
+            "stars": 185,
+            "forks": 34,
+            "score": 41
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "seedance-prompt",
+            "full_name": "zhouwei713/seedance-prompt",
+            "description": "Hermes skill for realistic AI video prompts for Seedance and text-to-video models.",
+            "url": "https://github.com/zhouwei713/seedance-prompt",
+            "stars": 183,
+            "forks": 35,
             "score": 41
         },
         {
@@ -293,7 +293,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "chordswallowthrust/undress-design",
             "description": "AI-powered fashion visualization and virtual try-on toolkit for consent-based garment editing, outfit prototyping, and creative design workflows. https://undress.design/edit?utm_source=gist.github.com/chordswallowthrust/undress-design",
             "url": "https://github.com/chordswallowthrust/undress-design",
-            "stars": 200,
+            "stars": 204,
             "forks": 0,
             "score": 39
         },
@@ -304,7 +304,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "TencentCloud/Octop",
             "description": "A smarter, self-hosted AI assistant \u2014 multi-user, multi-agent.",
             "url": "https://github.com/TencentCloud/Octop",
-            "stars": 182,
+            "stars": 183,
             "forks": 18,
             "score": 39
         },
@@ -315,8 +315,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "Danau5tin/ai-trains-ai",
             "description": "RL-training an AI agent to RL-train AI agents.",
             "url": "https://github.com/Danau5tin/ai-trains-ai",
-            "stars": 199,
-            "forks": 15,
+            "stars": 201,
+            "forks": 16,
             "score": 38
         },
         {
@@ -337,7 +337,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "aws-samples/sample-specship",
             "description": "Spec-driven autonomous engineering workflow for AI coding agents: recon \u2192 plan \u2192 build \u2192 validate \u2192 ship \u2014 with TDD, adversarial validation, and anti-slop quality gates. Packaged as a Kiro Power.",
             "url": "https://github.com/aws-samples/sample-specship",
-            "stars": 179,
+            "stars": 180,
             "forks": 3,
             "score": 38
         },
@@ -463,6 +463,17 @@ const ALPHA_DATA_V2 = {
             "score": 30
         },
         {
+            "main_cat": "Prediction Markets",
+            "sub_cat": null,
+            "name": "odds-warden",
+            "full_name": "Gingerbreadfork/odds-warden",
+            "description": "A watchdog for World Cup betting markets: it flags suspicious odds movement in real time and anchors the evidence on Solana, so prediction markets and other projects can verify a market was clean before settling.",
+            "url": "https://github.com/Gingerbreadfork/odds-warden",
+            "stars": 0,
+            "forks": 0,
+            "score": 30
+        },
+        {
             "main_cat": "AI",
             "sub_cat": "AI General",
             "name": "ai-sports-betting-dime-ai",
@@ -513,17 +524,6 @@ const ALPHA_DATA_V2 = {
             "full_name": "bigdann09/ninety-backend",
             "description": "Ninety Protocol is a decentralized prediction market allowing users to speculate on the outcome of various events. This Next.js application provides a sleek, real-time, and mobile-responsive interface for users to connect their Solana wallets, view live markets, place bets (positions), and claim their winnings.",
             "url": "https://github.com/bigdann09/ninety-backend",
-            "stars": 0,
-            "forks": 0,
-            "score": 30
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "IWinWorldCup2K26",
-            "full_name": "muyimbidinormal/IWinWorldCup2K26",
-            "description": "A decentralized peer-to-peer football betting protocol built on Ethereum.  IWinWorldCup2K26 enables users to create prediction pools for football fixtures, place bets on outcomes, settle results through an authorized forwarder, and claim winnings in a transparent and trust-minimized manner.",
-            "url": "https://github.com/muyimbidinormal/IWinWorldCup2K26",
             "stars": 0,
             "forks": 0,
             "score": 30
@@ -706,5 +706,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-07-19 08:05"
+    "timestamp": "2026-07-19 10:21"
 };
