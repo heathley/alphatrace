@@ -7,7 +7,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Blueturboguy07/cue",
             "description": "Open-source macOS AI copilot that floats over your screen, sees/hears your meetings, and stays hidden from screen shares. Cluely alternative, bring-your-own-key.",
             "url": "https://github.com/Blueturboguy07/cue",
-            "stars": 657,
+            "stars": 658,
             "forks": 143,
             "score": 99
         },
@@ -29,8 +29,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "William-Lu-stack/Flawless",
             "description": "AI SRE AgenticOps for Kubernetes and cloud infrastructure.",
             "url": "https://github.com/William-Lu-stack/Flawless",
-            "stars": 816,
-            "forks": 193,
+            "stars": 817,
+            "forks": 195,
             "score": 91
         },
         {
@@ -117,7 +117,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "capitalone/VulnHunter",
             "description": "Agentic AI security tool that applies proactive, attacker-first analysis directly to source code.",
             "url": "https://github.com/capitalone/VulnHunter",
-            "stars": 591,
+            "stars": 594,
             "forks": 75,
             "score": 57
         },
@@ -128,7 +128,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "PromptPartner/agentsmith",
             "description": "Universal, model-agnostic operating harness for AI agents (Claude, Codex, Gemini, \u2026) \u2014 a lean core + work-type profiles assembled by one setup script.",
             "url": "https://github.com/PromptPartner/agentsmith",
-            "stars": 310,
+            "stars": 311,
             "forks": 17,
             "score": 57
         },
@@ -139,7 +139,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "ShenSeanChen/waku-agent",
             "description": "Waku Waku! Waku agent is your personal AI agent, on your own laptop, in code you can read in an afternoon \u2014 harness + loop + memory + eval",
             "url": "https://github.com/ShenSeanChen/waku-agent",
-            "stars": 349,
+            "stars": 350,
             "forks": 86,
             "score": 56
         },
@@ -161,9 +161,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "smixs/pohuy",
             "description": "\u0420\u0435\u0436\u0438\u043c \u0438\u0434\u0438\u043e\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u043e\u0433\u043e \u0440\u0443\u0441\u0441\u043a\u043e\u0433\u043e \u043c\u0430\u0442\u0430 \u0434\u043b\u044f AI-\u0430\u0433\u0435\u043d\u0442\u043e\u0432. \u041a\u043e\u0440\u043e\u0447\u0435, \u0434\u0443\u0448\u0435\u0432\u043d\u0435\u0435, \u044d\u0444\u0444\u0435\u043a\u0442\u0438\u0432\u043d\u0435\u0435. 18+",
             "url": "https://github.com/smixs/pohuy",
-            "stars": 261,
+            "stars": 270,
             "forks": 3,
-            "score": 52
+            "score": 53
         },
         {
             "main_cat": "AI",
@@ -250,7 +250,7 @@ const ALPHA_DATA_V2 = {
             "description": "PentestCode - Multi-agent AI penetration testing system with persistent engagement state, strategic coordination, and parallel autonomous operations.",
             "url": "https://github.com/s0ld13rr/pentestcode",
             "stars": 213,
-            "forks": 43,
+            "forks": 44,
             "score": 42
         },
         {
@@ -344,17 +344,6 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
-            "name": "llm-serve-dashboard",
-            "full_name": "NHClimber87/llm-serve-dashboard",
-            "description": "Single-file, dependency-free live dashboard for local llama.cpp/vLLM serving \u2014 GPU, throughput, KV/ctx, model library. Stdlib Python + one local-first HTML page.",
-            "url": "https://github.com/NHClimber87/llm-serve-dashboard",
-            "stars": 62,
-            "forks": 10,
-            "score": 34
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
             "name": "StellarPulse",
             "full_name": "Steller-StellarPulse-org/StellarPulse",
             "description": "Stellar Pulse is a decentralized prediction market built on Stellar/Soroban. Users connect a wallet, bet XLM on YES/NO markets, earn PULSE tokens and points, and claim payouts on-chain.",
@@ -362,6 +351,17 @@ const ALPHA_DATA_V2 = {
             "stars": 7,
             "forks": 31,
             "score": 34
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "llm-serve-dashboard",
+            "full_name": "NHClimber87/llm-serve-dashboard",
+            "description": "Single-file, dependency-free live dashboard for local llama.cpp/vLLM serving \u2014 GPU, throughput, KV/ctx, model library. Stdlib Python + one local-first HTML page.",
+            "url": "https://github.com/NHClimber87/llm-serve-dashboard",
+            "stars": 62,
+            "forks": 10,
+            "score": 33
         },
         {
             "main_cat": "AI",
@@ -717,5 +717,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-07-20 22:52"
+    "timestamp": "2026-07-20 23:51"
 };
