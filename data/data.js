@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "Blueturboguy07/cue",
             "description": "Open-source macOS AI copilot that floats over your screen, sees/hears your meetings, and stays hidden from screen shares. Cluely alternative, bring-your-own-key.",
             "url": "https://github.com/Blueturboguy07/cue",
-            "stars": 647,
-            "forks": 140,
+            "stars": 650,
+            "forks": 141,
             "score": 99
         },
         {
@@ -30,7 +30,7 @@ const ALPHA_DATA_V2 = {
             "description": "AI SRE AgenticOps for Kubernetes and cloud infrastructure.",
             "url": "https://github.com/William-Lu-stack/Flawless",
             "stars": 806,
-            "forks": 190,
+            "forks": 192,
             "score": 90
         },
         {
@@ -51,9 +51,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "erickong/penecho",
             "description": "Think with AI beyond the chat box. A shared canvas for handwriting, equations, diagrams, and spatial reasoning.",
             "url": "https://github.com/erickong/penecho",
-            "stars": 382,
-            "forks": 48,
-            "score": 61
+            "stars": 386,
+            "forks": 49,
+            "score": 62
         },
         {
             "main_cat": "AI",
@@ -73,7 +73,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "yetone/kill-ai-slop",
             "description": "A field guide to the visual & copy tics of AI-generated products \u2014 and an Agent Skill that scans your project and strips them out. https://killaislop.com",
             "url": "https://github.com/yetone/kill-ai-slop",
-            "stars": 662,
+            "stars": 663,
             "forks": 23,
             "score": 59
         },
@@ -95,7 +95,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "capitalone/VulnHunter",
             "description": "Agentic AI security tool that applies proactive, attacker-first analysis directly to source code.",
             "url": "https://github.com/capitalone/VulnHunter",
-            "stars": 580,
+            "stars": 586,
             "forks": 75,
             "score": 59
         },
@@ -139,8 +139,19 @@ const ALPHA_DATA_V2 = {
             "full_name": "CyberSunil/LLMVault",
             "description": "An intentionally vulnerable OWASP LLM Top 10 training platform for AI Security, Prompt Injection, RAG Security, Agent Security, and GenAI penetration testing.",
             "url": "https://github.com/CyberSunil/LLMVault",
-            "stars": 212,
+            "stars": 213,
             "forks": 52,
+            "score": 56
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "klaatcode",
+            "full_name": "KlaatAI/klaatcode",
+            "description": "Open-source AI coding agent for the terminal. Claude Code-grade accuracy with smart model routing \u2014 uses the right AI model for each task, cutting costs 10x. Supports Claude, GPT, Gemini, DeepSeek & more.",
+            "url": "https://github.com/KlaatAI/klaatcode",
+            "stars": 166,
+            "forks": 39,
             "score": 56
         },
         {
@@ -172,7 +183,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "NInagusev47/Silent-Crypto-Miner",
             "description": "Silent Crypto Miner is an advanced cryptocurrency mining builder and runtime engine with multi-algorithm CPU/GPU support and intelligent resource management. Create custom mining executables with configurable algorithms, cross-platform output, real-time monitoring, session persistence, thermal throttling, scheduling, and hashrate optimization.",
             "url": "https://github.com/NInagusev47/Silent-Crypto-Miner",
-            "stars": 251,
+            "stars": 254,
             "forks": 50,
             "score": 47
         },
@@ -183,8 +194,19 @@ const ALPHA_DATA_V2 = {
             "full_name": "nihe0909/xiaohongshu-ai-workbench",
             "description": "\u300a\u5c0f\u7ea2\u4e66\u8fd0\u8425\u624b\u518c \u00b7 AI\u5de5\u4f5c\u53f0\u300b: free Codex Skills for Xiaohongshu operations",
             "url": "https://github.com/nihe0909/xiaohongshu-ai-workbench",
-            "stars": 250,
+            "stars": 251,
             "forks": 19,
+            "score": 46
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "pohuy",
+            "full_name": "smixs/pohuy",
+            "description": "\u0420\u0435\u0436\u0438\u043c \u0438\u0434\u0438\u043e\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u043e\u0433\u043e \u0440\u0443\u0441\u0441\u043a\u043e\u0433\u043e \u043c\u0430\u0442\u0430 \u0434\u043b\u044f AI-\u0430\u0433\u0435\u043d\u0442\u043e\u0432. \u041a\u043e\u0440\u043e\u0447\u0435, \u0434\u0443\u0448\u0435\u0432\u043d\u0435\u0435, \u044d\u0444\u0444\u0435\u043a\u0442\u0438\u0432\u043d\u0435\u0435. 18+",
+            "url": "https://github.com/smixs/pohuy",
+            "stars": 190,
+            "forks": 3,
             "score": 46
         },
         {
@@ -194,20 +216,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "yc-duan/fastctx",
             "description": "Fast, context-efficient repository tools for AI agents (MCP)",
             "url": "https://github.com/yc-duan/fastctx",
-            "stars": 163,
-            "forks": 5,
-            "score": 45
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "pohuy",
-            "full_name": "smixs/pohuy",
-            "description": "\u0420\u0435\u0436\u0438\u043c \u0438\u0434\u0438\u043e\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u043e\u0433\u043e \u0440\u0443\u0441\u0441\u043a\u043e\u0433\u043e \u043c\u0430\u0442\u0430 \u0434\u043b\u044f AI-\u0430\u0433\u0435\u043d\u0442\u043e\u0432. \u041a\u043e\u0440\u043e\u0447\u0435, \u0434\u0443\u0448\u0435\u0432\u043d\u0435\u0435, \u044d\u0444\u0444\u0435\u043a\u0442\u0438\u0432\u043d\u0435\u0435. 18+",
-            "url": "https://github.com/smixs/pohuy",
-            "stars": 162,
-            "forks": 3,
-            "score": 44
+            "stars": 169,
+            "forks": 6,
+            "score": 46
         },
         {
             "main_cat": "AI",
@@ -250,8 +261,19 @@ const ALPHA_DATA_V2 = {
             "description": "Opensource, on-device voice + vision layer for AI agents. Bring any model or coding agent; the whole speech loop (VAD, STT, TTS, barge-in) runs locally. An open alternative to ElevenLabs Agents, Gemini Live, and OpenAI Realtime.",
             "url": "https://github.com/katipally/openlive",
             "stars": 171,
-            "forks": 35,
+            "forks": 36,
             "score": 41
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "Octop",
+            "full_name": "TencentCloud/Octop",
+            "description": "A smarter, self-hosted AI assistant \u2014 multi-user, multi-agent.",
+            "url": "https://github.com/TencentCloud/Octop",
+            "stars": 210,
+            "forks": 23,
+            "score": 40
         },
         {
             "main_cat": "AI",
@@ -267,34 +289,12 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "ai-market-pulse",
-            "full_name": "SilentFleetKK/ai-market-pulse",
-            "description": "Turn any watchlist into a daily AI market research report \u2014 a quant research cockpit or a zero-code daily report tool.",
-            "url": "https://github.com/SilentFleetKK/ai-market-pulse",
-            "stars": 162,
-            "forks": 33,
-            "score": 40
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
             "name": "exxperts",
             "full_name": "EXXETA/exxperts",
             "description": "Persistent AI rooms with governed, approval-gated memory: local-first, on your machine.",
             "url": "https://github.com/EXXETA/exxperts",
-            "stars": 219,
+            "stars": 220,
             "forks": 19,
-            "score": 39
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "Octop",
-            "full_name": "TencentCloud/Octop",
-            "description": "A smarter, self-hosted AI assistant \u2014 multi-user, multi-agent.",
-            "url": "https://github.com/TencentCloud/Octop",
-            "stars": 207,
-            "forks": 23,
             "score": 39
         },
         {
@@ -507,12 +507,23 @@ const ALPHA_DATA_V2 = {
             "score": 30
         },
         {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "casaisdev",
+            "full_name": "casaisdev/casaisdev",
+            "description": "Smart contract engineer building stablecoin & payment infrastructure across EVM and Solana. Open to work.",
+            "url": "https://github.com/casaisdev/casaisdev",
+            "stars": 1,
+            "forks": 0,
+            "score": 30
+        },
+        {
             "main_cat": "Stablecoin Infrastructure",
             "sub_cat": null,
-            "name": "aws-digital-asset-tokenization-samples",
-            "full_name": "aws-samples/aws-digital-asset-tokenization-samples",
+            "name": "aws-digital-asset-samples",
+            "full_name": "aws-samples/aws-digital-asset-samples",
             "description": "Reference architectures for digital asset tokenization on AWS. Sample code for financial messaging integration, settlement, price feeds, proof-of-reserves, and stablecoin payments.",
-            "url": "https://github.com/aws-samples/aws-digital-asset-tokenization-samples",
+            "url": "https://github.com/aws-samples/aws-digital-asset-samples",
             "stars": 1,
             "forks": 1,
             "score": 30
@@ -650,12 +661,12 @@ const ALPHA_DATA_V2 = {
             "score": 30
         },
         {
-            "main_cat": "Cross-chain / Interoperability",
-            "sub_cat": null,
-            "name": "xgc2-protobuf",
-            "full_name": "lxk36/xgc2-protobuf",
-            "description": "Cross-language XGC2 protobuf contracts and adapter protocol",
-            "url": "https://github.com/lxk36/xgc2-protobuf",
+            "main_cat": "AI",
+            "sub_cat": "AI Agents",
+            "name": "Forge",
+            "full_name": "Pacull99/Forge",
+            "description": "Forge is the premier infrastructure protocol designed to empower creators, developers, and communities to co-own, deploy, and monetize autonomous AI agents. By integrating advanced Web3 tokenomics with high-performance cross-chain networks, Forge bridges the gap between decentralized finance and immersive AI experiences.",
+            "url": "https://github.com/Pacull99/Forge",
             "stars": 0,
             "forks": 0,
             "score": 30
@@ -663,10 +674,21 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
-            "name": "polyglotir",
-            "full_name": "Juwan-Hwang/polyglotir",
-            "description": "SILP: Semantic Interlingua Layer Protocol \u2014 Leveraging Shared Training Priors for Cross-Model Agent Communication",
-            "url": "https://github.com/Juwan-Hwang/polyglotir",
+            "name": "Kana-Labs",
+            "full_name": "Pacull99/Kana-Labs",
+            "description": "While Kana Labs (which rebranded to Xyra Labs) and Virtuals Protocol operate in distinct segments of the Web3 ecosystem, they both represent key infrastructure pillars focusing on cross-chain capabilities, developer toolkits, and autonomous user engagement. ",
+            "url": "https://github.com/Pacull99/Kana-Labs",
+            "stars": 0,
+            "forks": 0,
+            "score": 30
+        },
+        {
+            "main_cat": "Cross-chain / Interoperability",
+            "sub_cat": null,
+            "name": "xgc2-protobuf",
+            "full_name": "lxk36/xgc2-protobuf",
+            "description": "Cross-language XGC2 protobuf contracts and adapter protocol",
+            "url": "https://github.com/lxk36/xgc2-protobuf",
             "stars": 0,
             "forks": 0,
             "score": 30
@@ -695,5 +717,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-07-20 17:31"
+    "timestamp": "2026-07-20 19:35"
 };
