@@ -7,8 +7,19 @@ const ALPHA_DATA_V2 = {
             "full_name": "Blueturboguy07/cue",
             "description": "Open-source macOS AI copilot that floats over your screen, sees/hears your meetings, and stays hidden from screen shares. Cluely alternative, bring-your-own-key.",
             "url": "https://github.com/Blueturboguy07/cue",
-            "stars": 611,
-            "forks": 132,
+            "stars": 616,
+            "forks": 134,
+            "score": 99
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "fintech-advisor",
+            "full_name": "KORAYTEACHER/fintech-advisor",
+            "description": "ai fintech financial advisor for your portfolio",
+            "url": "https://github.com/KORAYTEACHER/fintech-advisor",
+            "stars": 166,
+            "forks": 1234,
             "score": 99
         },
         {
@@ -18,8 +29,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "William-Lu-stack/Flawless",
             "description": "AI SRE AgenticOps for Kubernetes and cloud infrastructure.",
             "url": "https://github.com/William-Lu-stack/Flawless",
-            "stars": 777,
-            "forks": 173,
+            "stars": 783,
+            "forks": 174,
             "score": 91
         },
         {
@@ -29,9 +40,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "v-modal/vmodal_sdk_flutter",
             "description": "V- Modal AI: Search anything anywhere SDK Flutter",
             "url": "https://github.com/v-modal/vmodal_sdk_flutter",
-            "stars": 579,
+            "stars": 588,
             "forks": 1,
-            "score": 78
+            "score": 79
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "grok-build-auth",
+            "full_name": "dongguatanglinux/grok-build-auth",
+            "description": "Protocol research client: x.ai signup \u2192 SSO \u2192 Grok Build OAuth \u2192 CLIProxyAPI auth export (authorized use only)",
+            "url": "https://github.com/dongguatanglinux/grok-build-auth",
+            "stars": 273,
+            "forks": 125,
+            "score": 62
         },
         {
             "main_cat": "AI",
@@ -40,8 +62,30 @@ const ALPHA_DATA_V2 = {
             "full_name": "Raymondhou0917/speak-human-tw",
             "description": "\u300c\u8aaa\u4eba\u8a71\u300d\uff1a\u7e41\u9ad4\u4e2d\u6587\u7684\u53bb AI \u5473\u6539\u5beb skill\u3002\u6293 38 \u7a2e AI \u5beb\u4f5c\u75d5\u8de1\uff0c\u9806\u624b\u6821\u6b63\u4e2d\u570b\u7528\u8a9e\u8207\u534a\u5f62\u6a19\u9ede\uff0c\u7d66 Claude Code / Codex / Cursor \u7528\u3002",
             "url": "https://github.com/Raymondhou0917/speak-human-tw",
-            "stars": 615,
+            "stars": 618,
             "forks": 67,
+            "score": 61
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "penecho",
+            "full_name": "erickong/penecho",
+            "description": "Think with AI beyond the chat box. A shared canvas for handwriting, equations, diagrams, and spatial reasoning.",
+            "url": "https://github.com/erickong/penecho",
+            "stars": 336,
+            "forks": 42,
+            "score": 61
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "yuwen-publish-precheck",
+            "full_name": "yuwen-cool/yuwen-publish-precheck",
+            "description": "\u53d1\u5e03\u524d\u5ba1\uff5c\u53d1\u6296\u97f3/\u5c0f\u7ea2\u4e66/\u89c6\u9891\u53f7\u524d\u5148\u8ba9 AI \u5ba1\u4e00\u904d\uff1a\u54ea\u53e5\u8e29\u7ebf\u3001\u4f9d\u636e\u54ea\u6761\u5b98\u65b9\u89c4\u5219\u3001\u7ed9\u80fd\u76f4\u63a5\u7528\u7684\u6539\u6cd5\u300238 \u7bc7\u771f\u5b9e\u6837\u672c\u6821\u51c6\u5224\u5b9a\u5c3a\u5ea6\uff0c72 \u6761\u5b98\u65b9\u539f\u6587\u5f15\u6587\u53ef\u67e5\u8bc1\uff0c\u4f60\u8e29\u8fc7\u7684\u5751\u6c89\u6dc0\u6210\u672c\u5730\u89c4\u5219\u5e93\u8d8a\u7528\u8d8a\u51c6\u3002\u4e0d\u627f\u8bfa\u8fc7\u5ba1\uff0c\u4e0d\u6559\u7ed5\u5ba1\u3002",
+            "url": "https://github.com/yuwen-cool/yuwen-publish-precheck",
+            "stars": 320,
+            "forks": 31,
             "score": 61
         },
         {
@@ -58,57 +102,13 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "grok-build-auth",
-            "full_name": "dongguatanglinux/grok-build-auth",
-            "description": "Protocol research client: x.ai signup \u2192 SSO \u2192 Grok Build OAuth \u2192 CLIProxyAPI auth export (authorized use only)",
-            "url": "https://github.com/dongguatanglinux/grok-build-auth",
-            "stars": 271,
-            "forks": 124,
-            "score": 61
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
             "name": "kill-ai-slop",
             "full_name": "yetone/kill-ai-slop",
             "description": "A field guide to the visual & copy tics of AI-generated products \u2014 and an Agent Skill that scans your project and strips them out. https://killaislop.com",
             "url": "https://github.com/yetone/kill-ai-slop",
-            "stars": 640,
+            "stars": 642,
             "forks": 22,
             "score": 60
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "penecho",
-            "full_name": "erickong/penecho",
-            "description": "Think with AI beyond the chat box. A shared canvas for handwriting, equations, diagrams, and spatial reasoning.",
-            "url": "https://github.com/erickong/penecho",
-            "stars": 329,
-            "forks": 41,
-            "score": 60
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "yuwen-publish-precheck",
-            "full_name": "yuwen-cool/yuwen-publish-precheck",
-            "description": "\u53d1\u5e03\u524d\u5ba1\uff5c\u53d1\u6296\u97f3/\u5c0f\u7ea2\u4e66/\u89c6\u9891\u53f7\u524d\u5148\u8ba9 AI \u5ba1\u4e00\u904d\uff1a\u54ea\u53e5\u8e29\u7ebf\u3001\u4f9d\u636e\u54ea\u6761\u5b98\u65b9\u89c4\u5219\u3001\u7ed9\u80fd\u76f4\u63a5\u7528\u7684\u6539\u6cd5\u300238 \u7bc7\u771f\u5b9e\u6837\u672c\u6821\u51c6\u5224\u5b9a\u5c3a\u5ea6\uff0c72 \u6761\u5b98\u65b9\u539f\u6587\u5f15\u6587\u53ef\u67e5\u8bc1\uff0c\u4f60\u8e29\u8fc7\u7684\u5751\u6c89\u6dc0\u6210\u672c\u5730\u89c4\u5219\u5e93\u8d8a\u7528\u8d8a\u51c6\u3002\u4e0d\u627f\u8bfa\u8fc7\u5ba1\uff0c\u4e0d\u6559\u7ed5\u5ba1\u3002",
-            "url": "https://github.com/yuwen-cool/yuwen-publish-precheck",
-            "stars": 307,
-            "forks": 29,
-            "score": 60
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "expression-trainer",
-            "full_name": "fxy2311-youyou/expression-trainer",
-            "description": "\u5b87\u5b99\u65e0\u654c\u8868\u8fbe\u8bad\u7ec3\u7cfb\u7edf \u2014 \u5b9e\u65f6\u8bed\u97f3\u8f6c\u6587\u5b57 + 27000\u8bcd\u60c5\u611f\u8bcd\u5e93 + AI\u8868\u8fbe\u5206\u6790\u62a5\u544a\u3002\u79bb\u7ebf\u8fd0\u884c\uff0c\u5bf9\u7740\u5b83\u8bf4\u8bdd\uff0c\u5b83\u5e2e\u4f60\u770b\u89c1\u81ea\u5df1\u7684\u8868\u8fbe\u95ee\u9898\u3002",
-            "url": "https://github.com/fxy2311-youyou/expression-trainer",
-            "stars": 491,
-            "forks": 106,
-            "score": 58
         },
         {
             "main_cat": "AI",
@@ -124,46 +124,35 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "waku-agent",
-            "full_name": "ShenSeanChen/waku-agent",
-            "description": "Waku Waku! Waku agent is your personal AI agent, on your own laptop, in code you can read in an afternoon \u2014 harness + loop + memory + eval",
-            "url": "https://github.com/ShenSeanChen/waku-agent",
-            "stars": 327,
-            "forks": 83,
+            "name": "VulnHunter",
+            "full_name": "capitalone/VulnHunter",
+            "description": "Agentic AI security tool that applies proactive, attacker-first analysis directly to source code.",
+            "url": "https://github.com/capitalone/VulnHunter",
+            "stars": 534,
+            "forks": 70,
             "score": 57
         },
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "VulnHunter",
-            "full_name": "capitalone/VulnHunter",
-            "description": "Agentic AI security tool that applies proactive, attacker-first analysis directly to source code.",
-            "url": "https://github.com/capitalone/VulnHunter",
-            "stars": 525,
-            "forks": 69,
-            "score": 56
+            "name": "waku-agent",
+            "full_name": "ShenSeanChen/waku-agent",
+            "description": "Waku Waku! Waku agent is your personal AI agent, on your own laptop, in code you can read in an afternoon \u2014 harness + loop + memory + eval",
+            "url": "https://github.com/ShenSeanChen/waku-agent",
+            "stars": 329,
+            "forks": 83,
+            "score": 57
         },
         {
             "main_cat": "AI",
-            "sub_cat": null,
-            "name": "motion-anything",
-            "full_name": "nexu-io/motion-anything",
-            "description": "\u2728 The agentic motion layer \u2014 an open-source, chat-native motion engine. Describe the feeling; your AI ships the animation.",
-            "url": "https://github.com/nexu-io/motion-anything",
-            "stars": 491,
-            "forks": 50,
-            "score": 51
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "FableCut",
-            "full_name": "ronak-create/FableCut",
-            "description": "Zero-dependency browser video editor that AI agents can drive \u2014 JSON timeline, MCP + REST, live-reloading UI",
-            "url": "https://github.com/ronak-create/FableCut",
-            "stars": 481,
-            "forks": 47,
-            "score": 50
+            "sub_cat": "AI General",
+            "name": "klaatcode",
+            "full_name": "KlaatAI/klaatcode",
+            "description": "Open-source AI coding agent for the terminal. Claude Code-grade accuracy with smart model routing \u2014 uses the right AI model for each task, cutting costs 10x. Supports Claude, GPT, Gemini, DeepSeek & more.",
+            "url": "https://github.com/KlaatAI/klaatcode",
+            "stars": 148,
+            "forks": 23,
+            "score": 54
         },
         {
             "main_cat": "AI",
@@ -172,7 +161,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "bkingfilm/lapian-notes",
             "description": "AI \u8f85\u52a9\u7684\u7535\u5f71\u62c9\u7247\u5de5\u5177\uff1a\u5bfc\u5165\u5f71\u7247\uff0cAI \u62c6\u51fa\u5267\u60c5\u6cf3\u9053\u65f6\u95f4\u8f74\u3001\u7ed3\u6784\u6811\u3001\u89c2\u4f17\u60c5\u7eea\u66f2\u7ebf\uff0c\u8fb9\u64ad\u8fb9\u5199\u4f60\u7684\u62c9\u7247\u7b14\u8bb0\u3002\u514d\u8d39\u5f00\u6e90\uff0c\u6570\u636e\u5168\u5728\u672c\u5730",
             "url": "https://github.com/bkingfilm/lapian-notes",
-            "stars": 379,
+            "stars": 381,
             "forks": 49,
             "score": 50
         },
@@ -183,20 +172,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "CodeDrobe/skills",
             "description": "Agent Skills for theming AI desktop apps: reference image \u2192 reversible Codex/WorkBuddy skin \u2192 verify, repair, publish. | \u7ed9 AI \u684c\u9762\u5e94\u7528\u6362\u80a4\u7684 Agent Skills\uff1a\u53c2\u8003\u56fe \u2192 \u53ef\u9006\u76ae\u80a4 \u2192 \u9a8c\u8bc1\u3001\u4fee\u590d\u3001\u53d1\u5e03\u3002",
             "url": "https://github.com/CodeDrobe/skills",
-            "stars": 205,
+            "stars": 207,
             "forks": 16,
             "score": 49
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "ax",
-            "full_name": "yusukebe/ax",
-            "description": "The AI-era curl",
-            "url": "https://github.com/yusukebe/ax",
-            "stars": 541,
-            "forks": 10,
-            "score": 48
         },
         {
             "main_cat": "DePIN",
@@ -223,17 +201,6 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "motion-previs-studio",
-            "full_name": "wassermanproductions/motion-previs-studio",
-            "description": "Open-source desktop app for AI-film motion, depth, pose, and camera-move previsualization.",
-            "url": "https://github.com/wassermanproductions/motion-previs-studio",
-            "stars": 299,
-            "forks": 43,
-            "score": 44
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
             "name": "agent-pulse",
             "full_name": "barretlee/agent-pulse",
             "description": "Evidence-backed AI industry intelligence \u2014 trends, source updates, daily data refreshes, and weekly decision briefs.",
@@ -249,7 +216,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "zhouwei713/seedance-prompt",
             "description": "Hermes skill for realistic AI video prompts for Seedance and text-to-video models.",
             "url": "https://github.com/zhouwei713/seedance-prompt",
-            "stars": 227,
+            "stars": 233,
             "forks": 44,
             "score": 43
         },
@@ -260,20 +227,42 @@ const ALPHA_DATA_V2 = {
             "full_name": "s0ld13rr/pentestcode",
             "description": "PentestCode - Multi-agent AI penetration testing system with persistent engagement state, strategic coordination, and parallel autonomous operations.",
             "url": "https://github.com/s0ld13rr/pentestcode",
-            "stars": 200,
+            "stars": 201,
             "forks": 39,
             "score": 42
         },
         {
             "main_cat": "AI",
+            "sub_cat": "AI Agents",
+            "name": "understory",
+            "full_name": "thecodacus/understory",
+            "description": "understory \u2014 memory that grows. Self-wiring, plain-markdown memory for AI agents (MCP + local models + a living graph).",
+            "url": "https://github.com/thecodacus/understory",
+            "stars": 181,
+            "forks": 31,
+            "score": 41
+        },
+        {
+            "main_cat": "AI",
             "sub_cat": null,
-            "name": "Autonomous-Forge",
-            "full_name": "OmarH-creator/Autonomous-Forge",
-            "description": "This repo is automated and is fully AI-built and AI-maintained project that continuously plans, codes, tests, and improves itself.",
-            "url": "https://github.com/OmarH-creator/Autonomous-Forge",
-            "stars": 252,
-            "forks": 10,
-            "score": 39
+            "name": "ai-market-pulse",
+            "full_name": "SilentFleetKK/ai-market-pulse",
+            "description": "Turn any watchlist into a daily AI market research report \u2014 a quant research cockpit or a zero-code daily report tool.",
+            "url": "https://github.com/SilentFleetKK/ai-market-pulse",
+            "stars": 162,
+            "forks": 33,
+            "score": 41
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI Agents",
+            "name": "openlive",
+            "full_name": "katipally/openlive",
+            "description": "Opensource, on-device voice + vision layer for AI agents. Bring any model or coding agent; the whole speech loop (VAD, STT, TTS, barge-in) runs locally. An open alternative to ElevenLabs Agents, Gemini Live, and OpenAI Realtime.",
+            "url": "https://github.com/katipally/openlive",
+            "stars": 155,
+            "forks": 30,
+            "score": 40
         },
         {
             "main_cat": "AI",
@@ -315,19 +304,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "chordswallowthrust/undress-design",
             "description": "AI-powered fashion visualization and virtual try-on toolkit for consent-based garment editing, outfit prototyping, and creative design workflows. https://undress.design/edit?utm_source=gist.github.com/chordswallowthrust/undress-design",
             "url": "https://github.com/chordswallowthrust/undress-design",
-            "stars": 207,
+            "stars": 208,
             "forks": 0,
-            "score": 38
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "TokHub",
-            "full_name": "yaojingang/TokHub",
-            "description": "AI API \u4e2d\u8f6c\u7ad9\u76d1\u63a7\u3001\u63a8\u8350\u8fd0\u8425\u4e0e OpenAI \u517c\u5bb9\u4e13\u5c5e\u7f51\u5173\u7cfb\u7edf\uff0c\u652f\u6301\u5206\u5c42\u63a2\u6d4b\u3001\u5065\u5eb7\u8bc4\u5206\u3001\u7528\u91cf\u8ba1\u91cf\u3001\u544a\u8b66\u5ba1\u8ba1\u548c Docker \u81ea\u6258\u7ba1\u3002",
-            "url": "https://github.com/yaojingang/TokHub",
-            "stars": 186,
-            "forks": 20,
             "score": 38
         },
         {
@@ -340,6 +318,28 @@ const ALPHA_DATA_V2 = {
             "stars": 182,
             "forks": 3,
             "score": 38
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "soku-cli",
+            "full_name": "About-Intelligence/soku-cli",
+            "description": "Soku CLI \u2014 call Soku ads/GA4/PostHog data capabilities from any AI agent or shell.",
+            "url": "https://github.com/About-Intelligence/soku-cli",
+            "stars": 148,
+            "forks": 17,
+            "score": 38
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "kitforai",
+            "full_name": "kitforai/kitforai",
+            "description": "Kit for AI developer hub \u2014 official SDK, Claude Code plugin, MCP setup, and llms.txt.",
+            "url": "https://github.com/kitforai/kitforai",
+            "stars": 148,
+            "forks": 6,
+            "score": 37
         },
         {
             "main_cat": "AI",
@@ -360,7 +360,7 @@ const ALPHA_DATA_V2 = {
             "description": "Stellar Pulse is a decentralized prediction market built on Stellar/Soroban. Users connect a wallet, bet XLM on YES/NO markets, earn PULSE tokens and points, and claim payouts on-chain.",
             "url": "https://github.com/Steller-StellarPulse-org/StellarPulse",
             "stars": 6,
-            "forks": 29,
+            "forks": 30,
             "score": 34
         },
         {
@@ -383,39 +383,17 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/Dshield-xyz/Dshield",
             "stars": 0,
             "forks": 14,
-            "score": 32
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "Gemma4.pas",
-            "full_name": "tinyBigGAMES/Gemma4.pas",
-            "description": "Gemma4.pas is a high-performance AI inference engine developed entirely in Delphi to run Google\u2019s Gemma 4 model natively on Windows. Unlike most platforms, this project features zero external dependencies and utilizes Vulkan compute shaders to accelerate complex mathematical operations directly on the user's GPU.",
-            "url": "https://github.com/tinyBigGAMES/Gemma4.pas",
-            "stars": 27,
-            "forks": 5,
             "score": 31
         },
         {
             "main_cat": "AI",
-            "sub_cat": "AI Agents",
-            "name": "sample-okf-llm-wiki",
-            "full_name": "aws-samples/sample-okf-llm-wiki",
-            "description": "Data Wiki turns AWS Glue databases into portable knowledge bundles following Open Knowledge Format (OKF) and serves them to AI agents over the Model Context Protocol (MCP).",
-            "url": "https://github.com/aws-samples/sample-okf-llm-wiki",
-            "stars": 7,
-            "forks": 0,
-            "score": 30
-        },
-        {
-            "main_cat": "AI",
             "sub_cat": "AI General",
-            "name": "ckg-nvidia-ai",
-            "full_name": "Yarmoluk/ckg-nvidia-ai",
-            "description": "MCP server \u2014 Compressed Knowledge Graph for the NVIDIA AI developer stack. 20 domains \u00b7 998 nodes \u00b7 4\u00d7 F1 vs RAG \u00b7 11\u00d7 fewer tokens \u00b7 deterministic traversal.",
-            "url": "https://github.com/Yarmoluk/ckg-nvidia-ai",
-            "stars": 7,
-            "forks": 0,
+            "name": "okfgen",
+            "full_name": "Arindam200/okfgen",
+            "description": "Generate and validate Open Knowledge Format bundles with LangChain and your preferred model provider",
+            "url": "https://github.com/Arindam200/okfgen",
+            "stars": 6,
+            "forks": 3,
             "score": 30
         },
         {
@@ -432,12 +410,12 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
-            "name": "dspark-arena",
-            "full_name": "theaiautomators/dspark-arena",
-            "description": "Watch DeepSeek's DeepSpec drafters (DSpark / DFlash / EAGLE-3) race plain autoregressive decoding live in your browser, then A/B the real thing on vLLM (DSpark serving vs no-speculation) \u2014 same model, same answers, one consumer GPU.",
-            "url": "https://github.com/theaiautomators/dspark-arena",
-            "stars": 6,
-            "forks": 2,
+            "name": "Medical-SLM",
+            "full_name": "atharvahatekar/Medical-SLM",
+            "description": "Building a production-grade Medical SLM from scratch in PyTorch\u2014from custom tokenization and single-GPU pretraining to medical instruction tuning and rigorous evaluation.",
+            "url": "https://github.com/atharvahatekar/Medical-SLM",
+            "stars": 5,
+            "forks": 0,
             "score": 30
         },
         {
@@ -681,23 +659,20 @@ const ALPHA_DATA_V2 = {
             "stars": 0,
             "forks": 0,
             "score": 30
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "polyglotir",
+            "full_name": "Juwan-Hwang/polyglotir",
+            "description": "SILP: Semantic Interlingua Layer Protocol \u2014 Leveraging Shared Training Priors for Cross-Model Agent Communication",
+            "url": "https://github.com/Juwan-Hwang/polyglotir",
+            "stars": 0,
+            "forks": 0,
+            "score": 30
         }
     ],
     "news": [
-        {
-            "title": "Beyond Success Rate: Cost-Aware Evaluation of Offensive and Defensive Security Agents",
-            "source": "ArXiv",
-            "type": "Research Alpha",
-            "color": "text-indigo-600",
-            "url": "http://arxiv.org/abs/2607.15263v1"
-        },
-        {
-            "title": "Decoding Market Emotion from Blockchain Activity: A Data-Driven Sentiment Classifier",
-            "source": "ArXiv",
-            "type": "Research Alpha",
-            "color": "text-indigo-600",
-            "url": "http://arxiv.org/abs/2607.15258v1"
-        },
         {
             "title": "Bitcoin volatility remains high ahead of key FED decision.",
             "source": "Polymarket",
@@ -706,5 +681,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-07-19 23:51"
+    "timestamp": "2026-07-20 02:24"
 };
