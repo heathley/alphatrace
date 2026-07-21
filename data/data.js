@@ -7,7 +7,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Blueturboguy07/cue",
             "description": "Open-source macOS AI copilot that floats over your screen, sees/hears your meetings, and stays hidden from screen shares. Cluely alternative, bring-your-own-key.",
             "url": "https://github.com/Blueturboguy07/cue",
-            "stars": 699,
+            "stars": 700,
             "forks": 145,
             "score": 99
         },
@@ -18,7 +18,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Blaizzy/nativ",
             "description": "Local AI, native to your Mac. Chat, serve, monitor, and connect MLX models from one macOS app.",
             "url": "https://github.com/Blaizzy/nativ",
-            "stars": 597,
+            "stars": 599,
             "forks": 34,
             "score": 99
         },
@@ -40,7 +40,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "William-Lu-stack/Flawless",
             "description": "AI SRE AgenticOps for Kubernetes and cloud infrastructure.",
             "url": "https://github.com/William-Lu-stack/Flawless",
-            "stars": 840,
+            "stars": 842,
             "forks": 213,
             "score": 90
         },
@@ -51,9 +51,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "Kritt-ai/open-kritt",
             "description": "Orchestrate AI agents to find real vulnerabilities in code.",
             "url": "https://github.com/Kritt-ai/open-kritt",
-            "stars": 243,
+            "stars": 248,
             "forks": 46,
-            "score": 83
+            "score": 84
         },
         {
             "main_cat": "AI",
@@ -62,9 +62,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "Vincentwei1021/video-shotcraft",
             "description": "AI video skill for Claude Code & Codex \u2014 cinematic product videos with Remotion: 106 shot recipe cards, 161 motion previews, a production-ready template",
             "url": "https://github.com/Vincentwei1021/video-shotcraft",
-            "stars": 402,
+            "stars": 406,
             "forks": 29,
-            "score": 81
+            "score": 82
         },
         {
             "main_cat": "AI",
@@ -73,7 +73,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "v-modal/vmodal_sdk_flutter",
             "description": "V- Modal AI: Search anything anywhere SDK Flutter",
             "url": "https://github.com/v-modal/vmodal_sdk_flutter",
-            "stars": 760,
+            "stars": 765,
             "forks": 2,
             "score": 78
         },
@@ -84,9 +84,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "smixs/pohuy",
             "description": "\u0420\u0435\u0436\u0438\u043c \u0438\u0434\u0438\u043e\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u043e\u0433\u043e \u0440\u0443\u0441\u0441\u043a\u043e\u0433\u043e \u043c\u0430\u0442\u0430 \u0434\u043b\u044f AI-\u0430\u0433\u0435\u043d\u0442\u043e\u0432. \u041a\u043e\u0440\u043e\u0447\u0435, \u0434\u0443\u0448\u0435\u0432\u043d\u0435\u0435, \u044d\u0444\u0444\u0435\u043a\u0442\u0438\u0432\u043d\u0435\u0435. 18+",
             "url": "https://github.com/smixs/pohuy",
-            "stars": 460,
+            "stars": 465,
             "forks": 7,
-            "score": 64
+            "score": 65
         },
         {
             "main_cat": "AI",
@@ -95,7 +95,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "penecho/penecho",
             "description": "Think with AI beyond the chat box. A shared canvas for handwriting, equations, diagrams, and spatial reasoning.",
             "url": "https://github.com/penecho/penecho",
-            "stars": 453,
+            "stars": 454,
             "forks": 55,
             "score": 63
         },
@@ -106,9 +106,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "KlaatAI/klaatcode",
             "description": "Open-source AI coding agent for the terminal. Claude Code-grade accuracy with smart model routing \u2014 uses the right AI model for each task, cutting costs 10x. Supports Claude, GPT, Gemini, DeepSeek & more.",
             "url": "https://github.com/KlaatAI/klaatcode",
-            "stars": 198,
-            "forks": 64,
-            "score": 62
+            "stars": 201,
+            "forks": 66,
+            "score": 63
         },
         {
             "main_cat": "AI",
@@ -150,7 +150,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "yuwen-cool/yuwen-publish-precheck",
             "description": "\u53d1\u5e03\u524d\u5ba1\uff5c\u53d1\u6296\u97f3/\u5c0f\u7ea2\u4e66/\u89c6\u9891\u53f7\u524d\u5148\u8ba9 AI \u5ba1\u4e00\u904d\uff1a\u54ea\u53e5\u8e29\u7ebf\u3001\u4f9d\u636e\u54ea\u6761\u5b98\u65b9\u89c4\u5219\u3001\u7ed9\u80fd\u76f4\u63a5\u7528\u7684\u6539\u6cd5\u300238 \u7bc7\u771f\u5b9e\u6837\u672c\u6821\u51c6\u5224\u5b9a\u5c3a\u5ea6\uff0c72 \u6761\u5b98\u65b9\u539f\u6587\u5f15\u6587\u53ef\u67e5\u8bc1\uff0c\u4f60\u8e29\u8fc7\u7684\u5751\u6c89\u6dc0\u6210\u672c\u5730\u89c4\u5219\u5e93\u8d8a\u7528\u8d8a\u51c6\u3002\u4e0d\u627f\u8bfa\u8fc7\u5ba1\uff0c\u4e0d\u6559\u7ed5\u5ba1\u3002",
             "url": "https://github.com/yuwen-cool/yuwen-publish-precheck",
-            "stars": 366,
+            "stars": 367,
             "forks": 34,
             "score": 57
         },
@@ -161,7 +161,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "ShenSeanChen/waku-agent",
             "description": "Waku Waku! Waku agent is your personal AI agent, on your own laptop, in code you can read in an afternoon \u2014 harness + loop + memory + eval",
             "url": "https://github.com/ShenSeanChen/waku-agent",
-            "stars": 386,
+            "stars": 388,
             "forks": 90,
             "score": 56
         },
@@ -205,7 +205,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "OpenBMB/MiniCPM-Robot",
             "description": "A Smarter and Faster On-Device AI Brain for Robots",
             "url": "https://github.com/OpenBMB/MiniCPM-Robot",
-            "stars": 189,
+            "stars": 190,
             "forks": 14,
             "score": 50
         },
@@ -227,9 +227,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "0xsline/OpenChatCut",
             "description": "Local-first conversational AI video editor with a professional multi-track timeline, Agent Skills, MCP integration, and Remotion-powered rendering.",
             "url": "https://github.com/0xsline/OpenChatCut",
-            "stars": 241,
-            "forks": 16,
-            "score": 46
+            "stars": 249,
+            "forks": 17,
+            "score": 47
         },
         {
             "main_cat": "AI",
@@ -260,7 +260,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "s0ld13rr/pentestcode",
             "description": "PentestCode - Multi-agent AI penetration testing system with persistent engagement state, strategic coordination, and parallel autonomous operations.",
             "url": "https://github.com/s0ld13rr/pentestcode",
-            "stars": 221,
+            "stars": 222,
             "forks": 46,
             "score": 42
         },
@@ -304,7 +304,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "About-Intelligence/soku-cli",
             "description": "Soku CLI \u2014 call Soku ads/GA4/PostHog data capabilities from any AI agent or shell.",
             "url": "https://github.com/About-Intelligence/soku-cli",
-            "stars": 209,
+            "stars": 211,
             "forks": 21,
             "score": 39
         },
@@ -316,7 +316,7 @@ const ALPHA_DATA_V2 = {
             "description": "Silent Crypto Miner is an advanced cryptocurrency mining builder and runtime engine with multi-algorithm CPU/GPU support and intelligent resource management. Create custom mining executables with configurable algorithms, cross-platform output, real-time monitoring, session persistence, thermal throttling, scheduling, and hashrate optimization.",
             "url": "https://github.com/NInagusev47/Silent-Crypto-Miner",
             "stars": 143,
-            "forks": 33,
+            "forks": 32,
             "score": 39
         },
         {
@@ -337,7 +337,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "aws-samples/sample-specship",
             "description": "Spec-driven autonomous engineering workflow for AI coding agents: recon \u2192 plan \u2192 build \u2192 validate \u2192 ship \u2014 with TDD, adversarial validation, and anti-slop quality gates. Packaged as a Kiro Power.",
             "url": "https://github.com/aws-samples/sample-specship",
-            "stars": 184,
+            "stars": 185,
             "forks": 3,
             "score": 37
         },
@@ -414,6 +414,17 @@ const ALPHA_DATA_V2 = {
             "full_name": "Aura-vault/RWA-Yield-Distribution-Suite",
             "description": " A production-ready, enterprise-grade decentralized application for distributing yield to Real-World Asset (RWA) token holders on the Stellar Network using Soroban smart contracts.",
             "url": "https://github.com/Aura-vault/RWA-Yield-Distribution-Suite",
+            "stars": 0,
+            "forks": 0,
+            "score": 30
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "forward-vault",
+            "full_name": "vonMangoldt/forward-vault",
+            "description": "Fixed-APY RWA yield vaults + withdrawal queue powering World Mobile AirNode vaults. Live on Ethereum + Arbitrum, ~$2M TVL, 202/202 invariant tests green.",
+            "url": "https://github.com/vonMangoldt/forward-vault",
             "stars": 0,
             "forks": 0,
             "score": 30
@@ -674,6 +685,17 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
+            "name": "flario",
+            "full_name": "dziuba0x/flario",
+            "description": "Flario \u2014 the agent MCP server for Flare Network: FTSO price feeds, FDC cross-chain attestations, FAssets state, plus x402 agent micropayments with chain-verified receipts. For Claude, Cursor & any Model Context Protocol client.",
+            "url": "https://github.com/dziuba0x/flario",
+            "stars": 0,
+            "forks": 0,
+            "score": 30
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
             "name": "API-Bridge",
             "full_name": "zhangshengying97/API-Bridge",
             "description": "apibridge \u2014\u2014 \u672c\u5730 AI \u6a21\u578b API \u8def\u7531\u4ee3\u7406\u684c\u9762\u7aef\u3002\u8de8\u5e73\u53f0\uff0c\u652f\u6301 OpenAI/Anthropic/Gemini \u591a\u534f\u8bae\u4e92\u8f6c\uff0c\u865a\u62df\u6a21\u578b\u62bd\u8c61\u4e0e\u591a\u7b56\u7565\u667a\u80fd\u8def\u7531\u3002  apibridge \u2014 Local AI Model API Routing Proxy Desktop App. Cross-platform, multi-protocol conversion (OpenAI/Anthropic/Gemini), virtual model abstraction with intelligent routing.",
@@ -739,5 +761,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-07-21 20:59"
+    "timestamp": "2026-07-21 22:07"
 };
