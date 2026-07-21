@@ -18,8 +18,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "Blaizzy/nativ",
             "description": "Local AI, native to your Mac. Chat, serve, monitor, and connect MLX models from one macOS app.",
             "url": "https://github.com/Blaizzy/nativ",
-            "stars": 515,
-            "forks": 32,
+            "stars": 541,
+            "forks": 33,
             "score": 99
         },
         {
@@ -36,24 +36,24 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "Flawless",
-            "full_name": "William-Lu-stack/Flawless",
-            "description": "AI SRE AgenticOps for Kubernetes and cloud infrastructure.",
-            "url": "https://github.com/William-Lu-stack/Flawless",
-            "stars": 833,
-            "forks": 210,
-            "score": 89
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
             "name": "open-kritt",
             "full_name": "Kritt-ai/open-kritt",
             "description": "Orchestrate AI agents to find real vulnerabilities in code.",
             "url": "https://github.com/Kritt-ai/open-kritt",
-            "stars": 180,
-            "forks": 40,
-            "score": 86
+            "stars": 203,
+            "forks": 43,
+            "score": 92
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "Flawless",
+            "full_name": "William-Lu-stack/Flawless",
+            "description": "AI SRE AgenticOps for Kubernetes and cloud infrastructure.",
+            "url": "https://github.com/William-Lu-stack/Flawless",
+            "stars": 835,
+            "forks": 213,
+            "score": 90
         },
         {
             "main_cat": "AI",
@@ -62,9 +62,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "Vincentwei1021/video-shotcraft",
             "description": "AI video skill for Claude Code & Codex \u2014 cinematic product videos with Remotion: 106 shot recipe cards, 161 motion previews, a production-ready template",
             "url": "https://github.com/Vincentwei1021/video-shotcraft",
-            "stars": 355,
-            "forks": 27,
-            "score": 76
+            "stars": 379,
+            "forks": 28,
+            "score": 79
         },
         {
             "main_cat": "AI",
@@ -73,9 +73,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "v-modal/vmodal_sdk_flutter",
             "description": "V- Modal AI: Search anything anywhere SDK Flutter",
             "url": "https://github.com/v-modal/vmodal_sdk_flutter",
-            "stars": 716,
-            "forks": 1,
-            "score": 75
+            "stars": 732,
+            "forks": 2,
+            "score": 76
         },
         {
             "main_cat": "AI",
@@ -84,9 +84,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "penecho/penecho",
             "description": "Think with AI beyond the chat box. A shared canvas for handwriting, equations, diagrams, and spatial reasoning.",
             "url": "https://github.com/penecho/penecho",
-            "stars": 441,
-            "forks": 54,
-            "score": 62
+            "stars": 444,
+            "forks": 55,
+            "score": 63
         },
         {
             "main_cat": "AI",
@@ -95,9 +95,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "smixs/pohuy",
             "description": "\u0420\u0435\u0436\u0438\u043c \u0438\u0434\u0438\u043e\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u043e\u0433\u043e \u0440\u0443\u0441\u0441\u043a\u043e\u0433\u043e \u043c\u0430\u0442\u0430 \u0434\u043b\u044f AI-\u0430\u0433\u0435\u043d\u0442\u043e\u0432. \u041a\u043e\u0440\u043e\u0447\u0435, \u0434\u0443\u0448\u0435\u0432\u043d\u0435\u0435, \u044d\u0444\u0444\u0435\u043a\u0442\u0438\u0432\u043d\u0435\u0435. 18+",
             "url": "https://github.com/smixs/pohuy",
-            "stars": 433,
+            "stars": 444,
             "forks": 7,
-            "score": 62
+            "score": 63
         },
         {
             "main_cat": "AI",
@@ -106,8 +106,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "Raymondhou0917/speak-human-tw",
             "description": "\u300c\u8aaa\u4eba\u8a71\u300d\uff1a\u7e41\u9ad4\u4e2d\u6587\u7684\u53bb AI \u5473\u6539\u5beb skill\u3002\u6293 38 \u7a2e AI \u5beb\u4f5c\u75d5\u8de1\uff0c\u9806\u624b\u6821\u6b63\u4e2d\u570b\u7528\u8a9e\u8207\u534a\u5f62\u6a19\u9ede\uff0c\u7d66 Claude Code / Codex / Cursor \u7528\u3002",
             "url": "https://github.com/Raymondhou0917/speak-human-tw",
-            "stars": 652,
-            "forks": 71,
+            "stars": 657,
+            "forks": 72,
             "score": 59
         },
         {
@@ -128,7 +128,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "KlaatAI/klaatcode",
             "description": "Open-source AI coding agent for the terminal. Claude Code-grade accuracy with smart model routing \u2014 uses the right AI model for each task, cutting costs 10x. Supports Claude, GPT, Gemini, DeepSeek & more.",
             "url": "https://github.com/KlaatAI/klaatcode",
-            "stars": 184,
+            "stars": 185,
             "forks": 52,
             "score": 58
         },
@@ -184,7 +184,7 @@ const ALPHA_DATA_V2 = {
             "description": "An intentionally vulnerable OWASP LLM Top 10 training platform for AI Security, Prompt Injection, RAG Security, Agent Security, and GenAI penetration testing.",
             "url": "https://github.com/CyberSunil/LLMVault",
             "stars": 220,
-            "forks": 54,
+            "forks": 55,
             "score": 54
         },
         {
@@ -194,9 +194,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "OpenBMB/MiniCPM-Robot",
             "description": "A Smarter and Faster On-Device AI Brain for Robots",
             "url": "https://github.com/OpenBMB/MiniCPM-Robot",
-            "stars": 182,
-            "forks": 13,
-            "score": 53
+            "stars": 185,
+            "forks": 14,
+            "score": 54
         },
         {
             "main_cat": "AI",
@@ -205,7 +205,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "bkingfilm/lapian-notes",
             "description": "AI \u8f85\u52a9\u7684\u7535\u5f71\u62c9\u7247\u5de5\u5177\uff1a\u5bfc\u5165\u5f71\u7247\uff0cAI \u62c6\u51fa\u5267\u60c5\u6cf3\u9053\u65f6\u95f4\u8f74\u3001\u7ed3\u6784\u6811\u3001\u89c2\u4f17\u60c5\u7eea\u66f2\u7ebf\uff0c\u8fb9\u64ad\u8fb9\u5199\u4f60\u7684\u62c9\u7247\u7b14\u8bb0\u3002\u514d\u8d39\u5f00\u6e90\uff0c\u6570\u636e\u5168\u5728\u672c\u5730",
             "url": "https://github.com/bkingfilm/lapian-notes",
-            "stars": 401,
+            "stars": 402,
             "forks": 52,
             "score": 49
         },
@@ -216,7 +216,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "yc-duan/fastctx",
             "description": "Fast, context-efficient repository tools for AI agents (MCP)",
             "url": "https://github.com/yc-duan/fastctx",
-            "stars": 248,
+            "stars": 251,
             "forks": 7,
             "score": 49
         },
@@ -240,7 +240,7 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/nihe0909/xiaohongshu-ai-workbench",
             "stars": 258,
             "forks": 21,
-            "score": 47
+            "score": 45
         },
         {
             "main_cat": "AI",
@@ -249,9 +249,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "0xsline/OpenChatCut",
             "description": "Local-first conversational AI video editor with a professional multi-track timeline, Agent Skills, MCP integration, and Remotion-powered rendering.",
             "url": "https://github.com/0xsline/OpenChatCut",
-            "stars": 207,
-            "forks": 14,
-            "score": 44
+            "stars": 222,
+            "forks": 15,
+            "score": 45
         },
         {
             "main_cat": "AI",
@@ -283,7 +283,7 @@ const ALPHA_DATA_V2 = {
             "description": "A smarter, self-hosted AI assistant \u2014 multi-user, multi-agent.",
             "url": "https://github.com/TencentCloud/Octop",
             "stars": 245,
-            "forks": 28,
+            "forks": 29,
             "score": 41
         },
         {
@@ -304,7 +304,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "About-Intelligence/soku-cli",
             "description": "Soku CLI \u2014 call Soku ads/GA4/PostHog data capabilities from any AI agent or shell.",
             "url": "https://github.com/About-Intelligence/soku-cli",
-            "stars": 201,
+            "stars": 206,
             "forks": 21,
             "score": 39
         },
@@ -403,8 +403,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "michaelio93/vonargo-ai-inference-hub",
             "description": "Browser-based landing page for AI services and guidance, presenting advisory support plus turnkey inference appliances and datacenter-class GPU hardware from a single static site, updated for 2026.",
             "url": "https://github.com/michaelio93/vonargo-ai-inference-hub",
-            "stars": 7,
-            "forks": 3,
+            "stars": 6,
+            "forks": 2,
             "score": 30
         },
         {
@@ -739,5 +739,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-07-21 15:38"
+    "timestamp": "2026-07-21 17:09"
 };
