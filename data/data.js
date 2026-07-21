@@ -8,7 +8,7 @@ const ALPHA_DATA_V2 = {
             "description": "Open-source macOS AI copilot that floats over your screen, sees/hears your meetings, and stays hidden from screen shares. Cluely alternative, bring-your-own-key.",
             "url": "https://github.com/Blueturboguy07/cue",
             "stars": 700,
-            "forks": 145,
+            "forks": 146,
             "score": 99
         },
         {
@@ -18,8 +18,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "Blaizzy/nativ",
             "description": "Local AI, native to your Mac. Chat, serve, monitor, and connect MLX models from one macOS app.",
             "url": "https://github.com/Blaizzy/nativ",
-            "stars": 599,
-            "forks": 34,
+            "stars": 610,
+            "forks": 35,
             "score": 99
         },
         {
@@ -31,7 +31,7 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/eli-labz/Agent-Execution-Partnership",
             "stars": 251,
             "forks": 75,
-            "score": 99
+            "score": 98
         },
         {
             "main_cat": "AI",
@@ -40,7 +40,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "William-Lu-stack/Flawless",
             "description": "AI SRE AgenticOps for Kubernetes and cloud infrastructure.",
             "url": "https://github.com/William-Lu-stack/Flawless",
-            "stars": 842,
+            "stars": 843,
             "forks": 213,
             "score": 90
         },
@@ -51,9 +51,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "Kritt-ai/open-kritt",
             "description": "Orchestrate AI agents to find real vulnerabilities in code.",
             "url": "https://github.com/Kritt-ai/open-kritt",
-            "stars": 248,
-            "forks": 46,
-            "score": 84
+            "stars": 252,
+            "forks": 47,
+            "score": 85
         },
         {
             "main_cat": "AI",
@@ -62,7 +62,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Vincentwei1021/video-shotcraft",
             "description": "AI video skill for Claude Code & Codex \u2014 cinematic product videos with Remotion: 106 shot recipe cards, 161 motion previews, a production-ready template",
             "url": "https://github.com/Vincentwei1021/video-shotcraft",
-            "stars": 406,
+            "stars": 411,
             "forks": 29,
             "score": 82
         },
@@ -73,7 +73,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "v-modal/vmodal_sdk_flutter",
             "description": "V- Modal AI: Search anything anywhere SDK Flutter",
             "url": "https://github.com/v-modal/vmodal_sdk_flutter",
-            "stars": 765,
+            "stars": 774,
             "forks": 2,
             "score": 78
         },
@@ -84,7 +84,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "smixs/pohuy",
             "description": "\u0420\u0435\u0436\u0438\u043c \u0438\u0434\u0438\u043e\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u043e\u0433\u043e \u0440\u0443\u0441\u0441\u043a\u043e\u0433\u043e \u043c\u0430\u0442\u0430 \u0434\u043b\u044f AI-\u0430\u0433\u0435\u043d\u0442\u043e\u0432. \u041a\u043e\u0440\u043e\u0447\u0435, \u0434\u0443\u0448\u0435\u0432\u043d\u0435\u0435, \u044d\u0444\u0444\u0435\u043a\u0442\u0438\u0432\u043d\u0435\u0435. 18+",
             "url": "https://github.com/smixs/pohuy",
-            "stars": 465,
+            "stars": 467,
             "forks": 7,
             "score": 65
         },
@@ -95,7 +95,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "penecho/penecho",
             "description": "Think with AI beyond the chat box. A shared canvas for handwriting, equations, diagrams, and spatial reasoning.",
             "url": "https://github.com/penecho/penecho",
-            "stars": 454,
+            "stars": 457,
             "forks": 55,
             "score": 63
         },
@@ -106,8 +106,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "KlaatAI/klaatcode",
             "description": "Open-source AI coding agent for the terminal. Claude Code-grade accuracy with smart model routing \u2014 uses the right AI model for each task, cutting costs 10x. Supports Claude, GPT, Gemini, DeepSeek & more.",
             "url": "https://github.com/KlaatAI/klaatcode",
-            "stars": 201,
-            "forks": 66,
+            "stars": 204,
+            "forks": 67,
             "score": 63
         },
         {
@@ -117,8 +117,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "Raymondhou0917/speak-human-tw",
             "description": "\u300c\u8aaa\u4eba\u8a71\u300d\uff1a\u7e41\u9ad4\u4e2d\u6587\u7684\u53bb AI \u5473\u6539\u5beb skill\u3002\u6293 38 \u7a2e AI \u5beb\u4f5c\u75d5\u8de1\uff0c\u9806\u624b\u6821\u6b63\u4e2d\u570b\u7528\u8a9e\u8207\u534a\u5f62\u6a19\u9ede\uff0c\u7d66 Claude Code / Codex / Cursor \u7528\u3002",
             "url": "https://github.com/Raymondhou0917/speak-human-tw",
-            "stars": 657,
-            "forks": 72,
+            "stars": 659,
+            "forks": 73,
             "score": 59
         },
         {
@@ -139,7 +139,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "yetone/kill-ai-slop",
             "description": "A field guide to the visual & copy tics of AI-generated products \u2014 and an Agent Skill that scans your project and strips them out. https://killaislop.com",
             "url": "https://github.com/yetone/kill-ai-slop",
-            "stars": 682,
+            "stars": 683,
             "forks": 23,
             "score": 57
         },
@@ -184,7 +184,7 @@ const ALPHA_DATA_V2 = {
             "description": "An intentionally vulnerable OWASP LLM Top 10 training platform for AI Security, Prompt Injection, RAG Security, Agent Security, and GenAI penetration testing.",
             "url": "https://github.com/CyberSunil/LLMVault",
             "stars": 220,
-            "forks": 56,
+            "forks": 57,
             "score": 54
         },
         {
@@ -194,8 +194,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "yc-duan/fastctx",
             "description": "Fast, context-efficient repository tools for AI agents (MCP)",
             "url": "https://github.com/yc-duan/fastctx",
-            "stars": 254,
-            "forks": 8,
+            "stars": 256,
+            "forks": 9,
             "score": 50
         },
         {
@@ -227,9 +227,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "0xsline/OpenChatCut",
             "description": "Local-first conversational AI video editor with a professional multi-track timeline, Agent Skills, MCP integration, and Remotion-powered rendering.",
             "url": "https://github.com/0xsline/OpenChatCut",
-            "stars": 249,
-            "forks": 17,
-            "score": 47
+            "stars": 258,
+            "forks": 19,
+            "score": 48
         },
         {
             "main_cat": "AI",
@@ -260,8 +260,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "s0ld13rr/pentestcode",
             "description": "PentestCode - Multi-agent AI penetration testing system with persistent engagement state, strategic coordination, and parallel autonomous operations.",
             "url": "https://github.com/s0ld13rr/pentestcode",
-            "stars": 222,
-            "forks": 46,
+            "stars": 225,
+            "forks": 47,
             "score": 42
         },
         {
@@ -288,6 +288,17 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
+            "sub_cat": null,
+            "name": "soku-cli",
+            "full_name": "About-Intelligence/soku-cli",
+            "description": "Soku CLI \u2014 call Soku ads/GA4/PostHog data capabilities from any AI agent or shell.",
+            "url": "https://github.com/About-Intelligence/soku-cli",
+            "stars": 212,
+            "forks": 22,
+            "score": 40
+        },
+        {
+            "main_cat": "AI",
             "sub_cat": "AI Agents",
             "name": "understory",
             "full_name": "thecodacus/understory",
@@ -296,17 +307,6 @@ const ALPHA_DATA_V2 = {
             "stars": 187,
             "forks": 33,
             "score": 40
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "soku-cli",
-            "full_name": "About-Intelligence/soku-cli",
-            "description": "Soku CLI \u2014 call Soku ads/GA4/PostHog data capabilities from any AI agent or shell.",
-            "url": "https://github.com/About-Intelligence/soku-cli",
-            "stars": 211,
-            "forks": 21,
-            "score": 39
         },
         {
             "main_cat": "DePIN",
@@ -337,7 +337,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "aws-samples/sample-specship",
             "description": "Spec-driven autonomous engineering workflow for AI coding agents: recon \u2192 plan \u2192 build \u2192 validate \u2192 ship \u2014 with TDD, adversarial validation, and anti-slop quality gates. Packaged as a Kiro Power.",
             "url": "https://github.com/aws-samples/sample-specship",
-            "stars": 185,
+            "stars": 186,
             "forks": 3,
             "score": 37
         },
@@ -432,6 +432,17 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "Prediction Markets",
             "sub_cat": null,
+            "name": "TrendX",
+            "full_name": "ArmaghanRazaChaudhary/TrendX",
+            "description": "Bet on attention \u2014 Google Trends prediction market UI (Next.js + Solana + SerpAPI)",
+            "url": "https://github.com/ArmaghanRazaChaudhary/TrendX",
+            "stars": 0,
+            "forks": 0,
+            "score": 30
+        },
+        {
+            "main_cat": "Prediction Markets",
+            "sub_cat": null,
             "name": "odds-warden",
             "full_name": "Gingerbreadfork/odds-warden",
             "description": "A watchdog for World Cup betting markets: it flags suspicious odds movement in real time and anchors the evidence on Solana, so prediction markets and other projects can verify a market was clean before settling.",
@@ -502,17 +513,6 @@ const ALPHA_DATA_V2 = {
             "full_name": "sagarmaru28-collab/Fifa26_prediction-against-market",
             "description": "Fifa 26 world cup ML model prediction vs the bets on polymarket",
             "url": "https://github.com/sagarmaru28-collab/Fifa26_prediction-against-market",
-            "stars": 0,
-            "forks": 0,
-            "score": 30
-        },
-        {
-            "main_cat": "Prediction Markets",
-            "sub_cat": null,
-            "name": "icenomics-open-book",
-            "full_name": "Jcurry44/icenomics-open-book",
-            "description": "Every NHL contract is a bet. We keep the book - settled, in public, with receipts. Pre-registered prediction ledger + settlement engine for the NHL contract market (Icenomics).",
-            "url": "https://github.com/Jcurry44/icenomics-open-book",
             "stars": 0,
             "forks": 0,
             "score": 30
@@ -761,5 +761,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-07-21 22:07"
+    "timestamp": "2026-07-21 23:51"
 };
