@@ -7,8 +7,19 @@ const ALPHA_DATA_V2 = {
             "full_name": "Blaizzy/nativ",
             "description": "Local AI, native to your Mac. Chat, serve, monitor, and connect MLX models from one macOS app.",
             "url": "https://github.com/Blaizzy/nativ",
-            "stars": 749,
-            "forks": 38,
+            "stars": 757,
+            "forks": 39,
+            "score": 99
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "thinking-orbs",
+            "full_name": "Jakubantalik/thinking-orbs",
+            "description": "Dotted thought-orb loading indicators for AI & agent UIs \u2014 six tuned states, two sizes, auto dark/light",
+            "url": "https://github.com/Jakubantalik/thinking-orbs",
+            "stars": 603,
+            "forks": 39,
             "score": 99
         },
         {
@@ -19,30 +30,8 @@ const ALPHA_DATA_V2 = {
             "description": "Open-source macOS AI copilot that floats over your screen, sees/hears your meetings, and stays hidden from screen shares. Cluely alternative, bring-your-own-key.",
             "url": "https://github.com/Blueturboguy07/cue",
             "stars": 724,
-            "forks": 155,
-            "score": 99
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "thinking-orbs",
-            "full_name": "Jakubantalik/thinking-orbs",
-            "description": "Dotted thought-orb loading indicators for AI & agent UIs \u2014 six tuned states, two sizes, auto dark/light",
-            "url": "https://github.com/Jakubantalik/thinking-orbs",
-            "stars": 573,
-            "forks": 35,
-            "score": 99
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "Agent-Execution-Partnership",
-            "full_name": "eli-labz/Agent-Execution-Partnership",
-            "description": "Agent Execution Partnership AEE is an open-source control plane that ensures every AI agent action is authorized before it runs, observable while it runs, and verifiable after it completes.",
-            "url": "https://github.com/eli-labz/Agent-Execution-Partnership",
-            "stars": 251,
-            "forks": 74,
-            "score": 98
+            "forks": 156,
+            "score": 97
         },
         {
             "main_cat": "AI",
@@ -51,9 +40,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "penecho/penecho",
             "description": "Think with AI beyond the chat box. A shared canvas for handwriting, equations, diagrams, and spatial reasoning.",
             "url": "https://github.com/penecho/penecho",
-            "stars": 948,
-            "forks": 97,
-            "score": 90
+            "stars": 979,
+            "forks": 101,
+            "score": 92
         },
         {
             "main_cat": "AI",
@@ -62,7 +51,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Kritt-ai/open-kritt",
             "description": "Orchestrate AI agents to find real vulnerabilities in code.",
             "url": "https://github.com/Kritt-ai/open-kritt",
-            "stars": 317,
+            "stars": 318,
             "forks": 70,
             "score": 89
         },
@@ -84,7 +73,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Vincentwei1021/video-shotcraft",
             "description": "AI video skill for Claude Code & Codex \u2014 cinematic product videos with Remotion: 106 shot recipe cards, 161 motion previews, a production-ready template",
             "url": "https://github.com/Vincentwei1021/video-shotcraft",
-            "stars": 507,
+            "stars": 511,
             "forks": 36,
             "score": 84
         },
@@ -95,9 +84,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "pireel/pireel",
             "description": "Open-source, backend-free AI video editor for talking-head video \u2014 storyboarding, designed graphics, kinetic captions, themes and in-browser WebCodecs export. Drivable by any AI agent over MCP.",
             "url": "https://github.com/pireel/pireel",
-            "stars": 409,
-            "forks": 31,
-            "score": 83
+            "stars": 420,
+            "forks": 32,
+            "score": 84
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "Agent-Execution-Partnership",
+            "full_name": "eli-labz/Agent-Execution-Partnership",
+            "description": "Agent Execution Partnership AEE is an open-source control plane that ensures every AI agent action is authorized before it runs, observable while it runs, and verifiable after it completes.",
+            "url": "https://github.com/eli-labz/Agent-Execution-Partnership",
+            "stars": 251,
+            "forks": 74,
+            "score": 84
         },
         {
             "main_cat": "AI",
@@ -106,7 +106,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "v-modal/vmodal_sdk_flutter",
             "description": "V- Modal AI: Search anything anywhere SDK Flutter",
             "url": "https://github.com/v-modal/vmodal_sdk_flutter",
-            "stars": 877,
+            "stars": 878,
             "forks": 3,
             "score": 79
         },
@@ -117,7 +117,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "KlaatAI/klaatcode",
             "description": "Open-source AI coding agent for the terminal. Claude Code-grade accuracy with smart model routing \u2014 uses the right AI model for each task, cutting costs 10x. Supports Claude, GPT, Gemini, DeepSeek & more.",
             "url": "https://github.com/KlaatAI/klaatcode",
-            "stars": 245,
+            "stars": 246,
             "forks": 86,
             "score": 66
         },
@@ -128,7 +128,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "smixs/pohuy",
             "description": "\u0420\u0435\u0436\u0438\u043c \u0438\u0434\u0438\u043e\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u043e\u0433\u043e \u0440\u0443\u0441\u0441\u043a\u043e\u0433\u043e \u043c\u0430\u0442\u0430 \u0434\u043b\u044f AI-\u0430\u0433\u0435\u043d\u0442\u043e\u0432. \u041a\u043e\u0440\u043e\u0447\u0435, \u0434\u0443\u0448\u0435\u0432\u043d\u0435\u0435, \u044d\u0444\u0444\u0435\u043a\u0442\u0438\u0432\u043d\u0435\u0435. 18+",
             "url": "https://github.com/smixs/pohuy",
-            "stars": 536,
+            "stars": 538,
             "forks": 9,
             "score": 65
         },
@@ -139,8 +139,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "0xsline/OpenChatCut",
             "description": "Local-first conversational AI video editor with a professional multi-track timeline, Agent Skills, MCP integration, and Remotion-powered rendering.",
             "url": "https://github.com/0xsline/OpenChatCut",
-            "stars": 396,
-            "forks": 36,
+            "stars": 397,
+            "forks": 37,
             "score": 57
         },
         {
@@ -161,7 +161,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "yetone/kill-ai-slop",
             "description": "A field guide to the visual & copy tics of AI-generated products \u2014 and an Agent Skill that scans your project and strips them out. https://killaislop.com",
             "url": "https://github.com/yetone/kill-ai-slop",
-            "stars": 704,
+            "stars": 705,
             "forks": 23,
             "score": 56
         },
@@ -172,8 +172,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "ShenSeanChen/waku-agent",
             "description": "Waku Waku! Waku agent is your personal AI agent, on your own laptop, in code you can read in an afternoon \u2014 harness + loop + memory + eval",
             "url": "https://github.com/ShenSeanChen/waku-agent",
-            "stars": 408,
-            "forks": 95,
+            "stars": 409,
+            "forks": 97,
             "score": 56
         },
         {
@@ -183,9 +183,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "yuwen-cool/yuwen-publish-precheck",
             "description": "\u53d1\u5e03\u524d\u5ba1\uff5c\u53d1\u6296\u97f3/\u5c0f\u7ea2\u4e66/\u89c6\u9891\u53f7\u524d\u5148\u8ba9 AI \u5ba1\u4e00\u904d\uff1a\u54ea\u53e5\u8e29\u7ebf\u3001\u4f9d\u636e\u54ea\u6761\u5b98\u65b9\u89c4\u5219\u3001\u7ed9\u80fd\u76f4\u63a5\u7528\u7684\u6539\u6cd5\u300238 \u7bc7\u771f\u5b9e\u6837\u672c\u6821\u51c6\u5224\u5b9a\u5c3a\u5ea6\uff0c72 \u6761\u5b98\u65b9\u539f\u6587\u5f15\u6587\u53ef\u67e5\u8bc1\uff0c\u4f60\u8e29\u8fc7\u7684\u5751\u6c89\u6dc0\u6210\u672c\u5730\u89c4\u5219\u5e93\u8d8a\u7528\u8d8a\u51c6\u3002\u4e0d\u627f\u8bfa\u8fc7\u5ba1\uff0c\u4e0d\u6559\u7ed5\u5ba1\u3002",
             "url": "https://github.com/yuwen-cool/yuwen-publish-precheck",
-            "stars": 375,
+            "stars": 376,
             "forks": 35,
             "score": 55
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "fastctx",
+            "full_name": "yc-duan/fastctx",
+            "description": "Fast, context-efficient repository tools for AI agents (MCP)",
+            "url": "https://github.com/yc-duan/fastctx",
+            "stars": 327,
+            "forks": 11,
+            "score": 53
         },
         {
             "main_cat": "AI",
@@ -197,17 +208,6 @@ const ALPHA_DATA_V2 = {
             "stars": 233,
             "forks": 57,
             "score": 53
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "fastctx",
-            "full_name": "yc-duan/fastctx",
-            "description": "Fast, context-efficient repository tools for AI agents (MCP)",
-            "url": "https://github.com/yc-duan/fastctx",
-            "stars": 320,
-            "forks": 11,
-            "score": 52
         },
         {
             "main_cat": "AI",
@@ -227,7 +227,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "OpenBMB/MiniCPM-Robot",
             "description": "A Smarter and Faster On-Device AI Brain for Robots",
             "url": "https://github.com/OpenBMB/MiniCPM-Robot",
-            "stars": 211,
+            "stars": 213,
             "forks": 15,
             "score": 49
         },
@@ -271,7 +271,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "About-Intelligence/soku-cli",
             "description": "Soku CLI \u2014 call Soku ads/GA4/PostHog data capabilities from any AI agent or shell.",
             "url": "https://github.com/About-Intelligence/soku-cli",
-            "stars": 239,
+            "stars": 242,
             "forks": 23,
             "score": 40
         },
@@ -337,7 +337,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "aws-samples/sample-specship",
             "description": "Spec-driven autonomous engineering workflow for AI coding agents: recon \u2192 plan \u2192 build \u2192 validate \u2192 ship \u2014 with TDD, adversarial validation, and anti-slop quality gates. Packaged as a Kiro Power.",
             "url": "https://github.com/aws-samples/sample-specship",
-            "stars": 206,
+            "stars": 208,
             "forks": 4,
             "score": 37
         },
@@ -728,5 +728,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-07-22 22:04"
+    "timestamp": "2026-07-22 23:57"
 };
