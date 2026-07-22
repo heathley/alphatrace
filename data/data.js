@@ -7,7 +7,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Blaizzy/nativ",
             "description": "Local AI, native to your Mac. Chat, serve, monitor, and connect MLX models from one macOS app.",
             "url": "https://github.com/Blaizzy/nativ",
-            "stars": 723,
+            "stars": 734,
             "forks": 38,
             "score": 99
         },
@@ -18,8 +18,19 @@ const ALPHA_DATA_V2 = {
             "full_name": "Blueturboguy07/cue",
             "description": "Open-source macOS AI copilot that floats over your screen, sees/hears your meetings, and stays hidden from screen shares. Cluely alternative, bring-your-own-key.",
             "url": "https://github.com/Blueturboguy07/cue",
-            "stars": 719,
+            "stars": 722,
             "forks": 151,
+            "score": 99
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "thinking-orbs",
+            "full_name": "Jakubantalik/thinking-orbs",
+            "description": "Dotted thought-orb loading indicators for AI & agent UIs \u2014 six tuned states, two sizes, auto dark/light",
+            "url": "https://github.com/Jakubantalik/thinking-orbs",
+            "stars": 485,
+            "forks": 29,
             "score": 99
         },
         {
@@ -29,8 +40,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "Kritt-ai/open-kritt",
             "description": "Orchestrate AI agents to find real vulnerabilities in code.",
             "url": "https://github.com/Kritt-ai/open-kritt",
-            "stars": 301,
-            "forks": 68,
+            "stars": 304,
+            "forks": 69,
             "score": 99
         },
         {
@@ -41,19 +52,8 @@ const ALPHA_DATA_V2 = {
             "description": "Agent Execution Partnership AEE is an open-source control plane that ensures every AI agent action is authorized before it runs, observable while it runs, and verifiable after it completes.",
             "url": "https://github.com/eli-labz/Agent-Execution-Partnership",
             "stars": 251,
-            "forks": 75,
+            "forks": 74,
             "score": 98
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "thinking-orbs",
-            "full_name": "Jakubantalik/thinking-orbs",
-            "description": "Dotted thought-orb loading indicators for AI & agent UIs \u2014 six tuned states, two sizes, auto dark/light",
-            "url": "https://github.com/Jakubantalik/thinking-orbs",
-            "stars": 431,
-            "forks": 28,
-            "score": 97
         },
         {
             "main_cat": "AI",
@@ -69,35 +69,24 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "video-shotcraft",
-            "full_name": "Vincentwei1021/video-shotcraft",
-            "description": "AI video skill for Claude Code & Codex \u2014 cinematic product videos with Remotion: 106 shot recipe cards, 161 motion previews, a production-ready template",
-            "url": "https://github.com/Vincentwei1021/video-shotcraft",
-            "stars": 489,
-            "forks": 36,
-            "score": 82
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
             "name": "penecho",
             "full_name": "penecho/penecho",
             "description": "Think with AI beyond the chat box. A shared canvas for handwriting, equations, diagrams, and spatial reasoning.",
             "url": "https://github.com/penecho/penecho",
-            "stars": 789,
-            "forks": 88,
-            "score": 81
+            "stars": 852,
+            "forks": 93,
+            "score": 85
         },
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "vmodal_sdk_flutter",
-            "full_name": "v-modal/vmodal_sdk_flutter",
-            "description": "V- Modal AI: Search anything anywhere SDK Flutter",
-            "url": "https://github.com/v-modal/vmodal_sdk_flutter",
-            "stars": 845,
-            "forks": 3,
-            "score": 77
+            "name": "video-shotcraft",
+            "full_name": "Vincentwei1021/video-shotcraft",
+            "description": "AI video skill for Claude Code & Codex \u2014 cinematic product videos with Remotion: 106 shot recipe cards, 161 motion previews, a production-ready template",
+            "url": "https://github.com/Vincentwei1021/video-shotcraft",
+            "stars": 496,
+            "forks": 36,
+            "score": 83
         },
         {
             "main_cat": "AI",
@@ -106,9 +95,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "pireel/pireel",
             "description": "Open-source, backend-free AI video editor for talking-head video \u2014 storyboarding, designed graphics, kinetic captions, themes and in-browser WebCodecs export. Drivable by any AI agent over MCP.",
             "url": "https://github.com/pireel/pireel",
-            "stars": 350,
-            "forks": 28,
-            "score": 76
+            "stars": 383,
+            "forks": 29,
+            "score": 79
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "vmodal_sdk_flutter",
+            "full_name": "v-modal/vmodal_sdk_flutter",
+            "description": "V- Modal AI: Search anything anywhere SDK Flutter",
+            "url": "https://github.com/v-modal/vmodal_sdk_flutter",
+            "stars": 855,
+            "forks": 3,
+            "score": 78
         },
         {
             "main_cat": "AI",
@@ -117,7 +117,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "smixs/pohuy",
             "description": "\u0420\u0435\u0436\u0438\u043c \u0438\u0434\u0438\u043e\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u043e\u0433\u043e \u0440\u0443\u0441\u0441\u043a\u043e\u0433\u043e \u043c\u0430\u0442\u0430 \u0434\u043b\u044f AI-\u0430\u0433\u0435\u043d\u0442\u043e\u0432. \u041a\u043e\u0440\u043e\u0447\u0435, \u0434\u0443\u0448\u0435\u0432\u043d\u0435\u0435, \u044d\u0444\u0444\u0435\u043a\u0442\u0438\u0432\u043d\u0435\u0435. 18+",
             "url": "https://github.com/smixs/pohuy",
-            "stars": 525,
+            "stars": 529,
             "forks": 9,
             "score": 65
         },
@@ -128,8 +128,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "KlaatAI/klaatcode",
             "description": "Open-source AI coding agent for the terminal. Claude Code-grade accuracy with smart model routing \u2014 uses the right AI model for each task, cutting costs 10x. Supports Claude, GPT, Gemini, DeepSeek & more.",
             "url": "https://github.com/KlaatAI/klaatcode",
-            "stars": 232,
-            "forks": 78,
+            "stars": 236,
+            "forks": 79,
             "score": 64
         },
         {
@@ -140,7 +140,7 @@ const ALPHA_DATA_V2 = {
             "description": "Protocol research client: x.ai signup \u2192 SSO \u2192 Grok Build OAuth \u2192 CLIProxyAPI auth export (authorized use only)",
             "url": "https://github.com/dongguatanglinux/grok-build-auth",
             "stars": 281,
-            "forks": 133,
+            "forks": 134,
             "score": 57
         },
         {
@@ -157,24 +157,24 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "OpenChatCut",
-            "full_name": "0xsline/OpenChatCut",
-            "description": "Local-first conversational AI video editor with a professional multi-track timeline, Agent Skills, MCP integration, and Remotion-powered rendering.",
-            "url": "https://github.com/0xsline/OpenChatCut",
-            "stars": 382,
-            "forks": 35,
+            "name": "waku-agent",
+            "full_name": "ShenSeanChen/waku-agent",
+            "description": "Waku Waku! Waku agent is your personal AI agent, on your own laptop, in code you can read in an afternoon \u2014 harness + loop + memory + eval",
+            "url": "https://github.com/ShenSeanChen/waku-agent",
+            "stars": 406,
+            "forks": 95,
             "score": 56
         },
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "waku-agent",
-            "full_name": "ShenSeanChen/waku-agent",
-            "description": "Waku Waku! Waku agent is your personal AI agent, on your own laptop, in code you can read in an afternoon \u2014 harness + loop + memory + eval",
-            "url": "https://github.com/ShenSeanChen/waku-agent",
-            "stars": 403,
-            "forks": 94,
-            "score": 55
+            "name": "OpenChatCut",
+            "full_name": "0xsline/OpenChatCut",
+            "description": "Local-first conversational AI video editor with a professional multi-track timeline, Agent Skills, MCP integration, and Remotion-powered rendering.",
+            "url": "https://github.com/0xsline/OpenChatCut",
+            "stars": 389,
+            "forks": 35,
+            "score": 56
         },
         {
             "main_cat": "AI",
@@ -194,7 +194,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "yc-duan/fastctx",
             "description": "Fast, context-efficient repository tools for AI agents (MCP)",
             "url": "https://github.com/yc-duan/fastctx",
-            "stars": 317,
+            "stars": 319,
             "forks": 11,
             "score": 52
         },
@@ -205,7 +205,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "CyberSunil/LLMVault",
             "description": "An intentionally vulnerable OWASP LLM Top 10 training platform for AI Security, Prompt Injection, RAG Security, Agent Security, and GenAI penetration testing.",
             "url": "https://github.com/CyberSunil/LLMVault",
-            "stars": 230,
+            "stars": 231,
             "forks": 57,
             "score": 52
         },
@@ -238,7 +238,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "CodeDrobe/skills",
             "description": "Agent Skills for theming AI desktop apps: reference image \u2192 reversible Codex/WorkBuddy skin \u2192 verify, repair, publish. | \u7ed9 AI \u684c\u9762\u5e94\u7528\u6362\u80a4\u7684 Agent Skills\uff1a\u53c2\u8003\u56fe \u2192 \u53ef\u9006\u76ae\u80a4 \u2192 \u9a8c\u8bc1\u3001\u4fee\u590d\u3001\u53d1\u5e03\u3002",
             "url": "https://github.com/CodeDrobe/skills",
-            "stars": 228,
+            "stars": 229,
             "forks": 18,
             "score": 46
         },
@@ -251,7 +251,7 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/nihe0909/xiaohongshu-ai-workbench",
             "stars": 260,
             "forks": 21,
-            "score": 45
+            "score": 44
         },
         {
             "main_cat": "AI",
@@ -271,7 +271,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "katipally/openlive",
             "description": "Opensource, on-device voice + vision layer for AI agents. Bring any model or coding agent; the whole speech loop (VAD, STT, TTS, barge-in) runs locally. An open alternative to ElevenLabs Agents, Gemini Live, and OpenAI Realtime.",
             "url": "https://github.com/katipally/openlive",
-            "stars": 189,
+            "stars": 190,
             "forks": 40,
             "score": 41
         },
@@ -304,7 +304,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "pixel-point/toolcraft",
             "description": "A starter kit and UI library for building custom design apps with AI.",
             "url": "https://github.com/pixel-point/toolcraft",
-            "stars": 182,
+            "stars": 184,
             "forks": 7,
             "score": 39
         },
@@ -337,7 +337,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "aws-samples/sample-specship",
             "description": "Spec-driven autonomous engineering workflow for AI coding agents: recon \u2192 plan \u2192 build \u2192 validate \u2192 ship \u2014 with TDD, adversarial validation, and anti-slop quality gates. Packaged as a Kiro Power.",
             "url": "https://github.com/aws-samples/sample-specship",
-            "stars": 199,
+            "stars": 203,
             "forks": 4,
             "score": 37
         },
@@ -707,20 +707,6 @@ const ALPHA_DATA_V2 = {
     ],
     "news": [
         {
-            "title": "ResearchArena: Evaluating Sabotage and Monitoring in Automated AI R&D",
-            "source": "ArXiv",
-            "type": "Research Alpha",
-            "color": "text-indigo-600",
-            "url": "http://arxiv.org/abs/2607.19321v1"
-        },
-        {
-            "title": "SoK: Adversarial Robustness of the Variational Quantum Eigensolver via Red-Teaming",
-            "source": "ArXiv",
-            "type": "Research Alpha",
-            "color": "text-indigo-600",
-            "url": "http://arxiv.org/abs/2607.19318v1"
-        },
-        {
             "title": "Bitcoin volatility remains high ahead of key FED decision.",
             "source": "Polymarket",
             "type": "Expectation",
@@ -728,5 +714,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-07-22 15:27"
+    "timestamp": "2026-07-22 17:10"
 };
