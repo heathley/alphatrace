@@ -2,13 +2,24 @@ const ALPHA_DATA_V2 = {
     "projects": [
         {
             "main_cat": "AI",
+            "sub_cat": null,
+            "name": "penecho",
+            "full_name": "penecho/penecho",
+            "description": "Think with AI beyond the chat box. A shared canvas for handwriting, equations, diagrams, and spatial reasoning.",
+            "url": "https://github.com/penecho/penecho",
+            "stars": 1107,
+            "forks": 110,
+            "score": 99
+        },
+        {
+            "main_cat": "AI",
             "sub_cat": "AI General",
             "name": "nativ",
             "full_name": "Blaizzy/nativ",
             "description": "Local AI, native to your Mac. Chat, serve, monitor, and connect MLX models from one macOS app.",
             "url": "https://github.com/Blaizzy/nativ",
-            "stars": 771,
-            "forks": 40,
+            "stars": 778,
+            "forks": 41,
             "score": 99
         },
         {
@@ -18,8 +29,19 @@ const ALPHA_DATA_V2 = {
             "full_name": "Jakubantalik/thinking-orbs",
             "description": "Dotted thought-orb loading indicators for AI & agent UIs \u2014 six tuned states, two sizes, auto dark/light",
             "url": "https://github.com/Jakubantalik/thinking-orbs",
-            "stars": 675,
-            "forks": 43,
+            "stars": 698,
+            "forks": 45,
+            "score": 99
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "pireel",
+            "full_name": "pireel/pireel",
+            "description": "Open-source, backend-free AI video editor for talking-head video \u2014 storyboarding, designed graphics, kinetic captions, themes and in-browser WebCodecs export. Drivable by any AI agent over MCP.",
+            "url": "https://github.com/pireel/pireel",
+            "stars": 564,
+            "forks": 42,
             "score": 99
         },
         {
@@ -29,42 +51,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "Blueturboguy07/cue",
             "description": "Open-source macOS AI copilot that floats over your screen, sees/hears your meetings, and stays hidden from screen shares. Cluely alternative, bring-your-own-key.",
             "url": "https://github.com/Blueturboguy07/cue",
-            "stars": 734,
+            "stars": 737,
             "forks": 157,
             "score": 98
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "penecho",
-            "full_name": "penecho/penecho",
-            "description": "Think with AI beyond the chat box. A shared canvas for handwriting, equations, diagrams, and spatial reasoning.",
-            "url": "https://github.com/penecho/penecho",
-            "stars": 1066,
-            "forks": 107,
-            "score": 97
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "pireel",
-            "full_name": "pireel/pireel",
-            "description": "Open-source, backend-free AI video editor for talking-head video \u2014 storyboarding, designed graphics, kinetic captions, themes and in-browser WebCodecs export. Drivable by any AI agent over MCP.",
-            "url": "https://github.com/pireel/pireel",
-            "stars": 512,
-            "forks": 38,
-            "score": 96
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "open-kritt",
-            "full_name": "Kritt-ai/open-kritt",
-            "description": "Orchestrate AI agents to find real vulnerabilities in code.",
-            "url": "https://github.com/Kritt-ai/open-kritt",
-            "stars": 328,
-            "forks": 72,
-            "score": 91
         },
         {
             "main_cat": "AI",
@@ -73,9 +62,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "Vincentwei1021/video-shotcraft",
             "description": "AI video skill for Claude Code & Codex \u2014 cinematic product videos with Remotion: 106 shot recipe cards, 161 motion previews, a production-ready template",
             "url": "https://github.com/Vincentwei1021/video-shotcraft",
-            "stars": 563,
-            "forks": 41,
-            "score": 90
+            "stars": 586,
+            "forks": 45,
+            "score": 93
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "open-kritt",
+            "full_name": "Kritt-ai/open-kritt",
+            "description": "Orchestrate AI agents to find real vulnerabilities in code.",
+            "url": "https://github.com/Kritt-ai/open-kritt",
+            "stars": 339,
+            "forks": 74,
+            "score": 93
         },
         {
             "main_cat": "AI",
@@ -86,18 +86,7 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/William-Lu-stack/Flawless",
             "stars": 849,
             "forks": 213,
-            "score": 86
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "Agent-Execution-Partnership",
-            "full_name": "eli-labz/Agent-Execution-Partnership",
-            "description": "Agent Execution Partnership AEE is an open-source control plane that ensures every AI agent action is authorized before it runs, observable while it runs, and verifiable after it completes.",
-            "url": "https://github.com/eli-labz/Agent-Execution-Partnership",
-            "stars": 251,
-            "forks": 74,
-            "score": 84
+            "score": 83
         },
         {
             "main_cat": "AI",
@@ -106,9 +95,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "v-modal/vmodal_sdk_flutter",
             "description": "V- Modal AI: Search anything anywhere SDK Flutter",
             "url": "https://github.com/v-modal/vmodal_sdk_flutter",
-            "stars": 895,
+            "stars": 888,
             "forks": 3,
             "score": 80
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "Agent-Execution-Partnership",
+            "full_name": "eli-labz/Agent-Execution-Partnership",
+            "description": "Agent Execution Partnership AEE is an open-source control plane that ensures every AI agent action is authorized before it runs, observable while it runs, and verifiable after it completes.",
+            "url": "https://github.com/eli-labz/Agent-Execution-Partnership",
+            "stars": 186,
+            "forks": 74,
+            "score": 78
         },
         {
             "main_cat": "AI",
@@ -128,7 +128,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "smixs/pohuy",
             "description": "\u0420\u0435\u0436\u0438\u043c \u0438\u0434\u0438\u043e\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u043e\u0433\u043e \u0440\u0443\u0441\u0441\u043a\u043e\u0433\u043e \u043c\u0430\u0442\u0430 \u0434\u043b\u044f AI-\u0430\u0433\u0435\u043d\u0442\u043e\u0432. \u041a\u043e\u0440\u043e\u0447\u0435, \u0434\u0443\u0448\u0435\u0432\u043d\u0435\u0435, \u044d\u0444\u0444\u0435\u043a\u0442\u0438\u0432\u043d\u0435\u0435. 18+",
             "url": "https://github.com/smixs/pohuy",
-            "stars": 541,
+            "stars": 548,
             "forks": 9,
             "score": 66
         },
@@ -139,8 +139,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "ShenSeanChen/waku-agent",
             "description": "Waku Waku! Waku agent is your personal AI agent, on your own laptop, in code you can read in an afternoon \u2014 harness + loop + memory + eval",
             "url": "https://github.com/ShenSeanChen/waku-agent",
-            "stars": 418,
-            "forks": 98,
+            "stars": 426,
+            "forks": 97,
             "score": 57
         },
         {
@@ -150,7 +150,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "dongguatanglinux/grok-build-auth",
             "description": "Protocol research client: x.ai signup \u2192 SSO \u2192 Grok Build OAuth \u2192 CLIProxyAPI auth export (authorized use only)",
             "url": "https://github.com/dongguatanglinux/grok-build-auth",
-            "stars": 283,
+            "stars": 282,
             "forks": 135,
             "score": 57
         },
@@ -161,7 +161,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "yetone/kill-ai-slop",
             "description": "A field guide to the visual & copy tics of AI-generated products \u2014 and an Agent Skill that scans your project and strips them out. https://killaislop.com",
             "url": "https://github.com/yetone/kill-ai-slop",
-            "stars": 707,
+            "stars": 709,
             "forks": 23,
             "score": 56
         },
@@ -172,9 +172,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "0xsline/OpenChatCut",
             "description": "Local-first conversational AI video editor with a professional multi-track timeline, Agent Skills, MCP integration, and Remotion-powered rendering.",
             "url": "https://github.com/0xsline/OpenChatCut",
-            "stars": 414,
-            "forks": 37,
-            "score": 55
+            "stars": 421,
+            "forks": 39,
+            "score": 56
         },
         {
             "main_cat": "AI",
@@ -183,20 +183,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "yuwen-cool/yuwen-publish-precheck",
             "description": "\u53d1\u5e03\u524d\u5ba1\uff5c\u53d1\u6296\u97f3/\u5c0f\u7ea2\u4e66/\u89c6\u9891\u53f7\u524d\u5148\u8ba9 AI \u5ba1\u4e00\u904d\uff1a\u54ea\u53e5\u8e29\u7ebf\u3001\u4f9d\u636e\u54ea\u6761\u5b98\u65b9\u89c4\u5219\u3001\u7ed9\u80fd\u76f4\u63a5\u7528\u7684\u6539\u6cd5\u300238 \u7bc7\u771f\u5b9e\u6837\u672c\u6821\u51c6\u5224\u5b9a\u5c3a\u5ea6\uff0c72 \u6761\u5b98\u65b9\u539f\u6587\u5f15\u6587\u53ef\u67e5\u8bc1\uff0c\u4f60\u8e29\u8fc7\u7684\u5751\u6c89\u6dc0\u6210\u672c\u5730\u89c4\u5219\u5e93\u8d8a\u7528\u8d8a\u51c6\u3002\u4e0d\u627f\u8bfa\u8fc7\u5ba1\uff0c\u4e0d\u6559\u7ed5\u5ba1\u3002",
             "url": "https://github.com/yuwen-cool/yuwen-publish-precheck",
-            "stars": 376,
+            "stars": 378,
             "forks": 35,
             "score": 55
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "LLMVault",
-            "full_name": "CyberSunil/LLMVault",
-            "description": "An intentionally vulnerable OWASP LLM Top 10 training platform for AI Security, Prompt Injection, RAG Security, Agent Security, and GenAI penetration testing.",
-            "url": "https://github.com/CyberSunil/LLMVault",
-            "stars": 234,
-            "forks": 57,
-            "score": 53
         },
         {
             "main_cat": "AI",
@@ -205,19 +194,19 @@ const ALPHA_DATA_V2 = {
             "full_name": "yc-duan/fastctx",
             "description": "Fast, context-efficient repository tools for AI agents (MCP)",
             "url": "https://github.com/yc-duan/fastctx",
-            "stars": 349,
-            "forks": 11,
-            "score": 51
+            "stars": 368,
+            "forks": 12,
+            "score": 53
         },
         {
             "main_cat": "AI",
-            "sub_cat": "AI Agents",
-            "name": "agentsmith",
-            "full_name": "PromptPartner/agentsmith",
-            "description": "Universal, model-agnostic operating harness for AI agents (Claude, Codex, Gemini, \u2026) \u2014 a lean core + work-type profiles assembled by one setup script.",
-            "url": "https://github.com/PromptPartner/agentsmith",
-            "stars": 314,
-            "forks": 18,
+            "sub_cat": null,
+            "name": "LLMVault",
+            "full_name": "CyberSunil/LLMVault",
+            "description": "An intentionally vulnerable OWASP LLM Top 10 training platform for AI Security, Prompt Injection, RAG Security, Agent Security, and GenAI penetration testing.",
+            "url": "https://github.com/CyberSunil/LLMVault",
+            "stars": 235,
+            "forks": 57,
             "score": 51
         },
         {
@@ -227,9 +216,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "OpenBMB/MiniCPM-Robot",
             "description": "A Smarter and Faster On-Device AI Brain for Robots",
             "url": "https://github.com/OpenBMB/MiniCPM-Robot",
-            "stars": 224,
+            "stars": 226,
             "forks": 15,
             "score": 50
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI Agents",
+            "name": "agentsmith",
+            "full_name": "PromptPartner/agentsmith",
+            "description": "Universal, model-agnostic operating harness for AI agents (Claude, Codex, Gemini, \u2026) \u2014 a lean core + work-type profiles assembled by one setup script.",
+            "url": "https://github.com/PromptPartner/agentsmith",
+            "stars": 254,
+            "forks": 18,
+            "score": 48
         },
         {
             "main_cat": "AI",
@@ -238,7 +238,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "risa-labs-inc/BossConsole",
             "description": "Open-source, multi-platform harness for AI agents \u2014 a native, multi-threaded operator's console (JVM, not Electron) to run Claude Code, Codex, Gemini or OpenCode with a real browser, terminal, editor, secrets & 100+ MCP tools. Built for enterprises, science & research.",
             "url": "https://github.com/risa-labs-inc/BossConsole",
-            "stars": 157,
+            "stars": 158,
             "forks": 2,
             "score": 46
         },
@@ -260,8 +260,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "nihe0909/xiaohongshu-ai-workbench",
             "description": "\u300a\u5c0f\u7ea2\u4e66\u8fd0\u8425\u624b\u518c \u00b7 AI\u5de5\u4f5c\u53f0\u300b: free Codex Skills for Xiaohongshu operations",
             "url": "https://github.com/nihe0909/xiaohongshu-ai-workbench",
-            "stars": 263,
-            "forks": 21,
+            "stars": 264,
+            "forks": 22,
             "score": 44
         },
         {
@@ -271,7 +271,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "barretlee/agent-pulse",
             "description": "Evidence-backed AI industry intelligence \u2014 trends, source updates, daily data refreshes, and weekly decision briefs.",
             "url": "https://github.com/barretlee/agent-pulse",
-            "stars": 221,
+            "stars": 222,
             "forks": 24,
             "score": 41
         },
@@ -293,9 +293,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "bytedoger/awesome-OpenPrice",
             "description": "open price ,\u4e00\u4e2a\u5f00\u6e90\u7684\u6536\u5f55\u5168\u7f51\u5361\u7f51\u6e20\u9053\u5404\u79cdAI\u8ba2\u9605\u4ef7\u683c\u7684\u9879\u76ee\u3002\u6253\u7834\u4fe1\u606f\u8327\u623f\uff0c\u4e00\u7ad9\u5f0f\u83b7\u53d6\u5404\u4e2a\u6e20\u9053\u7684 Claude\u3001GPT\u3001gemini \u3001cursor\u4ea7\u54c1\u7684\u6700\u65b0\u4ef7\u683c",
             "url": "https://github.com/bytedoger/awesome-OpenPrice",
-            "stars": 175,
+            "stars": 174,
             "forks": 1,
-            "score": 39
+            "score": 38
         },
         {
             "main_cat": "DePIN",
@@ -304,7 +304,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "NInagusev47/Silent-Crypto-Miner",
             "description": "Silent Crypto Miner is an advanced cryptocurrency mining builder and runtime engine with multi-algorithm CPU/GPU support and intelligent resource management. Create custom mining executables with configurable algorithms, cross-platform output, real-time monitoring, session persistence, thermal throttling, scheduling, and hashrate optimization.",
             "url": "https://github.com/NInagusev47/Silent-Crypto-Miner",
-            "stars": 142,
+            "stars": 141,
             "forks": 31,
             "score": 38
         },
@@ -315,7 +315,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "chordswallowthrust/undress-design",
             "description": "AI-powered fashion visualization and virtual try-on toolkit for consent-based garment editing, outfit prototyping, and creative design workflows. https://undress.design/edit?utm_source=gist.github.com/chordswallowthrust/undress-design",
             "url": "https://github.com/chordswallowthrust/undress-design",
-            "stars": 222,
+            "stars": 221,
             "forks": 0,
             "score": 37
         },
@@ -717,5 +717,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-07-23 05:47"
+    "timestamp": "2026-07-23 08:18"
 };
