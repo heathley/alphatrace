@@ -7,30 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "penecho/penecho",
             "description": "Think with AI beyond the chat box. A shared canvas for handwriting, equations, diagrams, and spatial reasoning.",
             "url": "https://github.com/penecho/penecho",
-            "stars": 1235,
-            "forks": 120,
-            "score": 99
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "nativ",
-            "full_name": "Blaizzy/nativ",
-            "description": "Local AI, native to your Mac. Chat, serve, monitor, and connect MLX models from one macOS app.",
-            "url": "https://github.com/Blaizzy/nativ",
-            "stars": 802,
-            "forks": 41,
-            "score": 99
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "thinking-orbs",
-            "full_name": "Jakubantalik/thinking-orbs",
-            "description": "Dotted thought-orb loading indicators for AI & agent UIs \u2014 six tuned states, two sizes, auto dark/light",
-            "url": "https://github.com/Jakubantalik/thinking-orbs",
-            "stars": 783,
-            "forks": 52,
+            "stars": 1255,
+            "forks": 123,
             "score": 99
         },
         {
@@ -40,8 +18,30 @@ const ALPHA_DATA_V2 = {
             "full_name": "Vincentwei1021/video-shotcraft",
             "description": "AI video skill for Claude Code & Codex \u2014 cinematic product videos with Remotion: 106 shot recipe cards, 161 motion previews, a production-ready template",
             "url": "https://github.com/Vincentwei1021/video-shotcraft",
-            "stars": 782,
-            "forks": 58,
+            "stars": 821,
+            "forks": 61,
+            "score": 99
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "nativ",
+            "full_name": "Blaizzy/nativ",
+            "description": "Local AI, native to your Mac. Chat, serve, monitor, and connect MLX models from one macOS app.",
+            "url": "https://github.com/Blaizzy/nativ",
+            "stars": 803,
+            "forks": 42,
+            "score": 99
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "thinking-orbs",
+            "full_name": "Jakubantalik/thinking-orbs",
+            "description": "Dotted thought-orb loading indicators for AI & agent UIs \u2014 six tuned states, two sizes, auto dark/light",
+            "url": "https://github.com/Jakubantalik/thinking-orbs",
+            "stars": 791,
+            "forks": 52,
             "score": 99
         },
         {
@@ -51,7 +51,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "pireel/pireel",
             "description": "Open-source, backend-free AI video editor for talking-head video \u2014 storyboarding, designed graphics, kinetic captions, themes and in-browser WebCodecs export. Drivable by any AI agent over MCP.",
             "url": "https://github.com/pireel/pireel",
-            "stars": 631,
+            "stars": 640,
             "forks": 51,
             "score": 99
         },
@@ -62,7 +62,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Blueturboguy07/cue",
             "description": "Open-source macOS AI copilot that floats over your screen, sees/hears your meetings, and stays hidden from screen shares. Cluely alternative, bring-your-own-key.",
             "url": "https://github.com/Blueturboguy07/cue",
-            "stars": 748,
+            "stars": 749,
             "forks": 156,
             "score": 98
         },
@@ -73,7 +73,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Kritt-ai/open-kritt",
             "description": "Orchestrate AI agents to find real vulnerabilities in code.",
             "url": "https://github.com/Kritt-ai/open-kritt",
-            "stars": 350,
+            "stars": 353,
             "forks": 75,
             "score": 95
         },
@@ -95,7 +95,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "v-modal/vmodal_sdk_flutter",
             "description": "V- Modal AI: Search anything anywhere SDK Flutter",
             "url": "https://github.com/v-modal/vmodal_sdk_flutter",
-            "stars": 895,
+            "stars": 899,
             "forks": 3,
             "score": 75
         },
@@ -117,7 +117,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "smixs/pohuy",
             "description": "\u0420\u0435\u0436\u0438\u043c \u0438\u0434\u0438\u043e\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u043e\u0433\u043e \u0440\u0443\u0441\u0441\u043a\u043e\u0433\u043e \u043c\u0430\u0442\u0430 \u0434\u043b\u044f AI-\u0430\u0433\u0435\u043d\u0442\u043e\u0432. \u041a\u043e\u0440\u043e\u0447\u0435, \u0434\u0443\u0448\u0435\u0432\u043d\u0435\u0435, \u044d\u0444\u0444\u0435\u043a\u0442\u0438\u0432\u043d\u0435\u0435. 18+",
             "url": "https://github.com/smixs/pohuy",
-            "stars": 568,
+            "stars": 573,
             "forks": 9,
             "score": 63
         },
@@ -139,8 +139,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "0xsline/OpenChatCut",
             "description": "Local-first conversational AI video editor with a professional multi-track timeline, Agent Skills, MCP integration, and Remotion-powered rendering.",
             "url": "https://github.com/0xsline/OpenChatCut",
-            "stars": 433,
-            "forks": 42,
+            "stars": 437,
+            "forks": 44,
             "score": 57
         },
         {
@@ -150,8 +150,19 @@ const ALPHA_DATA_V2 = {
             "full_name": "ShenSeanChen/waku-agent",
             "description": "Waku Waku! Waku agent is your personal AI agent, on your own laptop, in code you can read in an afternoon \u2014 harness + loop + memory + eval",
             "url": "https://github.com/ShenSeanChen/waku-agent",
-            "stars": 430,
+            "stars": 431,
             "forks": 103,
+            "score": 56
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "grok-build-auth",
+            "full_name": "dongguatanglinux/grok-build-auth",
+            "description": "Protocol research client: x.ai signup \u2192 SSO \u2192 Grok Build OAuth \u2192 CLIProxyAPI auth export (authorized use only)",
+            "url": "https://github.com/dongguatanglinux/grok-build-auth",
+            "stars": 286,
+            "forks": 137,
             "score": 56
         },
         {
@@ -163,17 +174,6 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/yetone/kill-ai-slop",
             "stars": 719,
             "forks": 23,
-            "score": 55
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "grok-build-auth",
-            "full_name": "dongguatanglinux/grok-build-auth",
-            "description": "Protocol research client: x.ai signup \u2192 SSO \u2192 Grok Build OAuth \u2192 CLIProxyAPI auth export (authorized use only)",
-            "url": "https://github.com/dongguatanglinux/grok-build-auth",
-            "stars": 283,
-            "forks": 137,
             "score": 55
         },
         {
@@ -227,7 +227,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "risa-labs-inc/BossConsole",
             "description": "Open-source, multi-platform harness for AI agents \u2014 a native, multi-threaded operator's console (JVM, not Electron) to run Claude Code, Codex, Gemini or OpenCode with a real browser, terminal, editor, secrets & 100+ MCP tools. Built for enterprises, science & research.",
             "url": "https://github.com/risa-labs-inc/BossConsole",
-            "stars": 164,
+            "stars": 166,
             "forks": 2,
             "score": 47
         },
@@ -278,23 +278,23 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "toolcraft",
-            "full_name": "pixel-point/toolcraft",
-            "description": "A starter kit and UI library for building custom design apps with AI.",
-            "url": "https://github.com/pixel-point/toolcraft",
-            "stars": 188,
-            "forks": 7,
-            "score": 39
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
             "name": "awesome-OpenPrice",
             "full_name": "bytedoger/awesome-OpenPrice",
             "description": "open price ,\u4e00\u4e2a\u5f00\u6e90\u7684\u6536\u5f55\u5168\u7f51\u5361\u7f51\u6e20\u9053\u5404\u79cdAI\u8ba2\u9605\u4ef7\u683c\u7684\u9879\u76ee\u3002\u6253\u7834\u4fe1\u606f\u8327\u623f\uff0c\u4e00\u7ad9\u5f0f\u83b7\u53d6\u5404\u4e2a\u6e20\u9053\u7684 Claude\u3001GPT\u3001gemini \u3001cursor\u4ea7\u54c1\u7684\u6700\u65b0\u4ef7\u683c",
             "url": "https://github.com/bytedoger/awesome-OpenPrice",
-            "stars": 187,
-            "forks": 1,
+            "stars": 202,
+            "forks": 2,
+            "score": 40
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "toolcraft",
+            "full_name": "pixel-point/toolcraft",
+            "description": "A starter kit and UI library for building custom design apps with AI.",
+            "url": "https://github.com/pixel-point/toolcraft",
+            "stars": 189,
+            "forks": 7,
             "score": 39
         },
         {
@@ -728,5 +728,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-07-23 15:50"
+    "timestamp": "2026-07-23 17:12"
 };
