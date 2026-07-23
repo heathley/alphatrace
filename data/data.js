@@ -7,7 +7,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "penecho/penecho",
             "description": "Think with AI beyond the chat box. A shared canvas for handwriting, equations, diagrams, and spatial reasoning.",
             "url": "https://github.com/penecho/penecho",
-            "stars": 1300,
+            "stars": 1310,
             "forks": 126,
             "score": 99
         },
@@ -18,8 +18,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "Vincentwei1021/video-shotcraft",
             "description": "AI video skill for Claude Code & Codex \u2014 cinematic product videos with Remotion: 106 shot recipe cards, 161 motion previews, a production-ready template",
             "url": "https://github.com/Vincentwei1021/video-shotcraft",
-            "stars": 868,
-            "forks": 64,
+            "stars": 878,
+            "forks": 66,
             "score": 99
         },
         {
@@ -29,8 +29,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "Jakubantalik/thinking-orbs",
             "description": "Dotted thought-orb loading indicators for AI & agent UIs \u2014 six tuned states, two sizes, auto dark/light",
             "url": "https://github.com/Jakubantalik/thinking-orbs",
-            "stars": 813,
-            "forks": 53,
+            "stars": 816,
+            "forks": 56,
             "score": 99
         },
         {
@@ -40,7 +40,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Blaizzy/nativ",
             "description": "Local AI, native to your Mac. Chat, serve, monitor, and connect MLX models from one macOS app.",
             "url": "https://github.com/Blaizzy/nativ",
-            "stars": 804,
+            "stars": 806,
             "forks": 42,
             "score": 99
         },
@@ -51,7 +51,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Blueturboguy07/cue",
             "description": "Open-source macOS AI copilot that floats over your screen, sees/hears your meetings, and stays hidden from screen shares. Cluely alternative, bring-your-own-key.",
             "url": "https://github.com/Blueturboguy07/cue",
-            "stars": 752,
+            "stars": 753,
             "forks": 157,
             "score": 99
         },
@@ -95,7 +95,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "v-modal/vmodal_sdk_flutter",
             "description": "V- Modal AI: Search anything anywhere SDK Flutter",
             "url": "https://github.com/v-modal/vmodal_sdk_flutter",
-            "stars": 904,
+            "stars": 906,
             "forks": 3,
             "score": 75
         },
@@ -128,7 +128,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "smixs/pohuy",
             "description": "\u0420\u0435\u0436\u0438\u043c \u0438\u0434\u0438\u043e\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u043e\u0433\u043e \u0440\u0443\u0441\u0441\u043a\u043e\u0433\u043e \u043c\u0430\u0442\u0430 \u0434\u043b\u044f AI-\u0430\u0433\u0435\u043d\u0442\u043e\u0432. \u041a\u043e\u0440\u043e\u0447\u0435, \u0434\u0443\u0448\u0435\u0432\u043d\u0435\u0435, \u044d\u0444\u0444\u0435\u043a\u0442\u0438\u0432\u043d\u0435\u0435. 18+",
             "url": "https://github.com/smixs/pohuy",
-            "stars": 576,
+            "stars": 579,
             "forks": 9,
             "score": 64
         },
@@ -205,9 +205,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "TryCaspian/caspian-sdk",
             "description": "One identity for your AI agent across Slack, Discord, Telegram, WhatsApp, Instagram, email, SMS, X \u2014 a single on_message handler. Open-source channel adapters + bot SDK (Python & TypeScript) + CLI.",
             "url": "https://github.com/TryCaspian/caspian-sdk",
-            "stars": 171,
-            "forks": 25,
-            "score": 52
+            "stars": 172,
+            "forks": 26,
+            "score": 53
         },
         {
             "main_cat": "AI",
@@ -271,7 +271,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "bytedoger/awesome-OpenPrice",
             "description": "open price ,\u4e00\u4e2a\u5f00\u6e90\u7684\u6536\u5f55\u5168\u7f51\u5361\u7f51\u6e20\u9053\u5404\u79cdAI\u8ba2\u9605\u4ef7\u683c\u7684\u9879\u76ee\u3002\u6253\u7834\u4fe1\u606f\u8327\u623f\uff0c\u4e00\u7ad9\u5f0f\u83b7\u53d6\u5404\u4e2a\u6e20\u9053\u7684 Claude\u3001GPT\u3001gemini \u3001cursor\u4ea7\u54c1\u7684\u6700\u65b0\u4ef7\u683c",
             "url": "https://github.com/bytedoger/awesome-OpenPrice",
-            "stars": 237,
+            "stars": 240,
             "forks": 3,
             "score": 42
         },
@@ -718,20 +718,6 @@ const ALPHA_DATA_V2 = {
     ],
     "news": [
         {
-            "title": "Pure-DP Statistical Query Release at the Conjectured Square-Root Rate",
-            "source": "ArXiv",
-            "type": "Research Alpha",
-            "color": "text-indigo-600",
-            "url": "http://arxiv.org/abs/2607.20418v1"
-        },
-        {
-            "title": "Constant-time decoding of Gabidulin codes and their generalizations with application to RQC",
-            "source": "ArXiv",
-            "type": "Research Alpha",
-            "color": "text-indigo-600",
-            "url": "http://arxiv.org/abs/2607.20305v1"
-        },
-        {
             "title": "Bitcoin volatility remains high ahead of key FED decision.",
             "source": "Polymarket",
             "type": "Expectation",
@@ -739,5 +725,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-07-23 20:54"
+    "timestamp": "2026-07-23 22:00"
 };
