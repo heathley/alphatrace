@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "Vincentwei1021/video-shotcraft",
             "description": "AI video skill for Claude Code & Codex \u2014 cinematic product videos with Remotion: 106 shot recipe cards, 161 motion previews, a production-ready template",
             "url": "https://github.com/Vincentwei1021/video-shotcraft",
-            "stars": 1883,
-            "forks": 164,
+            "stars": 1889,
+            "forks": 165,
             "score": 99
         },
         {
@@ -18,8 +18,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "penecho/penecho",
             "description": "Think with AI beyond the chat box. A shared canvas for handwriting, equations, diagrams, and spatial reasoning.",
             "url": "https://github.com/penecho/penecho",
-            "stars": 1669,
-            "forks": 180,
+            "stars": 1674,
+            "forks": 181,
             "score": 99
         },
         {
@@ -29,8 +29,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "Jakubantalik/thinking-orbs",
             "description": "Dotted thought-orb loading indicators for AI & agent UIs \u2014 six tuned states, two sizes, auto dark/light",
             "url": "https://github.com/Jakubantalik/thinking-orbs",
-            "stars": 1080,
-            "forks": 80,
+            "stars": 1086,
+            "forks": 81,
             "score": 99
         },
         {
@@ -40,7 +40,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "mikiarlo3/ai-copywriter",
             "description": "An AI copywriter that uses real copywriting skills + real marketing knowledge with human tone.",
             "url": "https://github.com/mikiarlo3/ai-copywriter",
-            "stars": 827,
+            "stars": 840,
             "forks": 12,
             "score": 99
         },
@@ -51,7 +51,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Blaizzy/nativ",
             "description": "Local AI, native to your Mac. Chat, serve, monitor, and connect MLX models from one macOS app.",
             "url": "https://github.com/Blaizzy/nativ",
-            "stars": 901,
+            "stars": 907,
             "forks": 50,
             "score": 91
         },
@@ -62,8 +62,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "Blueturboguy07/cue",
             "description": "Open-source macOS AI copilot that floats over your screen, sees/hears your meetings, and stays hidden from screen shares. Cluely alternative, bring-your-own-key.",
             "url": "https://github.com/Blueturboguy07/cue",
-            "stars": 807,
-            "forks": 172,
+            "stars": 808,
+            "forks": 173,
             "score": 87
         },
         {
@@ -73,20 +73,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "pireel/pireel",
             "description": "Open-source, backend-free AI video editor for talking-head video \u2014 storyboarding, designed graphics, kinetic captions, themes and in-browser WebCodecs export. Drivable by any AI agent over MCP.",
             "url": "https://github.com/pireel/pireel",
-            "stars": 768,
+            "stars": 770,
             "forks": 65,
             "score": 87
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "open-kritt",
-            "full_name": "Kritt-ai/open-kritt",
-            "description": "Orchestrate AI agents to find real vulnerabilities in code.",
-            "url": "https://github.com/Kritt-ai/open-kritt",
-            "stars": 407,
-            "forks": 84,
-            "score": 76
         },
         {
             "main_cat": "AI",
@@ -95,7 +84,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "v-modal/vmodal_sdk_flutter",
             "description": "V- Modal AI: Search anything anywhere SDK Flutter",
             "url": "https://github.com/v-modal/vmodal_sdk_flutter",
-            "stars": 1104,
+            "stars": 1111,
             "forks": 4,
             "score": 73
         },
@@ -106,9 +95,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "makecindy/cindy",
             "description": "Consider it done. The open-source AI agent that works out of the box \u00b7 \u60f3\u5230\uff0c\u5c31\u80fd\u505a\u5230\u3002\u5f00\u6e90\u3001\u5f00\u7bb1\u5373\u7528\u7684 AI Agent\u3002",
             "url": "https://github.com/makecindy/cindy",
-            "stars": 399,
+            "stars": 409,
             "forks": 43,
-            "score": 70
+            "score": 71
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "open-kritt",
+            "full_name": "Kritt-ai/open-kritt",
+            "description": "Orchestrate AI agents to find real vulnerabilities in code.",
+            "url": "https://github.com/Kritt-ai/open-kritt",
+            "stars": 408,
+            "forks": 85,
+            "score": 71
         },
         {
             "main_cat": "AI",
@@ -117,7 +117,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "TryCaspian/caspian-sdk",
             "description": "One identity for your AI agent across Slack, Discord, Telegram, WhatsApp, Instagram, email, SMS, X \u2014 a single on_message handler. Open-source channel adapters + bot SDK (Python & TypeScript) + CLI.",
             "url": "https://github.com/TryCaspian/caspian-sdk",
-            "stars": 246,
+            "stars": 247,
             "forks": 114,
             "score": 69
         },
@@ -161,7 +161,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Role1776/netmon",
             "description": "Self-hosted network monitor - hourly speed tests, LAN device counts via ARP scan, and sarcastic AI-generated reports delivered to Telegram or Discord.",
             "url": "https://github.com/Role1776/netmon",
-            "stars": 223,
+            "stars": 224,
             "forks": 32,
             "score": 55
         },
@@ -172,7 +172,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "finna/Finn-loop",
             "description": "The Finn-loop: a 3-skill AI software factory for Claude Code \u2014 spec, build, review. Humans merge.",
             "url": "https://github.com/finna/Finn-loop",
-            "stars": 214,
+            "stars": 217,
             "forks": 34,
             "score": 55
         },
@@ -205,7 +205,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "yc-duan/fastctx",
             "description": "Fast, context-efficient repository tools for AI agents (MCP)",
             "url": "https://github.com/yc-duan/fastctx",
-            "stars": 491,
+            "stars": 492,
             "forks": 17,
             "score": 53
         },
@@ -216,7 +216,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "yuwen-cool/yuwen-publish-precheck",
             "description": "\u53d1\u5e03\u524d\u5ba1\uff5c\u53d1\u6296\u97f3/\u5c0f\u7ea2\u4e66/\u89c6\u9891\u53f7\u524d\u5148\u8ba9 AI \u5ba1\u4e00\u904d\uff1a\u54ea\u53e5\u8e29\u7ebf\u3001\u4f9d\u636e\u54ea\u6761\u5b98\u65b9\u89c4\u5219\u3001\u7ed9\u80fd\u76f4\u63a5\u7528\u7684\u6539\u6cd5\u300238 \u7bc7\u771f\u5b9e\u6837\u672c\u6821\u51c6\u5224\u5b9a\u5c3a\u5ea6\uff0c72 \u6761\u5b98\u65b9\u539f\u6587\u5f15\u6587\u53ef\u67e5\u8bc1\uff0c\u4f60\u8e29\u8fc7\u7684\u5751\u6c89\u6dc0\u6210\u672c\u5730\u89c4\u5219\u5e93\u8d8a\u7528\u8d8a\u51c6\u3002\u4e0d\u627f\u8bfa\u8fc7\u5ba1\uff0c\u4e0d\u6559\u7ed5\u5ba1\u3002",
             "url": "https://github.com/yuwen-cool/yuwen-publish-precheck",
-            "stars": 388,
+            "stars": 389,
             "forks": 36,
             "score": 49
         },
@@ -240,7 +240,7 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/OpenBMB/MiniCPM-Robot",
             "stars": 248,
             "forks": 16,
-            "score": 45
+            "score": 44
         },
         {
             "main_cat": "AI",
@@ -249,7 +249,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "larashero3-dotcom/lieflat-charts",
             "description": "\u9762\u5411 AI Agents \u7684\u5355\u8272\u6570\u636e\u53ef\u89c6\u5316 Skill\uff0c\u5c06\u6570\u636e\u5feb\u901f\u751f\u6210\u7cbe\u81f4\u3001\u53ef\u4ea4\u4e92\u7684 HTML \u56fe\u8868",
             "url": "https://github.com/larashero3-dotcom/lieflat-charts",
-            "stars": 262,
+            "stars": 263,
             "forks": 25,
             "score": 43
         },
@@ -289,17 +289,6 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "skills",
-            "full_name": "CodeDrobe/skills",
-            "description": "Agent Skills for theming AI desktop apps: reference image \u2192 reversible Codex/WorkBuddy skin \u2192 verify, repair, publish. | \u7ed9 AI \u684c\u9762\u5e94\u7528\u6362\u80a4\u7684 Agent Skills\uff1a\u53c2\u8003\u56fe \u2192 \u53ef\u9006\u76ae\u80a4 \u2192 \u9a8c\u8bc1\u3001\u4fee\u590d\u3001\u53d1\u5e03\u3002",
-            "url": "https://github.com/CodeDrobe/skills",
-            "stars": 231,
-            "forks": 18,
-            "score": 41
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
             "name": "equity-research-skill",
             "full_name": "rollingSirius/equity-research-skill",
             "description": "\u53ef\u80fd\u662f\u6700\u6df1\u5ea6\u7684 AI \u6295\u7814\u62a5\u544a Skill\uff1a\u4e5d\u7ae0\u4e2a\u80a1\u6df1\u7814 + \u4e5d\u7ae0\u8d22\u62a5\u6df1\u5ea6\u5206\u6790\uff0c\u811a\u672c\u5316 DCF/EPV \u4e0e\u53ef\u590d\u7b97\u4f30\u503c",
@@ -311,11 +300,22 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
+            "name": "skills",
+            "full_name": "CodeDrobe/skills",
+            "description": "Agent Skills for theming AI desktop apps: reference image \u2192 reversible Codex/WorkBuddy skin \u2192 verify, repair, publish. | \u7ed9 AI \u684c\u9762\u5e94\u7528\u6362\u80a4\u7684 Agent Skills\uff1a\u53c2\u8003\u56fe \u2192 \u53ef\u9006\u76ae\u80a4 \u2192 \u9a8c\u8bc1\u3001\u4fee\u590d\u3001\u53d1\u5e03\u3002",
+            "url": "https://github.com/CodeDrobe/skills",
+            "stars": 231,
+            "forks": 18,
+            "score": 40
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
             "name": "zhijian-skills",
             "full_name": "zjp1997720/zhijian-skills",
             "description": "Canonical source and governance toolkit for Zhijian AI public Agent Skills",
             "url": "https://github.com/zjp1997720/zhijian-skills",
-            "stars": 169,
+            "stars": 170,
             "forks": 17,
             "score": 39
         },
@@ -350,17 +350,6 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/gjw199513/babel-agent-os",
             "stars": 14,
             "forks": 7,
-            "score": 31
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "MoonTail",
-            "full_name": "ysharmcode/MoonTail",
-            "description": "A distributed inference system that lets people share GPU capacity to run large AI models together like KIMI K3 \u2014 turning a network of individual GPUs into a shared AI supercomputer without requiring a central GPU cluster. \ud83c\udf15\ud83d\ude80",
-            "url": "https://github.com/ysharmcode/MoonTail",
-            "stars": 6,
-            "forks": 0,
             "score": 31
         },
         {
@@ -728,5 +717,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-07-26 19:07"
+    "timestamp": "2026-07-26 20:49"
 };
