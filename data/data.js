@@ -7,7 +7,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Vincentwei1021/video-shotcraft",
             "description": "AI video skill for Claude Code & Codex \u2014 cinematic product videos with Remotion: 106 shot recipe cards, 161 motion previews, a production-ready template",
             "url": "https://github.com/Vincentwei1021/video-shotcraft",
-            "stars": 1891,
+            "stars": 1894,
             "forks": 165,
             "score": 99
         },
@@ -18,8 +18,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "penecho/penecho",
             "description": "Think with AI beyond the chat box. A shared canvas for handwriting, equations, diagrams, and spatial reasoning.",
             "url": "https://github.com/penecho/penecho",
-            "stars": 1677,
-            "forks": 181,
+            "stars": 1681,
+            "forks": 182,
             "score": 99
         },
         {
@@ -29,7 +29,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Jakubantalik/thinking-orbs",
             "description": "Dotted thought-orb loading indicators for AI & agent UIs \u2014 six tuned states, two sizes, auto dark/light",
             "url": "https://github.com/Jakubantalik/thinking-orbs",
-            "stars": 1087,
+            "stars": 1091,
             "forks": 81,
             "score": 99
         },
@@ -40,7 +40,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "mikiarlo3/ai-copywriter",
             "description": "An AI copywriter that uses real copywriting skills + real marketing knowledge with human tone.",
             "url": "https://github.com/mikiarlo3/ai-copywriter",
-            "stars": 844,
+            "stars": 848,
             "forks": 12,
             "score": 99
         },
@@ -51,20 +51,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "Blaizzy/nativ",
             "description": "Local AI, native to your Mac. Chat, serve, monitor, and connect MLX models from one macOS app.",
             "url": "https://github.com/Blaizzy/nativ",
-            "stars": 910,
+            "stars": 914,
             "forks": 50,
             "score": 91
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "cue",
-            "full_name": "Blueturboguy07/cue",
-            "description": "Open-source macOS AI copilot that floats over your screen, sees/hears your meetings, and stays hidden from screen shares. Cluely alternative, bring-your-own-key.",
-            "url": "https://github.com/Blueturboguy07/cue",
-            "stars": 808,
-            "forks": 173,
-            "score": 87
         },
         {
             "main_cat": "AI",
@@ -76,6 +65,17 @@ const ALPHA_DATA_V2 = {
             "stars": 770,
             "forks": 65,
             "score": 87
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "cue",
+            "full_name": "Blueturboguy07/cue",
+            "description": "Open-source macOS AI copilot that floats over your screen, sees/hears your meetings, and stays hidden from screen shares. Cluely alternative, bring-your-own-key.",
+            "url": "https://github.com/Blueturboguy07/cue",
+            "stars": 808,
+            "forks": 173,
+            "score": 83
         },
         {
             "main_cat": "AI",
@@ -95,9 +95,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "makecindy/cindy",
             "description": "Consider it done. The open-source AI agent that works out of the box \u00b7 \u60f3\u5230\uff0c\u5c31\u80fd\u505a\u5230\u3002\u5f00\u6e90\u3001\u5f00\u7bb1\u5373\u7528\u7684 AI Agent\u3002",
             "url": "https://github.com/makecindy/cindy",
-            "stars": 412,
-            "forks": 43,
-            "score": 71
+            "stars": 417,
+            "forks": 44,
+            "score": 72
         },
         {
             "main_cat": "AI",
@@ -123,6 +123,17 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
+            "sub_cat": "AI Agents",
+            "name": "OptMem",
+            "full_name": "VictorTaelin/OptMem",
+            "description": "Permanent memory for AI agents. A 426-token prompt, a script, plug and play.",
+            "url": "https://github.com/VictorTaelin/OptMem",
+            "stars": 248,
+            "forks": 12,
+            "score": 67
+        },
+        {
+            "main_cat": "AI",
             "sub_cat": null,
             "name": "pohuy",
             "full_name": "smixs/pohuy",
@@ -134,24 +145,13 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
-            "sub_cat": "AI Agents",
-            "name": "OptMem",
-            "full_name": "VictorTaelin/OptMem",
-            "description": "Permanent memory for AI agents. A 426-token prompt, a script, plug and play.",
-            "url": "https://github.com/VictorTaelin/OptMem",
-            "stars": 210,
-            "forks": 10,
-            "score": 61
-        },
-        {
-            "main_cat": "AI",
             "sub_cat": "AI General",
             "name": "klaatcode",
             "full_name": "KlaatAI/klaatcode",
             "description": "Open-source AI coding agent for the terminal. Claude Code-grade accuracy with smart model routing \u2014 uses the right AI model for each task, cutting costs 10x. Supports Claude, GPT, Gemini, DeepSeek & more.",
             "url": "https://github.com/KlaatAI/klaatcode",
             "stars": 293,
-            "forks": 107,
+            "forks": 108,
             "score": 60
         },
         {
@@ -161,7 +161,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "0xsline/OpenChatCut",
             "description": "Local-first conversational AI video editor with a professional multi-track timeline, Agent Skills, MCP integration, and Remotion-powered rendering.",
             "url": "https://github.com/0xsline/OpenChatCut",
-            "stars": 527,
+            "stars": 528,
             "forks": 55,
             "score": 56
         },
@@ -179,22 +179,11 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "Agent-Execution-Partnership",
-            "full_name": "eli-labz/Agent-Execution-Partnership",
-            "description": "Agent Execution Partnership AEE is an open-source control plane that ensures every AI agent action is authorized before it runs, observable while it runs, and verifiable after it completes.",
-            "url": "https://github.com/eli-labz/Agent-Execution-Partnership",
-            "stars": 199,
-            "forks": 50,
-            "score": 54
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
             "name": "awesome-OpenPrice",
             "full_name": "bytedoger/awesome-OpenPrice",
             "description": "open price ,\u4e00\u4e2a\u5f00\u6e90\u7684\u6536\u5f55\u5168\u7f51\u5361\u7f51\u6e20\u9053\u5404\u79cdAI\u8ba2\u9605\u4ef7\u683c\u7684\u9879\u76ee\u3002\u6253\u7834\u4fe1\u606f\u8327\u623f\uff0c\u4e00\u7ad9\u5f0f\u83b7\u53d6\u5404\u4e2a\u6e20\u9053\u7684 Claude\u3001GPT\u3001gemini \u3001cursor\u4ea7\u54c1\u7684\u6700\u65b0\u4ef7\u683c",
             "url": "https://github.com/bytedoger/awesome-OpenPrice",
-            "stars": 527,
+            "stars": 529,
             "forks": 23,
             "score": 53
         },
@@ -217,7 +206,18 @@ const ALPHA_DATA_V2 = {
             "description": "Self-hosted network monitor - hourly speed tests, LAN device counts via ARP scan, and sarcastic AI-generated reports delivered to Telegram or Discord.",
             "url": "https://github.com/Role1776/netmon",
             "stars": 224,
-            "forks": 32,
+            "forks": 33,
+            "score": 52
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "Agent-Execution-Partnership",
+            "full_name": "eli-labz/Agent-Execution-Partnership",
+            "description": "Agent Execution Partnership AEE is an open-source control plane that ensures every AI agent action is authorized before it runs, observable while it runs, and verifiable after it completes.",
+            "url": "https://github.com/eli-labz/Agent-Execution-Partnership",
+            "stars": 199,
+            "forks": 50,
             "score": 52
         },
         {
@@ -267,13 +267,13 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "BossConsole",
-            "full_name": "risa-labs-inc/BossConsole",
-            "description": "Open-source, multi-platform harness for AI agents \u2014 a native, multi-threaded operator's console (JVM, not Electron) to run Claude Code, Codex, Gemini or OpenCode with a real browser, terminal, editor, secrets & 100+ MCP tools. Built for enterprises, science & research.",
-            "url": "https://github.com/risa-labs-inc/BossConsole",
-            "stars": 197,
-            "forks": 5,
-            "score": 43
+            "name": "agents-council",
+            "full_name": "0xwilliamortiz/agents-council",
+            "description": "Multi-agents collaboration plugin for Claude Code - orchestrate multiple AI agents (Codex CLI, Gemini CLI, etc.) for diverse perspectives",
+            "url": "https://github.com/0xwilliamortiz/agents-council",
+            "stars": 202,
+            "forks": 16,
+            "score": 44
         },
         {
             "main_cat": "AI",
@@ -327,7 +327,7 @@ const ALPHA_DATA_V2 = {
             "description": "A starter kit and UI library for building custom design apps with AI.",
             "url": "https://github.com/pixel-point/toolcraft",
             "stars": 212,
-            "forks": 9,
+            "forks": 10,
             "score": 38
         },
         {
@@ -717,5 +717,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-07-26 21:52"
+    "timestamp": "2026-07-26 22:53"
 };
