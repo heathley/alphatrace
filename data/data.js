@@ -7,7 +7,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Vincentwei1021/video-shotcraft",
             "description": "AI video skill for Claude Code & Codex \u2014 cinematic product videos with Remotion: 106 shot recipe cards, 161 motion previews, a production-ready template",
             "url": "https://github.com/Vincentwei1021/video-shotcraft",
-            "stars": 1879,
+            "stars": 1883,
             "forks": 164,
             "score": 99
         },
@@ -18,7 +18,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "penecho/penecho",
             "description": "Think with AI beyond the chat box. A shared canvas for handwriting, equations, diagrams, and spatial reasoning.",
             "url": "https://github.com/penecho/penecho",
-            "stars": 1666,
+            "stars": 1669,
             "forks": 180,
             "score": 99
         },
@@ -29,8 +29,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "Jakubantalik/thinking-orbs",
             "description": "Dotted thought-orb loading indicators for AI & agent UIs \u2014 six tuned states, two sizes, auto dark/light",
             "url": "https://github.com/Jakubantalik/thinking-orbs",
-            "stars": 1077,
-            "forks": 79,
+            "stars": 1080,
+            "forks": 80,
             "score": 99
         },
         {
@@ -40,7 +40,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "mikiarlo3/ai-copywriter",
             "description": "An AI copywriter that uses real copywriting skills + real marketing knowledge with human tone.",
             "url": "https://github.com/mikiarlo3/ai-copywriter",
-            "stars": 816,
+            "stars": 827,
             "forks": 12,
             "score": 99
         },
@@ -51,9 +51,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "Blaizzy/nativ",
             "description": "Local AI, native to your Mac. Chat, serve, monitor, and connect MLX models from one macOS app.",
             "url": "https://github.com/Blaizzy/nativ",
-            "stars": 899,
-            "forks": 49,
-            "score": 90
+            "stars": 901,
+            "forks": 50,
+            "score": 91
         },
         {
             "main_cat": "AI",
@@ -62,8 +62,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "Blueturboguy07/cue",
             "description": "Open-source macOS AI copilot that floats over your screen, sees/hears your meetings, and stays hidden from screen shares. Cluely alternative, bring-your-own-key.",
             "url": "https://github.com/Blueturboguy07/cue",
-            "stars": 805,
-            "forks": 170,
+            "stars": 807,
+            "forks": 172,
             "score": 87
         },
         {
@@ -73,7 +73,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "pireel/pireel",
             "description": "Open-source, backend-free AI video editor for talking-head video \u2014 storyboarding, designed graphics, kinetic captions, themes and in-browser WebCodecs export. Drivable by any AI agent over MCP.",
             "url": "https://github.com/pireel/pireel",
-            "stars": 767,
+            "stars": 768,
             "forks": 65,
             "score": 87
         },
@@ -84,8 +84,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "Kritt-ai/open-kritt",
             "description": "Orchestrate AI agents to find real vulnerabilities in code.",
             "url": "https://github.com/Kritt-ai/open-kritt",
-            "stars": 405,
-            "forks": 83,
+            "stars": 407,
+            "forks": 84,
             "score": 76
         },
         {
@@ -95,7 +95,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "v-modal/vmodal_sdk_flutter",
             "description": "V- Modal AI: Search anything anywhere SDK Flutter",
             "url": "https://github.com/v-modal/vmodal_sdk_flutter",
-            "stars": 1102,
+            "stars": 1104,
             "forks": 4,
             "score": 73
         },
@@ -106,7 +106,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "makecindy/cindy",
             "description": "Consider it done. The open-source AI agent that works out of the box \u00b7 \u60f3\u5230\uff0c\u5c31\u80fd\u505a\u5230\u3002\u5f00\u6e90\u3001\u5f00\u7bb1\u5373\u7528\u7684 AI Agent\u3002",
             "url": "https://github.com/makecindy/cindy",
-            "stars": 392,
+            "stars": 399,
             "forks": 43,
             "score": 70
         },
@@ -128,9 +128,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "smixs/pohuy",
             "description": "\u0420\u0435\u0436\u0438\u043c \u0438\u0434\u0438\u043e\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u043e\u0433\u043e \u0440\u0443\u0441\u0441\u043a\u043e\u0433\u043e \u043c\u0430\u0442\u0430 \u0434\u043b\u044f AI-\u0430\u0433\u0435\u043d\u0442\u043e\u0432. \u041a\u043e\u0440\u043e\u0447\u0435, \u0434\u0443\u0448\u0435\u0432\u043d\u0435\u0435, \u044d\u0444\u0444\u0435\u043a\u0442\u0438\u0432\u043d\u0435\u0435. 18+",
             "url": "https://github.com/smixs/pohuy",
-            "stars": 717,
+            "stars": 721,
             "forks": 12,
-            "score": 61
+            "score": 62
         },
         {
             "main_cat": "AI",
@@ -150,9 +150,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "0xsline/OpenChatCut",
             "description": "Local-first conversational AI video editor with a professional multi-track timeline, Agent Skills, MCP integration, and Remotion-powered rendering.",
             "url": "https://github.com/0xsline/OpenChatCut",
-            "stars": 526,
-            "forks": 54,
+            "stars": 527,
+            "forks": 55,
             "score": 56
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "netmon",
+            "full_name": "Role1776/netmon",
+            "description": "Self-hosted network monitor - hourly speed tests, LAN device counts via ARP scan, and sarcastic AI-generated reports delivered to Telegram or Discord.",
+            "url": "https://github.com/Role1776/netmon",
+            "stars": 223,
+            "forks": 32,
+            "score": 55
         },
         {
             "main_cat": "AI",
@@ -164,17 +175,6 @@ const ALPHA_DATA_V2 = {
             "stars": 214,
             "forks": 34,
             "score": 55
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "netmon",
-            "full_name": "Role1776/netmon",
-            "description": "Self-hosted network monitor - hourly speed tests, LAN device counts via ARP scan, and sarcastic AI-generated reports delivered to Telegram or Discord.",
-            "url": "https://github.com/Role1776/netmon",
-            "stars": 223,
-            "forks": 31,
-            "score": 54
         },
         {
             "main_cat": "AI",
@@ -194,7 +194,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "bytedoger/awesome-OpenPrice",
             "description": "open price ,\u4e00\u4e2a\u5f00\u6e90\u7684\u6536\u5f55\u5168\u7f51\u5361\u7f51\u6e20\u9053\u5404\u79cdAI\u8ba2\u9605\u4ef7\u683c\u7684\u9879\u76ee\u3002\u6253\u7834\u4fe1\u606f\u8327\u623f\uff0c\u4e00\u7ad9\u5f0f\u83b7\u53d6\u5404\u4e2a\u6e20\u9053\u7684 Claude\u3001GPT\u3001gemini \u3001cursor\u4ea7\u54c1\u7684\u6700\u65b0\u4ef7\u683c",
             "url": "https://github.com/bytedoger/awesome-OpenPrice",
-            "stars": 525,
+            "stars": 526,
             "forks": 23,
             "score": 53
         },
@@ -239,7 +239,7 @@ const ALPHA_DATA_V2 = {
             "description": "A Smarter and Faster On-Device AI Brain for Robots",
             "url": "https://github.com/OpenBMB/MiniCPM-Robot",
             "stars": 248,
-            "forks": 15,
+            "forks": 16,
             "score": 45
         },
         {
@@ -315,7 +315,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "zjp1997720/zhijian-skills",
             "description": "Canonical source and governance toolkit for Zhijian AI public Agent Skills",
             "url": "https://github.com/zjp1997720/zhijian-skills",
-            "stars": 168,
+            "stars": 169,
             "forks": 17,
             "score": 39
         },
@@ -382,6 +382,17 @@ const ALPHA_DATA_V2 = {
             "description": " A production-ready, enterprise-grade decentralized application for distributing yield to Real-World Asset (RWA) token holders on the Stellar Network using Soroban smart contracts.",
             "url": "https://github.com/Aura-vault/RWA-Yield-Distribution-Suite",
             "stars": 0,
+            "forks": 0,
+            "score": 30
+        },
+        {
+            "main_cat": "Prediction Markets",
+            "sub_cat": null,
+            "name": "noxoracle",
+            "full_name": "edycutjong/noxoracle",
+            "description": "\ud83d\udd2e Bet what you know, not who you are \u2014 private positions on a real Gnosis prediction market, direction & size encrypted through settlement via iExec Nox. Live on Ethereum Sepolia.",
+            "url": "https://github.com/edycutjong/noxoracle",
+            "stars": 1,
             "forks": 0,
             "score": 30
         },
@@ -480,17 +491,6 @@ const ALPHA_DATA_V2 = {
             "full_name": "Jcurry44/icenomics-open-book",
             "description": "Every NHL contract is a bet. We keep the book - settled, in public, with receipts. Pre-registered prediction ledger + settlement engine for the NHL contract market (Icenomics).",
             "url": "https://github.com/Jcurry44/icenomics-open-book",
-            "stars": 0,
-            "forks": 0,
-            "score": 30
-        },
-        {
-            "main_cat": "Prediction Markets",
-            "sub_cat": null,
-            "name": "noxoracle",
-            "full_name": "edycutjong/noxoracle",
-            "description": "\ud83d\udd2e Bet what you know, not who you are \u2014 private positions on a real Gnosis prediction market, direction & size encrypted through settlement via iExec Nox. Live on Ethereum Sepolia.",
-            "url": "https://github.com/edycutjong/noxoracle",
             "stars": 0,
             "forks": 0,
             "score": 30
@@ -728,5 +728,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-07-26 17:57"
+    "timestamp": "2026-07-26 19:07"
 };
