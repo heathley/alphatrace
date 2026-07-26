@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "Vincentwei1021/video-shotcraft",
             "description": "AI video skill for Claude Code & Codex \u2014 cinematic product videos with Remotion: 106 shot recipe cards, 161 motion previews, a production-ready template",
             "url": "https://github.com/Vincentwei1021/video-shotcraft",
-            "stars": 1799,
-            "forks": 158,
+            "stars": 1823,
+            "forks": 159,
             "score": 99
         },
         {
@@ -18,7 +18,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "penecho/penecho",
             "description": "Think with AI beyond the chat box. A shared canvas for handwriting, equations, diagrams, and spatial reasoning.",
             "url": "https://github.com/penecho/penecho",
-            "stars": 1632,
+            "stars": 1639,
             "forks": 174,
             "score": 99
         },
@@ -29,8 +29,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "Jakubantalik/thinking-orbs",
             "description": "Dotted thought-orb loading indicators for AI & agent UIs \u2014 six tuned states, two sizes, auto dark/light",
             "url": "https://github.com/Jakubantalik/thinking-orbs",
-            "stars": 1048,
-            "forks": 77,
+            "stars": 1057,
+            "forks": 78,
             "score": 99
         },
         {
@@ -40,8 +40,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "mikiarlo3/ai-copywriter",
             "description": "An AI copywriter that uses real copywriting skills + real marketing knowledge with human tone.",
             "url": "https://github.com/mikiarlo3/ai-copywriter",
-            "stars": 695,
-            "forks": 9,
+            "stars": 731,
+            "forks": 10,
             "score": 99
         },
         {
@@ -51,20 +51,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "Blaizzy/nativ",
             "description": "Local AI, native to your Mac. Chat, serve, monitor, and connect MLX models from one macOS app.",
             "url": "https://github.com/Blaizzy/nativ",
-            "stars": 887,
+            "stars": 888,
             "forks": 47,
             "score": 97
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "pireel",
-            "full_name": "pireel/pireel",
-            "description": "Open-source, backend-free AI video editor for talking-head video \u2014 storyboarding, designed graphics, kinetic captions, themes and in-browser WebCodecs export. Drivable by any AI agent over MCP.",
-            "url": "https://github.com/pireel/pireel",
-            "stars": 759,
-            "forks": 63,
-            "score": 93
         },
         {
             "main_cat": "AI",
@@ -73,8 +62,19 @@ const ALPHA_DATA_V2 = {
             "full_name": "Blueturboguy07/cue",
             "description": "Open-source macOS AI copilot that floats over your screen, sees/hears your meetings, and stays hidden from screen shares. Cluely alternative, bring-your-own-key.",
             "url": "https://github.com/Blueturboguy07/cue",
-            "stars": 800,
-            "forks": 167,
+            "stars": 802,
+            "forks": 168,
+            "score": 86
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "pireel",
+            "full_name": "pireel/pireel",
+            "description": "Open-source, backend-free AI video editor for talking-head video \u2014 storyboarding, designed graphics, kinetic captions, themes and in-browser WebCodecs export. Drivable by any AI agent over MCP.",
+            "url": "https://github.com/pireel/pireel",
+            "stars": 761,
+            "forks": 64,
             "score": 86
         },
         {
@@ -84,7 +84,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "v-modal/vmodal_sdk_flutter",
             "description": "V- Modal AI: Search anything anywhere SDK Flutter",
             "url": "https://github.com/v-modal/vmodal_sdk_flutter",
-            "stars": 1079,
+            "stars": 1085,
             "forks": 4,
             "score": 75
         },
@@ -95,9 +95,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "Kritt-ai/open-kritt",
             "description": "Orchestrate AI agents to find real vulnerabilities in code.",
             "url": "https://github.com/Kritt-ai/open-kritt",
-            "stars": 395,
-            "forks": 81,
-            "score": 74
+            "stars": 396,
+            "forks": 82,
+            "score": 75
         },
         {
             "main_cat": "AI",
@@ -106,8 +106,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "TryCaspian/caspian-sdk",
             "description": "One identity for your AI agent across Slack, Discord, Telegram, WhatsApp, Instagram, email, SMS, X \u2014 a single on_message handler. Open-source channel adapters + bot SDK (Python & TypeScript) + CLI.",
             "url": "https://github.com/TryCaspian/caspian-sdk",
-            "stars": 242,
-            "forks": 108,
+            "stars": 243,
+            "forks": 109,
             "score": 72
         },
         {
@@ -117,7 +117,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "smixs/pohuy",
             "description": "\u0420\u0435\u0436\u0438\u043c \u0438\u0434\u0438\u043e\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u043e\u0433\u043e \u0440\u0443\u0441\u0441\u043a\u043e\u0433\u043e \u043c\u0430\u0442\u0430 \u0434\u043b\u044f AI-\u0430\u0433\u0435\u043d\u0442\u043e\u0432. \u041a\u043e\u0440\u043e\u0447\u0435, \u0434\u0443\u0448\u0435\u0432\u043d\u0435\u0435, \u044d\u0444\u0444\u0435\u043a\u0442\u0438\u0432\u043d\u0435\u0435. 18+",
             "url": "https://github.com/smixs/pohuy",
-            "stars": 699,
+            "stars": 701,
             "forks": 11,
             "score": 63
         },
@@ -150,9 +150,31 @@ const ALPHA_DATA_V2 = {
             "full_name": "0xsline/OpenChatCut",
             "description": "Local-first conversational AI video editor with a professional multi-track timeline, Agent Skills, MCP integration, and Remotion-powered rendering.",
             "url": "https://github.com/0xsline/OpenChatCut",
-            "stars": 507,
-            "forks": 51,
+            "stars": 514,
+            "forks": 52,
             "score": 55
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "cindy",
+            "full_name": "makecindy/cindy",
+            "description": "Consider it done. The open-source AI agent that works out of the box \u00b7 \u60f3\u5230\uff0c\u5c31\u80fd\u505a\u5230\u3002\u5f00\u6e90\u3001\u5f00\u7bb1\u5373\u7528\u7684 AI Agent\u3002",
+            "url": "https://github.com/makecindy/cindy",
+            "stars": 208,
+            "forks": 23,
+            "score": 55
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "netmon",
+            "full_name": "Role1776/netmon",
+            "description": "Self-hosted network monitor - hourly speed tests, LAN device counts via ARP scan, and sarcastic AI-generated reports delivered to Telegram or Discord.",
+            "url": "https://github.com/Role1776/netmon",
+            "stars": 216,
+            "forks": 31,
+            "score": 54
         },
         {
             "main_cat": "AI",
@@ -172,19 +194,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "bytedoger/awesome-OpenPrice",
             "description": "open price ,\u4e00\u4e2a\u5f00\u6e90\u7684\u6536\u5f55\u5168\u7f51\u5361\u7f51\u6e20\u9053\u5404\u79cdAI\u8ba2\u9605\u4ef7\u683c\u7684\u9879\u76ee\u3002\u6253\u7834\u4fe1\u606f\u8327\u623f\uff0c\u4e00\u7ad9\u5f0f\u83b7\u53d6\u5404\u4e2a\u6e20\u9053\u7684 Claude\u3001GPT\u3001gemini \u3001cursor\u4ea7\u54c1\u7684\u6700\u65b0\u4ef7\u683c",
             "url": "https://github.com/bytedoger/awesome-OpenPrice",
-            "stars": 512,
+            "stars": 513,
             "forks": 22,
-            "score": 53
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "netmon",
-            "full_name": "Role1776/netmon",
-            "description": "Self-hosted network monitor - hourly speed tests, LAN device counts via ARP scan, and sarcastic AI-generated reports delivered to Telegram or Discord.",
-            "url": "https://github.com/Role1776/netmon",
-            "stars": 215,
-            "forks": 30,
             "score": 53
         },
         {
@@ -194,7 +205,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "yc-duan/fastctx",
             "description": "Fast, context-efficient repository tools for AI agents (MCP)",
             "url": "https://github.com/yc-duan/fastctx",
-            "stars": 478,
+            "stars": 481,
             "forks": 17,
             "score": 52
         },
@@ -205,7 +216,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "yuwen-cool/yuwen-publish-precheck",
             "description": "\u53d1\u5e03\u524d\u5ba1\uff5c\u53d1\u6296\u97f3/\u5c0f\u7ea2\u4e66/\u89c6\u9891\u53f7\u524d\u5148\u8ba9 AI \u5ba1\u4e00\u904d\uff1a\u54ea\u53e5\u8e29\u7ebf\u3001\u4f9d\u636e\u54ea\u6761\u5b98\u65b9\u89c4\u5219\u3001\u7ed9\u80fd\u76f4\u63a5\u7528\u7684\u6539\u6cd5\u300238 \u7bc7\u771f\u5b9e\u6837\u672c\u6821\u51c6\u5224\u5b9a\u5c3a\u5ea6\uff0c72 \u6761\u5b98\u65b9\u539f\u6587\u5f15\u6587\u53ef\u67e5\u8bc1\uff0c\u4f60\u8e29\u8fc7\u7684\u5751\u6c89\u6dc0\u6210\u672c\u5730\u89c4\u5219\u5e93\u8d8a\u7528\u8d8a\u51c6\u3002\u4e0d\u627f\u8bfa\u8fc7\u5ba1\uff0c\u4e0d\u6559\u7ed5\u5ba1\u3002",
             "url": "https://github.com/yuwen-cool/yuwen-publish-precheck",
-            "stars": 384,
+            "stars": 385,
             "forks": 36,
             "score": 50
         },
@@ -218,7 +229,7 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/CyberSunil/LLMVault",
             "stars": 250,
             "forks": 60,
-            "score": 48
+            "score": 47
         },
         {
             "main_cat": "AI",
@@ -238,8 +249,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "larashero3-dotcom/lieflat-charts",
             "description": "\u9762\u5411 AI Agents \u7684\u5355\u8272\u6570\u636e\u53ef\u89c6\u5316 Skill\uff0c\u5c06\u6570\u636e\u5feb\u901f\u751f\u6210\u7cbe\u81f4\u3001\u53ef\u4ea4\u4e92\u7684 HTML \u56fe\u8868",
             "url": "https://github.com/larashero3-dotcom/lieflat-charts",
-            "stars": 232,
-            "forks": 20,
+            "stars": 241,
+            "forks": 21,
             "score": 43
         },
         {
@@ -260,7 +271,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "nihe0909/xiaohongshu-ai-workbench",
             "description": "\u300a\u5c0f\u7ea2\u4e66\u8fd0\u8425\u624b\u518c \u00b7 AI\u5de5\u4f5c\u53f0\u300b: free Codex Skills for Xiaohongshu operations",
             "url": "https://github.com/nihe0909/xiaohongshu-ai-workbench",
-            "stars": 277,
+            "stars": 278,
             "forks": 22,
             "score": 42
         },
@@ -293,7 +304,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "rollingSirius/equity-research-skill",
             "description": "\u53ef\u80fd\u662f\u6700\u6df1\u5ea6\u7684 AI \u6295\u7814\u62a5\u544a Skill\uff1a\u4e5d\u7ae0\u4e2a\u80a1\u6df1\u7814 + \u4e5d\u7ae0\u8d22\u62a5\u6df1\u5ea6\u5206\u6790\uff0c\u811a\u672c\u5316 DCF/EPV \u4e0e\u53ef\u590d\u7b97\u4f30\u503c",
             "url": "https://github.com/rollingSirius/equity-research-skill",
-            "stars": 201,
+            "stars": 204,
             "forks": 33,
             "score": 41
         },
@@ -304,7 +315,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "pixel-point/toolcraft",
             "description": "A starter kit and UI library for building custom design apps with AI.",
             "url": "https://github.com/pixel-point/toolcraft",
-            "stars": 208,
+            "stars": 209,
             "forks": 8,
             "score": 38
         },
@@ -322,23 +333,23 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
-            "name": "zeraix",
-            "full_name": "zeraix/zeraix",
-            "description": "Open-source local AI workspace \u2014 advancing on-device inference.",
-            "url": "https://github.com/zeraix/zeraix",
-            "stars": 156,
-            "forks": 10,
-            "score": 36
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
             "name": "babel-agent-os",
             "full_name": "gjw199513/babel-agent-os",
             "description": "Babel AgentOS is a local-first platform for building, orchestrating, debugging, and publishing AI applications with models, prompts, knowledge bases, tools, workflows, memory, and Open APIs.Babel AgentOS \u662f\u4e00\u4e2a\u672c\u5730\u4f18\u5148\u7684 AI \u5e94\u7528\u5e73\u53f0\uff0c\u7528\u4e8e\u901a\u8fc7\u6a21\u578b\u3001\u63d0\u793a\u8bcd\u3001\u77e5\u8bc6\u5e93\u3001\u5de5\u5177\u3001\u5de5\u4f5c\u6d41\u3001\u8bb0\u5fc6\u548c\u5f00\u653e API\uff0c\u6784\u5efa\u3001\u7f16\u6392\u3001\u8c03\u8bd5\u5e76\u53d1\u5e03 AI \u5e94\u7528\u3002",
             "url": "https://github.com/gjw199513/babel-agent-os",
             "stars": 14,
             "forks": 7,
+            "score": 31
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "MoonTail",
+            "full_name": "ysharmcode/MoonTail",
+            "description": "A distributed inference system that lets people share GPU capacity to run large AI models together like KIMI K3 \u2014 turning a network of individual GPUs into a shared AI supercomputer without requiring a central GPU cluster. \ud83c\udf15\ud83d\ude80",
+            "url": "https://github.com/ysharmcode/MoonTail",
+            "stars": 6,
+            "forks": 0,
             "score": 31
         },
         {
@@ -463,12 +474,12 @@ const ALPHA_DATA_V2 = {
             "score": 30
         },
         {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "mlbmodel",
-            "full_name": "samarpreetxd/mlbmodel",
-            "description": "MLB prediction and bet-tracking pipeline on free public data. Stacked ensemble + Monte Carlo simulation, steam detection, Kelly staking, and a daily ledger that settles every pick against closing lines.",
-            "url": "https://github.com/samarpreetxd/mlbmodel",
+            "main_cat": "Prediction Markets",
+            "sub_cat": null,
+            "name": "noxoracle",
+            "full_name": "edycutjong/noxoracle",
+            "description": "\ud83d\udd2e Bet what you know, not who you are \u2014 private positions on a real Gnosis prediction market, direction & size encrypted through settlement via iExec Nox. Live on Ethereum Sepolia.",
+            "url": "https://github.com/edycutjong/noxoracle",
             "stars": 0,
             "forks": 0,
             "score": 30
@@ -695,5 +706,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-07-26 08:13"
+    "timestamp": "2026-07-26 10:39"
 };
