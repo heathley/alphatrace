@@ -7,7 +7,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Vincentwei1021/video-shotcraft",
             "description": "AI video skill for Claude Code & Codex \u2014 cinematic product videos with Remotion: 106 shot recipe cards, 161 motion previews, a production-ready template",
             "url": "https://github.com/Vincentwei1021/video-shotcraft",
-            "stars": 1894,
+            "stars": 1899,
             "forks": 165,
             "score": 99
         },
@@ -18,8 +18,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "penecho/penecho",
             "description": "Think with AI beyond the chat box. A shared canvas for handwriting, equations, diagrams, and spatial reasoning.",
             "url": "https://github.com/penecho/penecho",
-            "stars": 1681,
-            "forks": 182,
+            "stars": 1685,
+            "forks": 183,
             "score": 99
         },
         {
@@ -29,8 +29,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "Jakubantalik/thinking-orbs",
             "description": "Dotted thought-orb loading indicators for AI & agent UIs \u2014 six tuned states, two sizes, auto dark/light",
             "url": "https://github.com/Jakubantalik/thinking-orbs",
-            "stars": 1091,
-            "forks": 81,
+            "stars": 1094,
+            "forks": 82,
             "score": 99
         },
         {
@@ -40,7 +40,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "mikiarlo3/ai-copywriter",
             "description": "An AI copywriter that uses real copywriting skills + real marketing knowledge with human tone.",
             "url": "https://github.com/mikiarlo3/ai-copywriter",
-            "stars": 848,
+            "stars": 851,
             "forks": 12,
             "score": 99
         },
@@ -51,9 +51,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "Blaizzy/nativ",
             "description": "Local AI, native to your Mac. Chat, serve, monitor, and connect MLX models from one macOS app.",
             "url": "https://github.com/Blaizzy/nativ",
-            "stars": 914,
+            "stars": 918,
             "forks": 50,
-            "score": 91
+            "score": 92
         },
         {
             "main_cat": "AI",
@@ -73,7 +73,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Blueturboguy07/cue",
             "description": "Open-source macOS AI copilot that floats over your screen, sees/hears your meetings, and stays hidden from screen shares. Cluely alternative, bring-your-own-key.",
             "url": "https://github.com/Blueturboguy07/cue",
-            "stars": 808,
+            "stars": 809,
             "forks": 173,
             "score": 83
         },
@@ -95,8 +95,19 @@ const ALPHA_DATA_V2 = {
             "full_name": "makecindy/cindy",
             "description": "Consider it done. The open-source AI agent that works out of the box \u00b7 \u60f3\u5230\uff0c\u5c31\u80fd\u505a\u5230\u3002\u5f00\u6e90\u3001\u5f00\u7bb1\u5373\u7528\u7684 AI Agent\u3002",
             "url": "https://github.com/makecindy/cindy",
-            "stars": 417,
-            "forks": 44,
+            "stars": 428,
+            "forks": 45,
+            "score": 73
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI Agents",
+            "name": "OptMem",
+            "full_name": "VictorTaelin/OptMem",
+            "description": "Permanent memory for AI agents. A 426-token prompt, a script, plug and play.",
+            "url": "https://github.com/VictorTaelin/OptMem",
+            "stars": 280,
+            "forks": 14,
             "score": 72
         },
         {
@@ -120,17 +131,6 @@ const ALPHA_DATA_V2 = {
             "stars": 247,
             "forks": 114,
             "score": 69
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI Agents",
-            "name": "OptMem",
-            "full_name": "VictorTaelin/OptMem",
-            "description": "Permanent memory for AI agents. A 426-token prompt, a script, plug and play.",
-            "url": "https://github.com/VictorTaelin/OptMem",
-            "stars": 248,
-            "forks": 12,
-            "score": 67
         },
         {
             "main_cat": "AI",
@@ -194,7 +194,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "yc-duan/fastctx",
             "description": "Fast, context-efficient repository tools for AI agents (MCP)",
             "url": "https://github.com/yc-duan/fastctx",
-            "stars": 492,
+            "stars": 493,
             "forks": 17,
             "score": 53
         },
@@ -249,7 +249,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "larashero3-dotcom/lieflat-charts",
             "description": "\u9762\u5411 AI Agents \u7684\u5355\u8272\u6570\u636e\u53ef\u89c6\u5316 Skill\uff0c\u5c06\u6570\u636e\u5feb\u901f\u751f\u6210\u7cbe\u81f4\u3001\u53ef\u4ea4\u4e92\u7684 HTML \u56fe\u8868",
             "url": "https://github.com/larashero3-dotcom/lieflat-charts",
-            "stars": 264,
+            "stars": 265,
             "forks": 25,
             "score": 44
         },
@@ -326,7 +326,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "pixel-point/toolcraft",
             "description": "A starter kit and UI library for building custom design apps with AI.",
             "url": "https://github.com/pixel-point/toolcraft",
-            "stars": 212,
+            "stars": 213,
             "forks": 10,
             "score": 38
         },
@@ -469,17 +469,6 @@ const ALPHA_DATA_V2 = {
             "full_name": "sagarmaru28-collab/Fifa26_prediction-against-market",
             "description": "Fifa 26 world cup ML model prediction vs the bets on polymarket",
             "url": "https://github.com/sagarmaru28-collab/Fifa26_prediction-against-market",
-            "stars": 0,
-            "forks": 0,
-            "score": 30
-        },
-        {
-            "main_cat": "Prediction Markets",
-            "sub_cat": null,
-            "name": "icenomics-open-book",
-            "full_name": "Jcurry44/icenomics-open-book",
-            "description": "Every NHL contract is a bet. We keep the book - settled, in public, with receipts. Pre-registered prediction ledger + settlement engine for the NHL contract market (Icenomics).",
-            "url": "https://github.com/Jcurry44/icenomics-open-book",
             "stars": 0,
             "forks": 0,
             "score": 30
@@ -717,5 +706,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-07-26 22:53"
+    "timestamp": "2026-07-26 23:54"
 };
