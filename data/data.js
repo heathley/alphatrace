@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "Vincentwei1021/video-shotcraft",
             "description": "AI video skill for Claude Code & Codex \u2014 cinematic product videos with Remotion: 106 shot recipe cards, 161 motion previews, a production-ready template",
             "url": "https://github.com/Vincentwei1021/video-shotcraft",
-            "stars": 1899,
-            "forks": 165,
+            "stars": 1927,
+            "forks": 168,
             "score": 99
         },
         {
@@ -18,8 +18,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "penecho/penecho",
             "description": "Think with AI beyond the chat box. A shared canvas for handwriting, equations, diagrams, and spatial reasoning.",
             "url": "https://github.com/penecho/penecho",
-            "stars": 1685,
-            "forks": 183,
+            "stars": 1688,
+            "forks": 185,
             "score": 99
         },
         {
@@ -29,7 +29,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Jakubantalik/thinking-orbs",
             "description": "Dotted thought-orb loading indicators for AI & agent UIs \u2014 six tuned states, two sizes, auto dark/light",
             "url": "https://github.com/Jakubantalik/thinking-orbs",
-            "stars": 1094,
+            "stars": 1103,
             "forks": 82,
             "score": 99
         },
@@ -40,7 +40,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "mikiarlo3/ai-copywriter",
             "description": "An AI copywriter that uses real copywriting skills + real marketing knowledge with human tone.",
             "url": "https://github.com/mikiarlo3/ai-copywriter",
-            "stars": 851,
+            "stars": 856,
             "forks": 12,
             "score": 99
         },
@@ -51,8 +51,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "Blaizzy/nativ",
             "description": "Local AI, native to your Mac. Chat, serve, monitor, and connect MLX models from one macOS app.",
             "url": "https://github.com/Blaizzy/nativ",
-            "stars": 918,
-            "forks": 50,
+            "stars": 924,
+            "forks": 51,
             "score": 92
         },
         {
@@ -62,7 +62,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "pireel/pireel",
             "description": "Open-source, backend-free AI video editor for talking-head video \u2014 storyboarding, designed graphics, kinetic captions, themes and in-browser WebCodecs export. Drivable by any AI agent over MCP.",
             "url": "https://github.com/pireel/pireel",
-            "stars": 770,
+            "stars": 773,
             "forks": 65,
             "score": 87
         },
@@ -73,31 +73,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "Blueturboguy07/cue",
             "description": "Open-source macOS AI copilot that floats over your screen, sees/hears your meetings, and stays hidden from screen shares. Cluely alternative, bring-your-own-key.",
             "url": "https://github.com/Blueturboguy07/cue",
-            "stars": 809,
-            "forks": 173,
+            "stars": 810,
+            "forks": 174,
             "score": 83
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "vmodal_sdk_flutter",
-            "full_name": "v-modal/vmodal_sdk_flutter",
-            "description": "V- Modal AI: Search anything anywhere SDK Flutter",
-            "url": "https://github.com/v-modal/vmodal_sdk_flutter",
-            "stars": 1111,
-            "forks": 4,
-            "score": 73
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "cindy",
-            "full_name": "makecindy/cindy",
-            "description": "Consider it done. The open-source AI agent that works out of the box \u00b7 \u60f3\u5230\uff0c\u5c31\u80fd\u505a\u5230\u3002\u5f00\u6e90\u3001\u5f00\u7bb1\u5373\u7528\u7684 AI Agent\u3002",
-            "url": "https://github.com/makecindy/cindy",
-            "stars": 428,
-            "forks": 45,
-            "score": 73
         },
         {
             "main_cat": "AI",
@@ -106,9 +84,31 @@ const ALPHA_DATA_V2 = {
             "full_name": "VictorTaelin/OptMem",
             "description": "Permanent memory for AI agents. A 426-token prompt, a script, plug and play.",
             "url": "https://github.com/VictorTaelin/OptMem",
-            "stars": 280,
-            "forks": 14,
-            "score": 72
+            "stars": 344,
+            "forks": 19,
+            "score": 82
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "cindy",
+            "full_name": "makecindy/cindy",
+            "description": "Consider it done. The open-source AI agent that works out of the box \u00b7 \u60f3\u5230\uff0c\u5c31\u80fd\u505a\u5230\u3002\u5f00\u6e90\u3001\u5f00\u7bb1\u5373\u7528\u7684 AI Agent\u3002",
+            "url": "https://github.com/makecindy/cindy",
+            "stars": 495,
+            "forks": 56,
+            "score": 81
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "vmodal_sdk_flutter",
+            "full_name": "v-modal/vmodal_sdk_flutter",
+            "description": "V- Modal AI: Search anything anywhere SDK Flutter",
+            "url": "https://github.com/v-modal/vmodal_sdk_flutter",
+            "stars": 1114,
+            "forks": 4,
+            "score": 73
         },
         {
             "main_cat": "AI",
@@ -161,7 +161,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "0xsline/OpenChatCut",
             "description": "Local-first conversational AI video editor with a professional multi-track timeline, Agent Skills, MCP integration, and Remotion-powered rendering.",
             "url": "https://github.com/0xsline/OpenChatCut",
-            "stars": 528,
+            "stars": 532,
             "forks": 55,
             "score": 56
         },
@@ -172,7 +172,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "finna/Finn-loop",
             "description": "The Finn-loop: a 3-skill AI software factory for Claude Code \u2014 spec, build, review. Humans merge.",
             "url": "https://github.com/finna/Finn-loop",
-            "stars": 217,
+            "stars": 219,
             "forks": 34,
             "score": 55
         },
@@ -183,7 +183,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "bytedoger/awesome-OpenPrice",
             "description": "open price ,\u4e00\u4e2a\u5f00\u6e90\u7684\u6536\u5f55\u5168\u7f51\u5361\u7f51\u6e20\u9053\u5404\u79cdAI\u8ba2\u9605\u4ef7\u683c\u7684\u9879\u76ee\u3002\u6253\u7834\u4fe1\u606f\u8327\u623f\uff0c\u4e00\u7ad9\u5f0f\u83b7\u53d6\u5404\u4e2a\u6e20\u9053\u7684 Claude\u3001GPT\u3001gemini \u3001cursor\u4ea7\u54c1\u7684\u6700\u65b0\u4ef7\u683c",
             "url": "https://github.com/bytedoger/awesome-OpenPrice",
-            "stars": 529,
+            "stars": 531,
             "forks": 23,
             "score": 53
         },
@@ -194,7 +194,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "yc-duan/fastctx",
             "description": "Fast, context-efficient repository tools for AI agents (MCP)",
             "url": "https://github.com/yc-duan/fastctx",
-            "stars": 493,
+            "stars": 498,
             "forks": 17,
             "score": 53
         },
@@ -205,8 +205,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "Role1776/netmon",
             "description": "Self-hosted network monitor - hourly speed tests, LAN device counts via ARP scan, and sarcastic AI-generated reports delivered to Telegram or Discord.",
             "url": "https://github.com/Role1776/netmon",
-            "stars": 224,
-            "forks": 33,
+            "stars": 225,
+            "forks": 34,
             "score": 52
         },
         {
@@ -249,7 +249,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "larashero3-dotcom/lieflat-charts",
             "description": "\u9762\u5411 AI Agents \u7684\u5355\u8272\u6570\u636e\u53ef\u89c6\u5316 Skill\uff0c\u5c06\u6570\u636e\u5feb\u901f\u751f\u6210\u7cbe\u81f4\u3001\u53ef\u4ea4\u4e92\u7684 HTML \u56fe\u8868",
             "url": "https://github.com/larashero3-dotcom/lieflat-charts",
-            "stars": 265,
+            "stars": 272,
             "forks": 25,
             "score": 44
         },
@@ -260,7 +260,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "OpenBMB/MiniCPM-Robot",
             "description": "A Smarter and Faster On-Device AI Brain for Robots",
             "url": "https://github.com/OpenBMB/MiniCPM-Robot",
-            "stars": 248,
+            "stars": 249,
             "forks": 16,
             "score": 44
         },
@@ -278,13 +278,13 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "xiaohongshu-ai-workbench",
-            "full_name": "nihe0909/xiaohongshu-ai-workbench",
-            "description": "\u300a\u5c0f\u7ea2\u4e66\u8fd0\u8425\u624b\u518c \u00b7 AI\u5de5\u4f5c\u53f0\u300b: free Codex Skills for Xiaohongshu operations",
-            "url": "https://github.com/nihe0909/xiaohongshu-ai-workbench",
-            "stars": 280,
-            "forks": 23,
-            "score": 41
+            "name": "BossConsole",
+            "full_name": "risa-labs-inc/BossConsole",
+            "description": "Open-source, multi-platform harness for AI agents \u2014 a native, multi-threaded operator's console (JVM, not Electron) to run Claude Code, Codex, Gemini or OpenCode with a real browser, terminal, editor, secrets & 100+ MCP tools. Built for enterprises, science & research.",
+            "url": "https://github.com/risa-labs-inc/BossConsole",
+            "stars": 199,
+            "forks": 5,
+            "score": 42
         },
         {
             "main_cat": "AI",
@@ -304,7 +304,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "rollingSirius/equity-research-skill",
             "description": "\u53ef\u80fd\u662f\u6700\u6df1\u5ea6\u7684 AI \u6295\u7814\u62a5\u544a Skill\uff1a\u4e5d\u7ae0\u4e2a\u80a1\u6df1\u7814 + \u4e5d\u7ae0\u8d22\u62a5\u6df1\u5ea6\u5206\u6790\uff0c\u811a\u672c\u5316 DCF/EPV \u4e0e\u53ef\u590d\u7b97\u4f30\u503c",
             "url": "https://github.com/rollingSirius/equity-research-skill",
-            "stars": 208,
+            "stars": 210,
             "forks": 33,
             "score": 41
         },
@@ -315,7 +315,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "CodeDrobe/skills",
             "description": "Agent Skills for theming AI desktop apps: reference image \u2192 reversible Codex/WorkBuddy skin \u2192 verify, repair, publish. | \u7ed9 AI \u684c\u9762\u5e94\u7528\u6362\u80a4\u7684 Agent Skills\uff1a\u53c2\u8003\u56fe \u2192 \u53ef\u9006\u76ae\u80a4 \u2192 \u9a8c\u8bc1\u3001\u4fee\u590d\u3001\u53d1\u5e03\u3002",
             "url": "https://github.com/CodeDrobe/skills",
-            "stars": 231,
+            "stars": 232,
             "forks": 18,
             "score": 40
         },
@@ -337,19 +337,19 @@ const ALPHA_DATA_V2 = {
             "full_name": "nopnoping/micro-vllm",
             "description": "A small, educational vLLM implementation for exploring LLM inference, scheduling, KV-cache management, and GPU execution.",
             "url": "https://github.com/nopnoping/micro-vllm",
-            "stars": 12,
+            "stars": 13,
             "forks": 0,
             "score": 32
         },
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
-            "name": "babel-agent-os",
-            "full_name": "gjw199513/babel-agent-os",
-            "description": "Babel AgentOS is a local-first platform for building, orchestrating, debugging, and publishing AI applications with models, prompts, knowledge bases, tools, workflows, memory, and Open APIs.Babel AgentOS \u662f\u4e00\u4e2a\u672c\u5730\u4f18\u5148\u7684 AI \u5e94\u7528\u5e73\u53f0\uff0c\u7528\u4e8e\u901a\u8fc7\u6a21\u578b\u3001\u63d0\u793a\u8bcd\u3001\u77e5\u8bc6\u5e93\u3001\u5de5\u5177\u3001\u5de5\u4f5c\u6d41\u3001\u8bb0\u5fc6\u548c\u5f00\u653e API\uff0c\u6784\u5efa\u3001\u7f16\u6392\u3001\u8c03\u8bd5\u5e76\u53d1\u5e03 AI \u5e94\u7528\u3002",
-            "url": "https://github.com/gjw199513/babel-agent-os",
-            "stars": 14,
-            "forks": 7,
+            "name": "MoonTail",
+            "full_name": "ysharmcode/MoonTail",
+            "description": "A distributed inference system that lets people share GPU capacity to run large AI models together like KIMI K3 \u2014 turning a network of individual GPUs into a shared AI supercomputer without requiring a central GPU cluster. \ud83c\udf15\ud83d\ude80",
+            "url": "https://github.com/ysharmcode/MoonTail",
+            "stars": 6,
+            "forks": 0,
             "score": 31
         },
         {
@@ -410,17 +410,6 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
-            "name": "polymarket-events-odds-ai-scraper",
-            "full_name": "logiover/polymarket-events-odds-ai-scraper",
-            "description": "Polymarket scraper \u2014 prediction market odds, live sports scores, AI betting analysis & Twitter signals in one run. Export to JSON/CSV. No API key, no wallet.",
-            "url": "https://github.com/logiover/polymarket-events-odds-ai-scraper",
-            "stars": 0,
-            "forks": 0,
-            "score": 30
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
             "name": "ai-sports-intelligence-platform",
             "full_name": "Lifeisforty2/ai-sports-intelligence-platform",
             "description": "An AI-powered sports analytics platform featuring team analytics, prediction models, betting intelligence, and natural language insights.",
@@ -469,6 +458,28 @@ const ALPHA_DATA_V2 = {
             "full_name": "sagarmaru28-collab/Fifa26_prediction-against-market",
             "description": "Fifa 26 world cup ML model prediction vs the bets on polymarket",
             "url": "https://github.com/sagarmaru28-collab/Fifa26_prediction-against-market",
+            "stars": 0,
+            "forks": 0,
+            "score": 30
+        },
+        {
+            "main_cat": "Prediction Markets",
+            "sub_cat": null,
+            "name": "icenomics-open-book",
+            "full_name": "Jcurry44/icenomics-open-book",
+            "description": "Every NHL contract is a bet. We keep the book - settled, in public, with receipts. Pre-registered prediction ledger + settlement engine for the NHL contract market (Icenomics).",
+            "url": "https://github.com/Jcurry44/icenomics-open-book",
+            "stars": 0,
+            "forks": 0,
+            "score": 30
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "final-third",
+            "full_name": "dezcalimese/final-third",
+            "description": "Free, no-stakes World Cup prediction game powered by the TxLINE live scores feed. Players call attack or defense during real-time danger phases, graded instantly against verified match data. Built with Next.js, Express SSE relay, and Solana wallet identity. No betting, no stakes \u2014 just bragging rights and streak leaderboards.",
+            "url": "https://github.com/dezcalimese/final-third",
             "stars": 0,
             "forks": 0,
             "score": 30
@@ -562,17 +573,6 @@ const ALPHA_DATA_V2 = {
             "score": 30
         },
         {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "Trustlink-Research",
-            "full_name": "Trustlink-Labs/Trustlink-Research",
-            "description": "Official research library of TrustLink Labs \u2014 publishing protocol research on blockchain identity, stablecoin settlement, privacy infrastructure, and decentralized payment architecture.",
-            "url": "https://github.com/Trustlink-Labs/Trustlink-Research",
-            "stars": 0,
-            "forks": 0,
-            "score": 30
-        },
-        {
             "main_cat": "Stablecoin Infrastructure",
             "sub_cat": null,
             "name": "solaspay",
@@ -601,17 +601,6 @@ const ALPHA_DATA_V2 = {
             "full_name": "dziuba0x/flario",
             "description": "MCP server for Flare Network: FTSO price feeds, FDC cross-chain attestations, FAssets state, and x402 agent payments with chain-verified receipts. Works with Claude, Cursor, and any Model Context Protocol client.",
             "url": "https://github.com/dziuba0x/flario",
-            "stars": 1,
-            "forks": 0,
-            "score": 30
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "mehsarreza374.github.io",
-            "full_name": "mehsarreza374/mehsarreza374.github.io",
-            "description": "RAI System (v1.0.0) - A next-generation, high-security autonomous AI gateway engineered for absolute privacy and cross-device control. Designed with multi-layered biometric authentication, dynamic intrusion countermeasures, and decentralized automation protocols. \u200bDeveloped & Conceptualized by: Mehsar Reza",
-            "url": "https://github.com/mehsarreza374/mehsarreza374.github.io",
             "stars": 1,
             "forks": 0,
             "score": 30
@@ -685,20 +674,6 @@ const ALPHA_DATA_V2 = {
     ],
     "news": [
         {
-            "title": "Where You Tap Matters: A Probe-and-Model Benchmark for Open-Set RF Fingerprinting",
-            "source": "ArXiv",
-            "type": "Research Alpha",
-            "color": "text-indigo-600",
-            "url": "http://arxiv.org/abs/2607.21564v1"
-        },
-        {
-            "title": "Unconditional Unclonable Encryption",
-            "source": "ArXiv",
-            "type": "Research Alpha",
-            "color": "text-indigo-600",
-            "url": "http://arxiv.org/abs/2607.21551v1"
-        },
-        {
             "title": "Bitcoin volatility remains high ahead of key FED decision.",
             "source": "Polymarket",
             "type": "Expectation",
@@ -706,5 +681,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-07-26 23:54"
+    "timestamp": "2026-07-27 02:21"
 };
