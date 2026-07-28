@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "Vincentwei1021/video-shotcraft",
             "description": "AI video skill for Claude Code & Codex \u2014 cinematic product videos with Remotion: 106 shot recipe cards, 161 motion previews, a production-ready template",
             "url": "https://github.com/Vincentwei1021/video-shotcraft",
-            "stars": 2411,
-            "forks": 206,
+            "stars": 2438,
+            "forks": 211,
             "score": 99
         },
         {
@@ -18,8 +18,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "Jakubantalik/thinking-orbs",
             "description": "Dotted thought-orb loading indicators for AI & agent UIs \u2014 six tuned states, two sizes, auto dark/light",
             "url": "https://github.com/Jakubantalik/thinking-orbs",
-            "stars": 1186,
-            "forks": 87,
+            "stars": 1192,
+            "forks": 88,
             "score": 99
         },
         {
@@ -29,7 +29,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "mikiarlo3/ai-copywriter",
             "description": "An AI copywriter that uses real copywriting skills + real marketing knowledge with human tone.",
             "url": "https://github.com/mikiarlo3/ai-copywriter",
-            "stars": 965,
+            "stars": 974,
             "forks": 19,
             "score": 99
         },
@@ -40,8 +40,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "makecindy/cindy",
             "description": "Consider it done. The open-source AI agent that works out of the box \u00b7 \u60f3\u5230\uff0c\u5c31\u80fd\u505a\u5230\u3002\u5f00\u6e90\u3001\u5f00\u7bb1\u5373\u7528\u7684 AI Agent\u3002",
             "url": "https://github.com/makecindy/cindy",
-            "stars": 948,
-            "forks": 118,
+            "stars": 961,
+            "forks": 120,
             "score": 99
         },
         {
@@ -51,8 +51,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "VictorTaelin/OptMem",
             "description": "Permanent memory for AI agents. A 426-token prompt, a script, plug and play.",
             "url": "https://github.com/VictorTaelin/OptMem",
-            "stars": 687,
-            "forks": 36,
+            "stars": 717,
+            "forks": 37,
             "score": 99
         },
         {
@@ -62,8 +62,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "Blaizzy/nativ",
             "description": "Local AI, native to your Mac. Chat, serve, monitor, and connect MLX models from one macOS app.",
             "url": "https://github.com/Blaizzy/nativ",
-            "stars": 978,
-            "forks": 56,
+            "stars": 985,
+            "forks": 57,
             "score": 90
         },
         {
@@ -73,9 +73,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "Blueturboguy07/cue",
             "description": "Open-source macOS AI copilot that floats over your screen, sees/hears your meetings, and stays hidden from screen shares. Cluely alternative, bring-your-own-key.",
             "url": "https://github.com/Blueturboguy07/cue",
-            "stars": 849,
-            "forks": 184,
-            "score": 82
+            "stars": 858,
+            "forks": 186,
+            "score": 83
         },
         {
             "main_cat": "AI",
@@ -84,7 +84,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "pireel/pireel",
             "description": "Open-source, backend-free AI video editor for talking-head video \u2014 storyboarding, designed graphics, kinetic captions, themes and in-browser WebCodecs export. Drivable by any AI agent over MCP.",
             "url": "https://github.com/pireel/pireel",
-            "stars": 801,
+            "stars": 803,
             "forks": 67,
             "score": 78
         },
@@ -95,9 +95,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "v-modal/vmodal_sdk_flutter",
             "description": "V- Modal AI: Search anything anywhere SDK Flutter",
             "url": "https://github.com/v-modal/vmodal_sdk_flutter",
-            "stars": 1168,
+            "stars": 1175,
             "forks": 4,
-            "score": 72
+            "score": 69
         },
         {
             "main_cat": "AI",
@@ -106,7 +106,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Kritt-ai/open-kritt",
             "description": "Orchestrate AI agents to find real vulnerabilities in code.",
             "url": "https://github.com/Kritt-ai/open-kritt",
-            "stars": 434,
+            "stars": 436,
             "forks": 88,
             "score": 69
         },
@@ -117,20 +117,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "TryCaspian/caspian-sdk",
             "description": "Agent communication SDK. The open-source agent communication layer for AI agents \u2014 email, WhatsApp, Slack, Discord, Telegram, SMS. Python & TypeScript.",
             "url": "https://github.com/TryCaspian/caspian-sdk",
-            "stars": 274,
-            "forks": 123,
-            "score": 64
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "klaatcode",
-            "full_name": "KlaatAI/klaatcode",
-            "description": "Open-source AI coding agent for the terminal. Claude Code-grade accuracy with smart model routing \u2014 uses the right AI model for each task, cutting costs 10x. Supports Claude, GPT, Gemini, DeepSeek & more.",
-            "url": "https://github.com/KlaatAI/klaatcode",
-            "stars": 333,
-            "forks": 129,
-            "score": 62
+            "stars": 275,
+            "forks": 124,
+            "score": 65
         },
         {
             "main_cat": "AI",
@@ -145,25 +134,25 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "klaatcode",
+            "full_name": "KlaatAI/klaatcode",
+            "description": "Open-source AI coding agent for the terminal. Claude Code-grade accuracy with smart model routing \u2014 uses the right AI model for each task, cutting costs 10x. Supports Claude, GPT, Gemini, DeepSeek & more.",
+            "url": "https://github.com/KlaatAI/klaatcode",
+            "stars": 343,
+            "forks": 132,
+            "score": 61
+        },
+        {
+            "main_cat": "AI",
             "sub_cat": null,
             "name": "open-ai-canvas",
             "full_name": "ddcat-ai/open-ai-canvas",
             "description": "\u9762\u5411 AI \u5f71\u89c6\u521b\u4f5c\u7684\u5f00\u6e90\u65e0\u9650\u753b\u5e03\u5de5\u4f5c\u53f0\uff0c\u96c6\u6210\u591a\u6a21\u6001\u751f\u6210\u3001\u5206\u955c\u7f16\u6392\u3001\u7d20\u6750\u7ba1\u7406\u4e0e Agent \u5de5\u4f5c\u6d41\u3002",
             "url": "https://github.com/ddcat-ai/open-ai-canvas",
-            "stars": 275,
-            "forks": 65,
-            "score": 59
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "OpenChatCut",
-            "full_name": "0xsline/OpenChatCut",
-            "description": "Local-first conversational AI video editor with a professional multi-track timeline, Agent Skills, MCP integration, and Remotion-powered rendering.",
-            "url": "https://github.com/0xsline/OpenChatCut",
-            "stars": 576,
-            "forks": 61,
-            "score": 55
+            "stars": 288,
+            "forks": 69,
+            "score": 61
         },
         {
             "main_cat": "AI",
@@ -172,8 +161,19 @@ const ALPHA_DATA_V2 = {
             "full_name": "MarcosSete/awesome-free-ai-books",
             "description": "A curated list of free, legitimate AI/ML books",
             "url": "https://github.com/MarcosSete/awesome-free-ai-books",
-            "stars": 303,
-            "forks": 25,
+            "stars": 312,
+            "forks": 26,
+            "score": 56
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "OpenChatCut",
+            "full_name": "0xsline/OpenChatCut",
+            "description": "Local-first conversational AI video editor with a professional multi-track timeline, Agent Skills, MCP integration, and Remotion-powered rendering.",
+            "url": "https://github.com/0xsline/OpenChatCut",
+            "stars": 579,
+            "forks": 62,
             "score": 55
         },
         {
@@ -183,7 +183,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "yc-duan/fastctx",
             "description": "Fast, context-efficient repository tools for AI agents (MCP)",
             "url": "https://github.com/yc-duan/fastctx",
-            "stars": 586,
+            "stars": 588,
             "forks": 19,
             "score": 53
         },
@@ -194,7 +194,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "finna/Finn-loop",
             "description": "The Finn-loop: a 3-skill AI software factory for Claude Code \u2014 spec, build, review. Humans merge.",
             "url": "https://github.com/finna/Finn-loop",
-            "stars": 228,
+            "stars": 229,
             "forks": 38,
             "score": 53
         },
@@ -205,7 +205,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "bytedoger/awesome-OpenPrice",
             "description": "open price ,\u4e00\u4e2a\u5f00\u6e90\u7684\u6536\u5f55\u5168\u7f51\u5361\u7f51\u6e20\u9053\u5404\u79cdAI\u8ba2\u9605\u4ef7\u683c\u7684\u9879\u76ee\u3002\u6253\u7834\u4fe1\u606f\u8327\u623f\uff0c\u4e00\u7ad9\u5f0f\u83b7\u53d6\u5404\u4e2a\u6e20\u9053\u7684 Claude\u3001GPT\u3001gemini \u3001cursor\u4ea7\u54c1\u7684\u6700\u65b0\u4ef7\u683c",
             "url": "https://github.com/bytedoger/awesome-OpenPrice",
-            "stars": 564,
+            "stars": 566,
             "forks": 24,
             "score": 52
         },
@@ -216,7 +216,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Role1776/netmon",
             "description": "Self-hosted network monitor - hourly speed tests, LAN device counts via ARP scan, and sarcastic AI-generated reports delivered to Telegram or Discord.",
             "url": "https://github.com/Role1776/netmon",
-            "stars": 244,
+            "stars": 248,
             "forks": 36,
             "score": 51
         },
@@ -249,9 +249,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "larashero3-dotcom/lieflat-charts",
             "description": "\u9762\u5411 AI Agents \u7684\u5355\u8272\u6570\u636e\u53ef\u89c6\u5316 Skill\uff0c\u5c06\u6570\u636e\u5feb\u901f\u751f\u6210\u7cbe\u81f4\u3001\u53ef\u4ea4\u4e92\u7684 HTML \u56fe\u8868",
             "url": "https://github.com/larashero3-dotcom/lieflat-charts",
-            "stars": 332,
+            "stars": 336,
             "forks": 30,
-            "score": 46
+            "score": 45
         },
         {
             "main_cat": "AI",
@@ -282,7 +282,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "0xwilliamortiz/agents-council",
             "description": "Multi-agents collaboration plugin for Claude Code - orchestrate multiple AI agents (Codex CLI, Gemini CLI, etc.) for diverse perspectives",
             "url": "https://github.com/0xwilliamortiz/agents-council",
-            "stars": 206,
+            "stars": 207,
             "forks": 17,
             "score": 43
         },
@@ -293,7 +293,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "zjp1997720/zhijian-skills",
             "description": "Canonical source and governance toolkit for Zhijian AI public Agent Skills",
             "url": "https://github.com/zjp1997720/zhijian-skills",
-            "stars": 238,
+            "stars": 240,
             "forks": 21,
             "score": 41
         },
@@ -304,20 +304,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "risa-labs-inc/BossConsole",
             "description": "Open-source, multi-platform harness for AI agents \u2014 a native, multi-threaded operator's console (JVM, not Electron) to run Claude Code, Codex, Gemini or OpenCode with a real browser, terminal, editor, secrets & 100+ MCP tools. Built for enterprises, science & research.",
             "url": "https://github.com/risa-labs-inc/BossConsole",
-            "stars": 201,
+            "stars": 202,
             "forks": 5,
             "score": 41
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI Agents",
-            "name": "agentsmith",
-            "full_name": "PromptPartner/agentsmith",
-            "description": "Universal, model-agnostic operating harness for AI agents (Claude, Codex, Gemini, \u2026) \u2014 a lean core + work-type profiles assembled by one setup script.",
-            "url": "https://github.com/PromptPartner/agentsmith",
-            "stars": 255,
-            "forks": 11,
-            "score": 40
         },
         {
             "main_cat": "AI",
@@ -329,6 +318,17 @@ const ALPHA_DATA_V2 = {
             "stars": 232,
             "forks": 18,
             "score": 40
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI Agents",
+            "name": "agentsmith",
+            "full_name": "PromptPartner/agentsmith",
+            "description": "Universal, model-agnostic operating harness for AI agents (Claude, Codex, Gemini, \u2026) \u2014 a lean core + work-type profiles assembled by one setup script.",
+            "url": "https://github.com/PromptPartner/agentsmith",
+            "stars": 255,
+            "forks": 11,
+            "score": 39
         },
         {
             "main_cat": "AI",
@@ -348,9 +348,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "cneuralnetwork/smol-kimi-k3",
             "description": "A 49M-parameter Kimi K3-inspired language model trainable on one 8GB GPU",
             "url": "https://github.com/cneuralnetwork/smol-kimi-k3",
-            "stars": 21,
+            "stars": 24,
             "forks": 2,
-            "score": 34
+            "score": 35
         },
         {
             "main_cat": "AI",
@@ -360,6 +360,17 @@ const ALPHA_DATA_V2 = {
             "description": "A distributed inference system that lets people share GPU capacity to run large AI models together like KIMI K3 \u2014 turning a network of individual GPUs into a shared AI supercomputer without requiring a central GPU cluster. \ud83c\udf15\ud83d\ude80",
             "url": "https://github.com/ysharmcode/MoonTail",
             "stars": 6,
+            "forks": 0,
+            "score": 30
+        },
+        {
+            "main_cat": "RWA",
+            "sub_cat": null,
+            "name": "Stellar-Yieldrouter",
+            "full_name": "LumenBud/Stellar-Yieldrouter",
+            "description": "RWA Yield Router is an open-source protocol that automatically moves idle budget and treasury funds into yield-bearing Real World Assets (tokenized T-bills, money-market funds, bonds, etc.) on Stellar \u2014 and pulls them back when liquidity is needed.",
+            "url": "https://github.com/LumenBud/Stellar-Yieldrouter",
+            "stars": 0,
             "forks": 0,
             "score": 30
         },
@@ -651,5 +662,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-07-28 11:10"
+    "timestamp": "2026-07-28 13:48"
 };
