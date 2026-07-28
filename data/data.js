@@ -7,7 +7,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Vincentwei1021/video-shotcraft",
             "description": "AI video skill for Claude Code & Codex \u2014 cinematic product videos with Remotion: 106 shot recipe cards, 161 motion previews, a production-ready template",
             "url": "https://github.com/Vincentwei1021/video-shotcraft",
-            "stars": 2504,
+            "stars": 2506,
             "forks": 215,
             "score": 99
         },
@@ -18,8 +18,19 @@ const ALPHA_DATA_V2 = {
             "full_name": "Jakubantalik/thinking-orbs",
             "description": "Dotted thought-orb loading indicators for AI & agent UIs \u2014 six tuned states, two sizes, auto dark/light",
             "url": "https://github.com/Jakubantalik/thinking-orbs",
-            "stars": 1212,
+            "stars": 1213,
             "forks": 90,
+            "score": 99
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "cindy",
+            "full_name": "makecindy/cindy",
+            "description": "Consider it done. The open-source AI agent that works out of the box \u00b7 \u60f3\u5230\uff0c\u5c31\u80fd\u505a\u5230\u3002\u5f00\u6e90\u3001\u5f00\u7bb1\u5373\u7528\u7684 AI Agent\u3002",
+            "url": "https://github.com/makecindy/cindy",
+            "stars": 990,
+            "forks": 123,
             "score": 99
         },
         {
@@ -35,23 +46,12 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
-            "sub_cat": null,
-            "name": "cindy",
-            "full_name": "makecindy/cindy",
-            "description": "Consider it done. The open-source AI agent that works out of the box \u00b7 \u60f3\u5230\uff0c\u5c31\u80fd\u505a\u5230\u3002\u5f00\u6e90\u3001\u5f00\u7bb1\u5373\u7528\u7684 AI Agent\u3002",
-            "url": "https://github.com/makecindy/cindy",
-            "stars": 989,
-            "forks": 123,
-            "score": 99
-        },
-        {
-            "main_cat": "AI",
             "sub_cat": "AI Agents",
             "name": "OptMem",
             "full_name": "VictorTaelin/OptMem",
             "description": "Permanent memory for AI agents. A 426-token prompt, a script, plug and play.",
             "url": "https://github.com/VictorTaelin/OptMem",
-            "stars": 786,
+            "stars": 794,
             "forks": 48,
             "score": 99
         },
@@ -62,8 +62,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "0xwilliamortiz/ponytail-improved",
             "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
             "url": "https://github.com/0xwilliamortiz/ponytail-improved",
-            "stars": 330,
-            "forks": 50,
+            "stars": 373,
+            "forks": 55,
             "score": 99
         },
         {
@@ -73,7 +73,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Blaizzy/nativ",
             "description": "Local AI, native to your Mac. Chat, serve, monitor, and connect MLX models from one macOS app.",
             "url": "https://github.com/Blaizzy/nativ",
-            "stars": 1003,
+            "stars": 1005,
             "forks": 58,
             "score": 86
         },
@@ -84,9 +84,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "Blueturboguy07/cue",
             "description": "Open-source macOS AI copilot that floats over your screen, sees/hears your meetings, and stays hidden from screen shares. Cluely alternative, bring-your-own-key.",
             "url": "https://github.com/Blueturboguy07/cue",
-            "stars": 870,
+            "stars": 871,
             "forks": 187,
-            "score": 83
+            "score": 80
         },
         {
             "main_cat": "AI",
@@ -106,7 +106,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "v-modal/vmodal_sdk_flutter",
             "description": "V- Modal AI: Search anything anywhere SDK Flutter",
             "url": "https://github.com/v-modal/vmodal_sdk_flutter",
-            "stars": 1187,
+            "stars": 1189,
             "forks": 4,
             "score": 70
         },
@@ -172,9 +172,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "0xsline/OpenChatCut",
             "description": "Open-source, local-first conversational AI video editor with a professional multi-track timeline, Agent Skills, MCP integration, and Remotion rendering.",
             "url": "https://github.com/0xsline/OpenChatCut",
-            "stars": 583,
+            "stars": 585,
             "forks": 62,
-            "score": 55
+            "score": 56
         },
         {
             "main_cat": "AI",
@@ -194,7 +194,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "MarcosSete/awesome-free-ai-books",
             "description": "A curated list of free, legitimate AI/ML books",
             "url": "https://github.com/MarcosSete/awesome-free-ai-books",
-            "stars": 332,
+            "stars": 334,
             "forks": 28,
             "score": 54
         },
@@ -227,7 +227,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Role1776/netmon",
             "description": "Self-hosted network monitor - hourly speed tests, LAN device counts via ARP scan, and sarcastic AI-generated reports delivered to Telegram or Discord.",
             "url": "https://github.com/Role1776/netmon",
-            "stars": 255,
+            "stars": 256,
             "forks": 37,
             "score": 50
         },
@@ -240,7 +240,7 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/eli-labz/Agent-Execution-Partnership",
             "stars": 203,
             "forks": 51,
-            "score": 50
+            "score": 48
         },
         {
             "main_cat": "AI",
@@ -289,24 +289,24 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
+            "name": "zhijian-skills",
+            "full_name": "zjp1997720/zhijian-skills",
+            "description": "Canonical source and governance toolkit for Zhijian AI public Agent Skills",
+            "url": "https://github.com/zjp1997720/zhijian-skills",
+            "stars": 248,
+            "forks": 22,
+            "score": 42
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
             "name": "agents-council",
             "full_name": "0xwilliamortiz/agents-council",
             "description": "Multi-agents collaboration plugin for Claude Code - orchestrate multiple AI agents (Codex CLI, Gemini CLI, etc.) for diverse perspectives",
             "url": "https://github.com/0xwilliamortiz/agents-council",
             "stars": 207,
             "forks": 18,
-            "score": 43
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "zhijian-skills",
-            "full_name": "zjp1997720/zhijian-skills",
-            "description": "Canonical source and governance toolkit for Zhijian AI public Agent Skills",
-            "url": "https://github.com/zjp1997720/zhijian-skills",
-            "stars": 247,
-            "forks": 21,
-            "score": 41
+            "score": 42
         },
         {
             "main_cat": "AI",
@@ -348,7 +348,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "cneuralnetwork/smol-kimi-k3",
             "description": "A 49M-parameter Kimi K3-inspired language model trainable on one 8GB GPU",
             "url": "https://github.com/cneuralnetwork/smol-kimi-k3",
-            "stars": 43,
+            "stars": 46,
             "forks": 2,
             "score": 36
         },
@@ -673,5 +673,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-07-28 21:57"
+    "timestamp": "2026-07-28 22:56"
 };
