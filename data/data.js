@@ -7,7 +7,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Vincentwei1021/video-shotcraft",
             "description": "AI video skill for Claude Code & Codex \u2014 cinematic product videos with Remotion: 106 shot recipe cards, 161 motion previews, a production-ready template",
             "url": "https://github.com/Vincentwei1021/video-shotcraft",
-            "stars": 2500,
+            "stars": 2504,
             "forks": 215,
             "score": 99
         },
@@ -18,19 +18,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "Jakubantalik/thinking-orbs",
             "description": "Dotted thought-orb loading indicators for AI & agent UIs \u2014 six tuned states, two sizes, auto dark/light",
             "url": "https://github.com/Jakubantalik/thinking-orbs",
-            "stars": 1211,
+            "stars": 1212,
             "forks": 90,
-            "score": 99
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "cindy",
-            "full_name": "makecindy/cindy",
-            "description": "Consider it done. The open-source AI agent that works out of the box \u00b7 \u60f3\u5230\uff0c\u5c31\u80fd\u505a\u5230\u3002\u5f00\u6e90\u3001\u5f00\u7bb1\u5373\u7528\u7684 AI Agent\u3002",
-            "url": "https://github.com/makecindy/cindy",
-            "stars": 988,
-            "forks": 123,
             "score": 99
         },
         {
@@ -40,8 +29,19 @@ const ALPHA_DATA_V2 = {
             "full_name": "mikiarlo3/ai-copywriter",
             "description": "An AI copywriter that uses real copywriting skills + real marketing knowledge with human tone.",
             "url": "https://github.com/mikiarlo3/ai-copywriter",
-            "stars": 986,
+            "stars": 990,
             "forks": 19,
+            "score": 99
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "cindy",
+            "full_name": "makecindy/cindy",
+            "description": "Consider it done. The open-source AI agent that works out of the box \u00b7 \u60f3\u5230\uff0c\u5c31\u80fd\u505a\u5230\u3002\u5f00\u6e90\u3001\u5f00\u7bb1\u5373\u7528\u7684 AI Agent\u3002",
+            "url": "https://github.com/makecindy/cindy",
+            "stars": 989,
+            "forks": 123,
             "score": 99
         },
         {
@@ -51,7 +51,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "VictorTaelin/OptMem",
             "description": "Permanent memory for AI agents. A 426-token prompt, a script, plug and play.",
             "url": "https://github.com/VictorTaelin/OptMem",
-            "stars": 774,
+            "stars": 786,
             "forks": 48,
             "score": 99
         },
@@ -62,9 +62,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "0xwilliamortiz/ponytail-improved",
             "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
             "url": "https://github.com/0xwilliamortiz/ponytail-improved",
-            "stars": 257,
-            "forks": 36,
-            "score": 96
+            "stars": 330,
+            "forks": 50,
+            "score": 99
         },
         {
             "main_cat": "AI",
@@ -73,7 +73,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Blaizzy/nativ",
             "description": "Local AI, native to your Mac. Chat, serve, monitor, and connect MLX models from one macOS app.",
             "url": "https://github.com/Blaizzy/nativ",
-            "stars": 1002,
+            "stars": 1003,
             "forks": 58,
             "score": 86
         },
@@ -84,8 +84,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "Blueturboguy07/cue",
             "description": "Open-source macOS AI copilot that floats over your screen, sees/hears your meetings, and stays hidden from screen shares. Cluely alternative, bring-your-own-key.",
             "url": "https://github.com/Blueturboguy07/cue",
-            "stars": 866,
-            "forks": 186,
+            "stars": 870,
+            "forks": 187,
             "score": 83
         },
         {
@@ -106,7 +106,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "v-modal/vmodal_sdk_flutter",
             "description": "V- Modal AI: Search anything anywhere SDK Flutter",
             "url": "https://github.com/v-modal/vmodal_sdk_flutter",
-            "stars": 1184,
+            "stars": 1187,
             "forks": 4,
             "score": 70
         },
@@ -119,7 +119,7 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/Kritt-ai/open-kritt",
             "stars": 437,
             "forks": 88,
-            "score": 69
+            "score": 65
         },
         {
             "main_cat": "AI",
@@ -128,7 +128,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "TryCaspian/caspian-sdk",
             "description": "Agent communication SDK. The open-source agent communication layer for AI agents \u2014 email, WhatsApp, Slack, Discord, Telegram, SMS. Python & TypeScript.",
             "url": "https://github.com/TryCaspian/caspian-sdk",
-            "stars": 283,
+            "stars": 284,
             "forks": 124,
             "score": 65
         },
@@ -161,29 +161,18 @@ const ALPHA_DATA_V2 = {
             "full_name": "smixs/pohuy",
             "description": "\u0420\u0435\u0436\u0438\u043c \u0438\u0434\u0438\u043e\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u043e\u0433\u043e \u0440\u0443\u0441\u0441\u043a\u043e\u0433\u043e \u043c\u0430\u0442\u0430 \u0434\u043b\u044f AI-\u0430\u0433\u0435\u043d\u0442\u043e\u0432. \u041a\u043e\u0440\u043e\u0447\u0435, \u0434\u0443\u0448\u0435\u0432\u043d\u0435\u0435, \u044d\u0444\u0444\u0435\u043a\u0442\u0438\u0432\u043d\u0435\u0435. 18+",
             "url": "https://github.com/smixs/pohuy",
-            "stars": 762,
+            "stars": 764,
             "forks": 14,
             "score": 59
         },
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "awesome-free-ai-books",
-            "full_name": "MarcosSete/awesome-free-ai-books",
-            "description": "A curated list of free, legitimate AI/ML books",
-            "url": "https://github.com/MarcosSete/awesome-free-ai-books",
-            "stars": 328,
-            "forks": 27,
-            "score": 57
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
             "name": "OpenChatCut",
             "full_name": "0xsline/OpenChatCut",
-            "description": "Local-first conversational AI video editor with a professional multi-track timeline, Agent Skills, MCP integration, and Remotion-powered rendering.",
+            "description": "Open-source, local-first conversational AI video editor with a professional multi-track timeline, Agent Skills, MCP integration, and Remotion rendering.",
             "url": "https://github.com/0xsline/OpenChatCut",
-            "stars": 582,
+            "stars": 583,
             "forks": 62,
             "score": 55
         },
@@ -194,8 +183,19 @@ const ALPHA_DATA_V2 = {
             "full_name": "yc-duan/fastctx",
             "description": "Fast, context-efficient repository tools for AI agents (MCP)",
             "url": "https://github.com/yc-duan/fastctx",
-            "stars": 595,
+            "stars": 596,
             "forks": 21,
+            "score": 54
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "awesome-free-ai-books",
+            "full_name": "MarcosSete/awesome-free-ai-books",
+            "description": "A curated list of free, legitimate AI/ML books",
+            "url": "https://github.com/MarcosSete/awesome-free-ai-books",
+            "stars": 332,
+            "forks": 28,
             "score": 54
         },
         {
@@ -212,24 +212,24 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "netmon",
-            "full_name": "Role1776/netmon",
-            "description": "Self-hosted network monitor - hourly speed tests, LAN device counts via ARP scan, and sarcastic AI-generated reports delivered to Telegram or Discord.",
-            "url": "https://github.com/Role1776/netmon",
-            "stars": 254,
-            "forks": 37,
-            "score": 52
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
             "name": "Finn-loop",
             "full_name": "finna/Finn-loop",
             "description": "The Finn-loop: a 3-skill AI software factory for Claude Code \u2014 spec, build, review. Humans merge.",
             "url": "https://github.com/finna/Finn-loop",
-            "stars": 230,
+            "stars": 231,
             "forks": 39,
             "score": 51
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "netmon",
+            "full_name": "Role1776/netmon",
+            "description": "Self-hosted network monitor - hourly speed tests, LAN device counts via ARP scan, and sarcastic AI-generated reports delivered to Telegram or Discord.",
+            "url": "https://github.com/Role1776/netmon",
+            "stars": 255,
+            "forks": 37,
+            "score": 50
         },
         {
             "main_cat": "AI",
@@ -310,17 +310,6 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
-            "sub_cat": null,
-            "name": "skills",
-            "full_name": "CodeDrobe/skills",
-            "description": "Agent Skills for theming AI desktop apps: reference image \u2192 reversible Codex/WorkBuddy skin \u2192 verify, repair, publish. | \u7ed9 AI \u684c\u9762\u5e94\u7528\u6362\u80a4\u7684 Agent Skills\uff1a\u53c2\u8003\u56fe \u2192 \u53ef\u9006\u76ae\u80a4 \u2192 \u9a8c\u8bc1\u3001\u4fee\u590d\u3001\u53d1\u5e03\u3002",
-            "url": "https://github.com/CodeDrobe/skills",
-            "stars": 232,
-            "forks": 18,
-            "score": 40
-        },
-        {
-            "main_cat": "AI",
             "sub_cat": "AI Agents",
             "name": "agentsmith",
             "full_name": "PromptPartner/agentsmith",
@@ -328,6 +317,17 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/PromptPartner/agentsmith",
             "stars": 255,
             "forks": 11,
+            "score": 39
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "skills",
+            "full_name": "CodeDrobe/skills",
+            "description": "Agent Skills for theming AI desktop apps: reference image \u2192 reversible Codex/WorkBuddy skin \u2192 verify, repair, publish. | \u7ed9 AI \u684c\u9762\u5e94\u7528\u6362\u80a4\u7684 Agent Skills\uff1a\u53c2\u8003\u56fe \u2192 \u53ef\u9006\u76ae\u80a4 \u2192 \u9a8c\u8bc1\u3001\u4fee\u590d\u3001\u53d1\u5e03\u3002",
+            "url": "https://github.com/CodeDrobe/skills",
+            "stars": 232,
+            "forks": 18,
             "score": 39
         },
         {
@@ -348,9 +348,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "cneuralnetwork/smol-kimi-k3",
             "description": "A 49M-parameter Kimi K3-inspired language model trainable on one 8GB GPU",
             "url": "https://github.com/cneuralnetwork/smol-kimi-k3",
-            "stars": 37,
+            "stars": 43,
             "forks": 2,
-            "score": 35
+            "score": 36
         },
         {
             "main_cat": "AI",
@@ -673,5 +673,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-07-28 20:11"
+    "timestamp": "2026-07-28 21:57"
 };
