@@ -7,7 +7,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Vincentwei1021/video-shotcraft",
             "description": "AI video skill for Claude Code & Codex \u2014 cinematic product videos with Remotion: 106 shot recipe cards, 161 motion previews, a production-ready template",
             "url": "https://github.com/Vincentwei1021/video-shotcraft",
-            "stars": 2506,
+            "stars": 2511,
             "forks": 215,
             "score": 99
         },
@@ -18,8 +18,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "Jakubantalik/thinking-orbs",
             "description": "Dotted thought-orb loading indicators for AI & agent UIs \u2014 six tuned states, two sizes, auto dark/light",
             "url": "https://github.com/Jakubantalik/thinking-orbs",
-            "stars": 1213,
-            "forks": 90,
+            "stars": 1215,
+            "forks": 91,
             "score": 99
         },
         {
@@ -29,7 +29,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "makecindy/cindy",
             "description": "Consider it done. The open-source AI agent that works out of the box \u00b7 \u60f3\u5230\uff0c\u5c31\u80fd\u505a\u5230\u3002\u5f00\u6e90\u3001\u5f00\u7bb1\u5373\u7528\u7684 AI Agent\u3002",
             "url": "https://github.com/makecindy/cindy",
-            "stars": 990,
+            "stars": 992,
             "forks": 123,
             "score": 99
         },
@@ -40,7 +40,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "mikiarlo3/ai-copywriter",
             "description": "An AI copywriter that uses real copywriting skills + real marketing knowledge with human tone.",
             "url": "https://github.com/mikiarlo3/ai-copywriter",
-            "stars": 990,
+            "stars": 991,
             "forks": 19,
             "score": 99
         },
@@ -51,7 +51,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "VictorTaelin/OptMem",
             "description": "Permanent memory for AI agents. A 426-token prompt, a script, plug and play.",
             "url": "https://github.com/VictorTaelin/OptMem",
-            "stars": 794,
+            "stars": 796,
             "forks": 48,
             "score": 99
         },
@@ -62,8 +62,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "0xwilliamortiz/ponytail-improved",
             "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
             "url": "https://github.com/0xwilliamortiz/ponytail-improved",
-            "stars": 373,
-            "forks": 55,
+            "stars": 412,
+            "forks": 61,
             "score": 99
         },
         {
@@ -73,7 +73,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Blaizzy/nativ",
             "description": "Local AI, native to your Mac. Chat, serve, monitor, and connect MLX models from one macOS app.",
             "url": "https://github.com/Blaizzy/nativ",
-            "stars": 1005,
+            "stars": 1006,
             "forks": 58,
             "score": 86
         },
@@ -84,7 +84,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Blueturboguy07/cue",
             "description": "Open-source macOS AI copilot that floats over your screen, sees/hears your meetings, and stays hidden from screen shares. Cluely alternative, bring-your-own-key.",
             "url": "https://github.com/Blueturboguy07/cue",
-            "stars": 871,
+            "stars": 873,
             "forks": 187,
             "score": 80
         },
@@ -95,7 +95,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "pireel/pireel",
             "description": "Open-source, backend-free AI video editor for talking-head video \u2014 storyboarding, designed graphics, kinetic captions, themes and in-browser WebCodecs export. Drivable by any AI agent over MCP.",
             "url": "https://github.com/pireel/pireel",
-            "stars": 805,
+            "stars": 806,
             "forks": 67,
             "score": 78
         },
@@ -106,7 +106,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "v-modal/vmodal_sdk_flutter",
             "description": "V- Modal AI: Search anything anywhere SDK Flutter",
             "url": "https://github.com/v-modal/vmodal_sdk_flutter",
-            "stars": 1189,
+            "stars": 1190,
             "forks": 4,
             "score": 70
         },
@@ -117,9 +117,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "Kritt-ai/open-kritt",
             "description": "Orchestrate AI agents to find real vulnerabilities in code.",
             "url": "https://github.com/Kritt-ai/open-kritt",
-            "stars": 437,
-            "forks": 88,
-            "score": 65
+            "stars": 438,
+            "forks": 90,
+            "score": 66
         },
         {
             "main_cat": "AI",
@@ -139,7 +139,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "ddcat-ai/open-ai-canvas",
             "description": "\u9762\u5411 AI \u5f71\u89c6\u521b\u4f5c\u7684\u5f00\u6e90\u65e0\u9650\u753b\u5e03\u5de5\u4f5c\u53f0\uff0c\u96c6\u6210\u591a\u6a21\u6001\u751f\u6210\u3001\u5206\u955c\u7f16\u6392\u3001\u7d20\u6750\u7ba1\u7406\u4e0e Agent \u5de5\u4f5c\u6d41\u3002",
             "url": "https://github.com/ddcat-ai/open-ai-canvas",
-            "stars": 296,
+            "stars": 297,
             "forks": 71,
             "score": 62
         },
@@ -194,7 +194,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "MarcosSete/awesome-free-ai-books",
             "description": "A curated list of free, legitimate AI/ML books",
             "url": "https://github.com/MarcosSete/awesome-free-ai-books",
-            "stars": 334,
+            "stars": 335,
             "forks": 28,
             "score": 54
         },
@@ -260,7 +260,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "larashero3-dotcom/lieflat-charts",
             "description": "\u9762\u5411 AI Agents \u7684\u5355\u8272\u6570\u636e\u53ef\u89c6\u5316 Skill\uff0c\u5c06\u6570\u636e\u5feb\u901f\u751f\u6210\u7cbe\u81f4\u3001\u53ef\u4ea4\u4e92\u7684 HTML \u56fe\u8868",
             "url": "https://github.com/larashero3-dotcom/lieflat-charts",
-            "stars": 345,
+            "stars": 346,
             "forks": 30,
             "score": 45
         },
@@ -333,23 +333,23 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
+            "name": "smol-kimi-k3",
+            "full_name": "cneuralnetwork/smol-kimi-k3",
+            "description": "A 49M-parameter Kimi K3-inspired language model trainable on one 8GB GPU",
+            "url": "https://github.com/cneuralnetwork/smol-kimi-k3",
+            "stars": 48,
+            "forks": 3,
+            "score": 37
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
             "name": "micro-vllm",
             "full_name": "nopnoping/micro-vllm",
             "description": "A small, educational vLLM implementation for exploring LLM inference, scheduling, KV-cache management, and GPU execution.",
             "url": "https://github.com/nopnoping/micro-vllm",
             "stars": 62,
             "forks": 1,
-            "score": 36
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "smol-kimi-k3",
-            "full_name": "cneuralnetwork/smol-kimi-k3",
-            "description": "A 49M-parameter Kimi K3-inspired language model trainable on one 8GB GPU",
-            "url": "https://github.com/cneuralnetwork/smol-kimi-k3",
-            "stars": 46,
-            "forks": 2,
             "score": 36
         },
         {
@@ -673,5 +673,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-07-28 22:56"
+    "timestamp": "2026-07-28 23:55"
 };
