@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "Vincentwei1021/video-shotcraft",
             "description": "AI video skill for Claude Code & Codex \u2014 cinematic product videos with Remotion: 106 shot recipe cards, 161 motion previews, a production-ready template",
             "url": "https://github.com/Vincentwei1021/video-shotcraft",
-            "stars": 2705,
-            "forks": 232,
+            "stars": 2713,
+            "forks": 231,
             "score": 99
         },
         {
@@ -18,7 +18,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Jakubantalik/thinking-orbs",
             "description": "Dotted thought-orb loading indicators for AI & agent UIs \u2014 six tuned states, two sizes, auto dark/light",
             "url": "https://github.com/Jakubantalik/thinking-orbs",
-            "stars": 1241,
+            "stars": 1243,
             "forks": 96,
             "score": 99
         },
@@ -29,7 +29,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "makecindy/cindy",
             "description": "Consider it done. The open-source AI agent that works out of the box \u00b7 \u60f3\u5230\uff0c\u5c31\u80fd\u505a\u5230\u3002\u5f00\u6e90\u3001\u5f00\u7bb1\u5373\u7528\u7684 AI Agent\u3002",
             "url": "https://github.com/makecindy/cindy",
-            "stars": 1098,
+            "stars": 1102,
             "forks": 136,
             "score": 99
         },
@@ -40,7 +40,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "mikiarlo3/ai-copywriter",
             "description": "An AI copywriter that uses real copywriting skills + real marketing knowledge with human tone.",
             "url": "https://github.com/mikiarlo3/ai-copywriter",
-            "stars": 1044,
+            "stars": 1046,
             "forks": 23,
             "score": 99
         },
@@ -51,7 +51,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "VictorTaelin/OptMem",
             "description": "Permanent memory for AI agents. A 426-token prompt, a script, plug and play.",
             "url": "https://github.com/VictorTaelin/OptMem",
-            "stars": 868,
+            "stars": 871,
             "forks": 51,
             "score": 99
         },
@@ -84,7 +84,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "pireel/pireel",
             "description": "The open-source alternative to Capcut\u3001ChatCut. Drivable by any AI agent over MCP.",
             "url": "https://github.com/pireel/pireel",
-            "stars": 820,
+            "stars": 821,
             "forks": 70,
             "score": 75
         },
@@ -161,7 +161,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "MarcosSete/awesome-free-ai-books",
             "description": "A curated list of free, legitimate AI/ML books",
             "url": "https://github.com/MarcosSete/awesome-free-ai-books",
-            "stars": 371,
+            "stars": 372,
             "forks": 35,
             "score": 55
         },
@@ -172,7 +172,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "QwenAudio/qwen-audio-agent",
             "description": "A realtime voice runtime that keeps Agents talking, working, and present.  Real-time Voice Runtime for AI Agents",
             "url": "https://github.com/QwenAudio/qwen-audio-agent",
-            "stars": 198,
+            "stars": 200,
             "forks": 12,
             "score": 54
         },
@@ -205,8 +205,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "finna/Finn-loop",
             "description": "The Finn-loop: a 3-skill AI software factory for Claude Code \u2014 spec, build, review. Humans merge.",
             "url": "https://github.com/finna/Finn-loop",
-            "stars": 257,
-            "forks": 43,
+            "stars": 258,
+            "forks": 44,
             "score": 51
         },
         {
@@ -238,7 +238,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "worldwonderer/drama-skills",
             "description": "AI \u77ed\u5267/\u6f2b\u5267\u521b\u4f5c skill \u5408\u96c6\uff0c\u8986\u76d6\u5267\u672c\u3001\u8d44\u4ea7\u3001\u5206\u955c\u3001\u56fe\u7247/\u89c6\u9891\u63d0\u793a\u8bcd\u5230\u72ec\u7acb\u5ba1\u67e5\u5168\u94fe\u8def\uff0c\u9002\u914d Claude Code \u4e0e Codex\u3002| An AI short-drama skill suite for Claude Code & Codex: scripts, assets, storyboards, image/video prompts, and independent review.",
             "url": "https://github.com/worldwonderer/drama-skills",
-            "stars": 219,
+            "stars": 221,
             "forks": 104,
             "score": 49
         },
@@ -249,7 +249,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Role1776/netmon",
             "description": "Self-hosted network monitor - hourly speed tests, LAN device counts via ARP scan, and sarcastic AI-generated reports delivered to Telegram or Discord.",
             "url": "https://github.com/Role1776/netmon",
-            "stars": 263,
+            "stars": 264,
             "forks": 38,
             "score": 48
         },
@@ -304,7 +304,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "zjp1997720/zhijian-skills",
             "description": "Canonical source and governance toolkit for Zhijian AI public Agent Skills",
             "url": "https://github.com/zjp1997720/zhijian-skills",
-            "stars": 261,
+            "stars": 262,
             "forks": 22,
             "score": 41
         },
@@ -348,8 +348,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "cneuralnetwork/smol-kimi-k3",
             "description": "A 49M-parameter Kimi K3-inspired language model trainable on one 8GB GPU",
             "url": "https://github.com/cneuralnetwork/smol-kimi-k3",
-            "stars": 64,
-            "forks": 4,
+            "stars": 65,
+            "forks": 5,
             "score": 38
         },
         {
@@ -673,5 +673,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-07-29 22:55"
+    "timestamp": "2026-07-29 23:56"
 };
