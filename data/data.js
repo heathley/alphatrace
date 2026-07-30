@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "Vincentwei1021/video-shotcraft",
             "description": "AI video skill for Claude Code & Codex \u2014 cinematic product videos with Remotion: 106 shot recipe cards, 161 motion previews, a production-ready template",
             "url": "https://github.com/Vincentwei1021/video-shotcraft",
-            "stars": 2728,
-            "forks": 232,
+            "stars": 2765,
+            "forks": 236,
             "score": 99
         },
         {
@@ -19,7 +19,7 @@ const ALPHA_DATA_V2 = {
             "description": "Dotted thought-orb loading indicators for AI & agent UIs \u2014 six tuned states, two sizes, auto dark/light",
             "url": "https://github.com/Jakubantalik/thinking-orbs",
             "stars": 1243,
-            "forks": 96,
+            "forks": 95,
             "score": 99
         },
         {
@@ -29,8 +29,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "makecindy/cindy",
             "description": "Consider it done. The open-source AI agent that works out of the box \u00b7 \u60f3\u5230\uff0c\u5c31\u80fd\u505a\u5230\u3002\u5f00\u6e90\u3001\u5f00\u7bb1\u5373\u7528\u7684 AI Agent\u3002",
             "url": "https://github.com/makecindy/cindy",
-            "stars": 1111,
-            "forks": 138,
+            "stars": 1128,
+            "forks": 143,
             "score": 99
         },
         {
@@ -40,7 +40,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "mikiarlo3/ai-copywriter",
             "description": "An AI copywriter that uses real copywriting skills + real marketing knowledge with human tone.",
             "url": "https://github.com/mikiarlo3/ai-copywriter",
-            "stars": 1046,
+            "stars": 1049,
             "forks": 23,
             "score": 99
         },
@@ -51,8 +51,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "VictorTaelin/OptMem",
             "description": "Permanent memory for AI agents. A 426-token prompt, a script, plug and play.",
             "url": "https://github.com/VictorTaelin/OptMem",
-            "stars": 877,
-            "forks": 51,
+            "stars": 884,
+            "forks": 53,
             "score": 99
         },
         {
@@ -62,8 +62,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "0xwilliamortiz/ponytail-improved",
             "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
             "url": "https://github.com/0xwilliamortiz/ponytail-improved",
-            "stars": 545,
-            "forks": 121,
+            "stars": 548,
+            "forks": 122,
             "score": 99
         },
         {
@@ -73,7 +73,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Blaizzy/nativ",
             "description": "Local AI, native to your Mac. Chat, serve, monitor, and connect MLX models from one macOS app.",
             "url": "https://github.com/Blaizzy/nativ",
-            "stars": 1025,
+            "stars": 1028,
             "forks": 59,
             "score": 82
         },
@@ -84,7 +84,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "pireel/pireel",
             "description": "The open-source alternative to Capcut\u3001ChatCut. Drivable by any AI agent over MCP.",
             "url": "https://github.com/pireel/pireel",
-            "stars": 822,
+            "stars": 823,
             "forks": 70,
             "score": 75
         },
@@ -95,7 +95,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Kritt-ai/open-kritt",
             "description": "Orchestrate AI agents to find real vulnerabilities in code.",
             "url": "https://github.com/Kritt-ai/open-kritt",
-            "stars": 451,
+            "stars": 453,
             "forks": 93,
             "score": 64
         },
@@ -106,7 +106,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "TryCaspian/caspian-sdk",
             "description": "Agent communication SDK. The open-source agent communication layer for AI agents \u2014 email, WhatsApp, Slack, Discord, Telegram, SMS. Python & TypeScript.",
             "url": "https://github.com/TryCaspian/caspian-sdk",
-            "stars": 312,
+            "stars": 317,
             "forks": 128,
             "score": 64
         },
@@ -117,7 +117,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "ddcat-ai/open-ai-canvas",
             "description": "\u9762\u5411 AI \u5f71\u89c6\u521b\u4f5c\u7684\u5f00\u6e90\u65e0\u9650\u753b\u5e03\u5de5\u4f5c\u53f0\uff0c\u96c6\u6210\u591a\u6a21\u6001\u751f\u6210\u3001\u5206\u955c\u7f16\u6392\u3001\u7d20\u6750\u7ba1\u7406\u4e0e Agent \u5de5\u4f5c\u6d41\u3002",
             "url": "https://github.com/ddcat-ai/open-ai-canvas",
-            "stars": 341,
+            "stars": 343,
             "forks": 83,
             "score": 63
         },
@@ -139,9 +139,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "smixs/pohuy",
             "description": "\u0420\u0435\u0436\u0438\u043c \u0438\u0434\u0438\u043e\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u043e\u0433\u043e \u0440\u0443\u0441\u0441\u043a\u043e\u0433\u043e \u043c\u0430\u0442\u0430 \u0434\u043b\u044f AI-\u0430\u0433\u0435\u043d\u0442\u043e\u0432. \u041a\u043e\u0440\u043e\u0447\u0435, \u0434\u0443\u0448\u0435\u0432\u043d\u0435\u0435, \u044d\u0444\u0444\u0435\u043a\u0442\u0438\u0432\u043d\u0435\u0435. 18+",
             "url": "https://github.com/smixs/pohuy",
-            "stars": 789,
+            "stars": 790,
             "forks": 16,
             "score": 58
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "pub-local-jarvis",
+            "full_name": "LYiHub/pub-local-jarvis",
+            "description": "Windows \u672c\u5730\u591a\u6a21\u6001 AI \u684c\u9762\u684c\u5ba0\uff0c\u652f\u6301\u5c4f\u5e55\u4e0e\u97f3\u9891\u611f\u77e5\u3002",
+            "url": "https://github.com/LYiHub/pub-local-jarvis",
+            "stars": 222,
+            "forks": 49,
+            "score": 56
         },
         {
             "main_cat": "AI",
@@ -150,7 +161,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "MarcosSete/awesome-free-ai-books",
             "description": "A curated list of free, legitimate AI/ML books",
             "url": "https://github.com/MarcosSete/awesome-free-ai-books",
-            "stars": 376,
+            "stars": 377,
             "forks": 35,
             "score": 55
         },
@@ -161,19 +172,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "QwenAudio/qwen-audio-agent",
             "description": "A realtime voice runtime that keeps Agents talking, working, and present.  Real-time Voice Runtime for AI Agents",
             "url": "https://github.com/QwenAudio/qwen-audio-agent",
-            "stars": 209,
-            "forks": 12,
-            "score": 55
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "pub-local-jarvis",
-            "full_name": "LYiHub/pub-local-jarvis",
-            "description": "Windows \u672c\u5730\u591a\u6a21\u6001 AI \u684c\u9762\u684c\u5ba0\uff0c\u652f\u6301\u5c4f\u5e55\u4e0e\u97f3\u9891\u611f\u77e5\u3002",
-            "url": "https://github.com/LYiHub/pub-local-jarvis",
-            "stars": 204,
-            "forks": 46,
+            "stars": 229,
+            "forks": 17,
             "score": 54
         },
         {
@@ -183,9 +183,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "yc-duan/fastctx",
             "description": "Fast, context-efficient repository tools for AI agents (MCP)",
             "url": "https://github.com/yc-duan/fastctx",
-            "stars": 632,
+            "stars": 637,
             "forks": 21,
-            "score": 53
+            "score": 52
         },
         {
             "main_cat": "AI",
@@ -194,7 +194,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "finna/Finn-loop",
             "description": "The Finn-loop: a 3-skill AI software factory for Claude Code \u2014 spec, build, review. Humans merge.",
             "url": "https://github.com/finna/Finn-loop",
-            "stars": 258,
+            "stars": 263,
             "forks": 46,
             "score": 52
         },
@@ -205,9 +205,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "qaml-ai/camelAI",
             "description": "camelAI \u2014 an AI coding assistant platform built on Cloudflare Workers and Durable Objects",
             "url": "https://github.com/qaml-ai/camelAI",
-            "stars": 266,
-            "forks": 16,
-            "score": 50
+            "stars": 274,
+            "forks": 18,
+            "score": 51
         },
         {
             "main_cat": "AI",
@@ -216,7 +216,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Role1776/netmon",
             "description": "Self-hosted network monitor - hourly speed tests, LAN device counts via ARP scan, and sarcastic AI-generated reports delivered to Telegram or Discord.",
             "url": "https://github.com/Role1776/netmon",
-            "stars": 264,
+            "stars": 265,
             "forks": 38,
             "score": 48
         },
@@ -227,7 +227,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "eli-labz/Agent-Execution-Partnership",
             "description": "Agent Execution Partnership AEE is an open-source control plane that ensures every AI agent action is authorized before it runs, observable while it runs, and verifiable after it completes.",
             "url": "https://github.com/eli-labz/Agent-Execution-Partnership",
-            "stars": 204,
+            "stars": 205,
             "forks": 51,
             "score": 47
         },
@@ -260,7 +260,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "zjp1997720/zhijian-skills",
             "description": "Canonical source and governance toolkit for Zhijian AI public Agent Skills",
             "url": "https://github.com/zjp1997720/zhijian-skills",
-            "stars": 262,
+            "stars": 263,
             "forks": 22,
             "score": 40
         },
@@ -278,22 +278,11 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "humanizer-stack",
-            "full_name": "NulightJens/humanizer-stack",
-            "description": "Two-pass pipeline for removing AI writing tells from outward-facing text: a surface pass plus a structural pass grounded in the StoryScope study. Packaged as Claude Code Skills.      Free community: skool.com/jens-ai-community-1306",
-            "url": "https://github.com/NulightJens/humanizer-stack",
-            "stars": 146,
-            "forks": 9,
-            "score": 40
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
             "name": "BossConsole",
             "full_name": "risa-labs-inc/BossConsole",
             "description": "Open-source, multi-platform harness for AI agents \u2014 a native, multi-threaded operator's console (JVM, not Electron) to run Claude Code, Codex, Gemini or OpenCode with a real browser, terminal, editor, secrets & 100+ MCP tools. Built for enterprises, science & research.",
             "url": "https://github.com/risa-labs-inc/BossConsole",
-            "stars": 204,
+            "stars": 205,
             "forks": 6,
             "score": 39
         },
@@ -304,7 +293,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Evokoa/pgContext",
             "description": "A full AI search engine, built into Postgres.",
             "url": "https://github.com/Evokoa/pgContext",
-            "stars": 156,
+            "stars": 159,
             "forks": 11,
             "score": 39
         },
@@ -326,8 +315,19 @@ const ALPHA_DATA_V2 = {
             "full_name": "amirmushichge/cinematic-scroll-prompt-kit",
             "description": "Reusable AI prompt and project brief system for cinematic scroll-driven 2.5D websites.",
             "url": "https://github.com/amirmushichge/cinematic-scroll-prompt-kit",
-            "stars": 174,
+            "stars": 179,
             "forks": 18,
+            "score": 38
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "patent-literature-search-mcp",
+            "full_name": "patsnap/patent-literature-search-mcp",
+            "description": "Search 200M+ patents and scientific literature in natural language directly inside Claude, Cursor, or any MCP-compatible AI tool. Powered by PatSnap's global R&D intelligence database.",
+            "url": "https://github.com/patsnap/patent-literature-search-mcp",
+            "stars": 162,
+            "forks": 5,
             "score": 38
         },
         {
@@ -337,7 +337,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "cneuralnetwork/smol-kimi-k3",
             "description": "A 49M-parameter Kimi K3-inspired language model trainable on one 8GB GPU",
             "url": "https://github.com/cneuralnetwork/smol-kimi-k3",
-            "stars": 67,
+            "stars": 69,
             "forks": 5,
             "score": 38
         },
@@ -348,7 +348,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "ailinone/collective-intelligence",
             "description": "Ailin\u00b9 is an open-source collective intelligence engine where tens of thousands of AI models collaborate through dozens of coordination strategies, applying structured diversity and independent reasoning to improve reliability, auditability, and resilience.",
             "url": "https://github.com/ailinone/collective-intelligence",
-            "stars": 159,
+            "stars": 160,
             "forks": 10,
             "score": 37
         },
@@ -586,6 +586,17 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
+            "name": "token-migration-tool",
+            "full_name": "Kabutoxyz/token-migration-tool",
+            "description": "Migrate tokens between chains. Support for bridge protocols and cross-chain swaps.",
+            "url": "https://github.com/Kabutoxyz/token-migration-tool",
+            "stars": 0,
+            "forks": 0,
+            "score": 30
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
             "name": "Manok",
             "full_name": "Kajimenyeng/Manok",
             "description": "All-in-one Web3 protocol for seamless token swaps, cross-chain bridging, and instant payments on Temix Network.",
@@ -619,6 +630,20 @@ const ALPHA_DATA_V2 = {
     ],
     "news": [
         {
+            "title": "Function Privatization in the Local Model",
+            "source": "ArXiv",
+            "type": "Research Alpha",
+            "color": "text-indigo-600",
+            "url": "http://arxiv.org/abs/2607.27164v1"
+        },
+        {
+            "title": "On-Policy Distillation for LLM Safety: A Routing Approach to Template-Robust Realignment",
+            "source": "ArXiv",
+            "type": "Research Alpha",
+            "color": "text-indigo-600",
+            "url": "http://arxiv.org/abs/2607.27081v1"
+        },
+        {
             "title": "Bitcoin volatility remains high ahead of key FED decision.",
             "source": "Polymarket",
             "type": "Expectation",
@@ -626,5 +651,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-07-30 02:00"
+    "timestamp": "2026-07-30 05:33"
 };
