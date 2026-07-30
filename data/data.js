@@ -7,7 +7,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Vincentwei1021/video-shotcraft",
             "description": "AI video skill for Claude Code & Codex \u2014 cinematic product videos with Remotion: 106 shot recipe cards, 161 motion previews, a production-ready template",
             "url": "https://github.com/Vincentwei1021/video-shotcraft",
-            "stars": 2793,
+            "stars": 2817,
             "forks": 238,
             "score": 99
         },
@@ -18,8 +18,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "makecindy/cindy",
             "description": "Consider it done. The open-source AI agent that works out of the box \u00b7 \u60f3\u5230\uff0c\u5c31\u80fd\u505a\u5230\u3002\u5f00\u6e90\u3001\u5f00\u7bb1\u5373\u7528\u7684 AI Agent\u3002",
             "url": "https://github.com/makecindy/cindy",
-            "stars": 1143,
-            "forks": 145,
+            "stars": 1149,
+            "forks": 147,
             "score": 99
         },
         {
@@ -29,7 +29,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "mikiarlo3/ai-copywriter",
             "description": "An AI copywriter that uses real copywriting skills + real marketing knowledge with human tone.",
             "url": "https://github.com/mikiarlo3/ai-copywriter",
-            "stars": 1052,
+            "stars": 1053,
             "forks": 23,
             "score": 99
         },
@@ -40,7 +40,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "VictorTaelin/OptMem",
             "description": "Permanent memory for AI agents. A 426-token prompt, a script, plug and play.",
             "url": "https://github.com/VictorTaelin/OptMem",
-            "stars": 889,
+            "stars": 897,
             "forks": 53,
             "score": 99
         },
@@ -62,7 +62,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Jakubantalik/thinking-orbs",
             "description": "Dotted thought-orb loading indicators for AI & agent UIs \u2014 six tuned states, two sizes, auto dark/light",
             "url": "https://github.com/Jakubantalik/thinking-orbs",
-            "stars": 1245,
+            "stars": 1248,
             "forks": 95,
             "score": 97
         },
@@ -73,7 +73,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Blaizzy/nativ",
             "description": "Local AI, native to your Mac. Chat, serve, monitor, and connect MLX models from one macOS app.",
             "url": "https://github.com/Blaizzy/nativ",
-            "stars": 1029,
+            "stars": 1031,
             "forks": 59,
             "score": 82
         },
@@ -84,9 +84,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "pireel/pireel",
             "description": "The open-source alternative to Capcut\u3001ChatCut. Drivable by any AI agent over MCP.",
             "url": "https://github.com/pireel/pireel",
-            "stars": 830,
+            "stars": 834,
             "forks": 71,
-            "score": 76
+            "score": 73
         },
         {
             "main_cat": "AI",
@@ -95,7 +95,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Kritt-ai/open-kritt",
             "description": "Orchestrate AI agents to find real vulnerabilities in code.",
             "url": "https://github.com/Kritt-ai/open-kritt",
-            "stars": 454,
+            "stars": 455,
             "forks": 93,
             "score": 64
         },
@@ -106,9 +106,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "TryCaspian/caspian-sdk",
             "description": "Agent communication SDK. The open-source agent communication layer for AI agents \u2014 email, WhatsApp, Slack, Discord, Telegram, SMS. Python & TypeScript.",
             "url": "https://github.com/TryCaspian/caspian-sdk",
-            "stars": 323,
+            "stars": 329,
             "forks": 128,
-            "score": 64
+            "score": 62
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "open-ai-canvas",
+            "full_name": "ddcat-ai/open-ai-canvas",
+            "description": "\u9762\u5411 AI \u5f71\u89c6\u521b\u4f5c\u7684\u5f00\u6e90\u65e0\u9650\u753b\u5e03\u5de5\u4f5c\u53f0\uff0c\u96c6\u6210\u591a\u6a21\u6001\u751f\u6210\u3001\u5206\u955c\u7f16\u6392\u3001\u7d20\u6750\u7ba1\u7406\u4e0e Agent \u5de5\u4f5c\u6d41\u3002",
+            "url": "https://github.com/ddcat-ai/open-ai-canvas",
+            "stars": 347,
+            "forks": 85,
+            "score": 61
         },
         {
             "main_cat": "AI",
@@ -124,22 +135,11 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "open-ai-canvas",
-            "full_name": "ddcat-ai/open-ai-canvas",
-            "description": "\u9762\u5411 AI \u5f71\u89c6\u521b\u4f5c\u7684\u5f00\u6e90\u65e0\u9650\u753b\u5e03\u5de5\u4f5c\u53f0\uff0c\u96c6\u6210\u591a\u6a21\u6001\u751f\u6210\u3001\u5206\u955c\u7f16\u6392\u3001\u7d20\u6750\u7ba1\u7406\u4e0e Agent \u5de5\u4f5c\u6d41\u3002",
-            "url": "https://github.com/ddcat-ai/open-ai-canvas",
-            "stars": 343,
-            "forks": 83,
-            "score": 60
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
             "name": "pohuy",
             "full_name": "smixs/pohuy",
             "description": "\u0420\u0435\u0436\u0438\u043c \u0438\u0434\u0438\u043e\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u043e\u0433\u043e \u0440\u0443\u0441\u0441\u043a\u043e\u0433\u043e \u043c\u0430\u0442\u0430 \u0434\u043b\u044f AI-\u0430\u0433\u0435\u043d\u0442\u043e\u0432. \u041a\u043e\u0440\u043e\u0447\u0435, \u0434\u0443\u0448\u0435\u0432\u043d\u0435\u0435, \u044d\u0444\u0444\u0435\u043a\u0442\u0438\u0432\u043d\u0435\u0435. 18+",
             "url": "https://github.com/smixs/pohuy",
-            "stars": 791,
+            "stars": 797,
             "forks": 16,
             "score": 58
         },
@@ -161,9 +161,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "QwenAudio/qwen-audio-agent",
             "description": "A realtime voice runtime that keeps Agents talking, working, and present.  Real-time Voice Runtime for AI Agents",
             "url": "https://github.com/QwenAudio/qwen-audio-agent",
-            "stars": 240,
-            "forks": 17,
-            "score": 55
+            "stars": 246,
+            "forks": 18,
+            "score": 56
         },
         {
             "main_cat": "AI",
@@ -172,9 +172,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "LYiHub/pub-local-jarvis",
             "description": "Windows \u672c\u5730\u591a\u6a21\u6001 AI \u684c\u9762\u684c\u5ba0\uff0c\u652f\u6301\u5c4f\u5e55\u4e0e\u97f3\u9891\u611f\u77e5\u3002",
             "url": "https://github.com/LYiHub/pub-local-jarvis",
-            "stars": 226,
-            "forks": 50,
-            "score": 53
+            "stars": 238,
+            "forks": 51,
+            "score": 54
         },
         {
             "main_cat": "AI",
@@ -183,19 +183,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "yc-duan/fastctx",
             "description": "Fast, context-efficient repository tools for AI agents (MCP)",
             "url": "https://github.com/yc-duan/fastctx",
-            "stars": 638,
+            "stars": 644,
             "forks": 21,
-            "score": 52
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "Finn-loop",
-            "full_name": "finna/Finn-loop",
-            "description": "The Finn-loop: a 3-skill AI software factory for Claude Code \u2014 spec, build, review. Humans merge.",
-            "url": "https://github.com/finna/Finn-loop",
-            "stars": 265,
-            "forks": 46,
             "score": 52
         },
         {
@@ -205,9 +194,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "qaml-ai/camelAI",
             "description": "camelAI \u2014 an AI coding assistant platform built on Cloudflare Workers and Durable Objects",
             "url": "https://github.com/qaml-ai/camelAI",
-            "stars": 278,
+            "stars": 284,
             "forks": 18,
-            "score": 51
+            "score": 52
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "Finn-loop",
+            "full_name": "finna/Finn-loop",
+            "description": "The Finn-loop: a 3-skill AI software factory for Claude Code \u2014 spec, build, review. Humans merge.",
+            "url": "https://github.com/finna/Finn-loop",
+            "stars": 267,
+            "forks": 46,
+            "score": 52
         },
         {
             "main_cat": "AI",
@@ -238,9 +238,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "codejunkie99/graph-engineering",
             "description": "Graph engineering for AI agents: the 9-stage knowledge-graph pipeline (translated from SEU's graduate course) + task-graph orchestration patterns, as a Claude skill with teaching mode and paste-ready workflows",
             "url": "https://github.com/codejunkie99/graph-engineering",
-            "stars": 175,
+            "stars": 176,
             "forks": 20,
             "score": 44
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "numbat",
+            "full_name": "perplexityai/numbat",
+            "description": "Visibility into AI agent activity on endpoints, with on-device detection, optional pre-action blocking, and forensic reconstruction.",
+            "url": "https://github.com/perplexityai/numbat",
+            "stars": 211,
+            "forks": 10,
+            "score": 43
         },
         {
             "main_cat": "AI",
@@ -249,7 +260,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "OpenBMB/MiniCPM-Robot",
             "description": "A Smarter and Faster On-Device AI Brain for Robots",
             "url": "https://github.com/OpenBMB/MiniCPM-Robot",
-            "stars": 269,
+            "stars": 272,
             "forks": 20,
             "score": 42
         },
@@ -260,19 +271,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "zjp1997720/zhijian-skills",
             "description": "Canonical source and governance toolkit for Zhijian AI public Agent Skills",
             "url": "https://github.com/zjp1997720/zhijian-skills",
-            "stars": 264,
-            "forks": 22,
-            "score": 41
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "numbat",
-            "full_name": "perplexityai/numbat",
-            "description": "Visibility into AI agent activity on endpoints, with on-device detection, optional pre-action blocking, and forensic reconstruction.",
-            "url": "https://github.com/perplexityai/numbat",
-            "stars": 182,
-            "forks": 6,
+            "stars": 265,
+            "forks": 23,
             "score": 41
         },
         {
@@ -304,7 +304,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "nopnoping/micro-vllm",
             "description": "A small, educational vLLM implementation for exploring LLM inference, scheduling, KV-cache management, and GPU execution.",
             "url": "https://github.com/nopnoping/micro-vllm",
-            "stars": 105,
+            "stars": 106,
             "forks": 2,
             "score": 39
         },
@@ -315,7 +315,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "cneuralnetwork/smol-kimi-k3",
             "description": "A 49M-parameter Kimi K3-inspired language model trainable on one 8GB GPU",
             "url": "https://github.com/cneuralnetwork/smol-kimi-k3",
-            "stars": 71,
+            "stars": 72,
             "forks": 5,
             "score": 39
         },
@@ -333,23 +333,23 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
+            "name": "pgContext",
+            "full_name": "Evokoa/pgContext",
+            "description": "A full AI search engine, built into Postgres.",
+            "url": "https://github.com/Evokoa/pgContext",
+            "stars": 160,
+            "forks": 11,
+            "score": 38
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
             "name": "patent-literature-search-mcp",
             "full_name": "patsnap/patent-literature-search-mcp",
             "description": "Search 200M+ patents and scientific literature in natural language directly inside Claude, Cursor, or any MCP-compatible AI tool. Powered by PatSnap's global R&D intelligence database.",
             "url": "https://github.com/patsnap/patent-literature-search-mcp",
-            "stars": 162,
+            "stars": 163,
             "forks": 5,
-            "score": 37
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "collective-intelligence",
-            "full_name": "ailinone/collective-intelligence",
-            "description": "Ailin\u00b9 is an open-source collective intelligence engine where tens of thousands of AI models collaborate through dozens of coordination strategies, applying structured diversity and independent reasoning to improve reliability, auditability, and resilience.",
-            "url": "https://github.com/ailinone/collective-intelligence",
-            "stars": 160,
-            "forks": 10,
             "score": 37
         },
         {
@@ -362,6 +362,17 @@ const ALPHA_DATA_V2 = {
             "stars": 7,
             "forks": 1,
             "score": 31
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "OctoForge",
+            "full_name": "dmirain/OctoForge",
+            "description": "Self-hosted, multi-user agent platform for teams: skills, knowledge and API contracts live in the database and grow at runtime. Typed Python core (Protocol ports) you can embed in your own stack.",
+            "url": "https://github.com/dmirain/OctoForge",
+            "stars": 15,
+            "forks": 0,
+            "score": 30
         },
         {
             "main_cat": "AI",
@@ -651,5 +662,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-07-30 08:12"
+    "timestamp": "2026-07-30 11:00"
 };
