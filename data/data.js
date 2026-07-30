@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "Vincentwei1021/video-shotcraft",
             "description": "AI video skill for Claude Code & Codex \u2014 cinematic product videos with Remotion: 106 shot recipe cards, 161 motion previews, a production-ready template",
             "url": "https://github.com/Vincentwei1021/video-shotcraft",
-            "stars": 2713,
-            "forks": 231,
+            "stars": 2728,
+            "forks": 232,
             "score": 99
         },
         {
@@ -29,8 +29,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "makecindy/cindy",
             "description": "Consider it done. The open-source AI agent that works out of the box \u00b7 \u60f3\u5230\uff0c\u5c31\u80fd\u505a\u5230\u3002\u5f00\u6e90\u3001\u5f00\u7bb1\u5373\u7528\u7684 AI Agent\u3002",
             "url": "https://github.com/makecindy/cindy",
-            "stars": 1102,
-            "forks": 136,
+            "stars": 1111,
+            "forks": 138,
             "score": 99
         },
         {
@@ -51,7 +51,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "VictorTaelin/OptMem",
             "description": "Permanent memory for AI agents. A 426-token prompt, a script, plug and play.",
             "url": "https://github.com/VictorTaelin/OptMem",
-            "stars": 871,
+            "stars": 877,
             "forks": 51,
             "score": 99
         },
@@ -84,20 +84,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "pireel/pireel",
             "description": "The open-source alternative to Capcut\u3001ChatCut. Drivable by any AI agent over MCP.",
             "url": "https://github.com/pireel/pireel",
-            "stars": 821,
+            "stars": 822,
             "forks": 70,
             "score": 75
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "vmodal_sdk_flutter",
-            "full_name": "v-modal/vmodal_sdk_flutter",
-            "description": "V- Modal AI: Search anything anywhere SDK Flutter",
-            "url": "https://github.com/v-modal/vmodal_sdk_flutter",
-            "stars": 1229,
-            "forks": 5,
-            "score": 69
         },
         {
             "main_cat": "AI",
@@ -107,7 +96,7 @@ const ALPHA_DATA_V2 = {
             "description": "Orchestrate AI agents to find real vulnerabilities in code.",
             "url": "https://github.com/Kritt-ai/open-kritt",
             "stars": 451,
-            "forks": 92,
+            "forks": 93,
             "score": 64
         },
         {
@@ -128,9 +117,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "ddcat-ai/open-ai-canvas",
             "description": "\u9762\u5411 AI \u5f71\u89c6\u521b\u4f5c\u7684\u5f00\u6e90\u65e0\u9650\u753b\u5e03\u5de5\u4f5c\u53f0\uff0c\u96c6\u6210\u591a\u6a21\u6001\u751f\u6210\u3001\u5206\u955c\u7f16\u6392\u3001\u7d20\u6750\u7ba1\u7406\u4e0e Agent \u5de5\u4f5c\u6d41\u3002",
             "url": "https://github.com/ddcat-ai/open-ai-canvas",
-            "stars": 328,
-            "forks": 82,
-            "score": 62
+            "stars": 341,
+            "forks": 83,
+            "score": 63
         },
         {
             "main_cat": "AI",
@@ -139,7 +128,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "KlaatAI/klaatcode",
             "description": "Open-source AI coding agent for the terminal. Claude Code-grade accuracy with smart model routing \u2014 uses the right AI model for each task, cutting costs 10x. Supports Claude, GPT, Gemini, DeepSeek & more.",
             "url": "https://github.com/KlaatAI/klaatcode",
-            "stars": 350,
+            "stars": 351,
             "forks": 138,
             "score": 60
         },
@@ -161,7 +150,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "MarcosSete/awesome-free-ai-books",
             "description": "A curated list of free, legitimate AI/ML books",
             "url": "https://github.com/MarcosSete/awesome-free-ai-books",
-            "stars": 372,
+            "stars": 376,
             "forks": 35,
             "score": 55
         },
@@ -172,8 +161,19 @@ const ALPHA_DATA_V2 = {
             "full_name": "QwenAudio/qwen-audio-agent",
             "description": "A realtime voice runtime that keeps Agents talking, working, and present.  Real-time Voice Runtime for AI Agents",
             "url": "https://github.com/QwenAudio/qwen-audio-agent",
-            "stars": 200,
+            "stars": 209,
             "forks": 12,
+            "score": 55
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "pub-local-jarvis",
+            "full_name": "LYiHub/pub-local-jarvis",
+            "description": "Windows \u672c\u5730\u591a\u6a21\u6001 AI \u684c\u9762\u684c\u5ba0\uff0c\u652f\u6301\u5c4f\u5e55\u4e0e\u97f3\u9891\u611f\u77e5\u3002",
+            "url": "https://github.com/LYiHub/pub-local-jarvis",
+            "stars": 204,
+            "forks": 46,
             "score": 54
         },
         {
@@ -183,19 +183,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "yc-duan/fastctx",
             "description": "Fast, context-efficient repository tools for AI agents (MCP)",
             "url": "https://github.com/yc-duan/fastctx",
-            "stars": 631,
+            "stars": 632,
             "forks": 21,
-            "score": 53
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "pub-local-jarvis",
-            "full_name": "LYiHub/pub-local-jarvis",
-            "description": "Windows \u672c\u5730\u591a\u6a21\u6001 AI \u684c\u9762\u684c\u5ba0\uff0c\u652f\u6301\u5c4f\u5e55\u4e0e\u97f3\u9891\u611f\u77e5\u3002",
-            "url": "https://github.com/LYiHub/pub-local-jarvis",
-            "stars": 201,
-            "forks": 45,
             "score": 53
         },
         {
@@ -206,19 +195,8 @@ const ALPHA_DATA_V2 = {
             "description": "The Finn-loop: a 3-skill AI software factory for Claude Code \u2014 spec, build, review. Humans merge.",
             "url": "https://github.com/finna/Finn-loop",
             "stars": 258,
-            "forks": 44,
-            "score": 51
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "awesome-OpenPrice",
-            "full_name": "bytedoger/awesome-OpenPrice",
-            "description": "open price ,\u4e00\u4e2a\u5f00\u6e90\u7684\u6536\u5f55\u5168\u7f51\u5361\u7f51\u6e20\u9053\u5404\u79cdAI\u8ba2\u9605\u4ef7\u683c\u7684\u9879\u76ee\u3002\u6253\u7834\u4fe1\u606f\u8327\u623f\uff0c\u4e00\u7ad9\u5f0f\u83b7\u53d6\u5404\u4e2a\u6e20\u9053\u7684 Claude\u3001GPT\u3001gemini \u3001cursor\u4ea7\u54c1\u7684\u6700\u65b0\u4ef7\u683c\uff0c\u65b9\u4fbf\u6bd4\u4ef7",
-            "url": "https://github.com/bytedoger/awesome-OpenPrice",
-            "stars": 571,
-            "forks": 24,
-            "score": 50
+            "forks": 46,
+            "score": 52
         },
         {
             "main_cat": "AI",
@@ -227,20 +205,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "qaml-ai/camelAI",
             "description": "camelAI \u2014 an AI coding assistant platform built on Cloudflare Workers and Durable Objects",
             "url": "https://github.com/qaml-ai/camelAI",
-            "stars": 258,
+            "stars": 266,
             "forks": 16,
             "score": 50
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "drama-skills",
-            "full_name": "worldwonderer/drama-skills",
-            "description": "AI \u77ed\u5267/\u6f2b\u5267\u521b\u4f5c skill \u5408\u96c6\uff0c\u8986\u76d6\u5267\u672c\u3001\u8d44\u4ea7\u3001\u5206\u955c\u3001\u56fe\u7247/\u89c6\u9891\u63d0\u793a\u8bcd\u5230\u72ec\u7acb\u5ba1\u67e5\u5168\u94fe\u8def\uff0c\u9002\u914d Claude Code \u4e0e Codex\u3002| An AI short-drama skill suite for Claude Code & Codex: scripts, assets, storyboards, image/video prompts, and independent review.",
-            "url": "https://github.com/worldwonderer/drama-skills",
-            "stars": 221,
-            "forks": 104,
-            "score": 49
         },
         {
             "main_cat": "AI",
@@ -267,24 +234,13 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "lieflat-charts",
-            "full_name": "larashero3-dotcom/lieflat-charts",
-            "description": "\u9762\u5411 AI Agents \u7684\u5355\u8272\u6570\u636e\u53ef\u89c6\u5316 Skill\uff0c\u5c06\u6570\u636e\u5feb\u901f\u751f\u6210\u7cbe\u81f4\u3001\u53ef\u4ea4\u4e92\u7684 HTML \u56fe\u8868",
-            "url": "https://github.com/larashero3-dotcom/lieflat-charts",
-            "stars": 370,
-            "forks": 32,
-            "score": 45
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
             "name": "graph-engineering",
             "full_name": "codejunkie99/graph-engineering",
             "description": "Graph engineering for AI agents: the 9-stage knowledge-graph pipeline (translated from SEU's graduate course) + task-graph orchestration patterns, as a Claude skill with teaching mode and paste-ready workflows",
             "url": "https://github.com/codejunkie99/graph-engineering",
             "stars": 173,
-            "forks": 19,
-            "score": 43
+            "forks": 20,
+            "score": 44
         },
         {
             "main_cat": "AI",
@@ -293,7 +249,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "OpenBMB/MiniCPM-Robot",
             "description": "A Smarter and Faster On-Device AI Brain for Robots",
             "url": "https://github.com/OpenBMB/MiniCPM-Robot",
-            "stars": 267,
+            "stars": 268,
             "forks": 20,
             "score": 42
         },
@@ -306,7 +262,29 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/zjp1997720/zhijian-skills",
             "stars": 262,
             "forks": 22,
-            "score": 41
+            "score": 40
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "agents-council",
+            "full_name": "0xwilliamortiz/agents-council",
+            "description": "Multi-agents collaboration plugin for Claude Code - orchestrate multiple AI agents (Codex CLI, Gemini CLI, etc.) for diverse perspectives",
+            "url": "https://github.com/0xwilliamortiz/agents-council",
+            "stars": 172,
+            "forks": 18,
+            "score": 40
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "humanizer-stack",
+            "full_name": "NulightJens/humanizer-stack",
+            "description": "Two-pass pipeline for removing AI writing tells from outward-facing text: a surface pass plus a structural pass grounded in the StoryScope study. Packaged as Claude Code Skills.      Free community: skool.com/jens-ai-community-1306",
+            "url": "https://github.com/NulightJens/humanizer-stack",
+            "stars": 146,
+            "forks": 9,
+            "score": 40
         },
         {
             "main_cat": "AI",
@@ -317,16 +295,16 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/risa-labs-inc/BossConsole",
             "stars": 204,
             "forks": 6,
-            "score": 40
+            "score": 39
         },
         {
             "main_cat": "AI",
-            "sub_cat": "AI Agents",
-            "name": "agentsmith",
-            "full_name": "PromptPartner/agentsmith",
-            "description": "Universal, model-agnostic operating harness for AI agents (Claude, Codex, Gemini, \u2026) \u2014 a lean core + work-type profiles assembled by one setup script.",
-            "url": "https://github.com/PromptPartner/agentsmith",
-            "stars": 255,
+            "sub_cat": null,
+            "name": "pgContext",
+            "full_name": "Evokoa/pgContext",
+            "description": "A full AI search engine, built into Postgres.",
+            "url": "https://github.com/Evokoa/pgContext",
+            "stars": 156,
             "forks": 11,
             "score": 39
         },
@@ -337,9 +315,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "nopnoping/micro-vllm",
             "description": "A small, educational vLLM implementation for exploring LLM inference, scheduling, KV-cache management, and GPU execution.",
             "url": "https://github.com/nopnoping/micro-vllm",
-            "stars": 104,
+            "stars": 105,
             "forks": 2,
             "score": 39
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "cinematic-scroll-prompt-kit",
+            "full_name": "amirmushichge/cinematic-scroll-prompt-kit",
+            "description": "Reusable AI prompt and project brief system for cinematic scroll-driven 2.5D websites.",
+            "url": "https://github.com/amirmushichge/cinematic-scroll-prompt-kit",
+            "stars": 174,
+            "forks": 18,
+            "score": 38
         },
         {
             "main_cat": "AI",
@@ -348,9 +337,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "cneuralnetwork/smol-kimi-k3",
             "description": "A 49M-parameter Kimi K3-inspired language model trainable on one 8GB GPU",
             "url": "https://github.com/cneuralnetwork/smol-kimi-k3",
-            "stars": 65,
+            "stars": 67,
             "forks": 5,
             "score": 38
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "collective-intelligence",
+            "full_name": "ailinone/collective-intelligence",
+            "description": "Ailin\u00b9 is an open-source collective intelligence engine where tens of thousands of AI models collaborate through dozens of coordination strategies, applying structured diversity and independent reasoning to improve reliability, auditability, and resilience.",
+            "url": "https://github.com/ailinone/collective-intelligence",
+            "stars": 159,
+            "forks": 10,
+            "score": 37
         },
         {
             "main_cat": "AI",
@@ -454,32 +454,21 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
-            "name": "ninety",
-            "full_name": "bigdann09/ninety",
-            "description": "Ninety Protocol is a decentralized prediction market allowing users to speculate on the outcome of various events. This Next.js application provides a sleek, real-time, and mobile-responsive interface for users to connect their Solana wallets, view live markets, place bets (positions), and claim their winnings.",
-            "url": "https://github.com/bigdann09/ninety",
-            "stars": 0,
-            "forks": 0,
-            "score": 30
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "ninety-backend",
-            "full_name": "bigdann09/ninety-backend",
-            "description": "Ninety Protocol is a decentralized prediction market allowing users to speculate on the outcome of various events. This Next.js application provides a sleek, real-time, and mobile-responsive interface for users to connect their Solana wallets, view live markets, place bets (positions), and claim their winnings.",
-            "url": "https://github.com/bigdann09/ninety-backend",
-            "stars": 0,
-            "forks": 0,
-            "score": 30
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
             "name": "Fifa26_prediction-against-market",
             "full_name": "sagarmaru28-collab/Fifa26_prediction-against-market",
             "description": "Fifa 26 world cup ML model prediction vs the bets on polymarket",
             "url": "https://github.com/sagarmaru28-collab/Fifa26_prediction-against-market",
+            "stars": 0,
+            "forks": 0,
+            "score": 30
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "final-third",
+            "full_name": "dezcalimese/final-third",
+            "description": "Free, no-stakes World Cup prediction game powered by the TxLINE live scores feed. Players call attack or defense during real-time danger phases, graded instantly against verified match data. Built with Next.js, Express SSE relay, and Solana wallet identity. No betting, no stakes \u2014 just bragging rights and streak leaderboards.",
+            "url": "https://github.com/dezcalimese/final-third",
             "stars": 0,
             "forks": 0,
             "score": 30
@@ -586,17 +575,6 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
-            "name": "flario",
-            "full_name": "dziuba0x/flario",
-            "description": "MCP server for Flare Network: FTSO price feeds, FDC cross-chain attestations, FAssets state, and x402 agent payments with chain-verified receipts. Works with Claude, Cursor, and any Model Context Protocol client.",
-            "url": "https://github.com/dziuba0x/flario",
-            "stars": 1,
-            "forks": 0,
-            "score": 30
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
             "name": "EAFE",
             "full_name": "eksses/EAFE",
             "description": "Minecraft elytra autopilot engine \u2014 protocol-level autonomous flight navigation using Mineflayer. Vanilla physics-compliant per-tick velocity updates, anti-cheat B\u00e9zier curves, FSM state machine, Nether hazard avoidance, and precision landing. Includes multi-AI-agent audit with cross-model scoring.",
@@ -612,17 +590,6 @@ const ALPHA_DATA_V2 = {
             "full_name": "Kajimenyeng/Manok",
             "description": "All-in-one Web3 protocol for seamless token swaps, cross-chain bridging, and instant payments on Temix Network.",
             "url": "https://github.com/Kajimenyeng/Manok",
-            "stars": 0,
-            "forks": 0,
-            "score": 30
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "API-Bridge",
-            "full_name": "zhangshengying97/API-Bridge",
-            "description": "apibridge \u2014\u2014 \u672c\u5730 AI \u6a21\u578b API \u8def\u7531\u4ee3\u7406\u684c\u9762\u7aef\u3002\u8de8\u5e73\u53f0\uff0c\u652f\u6301 OpenAI/Anthropic/Gemini \u591a\u534f\u8bae\u4e92\u8f6c\uff0c\u865a\u62df\u6a21\u578b\u62bd\u8c61\u4e0e\u591a\u7b56\u7565\u667a\u80fd\u8def\u7531\u3002  apibridge \u2014 Local AI Model API Routing Proxy Desktop App. Cross-platform, multi-protocol conversion (OpenAI/Anthropic/Gemini), virtual model abstraction with intelligent routing.",
-            "url": "https://github.com/zhangshengying97/API-Bridge",
             "stars": 0,
             "forks": 0,
             "score": 30
@@ -652,20 +619,6 @@ const ALPHA_DATA_V2 = {
     ],
     "news": [
         {
-            "title": "Does Runtime Topology Context Improve LLM-Generated Kubernetes Security Patches?",
-            "source": "ArXiv",
-            "type": "Research Alpha",
-            "color": "text-indigo-600",
-            "url": "http://arxiv.org/abs/2607.25995v1"
-        },
-        {
-            "title": "\\textsc{IH-Benchmark}: A Conflict-Centered Benchmark for Instruction-Hierarchy Robustness in LLM Applications",
-            "source": "ArXiv",
-            "type": "Research Alpha",
-            "color": "text-indigo-600",
-            "url": "http://arxiv.org/abs/2607.25987v1"
-        },
-        {
             "title": "Bitcoin volatility remains high ahead of key FED decision.",
             "source": "Polymarket",
             "type": "Expectation",
@@ -673,5 +626,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-07-29 23:56"
+    "timestamp": "2026-07-30 02:00"
 };
