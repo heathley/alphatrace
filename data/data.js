@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "Vincentwei1021/video-shotcraft",
             "description": "AI video skill for Claude Code & Codex \u2014 cinematic product videos with Remotion: 106 shot recipe cards, 161 motion previews, a production-ready template",
             "url": "https://github.com/Vincentwei1021/video-shotcraft",
-            "stars": 2844,
-            "forks": 242,
+            "stars": 2858,
+            "forks": 241,
             "score": 99
         },
         {
@@ -18,7 +18,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "makecindy/cindy",
             "description": "Consider it done. The open-source AI agent that works out of the box \u00b7 \u60f3\u5230\uff0c\u5c31\u80fd\u505a\u5230\u3002\u5f00\u6e90\u3001\u5f00\u7bb1\u5373\u7528\u7684 AI Agent\u3002",
             "url": "https://github.com/makecindy/cindy",
-            "stars": 1165,
+            "stars": 1167,
             "forks": 147,
             "score": 99
         },
@@ -29,8 +29,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "VictorTaelin/OptMem",
             "description": "Permanent memory for AI agents. A 426-token prompt, a script, plug and play.",
             "url": "https://github.com/VictorTaelin/OptMem",
-            "stars": 907,
-            "forks": 53,
+            "stars": 913,
+            "forks": 52,
             "score": 99
         },
         {
@@ -40,7 +40,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "0xwilliamortiz/ponytail-improved",
             "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
             "url": "https://github.com/0xwilliamortiz/ponytail-improved",
-            "stars": 559,
+            "stars": 560,
             "forks": 125,
             "score": 99
         },
@@ -51,9 +51,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "Jakubantalik/thinking-orbs",
             "description": "Dotted thought-orb loading indicators for AI & agent UIs \u2014 six tuned states, two sizes, auto dark/light",
             "url": "https://github.com/Jakubantalik/thinking-orbs",
-            "stars": 1250,
+            "stars": 1254,
             "forks": 95,
-            "score": 97
+            "score": 98
         },
         {
             "main_cat": "AI",
@@ -84,7 +84,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "pireel/pireel",
             "description": "The open-source alternative to Capcut\u3001ChatCut. Drivable by any AI agent over MCP.",
             "url": "https://github.com/pireel/pireel",
-            "stars": 842,
+            "stars": 843,
             "forks": 72,
             "score": 73
         },
@@ -95,7 +95,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Kritt-ai/open-kritt",
             "description": "Orchestrate AI agents to find real vulnerabilities in code.",
             "url": "https://github.com/Kritt-ai/open-kritt",
-            "stars": 457,
+            "stars": 459,
             "forks": 93,
             "score": 64
         },
@@ -106,7 +106,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "TryCaspian/caspian-sdk",
             "description": "Agent communication SDK. The open-source agent communication layer for AI agents \u2014 email, WhatsApp, Slack, Discord, Telegram, SMS. Python & TypeScript.",
             "url": "https://github.com/TryCaspian/caspian-sdk",
-            "stars": 342,
+            "stars": 343,
             "forks": 127,
             "score": 62
         },
@@ -128,9 +128,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "QwenAudio/qwen-audio-agent",
             "description": "A realtime voice runtime that keeps Agents talking, working, and present.  Real-time Voice Runtime for AI Agents",
             "url": "https://github.com/QwenAudio/qwen-audio-agent",
-            "stars": 280,
+            "stars": 298,
             "forks": 21,
-            "score": 60
+            "score": 61
         },
         {
             "main_cat": "AI",
@@ -150,7 +150,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "smixs/pohuy",
             "description": "\u0420\u0435\u0436\u0438\u043c \u0438\u0434\u0438\u043e\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u043e\u0433\u043e \u0440\u0443\u0441\u0441\u043a\u043e\u0433\u043e \u043c\u0430\u0442\u0430 \u0434\u043b\u044f AI-\u0430\u0433\u0435\u043d\u0442\u043e\u0432. \u041a\u043e\u0440\u043e\u0447\u0435, \u0434\u0443\u0448\u0435\u0432\u043d\u0435\u0435, \u044d\u0444\u0444\u0435\u043a\u0442\u0438\u0432\u043d\u0435\u0435. 18+",
             "url": "https://github.com/smixs/pohuy",
-            "stars": 800,
+            "stars": 801,
             "forks": 17,
             "score": 57
         },
@@ -172,7 +172,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "LYiHub/pub-local-jarvis",
             "description": "Windows \u672c\u5730\u591a\u6a21\u6001 AI \u684c\u9762\u684c\u5ba0\uff0c\u652f\u6301\u5c4f\u5e55\u4e0e\u97f3\u9891\u611f\u77e5\u3002",
             "url": "https://github.com/LYiHub/pub-local-jarvis",
-            "stars": 247,
+            "stars": 248,
             "forks": 54,
             "score": 55
         },
@@ -183,9 +183,31 @@ const ALPHA_DATA_V2 = {
             "full_name": "yc-duan/fastctx",
             "description": "Fast, context-efficient repository tools for AI agents (MCP)",
             "url": "https://github.com/yc-duan/fastctx",
-            "stars": 648,
+            "stars": 650,
             "forks": 21,
             "score": 52
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "numbat",
+            "full_name": "perplexityai/numbat",
+            "description": "Visibility into AI agent activity on endpoints, with on-device detection, optional pre-action blocking, and forensic reconstruction.",
+            "url": "https://github.com/perplexityai/numbat",
+            "stars": 321,
+            "forks": 21,
+            "score": 52
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "camelAI",
+            "full_name": "qaml-ai/camelAI",
+            "description": "camelAI \u2014 an AI coding assistant platform built on Cloudflare Workers and Durable Objects",
+            "url": "https://github.com/qaml-ai/camelAI",
+            "stars": 293,
+            "forks": 18,
+            "score": 50
         },
         {
             "main_cat": "AI",
@@ -196,28 +218,6 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/finna/Finn-loop",
             "stars": 270,
             "forks": 46,
-            "score": 52
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "numbat",
-            "full_name": "perplexityai/numbat",
-            "description": "Visibility into AI agent activity on endpoints, with on-device detection, optional pre-action blocking, and forensic reconstruction.",
-            "url": "https://github.com/perplexityai/numbat",
-            "stars": 303,
-            "forks": 16,
-            "score": 50
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "camelAI",
-            "full_name": "qaml-ai/camelAI",
-            "description": "camelAI \u2014 an AI coding assistant platform built on Cloudflare Workers and Durable Objects",
-            "url": "https://github.com/qaml-ai/camelAI",
-            "stars": 292,
-            "forks": 18,
             "score": 50
         },
         {
@@ -249,7 +249,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "OpenBMB/MiniCPM-Robot",
             "description": "A Smarter and Faster On-Device AI Brain for Robots",
             "url": "https://github.com/OpenBMB/MiniCPM-Robot",
-            "stars": 272,
+            "stars": 273,
             "forks": 20,
             "score": 42
         },
@@ -260,7 +260,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "codejunkie99/graph-engineering",
             "description": "Graph engineering for AI agents: the 9-stage knowledge-graph pipeline (translated from SEU's graduate course) + task-graph orchestration patterns, as a Claude skill with teaching mode and paste-ready workflows",
             "url": "https://github.com/codejunkie99/graph-engineering",
-            "stars": 178,
+            "stars": 179,
             "forks": 20,
             "score": 42
         },
@@ -293,7 +293,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "cneuralnetwork/smol-kimi-k3",
             "description": "A 49M-parameter Kimi K3-inspired language model trainable on one 8GB GPU",
             "url": "https://github.com/cneuralnetwork/smol-kimi-k3",
-            "stars": 76,
+            "stars": 77,
             "forks": 7,
             "score": 40
         },
@@ -315,7 +315,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "amirmushichge/cinematic-scroll-prompt-kit",
             "description": "Reusable AI prompt and project brief system for cinematic scroll-driven 2.5D websites.",
             "url": "https://github.com/amirmushichge/cinematic-scroll-prompt-kit",
-            "stars": 187,
+            "stars": 188,
             "forks": 20,
             "score": 38
         },
@@ -381,7 +381,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "antonygiomarxdev/synapse",
             "description": "Decentralized inference protocol for Mixture-of-Experts (MoE) models. Turns thousands of consumer GPUs into a distributed swarm to run frontier AI like Kimi K3 without gatekeepers, rate limits, or datacenters.",
             "url": "https://github.com/antonygiomarxdev/synapse",
-            "stars": 7,
+            "stars": 8,
             "forks": 0,
             "score": 30
         },
@@ -392,7 +392,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "guqiong96/Lvllmds4-x",
             "description": "CPU-GPU hybrid inference for DeepSeek-V4 on NVIDIA SM80+ (A100/RTX 4090 etc.), forked from yhfgyyf/vllm-deepseek-v4-sm89.",
             "url": "https://github.com/guqiong96/Lvllmds4-x",
-            "stars": 7,
+            "stars": 8,
             "forks": 0,
             "score": 30
         },
@@ -662,5 +662,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-07-30 15:46"
+    "timestamp": "2026-07-30 17:19"
 };
