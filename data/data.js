@@ -7,7 +7,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Vincentwei1021/video-shotcraft",
             "description": "AI video skill for Claude Code & Codex \u2014 cinematic product videos with Remotion: 106 shot recipe cards, 161 motion previews, a production-ready template",
             "url": "https://github.com/Vincentwei1021/video-shotcraft",
-            "stars": 2858,
+            "stars": 2869,
             "forks": 241,
             "score": 99
         },
@@ -18,8 +18,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "makecindy/cindy",
             "description": "Consider it done. The open-source AI agent that works out of the box \u00b7 \u60f3\u5230\uff0c\u5c31\u80fd\u505a\u5230\u3002\u5f00\u6e90\u3001\u5f00\u7bb1\u5373\u7528\u7684 AI Agent\u3002",
             "url": "https://github.com/makecindy/cindy",
-            "stars": 1167,
-            "forks": 147,
+            "stars": 1169,
+            "forks": 148,
             "score": 99
         },
         {
@@ -29,7 +29,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "VictorTaelin/OptMem",
             "description": "Permanent memory for AI agents. A 426-token prompt, a script, plug and play.",
             "url": "https://github.com/VictorTaelin/OptMem",
-            "stars": 913,
+            "stars": 922,
             "forks": 52,
             "score": 99
         },
@@ -40,7 +40,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "0xwilliamortiz/ponytail-improved",
             "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
             "url": "https://github.com/0xwilliamortiz/ponytail-improved",
-            "stars": 560,
+            "stars": 561,
             "forks": 125,
             "score": 99
         },
@@ -51,7 +51,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Jakubantalik/thinking-orbs",
             "description": "Dotted thought-orb loading indicators for AI & agent UIs \u2014 six tuned states, two sizes, auto dark/light",
             "url": "https://github.com/Jakubantalik/thinking-orbs",
-            "stars": 1254,
+            "stars": 1256,
             "forks": 95,
             "score": 98
         },
@@ -62,7 +62,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "mikiarlo3/ai-copywriter",
             "description": "An AI copywriter that uses real copywriting skills + real marketing knowledge with human tone.",
             "url": "https://github.com/mikiarlo3/ai-copywriter",
-            "stars": 985,
+            "stars": 986,
             "forks": 23,
             "score": 97
         },
@@ -102,13 +102,24 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
+            "name": "qwen-audio-agent",
+            "full_name": "QwenAudio/qwen-audio-agent",
+            "description": "A realtime voice runtime that keeps Agents talking, working, and present.  Real-time Voice Runtime for AI Agents",
+            "url": "https://github.com/QwenAudio/qwen-audio-agent",
+            "stars": 319,
+            "forks": 25,
+            "score": 64
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
             "name": "caspian-sdk",
             "full_name": "TryCaspian/caspian-sdk",
             "description": "Agent communication SDK. The open-source agent communication layer for AI agents \u2014 email, WhatsApp, Slack, Discord, Telegram, SMS. Python & TypeScript.",
             "url": "https://github.com/TryCaspian/caspian-sdk",
-            "stars": 343,
+            "stars": 350,
             "forks": 127,
-            "score": 62
+            "score": 63
         },
         {
             "main_cat": "AI",
@@ -117,19 +128,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "ddcat-ai/open-ai-canvas",
             "description": "\u9762\u5411 AI \u5f71\u89c6\u521b\u4f5c\u7684\u5f00\u6e90\u65e0\u9650\u753b\u5e03\u5de5\u4f5c\u53f0\uff0c\u96c6\u6210\u591a\u6a21\u6001\u751f\u6210\u3001\u5206\u955c\u7f16\u6392\u3001\u7d20\u6750\u7ba1\u7406\u4e0e Agent \u5de5\u4f5c\u6d41\u3002",
             "url": "https://github.com/ddcat-ai/open-ai-canvas",
-            "stars": 353,
+            "stars": 355,
             "forks": 85,
-            "score": 61
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "qwen-audio-agent",
-            "full_name": "QwenAudio/qwen-audio-agent",
-            "description": "A realtime voice runtime that keeps Agents talking, working, and present.  Real-time Voice Runtime for AI Agents",
-            "url": "https://github.com/QwenAudio/qwen-audio-agent",
-            "stars": 298,
-            "forks": 21,
             "score": 61
         },
         {
@@ -150,7 +150,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "smixs/pohuy",
             "description": "\u0420\u0435\u0436\u0438\u043c \u0438\u0434\u0438\u043e\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u043e\u0433\u043e \u0440\u0443\u0441\u0441\u043a\u043e\u0433\u043e \u043c\u0430\u0442\u0430 \u0434\u043b\u044f AI-\u0430\u0433\u0435\u043d\u0442\u043e\u0432. \u041a\u043e\u0440\u043e\u0447\u0435, \u0434\u0443\u0448\u0435\u0432\u043d\u0435\u0435, \u044d\u0444\u0444\u0435\u043a\u0442\u0438\u0432\u043d\u0435\u0435. 18+",
             "url": "https://github.com/smixs/pohuy",
-            "stars": 801,
+            "stars": 802,
             "forks": 17,
             "score": 57
         },
@@ -161,7 +161,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "MarcosSete/awesome-free-ai-books",
             "description": "A curated list of free, legitimate AI/ML books",
             "url": "https://github.com/MarcosSete/awesome-free-ai-books",
-            "stars": 384,
+            "stars": 387,
             "forks": 36,
             "score": 56
         },
@@ -172,20 +172,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "LYiHub/pub-local-jarvis",
             "description": "Windows \u672c\u5730\u591a\u6a21\u6001 AI \u684c\u9762\u684c\u5ba0\uff0c\u652f\u6301\u5c4f\u5e55\u4e0e\u97f3\u9891\u611f\u77e5\u3002",
             "url": "https://github.com/LYiHub/pub-local-jarvis",
-            "stars": 248,
+            "stars": 250,
             "forks": 54,
             "score": 55
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "fastctx",
-            "full_name": "yc-duan/fastctx",
-            "description": "Fast, context-efficient repository tools for AI agents (MCP)",
-            "url": "https://github.com/yc-duan/fastctx",
-            "stars": 650,
-            "forks": 21,
-            "score": 52
         },
         {
             "main_cat": "AI",
@@ -194,9 +183,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "perplexityai/numbat",
             "description": "Visibility into AI agent activity on endpoints, with on-device detection, optional pre-action blocking, and forensic reconstruction.",
             "url": "https://github.com/perplexityai/numbat",
-            "stars": 321,
+            "stars": 349,
+            "forks": 25,
+            "score": 54
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "fastctx",
+            "full_name": "yc-duan/fastctx",
+            "description": "Fast, context-efficient repository tools for AI agents (MCP)",
+            "url": "https://github.com/yc-duan/fastctx",
+            "stars": 653,
             "forks": 21,
-            "score": 52
+            "score": 53
         },
         {
             "main_cat": "AI",
@@ -205,7 +205,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "qaml-ai/camelAI",
             "description": "camelAI \u2014 an AI coding assistant platform built on Cloudflare Workers and Durable Objects",
             "url": "https://github.com/qaml-ai/camelAI",
-            "stars": 293,
+            "stars": 294,
             "forks": 18,
             "score": 50
         },
@@ -216,8 +216,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "finna/Finn-loop",
             "description": "The Finn-loop: a 3-skill AI software factory for Claude Code \u2014 spec, build, review. Humans merge.",
             "url": "https://github.com/finna/Finn-loop",
-            "stars": 270,
-            "forks": 46,
+            "stars": 271,
+            "forks": 47,
             "score": 50
         },
         {
@@ -245,22 +245,22 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
+            "name": "graph-engineering",
+            "full_name": "codejunkie99/graph-engineering",
+            "description": "Graph engineering for AI agents: the 9-stage knowledge-graph pipeline (translated from SEU's graduate course) + task-graph orchestration patterns, as a Claude skill with teaching mode and paste-ready workflows",
+            "url": "https://github.com/codejunkie99/graph-engineering",
+            "stars": 181,
+            "forks": 20,
+            "score": 43
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
             "name": "MiniCPM-Robot",
             "full_name": "OpenBMB/MiniCPM-Robot",
             "description": "A Smarter and Faster On-Device AI Brain for Robots",
             "url": "https://github.com/OpenBMB/MiniCPM-Robot",
             "stars": 273,
-            "forks": 20,
-            "score": 42
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "graph-engineering",
-            "full_name": "codejunkie99/graph-engineering",
-            "description": "Graph engineering for AI agents: the 9-stage knowledge-graph pipeline (translated from SEU's graduate course) + task-graph orchestration patterns, as a Claude skill with teaching mode and paste-ready workflows",
-            "url": "https://github.com/codejunkie99/graph-engineering",
-            "stars": 179,
             "forks": 20,
             "score": 42
         },
@@ -284,17 +284,6 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/0xwilliamortiz/agents-council",
             "stars": 173,
             "forks": 19,
-            "score": 40
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "smol-kimi-k3",
-            "full_name": "cneuralnetwork/smol-kimi-k3",
-            "description": "A 49M-parameter Kimi K3-inspired language model trainable on one 8GB GPU",
-            "url": "https://github.com/cneuralnetwork/smol-kimi-k3",
-            "stars": 77,
-            "forks": 7,
             "score": 40
         },
         {
@@ -332,6 +321,17 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "smol-kimi-k3",
+            "full_name": "cneuralnetwork/smol-kimi-k3",
+            "description": "A 49M-parameter Kimi K3-inspired language model trainable on one 8GB GPU",
+            "url": "https://github.com/cneuralnetwork/smol-kimi-k3",
+            "stars": 78,
+            "forks": 7,
+            "score": 38
+        },
+        {
+            "main_cat": "AI",
             "sub_cat": null,
             "name": "patent-literature-search-mcp",
             "full_name": "patsnap/patent-literature-search-mcp",
@@ -348,7 +348,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "ailinone/collective-intelligence",
             "description": "Ailin\u00b9 is an open-source collective intelligence engine where tens of thousands of AI models collaborate through dozens of coordination strategies, applying structured diversity and independent reasoning to improve reliability, auditability, and resilience.",
             "url": "https://github.com/ailinone/collective-intelligence",
-            "stars": 161,
+            "stars": 162,
             "forks": 10,
             "score": 37
         },
@@ -393,17 +393,6 @@ const ALPHA_DATA_V2 = {
             "description": "CPU-GPU hybrid inference for DeepSeek-V4 on NVIDIA SM80+ (A100/RTX 4090 etc.), forked from yhfgyyf/vllm-deepseek-v4-sm89.",
             "url": "https://github.com/guqiong96/Lvllmds4-x",
             "stars": 8,
-            "forks": 0,
-            "score": 30
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "MoonTail",
-            "full_name": "ysharmcode/MoonTail",
-            "description": "A distributed inference system that lets people share GPU capacity to run large AI models together like KIMI K3 \u2014 turning a network of individual GPUs into a shared AI supercomputer without requiring a central GPU cluster. \ud83c\udf15\ud83d\ude80",
-            "url": "https://github.com/ysharmcode/MoonTail",
-            "stars": 6,
             "forks": 0,
             "score": 30
         },
@@ -564,6 +553,17 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
+            "name": "payment-rails-opensource",
+            "full_name": "Tornadobetweentunnel/payment-rails-opensource",
+            "description": "Technical deep-dive into payment rails for freelancer economies. SWIFT, SEPA, crypto rails, stablecoin settlement. Why PayrollFlow's architecture is different.",
+            "url": "https://github.com/Tornadobetweentunnel/payment-rails-opensource",
+            "stars": 0,
+            "forks": 0,
+            "score": 30
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
             "name": "magentic",
             "full_name": "TELLProtocol/magentic",
             "description": "An autonomous payment agent for Arc (Circle's stablecoin-native L1) that gates every USDC payment through a risk check on the counterparty contract before releasing funds.",
@@ -662,5 +662,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-07-30 17:19"
+    "timestamp": "2026-07-30 19:15"
 };
