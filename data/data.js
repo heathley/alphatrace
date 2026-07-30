@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "Vincentwei1021/video-shotcraft",
             "description": "AI video skill for Claude Code & Codex \u2014 cinematic product videos with Remotion: 106 shot recipe cards, 161 motion previews, a production-ready template",
             "url": "https://github.com/Vincentwei1021/video-shotcraft",
-            "stars": 2817,
-            "forks": 238,
+            "stars": 2836,
+            "forks": 240,
             "score": 99
         },
         {
@@ -18,19 +18,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "makecindy/cindy",
             "description": "Consider it done. The open-source AI agent that works out of the box \u00b7 \u60f3\u5230\uff0c\u5c31\u80fd\u505a\u5230\u3002\u5f00\u6e90\u3001\u5f00\u7bb1\u5373\u7528\u7684 AI Agent\u3002",
             "url": "https://github.com/makecindy/cindy",
-            "stars": 1149,
+            "stars": 1157,
             "forks": 147,
-            "score": 99
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "ai-copywriter",
-            "full_name": "mikiarlo3/ai-copywriter",
-            "description": "An AI copywriter that uses real copywriting skills + real marketing knowledge with human tone.",
-            "url": "https://github.com/mikiarlo3/ai-copywriter",
-            "stars": 1053,
-            "forks": 23,
             "score": 99
         },
         {
@@ -40,8 +29,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "VictorTaelin/OptMem",
             "description": "Permanent memory for AI agents. A 426-token prompt, a script, plug and play.",
             "url": "https://github.com/VictorTaelin/OptMem",
-            "stars": 897,
-            "forks": 53,
+            "stars": 904,
+            "forks": 54,
             "score": 99
         },
         {
@@ -51,8 +40,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "0xwilliamortiz/ponytail-improved",
             "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
             "url": "https://github.com/0xwilliamortiz/ponytail-improved",
-            "stars": 555,
-            "forks": 124,
+            "stars": 557,
+            "forks": 125,
             "score": 99
         },
         {
@@ -62,8 +51,19 @@ const ALPHA_DATA_V2 = {
             "full_name": "Jakubantalik/thinking-orbs",
             "description": "Dotted thought-orb loading indicators for AI & agent UIs \u2014 six tuned states, two sizes, auto dark/light",
             "url": "https://github.com/Jakubantalik/thinking-orbs",
-            "stars": 1248,
+            "stars": 1249,
             "forks": 95,
+            "score": 97
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "ai-copywriter",
+            "full_name": "mikiarlo3/ai-copywriter",
+            "description": "An AI copywriter that uses real copywriting skills + real marketing knowledge with human tone.",
+            "url": "https://github.com/mikiarlo3/ai-copywriter",
+            "stars": 985,
+            "forks": 23,
             "score": 97
         },
         {
@@ -73,7 +73,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Blaizzy/nativ",
             "description": "Local AI, native to your Mac. Chat, serve, monitor, and connect MLX models from one macOS app.",
             "url": "https://github.com/Blaizzy/nativ",
-            "stars": 1031,
+            "stars": 1032,
             "forks": 59,
             "score": 82
         },
@@ -84,7 +84,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "pireel/pireel",
             "description": "The open-source alternative to Capcut\u3001ChatCut. Drivable by any AI agent over MCP.",
             "url": "https://github.com/pireel/pireel",
-            "stars": 834,
+            "stars": 836,
             "forks": 71,
             "score": 73
         },
@@ -95,7 +95,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Kritt-ai/open-kritt",
             "description": "Orchestrate AI agents to find real vulnerabilities in code.",
             "url": "https://github.com/Kritt-ai/open-kritt",
-            "stars": 455,
+            "stars": 456,
             "forks": 93,
             "score": 64
         },
@@ -106,7 +106,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "TryCaspian/caspian-sdk",
             "description": "Agent communication SDK. The open-source agent communication layer for AI agents \u2014 email, WhatsApp, Slack, Discord, Telegram, SMS. Python & TypeScript.",
             "url": "https://github.com/TryCaspian/caspian-sdk",
-            "stars": 329,
+            "stars": 335,
             "forks": 128,
             "score": 62
         },
@@ -117,9 +117,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "ddcat-ai/open-ai-canvas",
             "description": "\u9762\u5411 AI \u5f71\u89c6\u521b\u4f5c\u7684\u5f00\u6e90\u65e0\u9650\u753b\u5e03\u5de5\u4f5c\u53f0\uff0c\u96c6\u6210\u591a\u6a21\u6001\u751f\u6210\u3001\u5206\u955c\u7f16\u6392\u3001\u7d20\u6750\u7ba1\u7406\u4e0e Agent \u5de5\u4f5c\u6d41\u3002",
             "url": "https://github.com/ddcat-ai/open-ai-canvas",
-            "stars": 347,
+            "stars": 351,
             "forks": 85,
             "score": 61
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "pohuy",
+            "full_name": "smixs/pohuy",
+            "description": "\u0420\u0435\u0436\u0438\u043c \u0438\u0434\u0438\u043e\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u043e\u0433\u043e \u0440\u0443\u0441\u0441\u043a\u043e\u0433\u043e \u043c\u0430\u0442\u0430 \u0434\u043b\u044f AI-\u0430\u0433\u0435\u043d\u0442\u043e\u0432. \u041a\u043e\u0440\u043e\u0447\u0435, \u0434\u0443\u0448\u0435\u0432\u043d\u0435\u0435, \u044d\u0444\u0444\u0435\u043a\u0442\u0438\u0432\u043d\u0435\u0435. 18+",
+            "url": "https://github.com/smixs/pohuy",
+            "stars": 800,
+            "forks": 17,
+            "score": 58
         },
         {
             "main_cat": "AI",
@@ -130,17 +141,17 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/KlaatAI/klaatcode",
             "stars": 351,
             "forks": 138,
-            "score": 60
+            "score": 58
         },
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "pohuy",
-            "full_name": "smixs/pohuy",
-            "description": "\u0420\u0435\u0436\u0438\u043c \u0438\u0434\u0438\u043e\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u043e\u0433\u043e \u0440\u0443\u0441\u0441\u043a\u043e\u0433\u043e \u043c\u0430\u0442\u0430 \u0434\u043b\u044f AI-\u0430\u0433\u0435\u043d\u0442\u043e\u0432. \u041a\u043e\u0440\u043e\u0447\u0435, \u0434\u0443\u0448\u0435\u0432\u043d\u0435\u0435, \u044d\u0444\u0444\u0435\u043a\u0442\u0438\u0432\u043d\u0435\u0435. 18+",
-            "url": "https://github.com/smixs/pohuy",
-            "stars": 797,
-            "forks": 16,
+            "name": "qwen-audio-agent",
+            "full_name": "QwenAudio/qwen-audio-agent",
+            "description": "A realtime voice runtime that keeps Agents talking, working, and present.  Real-time Voice Runtime for AI Agents",
+            "url": "https://github.com/QwenAudio/qwen-audio-agent",
+            "stars": 260,
+            "forks": 19,
             "score": 58
         },
         {
@@ -150,19 +161,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "MarcosSete/awesome-free-ai-books",
             "description": "A curated list of free, legitimate AI/ML books",
             "url": "https://github.com/MarcosSete/awesome-free-ai-books",
-            "stars": 378,
+            "stars": 382,
             "forks": 36,
-            "score": 56
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "qwen-audio-agent",
-            "full_name": "QwenAudio/qwen-audio-agent",
-            "description": "A realtime voice runtime that keeps Agents talking, working, and present.  Real-time Voice Runtime for AI Agents",
-            "url": "https://github.com/QwenAudio/qwen-audio-agent",
-            "stars": 246,
-            "forks": 18,
             "score": 56
         },
         {
@@ -172,9 +172,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "LYiHub/pub-local-jarvis",
             "description": "Windows \u672c\u5730\u591a\u6a21\u6001 AI \u684c\u9762\u684c\u5ba0\uff0c\u652f\u6301\u5c4f\u5e55\u4e0e\u97f3\u9891\u611f\u77e5\u3002",
             "url": "https://github.com/LYiHub/pub-local-jarvis",
-            "stars": 238,
-            "forks": 51,
-            "score": 54
+            "stars": 244,
+            "forks": 53,
+            "score": 55
         },
         {
             "main_cat": "AI",
@@ -183,7 +183,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "yc-duan/fastctx",
             "description": "Fast, context-efficient repository tools for AI agents (MCP)",
             "url": "https://github.com/yc-duan/fastctx",
-            "stars": 644,
+            "stars": 646,
             "forks": 21,
             "score": 52
         },
@@ -194,7 +194,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "qaml-ai/camelAI",
             "description": "camelAI \u2014 an AI coding assistant platform built on Cloudflare Workers and Durable Objects",
             "url": "https://github.com/qaml-ai/camelAI",
-            "stars": 284,
+            "stars": 289,
             "forks": 18,
             "score": 52
         },
@@ -205,9 +205,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "finna/Finn-loop",
             "description": "The Finn-loop: a 3-skill AI software factory for Claude Code \u2014 spec, build, review. Humans merge.",
             "url": "https://github.com/finna/Finn-loop",
-            "stars": 267,
+            "stars": 269,
             "forks": 46,
             "score": 52
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "numbat",
+            "full_name": "perplexityai/numbat",
+            "description": "Visibility into AI agent activity on endpoints, with on-device detection, optional pre-action blocking, and forensic reconstruction.",
+            "url": "https://github.com/perplexityai/numbat",
+            "stars": 265,
+            "forks": 16,
+            "score": 48
         },
         {
             "main_cat": "AI",
@@ -227,9 +238,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "eli-labz/Agent-Execution-Partnership",
             "description": "Agent Execution Partnership AEE is an open-source control plane that ensures every AI agent action is authorized before it runs, observable while it runs, and verifiable after it completes.",
             "url": "https://github.com/eli-labz/Agent-Execution-Partnership",
-            "stars": 205,
-            "forks": 51,
-            "score": 47
+            "stars": 204,
+            "forks": 50,
+            "score": 46
         },
         {
             "main_cat": "AI",
@@ -238,20 +249,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "codejunkie99/graph-engineering",
             "description": "Graph engineering for AI agents: the 9-stage knowledge-graph pipeline (translated from SEU's graduate course) + task-graph orchestration patterns, as a Claude skill with teaching mode and paste-ready workflows",
             "url": "https://github.com/codejunkie99/graph-engineering",
-            "stars": 176,
+            "stars": 177,
             "forks": 20,
             "score": 44
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "numbat",
-            "full_name": "perplexityai/numbat",
-            "description": "Visibility into AI agent activity on endpoints, with on-device detection, optional pre-action blocking, and forensic reconstruction.",
-            "url": "https://github.com/perplexityai/numbat",
-            "stars": 211,
-            "forks": 10,
-            "score": 43
         },
         {
             "main_cat": "AI",
@@ -300,23 +300,12 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
-            "name": "micro-vllm",
-            "full_name": "nopnoping/micro-vllm",
-            "description": "A small, educational vLLM implementation for exploring LLM inference, scheduling, KV-cache management, and GPU execution.",
-            "url": "https://github.com/nopnoping/micro-vllm",
-            "stars": 106,
-            "forks": 2,
-            "score": 39
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
             "name": "smol-kimi-k3",
             "full_name": "cneuralnetwork/smol-kimi-k3",
             "description": "A 49M-parameter Kimi K3-inspired language model trainable on one 8GB GPU",
             "url": "https://github.com/cneuralnetwork/smol-kimi-k3",
-            "stars": 72,
-            "forks": 5,
+            "stars": 74,
+            "forks": 6,
             "score": 39
         },
         {
@@ -326,7 +315,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "amirmushichge/cinematic-scroll-prompt-kit",
             "description": "Reusable AI prompt and project brief system for cinematic scroll-driven 2.5D websites.",
             "url": "https://github.com/amirmushichge/cinematic-scroll-prompt-kit",
-            "stars": 185,
+            "stars": 187,
             "forks": 20,
             "score": 38
         },
@@ -339,6 +328,17 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/Evokoa/pgContext",
             "stars": 160,
             "forks": 11,
+            "score": 38
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "micro-vllm",
+            "full_name": "nopnoping/micro-vllm",
+            "description": "A small, educational vLLM implementation for exploring LLM inference, scheduling, KV-cache management, and GPU execution.",
+            "url": "https://github.com/nopnoping/micro-vllm",
+            "stars": 108,
+            "forks": 3,
             "score": 38
         },
         {
@@ -421,17 +421,6 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "Prediction Markets",
             "sub_cat": null,
-            "name": "noxoracle",
-            "full_name": "edycutjong/noxoracle",
-            "description": "\ud83d\udd2e Bet what you know, not who you are \u2014 private positions on a real Gnosis prediction market, direction & size encrypted through settlement via iExec Nox. Live on Ethereum Sepolia.",
-            "url": "https://github.com/edycutjong/noxoracle",
-            "stars": 1,
-            "forks": 0,
-            "score": 30
-        },
-        {
-            "main_cat": "Prediction Markets",
-            "sub_cat": null,
             "name": "TrendX",
             "full_name": "ArmaghanRazaChaudhary/TrendX",
             "description": "Bet on attention \u2014 Google Trends prediction market UI (Next.js + Solana + SerpAPI)",
@@ -469,6 +458,17 @@ const ALPHA_DATA_V2 = {
             "full_name": "sagarmaru28-collab/Fifa26_prediction-against-market",
             "description": "Fifa 26 world cup ML model prediction vs the bets on polymarket",
             "url": "https://github.com/sagarmaru28-collab/Fifa26_prediction-against-market",
+            "stars": 0,
+            "forks": 0,
+            "score": 30
+        },
+        {
+            "main_cat": "Prediction Markets",
+            "sub_cat": null,
+            "name": "noxoracle",
+            "full_name": "edycutjong/noxoracle",
+            "description": "\ud83d\udd2e Bet what you know, not who you are \u2014 private positions on a real Gnosis prediction market, direction & size encrypted through settlement via iExec Nox. Live on Ethereum Sepolia.",
+            "url": "https://github.com/edycutjong/noxoracle",
             "stars": 0,
             "forks": 0,
             "score": 30
@@ -662,5 +662,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-07-30 11:00"
+    "timestamp": "2026-07-30 13:43"
 };
