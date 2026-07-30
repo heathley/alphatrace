@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "Vincentwei1021/video-shotcraft",
             "description": "AI video skill for Claude Code & Codex \u2014 cinematic product videos with Remotion: 106 shot recipe cards, 161 motion previews, a production-ready template",
             "url": "https://github.com/Vincentwei1021/video-shotcraft",
-            "stars": 2877,
-            "forks": 243,
+            "stars": 2881,
+            "forks": 245,
             "score": 99
         },
         {
@@ -29,7 +29,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "VictorTaelin/OptMem",
             "description": "Permanent memory for AI agents. A 426-token prompt, a script, plug and play.",
             "url": "https://github.com/VictorTaelin/OptMem",
-            "stars": 928,
+            "stars": 930,
             "forks": 52,
             "score": 99
         },
@@ -40,7 +40,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "0xwilliamortiz/ponytail-improved",
             "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
             "url": "https://github.com/0xwilliamortiz/ponytail-improved",
-            "stars": 562,
+            "stars": 564,
             "forks": 125,
             "score": 99
         },
@@ -95,9 +95,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "QwenAudio/qwen-audio-agent",
             "description": "A realtime voice runtime that keeps Agents talking, working, and present.  Real-time Voice Runtime for AI Agents",
             "url": "https://github.com/QwenAudio/qwen-audio-agent",
-            "stars": 336,
-            "forks": 25,
-            "score": 66
+            "stars": 349,
+            "forks": 26,
+            "score": 67
         },
         {
             "main_cat": "AI",
@@ -117,9 +117,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "Kritt-ai/open-kritt",
             "description": "Orchestrate AI agents to find real vulnerabilities in code.",
             "url": "https://github.com/Kritt-ai/open-kritt",
-            "stars": 459,
+            "stars": 460,
             "forks": 93,
-            "score": 61
+            "score": 62
         },
         {
             "main_cat": "AI",
@@ -150,7 +150,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "smixs/pohuy",
             "description": "\u0420\u0435\u0436\u0438\u043c \u0438\u0434\u0438\u043e\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u043e\u0433\u043e \u0440\u0443\u0441\u0441\u043a\u043e\u0433\u043e \u043c\u0430\u0442\u0430 \u0434\u043b\u044f AI-\u0430\u0433\u0435\u043d\u0442\u043e\u0432. \u041a\u043e\u0440\u043e\u0447\u0435, \u0434\u0443\u0448\u0435\u0432\u043d\u0435\u0435, \u044d\u0444\u0444\u0435\u043a\u0442\u0438\u0432\u043d\u0435\u0435. 18+",
             "url": "https://github.com/smixs/pohuy",
-            "stars": 803,
+            "stars": 802,
             "forks": 17,
             "score": 57
         },
@@ -161,9 +161,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "perplexityai/numbat",
             "description": "Visibility into AI agent activity on endpoints, with on-device detection, optional pre-action blocking, and forensic reconstruction.",
             "url": "https://github.com/perplexityai/numbat",
-            "stars": 372,
+            "stars": 380,
             "forks": 27,
-            "score": 56
+            "score": 57
         },
         {
             "main_cat": "AI",
@@ -183,7 +183,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "MarcosSete/awesome-free-ai-books",
             "description": "A curated list of free, legitimate AI/ML books",
             "url": "https://github.com/MarcosSete/awesome-free-ai-books",
-            "stars": 393,
+            "stars": 394,
             "forks": 37,
             "score": 54
         },
@@ -194,7 +194,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "yc-duan/fastctx",
             "description": "Fast, context-efficient repository tools for AI agents (MCP)",
             "url": "https://github.com/yc-duan/fastctx",
-            "stars": 657,
+            "stars": 658,
             "forks": 21,
             "score": 53
         },
@@ -205,7 +205,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "qaml-ai/camelAI",
             "description": "camelAI \u2014 an AI coding assistant platform built on Cloudflare Workers and Durable Objects",
             "url": "https://github.com/qaml-ai/camelAI",
-            "stars": 295,
+            "stars": 296,
             "forks": 19,
             "score": 50
         },
@@ -216,7 +216,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "finna/Finn-loop",
             "description": "The Finn-loop: a 3-skill AI software factory for Claude Code \u2014 spec, build, review. Humans merge.",
             "url": "https://github.com/finna/Finn-loop",
-            "stars": 271,
+            "stars": 272,
             "forks": 47,
             "score": 50
         },
@@ -234,13 +234,24 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
+            "name": "agents-council",
+            "full_name": "0xwilliamortiz/agents-council",
+            "description": "Multi-agents collaboration plugin for Claude Code - orchestrate multiple AI agents (Codex CLI, Gemini CLI, etc.) for diverse perspectives",
+            "url": "https://github.com/0xwilliamortiz/agents-council",
+            "stars": 269,
+            "forks": 37,
+            "score": 46
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
             "name": "Agent-Execution-Partnership",
             "full_name": "eli-labz/Agent-Execution-Partnership",
             "description": "Agent Execution Partnership AEE is an open-source control plane that ensures every AI agent action is authorized before it runs, observable while it runs, and verifiable after it completes.",
             "url": "https://github.com/eli-labz/Agent-Execution-Partnership",
             "stars": 204,
             "forks": 50,
-            "score": 46
+            "score": 45
         },
         {
             "main_cat": "AI",
@@ -249,9 +260,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "codejunkie99/graph-engineering",
             "description": "Graph engineering for AI agents: the 9-stage knowledge-graph pipeline (translated from SEU's graduate course) + task-graph orchestration patterns, as a Claude skill with teaching mode and paste-ready workflows",
             "url": "https://github.com/codejunkie99/graph-engineering",
-            "stars": 184,
-            "forks": 20,
+            "stars": 189,
+            "forks": 21,
             "score": 43
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "SimpleEnglish",
+            "full_name": "AminBlg/SimpleEnglish",
+            "description": "Agent skill: make LLMs write docs in ASD-STE100 Simplified Technical English \u2014 no AI slop",
+            "url": "https://github.com/AminBlg/SimpleEnglish",
+            "stars": 275,
+            "forks": 6,
+            "score": 42
         },
         {
             "main_cat": "AI",
@@ -273,17 +295,6 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/zjp1997720/zhijian-skills",
             "stars": 265,
             "forks": 23,
-            "score": 41
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "agents-council",
-            "full_name": "0xwilliamortiz/agents-council",
-            "description": "Multi-agents collaboration plugin for Claude Code - orchestrate multiple AI agents (Codex CLI, Gemini CLI, etc.) for diverse perspectives",
-            "url": "https://github.com/0xwilliamortiz/agents-council",
-            "stars": 185,
-            "forks": 22,
             "score": 41
         },
         {
@@ -326,7 +337,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "cneuralnetwork/smol-kimi-k3",
             "description": "A 49M-parameter Kimi K3-inspired language model trainable on one 8GB GPU",
             "url": "https://github.com/cneuralnetwork/smol-kimi-k3",
-            "stars": 78,
+            "stars": 79,
             "forks": 7,
             "score": 38
         },
@@ -337,19 +348,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "patsnap/patent-literature-search-mcp",
             "description": "Search 200M+ patents and scientific literature in natural language directly inside Claude, Cursor, or any MCP-compatible AI tool. Powered by PatSnap's global R&D intelligence database.",
             "url": "https://github.com/patsnap/patent-literature-search-mcp",
-            "stars": 165,
+            "stars": 171,
             "forks": 5,
-            "score": 37
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "collective-intelligence",
-            "full_name": "ailinone/collective-intelligence",
-            "description": "Ailin\u00b9 is an open-source collective intelligence engine where tens of thousands of AI models collaborate through dozens of coordination strategies, applying structured diversity and independent reasoning to improve reliability, auditability, and resilience.",
-            "url": "https://github.com/ailinone/collective-intelligence",
-            "stars": 163,
-            "forks": 10,
             "score": 37
         },
         {
@@ -586,6 +586,17 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
+            "name": "ai-debate",
+            "full_name": "yout0703/ai-debate",
+            "description": "Multi-model debate protocol on Cloudflare Workers / Durable Objects \u2014 research, cross-exam, vote, majority consensus",
+            "url": "https://github.com/yout0703/ai-debate",
+            "stars": 1,
+            "forks": 0,
+            "score": 30
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
             "name": "EAFE",
             "full_name": "eksses/EAFE",
             "description": "Minecraft elytra autopilot engine \u2014 protocol-level autonomous flight navigation using Mineflayer. Vanilla physics-compliant per-tick velocity updates, anti-cheat B\u00e9zier curves, FSM state machine, Nether hazard avoidance, and precision landing. Includes multi-AI-agent audit with cross-model scoring.",
@@ -662,5 +673,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-07-30 22:12"
+    "timestamp": "2026-07-30 23:57"
 };
