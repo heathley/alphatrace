@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "Vincentwei1021/video-shotcraft",
             "description": "AI video skill for Claude Code & Codex \u2014 cinematic product videos with Remotion: 106 shot recipe cards, 161 motion previews, a production-ready template",
             "url": "https://github.com/Vincentwei1021/video-shotcraft",
-            "stars": 2869,
-            "forks": 241,
+            "stars": 2873,
+            "forks": 243,
             "score": 99
         },
         {
@@ -18,8 +18,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "makecindy/cindy",
             "description": "Consider it done. The open-source AI agent that works out of the box \u00b7 \u60f3\u5230\uff0c\u5c31\u80fd\u505a\u5230\u3002\u5f00\u6e90\u3001\u5f00\u7bb1\u5373\u7528\u7684 AI Agent\u3002",
             "url": "https://github.com/makecindy/cindy",
-            "stars": 1169,
-            "forks": 148,
+            "stars": 1170,
+            "forks": 149,
             "score": 99
         },
         {
@@ -29,7 +29,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "VictorTaelin/OptMem",
             "description": "Permanent memory for AI agents. A 426-token prompt, a script, plug and play.",
             "url": "https://github.com/VictorTaelin/OptMem",
-            "stars": 922,
+            "stars": 926,
             "forks": 52,
             "score": 99
         },
@@ -51,8 +51,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "Jakubantalik/thinking-orbs",
             "description": "Dotted thought-orb loading indicators for AI & agent UIs \u2014 six tuned states, two sizes, auto dark/light",
             "url": "https://github.com/Jakubantalik/thinking-orbs",
-            "stars": 1256,
-            "forks": 95,
+            "stars": 1258,
+            "forks": 96,
             "score": 98
         },
         {
@@ -62,9 +62,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "mikiarlo3/ai-copywriter",
             "description": "An AI copywriter that uses real copywriting skills + real marketing knowledge with human tone.",
             "url": "https://github.com/mikiarlo3/ai-copywriter",
-            "stars": 986,
+            "stars": 987,
             "forks": 23,
-            "score": 97
+            "score": 89
         },
         {
             "main_cat": "AI",
@@ -73,7 +73,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Blaizzy/nativ",
             "description": "Local AI, native to your Mac. Chat, serve, monitor, and connect MLX models from one macOS app.",
             "url": "https://github.com/Blaizzy/nativ",
-            "stars": 1034,
+            "stars": 1035,
             "forks": 59,
             "score": 78
         },
@@ -84,20 +84,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "pireel/pireel",
             "description": "The open-source alternative to Capcut\u3001ChatCut. Drivable by any AI agent over MCP.",
             "url": "https://github.com/pireel/pireel",
-            "stars": 843,
+            "stars": 844,
             "forks": 72,
             "score": 73
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "open-kritt",
-            "full_name": "Kritt-ai/open-kritt",
-            "description": "Orchestrate AI agents to find real vulnerabilities in code.",
-            "url": "https://github.com/Kritt-ai/open-kritt",
-            "stars": 459,
-            "forks": 93,
-            "score": 64
         },
         {
             "main_cat": "AI",
@@ -106,9 +95,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "QwenAudio/qwen-audio-agent",
             "description": "A realtime voice runtime that keeps Agents talking, working, and present.  Real-time Voice Runtime for AI Agents",
             "url": "https://github.com/QwenAudio/qwen-audio-agent",
-            "stars": 319,
+            "stars": 326,
             "forks": 25,
-            "score": 64
+            "score": 65
         },
         {
             "main_cat": "AI",
@@ -124,11 +113,22 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
+            "name": "open-kritt",
+            "full_name": "Kritt-ai/open-kritt",
+            "description": "Orchestrate AI agents to find real vulnerabilities in code.",
+            "url": "https://github.com/Kritt-ai/open-kritt",
+            "stars": 459,
+            "forks": 93,
+            "score": 61
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
             "name": "open-ai-canvas",
             "full_name": "ddcat-ai/open-ai-canvas",
             "description": "\u9762\u5411 AI \u5f71\u89c6\u521b\u4f5c\u7684\u5f00\u6e90\u65e0\u9650\u753b\u5e03\u5de5\u4f5c\u53f0\uff0c\u96c6\u6210\u591a\u6a21\u6001\u751f\u6210\u3001\u5206\u955c\u7f16\u6392\u3001\u7d20\u6750\u7ba1\u7406\u4e0e Agent \u5de5\u4f5c\u6d41\u3002",
             "url": "https://github.com/ddcat-ai/open-ai-canvas",
-            "stars": 355,
+            "stars": 356,
             "forks": 85,
             "score": 61
         },
@@ -150,7 +150,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "smixs/pohuy",
             "description": "\u0420\u0435\u0436\u0438\u043c \u0438\u0434\u0438\u043e\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u043e\u0433\u043e \u0440\u0443\u0441\u0441\u043a\u043e\u0433\u043e \u043c\u0430\u0442\u0430 \u0434\u043b\u044f AI-\u0430\u0433\u0435\u043d\u0442\u043e\u0432. \u041a\u043e\u0440\u043e\u0447\u0435, \u0434\u0443\u0448\u0435\u0432\u043d\u0435\u0435, \u044d\u0444\u0444\u0435\u043a\u0442\u0438\u0432\u043d\u0435\u0435. 18+",
             "url": "https://github.com/smixs/pohuy",
-            "stars": 802,
+            "stars": 803,
             "forks": 17,
             "score": 57
         },
@@ -161,8 +161,19 @@ const ALPHA_DATA_V2 = {
             "full_name": "MarcosSete/awesome-free-ai-books",
             "description": "A curated list of free, legitimate AI/ML books",
             "url": "https://github.com/MarcosSete/awesome-free-ai-books",
-            "stars": 387,
+            "stars": 390,
             "forks": 36,
+            "score": 56
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "numbat",
+            "full_name": "perplexityai/numbat",
+            "description": "Visibility into AI agent activity on endpoints, with on-device detection, optional pre-action blocking, and forensic reconstruction.",
+            "url": "https://github.com/perplexityai/numbat",
+            "stars": 366,
+            "forks": 27,
             "score": 56
         },
         {
@@ -179,22 +190,11 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "numbat",
-            "full_name": "perplexityai/numbat",
-            "description": "Visibility into AI agent activity on endpoints, with on-device detection, optional pre-action blocking, and forensic reconstruction.",
-            "url": "https://github.com/perplexityai/numbat",
-            "stars": 349,
-            "forks": 25,
-            "score": 54
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
             "name": "fastctx",
             "full_name": "yc-duan/fastctx",
             "description": "Fast, context-efficient repository tools for AI agents (MCP)",
             "url": "https://github.com/yc-duan/fastctx",
-            "stars": 653,
+            "stars": 655,
             "forks": 21,
             "score": 53
         },
@@ -249,7 +249,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "codejunkie99/graph-engineering",
             "description": "Graph engineering for AI agents: the 9-stage knowledge-graph pipeline (translated from SEU's graduate course) + task-graph orchestration patterns, as a Claude skill with teaching mode and paste-ready workflows",
             "url": "https://github.com/codejunkie99/graph-engineering",
-            "stars": 181,
+            "stars": 183,
             "forks": 20,
             "score": 43
         },
@@ -262,7 +262,7 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/OpenBMB/MiniCPM-Robot",
             "stars": 273,
             "forks": 20,
-            "score": 42
+            "score": 41
         },
         {
             "main_cat": "AI",
@@ -304,7 +304,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "amirmushichge/cinematic-scroll-prompt-kit",
             "description": "Reusable AI prompt and project brief system for cinematic scroll-driven 2.5D websites.",
             "url": "https://github.com/amirmushichge/cinematic-scroll-prompt-kit",
-            "stars": 188,
+            "stars": 189,
             "forks": 20,
             "score": 38
         },
@@ -348,7 +348,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "ailinone/collective-intelligence",
             "description": "Ailin\u00b9 is an open-source collective intelligence engine where tens of thousands of AI models collaborate through dozens of coordination strategies, applying structured diversity and independent reasoning to improve reliability, auditability, and resilience.",
             "url": "https://github.com/ailinone/collective-intelligence",
-            "stars": 162,
+            "stars": 163,
             "forks": 10,
             "score": 37
         },
@@ -370,7 +370,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "dmirain/OctoForge",
             "description": "Self-hosted, multi-user agent platform for teams: skills, knowledge and API contracts live in the database and grow at runtime. Typed Python core (Protocol ports) you can embed in your own stack.",
             "url": "https://github.com/dmirain/OctoForge",
-            "stars": 15,
+            "stars": 17,
             "forks": 0,
             "score": 30
         },
@@ -662,5 +662,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-07-30 19:15"
+    "timestamp": "2026-07-30 21:00"
 };
