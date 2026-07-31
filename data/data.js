@@ -7,7 +7,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Vincentwei1021/video-shotcraft",
             "description": "AI video skill for Claude Code & Codex \u2014 cinematic product videos with Remotion: 106 shot recipe cards, 161 motion previews, a production-ready template",
             "url": "https://github.com/Vincentwei1021/video-shotcraft",
-            "stars": 3014,
+            "stars": 3018,
             "forks": 257,
             "score": 99
         },
@@ -29,7 +29,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "VictorTaelin/OptMem",
             "description": "Permanent memory for AI agents. A 426-token prompt, a script, plug and play.",
             "url": "https://github.com/VictorTaelin/OptMem",
-            "stars": 1016,
+            "stars": 1023,
             "forks": 59,
             "score": 99
         },
@@ -40,7 +40,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "0xwilliamortiz/ponytail-improved",
             "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
             "url": "https://github.com/0xwilliamortiz/ponytail-improved",
-            "stars": 569,
+            "stars": 570,
             "forks": 127,
             "score": 99
         },
@@ -51,7 +51,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Jakubantalik/thinking-orbs",
             "description": "Dotted thought-orb loading indicators for AI & agent UIs \u2014 six tuned states, two sizes, auto dark/light",
             "url": "https://github.com/Jakubantalik/thinking-orbs",
-            "stars": 1277,
+            "stars": 1279,
             "forks": 98,
             "score": 94
         },
@@ -62,7 +62,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "QwenAudio/qwen-audio-agent",
             "description": "A realtime voice runtime that keeps Agents talking, working, and present.  Real-time Voice Runtime for AI Agents",
             "url": "https://github.com/QwenAudio/qwen-audio-agent",
-            "stars": 601,
+            "stars": 602,
             "forks": 43,
             "score": 85
         },
@@ -84,9 +84,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "Blaizzy/nativ",
             "description": "Local AI, native to your Mac. Chat, serve, monitor, and connect MLX models from one macOS app.",
             "url": "https://github.com/Blaizzy/nativ",
-            "stars": 1052,
+            "stars": 1053,
             "forks": 61,
             "score": 76
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "SimpleEnglish",
+            "full_name": "AminBlg/SimpleEnglish",
+            "description": "Agent skill: make LLMs write docs in ASD-STE100 Simplified Technical English \u2014 no AI slop",
+            "url": "https://github.com/AminBlg/SimpleEnglish",
+            "stars": 1010,
+            "forks": 29,
+            "score": 73
         },
         {
             "main_cat": "AI",
@@ -102,23 +113,12 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "SimpleEnglish",
-            "full_name": "AminBlg/SimpleEnglish",
-            "description": "Agent skill: make LLMs write docs in ASD-STE100 Simplified Technical English \u2014 no AI slop",
-            "url": "https://github.com/AminBlg/SimpleEnglish",
-            "stars": 955,
-            "forks": 27,
-            "score": 70
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
             "name": "numbat",
             "full_name": "perplexityai/numbat",
             "description": "Visibility into AI agent activity on endpoints, with on-device detection, optional pre-action blocking, and forensic reconstruction.",
             "url": "https://github.com/perplexityai/numbat",
-            "stars": 500,
-            "forks": 37,
+            "stars": 505,
+            "forks": 38,
             "score": 62
         },
         {
@@ -172,9 +172,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "MarcosSete/awesome-free-ai-books",
             "description": "A curated list of free, legitimate AI/ML books",
             "url": "https://github.com/MarcosSete/awesome-free-ai-books",
-            "stars": 405,
+            "stars": 406,
             "forks": 40,
-            "score": 55
+            "score": 53
         },
         {
             "main_cat": "AI",
@@ -201,34 +201,23 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "netmon",
-            "full_name": "Role1776/netmon",
-            "description": "Self-hosted network monitor - hourly speed tests, LAN device counts via ARP scan, and sarcastic AI-generated reports delivered to Telegram or Discord.",
-            "url": "https://github.com/Role1776/netmon",
-            "stars": 265,
-            "forks": 38,
-            "score": 47
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "ai-sdk",
-            "full_name": "grafana/ai-sdk",
-            "description": "Grafana AI SDK for Go \u2014 streaming, tool-calling AI backends that speak fluent @ai-sdk/react",
-            "url": "https://github.com/grafana/ai-sdk",
-            "stars": 152,
-            "forks": 5,
-            "score": 47
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
             "name": "agents-council",
             "full_name": "0xwilliamortiz/agents-council",
             "description": "Multi-agents collaboration plugin for Claude Code - orchestrate multiple AI agents (Codex CLI, Gemini CLI, etc.) for diverse perspectives",
             "url": "https://github.com/0xwilliamortiz/agents-council",
             "stars": 293,
             "forks": 37,
+            "score": 46
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "netmon",
+            "full_name": "Role1776/netmon",
+            "description": "Self-hosted network monitor - hourly speed tests, LAN device counts via ARP scan, and sarcastic AI-generated reports delivered to Telegram or Discord.",
+            "url": "https://github.com/Role1776/netmon",
+            "stars": 265,
+            "forks": 38,
             "score": 46
         },
         {
@@ -250,7 +239,7 @@ const ALPHA_DATA_V2 = {
             "description": "Graph engineering for AI agents: the 9-stage knowledge-graph pipeline (translated from SEU's graduate course) + task-graph orchestration patterns, as a Claude skill with teaching mode and paste-ready workflows",
             "url": "https://github.com/codejunkie99/graph-engineering",
             "stars": 229,
-            "forks": 28,
+            "forks": 29,
             "score": 45
         },
         {
@@ -263,6 +252,17 @@ const ALPHA_DATA_V2 = {
             "stars": 205,
             "forks": 50,
             "score": 45
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "ai-sdk",
+            "full_name": "grafana/ai-sdk",
+            "description": "Grafana AI SDK for Go \u2014 streaming, tool-calling AI backends that speak fluent @ai-sdk/react",
+            "url": "https://github.com/grafana/ai-sdk",
+            "stars": 153,
+            "forks": 5,
+            "score": 44
         },
         {
             "main_cat": "AI",
@@ -304,7 +304,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Evokoa/pgContext",
             "description": "A full AI search engine, built into Postgres.",
             "url": "https://github.com/Evokoa/pgContext",
-            "stars": 163,
+            "stars": 166,
             "forks": 12,
             "score": 38
         },
@@ -662,5 +662,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-07-31 20:57"
+    "timestamp": "2026-07-31 22:03"
 };
