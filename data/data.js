@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "Vincentwei1021/video-shotcraft",
             "description": "AI video skill for Claude Code & Codex \u2014 cinematic product videos with Remotion: 106 shot recipe cards, 161 motion previews, a production-ready template",
             "url": "https://github.com/Vincentwei1021/video-shotcraft",
-            "stars": 2943,
-            "forks": 255,
+            "stars": 2955,
+            "forks": 256,
             "score": 99
         },
         {
@@ -18,8 +18,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "makecindy/cindy",
             "description": "Consider it done. The open-source AI agent that works out of the box \u00b7 \u60f3\u5230\uff0c\u5c31\u80fd\u505a\u5230\u3002\u5f00\u6e90\u3001\u5f00\u7bb1\u5373\u7528\u7684 AI Agent\u3002",
             "url": "https://github.com/makecindy/cindy",
-            "stars": 1238,
-            "forks": 158,
+            "stars": 1248,
+            "forks": 159,
             "score": 99
         },
         {
@@ -29,8 +29,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "VictorTaelin/OptMem",
             "description": "Permanent memory for AI agents. A 426-token prompt, a script, plug and play.",
             "url": "https://github.com/VictorTaelin/OptMem",
-            "stars": 973,
-            "forks": 56,
+            "stars": 984,
+            "forks": 57,
             "score": 99
         },
         {
@@ -40,7 +40,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "0xwilliamortiz/ponytail-improved",
             "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
             "url": "https://github.com/0xwilliamortiz/ponytail-improved",
-            "stars": 568,
+            "stars": 569,
             "forks": 127,
             "score": 99
         },
@@ -51,8 +51,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "Jakubantalik/thinking-orbs",
             "description": "Dotted thought-orb loading indicators for AI & agent UIs \u2014 six tuned states, two sizes, auto dark/light",
             "url": "https://github.com/Jakubantalik/thinking-orbs",
-            "stars": 1268,
-            "forks": 96,
+            "stars": 1270,
+            "forks": 97,
             "score": 93
         },
         {
@@ -62,7 +62,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "mikiarlo3/ai-copywriter",
             "description": "An AI copywriter that uses real copywriting skills + real marketing knowledge with human tone.",
             "url": "https://github.com/mikiarlo3/ai-copywriter",
-            "stars": 991,
+            "stars": 993,
             "forks": 23,
             "score": 90
         },
@@ -73,9 +73,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "QwenAudio/qwen-audio-agent",
             "description": "A realtime voice runtime that keeps Agents talking, working, and present.  Real-time Voice Runtime for AI Agents",
             "url": "https://github.com/QwenAudio/qwen-audio-agent",
-            "stars": 550,
-            "forks": 39,
-            "score": 80
+            "stars": 574,
+            "forks": 41,
+            "score": 82
         },
         {
             "main_cat": "AI",
@@ -84,8 +84,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "Blaizzy/nativ",
             "description": "Local AI, native to your Mac. Chat, serve, monitor, and connect MLX models from one macOS app.",
             "url": "https://github.com/Blaizzy/nativ",
-            "stars": 1043,
-            "forks": 59,
+            "stars": 1046,
+            "forks": 61,
             "score": 79
         },
         {
@@ -95,20 +95,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "pireel/pireel",
             "description": "The open-source alternative to Capcut\u3001ChatCut. Drivable by any AI agent over MCP.",
             "url": "https://github.com/pireel/pireel",
-            "stars": 854,
+            "stars": 855,
             "forks": 73,
             "score": 70
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "open-kritt",
-            "full_name": "Kritt-ai/open-kritt",
-            "description": "Orchestrate AI agents to find real vulnerabilities in code.",
-            "url": "https://github.com/Kritt-ai/open-kritt",
-            "stars": 460,
-            "forks": 93,
-            "score": 62
         },
         {
             "main_cat": "AI",
@@ -117,20 +106,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "AminBlg/SimpleEnglish",
             "description": "Agent skill: make LLMs write docs in ASD-STE100 Simplified Technical English \u2014 no AI slop",
             "url": "https://github.com/AminBlg/SimpleEnglish",
-            "stars": 748,
-            "forks": 20,
-            "score": 61
+            "stars": 804,
+            "forks": 22,
+            "score": 64
         },
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "open-ai-canvas",
-            "full_name": "ddcat-ai/open-ai-canvas",
-            "description": "\u9762\u5411 AI \u5f71\u89c6\u521b\u4f5c\u7684\u5f00\u6e90\u65e0\u9650\u753b\u5e03\u5de5\u4f5c\u53f0\uff0c\u96c6\u6210\u591a\u6a21\u6001\u751f\u6210\u3001\u5206\u955c\u7f16\u6392\u3001\u7d20\u6750\u7ba1\u7406\u4e0e Agent \u5de5\u4f5c\u6d41\u3002",
-            "url": "https://github.com/ddcat-ai/open-ai-canvas",
-            "stars": 368,
-            "forks": 88,
-            "score": 60
+            "name": "open-kritt",
+            "full_name": "Kritt-ai/open-kritt",
+            "description": "Orchestrate AI agents to find real vulnerabilities in code.",
+            "url": "https://github.com/Kritt-ai/open-kritt",
+            "stars": 463,
+            "forks": 94,
+            "score": 62
         },
         {
             "main_cat": "AI",
@@ -139,9 +128,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "TryCaspian/caspian-sdk",
             "description": "Agent communication SDK. The open-source agent communication layer for AI agents \u2014 email, WhatsApp, Slack, Discord, Telegram, SMS. Python & TypeScript.",
             "url": "https://github.com/TryCaspian/caspian-sdk",
-            "stars": 359,
-            "forks": 126,
-            "score": 60
+            "stars": 363,
+            "forks": 127,
+            "score": 61
         },
         {
             "main_cat": "AI",
@@ -150,9 +139,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "perplexityai/numbat",
             "description": "Visibility into AI agent activity on endpoints, with on-device detection, optional pre-action blocking, and forensic reconstruction.",
             "url": "https://github.com/perplexityai/numbat",
-            "stars": 459,
-            "forks": 32,
-            "score": 59
+            "stars": 468,
+            "forks": 34,
+            "score": 60
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "open-ai-canvas",
+            "full_name": "ddcat-ai/open-ai-canvas",
+            "description": "\u9762\u5411 AI \u5f71\u89c6\u521b\u4f5c\u7684\u5f00\u6e90\u65e0\u9650\u753b\u5e03\u5de5\u4f5c\u53f0\uff0c\u96c6\u6210\u591a\u6a21\u6001\u751f\u6210\u3001\u5206\u955c\u7f16\u6392\u3001\u7d20\u6750\u7ba1\u7406\u4e0e Agent \u5de5\u4f5c\u6d41\u3002",
+            "url": "https://github.com/ddcat-ai/open-ai-canvas",
+            "stars": 369,
+            "forks": 88,
+            "score": 60
         },
         {
             "main_cat": "AI",
@@ -161,8 +161,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "LYiHub/pub-local-jarvis",
             "description": "Windows \u672c\u5730\u591a\u6a21\u6001 AI \u684c\u9762\u684c\u5ba0\uff0c\u652f\u6301\u5c4f\u5e55\u4e0e\u97f3\u9891\u611f\u77e5\u3002",
             "url": "https://github.com/LYiHub/pub-local-jarvis",
-            "stars": 299,
-            "forks": 62,
+            "stars": 304,
+            "forks": 63,
             "score": 57
         },
         {
@@ -172,7 +172,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "MarcosSete/awesome-free-ai-books",
             "description": "A curated list of free, legitimate AI/ML books",
             "url": "https://github.com/MarcosSete/awesome-free-ai-books",
-            "stars": 399,
+            "stars": 400,
             "forks": 39,
             "score": 55
         },
@@ -183,7 +183,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "qaml-ai/camelAI",
             "description": "camelAI \u2014 an AI coding assistant platform built on Cloudflare Workers and Durable Objects",
             "url": "https://github.com/qaml-ai/camelAI",
-            "stars": 303,
+            "stars": 306,
             "forks": 20,
             "score": 51
         },
@@ -216,7 +216,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "0xwilliamortiz/agents-council",
             "description": "Multi-agents collaboration plugin for Claude Code - orchestrate multiple AI agents (Codex CLI, Gemini CLI, etc.) for diverse perspectives",
             "url": "https://github.com/0xwilliamortiz/agents-council",
-            "stars": 292,
+            "stars": 293,
             "forks": 37,
             "score": 46
         },
@@ -227,20 +227,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "codejunkie99/graph-engineering",
             "description": "Graph engineering for AI agents: the 9-stage knowledge-graph pipeline (translated from SEU's graduate course) + task-graph orchestration patterns, as a Claude skill with teaching mode and paste-ready workflows",
             "url": "https://github.com/codejunkie99/graph-engineering",
-            "stars": 217,
-            "forks": 25,
-            "score": 45
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "Agent-Execution-Partnership",
-            "full_name": "eli-labz/Agent-Execution-Partnership",
-            "description": "Agent Execution Partnership AEE is an open-source control plane that ensures every AI agent action is authorized before it runs, observable while it runs, and verifiable after it completes.",
-            "url": "https://github.com/eli-labz/Agent-Execution-Partnership",
-            "stars": 204,
-            "forks": 50,
-            "score": 45
+            "stars": 221,
+            "forks": 28,
+            "score": 46
         },
         {
             "main_cat": "AI",
@@ -249,8 +238,19 @@ const ALPHA_DATA_V2 = {
             "full_name": "Autumn-27/ARTEX",
             "description": "AI \u81ea\u4e3b\u6e17\u900f\u6d4b\u8bd5\u7cfb\u7edf",
             "url": "https://github.com/Autumn-27/ARTEX",
-            "stars": 174,
+            "stars": 176,
             "forks": 20,
+            "score": 46
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "Agent-Execution-Partnership",
+            "full_name": "eli-labz/Agent-Execution-Partnership",
+            "description": "Agent Execution Partnership AEE is an open-source control plane that ensures every AI agent action is authorized before it runs, observable while it runs, and verifiable after it completes.",
+            "url": "https://github.com/eli-labz/Agent-Execution-Partnership",
+            "stars": 205,
+            "forks": 50,
             "score": 45
         },
         {
@@ -260,7 +260,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "grafana/ai-sdk",
             "description": "Grafana AI SDK for Go \u2014 streaming, tool-calling AI backends that speak fluent @ai-sdk/react",
             "url": "https://github.com/grafana/ai-sdk",
-            "stars": 135,
+            "stars": 139,
             "forks": 4,
             "score": 45
         },
@@ -282,7 +282,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "NulightJens/humanizer-stack",
             "description": "Two-pass pipeline for removing AI writing tells from outward-facing text: a surface pass plus a structural pass grounded in the StoryScope study. Packaged as Claude Code Skills.      Free community: skool.com/jens-ai-community-1306",
             "url": "https://github.com/NulightJens/humanizer-stack",
-            "stars": 160,
+            "stars": 162,
             "forks": 10,
             "score": 40
         },
@@ -294,7 +294,7 @@ const ALPHA_DATA_V2 = {
             "description": "A 49M-parameter Kimi K3-inspired language model trainable on one 8GB GPU",
             "url": "https://github.com/cneuralnetwork/smol-kimi-k3",
             "stars": 80,
-            "forks": 8,
+            "forks": 9,
             "score": 39
         },
         {
@@ -315,7 +315,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "patsnap/patent-literature-search-mcp",
             "description": "Search 200M+ patents and scientific literature in natural language directly inside Claude, Cursor, or any MCP-compatible AI tool. Powered by PatSnap's global R&D intelligence database.",
             "url": "https://github.com/patsnap/patent-literature-search-mcp",
-            "stars": 174,
+            "stars": 175,
             "forks": 5,
             "score": 37
         },
@@ -326,7 +326,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "ailinone/collective-intelligence",
             "description": "Ailin\u00b9 is an open-source collective intelligence engine where tens of thousands of AI models collaborate through dozens of coordination strategies, applying structured diversity and independent reasoning to improve reliability, auditability, and resilience.",
             "url": "https://github.com/ailinone/collective-intelligence",
-            "stars": 165,
+            "stars": 167,
             "forks": 11,
             "score": 37
         },
@@ -337,7 +337,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Evokoa/pgContext",
             "description": "A full AI search engine, built into Postgres.",
             "url": "https://github.com/Evokoa/pgContext",
-            "stars": 160,
+            "stars": 161,
             "forks": 11,
             "score": 37
         },
@@ -640,5 +640,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-07-31 11:27"
+    "timestamp": "2026-07-31 13:48"
 };
