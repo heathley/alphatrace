@@ -7,7 +7,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Vincentwei1021/video-shotcraft",
             "description": "AI video skill for Claude Code & Codex \u2014 cinematic product videos with Remotion: 106 shot recipe cards, 161 motion previews, a production-ready template",
             "url": "https://github.com/Vincentwei1021/video-shotcraft",
-            "stars": 2979,
+            "stars": 2997,
             "forks": 257,
             "score": 99
         },
@@ -18,19 +18,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "makecindy/cindy",
             "description": "Consider it done. The open-source AI agent that works out of the box \u00b7 \u60f3\u5230\uff0c\u5c31\u80fd\u505a\u5230\u3002\u5f00\u6e90\u3001\u5f00\u7bb1\u5373\u7528\u7684 AI Agent\u3002",
             "url": "https://github.com/makecindy/cindy",
-            "stars": 1253,
+            "stars": 1257,
             "forks": 161,
-            "score": 99
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI Agents",
-            "name": "OptMem",
-            "full_name": "VictorTaelin/OptMem",
-            "description": "Permanent memory for AI agents. A 426-token prompt, a script, plug and play.",
-            "url": "https://github.com/VictorTaelin/OptMem",
-            "stars": 996,
-            "forks": 58,
             "score": 99
         },
         {
@@ -46,14 +35,25 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
+            "sub_cat": "AI Agents",
+            "name": "OptMem",
+            "full_name": "VictorTaelin/OptMem",
+            "description": "Permanent memory for AI agents. A 426-token prompt, a script, plug and play.",
+            "url": "https://github.com/VictorTaelin/OptMem",
+            "stars": 1001,
+            "forks": 58,
+            "score": 98
+        },
+        {
+            "main_cat": "AI",
             "sub_cat": null,
             "name": "thinking-orbs",
             "full_name": "Jakubantalik/thinking-orbs",
             "description": "Dotted thought-orb loading indicators for AI & agent UIs \u2014 six tuned states, two sizes, auto dark/light",
             "url": "https://github.com/Jakubantalik/thinking-orbs",
-            "stars": 1271,
+            "stars": 1274,
             "forks": 98,
-            "score": 93
+            "score": 94
         },
         {
             "main_cat": "AI",
@@ -73,7 +73,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "QwenAudio/qwen-audio-agent",
             "description": "A realtime voice runtime that keeps Agents talking, working, and present.  Real-time Voice Runtime for AI Agents",
             "url": "https://github.com/QwenAudio/qwen-audio-agent",
-            "stars": 584,
+            "stars": 593,
             "forks": 43,
             "score": 84
         },
@@ -84,7 +84,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Blaizzy/nativ",
             "description": "Local AI, native to your Mac. Chat, serve, monitor, and connect MLX models from one macOS app.",
             "url": "https://github.com/Blaizzy/nativ",
-            "stars": 1046,
+            "stars": 1051,
             "forks": 61,
             "score": 76
         },
@@ -106,9 +106,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "AminBlg/SimpleEnglish",
             "description": "Agent skill: make LLMs write docs in ASD-STE100 Simplified Technical English \u2014 no AI slop",
             "url": "https://github.com/AminBlg/SimpleEnglish",
-            "stars": 851,
-            "forks": 23,
-            "score": 66
+            "stars": 877,
+            "forks": 24,
+            "score": 67
         },
         {
             "main_cat": "AI",
@@ -124,6 +124,17 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
+            "name": "numbat",
+            "full_name": "perplexityai/numbat",
+            "description": "Visibility into AI agent activity on endpoints, with on-device detection, optional pre-action blocking, and forensic reconstruction.",
+            "url": "https://github.com/perplexityai/numbat",
+            "stars": 487,
+            "forks": 36,
+            "score": 61
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
             "name": "caspian-sdk",
             "full_name": "TryCaspian/caspian-sdk",
             "description": "Agent communication SDK. The open-source agent communication layer for AI agents \u2014 email, WhatsApp, Slack, Discord, Telegram, SMS. Python & TypeScript.",
@@ -135,22 +146,11 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "numbat",
-            "full_name": "perplexityai/numbat",
-            "description": "Visibility into AI agent activity on endpoints, with on-device detection, optional pre-action blocking, and forensic reconstruction.",
-            "url": "https://github.com/perplexityai/numbat",
-            "stars": 476,
-            "forks": 34,
-            "score": 60
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
             "name": "open-ai-canvas",
             "full_name": "ddcat-ai/open-ai-canvas",
             "description": "\u9762\u5411 AI \u5f71\u89c6\u521b\u4f5c\u7684\u5f00\u6e90\u65e0\u9650\u753b\u5e03\u5de5\u4f5c\u53f0\uff0c\u96c6\u6210\u591a\u6a21\u6001\u751f\u6210\u3001\u5206\u955c\u7f16\u6392\u3001\u7d20\u6750\u7ba1\u7406\u4e0e Agent \u5de5\u4f5c\u6d41\u3002",
             "url": "https://github.com/ddcat-ai/open-ai-canvas",
-            "stars": 374,
+            "stars": 375,
             "forks": 89,
             "score": 60
         },
@@ -172,20 +172,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "MarcosSete/awesome-free-ai-books",
             "description": "A curated list of free, legitimate AI/ML books",
             "url": "https://github.com/MarcosSete/awesome-free-ai-books",
-            "stars": 400,
+            "stars": 403,
             "forks": 39,
             "score": 55
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "Finn-loop",
-            "full_name": "finna/Finn-loop",
-            "description": "The Finn-loop: a 3-skill AI software factory for Claude Code \u2014 spec, build, review. Humans merge.",
-            "url": "https://github.com/finna/Finn-loop",
-            "stars": 275,
-            "forks": 47,
-            "score": 51
         },
         {
             "main_cat": "AI",
@@ -194,8 +183,19 @@ const ALPHA_DATA_V2 = {
             "full_name": "qaml-ai/camelAI",
             "description": "camelAI \u2014 an AI coding assistant platform built on Cloudflare Workers and Durable Objects",
             "url": "https://github.com/qaml-ai/camelAI",
-            "stars": 308,
+            "stars": 310,
             "forks": 20,
+            "score": 49
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "Finn-loop",
+            "full_name": "finna/Finn-loop",
+            "description": "The Finn-loop: a 3-skill AI software factory for Claude Code \u2014 spec, build, review. Humans merge.",
+            "url": "https://github.com/finna/Finn-loop",
+            "stars": 276,
+            "forks": 47,
             "score": 49
         },
         {
@@ -234,11 +234,22 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
+            "name": "ai-sdk",
+            "full_name": "grafana/ai-sdk",
+            "description": "Grafana AI SDK for Go \u2014 streaming, tool-calling AI backends that speak fluent @ai-sdk/react",
+            "url": "https://github.com/grafana/ai-sdk",
+            "stars": 148,
+            "forks": 5,
+            "score": 46
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
             "name": "graph-engineering",
             "full_name": "codejunkie99/graph-engineering",
             "description": "Graph engineering for AI agents: the 9-stage knowledge-graph pipeline (translated from SEU's graduate course) + task-graph orchestration patterns, as a Claude skill with teaching mode and paste-ready workflows",
             "url": "https://github.com/codejunkie99/graph-engineering",
-            "stars": 223,
+            "stars": 227,
             "forks": 28,
             "score": 45
         },
@@ -251,17 +262,6 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/eli-labz/Agent-Execution-Partnership",
             "stars": 205,
             "forks": 50,
-            "score": 45
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "ai-sdk",
-            "full_name": "grafana/ai-sdk",
-            "description": "Grafana AI SDK for Go \u2014 streaming, tool-calling AI backends that speak fluent @ai-sdk/react",
-            "url": "https://github.com/grafana/ai-sdk",
-            "stars": 142,
-            "forks": 4,
             "score": 45
         },
         {
@@ -288,6 +288,17 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
+            "sub_cat": null,
+            "name": "BossConsole",
+            "full_name": "risa-labs-inc/BossConsole",
+            "description": "Open-source, multi-platform harness for AI agents \u2014 a native, multi-threaded operator's console (JVM, not Electron) to run Claude Code, Codex, Gemini or OpenCode with a real browser, terminal, editor, secrets & 100+ MCP tools. Built for enterprises, science & research.",
+            "url": "https://github.com/risa-labs-inc/BossConsole",
+            "stars": 209,
+            "forks": 6,
+            "score": 38
+        },
+        {
+            "main_cat": "AI",
             "sub_cat": "AI General",
             "name": "smol-kimi-k3",
             "full_name": "cneuralnetwork/smol-kimi-k3",
@@ -295,17 +306,6 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/cneuralnetwork/smol-kimi-k3",
             "stars": 80,
             "forks": 9,
-            "score": 39
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "BossConsole",
-            "full_name": "risa-labs-inc/BossConsole",
-            "description": "Open-source, multi-platform harness for AI agents \u2014 a native, multi-threaded operator's console (JVM, not Electron) to run Claude Code, Codex, Gemini or OpenCode with a real browser, terminal, editor, secrets & 100+ MCP tools. Built for enterprises, science & research.",
-            "url": "https://github.com/risa-labs-inc/BossConsole",
-            "stars": 208,
-            "forks": 6,
             "score": 38
         },
         {
@@ -315,7 +315,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "patsnap/patent-literature-search-mcp",
             "description": "Search 200M+ patents and scientific literature in natural language directly inside Claude, Cursor, or any MCP-compatible AI tool. Powered by PatSnap's global R&D intelligence database.",
             "url": "https://github.com/patsnap/patent-literature-search-mcp",
-            "stars": 176,
+            "stars": 177,
             "forks": 5,
             "score": 37
         },
@@ -351,6 +351,17 @@ const ALPHA_DATA_V2 = {
             "stars": 110,
             "forks": 4,
             "score": 37
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "microkimi",
+            "full_name": "serphen/microkimi",
+            "description": "Run and train your own miniature Kimi K3: a zero-dependency Rust inference engine, reimplemented from scratch - and nanokimi, a small model trained from scratch on CPU by the included training pipeline. Talks straight to the Metal API for GPU on macOS - CPU mode stays the fastest at small model sizes.",
+            "url": "https://github.com/serphen/microkimi",
+            "stars": 9,
+            "forks": 2,
+            "score": 32
         },
         {
             "main_cat": "AI",
@@ -640,5 +651,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-07-31 15:58"
+    "timestamp": "2026-07-31 17:38"
 };
