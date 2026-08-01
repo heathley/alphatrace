@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "Vincentwei1021/video-shotcraft",
             "description": "AI video skill for Claude Code & Codex \u2014 cinematic product videos with Remotion: 106 shot recipe cards, 161 motion previews, a production-ready template",
             "url": "https://github.com/Vincentwei1021/video-shotcraft",
-            "stars": 3108,
-            "forks": 268,
+            "stars": 3118,
+            "forks": 269,
             "score": 99
         },
         {
@@ -18,8 +18,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "makecindy/cindy",
             "description": "Consider it done. The open-source AI agent that works out of the box \u00b7 \u60f3\u5230\uff0c\u5c31\u80fd\u505a\u5230\u3002\u5f00\u6e90\u3001\u5f00\u7bb1\u5373\u7528\u7684 AI Agent\u3002",
             "url": "https://github.com/makecindy/cindy",
-            "stars": 1335,
-            "forks": 168,
+            "stars": 1344,
+            "forks": 170,
             "score": 99
         },
         {
@@ -29,7 +29,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "VictorTaelin/OptMem",
             "description": "Permanent memory for AI agents. A 426-token prompt, a script, plug and play.",
             "url": "https://github.com/VictorTaelin/OptMem",
-            "stars": 1051,
+            "stars": 1055,
             "forks": 61,
             "score": 99
         },
@@ -40,7 +40,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "0xwilliamortiz/ponytail-improved",
             "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
             "url": "https://github.com/0xwilliamortiz/ponytail-improved",
-            "stars": 573,
+            "stars": 574,
             "forks": 127,
             "score": 99
         },
@@ -51,9 +51,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "QwenAudio/qwen-audio-agent",
             "description": "A realtime voice runtime that keeps Agents talking, working, and present.  Real-time Voice Runtime for AI Agents",
             "url": "https://github.com/QwenAudio/qwen-audio-agent",
-            "stars": 766,
-            "forks": 54,
-            "score": 91
+            "stars": 843,
+            "forks": 60,
+            "score": 97
         },
         {
             "main_cat": "AI",
@@ -62,7 +62,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Jakubantalik/thinking-orbs",
             "description": "Dotted thought-orb loading indicators for AI & agent UIs \u2014 six tuned states, two sizes, auto dark/light",
             "url": "https://github.com/Jakubantalik/thinking-orbs",
-            "stars": 1299,
+            "stars": 1303,
             "forks": 99,
             "score": 90
         },
@@ -73,8 +73,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "mikiarlo3/ai-copywriter",
             "description": "An AI copywriter that uses real copywriting skills + real marketing knowledge with human tone.",
             "url": "https://github.com/mikiarlo3/ai-copywriter",
-            "stars": 997,
-            "forks": 23,
+            "stars": 999,
+            "forks": 24,
             "score": 84
         },
         {
@@ -84,7 +84,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "AminBlg/SimpleEnglish",
             "description": "Agent skill: make LLMs write docs in ASD-STE100 Simplified Technical English \u2014 no AI slop",
             "url": "https://github.com/AminBlg/SimpleEnglish",
-            "stars": 1232,
+            "stars": 1244,
             "forks": 37,
             "score": 79
         },
@@ -95,7 +95,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Blaizzy/nativ",
             "description": "Local AI, native to your Mac. Chat, serve, monitor, and connect MLX models from one macOS app.",
             "url": "https://github.com/Blaizzy/nativ",
-            "stars": 1057,
+            "stars": 1058,
             "forks": 61,
             "score": 76
         },
@@ -107,7 +107,7 @@ const ALPHA_DATA_V2 = {
             "description": "The open-source alternative to Capcut\u3001ChatCut. Drivable by any AI agent over MCP.",
             "url": "https://github.com/pireel/pireel",
             "stars": 862,
-            "forks": 74,
+            "forks": 75,
             "score": 68
         },
         {
@@ -117,9 +117,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "perplexityai/numbat",
             "description": "Visibility into AI agent activity on endpoints, with on-device detection, optional pre-action blocking, and forensic reconstruction.",
             "url": "https://github.com/perplexityai/numbat",
-            "stars": 556,
-            "forks": 47,
-            "score": 63
+            "stars": 565,
+            "forks": 48,
+            "score": 64
         },
         {
             "main_cat": "AI",
@@ -161,8 +161,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "LYiHub/pub-local-jarvis",
             "description": "Windows \u672c\u5730\u591a\u6a21\u6001 AI \u684c\u9762\u684c\u5ba0\uff0c\u652f\u6301\u5c4f\u5e55\u4e0e\u97f3\u9891\u611f\u77e5\u3002",
             "url": "https://github.com/LYiHub/pub-local-jarvis",
-            "stars": 314,
-            "forks": 65,
+            "stars": 315,
+            "forks": 66,
             "score": 56
         },
         {
@@ -172,7 +172,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "MarcosSete/awesome-free-ai-books",
             "description": "A curated list of free, legitimate AI/ML books",
             "url": "https://github.com/MarcosSete/awesome-free-ai-books",
-            "stars": 415,
+            "stars": 416,
             "forks": 41,
             "score": 54
         },
@@ -183,7 +183,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "qaml-ai/camelAI",
             "description": "camelAI \u2014 an AI coding assistant platform built on Cloudflare Workers and Durable Objects",
             "url": "https://github.com/qaml-ai/camelAI",
-            "stars": 316,
+            "stars": 317,
             "forks": 23,
             "score": 50
         },
@@ -201,17 +201,6 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "graph-engineering",
-            "full_name": "codejunkie99/graph-engineering",
-            "description": "Graph engineering for AI agents: the 9-stage knowledge-graph pipeline (translated from SEU's graduate course) + task-graph orchestration patterns, as a Claude skill with teaching mode and paste-ready workflows",
-            "url": "https://github.com/codejunkie99/graph-engineering",
-            "stars": 258,
-            "forks": 33,
-            "score": 47
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
             "name": "netmon",
             "full_name": "Role1776/netmon",
             "description": "Self-hosted network monitor - hourly speed tests, LAN device counts via ARP scan, and sarcastic AI-generated reports delivered to Telegram or Discord.",
@@ -223,11 +212,22 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
+            "name": "graph-engineering",
+            "full_name": "codejunkie99/graph-engineering",
+            "description": "Graph engineering for AI agents: the 9-stage knowledge-graph pipeline (translated from SEU's graduate course) + task-graph orchestration patterns, as a Claude skill with teaching mode and paste-ready workflows",
+            "url": "https://github.com/codejunkie99/graph-engineering",
+            "stars": 258,
+            "forks": 33,
+            "score": 46
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
             "name": "ai-sdk",
             "full_name": "grafana/ai-sdk",
             "description": "Grafana AI SDK for Go \u2014 streaming, tool-calling AI backends that speak fluent @ai-sdk/react",
             "url": "https://github.com/grafana/ai-sdk",
-            "stars": 168,
+            "stars": 170,
             "forks": 6,
             "score": 46
         },
@@ -260,7 +260,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Autumn-27/ARTEX",
             "description": "AI \u81ea\u4e3b\u6e17\u900f\u6d4b\u8bd5\u7cfb\u7edf",
             "url": "https://github.com/Autumn-27/ARTEX",
-            "stars": 179,
+            "stars": 181,
             "forks": 20,
             "score": 44
         },
@@ -271,7 +271,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Evokoa/pgContext",
             "description": "A full AI search engine, built into Postgres.",
             "url": "https://github.com/Evokoa/pgContext",
-            "stars": 190,
+            "stars": 193,
             "forks": 17,
             "score": 39
         },
@@ -326,7 +326,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "ailinone/collective-intelligence",
             "description": "Ailin\u00b9 is an open-source collective intelligence engine where tens of thousands of AI models collaborate through dozens of coordination strategies, applying structured diversity and independent reasoning to improve reliability, auditability, and resilience.",
             "url": "https://github.com/ailinone/collective-intelligence",
-            "stars": 170,
+            "stars": 171,
             "forks": 11,
             "score": 37
         },
@@ -346,7 +346,7 @@ const ALPHA_DATA_V2 = {
             "sub_cat": "AI General",
             "name": "microkimi",
             "full_name": "serphen/microkimi",
-            "description": "Run and train your own miniature Kimi K3: a zero-dependency Rust inference engine, reimplemented from scratch - and nanokimi, a small model trained from scratch on CPU by the included training pipeline. Talks straight to the Metal API for GPU on macOS - CPU mode stays the fastest at small model sizes.",
+            "description": "Miniature frontier MoE architectures in pure Rust, zero dependencies: Kimi K3 and DeepSeek-V4-Flash-0731, both verified 1:1 against the official reference code. Metal GPU on macOS, plus nanokimi - a small model trained from scratch overnight on CPU.",
             "url": "https://github.com/serphen/microkimi",
             "stars": 12,
             "forks": 2,
@@ -615,17 +615,6 @@ const ALPHA_DATA_V2 = {
             "stars": 0,
             "forks": 0,
             "score": 30
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "Kana-Labs",
-            "full_name": "Pacull99/Kana-Labs",
-            "description": "While Kana Labs (which rebranded to Xyra Labs) and Virtuals Protocol operate in distinct segments of the Web3 ecosystem, they both represent key infrastructure pillars focusing on cross-chain capabilities, developer toolkits, and autonomous user engagement. ",
-            "url": "https://github.com/Pacull99/Kana-Labs",
-            "stars": 0,
-            "forks": 0,
-            "score": 30
         }
     ],
     "news": [
@@ -651,5 +640,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-08-01 13:21"
+    "timestamp": "2026-08-01 14:54"
 };
