@@ -7,7 +7,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Vincentwei1021/video-shotcraft",
             "description": "AI video skill for Claude Code & Codex \u2014 cinematic product videos with Remotion: 106 shot recipe cards, 161 motion previews, a production-ready template",
             "url": "https://github.com/Vincentwei1021/video-shotcraft",
-            "stars": 3146,
+            "stars": 3147,
             "forks": 276,
             "score": 99
         },
@@ -29,8 +29,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "QwenAudio/qwen-audio-agent",
             "description": "A realtime voice runtime that keeps Agents talking, working, and present.  Real-time Voice Runtime for AI Agents",
             "url": "https://github.com/QwenAudio/qwen-audio-agent",
-            "stars": 1203,
-            "forks": 81,
+            "stars": 1230,
+            "forks": 82,
             "score": 99
         },
         {
@@ -40,7 +40,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "0xwilliamortiz/ponytail-improved",
             "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
             "url": "https://github.com/0xwilliamortiz/ponytail-improved",
-            "stars": 576,
+            "stars": 577,
             "forks": 127,
             "score": 99
         },
@@ -51,7 +51,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "VictorTaelin/OptMem",
             "description": "Permanent memory for AI agents. A 426-token prompt, a script, plug and play.",
             "url": "https://github.com/VictorTaelin/OptMem",
-            "stars": 1058,
+            "stars": 1059,
             "forks": 61,
             "score": 95
         },
@@ -62,7 +62,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Jakubantalik/thinking-orbs",
             "description": "Dotted thought-orb loading indicators for AI & agent UIs \u2014 six tuned states, two sizes, auto dark/light",
             "url": "https://github.com/Jakubantalik/thinking-orbs",
-            "stars": 1309,
+            "stars": 1311,
             "forks": 99,
             "score": 90
         },
@@ -73,7 +73,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "AminBlg/SimpleEnglish",
             "description": "Agent skill: make LLMs write docs in ASD-STE100 Simplified Technical English \u2014 no AI slop",
             "url": "https://github.com/AminBlg/SimpleEnglish",
-            "stars": 1283,
+            "stars": 1284,
             "forks": 41,
             "score": 81
         },
@@ -95,7 +95,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Blaizzy/nativ",
             "description": "Local AI, native to your Mac. Chat, serve, monitor, and connect MLX models from one macOS app.",
             "url": "https://github.com/Blaizzy/nativ",
-            "stars": 1061,
+            "stars": 1062,
             "forks": 61,
             "score": 73
         },
@@ -117,9 +117,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "perplexityai/numbat",
             "description": "Visibility into AI agent activity on endpoints, with on-device detection, optional pre-action blocking, and forensic reconstruction.",
             "url": "https://github.com/perplexityai/numbat",
-            "stars": 585,
+            "stars": 587,
             "forks": 54,
             "score": 66
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "open-kritt",
+            "full_name": "Kritt-ai/open-kritt",
+            "description": "Orchestrate AI agents to find real vulnerabilities in code.",
+            "url": "https://github.com/Kritt-ai/open-kritt",
+            "stars": 474,
+            "forks": 99,
+            "score": 59
         },
         {
             "main_cat": "AI",
@@ -139,20 +150,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "ddcat-ai/open-ai-canvas",
             "description": "\u9762\u5411 AI \u5f71\u89c6\u521b\u4f5c\u7684\u5f00\u6e90\u65e0\u9650\u753b\u5e03\u5de5\u4f5c\u53f0\uff0c\u96c6\u6210\u591a\u6a21\u6001\u751f\u6210\u3001\u5206\u955c\u7f16\u6392\u3001\u7d20\u6750\u7ba1\u7406\u4e0e Agent \u5de5\u4f5c\u6d41\u3002",
             "url": "https://github.com/ddcat-ai/open-ai-canvas",
-            "stars": 388,
+            "stars": 389,
             "forks": 92,
             "score": 59
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "open-kritt",
-            "full_name": "Kritt-ai/open-kritt",
-            "description": "Orchestrate AI agents to find real vulnerabilities in code.",
-            "url": "https://github.com/Kritt-ai/open-kritt",
-            "stars": 473,
-            "forks": 98,
-            "score": 58
         },
         {
             "main_cat": "AI",
@@ -206,7 +206,7 @@ const ALPHA_DATA_V2 = {
             "description": "Graph engineering for AI agents: the 9-stage knowledge-graph pipeline (translated from SEU's graduate course) + task-graph orchestration patterns, as a Claude skill with teaching mode and paste-ready workflows",
             "url": "https://github.com/codejunkie99/graph-engineering",
             "stars": 261,
-            "forks": 34,
+            "forks": 36,
             "score": 46
         },
         {
@@ -216,7 +216,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "0xwilliamortiz/agents-council",
             "description": "Multi-agents collaboration plugin for Claude Code - orchestrate multiple AI agents (Codex CLI, Gemini CLI, etc.) for diverse perspectives",
             "url": "https://github.com/0xwilliamortiz/agents-council",
-            "stars": 294,
+            "stars": 295,
             "forks": 37,
             "score": 44
         },
@@ -271,9 +271,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "Pinvou/pinvou-agent",
             "description": "Open-source desktop AI agent for tools, files, knowledge, workflows, and real deliverables.",
             "url": "https://github.com/Pinvou/pinvou-agent",
-            "stars": 178,
+            "stars": 180,
             "forks": 21,
-            "score": 41
+            "score": 42
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "pgContext",
+            "full_name": "Evokoa/pgContext",
+            "description": "A full AI search engine, built into Postgres.",
+            "url": "https://github.com/Evokoa/pgContext",
+            "stars": 203,
+            "forks": 20,
+            "score": 40
         },
         {
             "main_cat": "AI",
@@ -285,17 +296,6 @@ const ALPHA_DATA_V2 = {
             "stars": 195,
             "forks": 11,
             "score": 40
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "pgContext",
-            "full_name": "Evokoa/pgContext",
-            "description": "A full AI search engine, built into Postgres.",
-            "url": "https://github.com/Evokoa/pgContext",
-            "stars": 202,
-            "forks": 19,
-            "score": 39
         },
         {
             "main_cat": "AI",
@@ -337,7 +337,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "cneuralnetwork/smol-kimi-k3",
             "description": "A 49M-parameter Kimi K3-inspired language model trainable on one 8GB GPU",
             "url": "https://github.com/cneuralnetwork/smol-kimi-k3",
-            "stars": 80,
+            "stars": 81,
             "forks": 9,
             "score": 37
         },
@@ -629,5 +629,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-08-01 22:47"
+    "timestamp": "2026-08-01 23:51"
 };
