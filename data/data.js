@@ -7,7 +7,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Vincentwei1021/video-shotcraft",
             "description": "AI video skill for Claude Code & Codex \u2014 cinematic product videos with Remotion: 106 shot recipe cards, 161 motion previews, a production-ready template",
             "url": "https://github.com/Vincentwei1021/video-shotcraft",
-            "stars": 3140,
+            "stars": 3141,
             "forks": 276,
             "score": 99
         },
@@ -29,8 +29,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "QwenAudio/qwen-audio-agent",
             "description": "A realtime voice runtime that keeps Agents talking, working, and present.  Real-time Voice Runtime for AI Agents",
             "url": "https://github.com/QwenAudio/qwen-audio-agent",
-            "stars": 1138,
-            "forks": 78,
+            "stars": 1174,
+            "forks": 79,
             "score": 99
         },
         {
@@ -73,7 +73,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "AminBlg/SimpleEnglish",
             "description": "Agent skill: make LLMs write docs in ASD-STE100 Simplified Technical English \u2014 no AI slop",
             "url": "https://github.com/AminBlg/SimpleEnglish",
-            "stars": 1273,
+            "stars": 1279,
             "forks": 39,
             "score": 81
         },
@@ -84,7 +84,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "mikiarlo3/ai-copywriter",
             "description": "An AI copywriter that uses real copywriting skills + real marketing knowledge with human tone.",
             "url": "https://github.com/mikiarlo3/ai-copywriter",
-            "stars": 1002,
+            "stars": 1001,
             "forks": 24,
             "score": 79
         },
@@ -117,9 +117,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "perplexityai/numbat",
             "description": "Visibility into AI agent activity on endpoints, with on-device detection, optional pre-action blocking, and forensic reconstruction.",
             "url": "https://github.com/perplexityai/numbat",
-            "stars": 582,
+            "stars": 583,
             "forks": 54,
             "score": 66
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "caspian-sdk",
+            "full_name": "TryCaspian/caspian-sdk",
+            "description": "Agent communication SDK. The open-source agent communication layer for AI agents \u2014 email, WhatsApp, Slack, Discord, Telegram, SMS. Python & TypeScript.",
+            "url": "https://github.com/TryCaspian/caspian-sdk",
+            "stars": 388,
+            "forks": 127,
+            "score": 59
         },
         {
             "main_cat": "AI",
@@ -135,23 +146,12 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "caspian-sdk",
-            "full_name": "TryCaspian/caspian-sdk",
-            "description": "Agent communication SDK. The open-source agent communication layer for AI agents \u2014 email, WhatsApp, Slack, Discord, Telegram, SMS. Python & TypeScript.",
-            "url": "https://github.com/TryCaspian/caspian-sdk",
-            "stars": 387,
-            "forks": 128,
-            "score": 59
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
             "name": "open-kritt",
             "full_name": "Kritt-ai/open-kritt",
             "description": "Orchestrate AI agents to find real vulnerabilities in code.",
             "url": "https://github.com/Kritt-ai/open-kritt",
             "stars": 473,
-            "forks": 97,
+            "forks": 98,
             "score": 58
         },
         {
@@ -172,9 +172,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "MarcosSete/awesome-free-ai-books",
             "description": "A curated list of free, legitimate AI/ML books",
             "url": "https://github.com/MarcosSete/awesome-free-ai-books",
-            "stars": 419,
+            "stars": 420,
             "forks": 41,
-            "score": 54
+            "score": 52
         },
         {
             "main_cat": "AI",
@@ -227,7 +227,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "grafana/ai-sdk",
             "description": "Grafana AI SDK for Go \u2014 streaming, tool-calling AI backends that speak fluent @ai-sdk/react",
             "url": "https://github.com/grafana/ai-sdk",
-            "stars": 175,
+            "stars": 178,
             "forks": 6,
             "score": 46
         },
@@ -238,7 +238,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "0xwilliamortiz/agents-council",
             "description": "Multi-agents collaboration plugin for Claude Code - orchestrate multiple AI agents (Codex CLI, Gemini CLI, etc.) for diverse perspectives",
             "url": "https://github.com/0xwilliamortiz/agents-council",
-            "stars": 293,
+            "stars": 294,
             "forks": 37,
             "score": 45
         },
@@ -271,7 +271,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Pinvou/pinvou-agent",
             "description": "Open-source desktop AI agent for tools, files, knowledge, workflows, and real deliverables.",
             "url": "https://github.com/Pinvou/pinvou-agent",
-            "stars": 174,
+            "stars": 177,
             "forks": 21,
             "score": 41
         },
@@ -282,7 +282,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "michellzappa/headroom",
             "description": "Local-first AI coding quotas and ship status, on your menu bar, iPhone, Watch and an ESP32 desk display.",
             "url": "https://github.com/michellzappa/headroom",
-            "stars": 190,
+            "stars": 193,
             "forks": 11,
             "score": 40
         },
@@ -293,7 +293,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Evokoa/pgContext",
             "description": "A full AI search engine, built into Postgres.",
             "url": "https://github.com/Evokoa/pgContext",
-            "stars": 199,
+            "stars": 201,
             "forks": 19,
             "score": 39
         },
@@ -629,5 +629,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-08-01 20:42"
+    "timestamp": "2026-08-01 21:48"
 };
