@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "Vincentwei1021/video-shotcraft",
             "description": "AI video skill for Claude Code & Codex \u2014 cinematic product videos with Remotion: 106 shot recipe cards, 161 motion previews, a production-ready template",
             "url": "https://github.com/Vincentwei1021/video-shotcraft",
-            "stars": 3102,
-            "forks": 267,
+            "stars": 3108,
+            "forks": 268,
             "score": 99
         },
         {
@@ -18,7 +18,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "makecindy/cindy",
             "description": "Consider it done. The open-source AI agent that works out of the box \u00b7 \u60f3\u5230\uff0c\u5c31\u80fd\u505a\u5230\u3002\u5f00\u6e90\u3001\u5f00\u7bb1\u5373\u7528\u7684 AI Agent\u3002",
             "url": "https://github.com/makecindy/cindy",
-            "stars": 1330,
+            "stars": 1335,
             "forks": 168,
             "score": 99
         },
@@ -29,8 +29,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "VictorTaelin/OptMem",
             "description": "Permanent memory for AI agents. A 426-token prompt, a script, plug and play.",
             "url": "https://github.com/VictorTaelin/OptMem",
-            "stars": 1048,
-            "forks": 60,
+            "stars": 1051,
+            "forks": 61,
             "score": 99
         },
         {
@@ -47,24 +47,24 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "thinking-orbs",
-            "full_name": "Jakubantalik/thinking-orbs",
-            "description": "Dotted thought-orb loading indicators for AI & agent UIs \u2014 six tuned states, two sizes, auto dark/light",
-            "url": "https://github.com/Jakubantalik/thinking-orbs",
-            "stars": 1294,
-            "forks": 98,
-            "score": 90
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
             "name": "qwen-audio-agent",
             "full_name": "QwenAudio/qwen-audio-agent",
             "description": "A realtime voice runtime that keeps Agents talking, working, and present.  Real-time Voice Runtime for AI Agents",
             "url": "https://github.com/QwenAudio/qwen-audio-agent",
-            "stars": 684,
-            "forks": 52,
-            "score": 85
+            "stars": 766,
+            "forks": 54,
+            "score": 91
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "thinking-orbs",
+            "full_name": "Jakubantalik/thinking-orbs",
+            "description": "Dotted thought-orb loading indicators for AI & agent UIs \u2014 six tuned states, two sizes, auto dark/light",
+            "url": "https://github.com/Jakubantalik/thinking-orbs",
+            "stars": 1299,
+            "forks": 99,
+            "score": 90
         },
         {
             "main_cat": "AI",
@@ -73,7 +73,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "mikiarlo3/ai-copywriter",
             "description": "An AI copywriter that uses real copywriting skills + real marketing knowledge with human tone.",
             "url": "https://github.com/mikiarlo3/ai-copywriter",
-            "stars": 996,
+            "stars": 997,
             "forks": 23,
             "score": 84
         },
@@ -84,7 +84,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "AminBlg/SimpleEnglish",
             "description": "Agent skill: make LLMs write docs in ASD-STE100 Simplified Technical English \u2014 no AI slop",
             "url": "https://github.com/AminBlg/SimpleEnglish",
-            "stars": 1225,
+            "stars": 1232,
             "forks": 37,
             "score": 79
         },
@@ -106,7 +106,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "pireel/pireel",
             "description": "The open-source alternative to Capcut\u3001ChatCut. Drivable by any AI agent over MCP.",
             "url": "https://github.com/pireel/pireel",
-            "stars": 861,
+            "stars": 862,
             "forks": 74,
             "score": 68
         },
@@ -117,7 +117,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "perplexityai/numbat",
             "description": "Visibility into AI agent activity on endpoints, with on-device detection, optional pre-action blocking, and forensic reconstruction.",
             "url": "https://github.com/perplexityai/numbat",
-            "stars": 554,
+            "stars": 556,
             "forks": 47,
             "score": 63
         },
@@ -161,7 +161,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "LYiHub/pub-local-jarvis",
             "description": "Windows \u672c\u5730\u591a\u6a21\u6001 AI \u684c\u9762\u684c\u5ba0\uff0c\u652f\u6301\u5c4f\u5e55\u4e0e\u97f3\u9891\u611f\u77e5\u3002",
             "url": "https://github.com/LYiHub/pub-local-jarvis",
-            "stars": 313,
+            "stars": 314,
             "forks": 65,
             "score": 56
         },
@@ -172,7 +172,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "MarcosSete/awesome-free-ai-books",
             "description": "A curated list of free, legitimate AI/ML books",
             "url": "https://github.com/MarcosSete/awesome-free-ai-books",
-            "stars": 414,
+            "stars": 415,
             "forks": 41,
             "score": 54
         },
@@ -205,8 +205,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "codejunkie99/graph-engineering",
             "description": "Graph engineering for AI agents: the 9-stage knowledge-graph pipeline (translated from SEU's graduate course) + task-graph orchestration patterns, as a Claude skill with teaching mode and paste-ready workflows",
             "url": "https://github.com/codejunkie99/graph-engineering",
-            "stars": 257,
-            "forks": 32,
+            "stars": 258,
+            "forks": 33,
             "score": 47
         },
         {
@@ -260,7 +260,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Autumn-27/ARTEX",
             "description": "AI \u81ea\u4e3b\u6e17\u900f\u6d4b\u8bd5\u7cfb\u7edf",
             "url": "https://github.com/Autumn-27/ARTEX",
-            "stars": 178,
+            "stars": 179,
             "forks": 20,
             "score": 44
         },
@@ -271,7 +271,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Evokoa/pgContext",
             "description": "A full AI search engine, built into Postgres.",
             "url": "https://github.com/Evokoa/pgContext",
-            "stars": 189,
+            "stars": 190,
             "forks": 17,
             "score": 39
         },
@@ -651,5 +651,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-08-01 11:58"
+    "timestamp": "2026-08-01 13:21"
 };
