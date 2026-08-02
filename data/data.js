@@ -7,7 +7,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "QwenAudio/qwen-audio-agent",
             "description": "A realtime voice runtime that keeps Agents talking, working, and present.  Real-time Voice Runtime for AI Agents",
             "url": "https://github.com/QwenAudio/qwen-audio-agent",
-            "stars": 1710,
+            "stars": 1714,
             "forks": 109,
             "score": 99
         },
@@ -18,8 +18,19 @@ const ALPHA_DATA_V2 = {
             "full_name": "makecindy/cindy",
             "description": "Consider it done. The open-source AI agent that works out of the box \u00b7 \u60f3\u5230\uff0c\u5c31\u80fd\u505a\u5230\u3002\u5f00\u6e90\u3001\u5f00\u7bb1\u5373\u7528\u7684 AI Agent\u3002",
             "url": "https://github.com/makecindy/cindy",
-            "stars": 1410,
-            "forks": 177,
+            "stars": 1429,
+            "forks": 179,
+            "score": 99
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "humanizer-cli",
+            "full_name": "0xwilliamortiz/humanizer-cli",
+            "description": "33 ways to spot AI-written text, right in your terminal. Before/after examples, draft checker, zero dependencies.",
+            "url": "https://github.com/0xwilliamortiz/humanizer-cli",
+            "stars": 319,
+            "forks": 36,
             "score": 99
         },
         {
@@ -40,19 +51,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "VictorTaelin/OptMem",
             "description": "Permanent memory for AI agents. A 426-token prompt, a script, plug and play.",
             "url": "https://github.com/VictorTaelin/OptMem",
-            "stars": 1069,
+            "stars": 1071,
             "forks": 62,
-            "score": 95
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "humanizer-cli",
-            "full_name": "0xwilliamortiz/humanizer-cli",
-            "description": "33 ways to spot AI-written text, right in your terminal. Before/after examples, draft checker, zero dependencies.",
-            "url": "https://github.com/0xwilliamortiz/humanizer-cli",
-            "stars": 270,
-            "forks": 31,
             "score": 95
         },
         {
@@ -62,20 +62,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "Jakubantalik/thinking-orbs",
             "description": "Dotted thought-orb loading indicators for AI & agent UIs \u2014 six tuned states, two sizes, auto dark/light",
             "url": "https://github.com/Jakubantalik/thinking-orbs",
-            "stars": 1322,
+            "stars": 1323,
             "forks": 101,
             "score": 87
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "ai-copywriter",
-            "full_name": "mikiarlo3/ai-copywriter",
-            "description": "An AI copywriter that uses real copywriting skills + real marketing knowledge with human tone.",
-            "url": "https://github.com/mikiarlo3/ai-copywriter",
-            "stars": 1006,
-            "forks": 24,
-            "score": 80
         },
         {
             "main_cat": "AI",
@@ -84,9 +73,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "AminBlg/SimpleEnglish",
             "description": "Agent skill: make LLMs write docs in ASD-STE100 Simplified Technical English \u2014 no AI slop",
             "url": "https://github.com/AminBlg/SimpleEnglish",
-            "stars": 1324,
+            "stars": 1328,
             "forks": 43,
-            "score": 79
+            "score": 80
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "ai-copywriter",
+            "full_name": "mikiarlo3/ai-copywriter",
+            "description": "An AI copywriter that uses real copywriting skills + real marketing knowledge with human tone.",
+            "url": "https://github.com/mikiarlo3/ai-copywriter",
+            "stars": 1008,
+            "forks": 24,
+            "score": 80
         },
         {
             "main_cat": "AI",
@@ -95,9 +95,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "Kritt-ai/open-kritt",
             "description": "Orchestrate AI agents to find real vulnerabilities in code.",
             "url": "https://github.com/Kritt-ai/open-kritt",
-            "stars": 746,
-            "forks": 146,
-            "score": 74
+            "stars": 762,
+            "forks": 150,
+            "score": 75
         },
         {
             "main_cat": "AI",
@@ -106,9 +106,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "Blaizzy/nativ",
             "description": "Local AI, native to your Mac. Chat, serve, monitor, and connect MLX models from one macOS app.",
             "url": "https://github.com/Blaizzy/nativ",
-            "stars": 1067,
+            "stars": 1069,
             "forks": 61,
-            "score": 73
+            "score": 71
         },
         {
             "main_cat": "AI",
@@ -128,7 +128,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "perplexityai/numbat",
             "description": "Visibility into AI agent activity on endpoints, with on-device detection, optional pre-action blocking, and forensic reconstruction.",
             "url": "https://github.com/perplexityai/numbat",
-            "stars": 610,
+            "stars": 615,
             "forks": 59,
             "score": 65
         },
@@ -139,7 +139,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "TryCaspian/caspian-sdk",
             "description": "Agent communication SDK. The open-source agent communication layer for AI agents \u2014 email, WhatsApp, Slack, Discord, Telegram, SMS. Python & TypeScript.",
             "url": "https://github.com/TryCaspian/caspian-sdk",
-            "stars": 401,
+            "stars": 402,
             "forks": 127,
             "score": 58
         },
@@ -179,17 +179,6 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "camelAI",
-            "full_name": "qaml-ai/camelAI",
-            "description": "camelAI \u2014 an AI coding assistant platform built on Cloudflare Workers and Durable Objects",
-            "url": "https://github.com/qaml-ai/camelAI",
-            "stars": 319,
-            "forks": 24,
-            "score": 48
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
             "name": "Finn-loop",
             "full_name": "finna/Finn-loop",
             "description": "The Finn-loop: a 3-skill AI software factory for Claude Code \u2014 spec, build, review. Humans merge.",
@@ -197,6 +186,17 @@ const ALPHA_DATA_V2 = {
             "stars": 284,
             "forks": 47,
             "score": 48
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "camelAI",
+            "full_name": "qaml-ai/camelAI",
+            "description": "camelAI \u2014 an AI coding assistant platform built on Cloudflare Workers and Durable Objects",
+            "url": "https://github.com/qaml-ai/camelAI",
+            "stars": 319,
+            "forks": 24,
+            "score": 47
         },
         {
             "main_cat": "AI",
@@ -249,9 +249,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "Pinvou/pinvou-agent",
             "description": "Open-source desktop AI agent for tools, files, knowledge, workflows, and real deliverables.",
             "url": "https://github.com/Pinvou/pinvou-agent",
-            "stars": 218,
+            "stars": 220,
             "forks": 29,
-            "score": 43
+            "score": 44
         },
         {
             "main_cat": "AI",
@@ -348,7 +348,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "fypklanfanqie/local-llm-with-character-setting-Arknights",
             "description": "\u4e00\u6b3e\u8fd0\u884c\u5728\u5b89\u5353\u8bbe\u5907\u4e0a\u7684 LLM \u5bf9\u8bdd\u52a9\u624b\u5e94\u7528\u3002\u4f60\u53ef\u4ee5\u81ea\u884c\u4e0b\u8f7d\u5e76\u7ba1\u7406\u6a21\u578b\uff0c\u81ea\u7531\u5b9a\u5236\u89d2\u8272\u4eba\u8bbe\uff0c\u5e76\u968f\u65f6\u5728\u672c\u5730\u63a8\u7406\uff08\u90e8\u5206\u673a\u578b\u652f\u6301 GPU/NPU \u52a0\u901f\uff09\u4e0e\u4e91\u7aef\u6a21\u578b\u4e4b\u95f4\u5207\u6362\u3002\u540c\u65f6\u5185\u7f6e TTS \u8bed\u97f3\u5408\u6210\u529f\u80fd\uff0c\u8ba9\u5bf9\u8bdd\u66f4\u52a0\u9c9c\u6d3b\u3002 An Android LLM chat assistant that lets you download and manage your own models. Customize character personas, and switch seamlessly between on-device inference (with GPU/NPU acceleration on supported devices) and cloud-based models. Built-in ",
             "url": "https://github.com/fypklanfanqie/local-llm-with-character-setting-Arknights",
-            "stars": 37,
+            "stars": 38,
             "forks": 0,
             "score": 31
         },
@@ -414,6 +414,17 @@ const ALPHA_DATA_V2 = {
             "full_name": "edycutjong/noxoracle",
             "description": "\ud83d\udd2e Bet what you know, not who you are \u2014 private positions on a real Gnosis prediction market, direction & size encrypted through settlement via iExec Nox. Live on Ethereum Sepolia.",
             "url": "https://github.com/edycutjong/noxoracle",
+            "stars": 0,
+            "forks": 0,
+            "score": 30
+        },
+        {
+            "main_cat": "Prediction Markets",
+            "sub_cat": null,
+            "name": "stellar-bet-contracts",
+            "full_name": "stellar-bet/stellar-bet-contracts",
+            "description": "Soroban smart contracts for StellarBet \u2014 a decentralized sports prediction market on Stellar. Includes BettingPool, OddsOracle, HouseEscrow, and BET token contracts. Written in Rust/WASM. Part of the Stellar Wave Program.",
+            "url": "https://github.com/stellar-bet/stellar-bet-contracts",
             "stars": 0,
             "forks": 0,
             "score": 30
@@ -563,22 +574,22 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
-            "sub_cat": "AI Agents",
-            "name": "Forge",
-            "full_name": "Pacull99/Forge",
-            "description": "Forge by Virtuals is the premier infrastructure protocol empowering creators to co-own, deploy, and monetize autonomous AI agents. Bridging advanced Web3 tokenomics with high-performance cross-chain networks, Forge drives next-gen decentralized virtual worlds and immersive AI ecosystems.",
-            "url": "https://github.com/Pacull99/Forge",
+            "sub_cat": "AI General",
+            "name": "Umbra-Protocol",
+            "full_name": "Marvy247/Umbra-Protocol",
+            "description": "Umbra Protocol enables privacy-preserving cross-chain asset transfers using Flare's Confidential Compute technology.",
+            "url": "https://github.com/Marvy247/Umbra-Protocol",
             "stars": 0,
             "forks": 0,
             "score": 30
         },
         {
             "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "Kana-Labs",
-            "full_name": "Pacull99/Kana-Labs",
-            "description": "While Kana Labs (which rebranded to Xyra Labs) and Virtuals Protocol operate in distinct segments of the Web3 ecosystem, they both represent key infrastructure pillars focusing on cross-chain capabilities, developer toolkits, and autonomous user engagement. ",
-            "url": "https://github.com/Pacull99/Kana-Labs",
+            "sub_cat": "AI Agents",
+            "name": "Forge",
+            "full_name": "Pacull99/Forge",
+            "description": "Forge by Virtuals is the premier infrastructure protocol empowering creators to co-own, deploy, and monetize autonomous AI agents. Bridging advanced Web3 tokenomics with high-performance cross-chain networks, Forge drives next-gen decentralized virtual worlds and immersive AI ecosystems.",
+            "url": "https://github.com/Pacull99/Forge",
             "stars": 0,
             "forks": 0,
             "score": 30
@@ -607,5 +618,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-08-02 14:56"
+    "timestamp": "2026-08-02 15:57"
 };
