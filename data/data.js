@@ -7,7 +7,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "QwenAudio/qwen-audio-agent",
             "description": "A realtime voice runtime that keeps Agents talking, working, and present.  Real-time Voice Runtime for AI Agents",
             "url": "https://github.com/QwenAudio/qwen-audio-agent",
-            "stars": 1725,
+            "stars": 1730,
             "forks": 108,
             "score": 99
         },
@@ -18,7 +18,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "makecindy/cindy",
             "description": "Consider it done. The open-source AI agent that works out of the box \u00b7 \u60f3\u5230\uff0c\u5c31\u80fd\u505a\u5230\u3002\u5f00\u6e90\u3001\u5f00\u7bb1\u5373\u7528\u7684 AI Agent\u3002",
             "url": "https://github.com/makecindy/cindy",
-            "stars": 1469,
+            "stars": 1473,
             "forks": 182,
             "score": 99
         },
@@ -62,8 +62,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "Jakubantalik/thinking-orbs",
             "description": "Dotted thought-orb loading indicators for AI & agent UIs \u2014 six tuned states, two sizes, auto dark/light",
             "url": "https://github.com/Jakubantalik/thinking-orbs",
-            "stars": 1329,
-            "forks": 101,
+            "stars": 1331,
+            "forks": 102,
             "score": 87
         },
         {
@@ -73,7 +73,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "AminBlg/SimpleEnglish",
             "description": "Agent skill: make LLMs write docs in ASD-STE100 Simplified Technical English \u2014 no AI slop",
             "url": "https://github.com/AminBlg/SimpleEnglish",
-            "stars": 1346,
+            "stars": 1349,
             "forks": 44,
             "score": 80
         },
@@ -84,9 +84,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "Kritt-ai/open-kritt",
             "description": "Orchestrate AI agents to find real vulnerabilities in code.",
             "url": "https://github.com/Kritt-ai/open-kritt",
-            "stars": 881,
-            "forks": 174,
-            "score": 79
+            "stars": 892,
+            "forks": 178,
+            "score": 80
         },
         {
             "main_cat": "AI",
@@ -128,7 +128,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "perplexityai/numbat",
             "description": "Visibility into AI agent activity on endpoints, with on-device detection, optional pre-action blocking, and forensic reconstruction.",
             "url": "https://github.com/perplexityai/numbat",
-            "stars": 629,
+            "stars": 630,
             "forks": 61,
             "score": 66
         },
@@ -161,7 +161,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "LYiHub/pub-local-jarvis",
             "description": "Windows \u672c\u5730\u591a\u6a21\u6001 AI \u684c\u9762\u684c\u5ba0\uff0c\u652f\u6301\u5c4f\u5e55\u4e0e\u97f3\u9891\u611f\u77e5\u3002",
             "url": "https://github.com/LYiHub/pub-local-jarvis",
-            "stars": 332,
+            "stars": 333,
             "forks": 71,
             "score": 55
         },
@@ -234,6 +234,17 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
+            "name": "trace-file-lineage",
+            "full_name": "uczltw6/trace-file-lineage",
+            "description": "Find which script, notebook, data, command, or AI agent produced a file \u2014 locally, with evidence and honest uncertainty.",
+            "url": "https://github.com/uczltw6/trace-file-lineage",
+            "stars": 185,
+            "forks": 3,
+            "score": 44
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
             "name": "agents-council",
             "full_name": "0xwilliamortiz/agents-council",
             "description": "Multi-agents collaboration plugin for Claude Code - orchestrate multiple AI agents (Codex CLI, Gemini CLI, etc.) for diverse perspectives",
@@ -251,17 +262,6 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/grafana/ai-sdk",
             "stars": 193,
             "forks": 6,
-            "score": 43
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "ARTEX",
-            "full_name": "Autumn-27/ARTEX",
-            "description": "AI \u81ea\u4e3b\u6e17\u900f\u6d4b\u8bd5\u7cfb\u7edf",
-            "url": "https://github.com/Autumn-27/ARTEX",
-            "stars": 183,
-            "forks": 20,
             "score": 43
         },
         {
@@ -293,7 +293,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Evokoa/pgContext",
             "description": "A full AI search engine, built into Postgres.",
             "url": "https://github.com/Evokoa/pgContext",
-            "stars": 212,
+            "stars": 213,
             "forks": 21,
             "score": 39
         },
@@ -553,6 +553,17 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
+            "name": "dynamic",
+            "full_name": "api-evangelist/dynamic",
+            "description": "Dynamic is a wallet infrastructure platform for fintech, crypto, and stablecoin applications, letting companies embed non-custodial wallets, connect 800+ external wallets, run distributed (TSS-MPC) key management, and build onchain products such as crypto payments, trading, yield, and global money movement without in-house crypto expertise.",
+            "url": "https://github.com/api-evangelist/dynamic",
+            "stars": 0,
+            "forks": 0,
+            "score": 30
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
             "name": "celo",
             "full_name": "api-evangelist/celo",
             "description": "Celo is a leading Ethereum Layer 2 (L2) blockchain built for real-world usage, mobile-first payments, and stablecoins, run by cLabs and the Celo Foundation. It offers a fully EVM- and Ethereum-JSON-RPC-compatible network reachable through the public Forno RPC endpoints, gas-fee abstraction that lets users pay fees in stablecoins, and a developer\u2026",
@@ -568,17 +579,6 @@ const ALPHA_DATA_V2 = {
             "full_name": "Jinchainne/COFFEEHOUSE",
             "description": "COFFEE HOUSE is a programmable money e-commerce platform that replaces traditional POS systems with direct USDC stablecoin payments on Arc Testnet. No banks, no payment gateways, no 3% card fees \u2014 just wallet-to-wallet settlement on-chain.",
             "url": "https://github.com/Jinchainne/COFFEEHOUSE",
-            "stars": 0,
-            "forks": 0,
-            "score": 30
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "chain",
-            "full_name": "api-evangelist/chain",
-            "description": "Chain is a stablecoin payments infrastructure platform that lets enterprises move money globally across both traditional banking rails and digital-currency networks. Its unified REST API covers funding, payouts and payees; virtual and physical card issuing; wallet registration with compliance screening; and a double-entry ledger for\u2026",
-            "url": "https://github.com/api-evangelist/chain",
             "stars": 0,
             "forks": 0,
             "score": 30
@@ -684,5 +684,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-08-02 22:49"
+    "timestamp": "2026-08-02 23:52"
 };
