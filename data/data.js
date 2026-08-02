@@ -18,7 +18,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "makecindy/cindy",
             "description": "Consider it done. The open-source AI agent that works out of the box \u00b7 \u60f3\u5230\uff0c\u5c31\u80fd\u505a\u5230\u3002\u5f00\u6e90\u3001\u5f00\u7bb1\u5373\u7528\u7684 AI Agent\u3002",
             "url": "https://github.com/makecindy/cindy",
-            "stars": 1468,
+            "stars": 1469,
             "forks": 182,
             "score": 99
         },
@@ -51,7 +51,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "VictorTaelin/OptMem",
             "description": "Permanent memory for AI agents. A 426-token prompt, a script, plug and play.",
             "url": "https://github.com/VictorTaelin/OptMem",
-            "stars": 1076,
+            "stars": 1077,
             "forks": 62,
             "score": 90
         },
@@ -73,7 +73,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "AminBlg/SimpleEnglish",
             "description": "Agent skill: make LLMs write docs in ASD-STE100 Simplified Technical English \u2014 no AI slop",
             "url": "https://github.com/AminBlg/SimpleEnglish",
-            "stars": 1343,
+            "stars": 1346,
             "forks": 44,
             "score": 80
         },
@@ -84,9 +84,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "Kritt-ai/open-kritt",
             "description": "Orchestrate AI agents to find real vulnerabilities in code.",
             "url": "https://github.com/Kritt-ai/open-kritt",
-            "stars": 871,
-            "forks": 169,
-            "score": 78
+            "stars": 881,
+            "forks": 174,
+            "score": 79
         },
         {
             "main_cat": "AI",
@@ -106,7 +106,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Blaizzy/nativ",
             "description": "Local AI, native to your Mac. Chat, serve, monitor, and connect MLX models from one macOS app.",
             "url": "https://github.com/Blaizzy/nativ",
-            "stars": 1070,
+            "stars": 1071,
             "forks": 61,
             "score": 71
         },
@@ -128,7 +128,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "perplexityai/numbat",
             "description": "Visibility into AI agent activity on endpoints, with on-device detection, optional pre-action blocking, and forensic reconstruction.",
             "url": "https://github.com/perplexityai/numbat",
-            "stars": 628,
+            "stars": 629,
             "forks": 61,
             "score": 66
         },
@@ -161,8 +161,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "LYiHub/pub-local-jarvis",
             "description": "Windows \u672c\u5730\u591a\u6a21\u6001 AI \u684c\u9762\u684c\u5ba0\uff0c\u652f\u6301\u5c4f\u5e55\u4e0e\u97f3\u9891\u611f\u77e5\u3002",
             "url": "https://github.com/LYiHub/pub-local-jarvis",
-            "stars": 328,
-            "forks": 69,
+            "stars": 332,
+            "forks": 71,
             "score": 55
         },
         {
@@ -205,7 +205,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "codejunkie99/graph-engineering",
             "description": "Graph engineering for AI agents: the 9-stage knowledge-graph pipeline (translated from SEU's graduate course) + task-graph orchestration patterns, as a Claude skill with teaching mode and paste-ready workflows",
             "url": "https://github.com/codejunkie99/graph-engineering",
-            "stars": 273,
+            "stars": 274,
             "forks": 40,
             "score": 46
         },
@@ -218,18 +218,18 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/Role1776/netmon",
             "stars": 268,
             "forks": 40,
-            "score": 45
+            "score": 44
         },
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "ai-sdk",
-            "full_name": "grafana/ai-sdk",
-            "description": "Grafana AI SDK for Go \u2014 streaming, tool-calling AI backends that speak fluent @ai-sdk/react",
-            "url": "https://github.com/grafana/ai-sdk",
-            "stars": 193,
-            "forks": 6,
-            "score": 45
+            "name": "pinvou-agent",
+            "full_name": "Pinvou/pinvou-agent",
+            "description": "Open-source desktop AI agent for tools, files, knowledge, workflows, and real deliverables.",
+            "url": "https://github.com/Pinvou/pinvou-agent",
+            "stars": 230,
+            "forks": 30,
+            "score": 44
         },
         {
             "main_cat": "AI",
@@ -240,28 +240,17 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/0xwilliamortiz/agents-council",
             "stars": 295,
             "forks": 37,
-            "score": 44
+            "score": 43
         },
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "pinvou-agent",
-            "full_name": "Pinvou/pinvou-agent",
-            "description": "Open-source desktop AI agent for tools, files, knowledge, workflows, and real deliverables.",
-            "url": "https://github.com/Pinvou/pinvou-agent",
-            "stars": 229,
-            "forks": 30,
-            "score": 44
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "Agent-Execution-Partnership",
-            "full_name": "eli-labz/Agent-Execution-Partnership",
-            "description": "Agent Execution Partnership AEE is an open-source control plane that ensures every AI agent action is authorized before it runs, observable while it runs, and verifiable after it completes.",
-            "url": "https://github.com/eli-labz/Agent-Execution-Partnership",
-            "stars": 205,
-            "forks": 50,
+            "name": "ai-sdk",
+            "full_name": "grafana/ai-sdk",
+            "description": "Grafana AI SDK for Go \u2014 streaming, tool-calling AI backends that speak fluent @ai-sdk/react",
+            "url": "https://github.com/grafana/ai-sdk",
+            "stars": 193,
+            "forks": 6,
             "score": 43
         },
         {
@@ -274,6 +263,17 @@ const ALPHA_DATA_V2 = {
             "stars": 183,
             "forks": 20,
             "score": 43
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "Agent-Execution-Partnership",
+            "full_name": "eli-labz/Agent-Execution-Partnership",
+            "description": "Agent Execution Partnership AEE is an open-source control plane that ensures every AI agent action is authorized before it runs, observable while it runs, and verifiable after it completes.",
+            "url": "https://github.com/eli-labz/Agent-Execution-Partnership",
+            "stars": 205,
+            "forks": 50,
+            "score": 42
         },
         {
             "main_cat": "AI",
@@ -381,6 +381,17 @@ const ALPHA_DATA_V2 = {
             "full_name": "LumenBud/Stellar-Yieldrouter",
             "description": "RWA Yield Router is an open-source protocol that automatically moves idle budget and treasury funds into yield-bearing Real World Assets (tokenized T-bills, money-market funds, bonds, etc.) on Stellar \u2014 and pulls them back when liquidity is needed.",
             "url": "https://github.com/LumenBud/Stellar-Yieldrouter",
+            "stars": 0,
+            "forks": 0,
+            "score": 30
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "dforce",
+            "full_name": "api-evangelist/dforce",
+            "description": "dForce is a decentralized stablecoin protocol powered by an integrated DeFi matrix spanning assets, lending, trading, and an omni-chain bridge. It positions itself as an AI-native on-chain capital markets platform, unifying its USX USD-pegged stablecoin, permissionless lending markets, yield vaults, a real-world-asset (RWA) marketplace, a DEX, the\u2026",
+            "url": "https://github.com/api-evangelist/dforce",
             "stars": 0,
             "forks": 0,
             "score": 30
@@ -498,6 +509,17 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
+            "name": "dlt-payments",
+            "full_name": "api-evangelist/dlt-payments",
+            "description": "DLT Payments (DLTPAY) is a Web3 payments company offering a stablecoin wallet that enables businesses to send and receive instant payments in stablecoins across multiple blockchain networks \u2014 Ethereum, Arbitrum, Optimism, Polygon, and BNB Chain \u2014 with zero exposure to cryptocurrency price volatility.",
+            "url": "https://github.com/api-evangelist/dlt-payments",
+            "stars": 0,
+            "forks": 0,
+            "score": 30
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
             "name": "payment-rails-opensource",
             "full_name": "Tornadobetweentunnel/payment-rails-opensource",
             "description": "Technical deep-dive into payment rails for freelancer economies. SWIFT, SEPA, crypto rails, stablecoin settlement. Why PayrollFlow's architecture is different.",
@@ -520,6 +542,28 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
+            "name": "coinflow",
+            "full_name": "api-evangelist/coinflow",
+            "description": "Coinflow is a stablecoin-native payments platform (backed by Pantera Capital) that lets software companies and marketplaces accept card, ACH, and crypto/USDC payments and send instant payouts across Solana, EVM, and Stellar rails.",
+            "url": "https://github.com/api-evangelist/coinflow",
+            "stars": 0,
+            "forks": 0,
+            "score": 30
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "celo",
+            "full_name": "api-evangelist/celo",
+            "description": "Celo is a leading Ethereum Layer 2 (L2) blockchain built for real-world usage, mobile-first payments, and stablecoins, run by cLabs and the Celo Foundation. It offers a fully EVM- and Ethereum-JSON-RPC-compatible network reachable through the public Forno RPC endpoints, gas-fee abstraction that lets users pay fees in stablecoins, and a developer\u2026",
+            "url": "https://github.com/api-evangelist/celo",
+            "stars": 0,
+            "forks": 0,
+            "score": 30
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
             "name": "COFFEEHOUSE",
             "full_name": "Jinchainne/COFFEEHOUSE",
             "description": "COFFEE HOUSE is a programmable money e-commerce platform that replaces traditional POS systems with direct USDC stablecoin payments on Arc Testnet. No banks, no payment gateways, no 3% card fees \u2014 just wallet-to-wallet settlement on-chain.",
@@ -531,10 +575,10 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
-            "name": "bsos",
-            "full_name": "api-evangelist/bsos",
-            "description": "BSOS is a Web3 infrastructure company building compliant financial rails across emerging markets and institutional finance. It operates two core lines of business - compliant stablecoin payment networks for cross-border USD settlement in emerging markets (starting with Latin America), and institutional-grade real-world asset (RWA) tokenization\u2026",
-            "url": "https://github.com/api-evangelist/bsos",
+            "name": "chain",
+            "full_name": "api-evangelist/chain",
+            "description": "Chain is a stablecoin payments infrastructure platform that lets enterprises move money globally across both traditional banking rails and digital-currency networks. Its unified REST API covers funding, payouts and payees; virtual and physical card issuing; wallet registration with compliance screening; and a double-entry ledger for\u2026",
+            "url": "https://github.com/api-evangelist/chain",
             "stars": 0,
             "forks": 0,
             "score": 30
@@ -568,6 +612,17 @@ const ALPHA_DATA_V2 = {
             "full_name": "Kabutoxyz/token-migration-tool",
             "description": "Migrate tokens between chains. Support for bridge protocols and cross-chain swaps.",
             "url": "https://github.com/Kabutoxyz/token-migration-tool",
+            "stars": 0,
+            "forks": 0,
+            "score": 30
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "celer-network",
+            "full_name": "api-evangelist/celer-network",
+            "description": "Celer Network is a blockchain interoperability protocol that enables seamless cross-chain experiences for dApps, assets, and users. Its flagship cBridge is a decentralized cross-chain asset bridge supporting 40+ blockchains with over $14B in cumulative transfer volume, and Celer IM (Inter-chain Messaging) is a framework for building\u2026",
+            "url": "https://github.com/api-evangelist/celer-network",
             "stars": 0,
             "forks": 0,
             "score": 30
@@ -629,5 +684,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-08-02 21:48"
+    "timestamp": "2026-08-02 22:49"
 };
