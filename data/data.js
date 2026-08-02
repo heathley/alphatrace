@@ -7,7 +7,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "QwenAudio/qwen-audio-agent",
             "description": "A realtime voice runtime that keeps Agents talking, working, and present.  Real-time Voice Runtime for AI Agents",
             "url": "https://github.com/QwenAudio/qwen-audio-agent",
-            "stars": 1716,
+            "stars": 1719,
             "forks": 108,
             "score": 99
         },
@@ -18,7 +18,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "makecindy/cindy",
             "description": "Consider it done. The open-source AI agent that works out of the box \u00b7 \u60f3\u5230\uff0c\u5c31\u80fd\u505a\u5230\u3002\u5f00\u6e90\u3001\u5f00\u7bb1\u5373\u7528\u7684 AI Agent\u3002",
             "url": "https://github.com/makecindy/cindy",
-            "stars": 1447,
+            "stars": 1456,
             "forks": 181,
             "score": 99
         },
@@ -29,8 +29,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "0xwilliamortiz/humanizer-cli",
             "description": "33 ways to spot AI-written text, right in your terminal. Before/after examples, draft checker, zero dependencies.",
             "url": "https://github.com/0xwilliamortiz/humanizer-cli",
-            "stars": 363,
-            "forks": 41,
+            "stars": 419,
+            "forks": 47,
             "score": 99
         },
         {
@@ -51,9 +51,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "VictorTaelin/OptMem",
             "description": "Permanent memory for AI agents. A 426-token prompt, a script, plug and play.",
             "url": "https://github.com/VictorTaelin/OptMem",
-            "stars": 1073,
+            "stars": 1074,
             "forks": 62,
-            "score": 96
+            "score": 90
         },
         {
             "main_cat": "AI",
@@ -62,7 +62,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Jakubantalik/thinking-orbs",
             "description": "Dotted thought-orb loading indicators for AI & agent UIs \u2014 six tuned states, two sizes, auto dark/light",
             "url": "https://github.com/Jakubantalik/thinking-orbs",
-            "stars": 1324,
+            "stars": 1326,
             "forks": 101,
             "score": 87
         },
@@ -73,7 +73,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "AminBlg/SimpleEnglish",
             "description": "Agent skill: make LLMs write docs in ASD-STE100 Simplified Technical English \u2014 no AI slop",
             "url": "https://github.com/AminBlg/SimpleEnglish",
-            "stars": 1331,
+            "stars": 1332,
             "forks": 43,
             "score": 80
         },
@@ -95,9 +95,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "Kritt-ai/open-kritt",
             "description": "Orchestrate AI agents to find real vulnerabilities in code.",
             "url": "https://github.com/Kritt-ai/open-kritt",
-            "stars": 788,
-            "forks": 155,
-            "score": 76
+            "stars": 820,
+            "forks": 158,
+            "score": 78
         },
         {
             "main_cat": "AI",
@@ -128,7 +128,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "perplexityai/numbat",
             "description": "Visibility into AI agent activity on endpoints, with on-device detection, optional pre-action blocking, and forensic reconstruction.",
             "url": "https://github.com/perplexityai/numbat",
-            "stars": 616,
+            "stars": 621,
             "forks": 59,
             "score": 65
         },
@@ -150,9 +150,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "ddcat-ai/open-ai-canvas",
             "description": "\u9762\u5411 AI \u5f71\u89c6\u521b\u4f5c\u7684\u5f00\u6e90\u65e0\u9650\u753b\u5e03\u5de5\u4f5c\u53f0\uff0c\u96c6\u6210\u591a\u6a21\u6001\u751f\u6210\u3001\u5206\u955c\u7f16\u6392\u3001\u7d20\u6750\u7ba1\u7406\u4e0e Agent \u5de5\u4f5c\u6d41\u3002",
             "url": "https://github.com/ddcat-ai/open-ai-canvas",
-            "stars": 396,
-            "forks": 96,
-            "score": 57
+            "stars": 401,
+            "forks": 98,
+            "score": 58
         },
         {
             "main_cat": "AI",
@@ -161,8 +161,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "LYiHub/pub-local-jarvis",
             "description": "Windows \u672c\u5730\u591a\u6a21\u6001 AI \u684c\u9762\u684c\u5ba0\uff0c\u652f\u6301\u5c4f\u5e55\u4e0e\u97f3\u9891\u611f\u77e5\u3002",
             "url": "https://github.com/LYiHub/pub-local-jarvis",
-            "stars": 322,
-            "forks": 68,
+            "stars": 323,
+            "forks": 69,
             "score": 54
         },
         {
@@ -172,7 +172,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "MarcosSete/awesome-free-ai-books",
             "description": "A curated list of free, legitimate AI/ML books",
             "url": "https://github.com/MarcosSete/awesome-free-ai-books",
-            "stars": 431,
+            "stars": 432,
             "forks": 42,
             "score": 53
         },
@@ -183,7 +183,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "qaml-ai/camelAI",
             "description": "camelAI \u2014 an AI coding assistant platform built on Cloudflare Workers and Durable Objects",
             "url": "https://github.com/qaml-ai/camelAI",
-            "stars": 319,
+            "stars": 320,
             "forks": 24,
             "score": 47
         },
@@ -206,7 +206,7 @@ const ALPHA_DATA_V2 = {
             "description": "Graph engineering for AI agents: the 9-stage knowledge-graph pipeline (translated from SEU's graduate course) + task-graph orchestration patterns, as a Claude skill with teaching mode and paste-ready workflows",
             "url": "https://github.com/codejunkie99/graph-engineering",
             "stars": 271,
-            "forks": 39,
+            "forks": 40,
             "score": 46
         },
         {
@@ -227,7 +227,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "grafana/ai-sdk",
             "description": "Grafana AI SDK for Go \u2014 streaming, tool-calling AI backends that speak fluent @ai-sdk/react",
             "url": "https://github.com/grafana/ai-sdk",
-            "stars": 190,
+            "stars": 191,
             "forks": 6,
             "score": 45
         },
@@ -249,7 +249,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Pinvou/pinvou-agent",
             "description": "Open-source desktop AI agent for tools, files, knowledge, workflows, and real deliverables.",
             "url": "https://github.com/Pinvou/pinvou-agent",
-            "stars": 221,
+            "stars": 223,
             "forks": 29,
             "score": 44
         },
@@ -310,17 +310,6 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "smol-kimi-k3",
-            "full_name": "cneuralnetwork/smol-kimi-k3",
-            "description": "A 49M-parameter Kimi K3-inspired language model trainable on one 8GB GPU",
-            "url": "https://github.com/cneuralnetwork/smol-kimi-k3",
-            "stars": 84,
-            "forks": 9,
-            "score": 37
-        },
-        {
-            "main_cat": "AI",
             "sub_cat": null,
             "name": "patent-literature-search-mcp",
             "full_name": "patsnap/patent-literature-search-mcp",
@@ -344,13 +333,24 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
+            "name": "smol-kimi-k3",
+            "full_name": "cneuralnetwork/smol-kimi-k3",
+            "description": "A 49M-parameter Kimi K3-inspired language model trainable on one 8GB GPU",
+            "url": "https://github.com/cneuralnetwork/smol-kimi-k3",
+            "stars": 84,
+            "forks": 9,
+            "score": 36
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
             "name": "ash4d-ai-deployment-hub",
             "full_name": "hallbrandonidyt2176/ash4d-ai-deployment-hub",
             "description": "ash4d.com is a self-hosted private AI platform for k3s Kubernetes, combining local Qwen3 inference, retrieval-augmented generation, agent tooling, and GPU-enabled services in a GitOps-managed environment.",
             "url": "https://github.com/hallbrandonidyt2176/ash4d-ai-deployment-hub",
-            "stars": 17,
+            "stars": 35,
             "forks": 0,
-            "score": 32
+            "score": 35
         },
         {
             "main_cat": "AI",
@@ -618,5 +618,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-08-02 16:57"
+    "timestamp": "2026-08-02 18:00"
 };
