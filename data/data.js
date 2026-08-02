@@ -7,7 +7,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "QwenAudio/qwen-audio-agent",
             "description": "A realtime voice runtime that keeps Agents talking, working, and present.  Real-time Voice Runtime for AI Agents",
             "url": "https://github.com/QwenAudio/qwen-audio-agent",
-            "stars": 1723,
+            "stars": 1725,
             "forks": 108,
             "score": 99
         },
@@ -51,7 +51,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "VictorTaelin/OptMem",
             "description": "Permanent memory for AI agents. A 426-token prompt, a script, plug and play.",
             "url": "https://github.com/VictorTaelin/OptMem",
-            "stars": 1075,
+            "stars": 1076,
             "forks": 62,
             "score": 90
         },
@@ -73,8 +73,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "AminBlg/SimpleEnglish",
             "description": "Agent skill: make LLMs write docs in ASD-STE100 Simplified Technical English \u2014 no AI slop",
             "url": "https://github.com/AminBlg/SimpleEnglish",
-            "stars": 1339,
-            "forks": 43,
+            "stars": 1343,
+            "forks": 44,
             "score": 80
         },
         {
@@ -84,9 +84,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "Kritt-ai/open-kritt",
             "description": "Orchestrate AI agents to find real vulnerabilities in code.",
             "url": "https://github.com/Kritt-ai/open-kritt",
-            "stars": 857,
-            "forks": 168,
-            "score": 77
+            "stars": 871,
+            "forks": 169,
+            "score": 78
         },
         {
             "main_cat": "AI",
@@ -95,7 +95,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "mikiarlo3/ai-copywriter",
             "description": "An AI copywriter that uses real copywriting skills + real marketing knowledge with human tone.",
             "url": "https://github.com/mikiarlo3/ai-copywriter",
-            "stars": 1011,
+            "stars": 1012,
             "forks": 24,
             "score": 76
         },
@@ -128,7 +128,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "perplexityai/numbat",
             "description": "Visibility into AI agent activity on endpoints, with on-device detection, optional pre-action blocking, and forensic reconstruction.",
             "url": "https://github.com/perplexityai/numbat",
-            "stars": 625,
+            "stars": 628,
             "forks": 61,
             "score": 66
         },
@@ -174,7 +174,7 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/MarcosSete/awesome-free-ai-books",
             "stars": 432,
             "forks": 42,
-            "score": 53
+            "score": 51
         },
         {
             "main_cat": "AI",
@@ -194,7 +194,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "finna/Finn-loop",
             "description": "The Finn-loop: a 3-skill AI software factory for Claude Code \u2014 spec, build, review. Humans merge.",
             "url": "https://github.com/finna/Finn-loop",
-            "stars": 285,
+            "stars": 286,
             "forks": 47,
             "score": 46
         },
@@ -227,7 +227,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "grafana/ai-sdk",
             "description": "Grafana AI SDK for Go \u2014 streaming, tool-calling AI backends that speak fluent @ai-sdk/react",
             "url": "https://github.com/grafana/ai-sdk",
-            "stars": 192,
+            "stars": 193,
             "forks": 6,
             "score": 45
         },
@@ -249,8 +249,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "Pinvou/pinvou-agent",
             "description": "Open-source desktop AI agent for tools, files, knowledge, workflows, and real deliverables.",
             "url": "https://github.com/Pinvou/pinvou-agent",
-            "stars": 228,
-            "forks": 29,
+            "stars": 229,
+            "forks": 30,
             "score": 44
         },
         {
@@ -350,7 +350,7 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/hallbrandonidyt2176/ash4d-ai-deployment-hub",
             "stars": 30,
             "forks": 0,
-            "score": 35
+            "score": 33
         },
         {
             "main_cat": "AI",
@@ -531,6 +531,17 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
+            "name": "bsos",
+            "full_name": "api-evangelist/bsos",
+            "description": "BSOS is a Web3 infrastructure company building compliant financial rails across emerging markets and institutional finance. It operates two core lines of business - compliant stablecoin payment networks for cross-border USD settlement in emerging markets (starting with Latin America), and institutional-grade real-world asset (RWA) tokenization\u2026",
+            "url": "https://github.com/api-evangelist/bsos",
+            "stars": 0,
+            "forks": 0,
+            "score": 30
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
             "name": "ai-debate",
             "full_name": "yout0703/ai-debate",
             "description": "Multi-model debate protocol on Cloudflare Workers / Durable Objects \u2014 research, cross-exam, vote, majority consensus",
@@ -618,5 +629,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-08-02 20:45"
+    "timestamp": "2026-08-02 21:48"
 };
