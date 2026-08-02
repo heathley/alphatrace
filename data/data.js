@@ -7,7 +7,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "QwenAudio/qwen-audio-agent",
             "description": "A realtime voice runtime that keeps Agents talking, working, and present.  Real-time Voice Runtime for AI Agents",
             "url": "https://github.com/QwenAudio/qwen-audio-agent",
-            "stars": 1665,
+            "stars": 1690,
             "forks": 108,
             "score": 99
         },
@@ -18,8 +18,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "makecindy/cindy",
             "description": "Consider it done. The open-source AI agent that works out of the box \u00b7 \u60f3\u5230\uff0c\u5c31\u80fd\u505a\u5230\u3002\u5f00\u6e90\u3001\u5f00\u7bb1\u5373\u7528\u7684 AI Agent\u3002",
             "url": "https://github.com/makecindy/cindy",
-            "stars": 1388,
-            "forks": 175,
+            "stars": 1390,
+            "forks": 176,
             "score": 99
         },
         {
@@ -29,7 +29,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "0xwilliamortiz/ponytail-improved",
             "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
             "url": "https://github.com/0xwilliamortiz/ponytail-improved",
-            "stars": 578,
+            "stars": 579,
             "forks": 127,
             "score": 99
         },
@@ -51,8 +51,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "Jakubantalik/thinking-orbs",
             "description": "Dotted thought-orb loading indicators for AI & agent UIs \u2014 six tuned states, two sizes, auto dark/light",
             "url": "https://github.com/Jakubantalik/thinking-orbs",
-            "stars": 1314,
-            "forks": 100,
+            "stars": 1317,
+            "forks": 101,
             "score": 87
         },
         {
@@ -73,7 +73,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "AminBlg/SimpleEnglish",
             "description": "Agent skill: make LLMs write docs in ASD-STE100 Simplified Technical English \u2014 no AI slop",
             "url": "https://github.com/AminBlg/SimpleEnglish",
-            "stars": 1310,
+            "stars": 1313,
             "forks": 43,
             "score": 79
         },
@@ -95,9 +95,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "Kritt-ai/open-kritt",
             "description": "Orchestrate AI agents to find real vulnerabilities in code.",
             "url": "https://github.com/Kritt-ai/open-kritt",
-            "stars": 629,
-            "forks": 121,
-            "score": 67
+            "stars": 685,
+            "forks": 134,
+            "score": 70
         },
         {
             "main_cat": "AI",
@@ -117,7 +117,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "perplexityai/numbat",
             "description": "Visibility into AI agent activity on endpoints, with on-device detection, optional pre-action blocking, and forensic reconstruction.",
             "url": "https://github.com/perplexityai/numbat",
-            "stars": 602,
+            "stars": 604,
             "forks": 57,
             "score": 64
         },
@@ -128,9 +128,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "TryCaspian/caspian-sdk",
             "description": "Agent communication SDK. The open-source agent communication layer for AI agents \u2014 email, WhatsApp, Slack, Discord, Telegram, SMS. Python & TypeScript.",
             "url": "https://github.com/TryCaspian/caspian-sdk",
-            "stars": 397,
+            "stars": 399,
             "forks": 127,
-            "score": 60
+            "score": 58
         },
         {
             "main_cat": "AI",
@@ -139,8 +139,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "ddcat-ai/open-ai-canvas",
             "description": "\u9762\u5411 AI \u5f71\u89c6\u521b\u4f5c\u7684\u5f00\u6e90\u65e0\u9650\u753b\u5e03\u5de5\u4f5c\u53f0\uff0c\u96c6\u6210\u591a\u6a21\u6001\u751f\u6210\u3001\u5206\u955c\u7f16\u6392\u3001\u7d20\u6750\u7ba1\u7406\u4e0e Agent \u5de5\u4f5c\u6d41\u3002",
             "url": "https://github.com/ddcat-ai/open-ai-canvas",
-            "stars": 392,
-            "forks": 93,
+            "stars": 394,
+            "forks": 94,
             "score": 57
         },
         {
@@ -161,7 +161,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "MarcosSete/awesome-free-ai-books",
             "description": "A curated list of free, legitimate AI/ML books",
             "url": "https://github.com/MarcosSete/awesome-free-ai-books",
-            "stars": 428,
+            "stars": 430,
             "forks": 41,
             "score": 52
         },
@@ -194,7 +194,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "codejunkie99/graph-engineering",
             "description": "Graph engineering for AI agents: the 9-stage knowledge-graph pipeline (translated from SEU's graduate course) + task-graph orchestration patterns, as a Claude skill with teaching mode and paste-ready workflows",
             "url": "https://github.com/codejunkie99/graph-engineering",
-            "stars": 265,
+            "stars": 267,
             "forks": 38,
             "score": 47
         },
@@ -207,6 +207,17 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/Role1776/netmon",
             "stars": 266,
             "forks": 39,
+            "score": 45
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "ai-sdk",
+            "full_name": "grafana/ai-sdk",
+            "description": "Grafana AI SDK for Go \u2014 streaming, tool-calling AI backends that speak fluent @ai-sdk/react",
+            "url": "https://github.com/grafana/ai-sdk",
+            "stars": 186,
+            "forks": 6,
             "score": 45
         },
         {
@@ -234,23 +245,12 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "ai-sdk",
-            "full_name": "grafana/ai-sdk",
-            "description": "Grafana AI SDK for Go \u2014 streaming, tool-calling AI backends that speak fluent @ai-sdk/react",
-            "url": "https://github.com/grafana/ai-sdk",
-            "stars": 185,
-            "forks": 6,
-            "score": 44
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
             "name": "pinvou-agent",
             "full_name": "Pinvou/pinvou-agent",
             "description": "Open-source desktop AI agent for tools, files, knowledge, workflows, and real deliverables.",
             "url": "https://github.com/Pinvou/pinvou-agent",
-            "stars": 211,
-            "forks": 28,
+            "stars": 215,
+            "forks": 29,
             "score": 43
         },
         {
@@ -311,22 +311,11 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
-            "name": "micro-vllm",
-            "full_name": "nopnoping/micro-vllm",
-            "description": "A small, educational vLLM implementation for exploring LLM inference, scheduling, KV-cache management, and GPU execution.",
-            "url": "https://github.com/nopnoping/micro-vllm",
-            "stars": 111,
-            "forks": 4,
-            "score": 37
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
             "name": "smol-kimi-k3",
             "full_name": "cneuralnetwork/smol-kimi-k3",
             "description": "A 49M-parameter Kimi K3-inspired language model trainable on one 8GB GPU",
             "url": "https://github.com/cneuralnetwork/smol-kimi-k3",
-            "stars": 83,
+            "stars": 84,
             "forks": 9,
             "score": 37
         },
@@ -339,6 +328,17 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/patsnap/patent-literature-search-mcp",
             "stars": 187,
             "forks": 5,
+            "score": 36
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "micro-vllm",
+            "full_name": "nopnoping/micro-vllm",
+            "description": "A small, educational vLLM implementation for exploring LLM inference, scheduling, KV-cache management, and GPU execution.",
+            "url": "https://github.com/nopnoping/micro-vllm",
+            "stars": 111,
+            "forks": 4,
             "score": 36
         },
         {
@@ -618,5 +618,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-08-02 10:28"
+    "timestamp": "2026-08-02 11:56"
 };
