@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "QwenAudio/qwen-audio-agent",
             "description": "A realtime voice runtime that keeps Agents talking, working, and present.  Real-time Voice Runtime for AI Agents",
             "url": "https://github.com/QwenAudio/qwen-audio-agent",
-            "stars": 1804,
-            "forks": 121,
+            "stars": 1807,
+            "forks": 122,
             "score": 99
         },
         {
@@ -18,7 +18,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "makecindy/cindy",
             "description": "Consider it done. The open-source AI agent that works out of the box \u00b7 \u60f3\u5230\uff0c\u5c31\u80fd\u505a\u5230\u3002\u5f00\u6e90\u3001\u5f00\u7bb1\u5373\u7528\u7684 AI Agent\u3002",
             "url": "https://github.com/makecindy/cindy",
-            "stars": 1623,
+            "stars": 1626,
             "forks": 201,
             "score": 99
         },
@@ -29,7 +29,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "0xwilliamortiz/humanizer-cli",
             "description": "33 ways to spot AI-written text, right in your terminal. Before/after examples, draft checker, zero dependencies.",
             "url": "https://github.com/0xwilliamortiz/humanizer-cli",
-            "stars": 554,
+            "stars": 555,
             "forks": 69,
             "score": 99
         },
@@ -51,7 +51,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "VictorTaelin/OptMem",
             "description": "Permanent memory for AI agents. A 426-token prompt, a script, plug and play.",
             "url": "https://github.com/VictorTaelin/OptMem",
-            "stars": 1097,
+            "stars": 1102,
             "forks": 64,
             "score": 86
         },
@@ -62,7 +62,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Jakubantalik/thinking-orbs",
             "description": "Dotted thought-orb loading indicators for AI & agent UIs \u2014 six tuned states, two sizes, auto dark/light",
             "url": "https://github.com/Jakubantalik/thinking-orbs",
-            "stars": 1358,
+            "stars": 1359,
             "forks": 104,
             "score": 85
         },
@@ -73,8 +73,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "AminBlg/SimpleEnglish",
             "description": "Agent skill: make LLMs write docs in ASD-STE100 Simplified Technical English \u2014 no AI slop",
             "url": "https://github.com/AminBlg/SimpleEnglish",
-            "stars": 1445,
-            "forks": 55,
+            "stars": 1453,
+            "forks": 56,
             "score": 82
         },
         {
@@ -86,7 +86,7 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/mikiarlo3/ai-copywriter",
             "stars": 1019,
             "forks": 25,
-            "score": 76
+            "score": 73
         },
         {
             "main_cat": "AI",
@@ -95,7 +95,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "perplexityai/numbat",
             "description": "Visibility into AI agent activity on endpoints, with on-device detection, optional pre-action blocking, and forensic reconstruction.",
             "url": "https://github.com/perplexityai/numbat",
-            "stars": 659,
+            "stars": 660,
             "forks": 66,
             "score": 65
         },
@@ -117,8 +117,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "LYiHub/pub-local-jarvis",
             "description": "Windows \u672c\u5730\u591a\u6a21\u6001 AI \u684c\u9762\u684c\u5ba0\uff0c\u652f\u6301\u5c4f\u5e55\u4e0e\u97f3\u9891\u611f\u77e5\u3002",
             "url": "https://github.com/LYiHub/pub-local-jarvis",
-            "stars": 372,
-            "forks": 80,
+            "stars": 373,
+            "forks": 81,
             "score": 56
         },
         {
@@ -128,7 +128,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "MarcosSete/awesome-free-ai-books",
             "description": "A curated list of free, legitimate AI/ML books",
             "url": "https://github.com/MarcosSete/awesome-free-ai-books",
-            "stars": 450,
+            "stars": 451,
             "forks": 43,
             "score": 52
         },
@@ -139,7 +139,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "aws/context-ontology-accelerator",
             "description": "An open-source, ontology-based semantic context accelerator that enables AI agents to make more accurate, consistent, and explainable decisions.",
             "url": "https://github.com/aws/context-ontology-accelerator",
-            "stars": 247,
+            "stars": 251,
             "forks": 20,
             "score": 50
         },
@@ -150,7 +150,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "qaml-ai/camelAI",
             "description": "camelAI \u2014 an AI coding assistant platform built on Cloudflare Workers and Durable Objects",
             "url": "https://github.com/qaml-ai/camelAI",
-            "stars": 323,
+            "stars": 324,
             "forks": 25,
             "score": 46
         },
@@ -162,7 +162,7 @@ const ALPHA_DATA_V2 = {
             "description": "Graph engineering for AI agents: the 9-stage knowledge-graph pipeline (translated from SEU's graduate course) + task-graph orchestration patterns, as a Claude skill with teaching mode and paste-ready workflows",
             "url": "https://github.com/codejunkie99/graph-engineering",
             "stars": 285,
-            "forks": 41,
+            "forks": 42,
             "score": 46
         },
         {
@@ -183,7 +183,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Pinvou/pinvou-agent",
             "description": "Open-source desktop AI agent for tools, files, knowledge, workflows, and real deliverables.",
             "url": "https://github.com/Pinvou/pinvou-agent",
-            "stars": 263,
+            "stars": 267,
             "forks": 35,
             "score": 45
         },
@@ -194,7 +194,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "uczltw6/trace-file-lineage",
             "description": "Find which script, notebook, data, command, or AI agent produced a file \u2014 locally, with evidence and honest uncertainty.",
             "url": "https://github.com/uczltw6/trace-file-lineage",
-            "stars": 205,
+            "stars": 206,
             "forks": 3,
             "score": 45
         },
@@ -216,7 +216,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "grafana/ai-sdk",
             "description": "Grafana AI SDK for Go \u2014 streaming, tool-calling AI backends that speak fluent @ai-sdk/react",
             "url": "https://github.com/grafana/ai-sdk",
-            "stars": 200,
+            "stars": 201,
             "forks": 6,
             "score": 44
         },
@@ -260,8 +260,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "isaqueseneda/shieldfont",
             "description": "A typeface that protects written content by poisoning unauthorized AI training datasets.",
             "url": "https://github.com/isaqueseneda/shieldfont",
-            "stars": 207,
-            "forks": 9,
+            "stars": 209,
+            "forks": 10,
             "score": 38
         },
         {
@@ -586,17 +586,6 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
-            "name": "dynamic",
-            "full_name": "api-evangelist/dynamic",
-            "description": "Dynamic is a wallet infrastructure platform for fintech, crypto, and stablecoin applications, letting companies embed non-custodial wallets, connect 800+ external wallets, run distributed (TSS-MPC) key management, and build onchain products such as crypto payments, trading, yield, and global money movement without in-house crypto expertise.",
-            "url": "https://github.com/api-evangelist/dynamic",
-            "stars": 0,
-            "forks": 0,
-            "score": 30
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
             "name": "ai-debate",
             "full_name": "yout0703/ai-debate",
             "description": "Multi-model debate protocol on Cloudflare Workers / Durable Objects \u2014 research, cross-exam, vote, majority consensus",
@@ -728,5 +717,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-08-03 18:45"
+    "timestamp": "2026-08-03 20:21"
 };
