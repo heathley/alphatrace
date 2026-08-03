@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "QwenAudio/qwen-audio-agent",
             "description": "A realtime voice runtime that keeps Agents talking, working, and present.  Real-time Voice Runtime for AI Agents",
             "url": "https://github.com/QwenAudio/qwen-audio-agent",
-            "stars": 1730,
-            "forks": 108,
+            "stars": 1740,
+            "forks": 110,
             "score": 99
         },
         {
@@ -18,7 +18,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "makecindy/cindy",
             "description": "Consider it done. The open-source AI agent that works out of the box \u00b7 \u60f3\u5230\uff0c\u5c31\u80fd\u505a\u5230\u3002\u5f00\u6e90\u3001\u5f00\u7bb1\u5373\u7528\u7684 AI Agent\u3002",
             "url": "https://github.com/makecindy/cindy",
-            "stars": 1473,
+            "stars": 1486,
             "forks": 182,
             "score": 99
         },
@@ -51,7 +51,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "VictorTaelin/OptMem",
             "description": "Permanent memory for AI agents. A 426-token prompt, a script, plug and play.",
             "url": "https://github.com/VictorTaelin/OptMem",
-            "stars": 1077,
+            "stars": 1079,
             "forks": 62,
             "score": 90
         },
@@ -62,9 +62,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "Jakubantalik/thinking-orbs",
             "description": "Dotted thought-orb loading indicators for AI & agent UIs \u2014 six tuned states, two sizes, auto dark/light",
             "url": "https://github.com/Jakubantalik/thinking-orbs",
-            "stars": 1331,
+            "stars": 1338,
             "forks": 102,
-            "score": 87
+            "score": 88
         },
         {
             "main_cat": "AI",
@@ -73,20 +73,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "AminBlg/SimpleEnglish",
             "description": "Agent skill: make LLMs write docs in ASD-STE100 Simplified Technical English \u2014 no AI slop",
             "url": "https://github.com/AminBlg/SimpleEnglish",
-            "stars": 1349,
+            "stars": 1356,
             "forks": 44,
-            "score": 80
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "open-kritt",
-            "full_name": "Kritt-ai/open-kritt",
-            "description": "Orchestrate AI agents to find real vulnerabilities in code.",
-            "url": "https://github.com/Kritt-ai/open-kritt",
-            "stars": 892,
-            "forks": 178,
-            "score": 80
+            "score": 81
         },
         {
             "main_cat": "AI",
@@ -101,47 +90,14 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "nativ",
-            "full_name": "Blaizzy/nativ",
-            "description": "Local AI, native to your Mac. Chat, serve, monitor, and connect MLX models from one macOS app.",
-            "url": "https://github.com/Blaizzy/nativ",
-            "stars": 1071,
-            "forks": 61,
-            "score": 71
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "pireel",
-            "full_name": "pireel/pireel",
-            "description": "The open-source alternative to Capcut\u3001ChatCut. Drivable by any AI agent over MCP.",
-            "url": "https://github.com/pireel/pireel",
-            "stars": 881,
-            "forks": 76,
-            "score": 67
-        },
-        {
-            "main_cat": "AI",
             "sub_cat": null,
             "name": "numbat",
             "full_name": "perplexityai/numbat",
             "description": "Visibility into AI agent activity on endpoints, with on-device detection, optional pre-action blocking, and forensic reconstruction.",
             "url": "https://github.com/perplexityai/numbat",
-            "stars": 630,
-            "forks": 61,
+            "stars": 635,
+            "forks": 62,
             "score": 66
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "caspian-sdk",
-            "full_name": "TryCaspian/caspian-sdk",
-            "description": "Agent communication SDK. The open-source agent communication layer for AI agents \u2014 email, WhatsApp, Slack, Discord, Telegram, SMS. Python & TypeScript.",
-            "url": "https://github.com/TryCaspian/caspian-sdk",
-            "stars": 403,
-            "forks": 127,
-            "score": 58
         },
         {
             "main_cat": "AI",
@@ -150,8 +106,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "ddcat-ai/open-ai-canvas",
             "description": "\u9762\u5411 AI \u5f71\u89c6\u521b\u4f5c\u7684\u5f00\u6e90\u65e0\u9650\u753b\u5e03\u5de5\u4f5c\u53f0\uff0c\u96c6\u6210\u591a\u6a21\u6001\u751f\u6210\u3001\u5206\u955c\u7f16\u6392\u3001\u7d20\u6750\u7ba1\u7406\u4e0e Agent \u5de5\u4f5c\u6d41\u3002",
             "url": "https://github.com/ddcat-ai/open-ai-canvas",
-            "stars": 402,
-            "forks": 98,
+            "stars": 403,
+            "forks": 99,
             "score": 58
         },
         {
@@ -161,9 +117,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "LYiHub/pub-local-jarvis",
             "description": "Windows \u672c\u5730\u591a\u6a21\u6001 AI \u684c\u9762\u684c\u5ba0\uff0c\u652f\u6301\u5c4f\u5e55\u4e0e\u97f3\u9891\u611f\u77e5\u3002",
             "url": "https://github.com/LYiHub/pub-local-jarvis",
-            "stars": 333,
-            "forks": 71,
-            "score": 55
+            "stars": 344,
+            "forks": 72,
+            "score": 56
         },
         {
             "main_cat": "AI",
@@ -183,7 +139,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "qaml-ai/camelAI",
             "description": "camelAI \u2014 an AI coding assistant platform built on Cloudflare Workers and Durable Objects",
             "url": "https://github.com/qaml-ai/camelAI",
-            "stars": 320,
+            "stars": 321,
             "forks": 25,
             "score": 47
         },
@@ -205,9 +161,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "codejunkie99/graph-engineering",
             "description": "Graph engineering for AI agents: the 9-stage knowledge-graph pipeline (translated from SEU's graduate course) + task-graph orchestration patterns, as a Claude skill with teaching mode and paste-ready workflows",
             "url": "https://github.com/codejunkie99/graph-engineering",
-            "stars": 274,
+            "stars": 275,
             "forks": 40,
             "score": 46
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "trace-file-lineage",
+            "full_name": "uczltw6/trace-file-lineage",
+            "description": "Find which script, notebook, data, command, or AI agent produced a file \u2014 locally, with evidence and honest uncertainty.",
+            "url": "https://github.com/uczltw6/trace-file-lineage",
+            "stars": 202,
+            "forks": 3,
+            "score": 45
         },
         {
             "main_cat": "AI",
@@ -227,31 +194,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "Pinvou/pinvou-agent",
             "description": "Open-source desktop AI agent for tools, files, knowledge, workflows, and real deliverables.",
             "url": "https://github.com/Pinvou/pinvou-agent",
-            "stars": 230,
-            "forks": 30,
+            "stars": 233,
+            "forks": 31,
             "score": 44
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "trace-file-lineage",
-            "full_name": "uczltw6/trace-file-lineage",
-            "description": "Find which script, notebook, data, command, or AI agent produced a file \u2014 locally, with evidence and honest uncertainty.",
-            "url": "https://github.com/uczltw6/trace-file-lineage",
-            "stars": 185,
-            "forks": 3,
-            "score": 44
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "agents-council",
-            "full_name": "0xwilliamortiz/agents-council",
-            "description": "Multi-agents collaboration plugin for Claude Code - orchestrate multiple AI agents (Codex CLI, Gemini CLI, etc.) for diverse perspectives",
-            "url": "https://github.com/0xwilliamortiz/agents-council",
-            "stars": 295,
-            "forks": 37,
-            "score": 43
         },
         {
             "main_cat": "AI",
@@ -260,20 +205,31 @@ const ALPHA_DATA_V2 = {
             "full_name": "grafana/ai-sdk",
             "description": "Grafana AI SDK for Go \u2014 streaming, tool-calling AI backends that speak fluent @ai-sdk/react",
             "url": "https://github.com/grafana/ai-sdk",
-            "stars": 193,
+            "stars": 194,
             "forks": 6,
             "score": 43
         },
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "Agent-Execution-Partnership",
-            "full_name": "eli-labz/Agent-Execution-Partnership",
-            "description": "Agent Execution Partnership AEE is an open-source control plane that ensures every AI agent action is authorized before it runs, observable while it runs, and verifiable after it completes.",
-            "url": "https://github.com/eli-labz/Agent-Execution-Partnership",
-            "stars": 205,
-            "forks": 50,
-            "score": 42
+            "name": "ARTEX",
+            "full_name": "Autumn-27/ARTEX",
+            "description": "AI \u81ea\u4e3b\u6e17\u900f\u6d4b\u8bd5\u7cfb\u7edf",
+            "url": "https://github.com/Autumn-27/ARTEX",
+            "stars": 187,
+            "forks": 20,
+            "score": 43
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "context-ontology-accelerator",
+            "full_name": "aws/context-ontology-accelerator",
+            "description": "An open-source, ontology-based semantic context accelerator that enables AI agents to make more accurate, consistent, and explainable decisions.",
+            "url": "https://github.com/aws/context-ontology-accelerator",
+            "stars": 162,
+            "forks": 13,
+            "score": 43
         },
         {
             "main_cat": "AI",
@@ -300,12 +256,56 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
+            "name": "aimux",
+            "full_name": "arcships/aimux",
+            "description": "\u7edf\u4e00 LLM \u670d\u52a1\u63a5\u5165\u5c42 \u2014 \u4e00\u5957 API \u63a5\u5165 172+ \u5bb6 AI \u670d\u52a1\u5546",
+            "url": "https://github.com/arcships/aimux",
+            "stars": 141,
+            "forks": 4,
+            "score": 39
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "humanizer-stack",
+            "full_name": "NulightJens/humanizer-stack",
+            "description": "Two-pass pipeline for removing AI writing tells from outward-facing text: a surface pass plus a structural pass grounded in the StoryScope study. Packaged as Claude Code Skills.      Free community: skool.com/jens-ai-community-1306",
+            "url": "https://github.com/NulightJens/humanizer-stack",
+            "stars": 168,
+            "forks": 10,
+            "score": 38
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "unicut",
+            "full_name": "mtsee/unicut",
+            "description": "AI-driven open-source video editing tool",
+            "url": "https://github.com/mtsee/unicut",
+            "stars": 162,
+            "forks": 12,
+            "score": 38
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
             "name": "BossConsole",
             "full_name": "risa-labs-inc/BossConsole",
             "description": "Open-source, multi-platform harness for AI agents \u2014 a native, multi-threaded operator's console (JVM, not Electron) to run Claude Code, Codex, Gemini or OpenCode with a real browser, terminal, editor, secrets & 100+ MCP tools. Built for enterprises, science & research.",
             "url": "https://github.com/risa-labs-inc/BossConsole",
             "stars": 212,
             "forks": 6,
+            "score": 37
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "shieldfont",
+            "full_name": "isaqueseneda/shieldfont",
+            "description": "A typeface that protects written content by poisoning unauthorized AI training datasets.",
+            "url": "https://github.com/isaqueseneda/shieldfont",
+            "stars": 174,
+            "forks": 8,
             "score": 37
         },
         {
@@ -359,18 +359,18 @@ const ALPHA_DATA_V2 = {
             "full_name": "fypklanfanqie/local-llm-with-character-setting-Arknights",
             "description": "\u4e00\u6b3e\u8fd0\u884c\u5728\u5b89\u5353\u8bbe\u5907\u4e0a\u7684 LLM \u5bf9\u8bdd\u52a9\u624b\u5e94\u7528\u3002\u4f60\u53ef\u4ee5\u81ea\u884c\u4e0b\u8f7d\u5e76\u7ba1\u7406\u6a21\u578b\uff0c\u81ea\u7531\u5b9a\u5236\u89d2\u8272\u4eba\u8bbe\uff0c\u5e76\u968f\u65f6\u5728\u672c\u5730\u63a8\u7406\uff08\u90e8\u5206\u673a\u578b\u652f\u6301 GPU/NPU \u52a0\u901f\uff09\u4e0e\u4e91\u7aef\u6a21\u578b\u4e4b\u95f4\u5207\u6362\u3002\u540c\u65f6\u5185\u7f6e TTS \u8bed\u97f3\u5408\u6210\u529f\u80fd\uff0c\u8ba9\u5bf9\u8bdd\u66f4\u52a0\u9c9c\u6d3b\u3002 An Android LLM chat assistant that lets you download and manage your own models. Customize character personas, and switch seamlessly between on-device inference (with GPU/NPU acceleration on supported devices) and cloud-based models. Built-in ",
             "url": "https://github.com/fypklanfanqie/local-llm-with-character-setting-Arknights",
-            "stars": 38,
+            "stars": 42,
             "forks": 0,
             "score": 31
         },
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
-            "name": "OctoForge",
-            "full_name": "dmirain/OctoForge",
-            "description": "Self-hosted, multi-user agent platform for teams: skills, knowledge and API contracts live in the database and grow at runtime. Typed Python core (Protocol ports) you can embed in your own stack.",
-            "url": "https://github.com/dmirain/OctoForge",
-            "stars": 19,
+            "name": "midas",
+            "full_name": "api-evangelist/midas",
+            "description": "Midas is an onchain asset-management protocol that brings institutional-grade investment strategies onchain as tokenized real-world assets (RWAs). It issues permissionless, fully-backed tokenized products \u2014 including tokenized US Treasury bills (mTBILL), yield and basis strategies (mBASIS) and other onchain investment products \u2014 that offer full\u2026",
+            "url": "https://github.com/api-evangelist/midas",
+            "stars": 0,
             "forks": 0,
             "score": 30
         },
@@ -419,17 +419,6 @@ const ALPHA_DATA_V2 = {
             "score": 30
         },
         {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "Fifa26_prediction-against-market",
-            "full_name": "sagarmaru28-collab/Fifa26_prediction-against-market",
-            "description": "Fifa 26 world cup ML model prediction vs the bets on polymarket",
-            "url": "https://github.com/sagarmaru28-collab/Fifa26_prediction-against-market",
-            "stars": 0,
-            "forks": 0,
-            "score": 30
-        },
-        {
             "main_cat": "Prediction Markets",
             "sub_cat": null,
             "name": "noxoracle",
@@ -463,28 +452,6 @@ const ALPHA_DATA_V2 = {
             "score": 30
         },
         {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "casaisdev",
-            "full_name": "casaisdev/casaisdev",
-            "description": "Smart contract engineer building stablecoin & payment infrastructure across EVM and Solana. Open to work.",
-            "url": "https://github.com/casaisdev/casaisdev",
-            "stars": 1,
-            "forks": 0,
-            "score": 30
-        },
-        {
-            "main_cat": "Stablecoin Infrastructure",
-            "sub_cat": null,
-            "name": "aws-digital-asset-samples",
-            "full_name": "aws-samples/aws-digital-asset-samples",
-            "description": "Reference architectures for digital asset tokenization on AWS. Sample code for financial messaging integration, settlement, price feeds, proof-of-reserves, and stablecoin payments.",
-            "url": "https://github.com/aws-samples/aws-digital-asset-samples",
-            "stars": 1,
-            "forks": 1,
-            "score": 30
-        },
-        {
             "main_cat": "Stablecoin Infrastructure",
             "sub_cat": null,
             "name": "LitePay",
@@ -513,6 +480,39 @@ const ALPHA_DATA_V2 = {
             "full_name": "api-evangelist/dlt-payments",
             "description": "DLT Payments (DLTPAY) is a Web3 payments company offering a stablecoin wallet that enables businesses to send and receive instant payments in stablecoins across multiple blockchain networks \u2014 Ethereum, Arbitrum, Optimism, Polygon, and BNB Chain \u2014 with zero exposure to cryptocurrency price volatility.",
             "url": "https://github.com/api-evangelist/dlt-payments",
+            "stars": 0,
+            "forks": 0,
+            "score": 30
+        },
+        {
+            "main_cat": "Stablecoin Infrastructure",
+            "sub_cat": null,
+            "name": "loop-crypto",
+            "full_name": "api-evangelist/loop-crypto",
+            "description": "Loop Crypto is a crypto and stablecoin payment processor that lets merchants, billing software, and e-commerce platforms accept crypto and stablecoin payments end to end: charging a wallet, storing payment methods, accepting stablecoins, ERC-20 tokens, and Solana SPL tokens, and settling to merchants in either fiat or crypto.",
+            "url": "https://github.com/api-evangelist/loop-crypto",
+            "stars": 0,
+            "forks": 0,
+            "score": 30
+        },
+        {
+            "main_cat": "Stablecoin Infrastructure",
+            "sub_cat": null,
+            "name": "mobilecoin",
+            "full_name": "api-evangelist/mobilecoin",
+            "description": "MobileCoin is a privacy-focused, mobile-first cryptocurrency and payments network whose consumer wallet has since been rebranded as Sentz (send, save, receive and earn in stablecoins, including the eUSD stablecoin).",
+            "url": "https://github.com/api-evangelist/mobilecoin",
+            "stars": 0,
+            "forks": 0,
+            "score": 30
+        },
+        {
+            "main_cat": "Stablecoin Infrastructure",
+            "sub_cat": null,
+            "name": "mesh-connect",
+            "full_name": "api-evangelist/mesh-connect",
+            "description": "Mesh (formerly Mesh Connect) is a global crypto payments network that lets businesses accept crypto payments from 300+ wallets and exchanges and settle in stablecoins or local currency through a single integration.",
+            "url": "https://github.com/api-evangelist/mesh-connect",
             "stars": 0,
             "forks": 0,
             "score": 30
@@ -579,6 +579,17 @@ const ALPHA_DATA_V2 = {
             "full_name": "Jinchainne/COFFEEHOUSE",
             "description": "COFFEE HOUSE is a programmable money e-commerce platform that replaces traditional POS systems with direct USDC stablecoin payments on Arc Testnet. No banks, no payment gateways, no 3% card fees \u2014 just wallet-to-wallet settlement on-chain.",
             "url": "https://github.com/Jinchainne/COFFEEHOUSE",
+            "stars": 0,
+            "forks": 0,
+            "score": 30
+        },
+        {
+            "main_cat": "Stablecoin Infrastructure",
+            "sub_cat": null,
+            "name": "eldorado",
+            "full_name": "api-evangelist/eldorado",
+            "description": "Eldorado \u2014 El Dorado is a stablecoin-powered payments SuperApp for Latin America whose public API provides crypto onramp/offramp (buy and sell) infrastructure across Argentina, Brazil, Colombia, Peru, Bolivia, Panama, Paraguay, the Dominican Republic and more.",
+            "url": "https://github.com/api-evangelist/eldorado",
             "stars": 0,
             "forks": 0,
             "score": 30
@@ -659,23 +670,20 @@ const ALPHA_DATA_V2 = {
             "stars": 0,
             "forks": 0,
             "score": 30
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "metalend",
+            "full_name": "api-evangelist/metalend",
+            "description": "MetaLend is a DeFi \"earn and spend\" platform that aggregates lending pools across protocols (Aave, Morpho, Euler) and chains (Base, Ethereum, Polygon, Arbitrum, Linea) behind a single cross-chain Rebalancing API.",
+            "url": "https://github.com/api-evangelist/metalend",
+            "stars": 0,
+            "forks": 0,
+            "score": 30
         }
     ],
     "news": [
-        {
-            "title": "Formalization of security",
-            "source": "ArXiv",
-            "type": "Research Alpha",
-            "color": "text-indigo-600",
-            "url": "http://arxiv.org/abs/2607.28551v1"
-        },
-        {
-            "title": "Implementing Homomorphic Encryption-Based Logic Locking in System-on-Chip Designs",
-            "source": "ArXiv",
-            "type": "Research Alpha",
-            "color": "text-indigo-600",
-            "url": "http://arxiv.org/abs/2607.28542v1"
-        },
         {
             "title": "Bitcoin volatility remains high ahead of key FED decision.",
             "source": "Polymarket",
@@ -684,5 +692,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-08-02 23:52"
+    "timestamp": "2026-08-03 02:09"
 };
