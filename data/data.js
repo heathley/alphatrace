@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "QwenAudio/qwen-audio-agent",
             "description": "A realtime voice runtime that keeps Agents talking, working, and present.  Real-time Voice Runtime for AI Agents",
             "url": "https://github.com/QwenAudio/qwen-audio-agent",
-            "stars": 1789,
-            "forks": 117,
+            "stars": 1801,
+            "forks": 121,
             "score": 99
         },
         {
@@ -18,8 +18,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "makecindy/cindy",
             "description": "Consider it done. The open-source AI agent that works out of the box \u00b7 \u60f3\u5230\uff0c\u5c31\u80fd\u505a\u5230\u3002\u5f00\u6e90\u3001\u5f00\u7bb1\u5373\u7528\u7684 AI Agent\u3002",
             "url": "https://github.com/makecindy/cindy",
-            "stars": 1594,
-            "forks": 196,
+            "stars": 1609,
+            "forks": 199,
             "score": 99
         },
         {
@@ -29,20 +29,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "0xwilliamortiz/humanizer-cli",
             "description": "33 ways to spot AI-written text, right in your terminal. Before/after examples, draft checker, zero dependencies.",
             "url": "https://github.com/0xwilliamortiz/humanizer-cli",
-            "stars": 542,
+            "stars": 547,
             "forks": 68,
             "score": 99
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "ponytail-improved",
-            "full_name": "0xwilliamortiz/ponytail-improved",
-            "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-            "url": "https://github.com/0xwilliamortiz/ponytail-improved",
-            "stars": 583,
-            "forks": 129,
-            "score": 98
         },
         {
             "main_cat": "AI",
@@ -51,9 +40,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "VictorTaelin/OptMem",
             "description": "Permanent memory for AI agents. A 426-token prompt, a script, plug and play.",
             "url": "https://github.com/VictorTaelin/OptMem",
-            "stars": 1089,
+            "stars": 1095,
             "forks": 63,
-            "score": 90
+            "score": 91
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "ponytail-improved",
+            "full_name": "0xwilliamortiz/ponytail-improved",
+            "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+            "url": "https://github.com/0xwilliamortiz/ponytail-improved",
+            "stars": 584,
+            "forks": 129,
+            "score": 91
         },
         {
             "main_cat": "AI",
@@ -62,7 +62,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Jakubantalik/thinking-orbs",
             "description": "Dotted thought-orb loading indicators for AI & agent UIs \u2014 six tuned states, two sizes, auto dark/light",
             "url": "https://github.com/Jakubantalik/thinking-orbs",
-            "stars": 1354,
+            "stars": 1358,
             "forks": 104,
             "score": 85
         },
@@ -73,8 +73,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "AminBlg/SimpleEnglish",
             "description": "Agent skill: make LLMs write docs in ASD-STE100 Simplified Technical English \u2014 no AI slop",
             "url": "https://github.com/AminBlg/SimpleEnglish",
-            "stars": 1397,
-            "forks": 51,
+            "stars": 1412,
+            "forks": 54,
             "score": 80
         },
         {
@@ -84,7 +84,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "mikiarlo3/ai-copywriter",
             "description": "An AI copywriter that uses real copywriting skills + real marketing knowledge with human tone.",
             "url": "https://github.com/mikiarlo3/ai-copywriter",
-            "stars": 1016,
+            "stars": 1018,
             "forks": 24,
             "score": 76
         },
@@ -95,7 +95,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "perplexityai/numbat",
             "description": "Visibility into AI agent activity on endpoints, with on-device detection, optional pre-action blocking, and forensic reconstruction.",
             "url": "https://github.com/perplexityai/numbat",
-            "stars": 653,
+            "stars": 656,
             "forks": 65,
             "score": 65
         },
@@ -106,8 +106,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "ddcat-ai/open-ai-canvas",
             "description": "\u9762\u5411 AI \u5f71\u89c6\u521b\u4f5c\u7684\u5f00\u6e90\u65e0\u9650\u753b\u5e03\u5de5\u4f5c\u53f0\uff0c\u96c6\u6210\u591a\u6a21\u6001\u751f\u6210\u3001\u5206\u955c\u7f16\u6392\u3001\u7d20\u6750\u7ba1\u7406\u4e0e Agent \u5de5\u4f5c\u6d41\u3002",
             "url": "https://github.com/ddcat-ai/open-ai-canvas",
-            "stars": 422,
-            "forks": 106,
+            "stars": 423,
+            "forks": 107,
             "score": 58
         },
         {
@@ -117,8 +117,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "LYiHub/pub-local-jarvis",
             "description": "Windows \u672c\u5730\u591a\u6a21\u6001 AI \u684c\u9762\u684c\u5ba0\uff0c\u652f\u6301\u5c4f\u5e55\u4e0e\u97f3\u9891\u611f\u77e5\u3002",
             "url": "https://github.com/LYiHub/pub-local-jarvis",
-            "stars": 367,
-            "forks": 78,
+            "stars": 371,
+            "forks": 79,
             "score": 56
         },
         {
@@ -128,9 +128,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "MarcosSete/awesome-free-ai-books",
             "description": "A curated list of free, legitimate AI/ML books",
             "url": "https://github.com/MarcosSete/awesome-free-ai-books",
-            "stars": 439,
-            "forks": 42,
-            "score": 51
+            "stars": 445,
+            "forks": 43,
+            "score": 52
         },
         {
             "main_cat": "AI",
@@ -139,20 +139,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "aws/context-ontology-accelerator",
             "description": "An open-source, ontology-based semantic context accelerator that enables AI agents to make more accurate, consistent, and explainable decisions.",
             "url": "https://github.com/aws/context-ontology-accelerator",
-            "stars": 228,
-            "forks": 16,
-            "score": 48
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "camelAI",
-            "full_name": "qaml-ai/camelAI",
-            "description": "camelAI \u2014 an AI coding assistant platform built on Cloudflare Workers and Durable Objects",
-            "url": "https://github.com/qaml-ai/camelAI",
-            "stars": 322,
-            "forks": 25,
-            "score": 47
+            "stars": 237,
+            "forks": 18,
+            "score": 49
         },
         {
             "main_cat": "AI",
@@ -168,13 +157,35 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
+            "name": "camelAI",
+            "full_name": "qaml-ai/camelAI",
+            "description": "camelAI \u2014 an AI coding assistant platform built on Cloudflare Workers and Durable Objects",
+            "url": "https://github.com/qaml-ai/camelAI",
+            "stars": 323,
+            "forks": 25,
+            "score": 46
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
             "name": "graph-engineering",
             "full_name": "codejunkie99/graph-engineering",
             "description": "Graph engineering for AI agents: the 9-stage knowledge-graph pipeline (translated from SEU's graduate course) + task-graph orchestration patterns, as a Claude skill with teaching mode and paste-ready workflows",
             "url": "https://github.com/codejunkie99/graph-engineering",
-            "stars": 280,
+            "stars": 284,
             "forks": 41,
-            "score": 47
+            "score": 46
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "pinvou-agent",
+            "full_name": "Pinvou/pinvou-agent",
+            "description": "Open-source desktop AI agent for tools, files, knowledge, workflows, and real deliverables.",
+            "url": "https://github.com/Pinvou/pinvou-agent",
+            "stars": 258,
+            "forks": 33,
+            "score": 45
         },
         {
             "main_cat": "AI",
@@ -183,7 +194,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "uczltw6/trace-file-lineage",
             "description": "Find which script, notebook, data, command, or AI agent produced a file \u2014 locally, with evidence and honest uncertainty.",
             "url": "https://github.com/uczltw6/trace-file-lineage",
-            "stars": 203,
+            "stars": 204,
             "forks": 3,
             "score": 45
         },
@@ -201,22 +212,11 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "pinvou-agent",
-            "full_name": "Pinvou/pinvou-agent",
-            "description": "Open-source desktop AI agent for tools, files, knowledge, workflows, and real deliverables.",
-            "url": "https://github.com/Pinvou/pinvou-agent",
-            "stars": 253,
-            "forks": 33,
-            "score": 44
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
             "name": "ai-sdk",
             "full_name": "grafana/ai-sdk",
             "description": "Grafana AI SDK for Go \u2014 streaming, tool-calling AI backends that speak fluent @ai-sdk/react",
             "url": "https://github.com/grafana/ai-sdk",
-            "stars": 198,
+            "stars": 199,
             "forks": 6,
             "score": 43
         },
@@ -260,8 +260,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "isaqueseneda/shieldfont",
             "description": "A typeface that protects written content by poisoning unauthorized AI training datasets.",
             "url": "https://github.com/isaqueseneda/shieldfont",
-            "stars": 197,
-            "forks": 8,
+            "stars": 205,
+            "forks": 9,
             "score": 38
         },
         {
@@ -278,23 +278,23 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "humanizer-stack",
-            "full_name": "NulightJens/humanizer-stack",
-            "description": "Two-pass pipeline for removing AI writing tells from outward-facing text: a surface pass plus a structural pass grounded in the StoryScope study. Packaged as Claude Code Skills.      Free community: skool.com/jens-ai-community-1306",
-            "url": "https://github.com/NulightJens/humanizer-stack",
-            "stars": 168,
-            "forks": 11,
-            "score": 38
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
             "name": "BossConsole",
             "full_name": "risa-labs-inc/BossConsole",
             "description": "Open-source, multi-platform harness for AI agents \u2014 a native, multi-threaded operator's console (JVM, not Electron) to run Claude Code, Codex, Gemini or OpenCode with a real browser, terminal, editor, secrets & 100+ MCP tools. Built for enterprises, science & research.",
             "url": "https://github.com/risa-labs-inc/BossConsole",
             "stars": 213,
             "forks": 6,
+            "score": 37
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "humanizer-stack",
+            "full_name": "NulightJens/humanizer-stack",
+            "description": "Two-pass pipeline for removing AI writing tells from outward-facing text: a surface pass plus a structural pass grounded in the StoryScope study. Packaged as Claude Code Skills.      Free community: skool.com/jens-ai-community-1306",
+            "url": "https://github.com/NulightJens/humanizer-stack",
+            "stars": 168,
+            "forks": 11,
             "score": 37
         },
         {
@@ -327,7 +327,7 @@ const ALPHA_DATA_V2 = {
             "description": "A small, educational vLLM implementation for exploring LLM inference, scheduling, KV-cache management, and GPU execution.",
             "url": "https://github.com/nopnoping/micro-vllm",
             "stars": 111,
-            "forks": 4,
+            "forks": 5,
             "score": 35
         },
         {
@@ -339,6 +339,17 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/hallbrandonidyt2176/ash4d-ai-deployment-hub",
             "stars": 30,
             "forks": 0,
+            "score": 33
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "payment-rails-opensource",
+            "full_name": "Tornadobetweentunnel/payment-rails-opensource",
+            "description": "Technical deep-dive into payment rails for freelancer economies. SWIFT, SEPA, crypto rails, stablecoin settlement. Why PayrollFlow's architecture is different.",
+            "url": "https://github.com/Tornadobetweentunnel/payment-rails-opensource",
+            "stars": 10,
+            "forks": 7,
             "score": 33
         },
         {
@@ -430,17 +441,6 @@ const ALPHA_DATA_V2 = {
             "score": 30
         },
         {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "payment-rails-opensource",
-            "full_name": "Tornadobetweentunnel/payment-rails-opensource",
-            "description": "Technical deep-dive into payment rails for freelancer economies. SWIFT, SEPA, crypto rails, stablecoin settlement. Why PayrollFlow's architecture is different.",
-            "url": "https://github.com/Tornadobetweentunnel/payment-rails-opensource",
-            "stars": 10,
-            "forks": 0,
-            "score": 30
-        },
-        {
             "main_cat": "Stablecoin Infrastructure",
             "sub_cat": null,
             "name": "vLitePay",
@@ -520,6 +520,17 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "Stablecoin Infrastructure",
             "sub_cat": null,
+            "name": "unstoppable-finance",
+            "full_name": "api-evangelist/unstoppable-finance",
+            "description": "Unstoppable Finance is the Berlin fintech behind Iron (iron.xyz), the Stablecoin Payment Network - fiat-to-stablecoin and stablecoin-to-fiat infrastructure for businesses. Founded as Unstoppable Finance GmbH and builder of the Ultimate self-custodial DeFi wallet, the company rebranded to Iron and was acquired by MoonPay in 2025.",
+            "url": "https://github.com/api-evangelist/unstoppable-finance",
+            "stars": 0,
+            "forks": 0,
+            "score": 30
+        },
+        {
+            "main_cat": "Stablecoin Infrastructure",
+            "sub_cat": null,
             "name": "mesh-connect",
             "full_name": "api-evangelist/mesh-connect",
             "description": "Mesh (formerly Mesh Connect) is a global crypto payments network that lets businesses accept crypto payments from 300+ wallets and exchanges and settle in stablecoins or local currency through a single integration.",
@@ -579,17 +590,6 @@ const ALPHA_DATA_V2 = {
             "full_name": "api-evangelist/dynamic",
             "description": "Dynamic is a wallet infrastructure platform for fintech, crypto, and stablecoin applications, letting companies embed non-custodial wallets, connect 800+ external wallets, run distributed (TSS-MPC) key management, and build onchain products such as crypto payments, trading, yield, and global money movement without in-house crypto expertise.",
             "url": "https://github.com/api-evangelist/dynamic",
-            "stars": 0,
-            "forks": 0,
-            "score": 30
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "celo",
-            "full_name": "api-evangelist/celo",
-            "description": "Celo is a leading Ethereum Layer 2 (L2) blockchain built for real-world usage, mobile-first payments, and stablecoins, run by cLabs and the Celo Foundation. It offers a fully EVM- and Ethereum-JSON-RPC-compatible network reachable through the public Forno RPC endpoints, gas-fee abstraction that lets users pay fees in stablecoins, and a developer\u2026",
-            "url": "https://github.com/api-evangelist/celo",
             "stars": 0,
             "forks": 0,
             "score": 30
@@ -707,6 +707,20 @@ const ALPHA_DATA_V2 = {
     ],
     "news": [
         {
+            "title": "CWEEP: A Lexical Static Analysis Framework for CWE Early Prevention",
+            "source": "ArXiv",
+            "type": "Research Alpha",
+            "color": "text-indigo-600",
+            "url": "http://arxiv.org/abs/2607.29604v1"
+        },
+        {
+            "title": "Beyond Resilience: Antifragility in Critical Infrastructure Cybersecurity",
+            "source": "ArXiv",
+            "type": "Research Alpha",
+            "color": "text-indigo-600",
+            "url": "http://arxiv.org/abs/2607.29550v1"
+        },
+        {
             "title": "Bitcoin volatility remains high ahead of key FED decision.",
             "source": "Polymarket",
             "type": "Expectation",
@@ -714,5 +728,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-08-03 13:35"
+    "timestamp": "2026-08-03 16:16"
 };
