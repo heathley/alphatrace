@@ -7,7 +7,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "QwenAudio/qwen-audio-agent",
             "description": "A realtime voice runtime that keeps Agents talking, working, and present.  Real-time Voice Runtime for AI Agents",
             "url": "https://github.com/QwenAudio/qwen-audio-agent",
-            "stars": 1877,
+            "stars": 1878,
             "forks": 132,
             "score": 99
         },
@@ -18,7 +18,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "makecindy/cindy",
             "description": "Consider it done. The open-source AI agent that works out of the box \u00b7 \u60f3\u5230\uff0c\u5c31\u80fd\u505a\u5230\u3002\u5f00\u6e90\u3001\u5f00\u7bb1\u5373\u7528\u7684 AI Agent\u3002",
             "url": "https://github.com/makecindy/cindy",
-            "stars": 1705,
+            "stars": 1706,
             "forks": 211,
             "score": 99
         },
@@ -29,7 +29,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "0xwilliamortiz/humanizer-cli",
             "description": "33 ways to spot AI-written text, right in your terminal. Before/after examples, draft checker, zero dependencies.",
             "url": "https://github.com/0xwilliamortiz/humanizer-cli",
-            "stars": 568,
+            "stars": 569,
             "forks": 72,
             "score": 99
         },
@@ -40,9 +40,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "MarcosSete/awesome-free-ai-course-notes",
             "description": "A curated collection of machine learning and AI lecture notes from the world's leading universities.  This repository gives you access to the same lecture notes used by students at top institutions such as MIT, helping you learn from the very best educational resources available.",
             "url": "https://github.com/MarcosSete/awesome-free-ai-course-notes",
-            "stars": 360,
+            "stars": 370,
             "forks": 27,
-            "score": 88
+            "score": 89
         },
         {
             "main_cat": "AI",
@@ -62,7 +62,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "VictorTaelin/OptMem",
             "description": "Permanent memory for AI agents. A 426-token prompt, a script, plug and play.",
             "url": "https://github.com/VictorTaelin/OptMem",
-            "stars": 1113,
+            "stars": 1114,
             "forks": 67,
             "score": 83
         },
@@ -73,7 +73,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "joeseesun/qiaomu-seo",
             "description": "Audit, diagnose, research, plan, implement, experiment on, and verify website SEO across Google, Bing, and AI-search surfaces. Use for technical SEO, ",
             "url": "https://github.com/joeseesun/qiaomu-seo",
-            "stars": 262,
+            "stars": 263,
             "forks": 28,
             "score": 76
         },
@@ -86,7 +86,7 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/mikiarlo3/ai-copywriter",
             "stars": 1020,
             "forks": 26,
-            "score": 73
+            "score": 70
         },
         {
             "main_cat": "AI",
@@ -95,9 +95,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "AMAP-ML/LongHorizon-Harness",
             "description": "The long-horizon computer-use harness. Run AI agents across desktop apps and the CLI for extended periods while preserving task state and making reliable progress on complex workflows. Features fresh-context execution, durable verified state, independent auditing, recoverable progress, and native Claude Code / Codex / OpenClaw integration.",
             "url": "https://github.com/AMAP-ML/LongHorizon-Harness",
-            "stars": 165,
+            "stars": 169,
             "forks": 12,
-            "score": 65
+            "score": 66
         },
         {
             "main_cat": "AI",
@@ -106,7 +106,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "perplexityai/numbat",
             "description": "Visibility into AI agent activity on endpoints, with on-device detection, optional pre-action blocking, and forensic reconstruction.",
             "url": "https://github.com/perplexityai/numbat",
-            "stars": 682,
+            "stars": 684,
             "forks": 68,
             "score": 64
         },
@@ -157,23 +157,23 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "awesome-free-ai-books",
-            "full_name": "MarcosSete/awesome-free-ai-books",
-            "description": "A curated list of free, legitimate AI/ML books",
-            "url": "https://github.com/MarcosSete/awesome-free-ai-books",
-            "stars": 470,
-            "forks": 43,
-            "score": 51
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
             "name": "context-ontology-accelerator",
             "full_name": "aws/context-ontology-accelerator",
             "description": "An open-source, ontology-based semantic context accelerator that enables AI agents to make more accurate, consistent, and explainable decisions.",
             "url": "https://github.com/aws/context-ontology-accelerator",
-            "stars": 299,
-            "forks": 24,
+            "stars": 302,
+            "forks": 25,
+            "score": 52
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "awesome-free-ai-books",
+            "full_name": "MarcosSete/awesome-free-ai-books",
+            "description": "A curated list of free, legitimate AI/ML books",
+            "url": "https://github.com/MarcosSete/awesome-free-ai-books",
+            "stars": 472,
+            "forks": 43,
             "score": 51
         },
         {
@@ -183,8 +183,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "Pinvou/pinvou-agent",
             "description": "Open-source desktop AI agent for tools, files, knowledge, workflows, and real deliverables.",
             "url": "https://github.com/Pinvou/pinvou-agent",
-            "stars": 314,
-            "forks": 37,
+            "stars": 317,
+            "forks": 38,
             "score": 46
         },
         {
@@ -205,7 +205,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "codejunkie99/graph-engineering",
             "description": "Graph engineering for AI agents: the 9-stage knowledge-graph pipeline (translated from SEU's graduate course) + task-graph orchestration patterns, as a Claude skill with teaching mode and paste-ready workflows",
             "url": "https://github.com/codejunkie99/graph-engineering",
-            "stars": 300,
+            "stars": 301,
             "forks": 42,
             "score": 45
         },
@@ -260,7 +260,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "isaqueseneda/shieldfont",
             "description": "A typeface that protects written content by poisoning unauthorized AI training datasets.",
             "url": "https://github.com/isaqueseneda/shieldfont",
-            "stars": 257,
+            "stars": 262,
             "forks": 15,
             "score": 40
         },
@@ -333,22 +333,22 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
-            "name": "ash4d-ai-deployment-hub",
-            "full_name": "hallbrandonidyt2176/ash4d-ai-deployment-hub",
-            "description": "ash4d.com is a self-hosted private AI platform for k3s Kubernetes, combining local Qwen3 inference, retrieval-augmented generation, agent tooling, and GPU-enabled services in a GitOps-managed environment.",
-            "url": "https://github.com/hallbrandonidyt2176/ash4d-ai-deployment-hub",
-            "stars": 30,
-            "forks": 0,
-            "score": 33
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
             "name": "local-llm-with-character-setting-Arknights",
             "full_name": "fypklanfanqie/local-llm-with-character-setting-Arknights",
             "description": "\u4e00\u6b3e\u8fd0\u884c\u5728\u5b89\u5353\u8bbe\u5907\u4e0a\u7684 LLM \u5bf9\u8bdd\u52a9\u624b\u5e94\u7528\u3002\u4f60\u53ef\u4ee5\u81ea\u884c\u4e0b\u8f7d\u5e76\u7ba1\u7406\u6a21\u578b\uff0c\u81ea\u7531\u5b9a\u5236\u89d2\u8272\u4eba\u8bbe\uff0c\u5e76\u968f\u65f6\u5728\u672c\u5730\u63a8\u7406\uff08\u90e8\u5206\u673a\u578b\u652f\u6301 GPU/NPU \u52a0\u901f\uff09\u4e0e\u4e91\u7aef\u6a21\u578b\u4e4b\u95f4\u5207\u6362\u3002\u540c\u65f6\u5185\u7f6e TTS \u8bed\u97f3\u5408\u6210\u529f\u80fd\uff0c\u8ba9\u5bf9\u8bdd\u66f4\u52a0\u9c9c\u6d3b\u3002 An Android LLM chat assistant that lets you download and manage your own models. Customize character personas, and switch seamlessly between on-device inference (with GPU/NPU acceleration on supported devices) and cloud-based models. Built-in ",
             "url": "https://github.com/fypklanfanqie/local-llm-with-character-setting-Arknights",
             "stars": 52,
+            "forks": 0,
+            "score": 32
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "ash4d-ai-deployment-hub",
+            "full_name": "hallbrandonidyt2176/ash4d-ai-deployment-hub",
+            "description": "ash4d.com is a self-hosted private AI platform for k3s Kubernetes, combining local Qwen3 inference, retrieval-augmented generation, agent tooling, and GPU-enabled services in a GitOps-managed environment.",
+            "url": "https://github.com/hallbrandonidyt2176/ash4d-ai-deployment-hub",
+            "stars": 30,
             "forks": 0,
             "score": 32
         },
@@ -430,6 +430,17 @@ const ALPHA_DATA_V2 = {
             "score": 30
         },
         {
+            "main_cat": "Prediction Markets",
+            "sub_cat": null,
+            "name": "OddsFlow-",
+            "full_name": "ryukeie/OddsFlow-",
+            "description": "Modern sports prediction platform built with a responsive UI, live event management, secure authentication, wallet system, bet slip, match tracking, and an admin dashboard. Designed with scalability, performance, and clean architecture in mind.",
+            "url": "https://github.com/ryukeie/OddsFlow-",
+            "stars": 0,
+            "forks": 0,
+            "score": 30
+        },
+        {
             "main_cat": "Stablecoin Infrastructure",
             "sub_cat": null,
             "name": "vLitePay",
@@ -485,23 +496,23 @@ const ALPHA_DATA_V2 = {
             "score": 30
         },
         {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "dlt-payments",
-            "full_name": "api-evangelist/dlt-payments",
-            "description": "DLT Payments (DLTPAY) is a Web3 payments company offering a stablecoin wallet that enables businesses to send and receive instant payments in stablecoins across multiple blockchain networks \u2014 Ethereum, Arbitrum, Optimism, Polygon, and BNB Chain \u2014 with zero exposure to cryptocurrency price volatility.",
-            "url": "https://github.com/api-evangelist/dlt-payments",
-            "stars": 0,
-            "forks": 0,
-            "score": 30
-        },
-        {
             "main_cat": "Stablecoin Infrastructure",
             "sub_cat": null,
             "name": "loop-crypto",
             "full_name": "api-evangelist/loop-crypto",
             "description": "Loop Crypto is a crypto and stablecoin payment processor that lets merchants, billing software, and e-commerce platforms accept crypto and stablecoin payments end to end: charging a wallet, storing payment methods, accepting stablecoins, ERC-20 tokens, and Solana SPL tokens, and settling to merchants in either fiat or crypto.",
             "url": "https://github.com/api-evangelist/loop-crypto",
+            "stars": 0,
+            "forks": 0,
+            "score": 30
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "dlt-payments",
+            "full_name": "api-evangelist/dlt-payments",
+            "description": "DLT Payments (DLTPAY) is a Web3 payments company offering a stablecoin wallet that enables businesses to send and receive instant payments in stablecoins across multiple blockchain networks \u2014 Ethereum, Arbitrum, Optimism, Polygon, and BNB Chain \u2014 with zero exposure to cryptocurrency price volatility.",
+            "url": "https://github.com/api-evangelist/dlt-payments",
             "stars": 0,
             "forks": 0,
             "score": 30
@@ -706,5 +717,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-08-04 19:21"
+    "timestamp": "2026-08-04 21:04"
 };
