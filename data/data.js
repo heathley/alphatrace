@@ -7,7 +7,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "QwenAudio/qwen-audio-agent",
             "description": "A realtime voice runtime that keeps Agents talking, working, and present.  Real-time Voice Runtime for AI Agents",
             "url": "https://github.com/QwenAudio/qwen-audio-agent",
-            "stars": 1872,
+            "stars": 1875,
             "forks": 132,
             "score": 99
         },
@@ -18,8 +18,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "makecindy/cindy",
             "description": "Consider it done. The open-source AI agent that works out of the box \u00b7 \u60f3\u5230\uff0c\u5c31\u80fd\u505a\u5230\u3002\u5f00\u6e90\u3001\u5f00\u7bb1\u5373\u7528\u7684 AI Agent\u3002",
             "url": "https://github.com/makecindy/cindy",
-            "stars": 1694,
-            "forks": 209,
+            "stars": 1701,
+            "forks": 210,
             "score": 99
         },
         {
@@ -35,14 +35,14 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
-            "sub_cat": "AI Agents",
-            "name": "OptMem",
-            "full_name": "VictorTaelin/OptMem",
-            "description": "Permanent memory for AI agents. A 426-token prompt, a script, plug and play.",
-            "url": "https://github.com/VictorTaelin/OptMem",
-            "stars": 1111,
-            "forks": 67,
-            "score": 87
+            "sub_cat": null,
+            "name": "awesome-free-ai-course-notes",
+            "full_name": "MarcosSete/awesome-free-ai-course-notes",
+            "description": "A curated collection of machine learning and AI lecture notes from the world's leading universities.  This repository gives you access to the same lecture notes used by students at top institutions such as MIT, helping you learn from the very best educational resources available.",
+            "url": "https://github.com/MarcosSete/awesome-free-ai-course-notes",
+            "stars": 348,
+            "forks": 25,
+            "score": 86
         },
         {
             "main_cat": "AI",
@@ -57,14 +57,14 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
-            "sub_cat": null,
-            "name": "awesome-free-ai-course-notes",
-            "full_name": "MarcosSete/awesome-free-ai-course-notes",
-            "description": "A curated collection of machine learning and AI lecture notes from the world's leading universities.  This repository gives you access to the same lecture notes used by students at top institutions such as MIT, helping you learn from the very best educational resources available.",
-            "url": "https://github.com/MarcosSete/awesome-free-ai-course-notes",
-            "stars": 335,
-            "forks": 25,
-            "score": 84
+            "sub_cat": "AI Agents",
+            "name": "OptMem",
+            "full_name": "VictorTaelin/OptMem",
+            "description": "Permanent memory for AI agents. A 426-token prompt, a script, plug and play.",
+            "url": "https://github.com/VictorTaelin/OptMem",
+            "stars": 1111,
+            "forks": 67,
+            "score": 83
         },
         {
             "main_cat": "AI",
@@ -73,9 +73,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "joeseesun/qiaomu-seo",
             "description": "Audit, diagnose, research, plan, implement, experiment on, and verify website SEO across Google, Bing, and AI-search surfaces. Use for technical SEO, ",
             "url": "https://github.com/joeseesun/qiaomu-seo",
-            "stars": 254,
-            "forks": 26,
-            "score": 74
+            "stars": 261,
+            "forks": 27,
+            "score": 76
         },
         {
             "main_cat": "AI",
@@ -90,25 +90,25 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
-            "sub_cat": null,
-            "name": "numbat",
-            "full_name": "perplexityai/numbat",
-            "description": "Visibility into AI agent activity on endpoints, with on-device detection, optional pre-action blocking, and forensic reconstruction.",
-            "url": "https://github.com/perplexityai/numbat",
-            "stars": 678,
-            "forks": 68,
-            "score": 63
-        },
-        {
-            "main_cat": "AI",
             "sub_cat": "AI Agents",
             "name": "LongHorizon-Harness",
             "full_name": "AMAP-ML/LongHorizon-Harness",
             "description": "The long-horizon computer-use harness. Run AI agents across desktop apps and the CLI for extended periods while preserving task state and making reliable progress on complex workflows. Features fresh-context execution, durable verified state, independent auditing, recoverable progress, and native Claude Code / Codex / OpenClaw integration.",
             "url": "https://github.com/AMAP-ML/LongHorizon-Harness",
-            "stars": 144,
-            "forks": 11,
-            "score": 61
+            "stars": 157,
+            "forks": 12,
+            "score": 64
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "numbat",
+            "full_name": "perplexityai/numbat",
+            "description": "Visibility into AI agent activity on endpoints, with on-device detection, optional pre-action blocking, and forensic reconstruction.",
+            "url": "https://github.com/perplexityai/numbat",
+            "stars": 679,
+            "forks": 68,
+            "score": 63
         },
         {
             "main_cat": "AI",
@@ -117,8 +117,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "alikon-art/DeterminFlow",
             "description": "A production-oriented AI workflow runtime for building, validating, recovering, and shipping complex AI workflows as dependable services. \u9762\u5411\u751f\u4ea7\u7684 AI \u5de5\u4f5c\u6d41\u8fd0\u884c\u65f6\uff1a\u5feb\u901f\u5f00\u53d1\u3001\u9a8c\u8bc1\u548c\u6062\u590d\u590d\u6742 AI \u5de5\u4f5c\u6d41\uff0c\u5e76\u5c06\u5176\u7a33\u5b9a\u4ea4\u4ed8\u4e3a\u670d\u52a1\u3002",
             "url": "https://github.com/alikon-art/DeterminFlow",
-            "stars": 181,
-            "forks": 25,
+            "stars": 185,
+            "forks": 26,
             "score": 58
         },
         {
@@ -135,6 +135,17 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
+            "name": "doc7",
+            "full_name": "magicrew/doc7",
+            "description": "Turn documents into AI-ready Markdown with visual understanding",
+            "url": "https://github.com/magicrew/doc7",
+            "stars": 241,
+            "forks": 5,
+            "score": 56
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
             "name": "pub-local-jarvis",
             "full_name": "LYiHub/pub-local-jarvis",
             "description": "Windows \u672c\u5730\u591a\u6a21\u6001 AI \u684c\u9762\u684c\u5ba0\uff0c\u652f\u6301\u5c4f\u5e55\u4e0e\u97f3\u9891\u611f\u77e5\u3002",
@@ -146,22 +157,11 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "doc7",
-            "full_name": "magicrew/doc7",
-            "description": "Turn documents into AI-ready Markdown with visual understanding",
-            "url": "https://github.com/magicrew/doc7",
-            "stars": 237,
-            "forks": 5,
-            "score": 55
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
             "name": "awesome-free-ai-books",
             "full_name": "MarcosSete/awesome-free-ai-books",
             "description": "A curated list of free, legitimate AI/ML books",
             "url": "https://github.com/MarcosSete/awesome-free-ai-books",
-            "stars": 467,
+            "stars": 469,
             "forks": 43,
             "score": 51
         },
@@ -172,8 +172,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "aws/context-ontology-accelerator",
             "description": "An open-source, ontology-based semantic context accelerator that enables AI agents to make more accurate, consistent, and explainable decisions.",
             "url": "https://github.com/aws/context-ontology-accelerator",
-            "stars": 293,
-            "forks": 23,
+            "stars": 297,
+            "forks": 24,
             "score": 51
         },
         {
@@ -183,19 +183,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "Pinvou/pinvou-agent",
             "description": "Open-source desktop AI agent for tools, files, knowledge, workflows, and real deliverables.",
             "url": "https://github.com/Pinvou/pinvou-agent",
-            "stars": 306,
-            "forks": 36,
-            "score": 46
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "Finn-loop",
-            "full_name": "finna/Finn-loop",
-            "description": "The Finn-loop: a 3-skill AI software factory for Claude Code \u2014 spec, build, review. Humans merge.",
-            "url": "https://github.com/finna/Finn-loop",
-            "stars": 290,
-            "forks": 50,
+            "stars": 312,
+            "forks": 37,
             "score": 46
         },
         {
@@ -205,7 +194,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "qaml-ai/camelAI",
             "description": "camelAI \u2014 an AI coding assistant platform built on Cloudflare Workers and Durable Objects",
             "url": "https://github.com/qaml-ai/camelAI",
-            "stars": 329,
+            "stars": 331,
             "forks": 26,
             "score": 45
         },
@@ -216,8 +205,19 @@ const ALPHA_DATA_V2 = {
             "full_name": "codejunkie99/graph-engineering",
             "description": "Graph engineering for AI agents: the 9-stage knowledge-graph pipeline (translated from SEU's graduate course) + task-graph orchestration patterns, as a Claude skill with teaching mode and paste-ready workflows",
             "url": "https://github.com/codejunkie99/graph-engineering",
-            "stars": 299,
+            "stars": 300,
             "forks": 42,
+            "score": 45
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "Finn-loop",
+            "full_name": "finna/Finn-loop",
+            "description": "The Finn-loop: a 3-skill AI software factory for Claude Code \u2014 spec, build, review. Humans merge.",
+            "url": "https://github.com/finna/Finn-loop",
+            "stars": 290,
+            "forks": 50,
             "score": 45
         },
         {
@@ -260,7 +260,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "isaqueseneda/shieldfont",
             "description": "A typeface that protects written content by poisoning unauthorized AI training datasets.",
             "url": "https://github.com/isaqueseneda/shieldfont",
-            "stars": 246,
+            "stars": 253,
             "forks": 14,
             "score": 40
         },
@@ -304,20 +304,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "NulightJens/humanizer-stack",
             "description": "Two-pass pipeline for removing AI writing tells from outward-facing text: a surface pass plus a structural pass grounded in the StoryScope study. Packaged as Claude Code Skills.      Free community: skool.com/jens-ai-community-1306",
             "url": "https://github.com/NulightJens/humanizer-stack",
-            "stars": 170,
+            "stars": 171,
             "forks": 12,
             "score": 37
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "smol-kimi-k3",
-            "full_name": "cneuralnetwork/smol-kimi-k3",
-            "description": "A 49M-parameter Kimi K3-inspired language model trainable on one 8GB GPU",
-            "url": "https://github.com/cneuralnetwork/smol-kimi-k3",
-            "stars": 84,
-            "forks": 9,
-            "score": 36
         },
         {
             "main_cat": "AI",
@@ -328,6 +317,17 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/nopnoping/micro-vllm",
             "stars": 111,
             "forks": 5,
+            "score": 35
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "smol-kimi-k3",
+            "full_name": "cneuralnetwork/smol-kimi-k3",
+            "description": "A 49M-parameter Kimi K3-inspired language model trainable on one 8GB GPU",
+            "url": "https://github.com/cneuralnetwork/smol-kimi-k3",
+            "stars": 84,
+            "forks": 9,
             "score": 35
         },
         {
@@ -350,17 +350,6 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/fypklanfanqie/local-llm-with-character-setting-Arknights",
             "stars": 52,
             "forks": 0,
-            "score": 32
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "payment-rails-opensource",
-            "full_name": "Tornadobetweentunnel/payment-rails-opensource",
-            "description": "Technical deep-dive into payment rails for freelancer economies. SWIFT, SEPA, crypto rails, stablecoin settlement. Why PayrollFlow's architecture is different.",
-            "url": "https://github.com/Tornadobetweentunnel/payment-rails-opensource",
-            "stars": 9,
-            "forks": 7,
             "score": 32
         },
         {
@@ -485,23 +474,23 @@ const ALPHA_DATA_V2 = {
             "score": 30
         },
         {
-            "main_cat": "Stablecoin Infrastructure",
-            "sub_cat": null,
-            "name": "loop-crypto",
-            "full_name": "api-evangelist/loop-crypto",
-            "description": "Loop Crypto is a crypto and stablecoin payment processor that lets merchants, billing software, and e-commerce platforms accept crypto and stablecoin payments end to end: charging a wallet, storing payment methods, accepting stablecoins, ERC-20 tokens, and Solana SPL tokens, and settling to merchants in either fiat or crypto.",
-            "url": "https://github.com/api-evangelist/loop-crypto",
-            "stars": 0,
-            "forks": 0,
-            "score": 30
-        },
-        {
             "main_cat": "AI",
             "sub_cat": "AI General",
             "name": "dlt-payments",
             "full_name": "api-evangelist/dlt-payments",
             "description": "DLT Payments (DLTPAY) is a Web3 payments company offering a stablecoin wallet that enables businesses to send and receive instant payments in stablecoins across multiple blockchain networks \u2014 Ethereum, Arbitrum, Optimism, Polygon, and BNB Chain \u2014 with zero exposure to cryptocurrency price volatility.",
             "url": "https://github.com/api-evangelist/dlt-payments",
+            "stars": 0,
+            "forks": 0,
+            "score": 30
+        },
+        {
+            "main_cat": "Stablecoin Infrastructure",
+            "sub_cat": null,
+            "name": "loop-crypto",
+            "full_name": "api-evangelist/loop-crypto",
+            "description": "Loop Crypto is a crypto and stablecoin payment processor that lets merchants, billing software, and e-commerce platforms accept crypto and stablecoin payments end to end: charging a wallet, storing payment methods, accepting stablecoins, ERC-20 tokens, and Solana SPL tokens, and settling to merchants in either fiat or crypto.",
+            "url": "https://github.com/api-evangelist/loop-crypto",
             "stars": 0,
             "forks": 0,
             "score": 30
@@ -568,6 +557,17 @@ const ALPHA_DATA_V2 = {
             "full_name": "api-evangelist/raincards",
             "description": "Rain (Raincards) \u2014 Rain is a stablecoin payments infrastructure company that lets platforms, fintechs, and institutions issue cards, open virtual accounts and wallets, and move money globally through a single API.",
             "url": "https://github.com/api-evangelist/raincards",
+            "stars": 0,
+            "forks": 0,
+            "score": 30
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "redotpay",
+            "full_name": "api-evangelist/redotpay",
+            "description": "RedotPay is a global stablecoin-based payment fintech that integrates blockchain solutions with traditional banking and finance infrastructures. The platform lets millions of people spend and send digital assets through a crypto-backed Visa card, a multi-currency wallet, P2P trading, international transfers, and stablecoin earning.",
+            "url": "https://github.com/api-evangelist/redotpay",
             "stars": 0,
             "forks": 0,
             "score": 30
@@ -695,5 +695,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-08-04 15:20"
+    "timestamp": "2026-08-04 17:38"
 };
