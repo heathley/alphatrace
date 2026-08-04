@@ -7,7 +7,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "QwenAudio/qwen-audio-agent",
             "description": "A realtime voice runtime that keeps Agents talking, working, and present.  Real-time Voice Runtime for AI Agents",
             "url": "https://github.com/QwenAudio/qwen-audio-agent",
-            "stars": 1878,
+            "stars": 1879,
             "forks": 132,
             "score": 99
         },
@@ -40,9 +40,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "MarcosSete/awesome-free-ai-course-notes",
             "description": "A curated collection of machine learning and AI lecture notes from the world's leading universities.  This repository gives you access to the same lecture notes used by students at top institutions such as MIT, helping you learn from the very best educational resources available.",
             "url": "https://github.com/MarcosSete/awesome-free-ai-course-notes",
-            "stars": 370,
+            "stars": 378,
             "forks": 27,
-            "score": 89
+            "score": 90
         },
         {
             "main_cat": "AI",
@@ -63,7 +63,7 @@ const ALPHA_DATA_V2 = {
             "description": "Permanent memory for AI agents. A 426-token prompt, a script, plug and play.",
             "url": "https://github.com/VictorTaelin/OptMem",
             "stars": 1114,
-            "forks": 67,
+            "forks": 68,
             "score": 83
         },
         {
@@ -73,9 +73,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "joeseesun/qiaomu-seo",
             "description": "Audit, diagnose, research, plan, implement, experiment on, and verify website SEO across Google, Bing, and AI-search surfaces. Use for technical SEO, ",
             "url": "https://github.com/joeseesun/qiaomu-seo",
-            "stars": 263,
-            "forks": 28,
-            "score": 76
+            "stars": 264,
+            "forks": 29,
+            "score": 77
         },
         {
             "main_cat": "AI",
@@ -95,7 +95,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "AMAP-ML/LongHorizon-Harness",
             "description": "The long-horizon computer-use harness. Run AI agents across desktop apps and the CLI for extended periods while preserving task state and making reliable progress on complex workflows. Features fresh-context execution, durable verified state, independent auditing, recoverable progress, and native Claude Code / Codex / OpenClaw integration.",
             "url": "https://github.com/AMAP-ML/LongHorizon-Harness",
-            "stars": 169,
+            "stars": 173,
             "forks": 12,
             "score": 66
         },
@@ -161,8 +161,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "aws/context-ontology-accelerator",
             "description": "An open-source, ontology-based semantic context accelerator that enables AI agents to make more accurate, consistent, and explainable decisions.",
             "url": "https://github.com/aws/context-ontology-accelerator",
-            "stars": 302,
-            "forks": 25,
+            "stars": 304,
+            "forks": 26,
             "score": 52
         },
         {
@@ -172,9 +172,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "MarcosSete/awesome-free-ai-books",
             "description": "A curated list of free, legitimate AI/ML books",
             "url": "https://github.com/MarcosSete/awesome-free-ai-books",
-            "stars": 472,
+            "stars": 475,
             "forks": 43,
-            "score": 51
+            "score": 50
         },
         {
             "main_cat": "AI",
@@ -183,9 +183,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "Pinvou/pinvou-agent",
             "description": "Open-source desktop AI agent for tools, files, knowledge, workflows, and real deliverables.",
             "url": "https://github.com/Pinvou/pinvou-agent",
-            "stars": 317,
-            "forks": 38,
-            "score": 46
+            "stars": 321,
+            "forks": 39,
+            "score": 47
         },
         {
             "main_cat": "AI",
@@ -227,20 +227,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "uczltw6/trace-file-lineage",
             "description": "Find which script, notebook, data, command, or AI agent produced a file \u2014 locally, with evidence and honest uncertainty.",
             "url": "https://github.com/uczltw6/trace-file-lineage",
-            "stars": 239,
+            "stars": 241,
             "forks": 3,
-            "score": 45
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "ai-sdk",
-            "full_name": "grafana/ai-sdk",
-            "description": "Grafana AI SDK for Go \u2014 streaming, tool-calling AI backends that speak fluent @ai-sdk/react",
-            "url": "https://github.com/grafana/ai-sdk",
-            "stars": 207,
-            "forks": 7,
-            "score": 43
+            "score": 44
         },
         {
             "main_cat": "AI",
@@ -256,12 +245,23 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
+            "name": "ai-sdk",
+            "full_name": "grafana/ai-sdk",
+            "description": "Grafana AI SDK for Go \u2014 streaming, tool-calling AI backends that speak fluent @ai-sdk/react",
+            "url": "https://github.com/grafana/ai-sdk",
+            "stars": 207,
+            "forks": 7,
+            "score": 41
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
             "name": "shieldfont",
             "full_name": "isaqueseneda/shieldfont",
             "description": "A typeface that protects written content by poisoning unauthorized AI training datasets.",
             "url": "https://github.com/isaqueseneda/shieldfont",
-            "stars": 262,
-            "forks": 15,
+            "stars": 263,
+            "forks": 16,
             "score": 40
         },
         {
@@ -304,7 +304,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "NulightJens/humanizer-stack",
             "description": "Two-pass pipeline for removing AI writing tells from outward-facing text: a surface pass plus a structural pass grounded in the StoryScope study. Packaged as Claude Code Skills.      Free community: skool.com/jens-ai-community-1306",
             "url": "https://github.com/NulightJens/humanizer-stack",
-            "stars": 171,
+            "stars": 173,
             "forks": 12,
             "score": 37
         },
@@ -597,6 +597,17 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
+            "name": "dynamic",
+            "full_name": "api-evangelist/dynamic",
+            "description": "Dynamic is a wallet infrastructure platform for fintech, crypto, and stablecoin applications, letting companies embed non-custodial wallets, connect 800+ external wallets, run distributed (TSS-MPC) key management, and build onchain products such as crypto payments, trading, yield, and global money movement without in-house crypto expertise.",
+            "url": "https://github.com/api-evangelist/dynamic",
+            "stars": 0,
+            "forks": 0,
+            "score": 30
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
             "name": "ai-debate",
             "full_name": "yout0703/ai-debate",
             "description": "Multi-model debate protocol on Cloudflare Workers / Durable Objects \u2014 research, cross-exam, vote, majority consensus",
@@ -717,5 +728,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-08-04 21:04"
+    "timestamp": "2026-08-04 22:55"
 };
