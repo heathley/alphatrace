@@ -40,9 +40,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "MarcosSete/awesome-free-ai-course-notes",
             "description": "A curated collection of machine learning and AI lecture notes from the world's leading universities.  This repository gives you access to the same lecture notes used by students at top institutions such as MIT, helping you learn from the very best educational resources available.",
             "url": "https://github.com/MarcosSete/awesome-free-ai-course-notes",
-            "stars": 378,
-            "forks": 27,
-            "score": 90
+            "stars": 382,
+            "forks": 28,
+            "score": 91
         },
         {
             "main_cat": "AI",
@@ -51,7 +51,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "0xwilliamortiz/ponytail-improved",
             "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
             "url": "https://github.com/0xwilliamortiz/ponytail-improved",
-            "stars": 587,
+            "stars": 588,
             "forks": 130,
             "score": 85
         },
@@ -62,7 +62,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "VictorTaelin/OptMem",
             "description": "Permanent memory for AI agents. A 426-token prompt, a script, plug and play.",
             "url": "https://github.com/VictorTaelin/OptMem",
-            "stars": 1114,
+            "stars": 1116,
             "forks": 68,
             "score": 83
         },
@@ -73,7 +73,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "joeseesun/qiaomu-seo",
             "description": "Audit, diagnose, research, plan, implement, experiment on, and verify website SEO across Google, Bing, and AI-search surfaces. Use for technical SEO, ",
             "url": "https://github.com/joeseesun/qiaomu-seo",
-            "stars": 264,
+            "stars": 265,
             "forks": 29,
             "score": 77
         },
@@ -84,7 +84,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "mikiarlo3/ai-copywriter",
             "description": "An AI copywriter that uses real copywriting skills + real marketing knowledge with human tone.",
             "url": "https://github.com/mikiarlo3/ai-copywriter",
-            "stars": 1020,
+            "stars": 1021,
             "forks": 26,
             "score": 70
         },
@@ -95,9 +95,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "AMAP-ML/LongHorizon-Harness",
             "description": "The long-horizon computer-use harness. Run AI agents across desktop apps and the CLI for extended periods while preserving task state and making reliable progress on complex workflows. Features fresh-context execution, durable verified state, independent auditing, recoverable progress, and native Claude Code / Codex / OpenClaw integration.",
             "url": "https://github.com/AMAP-ML/LongHorizon-Harness",
-            "stars": 173,
-            "forks": 12,
-            "score": 66
+            "stars": 175,
+            "forks": 13,
+            "score": 67
         },
         {
             "main_cat": "AI",
@@ -157,23 +157,23 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
+            "name": "awesome-free-ai-books",
+            "full_name": "MarcosSete/awesome-free-ai-books",
+            "description": "A curated list of free, legitimate AI/ML books",
+            "url": "https://github.com/MarcosSete/awesome-free-ai-books",
+            "stars": 476,
+            "forks": 44,
+            "score": 50
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
             "name": "context-ontology-accelerator",
             "full_name": "aws/context-ontology-accelerator",
             "description": "An open-source, ontology-based semantic context accelerator that enables AI agents to make more accurate, consistent, and explainable decisions.",
             "url": "https://github.com/aws/context-ontology-accelerator",
             "stars": 304,
             "forks": 26,
-            "score": 52
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "awesome-free-ai-books",
-            "full_name": "MarcosSete/awesome-free-ai-books",
-            "description": "A curated list of free, legitimate AI/ML books",
-            "url": "https://github.com/MarcosSete/awesome-free-ai-books",
-            "stars": 475,
-            "forks": 43,
             "score": 50
         },
         {
@@ -183,7 +183,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Pinvou/pinvou-agent",
             "description": "Open-source desktop AI agent for tools, files, knowledge, workflows, and real deliverables.",
             "url": "https://github.com/Pinvou/pinvou-agent",
-            "stars": 321,
+            "stars": 323,
             "forks": 39,
             "score": 47
         },
@@ -227,7 +227,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "uczltw6/trace-file-lineage",
             "description": "Find which script, notebook, data, command, or AI agent produced a file \u2014 locally, with evidence and honest uncertainty.",
             "url": "https://github.com/uczltw6/trace-file-lineage",
-            "stars": 241,
+            "stars": 247,
             "forks": 3,
             "score": 44
         },
@@ -249,7 +249,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "grafana/ai-sdk",
             "description": "Grafana AI SDK for Go \u2014 streaming, tool-calling AI backends that speak fluent @ai-sdk/react",
             "url": "https://github.com/grafana/ai-sdk",
-            "stars": 207,
+            "stars": 208,
             "forks": 7,
             "score": 41
         },
@@ -260,7 +260,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "isaqueseneda/shieldfont",
             "description": "A typeface that protects written content by poisoning unauthorized AI training datasets.",
             "url": "https://github.com/isaqueseneda/shieldfont",
-            "stars": 263,
+            "stars": 264,
             "forks": 16,
             "score": 40
         },
@@ -728,5 +728,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-08-04 22:55"
+    "timestamp": "2026-08-04 23:58"
 };
