@@ -7,7 +7,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "QwenAudio/qwen-audio-agent",
             "description": "A realtime voice runtime that keeps Agents talking, working, and present.  Real-time Voice Runtime for AI Agents",
             "url": "https://github.com/QwenAudio/qwen-audio-agent",
-            "stars": 1810,
+            "stars": 1812,
             "forks": 123,
             "score": 99
         },
@@ -18,8 +18,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "makecindy/cindy",
             "description": "Consider it done. The open-source AI agent that works out of the box \u00b7 \u60f3\u5230\uff0c\u5c31\u80fd\u505a\u5230\u3002\u5f00\u6e90\u3001\u5f00\u7bb1\u5373\u7528\u7684 AI Agent\u3002",
             "url": "https://github.com/makecindy/cindy",
-            "stars": 1628,
-            "forks": 201,
+            "stars": 1631,
+            "forks": 202,
             "score": 99
         },
         {
@@ -29,7 +29,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "0xwilliamortiz/humanizer-cli",
             "description": "33 ways to spot AI-written text, right in your terminal. Before/after examples, draft checker, zero dependencies.",
             "url": "https://github.com/0xwilliamortiz/humanizer-cli",
-            "stars": 557,
+            "stars": 558,
             "forks": 69,
             "score": 99
         },
@@ -41,7 +41,7 @@ const ALPHA_DATA_V2 = {
             "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
             "url": "https://github.com/0xwilliamortiz/ponytail-improved",
             "stars": 585,
-            "forks": 129,
+            "forks": 130,
             "score": 91
         },
         {
@@ -51,31 +51,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "VictorTaelin/OptMem",
             "description": "Permanent memory for AI agents. A 426-token prompt, a script, plug and play.",
             "url": "https://github.com/VictorTaelin/OptMem",
-            "stars": 1102,
-            "forks": 64,
+            "stars": 1103,
+            "forks": 65,
             "score": 86
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "thinking-orbs",
-            "full_name": "Jakubantalik/thinking-orbs",
-            "description": "Dotted thought-orb loading indicators for AI & agent UIs \u2014 six tuned states, two sizes, auto dark/light",
-            "url": "https://github.com/Jakubantalik/thinking-orbs",
-            "stars": 1361,
-            "forks": 104,
-            "score": 85
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "SimpleEnglish",
-            "full_name": "AminBlg/SimpleEnglish",
-            "description": "Agent skill: make LLMs write docs in ASD-STE100 Simplified Technical English \u2014 no AI slop",
-            "url": "https://github.com/AminBlg/SimpleEnglish",
-            "stars": 1461,
-            "forks": 56,
-            "score": 82
         },
         {
             "main_cat": "AI",
@@ -91,13 +69,35 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
+            "name": "awesome-free-ai-course-notes",
+            "full_name": "MarcosSete/awesome-free-ai-course-notes",
+            "description": "A curated collection of machine learning and AI lecture notes from the world's leading universities.  This repository gives you access to the same lecture notes used by students at top institutions such as MIT, helping you learn from the very best educational resources available.",
+            "url": "https://github.com/MarcosSete/awesome-free-ai-course-notes",
+            "stars": 182,
+            "forks": 13,
+            "score": 69
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
             "name": "numbat",
             "full_name": "perplexityai/numbat",
             "description": "Visibility into AI agent activity on endpoints, with on-device detection, optional pre-action blocking, and forensic reconstruction.",
             "url": "https://github.com/perplexityai/numbat",
-            "stars": 662,
+            "stars": 663,
             "forks": 66,
             "score": 65
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "qiaomu-seo",
+            "full_name": "joeseesun/qiaomu-seo",
+            "description": "Audit, diagnose, research, plan, implement, experiment on, and verify website SEO across Google, Bing, and AI-search surfaces. Use for technical SEO, ",
+            "url": "https://github.com/joeseesun/qiaomu-seo",
+            "stars": 121,
+            "forks": 14,
+            "score": 59
         },
         {
             "main_cat": "AI",
@@ -124,13 +124,13 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "context-ontology-accelerator",
-            "full_name": "aws/context-ontology-accelerator",
-            "description": "An open-source, ontology-based semantic context accelerator that enables AI agents to make more accurate, consistent, and explainable decisions.",
-            "url": "https://github.com/aws/context-ontology-accelerator",
-            "stars": 259,
-            "forks": 21,
-            "score": 51
+            "name": "DeterminFlow",
+            "full_name": "alikon-art/DeterminFlow",
+            "description": "A production-oriented AI workflow runtime for building, validating, recovering, and shipping complex AI workflows as dependable services. \u9762\u5411\u751f\u4ea7\u7684 AI \u5de5\u4f5c\u6d41\u8fd0\u884c\u65f6\uff1a\u5feb\u901f\u5f00\u53d1\u3001\u9a8c\u8bc1\u548c\u6062\u590d\u590d\u6742 AI \u5de5\u4f5c\u6d41\uff0c\u5e76\u5c06\u5176\u7a33\u5b9a\u4ea4\u4ed8\u4e3a\u670d\u52a1\u3002",
+            "url": "https://github.com/alikon-art/DeterminFlow",
+            "stars": 121,
+            "forks": 16,
+            "score": 53
         },
         {
             "main_cat": "AI",
@@ -146,11 +146,22 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
+            "name": "context-ontology-accelerator",
+            "full_name": "aws/context-ontology-accelerator",
+            "description": "An open-source, ontology-based semantic context accelerator that enables AI agents to make more accurate, consistent, and explainable decisions.",
+            "url": "https://github.com/aws/context-ontology-accelerator",
+            "stars": 266,
+            "forks": 21,
+            "score": 49
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
             "name": "camelAI",
             "full_name": "qaml-ai/camelAI",
             "description": "camelAI \u2014 an AI coding assistant platform built on Cloudflare Workers and Durable Objects",
             "url": "https://github.com/qaml-ai/camelAI",
-            "stars": 324,
+            "stars": 325,
             "forks": 25,
             "score": 46
         },
@@ -161,7 +172,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "codejunkie99/graph-engineering",
             "description": "Graph engineering for AI agents: the 9-stage knowledge-graph pipeline (translated from SEU's graduate course) + task-graph orchestration patterns, as a Claude skill with teaching mode and paste-ready workflows",
             "url": "https://github.com/codejunkie99/graph-engineering",
-            "stars": 286,
+            "stars": 291,
             "forks": 42,
             "score": 46
         },
@@ -172,9 +183,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "finna/Finn-loop",
             "description": "The Finn-loop: a 3-skill AI software factory for Claude Code \u2014 spec, build, review. Humans merge.",
             "url": "https://github.com/finna/Finn-loop",
-            "stars": 286,
-            "forks": 48,
-            "score": 45
+            "stars": 287,
+            "forks": 50,
+            "score": 46
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "auto-compare-video",
+            "full_name": "Cuongyd196/auto-compare-video",
+            "description": "\ud83c\udfac T\u1ea1o video \"so s\u00e1nh ki\u1ebfn th\u1ee9c\" ng\u1eafn t\u1ef1 \u0111\u1ed9ng \u2014 HyperFrames + AI voice, 1 template nhi\u1ec1u ch\u1ee7 \u0111\u1ec1.",
+            "url": "https://github.com/Cuongyd196/auto-compare-video",
+            "stars": 121,
+            "forks": 78,
+            "score": 46
         },
         {
             "main_cat": "AI",
@@ -183,7 +205,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Pinvou/pinvou-agent",
             "description": "Open-source desktop AI agent for tools, files, knowledge, workflows, and real deliverables.",
             "url": "https://github.com/Pinvou/pinvou-agent",
-            "stars": 268,
+            "stars": 270,
             "forks": 35,
             "score": 45
         },
@@ -194,20 +216,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "uczltw6/trace-file-lineage",
             "description": "Find which script, notebook, data, command, or AI agent produced a file \u2014 locally, with evidence and honest uncertainty.",
             "url": "https://github.com/uczltw6/trace-file-lineage",
-            "stars": 207,
+            "stars": 218,
             "forks": 3,
-            "score": 45
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "netmon",
-            "full_name": "Role1776/netmon",
-            "description": "Self-hosted network monitor - hourly speed tests, LAN device counts via ARP scan, and sarcastic AI-generated reports delivered to Telegram or Discord.",
-            "url": "https://github.com/Role1776/netmon",
-            "stars": 271,
-            "forks": 40,
-            "score": 43
+            "score": 44
         },
         {
             "main_cat": "AI",
@@ -216,8 +227,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "grafana/ai-sdk",
             "description": "Grafana AI SDK for Go \u2014 streaming, tool-calling AI backends that speak fluent @ai-sdk/react",
             "url": "https://github.com/grafana/ai-sdk",
-            "stars": 201,
-            "forks": 6,
+            "stars": 202,
+            "forks": 7,
             "score": 42
         },
         {
@@ -245,23 +256,23 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "pgContext",
-            "full_name": "Evokoa/pgContext",
-            "description": "A full AI search engine, built into Postgres.",
-            "url": "https://github.com/Evokoa/pgContext",
-            "stars": 219,
-            "forks": 21,
+            "name": "shieldfont",
+            "full_name": "isaqueseneda/shieldfont",
+            "description": "A typeface that protects written content by poisoning unauthorized AI training datasets.",
+            "url": "https://github.com/isaqueseneda/shieldfont",
+            "stars": 212,
+            "forks": 11,
             "score": 39
         },
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "shieldfont",
-            "full_name": "isaqueseneda/shieldfont",
-            "description": "A typeface that protects written content by poisoning unauthorized AI training datasets.",
-            "url": "https://github.com/isaqueseneda/shieldfont",
-            "stars": 211,
-            "forks": 11,
+            "name": "aimux",
+            "full_name": "arcships/aimux",
+            "description": "Unified LLM access layer in Rust \u2014 one API for 325 AI providers. \u7edf\u4e00 LLM \u670d\u52a1\u63a5\u5165\u5c42\uff1a\u4e00\u5957 API \u63a5\u5165 325 \u5bb6 AI \u670d\u52a1\u5546\u3002",
+            "url": "https://github.com/arcships/aimux",
+            "stars": 152,
+            "forks": 6,
             "score": 39
         },
         {
@@ -278,17 +289,6 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "BossConsole",
-            "full_name": "risa-labs-inc/BossConsole",
-            "description": "Open-source, multi-platform harness for AI agents \u2014 a native, multi-threaded operator's console (JVM, not Electron) to run Claude Code, Codex, Gemini or OpenCode with a real browser, terminal, editor, secrets & 100+ MCP tools. Built for enterprises, science & research.",
-            "url": "https://github.com/risa-labs-inc/BossConsole",
-            "stars": 213,
-            "forks": 6,
-            "score": 37
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
             "name": "humanizer-stack",
             "full_name": "NulightJens/humanizer-stack",
             "description": "Two-pass pipeline for removing AI writing tells from outward-facing text: a surface pass plus a structural pass grounded in the StoryScope study. Packaged as Claude Code Skills.      Free community: skool.com/jens-ai-community-1306",
@@ -300,13 +300,13 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "patent-literature-search-mcp",
-            "full_name": "patsnap/patent-literature-search-mcp",
-            "description": "Search 200M+ patents and scientific literature in natural language directly inside Claude, Cursor, or any MCP-compatible AI tool. Powered by PatSnap's global R&D intelligence database.",
-            "url": "https://github.com/patsnap/patent-literature-search-mcp",
-            "stars": 187,
-            "forks": 5,
-            "score": 36
+            "name": "opentax-engine",
+            "full_name": "Invaro/opentax-engine",
+            "description": "The deterministic tax engine for AI agents. Highest score ever recorded on TaxCalcBench (96% exact returns)",
+            "url": "https://github.com/Invaro/opentax-engine",
+            "stars": 134,
+            "forks": 22,
+            "score": 37
         },
         {
             "main_cat": "AI",
@@ -397,17 +397,6 @@ const ALPHA_DATA_V2 = {
             "score": 30
         },
         {
-            "main_cat": "Prediction Markets",
-            "sub_cat": null,
-            "name": "TrendX",
-            "full_name": "ArmaghanRazaChaudhary/TrendX",
-            "description": "Bet on attention \u2014 Google Trends prediction market UI (Next.js + Solana + SerpAPI)",
-            "url": "https://github.com/ArmaghanRazaChaudhary/TrendX",
-            "stars": 0,
-            "forks": 0,
-            "score": 30
-        },
-        {
             "main_cat": "AI",
             "sub_cat": "AI General",
             "name": "ai-sports-intelligence-platform",
@@ -448,17 +437,6 @@ const ALPHA_DATA_V2 = {
             "description": "Borderless P2P stablecoin payments & trading platform on Arc testnet",
             "url": "https://github.com/vlitepay/vLitePay",
             "stars": 1,
-            "forks": 0,
-            "score": 30
-        },
-        {
-            "main_cat": "Stablecoin Infrastructure",
-            "sub_cat": null,
-            "name": "LitePay",
-            "full_name": "irvansans92-netizen/LitePay",
-            "description": "Stablecoin/zkLTC payment link app for LitVM LiteForge testnet",
-            "url": "https://github.com/irvansans92-netizen/LitePay",
-            "stars": 0,
             "forks": 0,
             "score": 30
         },
@@ -586,6 +564,17 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
+            "name": "dynamic",
+            "full_name": "api-evangelist/dynamic",
+            "description": "Dynamic is a wallet infrastructure platform for fintech, crypto, and stablecoin applications, letting companies embed non-custodial wallets, connect 800+ external wallets, run distributed (TSS-MPC) key management, and build onchain products such as crypto payments, trading, yield, and global money movement without in-house crypto expertise.",
+            "url": "https://github.com/api-evangelist/dynamic",
+            "stars": 0,
+            "forks": 0,
+            "score": 30
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
             "name": "ai-debate",
             "full_name": "yout0703/ai-debate",
             "description": "Multi-model debate protocol on Cloudflare Workers / Durable Objects \u2014 research, cross-exam, vote, majority consensus",
@@ -641,17 +630,6 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
-            "name": "Manok",
-            "full_name": "Kajimenyeng/Manok",
-            "description": "All-in-one Web3 protocol for seamless token swaps, cross-chain bridging, and instant payments on Temix Network.",
-            "url": "https://github.com/Kajimenyeng/Manok",
-            "stars": 0,
-            "forks": 0,
-            "score": 30
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
             "name": "solana-evm-cross-chain-vault",
             "full_name": "ayushmishra2005/solana-evm-cross-chain-vault",
             "description": "Production-grade cross-chain asynchronous vault protocol for Solana and EVM, built with Rust, Anchor, Solidity and Foundry. Includes NAV accounting, cross-chain reconciliation, invariant testing and a Rust indexer.",
@@ -696,20 +674,6 @@ const ALPHA_DATA_V2 = {
     ],
     "news": [
         {
-            "title": "CWEEP: A Lexical Static Analysis Framework for CWE Early Prevention",
-            "source": "ArXiv",
-            "type": "Research Alpha",
-            "color": "text-indigo-600",
-            "url": "http://arxiv.org/abs/2607.29604v1"
-        },
-        {
-            "title": "Beyond Resilience: Antifragility in Critical Infrastructure Cybersecurity",
-            "source": "ArXiv",
-            "type": "Research Alpha",
-            "color": "text-indigo-600",
-            "url": "http://arxiv.org/abs/2607.29550v1"
-        },
-        {
             "title": "Bitcoin volatility remains high ahead of key FED decision.",
             "source": "Polymarket",
             "type": "Expectation",
@@ -717,5 +681,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-08-03 22:01"
+    "timestamp": "2026-08-04 00:02"
 };
