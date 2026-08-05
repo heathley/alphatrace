@@ -7,7 +7,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "QwenAudio/qwen-audio-agent",
             "description": "A realtime voice runtime that keeps Agents talking, working, and present.  Real-time Voice Runtime for AI Agents",
             "url": "https://github.com/QwenAudio/qwen-audio-agent",
-            "stars": 1901,
+            "stars": 1908,
             "forks": 137,
             "score": 99
         },
@@ -18,7 +18,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "0xwilliamortiz/humanizer-cli",
             "description": "33 ways to spot AI-written text, right in your terminal. Before/after examples, draft checker, zero dependencies.",
             "url": "https://github.com/0xwilliamortiz/humanizer-cli",
-            "stars": 572,
+            "stars": 573,
             "forks": 72,
             "score": 99
         },
@@ -29,9 +29,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "MarcosSete/awesome-free-ai-course-notes",
             "description": "A curated collection of machine learning and AI lecture notes from the world's leading universities.  This repository gives you access to the same lecture notes used by students at top institutions such as MIT, helping you learn from the very best educational resources available.",
             "url": "https://github.com/MarcosSete/awesome-free-ai-course-notes",
-            "stars": 402,
+            "stars": 408,
             "forks": 28,
-            "score": 94
+            "score": 95
         },
         {
             "main_cat": "AI",
@@ -46,25 +46,36 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
+            "sub_cat": null,
+            "name": "qiaomu-seo",
+            "full_name": "joeseesun/qiaomu-seo",
+            "description": "Audit, diagnose, research, plan, implement, experiment on, and verify website SEO across Google, Bing, and AI-search surfaces. Use for technical SEO, ",
+            "url": "https://github.com/joeseesun/qiaomu-seo",
+            "stars": 300,
+            "forks": 35,
+            "score": 85
+        },
+        {
+            "main_cat": "AI",
             "sub_cat": "AI Agents",
             "name": "OptMem",
             "full_name": "VictorTaelin/OptMem",
             "description": "Permanent memory for AI agents. A 426-token prompt, a script, plug and play.",
             "url": "https://github.com/VictorTaelin/OptMem",
-            "stars": 1120,
+            "stars": 1119,
             "forks": 68,
             "score": 83
         },
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "qiaomu-seo",
-            "full_name": "joeseesun/qiaomu-seo",
-            "description": "Audit, diagnose, research, plan, implement, experiment on, and verify website SEO across Google, Bing, and AI-search surfaces. Use for technical SEO, ",
-            "url": "https://github.com/joeseesun/qiaomu-seo",
-            "stars": 289,
-            "forks": 33,
-            "score": 82
+            "name": "doc7",
+            "full_name": "magicrew/doc7",
+            "description": "Turn documents into AI-ready Markdown with visual understanding",
+            "url": "https://github.com/magicrew/doc7",
+            "stars": 441,
+            "forks": 9,
+            "score": 77
         },
         {
             "main_cat": "AI",
@@ -73,7 +84,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "mikiarlo3/ai-copywriter",
             "description": "An AI copywriter that uses real copywriting skills + real marketing knowledge with human tone.",
             "url": "https://github.com/mikiarlo3/ai-copywriter",
-            "stars": 1025,
+            "stars": 1026,
             "forks": 26,
             "score": 70
         },
@@ -84,8 +95,19 @@ const ALPHA_DATA_V2 = {
             "full_name": "AMAP-ML/LongHorizon-Harness",
             "description": "The long-horizon computer-use harness. Run AI agents across desktop apps and the CLI for extended periods while preserving task state and making reliable progress on complex workflows. Features fresh-context execution, durable verified state, independent auditing, recoverable progress, and native Claude Code / Codex / OpenClaw integration.",
             "url": "https://github.com/AMAP-ML/LongHorizon-Harness",
-            "stars": 219,
-            "forks": 19,
+            "stars": 233,
+            "forks": 22,
+            "score": 70
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "HermesOffice",
+            "full_name": "criptogus/HermesOffice",
+            "description": "HermesOffice \u2014 AI-native office suite forked from GenOffice (Apache-2.0), with native Hermes Agent AI",
+            "url": "https://github.com/criptogus/HermesOffice",
+            "stars": 154,
+            "forks": 16,
             "score": 66
         },
         {
@@ -95,20 +117,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "perplexityai/numbat",
             "description": "Visibility into AI agent activity on endpoints, with on-device detection, optional pre-action blocking, and forensic reconstruction.",
             "url": "https://github.com/perplexityai/numbat",
-            "stars": 690,
+            "stars": 692,
             "forks": 69,
-            "score": 64
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "doc7",
-            "full_name": "magicrew/doc7",
-            "description": "Turn documents into AI-ready Markdown with visual understanding",
-            "url": "https://github.com/magicrew/doc7",
-            "stars": 313,
-            "forks": 6,
-            "score": 63
+            "score": 62
         },
         {
             "main_cat": "AI",
@@ -117,9 +128,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "fuxicodex/Fuxi",
             "description": "FuXi is a fast, self-contained AI developer terminal",
             "url": "https://github.com/fuxicodex/Fuxi",
-            "stars": 143,
-            "forks": 11,
-            "score": 61
+            "stars": 165,
+            "forks": 12,
+            "score": 56
         },
         {
             "main_cat": "AI",
@@ -128,9 +139,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "alikon-art/DeterminFlow",
             "description": "A production-oriented AI workflow runtime for building, validating, recovering, and shipping complex AI workflows as dependable services. \u9762\u5411\u751f\u4ea7\u7684 AI \u5de5\u4f5c\u6d41\u8fd0\u884c\u65f6\uff1a\u5feb\u901f\u5f00\u53d1\u3001\u9a8c\u8bc1\u548c\u6062\u590d\u590d\u6742 AI \u5de5\u4f5c\u6d41\uff0c\u5e76\u5c06\u5176\u7a33\u5b9a\u4ea4\u4ed8\u4e3a\u670d\u52a1\u3002",
             "url": "https://github.com/alikon-art/DeterminFlow",
-            "stars": 192,
+            "stars": 194,
             "forks": 27,
-            "score": 60
+            "score": 55
         },
         {
             "main_cat": "AI",
@@ -139,9 +150,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "LYiHub/pub-local-jarvis",
             "description": "Windows \u672c\u5730\u591a\u6a21\u6001 AI \u684c\u9762\u684c\u5ba0\uff0c\u652f\u6301\u5c4f\u5e55\u4e0e\u97f3\u9891\u611f\u77e5\u3002",
             "url": "https://github.com/LYiHub/pub-local-jarvis",
-            "stars": 385,
-            "forks": 82,
-            "score": 55
+            "stars": 387,
+            "forks": 85,
+            "score": 54
         },
         {
             "main_cat": "AI",
@@ -150,9 +161,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "kropdx/reflection-engine",
             "description": "A downloadable prompt that turns your AI assistant's memory of you into a candid, evidence-grounded portrait.",
             "url": "https://github.com/kropdx/reflection-engine",
-            "stars": 163,
+            "stars": 170,
             "forks": 6,
-            "score": 53
+            "score": 54
         },
         {
             "main_cat": "AI",
@@ -161,7 +172,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "aws/context-ontology-accelerator",
             "description": "An open-source, ontology-based semantic context accelerator that enables AI agents to make more accurate, consistent, and explainable decisions.",
             "url": "https://github.com/aws/context-ontology-accelerator",
-            "stars": 312,
+            "stars": 315,
             "forks": 26,
             "score": 50
         },
@@ -172,20 +183,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "Pinvou/pinvou-agent",
             "description": "Open-source desktop AI agent for tools, files, knowledge, workflows, and real deliverables.",
             "url": "https://github.com/Pinvou/pinvou-agent",
-            "stars": 340,
-            "forks": 39,
+            "stars": 354,
+            "forks": 40,
             "score": 47
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "camelAI",
-            "full_name": "qaml-ai/camelAI",
-            "description": "camelAI \u2014 an AI coding assistant platform built on Cloudflare Workers and Durable Objects",
-            "url": "https://github.com/qaml-ai/camelAI",
-            "stars": 335,
-            "forks": 26,
-            "score": 45
         },
         {
             "main_cat": "AI",
@@ -194,8 +194,19 @@ const ALPHA_DATA_V2 = {
             "full_name": "codejunkie99/graph-engineering",
             "description": "Graph engineering for AI agents: the 9-stage knowledge-graph pipeline (translated from SEU's graduate course) + task-graph orchestration patterns, as a Claude skill with teaching mode and paste-ready workflows",
             "url": "https://github.com/codejunkie99/graph-engineering",
-            "stars": 305,
-            "forks": 43,
+            "stars": 310,
+            "forks": 44,
+            "score": 46
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "camelAI",
+            "full_name": "qaml-ai/camelAI",
+            "description": "camelAI \u2014 an AI coding assistant platform built on Cloudflare Workers and Durable Objects",
+            "url": "https://github.com/qaml-ai/camelAI",
+            "stars": 336,
+            "forks": 26,
             "score": 45
         },
         {
@@ -205,7 +216,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "uczltw6/trace-file-lineage",
             "description": "Find which script, notebook, data, command, or AI agent produced a file \u2014 locally, with evidence and honest uncertainty.",
             "url": "https://github.com/uczltw6/trace-file-lineage",
-            "stars": 263,
+            "stars": 270,
             "forks": 3,
             "score": 45
         },
@@ -217,7 +228,7 @@ const ALPHA_DATA_V2 = {
             "description": "AI \u81ea\u4e3b\u6e17\u900f\u6d4b\u8bd5\u7cfb\u7edf",
             "url": "https://github.com/Autumn-27/ARTEX",
             "stars": 211,
-            "forks": 24,
+            "forks": 26,
             "score": 42
         },
         {
@@ -238,7 +249,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "isaqueseneda/shieldfont",
             "description": "A typeface that protects written content by poisoning unauthorized AI training datasets.",
             "url": "https://github.com/isaqueseneda/shieldfont",
-            "stars": 272,
+            "stars": 280,
             "forks": 16,
             "score": 40
         },
@@ -267,35 +278,24 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "unicut",
-            "full_name": "mtsee/unicut",
-            "description": "AI-driven open-source video editing tool",
-            "url": "https://github.com/mtsee/unicut",
-            "stars": 176,
-            "forks": 13,
-            "score": 38
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
             "name": "aimux",
             "full_name": "arcships/aimux",
             "description": "Unified LLM access layer in Rust \u2014 one API for 325 AI providers. \u7edf\u4e00 LLM \u670d\u52a1\u63a5\u5165\u5c42\uff1a\u4e00\u5957 API \u63a5\u5165 325 \u5bb6 AI \u670d\u52a1\u5546\u3002",
             "url": "https://github.com/arcships/aimux",
-            "stars": 158,
+            "stars": 161,
             "forks": 7,
             "score": 38
         },
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "gemini-ai-turbo",
-            "full_name": "StitchLobster58/gemini-ai-turbo",
-            "description": "Gemini AI Turbo",
-            "url": "https://github.com/StitchLobster58/gemini-ai-turbo",
-            "stars": 152,
-            "forks": 0,
-            "score": 38
+            "name": "unicut",
+            "full_name": "mtsee/unicut",
+            "description": "AI-driven open-source video editing tool",
+            "url": "https://github.com/mtsee/unicut",
+            "stars": 176,
+            "forks": 13,
+            "score": 37
         },
         {
             "main_cat": "AI",
@@ -304,7 +304,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "NulightJens/humanizer-stack",
             "description": "Two-pass pipeline for removing AI writing tells from outward-facing text: a surface pass plus a structural pass grounded in the StoryScope study. Packaged as Claude Code Skills.      Free community: skool.com/jens-ai-community-1306",
             "url": "https://github.com/NulightJens/humanizer-stack",
-            "stars": 173,
+            "stars": 174,
             "forks": 12,
             "score": 37
         },
@@ -327,19 +327,8 @@ const ALPHA_DATA_V2 = {
             "description": "A 49M-parameter Kimi K3-inspired language model trainable on one 8GB GPU",
             "url": "https://github.com/cneuralnetwork/smol-kimi-k3",
             "stars": 84,
-            "forks": 9,
+            "forks": 10,
             "score": 35
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "local-llm-with-character-setting-Arknights",
-            "full_name": "fypklanfanqie/local-llm-with-character-setting-Arknights",
-            "description": "\u4e00\u6b3e\u8fd0\u884c\u5728\u5b89\u5353\u8bbe\u5907\u4e0a\u7684 LLM \u5bf9\u8bdd\u52a9\u624b\u5e94\u7528\u3002\u4f60\u53ef\u4ee5\u81ea\u884c\u4e0b\u8f7d\u5e76\u7ba1\u7406\u6a21\u578b\uff0c\u81ea\u7531\u5b9a\u5236\u89d2\u8272\u4eba\u8bbe\uff0c\u5e76\u968f\u65f6\u5728\u672c\u5730\u63a8\u7406\uff08\u90e8\u5206\u673a\u578b\u652f\u6301 GPU/NPU \u52a0\u901f\uff09\u4e0e\u4e91\u7aef\u6a21\u578b\u4e4b\u95f4\u5207\u6362\u3002\u540c\u65f6\u5185\u7f6e TTS \u8bed\u97f3\u5408\u6210\u529f\u80fd\uff0c\u8ba9\u5bf9\u8bdd\u66f4\u52a0\u9c9c\u6d3b\u3002 An Android LLM chat assistant that lets you download and manage your own models. Customize character personas, and switch seamlessly between on-device inference (with GPU/NPU acceleration on supported devices) and cloud-based models. Built-in ",
-            "url": "https://github.com/fypklanfanqie/local-llm-with-character-setting-Arknights",
-            "stars": 53,
-            "forks": 0,
-            "score": 32
         },
         {
             "main_cat": "AI",
@@ -351,6 +340,17 @@ const ALPHA_DATA_V2 = {
             "stars": 30,
             "forks": 0,
             "score": 32
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "local-llm-with-character-setting-Arknights",
+            "full_name": "fypklanfanqie/local-llm-with-character-setting-Arknights",
+            "description": "\u4e00\u6b3e\u8fd0\u884c\u5728\u5b89\u5353\u8bbe\u5907\u4e0a\u7684 LLM \u5bf9\u8bdd\u52a9\u624b\u5e94\u7528\u3002\u4f60\u53ef\u4ee5\u81ea\u884c\u4e0b\u8f7d\u5e76\u7ba1\u7406\u6a21\u578b\uff0c\u81ea\u7531\u5b9a\u5236\u89d2\u8272\u4eba\u8bbe\uff0c\u5e76\u968f\u65f6\u5728\u672c\u5730\u63a8\u7406\uff08\u90e8\u5206\u673a\u578b\u652f\u6301 GPU/NPU \u52a0\u901f\uff09\u4e0e\u4e91\u7aef\u6a21\u578b\u4e4b\u95f4\u5207\u6362\u3002\u540c\u65f6\u5185\u7f6e TTS \u8bed\u97f3\u5408\u6210\u529f\u80fd\uff0c\u8ba9\u5bf9\u8bdd\u66f4\u52a0\u9c9c\u6d3b\u3002 An Android LLM chat assistant that lets you download and manage your own models. Customize character personas, and switch seamlessly between on-device inference (with GPU/NPU acceleration on supported devices) and cloud-based models. Built-in ",
+            "url": "https://github.com/fypklanfanqie/local-llm-with-character-setting-Arknights",
+            "stars": 53,
+            "forks": 0,
+            "score": 31
         },
         {
             "main_cat": "AI",
@@ -750,5 +750,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-08-05 05:40"
+    "timestamp": "2026-08-05 08:24"
 };
