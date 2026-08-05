@@ -7,7 +7,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "QwenAudio/qwen-audio-agent",
             "description": "A realtime voice runtime that keeps Agents talking, working, and present.  Real-time Voice Runtime for AI Agents",
             "url": "https://github.com/QwenAudio/qwen-audio-agent",
-            "stars": 1926,
+            "stars": 1927,
             "forks": 138,
             "score": 99
         },
@@ -18,7 +18,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "KKKKhazix/human-writing",
             "description": "\u8ba9 AI \u5199\u7684\u4e2d\u6587\u8bfb\u8d77\u6765\u50cf\u4e00\u4e2a\u5177\u4f53\u7684\u4eba\u5728\u8bf4\u8bdd\u3002\u901a\u7528\u521b\u4f5c\u4e0e\u6539\u7a3f Skill\uff0c\u5f00\u7bb1\u5373\u7528\u3002",
             "url": "https://github.com/KKKKhazix/human-writing",
-            "stars": 1012,
+            "stars": 1020,
             "forks": 99,
             "score": 99
         },
@@ -29,9 +29,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "Binaryify/open-kimi-ppt-skill",
             "description": "\u975e\u5b98\u65b9 Kimi Slides Skill\uff1a\u8ba9 AI Agent \u751f\u6210\u53ef\u7f16\u8f91 PPTD + PPTX\uff0c\u5e76\u9644\u5e26\u672c\u5730\u6d4f\u89c8\u5668\u7f16\u8f91\u5668 Unofficial Kimi Slides skill for AI agents \u2014 generate editable PPTD + PPTX with a local browser editor",
             "url": "https://github.com/Binaryify/open-kimi-ppt-skill",
-            "stars": 547,
-            "forks": 154,
+            "stars": 573,
+            "forks": 158,
             "score": 99
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "HermesOffice",
+            "full_name": "criptogus/HermesOffice",
+            "description": "HermesOffice \u2014 AI-native office suite forked from GenOffice (Apache-2.0), with native Hermes Agent AI",
+            "url": "https://github.com/criptogus/HermesOffice",
+            "stars": 338,
+            "forks": 43,
+            "score": 93
         },
         {
             "main_cat": "AI",
@@ -47,22 +58,11 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "HermesOffice",
-            "full_name": "criptogus/HermesOffice",
-            "description": "HermesOffice \u2014 AI-native office suite forked from GenOffice (Apache-2.0), with native Hermes Agent AI",
-            "url": "https://github.com/criptogus/HermesOffice",
-            "stars": 330,
-            "forks": 41,
-            "score": 91
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
             "name": "awesome-free-ai-course-notes",
             "full_name": "MarcosSete/awesome-free-ai-course-notes",
             "description": "A curated collection of machine learning and AI lecture notes from the world's leading universities.  This repository gives you access to the same lecture notes used by students at top institutions such as MIT, helping you learn from the very best educational resources available.",
             "url": "https://github.com/MarcosSete/awesome-free-ai-course-notes",
-            "stars": 448,
+            "stars": 449,
             "forks": 30,
             "score": 86
         },
@@ -90,12 +90,23 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
+            "sub_cat": null,
+            "name": "Fuxi",
+            "full_name": "fuxicodex/Fuxi",
+            "description": "FuXi is a fast, self-contained AI developer terminal",
+            "url": "https://github.com/fuxicodex/Fuxi",
+            "stars": 293,
+            "forks": 23,
+            "score": 78
+        },
+        {
+            "main_cat": "AI",
             "sub_cat": "AI Agents",
             "name": "LongHorizon-Harness",
             "full_name": "AMAP-ML/LongHorizon-Harness",
             "description": "The long-horizon computer-use harness. Run AI agents across desktop apps and the CLI for extended periods while preserving task state and making reliable progress on complex workflows. Features fresh-context execution, durable verified state, independent auditing, recoverable progress, and native Claude Code / Codex / OpenClaw integration.",
             "url": "https://github.com/AMAP-ML/LongHorizon-Harness",
-            "stars": 273,
+            "stars": 274,
             "forks": 29,
             "score": 78
         },
@@ -108,17 +119,6 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/joeseesun/qiaomu-seo",
             "stars": 311,
             "forks": 38,
-            "score": 76
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "Fuxi",
-            "full_name": "fuxicodex/Fuxi",
-            "description": "FuXi is a fast, self-contained AI developer terminal",
-            "url": "https://github.com/fuxicodex/Fuxi",
-            "stars": 283,
-            "forks": 23,
             "score": 76
         },
         {
@@ -150,7 +150,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "perplexityai/numbat",
             "description": "Visibility into AI agent activity on endpoints, with on-device detection, optional pre-action blocking, and forensic reconstruction.",
             "url": "https://github.com/perplexityai/numbat",
-            "stars": 709,
+            "stars": 710,
             "forks": 69,
             "score": 62
         },
@@ -179,17 +179,6 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "context-ontology-accelerator",
-            "full_name": "aws/context-ontology-accelerator",
-            "description": "An open-source, ontology-based semantic context accelerator that enables AI agents to make more accurate, consistent, and explainable decisions.",
-            "url": "https://github.com/aws/context-ontology-accelerator",
-            "stars": 337,
-            "forks": 27,
-            "score": 52
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
             "name": "reflection-engine",
             "full_name": "kropdx/reflection-engine",
             "description": "A downloadable prompt that turns your AI assistant's memory of you into a candid, evidence-grounded portrait.",
@@ -201,11 +190,22 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
+            "name": "context-ontology-accelerator",
+            "full_name": "aws/context-ontology-accelerator",
+            "description": "An open-source, ontology-based semantic context accelerator that enables AI agents to make more accurate, consistent, and explainable decisions.",
+            "url": "https://github.com/aws/context-ontology-accelerator",
+            "stars": 337,
+            "forks": 27,
+            "score": 50
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
             "name": "pinvou-agent",
             "full_name": "Pinvou/pinvou-agent",
             "description": "Open-source desktop AI agent for tools, files, knowledge, workflows, and real deliverables.",
             "url": "https://github.com/Pinvou/pinvou-agent",
-            "stars": 376,
+            "stars": 377,
             "forks": 46,
             "score": 48
         },
@@ -238,7 +238,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "uczltw6/trace-file-lineage",
             "description": "Find which script, notebook, data, command, or AI agent produced a file \u2014 locally, with evidence and honest uncertainty.",
             "url": "https://github.com/uczltw6/trace-file-lineage",
-            "stars": 270,
+            "stars": 271,
             "forks": 3,
             "score": 44
         },
@@ -739,5 +739,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-08-05 22:51"
+    "timestamp": "2026-08-05 23:54"
 };
