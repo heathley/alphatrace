@@ -7,7 +7,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "QwenAudio/qwen-audio-agent",
             "description": "A realtime voice runtime that keeps Agents talking, working, and present.  Real-time Voice Runtime for AI Agents",
             "url": "https://github.com/QwenAudio/qwen-audio-agent",
-            "stars": 1918,
+            "stars": 1920,
             "forks": 138,
             "score": 99
         },
@@ -18,8 +18,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "KKKKhazix/human-writing",
             "description": "\u8ba9 AI \u5199\u7684\u4e2d\u6587\u8bfb\u8d77\u6765\u50cf\u4e00\u4e2a\u5177\u4f53\u7684\u4eba\u5728\u8bf4\u8bdd\u3002\u901a\u7528\u521b\u4f5c\u4e0e\u6539\u7a3f Skill\uff0c\u5f00\u7bb1\u5373\u7528\u3002",
             "url": "https://github.com/KKKKhazix/human-writing",
-            "stars": 846,
-            "forks": 83,
+            "stars": 945,
+            "forks": 93,
             "score": 99
         },
         {
@@ -40,31 +40,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "Binaryify/open-kimi-ppt-skill",
             "description": "\u975e\u5b98\u65b9 Kimi Slides Skill\uff1a\u8ba9 AI Agent \u751f\u6210\u53ef\u7f16\u8f91 PPTD + PPTX\uff0c\u5e76\u9644\u5e26\u672c\u5730\u6d4f\u89c8\u5668\u7f16\u8f91\u5668 Unofficial Kimi Slides skill for AI agents \u2014 generate editable PPTD + PPTX with a local browser editor",
             "url": "https://github.com/Binaryify/open-kimi-ppt-skill",
-            "stars": 179,
-            "forks": 77,
+            "stars": 365,
+            "forks": 116,
             "score": 99
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "ponytail-improved",
-            "full_name": "0xwilliamortiz/ponytail-improved",
-            "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-            "url": "https://github.com/0xwilliamortiz/ponytail-improved",
-            "stars": 589,
-            "forks": 130,
-            "score": 85
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "HermesOffice",
-            "full_name": "criptogus/HermesOffice",
-            "description": "HermesOffice \u2014 AI-native office suite forked from GenOffice (Apache-2.0), with native Hermes Agent AI",
-            "url": "https://github.com/criptogus/HermesOffice",
-            "stars": 234,
-            "forks": 25,
-            "score": 85
         },
         {
             "main_cat": "AI",
@@ -73,9 +51,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "MarcosSete/awesome-free-ai-course-notes",
             "description": "A curated collection of machine learning and AI lecture notes from the world's leading universities.  This repository gives you access to the same lecture notes used by students at top institutions such as MIT, helping you learn from the very best educational resources available.",
             "url": "https://github.com/MarcosSete/awesome-free-ai-course-notes",
-            "stars": 429,
+            "stars": 437,
             "forks": 29,
-            "score": 84
+            "score": 85
         },
         {
             "main_cat": "AI",
@@ -91,24 +69,24 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "doc7",
-            "full_name": "magicrew/doc7",
-            "description": "Turn documents into AI-ready Markdown with visual understanding",
-            "url": "https://github.com/magicrew/doc7",
-            "stars": 446,
-            "forks": 9,
-            "score": 78
+            "name": "HermesOffice",
+            "full_name": "criptogus/HermesOffice",
+            "description": "HermesOffice \u2014 AI-native office suite forked from GenOffice (Apache-2.0), with native Hermes Agent AI",
+            "url": "https://github.com/criptogus/HermesOffice",
+            "stars": 288,
+            "forks": 33,
+            "score": 82
         },
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "qiaomu-seo",
-            "full_name": "joeseesun/qiaomu-seo",
-            "description": "Audit, diagnose, research, plan, implement, experiment on, and verify website SEO across Google, Bing, and AI-search surfaces. Use for technical SEO, ",
-            "url": "https://github.com/joeseesun/qiaomu-seo",
-            "stars": 306,
-            "forks": 37,
-            "score": 75
+            "name": "ponytail-improved",
+            "full_name": "0xwilliamortiz/ponytail-improved",
+            "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+            "url": "https://github.com/0xwilliamortiz/ponytail-improved",
+            "stars": 590,
+            "forks": 130,
+            "score": 80
         },
         {
             "main_cat": "AI",
@@ -117,8 +95,19 @@ const ALPHA_DATA_V2 = {
             "full_name": "AMAP-ML/LongHorizon-Harness",
             "description": "The long-horizon computer-use harness. Run AI agents across desktop apps and the CLI for extended periods while preserving task state and making reliable progress on complex workflows. Features fresh-context execution, durable verified state, independent auditing, recoverable progress, and native Claude Code / Codex / OpenClaw integration.",
             "url": "https://github.com/AMAP-ML/LongHorizon-Harness",
-            "stars": 260,
-            "forks": 26,
+            "stars": 266,
+            "forks": 28,
+            "score": 77
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "qiaomu-seo",
+            "full_name": "joeseesun/qiaomu-seo",
+            "description": "Audit, diagnose, research, plan, implement, experiment on, and verify website SEO across Google, Bing, and AI-search surfaces. Use for technical SEO, ",
+            "url": "https://github.com/joeseesun/qiaomu-seo",
+            "stars": 309,
+            "forks": 37,
             "score": 75
         },
         {
@@ -128,8 +117,19 @@ const ALPHA_DATA_V2 = {
             "full_name": "mikiarlo3/ai-copywriter",
             "description": "An AI copywriter that uses real copywriting skills + real marketing knowledge with human tone.",
             "url": "https://github.com/mikiarlo3/ai-copywriter",
-            "stars": 1029,
+            "stars": 1031,
             "forks": 26,
+            "score": 70
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "doc7",
+            "full_name": "magicrew/doc7",
+            "description": "Turn documents into AI-ready Markdown with visual understanding",
+            "url": "https://github.com/magicrew/doc7",
+            "stars": 449,
+            "forks": 9,
             "score": 70
         },
         {
@@ -139,9 +139,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "fuxicodex/Fuxi",
             "description": "FuXi is a fast, self-contained AI developer terminal",
             "url": "https://github.com/fuxicodex/Fuxi",
-            "stars": 209,
-            "forks": 17,
-            "score": 64
+            "stars": 225,
+            "forks": 18,
+            "score": 67
         },
         {
             "main_cat": "AI",
@@ -150,20 +150,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "perplexityai/numbat",
             "description": "Visibility into AI agent activity on endpoints, with on-device detection, optional pre-action blocking, and forensic reconstruction.",
             "url": "https://github.com/perplexityai/numbat",
-            "stars": 697,
+            "stars": 700,
             "forks": 69,
             "score": 62
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "DeterminFlow",
-            "full_name": "alikon-art/DeterminFlow",
-            "description": "A production-oriented AI workflow runtime for building, validating, recovering, and shipping complex AI workflows as dependable services. \u9762\u5411\u751f\u4ea7\u7684 AI \u5de5\u4f5c\u6d41\u8fd0\u884c\u65f6\uff1a\u5feb\u901f\u5f00\u53d1\u3001\u9a8c\u8bc1\u548c\u6062\u590d\u590d\u6742 AI \u5de5\u4f5c\u6d41\uff0c\u5e76\u5c06\u5176\u7a33\u5b9a\u4ea4\u4ed8\u4e3a\u670d\u52a1\u3002",
-            "url": "https://github.com/alikon-art/DeterminFlow",
-            "stars": 198,
-            "forks": 26,
-            "score": 55
         },
         {
             "main_cat": "AI",
@@ -172,8 +161,19 @@ const ALPHA_DATA_V2 = {
             "full_name": "kropdx/reflection-engine",
             "description": "A downloadable prompt that turns your AI assistant's memory of you into a candid, evidence-grounded portrait.",
             "url": "https://github.com/kropdx/reflection-engine",
-            "stars": 182,
-            "forks": 6,
+            "stars": 188,
+            "forks": 7,
+            "score": 57
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "DeterminFlow",
+            "full_name": "alikon-art/DeterminFlow",
+            "description": "A production-oriented AI workflow runtime for building, validating, recovering, and shipping complex AI workflows as dependable services. \u9762\u5411\u751f\u4ea7\u7684 AI \u5de5\u4f5c\u6d41\u8fd0\u884c\u65f6\uff1a\u5feb\u901f\u5f00\u53d1\u3001\u9a8c\u8bc1\u548c\u6062\u590d\u590d\u6742 AI \u5de5\u4f5c\u6d41\uff0c\u5e76\u5c06\u5176\u7a33\u5b9a\u4ea4\u4ed8\u4e3a\u670d\u52a1\u3002",
+            "url": "https://github.com/alikon-art/DeterminFlow",
+            "stars": 201,
+            "forks": 26,
             "score": 55
         },
         {
@@ -194,8 +194,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "aws/context-ontology-accelerator",
             "description": "An open-source, ontology-based semantic context accelerator that enables AI agents to make more accurate, consistent, and explainable decisions.",
             "url": "https://github.com/aws/context-ontology-accelerator",
-            "stars": 321,
-            "forks": 26,
+            "stars": 325,
+            "forks": 27,
             "score": 51
         },
         {
@@ -205,7 +205,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Pinvou/pinvou-agent",
             "description": "Open-source desktop AI agent for tools, files, knowledge, workflows, and real deliverables.",
             "url": "https://github.com/Pinvou/pinvou-agent",
-            "stars": 363,
+            "stars": 365,
             "forks": 43,
             "score": 47
         },
@@ -216,19 +216,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "codejunkie99/graph-engineering",
             "description": "Graph engineering for AI agents: the 9-stage knowledge-graph pipeline (translated from SEU's graduate course) + task-graph orchestration patterns, as a Claude skill with teaching mode and paste-ready workflows",
             "url": "https://github.com/codejunkie99/graph-engineering",
-            "stars": 311,
-            "forks": 44,
-            "score": 46
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "camelAI",
-            "full_name": "qaml-ai/camelAI",
-            "description": "camelAI \u2014 an AI coding assistant platform built on Cloudflare Workers and Durable Objects",
-            "url": "https://github.com/qaml-ai/camelAI",
-            "stars": 336,
-            "forks": 26,
+            "stars": 313,
+            "forks": 46,
             "score": 45
         },
         {
@@ -241,6 +230,17 @@ const ALPHA_DATA_V2 = {
             "stars": 270,
             "forks": 3,
             "score": 45
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "camelAI",
+            "full_name": "qaml-ai/camelAI",
+            "description": "camelAI \u2014 an AI coding assistant platform built on Cloudflare Workers and Durable Objects",
+            "url": "https://github.com/qaml-ai/camelAI",
+            "stars": 336,
+            "forks": 26,
+            "score": 44
         },
         {
             "main_cat": "AI",
@@ -260,7 +260,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "isaqueseneda/shieldfont",
             "description": "A typeface that protects written content by poisoning unauthorized AI training datasets.",
             "url": "https://github.com/isaqueseneda/shieldfont",
-            "stars": 289,
+            "stars": 294,
             "forks": 18,
             "score": 41
         },
@@ -282,7 +282,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "michellzappa/headroom",
             "description": "Local-first AI coding quotas and ship status, on your menu bar, iPhone, Watch and an ESP32 desk display.",
             "url": "https://github.com/michellzappa/headroom",
-            "stars": 212,
+            "stars": 213,
             "forks": 15,
             "score": 39
         },
@@ -304,7 +304,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "NulightJens/humanizer-stack",
             "description": "Two-pass pipeline for removing AI writing tells from outward-facing text: a surface pass plus a structural pass grounded in the StoryScope study. Packaged as Claude Code Skills.      Free community: skool.com/jens-ai-community-1306",
             "url": "https://github.com/NulightJens/humanizer-stack",
-            "stars": 175,
+            "stars": 176,
             "forks": 12,
             "score": 37
         },
@@ -348,7 +348,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "drowzeys/keys-SM121-Optimized-MiniMax-H3-Nvidia-Sol-Engine-Kijai-SolAttn_Triton-Single-DGX-Spark",
             "description": "MiniMax-H3 33B audio+video DiT accelerated 1.54x on a single NVIDIA DGX Spark (GB10, sm_121): NVIDIA Sol-Engine FirstBlockCache + batched VAE decode ported to single-GPU ComfyUI, Sol-Attn patched for compute 12.1, kijai Triton INT8/TMA kernels. Benchmarks, charts, one-shot installer, agent recipe.",
             "url": "https://github.com/drowzeys/keys-SM121-Optimized-MiniMax-H3-Nvidia-Sol-Engine-Kijai-SolAttn_Triton-Single-DGX-Spark",
-            "stars": 12,
+            "stars": 14,
             "forks": 0,
             "score": 32
         },
@@ -739,5 +739,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-08-05 13:51"
+    "timestamp": "2026-08-05 15:57"
 };
