@@ -7,7 +7,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "QwenAudio/qwen-audio-agent",
             "description": "A realtime voice runtime that keeps Agents talking, working, and present.  Real-time Voice Runtime for AI Agents",
             "url": "https://github.com/QwenAudio/qwen-audio-agent",
-            "stars": 1922,
+            "stars": 1924,
             "forks": 138,
             "score": 99
         },
@@ -18,8 +18,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "KKKKhazix/human-writing",
             "description": "\u8ba9 AI \u5199\u7684\u4e2d\u6587\u8bfb\u8d77\u6765\u50cf\u4e00\u4e2a\u5177\u4f53\u7684\u4eba\u5728\u8bf4\u8bdd\u3002\u901a\u7528\u521b\u4f5c\u4e0e\u6539\u7a3f Skill\uff0c\u5f00\u7bb1\u5373\u7528\u3002",
             "url": "https://github.com/KKKKhazix/human-writing",
-            "stars": 984,
-            "forks": 93,
+            "stars": 996,
+            "forks": 95,
             "score": 99
         },
         {
@@ -40,8 +40,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "Binaryify/open-kimi-ppt-skill",
             "description": "\u975e\u5b98\u65b9 Kimi Slides Skill\uff1a\u8ba9 AI Agent \u751f\u6210\u53ef\u7f16\u8f91 PPTD + PPTX\uff0c\u5e76\u9644\u5e26\u672c\u5730\u6d4f\u89c8\u5668\u7f16\u8f91\u5668 Unofficial Kimi Slides skill for AI agents \u2014 generate editable PPTD + PPTX with a local browser editor",
             "url": "https://github.com/Binaryify/open-kimi-ppt-skill",
-            "stars": 454,
-            "forks": 134,
+            "stars": 490,
+            "forks": 144,
             "score": 99
         },
         {
@@ -51,9 +51,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "criptogus/HermesOffice",
             "description": "HermesOffice \u2014 AI-native office suite forked from GenOffice (Apache-2.0), with native Hermes Agent AI",
             "url": "https://github.com/criptogus/HermesOffice",
-            "stars": 307,
-            "forks": 37,
-            "score": 86
+            "stars": 316,
+            "forks": 39,
+            "score": 89
         },
         {
             "main_cat": "AI",
@@ -62,9 +62,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "MarcosSete/awesome-free-ai-course-notes",
             "description": "A curated collection of machine learning and AI lecture notes from the world's leading universities.  This repository gives you access to the same lecture notes used by students at top institutions such as MIT, helping you learn from the very best educational resources available.",
             "url": "https://github.com/MarcosSete/awesome-free-ai-course-notes",
-            "stars": 443,
-            "forks": 29,
-            "score": 85
+            "stars": 446,
+            "forks": 30,
+            "score": 86
         },
         {
             "main_cat": "AI",
@@ -84,7 +84,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "VictorTaelin/OptMem",
             "description": "Permanent memory for AI agents. A 426-token prompt, a script, plug and play.",
             "url": "https://github.com/VictorTaelin/OptMem",
-            "stars": 1121,
+            "stars": 1122,
             "forks": 68,
             "score": 79
         },
@@ -95,7 +95,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "AMAP-ML/LongHorizon-Harness",
             "description": "The long-horizon computer-use harness. Run AI agents across desktop apps and the CLI for extended periods while preserving task state and making reliable progress on complex workflows. Features fresh-context execution, durable verified state, independent auditing, recoverable progress, and native Claude Code / Codex / OpenClaw integration.",
             "url": "https://github.com/AMAP-ML/LongHorizon-Harness",
-            "stars": 269,
+            "stars": 271,
             "forks": 28,
             "score": 77
         },
@@ -113,13 +113,13 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "ai-copywriter",
-            "full_name": "mikiarlo3/ai-copywriter",
-            "description": "An AI copywriter that uses real copywriting skills + real marketing knowledge with human tone.",
-            "url": "https://github.com/mikiarlo3/ai-copywriter",
-            "stars": 1033,
-            "forks": 26,
-            "score": 70
+            "name": "Fuxi",
+            "full_name": "fuxicodex/Fuxi",
+            "description": "FuXi is a fast, self-contained AI developer terminal",
+            "url": "https://github.com/fuxicodex/Fuxi",
+            "stars": 256,
+            "forks": 20,
+            "score": 72
         },
         {
             "main_cat": "AI",
@@ -135,13 +135,13 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "Fuxi",
-            "full_name": "fuxicodex/Fuxi",
-            "description": "FuXi is a fast, self-contained AI developer terminal",
-            "url": "https://github.com/fuxicodex/Fuxi",
-            "stars": 239,
-            "forks": 19,
-            "score": 69
+            "name": "ai-copywriter",
+            "full_name": "mikiarlo3/ai-copywriter",
+            "description": "An AI copywriter that uses real copywriting skills + real marketing knowledge with human tone.",
+            "url": "https://github.com/mikiarlo3/ai-copywriter",
+            "stars": 956,
+            "forks": 25,
+            "score": 67
         },
         {
             "main_cat": "AI",
@@ -150,20 +150,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "perplexityai/numbat",
             "description": "Visibility into AI agent activity on endpoints, with on-device detection, optional pre-action blocking, and forensic reconstruction.",
             "url": "https://github.com/perplexityai/numbat",
-            "stars": 703,
+            "stars": 705,
             "forks": 69,
             "score": 62
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "reflection-engine",
-            "full_name": "kropdx/reflection-engine",
-            "description": "A downloadable prompt that turns your AI assistant's memory of you into a candid, evidence-grounded portrait.",
-            "url": "https://github.com/kropdx/reflection-engine",
-            "stars": 188,
-            "forks": 7,
-            "score": 57
         },
         {
             "main_cat": "AI",
@@ -194,9 +183,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "aws/context-ontology-accelerator",
             "description": "An open-source, ontology-based semantic context accelerator that enables AI agents to make more accurate, consistent, and explainable decisions.",
             "url": "https://github.com/aws/context-ontology-accelerator",
-            "stars": 327,
+            "stars": 333,
             "forks": 27,
-            "score": 51
+            "score": 52
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "reflection-engine",
+            "full_name": "kropdx/reflection-engine",
+            "description": "A downloadable prompt that turns your AI assistant's memory of you into a candid, evidence-grounded portrait.",
+            "url": "https://github.com/kropdx/reflection-engine",
+            "stars": 193,
+            "forks": 7,
+            "score": 52
         },
         {
             "main_cat": "AI",
@@ -205,8 +205,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "Pinvou/pinvou-agent",
             "description": "Open-source desktop AI agent for tools, files, knowledge, workflows, and real deliverables.",
             "url": "https://github.com/Pinvou/pinvou-agent",
-            "stars": 370,
-            "forks": 44,
+            "stars": 374,
+            "forks": 45,
             "score": 48
         },
         {
@@ -249,7 +249,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Autumn-27/ARTEX",
             "description": "AI \u81ea\u4e3b\u6e17\u900f\u6d4b\u8bd5\u7cfb\u7edf",
             "url": "https://github.com/Autumn-27/ARTEX",
-            "stars": 215,
+            "stars": 216,
             "forks": 27,
             "score": 42
         },
@@ -260,7 +260,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "isaqueseneda/shieldfont",
             "description": "A typeface that protects written content by poisoning unauthorized AI training datasets.",
             "url": "https://github.com/isaqueseneda/shieldfont",
-            "stars": 296,
+            "stars": 299,
             "forks": 18,
             "score": 41
         },
@@ -271,7 +271,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "grafana/ai-sdk",
             "description": "Grafana AI SDK for Go \u2014 streaming, tool-calling AI backends that speak fluent @ai-sdk/react",
             "url": "https://github.com/grafana/ai-sdk",
-            "stars": 210,
+            "stars": 211,
             "forks": 7,
             "score": 41
         },
@@ -333,22 +333,22 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
+            "name": "keys-SM121-Optimized-MiniMax-H3-Nvidia-Sol-Engine-Kijai-SolAttn_Triton-Single-DGX-Spark",
+            "full_name": "drowzeys/keys-SM121-Optimized-MiniMax-H3-Nvidia-Sol-Engine-Kijai-SolAttn_Triton-Single-DGX-Spark",
+            "description": "MiniMax-H3 33B audio+video DiT accelerated 1.54x on a single NVIDIA DGX Spark (GB10, sm_121): NVIDIA Sol-Engine FirstBlockCache + batched VAE decode ported to single-GPU ComfyUI, Sol-Attn patched for compute 12.1, kijai Triton INT8/TMA kernels. Benchmarks, charts, one-shot installer, agent recipe.",
+            "url": "https://github.com/drowzeys/keys-SM121-Optimized-MiniMax-H3-Nvidia-Sol-Engine-Kijai-SolAttn_Triton-Single-DGX-Spark",
+            "stars": 19,
+            "forks": 0,
+            "score": 33
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
             "name": "ash4d-ai-deployment-hub",
             "full_name": "hallbrandonidyt2176/ash4d-ai-deployment-hub",
             "description": "ash4d.com is a self-hosted private AI platform for k3s Kubernetes, combining local Qwen3 inference, retrieval-augmented generation, agent tooling, and GPU-enabled services in a GitOps-managed environment.",
             "url": "https://github.com/hallbrandonidyt2176/ash4d-ai-deployment-hub",
             "stars": 30,
-            "forks": 0,
-            "score": 32
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "keys-SM121-Optimized-MiniMax-H3-Nvidia-Sol-Engine-Kijai-SolAttn_Triton-Single-DGX-Spark",
-            "full_name": "drowzeys/keys-SM121-Optimized-MiniMax-H3-Nvidia-Sol-Engine-Kijai-SolAttn_Triton-Single-DGX-Spark",
-            "description": "MiniMax-H3 33B audio+video DiT accelerated 1.54x on a single NVIDIA DGX Spark (GB10, sm_121): NVIDIA Sol-Engine FirstBlockCache + batched VAE decode ported to single-GPU ComfyUI, Sol-Attn patched for compute 12.1, kijai Triton INT8/TMA kernels. Benchmarks, charts, one-shot installer, agent recipe.",
-            "url": "https://github.com/drowzeys/keys-SM121-Optimized-MiniMax-H3-Nvidia-Sol-Engine-Kijai-SolAttn_Triton-Single-DGX-Spark",
-            "stars": 16,
             "forks": 0,
             "score": 32
         },
@@ -507,23 +507,23 @@ const ALPHA_DATA_V2 = {
             "score": 30
         },
         {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "dlt-payments",
-            "full_name": "api-evangelist/dlt-payments",
-            "description": "DLT Payments (DLTPAY) is a Web3 payments company offering a stablecoin wallet that enables businesses to send and receive instant payments in stablecoins across multiple blockchain networks \u2014 Ethereum, Arbitrum, Optimism, Polygon, and BNB Chain \u2014 with zero exposure to cryptocurrency price volatility.",
-            "url": "https://github.com/api-evangelist/dlt-payments",
-            "stars": 0,
-            "forks": 0,
-            "score": 30
-        },
-        {
             "main_cat": "Stablecoin Infrastructure",
             "sub_cat": null,
             "name": "loop-crypto",
             "full_name": "api-evangelist/loop-crypto",
             "description": "Loop Crypto is a crypto and stablecoin payment processor that lets merchants, billing software, and e-commerce platforms accept crypto and stablecoin payments end to end: charging a wallet, storing payment methods, accepting stablecoins, ERC-20 tokens, and Solana SPL tokens, and settling to merchants in either fiat or crypto.",
             "url": "https://github.com/api-evangelist/loop-crypto",
+            "stars": 0,
+            "forks": 0,
+            "score": 30
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "dlt-payments",
+            "full_name": "api-evangelist/dlt-payments",
+            "description": "DLT Payments (DLTPAY) is a Web3 payments company offering a stablecoin wallet that enables businesses to send and receive instant payments in stablecoins across multiple blockchain networks \u2014 Ethereum, Arbitrum, Optimism, Polygon, and BNB Chain \u2014 with zero exposure to cryptocurrency price volatility.",
+            "url": "https://github.com/api-evangelist/dlt-payments",
             "stars": 0,
             "forks": 0,
             "score": 30
@@ -739,5 +739,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-08-05 17:27"
+    "timestamp": "2026-08-05 19:20"
 };
