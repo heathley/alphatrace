@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "QwenAudio/qwen-audio-agent",
             "description": "A realtime voice runtime that keeps Agents talking, working, and present.  Real-time Voice Runtime for AI Agents",
             "url": "https://github.com/QwenAudio/qwen-audio-agent",
-            "stars": 1941,
-            "forks": 140,
+            "stars": 1950,
+            "forks": 141,
             "score": 99
         },
         {
@@ -18,8 +18,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "KKKKhazix/human-writing",
             "description": "\u8ba9 AI \u5199\u7684\u4e2d\u6587\u8bfb\u8d77\u6765\u50cf\u4e00\u4e2a\u5177\u4f53\u7684\u4eba\u5728\u8bf4\u8bdd\u3002\u901a\u7528\u521b\u4f5c\u4e0e\u6539\u7a3f Skill\uff0c\u5f00\u7bb1\u5373\u7528\u3002",
             "url": "https://github.com/KKKKhazix/human-writing",
-            "stars": 1362,
-            "forks": 120,
+            "stars": 1422,
+            "forks": 123,
             "score": 99
         },
         {
@@ -29,8 +29,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "Binaryify/open-kimi-ppt-skill",
             "description": "\u975e\u5b98\u65b9 Kimi Slides Skill\uff1a\u8ba9 AI Agent \u751f\u6210\u53ef\u7f16\u8f91 PPTD + PPTX\uff0c\u5e76\u9644\u5e26\u672c\u5730\u6d4f\u89c8\u5668\u7f16\u8f91\u5668 Unofficial Kimi Slides skill for AI agents \u2014 generate editable PPTD + PPTX with a local browser editor",
             "url": "https://github.com/Binaryify/open-kimi-ppt-skill",
-            "stars": 938,
-            "forks": 265,
+            "stars": 1035,
+            "forks": 291,
             "score": 99
         },
         {
@@ -40,8 +40,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "criptogus/HermesOffice",
             "description": "HermesOffice \u2014 AI-native office suite forked from GenOffice (Apache-2.0), with native Hermes Agent AI",
             "url": "https://github.com/criptogus/HermesOffice",
-            "stars": 369,
-            "forks": 44,
+            "stars": 370,
+            "forks": 45,
             "score": 98
         },
         {
@@ -62,9 +62,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "MarcosSete/awesome-free-ai-course-notes",
             "description": "A curated collection of machine learning and AI lecture notes from the world's leading universities.  This repository gives you access to the same lecture notes used by students at top institutions such as MIT, helping you learn from the very best educational resources available.",
             "url": "https://github.com/MarcosSete/awesome-free-ai-course-notes",
-            "stars": 469,
+            "stars": 476,
             "forks": 33,
             "score": 90
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "Fuxi",
+            "full_name": "fuxicodex/Fuxi",
+            "description": "FuXi is a fast, self-contained AI developer terminal",
+            "url": "https://github.com/fuxicodex/Fuxi",
+            "stars": 393,
+            "forks": 31,
+            "score": 81
         },
         {
             "main_cat": "AI",
@@ -73,7 +84,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "VictorTaelin/OptMem",
             "description": "Permanent memory for AI agents. A 426-token prompt, a script, plug and play.",
             "url": "https://github.com/VictorTaelin/OptMem",
-            "stars": 1124,
+            "stars": 1127,
             "forks": 69,
             "score": 80
         },
@@ -90,14 +101,25 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
+            "sub_cat": "AI Agents",
+            "name": "LongHorizon-Harness",
+            "full_name": "AMAP-ML/LongHorizon-Harness",
+            "description": "The long-horizon computer-use harness. Run AI agents across desktop apps and the CLI for extended periods while preserving task state and making reliable progress on complex workflows. Features fresh-context execution, durable verified state, independent auditing, recoverable progress, and native Claude Code / Codex / OpenClaw integration.",
+            "url": "https://github.com/AMAP-ML/LongHorizon-Harness",
+            "stars": 311,
+            "forks": 35,
+            "score": 75
+        },
+        {
+            "main_cat": "AI",
             "sub_cat": null,
-            "name": "Fuxi",
-            "full_name": "fuxicodex/Fuxi",
-            "description": "FuXi is a fast, self-contained AI developer terminal",
-            "url": "https://github.com/fuxicodex/Fuxi",
-            "stars": 367,
-            "forks": 28,
-            "score": 77
+            "name": "doc7",
+            "full_name": "magicrew/doc7",
+            "description": "Turn documents into AI-ready Markdown with visual understanding",
+            "url": "https://github.com/magicrew/doc7",
+            "stars": 461,
+            "forks": 9,
+            "score": 71
         },
         {
             "main_cat": "AI",
@@ -108,29 +130,7 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/joeseesun/qiaomu-seo",
             "stars": 315,
             "forks": 40,
-            "score": 77
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI Agents",
-            "name": "LongHorizon-Harness",
-            "full_name": "AMAP-ML/LongHorizon-Harness",
-            "description": "The long-horizon computer-use harness. Run AI agents across desktop apps and the CLI for extended periods while preserving task state and making reliable progress on complex workflows. Features fresh-context execution, durable verified state, independent auditing, recoverable progress, and native Claude Code / Codex / OpenClaw integration.",
-            "url": "https://github.com/AMAP-ML/LongHorizon-Harness",
-            "stars": 300,
-            "forks": 34,
-            "score": 73
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "doc7",
-            "full_name": "magicrew/doc7",
-            "description": "Turn documents into AI-ready Markdown with visual understanding",
-            "url": "https://github.com/magicrew/doc7",
-            "stars": 460,
-            "forks": 9,
-            "score": 71
+            "score": 69
         },
         {
             "main_cat": "AI",
@@ -150,7 +150,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "perplexityai/numbat",
             "description": "Visibility into AI agent activity on endpoints, with on-device detection, optional pre-action blocking, and forensic reconstruction.",
             "url": "https://github.com/perplexityai/numbat",
-            "stars": 717,
+            "stars": 719,
             "forks": 69,
             "score": 61
         },
@@ -161,7 +161,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "kropdx/reflection-engine",
             "description": "A downloadable prompt that turns your AI assistant's memory of you into a candid, evidence-grounded portrait.",
             "url": "https://github.com/kropdx/reflection-engine",
-            "stars": 203,
+            "stars": 207,
             "forks": 7,
             "score": 53
         },
@@ -172,8 +172,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "LYiHub/pub-local-jarvis",
             "description": "Windows \u672c\u5730\u591a\u6a21\u6001 AI \u684c\u9762\u684c\u5ba0\uff0c\u652f\u6301\u5c4f\u5e55\u4e0e\u97f3\u9891\u611f\u77e5\u3002",
             "url": "https://github.com/LYiHub/pub-local-jarvis",
-            "stars": 390,
-            "forks": 85,
+            "stars": 391,
+            "forks": 86,
             "score": 52
         },
         {
@@ -183,7 +183,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "alikon-art/DeterminFlow",
             "description": "A production-oriented AI workflow runtime for building, validating, recovering, and shipping complex AI workflows as dependable services. \u9762\u5411\u751f\u4ea7\u7684 AI \u5de5\u4f5c\u6d41\u8fd0\u884c\u65f6\uff1a\u5feb\u901f\u5f00\u53d1\u3001\u9a8c\u8bc1\u548c\u6062\u590d\u590d\u6742 AI \u5de5\u4f5c\u6d41\uff0c\u5e76\u5c06\u5176\u7a33\u5b9a\u4ea4\u4ed8\u4e3a\u670d\u52a1\u3002",
             "url": "https://github.com/alikon-art/DeterminFlow",
-            "stars": 202,
+            "stars": 203,
             "forks": 27,
             "score": 52
         },
@@ -194,7 +194,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "aws/context-ontology-accelerator",
             "description": "An open-source, ontology-based semantic context accelerator that enables AI agents to make more accurate, consistent, and explainable decisions.",
             "url": "https://github.com/aws/context-ontology-accelerator",
-            "stars": 342,
+            "stars": 345,
             "forks": 28,
             "score": 50
         },
@@ -205,9 +205,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "Pinvou/pinvou-agent",
             "description": "Open-source desktop AI agent for tools, files, knowledge, workflows, and real deliverables.",
             "url": "https://github.com/Pinvou/pinvou-agent",
-            "stars": 397,
-            "forks": 51,
-            "score": 48
+            "stars": 405,
+            "forks": 53,
+            "score": 49
         },
         {
             "main_cat": "AI",
@@ -216,8 +216,19 @@ const ALPHA_DATA_V2 = {
             "full_name": "uczltw6/trace-file-lineage",
             "description": "Find which script, notebook, data, command, or AI agent produced a file \u2014 locally, with evidence and honest uncertainty.",
             "url": "https://github.com/uczltw6/trace-file-lineage",
-            "stars": 289,
+            "stars": 300,
             "forks": 4,
+            "score": 45
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "human-review",
+            "full_name": "petergyang/human-review",
+            "description": "A visual tool to edit HTML and Markdown files, leave comments like a Google Doc, and send feedback to your AI agent. Works inside your favorite AI harness.",
+            "url": "https://github.com/petergyang/human-review",
+            "stars": 299,
+            "forks": 19,
             "score": 45
         },
         {
@@ -227,19 +238,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "qaml-ai/camelAI",
             "description": "camelAI \u2014 an AI coding assistant platform built on Cloudflare Workers and Durable Objects",
             "url": "https://github.com/qaml-ai/camelAI",
-            "stars": 337,
+            "stars": 336,
             "forks": 27,
-            "score": 44
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "human-review",
-            "full_name": "petergyang/human-review",
-            "description": "A visual tool to edit HTML and Markdown files, leave comments like a Google Doc, and send feedback to your AI agent. Works inside your favorite AI harness.",
-            "url": "https://github.com/petergyang/human-review",
-            "stars": 270,
-            "forks": 18,
             "score": 44
         },
         {
@@ -249,7 +249,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Autumn-27/ARTEX",
             "description": "AI \u81ea\u4e3b\u6e17\u900f\u6d4b\u8bd5\u7cfb\u7edf",
             "url": "https://github.com/Autumn-27/ARTEX",
-            "stars": 218,
+            "stars": 221,
             "forks": 27,
             "score": 41
         },
@@ -260,7 +260,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "grafana/ai-sdk",
             "description": "Grafana AI SDK for Go \u2014 streaming, tool-calling AI backends that speak fluent @ai-sdk/react",
             "url": "https://github.com/grafana/ai-sdk",
-            "stars": 211,
+            "stars": 212,
             "forks": 7,
             "score": 40
         },
@@ -273,7 +273,7 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/michellzappa/headroom",
             "stars": 213,
             "forks": 15,
-            "score": 39
+            "score": 38
         },
         {
             "main_cat": "AI",
@@ -311,17 +311,6 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
-            "name": "micro-vllm",
-            "full_name": "nopnoping/micro-vllm",
-            "description": "A small, educational vLLM implementation for exploring LLM inference, scheduling, KV-cache management, and GPU execution.",
-            "url": "https://github.com/nopnoping/micro-vllm",
-            "stars": 111,
-            "forks": 5,
-            "score": 35
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
             "name": "smol-kimi-k3",
             "full_name": "cneuralnetwork/smol-kimi-k3",
             "description": "A 49M-parameter Kimi K3-inspired language model trainable on one 8GB GPU",
@@ -329,6 +318,17 @@ const ALPHA_DATA_V2 = {
             "stars": 85,
             "forks": 10,
             "score": 35
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "micro-vllm",
+            "full_name": "nopnoping/micro-vllm",
+            "description": "A small, educational vLLM implementation for exploring LLM inference, scheduling, KV-cache management, and GPU execution.",
+            "url": "https://github.com/nopnoping/micro-vllm",
+            "stars": 111,
+            "forks": 5,
+            "score": 34
         },
         {
             "main_cat": "AI",
@@ -370,7 +370,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Sisyphbaous-DT-Project/qingyi-kda",
             "description": "QINGYI-KDA-0.6B: first successful Qwen3-to-KDA linearization (3:1 hybrid, GQA+RoPE kept layers) + persona alignment. Smallest trained KDA model, converted end-to-end on a consumer 8GB GPU.",
             "url": "https://github.com/Sisyphbaous-DT-Project/qingyi-kda",
-            "stars": 8,
+            "stars": 16,
             "forks": 1,
             "score": 30
         },
@@ -714,6 +714,17 @@ const ALPHA_DATA_V2 = {
             "stars": 0,
             "forks": 0,
             "score": 30
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "tristero",
+            "full_name": "api-evangelist/tristero",
+            "description": "Tristero is a trustless, cross-chain trading protocol backed by General Catalyst. On-chain traders use its API and Python/TypeScript SDKs to access deep liquidity across DEXs and CEXs for spot swaps of ERC-20 tokens across EVM chains (via Permit2 / EIP-712 signed orders), leveraged margin positions up to 10x, and cross-VM swaps into non-EVM assets\u2026",
+            "url": "https://github.com/api-evangelist/tristero",
+            "stars": 0,
+            "forks": 0,
+            "score": 30
         }
     ],
     "news": [
@@ -739,5 +750,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-08-06 08:22"
+    "timestamp": "2026-08-06 11:14"
 };
