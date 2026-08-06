@@ -7,7 +7,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "QwenAudio/qwen-audio-agent",
             "description": "A realtime voice runtime that keeps Agents talking, working, and present.  Real-time Voice Runtime for AI Agents",
             "url": "https://github.com/QwenAudio/qwen-audio-agent",
-            "stars": 1950,
+            "stars": 1953,
             "forks": 141,
             "score": 99
         },
@@ -18,8 +18,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "KKKKhazix/human-writing",
             "description": "\u8ba9 AI \u5199\u7684\u4e2d\u6587\u8bfb\u8d77\u6765\u50cf\u4e00\u4e2a\u5177\u4f53\u7684\u4eba\u5728\u8bf4\u8bdd\u3002\u901a\u7528\u521b\u4f5c\u4e0e\u6539\u7a3f Skill\uff0c\u5f00\u7bb1\u5373\u7528\u3002",
             "url": "https://github.com/KKKKhazix/human-writing",
-            "stars": 1422,
-            "forks": 123,
+            "stars": 1462,
+            "forks": 125,
             "score": 99
         },
         {
@@ -29,8 +29,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "Binaryify/open-kimi-ppt-skill",
             "description": "\u975e\u5b98\u65b9 Kimi Slides Skill\uff1a\u8ba9 AI Agent \u751f\u6210\u53ef\u7f16\u8f91 PPTD + PPTX\uff0c\u5e76\u9644\u5e26\u672c\u5730\u6d4f\u89c8\u5668\u7f16\u8f91\u5668 Unofficial Kimi Slides skill for AI agents \u2014 generate editable PPTD + PPTX with a local browser editor",
             "url": "https://github.com/Binaryify/open-kimi-ppt-skill",
-            "stars": 1035,
-            "forks": 291,
+            "stars": 1112,
+            "forks": 314,
             "score": 99
         },
         {
@@ -40,9 +40,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "criptogus/HermesOffice",
             "description": "HermesOffice \u2014 AI-native office suite forked from GenOffice (Apache-2.0), with native Hermes Agent AI",
             "url": "https://github.com/criptogus/HermesOffice",
-            "stars": 370,
+            "stars": 373,
             "forks": 45,
-            "score": 98
+            "score": 99
         },
         {
             "main_cat": "AI",
@@ -51,20 +51,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "0xwilliamortiz/humanizer-cli",
             "description": "33 ways to spot AI-written text, right in your terminal. Before/after examples, draft checker, zero dependencies.",
             "url": "https://github.com/0xwilliamortiz/humanizer-cli",
-            "stars": 578,
+            "stars": 580,
             "forks": 72,
-            "score": 91
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "awesome-free-ai-course-notes",
-            "full_name": "MarcosSete/awesome-free-ai-course-notes",
-            "description": "A curated collection of machine learning and AI lecture notes from the world's leading universities.  This repository gives you access to the same lecture notes used by students at top institutions such as MIT, helping you learn from the very best educational resources available.",
-            "url": "https://github.com/MarcosSete/awesome-free-ai-course-notes",
-            "stars": 476,
-            "forks": 33,
-            "score": 90
+            "score": 92
         },
         {
             "main_cat": "AI",
@@ -73,8 +62,19 @@ const ALPHA_DATA_V2 = {
             "full_name": "fuxicodex/Fuxi",
             "description": "FuXi is a fast, self-contained AI developer terminal",
             "url": "https://github.com/fuxicodex/Fuxi",
-            "stars": 393,
-            "forks": 31,
+            "stars": 407,
+            "forks": 32,
+            "score": 83
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "awesome-free-ai-course-notes",
+            "full_name": "MarcosSete/awesome-free-ai-course-notes",
+            "description": "A curated collection of machine learning and AI lecture notes from the world's leading universities.  This repository gives you access to the same lecture notes used by students at top institutions such as MIT, helping you learn from the very best educational resources available.",
+            "url": "https://github.com/MarcosSete/awesome-free-ai-course-notes",
+            "stars": 480,
+            "forks": 34,
             "score": 81
         },
         {
@@ -95,7 +95,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "0xwilliamortiz/ponytail-improved",
             "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
             "url": "https://github.com/0xwilliamortiz/ponytail-improved",
-            "stars": 591,
+            "stars": 593,
             "forks": 129,
             "score": 80
         },
@@ -106,7 +106,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "AMAP-ML/LongHorizon-Harness",
             "description": "The long-horizon computer-use harness. Run AI agents across desktop apps and the CLI for extended periods while preserving task state and making reliable progress on complex workflows. Features fresh-context execution, durable verified state, independent auditing, recoverable progress, and native Claude Code / Codex / OpenClaw integration.",
             "url": "https://github.com/AMAP-ML/LongHorizon-Harness",
-            "stars": 311,
+            "stars": 318,
             "forks": 35,
             "score": 75
         },
@@ -117,8 +117,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "magicrew/doc7",
             "description": "Turn documents into AI-ready Markdown with visual understanding",
             "url": "https://github.com/magicrew/doc7",
-            "stars": 461,
-            "forks": 9,
+            "stars": 463,
+            "forks": 10,
             "score": 71
         },
         {
@@ -150,20 +150,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "perplexityai/numbat",
             "description": "Visibility into AI agent activity on endpoints, with on-device detection, optional pre-action blocking, and forensic reconstruction.",
             "url": "https://github.com/perplexityai/numbat",
-            "stars": 719,
-            "forks": 69,
+            "stars": 720,
+            "forks": 70,
             "score": 61
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "reflection-engine",
-            "full_name": "kropdx/reflection-engine",
-            "description": "A downloadable prompt that turns your AI assistant's memory of you into a candid, evidence-grounded portrait.",
-            "url": "https://github.com/kropdx/reflection-engine",
-            "stars": 207,
-            "forks": 7,
-            "score": 53
         },
         {
             "main_cat": "AI",
@@ -172,9 +161,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "LYiHub/pub-local-jarvis",
             "description": "Windows \u672c\u5730\u591a\u6a21\u6001 AI \u684c\u9762\u684c\u5ba0\uff0c\u652f\u6301\u5c4f\u5e55\u4e0e\u97f3\u9891\u611f\u77e5\u3002",
             "url": "https://github.com/LYiHub/pub-local-jarvis",
-            "stars": 391,
+            "stars": 392,
             "forks": 86,
-            "score": 52
+            "score": 53
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "reflection-engine",
+            "full_name": "kropdx/reflection-engine",
+            "description": "A downloadable prompt that turns your AI assistant's memory of you into a candid, evidence-grounded portrait.",
+            "url": "https://github.com/kropdx/reflection-engine",
+            "stars": 210,
+            "forks": 7,
+            "score": 53
         },
         {
             "main_cat": "AI",
@@ -194,9 +194,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "aws/context-ontology-accelerator",
             "description": "An open-source, ontology-based semantic context accelerator that enables AI agents to make more accurate, consistent, and explainable decisions.",
             "url": "https://github.com/aws/context-ontology-accelerator",
-            "stars": 345,
-            "forks": 28,
-            "score": 50
+            "stars": 350,
+            "forks": 30,
+            "score": 51
         },
         {
             "main_cat": "AI",
@@ -205,20 +205,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "Pinvou/pinvou-agent",
             "description": "Open-source desktop AI agent for tools, files, knowledge, workflows, and real deliverables.",
             "url": "https://github.com/Pinvou/pinvou-agent",
-            "stars": 405,
+            "stars": 413,
             "forks": 53,
             "score": 49
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "trace-file-lineage",
-            "full_name": "uczltw6/trace-file-lineage",
-            "description": "Find which script, notebook, data, command, or AI agent produced a file \u2014 locally, with evidence and honest uncertainty.",
-            "url": "https://github.com/uczltw6/trace-file-lineage",
-            "stars": 300,
-            "forks": 4,
-            "score": 45
         },
         {
             "main_cat": "AI",
@@ -227,8 +216,19 @@ const ALPHA_DATA_V2 = {
             "full_name": "petergyang/human-review",
             "description": "A visual tool to edit HTML and Markdown files, leave comments like a Google Doc, and send feedback to your AI agent. Works inside your favorite AI harness.",
             "url": "https://github.com/petergyang/human-review",
-            "stars": 299,
-            "forks": 19,
+            "stars": 342,
+            "forks": 23,
+            "score": 48
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "trace-file-lineage",
+            "full_name": "uczltw6/trace-file-lineage",
+            "description": "Find which script, notebook, data, command, or AI agent produced a file \u2014 locally, with evidence and honest uncertainty.",
+            "url": "https://github.com/uczltw6/trace-file-lineage",
+            "stars": 301,
+            "forks": 4,
             "score": 45
         },
         {
@@ -238,8 +238,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "qaml-ai/camelAI",
             "description": "camelAI \u2014 an AI coding assistant platform built on Cloudflare Workers and Durable Objects",
             "url": "https://github.com/qaml-ai/camelAI",
-            "stars": 336,
-            "forks": 27,
+            "stars": 337,
+            "forks": 28,
             "score": 44
         },
         {
@@ -249,8 +249,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "Autumn-27/ARTEX",
             "description": "AI \u81ea\u4e3b\u6e17\u900f\u6d4b\u8bd5\u7cfb\u7edf",
             "url": "https://github.com/Autumn-27/ARTEX",
-            "stars": 221,
-            "forks": 27,
+            "stars": 222,
+            "forks": 28,
             "score": 41
         },
         {
@@ -359,7 +359,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "fypklanfanqie/local-llm-with-character-setting-Arknights",
             "description": "\u4e00\u6b3e\u8fd0\u884c\u5728\u5b89\u5353\u8bbe\u5907\u4e0a\u7684 LLM \u5bf9\u8bdd\u52a9\u624b\u5e94\u7528\u3002\u4f60\u53ef\u4ee5\u81ea\u884c\u4e0b\u8f7d\u5e76\u7ba1\u7406\u6a21\u578b\uff0c\u81ea\u7531\u5b9a\u5236\u89d2\u8272\u4eba\u8bbe\uff0c\u5e76\u968f\u65f6\u5728\u672c\u5730\u63a8\u7406\uff08\u90e8\u5206\u673a\u578b\u652f\u6301 GPU/NPU \u52a0\u901f\uff09\u4e0e\u4e91\u7aef\u6a21\u578b\u4e4b\u95f4\u5207\u6362\u3002\u540c\u65f6\u5185\u7f6e TTS \u8bed\u97f3\u5408\u6210\u529f\u80fd\uff0c\u8ba9\u5bf9\u8bdd\u66f4\u52a0\u9c9c\u6d3b\u3002 An Android LLM chat assistant that lets you download and manage your own models. Customize character personas, and switch seamlessly between on-device inference (with GPU/NPU acceleration on supported devices) and cloud-based models. Built-in ",
             "url": "https://github.com/fypklanfanqie/local-llm-with-character-setting-Arknights",
-            "stars": 57,
+            "stars": 58,
             "forks": 0,
             "score": 31
         },
@@ -436,6 +436,17 @@ const ALPHA_DATA_V2 = {
             "full_name": "stellar-bet/stellar-bet-contracts",
             "description": "Soroban smart contracts for StellarBet \u2014 a decentralized sports prediction market on Stellar. Includes BettingPool, OddsOracle, HouseEscrow, and BET token contracts. Written in Rust/WASM. Part of the Stellar Wave Program.",
             "url": "https://github.com/stellar-bet/stellar-bet-contracts",
+            "stars": 0,
+            "forks": 0,
+            "score": 30
+        },
+        {
+            "main_cat": "Stablecoin Infrastructure",
+            "sub_cat": null,
+            "name": "solana-payment-ops",
+            "full_name": "GautamBytes/solana-payment-ops",
+            "description": "Open Solana stablecoin payment verification and reconciliation infrastructure",
+            "url": "https://github.com/GautamBytes/solana-payment-ops",
             "stars": 0,
             "forks": 0,
             "score": 30
@@ -597,17 +608,6 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
-            "name": "celo",
-            "full_name": "api-evangelist/celo",
-            "description": "Celo is a leading Ethereum Layer 2 (L2) blockchain built for real-world usage, mobile-first payments, and stablecoins, run by cLabs and the Celo Foundation. It offers a fully EVM- and Ethereum-JSON-RPC-compatible network reachable through the public Forno RPC endpoints, gas-fee abstraction that lets users pay fees in stablecoins, and a developer\u2026",
-            "url": "https://github.com/api-evangelist/celo",
-            "stars": 0,
-            "forks": 0,
-            "score": 30
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
             "name": "ai-debate",
             "full_name": "yout0703/ai-debate",
             "description": "Multi-model debate protocol on Cloudflare Workers / Durable Objects \u2014 research, cross-exam, vote, majority consensus",
@@ -750,5 +750,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-08-06 11:14"
+    "timestamp": "2026-08-06 13:49"
 };
