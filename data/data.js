@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "trycompai/crm",
             "description": "Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.",
             "url": "https://github.com/trycompai/crm",
-            "stars": 7297,
-            "forks": 771,
+            "stars": 7320,
+            "forks": 778,
             "score": 99
         },
         {
@@ -18,7 +18,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "QwenAudio/qwen-audio-agent",
             "description": "A realtime voice runtime that keeps Agents talking, working, and present.  Real-time Voice Runtime for AI Agents",
             "url": "https://github.com/QwenAudio/qwen-audio-agent",
-            "stars": 1969,
+            "stars": 1973,
             "forks": 142,
             "score": 99
         },
@@ -29,8 +29,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "KKKKhazix/human-writing",
             "description": "\u8ba9 AI \u5199\u7684\u4e2d\u6587\u8bfb\u8d77\u6765\u50cf\u4e00\u4e2a\u5177\u4f53\u7684\u4eba\u5728\u8bf4\u8bdd\u3002\u901a\u7528\u521b\u4f5c\u4e0e\u6539\u7a3f Skill\uff0c\u5f00\u7bb1\u5373\u7528\u3002",
             "url": "https://github.com/KKKKhazix/human-writing",
-            "stars": 1725,
-            "forks": 154,
+            "stars": 1764,
+            "forks": 158,
             "score": 99
         },
         {
@@ -40,8 +40,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "Binaryify/open-kimi-ppt-skill",
             "description": "\u975e\u5b98\u65b9 Kimi Slides Skill\uff1a\u8ba9 AI Agent \u751f\u6210\u53ef\u7f16\u8f91 PPTD + PPTX\uff0c\u5e76\u9644\u5e26\u672c\u5730\u6d4f\u89c8\u5668\u7f16\u8f91\u5668 Unofficial Kimi Slides skill for AI agents \u2014 generate editable PPTD + PPTX with a local browser editor",
             "url": "https://github.com/Binaryify/open-kimi-ppt-skill",
-            "stars": 1564,
-            "forks": 391,
+            "stars": 1580,
+            "forks": 422,
             "score": 99
         },
         {
@@ -51,20 +51,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "criptogus/HermesOffice",
             "description": "HermesOffice \u2014 AI-native office suite forked from GenOffice (Apache-2.0), with native Hermes Agent AI",
             "url": "https://github.com/criptogus/HermesOffice",
-            "stars": 400,
+            "stars": 403,
             "forks": 48,
             "score": 89
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "Fuxi",
-            "full_name": "fuxicodex/Fuxi",
-            "description": "FuXi is a fast, self-contained AI developer terminal",
-            "url": "https://github.com/fuxicodex/Fuxi",
-            "stars": 427,
-            "forks": 37,
-            "score": 87
         },
         {
             "main_cat": "AI",
@@ -73,7 +62,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "MarcosSete/awesome-free-ai-course-notes",
             "description": "A curated collection of machine learning and AI lecture notes from the world's leading universities.  This repository gives you access to the same lecture notes used by students at top institutions such as MIT, helping you learn from the very best educational resources available.",
             "url": "https://github.com/MarcosSete/awesome-free-ai-course-notes",
-            "stars": 508,
+            "stars": 512,
             "forks": 39,
             "score": 85
         },
@@ -90,14 +79,25 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
+            "sub_cat": null,
+            "name": "Fuxi",
+            "full_name": "fuxicodex/Fuxi",
+            "description": "FuXi is a fast, self-contained AI developer terminal",
+            "url": "https://github.com/fuxicodex/Fuxi",
+            "stars": 427,
+            "forks": 38,
+            "score": 78
+        },
+        {
+            "main_cat": "AI",
             "sub_cat": "AI Agents",
             "name": "OptMem",
             "full_name": "VictorTaelin/OptMem",
             "description": "Permanent memory for AI agents. A 426-token prompt, a script, plug and play.",
             "url": "https://github.com/VictorTaelin/OptMem",
-            "stars": 1129,
+            "stars": 1130,
             "forks": 70,
-            "score": 76
+            "score": 77
         },
         {
             "main_cat": "AI",
@@ -117,7 +117,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "magicrew/doc7",
             "description": "Turn documents into AI-ready Markdown with visual understanding",
             "url": "https://github.com/magicrew/doc7",
-            "stars": 565,
+            "stars": 566,
             "forks": 11,
             "score": 73
         },
@@ -128,9 +128,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "AMAP-ML/LongHorizon-Harness",
             "description": "The long-horizon computer-use harness. Run AI agents across desktop apps and the CLI for extended periods while preserving task state and making reliable progress on complex workflows. Features fresh-context execution, durable verified state, independent auditing, recoverable progress, and native Claude Code / Codex / OpenClaw integration.",
             "url": "https://github.com/AMAP-ML/LongHorizon-Harness",
-            "stars": 359,
+            "stars": 364,
             "forks": 39,
-            "score": 72
+            "score": 73
         },
         {
             "main_cat": "AI",
@@ -139,7 +139,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "joeseesun/qiaomu-seo",
             "description": "Audit, diagnose, research, plan, implement, experiment on, and verify website SEO across Google, Bing, and AI-search surfaces. Use for technical SEO, ",
             "url": "https://github.com/joeseesun/qiaomu-seo",
-            "stars": 316,
+            "stars": 318,
             "forks": 41,
             "score": 70
         },
@@ -150,19 +150,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "petergyang/human-review",
             "description": "A visual tool to edit HTML and Markdown files, leave comments like a Google Doc, and send feedback to your AI agent. Works inside your favorite AI harness.",
             "url": "https://github.com/petergyang/human-review",
-            "stars": 511,
+            "stars": 522,
             "forks": 35,
-            "score": 55
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "DeterminFlow",
-            "full_name": "alikon-art/DeterminFlow",
-            "description": "A production-oriented AI workflow runtime for building, validating, recovering, and shipping complex AI workflows as dependable services. \u9762\u5411\u751f\u4ea7\u7684 AI \u5de5\u4f5c\u6d41\u8fd0\u884c\u65f6\uff1a\u5feb\u901f\u5f00\u53d1\u3001\u9a8c\u8bc1\u548c\u6062\u590d\u590d\u6742 AI \u5de5\u4f5c\u6d41\uff0c\u5e76\u5c06\u5176\u7a33\u5b9a\u4ea4\u4ed8\u4e3a\u670d\u52a1\u3002",
-            "url": "https://github.com/alikon-art/DeterminFlow",
-            "stars": 226,
-            "forks": 34,
             "score": 55
         },
         {
@@ -172,9 +161,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "lincwang123-bot/moonlit-stories",
             "description": "Reusable AI English picture-book workflow with consistent illustrations and local Chatterbox TTS.",
             "url": "https://github.com/lincwang123-bot/moonlit-stories",
-            "stars": 142,
+            "stars": 143,
             "forks": 26,
             "score": 54
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "DeterminFlow",
+            "full_name": "alikon-art/DeterminFlow",
+            "description": "A production-oriented AI workflow runtime for building, validating, recovering, and shipping complex AI workflows as dependable services. \u9762\u5411\u751f\u4ea7\u7684 AI \u5de5\u4f5c\u6d41\u8fd0\u884c\u65f6\uff1a\u5feb\u901f\u5f00\u53d1\u3001\u9a8c\u8bc1\u548c\u6062\u590d\u590d\u6742 AI \u5de5\u4f5c\u6d41\uff0c\u5e76\u5c06\u5176\u7a33\u5b9a\u4ea4\u4ed8\u4e3a\u670d\u52a1\u3002",
+            "url": "https://github.com/alikon-art/DeterminFlow",
+            "stars": 232,
+            "forks": 34,
+            "score": 53
         },
         {
             "main_cat": "AI",
@@ -183,7 +183,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "aws/context-ontology-accelerator",
             "description": "An open-source, ontology-based semantic context accelerator that enables AI agents to make more accurate, consistent, and explainable decisions.",
             "url": "https://github.com/aws/context-ontology-accelerator",
-            "stars": 391,
+            "stars": 394,
             "forks": 33,
             "score": 51
         },
@@ -194,7 +194,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "kropdx/reflection-engine",
             "description": "A downloadable prompt that turns your AI assistant's memory of you into a candid, evidence-grounded portrait.",
             "url": "https://github.com/kropdx/reflection-engine",
-            "stars": 218,
+            "stars": 219,
             "forks": 8,
             "score": 50
         },
@@ -205,7 +205,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "uczltw6/trace-file-lineage",
             "description": "Find which script, notebook, data, command, or AI agent produced a file \u2014 locally, with evidence and honest uncertainty.",
             "url": "https://github.com/uczltw6/trace-file-lineage",
-            "stars": 319,
+            "stars": 326,
             "forks": 4,
             "score": 45
         },
@@ -227,9 +227,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "Autumn-27/ARTEX",
             "description": "AI \u81ea\u4e3b\u6e17\u900f\u6d4b\u8bd5\u7cfb\u7edf",
             "url": "https://github.com/Autumn-27/ARTEX",
-            "stars": 239,
+            "stars": 240,
             "forks": 32,
-            "score": 43
+            "score": 42
         },
         {
             "main_cat": "AI",
@@ -238,9 +238,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "mrpulor-gh/nuphus-mcp",
             "description": "Desktop automation MCP server \u2014 computer use for any AI agent: control screen, windows, mouse/keyboard, and Chrome via Model Context Protocol (stdio)",
             "url": "https://github.com/mrpulor-gh/nuphus-mcp",
-            "stars": 154,
+            "stars": 156,
             "forks": 17,
-            "score": 43
+            "score": 42
         },
         {
             "main_cat": "AI",
@@ -304,7 +304,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "cofy-x/axern",
             "description": "Open-source sandboxes for AI agents, untrusted code execution, and durable services.",
             "url": "https://github.com/cofy-x/axern",
-            "stars": 146,
+            "stars": 149,
             "forks": 4,
             "score": 36
         },
@@ -783,5 +783,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-08-07 07:03"
+    "timestamp": "2026-08-07 08:50"
 };
