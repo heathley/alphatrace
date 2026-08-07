@@ -3,11 +3,22 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
+            "name": "crm",
+            "full_name": "trycompai/crm",
+            "description": "Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.",
+            "url": "https://github.com/trycompai/crm",
+            "stars": 7190,
+            "forks": 745,
+            "score": 99
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
             "name": "qwen-audio-agent",
             "full_name": "QwenAudio/qwen-audio-agent",
             "description": "A realtime voice runtime that keeps Agents talking, working, and present.  Real-time Voice Runtime for AI Agents",
             "url": "https://github.com/QwenAudio/qwen-audio-agent",
-            "stars": 1953,
+            "stars": 1960,
             "forks": 141,
             "score": 99
         },
@@ -18,8 +29,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "KKKKhazix/human-writing",
             "description": "\u8ba9 AI \u5199\u7684\u4e2d\u6587\u8bfb\u8d77\u6765\u50cf\u4e00\u4e2a\u5177\u4f53\u7684\u4eba\u5728\u8bf4\u8bdd\u3002\u901a\u7528\u521b\u4f5c\u4e0e\u6539\u7a3f Skill\uff0c\u5f00\u7bb1\u5373\u7528\u3002",
             "url": "https://github.com/KKKKhazix/human-writing",
-            "stars": 1462,
-            "forks": 125,
+            "stars": 1564,
+            "forks": 138,
             "score": 99
         },
         {
@@ -29,8 +40,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "Binaryify/open-kimi-ppt-skill",
             "description": "\u975e\u5b98\u65b9 Kimi Slides Skill\uff1a\u8ba9 AI Agent \u751f\u6210\u53ef\u7f16\u8f91 PPTD + PPTX\uff0c\u5e76\u9644\u5e26\u672c\u5730\u6d4f\u89c8\u5668\u7f16\u8f91\u5668 Unofficial Kimi Slides skill for AI agents \u2014 generate editable PPTD + PPTX with a local browser editor",
             "url": "https://github.com/Binaryify/open-kimi-ppt-skill",
-            "stars": 1112,
-            "forks": 314,
+            "stars": 1323,
+            "forks": 350,
             "score": 99
         },
         {
@@ -40,20 +51,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "criptogus/HermesOffice",
             "description": "HermesOffice \u2014 AI-native office suite forked from GenOffice (Apache-2.0), with native Hermes Agent AI",
             "url": "https://github.com/criptogus/HermesOffice",
-            "stars": 373,
-            "forks": 45,
-            "score": 99
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "humanizer-cli",
-            "full_name": "0xwilliamortiz/humanizer-cli",
-            "description": "33 ways to spot AI-written text, right in your terminal. Before/after examples, draft checker, zero dependencies.",
-            "url": "https://github.com/0xwilliamortiz/humanizer-cli",
-            "stars": 580,
-            "forks": 72,
-            "score": 92
+            "stars": 389,
+            "forks": 47,
+            "score": 87
         },
         {
             "main_cat": "AI",
@@ -62,9 +62,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "fuxicodex/Fuxi",
             "description": "FuXi is a fast, self-contained AI developer terminal",
             "url": "https://github.com/fuxicodex/Fuxi",
-            "stars": 407,
-            "forks": 32,
-            "score": 83
+            "stars": 427,
+            "forks": 35,
+            "score": 86
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "humanizer-cli",
+            "full_name": "0xwilliamortiz/humanizer-cli",
+            "description": "33 ways to spot AI-written text, right in your terminal. Before/after examples, draft checker, zero dependencies.",
+            "url": "https://github.com/0xwilliamortiz/humanizer-cli",
+            "stars": 582,
+            "forks": 72,
+            "score": 84
         },
         {
             "main_cat": "AI",
@@ -73,31 +84,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "MarcosSete/awesome-free-ai-course-notes",
             "description": "A curated collection of machine learning and AI lecture notes from the world's leading universities.  This repository gives you access to the same lecture notes used by students at top institutions such as MIT, helping you learn from the very best educational resources available.",
             "url": "https://github.com/MarcosSete/awesome-free-ai-course-notes",
-            "stars": 480,
-            "forks": 34,
-            "score": 81
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI Agents",
-            "name": "OptMem",
-            "full_name": "VictorTaelin/OptMem",
-            "description": "Permanent memory for AI agents. A 426-token prompt, a script, plug and play.",
-            "url": "https://github.com/VictorTaelin/OptMem",
-            "stars": 1127,
-            "forks": 69,
-            "score": 80
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "ponytail-improved",
-            "full_name": "0xwilliamortiz/ponytail-improved",
-            "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-            "url": "https://github.com/0xwilliamortiz/ponytail-improved",
-            "stars": 593,
-            "forks": 129,
-            "score": 80
+            "stars": 498,
+            "forks": 38,
+            "score": 84
         },
         {
             "main_cat": "AI",
@@ -106,20 +95,31 @@ const ALPHA_DATA_V2 = {
             "full_name": "AMAP-ML/LongHorizon-Harness",
             "description": "The long-horizon computer-use harness. Run AI agents across desktop apps and the CLI for extended periods while preserving task state and making reliable progress on complex workflows. Features fresh-context execution, durable verified state, independent auditing, recoverable progress, and native Claude Code / Codex / OpenClaw integration.",
             "url": "https://github.com/AMAP-ML/LongHorizon-Harness",
-            "stars": 318,
-            "forks": 35,
-            "score": 75
+            "stars": 333,
+            "forks": 39,
+            "score": 78
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI Agents",
+            "name": "OptMem",
+            "full_name": "VictorTaelin/OptMem",
+            "description": "Permanent memory for AI agents. A 426-token prompt, a script, plug and play.",
+            "url": "https://github.com/VictorTaelin/OptMem",
+            "stars": 1129,
+            "forks": 70,
+            "score": 76
         },
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "doc7",
-            "full_name": "magicrew/doc7",
-            "description": "Turn documents into AI-ready Markdown with visual understanding",
-            "url": "https://github.com/magicrew/doc7",
-            "stars": 463,
-            "forks": 10,
-            "score": 71
+            "name": "ponytail-improved",
+            "full_name": "0xwilliamortiz/ponytail-improved",
+            "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+            "url": "https://github.com/0xwilliamortiz/ponytail-improved",
+            "stars": 596,
+            "forks": 129,
+            "score": 76
         },
         {
             "main_cat": "AI",
@@ -135,46 +135,35 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "ai-copywriter",
-            "full_name": "mikiarlo3/ai-copywriter",
-            "description": "An AI copywriter that uses real copywriting skills + real marketing knowledge with human tone.",
-            "url": "https://github.com/mikiarlo3/ai-copywriter",
-            "stars": 958,
-            "forks": 26,
-            "score": 65
+            "name": "doc7",
+            "full_name": "magicrew/doc7",
+            "description": "Turn documents into AI-ready Markdown with visual understanding",
+            "url": "https://github.com/magicrew/doc7",
+            "stars": 501,
+            "forks": 10,
+            "score": 68
         },
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "numbat",
-            "full_name": "perplexityai/numbat",
-            "description": "Visibility into AI agent activity on endpoints, with on-device detection, optional pre-action blocking, and forensic reconstruction.",
-            "url": "https://github.com/perplexityai/numbat",
-            "stars": 720,
-            "forks": 70,
-            "score": 61
+            "name": "canivibecodeit",
+            "full_name": "canivibecodeit/canivibecodeit",
+            "description": "Find out which subscriptions are one prompt away from free. caniuse.com, but for replacing SaaS with one AI prompt.",
+            "url": "https://github.com/canivibecodeit/canivibecodeit",
+            "stars": 138,
+            "forks": 120,
+            "score": 58
         },
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "pub-local-jarvis",
-            "full_name": "LYiHub/pub-local-jarvis",
-            "description": "Windows \u672c\u5730\u591a\u6a21\u6001 AI \u684c\u9762\u684c\u5ba0\uff0c\u652f\u6301\u5c4f\u5e55\u4e0e\u97f3\u9891\u611f\u77e5\u3002",
-            "url": "https://github.com/LYiHub/pub-local-jarvis",
-            "stars": 392,
-            "forks": 86,
-            "score": 53
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "reflection-engine",
-            "full_name": "kropdx/reflection-engine",
-            "description": "A downloadable prompt that turns your AI assistant's memory of you into a candid, evidence-grounded portrait.",
-            "url": "https://github.com/kropdx/reflection-engine",
-            "stars": 210,
-            "forks": 7,
-            "score": 53
+            "name": "moonlit-stories",
+            "full_name": "lincwang123-bot/moonlit-stories",
+            "description": "Reusable AI English picture-book workflow with consistent illustrations and local Chatterbox TTS.",
+            "url": "https://github.com/lincwang123-bot/moonlit-stories",
+            "stars": 140,
+            "forks": 25,
+            "score": 54
         },
         {
             "main_cat": "AI",
@@ -183,8 +172,19 @@ const ALPHA_DATA_V2 = {
             "full_name": "alikon-art/DeterminFlow",
             "description": "A production-oriented AI workflow runtime for building, validating, recovering, and shipping complex AI workflows as dependable services. \u9762\u5411\u751f\u4ea7\u7684 AI \u5de5\u4f5c\u6d41\u8fd0\u884c\u65f6\uff1a\u5feb\u901f\u5f00\u53d1\u3001\u9a8c\u8bc1\u548c\u6062\u590d\u590d\u6742 AI \u5de5\u4f5c\u6d41\uff0c\u5e76\u5c06\u5176\u7a33\u5b9a\u4ea4\u4ed8\u4e3a\u670d\u52a1\u3002",
             "url": "https://github.com/alikon-art/DeterminFlow",
-            "stars": 203,
-            "forks": 27,
+            "stars": 209,
+            "forks": 29,
+            "score": 53
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "human-review",
+            "full_name": "petergyang/human-review",
+            "description": "A visual tool to edit HTML and Markdown files, leave comments like a Google Doc, and send feedback to your AI agent. Works inside your favorite AI harness.",
+            "url": "https://github.com/petergyang/human-review",
+            "stars": 461,
+            "forks": 30,
             "score": 52
         },
         {
@@ -194,31 +194,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "aws/context-ontology-accelerator",
             "description": "An open-source, ontology-based semantic context accelerator that enables AI agents to make more accurate, consistent, and explainable decisions.",
             "url": "https://github.com/aws/context-ontology-accelerator",
-            "stars": 350,
-            "forks": 30,
-            "score": 51
+            "stars": 368,
+            "forks": 31,
+            "score": 50
         },
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "pinvou-agent",
-            "full_name": "Pinvou/pinvou-agent",
-            "description": "Open-source desktop AI agent for tools, files, knowledge, workflows, and real deliverables.",
-            "url": "https://github.com/Pinvou/pinvou-agent",
-            "stars": 413,
-            "forks": 53,
-            "score": 49
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "human-review",
-            "full_name": "petergyang/human-review",
-            "description": "A visual tool to edit HTML and Markdown files, leave comments like a Google Doc, and send feedback to your AI agent. Works inside your favorite AI harness.",
-            "url": "https://github.com/petergyang/human-review",
-            "stars": 342,
-            "forks": 23,
-            "score": 48
+            "name": "reflection-engine",
+            "full_name": "kropdx/reflection-engine",
+            "description": "A downloadable prompt that turns your AI assistant's memory of you into a candid, evidence-grounded portrait.",
+            "url": "https://github.com/kropdx/reflection-engine",
+            "stars": 218,
+            "forks": 8,
+            "score": 50
         },
         {
             "main_cat": "AI",
@@ -227,20 +216,31 @@ const ALPHA_DATA_V2 = {
             "full_name": "uczltw6/trace-file-lineage",
             "description": "Find which script, notebook, data, command, or AI agent produced a file \u2014 locally, with evidence and honest uncertainty.",
             "url": "https://github.com/uczltw6/trace-file-lineage",
-            "stars": 301,
+            "stars": 302,
             "forks": 4,
-            "score": 45
+            "score": 44
         },
         {
             "main_cat": "AI",
-            "sub_cat": null,
-            "name": "camelAI",
-            "full_name": "qaml-ai/camelAI",
-            "description": "camelAI \u2014 an AI coding assistant platform built on Cloudflare Workers and Durable Objects",
-            "url": "https://github.com/qaml-ai/camelAI",
-            "stars": 337,
-            "forks": 28,
+            "sub_cat": "AI General",
+            "name": "vibe-astock",
+            "full_name": "simonlin1212/vibe-astock",
+            "description": "A \u80a1\u77ed\u7ebf\u590d\u76d8\u770b\u677f\uff1a\u6da8\u505c\u6c60\u00b7\u8fde\u677f\u68af\u961f\u00b7\u9f99\u864e\u699c\u00b7\u677f\u5757\u8d44\u91d1\u4e00\u5c4f\u770b\u5b8c\uff0c\u8d5a\u94b1\u6548\u5e94/\u664b\u7ea7\u7387/\u68af\u961f\u65ad\u5c42/\u60c5\u7eea\u5468\u671f\u7b49\u6d3e\u751f\u6307\u6807\u7eaf\u8ba1\u7b97\u76f4\u51fa\uff08\u4e0d\u7ecf\u8fc7 AI\uff09\uff0cAI \u53ea\u628a\u6570\u636e\u4e32\u6210\u80fd\u8bfb\u7684\u76d8\u9762\u7814\u5224\u3002\u5168\u672c\u5730\u8fd0\u884c\uff0c\u53ef\u7528 Claude/Codex \u8ba2\u9605\u514d API key\u3002| A-share short-term daily-review dashboard: derived sentiment metrics computed locally, AI only writes the narrative. No API key needed.",
+            "url": "https://github.com/simonlin1212/vibe-astock",
+            "stars": 152,
+            "forks": 40,
             "score": 44
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "nuphus-mcp",
+            "full_name": "mrpulor-gh/nuphus-mcp",
+            "description": "Desktop automation MCP server \u2014 computer use for any AI agent: control screen, windows, mouse/keyboard, and Chrome via Model Context Protocol (stdio)",
+            "url": "https://github.com/mrpulor-gh/nuphus-mcp",
+            "stars": 147,
+            "forks": 16,
+            "score": 43
         },
         {
             "main_cat": "AI",
@@ -249,9 +249,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "Autumn-27/ARTEX",
             "description": "AI \u81ea\u4e3b\u6e17\u900f\u6d4b\u8bd5\u7cfb\u7edf",
             "url": "https://github.com/Autumn-27/ARTEX",
-            "stars": 222,
-            "forks": 28,
-            "score": 41
+            "stars": 224,
+            "forks": 29,
+            "score": 42
         },
         {
             "main_cat": "AI",
@@ -267,22 +267,11 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "headroom",
-            "full_name": "michellzappa/headroom",
-            "description": "Local-first AI coding quotas and ship status, on your menu bar, iPhone, Watch and an ESP32 desk display.",
-            "url": "https://github.com/michellzappa/headroom",
-            "stars": 213,
-            "forks": 15,
-            "score": 38
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
             "name": "aimux",
             "full_name": "arcships/aimux",
             "description": "Unified LLM access layer in Rust \u2014 one API for 325 AI providers. \u7edf\u4e00 LLM \u670d\u52a1\u63a5\u5165\u5c42\uff1a\u4e00\u5957 API \u63a5\u5165 325 \u5bb6 AI \u670d\u52a1\u5546\u3002",
             "url": "https://github.com/arcships/aimux",
-            "stars": 175,
+            "stars": 176,
             "forks": 9,
             "score": 38
         },
@@ -295,29 +284,29 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/wallquailrespect/claude-ai-ultimate",
             "stars": 175,
             "forks": 0,
-            "score": 38
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "unicut",
-            "full_name": "mtsee/unicut",
-            "description": "AI-driven open-source video editing tool",
-            "url": "https://github.com/mtsee/unicut",
-            "stars": 177,
-            "forks": 13,
             "score": 37
         },
         {
             "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "smol-kimi-k3",
-            "full_name": "cneuralnetwork/smol-kimi-k3",
-            "description": "A 49M-parameter Kimi K3-inspired language model trainable on one 8GB GPU",
-            "url": "https://github.com/cneuralnetwork/smol-kimi-k3",
-            "stars": 85,
-            "forks": 10,
-            "score": 35
+            "sub_cat": null,
+            "name": "gemini-ai-turbo",
+            "full_name": "StitchLobster58/gemini-ai-turbo",
+            "description": "Gemini AI Turbo",
+            "url": "https://github.com/StitchLobster58/gemini-ai-turbo",
+            "stars": 152,
+            "forks": 0,
+            "score": 36
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "axern",
+            "full_name": "cofy-x/axern",
+            "description": "Open-source sandboxes for AI agents, untrusted code execution, and durable services.",
+            "url": "https://github.com/cofy-x/axern",
+            "stars": 139,
+            "forks": 4,
+            "score": 36
         },
         {
             "main_cat": "AI",
@@ -333,13 +322,13 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
-            "name": "ash4d-ai-deployment-hub",
-            "full_name": "hallbrandonidyt2176/ash4d-ai-deployment-hub",
-            "description": "ash4d.com is a self-hosted private AI platform for k3s Kubernetes, combining local Qwen3 inference, retrieval-augmented generation, agent tooling, and GPU-enabled services in a GitOps-managed environment.",
-            "url": "https://github.com/hallbrandonidyt2176/ash4d-ai-deployment-hub",
-            "stars": 30,
-            "forks": 0,
-            "score": 32
+            "name": "smol-kimi-k3",
+            "full_name": "cneuralnetwork/smol-kimi-k3",
+            "description": "A 49M-parameter Kimi K3-inspired language model trainable on one 8GB GPU",
+            "url": "https://github.com/cneuralnetwork/smol-kimi-k3",
+            "stars": 85,
+            "forks": 10,
+            "score": 34
         },
         {
             "main_cat": "AI",
@@ -348,7 +337,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "drowzeys/keys-SM121-Optimized-MiniMax-H3-Nvidia-Sol-Engine-Kijai-SolAttn_Triton-Single-DGX-Spark",
             "description": "MiniMax-H3 33B audio+video DiT accelerated 1.54x on a single NVIDIA DGX Spark (GB10, sm_121): NVIDIA Sol-Engine FirstBlockCache + batched VAE decode ported to single-GPU ComfyUI, Sol-Attn patched for compute 12.1, kijai Triton INT8/TMA kernels. Benchmarks, charts, one-shot installer, agent recipe.",
             "url": "https://github.com/drowzeys/keys-SM121-Optimized-MiniMax-H3-Nvidia-Sol-Engine-Kijai-SolAttn_Triton-Single-DGX-Spark",
-            "stars": 22,
+            "stars": 23,
             "forks": 0,
             "score": 32
         },
@@ -362,6 +351,28 @@ const ALPHA_DATA_V2 = {
             "stars": 58,
             "forks": 0,
             "score": 31
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "ash4d-ai-deployment-hub",
+            "full_name": "hallbrandonidyt2176/ash4d-ai-deployment-hub",
+            "description": "ash4d.com is a self-hosted private AI platform for k3s Kubernetes, combining local Qwen3 inference, retrieval-augmented generation, agent tooling, and GPU-enabled services in a GitOps-managed environment.",
+            "url": "https://github.com/hallbrandonidyt2176/ash4d-ai-deployment-hub",
+            "stars": 30,
+            "forks": 0,
+            "score": 31
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "LLM-Guided-Crawler-Secret-Hunter",
+            "full_name": "SSDEVIL108/LLM-Guided-Crawler-Secret-Hunter",
+            "description": "High-Precision Parallel Multi-Model LLM Web Reconnaissance Engine & Knowledge Graph Builder for Bug Bounty & Security Auditing.",
+            "url": "https://github.com/SSDEVIL108/LLM-Guided-Crawler-Secret-Hunter",
+            "stars": 7,
+            "forks": 1,
+            "score": 30
         },
         {
             "main_cat": "AI",
@@ -419,6 +430,17 @@ const ALPHA_DATA_V2 = {
             "score": 30
         },
         {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "sports-prediction-platform",
+            "full_name": "Gavin-Dsouza/sports-prediction-platform",
+            "description": "Probabilistic MLB prediction + betting-EV platform (ensemble models, MLflow registry, explainability)",
+            "url": "https://github.com/Gavin-Dsouza/sports-prediction-platform",
+            "stars": 0,
+            "forks": 0,
+            "score": 30
+        },
+        {
             "main_cat": "Prediction Markets",
             "sub_cat": null,
             "name": "noxoracle",
@@ -436,6 +458,17 @@ const ALPHA_DATA_V2 = {
             "full_name": "stellar-bet/stellar-bet-contracts",
             "description": "Soroban smart contracts for StellarBet \u2014 a decentralized sports prediction market on Stellar. Includes BettingPool, OddsOracle, HouseEscrow, and BET token contracts. Written in Rust/WASM. Part of the Stellar Wave Program.",
             "url": "https://github.com/stellar-bet/stellar-bet-contracts",
+            "stars": 0,
+            "forks": 0,
+            "score": 30
+        },
+        {
+            "main_cat": "Prediction Markets",
+            "sub_cat": null,
+            "name": "OddsFlow-",
+            "full_name": "ryukeie/OddsFlow-",
+            "description": "Modern sports prediction platform built with a responsive UI, live event management, secure authentication, wallet system, bet slip, match tracking, and an admin dashboard. Designed with scalability, performance, and clean architecture in mind.",
+            "url": "https://github.com/ryukeie/OddsFlow-",
             "stars": 0,
             "forks": 0,
             "score": 30
@@ -553,17 +586,6 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
-            "name": "coinflow",
-            "full_name": "api-evangelist/coinflow",
-            "description": "Coinflow is a stablecoin-native payments platform (backed by Pantera Capital) that lets software companies and marketplaces accept card, ACH, and crypto/USDC payments and send instant payouts across Solana, EVM, and Stellar rails.",
-            "url": "https://github.com/api-evangelist/coinflow",
-            "stars": 0,
-            "forks": 0,
-            "score": 30
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
             "name": "raincards",
             "full_name": "api-evangelist/raincards",
             "description": "Rain (Raincards) \u2014 Rain is a stablecoin payments infrastructure company that lets platforms, fintechs, and institutions issue cards, open virtual accounts and wallets, and move money globally through a single API.",
@@ -608,6 +630,28 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
+            "name": "zold",
+            "full_name": "Zoldenburg-me/zold",
+            "description": "Cross-border payments on stablecoin rails \u2014 SEPA in via per-user IBANs, EURe in the user's own passkey Safe, out as SEPA or cash pickup. A reference implementation on testnets and sandboxes.",
+            "url": "https://github.com/Zoldenburg-me/zold",
+            "stars": 0,
+            "forks": 0,
+            "score": 30
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "ripple-labs",
+            "full_name": "api-evangelist/ripple-labs",
+            "description": "Ripple (legally Ripple Labs Inc.) is a blockchain and crypto-enabled financial infrastructure company whose developer surface spans Ripple Payments (RippleNet Server API, On-Demand Liquidity, Payments Direct, Report Service, and Smart Liquidation), the RLUSD stablecoin \"Ripple Mint\" API, and Palisade Wallet-as-a-Service for institutional\u2026",
+            "url": "https://github.com/api-evangelist/ripple-labs",
+            "stars": 0,
+            "forks": 0,
+            "score": 30
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
             "name": "ai-debate",
             "full_name": "yout0703/ai-debate",
             "description": "Multi-model debate protocol on Cloudflare Workers / Durable Objects \u2014 research, cross-exam, vote, majority consensus",
@@ -634,17 +678,6 @@ const ALPHA_DATA_V2 = {
             "full_name": "Kabutoxyz/token-migration-tool",
             "description": "Migrate tokens between chains. Support for bridge protocols and cross-chain swaps.",
             "url": "https://github.com/Kabutoxyz/token-migration-tool",
-            "stars": 0,
-            "forks": 0,
-            "score": 30
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "celer-network",
-            "full_name": "api-evangelist/celer-network",
-            "description": "Celer Network is a blockchain interoperability protocol that enables seamless cross-chain experiences for dApps, assets, and users. Its flagship cBridge is a decentralized cross-chain asset bridge supporting 40+ blockchains with over $14B in cumulative transfer volume, and Celer IM (Inter-chain Messaging) is a framework for building\u2026",
-            "url": "https://github.com/api-evangelist/celer-network",
             "stars": 0,
             "forks": 0,
             "score": 30
@@ -750,5 +783,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-08-06 13:49"
+    "timestamp": "2026-08-07 00:37"
 };
