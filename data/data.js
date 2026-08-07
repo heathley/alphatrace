@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "trycompai/crm",
             "description": "Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.",
             "url": "https://github.com/trycompai/crm",
-            "stars": 7333,
-            "forks": 778,
+            "stars": 7342,
+            "forks": 781,
             "score": 99
         },
         {
@@ -18,7 +18,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "QwenAudio/qwen-audio-agent",
             "description": "A realtime voice runtime that keeps Agents talking, working, and present.  Real-time Voice Runtime for AI Agents",
             "url": "https://github.com/QwenAudio/qwen-audio-agent",
-            "stars": 1974,
+            "stars": 1975,
             "forks": 141,
             "score": 99
         },
@@ -29,8 +29,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "KKKKhazix/human-writing",
             "description": "\u8ba9 AI \u5199\u7684\u4e2d\u6587\u8bfb\u8d77\u6765\u50cf\u4e00\u4e2a\u5177\u4f53\u7684\u4eba\u5728\u8bf4\u8bdd\u3002\u901a\u7528\u521b\u4f5c\u4e0e\u6539\u7a3f Skill\uff0c\u5f00\u7bb1\u5373\u7528\u3002",
             "url": "https://github.com/KKKKhazix/human-writing",
-            "stars": 1783,
-            "forks": 160,
+            "stars": 1797,
+            "forks": 163,
             "score": 99
         },
         {
@@ -41,7 +41,7 @@ const ALPHA_DATA_V2 = {
             "description": "\u975e\u5b98\u65b9 Kimi Slides Skill\uff1a\u8ba9 AI Agent \u751f\u6210\u53ef\u7f16\u8f91 PPTD + PPTX\uff0c\u5e76\u9644\u5e26\u672c\u5730\u6d4f\u89c8\u5668\u7f16\u8f91\u5668 Unofficial Kimi Slides skill for AI agents \u2014 generate editable PPTD + PPTX with a local browser editor",
             "url": "https://github.com/Binaryify/open-kimi-ppt-skill",
             "stars": 1583,
-            "forks": 432,
+            "forks": 430,
             "score": 99
         },
         {
@@ -62,7 +62,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "MarcosSete/awesome-free-ai-course-notes",
             "description": "A curated collection of machine learning and AI lecture notes from the world's leading universities.  This repository gives you access to the same lecture notes used by students at top institutions such as MIT, helping you learn from the very best educational resources available.",
             "url": "https://github.com/MarcosSete/awesome-free-ai-course-notes",
-            "stars": 512,
+            "stars": 514,
             "forks": 40,
             "score": 86
         },
@@ -73,7 +73,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "0xwilliamortiz/humanizer-cli",
             "description": "33 ways to spot AI-written text, right in your terminal. Before/after examples, draft checker, zero dependencies.",
             "url": "https://github.com/0xwilliamortiz/humanizer-cli",
-            "stars": 582,
+            "stars": 583,
             "forks": 72,
             "score": 84
         },
@@ -117,9 +117,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "magicrew/doc7",
             "description": "Turn documents into AI-ready Markdown with visual understanding",
             "url": "https://github.com/magicrew/doc7",
-            "stars": 567,
-            "forks": 11,
-            "score": 73
+            "stars": 570,
+            "forks": 12,
+            "score": 74
         },
         {
             "main_cat": "AI",
@@ -128,7 +128,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "AMAP-ML/LongHorizon-Harness",
             "description": "The long-horizon computer-use harness. Run AI agents across desktop apps and the CLI for extended periods while preserving task state and making reliable progress on complex workflows. Features fresh-context execution, durable verified state, independent auditing, recoverable progress, and native Claude Code / Codex / OpenClaw integration.",
             "url": "https://github.com/AMAP-ML/LongHorizon-Harness",
-            "stars": 366,
+            "stars": 369,
             "forks": 39,
             "score": 73
         },
@@ -141,7 +141,7 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/joeseesun/qiaomu-seo",
             "stars": 318,
             "forks": 41,
-            "score": 70
+            "score": 64
         },
         {
             "main_cat": "AI",
@@ -150,7 +150,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "petergyang/human-review",
             "description": "A visual tool to edit HTML and Markdown files, leave comments like a Google Doc, and send feedback to your AI agent. Works inside your favorite AI harness.",
             "url": "https://github.com/petergyang/human-review",
-            "stars": 527,
+            "stars": 530,
             "forks": 35,
             "score": 55
         },
@@ -162,7 +162,7 @@ const ALPHA_DATA_V2 = {
             "description": "A production-oriented AI workflow runtime for building, validating, recovering, and shipping complex AI workflows as dependable services. \u9762\u5411\u751f\u4ea7\u7684 AI \u5de5\u4f5c\u6d41\u8fd0\u884c\u65f6\uff1a\u5feb\u901f\u5f00\u53d1\u3001\u9a8c\u8bc1\u548c\u6062\u590d\u590d\u6742 AI \u5de5\u4f5c\u6d41\uff0c\u5e76\u5c06\u5176\u7a33\u5b9a\u4ea4\u4ed8\u4e3a\u670d\u52a1\u3002",
             "url": "https://github.com/alikon-art/DeterminFlow",
             "stars": 234,
-            "forks": 34,
+            "forks": 35,
             "score": 53
         },
         {
@@ -195,7 +195,7 @@ const ALPHA_DATA_V2 = {
             "description": "Reusable AI English picture-book workflow with consistent illustrations and local Chatterbox TTS.",
             "url": "https://github.com/lincwang123-bot/moonlit-stories",
             "stars": 143,
-            "forks": 26,
+            "forks": 27,
             "score": 50
         },
         {
@@ -217,7 +217,7 @@ const ALPHA_DATA_V2 = {
             "description": "A \u80a1\u77ed\u7ebf\u590d\u76d8\u770b\u677f\uff1a\u6da8\u505c\u6c60\u00b7\u8fde\u677f\u68af\u961f\u00b7\u9f99\u864e\u699c\u00b7\u677f\u5757\u8d44\u91d1\u4e00\u5c4f\u770b\u5b8c\uff0c\u8d5a\u94b1\u6548\u5e94/\u664b\u7ea7\u7387/\u68af\u961f\u65ad\u5c42/\u60c5\u7eea\u5468\u671f\u7b49\u6d3e\u751f\u6307\u6807\u7eaf\u8ba1\u7b97\u76f4\u51fa\uff08\u4e0d\u7ecf\u8fc7 AI\uff09\uff0cAI \u53ea\u628a\u6570\u636e\u4e32\u6210\u80fd\u8bfb\u7684\u76d8\u9762\u7814\u5224\u3002\u5168\u672c\u5730\u8fd0\u884c\uff0c\u53ef\u7528 Claude/Codex \u8ba2\u9605\u514d API key\u3002| A-share short-term daily-review dashboard: derived sentiment metrics computed locally, AI only writes the narrative. No API key needed.",
             "url": "https://github.com/simonlin1212/vibe-astock",
             "stars": 152,
-            "forks": 41,
+            "forks": 42,
             "score": 44
         },
         {
@@ -238,7 +238,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Autumn-27/ARTEX",
             "description": "AI \u81ea\u4e3b\u6e17\u900f\u6d4b\u8bd5\u7cfb\u7edf",
             "url": "https://github.com/Autumn-27/ARTEX",
-            "stars": 241,
+            "stars": 243,
             "forks": 33,
             "score": 42
         },
@@ -348,7 +348,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "fypklanfanqie/local-llm-with-character-setting-Arknights",
             "description": "\u4e00\u6b3e\u8fd0\u884c\u5728\u5b89\u5353\u8bbe\u5907\u4e0a\u7684 LLM \u5bf9\u8bdd\u52a9\u624b\u5e94\u7528\u3002\u4f60\u53ef\u4ee5\u81ea\u884c\u4e0b\u8f7d\u5e76\u7ba1\u7406\u6a21\u578b\uff0c\u81ea\u7531\u5b9a\u5236\u89d2\u8272\u4eba\u8bbe\uff0c\u5e76\u968f\u65f6\u5728\u672c\u5730\u63a8\u7406\uff08\u90e8\u5206\u673a\u578b\u652f\u6301 GPU/NPU \u52a0\u901f\uff09\u4e0e\u4e91\u7aef\u6a21\u578b\u4e4b\u95f4\u5207\u6362\u3002\u540c\u65f6\u5185\u7f6e TTS \u8bed\u97f3\u5408\u6210\u529f\u80fd\uff0c\u8ba9\u5bf9\u8bdd\u66f4\u52a0\u9c9c\u6d3b\u3002 An Android LLM chat assistant that lets you download and manage your own models. Customize character personas, and switch seamlessly between on-device inference (with GPU/NPU acceleration on supported devices) and cloud-based models. Built-in ",
             "url": "https://github.com/fypklanfanqie/local-llm-with-character-setting-Arknights",
-            "stars": 62,
+            "stars": 63,
             "forks": 0,
             "score": 31
         },
@@ -362,17 +362,6 @@ const ALPHA_DATA_V2 = {
             "stars": 30,
             "forks": 0,
             "score": 31
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "LLM-Guided-Crawler-Secret-Hunter",
-            "full_name": "SSDEVIL108/LLM-Guided-Crawler-Secret-Hunter",
-            "description": "High-Precision Parallel Multi-Model LLM Web Reconnaissance Engine & Knowledge Graph Builder for Bug Bounty & Security Auditing.",
-            "url": "https://github.com/SSDEVIL108/LLM-Guided-Crawler-Secret-Hunter",
-            "stars": 7,
-            "forks": 1,
-            "score": 30
         },
         {
             "main_cat": "AI",
@@ -794,5 +783,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-08-07 09:54"
+    "timestamp": "2026-08-07 10:45"
 };
