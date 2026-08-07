@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "trycompai/crm",
             "description": "Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.",
             "url": "https://github.com/trycompai/crm",
-            "stars": 7342,
-            "forks": 781,
+            "stars": 7355,
+            "forks": 782,
             "score": 99
         },
         {
@@ -18,7 +18,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "QwenAudio/qwen-audio-agent",
             "description": "A realtime voice runtime that keeps Agents talking, working, and present.  Real-time Voice Runtime for AI Agents",
             "url": "https://github.com/QwenAudio/qwen-audio-agent",
-            "stars": 1975,
+            "stars": 1976,
             "forks": 141,
             "score": 99
         },
@@ -29,7 +29,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "KKKKhazix/human-writing",
             "description": "\u8ba9 AI \u5199\u7684\u4e2d\u6587\u8bfb\u8d77\u6765\u50cf\u4e00\u4e2a\u5177\u4f53\u7684\u4eba\u5728\u8bf4\u8bdd\u3002\u901a\u7528\u521b\u4f5c\u4e0e\u6539\u7a3f Skill\uff0c\u5f00\u7bb1\u5373\u7528\u3002",
             "url": "https://github.com/KKKKhazix/human-writing",
-            "stars": 1797,
+            "stars": 1808,
             "forks": 163,
             "score": 99
         },
@@ -40,8 +40,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "Binaryify/open-kimi-ppt-skill",
             "description": "\u975e\u5b98\u65b9 Kimi Slides Skill\uff1a\u8ba9 AI Agent \u751f\u6210\u53ef\u7f16\u8f91 PPTD + PPTX\uff0c\u5e76\u9644\u5e26\u672c\u5730\u6d4f\u89c8\u5668\u7f16\u8f91\u5668 Unofficial Kimi Slides skill for AI agents \u2014 generate editable PPTD + PPTX with a local browser editor",
             "url": "https://github.com/Binaryify/open-kimi-ppt-skill",
-            "stars": 1583,
-            "forks": 430,
+            "stars": 1584,
+            "forks": 438,
             "score": 99
         },
         {
@@ -52,19 +52,8 @@ const ALPHA_DATA_V2 = {
             "description": "HermesOffice \u2014 AI-native office suite forked from GenOffice (Apache-2.0), with native Hermes Agent AI",
             "url": "https://github.com/criptogus/HermesOffice",
             "stars": 404,
-            "forks": 48,
-            "score": 89
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "awesome-free-ai-course-notes",
-            "full_name": "MarcosSete/awesome-free-ai-course-notes",
-            "description": "A curated collection of machine learning and AI lecture notes from the world's leading universities.  This repository gives you access to the same lecture notes used by students at top institutions such as MIT, helping you learn from the very best educational resources available.",
-            "url": "https://github.com/MarcosSete/awesome-free-ai-course-notes",
-            "stars": 514,
-            "forks": 40,
-            "score": 86
+            "forks": 49,
+            "score": 90
         },
         {
             "main_cat": "AI",
@@ -80,12 +69,23 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
+            "name": "awesome-free-ai-course-notes",
+            "full_name": "MarcosSete/awesome-free-ai-course-notes",
+            "description": "A curated collection of machine learning and AI lecture notes from the world's leading universities.  This repository gives you access to the same lecture notes used by students at top institutions such as MIT, helping you learn from the very best educational resources available.",
+            "url": "https://github.com/MarcosSete/awesome-free-ai-course-notes",
+            "stars": 516,
+            "forks": 40,
+            "score": 78
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
             "name": "Fuxi",
             "full_name": "fuxicodex/Fuxi",
             "description": "FuXi is a fast, self-contained AI developer terminal",
             "url": "https://github.com/fuxicodex/Fuxi",
             "stars": 427,
-            "forks": 38,
+            "forks": 39,
             "score": 78
         },
         {
@@ -117,9 +117,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "magicrew/doc7",
             "description": "Turn documents into AI-ready Markdown with visual understanding",
             "url": "https://github.com/magicrew/doc7",
-            "stars": 570,
-            "forks": 12,
-            "score": 74
+            "stars": 586,
+            "forks": 13,
+            "score": 75
         },
         {
             "main_cat": "AI",
@@ -150,7 +150,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "petergyang/human-review",
             "description": "A visual tool to edit HTML and Markdown files, leave comments like a Google Doc, and send feedback to your AI agent. Works inside your favorite AI harness.",
             "url": "https://github.com/petergyang/human-review",
-            "stars": 530,
+            "stars": 532,
             "forks": 35,
             "score": 55
         },
@@ -161,8 +161,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "alikon-art/DeterminFlow",
             "description": "A production-oriented AI workflow runtime for building, validating, recovering, and shipping complex AI workflows as dependable services. \u9762\u5411\u751f\u4ea7\u7684 AI \u5de5\u4f5c\u6d41\u8fd0\u884c\u65f6\uff1a\u5feb\u901f\u5f00\u53d1\u3001\u9a8c\u8bc1\u548c\u6062\u590d\u590d\u6742 AI \u5de5\u4f5c\u6d41\uff0c\u5e76\u5c06\u5176\u7a33\u5b9a\u4ea4\u4ed8\u4e3a\u670d\u52a1\u3002",
             "url": "https://github.com/alikon-art/DeterminFlow",
-            "stars": 234,
-            "forks": 35,
+            "stars": 236,
+            "forks": 36,
             "score": 53
         },
         {
@@ -183,9 +183,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "kropdx/reflection-engine",
             "description": "A downloadable prompt that turns your AI assistant's memory of you into a candid, evidence-grounded portrait.",
             "url": "https://github.com/kropdx/reflection-engine",
-            "stars": 219,
+            "stars": 220,
             "forks": 8,
-            "score": 50
+            "score": 51
         },
         {
             "main_cat": "AI",
@@ -195,7 +195,7 @@ const ALPHA_DATA_V2 = {
             "description": "Reusable AI English picture-book workflow with consistent illustrations and local Chatterbox TTS.",
             "url": "https://github.com/lincwang123-bot/moonlit-stories",
             "stars": 143,
-            "forks": 27,
+            "forks": 26,
             "score": 50
         },
         {
@@ -238,7 +238,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Autumn-27/ARTEX",
             "description": "AI \u81ea\u4e3b\u6e17\u900f\u6d4b\u8bd5\u7cfb\u7edf",
             "url": "https://github.com/Autumn-27/ARTEX",
-            "stars": 243,
+            "stars": 244,
             "forks": 33,
             "score": 42
         },
@@ -783,5 +783,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-08-07 10:45"
+    "timestamp": "2026-08-07 11:39"
 };
