@@ -7,7 +7,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "trycompai/crm",
             "description": "Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.",
             "url": "https://github.com/trycompai/crm",
-            "stars": 7537,
+            "stars": 7550,
             "forks": 812,
             "score": 99
         },
@@ -29,7 +29,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "KKKKhazix/human-writing",
             "description": "\u8ba9 AI \u5199\u7684\u4e2d\u6587\u8bfb\u8d77\u6765\u50cf\u4e00\u4e2a\u5177\u4f53\u7684\u4eba\u5728\u8bf4\u8bdd\u3002\u901a\u7528\u521b\u4f5c\u4e0e\u6539\u7a3f Skill\uff0c\u5f00\u7bb1\u5373\u7528\u3002",
             "url": "https://github.com/KKKKhazix/human-writing",
-            "stars": 1908,
+            "stars": 1916,
             "forks": 167,
             "score": 99
         },
@@ -41,7 +41,7 @@ const ALPHA_DATA_V2 = {
             "description": "\u975e\u5b98\u65b9 Kimi Slides Skill\uff1a\u8ba9 AI Agent \u751f\u6210\u53ef\u7f16\u8f91 PPTD + PPTX\uff0c\u5e76\u9644\u5e26\u672c\u5730\u6d4f\u89c8\u5668\u7f16\u8f91\u5668 Unofficial Kimi Slides skill for AI agents \u2014 generate editable PPTD + PPTX with a local browser editor",
             "url": "https://github.com/Binaryify/open-kimi-ppt-skill",
             "stars": 1589,
-            "forks": 1033,
+            "forks": 1041,
             "score": 99
         },
         {
@@ -58,6 +58,17 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
+            "name": "doc7",
+            "full_name": "magicrew/doc7",
+            "description": "Turn documents into AI-ready Markdown with visual understanding",
+            "url": "https://github.com/magicrew/doc7",
+            "stars": 716,
+            "forks": 26,
+            "score": 81
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
             "name": "HermesOffice",
             "full_name": "criptogus/HermesOffice",
             "description": "HermesOffice \u2014 AI-native office suite forked from GenOffice (Apache-2.0), with native Hermes Agent AI",
@@ -65,17 +76,6 @@ const ALPHA_DATA_V2 = {
             "stars": 415,
             "forks": 51,
             "score": 81
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "doc7",
-            "full_name": "magicrew/doc7",
-            "description": "Turn documents into AI-ready Markdown with visual understanding",
-            "url": "https://github.com/magicrew/doc7",
-            "stars": 716,
-            "forks": 17,
-            "score": 79
         },
         {
             "main_cat": "AI",
@@ -117,7 +117,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "AMAP-ML/LongHorizon-Harness",
             "description": "The long-horizon computer-use harness. Run AI agents across desktop apps and the CLI for extended periods while preserving task state and making reliable progress on complex workflows. Features fresh-context execution, durable verified state, independent auditing, recoverable progress, and native Claude Code / Codex / OpenClaw integration.",
             "url": "https://github.com/AMAP-ML/LongHorizon-Harness",
-            "stars": 395,
+            "stars": 397,
             "forks": 42,
             "score": 70
         },
@@ -128,9 +128,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "eternityspring/shuohao-skills",
             "description": "\u7ed9 AI \u7f16\u7801 agent \u7528\u7684 skill \u96c6\u5408\uff0cClaude Code \u548c codex \u90fd\u80fd\u8dd1\u3002novel-characters\uff1a\u628a\u5c0f\u8bf4\u62c6\u6210\u89d2\u8272\u8bbe\u5b9a\u96c6\u2014\u2014\u4eba\u7269\u753b\u50cf\u3001\u5361\u901a\u5f62\u8c61\u63d0\u793a\u8bcd\u3001\u97f3\u8272\u63d0\u793a\u8bcd\u3001\u4e09\u89c6\u56fe\u3002 | Skills for AI coding agents, working in both Claude Code and codex. novel-characters turns a novel into a character bible: profiles, cartoon-design prompts, voice prompts and turnaround sheets.",
             "url": "https://github.com/eternityspring/shuohao-skills",
-            "stars": 197,
+            "stars": 201,
             "forks": 24,
-            "score": 66
+            "score": 67
         },
         {
             "main_cat": "AI",
@@ -146,11 +146,22 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
+            "name": "canivibecodeit",
+            "full_name": "canivibecodeit/canivibecodeit",
+            "description": "Find out which subscriptions are one prompt away from free. caniuse.com, but for replacing SaaS with one AI prompt.",
+            "url": "https://github.com/canivibecodeit/canivibecodeit",
+            "stars": 145,
+            "forks": 129,
+            "score": 57
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
             "name": "human-review",
             "full_name": "petergyang/human-review",
             "description": "A visual tool to edit HTML and Markdown files, leave comments like a Google Doc, and send feedback to your AI agent. Works inside your favorite AI harness.",
             "url": "https://github.com/petergyang/human-review",
-            "stars": 583,
+            "stars": 587,
             "forks": 39,
             "score": 56
         },
@@ -161,8 +172,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "alikon-art/DeterminFlow",
             "description": "A production-oriented AI workflow runtime for building, validating, recovering, and shipping complex AI workflows as dependable services. \u9762\u5411\u751f\u4ea7\u7684 AI \u5de5\u4f5c\u6d41\u8fd0\u884c\u65f6\uff1a\u5feb\u901f\u5f00\u53d1\u3001\u9a8c\u8bc1\u548c\u6062\u590d\u590d\u6742 AI \u5de5\u4f5c\u6d41\uff0c\u5e76\u5c06\u5176\u7a33\u5b9a\u4ea4\u4ed8\u4e3a\u670d\u52a1\u3002",
             "url": "https://github.com/alikon-art/DeterminFlow",
-            "stars": 255,
-            "forks": 38,
+            "stars": 256,
+            "forks": 37,
             "score": 55
         },
         {
@@ -172,19 +183,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "aws/context-ontology-accelerator",
             "description": "An open-source, ontology-based semantic context accelerator that enables AI agents to make more accurate, consistent, and explainable decisions.",
             "url": "https://github.com/aws/context-ontology-accelerator",
-            "stars": 410,
+            "stars": 411,
             "forks": 33,
-            "score": 50
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "moonlit-stories",
-            "full_name": "lincwang123-bot/moonlit-stories",
-            "description": "Reusable AI English picture-book workflow with consistent illustrations and local Chatterbox TTS.",
-            "url": "https://github.com/lincwang123-bot/moonlit-stories",
-            "stars": 145,
-            "forks": 26,
             "score": 50
         },
         {
@@ -201,24 +201,24 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "wai-play",
-            "full_name": "waiterve/wai-play",
-            "description": "WAI Play - AI web game testing and quality evaluation platform",
-            "url": "https://github.com/waiterve/wai-play",
-            "stars": 164,
-            "forks": 5,
+            "name": "trace-file-lineage",
+            "full_name": "uczltw6/trace-file-lineage",
+            "description": "Find which script, notebook, data, command, or AI agent produced a file \u2014 locally, with evidence and honest uncertainty.",
+            "url": "https://github.com/uczltw6/trace-file-lineage",
+            "stars": 346,
+            "forks": 4,
             "score": 45
         },
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "trace-file-lineage",
-            "full_name": "uczltw6/trace-file-lineage",
-            "description": "Find which script, notebook, data, command, or AI agent produced a file \u2014 locally, with evidence and honest uncertainty.",
-            "url": "https://github.com/uczltw6/trace-file-lineage",
-            "stars": 342,
-            "forks": 4,
-            "score": 44
+            "name": "wai-play",
+            "full_name": "waiterve/wai-play",
+            "description": "WAI Play - AI web game testing and quality evaluation platform",
+            "url": "https://github.com/waiterve/wai-play",
+            "stars": 169,
+            "forks": 5,
+            "score": 45
         },
         {
             "main_cat": "AI",
@@ -271,7 +271,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "arcships/aimux",
             "description": "Unified LLM access layer in Rust \u2014 one API for 325 AI providers. \u7edf\u4e00 LLM \u670d\u52a1\u63a5\u5165\u5c42\uff1a\u4e00\u5957 API \u63a5\u5165 325 \u5bb6 AI \u670d\u52a1\u5546\u3002",
             "url": "https://github.com/arcships/aimux",
-            "stars": 178,
+            "stars": 179,
             "forks": 9,
             "score": 37
         },
@@ -349,7 +349,7 @@ const ALPHA_DATA_V2 = {
             "description": "\ud83c\udf3f \u795e\u519c\u89c5 (ShennongMi) \u2014 AI-powered TCM knowledge navigator: Neo4j graph (19K+ nodes) \u00d7 LangGraph 14-node workflows \u00d7 self-correcting NL2Cypher \u00d7 dual-model intent recognition (fastText + RoBERTa-LoRA, 99.75% accuracy). Supports TCM knowledge Q&A, automated RED content publishing, and interactive graph exploration.",
             "url": "https://github.com/Happy-Chen-CH/ShenNongMi",
             "stars": 21,
-            "forks": 1,
+            "forks": 3,
             "score": 31
         },
         {
@@ -661,17 +661,6 @@ const ALPHA_DATA_V2 = {
             "score": 30
         },
         {
-            "main_cat": "Stablecoin Infrastructure",
-            "sub_cat": null,
-            "name": "eldorado",
-            "full_name": "api-evangelist/eldorado",
-            "description": "Eldorado \u2014 El Dorado is a stablecoin-powered payments SuperApp for Latin America whose public API provides crypto onramp/offramp (buy and sell) infrastructure across Argentina, Brazil, Colombia, Peru, Bolivia, Panama, Paraguay, the Dominican Republic and more.",
-            "url": "https://github.com/api-evangelist/eldorado",
-            "stars": 0,
-            "forks": 0,
-            "score": 30
-        },
-        {
             "main_cat": "AI",
             "sub_cat": "AI General",
             "name": "EAFE",
@@ -805,5 +794,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-08-08 05:37"
+    "timestamp": "2026-08-08 06:39"
 };
