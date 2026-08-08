@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "trycompai/crm",
             "description": "Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.",
             "url": "https://github.com/trycompai/crm",
-            "stars": 7719,
-            "forks": 835,
+            "stars": 7731,
+            "forks": 836,
             "score": 99
         },
         {
@@ -62,7 +62,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "magicrew/doc7",
             "description": "Turn documents into AI-ready Markdown with visual understanding",
             "url": "https://github.com/magicrew/doc7",
-            "stars": 725,
+            "stars": 726,
             "forks": 26,
             "score": 76
         },
@@ -106,7 +106,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "AMAP-ML/LongHorizon-Harness",
             "description": "The long-horizon computer-use harness. Run AI agents across desktop apps and the CLI for extended periods while preserving task state and making reliable progress on complex workflows. Features fresh-context execution, durable verified state, independent auditing, recoverable progress, and native Claude Code / Codex / OpenClaw integration.",
             "url": "https://github.com/AMAP-ML/LongHorizon-Harness",
-            "stars": 407,
+            "stars": 409,
             "forks": 46,
             "score": 72
         },
@@ -128,9 +128,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "eternityspring/shuohao-skills",
             "description": "\u7ed9 AI \u7f16\u7801 agent \u7528\u7684 skill \u96c6\u5408\uff0cClaude Code \u548c codex \u90fd\u80fd\u8dd1\u3002novel-characters\uff1a\u628a\u5c0f\u8bf4\u62c6\u6210\u89d2\u8272\u8bbe\u5b9a\u96c6\u2014\u2014\u4eba\u7269\u753b\u50cf\u3001\u5361\u901a\u5f62\u8c61\u63d0\u793a\u8bcd\u3001\u97f3\u8272\u63d0\u793a\u8bcd\u3001\u4e09\u89c6\u56fe\u3002 | Skills for AI coding agents, working in both Claude Code and codex. novel-characters turns a novel into a character bible: profiles, cartoon-design prompts, voice prompts and turnaround sheets.",
             "url": "https://github.com/eternityspring/shuohao-skills",
-            "stars": 237,
+            "stars": 242,
             "forks": 27,
-            "score": 64
+            "score": 65
         },
         {
             "main_cat": "AI",
@@ -150,8 +150,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "canivibecodeit/canivibecodeit",
             "description": "Find out which subscriptions are one prompt away from free. caniuse.com, but for replacing SaaS with one AI prompt.",
             "url": "https://github.com/canivibecodeit/canivibecodeit",
-            "stars": 151,
-            "forks": 131,
+            "stars": 152,
+            "forks": 132,
             "score": 58
         },
         {
@@ -161,7 +161,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "petergyang/human-review",
             "description": "A visual tool to edit HTML and Markdown files, leave comments like a Google Doc, and send feedback to your AI agent. Works inside your favorite AI harness.",
             "url": "https://github.com/petergyang/human-review",
-            "stars": 617,
+            "stars": 618,
             "forks": 42,
             "score": 56
         },
@@ -172,7 +172,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "alikon-art/DeterminFlow",
             "description": "A production-oriented AI workflow runtime for building, validating, recovering, and shipping complex AI workflows as dependable services. \u9762\u5411\u751f\u4ea7\u7684 AI \u5de5\u4f5c\u6d41\u8fd0\u884c\u65f6\uff1a\u5feb\u901f\u5f00\u53d1\u3001\u9a8c\u8bc1\u548c\u6062\u590d\u590d\u6742 AI \u5de5\u4f5c\u6d41\uff0c\u5e76\u5c06\u5176\u7a33\u5b9a\u4ea4\u4ed8\u4e3a\u670d\u52a1\u3002",
             "url": "https://github.com/alikon-art/DeterminFlow",
-            "stars": 270,
+            "stars": 271,
             "forks": 39,
             "score": 53
         },
@@ -183,7 +183,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "aws/context-ontology-accelerator",
             "description": "An open-source, ontology-based semantic context accelerator that enables AI agents to make more accurate, consistent, and explainable decisions.",
             "url": "https://github.com/aws/context-ontology-accelerator",
-            "stars": 418,
+            "stars": 419,
             "forks": 34,
             "score": 51
         },
@@ -194,7 +194,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "kropdx/reflection-engine",
             "description": "A downloadable prompt that turns your AI assistant's memory of you into a candid, evidence-grounded portrait.",
             "url": "https://github.com/kropdx/reflection-engine",
-            "stars": 222,
+            "stars": 223,
             "forks": 9,
             "score": 46
         },
@@ -239,8 +239,8 @@ const ALPHA_DATA_V2 = {
             "description": "Desktop automation MCP server \u2014 computer use for any AI agent: control screen, windows, mouse/keyboard, and Chrome via Model Context Protocol (stdio)",
             "url": "https://github.com/mrpulor-gh/nuphus-mcp",
             "stars": 174,
-            "forks": 21,
-            "score": 42
+            "forks": 22,
+            "score": 43
         },
         {
             "main_cat": "AI",
@@ -278,6 +278,17 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
+            "name": "kimi-ai-plus",
+            "full_name": "MidgeFlourish/kimi-ai-plus",
+            "description": "Kimi AI Plus",
+            "url": "https://github.com/MidgeFlourish/kimi-ai-plus",
+            "stars": 177,
+            "forks": 0,
+            "score": 37
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
             "name": "claude-ai-ultimate",
             "full_name": "wallquailrespect/claude-ai-ultimate",
             "description": "Claude AI Ultimate",
@@ -295,17 +306,6 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/cofy-x/axern",
             "stars": 159,
             "forks": 4,
-            "score": 36
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "gemini-ai-turbo",
-            "full_name": "StitchLobster58/gemini-ai-turbo",
-            "description": "Gemini AI Turbo",
-            "url": "https://github.com/StitchLobster58/gemini-ai-turbo",
-            "stars": 151,
-            "forks": 0,
             "score": 36
         },
         {
@@ -487,6 +487,17 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "Stablecoin Infrastructure",
             "sub_cat": null,
+            "name": "ARC-BD",
+            "full_name": "MHKING12/ARC-BD",
+            "description": "Bring Stablecoin Payments to Every Local Business with Arc Power Local Commerce with Arc Stablecoins Building a Stablecoin Economy with Arc Arc: Fast, Secure Stablecoin Payments for Communities Connecting Local Businesses Through Arc Stablecoins Arc Stablecoins: The Future of Local Payments From Cash to Crypto.",
+            "url": "https://github.com/MHKING12/ARC-BD",
+            "stars": 0,
+            "forks": 0,
+            "score": 30
+        },
+        {
+            "main_cat": "Stablecoin Infrastructure",
+            "sub_cat": null,
             "name": "solana-payment-ops",
             "full_name": "GautamBytes/solana-payment-ops",
             "description": "Open Solana stablecoin payment verification and reconciliation infrastructure",
@@ -557,6 +568,17 @@ const ALPHA_DATA_V2 = {
             "full_name": "api-evangelist/mobilecoin",
             "description": "MobileCoin is a privacy-focused, mobile-first cryptocurrency and payments network whose consumer wallet has since been rebranded as Sentz (send, save, receive and earn in stablecoins, including the eUSD stablecoin).",
             "url": "https://github.com/api-evangelist/mobilecoin",
+            "stars": 0,
+            "forks": 0,
+            "score": 30
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "tokenlist.json",
+            "full_name": "chriscb949290-code/tokenlist.json",
+            "description": "Tether (USDT) is a stablecoin designed to maintain a value close to 1 US dollar. It enables fast, low-cost digital transactions and is widely used for trading, payments, and transferring value across blockchain networks.",
+            "url": "https://github.com/chriscb949290-code/tokenlist.json",
             "stars": 0,
             "forks": 0,
             "score": 30
@@ -645,28 +667,6 @@ const ALPHA_DATA_V2 = {
             "full_name": "api-evangelist/utopia-labs",
             "description": "Utopia Labs was a stablecoin payments and finance-operations platform for crypto-native teams and DAOs, covering payments, payroll, invoicing, and approval workflows, backed by Paradigm. Coinbase acquired Utopia Labs Corp. on November 13, 2024, and the team joined Base to build onchain payments into Coinbase Wallet.",
             "url": "https://github.com/api-evangelist/utopia-labs",
-            "stars": 0,
-            "forks": 0,
-            "score": 30
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "zold",
-            "full_name": "Zoldenburg-me/zold",
-            "description": "Cross-border payments on stablecoin rails \u2014 SEPA in via per-user IBANs, EURe in the user's own passkey Safe, out as SEPA or cash pickup. A reference implementation on testnets and sandboxes.",
-            "url": "https://github.com/Zoldenburg-me/zold",
-            "stars": 0,
-            "forks": 0,
-            "score": 30
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "ripple-labs",
-            "full_name": "api-evangelist/ripple-labs",
-            "description": "Ripple (legally Ripple Labs Inc.) is a blockchain and crypto-enabled financial infrastructure company whose developer surface spans Ripple Payments (RippleNet Server API, On-Demand Liquidity, Payments Direct, Report Service, and Smart Liquidation), the RLUSD stablecoin \"Ripple Mint\" API, and Palisade Wallet-as-a-Service for institutional\u2026",
-            "url": "https://github.com/api-evangelist/ripple-labs",
             "stars": 0,
             "forks": 0,
             "score": 30
@@ -805,5 +805,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-08-08 19:23"
+    "timestamp": "2026-08-08 20:20"
 };
