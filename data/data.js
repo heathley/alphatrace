@@ -7,7 +7,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "trycompai/crm",
             "description": "Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.",
             "url": "https://github.com/trycompai/crm",
-            "stars": 7703,
+            "stars": 7719,
             "forks": 835,
             "score": 99
         },
@@ -29,7 +29,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "KKKKhazix/human-writing",
             "description": "\u8ba9 AI \u5199\u7684\u4e2d\u6587\u8bfb\u8d77\u6765\u50cf\u4e00\u4e2a\u5177\u4f53\u7684\u4eba\u5728\u8bf4\u8bdd\u3002\u901a\u7528\u521b\u4f5c\u4e0e\u6539\u7a3f Skill\uff0c\u5f00\u7bb1\u5373\u7528\u3002",
             "url": "https://github.com/KKKKhazix/human-writing",
-            "stars": 1981,
+            "stars": 1982,
             "forks": 173,
             "score": 99
         },
@@ -41,7 +41,7 @@ const ALPHA_DATA_V2 = {
             "description": "\u975e\u5b98\u65b9 Kimi Slides Skill\uff1a\u8ba9 AI Agent \u751f\u6210\u53ef\u7f16\u8f91 PPTD + PPTX\uff0c\u5e76\u9644\u5e26\u672c\u5730\u6d4f\u89c8\u5668\u7f16\u8f91\u5668 Unofficial Kimi Slides skill for AI agents \u2014 generate editable PPTD + PPTX with a local browser editor",
             "url": "https://github.com/Binaryify/open-kimi-ppt-skill",
             "stars": 1588,
-            "forks": 1109,
+            "forks": 1111,
             "score": 99
         },
         {
@@ -51,20 +51,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "0xwilliamortiz/humanizer-cli",
             "description": "33 ways to spot AI-written text, right in your terminal. Before/after examples, draft checker, zero dependencies.",
             "url": "https://github.com/0xwilliamortiz/humanizer-cli",
-            "stars": 585,
+            "stars": 586,
             "forks": 72,
             "score": 78
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "awesome-free-ai-course-notes",
-            "full_name": "MarcosSete/awesome-free-ai-course-notes",
-            "description": "A curated collection of machine learning and AI lecture notes from the world's leading universities.  This repository gives you access to the same lecture notes used by students at top institutions such as MIT, helping you learn from the very best educational resources available.",
-            "url": "https://github.com/MarcosSete/awesome-free-ai-course-notes",
-            "stars": 558,
-            "forks": 48,
-            "score": 76
         },
         {
             "main_cat": "AI",
@@ -73,9 +62,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "magicrew/doc7",
             "description": "Turn documents into AI-ready Markdown with visual understanding",
             "url": "https://github.com/magicrew/doc7",
-            "stars": 723,
+            "stars": 725,
             "forks": 26,
-            "score": 75
+            "score": 76
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "awesome-free-ai-course-notes",
+            "full_name": "MarcosSete/awesome-free-ai-course-notes",
+            "description": "A curated collection of machine learning and AI lecture notes from the world's leading universities.  This repository gives you access to the same lecture notes used by students at top institutions such as MIT, helping you learn from the very best educational resources available.",
+            "url": "https://github.com/MarcosSete/awesome-free-ai-course-notes",
+            "stars": 559,
+            "forks": 48,
+            "score": 76
         },
         {
             "main_cat": "AI",
@@ -95,7 +95,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "fuxicodex/Fuxi",
             "description": "FuXi is a fast, self-contained AI developer terminal",
             "url": "https://github.com/fuxicodex/Fuxi",
-            "stars": 438,
+            "stars": 439,
             "forks": 41,
             "score": 73
         },
@@ -106,7 +106,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "AMAP-ML/LongHorizon-Harness",
             "description": "The long-horizon computer-use harness. Run AI agents across desktop apps and the CLI for extended periods while preserving task state and making reliable progress on complex workflows. Features fresh-context execution, durable verified state, independent auditing, recoverable progress, and native Claude Code / Codex / OpenClaw integration.",
             "url": "https://github.com/AMAP-ML/LongHorizon-Harness",
-            "stars": 406,
+            "stars": 407,
             "forks": 46,
             "score": 72
         },
@@ -128,7 +128,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "eternityspring/shuohao-skills",
             "description": "\u7ed9 AI \u7f16\u7801 agent \u7528\u7684 skill \u96c6\u5408\uff0cClaude Code \u548c codex \u90fd\u80fd\u8dd1\u3002novel-characters\uff1a\u628a\u5c0f\u8bf4\u62c6\u6210\u89d2\u8272\u8bbe\u5b9a\u96c6\u2014\u2014\u4eba\u7269\u753b\u50cf\u3001\u5361\u901a\u5f62\u8c61\u63d0\u793a\u8bcd\u3001\u97f3\u8272\u63d0\u793a\u8bcd\u3001\u4e09\u89c6\u56fe\u3002 | Skills for AI coding agents, working in both Claude Code and codex. novel-characters turns a novel into a character bible: profiles, cartoon-design prompts, voice prompts and turnaround sheets.",
             "url": "https://github.com/eternityspring/shuohao-skills",
-            "stars": 233,
+            "stars": 237,
             "forks": 27,
             "score": 64
         },
@@ -139,9 +139,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "joeseesun/qiaomu-seo",
             "description": "Audit, diagnose, research, plan, implement, experiment on, and verify website SEO across Google, Bing, and AI-search surfaces. Use for technical SEO, ",
             "url": "https://github.com/joeseesun/qiaomu-seo",
-            "stars": 324,
+            "stars": 325,
             "forks": 42,
             "score": 60
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "canivibecodeit",
+            "full_name": "canivibecodeit/canivibecodeit",
+            "description": "Find out which subscriptions are one prompt away from free. caniuse.com, but for replacing SaaS with one AI prompt.",
+            "url": "https://github.com/canivibecodeit/canivibecodeit",
+            "stars": 151,
+            "forks": 131,
+            "score": 58
         },
         {
             "main_cat": "AI",
@@ -150,7 +161,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "petergyang/human-review",
             "description": "A visual tool to edit HTML and Markdown files, leave comments like a Google Doc, and send feedback to your AI agent. Works inside your favorite AI harness.",
             "url": "https://github.com/petergyang/human-review",
-            "stars": 615,
+            "stars": 617,
             "forks": 42,
             "score": 56
         },
@@ -175,17 +186,6 @@ const ALPHA_DATA_V2 = {
             "stars": 418,
             "forks": 34,
             "score": 51
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "moonlit-stories",
-            "full_name": "lincwang123-bot/moonlit-stories",
-            "description": "Reusable AI English picture-book workflow with consistent illustrations and local Chatterbox TTS.",
-            "url": "https://github.com/lincwang123-bot/moonlit-stories",
-            "stars": 150,
-            "forks": 28,
-            "score": 48
         },
         {
             "main_cat": "AI",
@@ -238,7 +238,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "mrpulor-gh/nuphus-mcp",
             "description": "Desktop automation MCP server \u2014 computer use for any AI agent: control screen, windows, mouse/keyboard, and Chrome via Model Context Protocol (stdio)",
             "url": "https://github.com/mrpulor-gh/nuphus-mcp",
-            "stars": 172,
+            "stars": 174,
             "forks": 21,
             "score": 42
         },
@@ -529,23 +529,23 @@ const ALPHA_DATA_V2 = {
             "score": 30
         },
         {
-            "main_cat": "Stablecoin Infrastructure",
-            "sub_cat": null,
-            "name": "loop-crypto",
-            "full_name": "api-evangelist/loop-crypto",
-            "description": "Loop Crypto is a crypto and stablecoin payment processor that lets merchants, billing software, and e-commerce platforms accept crypto and stablecoin payments end to end: charging a wallet, storing payment methods, accepting stablecoins, ERC-20 tokens, and Solana SPL tokens, and settling to merchants in either fiat or crypto.",
-            "url": "https://github.com/api-evangelist/loop-crypto",
-            "stars": 0,
-            "forks": 0,
-            "score": 30
-        },
-        {
             "main_cat": "AI",
             "sub_cat": "AI General",
             "name": "dlt-payments",
             "full_name": "api-evangelist/dlt-payments",
             "description": "DLT Payments (DLTPAY) is a Web3 payments company offering a stablecoin wallet that enables businesses to send and receive instant payments in stablecoins across multiple blockchain networks \u2014 Ethereum, Arbitrum, Optimism, Polygon, and BNB Chain \u2014 with zero exposure to cryptocurrency price volatility.",
             "url": "https://github.com/api-evangelist/dlt-payments",
+            "stars": 0,
+            "forks": 0,
+            "score": 30
+        },
+        {
+            "main_cat": "Stablecoin Infrastructure",
+            "sub_cat": null,
+            "name": "loop-crypto",
+            "full_name": "api-evangelist/loop-crypto",
+            "description": "Loop Crypto is a crypto and stablecoin payment processor that lets merchants, billing software, and e-commerce platforms accept crypto and stablecoin payments end to end: charging a wallet, storing payment methods, accepting stablecoins, ERC-20 tokens, and Solana SPL tokens, and settling to merchants in either fiat or crypto.",
+            "url": "https://github.com/api-evangelist/loop-crypto",
             "stars": 0,
             "forks": 0,
             "score": 30
@@ -805,5 +805,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-08-08 18:26"
+    "timestamp": "2026-08-08 19:23"
 };
