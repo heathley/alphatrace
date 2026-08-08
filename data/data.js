@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "trycompai/crm",
             "description": "Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.",
             "url": "https://github.com/trycompai/crm",
-            "stars": 7731,
-            "forks": 836,
+            "stars": 7746,
+            "forks": 839,
             "score": 99
         },
         {
@@ -41,30 +41,8 @@ const ALPHA_DATA_V2 = {
             "description": "\u975e\u5b98\u65b9 Kimi Slides Skill\uff1a\u8ba9 AI Agent \u751f\u6210\u53ef\u7f16\u8f91 PPTD + PPTX\uff0c\u5e76\u9644\u5e26\u672c\u5730\u6d4f\u89c8\u5668\u7f16\u8f91\u5668 Unofficial Kimi Slides skill for AI agents \u2014 generate editable PPTD + PPTX with a local browser editor",
             "url": "https://github.com/Binaryify/open-kimi-ppt-skill",
             "stars": 1588,
-            "forks": 1111,
+            "forks": 1113,
             "score": 99
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "humanizer-cli",
-            "full_name": "0xwilliamortiz/humanizer-cli",
-            "description": "33 ways to spot AI-written text, right in your terminal. Before/after examples, draft checker, zero dependencies.",
-            "url": "https://github.com/0xwilliamortiz/humanizer-cli",
-            "stars": 586,
-            "forks": 72,
-            "score": 78
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "doc7",
-            "full_name": "magicrew/doc7",
-            "description": "Turn documents into AI-ready Markdown with visual understanding",
-            "url": "https://github.com/magicrew/doc7",
-            "stars": 726,
-            "forks": 26,
-            "score": 76
         },
         {
             "main_cat": "AI",
@@ -73,8 +51,19 @@ const ALPHA_DATA_V2 = {
             "full_name": "MarcosSete/awesome-free-ai-course-notes",
             "description": "A curated collection of machine learning and AI lecture notes from the world's leading universities.  This repository gives you access to the same lecture notes used by students at top institutions such as MIT, helping you learn from the very best educational resources available.",
             "url": "https://github.com/MarcosSete/awesome-free-ai-course-notes",
-            "stars": 559,
+            "stars": 560,
             "forks": 48,
+            "score": 77
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "doc7",
+            "full_name": "magicrew/doc7",
+            "description": "Turn documents into AI-ready Markdown with visual understanding",
+            "url": "https://github.com/magicrew/doc7",
+            "stars": 727,
+            "forks": 26,
             "score": 76
         },
         {
@@ -87,6 +76,17 @@ const ALPHA_DATA_V2 = {
             "stars": 419,
             "forks": 52,
             "score": 74
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "humanizer-cli",
+            "full_name": "0xwilliamortiz/humanizer-cli",
+            "description": "33 ways to spot AI-written text, right in your terminal. Before/after examples, draft checker, zero dependencies.",
+            "url": "https://github.com/0xwilliamortiz/humanizer-cli",
+            "stars": 586,
+            "forks": 72,
+            "score": 73
         },
         {
             "main_cat": "AI",
@@ -106,7 +106,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "AMAP-ML/LongHorizon-Harness",
             "description": "The long-horizon computer-use harness. Run AI agents across desktop apps and the CLI for extended periods while preserving task state and making reliable progress on complex workflows. Features fresh-context execution, durable verified state, independent auditing, recoverable progress, and native Claude Code / Codex / OpenClaw integration.",
             "url": "https://github.com/AMAP-ML/LongHorizon-Harness",
-            "stars": 409,
+            "stars": 410,
             "forks": 46,
             "score": 72
         },
@@ -128,7 +128,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "eternityspring/shuohao-skills",
             "description": "\u7ed9 AI \u7f16\u7801 agent \u7528\u7684 skill \u96c6\u5408\uff0cClaude Code \u548c codex \u90fd\u80fd\u8dd1\u3002novel-characters\uff1a\u628a\u5c0f\u8bf4\u62c6\u6210\u89d2\u8272\u8bbe\u5b9a\u96c6\u2014\u2014\u4eba\u7269\u753b\u50cf\u3001\u5361\u901a\u5f62\u8c61\u63d0\u793a\u8bcd\u3001\u97f3\u8272\u63d0\u793a\u8bcd\u3001\u4e09\u89c6\u56fe\u3002 | Skills for AI coding agents, working in both Claude Code and codex. novel-characters turns a novel into a character bible: profiles, cartoon-design prompts, voice prompts and turnaround sheets.",
             "url": "https://github.com/eternityspring/shuohao-skills",
-            "stars": 242,
+            "stars": 246,
             "forks": 27,
             "score": 65
         },
@@ -146,23 +146,12 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "canivibecodeit",
-            "full_name": "canivibecodeit/canivibecodeit",
-            "description": "Find out which subscriptions are one prompt away from free. caniuse.com, but for replacing SaaS with one AI prompt.",
-            "url": "https://github.com/canivibecodeit/canivibecodeit",
-            "stars": 152,
-            "forks": 132,
-            "score": 58
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
             "name": "human-review",
             "full_name": "petergyang/human-review",
             "description": "A visual tool to edit HTML and Markdown files, leave comments like a Google Doc, and send feedback to your AI agent. Works inside your favorite AI harness.",
             "url": "https://github.com/petergyang/human-review",
             "stars": 618,
-            "forks": 42,
+            "forks": 43,
             "score": 56
         },
         {
@@ -183,7 +172,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "aws/context-ontology-accelerator",
             "description": "An open-source, ontology-based semantic context accelerator that enables AI agents to make more accurate, consistent, and explainable decisions.",
             "url": "https://github.com/aws/context-ontology-accelerator",
-            "stars": 419,
+            "stars": 421,
             "forks": 34,
             "score": 51
         },
@@ -256,6 +245,17 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
+            "name": "kimi-ai-plus",
+            "full_name": "MidgeFlourish/kimi-ai-plus",
+            "description": "Kimi AI Plus",
+            "url": "https://github.com/MidgeFlourish/kimi-ai-plus",
+            "stars": 219,
+            "forks": 0,
+            "score": 39
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
             "name": "ai-sdk",
             "full_name": "grafana/ai-sdk",
             "description": "Grafana AI SDK for Go \u2014 streaming, tool-calling AI backends that speak fluent @ai-sdk/react",
@@ -267,23 +267,23 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
+            "name": "janitor-ai-apex",
+            "full_name": "VictorSteamOrder/janitor-ai-apex",
+            "description": "Janitor AI Apex",
+            "url": "https://github.com/VictorSteamOrder/janitor-ai-apex",
+            "stars": 196,
+            "forks": 0,
+            "score": 38
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
             "name": "aimux",
             "full_name": "arcships/aimux",
             "description": "Unified LLM access layer in Rust \u2014 one API for 325 AI providers. \u7edf\u4e00 LLM \u670d\u52a1\u63a5\u5165\u5c42\uff1a\u4e00\u5957 API \u63a5\u5165 325 \u5bb6 AI \u670d\u52a1\u5546\u3002",
             "url": "https://github.com/arcships/aimux",
             "stars": 179,
             "forks": 9,
-            "score": 37
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "kimi-ai-plus",
-            "full_name": "MidgeFlourish/kimi-ai-plus",
-            "description": "Kimi AI Plus",
-            "url": "https://github.com/MidgeFlourish/kimi-ai-plus",
-            "stars": 177,
-            "forks": 0,
             "score": 37
         },
         {
@@ -300,12 +300,12 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "axern",
-            "full_name": "cofy-x/axern",
-            "description": "Open-source sandboxes for AI agents, untrusted code execution, and durable services.",
-            "url": "https://github.com/cofy-x/axern",
-            "stars": 159,
-            "forks": 4,
+            "name": "cursor-ai-prime",
+            "full_name": "DiamondMythOvercome/cursor-ai-prime",
+            "description": "Cursor AI Prime",
+            "url": "https://github.com/DiamondMythOvercome/cursor-ai-prime",
+            "stars": 160,
+            "forks": 0,
             "score": 36
         },
         {
@@ -780,6 +780,17 @@ const ALPHA_DATA_V2 = {
             "stars": 0,
             "forks": 0,
             "score": 30
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "rho-protocol",
+            "full_name": "api-evangelist/rho-protocol",
+            "description": "Rho Protocol (Rho Labs) operates Rho X, a decentralized multi-asset trading and settlement layer for on-chain capital markets \u2014 interest-rate futures, perpetuals, and tokenized real-world assets tradable from a single cross-margined account.",
+            "url": "https://github.com/api-evangelist/rho-protocol",
+            "stars": 0,
+            "forks": 0,
+            "score": 30
         }
     ],
     "news": [
@@ -805,5 +816,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-08-08 20:20"
+    "timestamp": "2026-08-08 21:23"
 };
