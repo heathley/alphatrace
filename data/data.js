@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "trycompai/crm",
             "description": "Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.",
             "url": "https://github.com/trycompai/crm",
-            "stars": 7755,
-            "forks": 841,
+            "stars": 7771,
+            "forks": 844,
             "score": 99
         },
         {
@@ -18,7 +18,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "QwenAudio/qwen-audio-agent",
             "description": "A realtime voice runtime that keeps Agents talking, working, and present.  Real-time Voice Runtime for AI Agents",
             "url": "https://github.com/QwenAudio/qwen-audio-agent",
-            "stars": 1990,
+            "stars": 1991,
             "forks": 142,
             "score": 99
         },
@@ -29,8 +29,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "KKKKhazix/human-writing",
             "description": "\u8ba9 AI \u5199\u7684\u4e2d\u6587\u8bfb\u8d77\u6765\u50cf\u4e00\u4e2a\u5177\u4f53\u7684\u4eba\u5728\u8bf4\u8bdd\u3002\u901a\u7528\u521b\u4f5c\u4e0e\u6539\u7a3f Skill\uff0c\u5f00\u7bb1\u5373\u7528\u3002",
             "url": "https://github.com/KKKKhazix/human-writing",
-            "stars": 1985,
-            "forks": 173,
+            "stars": 1986,
+            "forks": 174,
             "score": 99
         },
         {
@@ -95,7 +95,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "fuxicodex/Fuxi",
             "description": "FuXi is a fast, self-contained AI developer terminal",
             "url": "https://github.com/fuxicodex/Fuxi",
-            "stars": 439,
+            "stars": 440,
             "forks": 41,
             "score": 73
         },
@@ -128,9 +128,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "eternityspring/shuohao-skills",
             "description": "\u7ed9 AI \u7f16\u7801 agent \u7528\u7684 skill \u96c6\u5408\uff0cClaude Code \u548c codex \u90fd\u80fd\u8dd1\u3002novel-characters\uff1a\u628a\u5c0f\u8bf4\u62c6\u6210\u89d2\u8272\u8bbe\u5b9a\u96c6\u2014\u2014\u4eba\u7269\u753b\u50cf\u3001\u5361\u901a\u5f62\u8c61\u63d0\u793a\u8bcd\u3001\u97f3\u8272\u63d0\u793a\u8bcd\u3001\u4e09\u89c6\u56fe\u3002 | Skills for AI coding agents, working in both Claude Code and codex. novel-characters turns a novel into a character bible: profiles, cartoon-design prompts, voice prompts and turnaround sheets.",
             "url": "https://github.com/eternityspring/shuohao-skills",
-            "stars": 249,
-            "forks": 27,
-            "score": 65
+            "stars": 257,
+            "forks": 29,
+            "score": 67
         },
         {
             "main_cat": "AI",
@@ -150,7 +150,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "petergyang/human-review",
             "description": "A visual tool to edit HTML and Markdown files, leave comments like a Google Doc, and send feedback to your AI agent. Works inside your favorite AI harness.",
             "url": "https://github.com/petergyang/human-review",
-            "stars": 619,
+            "stars": 620,
             "forks": 43,
             "score": 56
         },
@@ -174,7 +174,7 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/aws/context-ontology-accelerator",
             "stars": 422,
             "forks": 35,
-            "score": 51
+            "score": 50
         },
         {
             "main_cat": "AI",
@@ -641,10 +641,10 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
-            "name": "dynamic",
-            "full_name": "api-evangelist/dynamic",
-            "description": "Dynamic is a wallet infrastructure platform for fintech, crypto, and stablecoin applications, letting companies embed non-custodial wallets, connect 800+ external wallets, run distributed (TSS-MPC) key management, and build onchain products such as crypto payments, trading, yield, and global money movement without in-house crypto expertise.",
-            "url": "https://github.com/api-evangelist/dynamic",
+            "name": "redotpay",
+            "full_name": "api-evangelist/redotpay",
+            "description": "RedotPay is a global stablecoin-based payment fintech that integrates blockchain solutions with traditional banking and finance infrastructures. The platform lets millions of people spend and send digital assets through a crypto-backed Visa card, a multi-currency wallet, P2P trading, international transfers, and stablecoin earning.",
+            "url": "https://github.com/api-evangelist/redotpay",
             "stars": 0,
             "forks": 0,
             "score": 30
@@ -652,10 +652,10 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
-            "name": "redotpay",
-            "full_name": "api-evangelist/redotpay",
-            "description": "RedotPay is a global stablecoin-based payment fintech that integrates blockchain solutions with traditional banking and finance infrastructures. The platform lets millions of people spend and send digital assets through a crypto-backed Visa card, a multi-currency wallet, P2P trading, international transfers, and stablecoin earning.",
-            "url": "https://github.com/api-evangelist/redotpay",
+            "name": "dynamic",
+            "full_name": "api-evangelist/dynamic",
+            "description": "Dynamic is a wallet infrastructure platform for fintech, crypto, and stablecoin applications, letting companies embed non-custodial wallets, connect 800+ external wallets, run distributed (TSS-MPC) key management, and build onchain products such as crypto payments, trading, yield, and global money movement without in-house crypto expertise.",
+            "url": "https://github.com/api-evangelist/dynamic",
             "stars": 0,
             "forks": 0,
             "score": 30
@@ -816,5 +816,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-08-08 22:20"
+    "timestamp": "2026-08-08 23:21"
 };
