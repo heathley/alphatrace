@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "trycompai/crm",
             "description": "Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.",
             "url": "https://github.com/trycompai/crm",
-            "stars": 7771,
-            "forks": 844,
+            "stars": 7789,
+            "forks": 845,
             "score": 99
         },
         {
@@ -29,7 +29,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "KKKKhazix/human-writing",
             "description": "\u8ba9 AI \u5199\u7684\u4e2d\u6587\u8bfb\u8d77\u6765\u50cf\u4e00\u4e2a\u5177\u4f53\u7684\u4eba\u5728\u8bf4\u8bdd\u3002\u901a\u7528\u521b\u4f5c\u4e0e\u6539\u7a3f Skill\uff0c\u5f00\u7bb1\u5373\u7528\u3002",
             "url": "https://github.com/KKKKhazix/human-writing",
-            "stars": 1986,
+            "stars": 1989,
             "forks": 174,
             "score": 99
         },
@@ -41,7 +41,7 @@ const ALPHA_DATA_V2 = {
             "description": "\u975e\u5b98\u65b9 Kimi Slides Skill\uff1a\u8ba9 AI Agent \u751f\u6210\u53ef\u7f16\u8f91 PPTD + PPTX\uff0c\u5e76\u9644\u5e26\u672c\u5730\u6d4f\u89c8\u5668\u7f16\u8f91\u5668 Unofficial Kimi Slides skill for AI agents \u2014 generate editable PPTD + PPTX with a local browser editor",
             "url": "https://github.com/Binaryify/open-kimi-ppt-skill",
             "stars": 1588,
-            "forks": 1113,
+            "forks": 1114,
             "score": 99
         },
         {
@@ -62,8 +62,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "magicrew/doc7",
             "description": "Turn documents into AI-ready Markdown with visual understanding",
             "url": "https://github.com/magicrew/doc7",
-            "stars": 727,
-            "forks": 26,
+            "stars": 728,
+            "forks": 27,
             "score": 76
         },
         {
@@ -113,6 +113,17 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
+            "name": "shuohao-skills",
+            "full_name": "eternityspring/shuohao-skills",
+            "description": "\u7ed9 AI \u7f16\u7801 agent \u7528\u7684 skill \u96c6\u5408\uff0cClaude Code \u548c codex \u90fd\u80fd\u8dd1\u3002novel-characters\uff1a\u628a\u5c0f\u8bf4\u62c6\u6210\u89d2\u8272\u8bbe\u5b9a\u96c6\u2014\u2014\u4eba\u7269\u753b\u50cf\u3001\u5361\u901a\u5f62\u8c61\u63d0\u793a\u8bcd\u3001\u97f3\u8272\u63d0\u793a\u8bcd\u3001\u4e09\u89c6\u56fe\u3002 | Skills for AI coding agents, working in both Claude Code and codex. novel-characters turns a novel into a character bible: profiles, cartoon-design prompts, voice prompts and turnaround sheets.",
+            "url": "https://github.com/eternityspring/shuohao-skills",
+            "stars": 281,
+            "forks": 33,
+            "score": 71
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
             "name": "ponytail-improved",
             "full_name": "0xwilliamortiz/ponytail-improved",
             "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
@@ -120,17 +131,6 @@ const ALPHA_DATA_V2 = {
             "stars": 599,
             "forks": 129,
             "score": 69
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "shuohao-skills",
-            "full_name": "eternityspring/shuohao-skills",
-            "description": "\u7ed9 AI \u7f16\u7801 agent \u7528\u7684 skill \u96c6\u5408\uff0cClaude Code \u548c codex \u90fd\u80fd\u8dd1\u3002novel-characters\uff1a\u628a\u5c0f\u8bf4\u62c6\u6210\u89d2\u8272\u8bbe\u5b9a\u96c6\u2014\u2014\u4eba\u7269\u753b\u50cf\u3001\u5361\u901a\u5f62\u8c61\u63d0\u793a\u8bcd\u3001\u97f3\u8272\u63d0\u793a\u8bcd\u3001\u4e09\u89c6\u56fe\u3002 | Skills for AI coding agents, working in both Claude Code and codex. novel-characters turns a novel into a character bible: profiles, cartoon-design prompts, voice prompts and turnaround sheets.",
-            "url": "https://github.com/eternityspring/shuohao-skills",
-            "stars": 257,
-            "forks": 29,
-            "score": 67
         },
         {
             "main_cat": "AI",
@@ -150,7 +150,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "petergyang/human-review",
             "description": "A visual tool to edit HTML and Markdown files, leave comments like a Google Doc, and send feedback to your AI agent. Works inside your favorite AI harness.",
             "url": "https://github.com/petergyang/human-review",
-            "stars": 620,
+            "stars": 621,
             "forks": 43,
             "score": 56
         },
@@ -172,7 +172,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "aws/context-ontology-accelerator",
             "description": "An open-source, ontology-based semantic context accelerator that enables AI agents to make more accurate, consistent, and explainable decisions.",
             "url": "https://github.com/aws/context-ontology-accelerator",
-            "stars": 422,
+            "stars": 423,
             "forks": 35,
             "score": 50
         },
@@ -194,7 +194,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "uczltw6/trace-file-lineage",
             "description": "Find which script, notebook, data, command, or AI agent produced a file \u2014 locally, with evidence and honest uncertainty.",
             "url": "https://github.com/uczltw6/trace-file-lineage",
-            "stars": 361,
+            "stars": 365,
             "forks": 4,
             "score": 44
         },
@@ -205,8 +205,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "waiterve/wai-play",
             "description": "WAI Play - AI web game testing and quality evaluation platform",
             "url": "https://github.com/waiterve/wai-play",
-            "stars": 182,
-            "forks": 5,
+            "stars": 184,
+            "forks": 6,
             "score": 44
         },
         {
@@ -222,14 +222,14 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
-            "sub_cat": null,
-            "name": "ARTEX",
-            "full_name": "Autumn-27/ARTEX",
-            "description": "AI \u81ea\u4e3b\u6e17\u900f\u6d4b\u8bd5\u7cfb\u7edf",
-            "url": "https://github.com/Autumn-27/ARTEX",
-            "stars": 248,
-            "forks": 33,
-            "score": 41
+            "sub_cat": "AI General",
+            "name": "vibe-astock",
+            "full_name": "simonlin1212/vibe-astock",
+            "description": "A \u80a1\u77ed\u7ebf\u590d\u76d8\u770b\u677f\uff1a\u6da8\u505c\u6c60\u00b7\u8fde\u677f\u68af\u961f\u00b7\u9f99\u864e\u699c\u00b7\u677f\u5757\u8d44\u91d1\u4e00\u5c4f\u770b\u5b8c\uff0c\u8d5a\u94b1\u6548\u5e94/\u664b\u7ea7\u7387/\u68af\u961f\u65ad\u5c42/\u60c5\u7eea\u5468\u671f\u7b49\u6d3e\u751f\u6307\u6807\u7eaf\u8ba1\u7b97\u76f4\u51fa\uff08\u4e0d\u7ecf\u8fc7 AI\uff09\uff0cAI \u53ea\u628a\u6570\u636e\u4e32\u6210\u80fd\u8bfb\u7684\u76d8\u9762\u7814\u5224\u3002\u5168\u672c\u5730\u8fd0\u884c\uff0c\u53ef\u7528 Claude/Codex \u8ba2\u9605\u514d API key\u3002| A-share short-term daily-review dashboard: derived sentiment metrics computed locally, AI only writes the narrative. No API key needed.",
+            "url": "https://github.com/simonlin1212/vibe-astock",
+            "stars": 165,
+            "forks": 47,
+            "score": 43
         },
         {
             "main_cat": "AI",
@@ -307,17 +307,6 @@ const ALPHA_DATA_V2 = {
             "stars": 167,
             "forks": 0,
             "score": 36
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "micro-vllm",
-            "full_name": "nopnoping/micro-vllm",
-            "description": "A small, educational vLLM implementation for exploring LLM inference, scheduling, KV-cache management, and GPU execution.",
-            "url": "https://github.com/nopnoping/micro-vllm",
-            "stars": 112,
-            "forks": 5,
-            "score": 34
         },
         {
             "main_cat": "AI",
@@ -408,17 +397,6 @@ const ALPHA_DATA_V2 = {
             "score": 30
         },
         {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "dforce",
-            "full_name": "api-evangelist/dforce",
-            "description": "dForce is a decentralized stablecoin protocol powered by an integrated DeFi matrix spanning assets, lending, trading, and an omni-chain bridge. It positions itself as an AI-native on-chain capital markets platform, unifying its USX USD-pegged stablecoin, permissionless lending markets, yield vaults, a real-world-asset (RWA) marketplace, a DEX, the\u2026",
-            "url": "https://github.com/api-evangelist/dforce",
-            "stars": 0,
-            "forks": 0,
-            "score": 30
-        },
-        {
             "main_cat": "Prediction Markets",
             "sub_cat": null,
             "name": "laravel-colour-game",
@@ -436,17 +414,6 @@ const ALPHA_DATA_V2 = {
             "full_name": "Gavin-Dsouza/sports-prediction-platform",
             "description": "Probabilistic MLB prediction + betting-EV platform (ensemble models, MLflow registry, explainability)",
             "url": "https://github.com/Gavin-Dsouza/sports-prediction-platform",
-            "stars": 0,
-            "forks": 0,
-            "score": 30
-        },
-        {
-            "main_cat": "Prediction Markets",
-            "sub_cat": null,
-            "name": "noxoracle",
-            "full_name": "edycutjong/noxoracle",
-            "description": "\ud83d\udd2e Bet what you know, not who you are \u2014 private positions on a real Gnosis prediction market, direction & size encrypted through settlement via iExec Nox. Live on Ethereum Sepolia.",
-            "url": "https://github.com/edycutjong/noxoracle",
             "stars": 0,
             "forks": 0,
             "score": 30
@@ -535,17 +502,6 @@ const ALPHA_DATA_V2 = {
             "full_name": "nubyscasttle385-lang/arc-payment-explorer",
             "description": "A concept project exploring programmable money, stablecoin payments, and blockchain applications built on Arc.",
             "url": "https://github.com/nubyscasttle385-lang/arc-payment-explorer",
-            "stars": 0,
-            "forks": 0,
-            "score": 30
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "dlt-payments",
-            "full_name": "api-evangelist/dlt-payments",
-            "description": "DLT Payments (DLTPAY) is a Web3 payments company offering a stablecoin wallet that enables businesses to send and receive instant payments in stablecoins across multiple blockchain networks \u2014 Ethereum, Arbitrum, Optimism, Polygon, and BNB Chain \u2014 with zero exposure to cryptocurrency price volatility.",
-            "url": "https://github.com/api-evangelist/dlt-payments",
             "stars": 0,
             "forks": 0,
             "score": 30
@@ -652,17 +608,6 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
-            "name": "dynamic",
-            "full_name": "api-evangelist/dynamic",
-            "description": "Dynamic is a wallet infrastructure platform for fintech, crypto, and stablecoin applications, letting companies embed non-custodial wallets, connect 800+ external wallets, run distributed (TSS-MPC) key management, and build onchain products such as crypto payments, trading, yield, and global money movement without in-house crypto expertise.",
-            "url": "https://github.com/api-evangelist/dynamic",
-            "stars": 0,
-            "forks": 0,
-            "score": 30
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
             "name": "utopia-labs",
             "full_name": "api-evangelist/utopia-labs",
             "description": "Utopia Labs was a stablecoin payments and finance-operations platform for crypto-native teams and DAOs, covering payments, payroll, invoicing, and approval workflows, backed by Paradigm. Coinbase acquired Utopia Labs Corp. on November 13, 2024, and the team joined Base to build onchain payments into Coinbase Wallet.",
@@ -674,11 +619,22 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
-            "name": "EAFE",
-            "full_name": "eksses/EAFE",
-            "description": "Minecraft elytra autopilot engine \u2014 protocol-level autonomous flight navigation using Mineflayer. Vanilla physics-compliant per-tick velocity updates, anti-cheat B\u00e9zier curves, FSM state machine, Nether hazard avoidance, and precision landing. Includes multi-AI-agent audit with cross-model scoring.",
-            "url": "https://github.com/eksses/EAFE",
-            "stars": 1,
+            "name": "zold",
+            "full_name": "Zoldenburg-me/zold",
+            "description": "Cross-border payments on stablecoin rails \u2014 SEPA in via per-user IBANs, EURe in the user's own passkey Safe, out as SEPA or cash pickup. A reference implementation on testnets and sandboxes.",
+            "url": "https://github.com/Zoldenburg-me/zold",
+            "stars": 0,
+            "forks": 0,
+            "score": 30
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "ripple-labs",
+            "full_name": "api-evangelist/ripple-labs",
+            "description": "Ripple (legally Ripple Labs Inc.) is a blockchain and crypto-enabled financial infrastructure company whose developer surface spans Ripple Payments (RippleNet Server API, On-Demand Liquidity, Payments Direct, Report Service, and Smart Liquidation), the RLUSD stablecoin \"Ripple Mint\" API, and Palisade Wallet-as-a-Service for institutional\u2026",
+            "url": "https://github.com/api-evangelist/ripple-labs",
+            "stars": 0,
             "forks": 0,
             "score": 30
         },
@@ -791,23 +747,42 @@ const ALPHA_DATA_V2 = {
             "stars": 0,
             "forks": 0,
             "score": 30
+        },
+        {
+            "main_cat": "Cross-chain / Interoperability",
+            "sub_cat": null,
+            "name": "tradep2p",
+            "full_name": "patirckk1994/tradep2p",
+            "description": "a fully decentralized cross protocol p2p trading engine",
+            "url": "https://github.com/patirckk1994/tradep2p",
+            "stars": 0,
+            "forks": 0,
+            "score": 30
+        },
+        {
+            "main_cat": "Cross-chain / Interoperability",
+            "sub_cat": null,
+            "name": "CoinP2P",
+            "full_name": "patrickkelava1994-bot/CoinP2P",
+            "description": "a fully decentralized cross protocol p2p trading engine",
+            "url": "https://github.com/patrickkelava1994-bot/CoinP2P",
+            "stars": 0,
+            "forks": 0,
+            "score": 30
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "librarian-mcp",
+            "full_name": "andrewdhannah/librarian-mcp",
+            "description": "Librarian MCP Protocol Plane \u2014 Cross-platform Model Context Protocol server for governed AI agent execution",
+            "url": "https://github.com/andrewdhannah/librarian-mcp",
+            "stars": 0,
+            "forks": 0,
+            "score": 30
         }
     ],
     "news": [
-        {
-            "title": "A Sound Translation from Tamarin to ProVerif: Enabling Comparative Analysis",
-            "source": "ArXiv",
-            "type": "Research Alpha",
-            "color": "text-indigo-600",
-            "url": "http://arxiv.org/abs/2608.06315v1"
-        },
-        {
-            "title": "Game Hopping in Lean",
-            "source": "ArXiv",
-            "type": "Research Alpha",
-            "color": "text-indigo-600",
-            "url": "http://arxiv.org/abs/2608.06261v1"
-        },
         {
             "title": "Bitcoin volatility remains high ahead of key FED decision.",
             "source": "Polymarket",
@@ -816,5 +791,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-08-08 23:21"
+    "timestamp": "2026-08-09 01:10"
 };
