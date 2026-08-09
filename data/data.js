@@ -7,7 +7,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "trycompai/crm",
             "description": "Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.",
             "url": "https://github.com/trycompai/crm",
-            "stars": 7948,
+            "stars": 7952,
             "forks": 875,
             "score": 99
         },
@@ -29,8 +29,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "QwenAudio/qwen-audio-agent",
             "description": "A realtime voice runtime that keeps Agents talking, working, and present.  Real-time Voice Runtime for AI Agents",
             "url": "https://github.com/QwenAudio/qwen-audio-agent",
-            "stars": 2021,
-            "forks": 147,
+            "stars": 2023,
+            "forks": 148,
             "score": 99
         },
         {
@@ -51,9 +51,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "eternityspring/shuohao-skills",
             "description": "\u7ed9 AI \u7f16\u7801 agent \u7528\u7684 skill \u96c6\u5408\uff0cClaude Code \u548c codex \u90fd\u80fd\u8dd1\u3002novel-characters\uff1a\u628a\u5c0f\u8bf4\u62c6\u6210\u89d2\u8272\u8bbe\u5b9a\u96c6\u2014\u2014\u4eba\u7269\u753b\u50cf\u3001\u5361\u901a\u5f62\u8c61\u63d0\u793a\u8bcd\u3001\u97f3\u8272\u63d0\u793a\u8bcd\u3001\u4e09\u89c6\u56fe\u3002 | Skills for AI coding agents, working in both Claude Code and codex. novel-characters turns a novel into a character bible: profiles, cartoon-design prompts, voice prompts and turnaround sheets.",
             "url": "https://github.com/eternityspring/shuohao-skills",
-            "stars": 471,
+            "stars": 476,
             "forks": 56,
-            "score": 87
+            "score": 88
         },
         {
             "main_cat": "AI",
@@ -73,9 +73,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "AMAP-ML/LongHorizon-Harness",
             "description": "The long-horizon computer-use harness. Run AI agents across desktop apps and the CLI for extended periods while preserving task state and making reliable progress on complex workflows. Features fresh-context execution, durable verified state, independent auditing, recoverable progress, and native Claude Code / Codex / OpenClaw integration.",
             "url": "https://github.com/AMAP-ML/LongHorizon-Harness",
-            "stars": 493,
-            "forks": 60,
-            "score": 75
+            "stars": 497,
+            "forks": 61,
+            "score": 76
         },
         {
             "main_cat": "AI",
@@ -117,7 +117,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "fuxicodex/Fuxi",
             "description": "FuXi is a fast, self-contained AI developer terminal",
             "url": "https://github.com/fuxicodex/Fuxi",
-            "stars": 449,
+            "stars": 450,
             "forks": 42,
             "score": 68
         },
@@ -139,9 +139,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "mewamew/my_ai_town",
             "description": "\u6211\u7684AI\u5c0f\u9547",
             "url": "https://github.com/mewamew/my_ai_town",
-            "stars": 228,
+            "stars": 233,
             "forks": 35,
-            "score": 66
+            "score": 67
         },
         {
             "main_cat": "AI",
@@ -161,7 +161,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "petergyang/human-review",
             "description": "A visual tool to edit HTML and Markdown files, leave comments like a Google Doc, and send feedback to your AI agent. Works inside your favorite AI harness.",
             "url": "https://github.com/petergyang/human-review",
-            "stars": 643,
+            "stars": 645,
             "forks": 44,
             "score": 55
         },
@@ -186,6 +186,17 @@ const ALPHA_DATA_V2 = {
             "stars": 429,
             "forks": 36,
             "score": 50
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "mcp-server",
+            "full_name": "sv-number/mcp-server",
+            "description": "MCP server for AI agents that need a phone number: order a private number in any country, read the SMS verification code, hand it back.",
+            "url": "https://github.com/sv-number/mcp-server",
+            "stars": 190,
+            "forks": 0,
+            "score": 49
         },
         {
             "main_cat": "AI",
@@ -227,7 +238,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "DanielPan12/JobHuntBot",
             "description": "Agent-led job application workflow with a local progress-tracking dashboard \u2014 works with any AI coding agent that can read files and follow instructions.AI Agent \u9a71\u52a8\u7684\u6c42\u804c\u6295\u9012\u5de5\u4f5c\u6d41,\u914d\u672c\u5730\u8fdb\u5ea6\u8ffd\u8e2a\u770b\u677f\u2014\u2014\u9002\u914d\u4efb\u4f55\u80fd\u8bfb\u6587\u4ef6\u3001\u542c\u61c2\u6307\u4ee4\u7684\u7f16\u7a0b Agent\u3002",
             "url": "https://github.com/DanielPan12/JobHuntBot",
-            "stars": 217,
+            "stars": 219,
             "forks": 20,
             "score": 44
         },
@@ -238,7 +249,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "mrpulor-gh/nuphus-mcp",
             "description": "Desktop automation MCP server \u2014 computer use for any AI agent: control screen, windows, mouse/keyboard, and Chrome via Model Context Protocol (stdio)",
             "url": "https://github.com/mrpulor-gh/nuphus-mcp",
-            "stars": 184,
+            "stars": 185,
             "forks": 22,
             "score": 42
         },
@@ -249,9 +260,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "MidgeFlourish/kimi-ai-plus",
             "description": "Kimi AI Plus",
             "url": "https://github.com/MidgeFlourish/kimi-ai-plus",
-            "stars": 245,
+            "stars": 228,
             "forks": 0,
-            "score": 39
+            "score": 38
         },
         {
             "main_cat": "AI",
@@ -260,7 +271,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "VictorSteamOrder/janitor-ai-apex",
             "description": "Janitor AI Apex",
             "url": "https://github.com/VictorSteamOrder/janitor-ai-apex",
-            "stars": 226,
+            "stars": 217,
             "forks": 0,
             "score": 38
         },
@@ -278,17 +289,6 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "luma-ai-flow",
-            "full_name": "Hopetueliminate/luma-ai-flow",
-            "description": "Luma AI Flow",
-            "url": "https://github.com/Hopetueliminate/luma-ai-flow",
-            "stars": 183,
-            "forks": 0,
-            "score": 37
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
             "name": "aimux",
             "full_name": "arcships/aimux",
             "description": "Unified LLM access layer in Rust \u2014 one API for 325 AI providers. \u7edf\u4e00 LLM \u670d\u52a1\u63a5\u5165\u5c42\uff1a\u4e00\u5957 API \u63a5\u5165 325 \u5bb6 AI \u670d\u52a1\u5546\u3002",
@@ -300,11 +300,11 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "claude-ai-ultimate",
-            "full_name": "wallquailrespect/claude-ai-ultimate",
-            "description": "Claude AI Ultimate",
-            "url": "https://github.com/wallquailrespect/claude-ai-ultimate",
-            "stars": 174,
+            "name": "luma-ai-flow",
+            "full_name": "Hopetueliminate/luma-ai-flow",
+            "description": "Luma AI Flow",
+            "url": "https://github.com/Hopetueliminate/luma-ai-flow",
+            "stars": 172,
             "forks": 0,
             "score": 36
         },
@@ -772,5 +772,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-08-09 19:27"
+    "timestamp": "2026-08-09 20:23"
 };
