@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "trycompai/crm",
             "description": "Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.",
             "url": "https://github.com/trycompai/crm",
-            "stars": 7842,
-            "forks": 851,
+            "stars": 7851,
+            "forks": 854,
             "score": 99
         },
         {
@@ -18,7 +18,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "KKKKhazix/human-writing",
             "description": "\u8ba9 AI \u5199\u7684\u4e2d\u6587\u8bfb\u8d77\u6765\u50cf\u4e00\u4e2a\u5177\u4f53\u7684\u4eba\u5728\u8bf4\u8bdd\u3002\u901a\u7528\u521b\u4f5c\u4e0e\u6539\u7a3f Skill\uff0c\u5f00\u7bb1\u5373\u7528\u3002",
             "url": "https://github.com/KKKKhazix/human-writing",
-            "stars": 2009,
+            "stars": 2014,
             "forks": 178,
             "score": 99
         },
@@ -40,8 +40,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "Binaryify/open-kimi-ppt-skill",
             "description": "\u975e\u5b98\u65b9 Kimi Slides Skill\uff1a\u8ba9 AI Agent \u751f\u6210\u53ef\u7f16\u8f91 PPTD + PPTX\uff0c\u5e76\u9644\u5e26\u672c\u5730\u6d4f\u89c8\u5668\u7f16\u8f91\u5668 Unofficial Kimi Slides skill for AI agents \u2014 generate editable PPTD + PPTX with a local browser editor",
             "url": "https://github.com/Binaryify/open-kimi-ppt-skill",
-            "stars": 1592,
-            "forks": 1142,
+            "stars": 1594,
+            "forks": 1143,
             "score": 99
         },
         {
@@ -62,9 +62,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "eternityspring/shuohao-skills",
             "description": "\u7ed9 AI \u7f16\u7801 agent \u7528\u7684 skill \u96c6\u5408\uff0cClaude Code \u548c codex \u90fd\u80fd\u8dd1\u3002novel-characters\uff1a\u628a\u5c0f\u8bf4\u62c6\u6210\u89d2\u8272\u8bbe\u5b9a\u96c6\u2014\u2014\u4eba\u7269\u753b\u50cf\u3001\u5361\u901a\u5f62\u8c61\u63d0\u793a\u8bcd\u3001\u97f3\u8272\u63d0\u793a\u8bcd\u3001\u4e09\u89c6\u56fe\u3002 | Skills for AI coding agents, working in both Claude Code and codex. novel-characters turns a novel into a character bible: profiles, cartoon-design prompts, voice prompts and turnaround sheets.",
             "url": "https://github.com/eternityspring/shuohao-skills",
-            "stars": 336,
+            "stars": 348,
             "forks": 40,
-            "score": 79
+            "score": 80
         },
         {
             "main_cat": "AI",
@@ -73,7 +73,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "MarcosSete/awesome-free-ai-course-notes",
             "description": "A curated collection of machine learning and AI lecture notes from the world's leading universities.  This repository gives you access to the same lecture notes used by students at top institutions such as MIT, helping you learn from the very best educational resources available.",
             "url": "https://github.com/MarcosSete/awesome-free-ai-course-notes",
-            "stars": 563,
+            "stars": 564,
             "forks": 48,
             "score": 77
         },
@@ -102,22 +102,11 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "Fuxi",
-            "full_name": "fuxicodex/Fuxi",
-            "description": "FuXi is a fast, self-contained AI developer terminal",
-            "url": "https://github.com/fuxicodex/Fuxi",
-            "stars": 442,
-            "forks": 41,
-            "score": 73
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
             "name": "ponytail-improved",
             "full_name": "0xwilliamortiz/ponytail-improved",
             "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
             "url": "https://github.com/0xwilliamortiz/ponytail-improved",
-            "stars": 599,
+            "stars": 600,
             "forks": 129,
             "score": 69
         },
@@ -128,9 +117,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "AMAP-ML/LongHorizon-Harness",
             "description": "The long-horizon computer-use harness. Run AI agents across desktop apps and the CLI for extended periods while preserving task state and making reliable progress on complex workflows. Features fresh-context execution, durable verified state, independent auditing, recoverable progress, and native Claude Code / Codex / OpenClaw integration.",
             "url": "https://github.com/AMAP-ML/LongHorizon-Harness",
-            "stars": 429,
-            "forks": 49,
+            "stars": 435,
+            "forks": 51,
             "score": 69
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "Fuxi",
+            "full_name": "fuxicodex/Fuxi",
+            "description": "FuXi is a fast, self-contained AI developer terminal",
+            "url": "https://github.com/fuxicodex/Fuxi",
+            "stars": 443,
+            "forks": 41,
+            "score": 67
         },
         {
             "main_cat": "AI",
@@ -163,7 +163,7 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/alikon-art/DeterminFlow",
             "stars": 278,
             "forks": 39,
-            "score": 54
+            "score": 51
         },
         {
             "main_cat": "AI",
@@ -172,8 +172,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "aws/context-ontology-accelerator",
             "description": "An open-source, ontology-based semantic context accelerator that enables AI agents to make more accurate, consistent, and explainable decisions.",
             "url": "https://github.com/aws/context-ontology-accelerator",
-            "stars": 423,
-            "forks": 35,
+            "stars": 424,
+            "forks": 36,
             "score": 50
         },
         {
@@ -183,19 +183,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "kropdx/reflection-engine",
             "description": "A downloadable prompt that turns your AI assistant's memory of you into a candid, evidence-grounded portrait.",
             "url": "https://github.com/kropdx/reflection-engine",
-            "stars": 223,
+            "stars": 224,
             "forks": 9,
-            "score": 46
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "wai-play",
-            "full_name": "waiterve/wai-play",
-            "description": "WAI Play - AI web game testing and quality evaluation platform",
-            "url": "https://github.com/waiterve/wai-play",
-            "stars": 205,
-            "forks": 7,
             "score": 46
         },
         {
@@ -205,9 +194,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "uczltw6/trace-file-lineage",
             "description": "Find which script, notebook, data, command, or AI agent produced a file \u2014 locally, with evidence and honest uncertainty.",
             "url": "https://github.com/uczltw6/trace-file-lineage",
-            "stars": 371,
+            "stars": 373,
             "forks": 5,
             "score": 45
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "wai-play",
+            "full_name": "waiterve/wai-play",
+            "description": "WAI Play - AI web game testing and quality evaluation platform",
+            "url": "https://github.com/waiterve/wai-play",
+            "stars": 208,
+            "forks": 7,
+            "score": 44
         },
         {
             "main_cat": "AI",
@@ -293,7 +293,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "cofy-x/axern",
             "description": "Open-source sandboxes for AI agents, untrusted code execution, and durable services.",
             "url": "https://github.com/cofy-x/axern",
-            "stars": 167,
+            "stars": 170,
             "forks": 4,
             "score": 36
         },
@@ -315,8 +315,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "lss100200/omnibase",
             "description": "Self-hosted AI workbench for knowledge, RAG, model providers, and safely governed user-built agents. Public Preview; production Agent Runtime remains gated. \u81ea\u6258\u7ba1 AI \u77e5\u8bc6\u5de5\u4f5c\u53f0\u4e0e\u5b89\u5168 Agent \u5e73\u53f0\u3002",
             "url": "https://github.com/lss100200/omnibase",
-            "stars": 99,
-            "forks": 1,
+            "stars": 102,
+            "forks": 2,
             "score": 35
         },
         {
@@ -338,7 +338,7 @@ const ALPHA_DATA_V2 = {
             "description": "\ud83c\udf3f \u795e\u519c\u89c5 (ShennongMi) \u2014 AI-powered TCM knowledge navigator: Neo4j graph (19K+ nodes) \u00d7 LangGraph 14-node workflows \u00d7 self-correcting NL2Cypher \u00d7 dual-model intent recognition (fastText + RoBERTa-LoRA, 99.75% accuracy). Supports TCM knowledge Q&A, automated RED content publishing, and interactive graph exploration.",
             "url": "https://github.com/Happy-Chen-CH/ShenNongMi",
             "stars": 42,
-            "forks": 4,
+            "forks": 6,
             "score": 32
         },
         {
@@ -794,5 +794,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-08-09 06:43"
+    "timestamp": "2026-08-09 07:48"
 };
