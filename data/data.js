@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "trycompai/crm",
             "description": "Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.",
             "url": "https://github.com/trycompai/crm",
-            "stars": 7898,
-            "forks": 862,
+            "stars": 7903,
+            "forks": 864,
             "score": 99
         },
         {
@@ -18,7 +18,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "KKKKhazix/human-writing",
             "description": "\u8ba9 AI \u5199\u7684\u4e2d\u6587\u8bfb\u8d77\u6765\u50cf\u4e00\u4e2a\u5177\u4f53\u7684\u4eba\u5728\u8bf4\u8bdd\u3002\u901a\u7528\u521b\u4f5c\u4e0e\u6539\u7a3f Skill\uff0c\u5f00\u7bb1\u5373\u7528\u3002",
             "url": "https://github.com/KKKKhazix/human-writing",
-            "stars": 2058,
+            "stars": 2063,
             "forks": 180,
             "score": 99
         },
@@ -40,9 +40,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "Binaryify/open-kimi-ppt-skill",
             "description": "\u975e\u5b98\u65b9 Kimi Slides Skill\uff1a\u8ba9 AI Agent \u751f\u6210\u53ef\u7f16\u8f91 PPTD + PPTX\uff0c\u5e76\u9644\u5e26\u672c\u5730\u6d4f\u89c8\u5668\u7f16\u8f91\u5668 Unofficial Kimi Slides skill for AI agents \u2014 generate editable PPTD + PPTX with a local browser editor",
             "url": "https://github.com/Binaryify/open-kimi-ppt-skill",
-            "stars": 1600,
-            "forks": 1149,
+            "stars": 1603,
+            "forks": 1150,
             "score": 99
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "shuohao-skills",
+            "full_name": "eternityspring/shuohao-skills",
+            "description": "\u7ed9 AI \u7f16\u7801 agent \u7528\u7684 skill \u96c6\u5408\uff0cClaude Code \u548c codex \u90fd\u80fd\u8dd1\u3002novel-characters\uff1a\u628a\u5c0f\u8bf4\u62c6\u6210\u89d2\u8272\u8bbe\u5b9a\u96c6\u2014\u2014\u4eba\u7269\u753b\u50cf\u3001\u5361\u901a\u5f62\u8c61\u63d0\u793a\u8bcd\u3001\u97f3\u8272\u63d0\u793a\u8bcd\u3001\u4e09\u89c6\u56fe\u3002 | Skills for AI coding agents, working in both Claude Code and codex. novel-characters turns a novel into a character bible: profiles, cartoon-design prompts, voice prompts and turnaround sheets.",
+            "url": "https://github.com/eternityspring/shuohao-skills",
+            "stars": 422,
+            "forks": 48,
+            "score": 81
         },
         {
             "main_cat": "AI",
@@ -53,18 +64,7 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/magicrew/doc7",
             "stars": 832,
             "forks": 27,
-            "score": 82
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "shuohao-skills",
-            "full_name": "eternityspring/shuohao-skills",
-            "description": "\u7ed9 AI \u7f16\u7801 agent \u7528\u7684 skill \u96c6\u5408\uff0cClaude Code \u548c codex \u90fd\u80fd\u8dd1\u3002novel-characters\uff1a\u628a\u5c0f\u8bf4\u62c6\u6210\u89d2\u8272\u8bbe\u5b9a\u96c6\u2014\u2014\u4eba\u7269\u753b\u50cf\u3001\u5361\u901a\u5f62\u8c61\u63d0\u793a\u8bcd\u3001\u97f3\u8272\u63d0\u793a\u8bcd\u3001\u4e09\u89c6\u56fe\u3002 | Skills for AI coding agents, working in both Claude Code and codex. novel-characters turns a novel into a character bible: profiles, cartoon-design prompts, voice prompts and turnaround sheets.",
-            "url": "https://github.com/eternityspring/shuohao-skills",
-            "stars": 413,
-            "forks": 47,
-            "score": 80
+            "score": 77
         },
         {
             "main_cat": "AI",
@@ -84,7 +84,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "AMAP-ML/LongHorizon-Harness",
             "description": "The long-horizon computer-use harness. Run AI agents across desktop apps and the CLI for extended periods while preserving task state and making reliable progress on complex workflows. Features fresh-context execution, durable verified state, independent auditing, recoverable progress, and native Claude Code / Codex / OpenClaw integration.",
             "url": "https://github.com/AMAP-ML/LongHorizon-Harness",
-            "stars": 467,
+            "stars": 470,
             "forks": 60,
             "score": 74
         },
@@ -106,20 +106,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "MarcosSete/awesome-free-ai-course-notes",
             "description": "A curated collection of machine learning and AI lecture notes from the world's leading universities.  This repository gives you access to the same lecture notes used by students at top institutions such as MIT, helping you learn from the very best educational resources available.",
             "url": "https://github.com/MarcosSete/awesome-free-ai-course-notes",
-            "stars": 569,
+            "stars": 570,
             "forks": 48,
             "score": 72
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "ponytail-improved",
-            "full_name": "0xwilliamortiz/ponytail-improved",
-            "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-            "url": "https://github.com/0xwilliamortiz/ponytail-improved",
-            "stars": 600,
-            "forks": 129,
-            "score": 69
         },
         {
             "main_cat": "AI",
@@ -135,13 +124,24 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
+            "name": "ponytail-improved",
+            "full_name": "0xwilliamortiz/ponytail-improved",
+            "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+            "url": "https://github.com/0xwilliamortiz/ponytail-improved",
+            "stars": 600,
+            "forks": 129,
+            "score": 67
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
             "name": "my_ai_town",
             "full_name": "mewamew/my_ai_town",
             "description": "\u6211\u7684AI\u5c0f\u9547",
             "url": "https://github.com/mewamew/my_ai_town",
-            "stars": 196,
-            "forks": 30,
-            "score": 61
+            "stars": 206,
+            "forks": 31,
+            "score": 63
         },
         {
             "main_cat": "AI",
@@ -227,9 +227,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "DanielPan12/JobHuntBot",
             "description": "Agent-led job application workflow with a local progress-tracking dashboard \u2014 works with any AI coding agent that can read files and follow instructions.AI Agent \u9a71\u52a8\u7684\u6c42\u804c\u6295\u9012\u5de5\u4f5c\u6d41,\u914d\u672c\u5730\u8fdb\u5ea6\u8ffd\u8e2a\u770b\u677f\u2014\u2014\u9002\u914d\u4efb\u4f55\u80fd\u8bfb\u6587\u4ef6\u3001\u542c\u61c2\u6307\u4ee4\u7684\u7f16\u7a0b Agent\u3002",
             "url": "https://github.com/DanielPan12/JobHuntBot",
-            "stars": 186,
+            "stars": 194,
             "forks": 20,
-            "score": 44
+            "score": 45
         },
         {
             "main_cat": "AI",
@@ -758,17 +758,6 @@ const ALPHA_DATA_V2 = {
             "stars": 0,
             "forks": 0,
             "score": 30
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "librarian-mcp",
-            "full_name": "andrewdhannah/librarian-mcp",
-            "description": "Librarian MCP Protocol Plane \u2014 Cross-platform Model Context Protocol server for governed AI agent execution",
-            "url": "https://github.com/andrewdhannah/librarian-mcp",
-            "stars": 0,
-            "forks": 0,
-            "score": 30
         }
     ],
     "news": [
@@ -794,5 +783,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-08-09 13:43"
+    "timestamp": "2026-08-09 14:27"
 };
