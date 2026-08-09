@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "trycompai/crm",
             "description": "Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.",
             "url": "https://github.com/trycompai/crm",
-            "stars": 7935,
-            "forks": 872,
+            "stars": 7948,
+            "forks": 875,
             "score": 99
         },
         {
@@ -18,7 +18,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "KKKKhazix/human-writing",
             "description": "\u8ba9 AI \u5199\u7684\u4e2d\u6587\u8bfb\u8d77\u6765\u50cf\u4e00\u4e2a\u5177\u4f53\u7684\u4eba\u5728\u8bf4\u8bdd\u3002\u901a\u7528\u521b\u4f5c\u4e0e\u6539\u7a3f Skill\uff0c\u5f00\u7bb1\u5373\u7528\u3002",
             "url": "https://github.com/KKKKhazix/human-writing",
-            "stars": 2088,
+            "stars": 2090,
             "forks": 184,
             "score": 99
         },
@@ -40,7 +40,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Binaryify/open-kimi-ppt-skill",
             "description": "\u975e\u5b98\u65b9 Kimi Slides Skill\uff1a\u8ba9 AI Agent \u751f\u6210\u53ef\u7f16\u8f91 PPTD + PPTX\uff0c\u5e76\u9644\u5e26\u672c\u5730\u6d4f\u89c8\u5668\u7f16\u8f91\u5668 Unofficial Kimi Slides skill for AI agents \u2014 generate editable PPTD + PPTX with a local browser editor",
             "url": "https://github.com/Binaryify/open-kimi-ppt-skill",
-            "stars": 1604,
+            "stars": 1606,
             "forks": 1152,
             "score": 99
         },
@@ -51,8 +51,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "eternityspring/shuohao-skills",
             "description": "\u7ed9 AI \u7f16\u7801 agent \u7528\u7684 skill \u96c6\u5408\uff0cClaude Code \u548c codex \u90fd\u80fd\u8dd1\u3002novel-characters\uff1a\u628a\u5c0f\u8bf4\u62c6\u6210\u89d2\u8272\u8bbe\u5b9a\u96c6\u2014\u2014\u4eba\u7269\u753b\u50cf\u3001\u5361\u901a\u5f62\u8c61\u63d0\u793a\u8bcd\u3001\u97f3\u8272\u63d0\u793a\u8bcd\u3001\u4e09\u89c6\u56fe\u3002 | Skills for AI coding agents, working in both Claude Code and codex. novel-characters turns a novel into a character bible: profiles, cartoon-design prompts, voice prompts and turnaround sheets.",
             "url": "https://github.com/eternityspring/shuohao-skills",
-            "stars": 469,
-            "forks": 55,
+            "stars": 471,
+            "forks": 56,
             "score": 87
         },
         {
@@ -73,7 +73,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "AMAP-ML/LongHorizon-Harness",
             "description": "The long-horizon computer-use harness. Run AI agents across desktop apps and the CLI for extended periods while preserving task state and making reliable progress on complex workflows. Features fresh-context execution, durable verified state, independent auditing, recoverable progress, and native Claude Code / Codex / OpenClaw integration.",
             "url": "https://github.com/AMAP-ML/LongHorizon-Harness",
-            "stars": 488,
+            "stars": 493,
             "forks": 60,
             "score": 75
         },
@@ -139,7 +139,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "mewamew/my_ai_town",
             "description": "\u6211\u7684AI\u5c0f\u9547",
             "url": "https://github.com/mewamew/my_ai_town",
-            "stars": 225,
+            "stars": 228,
             "forks": 35,
             "score": 66
         },
@@ -150,7 +150,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "joeseesun/qiaomu-seo",
             "description": "Audit, diagnose, research, plan, implement, experiment on, and verify website SEO across Google, Bing, and AI-search surfaces. Use for technical SEO, ",
             "url": "https://github.com/joeseesun/qiaomu-seo",
-            "stars": 325,
+            "stars": 327,
             "forks": 43,
             "score": 57
         },
@@ -161,7 +161,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "petergyang/human-review",
             "description": "A visual tool to edit HTML and Markdown files, leave comments like a Google Doc, and send feedback to your AI agent. Works inside your favorite AI harness.",
             "url": "https://github.com/petergyang/human-review",
-            "stars": 641,
+            "stars": 643,
             "forks": 44,
             "score": 55
         },
@@ -747,17 +747,6 @@ const ALPHA_DATA_V2 = {
             "stars": 0,
             "forks": 0,
             "score": 30
-        },
-        {
-            "main_cat": "Cross-chain / Interoperability",
-            "sub_cat": null,
-            "name": "CoinP2P",
-            "full_name": "patrickkelava1994-bot/CoinP2P",
-            "description": "a fully decentralized cross protocol p2p trading engine",
-            "url": "https://github.com/patrickkelava1994-bot/CoinP2P",
-            "stars": 0,
-            "forks": 0,
-            "score": 30
         }
     ],
     "news": [
@@ -783,5 +772,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-08-09 18:29"
+    "timestamp": "2026-08-09 19:27"
 };
