@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "trycompai/crm",
             "description": "Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.",
             "url": "https://github.com/trycompai/crm",
-            "stars": 7910,
-            "forks": 868,
+            "stars": 7920,
+            "forks": 870,
             "score": 99
         },
         {
@@ -18,8 +18,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "KKKKhazix/human-writing",
             "description": "\u8ba9 AI \u5199\u7684\u4e2d\u6587\u8bfb\u8d77\u6765\u50cf\u4e00\u4e2a\u5177\u4f53\u7684\u4eba\u5728\u8bf4\u8bdd\u3002\u901a\u7528\u521b\u4f5c\u4e0e\u6539\u7a3f Skill\uff0c\u5f00\u7bb1\u5373\u7528\u3002",
             "url": "https://github.com/KKKKhazix/human-writing",
-            "stars": 2069,
-            "forks": 181,
+            "stars": 2076,
+            "forks": 182,
             "score": 99
         },
         {
@@ -29,8 +29,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "QwenAudio/qwen-audio-agent",
             "description": "A realtime voice runtime that keeps Agents talking, working, and present.  Real-time Voice Runtime for AI Agents",
             "url": "https://github.com/QwenAudio/qwen-audio-agent",
-            "stars": 2016,
-            "forks": 146,
+            "stars": 2018,
+            "forks": 147,
             "score": 99
         },
         {
@@ -40,7 +40,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Binaryify/open-kimi-ppt-skill",
             "description": "\u975e\u5b98\u65b9 Kimi Slides Skill\uff1a\u8ba9 AI Agent \u751f\u6210\u53ef\u7f16\u8f91 PPTD + PPTX\uff0c\u5e76\u9644\u5e26\u672c\u5730\u6d4f\u89c8\u5668\u7f16\u8f91\u5668 Unofficial Kimi Slides skill for AI agents \u2014 generate editable PPTD + PPTX with a local browser editor",
             "url": "https://github.com/Binaryify/open-kimi-ppt-skill",
-            "stars": 1603,
+            "stars": 1604,
             "forks": 1150,
             "score": 99
         },
@@ -51,9 +51,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "eternityspring/shuohao-skills",
             "description": "\u7ed9 AI \u7f16\u7801 agent \u7528\u7684 skill \u96c6\u5408\uff0cClaude Code \u548c codex \u90fd\u80fd\u8dd1\u3002novel-characters\uff1a\u628a\u5c0f\u8bf4\u62c6\u6210\u89d2\u8272\u8bbe\u5b9a\u96c6\u2014\u2014\u4eba\u7269\u753b\u50cf\u3001\u5361\u901a\u5f62\u8c61\u63d0\u793a\u8bcd\u3001\u97f3\u8272\u63d0\u793a\u8bcd\u3001\u4e09\u89c6\u56fe\u3002 | Skills for AI coding agents, working in both Claude Code and codex. novel-characters turns a novel into a character bible: profiles, cartoon-design prompts, voice prompts and turnaround sheets.",
             "url": "https://github.com/eternityspring/shuohao-skills",
-            "stars": 434,
-            "forks": 50,
-            "score": 82
+            "stars": 450,
+            "forks": 54,
+            "score": 85
         },
         {
             "main_cat": "AI",
@@ -68,25 +68,14 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
-            "sub_cat": null,
-            "name": "HermesOffice",
-            "full_name": "criptogus/HermesOffice",
-            "description": "HermesOffice \u2014 AI-native office suite forked from GenOffice (Apache-2.0), with native Hermes Agent AI",
-            "url": "https://github.com/criptogus/HermesOffice",
-            "stars": 424,
-            "forks": 52,
-            "score": 75
-        },
-        {
-            "main_cat": "AI",
             "sub_cat": "AI Agents",
             "name": "LongHorizon-Harness",
             "full_name": "AMAP-ML/LongHorizon-Harness",
             "description": "The long-horizon computer-use harness. Run AI agents across desktop apps and the CLI for extended periods while preserving task state and making reliable progress on complex workflows. Features fresh-context execution, durable verified state, independent auditing, recoverable progress, and native Claude Code / Codex / OpenClaw integration.",
             "url": "https://github.com/AMAP-ML/LongHorizon-Harness",
-            "stars": 474,
+            "stars": 480,
             "forks": 60,
-            "score": 74
+            "score": 75
         },
         {
             "main_cat": "AI",
@@ -106,9 +95,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "MarcosSete/awesome-free-ai-course-notes",
             "description": "A curated collection of machine learning and AI lecture notes from the world's leading universities.  This repository gives you access to the same lecture notes used by students at top institutions such as MIT, helping you learn from the very best educational resources available.",
             "url": "https://github.com/MarcosSete/awesome-free-ai-course-notes",
-            "stars": 571,
+            "stars": 572,
             "forks": 48,
             "score": 72
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "HermesOffice",
+            "full_name": "criptogus/HermesOffice",
+            "description": "HermesOffice \u2014 AI-native office suite forked from GenOffice (Apache-2.0), with native Hermes Agent AI",
+            "url": "https://github.com/criptogus/HermesOffice",
+            "stars": 424,
+            "forks": 52,
+            "score": 69
         },
         {
             "main_cat": "AI",
@@ -139,9 +139,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "mewamew/my_ai_town",
             "description": "\u6211\u7684AI\u5c0f\u9547",
             "url": "https://github.com/mewamew/my_ai_town",
-            "stars": 215,
-            "forks": 32,
-            "score": 64
+            "stars": 219,
+            "forks": 33,
+            "score": 65
         },
         {
             "main_cat": "AI",
@@ -161,7 +161,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "petergyang/human-review",
             "description": "A visual tool to edit HTML and Markdown files, leave comments like a Google Doc, and send feedback to your AI agent. Works inside your favorite AI harness.",
             "url": "https://github.com/petergyang/human-review",
-            "stars": 637,
+            "stars": 639,
             "forks": 43,
             "score": 55
         },
@@ -172,7 +172,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "alikon-art/DeterminFlow",
             "description": "A production-oriented AI workflow runtime for building, validating, recovering, and shipping complex AI workflows as dependable services. \u9762\u5411\u751f\u4ea7\u7684 AI \u5de5\u4f5c\u6d41\u8fd0\u884c\u65f6\uff1a\u5feb\u901f\u5f00\u53d1\u3001\u9a8c\u8bc1\u548c\u6062\u590d\u590d\u6742 AI \u5de5\u4f5c\u6d41\uff0c\u5e76\u5c06\u5176\u7a33\u5b9a\u4ea4\u4ed8\u4e3a\u670d\u52a1\u3002",
             "url": "https://github.com/alikon-art/DeterminFlow",
-            "stars": 280,
+            "stars": 281,
             "forks": 39,
             "score": 51
         },
@@ -227,7 +227,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "DanielPan12/JobHuntBot",
             "description": "Agent-led job application workflow with a local progress-tracking dashboard \u2014 works with any AI coding agent that can read files and follow instructions.AI Agent \u9a71\u52a8\u7684\u6c42\u804c\u6295\u9012\u5de5\u4f5c\u6d41,\u914d\u672c\u5730\u8fdb\u5ea6\u8ffd\u8e2a\u770b\u677f\u2014\u2014\u9002\u914d\u4efb\u4f55\u80fd\u8bfb\u6587\u4ef6\u3001\u542c\u61c2\u6307\u4ee4\u7684\u7f16\u7a0b Agent\u3002",
             "url": "https://github.com/DanielPan12/JobHuntBot",
-            "stars": 200,
+            "stars": 210,
             "forks": 20,
             "score": 44
         },
@@ -238,7 +238,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "mrpulor-gh/nuphus-mcp",
             "description": "Desktop automation MCP server \u2014 computer use for any AI agent: control screen, windows, mouse/keyboard, and Chrome via Model Context Protocol (stdio)",
             "url": "https://github.com/mrpulor-gh/nuphus-mcp",
-            "stars": 183,
+            "stars": 184,
             "forks": 22,
             "score": 42
         },
@@ -783,5 +783,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-08-09 15:24"
+    "timestamp": "2026-08-09 16:26"
 };
