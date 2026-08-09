@@ -7,7 +7,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "trycompai/crm",
             "description": "Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.",
             "url": "https://github.com/trycompai/crm",
-            "stars": 7874,
+            "stars": 7883,
             "forks": 861,
             "score": 99
         },
@@ -18,7 +18,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "KKKKhazix/human-writing",
             "description": "\u8ba9 AI \u5199\u7684\u4e2d\u6587\u8bfb\u8d77\u6765\u50cf\u4e00\u4e2a\u5177\u4f53\u7684\u4eba\u5728\u8bf4\u8bdd\u3002\u901a\u7528\u521b\u4f5c\u4e0e\u6539\u7a3f Skill\uff0c\u5f00\u7bb1\u5373\u7528\u3002",
             "url": "https://github.com/KKKKhazix/human-writing",
-            "stars": 2043,
+            "stars": 2052,
             "forks": 180,
             "score": 99
         },
@@ -29,8 +29,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "QwenAudio/qwen-audio-agent",
             "description": "A realtime voice runtime that keeps Agents talking, working, and present.  Real-time Voice Runtime for AI Agents",
             "url": "https://github.com/QwenAudio/qwen-audio-agent",
-            "stars": 2009,
-            "forks": 145,
+            "stars": 2010,
+            "forks": 146,
             "score": 99
         },
         {
@@ -40,8 +40,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "Binaryify/open-kimi-ppt-skill",
             "description": "\u975e\u5b98\u65b9 Kimi Slides Skill\uff1a\u8ba9 AI Agent \u751f\u6210\u53ef\u7f16\u8f91 PPTD + PPTX\uff0c\u5e76\u9644\u5e26\u672c\u5730\u6d4f\u89c8\u5668\u7f16\u8f91\u5668 Unofficial Kimi Slides skill for AI agents \u2014 generate editable PPTD + PPTX with a local browser editor",
             "url": "https://github.com/Binaryify/open-kimi-ppt-skill",
-            "stars": 1597,
-            "forks": 1146,
+            "stars": 1599,
+            "forks": 1147,
             "score": 99
         },
         {
@@ -58,24 +58,13 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "awesome-free-ai-course-notes",
-            "full_name": "MarcosSete/awesome-free-ai-course-notes",
-            "description": "A curated collection of machine learning and AI lecture notes from the world's leading universities.  This repository gives you access to the same lecture notes used by students at top institutions such as MIT, helping you learn from the very best educational resources available.",
-            "url": "https://github.com/MarcosSete/awesome-free-ai-course-notes",
-            "stars": 567,
-            "forks": 48,
-            "score": 77
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
             "name": "shuohao-skills",
             "full_name": "eternityspring/shuohao-skills",
             "description": "\u7ed9 AI \u7f16\u7801 agent \u7528\u7684 skill \u96c6\u5408\uff0cClaude Code \u548c codex \u90fd\u80fd\u8dd1\u3002novel-characters\uff1a\u628a\u5c0f\u8bf4\u62c6\u6210\u89d2\u8272\u8bbe\u5b9a\u96c6\u2014\u2014\u4eba\u7269\u753b\u50cf\u3001\u5361\u901a\u5f62\u8c61\u63d0\u793a\u8bcd\u3001\u97f3\u8272\u63d0\u793a\u8bcd\u3001\u4e09\u89c6\u56fe\u3002 | Skills for AI coding agents, working in both Claude Code and codex. novel-characters turns a novel into a character bible: profiles, cartoon-design prompts, voice prompts and turnaround sheets.",
             "url": "https://github.com/eternityspring/shuohao-skills",
-            "stars": 388,
-            "forks": 43,
-            "score": 76
+            "stars": 399,
+            "forks": 45,
+            "score": 78
         },
         {
             "main_cat": "AI",
@@ -84,7 +73,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "criptogus/HermesOffice",
             "description": "HermesOffice \u2014 AI-native office suite forked from GenOffice (Apache-2.0), with native Hermes Agent AI",
             "url": "https://github.com/criptogus/HermesOffice",
-            "stars": 422,
+            "stars": 423,
             "forks": 52,
             "score": 75
         },
@@ -106,8 +95,19 @@ const ALPHA_DATA_V2 = {
             "full_name": "AMAP-ML/LongHorizon-Harness",
             "description": "The long-horizon computer-use harness. Run AI agents across desktop apps and the CLI for extended periods while preserving task state and making reliable progress on complex workflows. Features fresh-context execution, durable verified state, independent auditing, recoverable progress, and native Claude Code / Codex / OpenClaw integration.",
             "url": "https://github.com/AMAP-ML/LongHorizon-Harness",
-            "stars": 456,
-            "forks": 56,
+            "stars": 464,
+            "forks": 58,
+            "score": 73
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "awesome-free-ai-course-notes",
+            "full_name": "MarcosSete/awesome-free-ai-course-notes",
+            "description": "A curated collection of machine learning and AI lecture notes from the world's leading universities.  This repository gives you access to the same lecture notes used by students at top institutions such as MIT, helping you learn from the very best educational resources available.",
+            "url": "https://github.com/MarcosSete/awesome-free-ai-course-notes",
+            "stars": 567,
+            "forks": 48,
             "score": 72
         },
         {
@@ -135,6 +135,17 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
+            "name": "my_ai_town",
+            "full_name": "mewamew/my_ai_town",
+            "description": "\u6211\u7684AI\u5c0f\u9547",
+            "url": "https://github.com/mewamew/my_ai_town",
+            "stars": 181,
+            "forks": 29,
+            "score": 59
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
             "name": "qiaomu-seo",
             "full_name": "joeseesun/qiaomu-seo",
             "description": "Audit, diagnose, research, plan, implement, experiment on, and verify website SEO across Google, Bing, and AI-search surfaces. Use for technical SEO, ",
@@ -146,22 +157,11 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "my_ai_town",
-            "full_name": "mewamew/my_ai_town",
-            "description": "\u6211\u7684AI\u5c0f\u9547",
-            "url": "https://github.com/mewamew/my_ai_town",
-            "stars": 167,
-            "forks": 26,
-            "score": 57
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
             "name": "human-review",
             "full_name": "petergyang/human-review",
             "description": "A visual tool to edit HTML and Markdown files, leave comments like a Google Doc, and send feedback to your AI agent. Works inside your favorite AI harness.",
             "url": "https://github.com/petergyang/human-review",
-            "stars": 633,
+            "stars": 634,
             "forks": 43,
             "score": 56
         },
@@ -183,7 +183,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "aws/context-ontology-accelerator",
             "description": "An open-source, ontology-based semantic context accelerator that enables AI agents to make more accurate, consistent, and explainable decisions.",
             "url": "https://github.com/aws/context-ontology-accelerator",
-            "stars": 426,
+            "stars": 428,
             "forks": 36,
             "score": 50
         },
@@ -194,7 +194,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "waiterve/wai-play",
             "description": "WAI Play - AI web game testing and quality evaluation platform",
             "url": "https://github.com/waiterve/wai-play",
-            "stars": 226,
+            "stars": 228,
             "forks": 8,
             "score": 46
         },
@@ -205,7 +205,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "kropdx/reflection-engine",
             "description": "A downloadable prompt that turns your AI assistant's memory of you into a candid, evidence-grounded portrait.",
             "url": "https://github.com/kropdx/reflection-engine",
-            "stars": 224,
+            "stars": 223,
             "forks": 9,
             "score": 46
         },
@@ -216,9 +216,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "uczltw6/trace-file-lineage",
             "description": "Find which script, notebook, data, command, or AI agent produced a file \u2014 locally, with evidence and honest uncertainty.",
             "url": "https://github.com/uczltw6/trace-file-lineage",
-            "stars": 388,
+            "stars": 390,
             "forks": 5,
             "score": 45
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "JobHuntBot",
+            "full_name": "DanielPan12/JobHuntBot",
+            "description": "Agent-led job application workflow with a local progress-tracking dashboard \u2014 works with any AI coding agent that can read files and follow instructions.AI Agent \u9a71\u52a8\u7684\u6c42\u804c\u6295\u9012\u5de5\u4f5c\u6d41,\u914d\u672c\u5730\u8fdb\u5ea6\u8ffd\u8e2a\u770b\u677f\u2014\u2014\u9002\u914d\u4efb\u4f55\u80fd\u8bfb\u6587\u4ef6\u3001\u542c\u61c2\u6307\u4ee4\u7684\u7f16\u7a0b Agent\u3002",
+            "url": "https://github.com/DanielPan12/JobHuntBot",
+            "stars": 175,
+            "forks": 17,
+            "score": 43
         },
         {
             "main_cat": "AI",
@@ -227,7 +238,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "mrpulor-gh/nuphus-mcp",
             "description": "Desktop automation MCP server \u2014 computer use for any AI agent: control screen, windows, mouse/keyboard, and Chrome via Model Context Protocol (stdio)",
             "url": "https://github.com/mrpulor-gh/nuphus-mcp",
-            "stars": 181,
+            "stars": 182,
             "forks": 22,
             "score": 42
         },
@@ -295,17 +306,6 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/wallquailrespect/claude-ai-ultimate",
             "stars": 174,
             "forks": 0,
-            "score": 36
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "axern",
-            "full_name": "cofy-x/axern",
-            "description": "Open-source sandboxes for AI agents, untrusted code execution, and durable services.",
-            "url": "https://github.com/cofy-x/axern",
-            "stars": 171,
-            "forks": 4,
             "score": 36
         },
         {
@@ -794,5 +794,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-08-09 11:22"
+    "timestamp": "2026-08-09 12:36"
 };
