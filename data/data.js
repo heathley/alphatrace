@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "trycompai/crm",
             "description": "Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.",
             "url": "https://github.com/trycompai/crm",
-            "stars": 7828,
-            "forks": 849,
+            "stars": 7834,
+            "forks": 850,
             "score": 99
         },
         {
@@ -18,7 +18,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "KKKKhazix/human-writing",
             "description": "\u8ba9 AI \u5199\u7684\u4e2d\u6587\u8bfb\u8d77\u6765\u50cf\u4e00\u4e2a\u5177\u4f53\u7684\u4eba\u5728\u8bf4\u8bdd\u3002\u901a\u7528\u521b\u4f5c\u4e0e\u6539\u7a3f Skill\uff0c\u5f00\u7bb1\u5373\u7528\u3002",
             "url": "https://github.com/KKKKhazix/human-writing",
-            "stars": 1998,
+            "stars": 2002,
             "forks": 175,
             "score": 99
         },
@@ -40,8 +40,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "Binaryify/open-kimi-ppt-skill",
             "description": "\u975e\u5b98\u65b9 Kimi Slides Skill\uff1a\u8ba9 AI Agent \u751f\u6210\u53ef\u7f16\u8f91 PPTD + PPTX\uff0c\u5e76\u9644\u5e26\u672c\u5730\u6d4f\u89c8\u5668\u7f16\u8f91\u5668 Unofficial Kimi Slides skill for AI agents \u2014 generate editable PPTD + PPTX with a local browser editor",
             "url": "https://github.com/Binaryify/open-kimi-ppt-skill",
-            "stars": 1591,
-            "forks": 1136,
+            "stars": 1592,
+            "forks": 1140,
             "score": 99
         },
         {
@@ -51,7 +51,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "magicrew/doc7",
             "description": "Turn documents into AI-ready Markdown with visual understanding",
             "url": "https://github.com/magicrew/doc7",
-            "stars": 828,
+            "stars": 829,
             "forks": 27,
             "score": 82
         },
@@ -62,9 +62,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "eternityspring/shuohao-skills",
             "description": "\u7ed9 AI \u7f16\u7801 agent \u7528\u7684 skill \u96c6\u5408\uff0cClaude Code \u548c codex \u90fd\u80fd\u8dd1\u3002novel-characters\uff1a\u628a\u5c0f\u8bf4\u62c6\u6210\u89d2\u8272\u8bbe\u5b9a\u96c6\u2014\u2014\u4eba\u7269\u753b\u50cf\u3001\u5361\u901a\u5f62\u8c61\u63d0\u793a\u8bcd\u3001\u97f3\u8272\u63d0\u793a\u8bcd\u3001\u4e09\u89c6\u56fe\u3002 | Skills for AI coding agents, working in both Claude Code and codex. novel-characters turns a novel into a character bible: profiles, cartoon-design prompts, voice prompts and turnaround sheets.",
             "url": "https://github.com/eternityspring/shuohao-skills",
-            "stars": 326,
+            "stars": 331,
             "forks": 40,
-            "score": 78
+            "score": 79
         },
         {
             "main_cat": "AI",
@@ -73,7 +73,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "MarcosSete/awesome-free-ai-course-notes",
             "description": "A curated collection of machine learning and AI lecture notes from the world's leading universities.  This repository gives you access to the same lecture notes used by students at top institutions such as MIT, helping you learn from the very best educational resources available.",
             "url": "https://github.com/MarcosSete/awesome-free-ai-course-notes",
-            "stars": 560,
+            "stars": 563,
             "forks": 48,
             "score": 77
         },
@@ -106,7 +106,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "fuxicodex/Fuxi",
             "description": "FuXi is a fast, self-contained AI developer terminal",
             "url": "https://github.com/fuxicodex/Fuxi",
-            "stars": 441,
+            "stars": 442,
             "forks": 41,
             "score": 73
         },
@@ -128,7 +128,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "AMAP-ML/LongHorizon-Harness",
             "description": "The long-horizon computer-use harness. Run AI agents across desktop apps and the CLI for extended periods while preserving task state and making reliable progress on complex workflows. Features fresh-context execution, durable verified state, independent auditing, recoverable progress, and native Claude Code / Codex / OpenClaw integration.",
             "url": "https://github.com/AMAP-ML/LongHorizon-Harness",
-            "stars": 419,
+            "stars": 425,
             "forks": 49,
             "score": 68
         },
@@ -150,7 +150,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "petergyang/human-review",
             "description": "A visual tool to edit HTML and Markdown files, leave comments like a Google Doc, and send feedback to your AI agent. Works inside your favorite AI harness.",
             "url": "https://github.com/petergyang/human-review",
-            "stars": 627,
+            "stars": 628,
             "forks": 43,
             "score": 56
         },
@@ -216,7 +216,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "mrpulor-gh/nuphus-mcp",
             "description": "Desktop automation MCP server \u2014 computer use for any AI agent: control screen, windows, mouse/keyboard, and Chrome via Model Context Protocol (stdio)",
             "url": "https://github.com/mrpulor-gh/nuphus-mcp",
-            "stars": 175,
+            "stars": 176,
             "forks": 22,
             "score": 43
         },
@@ -311,6 +311,17 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
+            "name": "omnibase",
+            "full_name": "lss100200/omnibase",
+            "description": "Self-hosted AI workbench for knowledge, RAG, model providers, and safely governed user-built agents. Public Preview; production Agent Runtime remains gated. \u81ea\u6258\u7ba1 AI \u77e5\u8bc6\u5de5\u4f5c\u53f0\u4e0e\u5b89\u5168 Agent \u5e73\u53f0\u3002",
+            "url": "https://github.com/lss100200/omnibase",
+            "stars": 97,
+            "forks": 1,
+            "score": 35
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
             "name": "smol-kimi-k3",
             "full_name": "cneuralnetwork/smol-kimi-k3",
             "description": "A 49M-parameter Kimi K3-inspired language model trainable on one 8GB GPU",
@@ -337,7 +348,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Happy-Chen-CH/ShenNongMi",
             "description": "\ud83c\udf3f \u795e\u519c\u89c5 (ShennongMi) \u2014 AI-powered TCM knowledge navigator: Neo4j graph (19K+ nodes) \u00d7 LangGraph 14-node workflows \u00d7 self-correcting NL2Cypher \u00d7 dual-model intent recognition (fastText + RoBERTa-LoRA, 99.75% accuracy). Supports TCM knowledge Q&A, automated RED content publishing, and interactive graph exploration.",
             "url": "https://github.com/Happy-Chen-CH/ShenNongMi",
-            "stars": 22,
+            "stars": 31,
             "forks": 4,
             "score": 31
         },
@@ -619,28 +630,6 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
-            "name": "zold",
-            "full_name": "Zoldenburg-me/zold",
-            "description": "Cross-border payments on stablecoin rails \u2014 SEPA in via per-user IBANs, EURe in the user's own passkey Safe, out as SEPA or cash pickup. A reference implementation on testnets and sandboxes.",
-            "url": "https://github.com/Zoldenburg-me/zold",
-            "stars": 0,
-            "forks": 0,
-            "score": 30
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "ripple-labs",
-            "full_name": "api-evangelist/ripple-labs",
-            "description": "Ripple (legally Ripple Labs Inc.) is a blockchain and crypto-enabled financial infrastructure company whose developer surface spans Ripple Payments (RippleNet Server API, On-Demand Liquidity, Payments Direct, Report Service, and Smart Liquidation), the RLUSD stablecoin \"Ripple Mint\" API, and Palisade Wallet-as-a-Service for institutional\u2026",
-            "url": "https://github.com/api-evangelist/ripple-labs",
-            "stars": 0,
-            "forks": 0,
-            "score": 30
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
             "name": "token-migration-tool",
             "full_name": "Kabutoxyz/token-migration-tool",
             "description": "Migrate tokens between chains. Support for bridge protocols and cross-chain swaps.",
@@ -805,5 +794,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-08-09 04:57"
+    "timestamp": "2026-08-09 05:46"
 };
