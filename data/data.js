@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "trycompai/crm",
             "description": "Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.",
             "url": "https://github.com/trycompai/crm",
-            "stars": 8090,
-            "forks": 896,
+            "stars": 8095,
+            "forks": 897,
             "score": 99
         },
         {
@@ -18,7 +18,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "KKKKhazix/human-writing",
             "description": "\u8ba9 AI \u5199\u7684\u4e2d\u6587\u8bfb\u8d77\u6765\u50cf\u4e00\u4e2a\u5177\u4f53\u7684\u4eba\u5728\u8bf4\u8bdd\u3002\u901a\u7528\u521b\u4f5c\u4e0e\u6539\u7a3f Skill\uff0c\u5f00\u7bb1\u5373\u7528\u3002",
             "url": "https://github.com/KKKKhazix/human-writing",
-            "stars": 2261,
+            "stars": 2263,
             "forks": 197,
             "score": 99
         },
@@ -84,9 +84,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "sv-number/mcp-server",
             "description": "MCP server for AI agents that need a phone number: order a private number in 200+ countries, read the SMS verification code, hand it back. The widest country coverage in the category, and you can check it with one API call.",
             "url": "https://github.com/sv-number/mcp-server",
-            "stars": 535,
+            "stars": 540,
             "forks": 0,
-            "score": 74
+            "score": 75
         },
         {
             "main_cat": "AI",
@@ -95,7 +95,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "MarcosSete/awesome-free-ai-course-notes",
             "description": "A curated collection of machine learning and AI lecture notes from the world's leading universities.  This repository gives you access to the same lecture notes used by students at top institutions such as MIT, helping you learn from the very best educational resources available.",
             "url": "https://github.com/MarcosSete/awesome-free-ai-course-notes",
-            "stars": 585,
+            "stars": 586,
             "forks": 50,
             "score": 69
         },
@@ -106,7 +106,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "criptogus/HermesOffice",
             "description": "HermesOffice \u2014 AI-native office suite forked from GenOffice (Apache-2.0), with native Hermes Agent AI",
             "url": "https://github.com/criptogus/HermesOffice",
-            "stars": 425,
+            "stars": 426,
             "forks": 52,
             "score": 65
         },
@@ -117,7 +117,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "fuxicodex/Fuxi",
             "description": "FuXi is a fast, self-contained AI developer terminal",
             "url": "https://github.com/fuxicodex/Fuxi",
-            "stars": 427,
+            "stars": 428,
             "forks": 43,
             "score": 63
         },
@@ -128,8 +128,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "canivibecodeit/canivibecodeit",
             "description": "Find out which subscriptions are one prompt away from free. caniuse.com, but for replacing SaaS with one AI prompt.",
             "url": "https://github.com/canivibecodeit/canivibecodeit",
-            "stars": 173,
-            "forks": 151,
+            "stars": 174,
+            "forks": 152,
             "score": 57
         },
         {
@@ -139,7 +139,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "joeseesun/qiaomu-seo",
             "description": "Audit, diagnose, research, plan, implement, experiment on, and verify website SEO across Google, Bing, and AI-search surfaces. Use for technical SEO, ",
             "url": "https://github.com/joeseesun/qiaomu-seo",
-            "stars": 333,
+            "stars": 334,
             "forks": 44,
             "score": 55
         },
@@ -183,7 +183,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "waiterve/wai-play",
             "description": "WAI Play - AI web game testing and quality evaluation platform",
             "url": "https://github.com/waiterve/wai-play",
-            "stars": 285,
+            "stars": 288,
             "forks": 10,
             "score": 48
         },
@@ -227,7 +227,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "liujunxibaba/douyin-tiktok-story-skill-agent",
             "description": "Local-first AI Skill and Agent for creating original Douyin and TikTok story scripts with a searchable SQLite reference database.",
             "url": "https://github.com/liujunxibaba/douyin-tiktok-story-skill-agent",
-            "stars": 196,
+            "stars": 197,
             "forks": 5,
             "score": 43
         },
@@ -238,7 +238,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "memorax-ai/memorax-code",
             "description": "A memory plugin for AI coding that turns engineering experience, repository knowledge, and your way of working into memory that remains useful in future tasks.",
             "url": "https://github.com/memorax-ai/memorax-code",
-            "stars": 219,
+            "stars": 222,
             "forks": 12,
             "score": 41
         },
@@ -315,9 +315,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "lss100200/omnibase",
             "description": "Self-hosted AI workbench for knowledge, RAG, model providers, and safely governed user-built agents. Public Preview; production Agent Runtime remains gated. \u81ea\u6258\u7ba1 AI \u77e5\u8bc6\u5de5\u4f5c\u53f0\u4e0e\u5b89\u5168 Agent \u5e73\u53f0\u3002",
             "url": "https://github.com/lss100200/omnibase",
-            "stars": 143,
-            "forks": 3,
+            "stars": 150,
+            "forks": 4,
             "score": 36
+        },
+        {
+            "main_cat": "Cross-chain / Interoperability",
+            "sub_cat": null,
+            "name": "Stell-Topia",
+            "full_name": "Topia-Org/Stell-Topia",
+            "description": "Stell-Topia is a decentralized flight-booking protocol built on the Stellar network. It lets travelers search, reserve, and pay for plane tickets directly in XLM \u2014 no card fees, no cross-border friction, no middleman holding your money hostage between \"booking\" and \"confirmed.\"",
+            "url": "https://github.com/Topia-Org/Stell-Topia",
+            "stars": 0,
+            "forks": 12,
+            "score": 33
         },
         {
             "main_cat": "AI",
@@ -328,17 +339,6 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/Happy-Chen-CH/ShenNongMi",
             "stars": 62,
             "forks": 6,
-            "score": 32
-        },
-        {
-            "main_cat": "Cross-chain / Interoperability",
-            "sub_cat": null,
-            "name": "Stell-Topia",
-            "full_name": "Topia-Org/Stell-Topia",
-            "description": "Stell-Topia is a decentralized flight-booking protocol built on the Stellar network. It lets travelers search, reserve, and pay for plane tickets directly in XLM \u2014 no card fees, no cross-border friction, no middleman holding your money hostage between \"booking\" and \"confirmed.\"",
-            "url": "https://github.com/Topia-Org/Stell-Topia",
-            "stars": 0,
-            "forks": 11,
             "score": 32
         },
         {
@@ -783,5 +783,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-08-10 19:50"
+    "timestamp": "2026-08-10 20:34"
 };
