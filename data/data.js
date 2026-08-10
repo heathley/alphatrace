@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "trycompai/crm",
             "description": "Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.",
             "url": "https://github.com/trycompai/crm",
-            "stars": 8101,
-            "forks": 898,
+            "stars": 8102,
+            "forks": 901,
             "score": 99
         },
         {
@@ -18,7 +18,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "KKKKhazix/human-writing",
             "description": "\u8ba9 AI \u5199\u7684\u4e2d\u6587\u8bfb\u8d77\u6765\u50cf\u4e00\u4e2a\u5177\u4f53\u7684\u4eba\u5728\u8bf4\u8bdd\u3002\u901a\u7528\u521b\u4f5c\u4e0e\u6539\u7a3f Skill\uff0c\u5f00\u7bb1\u5373\u7528\u3002",
             "url": "https://github.com/KKKKhazix/human-writing",
-            "stars": 2266,
+            "stars": 2268,
             "forks": 197,
             "score": 99
         },
@@ -40,7 +40,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "eternityspring/shuohao-skills",
             "description": "AI \u77ed\u5267\u5236\u4f5c\u7684 skill \u96c6\u5408\uff1a\u62c6\u89d2\u8272\u3001\u51fa\u8bbe\u5b9a\u56fe\u3001\u6392\u5927\u7eb2 | Agent skills for AI short-drama production \u2014 character bibles, model sheets, adaptation outlines. Runs in Claude Code & codex.",
             "url": "https://github.com/eternityspring/shuohao-skills",
-            "stars": 640,
+            "stars": 643,
             "forks": 76,
             "score": 97
         },
@@ -73,7 +73,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "AMAP-ML/LongHorizon-Harness",
             "description": "The long-horizon computer-use harness. Run AI agents across desktop apps and the CLI for extended periods while preserving task state and making reliable progress on complex workflows. Features fresh-context execution, durable verified state, independent auditing, recoverable progress, and native Claude Code / Codex / OpenClaw integration.",
             "url": "https://github.com/AMAP-ML/LongHorizon-Harness",
-            "stars": 548,
+            "stars": 549,
             "forks": 66,
             "score": 75
         },
@@ -84,7 +84,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "sv-number/mcp-server",
             "description": "MCP server for AI agents that need a phone number: order a private number in 200+ countries, read the SMS verification code, hand it back. The widest country coverage in the category, and you can check it with one API call.",
             "url": "https://github.com/sv-number/mcp-server",
-            "stars": 541,
+            "stars": 542,
             "forks": 0,
             "score": 75
         },
@@ -117,7 +117,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "fuxicodex/Fuxi",
             "description": "FuXi is a fast, self-contained AI developer terminal",
             "url": "https://github.com/fuxicodex/Fuxi",
-            "stars": 429,
+            "stars": 430,
             "forks": 43,
             "score": 63
         },
@@ -128,7 +128,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "canivibecodeit/canivibecodeit",
             "description": "Find out which subscriptions are one prompt away from free. caniuse.com, but for replacing SaaS with one AI prompt.",
             "url": "https://github.com/canivibecodeit/canivibecodeit",
-            "stars": 175,
+            "stars": 176,
             "forks": 152,
             "score": 56
         },
@@ -183,20 +183,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "waiterve/wai-play",
             "description": "WAI Play - AI web game testing and quality evaluation platform",
             "url": "https://github.com/waiterve/wai-play",
-            "stars": 291,
+            "stars": 293,
             "forks": 10,
             "score": 48
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "trace-file-lineage",
-            "full_name": "uczltw6/trace-file-lineage",
-            "description": "Find which script, notebook, data, command, or AI agent produced a file \u2014 locally, with evidence and honest uncertainty.",
-            "url": "https://github.com/uczltw6/trace-file-lineage",
-            "stars": 429,
-            "forks": 6,
-            "score": 46
         },
         {
             "main_cat": "AI",
@@ -208,6 +197,17 @@ const ALPHA_DATA_V2 = {
             "stars": 266,
             "forks": 7,
             "score": 46
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "trace-file-lineage",
+            "full_name": "uczltw6/trace-file-lineage",
+            "description": "Find which script, notebook, data, command, or AI agent produced a file \u2014 locally, with evidence and honest uncertainty.",
+            "url": "https://github.com/uczltw6/trace-file-lineage",
+            "stars": 430,
+            "forks": 6,
+            "score": 45
         },
         {
             "main_cat": "AI",
@@ -227,7 +227,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "liujunxibaba/douyin-tiktok-story-skill-agent",
             "description": "Local-first AI Skill and Agent for creating original Douyin and TikTok story scripts with a searchable SQLite reference database.",
             "url": "https://github.com/liujunxibaba/douyin-tiktok-story-skill-agent",
-            "stars": 199,
+            "stars": 201,
             "forks": 5,
             "score": 43
         },
@@ -256,17 +256,6 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "ai-sdk",
-            "full_name": "grafana/ai-sdk",
-            "description": "Grafana AI SDK for Go \u2014 streaming, tool-calling AI backends that speak fluent @ai-sdk/react",
-            "url": "https://github.com/grafana/ai-sdk",
-            "stars": 215,
-            "forks": 7,
-            "score": 38
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
             "name": "kimi-ai-plus",
             "full_name": "MidgeFlourish/kimi-ai-plus",
             "description": "Kimi AI Plus",
@@ -278,12 +267,12 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "janitor-ai-apex",
-            "full_name": "VictorSteamOrder/janitor-ai-apex",
-            "description": "Janitor AI Apex",
-            "url": "https://github.com/VictorSteamOrder/janitor-ai-apex",
-            "stars": 209,
-            "forks": 0,
+            "name": "ai-sdk",
+            "full_name": "grafana/ai-sdk",
+            "description": "Grafana AI SDK for Go \u2014 streaming, tool-calling AI backends that speak fluent @ai-sdk/react",
+            "url": "https://github.com/grafana/ai-sdk",
+            "stars": 215,
+            "forks": 7,
             "score": 37
         },
         {
@@ -296,6 +285,17 @@ const ALPHA_DATA_V2 = {
             "stars": 155,
             "forks": 4,
             "score": 37
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "janitor-ai-apex",
+            "full_name": "VictorSteamOrder/janitor-ai-apex",
+            "description": "Janitor AI Apex",
+            "url": "https://github.com/VictorSteamOrder/janitor-ai-apex",
+            "stars": 209,
+            "forks": 0,
+            "score": 36
         },
         {
             "main_cat": "AI",
@@ -327,7 +327,7 @@ const ALPHA_DATA_V2 = {
             "description": "\ud83c\udf3f \u795e\u519c\u89c5 (ShennongMi) \u2014 AI-powered TCM knowledge navigator: Neo4j graph (19K+ nodes) \u00d7 LangGraph 14-node workflows \u00d7 self-correcting NL2Cypher \u00d7 dual-model intent recognition (fastText + RoBERTa-LoRA, 99.75% accuracy). Supports TCM knowledge Q&A, automated RED content publishing, and interactive graph exploration.",
             "url": "https://github.com/Happy-Chen-CH/ShenNongMi",
             "stars": 82,
-            "forks": 6,
+            "forks": 7,
             "score": 33
         },
         {
@@ -783,5 +783,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-08-10 21:34"
+    "timestamp": "2026-08-10 22:29"
 };
