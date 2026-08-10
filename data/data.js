@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "trycompai/crm",
             "description": "Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.",
             "url": "https://github.com/trycompai/crm",
-            "stars": 8040,
-            "forks": 888,
+            "stars": 8050,
+            "forks": 890,
             "score": 99
         },
         {
@@ -18,8 +18,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "KKKKhazix/human-writing",
             "description": "\u8ba9 AI \u5199\u7684\u4e2d\u6587\u8bfb\u8d77\u6765\u50cf\u4e00\u4e2a\u5177\u4f53\u7684\u4eba\u5728\u8bf4\u8bdd\u3002\u901a\u7528\u521b\u4f5c\u4e0e\u6539\u7a3f Skill\uff0c\u5f00\u7bb1\u5373\u7528\u3002",
             "url": "https://github.com/KKKKhazix/human-writing",
-            "stars": 2187,
-            "forks": 193,
+            "stars": 2207,
+            "forks": 194,
             "score": 99
         },
         {
@@ -29,8 +29,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "Binaryify/open-kimi-ppt-skill",
             "description": "\u975e\u5b98\u65b9 Kimi Slides Skill\uff1a\u8ba9 AI Agent \u751f\u6210\u53ef\u7f16\u8f91 PPTD + PPTX\uff0c\u5e76\u9644\u5e26\u672c\u5730\u6d4f\u89c8\u5668\u7f16\u8f91\u5668 Unofficial Kimi Slides skill for AI agents \u2014 generate editable PPTD + PPTX with a local browser editor",
             "url": "https://github.com/Binaryify/open-kimi-ppt-skill",
-            "stars": 1608,
-            "forks": 1171,
+            "stars": 1607,
+            "forks": 1173,
             "score": 99
         },
         {
@@ -40,9 +40,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "eternityspring/shuohao-skills",
             "description": "\u7ed9 AI \u7f16\u7801 agent \u7528\u7684 skill \u96c6\u5408\uff0cClaude Code \u548c codex \u90fd\u80fd\u8dd1\u3002novel-characters\uff1a\u628a\u5c0f\u8bf4\u62c6\u6210\u89d2\u8272\u8bbe\u5b9a\u96c6\u2014\u2014\u4eba\u7269\u753b\u50cf\u3001\u5361\u901a\u5f62\u8c61\u63d0\u793a\u8bcd\u3001\u97f3\u8272\u63d0\u793a\u8bcd\u3001\u4e09\u89c6\u56fe\u3002 | Skills for AI coding agents, working in both Claude Code and codex. novel-characters turns a novel into a character bible: profiles, cartoon-design prompts, voice prompts and turnaround sheets.",
             "url": "https://github.com/eternityspring/shuohao-skills",
-            "stars": 600,
-            "forks": 70,
-            "score": 99
+            "stars": 617,
+            "forks": 71,
+            "score": 94
         },
         {
             "main_cat": "AI",
@@ -62,9 +62,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "mewamew/my_ai_town",
             "description": "\u6211\u7684AI\u5c0f\u9547",
             "url": "https://github.com/mewamew/my_ai_town",
-            "stars": 320,
-            "forks": 55,
-            "score": 75
+            "stars": 336,
+            "forks": 58,
+            "score": 77
         },
         {
             "main_cat": "AI",
@@ -73,8 +73,19 @@ const ALPHA_DATA_V2 = {
             "full_name": "AMAP-ML/LongHorizon-Harness",
             "description": "The long-horizon computer-use harness. Run AI agents across desktop apps and the CLI for extended periods while preserving task state and making reliable progress on complex workflows. Features fresh-context execution, durable verified state, independent auditing, recoverable progress, and native Claude Code / Codex / OpenClaw integration.",
             "url": "https://github.com/AMAP-ML/LongHorizon-Harness",
-            "stars": 532,
+            "stars": 534,
             "forks": 65,
+            "score": 74
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "mcp-server",
+            "full_name": "sv-number/mcp-server",
+            "description": "MCP server for AI agents that need a phone number: order a private number in any country, read the SMS verification code, hand it back.",
+            "url": "https://github.com/sv-number/mcp-server",
+            "stars": 441,
+            "forks": 0,
             "score": 74
         },
         {
@@ -84,31 +95,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "MarcosSete/awesome-free-ai-course-notes",
             "description": "A curated collection of machine learning and AI lecture notes from the world's leading universities.  This repository gives you access to the same lecture notes used by students at top institutions such as MIT, helping you learn from the very best educational resources available.",
             "url": "https://github.com/MarcosSete/awesome-free-ai-course-notes",
-            "stars": 582,
+            "stars": 584,
             "forks": 49,
             "score": 73
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "mcp-server",
-            "full_name": "sv-number/mcp-server",
-            "description": "MCP server for AI agents that need a phone number: order a private number in any country, read the SMS verification code, hand it back.",
-            "url": "https://github.com/sv-number/mcp-server",
-            "stars": 417,
-            "forks": 0,
-            "score": 71
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "humanizer-cli",
-            "full_name": "0xwilliamortiz/humanizer-cli",
-            "description": "33 ways to spot AI-written text, right in your terminal. Before/after examples, draft checker, zero dependencies.",
-            "url": "https://github.com/0xwilliamortiz/humanizer-cli",
-            "stars": 588,
-            "forks": 72,
-            "score": 69
         },
         {
             "main_cat": "AI",
@@ -124,23 +113,12 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "ponytail-improved",
-            "full_name": "0xwilliamortiz/ponytail-improved",
-            "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-            "url": "https://github.com/0xwilliamortiz/ponytail-improved",
-            "stars": 601,
-            "forks": 129,
-            "score": 67
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
             "name": "Fuxi",
             "full_name": "fuxicodex/Fuxi",
             "description": "FuXi is a fast, self-contained AI developer terminal",
             "url": "https://github.com/fuxicodex/Fuxi",
             "stars": 456,
-            "forks": 42,
+            "forks": 43,
             "score": 64
         },
         {
@@ -150,9 +128,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "joeseesun/qiaomu-seo",
             "description": "Audit, diagnose, research, plan, implement, experiment on, and verify website SEO across Google, Bing, and AI-search surfaces. Use for technical SEO, ",
             "url": "https://github.com/joeseesun/qiaomu-seo",
-            "stars": 330,
+            "stars": 331,
             "forks": 44,
-            "score": 58
+            "score": 55
         },
         {
             "main_cat": "AI",
@@ -172,7 +150,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "aws/context-ontology-accelerator",
             "description": "An open-source, ontology-based semantic context accelerator that enables AI agents to make more accurate, consistent, and explainable decisions.",
             "url": "https://github.com/aws/context-ontology-accelerator",
-            "stars": 435,
+            "stars": 436,
             "forks": 37,
             "score": 49
         },
@@ -183,9 +161,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "DanielPan12/JobHuntBot",
             "description": "Agent-led job application workflow with a local progress-tracking dashboard \u2014 works with any AI coding agent that can read files and follow instructions.AI Agent \u9a71\u52a8\u7684\u6c42\u804c\u6295\u9012\u5de5\u4f5c\u6d41,\u914d\u672c\u5730\u8fdb\u5ea6\u8ffd\u8e2a\u770b\u677f\u2014\u2014\u9002\u914d\u4efb\u4f55\u80fd\u8bfb\u6587\u4ef6\u3001\u542c\u61c2\u6307\u4ee4\u7684\u7f16\u7a0b Agent\u3002",
             "url": "https://github.com/DanielPan12/JobHuntBot",
-            "stars": 262,
-            "forks": 29,
-            "score": 48
+            "stars": 269,
+            "forks": 30,
+            "score": 49
         },
         {
             "main_cat": "AI",
@@ -194,7 +172,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "waiterve/wai-play",
             "description": "WAI Play - AI web game testing and quality evaluation platform",
             "url": "https://github.com/waiterve/wai-play",
-            "stars": 256,
+            "stars": 262,
             "forks": 9,
             "score": 46
         },
@@ -222,6 +200,17 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
+            "sub_cat": null,
+            "name": "douyin-tiktok-story-skill-agent",
+            "full_name": "liujunxibaba/douyin-tiktok-story-skill-agent",
+            "description": "Local-first AI Skill and Agent for creating original Douyin and TikTok story scripts with a searchable SQLite reference database.",
+            "url": "https://github.com/liujunxibaba/douyin-tiktok-story-skill-agent",
+            "stars": 172,
+            "forks": 4,
+            "score": 43
+        },
+        {
+            "main_cat": "AI",
             "sub_cat": "AI General",
             "name": "nuphus-mcp",
             "full_name": "mrpulor-gh/nuphus-mcp",
@@ -234,13 +223,13 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "ai-sdk",
-            "full_name": "grafana/ai-sdk",
-            "description": "Grafana AI SDK for Go \u2014 streaming, tool-calling AI backends that speak fluent @ai-sdk/react",
-            "url": "https://github.com/grafana/ai-sdk",
-            "stars": 214,
-            "forks": 7,
-            "score": 38
+            "name": "xiaoma-durex-copywriter",
+            "full_name": "crawfordxx/xiaoma-durex-copywriter",
+            "description": "\u675c\u857e\u65af\u5f0f\u6587\u6848\u4e0e\u6d77\u62a5 Skill for Claude Code \u2014\u2014 \u53cc\u5c42\u8bed\u4e49\u65b9\u6cd5\u8bba + 8 \u4e2a\u6587\u6848\u516c\u5f0f + \u4ece 260 \u5f20\u539f\u59cb\u6d77\u62a5\u62c6\u89e3\u7684\u89c6\u89c9\u7cfb\u7edf + AI \u51fa\u56fe/\u4ee3\u7801\u6392\u7248\u7ba1\u7ebf",
+            "url": "https://github.com/crawfordxx/xiaoma-durex-copywriter",
+            "stars": 171,
+            "forks": 4,
+            "score": 41
         },
         {
             "main_cat": "AI",
@@ -249,8 +238,19 @@ const ALPHA_DATA_V2 = {
             "full_name": "memorax-ai/memorax-code",
             "description": "A memory plugin for AI coding that turns engineering experience, repository knowledge, and your way of working into memory that remains useful in future tasks.",
             "url": "https://github.com/memorax-ai/memorax-code",
-            "stars": 178,
+            "stars": 183,
             "forks": 9,
+            "score": 39
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "ai-sdk",
+            "full_name": "grafana/ai-sdk",
+            "description": "Grafana AI SDK for Go \u2014 streaming, tool-calling AI backends that speak fluent @ai-sdk/react",
+            "url": "https://github.com/grafana/ai-sdk",
+            "stars": 214,
+            "forks": 7,
             "score": 38
         },
         {
@@ -271,7 +271,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "VictorSteamOrder/janitor-ai-apex",
             "description": "Janitor AI Apex",
             "url": "https://github.com/VictorSteamOrder/janitor-ai-apex",
-            "stars": 211,
+            "stars": 210,
             "forks": 0,
             "score": 37
         },
@@ -304,7 +304,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Hopetueliminate/luma-ai-flow",
             "description": "Luma AI Flow",
             "url": "https://github.com/Hopetueliminate/luma-ai-flow",
-            "stars": 170,
+            "stars": 169,
             "forks": 0,
             "score": 36
         },
@@ -315,7 +315,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "lss100200/omnibase",
             "description": "Self-hosted AI workbench for knowledge, RAG, model providers, and safely governed user-built agents. Public Preview; production Agent Runtime remains gated. \u81ea\u6258\u7ba1 AI \u77e5\u8bc6\u5de5\u4f5c\u53f0\u4e0e\u5b89\u5168 Agent \u5e73\u53f0\u3002",
             "url": "https://github.com/lss100200/omnibase",
-            "stars": 129,
+            "stars": 135,
             "forks": 2,
             "score": 35
         },
@@ -361,17 +361,6 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/Sisyphbaous-DT-Project/qingyi-kda",
             "stars": 17,
             "forks": 1,
-            "score": 30
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "ash4d-ai-deployment-hub",
-            "full_name": "hallbrandonidyt2176/ash4d-ai-deployment-hub",
-            "description": "ash4d.com is a self-hosted private AI platform for k3s Kubernetes, combining local Qwen3 inference, retrieval-augmented generation, agent tooling, and GPU-enabled services in a GitOps-managed environment.",
-            "url": "https://github.com/hallbrandonidyt2176/ash4d-ai-deployment-hub",
-            "stars": 10,
-            "forks": 0,
             "score": 30
         },
         {
@@ -762,6 +751,20 @@ const ALPHA_DATA_V2 = {
     ],
     "news": [
         {
+            "title": "An Analysis of Architectural and Operational Dynamics of Phishkits in the Wild",
+            "source": "ArXiv",
+            "type": "Research Alpha",
+            "color": "text-indigo-600",
+            "url": "http://arxiv.org/abs/2608.07451v1"
+        },
+        {
+            "title": "\"Operator, can you hear me?\" A Faithful Line into the UNISOC Baseband",
+            "source": "ArXiv",
+            "type": "Research Alpha",
+            "color": "text-indigo-600",
+            "url": "http://arxiv.org/abs/2608.07143v1"
+        },
+        {
             "title": "Bitcoin volatility remains high ahead of key FED decision.",
             "source": "Polymarket",
             "type": "Expectation",
@@ -769,5 +772,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-08-10 09:11"
+    "timestamp": "2026-08-10 11:01"
 };
