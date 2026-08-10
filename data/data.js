@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "trycompai/crm",
             "description": "Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.",
             "url": "https://github.com/trycompai/crm",
-            "stars": 7964,
-            "forks": 876,
+            "stars": 7975,
+            "forks": 877,
             "score": 99
         },
         {
@@ -18,19 +18,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "KKKKhazix/human-writing",
             "description": "\u8ba9 AI \u5199\u7684\u4e2d\u6587\u8bfb\u8d77\u6765\u50cf\u4e00\u4e2a\u5177\u4f53\u7684\u4eba\u5728\u8bf4\u8bdd\u3002\u901a\u7528\u521b\u4f5c\u4e0e\u6539\u7a3f Skill\uff0c\u5f00\u7bb1\u5373\u7528\u3002",
             "url": "https://github.com/KKKKhazix/human-writing",
-            "stars": 2093,
+            "stars": 2097,
             "forks": 186,
-            "score": 99
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "qwen-audio-agent",
-            "full_name": "QwenAudio/qwen-audio-agent",
-            "description": "A realtime voice runtime that keeps Agents talking, working, and present.  Real-time Voice Runtime for AI Agents",
-            "url": "https://github.com/QwenAudio/qwen-audio-agent",
-            "stars": 2027,
-            "forks": 150,
             "score": 99
         },
         {
@@ -40,8 +29,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "Binaryify/open-kimi-ppt-skill",
             "description": "\u975e\u5b98\u65b9 Kimi Slides Skill\uff1a\u8ba9 AI Agent \u751f\u6210\u53ef\u7f16\u8f91 PPTD + PPTX\uff0c\u5e76\u9644\u5e26\u672c\u5730\u6d4f\u89c8\u5668\u7f16\u8f91\u5668 Unofficial Kimi Slides skill for AI agents \u2014 generate editable PPTD + PPTX with a local browser editor",
             "url": "https://github.com/Binaryify/open-kimi-ppt-skill",
-            "stars": 1606,
-            "forks": 1153,
+            "stars": 1608,
+            "forks": 1155,
             "score": 99
         },
         {
@@ -51,9 +40,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "eternityspring/shuohao-skills",
             "description": "\u7ed9 AI \u7f16\u7801 agent \u7528\u7684 skill \u96c6\u5408\uff0cClaude Code \u548c codex \u90fd\u80fd\u8dd1\u3002novel-characters\uff1a\u628a\u5c0f\u8bf4\u62c6\u6210\u89d2\u8272\u8bbe\u5b9a\u96c6\u2014\u2014\u4eba\u7269\u753b\u50cf\u3001\u5361\u901a\u5f62\u8c61\u63d0\u793a\u8bcd\u3001\u97f3\u8272\u63d0\u793a\u8bcd\u3001\u4e09\u89c6\u56fe\u3002 | Skills for AI coding agents, working in both Claude Code and codex. novel-characters turns a novel into a character bible: profiles, cartoon-design prompts, voice prompts and turnaround sheets.",
             "url": "https://github.com/eternityspring/shuohao-skills",
-            "stars": 488,
-            "forks": 57,
-            "score": 89
+            "stars": 504,
+            "forks": 58,
+            "score": 91
         },
         {
             "main_cat": "AI",
@@ -62,9 +51,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "magicrew/doc7",
             "description": "Turn documents into AI-ready Markdown with visual understanding",
             "url": "https://github.com/magicrew/doc7",
-            "stars": 834,
+            "stars": 890,
             "forks": 28,
-            "score": 77
+            "score": 80
         },
         {
             "main_cat": "AI",
@@ -73,9 +62,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "AMAP-ML/LongHorizon-Harness",
             "description": "The long-horizon computer-use harness. Run AI agents across desktop apps and the CLI for extended periods while preserving task state and making reliable progress on complex workflows. Features fresh-context execution, durable verified state, independent auditing, recoverable progress, and native Claude Code / Codex / OpenClaw integration.",
             "url": "https://github.com/AMAP-ML/LongHorizon-Harness",
-            "stars": 501,
-            "forks": 61,
-            "score": 76
+            "stars": 507,
+            "forks": 62,
+            "score": 77
         },
         {
             "main_cat": "AI",
@@ -84,9 +73,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "MarcosSete/awesome-free-ai-course-notes",
             "description": "A curated collection of machine learning and AI lecture notes from the world's leading universities.  This repository gives you access to the same lecture notes used by students at top institutions such as MIT, helping you learn from the very best educational resources available.",
             "url": "https://github.com/MarcosSete/awesome-free-ai-course-notes",
-            "stars": 575,
+            "stars": 578,
             "forks": 49,
-            "score": 72
+            "score": 73
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "my_ai_town",
+            "full_name": "mewamew/my_ai_town",
+            "description": "\u6211\u7684AI\u5c0f\u9547",
+            "url": "https://github.com/mewamew/my_ai_town",
+            "stars": 248,
+            "forks": 41,
+            "score": 71
         },
         {
             "main_cat": "AI",
@@ -95,7 +95,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "0xwilliamortiz/humanizer-cli",
             "description": "33 ways to spot AI-written text, right in your terminal. Before/after examples, draft checker, zero dependencies.",
             "url": "https://github.com/0xwilliamortiz/humanizer-cli",
-            "stars": 586,
+            "stars": 587,
             "forks": 72,
             "score": 69
         },
@@ -117,19 +117,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "fuxicodex/Fuxi",
             "description": "FuXi is a fast, self-contained AI developer terminal",
             "url": "https://github.com/fuxicodex/Fuxi",
-            "stars": 450,
+            "stars": 451,
             "forks": 42,
-            "score": 68
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "my_ai_town",
-            "full_name": "mewamew/my_ai_town",
-            "description": "\u6211\u7684AI\u5c0f\u9547",
-            "url": "https://github.com/mewamew/my_ai_town",
-            "stars": 237,
-            "forks": 36,
             "score": 68
         },
         {
@@ -150,20 +139,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "joeseesun/qiaomu-seo",
             "description": "Audit, diagnose, research, plan, implement, experiment on, and verify website SEO across Google, Bing, and AI-search surfaces. Use for technical SEO, ",
             "url": "https://github.com/joeseesun/qiaomu-seo",
-            "stars": 327,
+            "stars": 328,
             "forks": 44,
-            "score": 57
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "human-review",
-            "full_name": "petergyang/human-review",
-            "description": "A visual tool to edit HTML and Markdown files, leave comments like a Google Doc, and send feedback to your AI agent. Works inside your favorite AI harness.",
-            "url": "https://github.com/petergyang/human-review",
-            "stars": 647,
-            "forks": 44,
-            "score": 55
+            "score": 58
         },
         {
             "main_cat": "AI",
@@ -172,9 +150,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "sv-number/mcp-server",
             "description": "MCP server for AI agents that need a phone number: order a private number in any country, read the SMS verification code, hand it back.",
             "url": "https://github.com/sv-number/mcp-server",
-            "stars": 234,
+            "stars": 248,
             "forks": 0,
-            "score": 53
+            "score": 54
         },
         {
             "main_cat": "AI",
@@ -183,9 +161,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "alikon-art/DeterminFlow",
             "description": "A production-oriented AI workflow runtime for building, validating, recovering, and shipping complex AI workflows as dependable services. \u9762\u5411\u751f\u4ea7\u7684 AI \u5de5\u4f5c\u6d41\u8fd0\u884c\u65f6\uff1a\u5feb\u901f\u5f00\u53d1\u3001\u9a8c\u8bc1\u548c\u6062\u590d\u590d\u6742 AI \u5de5\u4f5c\u6d41\uff0c\u5e76\u5c06\u5176\u7a33\u5b9a\u4ea4\u4ed8\u4e3a\u670d\u52a1\u3002",
             "url": "https://github.com/alikon-art/DeterminFlow",
-            "stars": 281,
+            "stars": 284,
             "forks": 39,
-            "score": 51
+            "score": 52
         },
         {
             "main_cat": "AI",
@@ -194,7 +172,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "aws/context-ontology-accelerator",
             "description": "An open-source, ontology-based semantic context accelerator that enables AI agents to make more accurate, consistent, and explainable decisions.",
             "url": "https://github.com/aws/context-ontology-accelerator",
-            "stars": 429,
+            "stars": 431,
             "forks": 36,
             "score": 49
         },
@@ -205,7 +183,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "waiterve/wai-play",
             "description": "WAI Play - AI web game testing and quality evaluation platform",
             "url": "https://github.com/waiterve/wai-play",
-            "stars": 229,
+            "stars": 230,
             "forks": 8,
             "score": 46
         },
@@ -227,7 +205,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "uczltw6/trace-file-lineage",
             "description": "Find which script, notebook, data, command, or AI agent produced a file \u2014 locally, with evidence and honest uncertainty.",
             "url": "https://github.com/uczltw6/trace-file-lineage",
-            "stars": 390,
+            "stars": 391,
             "forks": 5,
             "score": 44
         },
@@ -238,7 +216,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "kropdx/reflection-engine",
             "description": "A downloadable prompt that turns your AI assistant's memory of you into a candid, evidence-grounded portrait.",
             "url": "https://github.com/kropdx/reflection-engine",
-            "stars": 225,
+            "stars": 226,
             "forks": 9,
             "score": 44
         },
@@ -252,6 +230,17 @@ const ALPHA_DATA_V2 = {
             "stars": 184,
             "forks": 22,
             "score": 42
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "xiaoma-durex-copywriter",
+            "full_name": "crawfordxx/xiaoma-durex-copywriter",
+            "description": "\u675c\u857e\u65af\u5f0f\u6587\u6848\u4e0e\u6d77\u62a5 Skill for Claude Code \u2014\u2014 \u53cc\u5c42\u8bed\u4e49\u65b9\u6cd5\u8bba + 8 \u4e2a\u6587\u6848\u516c\u5f0f + \u4ece 260 \u5f20\u539f\u59cb\u6d77\u62a5\u62c6\u89e3\u7684\u89c6\u89c9\u7cfb\u7edf + AI \u51fa\u56fe/\u4ee3\u7801\u6392\u7248\u7ba1\u7ebf",
+            "url": "https://github.com/crawfordxx/xiaoma-durex-copywriter",
+            "stars": 168,
+            "forks": 4,
+            "score": 41
         },
         {
             "main_cat": "AI",
@@ -304,8 +293,19 @@ const ALPHA_DATA_V2 = {
             "full_name": "cofy-x/axern",
             "description": "Open-source sandboxes for AI agents, untrusted code execution, and durable services.",
             "url": "https://github.com/cofy-x/axern",
-            "stars": 171,
+            "stars": 172,
             "forks": 4,
+            "score": 36
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "luma-ai-flow",
+            "full_name": "Hopetueliminate/luma-ai-flow",
+            "description": "Luma AI Flow",
+            "url": "https://github.com/Hopetueliminate/luma-ai-flow",
+            "stars": 170,
+            "forks": 0,
             "score": 36
         },
         {
@@ -315,20 +315,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "lss100200/omnibase",
             "description": "Self-hosted AI workbench for knowledge, RAG, model providers, and safely governed user-built agents. Public Preview; production Agent Runtime remains gated. \u81ea\u6258\u7ba1 AI \u77e5\u8bc6\u5de5\u4f5c\u53f0\u4e0e\u5b89\u5168 Agent \u5e73\u53f0\u3002",
             "url": "https://github.com/lss100200/omnibase",
-            "stars": 111,
+            "stars": 113,
             "forks": 2,
             "score": 35
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "smol-kimi-k3",
-            "full_name": "cneuralnetwork/smol-kimi-k3",
-            "description": "A 49M-parameter Kimi K3-inspired language model trainable on one 8GB GPU",
-            "url": "https://github.com/cneuralnetwork/smol-kimi-k3",
-            "stars": 87,
-            "forks": 10,
-            "score": 33
         },
         {
             "main_cat": "AI",
@@ -562,34 +551,12 @@ const ALPHA_DATA_V2 = {
             "score": 30
         },
         {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "selo",
-            "full_name": "blockballr/selo",
-            "description": "Zero-key cryptographic accounting for Solana stablecoins. Watches chain, matches payments, computes PTAX cost basis, anchors Poseidon BN254 roots daily. Pure Rust, one binary.",
-            "url": "https://github.com/blockballr/selo",
-            "stars": 0,
-            "forks": 0,
-            "score": 30
-        },
-        {
             "main_cat": "Stablecoin Infrastructure",
             "sub_cat": null,
             "name": "mesh-connect",
             "full_name": "api-evangelist/mesh-connect",
             "description": "Mesh (formerly Mesh Connect) is a global crypto payments network that lets businesses accept crypto payments from 300+ wallets and exchanges and settle in stablecoins or local currency through a single integration.",
             "url": "https://github.com/api-evangelist/mesh-connect",
-            "stars": 0,
-            "forks": 0,
-            "score": 30
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "magentic",
-            "full_name": "TELLProtocol/magentic",
-            "description": "An autonomous payment agent for Arc (Circle's stablecoin-native L1) that gates every USDC payment through a risk check on the counterparty contract before releasing funds.",
-            "url": "https://github.com/TELLProtocol/magentic",
             "stars": 0,
             "forks": 0,
             "score": 30
@@ -623,6 +590,28 @@ const ALPHA_DATA_V2 = {
             "full_name": "api-evangelist/utopia-labs",
             "description": "Utopia Labs was a stablecoin payments and finance-operations platform for crypto-native teams and DAOs, covering payments, payroll, invoicing, and approval workflows, backed by Paradigm. Coinbase acquired Utopia Labs Corp. on November 13, 2024, and the team joined Base to build onchain payments into Coinbase Wallet.",
             "url": "https://github.com/api-evangelist/utopia-labs",
+            "stars": 0,
+            "forks": 0,
+            "score": 30
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "zold",
+            "full_name": "Zoldenburg-me/zold",
+            "description": "Cross-border payments on stablecoin rails \u2014 SEPA in via per-user IBANs, EURe in the user's own passkey Safe, out as SEPA or cash pickup. A reference implementation on testnets and sandboxes.",
+            "url": "https://github.com/Zoldenburg-me/zold",
+            "stars": 0,
+            "forks": 0,
+            "score": 30
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "ripple-labs",
+            "full_name": "api-evangelist/ripple-labs",
+            "description": "Ripple (legally Ripple Labs Inc.) is a blockchain and crypto-enabled financial infrastructure company whose developer surface spans Ripple Payments (RippleNet Server API, On-Demand Liquidity, Payments Direct, Report Service, and Smart Liquidation), the RLUSD stablecoin \"Ripple Mint\" API, and Palisade Wallet-as-a-Service for institutional\u2026",
+            "url": "https://github.com/api-evangelist/ripple-labs",
             "stars": 0,
             "forks": 0,
             "score": 30
@@ -747,6 +736,28 @@ const ALPHA_DATA_V2 = {
             "stars": 0,
             "forks": 0,
             "score": 30
+        },
+        {
+            "main_cat": "Cross-chain / Interoperability",
+            "sub_cat": null,
+            "name": "CoinP2P",
+            "full_name": "patrickkelava1994-bot/CoinP2P",
+            "description": "a fully decentralized cross protocol p2p trading engine",
+            "url": "https://github.com/patrickkelava1994-bot/CoinP2P",
+            "stars": 0,
+            "forks": 0,
+            "score": 30
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "librarian-mcp",
+            "full_name": "andrewdhannah/librarian-mcp",
+            "description": "Librarian MCP Protocol Plane \u2014 Cross-platform Model Context Protocol server for governed AI agent execution",
+            "url": "https://github.com/andrewdhannah/librarian-mcp",
+            "stars": 0,
+            "forks": 0,
+            "score": 30
         }
     ],
     "news": [
@@ -758,5 +769,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-08-09 23:24"
+    "timestamp": "2026-08-10 01:13"
 };
