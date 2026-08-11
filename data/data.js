@@ -7,7 +7,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "trycompai/crm",
             "description": "Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.",
             "url": "https://github.com/trycompai/crm",
-            "stars": 8218,
+            "stars": 8223,
             "forks": 935,
             "score": 99
         },
@@ -40,8 +40,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "eternityspring/shuohao-skills",
             "description": "AI \u77ed\u5267\u5236\u4f5c\u7684 skill \u96c6\u5408\uff1a\u62c6\u89d2\u8272\u3001\u51fa\u8bbe\u5b9a\u56fe\u3001\u6392\u5927\u7eb2 | Agent skills for AI short-drama production \u2014 character bibles, model sheets, adaptation outlines. Runs in Claude Code & codex.",
             "url": "https://github.com/eternityspring/shuohao-skills",
-            "stars": 859,
-            "forks": 102,
+            "stars": 864,
+            "forks": 103,
             "score": 99
         },
         {
@@ -51,8 +51,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "shadcn-ui/chatbot-template",
             "description": "A minimal chatbot template built with Next.js, AI SDK, shadcn/ui, shadcn/react, shadcn/typeset. It runs on the Vercel AI Gateway.",
             "url": "https://github.com/shadcn-ui/chatbot-template",
-            "stars": 383,
-            "forks": 36,
+            "stars": 393,
+            "forks": 37,
             "score": 99
         },
         {
@@ -84,7 +84,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "sv-number/mcp-server",
             "description": "MCP server for AI agents that need a phone number: order a private number in 200+ countries, read the SMS verification code, hand it back. The widest country coverage in the category, and you can check it with one API call.",
             "url": "https://github.com/sv-number/mcp-server",
-            "stars": 613,
+            "stars": 615,
             "forks": 0,
             "score": 73
         },
@@ -96,7 +96,7 @@ const ALPHA_DATA_V2 = {
             "description": "The long-horizon computer-use harness. Run AI agents across desktop apps and the CLI for extended periods while preserving task state and making reliable progress on complex workflows. Features fresh-context execution, durable verified state, independent auditing, recoverable progress, and native Claude Code / Codex / OpenClaw integration.",
             "url": "https://github.com/AMAP-ML/LongHorizon-Harness",
             "stars": 581,
-            "forks": 68,
+            "forks": 69,
             "score": 72
         },
         {
@@ -106,7 +106,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "MkThingsHQ/mkdirs",
             "description": "Open-source AI-powered directory website template built with Next.js",
             "url": "https://github.com/MkThingsHQ/mkdirs",
-            "stars": 180,
+            "stars": 181,
             "forks": 50,
             "score": 68
         },
@@ -128,7 +128,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "criptogus/HermesOffice",
             "description": "HermesOffice \u2014 AI-native office suite forked from GenOffice (Apache-2.0), with native Hermes Agent AI",
             "url": "https://github.com/criptogus/HermesOffice",
-            "stars": 430,
+            "stars": 431,
             "forks": 56,
             "score": 62
         },
@@ -216,7 +216,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "liujunxibaba/douyin-tiktok-story-skill-agent",
             "description": "Local-first AI Skill and Agent for creating original Douyin and TikTok story scripts with a searchable SQLite reference database.",
             "url": "https://github.com/liujunxibaba/douyin-tiktok-story-skill-agent",
-            "stars": 264,
+            "stars": 266,
             "forks": 6,
             "score": 46
         },
@@ -238,7 +238,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "memorax-ai/memorax-code",
             "description": "A memory plugin for AI coding that turns engineering experience, repository knowledge, and your way of working into memory that remains useful in future tasks.",
             "url": "https://github.com/memorax-ai/memorax-code",
-            "stars": 306,
+            "stars": 310,
             "forks": 13,
             "score": 43
         },
@@ -249,7 +249,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "kropdx/reflection-engine",
             "description": "A downloadable prompt that turns your AI assistant's memory of you into a candid, evidence-grounded portrait.",
             "url": "https://github.com/kropdx/reflection-engine",
-            "stars": 232,
+            "stars": 233,
             "forks": 9,
             "score": 42
         },
@@ -261,7 +261,7 @@ const ALPHA_DATA_V2 = {
             "description": "A \u80a1\u77ed\u7ebf\u590d\u76d8\u770b\u677f\uff1a\u6da8\u505c\u6c60\u00b7\u8fde\u677f\u68af\u961f\u00b7\u9f99\u864e\u699c\u00b7\u677f\u5757\u8d44\u91d1\u4e00\u5c4f\u770b\u5b8c\uff0c\u8d5a\u94b1\u6548\u5e94/\u664b\u7ea7\u7387/\u68af\u961f\u65ad\u5c42/\u60c5\u7eea\u5468\u671f\u7b49\u6d3e\u751f\u6307\u6807\u7eaf\u8ba1\u7b97\u76f4\u51fa\uff08\u4e0d\u7ecf\u8fc7 AI\uff09\uff0cAI \u53ea\u628a\u6570\u636e\u4e32\u6210\u80fd\u8bfb\u7684\u76d8\u9762\u7814\u5224\u3002\u5168\u672c\u5730\u8fd0\u884c\uff0c\u53ef\u7528 Claude/Codex \u8ba2\u9605\u514d API key\u3002| A-share short-term daily-review dashboard: derived sentiment metrics computed locally, AI only writes the narrative. No API key needed.",
             "url": "https://github.com/simonlin1212/vibe-astock",
             "stars": 175,
-            "forks": 51,
+            "forks": 52,
             "score": 42
         },
         {
@@ -392,72 +392,6 @@ const ALPHA_DATA_V2 = {
             "full_name": "NexTechArchitect/Nexus-RWA-Protocol",
             "description": "Nexus RWA is an institutional-grade, fully compliant Real-World Asset tokenization engine deployed on Base. Powered by ERC-3643 identity registries, automated jurisdictional checks, real-time Chainlink NAV oracles with circuit breakers, and Merkle-tree yield distribution. Bulletproof security meets high-yield DeFi.",
             "url": "https://github.com/NexTechArchitect/Nexus-RWA-Protocol",
-            "stars": 0,
-            "forks": 0,
-            "score": 30
-        },
-        {
-            "main_cat": "Prediction Markets",
-            "sub_cat": null,
-            "name": "laravel-colour-game",
-            "full_name": "rahulbhatiwal5-cmyk/laravel-colour-game",
-            "description": "Real-time Color Prediction Game built with Laravel 12 \u2014 Win Go style betting game with admin panel, wallet system & auto round generation.",
-            "url": "https://github.com/rahulbhatiwal5-cmyk/laravel-colour-game",
-            "stars": 1,
-            "forks": 0,
-            "score": 30
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "sports-prediction-platform",
-            "full_name": "Gavin-Dsouza/sports-prediction-platform",
-            "description": "Probabilistic MLB prediction + betting-EV platform (ensemble models, MLflow registry, explainability)",
-            "url": "https://github.com/Gavin-Dsouza/sports-prediction-platform",
-            "stars": 0,
-            "forks": 0,
-            "score": 30
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "Betting-AI",
-            "full_name": "255TommyLee/Betting-AI",
-            "description": "AI-powered sports betting intelligence platform that combines historical and real-time data, machine learning, probability modeling, odds analysis, value detection, backtesting, risk management, and live insights to deliver data-driven predictions and measurable betting intelligence.",
-            "url": "https://github.com/255TommyLee/Betting-AI",
-            "stars": 0,
-            "forks": 0,
-            "score": 30
-        },
-        {
-            "main_cat": "Prediction Markets",
-            "sub_cat": null,
-            "name": "stellar-bet-contracts",
-            "full_name": "stellar-bet/stellar-bet-contracts",
-            "description": "Soroban smart contracts for StellarBet \u2014 a decentralized sports prediction market on Stellar. Includes BettingPool, OddsOracle, HouseEscrow, and BET token contracts. Written in Rust/WASM. Part of the Stellar Wave Program.",
-            "url": "https://github.com/stellar-bet/stellar-bet-contracts",
-            "stars": 0,
-            "forks": 0,
-            "score": 30
-        },
-        {
-            "main_cat": "Prediction Markets",
-            "sub_cat": null,
-            "name": "OddsFlow-",
-            "full_name": "ryukeie/OddsFlow-",
-            "description": "Modern sports prediction platform built with a responsive UI, live event management, secure authentication, wallet system, bet slip, match tracking, and an admin dashboard. Designed with scalability, performance, and clean architecture in mind.",
-            "url": "https://github.com/ryukeie/OddsFlow-",
-            "stars": 0,
-            "forks": 0,
-            "score": 30
-        },
-        {
-            "main_cat": "Prediction Markets",
-            "sub_cat": null,
-            "name": "OddsFlow",
-            "full_name": "ryukeie/OddsFlow",
-            "description": "Modern sports prediction platform built with a responsive UI, live event management, secure authentication, wallet system, bet slip, match tracking, and an admin dashboard. Designed with scalability, performance, and clean architecture in mind.",
-            "url": "https://github.com/ryukeie/OddsFlow",
             "stars": 0,
             "forks": 0,
             "score": 30
@@ -747,20 +681,23 @@ const ALPHA_DATA_V2 = {
             "stars": 0,
             "forks": 0,
             "score": 30
-        },
-        {
-            "main_cat": "Cross-chain / Interoperability",
-            "sub_cat": null,
-            "name": "remitlend",
-            "full_name": "ExcelDsigN-tech/remitlend",
-            "description": "Decentralized lending and cross-border remittance protocol on Stellar/Soroban",
-            "url": "https://github.com/ExcelDsigN-tech/remitlend",
-            "stars": 0,
-            "forks": 0,
-            "score": 30
         }
     ],
     "news": [
+        {
+            "title": "Overcoming Data Scarcity and Confidentiality in Hardware Assurance via Synthetic Generation",
+            "source": "ArXiv",
+            "type": "Research Alpha",
+            "color": "text-indigo-600",
+            "url": "http://arxiv.org/abs/2608.09914v1"
+        },
+        {
+            "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
+            "source": "ArXiv",
+            "type": "Research Alpha",
+            "color": "text-indigo-600",
+            "url": "http://arxiv.org/abs/2608.09867v1"
+        },
         {
             "title": "Bitcoin volatility remains high ahead of key FED decision.",
             "source": "Polymarket",
@@ -769,5 +706,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-08-11 22:34"
+    "timestamp": "2026-08-11 23:32"
 };
