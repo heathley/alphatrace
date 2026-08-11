@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "trycompai/crm",
             "description": "Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.",
             "url": "https://github.com/trycompai/crm",
-            "stars": 8199,
-            "forks": 929,
+            "stars": 8202,
+            "forks": 931,
             "score": 99
         },
         {
@@ -18,7 +18,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "KKKKhazix/human-writing",
             "description": "\u8ba9 AI \u5199\u7684\u4e2d\u6587\u8bfb\u8d77\u6765\u50cf\u4e00\u4e2a\u5177\u4f53\u7684\u4eba\u5728\u8bf4\u8bdd\u3002\u901a\u7528\u521b\u4f5c\u4e0e\u6539\u7a3f Skill\uff0c\u5f00\u7bb1\u5373\u7528\u3002",
             "url": "https://github.com/KKKKhazix/human-writing",
-            "stars": 2403,
+            "stars": 2404,
             "forks": 207,
             "score": 99
         },
@@ -29,7 +29,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Binaryify/open-kimi-ppt-skill",
             "description": "\u975e\u5b98\u65b9 Kimi Slides Skill\uff1a\u8ba9 AI Agent \u751f\u6210\u53ef\u7f16\u8f91 PPTD + PPTX\uff0c\u5e76\u9644\u5e26\u672c\u5730\u6d4f\u89c8\u5668\u7f16\u8f91\u5668 Unofficial Kimi Slides skill for AI agents \u2014 generate editable PPTD + PPTX with a local browser editor",
             "url": "https://github.com/Binaryify/open-kimi-ppt-skill",
-            "stars": 1602,
+            "stars": 1603,
             "forks": 1194,
             "score": 99
         },
@@ -40,7 +40,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "eternityspring/shuohao-skills",
             "description": "AI \u77ed\u5267\u5236\u4f5c\u7684 skill \u96c6\u5408\uff1a\u62c6\u89d2\u8272\u3001\u51fa\u8bbe\u5b9a\u56fe\u3001\u6392\u5927\u7eb2 | Agent skills for AI short-drama production \u2014 character bibles, model sheets, adaptation outlines. Runs in Claude Code & codex.",
             "url": "https://github.com/eternityspring/shuohao-skills",
-            "stars": 831,
+            "stars": 837,
             "forks": 100,
             "score": 99
         },
@@ -51,8 +51,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "shadcn-ui/chatbot-template",
             "description": "A minimal chatbot template built with Next.js, AI SDK, shadcn/ui, shadcn/react, shadcn/typeset. It runs on the Vercel AI Gateway.",
             "url": "https://github.com/shadcn-ui/chatbot-template",
-            "stars": 324,
-            "forks": 30,
+            "stars": 341,
+            "forks": 33,
             "score": 99
         },
         {
@@ -73,7 +73,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "magicrew/doc7",
             "description": "Turn documents into AI-ready Markdown with visual understanding",
             "url": "https://github.com/magicrew/doc7",
-            "stars": 1050,
+            "stars": 1051,
             "forks": 31,
             "score": 78
         },
@@ -84,7 +84,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "sv-number/mcp-server",
             "description": "MCP server for AI agents that need a phone number: order a private number in 200+ countries, read the SMS verification code, hand it back. The widest country coverage in the category, and you can check it with one API call.",
             "url": "https://github.com/sv-number/mcp-server",
-            "stars": 602,
+            "stars": 607,
             "forks": 0,
             "score": 73
         },
@@ -150,7 +150,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "canivibecodeit/canivibecodeit",
             "description": "Find out which subscriptions are one prompt away from free. caniuse.com, but for replacing SaaS with one AI prompt.",
             "url": "https://github.com/canivibecodeit/canivibecodeit",
-            "stars": 191,
+            "stars": 193,
             "forks": 157,
             "score": 57
         },
@@ -205,9 +205,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "waiterve/wai-play",
             "description": "WAI Play - AI web game testing and quality evaluation platform",
             "url": "https://github.com/waiterve/wai-play",
-            "stars": 329,
-            "forks": 12,
-            "score": 48
+            "stars": 334,
+            "forks": 13,
+            "score": 49
         },
         {
             "main_cat": "AI",
@@ -216,7 +216,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "uczltw6/trace-file-lineage",
             "description": "Find which script, notebook, data, command, or AI agent produced a file \u2014 locally, with evidence and honest uncertainty.",
             "url": "https://github.com/uczltw6/trace-file-lineage",
-            "stars": 459,
+            "stars": 462,
             "forks": 6,
             "score": 46
         },
@@ -227,7 +227,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "liujunxibaba/douyin-tiktok-story-skill-agent",
             "description": "Local-first AI Skill and Agent for creating original Douyin and TikTok story scripts with a searchable SQLite reference database.",
             "url": "https://github.com/liujunxibaba/douyin-tiktok-story-skill-agent",
-            "stars": 248,
+            "stars": 251,
             "forks": 6,
             "score": 45
         },
@@ -238,7 +238,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "memorax-ai/memorax-code",
             "description": "A memory plugin for AI coding that turns engineering experience, repository knowledge, and your way of working into memory that remains useful in future tasks.",
             "url": "https://github.com/memorax-ai/memorax-code",
-            "stars": 293,
+            "stars": 294,
             "forks": 12,
             "score": 43
         },
@@ -443,10 +443,10 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "Prediction Markets",
             "sub_cat": null,
-            "name": "OddsFlow",
-            "full_name": "ryukeie/OddsFlow",
+            "name": "OddsFlow-",
+            "full_name": "ryukeie/OddsFlow-",
             "description": "Modern sports prediction platform built with a responsive UI, live event management, secure authentication, wallet system, bet slip, match tracking, and an admin dashboard. Designed with scalability, performance, and clean architecture in mind.",
-            "url": "https://github.com/ryukeie/OddsFlow",
+            "url": "https://github.com/ryukeie/OddsFlow-",
             "stars": 0,
             "forks": 0,
             "score": 30
@@ -454,10 +454,10 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "Prediction Markets",
             "sub_cat": null,
-            "name": "OddsFlow-",
-            "full_name": "ryukeie/OddsFlow-",
+            "name": "OddsFlow",
+            "full_name": "ryukeie/OddsFlow",
             "description": "Modern sports prediction platform built with a responsive UI, live event management, secure authentication, wallet system, bet slip, match tracking, and an admin dashboard. Designed with scalability, performance, and clean architecture in mind.",
-            "url": "https://github.com/ryukeie/OddsFlow-",
+            "url": "https://github.com/ryukeie/OddsFlow",
             "stars": 0,
             "forks": 0,
             "score": 30
@@ -783,5 +783,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-08-11 18:53"
+    "timestamp": "2026-08-11 19:57"
 };
