@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "trycompai/crm",
             "description": "Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.",
             "url": "https://github.com/trycompai/crm",
-            "stars": 8210,
-            "forks": 933,
+            "stars": 8218,
+            "forks": 935,
             "score": 99
         },
         {
@@ -18,7 +18,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "KKKKhazix/human-writing",
             "description": "\u8ba9 AI \u5199\u7684\u4e2d\u6587\u8bfb\u8d77\u6765\u50cf\u4e00\u4e2a\u5177\u4f53\u7684\u4eba\u5728\u8bf4\u8bdd\u3002\u901a\u7528\u521b\u4f5c\u4e0e\u6539\u7a3f Skill\uff0c\u5f00\u7bb1\u5373\u7528\u3002",
             "url": "https://github.com/KKKKhazix/human-writing",
-            "stars": 2405,
+            "stars": 2406,
             "forks": 207,
             "score": 99
         },
@@ -40,8 +40,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "eternityspring/shuohao-skills",
             "description": "AI \u77ed\u5267\u5236\u4f5c\u7684 skill \u96c6\u5408\uff1a\u62c6\u89d2\u8272\u3001\u51fa\u8bbe\u5b9a\u56fe\u3001\u6392\u5927\u7eb2 | Agent skills for AI short-drama production \u2014 character bibles, model sheets, adaptation outlines. Runs in Claude Code & codex.",
             "url": "https://github.com/eternityspring/shuohao-skills",
-            "stars": 852,
-            "forks": 101,
+            "stars": 859,
+            "forks": 102,
             "score": 99
         },
         {
@@ -51,8 +51,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "shadcn-ui/chatbot-template",
             "description": "A minimal chatbot template built with Next.js, AI SDK, shadcn/ui, shadcn/react, shadcn/typeset. It runs on the Vercel AI Gateway.",
             "url": "https://github.com/shadcn-ui/chatbot-template",
-            "stars": 374,
-            "forks": 35,
+            "stars": 383,
+            "forks": 36,
             "score": 99
         },
         {
@@ -84,7 +84,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "sv-number/mcp-server",
             "description": "MCP server for AI agents that need a phone number: order a private number in 200+ countries, read the SMS verification code, hand it back. The widest country coverage in the category, and you can check it with one API call.",
             "url": "https://github.com/sv-number/mcp-server",
-            "stars": 612,
+            "stars": 613,
             "forks": 0,
             "score": 73
         },
@@ -95,7 +95,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "AMAP-ML/LongHorizon-Harness",
             "description": "The long-horizon computer-use harness. Run AI agents across desktop apps and the CLI for extended periods while preserving task state and making reliable progress on complex workflows. Features fresh-context execution, durable verified state, independent auditing, recoverable progress, and native Claude Code / Codex / OpenClaw integration.",
             "url": "https://github.com/AMAP-ML/LongHorizon-Harness",
-            "stars": 580,
+            "stars": 581,
             "forks": 68,
             "score": 72
         },
@@ -117,7 +117,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "MarcosSete/awesome-free-ai-course-notes",
             "description": "A curated collection of machine learning and AI lecture notes from the world's leading universities.  This repository gives you access to the same lecture notes used by students at top institutions such as MIT, helping you learn from the very best educational resources available.",
             "url": "https://github.com/MarcosSete/awesome-free-ai-course-notes",
-            "stars": 590,
+            "stars": 591,
             "forks": 50,
             "score": 65
         },
@@ -205,9 +205,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "waiterve/wai-play",
             "description": "WAI Play - AI web game testing and quality evaluation platform",
             "url": "https://github.com/waiterve/wai-play",
-            "stars": 339,
+            "stars": 345,
             "forks": 13,
             "score": 49
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "douyin-tiktok-story-skill-agent",
+            "full_name": "liujunxibaba/douyin-tiktok-story-skill-agent",
+            "description": "Local-first AI Skill and Agent for creating original Douyin and TikTok story scripts with a searchable SQLite reference database.",
+            "url": "https://github.com/liujunxibaba/douyin-tiktok-story-skill-agent",
+            "stars": 264,
+            "forks": 6,
+            "score": 46
         },
         {
             "main_cat": "AI",
@@ -218,17 +229,6 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/uczltw6/trace-file-lineage",
             "stars": 463,
             "forks": 7,
-            "score": 46
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "douyin-tiktok-story-skill-agent",
-            "full_name": "liujunxibaba/douyin-tiktok-story-skill-agent",
-            "description": "Local-first AI Skill and Agent for creating original Douyin and TikTok story scripts with a searchable SQLite reference database.",
-            "url": "https://github.com/liujunxibaba/douyin-tiktok-story-skill-agent",
-            "stars": 258,
-            "forks": 6,
             "score": 45
         },
         {
@@ -238,7 +238,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "memorax-ai/memorax-code",
             "description": "A memory plugin for AI coding that turns engineering experience, repository knowledge, and your way of working into memory that remains useful in future tasks.",
             "url": "https://github.com/memorax-ai/memorax-code",
-            "stars": 300,
+            "stars": 306,
             "forks": 13,
             "score": 43
         },
@@ -277,17 +277,6 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
-            "sub_cat": null,
-            "name": "kimi-ai-plus",
-            "full_name": "MidgeFlourish/kimi-ai-plus",
-            "description": "Kimi AI Plus",
-            "url": "https://github.com/MidgeFlourish/kimi-ai-plus",
-            "stars": 221,
-            "forks": 0,
-            "score": 37
-        },
-        {
-            "main_cat": "AI",
             "sub_cat": "AI General",
             "name": "omnibase",
             "full_name": "lss100200/omnibase",
@@ -296,6 +285,17 @@ const ALPHA_DATA_V2 = {
             "stars": 166,
             "forks": 4,
             "score": 37
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "kimi-ai-plus",
+            "full_name": "MidgeFlourish/kimi-ai-plus",
+            "description": "Kimi AI Plus",
+            "url": "https://github.com/MidgeFlourish/kimi-ai-plus",
+            "stars": 221,
+            "forks": 0,
+            "score": 36
         },
         {
             "main_cat": "AI",
@@ -769,5 +769,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-08-11 21:38"
+    "timestamp": "2026-08-11 22:34"
 };
