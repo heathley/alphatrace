@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "trycompai/crm",
             "description": "Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.",
             "url": "https://github.com/trycompai/crm",
-            "stars": 8145,
-            "forks": 908,
+            "stars": 8155,
+            "forks": 913,
             "score": 99
         },
         {
@@ -18,8 +18,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "KKKKhazix/human-writing",
             "description": "\u8ba9 AI \u5199\u7684\u4e2d\u6587\u8bfb\u8d77\u6765\u50cf\u4e00\u4e2a\u5177\u4f53\u7684\u4eba\u5728\u8bf4\u8bdd\u3002\u901a\u7528\u521b\u4f5c\u4e0e\u6539\u7a3f Skill\uff0c\u5f00\u7bb1\u5373\u7528\u3002",
             "url": "https://github.com/KKKKhazix/human-writing",
-            "stars": 2346,
-            "forks": 202,
+            "stars": 2367,
+            "forks": 205,
             "score": 99
         },
         {
@@ -29,8 +29,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "Binaryify/open-kimi-ppt-skill",
             "description": "\u975e\u5b98\u65b9 Kimi Slides Skill\uff1a\u8ba9 AI Agent \u751f\u6210\u53ef\u7f16\u8f91 PPTD + PPTX\uff0c\u5e76\u9644\u5e26\u672c\u5730\u6d4f\u89c8\u5668\u7f16\u8f91\u5668 Unofficial Kimi Slides skill for AI agents \u2014 generate editable PPTD + PPTX with a local browser editor",
             "url": "https://github.com/Binaryify/open-kimi-ppt-skill",
-            "stars": 1605,
-            "forks": 1188,
+            "stars": 1604,
+            "forks": 1191,
             "score": 99
         },
         {
@@ -40,20 +40,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "eternityspring/shuohao-skills",
             "description": "AI \u77ed\u5267\u5236\u4f5c\u7684 skill \u96c6\u5408\uff1a\u62c6\u89d2\u8272\u3001\u51fa\u8bbe\u5b9a\u56fe\u3001\u6392\u5927\u7eb2 | Agent skills for AI short-drama production \u2014 character bibles, model sheets, adaptation outlines. Runs in Claude Code & codex.",
             "url": "https://github.com/eternityspring/shuohao-skills",
-            "stars": 668,
+            "stars": 679,
             "forks": 79,
             "score": 99
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "my_ai_town",
-            "full_name": "mewamew/my_ai_town",
-            "description": "\u6211\u7684AI\u5c0f\u9547",
-            "url": "https://github.com/mewamew/my_ai_town",
-            "stars": 395,
-            "forks": 73,
-            "score": 79
         },
         {
             "main_cat": "AI",
@@ -62,9 +51,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "magicrew/doc7",
             "description": "Turn documents into AI-ready Markdown with visual understanding",
             "url": "https://github.com/magicrew/doc7",
-            "stars": 940,
-            "forks": 29,
-            "score": 78
+            "stars": 1036,
+            "forks": 31,
+            "score": 82
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "my_ai_town",
+            "full_name": "mewamew/my_ai_town",
+            "description": "\u6211\u7684AI\u5c0f\u9547",
+            "url": "https://github.com/mewamew/my_ai_town",
+            "stars": 400,
+            "forks": 74,
+            "score": 79
         },
         {
             "main_cat": "AI",
@@ -73,7 +73,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "sv-number/mcp-server",
             "description": "MCP server for AI agents that need a phone number: order a private number in 200+ countries, read the SMS verification code, hand it back. The widest country coverage in the category, and you can check it with one API call.",
             "url": "https://github.com/sv-number/mcp-server",
-            "stars": 576,
+            "stars": 578,
             "forks": 0,
             "score": 78
         },
@@ -84,7 +84,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "MkThingsHQ/mkdirs",
             "description": "Open-source AI-powered directory website template built with Next.js",
             "url": "https://github.com/MkThingsHQ/mkdirs",
-            "stars": 172,
+            "stars": 175,
             "forks": 46,
             "score": 74
         },
@@ -95,7 +95,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "AMAP-ML/LongHorizon-Harness",
             "description": "The long-horizon computer-use harness. Run AI agents across desktop apps and the CLI for extended periods while preserving task state and making reliable progress on complex workflows. Features fresh-context execution, durable verified state, independent auditing, recoverable progress, and native Claude Code / Codex / OpenClaw integration.",
             "url": "https://github.com/AMAP-ML/LongHorizon-Harness",
-            "stars": 562,
+            "stars": 567,
             "forks": 67,
             "score": 71
         },
@@ -106,7 +106,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "MarcosSete/awesome-free-ai-course-notes",
             "description": "A curated collection of machine learning and AI lecture notes from the world's leading universities.  This repository gives you access to the same lecture notes used by students at top institutions such as MIT, helping you learn from the very best educational resources available.",
             "url": "https://github.com/MarcosSete/awesome-free-ai-course-notes",
-            "stars": 587,
+            "stars": 588,
             "forks": 50,
             "score": 69
         },
@@ -128,9 +128,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "fuxicodex/Fuxi",
             "description": "FuXi is a fast, self-contained AI developer terminal",
             "url": "https://github.com/fuxicodex/Fuxi",
-            "stars": 438,
+            "stars": 441,
             "forks": 45,
-            "score": 60
+            "score": 61
         },
         {
             "main_cat": "AI",
@@ -139,7 +139,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "canivibecodeit/canivibecodeit",
             "description": "Find out which subscriptions are one prompt away from free. caniuse.com, but for replacing SaaS with one AI prompt.",
             "url": "https://github.com/canivibecodeit/canivibecodeit",
-            "stars": 185,
+            "stars": 187,
             "forks": 153,
             "score": 56
         },
@@ -150,7 +150,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "joeseesun/qiaomu-seo",
             "description": "Audit, diagnose, research, plan, implement, experiment on, and verify website SEO across Google, Bing, and AI-search surfaces. Use for technical SEO, ",
             "url": "https://github.com/joeseesun/qiaomu-seo",
-            "stars": 339,
+            "stars": 340,
             "forks": 44,
             "score": 55
         },
@@ -161,7 +161,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "crawfordxx/xiaoma-durex-copywriter",
             "description": "\u675c\u857e\u65af\u5f0f\u6587\u6848\u4e0e\u6d77\u62a5 Skill for Claude Code \u2014\u2014 \u53cc\u5c42\u8bed\u4e49\u65b9\u6cd5\u8bba + 8 \u4e2a\u6587\u6848\u516c\u5f0f + \u4ece 260 \u5f20\u539f\u59cb\u6d77\u62a5\u62c6\u89e3\u7684\u89c6\u89c9\u7cfb\u7edf + AI \u51fa\u56fe/\u4ee3\u7801\u6392\u7248\u7ba1\u7ebf",
             "url": "https://github.com/crawfordxx/xiaoma-durex-copywriter",
-            "stars": 374,
+            "stars": 379,
             "forks": 8,
             "score": 52
         },
@@ -172,7 +172,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "DanielPan12/JobHuntBot",
             "description": "Agent-led job application workflow with a local progress-tracking dashboard \u2014 works with any AI coding agent that can read files and follow instructions.AI Agent \u9a71\u52a8\u7684\u6c42\u804c\u6295\u9012\u5de5\u4f5c\u6d41,\u914d\u672c\u5730\u8fdb\u5ea6\u8ffd\u8e2a\u770b\u677f\u2014\u2014\u9002\u914d\u4efb\u4f55\u80fd\u8bfb\u6587\u4ef6\u3001\u542c\u61c2\u6307\u4ee4\u7684\u7f16\u7a0b Agent\u3002",
             "url": "https://github.com/DanielPan12/JobHuntBot",
-            "stars": 319,
+            "stars": 326,
             "forks": 31,
             "score": 50
         },
@@ -183,8 +183,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "alikon-art/DeterminFlow",
             "description": "A production-oriented AI workflow runtime for building, validating, recovering, and shipping complex AI workflows as dependable services. \u9762\u5411\u751f\u4ea7\u7684 AI \u5de5\u4f5c\u6d41\u8fd0\u884c\u65f6\uff1a\u5feb\u901f\u5f00\u53d1\u3001\u9a8c\u8bc1\u548c\u6062\u590d\u590d\u6742 AI \u5de5\u4f5c\u6d41\uff0c\u5e76\u5c06\u5176\u7a33\u5b9a\u4ea4\u4ed8\u4e3a\u670d\u52a1\u3002",
             "url": "https://github.com/alikon-art/DeterminFlow",
-            "stars": 309,
-            "forks": 46,
+            "stars": 315,
+            "forks": 47,
             "score": 50
         },
         {
@@ -194,9 +194,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "waiterve/wai-play",
             "description": "WAI Play - AI web game testing and quality evaluation platform",
             "url": "https://github.com/waiterve/wai-play",
-            "stars": 314,
+            "stars": 320,
             "forks": 11,
-            "score": 47
+            "score": 48
         },
         {
             "main_cat": "AI",
@@ -216,7 +216,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "liujunxibaba/douyin-tiktok-story-skill-agent",
             "description": "Local-first AI Skill and Agent for creating original Douyin and TikTok story scripts with a searchable SQLite reference database.",
             "url": "https://github.com/liujunxibaba/douyin-tiktok-story-skill-agent",
-            "stars": 222,
+            "stars": 230,
             "forks": 6,
             "score": 45
         },
@@ -233,25 +233,25 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "vibe-astock",
-            "full_name": "simonlin1212/vibe-astock",
-            "description": "A \u80a1\u77ed\u7ebf\u590d\u76d8\u770b\u677f\uff1a\u6da8\u505c\u6c60\u00b7\u8fde\u677f\u68af\u961f\u00b7\u9f99\u864e\u699c\u00b7\u677f\u5757\u8d44\u91d1\u4e00\u5c4f\u770b\u5b8c\uff0c\u8d5a\u94b1\u6548\u5e94/\u664b\u7ea7\u7387/\u68af\u961f\u65ad\u5c42/\u60c5\u7eea\u5468\u671f\u7b49\u6d3e\u751f\u6307\u6807\u7eaf\u8ba1\u7b97\u76f4\u51fa\uff08\u4e0d\u7ecf\u8fc7 AI\uff09\uff0cAI \u53ea\u628a\u6570\u636e\u4e32\u6210\u80fd\u8bfb\u7684\u76d8\u9762\u7814\u5224\u3002\u5168\u672c\u5730\u8fd0\u884c\uff0c\u53ef\u7528 Claude/Codex \u8ba2\u9605\u514d API key\u3002| A-share short-term daily-review dashboard: derived sentiment metrics computed locally, AI only writes the narrative. No API key needed.",
-            "url": "https://github.com/simonlin1212/vibe-astock",
-            "stars": 172,
-            "forks": 50,
-            "score": 42
-        },
-        {
-            "main_cat": "AI",
             "sub_cat": null,
             "name": "memorax-code",
             "full_name": "memorax-ai/memorax-code",
             "description": "A memory plugin for AI coding that turns engineering experience, repository knowledge, and your way of working into memory that remains useful in future tasks.",
             "url": "https://github.com/memorax-ai/memorax-code",
-            "stars": 261,
+            "stars": 274,
             "forks": 12,
-            "score": 41
+            "score": 42
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "vibe-astock",
+            "full_name": "simonlin1212/vibe-astock",
+            "description": "A \u80a1\u77ed\u7ebf\u590d\u76d8\u770b\u677f\uff1a\u6da8\u505c\u6c60\u00b7\u8fde\u677f\u68af\u961f\u00b7\u9f99\u864e\u699c\u00b7\u677f\u5757\u8d44\u91d1\u4e00\u5c4f\u770b\u5b8c\uff0c\u8d5a\u94b1\u6548\u5e94/\u664b\u7ea7\u7387/\u68af\u961f\u65ad\u5c42/\u60c5\u7eea\u5468\u671f\u7b49\u6d3e\u751f\u6307\u6807\u7eaf\u8ba1\u7b97\u76f4\u51fa\uff08\u4e0d\u7ecf\u8fc7 AI\uff09\uff0cAI \u53ea\u628a\u6570\u636e\u4e32\u6210\u80fd\u8bfb\u7684\u76d8\u9762\u7814\u5224\u3002\u5168\u672c\u5730\u8fd0\u884c\uff0c\u53ef\u7528 Claude/Codex \u8ba2\u9605\u514d API key\u3002| A-share short-term daily-review dashboard: derived sentiment metrics computed locally, AI only writes the narrative. No API key needed.",
+            "url": "https://github.com/simonlin1212/vibe-astock",
+            "stars": 173,
+            "forks": 50,
+            "score": 42
         },
         {
             "main_cat": "AI",
@@ -260,7 +260,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "mrpulor-gh/nuphus-mcp",
             "description": "Desktop automation MCP server \u2014 computer use for any AI agent: control screen, windows, mouse/keyboard, and Chrome via Model Context Protocol (stdio)",
             "url": "https://github.com/mrpulor-gh/nuphus-mcp",
-            "stars": 195,
+            "stars": 196,
             "forks": 22,
             "score": 40
         },
@@ -351,17 +351,6 @@ const ALPHA_DATA_V2 = {
             "stars": 26,
             "forks": 1,
             "score": 31
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "Pisces",
-            "full_name": "ant-intl/Pisces",
-            "description": "Pisces is a practical cryptography-based RAG framework that protects both user queries and knowledge-base documents while supporting semantic and lexical retrieval. It combines private coarse-to-fine semantic search with multi-instance labeled PSI for BM25, achieving accuracy within 1.87% of plaintext baselines.",
-            "url": "https://github.com/ant-intl/Pisces",
-            "stars": 8,
-            "forks": 1,
-            "score": 30
         },
         {
             "main_cat": "AI",
@@ -630,17 +619,6 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
-            "name": "zebec",
-            "full_name": "api-evangelist/zebec",
-            "description": "Zebec is a blockchain-based financial infrastructure network that has been building decentralized payments rails since 2021, best known for real-time streaming payments and payroll. Zebec lets money move continuously by the second rather than in discrete transactions, powering stablecoin payroll, crypto debit cards (Silver, Carbon and Black\u2026",
-            "url": "https://github.com/api-evangelist/zebec",
-            "stars": 0,
-            "forks": 0,
-            "score": 30
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
             "name": "token-migration-tool",
             "full_name": "Kabutoxyz/token-migration-tool",
             "description": "Migrate tokens between chains. Support for bridge protocols and cross-chain swaps.",
@@ -780,9 +758,34 @@ const ALPHA_DATA_V2 = {
             "stars": 0,
             "forks": 0,
             "score": 30
+        },
+        {
+            "main_cat": "Cross-chain / Interoperability",
+            "sub_cat": null,
+            "name": "remitlend",
+            "full_name": "ExcelDsigN-tech/remitlend",
+            "description": "Decentralized lending and cross-border remittance protocol on Stellar/Soroban",
+            "url": "https://github.com/ExcelDsigN-tech/remitlend",
+            "stars": 0,
+            "forks": 0,
+            "score": 30
         }
     ],
     "news": [
+        {
+            "title": "Overcoming Data Scarcity and Confidentiality in Hardware Assurance via Synthetic Generation",
+            "source": "ArXiv",
+            "type": "Research Alpha",
+            "color": "text-indigo-600",
+            "url": "http://arxiv.org/abs/2608.09914v1"
+        },
+        {
+            "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
+            "source": "ArXiv",
+            "type": "Research Alpha",
+            "color": "text-indigo-600",
+            "url": "http://arxiv.org/abs/2608.09867v1"
+        },
         {
             "title": "Bitcoin volatility remains high ahead of key FED decision.",
             "source": "Polymarket",
@@ -791,5 +794,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-08-11 08:06"
+    "timestamp": "2026-08-11 09:54"
 };
