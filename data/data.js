@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "trycompai/crm",
             "description": "Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.",
             "url": "https://github.com/trycompai/crm",
-            "stars": 8223,
-            "forks": 935,
+            "stars": 8231,
+            "forks": 938,
             "score": 99
         },
         {
@@ -18,7 +18,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "KKKKhazix/human-writing",
             "description": "\u8ba9 AI \u5199\u7684\u4e2d\u6587\u8bfb\u8d77\u6765\u50cf\u4e00\u4e2a\u5177\u4f53\u7684\u4eba\u5728\u8bf4\u8bdd\u3002\u901a\u7528\u521b\u4f5c\u4e0e\u6539\u7a3f Skill\uff0c\u5f00\u7bb1\u5373\u7528\u3002",
             "url": "https://github.com/KKKKhazix/human-writing",
-            "stars": 2406,
+            "stars": 2409,
             "forks": 207,
             "score": 99
         },
@@ -40,8 +40,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "eternityspring/shuohao-skills",
             "description": "AI \u77ed\u5267\u5236\u4f5c\u7684 skill \u96c6\u5408\uff1a\u62c6\u89d2\u8272\u3001\u51fa\u8bbe\u5b9a\u56fe\u3001\u6392\u5927\u7eb2 | Agent skills for AI short-drama production \u2014 character bibles, model sheets, adaptation outlines. Runs in Claude Code & codex.",
             "url": "https://github.com/eternityspring/shuohao-skills",
-            "stars": 864,
-            "forks": 103,
+            "stars": 906,
+            "forks": 109,
             "score": 99
         },
         {
@@ -51,8 +51,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "shadcn-ui/chatbot-template",
             "description": "A minimal chatbot template built with Next.js, AI SDK, shadcn/ui, shadcn/react, shadcn/typeset. It runs on the Vercel AI Gateway.",
             "url": "https://github.com/shadcn-ui/chatbot-template",
-            "stars": 393,
-            "forks": 37,
+            "stars": 417,
+            "forks": 38,
             "score": 99
         },
         {
@@ -62,9 +62,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "mewamew/my_ai_town",
             "description": "\u6211\u7684AI\u5c0f\u9547",
             "url": "https://github.com/mewamew/my_ai_town",
-            "stars": 434,
-            "forks": 90,
-            "score": 86
+            "stars": 436,
+            "forks": 91,
+            "score": 87
         },
         {
             "main_cat": "AI",
@@ -73,9 +73,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "magicrew/doc7",
             "description": "Turn documents into AI-ready Markdown with visual understanding",
             "url": "https://github.com/magicrew/doc7",
-            "stars": 1051,
+            "stars": 1052,
             "forks": 31,
-            "score": 78
+            "score": 79
         },
         {
             "main_cat": "AI",
@@ -95,7 +95,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "AMAP-ML/LongHorizon-Harness",
             "description": "The long-horizon computer-use harness. Run AI agents across desktop apps and the CLI for extended periods while preserving task state and making reliable progress on complex workflows. Features fresh-context execution, durable verified state, independent auditing, recoverable progress, and native Claude Code / Codex / OpenClaw integration.",
             "url": "https://github.com/AMAP-ML/LongHorizon-Harness",
-            "stars": 581,
+            "stars": 582,
             "forks": 69,
             "score": 72
         },
@@ -106,7 +106,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "MkThingsHQ/mkdirs",
             "description": "Open-source AI-powered directory website template built with Next.js",
             "url": "https://github.com/MkThingsHQ/mkdirs",
-            "stars": 181,
+            "stars": 184,
             "forks": 50,
             "score": 68
         },
@@ -128,9 +128,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "criptogus/HermesOffice",
             "description": "HermesOffice \u2014 AI-native office suite forked from GenOffice (Apache-2.0), with native Hermes Agent AI",
             "url": "https://github.com/criptogus/HermesOffice",
-            "stars": 431,
-            "forks": 56,
-            "score": 62
+            "stars": 432,
+            "forks": 57,
+            "score": 63
         },
         {
             "main_cat": "AI",
@@ -139,20 +139,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "fuxicodex/Fuxi",
             "description": "FuXi is a fast, self-contained AI developer terminal",
             "url": "https://github.com/fuxicodex/Fuxi",
-            "stars": 450,
+            "stars": 452,
             "forks": 46,
             "score": 61
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "canivibecodeit",
-            "full_name": "canivibecodeit/canivibecodeit",
-            "description": "Find out which subscriptions are one prompt away from free. caniuse.com, but for replacing SaaS with one AI prompt.",
-            "url": "https://github.com/canivibecodeit/canivibecodeit",
-            "stars": 195,
-            "forks": 157,
-            "score": 55
         },
         {
             "main_cat": "AI",
@@ -162,7 +151,7 @@ const ALPHA_DATA_V2 = {
             "description": "Audit, diagnose, research, plan, implement, experiment on, and verify website SEO across Google, Bing, and AI-search surfaces. Use for technical SEO, ",
             "url": "https://github.com/joeseesun/qiaomu-seo",
             "stars": 343,
-            "forks": 45,
+            "forks": 46,
             "score": 53
         },
         {
@@ -173,7 +162,7 @@ const ALPHA_DATA_V2 = {
             "description": "A production-oriented AI workflow runtime for building, validating, recovering, and shipping complex AI workflows as dependable services. \u9762\u5411\u751f\u4ea7\u7684 AI \u5de5\u4f5c\u6d41\u8fd0\u884c\u65f6\uff1a\u5feb\u901f\u5f00\u53d1\u3001\u9a8c\u8bc1\u548c\u6062\u590d\u590d\u6742 AI \u5de5\u4f5c\u6d41\uff0c\u5e76\u5c06\u5176\u7a33\u5b9a\u4ea4\u4ed8\u4e3a\u670d\u52a1\u3002",
             "url": "https://github.com/alikon-art/DeterminFlow",
             "stars": 336,
-            "forks": 48,
+            "forks": 49,
             "score": 52
         },
         {
@@ -194,7 +183,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "DanielPan12/JobHuntBot",
             "description": "Agent-led job application workflow with a local progress-tracking dashboard \u2014 works with any AI coding agent that can read files and follow instructions.AI Agent \u9a71\u52a8\u7684\u6c42\u804c\u6295\u9012\u5de5\u4f5c\u6d41,\u914d\u672c\u5730\u8fdb\u5ea6\u8ffd\u8e2a\u770b\u677f\u2014\u2014\u9002\u914d\u4efb\u4f55\u80fd\u8bfb\u6587\u4ef6\u3001\u542c\u61c2\u6307\u4ee4\u7684\u7f16\u7a0b Agent\u3002",
             "url": "https://github.com/DanielPan12/JobHuntBot",
-            "stars": 347,
+            "stars": 349,
             "forks": 32,
             "score": 49
         },
@@ -205,9 +194,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "waiterve/wai-play",
             "description": "WAI Play - AI web game testing and quality evaluation platform",
             "url": "https://github.com/waiterve/wai-play",
-            "stars": 345,
+            "stars": 346,
             "forks": 13,
             "score": 49
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "scene-card-studio",
+            "full_name": "swping999/scene-card-studio",
+            "description": "AI visual director for turning personal photos into structured, editable visual narratives.",
+            "url": "https://github.com/swping999/scene-card-studio",
+            "stars": 147,
+            "forks": 6,
+            "score": 47
         },
         {
             "main_cat": "AI",
@@ -216,19 +216,19 @@ const ALPHA_DATA_V2 = {
             "full_name": "liujunxibaba/douyin-tiktok-story-skill-agent",
             "description": "Local-first AI Skill and Agent for creating original Douyin and TikTok story scripts with a searchable SQLite reference database.",
             "url": "https://github.com/liujunxibaba/douyin-tiktok-story-skill-agent",
-            "stars": 266,
+            "stars": 267,
             "forks": 6,
             "score": 46
         },
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "trace-file-lineage",
-            "full_name": "uczltw6/trace-file-lineage",
-            "description": "Find which script, notebook, data, command, or AI agent produced a file \u2014 locally, with evidence and honest uncertainty.",
-            "url": "https://github.com/uczltw6/trace-file-lineage",
-            "stars": 463,
-            "forks": 7,
+            "name": "loomfeed",
+            "full_name": "surya-koritala/loomfeed",
+            "description": "The open-source Reddit alternative built for AI agents and humans \u2014 provenance tracking, reputation, epistemic status labels, and agent debates. Self-host with docker compose.",
+            "url": "https://github.com/surya-koritala/loomfeed",
+            "stars": 156,
+            "forks": 0,
             "score": 45
         },
         {
@@ -238,8 +238,19 @@ const ALPHA_DATA_V2 = {
             "full_name": "memorax-ai/memorax-code",
             "description": "A memory plugin for AI coding that turns engineering experience, repository knowledge, and your way of working into memory that remains useful in future tasks.",
             "url": "https://github.com/memorax-ai/memorax-code",
-            "stars": 310,
+            "stars": 318,
             "forks": 13,
+            "score": 44
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "moonlit-stories",
+            "full_name": "lincwang123-bot/moonlit-stories",
+            "description": "Reusable AI English picture-book workflow with consistent illustrations and local Chatterbox TTS.",
+            "url": "https://github.com/lincwang123-bot/moonlit-stories",
+            "stars": 156,
+            "forks": 30,
             "score": 43
         },
         {
@@ -249,19 +260,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "kropdx/reflection-engine",
             "description": "A downloadable prompt that turns your AI assistant's memory of you into a candid, evidence-grounded portrait.",
             "url": "https://github.com/kropdx/reflection-engine",
-            "stars": 233,
+            "stars": 234,
             "forks": 9,
-            "score": 42
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "vibe-astock",
-            "full_name": "simonlin1212/vibe-astock",
-            "description": "A \u80a1\u77ed\u7ebf\u590d\u76d8\u770b\u677f\uff1a\u6da8\u505c\u6c60\u00b7\u8fde\u677f\u68af\u961f\u00b7\u9f99\u864e\u699c\u00b7\u677f\u5757\u8d44\u91d1\u4e00\u5c4f\u770b\u5b8c\uff0c\u8d5a\u94b1\u6548\u5e94/\u664b\u7ea7\u7387/\u68af\u961f\u65ad\u5c42/\u60c5\u7eea\u5468\u671f\u7b49\u6d3e\u751f\u6307\u6807\u7eaf\u8ba1\u7b97\u76f4\u51fa\uff08\u4e0d\u7ecf\u8fc7 AI\uff09\uff0cAI \u53ea\u628a\u6570\u636e\u4e32\u6210\u80fd\u8bfb\u7684\u76d8\u9762\u7814\u5224\u3002\u5168\u672c\u5730\u8fd0\u884c\uff0c\u53ef\u7528 Claude/Codex \u8ba2\u9605\u514d API key\u3002| A-share short-term daily-review dashboard: derived sentiment metrics computed locally, AI only writes the narrative. No API key needed.",
-            "url": "https://github.com/simonlin1212/vibe-astock",
-            "stars": 175,
-            "forks": 52,
             "score": 42
         },
         {
@@ -289,34 +289,23 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "kimi-ai-plus",
-            "full_name": "MidgeFlourish/kimi-ai-plus",
-            "description": "Kimi AI Plus",
-            "url": "https://github.com/MidgeFlourish/kimi-ai-plus",
-            "stars": 221,
-            "forks": 0,
-            "score": 36
+            "name": "debroid",
+            "full_name": "PatilShreyas/debroid",
+            "description": "Autonomous, headless Android debugger designed for AI coding agents. Inspect runtime memory, set breakpoints, and debug live apps.",
+            "url": "https://github.com/PatilShreyas/debroid",
+            "stars": 161,
+            "forks": 7,
+            "score": 37
         },
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "janitor-ai-apex",
-            "full_name": "VictorSteamOrder/janitor-ai-apex",
-            "description": "Janitor AI Apex",
-            "url": "https://github.com/VictorSteamOrder/janitor-ai-apex",
-            "stars": 209,
-            "forks": 0,
-            "score": 36
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "luma-ai-flow",
-            "full_name": "Hopetueliminate/luma-ai-flow",
-            "description": "Luma AI Flow",
-            "url": "https://github.com/Hopetueliminate/luma-ai-flow",
-            "stars": 167,
-            "forks": 0,
+            "name": "ai-agent-platform",
+            "full_name": "888newstep/ai-agent-platform",
+            "description": "\u4f01\u4e1a\u7ea7 AI Agent \u5e73\u53f0 | Spring Boot 3 + LangChain4j | ReAct \u63a8\u7406 + \u591a\u8def\u53ec\u56de RAG + \u8bed\u4e49\u7f13\u5b58 + \u591a\u667a\u80fd\u4f53\u534f\u4f5c",
+            "url": "https://github.com/888newstep/ai-agent-platform",
+            "stars": 146,
+            "forks": 1,
             "score": 35
         },
         {
@@ -326,20 +315,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "yangzc/ainote",
             "description": "AI Agent workflow platform \u2014 visual flow builder, multi-model LLMs, RAG knowledge base, and self-hosted deployment.",
             "url": "https://github.com/yangzc/ainote",
-            "stars": 18,
-            "forks": 2,
-            "score": 34
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "ShenNongMi",
-            "full_name": "Happy-Chen-CH/ShenNongMi",
-            "description": "\ud83c\udf3f \u795e\u519c\u89c5 (ShennongMi) \u2014 AI-powered TCM knowledge navigator: Neo4j graph (19K+ nodes) \u00d7 LangGraph 14-node workflows \u00d7 self-correcting NL2Cypher \u00d7 dual-model intent recognition (fastText + RoBERTa-LoRA, 99.75% accuracy). Supports TCM knowledge Q&A, automated RED content publishing, and interactive graph exploration.",
-            "url": "https://github.com/Happy-Chen-CH/ShenNongMi",
-            "stars": 82,
-            "forks": 7,
-            "score": 33
+            "stars": 19,
+            "forks": 3,
+            "score": 35
         },
         {
             "main_cat": "Cross-chain / Interoperability",
@@ -366,11 +344,11 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
-            "name": "qingyi-kda",
-            "full_name": "Sisyphbaous-DT-Project/qingyi-kda",
-            "description": "QINGYI-KDA-0.6B: first successful Qwen3-to-KDA linearization (3:1 hybrid, GQA+RoPE kept layers) + persona alignment. Smallest trained KDA model, converted end-to-end on a consumer 8GB GPU.",
-            "url": "https://github.com/Sisyphbaous-DT-Project/qingyi-kda",
-            "stars": 17,
+            "name": "Pisces",
+            "full_name": "ant-intl/Pisces",
+            "description": "Pisces is a practical cryptography-based RAG framework that protects both user queries and knowledge-base documents while supporting semantic and lexical retrieval. It combines private coarse-to-fine semantic search with multi-instance labeled PSI for BM25, achieving accuracy within 1.87% of plaintext baselines.",
+            "url": "https://github.com/ant-intl/Pisces",
+            "stars": 8,
             "forks": 1,
             "score": 30
         },
@@ -392,6 +370,72 @@ const ALPHA_DATA_V2 = {
             "full_name": "NexTechArchitect/Nexus-RWA-Protocol",
             "description": "Nexus RWA is an institutional-grade, fully compliant Real-World Asset tokenization engine deployed on Base. Powered by ERC-3643 identity registries, automated jurisdictional checks, real-time Chainlink NAV oracles with circuit breakers, and Merkle-tree yield distribution. Bulletproof security meets high-yield DeFi.",
             "url": "https://github.com/NexTechArchitect/Nexus-RWA-Protocol",
+            "stars": 0,
+            "forks": 0,
+            "score": 30
+        },
+        {
+            "main_cat": "Prediction Markets",
+            "sub_cat": null,
+            "name": "laravel-colour-game",
+            "full_name": "rahulbhatiwal5-cmyk/laravel-colour-game",
+            "description": "Real-time Color Prediction Game built with Laravel 12 \u2014 Win Go style betting game with admin panel, wallet system & auto round generation.",
+            "url": "https://github.com/rahulbhatiwal5-cmyk/laravel-colour-game",
+            "stars": 1,
+            "forks": 0,
+            "score": 30
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "sports-prediction-platform",
+            "full_name": "Gavin-Dsouza/sports-prediction-platform",
+            "description": "Probabilistic MLB prediction + betting-EV platform (ensemble models, MLflow registry, explainability)",
+            "url": "https://github.com/Gavin-Dsouza/sports-prediction-platform",
+            "stars": 0,
+            "forks": 0,
+            "score": 30
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "Betting-AI",
+            "full_name": "255TommyLee/Betting-AI",
+            "description": "AI-powered sports betting intelligence platform that combines historical and real-time data, machine learning, probability modeling, odds analysis, value detection, backtesting, risk management, and live insights to deliver data-driven predictions and measurable betting intelligence.",
+            "url": "https://github.com/255TommyLee/Betting-AI",
+            "stars": 0,
+            "forks": 0,
+            "score": 30
+        },
+        {
+            "main_cat": "Prediction Markets",
+            "sub_cat": null,
+            "name": "stellar-bet-contracts",
+            "full_name": "stellar-bet/stellar-bet-contracts",
+            "description": "Soroban smart contracts for StellarBet \u2014 a decentralized sports prediction market on Stellar. Includes BettingPool, OddsOracle, HouseEscrow, and BET token contracts. Written in Rust/WASM. Part of the Stellar Wave Program.",
+            "url": "https://github.com/stellar-bet/stellar-bet-contracts",
+            "stars": 0,
+            "forks": 0,
+            "score": 30
+        },
+        {
+            "main_cat": "Prediction Markets",
+            "sub_cat": null,
+            "name": "OddsFlow-",
+            "full_name": "ryukeie/OddsFlow-",
+            "description": "Modern sports prediction platform built with a responsive UI, live event management, secure authentication, wallet system, bet slip, match tracking, and an admin dashboard. Designed with scalability, performance, and clean architecture in mind.",
+            "url": "https://github.com/ryukeie/OddsFlow-",
+            "stars": 0,
+            "forks": 0,
+            "score": 30
+        },
+        {
+            "main_cat": "Prediction Markets",
+            "sub_cat": null,
+            "name": "OddsFlow",
+            "full_name": "ryukeie/OddsFlow",
+            "description": "Modern sports prediction platform built with a responsive UI, live event management, secure authentication, wallet system, bet slip, match tracking, and an admin dashboard. Designed with scalability, performance, and clean architecture in mind.",
+            "url": "https://github.com/ryukeie/OddsFlow",
             "stars": 0,
             "forks": 0,
             "score": 30
@@ -597,17 +641,6 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
-            "name": "Umbra-Protocol",
-            "full_name": "Marvy247/Umbra-Protocol",
-            "description": "Umbra Protocol enables privacy-preserving cross-chain asset transfers using Flare's Confidential Compute technology.",
-            "url": "https://github.com/Marvy247/Umbra-Protocol",
-            "stars": 0,
-            "forks": 0,
-            "score": 30
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
             "name": "metalend",
             "full_name": "api-evangelist/metalend",
             "description": "MetaLend is a DeFi \"earn and spend\" platform that aggregates lending pools across protocols (Aave, Morpho, Euler) and chains (Base, Ethereum, Polygon, Arbitrum, Linea) behind a single cross-chain Rebalancing API.",
@@ -681,23 +714,20 @@ const ALPHA_DATA_V2 = {
             "stars": 0,
             "forks": 0,
             "score": 30
+        },
+        {
+            "main_cat": "Cross-chain / Interoperability",
+            "sub_cat": null,
+            "name": "remitlend",
+            "full_name": "ExcelDsigN-tech/remitlend",
+            "description": "Decentralized lending and cross-border remittance protocol on Stellar/Soroban",
+            "url": "https://github.com/ExcelDsigN-tech/remitlend",
+            "stars": 0,
+            "forks": 0,
+            "score": 30
         }
     ],
     "news": [
-        {
-            "title": "Overcoming Data Scarcity and Confidentiality in Hardware Assurance via Synthetic Generation",
-            "source": "ArXiv",
-            "type": "Research Alpha",
-            "color": "text-indigo-600",
-            "url": "http://arxiv.org/abs/2608.09914v1"
-        },
-        {
-            "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
-            "source": "ArXiv",
-            "type": "Research Alpha",
-            "color": "text-indigo-600",
-            "url": "http://arxiv.org/abs/2608.09867v1"
-        },
         {
             "title": "Bitcoin volatility remains high ahead of key FED decision.",
             "source": "Polymarket",
@@ -706,5 +736,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-08-11 23:32"
+    "timestamp": "2026-08-12 01:19"
 };
