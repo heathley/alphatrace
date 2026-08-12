@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "trycompai/crm",
             "description": "Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.",
             "url": "https://github.com/trycompai/crm",
-            "stars": 8273,
-            "forks": 948,
+            "stars": 8279,
+            "forks": 949,
             "score": 99
         },
         {
@@ -18,7 +18,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "KKKKhazix/human-writing",
             "description": "\u8ba9 AI \u5199\u7684\u4e2d\u6587\u8bfb\u8d77\u6765\u50cf\u4e00\u4e2a\u5177\u4f53\u7684\u4eba\u5728\u8bf4\u8bdd\u3002\u901a\u7528\u521b\u4f5c\u4e0e\u6539\u7a3f Skill\uff0c\u5f00\u7bb1\u5373\u7528\u3002",
             "url": "https://github.com/KKKKhazix/human-writing",
-            "stars": 2501,
+            "stars": 2506,
             "forks": 211,
             "score": 99
         },
@@ -30,7 +30,7 @@ const ALPHA_DATA_V2 = {
             "description": "\u975e\u5b98\u65b9 Kimi Slides Skill\uff1a\u8ba9 AI Agent \u751f\u6210\u53ef\u7f16\u8f91 PPTD + PPTX\uff0c\u5e76\u9644\u5e26\u672c\u5730\u6d4f\u89c8\u5668\u7f16\u8f91\u5668 Unofficial Kimi Slides skill for AI agents \u2014 generate editable PPTD + PPTX with a local browser editor",
             "url": "https://github.com/Binaryify/open-kimi-ppt-skill",
             "stars": 1602,
-            "forks": 1201,
+            "forks": 1202,
             "score": 99
         },
         {
@@ -40,8 +40,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "eternityspring/shuohao-skills",
             "description": "AI \u77ed\u5267\u5236\u4f5c\u7684 skill \u96c6\u5408\uff1a\u62c6\u89d2\u8272\u3001\u51fa\u8bbe\u5b9a\u56fe\u3001\u6392\u5927\u7eb2 | Agent skills for AI short-drama production \u2014 character bibles, model sheets, adaptation outlines. Runs in Claude Code & codex.",
             "url": "https://github.com/eternityspring/shuohao-skills",
-            "stars": 1073,
-            "forks": 124,
+            "stars": 1080,
+            "forks": 125,
             "score": 99
         },
         {
@@ -51,8 +51,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "shadcn-ui/chatbot-template",
             "description": "A minimal chatbot template built with Next.js, AI SDK, shadcn/ui, shadcn/react, shadcn/typeset. It runs on the Vercel AI Gateway.",
             "url": "https://github.com/shadcn-ui/chatbot-template",
-            "stars": 521,
-            "forks": 46,
+            "stars": 529,
+            "forks": 47,
             "score": 99
         },
         {
@@ -62,9 +62,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "mewamew/my_ai_town",
             "description": "\u6211\u7684AI\u5c0f\u9547",
             "url": "https://github.com/mewamew/my_ai_town",
-            "stars": 467,
-            "forks": 98,
-            "score": 83
+            "stars": 471,
+            "forks": 99,
+            "score": 84
         },
         {
             "main_cat": "AI",
@@ -90,25 +90,25 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
-            "sub_cat": null,
-            "name": "mcp-server",
-            "full_name": "sv-number/mcp-server",
-            "description": "MCP server for AI agents that need a phone number: order a private number in 200+ countries, read the SMS verification code, hand it back. The widest country coverage in the category, and you can check it with one API call.",
-            "url": "https://github.com/sv-number/mcp-server",
-            "stars": 634,
-            "forks": 2,
-            "score": 70
-        },
-        {
-            "main_cat": "AI",
             "sub_cat": "AI Agents",
             "name": "LongHorizon-Harness",
             "full_name": "AMAP-ML/LongHorizon-Harness",
             "description": "The long-horizon computer-use harness. Run AI agents across desktop apps and the CLI for extended periods while preserving task state and making reliable progress on complex workflows. Features fresh-context execution, durable verified state, independent auditing, recoverable progress, and native Claude Code / Codex / OpenClaw integration.",
             "url": "https://github.com/AMAP-ML/LongHorizon-Harness",
-            "stars": 597,
-            "forks": 72,
+            "stars": 605,
+            "forks": 73,
             "score": 70
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "mcp-server",
+            "full_name": "sv-number/mcp-server",
+            "description": "MCP server for AI agents that need a phone number: order a private number in 200+ countries, read the SMS verification code, hand it back. The widest country coverage in the category, and you can check it with one API call.",
+            "url": "https://github.com/sv-number/mcp-server",
+            "stars": 572,
+            "forks": 2,
+            "score": 66
         },
         {
             "main_cat": "AI",
@@ -128,7 +128,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "criptogus/HermesOffice",
             "description": "HermesOffice \u2014 AI-native office suite forked from GenOffice (Apache-2.0), with native Hermes Agent AI",
             "url": "https://github.com/criptogus/HermesOffice",
-            "stars": 457,
+            "stars": 462,
             "forks": 59,
             "score": 64
         },
@@ -183,7 +183,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "DanielPan12/JobHuntBot",
             "description": "Agent-led job application workflow with a local progress-tracking dashboard \u2014 works with any AI coding agent that can read files and follow instructions.AI Agent \u9a71\u52a8\u7684\u6c42\u804c\u6295\u9012\u5de5\u4f5c\u6d41,\u914d\u672c\u5730\u8fdb\u5ea6\u8ffd\u8e2a\u770b\u677f\u2014\u2014\u9002\u914d\u4efb\u4f55\u80fd\u8bfb\u6587\u4ef6\u3001\u542c\u61c2\u6307\u4ee4\u7684\u7f16\u7a0b Agent\u3002",
             "url": "https://github.com/DanielPan12/JobHuntBot",
-            "stars": 373,
+            "stars": 375,
             "forks": 33,
             "score": 51
         },
@@ -205,7 +205,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "waiterve/wai-play",
             "description": "WAI Play - AI web game testing and quality evaluation platform",
             "url": "https://github.com/waiterve/wai-play",
-            "stars": 373,
+            "stars": 381,
             "forks": 14,
             "score": 49
         },
@@ -216,9 +216,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "liujunxibaba/douyin-tiktok-story-skill-agent",
             "description": "Local-first AI Skill and Agent for creating original Douyin and TikTok story scripts with a searchable SQLite reference database.",
             "url": "https://github.com/liujunxibaba/douyin-tiktok-story-skill-agent",
-            "stars": 288,
-            "forks": 6,
+            "stars": 292,
+            "forks": 7,
             "score": 47
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "memorax-code",
+            "full_name": "memorax-ai/memorax-code",
+            "description": "A memory plugin for AI coding that turns engineering experience, repository knowledge, and your way of working into memory that remains useful in future tasks.",
+            "url": "https://github.com/memorax-ai/memorax-code",
+            "stars": 368,
+            "forks": 15,
+            "score": 45
         },
         {
             "main_cat": "AI",
@@ -234,13 +245,13 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "memorax-code",
-            "full_name": "memorax-ai/memorax-code",
-            "description": "A memory plugin for AI coding that turns engineering experience, repository knowledge, and your way of working into memory that remains useful in future tasks.",
-            "url": "https://github.com/memorax-ai/memorax-code",
-            "stars": 358,
-            "forks": 14,
-            "score": 44
+            "name": "moonlit-stories",
+            "full_name": "lincwang123-bot/moonlit-stories",
+            "description": "Reusable AI English picture-book workflow with consistent illustrations and local Chatterbox TTS.",
+            "url": "https://github.com/lincwang123-bot/moonlit-stories",
+            "stars": 163,
+            "forks": 31,
+            "score": 43
         },
         {
             "main_cat": "AI",
@@ -255,23 +266,12 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
-            "sub_cat": null,
-            "name": "moonlit-stories",
-            "full_name": "lincwang123-bot/moonlit-stories",
-            "description": "Reusable AI English picture-book workflow with consistent illustrations and local Chatterbox TTS.",
-            "url": "https://github.com/lincwang123-bot/moonlit-stories",
-            "stars": 161,
-            "forks": 31,
-            "score": 42
-        },
-        {
-            "main_cat": "AI",
             "sub_cat": "AI General",
             "name": "nuphus-mcp",
             "full_name": "mrpulor-gh/nuphus-mcp",
             "description": "Desktop automation MCP server \u2014 computer use for any AI agent: control screen, windows, mouse/keyboard, and Chrome via Model Context Protocol (stdio)",
             "url": "https://github.com/mrpulor-gh/nuphus-mcp",
-            "stars": 201,
+            "stars": 203,
             "forks": 22,
             "score": 40
         },
@@ -399,10 +399,10 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "Prediction Markets",
             "sub_cat": null,
-            "name": "OddsFlow-",
-            "full_name": "ryukeie/OddsFlow-",
+            "name": "OddsFlow",
+            "full_name": "ryukeie/OddsFlow",
             "description": "Modern sports prediction platform built with a responsive UI, live event management, secure authentication, wallet system, bet slip, match tracking, and an admin dashboard. Designed with scalability, performance, and clean architecture in mind.",
-            "url": "https://github.com/ryukeie/OddsFlow-",
+            "url": "https://github.com/ryukeie/OddsFlow",
             "stars": 0,
             "forks": 0,
             "score": 30
@@ -410,10 +410,10 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "Prediction Markets",
             "sub_cat": null,
-            "name": "OddsFlow",
-            "full_name": "ryukeie/OddsFlow",
+            "name": "OddsFlow-",
+            "full_name": "ryukeie/OddsFlow-",
             "description": "Modern sports prediction platform built with a responsive UI, live event management, secure authentication, wallet system, bet slip, match tracking, and an admin dashboard. Designed with scalability, performance, and clean architecture in mind.",
-            "url": "https://github.com/ryukeie/OddsFlow",
+            "url": "https://github.com/ryukeie/OddsFlow-",
             "stars": 0,
             "forks": 0,
             "score": 30
@@ -564,6 +564,17 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
+            "name": "cross-chain-flow",
+            "full_name": "Freemandaily/cross-chain-flow",
+            "description": "A dbt and Google BigQuery data pipeline designed to reconcile, correlate, and analyze cross-chain token deposits and fulfillments across EVM networks and bridge protocols into a single, normalized transaction ledger.",
+            "url": "https://github.com/Freemandaily/cross-chain-flow",
+            "stars": 0,
+            "forks": 2,
+            "score": 30
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
             "name": "token-migration-tool",
             "full_name": "Kabutoxyz/token-migration-tool",
             "description": "Migrate tokens between chains. Support for bridge protocols and cross-chain swaps.",
@@ -692,17 +703,6 @@ const ALPHA_DATA_V2 = {
             "stars": 0,
             "forks": 0,
             "score": 30
-        },
-        {
-            "main_cat": "Cross-chain / Interoperability",
-            "sub_cat": null,
-            "name": "remitlend",
-            "full_name": "ExcelDsigN-tech/remitlend",
-            "description": "Decentralized lending and cross-border remittance protocol on Stellar/Soroban",
-            "url": "https://github.com/ExcelDsigN-tech/remitlend",
-            "stars": 0,
-            "forks": 0,
-            "score": 30
         }
     ],
     "news": [
@@ -728,5 +728,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-08-12 11:41"
+    "timestamp": "2026-08-12 12:53"
 };
