@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "trycompai/crm",
             "description": "Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.",
             "url": "https://github.com/trycompai/crm",
-            "stars": 8383,
-            "forks": 978,
+            "stars": 8384,
+            "forks": 979,
             "score": 99
         },
         {
@@ -51,7 +51,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "shadcn-ui/chatbot-template",
             "description": "A minimal chatbot template built with Next.js, AI SDK, shadcn/ui, shadcn/react, shadcn/typeset. It runs on the Vercel AI Gateway.",
             "url": "https://github.com/shadcn-ui/chatbot-template",
-            "stars": 641,
+            "stars": 644,
             "forks": 56,
             "score": 99
         },
@@ -73,7 +73,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "magicrew/doc7",
             "description": "Turn documents into AI-ready Markdown with visual understanding",
             "url": "https://github.com/magicrew/doc7",
-            "stars": 1100,
+            "stars": 1101,
             "forks": 38,
             "score": 74
         },
@@ -84,7 +84,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "AMAP-ML/LongHorizon-Harness",
             "description": "The long-horizon computer-use harness. Run AI agents across desktop apps and the CLI for extended periods while preserving task state and making reliable progress on complex workflows. Features fresh-context execution, durable verified state, independent auditing, recoverable progress, and native Claude Code / Codex / OpenClaw integration.",
             "url": "https://github.com/AMAP-ML/LongHorizon-Harness",
-            "stars": 681,
+            "stars": 682,
             "forks": 82,
             "score": 72
         },
@@ -194,9 +194,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "waiterve/wai-play",
             "description": "WAI Play - AI web game testing and quality evaluation platform",
             "url": "https://github.com/waiterve/wai-play",
-            "stars": 423,
+            "stars": 424,
             "forks": 16,
             "score": 50
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "memorax-code",
+            "full_name": "memorax-ai/memorax-code",
+            "description": "A memory plugin for AI coding that turns engineering experience, repository knowledge, and your way of working into memory that remains useful in future tasks.",
+            "url": "https://github.com/memorax-ai/memorax-code",
+            "stars": 490,
+            "forks": 20,
+            "score": 49
         },
         {
             "main_cat": "AI",
@@ -212,33 +223,11 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "memorax-code",
-            "full_name": "memorax-ai/memorax-code",
-            "description": "A memory plugin for AI coding that turns engineering experience, repository knowledge, and your way of working into memory that remains useful in future tasks.",
-            "url": "https://github.com/memorax-ai/memorax-code",
-            "stars": 487,
-            "forks": 20,
-            "score": 48
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "loomfeed",
-            "full_name": "surya-koritala/loomfeed",
-            "description": "The open-source Reddit alternative built for AI agents and humans \u2014 provenance tracking, reputation, epistemic status labels, and agent debates. Self-host with docker compose.",
-            "url": "https://github.com/surya-koritala/loomfeed",
-            "stars": 212,
-            "forks": 2,
-            "score": 48
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
             "name": "douyin-tiktok-story-skill-agent",
             "full_name": "liujunxibaba/douyin-tiktok-story-skill-agent",
             "description": "Local-first AI Skill and Agent for creating original Douyin and TikTok story scripts with a searchable SQLite reference database.",
             "url": "https://github.com/liujunxibaba/douyin-tiktok-story-skill-agent",
-            "stars": 335,
+            "stars": 336,
             "forks": 8,
             "score": 46
         },
@@ -251,6 +240,17 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/1lck/Lithe-IDEA",
             "stars": 299,
             "forks": 35,
+            "score": 45
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "loomfeed",
+            "full_name": "surya-koritala/loomfeed",
+            "description": "The open-source Reddit alternative built for AI agents and humans \u2014 provenance tracking, reputation, epistemic status labels, and agent debates. Self-host with docker compose.",
+            "url": "https://github.com/surya-koritala/loomfeed",
+            "stars": 212,
+            "forks": 2,
             "score": 45
         },
         {
@@ -271,7 +271,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "kropdx/reflection-engine",
             "description": "A downloadable prompt that turns your AI assistant's memory of you into a candid, evidence-grounded portrait.",
             "url": "https://github.com/kropdx/reflection-engine",
-            "stars": 244,
+            "stars": 247,
             "forks": 9,
             "score": 40
         },
@@ -575,17 +575,6 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
-            "name": "utopia-labs",
-            "full_name": "api-evangelist/utopia-labs",
-            "description": "Utopia Labs was a stablecoin payments and finance-operations platform for crypto-native teams and DAOs, covering payments, payroll, invoicing, and approval workflows, backed by Paradigm. Coinbase acquired Utopia Labs Corp. on November 13, 2024, and the team joined Base to build onchain payments into Coinbase Wallet.",
-            "url": "https://github.com/api-evangelist/utopia-labs",
-            "stars": 0,
-            "forks": 0,
-            "score": 30
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
             "name": "cross-chain-flow",
             "full_name": "Freemandaily/cross-chain-flow",
             "description": "A dbt and Google BigQuery data pipeline designed to reconcile, correlate, and analyze cross-chain token deposits and fulfillments across EVM networks and bridge protocols into a single, normalized transaction ledger.",
@@ -750,5 +739,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-08-13 18:53"
+    "timestamp": "2026-08-13 19:52"
 };
