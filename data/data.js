@@ -7,7 +7,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "trycompai/crm",
             "description": "Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.",
             "url": "https://github.com/trycompai/crm",
-            "stars": 8385,
+            "stars": 8390,
             "forks": 981,
             "score": 99
         },
@@ -73,7 +73,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "magicrew/doc7",
             "description": "Turn documents into AI-ready Markdown with visual understanding",
             "url": "https://github.com/magicrew/doc7",
-            "stars": 1101,
+            "stars": 1104,
             "forks": 38,
             "score": 74
         },
@@ -91,24 +91,24 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "mkdirs",
-            "full_name": "MkThingsHQ/mkdirs",
-            "description": "Open-source AI-powered directory website template built with Next.js",
-            "url": "https://github.com/MkThingsHQ/mkdirs",
-            "stars": 213,
-            "forks": 59,
+            "name": "mcp-server",
+            "full_name": "sv-number/mcp-server",
+            "description": "MCP server for AI agents that need a phone number: order a private number in 200+ countries, read the SMS verification code, hand it back. The widest country coverage in the category, and you can check it with one API call.",
+            "url": "https://github.com/sv-number/mcp-server",
+            "stars": 564,
+            "forks": 3,
             "score": 62
         },
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "mcp-server",
-            "full_name": "sv-number/mcp-server",
-            "description": "MCP server for AI agents that need a phone number: order a private number in 200+ countries, read the SMS verification code, hand it back. The widest country coverage in the category, and you can check it with one API call.",
-            "url": "https://github.com/sv-number/mcp-server",
-            "stars": 563,
-            "forks": 3,
-            "score": 61
+            "name": "mkdirs",
+            "full_name": "MkThingsHQ/mkdirs",
+            "description": "Open-source AI-powered directory website template built with Next.js",
+            "url": "https://github.com/MkThingsHQ/mkdirs",
+            "stars": 214,
+            "forks": 59,
+            "score": 62
         },
         {
             "main_cat": "AI",
@@ -150,7 +150,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "lexmount/moli",
             "description": "Best browser for AI agents, built in Rust.",
             "url": "https://github.com/lexmount/moli",
-            "stars": 252,
+            "stars": 253,
             "forks": 19,
             "score": 57
         },
@@ -164,6 +164,17 @@ const ALPHA_DATA_V2 = {
             "stars": 536,
             "forks": 15,
             "score": 54
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "wai-play",
+            "full_name": "waiterve/wai-play",
+            "description": "WAI Play - AI web game testing and quality evaluation platform",
+            "url": "https://github.com/waiterve/wai-play",
+            "stars": 440,
+            "forks": 16,
+            "score": 51
         },
         {
             "main_cat": "AI",
@@ -190,22 +201,11 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "wai-play",
-            "full_name": "waiterve/wai-play",
-            "description": "WAI Play - AI web game testing and quality evaluation platform",
-            "url": "https://github.com/waiterve/wai-play",
-            "stars": 431,
-            "forks": 16,
-            "score": 50
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
             "name": "memorax-code",
             "full_name": "memorax-ai/memorax-code",
             "description": "A memory plugin for AI coding that turns engineering experience, repository knowledge, and your way of working into memory that remains useful in future tasks.",
             "url": "https://github.com/memorax-ai/memorax-code",
-            "stars": 501,
+            "stars": 509,
             "forks": 20,
             "score": 49
         },
@@ -227,7 +227,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "liujunxibaba/douyin-tiktok-story-skill-agent",
             "description": "Local-first AI Skill and Agent for creating original Douyin and TikTok story scripts with a searchable SQLite reference database.",
             "url": "https://github.com/liujunxibaba/douyin-tiktok-story-skill-agent",
-            "stars": 344,
+            "stars": 346,
             "forks": 8,
             "score": 47
         },
@@ -728,5 +728,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-08-13 22:33"
+    "timestamp": "2026-08-13 23:34"
 };
