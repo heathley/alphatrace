@@ -7,7 +7,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "KKKKhazix/human-writing",
             "description": "\u8ba9 AI \u5199\u7684\u4e2d\u6587\u8bfb\u8d77\u6765\u50cf\u4e00\u4e2a\u5177\u4f53\u7684\u4eba\u5728\u8bf4\u8bdd\u3002\u901a\u7528\u521b\u4f5c\u4e0e\u6539\u7a3f Skill\uff0c\u5f00\u7bb1\u5373\u7528\u3002",
             "url": "https://github.com/KKKKhazix/human-writing",
-            "stars": 2683,
+            "stars": 2688,
             "forks": 223,
             "score": 99
         },
@@ -18,7 +18,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Binaryify/open-kimi-ppt-skill",
             "description": "\u975e\u5b98\u65b9 Kimi Slides Skill\uff1a\u8ba9 AI Agent \u751f\u6210\u53ef\u7f16\u8f91 PPTD + PPTX\uff0c\u5e76\u9644\u5e26\u672c\u5730\u6d4f\u89c8\u5668\u7f16\u8f91\u5668 Unofficial Kimi Slides skill for AI agents \u2014 generate editable PPTD + PPTX with a local browser editor",
             "url": "https://github.com/Binaryify/open-kimi-ppt-skill",
-            "stars": 1600,
+            "stars": 1599,
             "forks": 1211,
             "score": 99
         },
@@ -29,7 +29,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "eternityspring/shuohao-skills",
             "description": "AI \u77ed\u5267\u5236\u4f5c\u7684 skill \u96c6\u5408\uff1a\u62c6\u89d2\u8272\u3001\u6392\u5927\u7eb2\u3001\u51fa\u573a\u666f\u4e0e\u9053\u5177\u8bbe\u5b9a\u3001\u5199\u5267\u672c | Agent skills for AI short-drama production \u2014 character bibles, adaptation outlines, art bibles, screenplays. Runs in Claude Code & codex.",
             "url": "https://github.com/eternityspring/shuohao-skills",
-            "stars": 1326,
+            "stars": 1333,
             "forks": 157,
             "score": 99
         },
@@ -40,8 +40,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "shadcn-ui/chatbot-template",
             "description": "A minimal chatbot template built with Next.js, AI SDK, shadcn/ui, shadcn/react, shadcn/typeset. It runs on the Vercel AI Gateway.",
             "url": "https://github.com/shadcn-ui/chatbot-template",
-            "stars": 660,
-            "forks": 57,
+            "stars": 661,
+            "forks": 59,
             "score": 99
         },
         {
@@ -51,9 +51,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "xinxinshuhao-create/grok-register",
             "description": "Automated account registration toolkit for x.ai (Grok) with SSO extraction, OAuth Device Flow, and auto-replenish daemon",
             "url": "https://github.com/xinxinshuhao-create/grok-register",
-            "stars": 257,
-            "forks": 68,
-            "score": 96
+            "stars": 267,
+            "forks": 69,
+            "score": 97
         },
         {
             "main_cat": "AI",
@@ -62,8 +62,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "mewamew/my_ai_town",
             "description": "\u6211\u7684AI\u5c0f\u9547",
             "url": "https://github.com/mewamew/my_ai_town",
-            "stars": 522,
-            "forks": 113,
+            "stars": 523,
+            "forks": 114,
             "score": 78
         },
         {
@@ -79,25 +79,36 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
+            "sub_cat": null,
+            "name": "enterprise-system-design",
+            "full_name": "DrHazemAli/enterprise-system-design",
+            "description": "A source-grounded course & reference for engineers designing systems that must survive real traffic, partial failure, security review, and changing requirements, spanning enterprise system design, distributed systems, AI systems, cybersecurity, reliability, cloud, HPC, edge, and mission-critical infrastructure.",
+            "url": "https://github.com/DrHazemAli/enterprise-system-design",
+            "stars": 239,
+            "forks": 49,
+            "score": 73
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "agent-safe-pipeline",
+            "full_name": "decionis/agent-safe-pipeline",
+            "description": "Reference architecture for AI agents that propose actions but cannot authorize them \u2014 immutable intent capture, an independent Decionis policy verdict (ALLOW/ESCALATE/BLOCK), verified human approval, and a SafeExecutor that consumes a single-use intent-bound grant.",
+            "url": "https://github.com/decionis/agent-safe-pipeline",
+            "stars": 239,
+            "forks": 3,
+            "score": 71
+        },
+        {
+            "main_cat": "AI",
             "sub_cat": "AI Agents",
             "name": "LongHorizon-Harness",
             "full_name": "AMAP-ML/LongHorizon-Harness",
             "description": "The long-horizon computer-use harness. Run AI agents across desktop apps and the CLI for extended periods while preserving task state and making reliable progress on complex workflows. Features fresh-context execution, durable verified state, independent auditing, recoverable progress, and native Claude Code / Codex / OpenClaw integration.",
             "url": "https://github.com/AMAP-ML/LongHorizon-Harness",
             "stars": 706,
-            "forks": 83,
-            "score": 69
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "enterprise-system-design",
-            "full_name": "DrHazemAli/enterprise-system-design",
-            "description": "A source-grounded course & reference for engineers designing systems that must survive real traffic, partial failure, security review, and changing requirements, spanning enterprise system design, distributed systems, AI systems, cybersecurity, reliability, cloud, HPC, edge, and mission-critical infrastructure.",
-            "url": "https://github.com/DrHazemAli/enterprise-system-design",
-            "stars": 202,
-            "forks": 43,
-            "score": 67
+            "forks": 84,
+            "score": 70
         },
         {
             "main_cat": "AI",
@@ -117,7 +128,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "sv-number/mcp-server",
             "description": "MCP server for AI agents that need a phone number: order a private number in 200+ countries, read the SMS verification code, hand it back. The widest country coverage in the category, and you can check it with one API call.",
             "url": "https://github.com/sv-number/mcp-server",
-            "stars": 578,
+            "stars": 581,
             "forks": 3,
             "score": 62
         },
@@ -139,7 +150,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "50kg/image-to-slice",
             "description": "AI \u62c6\u56fe\u3001\u88ab\u906e\u6321\u80cc\u666f\u8865\u9f50\u3001\u4eba\u5de5\u6821\u51c6\u3001\u5bfc\u5165\u53ef\u7f16\u8f91 Figma \u56fe\u5c42\u3001\u5bfc\u51fa HTML/CSS",
             "url": "https://github.com/50kg/image-to-slice",
-            "stars": 200,
+            "stars": 202,
             "forks": 40,
             "score": 60
         },
@@ -150,7 +161,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "lexmount/moli",
             "description": "Best browser for AI agents, built in Rust.",
             "url": "https://github.com/lexmount/moli",
-            "stars": 269,
+            "stars": 272,
             "forks": 20,
             "score": 59
         },
@@ -161,9 +172,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "fuxicodex/Fuxi",
             "description": "FuXi is a fast, self-contained AI coding agent that lives in your terminal \u2014 edit code, run commands, and drive tools, with cost-aware routing across LLM providers.",
             "url": "https://github.com/fuxicodex/Fuxi",
-            "stars": 501,
+            "stars": 502,
             "forks": 50,
-            "score": 56
+            "score": 57
         },
         {
             "main_cat": "AI",
@@ -172,20 +183,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "crawfordxx/xiaoma-durex-copywriter",
             "description": "\u675c\u857e\u65af\u5f0f\u6587\u6848\u4e0e\u6d77\u62a5 Skill for Claude Code \u2014\u2014 \u53cc\u5c42\u8bed\u4e49\u65b9\u6cd5\u8bba + 8 \u4e2a\u6587\u6848\u516c\u5f0f + \u4ece 260 \u5f20\u539f\u59cb\u6d77\u62a5\u62c6\u89e3\u7684\u89c6\u89c9\u7cfb\u7edf + AI \u51fa\u56fe/\u4ee3\u7801\u6392\u7248\u7ba1\u7ebf",
             "url": "https://github.com/crawfordxx/xiaoma-durex-copywriter",
-            "stars": 540,
+            "stars": 541,
             "forks": 16,
             "score": 55
         },
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "qiaomu-seo",
-            "full_name": "joeseesun/qiaomu-seo",
-            "description": "Audit, diagnose, research, plan, implement, experiment on, and verify website SEO across Google, Bing, and AI-search surfaces. Use for technical SEO, ",
-            "url": "https://github.com/joeseesun/qiaomu-seo",
-            "stars": 367,
-            "forks": 49,
-            "score": 51
+            "name": "wai-play",
+            "full_name": "waiterve/wai-play",
+            "description": "WAI Play - AI web game testing and quality evaluation platform",
+            "url": "https://github.com/waiterve/wai-play",
+            "stars": 457,
+            "forks": 16,
+            "score": 50
         },
         {
             "main_cat": "AI",
@@ -201,23 +212,23 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "memorax-code",
-            "full_name": "memorax-ai/memorax-code",
-            "description": "A memory plugin for AI coding that turns engineering experience, repository knowledge, and your way of working into memory that remains useful in future tasks.",
-            "url": "https://github.com/memorax-ai/memorax-code",
-            "stars": 540,
-            "forks": 20,
-            "score": 49
+            "name": "qiaomu-seo",
+            "full_name": "joeseesun/qiaomu-seo",
+            "description": "Audit, diagnose, research, plan, implement, experiment on, and verify website SEO across Google, Bing, and AI-search surfaces. Use for technical SEO, ",
+            "url": "https://github.com/joeseesun/qiaomu-seo",
+            "stars": 367,
+            "forks": 49,
+            "score": 50
         },
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "wai-play",
-            "full_name": "waiterve/wai-play",
-            "description": "WAI Play - AI web game testing and quality evaluation platform",
-            "url": "https://github.com/waiterve/wai-play",
-            "stars": 455,
-            "forks": 16,
+            "name": "memorax-code",
+            "full_name": "memorax-ai/memorax-code",
+            "description": "A memory plugin for AI coding that turns engineering experience, repository knowledge, and your way of working into memory that remains useful in future tasks.",
+            "url": "https://github.com/memorax-ai/memorax-code",
+            "stars": 545,
+            "forks": 20,
             "score": 49
         },
         {
@@ -227,7 +238,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "DanielPan12/JobHuntBot",
             "description": "Agent-led job application workflow with a local progress-tracking dashboard \u2014 works with any AI coding agent that can read files and follow instructions.AI Agent \u9a71\u52a8\u7684\u6c42\u804c\u6295\u9012\u5de5\u4f5c\u6d41,\u914d\u672c\u5730\u8fdb\u5ea6\u8ffd\u8e2a\u770b\u677f\u2014\u2014\u9002\u914d\u4efb\u4f55\u80fd\u8bfb\u6587\u4ef6\u3001\u542c\u61c2\u6307\u4ee4\u7684\u7f16\u7a0b Agent\u3002",
             "url": "https://github.com/DanielPan12/JobHuntBot",
-            "stars": 417,
+            "stars": 419,
             "forks": 33,
             "score": 49
         },
@@ -238,9 +249,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "liujunxibaba/douyin-tiktok-story-skill-agent",
             "description": "Local-first AI Skill and Agent for creating original Douyin and TikTok story scripts with a searchable SQLite reference database.",
             "url": "https://github.com/liujunxibaba/douyin-tiktok-story-skill-agent",
-            "stars": 359,
-            "forks": 8,
-            "score": 47
+            "stars": 366,
+            "forks": 9,
+            "score": 48
         },
         {
             "main_cat": "AI",
@@ -249,19 +260,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "1lck/Lithe-IDEA",
             "description": "A lightweight, cross-platform IDE for the AI era, with on-demand tools and services.",
             "url": "https://github.com/1lck/Lithe-IDEA",
-            "stars": 319,
+            "stars": 320,
             "forks": 37,
-            "score": 46
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "anti-slop",
-            "full_name": "miqdadbadjuber/anti-slop",
-            "description": "Design rules to stop AI coding agents from generating generic \"AI slop\" UI.",
-            "url": "https://github.com/miqdadbadjuber/anti-slop",
-            "stars": 210,
-            "forks": 20,
             "score": 46
         },
         {
@@ -278,13 +278,13 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "releaseguard-ai",
-            "full_name": "Eason4real/releaseguard-ai",
-            "description": "Auditable AI release intelligence agent with deterministic public demo replay.",
-            "url": "https://github.com/Eason4real/releaseguard-ai",
-            "stars": 180,
-            "forks": 23,
-            "score": 45
+            "name": "anti-slop",
+            "full_name": "miqdadbadjuber/anti-slop",
+            "description": "Design rules to stop AI coding agents from generating generic \"AI slop\" UI.",
+            "url": "https://github.com/miqdadbadjuber/anti-slop",
+            "stars": 212,
+            "forks": 20,
+            "score": 44
         },
         {
             "main_cat": "AI",
@@ -294,7 +294,7 @@ const ALPHA_DATA_V2 = {
             "description": "A downloadable prompt that turns your AI assistant's memory of you into a candid, evidence-grounded portrait.",
             "url": "https://github.com/kropdx/reflection-engine",
             "stars": 258,
-            "forks": 9,
+            "forks": 10,
             "score": 41
         },
         {
@@ -304,7 +304,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "mrpulor-gh/nuphus-mcp",
             "description": "Desktop automation MCP server \u2014 computer use for any AI agent: control screen, windows, mouse/keyboard, and Chrome via Model Context Protocol (stdio)",
             "url": "https://github.com/mrpulor-gh/nuphus-mcp",
-            "stars": 214,
+            "stars": 216,
             "forks": 23,
             "score": 39
         },
@@ -454,10 +454,10 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "Prediction Markets",
             "sub_cat": null,
-            "name": "OddsFlow",
-            "full_name": "ryukeie/OddsFlow",
+            "name": "OddsFlow-",
+            "full_name": "ryukeie/OddsFlow-",
             "description": "Modern sports prediction platform built with a responsive UI, live event management, secure authentication, wallet system, bet slip, match tracking, and an admin dashboard. Designed with scalability, performance, and clean architecture in mind.",
-            "url": "https://github.com/ryukeie/OddsFlow",
+            "url": "https://github.com/ryukeie/OddsFlow-",
             "stars": 0,
             "forks": 0,
             "score": 30
@@ -465,10 +465,10 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "Prediction Markets",
             "sub_cat": null,
-            "name": "OddsFlow-",
-            "full_name": "ryukeie/OddsFlow-",
+            "name": "OddsFlow",
+            "full_name": "ryukeie/OddsFlow",
             "description": "Modern sports prediction platform built with a responsive UI, live event management, secure authentication, wallet system, bet slip, match tracking, and an admin dashboard. Designed with scalability, performance, and clean architecture in mind.",
-            "url": "https://github.com/ryukeie/OddsFlow-",
+            "url": "https://github.com/ryukeie/OddsFlow",
             "stars": 0,
             "forks": 0,
             "score": 30
@@ -794,5 +794,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-08-14 09:01"
+    "timestamp": "2026-08-14 10:52"
 };
