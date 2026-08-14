@@ -29,7 +29,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "eternityspring/shuohao-skills",
             "description": "AI \u77ed\u5267\u5236\u4f5c\u7684 skill \u96c6\u5408\uff1a\u62c6\u89d2\u8272\u3001\u6392\u5927\u7eb2\u3001\u51fa\u573a\u666f\u4e0e\u9053\u5177\u8bbe\u5b9a\u3001\u5199\u5267\u672c\u3001\u5207\u5206\u955c | Agent skills for AI short-drama production \u2014 character bibles, adaptation outlines, art bibles, screenplays, storyboards. Runs in Claude Code & codex.",
             "url": "https://github.com/eternityspring/shuohao-skills",
-            "stars": 1411,
+            "stars": 1415,
             "forks": 168,
             "score": 99
         },
@@ -51,8 +51,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "DrHazemAli/enterprise-system-design",
             "description": "A source-grounded course & reference for engineers designing systems that must survive real traffic, partial failure, security review, and changing requirements, spanning enterprise system design, distributed systems, AI systems, cybersecurity, reliability, cloud, HPC, edge, and mission-critical infrastructure.",
             "url": "https://github.com/DrHazemAli/enterprise-system-design",
-            "stars": 409,
-            "forks": 85,
+            "stars": 417,
+            "forks": 87,
             "score": 99
         },
         {
@@ -62,7 +62,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "xinxinshuhao-create/grok-register",
             "description": "Automated account registration toolkit for x.ai (Grok) with SSO extraction, OAuth Device Flow, and auto-replenish daemon",
             "url": "https://github.com/xinxinshuhao-create/grok-register",
-            "stars": 374,
+            "stars": 379,
             "forks": 100,
             "score": 99
         },
@@ -74,8 +74,8 @@ const ALPHA_DATA_V2 = {
             "description": "\u6211\u7684AI\u5c0f\u9547",
             "url": "https://github.com/mewamew/my_ai_town",
             "stars": 537,
-            "forks": 116,
-            "score": 80
+            "forks": 115,
+            "score": 79
         },
         {
             "main_cat": "AI",
@@ -84,7 +84,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "decionis/agent-safe-pipeline",
             "description": "Reference architecture for AI agents that propose actions but cannot authorize them \u2014 immutable intent capture, an independent Decionis policy verdict (ALLOW/ESCALATE/BLOCK), verified human approval, and a SafeExecutor that consumes a single-use intent-bound grant.",
             "url": "https://github.com/decionis/agent-safe-pipeline",
-            "stars": 369,
+            "stars": 371,
             "forks": 3,
             "score": 77
         },
@@ -95,7 +95,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "magicrew/doc7",
             "description": "Turn documents into AI-ready Markdown with visual understanding",
             "url": "https://github.com/magicrew/doc7",
-            "stars": 1115,
+            "stars": 1116,
             "forks": 40,
             "score": 72
         },
@@ -150,9 +150,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "fuxicodex/Fuxi",
             "description": "FuXi is a fast, self-contained AI coding agent that lives in your terminal \u2014 edit code, run commands, and drive tools, with cost-aware routing across LLM providers.",
             "url": "https://github.com/fuxicodex/Fuxi",
-            "stars": 521,
+            "stars": 525,
             "forks": 51,
-            "score": 57
+            "score": 58
         },
         {
             "main_cat": "AI",
@@ -172,7 +172,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "lexmount/moli",
             "description": "Best browser for AI agents, built in Rust.",
             "url": "https://github.com/lexmount/moli",
-            "stars": 277,
+            "stars": 278,
             "forks": 19,
             "score": 55
         },
@@ -227,7 +227,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "OpenSparX/MasterAgent",
             "description": "Build AI agents that run 100% on-device. Sub-100ms latency on Qualcomm NPU. Zero cloud dependency.",
             "url": "https://github.com/OpenSparX/MasterAgent",
-            "stars": 188,
+            "stars": 191,
             "forks": 16,
             "score": 48
         },
@@ -249,7 +249,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "miqdadbadjuber/anti-slop",
             "description": "Design rules to stop AI coding agents from generating generic \"AI slop\" UI.",
             "url": "https://github.com/miqdadbadjuber/anti-slop",
-            "stars": 217,
+            "stars": 218,
             "forks": 20,
             "score": 44
         },
@@ -282,7 +282,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "memorax-ai/memorax-code",
             "description": "A memory plugin for AI coding that turns engineering experience, repository knowledge, and your way of working into memory that remains useful in future tasks.",
             "url": "https://github.com/memorax-ai/memorax-code",
-            "stars": 343,
+            "stars": 344,
             "forks": 17,
             "score": 42
         },
@@ -293,7 +293,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "kropdx/reflection-engine",
             "description": "A downloadable prompt that turns your AI assistant's memory of you into a candid, evidence-grounded portrait.",
             "url": "https://github.com/kropdx/reflection-engine",
-            "stars": 265,
+            "stars": 267,
             "forks": 10,
             "score": 40
         },
@@ -783,5 +783,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-08-14 22:15"
+    "timestamp": "2026-08-14 23:15"
 };
