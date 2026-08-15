@@ -7,7 +7,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "KKKKhazix/human-writing",
             "description": "\u8ba9 AI \u5199\u7684\u4e2d\u6587\u8bfb\u8d77\u6765\u50cf\u4e00\u4e2a\u5177\u4f53\u7684\u4eba\u5728\u8bf4\u8bdd\u3002\u901a\u7528\u521b\u4f5c\u4e0e\u6539\u7a3f Skill\uff0c\u5f00\u7bb1\u5373\u7528\u3002",
             "url": "https://github.com/KKKKhazix/human-writing",
-            "stars": 2706,
+            "stars": 2708,
             "forks": 223,
             "score": 99
         },
@@ -19,7 +19,7 @@ const ALPHA_DATA_V2 = {
             "description": "\u975e\u5b98\u65b9 Kimi Slides Skill\uff1a\u8ba9 AI Agent \u751f\u6210\u53ef\u7f16\u8f91 PPTD + PPTX\uff0c\u5e76\u9644\u5e26\u672c\u5730\u6d4f\u89c8\u5668\u7f16\u8f91\u5668 Unofficial Kimi Slides skill for AI agents \u2014 generate editable PPTD + PPTX with a local browser editor",
             "url": "https://github.com/Binaryify/open-kimi-ppt-skill",
             "stars": 1599,
-            "forks": 1213,
+            "forks": 1214,
             "score": 99
         },
         {
@@ -29,8 +29,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "eternityspring/shuohao-skills",
             "description": "AI \u77ed\u5267\u5236\u4f5c\u7684 skill \u96c6\u5408\uff1a\u62c6\u89d2\u8272\u3001\u6392\u5927\u7eb2\u3001\u51fa\u573a\u666f\u4e0e\u9053\u5177\u8bbe\u5b9a\u3001\u5199\u5267\u672c\u3001\u5207\u5206\u955c | Agent skills for AI short-drama production \u2014 character bibles, adaptation outlines, art bibles, screenplays, storyboards. Runs in Claude Code & codex.",
             "url": "https://github.com/eternityspring/shuohao-skills",
-            "stars": 1415,
-            "forks": 168,
+            "stars": 1427,
+            "forks": 169,
             "score": 99
         },
         {
@@ -40,8 +40,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "shadcn-ui/chatbot-template",
             "description": "A minimal chatbot template built with Next.js, AI SDK, shadcn/ui, shadcn/react, shadcn/typeset. It runs on the Vercel AI Gateway.",
             "url": "https://github.com/shadcn-ui/chatbot-template",
-            "stars": 672,
-            "forks": 60,
+            "stars": 676,
+            "forks": 61,
             "score": 99
         },
         {
@@ -51,8 +51,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "DrHazemAli/enterprise-system-design",
             "description": "A source-grounded course & reference for engineers designing systems that must survive real traffic, partial failure, security review, and changing requirements, spanning enterprise system design, distributed systems, AI systems, cybersecurity, reliability, cloud, HPC, edge, and mission-critical infrastructure.",
             "url": "https://github.com/DrHazemAli/enterprise-system-design",
-            "stars": 417,
-            "forks": 87,
+            "stars": 426,
+            "forks": 92,
             "score": 99
         },
         {
@@ -62,8 +62,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "xinxinshuhao-create/grok-register",
             "description": "Automated account registration toolkit for x.ai (Grok) with SSO extraction, OAuth Device Flow, and auto-replenish daemon",
             "url": "https://github.com/xinxinshuhao-create/grok-register",
-            "stars": 379,
-            "forks": 100,
+            "stars": 385,
+            "forks": 101,
             "score": 99
         },
         {
@@ -84,9 +84,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "decionis/agent-safe-pipeline",
             "description": "Reference architecture for AI agents that propose actions but cannot authorize them \u2014 immutable intent capture, an independent Decionis policy verdict (ALLOW/ESCALATE/BLOCK), verified human approval, and a SafeExecutor that consumes a single-use intent-bound grant.",
             "url": "https://github.com/decionis/agent-safe-pipeline",
-            "stars": 371,
+            "stars": 376,
             "forks": 3,
-            "score": 77
+            "score": 78
         },
         {
             "main_cat": "AI",
@@ -106,7 +106,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "AMAP-ML/LongHorizon-Harness",
             "description": "The long-horizon computer-use harness. Run AI agents across desktop apps and the CLI for extended periods while preserving task state and making reliable progress on complex workflows. Features fresh-context execution, durable verified state, independent auditing, recoverable progress, and native Claude Code / Codex / OpenClaw integration.",
             "url": "https://github.com/AMAP-ML/LongHorizon-Harness",
-            "stars": 715,
+            "stars": 717,
             "forks": 85,
             "score": 70
         },
@@ -135,6 +135,17 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
+            "name": "modex-mh-agent",
+            "full_name": "N-allpass/modex-mh-agent",
+            "description": "Modex \u00b7 MH Agent \u2014 AI \u5168\u81ea\u52a8\u6570\u5b66\u5efa\u6a21\u667a\u80fd\u4f53,\u517c\u987e\u79d1\u7814\u5168\u6d41\u7a0b:\u4ece\u8d5b\u9898\u5230\u7ade\u8d5b\u7ea7\u8bba\u6587\u4e00\u591c\u8dd1\u5b8c,\u56fd\u8d5b/\u7f8e\u8d5b/\u534e\u4e3a\u676f\u5168\u8986\u76d6(\u67b6\u6784\u5c55\u793a)",
+            "url": "https://github.com/N-allpass/modex-mh-agent",
+            "stars": 179,
+            "forks": 0,
+            "score": 59
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
             "name": "awesome-free-ai-course-notes",
             "full_name": "MarcosSete/awesome-free-ai-course-notes",
             "description": "A curated collection of machine learning and AI lecture notes from the world's leading universities.  This repository gives you access to the same lecture notes used by students at top institutions such as MIT, helping you learn from the very best educational resources available.",
@@ -150,7 +161,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "fuxicodex/Fuxi",
             "description": "FuXi is a fast, self-contained AI coding agent that lives in your terminal \u2014 edit code, run commands, and drive tools, with cost-aware routing across LLM providers.",
             "url": "https://github.com/fuxicodex/Fuxi",
-            "stars": 525,
+            "stars": 534,
             "forks": 51,
             "score": 58
         },
@@ -172,7 +183,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "lexmount/moli",
             "description": "Best browser for AI agents, built in Rust.",
             "url": "https://github.com/lexmount/moli",
-            "stars": 278,
+            "stars": 283,
             "forks": 19,
             "score": 55
         },
@@ -195,7 +206,7 @@ const ALPHA_DATA_V2 = {
             "description": "A production-oriented AI workflow runtime for building, validating, recovering, and shipping complex AI workflows as dependable services. \u9762\u5411\u751f\u4ea7\u7684 AI \u5de5\u4f5c\u6d41\u8fd0\u884c\u65f6\uff1a\u5feb\u901f\u5f00\u53d1\u3001\u9a8c\u8bc1\u548c\u6062\u590d\u590d\u6742 AI \u5de5\u4f5c\u6d41\uff0c\u5e76\u5c06\u5176\u7a33\u5b9a\u4ea4\u4ed8\u4e3a\u670d\u52a1\u3002",
             "url": "https://github.com/alikon-art/DeterminFlow",
             "stars": 396,
-            "forks": 59,
+            "forks": 60,
             "score": 51
         },
         {
@@ -212,6 +223,17 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
+            "name": "MasterAgent",
+            "full_name": "OpenSparX/MasterAgent",
+            "description": "Build AI agents that run 100% on-device. Sub-100ms latency on Qualcomm NPU. Zero cloud dependency.",
+            "url": "https://github.com/OpenSparX/MasterAgent",
+            "stars": 202,
+            "forks": 16,
+            "score": 49
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
             "name": "JobHuntBot",
             "full_name": "DanielPan12/JobHuntBot",
             "description": "Agent-led job application workflow with a local progress-tracking dashboard \u2014 works with any AI coding agent that can read files and follow instructions.AI Agent \u9a71\u52a8\u7684\u6c42\u804c\u6295\u9012\u5de5\u4f5c\u6d41,\u914d\u672c\u5730\u8fdb\u5ea6\u8ffd\u8e2a\u770b\u677f\u2014\u2014\u9002\u914d\u4efb\u4f55\u80fd\u8bfb\u6587\u4ef6\u3001\u542c\u61c2\u6307\u4ee4\u7684\u7f16\u7a0b Agent\u3002",
@@ -223,13 +245,13 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "MasterAgent",
-            "full_name": "OpenSparX/MasterAgent",
-            "description": "Build AI agents that run 100% on-device. Sub-100ms latency on Qualcomm NPU. Zero cloud dependency.",
-            "url": "https://github.com/OpenSparX/MasterAgent",
-            "stars": 191,
-            "forks": 16,
-            "score": 48
+            "name": "sprite-maker",
+            "full_name": "JohnKinyanjui/sprite-maker",
+            "description": "An open source ai sprite maker",
+            "url": "https://github.com/JohnKinyanjui/sprite-maker",
+            "stars": 176,
+            "forks": 23,
+            "score": 46
         },
         {
             "main_cat": "AI",
@@ -271,20 +293,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "surya-koritala/loomfeed",
             "description": "The open-source Reddit alternative built for AI agents and humans \u2014 provenance tracking, reputation, epistemic status labels, and agent debates. Self-host with docker compose.",
             "url": "https://github.com/surya-koritala/loomfeed",
-            "stars": 213,
+            "stars": 214,
             "forks": 2,
             "score": 43
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "memorax-code",
-            "full_name": "memorax-ai/memorax-code",
-            "description": "A memory plugin for AI coding that turns engineering experience, repository knowledge, and your way of working into memory that remains useful in future tasks.",
-            "url": "https://github.com/memorax-ai/memorax-code",
-            "stars": 344,
-            "forks": 17,
-            "score": 42
         },
         {
             "main_cat": "AI",
@@ -296,28 +307,6 @@ const ALPHA_DATA_V2 = {
             "stars": 267,
             "forks": 10,
             "score": 40
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "nuphus-mcp",
-            "full_name": "mrpulor-gh/nuphus-mcp",
-            "description": "Desktop automation MCP server \u2014 computer use for any AI agent: control screen, windows, mouse/keyboard, and Chrome via Model Context Protocol (stdio)",
-            "url": "https://github.com/mrpulor-gh/nuphus-mcp",
-            "stars": 216,
-            "forks": 24,
-            "score": 39
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "omnibase",
-            "full_name": "lss100200/omnibase",
-            "description": "Self-hosted AI workbench for knowledge, RAG, model providers, and safely governed user-built agents. Public Preview; production Agent Runtime remains gated. \u81ea\u6258\u7ba1 AI \u77e5\u8bc6\u5de5\u4f5c\u53f0\u4e0e\u5b89\u5168 Agent \u5e73\u53f0\u3002",
-            "url": "https://github.com/lss100200/omnibase",
-            "stars": 95,
-            "forks": 1,
-            "score": 33
         },
         {
             "main_cat": "AI",
@@ -371,6 +360,17 @@ const ALPHA_DATA_V2 = {
             "description": "Pisces is a practical cryptography-based RAG framework that protects both user queries and knowledge-base documents while supporting semantic and lexical retrieval. It combines private coarse-to-fine semantic search with multi-instance labeled PSI for BM25, achieving accuracy within 1.87% of plaintext baselines.",
             "url": "https://github.com/ant-intl/Pisces",
             "stars": 9,
+            "forks": 1,
+            "score": 30
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI Infrastructure",
+            "name": "AI-Infrastructure-Solutions-Architecture",
+            "full_name": "gurrakeller/AI-Infrastructure-Solutions-Architecture",
+            "description": "End-to-end technical blueprint for enterprise AI infrastructure & inference engineering: GPU memory mechanics, interconnect topologies, quantization, PagedAttention, and model router selection frameworks.",
+            "url": "https://github.com/gurrakeller/AI-Infrastructure-Solutions-Architecture",
+            "stars": 6,
             "forks": 1,
             "score": 30
         },
@@ -487,17 +487,6 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
-            "name": "rain",
-            "full_name": "api-evangelist/rain",
-            "description": "Rain is an enterprise stablecoin payments platform that lets companies embed digital-dollar money movement into their products through a single API. Its infrastructure spans stablecoin wallets and virtual accounts, card issuing (Rain is a Visa and Mastercard Principal Member, settling Visa card transactions daily in stablecoins across multiple\u2026",
-            "url": "https://github.com/api-evangelist/rain",
-            "stars": 0,
-            "forks": 0,
-            "score": 30
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
             "name": "arc-payment-explorer",
             "full_name": "nubyscasttle385-lang/arc-payment-explorer",
             "description": "A concept project exploring programmable money, stablecoin payments, and blockchain applications built on Arc.",
@@ -542,28 +531,6 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
-            "name": "raincards",
-            "full_name": "api-evangelist/raincards",
-            "description": "Rain (Raincards) \u2014 Rain is a stablecoin payments infrastructure company that lets platforms, fintechs, and institutions issue cards, open virtual accounts and wallets, and move money globally through a single API.",
-            "url": "https://github.com/api-evangelist/raincards",
-            "stars": 0,
-            "forks": 0,
-            "score": 30
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "redotpay",
-            "full_name": "api-evangelist/redotpay",
-            "description": "RedotPay is a global stablecoin-based payment fintech that integrates blockchain solutions with traditional banking and finance infrastructures. The platform lets millions of people spend and send digital assets through a crypto-backed Visa card, a multi-currency wallet, P2P trading, international transfers, and stablecoin earning.",
-            "url": "https://github.com/api-evangelist/redotpay",
-            "stars": 0,
-            "forks": 0,
-            "score": 30
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
             "name": "utopia-labs",
             "full_name": "api-evangelist/utopia-labs",
             "description": "Utopia Labs was a stablecoin payments and finance-operations platform for crypto-native teams and DAOs, covering payments, payroll, invoicing, and approval workflows, backed by Paradigm. Coinbase acquired Utopia Labs Corp. on November 13, 2024, and the team joined Base to build onchain payments into Coinbase Wallet.",
@@ -586,32 +553,10 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
-            "name": "ripple-labs",
-            "full_name": "api-evangelist/ripple-labs",
-            "description": "Ripple (legally Ripple Labs Inc.) is a blockchain and crypto-enabled financial infrastructure company whose developer surface spans Ripple Payments (RippleNet Server API, On-Demand Liquidity, Payments Direct, Report Service, and Smart Liquidation), the RLUSD stablecoin \"Ripple Mint\" API, and Palisade Wallet-as-a-Service for institutional\u2026",
-            "url": "https://github.com/api-evangelist/ripple-labs",
-            "stars": 0,
-            "forks": 0,
-            "score": 30
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
             "name": "zebec",
             "full_name": "api-evangelist/zebec",
             "description": "Zebec is a blockchain-based financial infrastructure network that has been building decentralized payments rails since 2021, best known for real-time streaming payments and payroll. Zebec lets money move continuously by the second rather than in discrete transactions, powering stablecoin payroll, crypto debit cards (Silver, Carbon and Black\u2026",
             "url": "https://github.com/api-evangelist/zebec",
-            "stars": 0,
-            "forks": 0,
-            "score": 30
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI Agents",
-            "name": "skyfire",
-            "full_name": "api-evangelist/skyfire",
-            "description": "Skyfire is the open identity and payments layer for AI agents. It lets AI agents securely create accounts, verify a real-world identity (Know Your Agent, KYA), and autonomously pay for digital services using token-based authentication and stablecoin settlement.",
-            "url": "https://github.com/api-evangelist/skyfire",
             "stars": 0,
             "forks": 0,
             "score": 30
@@ -623,6 +568,17 @@ const ALPHA_DATA_V2 = {
             "full_name": "api-evangelist/utopialabs",
             "description": "Utopia Labs was a crypto payments startup (\"the premier stablecoin studio\") that spent three years building onchain payments products \u2014 including the Tori wallet and Offramps.eth, plus consumer USD-to-crypto on/off-ramp tools for paying friends and family. It was surfaced in the API Evangelist network as a portfolio company of kindred-ventures.",
             "url": "https://github.com/api-evangelist/utopialabs",
+            "stars": 0,
+            "forks": 0,
+            "score": 30
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI Agents",
+            "name": "stellar-facilitator",
+            "full_name": "Veridex-Protocol/stellar-facilitator",
+            "description": "omplete open-source implementation of an x402 payment facilitator and federated Bazaar discovery engine for Stellar (`stellar:testnet` and `stellar:pubnet`). Built on Apache-2.0 `@x402/stellar`, enabling AI agents and applications to discover, query, rank, and pay for HTTP endpoints and MCP tools using USDC/SEP-41 stablecoins.",
+            "url": "https://github.com/Veridex-Protocol/stellar-facilitator",
             "stars": 0,
             "forks": 0,
             "score": 30
@@ -645,28 +601,6 @@ const ALPHA_DATA_V2 = {
             "full_name": "juandjesus20009/ChainBridge",
             "description": "Decentralized smart contract orchestrator for cross-chain transaction processing, ensuring highly available, secure, and scalable protocol.",
             "url": "https://github.com/juandjesus20009/ChainBridge",
-            "stars": 0,
-            "forks": 0,
-            "score": 30
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "rangers-protocol",
-            "full_name": "api-evangelist/rangers-protocol",
-            "description": "Rangers Protocol is an EVM-compatible Layer 1 blockchain (Chain ID 2025) built for Web3 games and metaverse applications, using a VRF+BLS consensus mechanism to handle high-frequency transactions and a heterogeneous relay chain for true cross-chain interoperability.",
-            "url": "https://github.com/api-evangelist/rangers-protocol",
-            "stars": 0,
-            "forks": 0,
-            "score": 30
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "solana-evm-cross-chain-vault",
-            "full_name": "ayushmishra2005/solana-evm-cross-chain-vault",
-            "description": "Production-grade cross-chain asynchronous vault protocol for Solana and EVM, built with Rust, Anchor, Solidity and Foundry. Includes NAV accounting, cross-chain reconciliation, invariant testing and a Rust indexer.",
-            "url": "https://github.com/ayushmishra2005/solana-evm-cross-chain-vault",
             "stars": 0,
             "forks": 0,
             "score": 30
@@ -711,17 +645,6 @@ const ALPHA_DATA_V2 = {
             "full_name": "api-evangelist/tristero",
             "description": "Tristero is a trustless, cross-chain trading protocol backed by General Catalyst. On-chain traders use its API and Python/TypeScript SDKs to access deep liquidity across DEXs and CEXs for spot swaps of ERC-20 tokens across EVM chains (via Permit2 / EIP-712 signed orders), leveraged margin positions up to 10x, and cross-VM swaps into non-EVM assets\u2026",
             "url": "https://github.com/api-evangelist/tristero",
-            "stars": 0,
-            "forks": 0,
-            "score": 30
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "rho-protocol",
-            "full_name": "api-evangelist/rho-protocol",
-            "description": "Rho Protocol (Rho Labs) operates Rho X, a decentralized multi-asset trading and settlement layer for on-chain capital markets \u2014 interest-rate futures, perpetuals, and tokenized real-world assets tradable from a single cross-margined account.",
-            "url": "https://github.com/api-evangelist/rho-protocol",
             "stars": 0,
             "forks": 0,
             "score": 30
@@ -783,5 +706,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-08-14 23:15"
+    "timestamp": "2026-08-15 00:52"
 };
