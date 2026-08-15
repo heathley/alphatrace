@@ -18,7 +18,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Binaryify/open-kimi-ppt-skill",
             "description": "\u975e\u5b98\u65b9 Kimi Slides Skill\uff1a\u8ba9 AI Agent \u751f\u6210\u53ef\u7f16\u8f91 PPTD + PPTX\uff0c\u5e76\u9644\u5e26\u672c\u5730\u6d4f\u89c8\u5668\u7f16\u8f91\u5668 Unofficial Kimi Slides skill for AI agents \u2014 generate editable PPTD + PPTX with a local browser editor",
             "url": "https://github.com/Binaryify/open-kimi-ppt-skill",
-            "stars": 1599,
+            "stars": 1600,
             "forks": 1214,
             "score": 99
         },
@@ -29,7 +29,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "eternityspring/shuohao-skills",
             "description": "AI \u77ed\u5267\u5236\u4f5c\u7684 skill \u96c6\u5408\uff1a\u62c6\u89d2\u8272\u3001\u6392\u5927\u7eb2\u3001\u51fa\u573a\u666f\u4e0e\u9053\u5177\u8bbe\u5b9a\u3001\u5199\u5267\u672c\u3001\u5207\u5206\u955c | Agent skills for AI short-drama production \u2014 character bibles, adaptation outlines, art bibles, screenplays, storyboards. Runs in Claude Code & codex.",
             "url": "https://github.com/eternityspring/shuohao-skills",
-            "stars": 1491,
+            "stars": 1493,
             "forks": 175,
             "score": 99
         },
@@ -51,8 +51,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "DrHazemAli/enterprise-system-design",
             "description": "A source-grounded course & reference for engineers designing systems that must survive real traffic, partial failure, security review, and changing requirements, spanning enterprise system design, distributed systems, AI systems, cybersecurity, reliability, cloud, HPC, edge, and mission-critical infrastructure.",
             "url": "https://github.com/DrHazemAli/enterprise-system-design",
-            "stars": 457,
-            "forks": 99,
+            "stars": 459,
+            "forks": 100,
             "score": 99
         },
         {
@@ -62,8 +62,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "xinxinshuhao-create/grok-register",
             "description": "Automated account registration toolkit for x.ai (Grok) with SSO extraction, OAuth Device Flow, and auto-replenish daemon",
             "url": "https://github.com/xinxinshuhao-create/grok-register",
-            "stars": 418,
-            "forks": 105,
+            "stars": 419,
+            "forks": 106,
             "score": 99
         },
         {
@@ -73,7 +73,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "decionis/agent-safe-pipeline",
             "description": "Reference architecture for AI agents that propose actions but cannot authorize them \u2014 immutable intent capture, an independent Decionis policy verdict (ALLOW/ESCALATE/BLOCK), verified human approval, and a SafeExecutor that consumes a single-use intent-bound grant.",
             "url": "https://github.com/decionis/agent-safe-pipeline",
-            "stars": 409,
+            "stars": 412,
             "forks": 57,
             "score": 99
         },
@@ -95,7 +95,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "magicrew/doc7",
             "description": "Turn documents into AI-ready Markdown with visual understanding",
             "url": "https://github.com/magicrew/doc7",
-            "stars": 1126,
+            "stars": 1127,
             "forks": 41,
             "score": 73
         },
@@ -106,7 +106,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "AMAP-ML/LongHorizon-Harness",
             "description": "The long-horizon computer-use harness. Run AI agents across desktop apps and the CLI for extended periods while preserving task state and making reliable progress on complex workflows. Features fresh-context execution, durable verified state, independent auditing, recoverable progress, and native Claude Code / Codex / OpenClaw integration.",
             "url": "https://github.com/AMAP-ML/LongHorizon-Harness",
-            "stars": 725,
+            "stars": 727,
             "forks": 87,
             "score": 68
         },
@@ -117,9 +117,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "sv-number/mcp-server",
             "description": "MCP server for AI agents that need a phone number: order a private number in 200+ countries, read the SMS verification code, hand it back. The widest country coverage in the category, and you can check it with one API call.",
             "url": "https://github.com/sv-number/mcp-server",
-            "stars": 594,
+            "stars": 595,
             "forks": 3,
             "score": 60
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "Fuxi",
+            "full_name": "fuxicodex/Fuxi",
+            "description": "FuXi is a fast, self-contained AI coding agent that lives in your terminal \u2014 edit code, run commands, and drive tools, with cost-aware routing across LLM providers.",
+            "url": "https://github.com/fuxicodex/Fuxi",
+            "stars": 608,
+            "forks": 51,
+            "score": 59
         },
         {
             "main_cat": "AI",
@@ -168,22 +179,11 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "Fuxi",
-            "full_name": "fuxicodex/Fuxi",
-            "description": "FuXi is a fast, self-contained AI coding agent that lives in your terminal \u2014 edit code, run commands, and drive tools, with cost-aware routing across LLM providers.",
-            "url": "https://github.com/fuxicodex/Fuxi",
-            "stars": 601,
-            "forks": 51,
-            "score": 58
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
             "name": "moli",
             "full_name": "lexmount/moli",
             "description": "Best browser for AI agents, built in Rust.",
             "url": "https://github.com/lexmount/moli",
-            "stars": 304,
+            "stars": 308,
             "forks": 19,
             "score": 57
         },
@@ -194,9 +194,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "crawfordxx/xiaoma-durex-copywriter",
             "description": "\u675c\u857e\u65af\u5f0f\u6587\u6848\u4e0e\u6d77\u62a5 Skill for Claude Code \u2014\u2014 \u53cc\u5c42\u8bed\u4e49\u65b9\u6cd5\u8bba + 8 \u4e2a\u6587\u6848\u516c\u5f0f + \u4ece 260 \u5f20\u539f\u59cb\u6d77\u62a5\u62c6\u89e3\u7684\u89c6\u89c9\u7cfb\u7edf + AI \u51fa\u56fe/\u4ee3\u7801\u6392\u7248\u7ba1\u7ebf",
             "url": "https://github.com/crawfordxx/xiaoma-durex-copywriter",
-            "stars": 542,
+            "stars": 546,
             "forks": 17,
-            "score": 53
+            "score": 51
         },
         {
             "main_cat": "AI",
@@ -205,7 +205,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "alikon-art/DeterminFlow",
             "description": "A production-oriented AI workflow runtime for building, validating, recovering, and shipping complex AI workflows as dependable services. \u9762\u5411\u751f\u4ea7\u7684 AI \u5de5\u4f5c\u6d41\u8fd0\u884c\u65f6\uff1a\u5feb\u901f\u5f00\u53d1\u3001\u9a8c\u8bc1\u548c\u6062\u590d\u590d\u6742 AI \u5de5\u4f5c\u6d41\uff0c\u5e76\u5c06\u5176\u7a33\u5b9a\u4ea4\u4ed8\u4e3a\u670d\u52a1\u3002",
             "url": "https://github.com/alikon-art/DeterminFlow",
-            "stars": 404,
+            "stars": 405,
             "forks": 60,
             "score": 50
         },
@@ -240,18 +240,7 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/1lck/Lithe-IDEA",
             "stars": 322,
             "forks": 39,
-            "score": 45
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "anti-slop",
-            "full_name": "miqdadbadjuber/anti-slop",
-            "description": "Design rules to stop AI coding agents from generating generic \"AI slop\" UI.",
-            "url": "https://github.com/miqdadbadjuber/anti-slop",
-            "stars": 224,
-            "forks": 20,
-            "score": 45
+            "score": 44
         },
         {
             "main_cat": "AI",
@@ -271,9 +260,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "coleam00/skills",
             "description": "The agent skills I actually use to build software with coding agents. The PIV loop, planning, worktrees, and the meta-skills for building your own AI Layer.",
             "url": "https://github.com/coleam00/skills",
-            "stars": 181,
+            "stars": 182,
             "forks": 46,
             "score": 44
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "anti-slop",
+            "full_name": "miqdadbadjuber/anti-slop",
+            "description": "Design rules to stop AI coding agents from generating generic \"AI slop\" UI.",
+            "url": "https://github.com/miqdadbadjuber/anti-slop",
+            "stars": 226,
+            "forks": 20,
+            "score": 43
         },
         {
             "main_cat": "AI",
@@ -728,5 +728,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-08-15 10:15"
+    "timestamp": "2026-08-15 11:13"
 };
