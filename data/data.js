@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "KKKKhazix/human-writing",
             "description": "\u8ba9 AI \u5199\u7684\u4e2d\u6587\u8bfb\u8d77\u6765\u50cf\u4e00\u4e2a\u5177\u4f53\u7684\u4eba\u5728\u8bf4\u8bdd\u3002\u901a\u7528\u521b\u4f5c\u4e0e\u6539\u7a3f Skill\uff0c\u5f00\u7bb1\u5373\u7528\u3002",
             "url": "https://github.com/KKKKhazix/human-writing",
-            "stars": 2745,
-            "forks": 226,
+            "stars": 2747,
+            "forks": 228,
             "score": 99
         },
         {
@@ -29,8 +29,19 @@ const ALPHA_DATA_V2 = {
             "full_name": "eternityspring/shuohao-skills",
             "description": "AI \u77ed\u5267\u5236\u4f5c\u7684 skill \u96c6\u5408\uff1a\u62c6\u89d2\u8272\u3001\u6392\u5927\u7eb2\u3001\u51fa\u573a\u666f\u4e0e\u9053\u5177\u8bbe\u5b9a\u3001\u5199\u5267\u672c\u3001\u5207\u5206\u955c | Agent skills for AI short-drama production \u2014 character bibles, adaptation outlines, art bibles, screenplays, storyboards. Runs in Claude Code & codex.",
             "url": "https://github.com/eternityspring/shuohao-skills",
-            "stars": 1549,
+            "stars": 1551,
             "forks": 180,
+            "score": 99
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "agent-safe-pipeline",
+            "full_name": "decionis/agent-safe-pipeline",
+            "description": "Reference architecture for AI agents that propose actions but cannot authorize them \u2014 immutable intent capture, an independent Decionis policy verdict (ALLOW/ESCALATE/BLOCK), verified human approval, and a SafeExecutor that consumes a single-use intent-bound grant.",
+            "url": "https://github.com/decionis/agent-safe-pipeline",
+            "stars": 458,
+            "forks": 59,
             "score": 99
         },
         {
@@ -41,19 +52,8 @@ const ALPHA_DATA_V2 = {
             "description": "Automated account registration toolkit for x.ai (Grok) with SSO extraction, OAuth Device Flow, and auto-replenish daemon",
             "url": "https://github.com/xinxinshuhao-create/grok-register",
             "stars": 435,
-            "forks": 111,
+            "forks": 112,
             "score": 99
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "agent-safe-pipeline",
-            "full_name": "decionis/agent-safe-pipeline",
-            "description": "Reference architecture for AI agents that propose actions but cannot authorize them \u2014 immutable intent capture, an independent Decionis policy verdict (ALLOW/ESCALATE/BLOCK), verified human approval, and a SafeExecutor that consumes a single-use intent-bound grant.",
-            "url": "https://github.com/decionis/agent-safe-pipeline",
-            "stars": 454,
-            "forks": 58,
-            "score": 98
         },
         {
             "main_cat": "AI",
@@ -62,7 +62,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "shadcn-ui/chatbot-template",
             "description": "A minimal chatbot template built with Next.js, AI SDK, shadcn/ui, shadcn/react, shadcn/typeset. It runs on the Vercel AI Gateway.",
             "url": "https://github.com/shadcn-ui/chatbot-template",
-            "stars": 692,
+            "stars": 693,
             "forks": 64,
             "score": 97
         },
@@ -73,7 +73,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "DrHazemAli/enterprise-system-design",
             "description": "A source-grounded course & reference for engineers designing systems that must survive real traffic, partial failure, security review, and changing requirements, spanning enterprise system design, distributed systems, AI systems, cybersecurity, reliability, cloud, HPC, edge, and mission-critical infrastructure.",
             "url": "https://github.com/DrHazemAli/enterprise-system-design",
-            "stars": 497,
+            "stars": 498,
             "forks": 104,
             "score": 95
         },
@@ -84,7 +84,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "mewamew/my_ai_town",
             "description": "\u6211\u7684AI\u5c0f\u9547",
             "url": "https://github.com/mewamew/my_ai_town",
-            "stars": 560,
+            "stars": 562,
             "forks": 123,
             "score": 77
         },
@@ -95,9 +95,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "AMAP-ML/LongHorizon-Harness",
             "description": "The long-horizon computer-use harness. Run AI agents across desktop apps and the CLI for extended periods while preserving task state and making reliable progress on complex workflows. Features fresh-context execution, durable verified state, independent auditing, recoverable progress, and native Claude Code / Codex / OpenClaw integration.",
             "url": "https://github.com/AMAP-ML/LongHorizon-Harness",
-            "stars": 744,
+            "stars": 745,
             "forks": 88,
-            "score": 69
+            "score": 66
         },
         {
             "main_cat": "AI",
@@ -106,7 +106,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "fuxicodex/Fuxi",
             "description": "FuXi is a fast, self-contained AI coding agent that lives in your terminal \u2014 edit code, run commands, and drive tools, with cost-aware routing across LLM providers.",
             "url": "https://github.com/fuxicodex/Fuxi",
-            "stars": 663,
+            "stars": 665,
             "forks": 48,
             "score": 60
         },
@@ -139,7 +139,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "lexmount/moli",
             "description": "Best browser for AI agents, built in Rust.",
             "url": "https://github.com/lexmount/moli",
-            "stars": 353,
+            "stars": 354,
             "forks": 23,
             "score": 57
         },
@@ -183,7 +183,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "crawfordxx/xiaoma-durex-copywriter",
             "description": "\u675c\u857e\u65af\u5f0f\u6587\u6848\u4e0e\u6d77\u62a5 Skill for Claude Code \u2014\u2014 \u53cc\u5c42\u8bed\u4e49\u65b9\u6cd5\u8bba + 8 \u4e2a\u6587\u6848\u516c\u5f0f + \u4ece 260 \u5f20\u539f\u59cb\u6d77\u62a5\u62c6\u89e3\u7684\u89c6\u89c9\u7cfb\u7edf + AI \u51fa\u56fe/\u4ee3\u7801\u6392\u7248\u7ba1\u7ebf",
             "url": "https://github.com/crawfordxx/xiaoma-durex-copywriter",
-            "stars": 561,
+            "stars": 562,
             "forks": 21,
             "score": 53
         },
@@ -194,9 +194,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "vibeinging/deepseek-harness-desktop-app",
             "description": "DeepSeek Harness Desktop App: a local AI desktop workspace for DSH Sessions, projects, files, web research, plugins, and Office artifacts.",
             "url": "https://github.com/vibeinging/deepseek-harness-desktop-app",
-            "stars": 203,
+            "stars": 204,
             "forks": 4,
-            "score": 51
+            "score": 52
         },
         {
             "main_cat": "AI",
@@ -227,7 +227,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "miqdadbadjuber/anti-slop",
             "description": "Design rules to stop AI coding agents from generating generic \"AI slop\" UI.",
             "url": "https://github.com/miqdadbadjuber/anti-slop",
-            "stars": 267,
+            "stars": 272,
             "forks": 25,
             "score": 46
         },
@@ -293,7 +293,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "jundizhou/easy-stock",
             "description": "A \u80a1\u884c\u60c5\u5206\u6790\u4e0eAI\u667a\u80fd\u6295\u7814\u667a\u80fd\u4f53\u2014\u2014easy stock",
             "url": "https://github.com/jundizhou/easy-stock",
-            "stars": 198,
+            "stars": 199,
             "forks": 3,
             "score": 39
         },
@@ -337,7 +337,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "MaincodeHQ/mainarch",
             "description": "A from-scratch Rust inference stack for AMD GPUs that talks straight to the Linux kernel driver. No ROCm, HIP, or HSA runtime. Serves OLMo 2 on MI355X.",
             "url": "https://github.com/MaincodeHQ/mainarch",
-            "stars": 11,
+            "stars": 12,
             "forks": 2,
             "score": 32
         },
@@ -437,6 +437,17 @@ const ALPHA_DATA_V2 = {
             "description": "Real-time Color Prediction Game built with Laravel 12 \u2014 Win Go style betting game with admin panel, wallet system & auto round generation.",
             "url": "https://github.com/rahulbhatiwal5-cmyk/laravel-colour-game",
             "stars": 1,
+            "forks": 0,
+            "score": 30
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "app",
+            "full_name": "scoregenius/app",
+            "description": "Sports analytics PWA for NFL, NBA and MLB. Model score predictions, compared against the betting market. Frontend source and design documentation.",
+            "url": "https://github.com/scoregenius/app",
+            "stars": 0,
             "forks": 0,
             "score": 30
         },
@@ -684,5 +695,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-08-16 04:29"
+    "timestamp": "2026-08-16 05:21"
 };
