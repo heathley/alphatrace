@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "KKKKhazix/human-writing",
             "description": "\u8ba9 AI \u5199\u7684\u4e2d\u6587\u8bfb\u8d77\u6765\u50cf\u4e00\u4e2a\u5177\u4f53\u7684\u4eba\u5728\u8bf4\u8bdd\u3002\u901a\u7528\u521b\u4f5c\u4e0e\u6539\u7a3f Skill\uff0c\u5f00\u7bb1\u5373\u7528\u3002",
             "url": "https://github.com/KKKKhazix/human-writing",
-            "stars": 2762,
-            "forks": 228,
+            "stars": 2764,
+            "forks": 229,
             "score": 99
         },
         {
@@ -29,7 +29,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "eternityspring/shuohao-skills",
             "description": "AI \u77ed\u5267\u5236\u4f5c\u7684 skill \u96c6\u5408\uff1a\u62c6\u89d2\u8272\u3001\u6392\u5927\u7eb2\u3001\u51fa\u573a\u666f\u4e0e\u9053\u5177\u8bbe\u5b9a\u3001\u5199\u5267\u672c\u3001\u5207\u5206\u955c | Agent skills for AI short-drama production \u2014 character bibles, adaptation outlines, art bibles, screenplays, storyboards. Runs in Claude Code & codex.",
             "url": "https://github.com/eternityspring/shuohao-skills",
-            "stars": 1565,
+            "stars": 1566,
             "forks": 181,
             "score": 99
         },
@@ -40,7 +40,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "decionis/agent-safe-pipeline",
             "description": "Reference architecture for AI agents that propose actions but cannot authorize them \u2014 immutable intent capture, an independent Decionis policy verdict (ALLOW/ESCALATE/BLOCK), verified human approval, and a SafeExecutor that consumes a single-use intent-bound grant.",
             "url": "https://github.com/decionis/agent-safe-pipeline",
-            "stars": 468,
+            "stars": 469,
             "forks": 59,
             "score": 99
         },
@@ -51,7 +51,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "DrHazemAli/enterprise-system-design",
             "description": "A source-grounded course & reference for engineers designing systems that must survive real traffic, partial failure, security review, and changing requirements, spanning enterprise system design, distributed systems, AI systems, cybersecurity, reliability, cloud, HPC, edge, and mission-critical infrastructure.",
             "url": "https://github.com/DrHazemAli/enterprise-system-design",
-            "stars": 509,
+            "stars": 511,
             "forks": 109,
             "score": 97
         },
@@ -84,7 +84,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "mewamew/my_ai_town",
             "description": "\u6211\u7684AI\u5c0f\u9547",
             "url": "https://github.com/mewamew/my_ai_town",
-            "stars": 570,
+            "stars": 571,
             "forks": 124,
             "score": 74
         },
@@ -95,20 +95,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "AMAP-ML/LongHorizon-Harness",
             "description": "The long-horizon computer-use harness. Run AI agents across desktop apps and the CLI for extended periods while preserving task state and making reliable progress on complex workflows. Features fresh-context execution, durable verified state, independent auditing, recoverable progress, and native Claude Code / Codex / OpenClaw integration.",
             "url": "https://github.com/AMAP-ML/LongHorizon-Harness",
-            "stars": 755,
-            "forks": 89,
+            "stars": 761,
+            "forks": 90,
             "score": 67
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "moli",
-            "full_name": "lexmount/moli",
-            "description": "Best browser for AI agents, built in Rust.",
-            "url": "https://github.com/lexmount/moli",
-            "stars": 389,
-            "forks": 25,
-            "score": 60
         },
         {
             "main_cat": "AI",
@@ -117,7 +106,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "fuxicodex/Fuxi",
             "description": "FuXi is a fast, self-contained AI coding agent that lives in your terminal \u2014 edit code, run commands, and drive tools, with cost-aware routing across LLM providers.",
             "url": "https://github.com/fuxicodex/Fuxi",
-            "stars": 695,
+            "stars": 698,
             "forks": 48,
             "score": 59
         },
@@ -135,12 +124,23 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
+            "name": "moli",
+            "full_name": "lexmount/moli",
+            "description": "Best browser for AI agents, built in Rust.",
+            "url": "https://github.com/lexmount/moli",
+            "stars": 390,
+            "forks": 25,
+            "score": 57
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
             "name": "mkdirs",
             "full_name": "MkThingsHQ/mkdirs",
             "description": "Open-source AI-powered directory website template built with Next.js",
             "url": "https://github.com/MkThingsHQ/mkdirs",
             "stars": 226,
-            "forks": 65,
+            "forks": 66,
             "score": 57
         },
         {
@@ -161,7 +161,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "sv-number/mcp-server",
             "description": "MCP server for AI agents that need a phone number: order a private number in 200+ countries, read the SMS verification code, hand it back. The widest country coverage in the category, and you can check it with one API call.",
             "url": "https://github.com/sv-number/mcp-server",
-            "stars": 598,
+            "stars": 599,
             "forks": 3,
             "score": 55
         },
@@ -216,7 +216,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "vibeinging/deepseek-harness-desktop-app",
             "description": "DeepSeek Harness Desktop App: a local AI desktop workspace for DSH Sessions, projects, files, web research, plugins, and Office artifacts.",
             "url": "https://github.com/vibeinging/deepseek-harness-desktop-app",
-            "stars": 209,
+            "stars": 211,
             "forks": 4,
             "score": 48
         },
@@ -227,7 +227,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "miqdadbadjuber/anti-slop",
             "description": "Design rules to stop AI coding agents from generating generic \"AI slop\" UI.",
             "url": "https://github.com/miqdadbadjuber/anti-slop",
-            "stars": 294,
+            "stars": 296,
             "forks": 29,
             "score": 47
         },
@@ -238,8 +238,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "coleam00/skills",
             "description": "The agent skills I actually use to build software with coding agents. The PIV loop, planning, worktrees, and the meta-skills for building your own AI Layer.",
             "url": "https://github.com/coleam00/skills",
-            "stars": 213,
-            "forks": 64,
+            "stars": 214,
+            "forks": 65,
             "score": 46
         },
         {
@@ -249,8 +249,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "JohnKinyanjui/sprite-maker",
             "description": "An open source ai sprite maker",
             "url": "https://github.com/JohnKinyanjui/sprite-maker",
-            "stars": 188,
-            "forks": 25,
+            "stars": 189,
+            "forks": 26,
             "score": 46
         },
         {
@@ -293,7 +293,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "jundizhou/easy-stock",
             "description": "A \u80a1\u884c\u60c5\u5206\u6790\u4e0eAI\u667a\u80fd\u6295\u7814\u667a\u80fd\u4f53\u2014\u2014easy stock",
             "url": "https://github.com/jundizhou/easy-stock",
-            "stars": 210,
+            "stars": 213,
             "forks": 3,
             "score": 40
         },
@@ -304,7 +304,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "waiterve/wai-play",
             "description": "WAI Play - AI web game testing and quality evaluation platform",
             "url": "https://github.com/waiterve/wai-play",
-            "stars": 181,
+            "stars": 182,
             "forks": 9,
             "score": 37
         },
@@ -348,7 +348,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "drowzeys/keys-SM121-Optimized-MiniMax-H3-Nvidia-Sol-Engine-Kijai-SolAttn_Triton-Single-DGX-Spark",
             "description": "MiniMax-H3 33B audio+video DiT accelerated 1.54x on a single NVIDIA DGX Spark (GB10, sm_121): NVIDIA Sol-Engine FirstBlockCache + batched VAE decode ported to single-GPU ComfyUI, Sol-Attn patched for compute 12.1, kijai Triton INT8/TMA kernels. Benchmarks, charts, one-shot installer, agent recipe.",
             "url": "https://github.com/drowzeys/keys-SM121-Optimized-MiniMax-H3-Nvidia-Sol-Engine-Kijai-SolAttn_Triton-Single-DGX-Spark",
-            "stars": 26,
+            "stars": 27,
             "forks": 1,
             "score": 31
         },
@@ -695,5 +695,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-08-16 12:25"
+    "timestamp": "2026-08-16 13:25"
 };
