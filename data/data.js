@@ -29,7 +29,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "eternityspring/shuohao-skills",
             "description": "AI \u77ed\u5267\u5236\u4f5c\u7684 skill \u96c6\u5408\uff1a\u62c6\u89d2\u8272\u3001\u6392\u5927\u7eb2\u3001\u51fa\u573a\u666f\u4e0e\u9053\u5177\u8bbe\u5b9a\u3001\u5199\u5267\u672c\u3001\u5207\u5206\u955c | Agent skills for AI short-drama production \u2014 character bibles, adaptation outlines, art bibles, screenplays, storyboards. Runs in Claude Code & codex.",
             "url": "https://github.com/eternityspring/shuohao-skills",
-            "stars": 1574,
+            "stars": 1575,
             "forks": 181,
             "score": 99
         },
@@ -40,9 +40,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "DrHazemAli/enterprise-system-design",
             "description": "A source-grounded course & reference for engineers designing systems that must survive real traffic, partial failure, security review, and changing requirements, spanning enterprise system design, distributed systems, AI systems, cybersecurity, reliability, cloud, HPC, edge, and mission-critical infrastructure.",
             "url": "https://github.com/DrHazemAli/enterprise-system-design",
-            "stars": 525,
-            "forks": 109,
-            "score": 98
+            "stars": 528,
+            "forks": 110,
+            "score": 99
         },
         {
             "main_cat": "AI",
@@ -73,9 +73,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "decionis/agent-safe-pipeline",
             "description": "Reference architecture for AI agents that propose actions but cannot authorize them \u2014 immutable intent capture, an independent Decionis policy verdict (ALLOW/ESCALATE/BLOCK), verified human approval, and a SafeExecutor that consumes a single-use intent-bound grant.",
             "url": "https://github.com/decionis/agent-safe-pipeline",
-            "stars": 483,
+            "stars": 484,
             "forks": 59,
-            "score": 89
+            "score": 90
         },
         {
             "main_cat": "AI",
@@ -106,7 +106,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "fuxicodex/Fuxi",
             "description": "FuXi is a fast, self-contained AI coding agent that lives in your terminal \u2014 edit code, run commands, and drive tools, with cost-aware routing across LLM providers.",
             "url": "https://github.com/fuxicodex/Fuxi",
-            "stars": 737,
+            "stars": 740,
             "forks": 50,
             "score": 61
         },
@@ -117,9 +117,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "lexmount/moli",
             "description": "Best browser for AI agents, built in Rust.",
             "url": "https://github.com/lexmount/moli",
-            "stars": 398,
+            "stars": 401,
             "forks": 26,
-            "score": 57
+            "score": 58
         },
         {
             "main_cat": "AI",
@@ -151,7 +151,7 @@ const ALPHA_DATA_V2 = {
             "description": "MCP server for AI agents that need a phone number: order a private number in 200+ countries, read the SMS verification code, hand it back. The widest country coverage in the category, and you can check it with one API call.",
             "url": "https://github.com/sv-number/mcp-server",
             "stars": 599,
-            "forks": 3,
+            "forks": 4,
             "score": 55
         },
         {
@@ -238,9 +238,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "coleam00/skills",
             "description": "The agent skills I actually use to build software with coding agents. The PIV loop, planning, worktrees, and the meta-skills for building your own AI Layer.",
             "url": "https://github.com/coleam00/skills",
-            "stars": 222,
+            "stars": 223,
             "forks": 67,
-            "score": 47
+            "score": 46
         },
         {
             "main_cat": "AI",
@@ -249,7 +249,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Leonxlnx/unlazy",
             "description": "Anti-laziness skill for AI agents. Core: the Depth Tree method, which splits a task N layers deep and gives every leaf the full time budget of the whole task, so effort multiplies with depth. Grounded in 2025-2026 research on model laziness, underthinking and premature completion.",
             "url": "https://github.com/Leonxlnx/unlazy",
-            "stars": 248,
+            "stars": 251,
             "forks": 4,
             "score": 44
         },
@@ -271,8 +271,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "surya-koritala/loomfeed",
             "description": "The open-source Reddit alternative built for AI agents and humans \u2014 provenance tracking, reputation, epistemic status labels, and agent debates. Self-host with docker compose.",
             "url": "https://github.com/surya-koritala/loomfeed",
-            "stars": 217,
-            "forks": 3,
+            "stars": 218,
+            "forks": 4,
             "score": 41
         },
         {
@@ -304,7 +304,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "jundizhou/easy-stock",
             "description": "A \u80a1\u884c\u60c5\u5206\u6790\u4e0eAI\u667a\u80fd\u6295\u7814\u667a\u80fd\u4f53\u2014\u2014easy stock",
             "url": "https://github.com/jundizhou/easy-stock",
-            "stars": 225,
+            "stars": 227,
             "forks": 3,
             "score": 39
         },
@@ -361,6 +361,17 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/undeemed/kimi-k3-in-rust",
             "stars": 8,
             "forks": 4,
+            "score": 31
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "SPulse-Contract",
+            "full_name": "SPulse-Org/SPulse-Contract",
+            "description": "SPulse contracts are the on-chain Soroban smart contract layer for the prediction market platform. They manage market creation, user betting, market resolution, payouts, rewards, referrals, and leaderboard tracking on Stellar. The contracts work together to support a trustless, auditable betting system with token incentives and community ranking.",
+            "url": "https://github.com/SPulse-Org/SPulse-Contract",
+            "stars": 0,
+            "forks": 2,
             "score": 31
         },
         {
@@ -458,17 +469,6 @@ const ALPHA_DATA_V2 = {
             "full_name": "Gavin-Dsouza/sports-prediction-platform",
             "description": "Probabilistic MLB prediction + betting-EV platform (ensemble models, MLflow registry, explainability)",
             "url": "https://github.com/Gavin-Dsouza/sports-prediction-platform",
-            "stars": 0,
-            "forks": 0,
-            "score": 30
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "SPulse-Contract",
-            "full_name": "SPulse-Org/SPulse-Contract",
-            "description": "SPulse contracts are the on-chain Soroban smart contract layer for the prediction market platform. They manage market creation, user betting, market resolution, payouts, rewards, referrals, and leaderboard tracking on Stellar. The contracts work together to support a trustless, auditable betting system with token incentives and community ranking.",
-            "url": "https://github.com/SPulse-Org/SPulse-Contract",
             "stars": 0,
             "forks": 0,
             "score": 30
@@ -706,5 +706,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-08-16 22:13"
+    "timestamp": "2026-08-16 23:13"
 };
