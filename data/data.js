@@ -7,7 +7,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "KKKKhazix/human-writing",
             "description": "\u8ba9 AI \u5199\u7684\u4e2d\u6587\u8bfb\u8d77\u6765\u50cf\u4e00\u4e2a\u5177\u4f53\u7684\u4eba\u5728\u8bf4\u8bdd\u3002\u901a\u7528\u521b\u4f5c\u4e0e\u6539\u7a3f Skill\uff0c\u5f00\u7bb1\u5373\u7528\u3002",
             "url": "https://github.com/KKKKhazix/human-writing",
-            "stars": 2767,
+            "stars": 2769,
             "forks": 229,
             "score": 99
         },
@@ -29,7 +29,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "eternityspring/shuohao-skills",
             "description": "AI \u77ed\u5267\u5236\u4f5c\u7684 skill \u96c6\u5408\uff1a\u62c6\u89d2\u8272\u3001\u6392\u5927\u7eb2\u3001\u51fa\u573a\u666f\u4e0e\u9053\u5177\u8bbe\u5b9a\u3001\u5199\u5267\u672c\u3001\u5207\u5206\u955c | Agent skills for AI short-drama production \u2014 character bibles, adaptation outlines, art bibles, screenplays, storyboards. Runs in Claude Code & codex.",
             "url": "https://github.com/eternityspring/shuohao-skills",
-            "stars": 1567,
+            "stars": 1570,
             "forks": 181,
             "score": 99
         },
@@ -40,7 +40,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "decionis/agent-safe-pipeline",
             "description": "Reference architecture for AI agents that propose actions but cannot authorize them \u2014 immutable intent capture, an independent Decionis policy verdict (ALLOW/ESCALATE/BLOCK), verified human approval, and a SafeExecutor that consumes a single-use intent-bound grant.",
             "url": "https://github.com/decionis/agent-safe-pipeline",
-            "stars": 473,
+            "stars": 477,
             "forks": 59,
             "score": 99
         },
@@ -84,7 +84,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "mewamew/my_ai_town",
             "description": "\u6211\u7684AI\u5c0f\u9547",
             "url": "https://github.com/mewamew/my_ai_town",
-            "stars": 572,
+            "stars": 573,
             "forks": 124,
             "score": 74
         },
@@ -95,7 +95,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "AMAP-ML/LongHorizon-Harness",
             "description": "The long-horizon computer-use harness. Run AI agents across desktop apps and the CLI for extended periods while preserving task state and making reliable progress on complex workflows. Features fresh-context execution, durable verified state, independent auditing, recoverable progress, and native Claude Code / Codex / OpenClaw integration.",
             "url": "https://github.com/AMAP-ML/LongHorizon-Harness",
-            "stars": 762,
+            "stars": 763,
             "forks": 90,
             "score": 67
         },
@@ -106,9 +106,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "fuxicodex/Fuxi",
             "description": "FuXi is a fast, self-contained AI coding agent that lives in your terminal \u2014 edit code, run commands, and drive tools, with cost-aware routing across LLM providers.",
             "url": "https://github.com/fuxicodex/Fuxi",
-            "stars": 706,
+            "stars": 713,
             "forks": 49,
             "score": 60
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "moli",
+            "full_name": "lexmount/moli",
+            "description": "Best browser for AI agents, built in Rust.",
+            "url": "https://github.com/lexmount/moli",
+            "stars": 396,
+            "forks": 25,
+            "score": 57
         },
         {
             "main_cat": "AI",
@@ -118,30 +129,8 @@ const ALPHA_DATA_V2 = {
             "description": "AI \u62c6\u56fe\u3001\u88ab\u906e\u6321\u80cc\u666f\u8865\u9f50\u3001\u4eba\u5de5\u6821\u51c6\u3001\u5bfc\u5165\u53ef\u7f16\u8f91 Figma \u56fe\u5c42\u3001\u5bfc\u51fa HTML/CSS",
             "url": "https://github.com/50kg/image-to-slice",
             "stars": 279,
-            "forks": 49,
-            "score": 59
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "moli",
-            "full_name": "lexmount/moli",
-            "description": "Best browser for AI agents, built in Rust.",
-            "url": "https://github.com/lexmount/moli",
-            "stars": 393,
-            "forks": 25,
-            "score": 57
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "mkdirs",
-            "full_name": "MkThingsHQ/mkdirs",
-            "description": "Open-source AI-powered directory website template built with Next.js",
-            "url": "https://github.com/MkThingsHQ/mkdirs",
-            "stars": 227,
-            "forks": 67,
-            "score": 57
+            "forks": 50,
+            "score": 56
         },
         {
             "main_cat": "AI",
@@ -179,6 +168,17 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
+            "name": "mkdirs",
+            "full_name": "MkThingsHQ/mkdirs",
+            "description": "Open-source AI-powered directory website template built with Next.js",
+            "url": "https://github.com/MkThingsHQ/mkdirs",
+            "stars": 227,
+            "forks": 67,
+            "score": 54
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
             "name": "xiaoma-durex-copywriter",
             "full_name": "crawfordxx/xiaoma-durex-copywriter",
             "description": "\u675c\u857e\u65af\u5f0f\u6587\u6848\u4e0e\u6d77\u62a5 Skill for Claude Code \u2014\u2014 \u53cc\u5c42\u8bed\u4e49\u65b9\u6cd5\u8bba + 8 \u4e2a\u6587\u6848\u516c\u5f0f + \u4ece 260 \u5f20\u539f\u59cb\u6d77\u62a5\u62c6\u89e3\u7684\u89c6\u89c9\u7cfb\u7edf + AI \u51fa\u56fe/\u4ee3\u7801\u6392\u7248\u7ba1\u7ebf",
@@ -201,23 +201,23 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "qiaomu-seo",
-            "full_name": "joeseesun/qiaomu-seo",
-            "description": "Audit, diagnose, research, plan, implement, experiment on, and verify website SEO across Google, Bing, and AI-search surfaces. Use for technical SEO, ",
-            "url": "https://github.com/joeseesun/qiaomu-seo",
-            "stars": 372,
-            "forks": 54,
-            "score": 48
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
             "name": "deepseek-harness-desktop-app",
             "full_name": "vibeinging/deepseek-harness-desktop-app",
             "description": "DeepSeek Harness Desktop App: a local AI desktop workspace for DSH Sessions, projects, files, web research, plugins, and Office artifacts.",
             "url": "https://github.com/vibeinging/deepseek-harness-desktop-app",
-            "stars": 211,
+            "stars": 213,
             "forks": 4,
+            "score": 49
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "qiaomu-seo",
+            "full_name": "joeseesun/qiaomu-seo",
+            "description": "Audit, diagnose, research, plan, implement, experiment on, and verify website SEO across Google, Bing, and AI-search surfaces. Use for technical SEO, ",
+            "url": "https://github.com/joeseesun/qiaomu-seo",
+            "stars": 373,
+            "forks": 54,
             "score": 48
         },
         {
@@ -227,7 +227,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "miqdadbadjuber/anti-slop",
             "description": "Design rules to stop AI coding agents from generating generic \"AI slop\" UI.",
             "url": "https://github.com/miqdadbadjuber/anti-slop",
-            "stars": 299,
+            "stars": 300,
             "forks": 29,
             "score": 47
         },
@@ -238,7 +238,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "coleam00/skills",
             "description": "The agent skills I actually use to build software with coding agents. The PIV loop, planning, worktrees, and the meta-skills for building your own AI Layer.",
             "url": "https://github.com/coleam00/skills",
-            "stars": 215,
+            "stars": 216,
             "forks": 66,
             "score": 47
         },
@@ -249,7 +249,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "JohnKinyanjui/sprite-maker",
             "description": "An open source ai sprite maker",
             "url": "https://github.com/JohnKinyanjui/sprite-maker",
-            "stars": 190,
+            "stars": 191,
             "forks": 26,
             "score": 46
         },
@@ -282,7 +282,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Leonxlnx/unlazy",
             "description": "Anti-laziness skill for AI agents. Core: the Depth Tree method, which splits a task N layers deep and gives every leaf the full time budget of the whole task, so effort multiplies with depth. Grounded in 2025-2026 research on model laziness, underthinking and premature completion.",
             "url": "https://github.com/Leonxlnx/unlazy",
-            "stars": 199,
+            "stars": 207,
             "forks": 2,
             "score": 41
         },
@@ -304,7 +304,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "jundizhou/easy-stock",
             "description": "A \u80a1\u884c\u60c5\u5206\u6790\u4e0eAI\u667a\u80fd\u6295\u7814\u667a\u80fd\u4f53\u2014\u2014easy stock",
             "url": "https://github.com/jundizhou/easy-stock",
-            "stars": 216,
+            "stars": 218,
             "forks": 3,
             "score": 40
         },
@@ -364,6 +364,17 @@ const ALPHA_DATA_V2 = {
             "score": 31
         },
         {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "Qwen3.8-27B-NVFP4-TurboQuant",
+            "full_name": "ayayalar/Qwen3.8-27B-NVFP4-TurboQuant",
+            "description": "Validated vLLM recipe: Qwen3.8-27B-NVFP4 at full 262,144-token context on a single RTX 5090, GPU-only (no CPU offload).",
+            "url": "https://github.com/ayayalar/Qwen3.8-27B-NVFP4-TurboQuant",
+            "stars": 8,
+            "forks": 0,
+            "score": 31
+        },
+        {
             "main_cat": "Cross-chain / Interoperability",
             "sub_cat": null,
             "name": "Stell-Topia",
@@ -393,28 +404,6 @@ const ALPHA_DATA_V2 = {
             "description": "Pisces is a practical cryptography-based RAG framework that protects both user queries and knowledge-base documents while supporting semantic and lexical retrieval. It combines private coarse-to-fine semantic search with multi-instance labeled PSI for BM25, achieving accuracy within 1.87% of plaintext baselines.",
             "url": "https://github.com/ant-intl/Pisces",
             "stars": 9,
-            "forks": 1,
-            "score": 30
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "Qwen3.8-27B-NVFP4-TurboQuant",
-            "full_name": "ayayalar/Qwen3.8-27B-NVFP4-TurboQuant",
-            "description": "Validated vLLM recipe: Qwen3.8-27B-NVFP4 at full 262,144-token context on a single RTX 5090, GPU-only (no CPU offload).",
-            "url": "https://github.com/ayayalar/Qwen3.8-27B-NVFP4-TurboQuant",
-            "stars": 7,
-            "forks": 0,
-            "score": 30
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI Infrastructure",
-            "name": "AI-Infrastructure-Solutions-Architecture",
-            "full_name": "gurrakeller/AI-Infrastructure-Solutions-Architecture",
-            "description": "End-to-end technical blueprint for enterprise AI infrastructure & inference engineering: GPU memory mechanics, interconnect topologies, quantization, PagedAttention, and model router selection frameworks.",
-            "url": "https://github.com/gurrakeller/AI-Infrastructure-Solutions-Architecture",
-            "stars": 7,
             "forks": 1,
             "score": 30
         },
@@ -685,6 +674,20 @@ const ALPHA_DATA_V2 = {
     ],
     "news": [
         {
+            "title": "Experimental Quantum Key Distribution in an Indefinite Causal Order",
+            "source": "ArXiv",
+            "type": "Research Alpha",
+            "color": "text-indigo-600",
+            "url": "http://arxiv.org/abs/2608.13561v1"
+        },
+        {
+            "title": "YAVIN: A Unified Architecture for Secure Edge Processing in Memory",
+            "source": "ArXiv",
+            "type": "Research Alpha",
+            "color": "text-indigo-600",
+            "url": "http://arxiv.org/abs/2608.13496v1"
+        },
+        {
             "title": "Bitcoin volatility remains high ahead of key FED decision.",
             "source": "Polymarket",
             "type": "Expectation",
@@ -692,5 +695,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-08-16 15:14"
+    "timestamp": "2026-08-16 16:16"
 };
