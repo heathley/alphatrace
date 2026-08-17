@@ -7,7 +7,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "KKKKhazix/human-writing",
             "description": "\u8ba9 AI \u5199\u7684\u4e2d\u6587\u8bfb\u8d77\u6765\u50cf\u4e00\u4e2a\u5177\u4f53\u7684\u4eba\u5728\u8bf4\u8bdd\u3002\u901a\u7528\u521b\u4f5c\u4e0e\u6539\u7a3f Skill\uff0c\u5f00\u7bb1\u5373\u7528\u3002",
             "url": "https://github.com/KKKKhazix/human-writing",
-            "stars": 2813,
+            "stars": 2814,
             "forks": 233,
             "score": 99
         },
@@ -29,7 +29,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Binaryify/open-kimi-ppt-skill",
             "description": "\u975e\u5b98\u65b9 Kimi Slides Skill\uff1a\u8ba9 AI Agent \u751f\u6210\u53ef\u7f16\u8f91 PPTD + PPTX\uff0c\u5e76\u9644\u5e26\u672c\u5730\u6d4f\u89c8\u5668\u7f16\u8f91\u5668 Unofficial Kimi Slides skill for AI agents \u2014 generate editable PPTD + PPTX with a local browser editor",
             "url": "https://github.com/Binaryify/open-kimi-ppt-skill",
-            "stars": 1602,
+            "stars": 1603,
             "forks": 1225,
             "score": 99
         },
@@ -40,9 +40,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "yetone/cumora",
             "description": "Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates \u2014 with cloud or bring-your-own (Claude Code / Codex) brains.",
             "url": "https://github.com/yetone/cumora",
-            "stars": 973,
-            "forks": 111,
+            "stars": 990,
+            "forks": 112,
             "score": 99
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "enterprise-system-design",
+            "full_name": "DrHazemAli/enterprise-system-design",
+            "description": "A source-grounded course & reference for engineers designing systems that must survive real traffic, partial failure, security review, and changing requirements, spanning enterprise system design, distributed systems, AI systems, cybersecurity, reliability, cloud, HPC, edge, and mission-critical infrastructure.",
+            "url": "https://github.com/DrHazemAli/enterprise-system-design",
+            "stars": 542,
+            "forks": 113,
+            "score": 92
         },
         {
             "main_cat": "AI",
@@ -54,17 +65,6 @@ const ALPHA_DATA_V2 = {
             "stars": 515,
             "forks": 58,
             "score": 92
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "enterprise-system-design",
-            "full_name": "DrHazemAli/enterprise-system-design",
-            "description": "A source-grounded course & reference for engineers designing systems that must survive real traffic, partial failure, security review, and changing requirements, spanning enterprise system design, distributed systems, AI systems, cybersecurity, reliability, cloud, HPC, edge, and mission-critical infrastructure.",
-            "url": "https://github.com/DrHazemAli/enterprise-system-design",
-            "stars": 541,
-            "forks": 112,
-            "score": 91
         },
         {
             "main_cat": "AI",
@@ -95,7 +95,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "mewamew/my_ai_town",
             "description": "\u6211\u7684AI\u5c0f\u9547",
             "url": "https://github.com/mewamew/my_ai_town",
-            "stars": 593,
+            "stars": 594,
             "forks": 128,
             "score": 72
         },
@@ -106,7 +106,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "AMAP-ML/LongHorizon-Harness",
             "description": "The long-horizon computer-use harness. Run AI agents across desktop apps and the CLI for extended periods while preserving task state and making reliable progress on complex workflows. Features fresh-context execution, durable verified state, independent auditing, recoverable progress, and native Claude Code / Codex / OpenClaw integration.",
             "url": "https://github.com/AMAP-ML/LongHorizon-Harness",
-            "stars": 808,
+            "stars": 810,
             "forks": 92,
             "score": 66
         },
@@ -128,7 +128,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "fuxicodex/Fuxi",
             "description": "FuXi is a fast, self-contained AI coding agent that lives in your terminal \u2014 edit code, run commands, and drive tools, with cost-aware routing across LLM providers.",
             "url": "https://github.com/fuxicodex/Fuxi",
-            "stars": 854,
+            "stars": 861,
             "forks": 53,
             "score": 63
         },
@@ -139,9 +139,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "jeremy-prt/bloub",
             "description": "SVG recreation of the x.ai bot avatar. One shape morphing through 14 states, measured off the reference video frame by frame.",
             "url": "https://github.com/jeremy-prt/bloub",
-            "stars": 232,
+            "stars": 238,
             "forks": 24,
-            "score": 62
+            "score": 63
         },
         {
             "main_cat": "AI",
@@ -150,7 +150,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "lexmount/moli",
             "description": "Best browser for AI agents, built in Rust.",
             "url": "https://github.com/lexmount/moli",
-            "stars": 463,
+            "stars": 467,
             "forks": 27,
             "score": 58
         },
@@ -273,7 +273,7 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/JohnKinyanjui/sprite-maker",
             "stars": 213,
             "forks": 31,
-            "score": 46
+            "score": 45
         },
         {
             "main_cat": "AI",
@@ -282,8 +282,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "Leonxlnx/unlazy",
             "description": "Anti-laziness skill for AI agents. Core: the Depth Tree method, which splits a task N layers deep and gives every leaf the full time budget of the whole task, so effort multiplies with depth. Grounded in 2025-2026 research on model laziness, underthinking and premature completion.",
             "url": "https://github.com/Leonxlnx/unlazy",
-            "stars": 270,
-            "forks": 6,
+            "stars": 271,
+            "forks": 7,
             "score": 44
         },
         {
@@ -304,9 +304,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "jundizhou/easy-stock",
             "description": "A \u80a1\u884c\u60c5\u5206\u6790\u4e0eAI\u667a\u80fd\u6295\u7814\u667a\u80fd\u4f53\u2014\u2014easy stock",
             "url": "https://github.com/jundizhou/easy-stock",
-            "stars": 257,
+            "stars": 258,
             "forks": 5,
             "score": 40
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "SPulse-Contract",
+            "full_name": "SPulse-Org/SPulse-Contract",
+            "description": "SPulse contracts are the on-chain Soroban smart contract layer for the prediction market platform. They manage market creation, user betting, market resolution, payouts, rewards, referrals, and leaderboard tracking on Stellar. The contracts work together to support a trustless, auditable betting system with token incentives and community ranking.",
+            "url": "https://github.com/SPulse-Org/SPulse-Contract",
+            "stars": 0,
+            "forks": 9,
+            "score": 34
         },
         {
             "main_cat": "AI",
@@ -317,17 +328,6 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/neilthomas89440-crypto/inferna-next",
             "stars": 30,
             "forks": 0,
-            "score": 33
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "SPulse-Contract",
-            "full_name": "SPulse-Org/SPulse-Contract",
-            "description": "SPulse contracts are the on-chain Soroban smart contract layer for the prediction market platform. They manage market creation, user betting, market resolution, payouts, rewards, referrals, and leaderboard tracking on Stellar. The contracts work together to support a trustless, auditable betting system with token incentives and community ranking.",
-            "url": "https://github.com/SPulse-Org/SPulse-Contract",
-            "stars": 0,
-            "forks": 7,
             "score": 33
         },
         {
@@ -372,17 +372,6 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/undeemed/kimi-k3-in-rust",
             "stars": 10,
             "forks": 4,
-            "score": 31
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "lewin-ai-agent",
-            "full_name": "robofighter/lewin-ai-agent",
-            "description": "LEWIN AI AGENT \u2014 lightweight talking avatar. Grok speaks; lipsync runs in the browser without a GPU viseme model.",
-            "url": "https://github.com/robofighter/lewin-ai-agent",
-            "stars": 8,
-            "forks": 0,
             "score": 31
         },
         {
@@ -706,5 +695,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-08-17 20:18"
+    "timestamp": "2026-08-17 21:19"
 };
