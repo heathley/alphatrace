@@ -7,7 +7,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "KKKKhazix/human-writing",
             "description": "\u8ba9 AI \u5199\u7684\u4e2d\u6587\u8bfb\u8d77\u6765\u50cf\u4e00\u4e2a\u5177\u4f53\u7684\u4eba\u5728\u8bf4\u8bdd\u3002\u901a\u7528\u521b\u4f5c\u4e0e\u6539\u7a3f Skill\uff0c\u5f00\u7bb1\u5373\u7528\u3002",
             "url": "https://github.com/KKKKhazix/human-writing",
-            "stars": 2811,
+            "stars": 2812,
             "forks": 233,
             "score": 99
         },
@@ -18,7 +18,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "eternityspring/shuohao-skills",
             "description": "AI \u77ed\u5267\u5236\u4f5c\u7684 skill \u96c6\u5408\uff1a\u62c6\u89d2\u8272\u3001\u6392\u5927\u7eb2\u3001\u51fa\u573a\u666f\u4e0e\u9053\u5177\u8bbe\u5b9a\u3001\u5199\u5267\u672c\u3001\u5207\u5206\u955c | Agent skills for AI short-drama production \u2014 character bibles, adaptation outlines, art bibles, screenplays, storyboards. Runs in Claude Code & codex.",
             "url": "https://github.com/eternityspring/shuohao-skills",
-            "stars": 1636,
+            "stars": 1638,
             "forks": 196,
             "score": 99
         },
@@ -40,8 +40,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "yetone/cumora",
             "description": "Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates \u2014 with cloud or bring-your-own (Claude Code / Codex) brains.",
             "url": "https://github.com/yetone/cumora",
-            "stars": 923,
-            "forks": 105,
+            "stars": 952,
+            "forks": 109,
             "score": 99
         },
         {
@@ -51,7 +51,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "decionis/agent-safe-pipeline",
             "description": "Reference architecture for AI agents that propose actions but cannot authorize them \u2014 immutable intent capture, an independent Decionis policy verdict (ALLOW/ESCALATE/BLOCK), verified human approval, and a SafeExecutor that consumes a single-use intent-bound grant.",
             "url": "https://github.com/decionis/agent-safe-pipeline",
-            "stars": 512,
+            "stars": 513,
             "forks": 58,
             "score": 92
         },
@@ -84,7 +84,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "shadcn-ui/chatbot-template",
             "description": "A minimal chatbot template built with Next.js, AI SDK, shadcn/ui, shadcn/react, shadcn/typeset. It runs on the Vercel AI Gateway.",
             "url": "https://github.com/shadcn-ui/chatbot-template",
-            "stars": 715,
+            "stars": 717,
             "forks": 65,
             "score": 84
         },
@@ -106,7 +106,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "AMAP-ML/LongHorizon-Harness",
             "description": "The long-horizon computer-use harness. Run AI agents across desktop apps and the CLI for extended periods while preserving task state and making reliable progress on complex workflows. Features fresh-context execution, durable verified state, independent auditing, recoverable progress, and native Claude Code / Codex / OpenClaw integration.",
             "url": "https://github.com/AMAP-ML/LongHorizon-Harness",
-            "stars": 807,
+            "stars": 808,
             "forks": 92,
             "score": 66
         },
@@ -128,7 +128,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "fuxicodex/Fuxi",
             "description": "FuXi is a fast, self-contained AI coding agent that lives in your terminal \u2014 edit code, run commands, and drive tools, with cost-aware routing across LLM providers.",
             "url": "https://github.com/fuxicodex/Fuxi",
-            "stars": 844,
+            "stars": 847,
             "forks": 53,
             "score": 63
         },
@@ -139,9 +139,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "jeremy-prt/bloub",
             "description": "SVG recreation of the x.ai bot avatar. One shape morphing through 14 states, measured off the reference video frame by frame.",
             "url": "https://github.com/jeremy-prt/bloub",
-            "stars": 223,
+            "stars": 230,
             "forks": 24,
-            "score": 61
+            "score": 62
         },
         {
             "main_cat": "AI",
@@ -150,7 +150,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "lexmount/moli",
             "description": "Best browser for AI agents, built in Rust.",
             "url": "https://github.com/lexmount/moli",
-            "stars": 456,
+            "stars": 461,
             "forks": 27,
             "score": 58
         },
@@ -201,17 +201,6 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "MasterAgent",
-            "full_name": "OpenSparX/MasterAgent",
-            "description": "Build AI agents that run 100% on-device. Sub-100ms latency on Qualcomm NPU. Zero cloud dependency.",
-            "url": "https://github.com/OpenSparX/MasterAgent",
-            "stars": 344,
-            "forks": 17,
-            "score": 52
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
             "name": "mkdirs",
             "full_name": "MkThingsHQ/mkdirs",
             "description": "Open-source AI-powered directory website template built with Next.js",
@@ -234,13 +223,35 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
+            "name": "MasterAgent",
+            "full_name": "OpenSparX/MasterAgent",
+            "description": "Build AI agents that run 100% on-device. Sub-100ms latency on Qualcomm NPU. Zero cloud dependency.",
+            "url": "https://github.com/OpenSparX/MasterAgent",
+            "stars": 344,
+            "forks": 17,
+            "score": 50
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
             "name": "skills",
             "full_name": "coleam00/skills",
             "description": "The agent skills I actually use to build software with coding agents. The PIV loop, planning, worktrees, and the meta-skills for building your own AI Layer.",
             "url": "https://github.com/coleam00/skills",
-            "stars": 247,
+            "stars": 248,
             "forks": 76,
             "score": 48
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "anti-slop",
+            "full_name": "miqdadbadjuber/anti-slop",
+            "description": "Design rules to stop AI coding agents from generating generic \"AI slop\" UI.",
+            "url": "https://github.com/miqdadbadjuber/anti-slop",
+            "stars": 326,
+            "forks": 29,
+            "score": 47
         },
         {
             "main_cat": "AI",
@@ -252,17 +263,6 @@ const ALPHA_DATA_V2 = {
             "stars": 214,
             "forks": 0,
             "score": 47
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "anti-slop",
-            "full_name": "miqdadbadjuber/anti-slop",
-            "description": "Design rules to stop AI coding agents from generating generic \"AI slop\" UI.",
-            "url": "https://github.com/miqdadbadjuber/anti-slop",
-            "stars": 325,
-            "forks": 29,
-            "score": 46
         },
         {
             "main_cat": "AI",
@@ -377,17 +377,6 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
-            "name": "Qwen3.8-27B-NVFP4-TurboQuant",
-            "full_name": "ayayalar/Qwen3.8-27B-NVFP4-TurboQuant",
-            "description": "Validated vLLM recipe: Qwen3.8-27B-NVFP4 at full 262,144-token context on a single RTX 5090, GPU-only (no CPU offload).",
-            "url": "https://github.com/ayayalar/Qwen3.8-27B-NVFP4-TurboQuant",
-            "stars": 10,
-            "forks": 0,
-            "score": 31
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
             "name": "lewin-ai-agent",
             "full_name": "robofighter/lewin-ai-agent",
             "description": "LEWIN AI AGENT \u2014 lightweight talking avatar. Grok speaks; lipsync runs in the browser without a GPU viseme model.",
@@ -438,6 +427,17 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/ant-intl/Pisces",
             "stars": 9,
             "forks": 1,
+            "score": 30
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "Qwen3.8-27B-NVFP4-TurboQuant",
+            "full_name": "ayayalar/Qwen3.8-27B-NVFP4-TurboQuant",
+            "description": "Validated vLLM recipe: Qwen3.8-27B-NVFP4 at full 262,144-token context on a single RTX 5090, GPU-only (no CPU offload).",
+            "url": "https://github.com/ayayalar/Qwen3.8-27B-NVFP4-TurboQuant",
+            "stars": 10,
+            "forks": 0,
             "score": 30
         },
         {
@@ -706,5 +706,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-08-17 18:28"
+    "timestamp": "2026-08-17 19:22"
 };
