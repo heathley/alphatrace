@@ -7,7 +7,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "KKKKhazix/human-writing",
             "description": "\u8ba9 AI \u5199\u7684\u4e2d\u6587\u8bfb\u8d77\u6765\u50cf\u4e00\u4e2a\u5177\u4f53\u7684\u4eba\u5728\u8bf4\u8bdd\u3002\u901a\u7528\u521b\u4f5c\u4e0e\u6539\u7a3f Skill\uff0c\u5f00\u7bb1\u5373\u7528\u3002",
             "url": "https://github.com/KKKKhazix/human-writing",
-            "stars": 2770,
+            "stars": 2771,
             "forks": 229,
             "score": 99
         },
@@ -29,7 +29,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "eternityspring/shuohao-skills",
             "description": "AI \u77ed\u5267\u5236\u4f5c\u7684 skill \u96c6\u5408\uff1a\u62c6\u89d2\u8272\u3001\u6392\u5927\u7eb2\u3001\u51fa\u573a\u666f\u4e0e\u9053\u5177\u8bbe\u5b9a\u3001\u5199\u5267\u672c\u3001\u5207\u5206\u955c | Agent skills for AI short-drama production \u2014 character bibles, adaptation outlines, art bibles, screenplays, storyboards. Runs in Claude Code & codex.",
             "url": "https://github.com/eternityspring/shuohao-skills",
-            "stars": 1575,
+            "stars": 1576,
             "forks": 181,
             "score": 99
         },
@@ -40,8 +40,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "DrHazemAli/enterprise-system-design",
             "description": "A source-grounded course & reference for engineers designing systems that must survive real traffic, partial failure, security review, and changing requirements, spanning enterprise system design, distributed systems, AI systems, cybersecurity, reliability, cloud, HPC, edge, and mission-critical infrastructure.",
             "url": "https://github.com/DrHazemAli/enterprise-system-design",
-            "stars": 528,
-            "forks": 110,
+            "stars": 531,
+            "forks": 111,
             "score": 99
         },
         {
@@ -51,7 +51,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "xinxinshuhao-create/grok-register",
             "description": "Automated account registration toolkit for x.ai (Grok) with SSO extraction, OAuth Device Flow, and auto-replenish daemon",
             "url": "https://github.com/xinxinshuhao-create/grok-register",
-            "stars": 442,
+            "stars": 443,
             "forks": 115,
             "score": 94
         },
@@ -95,7 +95,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "AMAP-ML/LongHorizon-Harness",
             "description": "The long-horizon computer-use harness. Run AI agents across desktop apps and the CLI for extended periods while preserving task state and making reliable progress on complex workflows. Features fresh-context execution, durable verified state, independent auditing, recoverable progress, and native Claude Code / Codex / OpenClaw integration.",
             "url": "https://github.com/AMAP-ML/LongHorizon-Harness",
-            "stars": 776,
+            "stars": 777,
             "forks": 90,
             "score": 67
         },
@@ -106,7 +106,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "fuxicodex/Fuxi",
             "description": "FuXi is a fast, self-contained AI coding agent that lives in your terminal \u2014 edit code, run commands, and drive tools, with cost-aware routing across LLM providers.",
             "url": "https://github.com/fuxicodex/Fuxi",
-            "stars": 740,
+            "stars": 746,
             "forks": 50,
             "score": 61
         },
@@ -117,7 +117,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "lexmount/moli",
             "description": "Best browser for AI agents, built in Rust.",
             "url": "https://github.com/lexmount/moli",
-            "stars": 401,
+            "stars": 408,
             "forks": 26,
             "score": 58
         },
@@ -135,22 +135,11 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "awesome-free-ai-course-notes",
-            "full_name": "MarcosSete/awesome-free-ai-course-notes",
-            "description": "A curated collection of machine learning and AI lecture notes from the world's leading universities.  This repository gives you access to the same lecture notes used by students at top institutions such as MIT, helping you learn from the very best educational resources available.",
-            "url": "https://github.com/MarcosSete/awesome-free-ai-course-notes",
-            "stars": 605,
-            "forks": 52,
-            "score": 55
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
             "name": "mcp-server",
             "full_name": "sv-number/mcp-server",
             "description": "MCP server for AI agents that need a phone number: order a private number in 200+ countries, read the SMS verification code, hand it back. The widest country coverage in the category, and you can check it with one API call.",
             "url": "https://github.com/sv-number/mcp-server",
-            "stars": 599,
+            "stars": 600,
             "forks": 4,
             "score": 55
         },
@@ -211,13 +200,13 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
-            "sub_cat": null,
-            "name": "qiaomu-seo",
-            "full_name": "joeseesun/qiaomu-seo",
-            "description": "Audit, diagnose, research, plan, implement, experiment on, and verify website SEO across Google, Bing, and AI-search surfaces. Use for technical SEO, ",
-            "url": "https://github.com/joeseesun/qiaomu-seo",
-            "stars": 373,
-            "forks": 54,
+            "sub_cat": "AI Agents",
+            "name": "mcp-memory",
+            "full_name": "fellowgeek/mcp-memory",
+            "description": "An OKF-backed Model Context Protocol (MCP) server delivering persistent long-term memory and SQLite FTS5 search for AI agents.",
+            "url": "https://github.com/fellowgeek/mcp-memory",
+            "stars": 175,
+            "forks": 11,
             "score": 48
         },
         {
@@ -227,7 +216,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "miqdadbadjuber/anti-slop",
             "description": "Design rules to stop AI coding agents from generating generic \"AI slop\" UI.",
             "url": "https://github.com/miqdadbadjuber/anti-slop",
-            "stars": 301,
+            "stars": 303,
             "forks": 28,
             "score": 47
         },
@@ -244,25 +233,36 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
-            "sub_cat": "AI Agents",
-            "name": "unlazy",
-            "full_name": "Leonxlnx/unlazy",
-            "description": "Anti-laziness skill for AI agents. Core: the Depth Tree method, which splits a task N layers deep and gives every leaf the full time budget of the whole task, so effort multiplies with depth. Grounded in 2025-2026 research on model laziness, underthinking and premature completion.",
-            "url": "https://github.com/Leonxlnx/unlazy",
-            "stars": 251,
-            "forks": 4,
-            "score": 44
-        },
-        {
-            "main_cat": "AI",
             "sub_cat": null,
             "name": "sprite-maker",
             "full_name": "JohnKinyanjui/sprite-maker",
             "description": "An open source ai sprite maker",
             "url": "https://github.com/JohnKinyanjui/sprite-maker",
-            "stars": 193,
+            "stars": 194,
             "forks": 26,
             "score": 44
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI Agents",
+            "name": "unlazy",
+            "full_name": "Leonxlnx/unlazy",
+            "description": "Anti-laziness skill for AI agents. Core: the Depth Tree method, which splits a task N layers deep and gives every leaf the full time budget of the whole task, so effort multiplies with depth. Grounded in 2025-2026 research on model laziness, underthinking and premature completion.",
+            "url": "https://github.com/Leonxlnx/unlazy",
+            "stars": 255,
+            "forks": 4,
+            "score": 43
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "pgbot",
+            "full_name": "pgrundev/pgbot",
+            "description": "pgbot - Postgres intelligence for AI agents & apps",
+            "url": "https://github.com/pgrundev/pgbot",
+            "stars": 177,
+            "forks": 9,
+            "score": 43
         },
         {
             "main_cat": "AI",
@@ -289,12 +289,12 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "reflection-engine",
-            "full_name": "kropdx/reflection-engine",
-            "description": "A downloadable prompt that turns your AI assistant's memory of you into a candid, evidence-grounded portrait.",
-            "url": "https://github.com/kropdx/reflection-engine",
-            "stars": 281,
-            "forks": 10,
+            "name": "surreal-pop-collage",
+            "full_name": "2998980-hue/surreal-pop-collage",
+            "description": "\u628a\u7167\u7247\u53d8\u6210\u8d85\u73b0\u5b9e\u6ce2\u666e\u62fc\u8d34\u7684 AI agent skill\uff1a\u9ed1\u767d\u73b0\u5b9e\u951a\u70b9 + \u5e73\u6d82\u8272\u5f62 + \u5168\u56fe\u53ea\u6709\u4e00\u4e2a\u4e0d\u53ef\u80fd\u7684\u5de8\u7269\u3002An agent skill that turns photos into surreal pop collages.",
+            "url": "https://github.com/2998980-hue/surreal-pop-collage",
+            "stars": 188,
+            "forks": 9,
             "score": 40
         },
         {
@@ -337,8 +337,19 @@ const ALPHA_DATA_V2 = {
             "full_name": "MaincodeHQ/mainarch",
             "description": "A from-scratch Rust inference stack for AMD GPUs that talks straight to the Linux kernel driver. No ROCm, HIP, or HSA runtime. Serves OLMo 2 on MI355X.",
             "url": "https://github.com/MaincodeHQ/mainarch",
-            "stars": 14,
+            "stars": 15,
             "forks": 2,
+            "score": 32
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "SPulse-Contract",
+            "full_name": "SPulse-Org/SPulse-Contract",
+            "description": "SPulse contracts are the on-chain Soroban smart contract layer for the prediction market platform. They manage market creation, user betting, market resolution, payouts, rewards, referrals, and leaderboard tracking on Stellar. The contracts work together to support a trustless, auditable betting system with token incentives and community ranking.",
+            "url": "https://github.com/SPulse-Org/SPulse-Contract",
+            "stars": 0,
+            "forks": 4,
             "score": 32
         },
         {
@@ -361,17 +372,6 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/undeemed/kimi-k3-in-rust",
             "stars": 8,
             "forks": 4,
-            "score": 31
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "SPulse-Contract",
-            "full_name": "SPulse-Org/SPulse-Contract",
-            "description": "SPulse contracts are the on-chain Soroban smart contract layer for the prediction market platform. They manage market creation, user betting, market resolution, payouts, rewards, referrals, and leaderboard tracking on Stellar. The contracts work together to support a trustless, auditable betting system with token incentives and community ranking.",
-            "url": "https://github.com/SPulse-Org/SPulse-Contract",
-            "stars": 0,
-            "forks": 2,
             "score": 31
         },
         {
@@ -416,6 +416,17 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/ayayalar/Qwen3.8-27B-NVFP4-TurboQuant",
             "stars": 9,
             "forks": 0,
+            "score": 30
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI Infrastructure",
+            "name": "AI-Infrastructure-Solutions-Architecture",
+            "full_name": "gurrakeller/AI-Infrastructure-Solutions-Architecture",
+            "description": "End-to-end technical blueprint for enterprise AI infrastructure & inference engineering: GPU memory mechanics, interconnect topologies, quantization, PagedAttention, and model router selection frameworks.",
+            "url": "https://github.com/gurrakeller/AI-Infrastructure-Solutions-Architecture",
+            "stars": 7,
+            "forks": 1,
             "score": 30
         },
         {
@@ -574,17 +585,6 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
-            "sub_cat": "AI Agents",
-            "name": "stellar-facilitator",
-            "full_name": "Veridex-Protocol/stellar-facilitator",
-            "description": "omplete open-source implementation of an x402 payment facilitator and federated Bazaar discovery engine for Stellar (`stellar:testnet` and `stellar:pubnet`). Built on Apache-2.0 `@x402/stellar`, enabling AI agents and applications to discover, query, rank, and pay for HTTP endpoints and MCP tools using USDC/SEP-41 stablecoins.",
-            "url": "https://github.com/Veridex-Protocol/stellar-facilitator",
-            "stars": 0,
-            "forks": 0,
-            "score": 30
-        },
-        {
-            "main_cat": "AI",
             "sub_cat": "AI General",
             "name": "cross-chain-flow",
             "full_name": "Freemandaily/cross-chain-flow",
@@ -650,28 +650,6 @@ const ALPHA_DATA_V2 = {
             "score": 30
         },
         {
-            "main_cat": "Cross-chain / Interoperability",
-            "sub_cat": null,
-            "name": "tradep2p",
-            "full_name": "patirckk1994/tradep2p",
-            "description": "a fully decentralized cross protocol p2p trading engine",
-            "url": "https://github.com/patirckk1994/tradep2p",
-            "stars": 0,
-            "forks": 0,
-            "score": 30
-        },
-        {
-            "main_cat": "Cross-chain / Interoperability",
-            "sub_cat": null,
-            "name": "CoinP2P",
-            "full_name": "patrickkelava1994-bot/CoinP2P",
-            "description": "a fully decentralized cross protocol p2p trading engine",
-            "url": "https://github.com/patrickkelava1994-bot/CoinP2P",
-            "stars": 0,
-            "forks": 0,
-            "score": 30
-        },
-        {
             "main_cat": "AI",
             "sub_cat": "AI General",
             "name": "librarian-mcp",
@@ -706,5 +684,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-08-16 23:13"
+    "timestamp": "2026-08-17 00:52"
 };
