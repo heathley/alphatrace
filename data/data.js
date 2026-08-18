@@ -18,8 +18,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "yetone/cumora",
             "description": "Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates \u2014 with cloud or bring-your-own (Claude Code / Codex) brains.",
             "url": "https://github.com/yetone/cumora",
-            "stars": 1689,
-            "forks": 184,
+            "stars": 1756,
+            "forks": 191,
             "score": 99
         },
         {
@@ -29,7 +29,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "eternityspring/shuohao-skills",
             "description": "AI \u77ed\u5267\u5236\u4f5c\u7684 skill \u96c6\u5408\uff1a\u62c6\u89d2\u8272\u3001\u6392\u5927\u7eb2\u3001\u51fa\u573a\u666f\u4e0e\u9053\u5177\u8bbe\u5b9a\u3001\u5199\u5267\u672c\u3001\u5207\u5206\u955c | Agent skills for AI short-drama production \u2014 character bibles, adaptation outlines, art bibles, screenplays, storyboards. Runs in Claude Code & codex.",
             "url": "https://github.com/eternityspring/shuohao-skills",
-            "stars": 1656,
+            "stars": 1657,
             "forks": 199,
             "score": 99
         },
@@ -40,8 +40,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "Binaryify/open-kimi-ppt-skill",
             "description": "\u975e\u5b98\u65b9 Kimi Slides Skill\uff1a\u8ba9 AI Agent \u751f\u6210\u53ef\u7f16\u8f91 PPTD + PPTX\uff0c\u5e76\u9644\u5e26\u672c\u5730\u6d4f\u89c8\u5668\u7f16\u8f91\u5668 Unofficial Kimi Slides skill for AI agents \u2014 generate editable PPTD + PPTX with a local browser editor",
             "url": "https://github.com/Binaryify/open-kimi-ppt-skill",
-            "stars": 1603,
-            "forks": 1226,
+            "stars": 1602,
+            "forks": 1227,
             "score": 99
         },
         {
@@ -51,7 +51,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "xinxinshuhao-create/grok-register",
             "description": "Automated account registration toolkit for x.ai (Grok) with SSO extraction, OAuth Device Flow, and auto-replenish daemon",
             "url": "https://github.com/xinxinshuhao-create/grok-register",
-            "stars": 451,
+            "stars": 452,
             "forks": 114,
             "score": 86
         },
@@ -84,7 +84,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "decionis/agent-safe-pipeline",
             "description": "Reference architecture for AI agents that propose actions but cannot authorize them \u2014 immutable intent capture, an independent Decionis policy verdict (ALLOW/ESCALATE/BLOCK), verified human approval, and a SafeExecutor that consumes a single-use intent-bound grant.",
             "url": "https://github.com/decionis/agent-safe-pipeline",
-            "stars": 518,
+            "stars": 522,
             "forks": 58,
             "score": 83
         },
@@ -106,9 +106,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "jeremy-prt/bloub",
             "description": "SVG recreation of the x.ai bot avatar. One shape morphing through 14 states, measured off the reference video frame by frame.",
             "url": "https://github.com/jeremy-prt/bloub",
-            "stars": 268,
+            "stars": 274,
             "forks": 25,
-            "score": 66
+            "score": 67
         },
         {
             "main_cat": "AI",
@@ -117,7 +117,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "lexmount/moli",
             "description": "Best browser for AI agents, built in Rust.",
             "url": "https://github.com/lexmount/moli",
-            "stars": 488,
+            "stars": 492,
             "forks": 30,
             "score": 60
         },
@@ -128,7 +128,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "fufankeji/deepseek-harness-studio",
             "description": "DeepSeek Harness \u96f6\u4ee3\u7801\u684c\u9762\u7aef\uff5c\u4e00\u952e\u542f\u52a8\uff0c\u652f\u6301 Windows \u4e0e macOS\uff1b\u5185\u7f6e\u63d2\u4ef6\u53d1\u73b0\u3001\u70ed\u70b9\u63d2\u4ef6\u63a8\u9001\u3001\u4e00\u952e\u5b89\u88c5\u4e0e\u7ba1\u7406\u3001AI \u667a\u80fd\u63a8\u8350\u548c\u89c6\u89c9\u589e\u5f3a\u3002",
             "url": "https://github.com/fufankeji/deepseek-harness-studio",
-            "stars": 251,
+            "stars": 252,
             "forks": 28,
             "score": 60
         },
@@ -139,7 +139,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "vibeinging/deepseek-harness-desktop-app",
             "description": "DeepSeek Harness Desktop App: a local AI desktop workspace for DSH Sessions, projects, files, web research, plugins, and Office artifacts.",
             "url": "https://github.com/vibeinging/deepseek-harness-desktop-app",
-            "stars": 390,
+            "stars": 391,
             "forks": 6,
             "score": 59
         },
@@ -205,7 +205,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "miqdadbadjuber/anti-slop",
             "description": "Design rules to stop AI coding agents from generating generic \"AI slop\" UI.",
             "url": "https://github.com/miqdadbadjuber/anti-slop",
-            "stars": 329,
+            "stars": 331,
             "forks": 30,
             "score": 47
         },
@@ -216,7 +216,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "pgrundev/pgbot",
             "description": "pgbot - Postgres intelligence for AI agents & apps",
             "url": "https://github.com/pgrundev/pgbot",
-            "stars": 217,
+            "stars": 222,
             "forks": 15,
             "score": 45
         },
@@ -315,7 +315,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "YINGLINGH/limioryn",
             "description": "Edge-cloud Multi-Agent execution framework for embodied intelligence, connecting AI agents to real devices with verifiable actuation and entropy-bounded recovery.",
             "url": "https://github.com/YINGLINGH/limioryn",
-            "stars": 191,
+            "stars": 192,
             "forks": 3,
             "score": 37
         },
@@ -350,17 +350,6 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/yangzc/ainote",
             "stars": 25,
             "forks": 3,
-            "score": 31
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "keys-SM121-Optimized-MiniMax-H3-Nvidia-Sol-Engine-Kijai-SolAttn_Triton-Single-DGX-Spark",
-            "full_name": "drowzeys/keys-SM121-Optimized-MiniMax-H3-Nvidia-Sol-Engine-Kijai-SolAttn_Triton-Single-DGX-Spark",
-            "description": "MiniMax-H3 33B audio+video DiT accelerated 1.54x on a single NVIDIA DGX Spark (GB10, sm_121): NVIDIA Sol-Engine FirstBlockCache + batched VAE decode ported to single-GPU ComfyUI, Sol-Attn patched for compute 12.1, kijai Triton INT8/TMA kernels. Benchmarks, charts, one-shot installer, agent recipe.",
-            "url": "https://github.com/drowzeys/keys-SM121-Optimized-MiniMax-H3-Nvidia-Sol-Engine-Kijai-SolAttn_Triton-Single-DGX-Spark",
-            "stars": 27,
-            "forks": 1,
             "score": 31
         },
         {
@@ -437,6 +426,17 @@ const ALPHA_DATA_V2 = {
             "description": "Pisces is a practical cryptography-based RAG framework that protects both user queries and knowledge-base documents while supporting semantic and lexical retrieval. It combines private coarse-to-fine semantic search with multi-instance labeled PSI for BM25, achieving accuracy within 1.87% of plaintext baselines.",
             "url": "https://github.com/ant-intl/Pisces",
             "stars": 9,
+            "forks": 1,
+            "score": 30
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "keys-SM121-Optimized-MiniMax-H3-Nvidia-Sol-Engine-Kijai-SolAttn_Triton-Single-DGX-Spark",
+            "full_name": "drowzeys/keys-SM121-Optimized-MiniMax-H3-Nvidia-Sol-Engine-Kijai-SolAttn_Triton-Single-DGX-Spark",
+            "description": "MiniMax-H3 33B audio+video DiT accelerated 1.54x on a single NVIDIA DGX Spark (GB10, sm_121): NVIDIA Sol-Engine FirstBlockCache + batched VAE decode ported to single-GPU ComfyUI, Sol-Attn patched for compute 12.1, kijai Triton INT8/TMA kernels. Benchmarks, charts, one-shot installer, agent recipe.",
+            "url": "https://github.com/drowzeys/keys-SM121-Optimized-MiniMax-H3-Nvidia-Sol-Engine-Kijai-SolAttn_Triton-Single-DGX-Spark",
+            "stars": 27,
             "forks": 1,
             "score": 30
         },
@@ -619,6 +619,17 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
+            "name": "vowFi",
+            "full_name": "noasacrypto/vowFi",
+            "description": "VowFi - Cross-chain escrow protocol for conditional token transfers",
+            "url": "https://github.com/noasacrypto/vowFi",
+            "stars": 0,
+            "forks": 0,
+            "score": 30
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
             "name": "Nexora",
             "full_name": "krit-k7/Nexora",
             "description": "Nexora is a zero-trust cross-chain protocol that verifies and automates blockchain logic with cryptographic certainty. Secured by Stellar and autonomous SNARK batching, it eliminates centralized intermediaries for reliable cross-chain verification.",
@@ -684,5 +695,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-08-18 04:28"
+    "timestamp": "2026-08-18 05:21"
 };
