@@ -7,7 +7,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "KKKKhazix/human-writing",
             "description": "\u8ba9 AI \u5199\u7684\u4e2d\u6587\u8bfb\u8d77\u6765\u50cf\u4e00\u4e2a\u5177\u4f53\u7684\u4eba\u5728\u8bf4\u8bdd\u3002\u901a\u7528\u521b\u4f5c\u4e0e\u6539\u7a3f Skill\uff0c\u5f00\u7bb1\u5373\u7528\u3002",
             "url": "https://github.com/KKKKhazix/human-writing",
-            "stars": 2827,
+            "stars": 2830,
             "forks": 234,
             "score": 99
         },
@@ -18,8 +18,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "yetone/cumora",
             "description": "Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates \u2014 with cloud or bring-your-own (Claude Code / Codex) brains.",
             "url": "https://github.com/yetone/cumora",
-            "stars": 1967,
-            "forks": 211,
+            "stars": 1995,
+            "forks": 215,
             "score": 99
         },
         {
@@ -29,7 +29,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "eternityspring/shuohao-skills",
             "description": "AI \u77ed\u5267\u5236\u4f5c\u7684 skill \u96c6\u5408\uff1a\u62c6\u89d2\u8272\u3001\u6392\u5927\u7eb2\u3001\u51fa\u573a\u666f\u4e0e\u9053\u5177\u8bbe\u5b9a\u3001\u5199\u5267\u672c\u3001\u5207\u5206\u955c | Agent skills for AI short-drama production \u2014 character bibles, adaptation outlines, art bibles, screenplays, storyboards. Runs in Claude Code & codex.",
             "url": "https://github.com/eternityspring/shuohao-skills",
-            "stars": 1665,
+            "stars": 1671,
             "forks": 201,
             "score": 99
         },
@@ -62,7 +62,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "DrHazemAli/enterprise-system-design",
             "description": "A source-grounded course & reference for engineers designing systems that must survive real traffic, partial failure, security review, and changing requirements, spanning enterprise system design, distributed systems, AI systems, cybersecurity, reliability, cloud, HPC, edge, and mission-critical infrastructure.",
             "url": "https://github.com/DrHazemAli/enterprise-system-design",
-            "stars": 545,
+            "stars": 546,
             "forks": 113,
             "score": 85
         },
@@ -95,9 +95,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "mewamew/my_ai_town",
             "description": "\u6211\u7684AI\u5c0f\u9547",
             "url": "https://github.com/mewamew/my_ai_town",
-            "stars": 598,
-            "forks": 130,
-            "score": 69
+            "stars": 602,
+            "forks": 132,
+            "score": 70
         },
         {
             "main_cat": "AI",
@@ -106,9 +106,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "jeremy-prt/bloub",
             "description": "SVG recreation of the x.ai bot avatar. One shape morphing through 14 states, measured off the reference video frame by frame.",
             "url": "https://github.com/jeremy-prt/bloub",
-            "stars": 291,
+            "stars": 297,
             "forks": 26,
-            "score": 69
+            "score": 70
         },
         {
             "main_cat": "AI",
@@ -128,7 +128,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "fufankeji/deepseek-harness-studio",
             "description": "DeepSeek Harness \u96f6\u4ee3\u7801\u684c\u9762\u7aef\uff5c\u4e00\u952e\u542f\u52a8\uff0c\u652f\u6301 Windows \u4e0e macOS\uff1b\u5185\u7f6e\u63d2\u4ef6\u53d1\u73b0\u3001\u70ed\u70b9\u63d2\u4ef6\u63a8\u9001\u3001\u4e00\u952e\u5b89\u88c5\u4e0e\u7ba1\u7406\u3001AI \u667a\u80fd\u63a8\u8350\u548c\u89c6\u89c9\u589e\u5f3a\u3002",
             "url": "https://github.com/fufankeji/deepseek-harness-studio",
-            "stars": 264,
+            "stars": 267,
             "forks": 28,
             "score": 61
         },
@@ -139,7 +139,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "vibeinging/deepseek-harness-desktop-app",
             "description": "DeepSeek Harness Desktop App: a local AI desktop workspace for DSH Sessions, projects, files, web research, plugins, and Office artifacts.",
             "url": "https://github.com/vibeinging/deepseek-harness-desktop-app",
-            "stars": 393,
+            "stars": 392,
             "forks": 6,
             "score": 59
         },
@@ -161,7 +161,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "jaredrhod/barehands",
             "description": "Move things on your screen with your bare hands. A webcam-powered, hand-tracked interface for your AI. No headset. No controllers.",
             "url": "https://github.com/jaredrhod/barehands",
-            "stars": 198,
+            "stars": 203,
             "forks": 33,
             "score": 57
         },
@@ -194,7 +194,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "MkThingsHQ/mkdirs",
             "description": "Open-source AI-powered directory website template built with Next.js",
             "url": "https://github.com/MkThingsHQ/mkdirs",
-            "stars": 235,
+            "stars": 236,
             "forks": 67,
             "score": 52
         },
@@ -205,7 +205,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "OpenSparX/MasterAgent",
             "description": "Build AI agents that run 100% on-device. Sub-100ms latency on Qualcomm NPU. Zero cloud dependency.",
             "url": "https://github.com/OpenSparX/MasterAgent",
-            "stars": 344,
+            "stars": 343,
             "forks": 17,
             "score": 50
         },
@@ -227,7 +227,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "pgrundev/pgbot",
             "description": "pgbot - Postgres intelligence for AI agents & apps",
             "url": "https://github.com/pgrundev/pgbot",
-            "stars": 235,
+            "stars": 236,
             "forks": 15,
             "score": 46
         },
@@ -238,7 +238,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "JohnKinyanjui/sprite-maker",
             "description": "An open source ai sprite maker",
             "url": "https://github.com/JohnKinyanjui/sprite-maker",
-            "stars": 219,
+            "stars": 220,
             "forks": 32,
             "score": 45
         },
@@ -271,7 +271,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "jundizhou/easy-stock",
             "description": "A \u80a1\u884c\u60c5\u5206\u6790\u4e0eAI\u667a\u80fd\u6295\u7814\u667a\u80fd\u4f53\u2014\u2014easy stock",
             "url": "https://github.com/jundizhou/easy-stock",
-            "stars": 274,
+            "stars": 275,
             "forks": 5,
             "score": 41
         },
@@ -282,7 +282,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "surya-koritala/loomfeed",
             "description": "The open-source Reddit alternative built for AI agents and humans \u2014 provenance tracking, reputation, epistemic status labels, and agent debates. Self-host with docker compose.",
             "url": "https://github.com/surya-koritala/loomfeed",
-            "stars": 223,
+            "stars": 222,
             "forks": 5,
             "score": 41
         },
@@ -304,7 +304,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "2998980-hue/surreal-pop-collage",
             "description": "\u628a\u7167\u7247\u53d8\u6210\u8d85\u73b0\u5b9e\u6ce2\u666e\u62fc\u8d34\u7684 AI agent skill\uff1a\u9ed1\u767d\u73b0\u5b9e\u951a\u70b9 + \u5e73\u6d82\u8272\u5f62 + \u5168\u56fe\u53ea\u6709\u4e00\u4e2a\u4e0d\u53ef\u80fd\u7684\u5de8\u7269\u3002An agent skill that turns photos into surreal pop collages.",
             "url": "https://github.com/2998980-hue/surreal-pop-collage",
-            "stars": 205,
+            "stars": 206,
             "forks": 10,
             "score": 40
         },
@@ -315,7 +315,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "YINGLINGH/limioryn",
             "description": "Edge-cloud Multi-Agent execution framework for embodied intelligence, connecting AI agents to real devices with verifiable actuation and entropy-bounded recovery.",
             "url": "https://github.com/YINGLINGH/limioryn",
-            "stars": 194,
+            "stars": 195,
             "forks": 3,
             "score": 37
         },
@@ -337,9 +337,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "amitshekhariitbhu/llm-inference-engineering",
             "description": "Learn LLM Inference Engineering step by step - from KV cache, PagedAttention, and continuous batching to vLLM, SGLang, and GPUs.",
             "url": "https://github.com/amitshekhariitbhu/llm-inference-engineering",
-            "stars": 25,
+            "stars": 29,
             "forks": 2,
-            "score": 35
+            "score": 36
         },
         {
             "main_cat": "AI",
@@ -706,5 +706,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-08-18 08:27"
+    "timestamp": "2026-08-18 09:25"
 };
