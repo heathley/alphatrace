@@ -14,23 +14,23 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "shuohao-skills",
-            "full_name": "eternityspring/shuohao-skills",
-            "description": "AI \u77ed\u5267\u5236\u4f5c\u7684 skill \u96c6\u5408\uff1a\u62c6\u89d2\u8272\u3001\u6392\u5927\u7eb2\u3001\u51fa\u573a\u666f\u4e0e\u9053\u5177\u8bbe\u5b9a\u3001\u5199\u5267\u672c\u3001\u5207\u5206\u955c | Agent skills for AI short-drama production \u2014 character bibles, adaptation outlines, art bibles, screenplays, storyboards. Runs in Claude Code & codex.",
-            "url": "https://github.com/eternityspring/shuohao-skills",
-            "stars": 1656,
-            "forks": 197,
+            "name": "cumora",
+            "full_name": "yetone/cumora",
+            "description": "Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates \u2014 with cloud or bring-your-own (Claude Code / Codex) brains.",
+            "url": "https://github.com/yetone/cumora",
+            "stars": 1689,
+            "forks": 184,
             "score": 99
         },
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "cumora",
-            "full_name": "yetone/cumora",
-            "description": "Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates \u2014 with cloud or bring-your-own (Claude Code / Codex) brains.",
-            "url": "https://github.com/yetone/cumora",
-            "stars": 1621,
-            "forks": 178,
+            "name": "shuohao-skills",
+            "full_name": "eternityspring/shuohao-skills",
+            "description": "AI \u77ed\u5267\u5236\u4f5c\u7684 skill \u96c6\u5408\uff1a\u62c6\u89d2\u8272\u3001\u6392\u5927\u7eb2\u3001\u51fa\u573a\u666f\u4e0e\u9053\u5177\u8bbe\u5b9a\u3001\u5199\u5267\u672c\u3001\u5207\u5206\u955c | Agent skills for AI short-drama production \u2014 character bibles, adaptation outlines, art bibles, screenplays, storyboards. Runs in Claude Code & codex.",
+            "url": "https://github.com/eternityspring/shuohao-skills",
+            "stars": 1656,
+            "forks": 199,
             "score": 99
         },
         {
@@ -47,24 +47,24 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
+            "name": "grok-register",
+            "full_name": "xinxinshuhao-create/grok-register",
+            "description": "Automated account registration toolkit for x.ai (Grok) with SSO extraction, OAuth Device Flow, and auto-replenish daemon",
+            "url": "https://github.com/xinxinshuhao-create/grok-register",
+            "stars": 451,
+            "forks": 114,
+            "score": 86
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
             "name": "enterprise-system-design",
             "full_name": "DrHazemAli/enterprise-system-design",
             "description": "A source-grounded course & reference for engineers designing systems that must survive real traffic, partial failure, security review, and changing requirements, spanning enterprise system design, distributed systems, AI systems, cybersecurity, reliability, cloud, HPC, edge, and mission-critical infrastructure.",
             "url": "https://github.com/DrHazemAli/enterprise-system-design",
             "stars": 544,
             "forks": 113,
-            "score": 92
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "grok-register",
-            "full_name": "xinxinshuhao-create/grok-register",
-            "description": "Automated account registration toolkit for x.ai (Grok) with SSO extraction, OAuth Device Flow, and auto-replenish daemon",
-            "url": "https://github.com/xinxinshuhao-create/grok-register",
-            "stars": 450,
-            "forks": 114,
-            "score": 86
+            "score": 85
         },
         {
             "main_cat": "AI",
@@ -73,7 +73,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "shadcn-ui/chatbot-template",
             "description": "A minimal chatbot template built with Next.js, AI SDK, shadcn/ui, shadcn/react, shadcn/typeset. It runs on the Vercel AI Gateway.",
             "url": "https://github.com/shadcn-ui/chatbot-template",
-            "stars": 717,
+            "stars": 718,
             "forks": 65,
             "score": 84
         },
@@ -84,7 +84,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "decionis/agent-safe-pipeline",
             "description": "Reference architecture for AI agents that propose actions but cannot authorize them \u2014 immutable intent capture, an independent Decionis policy verdict (ALLOW/ESCALATE/BLOCK), verified human approval, and a SafeExecutor that consumes a single-use intent-bound grant.",
             "url": "https://github.com/decionis/agent-safe-pipeline",
-            "stars": 517,
+            "stars": 518,
             "forks": 58,
             "score": 83
         },
@@ -106,7 +106,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "jeremy-prt/bloub",
             "description": "SVG recreation of the x.ai bot avatar. One shape morphing through 14 states, measured off the reference video frame by frame.",
             "url": "https://github.com/jeremy-prt/bloub",
-            "stars": 264,
+            "stars": 268,
             "forks": 25,
             "score": 66
         },
@@ -117,7 +117,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "lexmount/moli",
             "description": "Best browser for AI agents, built in Rust.",
             "url": "https://github.com/lexmount/moli",
-            "stars": 486,
+            "stars": 488,
             "forks": 30,
             "score": 60
         },
@@ -128,7 +128,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "fufankeji/deepseek-harness-studio",
             "description": "DeepSeek Harness \u96f6\u4ee3\u7801\u684c\u9762\u7aef\uff5c\u4e00\u952e\u542f\u52a8\uff0c\u652f\u6301 Windows \u4e0e macOS\uff1b\u5185\u7f6e\u63d2\u4ef6\u53d1\u73b0\u3001\u70ed\u70b9\u63d2\u4ef6\u63a8\u9001\u3001\u4e00\u952e\u5b89\u88c5\u4e0e\u7ba1\u7406\u3001AI \u667a\u80fd\u63a8\u8350\u548c\u89c6\u89c9\u589e\u5f3a\u3002",
             "url": "https://github.com/fufankeji/deepseek-harness-studio",
-            "stars": 248,
+            "stars": 251,
             "forks": 28,
             "score": 60
         },
@@ -140,7 +140,7 @@ const ALPHA_DATA_V2 = {
             "description": "DeepSeek Harness Desktop App: a local AI desktop workspace for DSH Sessions, projects, files, web research, plugins, and Office artifacts.",
             "url": "https://github.com/vibeinging/deepseek-harness-desktop-app",
             "stars": 390,
-            "forks": 4,
+            "forks": 6,
             "score": 59
         },
         {
@@ -206,8 +206,19 @@ const ALPHA_DATA_V2 = {
             "description": "Design rules to stop AI coding agents from generating generic \"AI slop\" UI.",
             "url": "https://github.com/miqdadbadjuber/anti-slop",
             "stars": 329,
-            "forks": 29,
+            "forks": 30,
             "score": 47
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "pgbot",
+            "full_name": "pgrundev/pgbot",
+            "description": "pgbot - Postgres intelligence for AI agents & apps",
+            "url": "https://github.com/pgrundev/pgbot",
+            "stars": 217,
+            "forks": 15,
+            "score": 45
         },
         {
             "main_cat": "AI",
@@ -217,18 +228,7 @@ const ALPHA_DATA_V2 = {
             "description": "An open source ai sprite maker",
             "url": "https://github.com/JohnKinyanjui/sprite-maker",
             "stars": 217,
-            "forks": 31,
-            "score": 45
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "pgbot",
-            "full_name": "pgrundev/pgbot",
-            "description": "pgbot - Postgres intelligence for AI agents & apps",
-            "url": "https://github.com/pgrundev/pgbot",
-            "stars": 216,
-            "forks": 14,
+            "forks": 32,
             "score": 45
         },
         {
@@ -250,7 +250,7 @@ const ALPHA_DATA_V2 = {
             "description": "An OKF-backed Model Context Protocol (MCP) server delivering persistent long-term memory and SQLite FTS5 search for AI agents.",
             "url": "https://github.com/fellowgeek/mcp-memory",
             "stars": 184,
-            "forks": 10,
+            "forks": 11,
             "score": 44
         },
         {
@@ -350,17 +350,6 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/yangzc/ainote",
             "stars": 25,
             "forks": 3,
-            "score": 31
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "growmos",
-            "full_name": "codician-team/growmos",
-            "description": "\ud83e\ude90 Growmos: A new approach to agentic AI\u2014a living system expanding its knowledge like the universe, compounding its capabilities, and getting more work done with fewer tokens.",
-            "url": "https://github.com/codician-team/growmos",
-            "stars": 6,
-            "forks": 0,
             "score": 31
         },
         {
@@ -695,5 +684,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-08-18 03:38"
+    "timestamp": "2026-08-18 04:28"
 };
