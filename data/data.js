@@ -18,7 +18,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "yetone/cumora",
             "description": "Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates \u2014 with cloud or bring-your-own (Claude Code / Codex) brains.",
             "url": "https://github.com/yetone/cumora",
-            "stars": 2339,
+            "stars": 2341,
             "forks": 259,
             "score": 99
         },
@@ -58,17 +58,6 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "agent-safe-pipeline",
-            "full_name": "decionis/agent-safe-pipeline",
-            "description": "Reference architecture for AI agents that propose actions but cannot authorize them \u2014 immutable intent capture, an independent Decionis policy verdict (ALLOW/ESCALATE/BLOCK), verified human approval, and a SafeExecutor that consumes a single-use intent-bound grant.",
-            "url": "https://github.com/decionis/agent-safe-pipeline",
-            "stars": 532,
-            "forks": 58,
-            "score": 84
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
             "name": "grok-register",
             "full_name": "xinxinshuhao-create/grok-register",
             "description": "Automated account registration toolkit for x.ai (Grok) with SSO extraction, OAuth Device Flow, and auto-replenish daemon",
@@ -91,13 +80,24 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
+            "name": "agent-safe-pipeline",
+            "full_name": "decionis/agent-safe-pipeline",
+            "description": "Reference architecture for AI agents that propose actions but cannot authorize them \u2014 immutable intent capture, an independent Decionis policy verdict (ALLOW/ESCALATE/BLOCK), verified human approval, and a SafeExecutor that consumes a single-use intent-bound grant.",
+            "url": "https://github.com/decionis/agent-safe-pipeline",
+            "stars": 532,
+            "forks": 58,
+            "score": 77
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
             "name": "bloub",
             "full_name": "jeremy-prt/bloub",
             "description": "SVG recreation of the x.ai bot avatar. One shape morphing through 14 states, measured off the reference video frame by frame.",
             "url": "https://github.com/jeremy-prt/bloub",
-            "stars": 385,
-            "forks": 36,
-            "score": 74
+            "stars": 390,
+            "forks": 40,
+            "score": 75
         },
         {
             "main_cat": "AI",
@@ -117,9 +117,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "jaredrhod/barehands",
             "description": "Move things on your screen with your bare hands. A webcam-powered, hand-tracked interface for your AI. No headset. No controllers.",
             "url": "https://github.com/jaredrhod/barehands",
-            "stars": 268,
-            "forks": 48,
-            "score": 68
+            "stars": 274,
+            "forks": 51,
+            "score": 69
         },
         {
             "main_cat": "AI",
@@ -139,7 +139,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "lexmount/moli",
             "description": "Best headless browser for AI agents. Lite, Fast, High-Compatibility. Built in Rust",
             "url": "https://github.com/lexmount/moli",
-            "stars": 562,
+            "stars": 564,
             "forks": 37,
             "score": 62
         },
@@ -178,6 +178,17 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "llm-inference-engineering",
+            "full_name": "amitshekhariitbhu/llm-inference-engineering",
+            "description": "Learn LLM Inference Engineering step by step - from KV cache, PagedAttention, and continuous batching to vLLM, SGLang, and GPUs.",
+            "url": "https://github.com/amitshekhariitbhu/llm-inference-engineering",
+            "stars": 95,
+            "forks": 11,
+            "score": 53
+        },
+        {
+            "main_cat": "AI",
             "sub_cat": null,
             "name": "mkdirs",
             "full_name": "MkThingsHQ/mkdirs",
@@ -185,17 +196,6 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/MkThingsHQ/mkdirs",
             "stars": 238,
             "forks": 67,
-            "score": 51
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "llm-inference-engineering",
-            "full_name": "amitshekhariitbhu/llm-inference-engineering",
-            "description": "Learn LLM Inference Engineering step by step - from KV cache, PagedAttention, and continuous batching to vLLM, SGLang, and GPUs.",
-            "url": "https://github.com/amitshekhariitbhu/llm-inference-engineering",
-            "stars": 92,
-            "forks": 9,
             "score": 51
         },
         {
@@ -315,9 +315,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "forbiddeneldergirder/kimi-ai-peak",
             "description": "Kimi AI Peak",
             "url": "https://github.com/forbiddeneldergirder/kimi-ai-peak",
-            "stars": 218,
+            "stars": 241,
             "forks": 0,
-            "score": 37
+            "score": 38
         },
         {
             "main_cat": "AI",
@@ -326,7 +326,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Blacktrupersist/hailuo-ai-pulse",
             "description": "Hailuo AI Pulse",
             "url": "https://github.com/Blacktrupersist/hailuo-ai-pulse",
-            "stars": 213,
+            "stars": 236,
             "forks": 0,
             "score": 37
         },
@@ -350,17 +350,6 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/neilthomas89440-crypto/inferna-next",
             "stars": 30,
             "forks": 0,
-            "score": 32
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "mainarch",
-            "full_name": "MaincodeHQ/mainarch",
-            "description": "A from-scratch Rust inference stack for AMD GPUs that talks straight to the Linux kernel driver. No ROCm, HIP, or HSA runtime. Serves OLMo 2 on MI355X.",
-            "url": "https://github.com/MaincodeHQ/mainarch",
-            "stars": 17,
-            "forks": 2,
             "score": 32
         },
         {
@@ -662,5 +651,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-08-18 21:16"
+    "timestamp": "2026-08-18 22:15"
 };
