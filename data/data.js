@@ -18,8 +18,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "yetone/cumora",
             "description": "Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates \u2014 with cloud or bring-your-own (Claude Code / Codex) brains.",
             "url": "https://github.com/yetone/cumora",
-            "stars": 2314,
-            "forks": 255,
+            "stars": 2325,
+            "forks": 258,
             "score": 99
         },
         {
@@ -51,7 +51,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "DrHazemAli/enterprise-system-design",
             "description": "A source-grounded course & reference for engineers designing systems that must survive real traffic, partial failure, security review, and changing requirements, spanning enterprise system design, distributed systems, AI systems, cybersecurity, reliability, cloud, HPC, edge, and mission-critical infrastructure.",
             "url": "https://github.com/DrHazemAli/enterprise-system-design",
-            "stars": 550,
+            "stars": 551,
             "forks": 114,
             "score": 85
         },
@@ -95,9 +95,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "jeremy-prt/bloub",
             "description": "SVG recreation of the x.ai bot avatar. One shape morphing through 14 states, measured off the reference video frame by frame.",
             "url": "https://github.com/jeremy-prt/bloub",
-            "stars": 372,
-            "forks": 35,
-            "score": 72
+            "stars": 377,
+            "forks": 36,
+            "score": 73
         },
         {
             "main_cat": "AI",
@@ -106,9 +106,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "mewamew/my_ai_town",
             "description": "\u6211\u7684AI\u5c0f\u9547",
             "url": "https://github.com/mewamew/my_ai_town",
-            "stars": 604,
+            "stars": 605,
             "forks": 134,
             "score": 70
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "barehands",
+            "full_name": "jaredrhod/barehands",
+            "description": "Move things on your screen with your bare hands. A webcam-powered, hand-tracked interface for your AI. No headset. No controllers.",
+            "url": "https://github.com/jaredrhod/barehands",
+            "stars": 252,
+            "forks": 43,
+            "score": 65
         },
         {
             "main_cat": "AI",
@@ -124,23 +135,12 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "barehands",
-            "full_name": "jaredrhod/barehands",
-            "description": "Move things on your screen with your bare hands. A webcam-powered, hand-tracked interface for your AI. No headset. No controllers.",
-            "url": "https://github.com/jaredrhod/barehands",
-            "stars": 243,
-            "forks": 43,
-            "score": 64
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
             "name": "moli",
             "full_name": "lexmount/moli",
             "description": "Best headless browser for AI agents. Lite, Fast, High-Compatibility. Built in Rust",
             "url": "https://github.com/lexmount/moli",
-            "stars": 551,
-            "forks": 34,
+            "stars": 559,
+            "forks": 36,
             "score": 61
         },
         {
@@ -150,7 +150,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "vibeinging/deepseek-harness-desktop-app",
             "description": "DeepSeek Harness Desktop App: a local AI desktop workspace for DSH Sessions, projects, files, web research, plugins, and Office artifacts.",
             "url": "https://github.com/vibeinging/deepseek-harness-desktop-app",
-            "stars": 394,
+            "stars": 395,
             "forks": 7,
             "score": 56
         },
@@ -200,6 +200,17 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "llm-inference-engineering",
+            "full_name": "amitshekhariitbhu/llm-inference-engineering",
+            "description": "Learn LLM Inference Engineering step by step - from KV cache, PagedAttention, and continuous batching to vLLM, SGLang, and GPUs.",
+            "url": "https://github.com/amitshekhariitbhu/llm-inference-engineering",
+            "stars": 84,
+            "forks": 8,
+            "score": 49
+        },
+        {
+            "main_cat": "AI",
             "sub_cat": null,
             "name": "MasterAgent",
             "full_name": "OpenSparX/MasterAgent",
@@ -207,7 +218,7 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/OpenSparX/MasterAgent",
             "stars": 344,
             "forks": 17,
-            "score": 50
+            "score": 48
         },
         {
             "main_cat": "AI",
@@ -216,19 +227,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "pgrundev/pgbot",
             "description": "pgbot - Postgres intelligence for AI agents & apps",
             "url": "https://github.com/pgrundev/pgbot",
-            "stars": 260,
+            "stars": 261,
             "forks": 16,
-            "score": 48
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "llm-inference-engineering",
-            "full_name": "amitshekhariitbhu/llm-inference-engineering",
-            "description": "Learn LLM Inference Engineering step by step - from KV cache, PagedAttention, and continuous batching to vLLM, SGLang, and GPUs.",
-            "url": "https://github.com/amitshekhariitbhu/llm-inference-engineering",
-            "stars": 77,
-            "forks": 8,
             "score": 48
         },
         {
@@ -238,7 +238,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "miqdadbadjuber/anti-slop",
             "description": "Design rules to stop AI coding agents from generating generic \"AI slop\" UI.",
             "url": "https://github.com/miqdadbadjuber/anti-slop",
-            "stars": 353,
+            "stars": 355,
             "forks": 33,
             "score": 47
         },
@@ -282,7 +282,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "jundizhou/easy-stock",
             "description": "A \u80a1\u884c\u60c5\u5206\u6790\u4e0eAI\u667a\u80fd\u6295\u7814\u667a\u80fd\u4f53\u2014\u2014easy stock",
             "url": "https://github.com/jundizhou/easy-stock",
-            "stars": 289,
+            "stars": 290,
             "forks": 5,
             "score": 41
         },
@@ -300,23 +300,23 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "Noobi.ai",
-            "full_name": "Innate-Labs/Noobi.ai",
-            "description": "Noobi.ai \u2014 desktop AI game-production workbench with Skills and MCP.",
-            "url": "https://github.com/Innate-Labs/Noobi.ai",
-            "stars": 211,
-            "forks": 6,
-            "score": 40
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
             "name": "surreal-pop-collage",
             "full_name": "2998980-hue/surreal-pop-collage",
             "description": "\u628a\u7167\u7247\u53d8\u6210\u8d85\u73b0\u5b9e\u6ce2\u666e\u62fc\u8d34\u7684 AI agent skill\uff1a\u9ed1\u767d\u73b0\u5b9e\u951a\u70b9 + \u5e73\u6d82\u8272\u5f62 + \u5168\u56fe\u53ea\u6709\u4e00\u4e2a\u4e0d\u53ef\u80fd\u7684\u5de8\u7269\u3002An agent skill that turns photos into surreal pop collages.",
             "url": "https://github.com/2998980-hue/surreal-pop-collage",
             "stars": 214,
             "forks": 10,
+            "score": 39
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "Noobi.ai",
+            "full_name": "Innate-Labs/Noobi.ai",
+            "description": "Noobi.ai \u2014 desktop AI game-production workbench with Skills and MCP.",
+            "url": "https://github.com/Innate-Labs/Noobi.ai",
+            "stars": 211,
+            "forks": 6,
             "score": 39
         },
         {
@@ -662,5 +662,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-08-18 18:27"
+    "timestamp": "2026-08-18 19:22"
 };
