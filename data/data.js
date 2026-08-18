@@ -7,7 +7,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "KKKKhazix/human-writing",
             "description": "\u8ba9 AI \u5199\u7684\u4e2d\u6587\u8bfb\u8d77\u6765\u50cf\u4e00\u4e2a\u5177\u4f53\u7684\u4eba\u5728\u8bf4\u8bdd\u3002\u901a\u7528\u521b\u4f5c\u4e0e\u6539\u7a3f Skill\uff0c\u5f00\u7bb1\u5373\u7528\u3002",
             "url": "https://github.com/KKKKhazix/human-writing",
-            "stars": 2816,
+            "stars": 2819,
             "forks": 233,
             "score": 99
         },
@@ -18,8 +18,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "eternityspring/shuohao-skills",
             "description": "AI \u77ed\u5267\u5236\u4f5c\u7684 skill \u96c6\u5408\uff1a\u62c6\u89d2\u8272\u3001\u6392\u5927\u7eb2\u3001\u51fa\u573a\u666f\u4e0e\u9053\u5177\u8bbe\u5b9a\u3001\u5199\u5267\u672c\u3001\u5207\u5206\u955c | Agent skills for AI short-drama production \u2014 character bibles, adaptation outlines, art bibles, screenplays, storyboards. Runs in Claude Code & codex.",
             "url": "https://github.com/eternityspring/shuohao-skills",
-            "stars": 1647,
-            "forks": 196,
+            "stars": 1651,
+            "forks": 197,
             "score": 99
         },
         {
@@ -30,7 +30,7 @@ const ALPHA_DATA_V2 = {
             "description": "\u975e\u5b98\u65b9 Kimi Slides Skill\uff1a\u8ba9 AI Agent \u751f\u6210\u53ef\u7f16\u8f91 PPTD + PPTX\uff0c\u5e76\u9644\u5e26\u672c\u5730\u6d4f\u89c8\u5668\u7f16\u8f91\u5668 Unofficial Kimi Slides skill for AI agents \u2014 generate editable PPTD + PPTX with a local browser editor",
             "url": "https://github.com/Binaryify/open-kimi-ppt-skill",
             "stars": 1603,
-            "forks": 1225,
+            "forks": 1226,
             "score": 99
         },
         {
@@ -40,8 +40,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "yetone/cumora",
             "description": "Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates \u2014 with cloud or bring-your-own (Claude Code / Codex) brains.",
             "url": "https://github.com/yetone/cumora",
-            "stars": 1202,
-            "forks": 134,
+            "stars": 1413,
+            "forks": 154,
             "score": 99
         },
         {
@@ -62,7 +62,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "xinxinshuhao-create/grok-register",
             "description": "Automated account registration toolkit for x.ai (Grok) with SSO extraction, OAuth Device Flow, and auto-replenish daemon",
             "url": "https://github.com/xinxinshuhao-create/grok-register",
-            "stars": 449,
+            "stars": 450,
             "forks": 114,
             "score": 86
         },
@@ -96,19 +96,8 @@ const ALPHA_DATA_V2 = {
             "description": "\u6211\u7684AI\u5c0f\u9547",
             "url": "https://github.com/mewamew/my_ai_town",
             "stars": 594,
-            "forks": 129,
+            "forks": 130,
             "score": 72
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "deepseek-harness-studio",
-            "full_name": "fufankeji/deepseek-harness-studio",
-            "description": "DeepSeek Harness \u96f6\u4ee3\u7801\u684c\u9762\u7aef\uff5c\u4e00\u952e\u542f\u52a8\uff0c\u652f\u6301 Windows \u4e0e macOS\uff1b\u5185\u7f6e\u63d2\u4ef6\u53d1\u73b0\u3001\u70ed\u70b9\u63d2\u4ef6\u63a8\u9001\u3001\u4e00\u952e\u5b89\u88c5\u4e0e\u7ba1\u7406\u3001AI \u667a\u80fd\u63a8\u8350\u548c\u89c6\u89c9\u589e\u5f3a\u3002",
-            "url": "https://github.com/fufankeji/deepseek-harness-studio",
-            "stars": 238,
-            "forks": 28,
-            "score": 65
         },
         {
             "main_cat": "AI",
@@ -117,9 +106,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "jeremy-prt/bloub",
             "description": "SVG recreation of the x.ai bot avatar. One shape morphing through 14 states, measured off the reference video frame by frame.",
             "url": "https://github.com/jeremy-prt/bloub",
-            "stars": 251,
+            "stars": 258,
             "forks": 24,
-            "score": 64
+            "score": 65
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "deepseek-harness-studio",
+            "full_name": "fufankeji/deepseek-harness-studio",
+            "description": "DeepSeek Harness \u96f6\u4ee3\u7801\u684c\u9762\u7aef\uff5c\u4e00\u952e\u542f\u52a8\uff0c\u652f\u6301 Windows \u4e0e macOS\uff1b\u5185\u7f6e\u63d2\u4ef6\u53d1\u73b0\u3001\u70ed\u70b9\u63d2\u4ef6\u63a8\u9001\u3001\u4e00\u952e\u5b89\u88c5\u4e0e\u7ba1\u7406\u3001AI \u667a\u80fd\u63a8\u8350\u548c\u89c6\u89c9\u589e\u5f3a\u3002",
+            "url": "https://github.com/fufankeji/deepseek-harness-studio",
+            "stars": 241,
+            "forks": 28,
+            "score": 65
         },
         {
             "main_cat": "AI",
@@ -128,7 +128,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "lexmount/moli",
             "description": "Best browser for AI agents, built in Rust.",
             "url": "https://github.com/lexmount/moli",
-            "stars": 472,
+            "stars": 481,
             "forks": 28,
             "score": 59
         },
@@ -139,9 +139,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "ryzqi/learn-agent",
             "description": "20 \u7ae0\u4e2d\u6587 AI Agent \u67b6\u6784\u5b9e\u6218\u6559\u7a0b\uff0c\u914d\u5957\u53ef\u8fd0\u884c TypeScript \u4ee3\u7801\uff0c\u8986\u76d6\u5de5\u5177\u3001\u6743\u9650\u3001\u8bb0\u5fc6\u3001\u591a Agent\u3001Worktree \u4e0e MCP\u3002",
             "url": "https://github.com/ryzqi/learn-agent",
-            "stars": 234,
-            "forks": 32,
-            "score": 55
+            "stars": 236,
+            "forks": 34,
+            "score": 56
         },
         {
             "main_cat": "AI",
@@ -150,9 +150,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "50kg/image-to-slice",
             "description": "AI \u62c6\u56fe\u3001\u88ab\u906e\u6321\u80cc\u666f\u8865\u9f50\u3001\u4eba\u5de5\u6821\u51c6\u3001\u5bfc\u5165\u53ef\u7f16\u8f91 Figma \u56fe\u5c42\u3001\u5bfc\u51fa HTML/CSS",
             "url": "https://github.com/50kg/image-to-slice",
-            "stars": 285,
-            "forks": 52,
-            "score": 54
+            "stars": 288,
+            "forks": 53,
+            "score": 55
         },
         {
             "main_cat": "AI",
@@ -184,7 +184,7 @@ const ALPHA_DATA_V2 = {
             "description": "Open-source AI-powered directory website template built with Next.js",
             "url": "https://github.com/MkThingsHQ/mkdirs",
             "stars": 232,
-            "forks": 67,
+            "forks": 68,
             "score": 52
         },
         {
@@ -205,9 +205,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "miqdadbadjuber/anti-slop",
             "description": "Design rules to stop AI coding agents from generating generic \"AI slop\" UI.",
             "url": "https://github.com/miqdadbadjuber/anti-slop",
-            "stars": 327,
+            "stars": 329,
             "forks": 29,
             "score": 47
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "sprite-maker",
+            "full_name": "JohnKinyanjui/sprite-maker",
+            "description": "An open source ai sprite maker",
+            "url": "https://github.com/JohnKinyanjui/sprite-maker",
+            "stars": 216,
+            "forks": 31,
+            "score": 45
         },
         {
             "main_cat": "AI",
@@ -218,28 +229,6 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/N-allpass/modex-mh-agent",
             "stars": 214,
             "forks": 0,
-            "score": 47
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "sprite-maker",
-            "full_name": "JohnKinyanjui/sprite-maker",
-            "description": "An open source ai sprite maker",
-            "url": "https://github.com/JohnKinyanjui/sprite-maker",
-            "stars": 213,
-            "forks": 31,
-            "score": 45
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI Agents",
-            "name": "mcp-memory",
-            "full_name": "fellowgeek/mcp-memory",
-            "description": "An OKF-backed Model Context Protocol (MCP) server delivering persistent long-term memory and SQLite FTS5 search for AI agents.",
-            "url": "https://github.com/fellowgeek/mcp-memory",
-            "stars": 181,
-            "forks": 10,
             "score": 45
         },
         {
@@ -249,8 +238,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "pgrundev/pgbot",
             "description": "pgbot - Postgres intelligence for AI agents & apps",
             "url": "https://github.com/pgrundev/pgbot",
-            "stars": 205,
-            "forks": 12,
+            "stars": 209,
+            "forks": 13,
             "score": 44
         },
         {
@@ -260,8 +249,19 @@ const ALPHA_DATA_V2 = {
             "full_name": "Leonxlnx/unlazy",
             "description": "Anti-laziness skill for AI agents. Core: the Depth Tree method, which splits a task N layers deep and gives every leaf the full time budget of the whole task, so effort multiplies with depth. Grounded in 2025-2026 research on model laziness, underthinking and premature completion.",
             "url": "https://github.com/Leonxlnx/unlazy",
-            "stars": 272,
+            "stars": 271,
             "forks": 7,
+            "score": 43
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI Agents",
+            "name": "mcp-memory",
+            "full_name": "fellowgeek/mcp-memory",
+            "description": "An OKF-backed Model Context Protocol (MCP) server delivering persistent long-term memory and SQLite FTS5 search for AI agents.",
+            "url": "https://github.com/fellowgeek/mcp-memory",
+            "stars": 182,
+            "forks": 10,
             "score": 43
         },
         {
@@ -282,7 +282,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "jundizhou/easy-stock",
             "description": "A \u80a1\u884c\u60c5\u5206\u6790\u4e0eAI\u667a\u80fd\u6295\u7814\u667a\u80fd\u4f53\u2014\u2014easy stock",
             "url": "https://github.com/jundizhou/easy-stock",
-            "stars": 262,
+            "stars": 263,
             "forks": 5,
             "score": 40
         },
@@ -304,7 +304,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "2998980-hue/surreal-pop-collage",
             "description": "\u628a\u7167\u7247\u53d8\u6210\u8d85\u73b0\u5b9e\u6ce2\u666e\u62fc\u8d34\u7684 AI agent skill\uff1a\u9ed1\u767d\u73b0\u5b9e\u951a\u70b9 + \u5e73\u6d82\u8272\u5f62 + \u5168\u56fe\u53ea\u6709\u4e00\u4e2a\u4e0d\u53ef\u80fd\u7684\u5de8\u7269\u3002An agent skill that turns photos into surreal pop collages.",
             "url": "https://github.com/2998980-hue/surreal-pop-collage",
-            "stars": 201,
+            "stars": 202,
             "forks": 9,
             "score": 39
         },
@@ -315,7 +315,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "YINGLINGH/limioryn",
             "description": "Edge-cloud Multi-Agent execution framework for embodied intelligence, connecting AI agents to real devices with verifiable actuation and entropy-bounded recovery.",
             "url": "https://github.com/YINGLINGH/limioryn",
-            "stars": 186,
+            "stars": 188,
             "forks": 3,
             "score": 37
         },
@@ -458,7 +458,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "gurrakeller/AI-Infrastructure-Solutions-Architecture",
             "description": "End-to-end technical blueprint for enterprise AI infrastructure & inference engineering: GPU memory mechanics, interconnect topologies, quantization, PagedAttention, and model router selection frameworks.",
             "url": "https://github.com/gurrakeller/AI-Infrastructure-Solutions-Architecture",
-            "stars": 7,
+            "stars": 8,
             "forks": 1,
             "score": 30
         },
@@ -663,6 +663,20 @@ const ALPHA_DATA_V2 = {
     ],
     "news": [
         {
+            "title": "ECO-ID: Event-Camera based Optical System for Secure Multi-User Ultra-Low Latency Identification",
+            "source": "ArXiv",
+            "type": "Research Alpha",
+            "color": "text-indigo-600",
+            "url": "http://arxiv.org/abs/2608.16858v1"
+        },
+        {
+            "title": "GEO-Flag: Detecting and Measuring GEO-Optimized Web Content",
+            "source": "ArXiv",
+            "type": "Research Alpha",
+            "color": "text-indigo-600",
+            "url": "http://arxiv.org/abs/2608.16824v1"
+        },
+        {
             "title": "Bitcoin volatility remains high ahead of key FED decision.",
             "source": "Polymarket",
             "type": "Expectation",
@@ -670,5 +684,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-08-18 00:51"
+    "timestamp": "2026-08-18 02:11"
 };
