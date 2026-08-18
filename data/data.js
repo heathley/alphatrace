@@ -7,7 +7,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "KKKKhazix/human-writing",
             "description": "\u8ba9 AI \u5199\u7684\u4e2d\u6587\u8bfb\u8d77\u6765\u50cf\u4e00\u4e2a\u5177\u4f53\u7684\u4eba\u5728\u8bf4\u8bdd\u3002\u901a\u7528\u521b\u4f5c\u4e0e\u6539\u7a3f Skill\uff0c\u5f00\u7bb1\u5373\u7528\u3002",
             "url": "https://github.com/KKKKhazix/human-writing",
-            "stars": 2845,
+            "stars": 2847,
             "forks": 234,
             "score": 99
         },
@@ -18,8 +18,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "yetone/cumora",
             "description": "Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates \u2014 with cloud or bring-your-own (Claude Code / Codex) brains.",
             "url": "https://github.com/yetone/cumora",
-            "stars": 2281,
-            "forks": 248,
+            "stars": 2303,
+            "forks": 252,
             "score": 99
         },
         {
@@ -29,8 +29,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "eternityspring/shuohao-skills",
             "description": "AI \u77ed\u5267\u5236\u4f5c\u7684 skill \u96c6\u5408\uff1a\u62c6\u89d2\u8272\u3001\u6392\u5927\u7eb2\u3001\u51fa\u573a\u666f\u4e0e\u9053\u5177\u8bbe\u5b9a\u3001\u5199\u5267\u672c\u3001\u5207\u5206\u955c | Agent skills for AI short-drama production \u2014 character bibles, adaptation outlines, art bibles, screenplays, storyboards. Runs in Claude Code & codex.",
             "url": "https://github.com/eternityspring/shuohao-skills",
-            "stars": 1684,
-            "forks": 202,
+            "stars": 1685,
+            "forks": 203,
             "score": 99
         },
         {
@@ -40,7 +40,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Binaryify/open-kimi-ppt-skill",
             "description": "\u975e\u5b98\u65b9 Kimi Slides Skill\uff1a\u8ba9 AI Agent \u751f\u6210\u53ef\u7f16\u8f91 PPTD + PPTX\uff0c\u5e76\u9644\u5e26\u672c\u5730\u6d4f\u89c8\u5668\u7f16\u8f91\u5668 Unofficial Kimi Slides skill for AI agents \u2014 generate editable PPTD + PPTX with a local browser editor",
             "url": "https://github.com/Binaryify/open-kimi-ppt-skill",
-            "stars": 1602,
+            "stars": 1603,
             "forks": 1230,
             "score": 99
         },
@@ -106,9 +106,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "jeremy-prt/bloub",
             "description": "SVG recreation of the x.ai bot avatar. One shape morphing through 14 states, measured off the reference video frame by frame.",
             "url": "https://github.com/jeremy-prt/bloub",
-            "stars": 358,
-            "forks": 30,
-            "score": 69
+            "stars": 363,
+            "forks": 32,
+            "score": 70
         },
         {
             "main_cat": "AI",
@@ -117,8 +117,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "fufankeji/deepseek-harness-studio",
             "description": "DeepSeek Harness \u96f6\u4ee3\u7801\u684c\u9762\u7aef\uff5c\u4e00\u952e\u542f\u52a8\uff0c\u652f\u6301 Windows \u4e0e macOS\uff1b\u5185\u7f6e\u63d2\u4ef6\u53d1\u73b0\u3001\u70ed\u70b9\u63d2\u4ef6\u63a8\u9001\u3001\u4e00\u952e\u5b89\u88c5\u4e0e\u7ba1\u7406\u3001AI \u667a\u80fd\u63a8\u8350\u548c\u89c6\u89c9\u589e\u5f3a\u3002",
             "url": "https://github.com/fufankeji/deepseek-harness-studio",
-            "stars": 287,
-            "forks": 31,
+            "stars": 290,
+            "forks": 32,
             "score": 64
         },
         {
@@ -128,8 +128,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "jaredrhod/barehands",
             "description": "Move things on your screen with your bare hands. A webcam-powered, hand-tracked interface for your AI. No headset. No controllers.",
             "url": "https://github.com/jaredrhod/barehands",
-            "stars": 231,
-            "forks": 39,
+            "stars": 235,
+            "forks": 40,
             "score": 62
         },
         {
@@ -139,9 +139,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "lexmount/moli",
             "description": "Best headless browser for AI agents. Lite, Fast, High-Compatibility. Built in Rust",
             "url": "https://github.com/lexmount/moli",
-            "stars": 542,
+            "stars": 548,
             "forks": 34,
-            "score": 60
+            "score": 61
         },
         {
             "main_cat": "AI",
@@ -183,7 +183,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "MkThingsHQ/mkdirs",
             "description": "Open-source AI-powered directory website template built with Next.js",
             "url": "https://github.com/MkThingsHQ/mkdirs",
-            "stars": 237,
+            "stars": 238,
             "forks": 67,
             "score": 51
         },
@@ -216,7 +216,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "miqdadbadjuber/anti-slop",
             "description": "Design rules to stop AI coding agents from generating generic \"AI slop\" UI.",
             "url": "https://github.com/miqdadbadjuber/anti-slop",
-            "stars": 348,
+            "stars": 351,
             "forks": 33,
             "score": 47
         },
@@ -227,9 +227,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "pgrundev/pgbot",
             "description": "pgbot - Postgres intelligence for AI agents & apps",
             "url": "https://github.com/pgrundev/pgbot",
-            "stars": 254,
+            "stars": 256,
             "forks": 16,
             "score": 47
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "llm-inference-engineering",
+            "full_name": "amitshekhariitbhu/llm-inference-engineering",
+            "description": "Learn LLM Inference Engineering step by step - from KV cache, PagedAttention, and continuous batching to vLLM, SGLang, and GPUs.",
+            "url": "https://github.com/amitshekhariitbhu/llm-inference-engineering",
+            "stars": 68,
+            "forks": 7,
+            "score": 46
         },
         {
             "main_cat": "AI",
@@ -260,19 +271,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "Leonxlnx/unlazy",
             "description": "Anti-laziness skill for AI agents. Core: the Depth Tree method, which splits a task N layers deep and gives every leaf the full time budget of the whole task, so effort multiplies with depth. Grounded in 2025-2026 research on model laziness, underthinking and premature completion.",
             "url": "https://github.com/Leonxlnx/unlazy",
-            "stars": 273,
+            "stars": 274,
             "forks": 7,
-            "score": 43
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "llm-inference-engineering",
-            "full_name": "amitshekhariitbhu/llm-inference-engineering",
-            "description": "Learn LLM Inference Engineering step by step - from KV cache, PagedAttention, and continuous batching to vLLM, SGLang, and GPUs.",
-            "url": "https://github.com/amitshekhariitbhu/llm-inference-engineering",
-            "stars": 58,
-            "forks": 5,
             "score": 43
         },
         {
@@ -282,7 +282,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "jundizhou/easy-stock",
             "description": "A \u80a1\u884c\u60c5\u5206\u6790\u4e0eAI\u667a\u80fd\u6295\u7814\u667a\u80fd\u4f53\u2014\u2014easy stock",
             "url": "https://github.com/jundizhou/easy-stock",
-            "stars": 287,
+            "stars": 288,
             "forks": 5,
             "score": 41
         },
@@ -304,7 +304,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "2998980-hue/surreal-pop-collage",
             "description": "\u628a\u7167\u7247\u53d8\u6210\u8d85\u73b0\u5b9e\u6ce2\u666e\u62fc\u8d34\u7684 AI agent skill\uff1a\u9ed1\u767d\u73b0\u5b9e\u951a\u70b9 + \u5e73\u6d82\u8272\u5f62 + \u5168\u56fe\u53ea\u6709\u4e00\u4e2a\u4e0d\u53ef\u80fd\u7684\u5de8\u7269\u3002An agent skill that turns photos into surreal pop collages.",
             "url": "https://github.com/2998980-hue/surreal-pop-collage",
-            "stars": 213,
+            "stars": 214,
             "forks": 10,
             "score": 40
         },
@@ -321,17 +321,6 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "SPulse-Contract",
-            "full_name": "SPulse-Org/SPulse-Contract",
-            "description": "SPulse contracts are the on-chain Soroban smart contract layer for the prediction market platform. They manage market creation, user betting, market resolution, payouts, rewards, referrals, and leaderboard tracking on Stellar. The contracts work together to support a trustless, auditable betting system with token incentives and community ranking.",
-            "url": "https://github.com/SPulse-Org/SPulse-Contract",
-            "stars": 0,
-            "forks": 16,
-            "score": 38
-        },
-        {
-            "main_cat": "AI",
             "sub_cat": null,
             "name": "limioryn",
             "full_name": "YINGLINGH/limioryn",
@@ -340,6 +329,17 @@ const ALPHA_DATA_V2 = {
             "stars": 195,
             "forks": 3,
             "score": 37
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "SPulse-Contract",
+            "full_name": "SPulse-Org/SPulse-Contract",
+            "description": "SPulse contracts are the on-chain Soroban smart contract layer for the prediction market platform. They manage market creation, user betting, market resolution, payouts, rewards, referrals, and leaderboard tracking on Stellar. The contracts work together to support a trustless, auditable betting system with token incentives and community ranking.",
+            "url": "https://github.com/SPulse-Org/SPulse-Contract",
+            "stars": 0,
+            "forks": 16,
+            "score": 36
         },
         {
             "main_cat": "AI",
@@ -641,6 +641,20 @@ const ALPHA_DATA_V2 = {
     ],
     "news": [
         {
+            "title": "ECO-ID: Event-Camera based Optical System for Secure Multi-User Ultra-Low Latency Identification",
+            "source": "ArXiv",
+            "type": "Research Alpha",
+            "color": "text-indigo-600",
+            "url": "http://arxiv.org/abs/2608.16858v1"
+        },
+        {
+            "title": "GEO-Flag: Detecting and Measuring GEO-Optimized Web Content",
+            "source": "ArXiv",
+            "type": "Research Alpha",
+            "color": "text-indigo-600",
+            "url": "http://arxiv.org/abs/2608.16824v1"
+        },
+        {
             "title": "Bitcoin volatility remains high ahead of key FED decision.",
             "source": "Polymarket",
             "type": "Expectation",
@@ -648,5 +662,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-08-18 16:23"
+    "timestamp": "2026-08-18 17:20"
 };
