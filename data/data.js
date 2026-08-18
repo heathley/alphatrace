@@ -18,8 +18,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "yetone/cumora",
             "description": "Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates \u2014 with cloud or bring-your-own (Claude Code / Codex) brains.",
             "url": "https://github.com/yetone/cumora",
-            "stars": 2331,
-            "forks": 257,
+            "stars": 2339,
+            "forks": 259,
             "score": 99
         },
         {
@@ -29,7 +29,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "eternityspring/shuohao-skills",
             "description": "AI \u77ed\u5267\u5236\u4f5c\u7684 skill \u96c6\u5408\uff1a\u62c6\u89d2\u8272\u3001\u6392\u5927\u7eb2\u3001\u51fa\u573a\u666f\u4e0e\u9053\u5177\u8bbe\u5b9a\u3001\u5199\u5267\u672c\u3001\u5207\u5206\u955c | Agent skills for AI short-drama production \u2014 character bibles, adaptation outlines, art bibles, screenplays, storyboards. Runs in Claude Code & codex.",
             "url": "https://github.com/eternityspring/shuohao-skills",
-            "stars": 1686,
+            "stars": 1687,
             "forks": 203,
             "score": 99
         },
@@ -95,9 +95,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "jeremy-prt/bloub",
             "description": "SVG recreation of the x.ai bot avatar. One shape morphing through 14 states, measured off the reference video frame by frame.",
             "url": "https://github.com/jeremy-prt/bloub",
-            "stars": 379,
+            "stars": 385,
             "forks": 36,
-            "score": 73
+            "score": 74
         },
         {
             "main_cat": "AI",
@@ -117,9 +117,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "jaredrhod/barehands",
             "description": "Move things on your screen with your bare hands. A webcam-powered, hand-tracked interface for your AI. No headset. No controllers.",
             "url": "https://github.com/jaredrhod/barehands",
-            "stars": 257,
-            "forks": 45,
-            "score": 66
+            "stars": 268,
+            "forks": 48,
+            "score": 68
         },
         {
             "main_cat": "AI",
@@ -129,8 +129,8 @@ const ALPHA_DATA_V2 = {
             "description": "DeepSeek Harness \u96f6\u4ee3\u7801\u684c\u9762\u7aef\uff5c\u4e00\u952e\u542f\u52a8\uff0c\u652f\u6301 Windows \u4e0e macOS\uff1b\u5185\u7f6e\u63d2\u4ef6\u53d1\u73b0\u3001\u70ed\u70b9\u63d2\u4ef6\u63a8\u9001\u3001\u4e00\u952e\u5b89\u88c5\u4e0e\u7ba1\u7406\u3001AI \u667a\u80fd\u63a8\u8350\u548c\u89c6\u89c9\u589e\u5f3a\u3002",
             "url": "https://github.com/fufankeji/deepseek-harness-studio",
             "stars": 289,
-            "forks": 32,
-            "score": 64
+            "forks": 33,
+            "score": 65
         },
         {
             "main_cat": "AI",
@@ -139,7 +139,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "lexmount/moli",
             "description": "Best headless browser for AI agents. Lite, Fast, High-Compatibility. Built in Rust",
             "url": "https://github.com/lexmount/moli",
-            "stars": 560,
+            "stars": 562,
             "forks": 37,
             "score": 62
         },
@@ -189,6 +189,17 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "llm-inference-engineering",
+            "full_name": "amitshekhariitbhu/llm-inference-engineering",
+            "description": "Learn LLM Inference Engineering step by step - from KV cache, PagedAttention, and continuous batching to vLLM, SGLang, and GPUs.",
+            "url": "https://github.com/amitshekhariitbhu/llm-inference-engineering",
+            "stars": 92,
+            "forks": 9,
+            "score": 51
+        },
+        {
+            "main_cat": "AI",
             "sub_cat": null,
             "name": "mcp-server",
             "full_name": "sv-number/mcp-server",
@@ -197,17 +208,6 @@ const ALPHA_DATA_V2 = {
             "stars": 564,
             "forks": 5,
             "score": 50
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "llm-inference-engineering",
-            "full_name": "amitshekhariitbhu/llm-inference-engineering",
-            "description": "Learn LLM Inference Engineering step by step - from KV cache, PagedAttention, and continuous batching to vLLM, SGLang, and GPUs.",
-            "url": "https://github.com/amitshekhariitbhu/llm-inference-engineering",
-            "stars": 87,
-            "forks": 8,
-            "score": 49
         },
         {
             "main_cat": "AI",
@@ -227,7 +227,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "pgrundev/pgbot",
             "description": "pgbot - Postgres intelligence for AI agents & apps",
             "url": "https://github.com/pgrundev/pgbot",
-            "stars": 263,
+            "stars": 265,
             "forks": 17,
             "score": 48
         },
@@ -239,19 +239,8 @@ const ALPHA_DATA_V2 = {
             "description": "Design rules to stop AI coding agents from generating generic \"AI slop\" UI.",
             "url": "https://github.com/miqdadbadjuber/anti-slop",
             "stars": 355,
-            "forks": 33,
+            "forks": 34,
             "score": 47
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "sprite-maker",
-            "full_name": "JohnKinyanjui/sprite-maker",
-            "description": "An open source ai sprite maker",
-            "url": "https://github.com/JohnKinyanjui/sprite-maker",
-            "stars": 222,
-            "forks": 32,
-            "score": 45
         },
         {
             "main_cat": "AI",
@@ -263,6 +252,17 @@ const ALPHA_DATA_V2 = {
             "stars": 214,
             "forks": 0,
             "score": 45
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "sprite-maker",
+            "full_name": "JohnKinyanjui/sprite-maker",
+            "description": "An open source ai sprite maker",
+            "url": "https://github.com/JohnKinyanjui/sprite-maker",
+            "stars": 222,
+            "forks": 32,
+            "score": 44
         },
         {
             "main_cat": "AI",
@@ -282,7 +282,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "jundizhou/easy-stock",
             "description": "A \u80a1\u884c\u60c5\u5206\u6790\u4e0eAI\u667a\u80fd\u6295\u7814\u667a\u80fd\u4f53\u2014\u2014easy stock",
             "url": "https://github.com/jundizhou/easy-stock",
-            "stars": 292,
+            "stars": 293,
             "forks": 5,
             "score": 41
         },
@@ -311,23 +311,23 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "Noobi.ai",
-            "full_name": "Innate-Labs/Noobi.ai",
-            "description": "Noobi.ai \u2014 desktop AI game-production workbench with Skills and MCP.",
-            "url": "https://github.com/Innate-Labs/Noobi.ai",
-            "stars": 211,
-            "forks": 6,
-            "score": 39
+            "name": "kimi-ai-peak",
+            "full_name": "forbiddeneldergirder/kimi-ai-peak",
+            "description": "Kimi AI Peak",
+            "url": "https://github.com/forbiddeneldergirder/kimi-ai-peak",
+            "stars": 218,
+            "forks": 0,
+            "score": 37
         },
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "limioryn",
-            "full_name": "YINGLINGH/limioryn",
-            "description": "Edge-cloud Multi-Agent execution framework for embodied intelligence, connecting AI agents to real devices with verifiable actuation and entropy-bounded recovery.",
-            "url": "https://github.com/YINGLINGH/limioryn",
-            "stars": 195,
-            "forks": 3,
+            "name": "hailuo-ai-pulse",
+            "full_name": "Blacktrupersist/hailuo-ai-pulse",
+            "description": "Hailuo AI Pulse",
+            "url": "https://github.com/Blacktrupersist/hailuo-ai-pulse",
+            "stars": 213,
+            "forks": 0,
             "score": 37
         },
         {
@@ -662,5 +662,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-08-18 20:15"
+    "timestamp": "2026-08-18 21:16"
 };
