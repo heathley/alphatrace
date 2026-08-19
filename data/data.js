@@ -7,7 +7,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "yetone/cumora",
             "description": "Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates \u2014 with cloud or bring-your-own (Claude Code / Codex) brains.",
             "url": "https://github.com/yetone/cumora",
-            "stars": 2668,
+            "stars": 2672,
             "forks": 304,
             "score": 99
         },
@@ -18,7 +18,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "SMNETSTUDIO/WeChat-AI",
             "description": "WeChat AI - \u81ea\u6258\u7ba1\u5fae\u4fe1\u89d2\u8272\u626e\u6f14\u5bf9\u8bdd\u670d\u52a1",
             "url": "https://github.com/SMNETSTUDIO/WeChat-AI",
-            "stars": 1793,
+            "stars": 1794,
             "forks": 1267,
             "score": 99
         },
@@ -29,7 +29,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "eternityspring/shuohao-skills",
             "description": "AI \u77ed\u5267\u5236\u4f5c\u7684 skill \u96c6\u5408\uff1a\u62c6\u89d2\u8272\u3001\u6392\u5927\u7eb2\u3001\u51fa\u573a\u666f\u4e0e\u9053\u5177\u8bbe\u5b9a\u3001\u5199\u5267\u672c\u3001\u5207\u5206\u955c | Agent skills for AI short-drama production \u2014 character bibles, adaptation outlines, art bibles, screenplays, storyboards. Runs in Claude Code & codex.",
             "url": "https://github.com/eternityspring/shuohao-skills",
-            "stars": 1731,
+            "stars": 1734,
             "forks": 212,
             "score": 99
         },
@@ -40,9 +40,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "bawadou/ai-data-extractor",
             "description": "Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.",
             "url": "https://github.com/bawadou/ai-data-extractor",
-            "stars": 286,
+            "stars": 299,
             "forks": 97,
-            "score": 97
+            "score": 98
         },
         {
             "main_cat": "AI",
@@ -62,9 +62,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "jeremy-prt/bloub",
             "description": "SVG recreation of the x.ai bot avatar. One shape morphing through 14 states, measured off the reference video frame by frame.",
             "url": "https://github.com/jeremy-prt/bloub",
-            "stars": 513,
-            "forks": 56,
-            "score": 82
+            "stars": 516,
+            "forks": 57,
+            "score": 83
         },
         {
             "main_cat": "AI",
@@ -117,7 +117,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "jaredrhod/barehands",
             "description": "Move things on your screen with your bare hands. A webcam-powered, hand-tracked interface for your AI. No headset. No controllers.",
             "url": "https://github.com/jaredrhod/barehands",
-            "stars": 345,
+            "stars": 352,
             "forks": 69,
             "score": 74
         },
@@ -128,8 +128,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "mewamew/my_ai_town",
             "description": "\u6211\u7684AI\u5c0f\u9547",
             "url": "https://github.com/mewamew/my_ai_town",
-            "stars": 624,
-            "forks": 141,
+            "stars": 626,
+            "forks": 142,
             "score": 69
         },
         {
@@ -139,7 +139,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "fufankeji/deepseek-harness-studio",
             "description": "DeepSeek Harness \u96f6\u4ee3\u7801\u684c\u9762\u7aef\uff5c\u4e00\u952e\u542f\u52a8\uff0c\u652f\u6301 Windows \u4e0e macOS\uff1b\u5185\u7f6e\u63d2\u4ef6\u53d1\u73b0\u3001\u70ed\u70b9\u63d2\u4ef6\u63a8\u9001\u3001\u4e00\u952e\u5b89\u88c5\u4e0e\u7ba1\u7406\u3001AI \u667a\u80fd\u63a8\u8350\u548c\u89c6\u89c9\u589e\u5f3a\u3002",
             "url": "https://github.com/fufankeji/deepseek-harness-studio",
-            "stars": 351,
+            "stars": 352,
             "forks": 39,
             "score": 66
         },
@@ -150,9 +150,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "lexmount/moli",
             "description": "Best headless browser for AI agents. Lite, Fast, High-Compatibility. Built in Rust",
             "url": "https://github.com/lexmount/moli",
-            "stars": 630,
+            "stars": 634,
             "forks": 41,
             "score": 63
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "llm-inference-engineering",
+            "full_name": "amitshekhariitbhu/llm-inference-engineering",
+            "description": "Learn LLM Inference Engineering step by step - from KV cache, PagedAttention, and continuous batching to vLLM, SGLang, and GPUs.",
+            "url": "https://github.com/amitshekhariitbhu/llm-inference-engineering",
+            "stars": 168,
+            "forks": 17,
+            "score": 59
         },
         {
             "main_cat": "AI",
@@ -163,17 +174,6 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/vibeinging/deepseek-harness-desktop-app",
             "stars": 491,
             "forks": 6,
-            "score": 58
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "llm-inference-engineering",
-            "full_name": "amitshekhariitbhu/llm-inference-engineering",
-            "description": "Learn LLM Inference Engineering step by step - from KV cache, PagedAttention, and continuous batching to vLLM, SGLang, and GPUs.",
-            "url": "https://github.com/amitshekhariitbhu/llm-inference-engineering",
-            "stars": 163,
-            "forks": 17,
             "score": 58
         },
         {
@@ -249,20 +249,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "pgrundev/pgbot",
             "description": "Postgres intelligence for ai agents & apps",
             "url": "https://github.com/pgrundev/pgbot",
-            "stars": 282,
+            "stars": 283,
             "forks": 17,
             "score": 47
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI Agents",
-            "name": "unlazy",
-            "full_name": "Leonxlnx/unlazy",
-            "description": "Anti-laziness skill for AI agents. Core: the Depth Tree method, which splits a task N layers deep and gives every leaf the full time budget of the whole task, so effort multiplies with depth. Grounded in 2025-2026 research on model laziness, underthinking and premature completion.",
-            "url": "https://github.com/Leonxlnx/unlazy",
-            "stars": 281,
-            "forks": 8,
-            "score": 43
         },
         {
             "main_cat": "AI",
@@ -271,8 +260,19 @@ const ALPHA_DATA_V2 = {
             "full_name": "ItusiAI/Open-Magiviz",
             "description": "Magiviz\uff1a\u5f00\u6e90\u7684 AI \u89c6\u9891\u521b\u4f5c\u5f15\u64ce\uff0c\u628a\u4e00\u6574\u4e2a\u5267\u7ec4\u4ea4\u7ed9\u6bcf\u4e00\u4e2a\u5f00\u53d1\u8005\u4e0e\u521b\u4f5c\u8005",
             "url": "https://github.com/ItusiAI/Open-Magiviz",
-            "stars": 232,
+            "stars": 236,
             "forks": 32,
+            "score": 44
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI Agents",
+            "name": "unlazy",
+            "full_name": "Leonxlnx/unlazy",
+            "description": "Anti-laziness skill for AI agents. Core: the Depth Tree method, which splits a task N layers deep and gives every leaf the full time budget of the whole task, so effort multiplies with depth. Grounded in 2025-2026 research on model laziness, underthinking and premature completion.",
+            "url": "https://github.com/Leonxlnx/unlazy",
+            "stars": 283,
+            "forks": 8,
             "score": 43
         },
         {
@@ -282,7 +282,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "jundizhou/easy-stock",
             "description": "A \u80a1\u884c\u60c5\u5206\u6790\u4e0eAI\u667a\u80fd\u6295\u7814\u667a\u80fd\u4f53\u2014\u2014easy stock",
             "url": "https://github.com/jundizhou/easy-stock",
-            "stars": 316,
+            "stars": 317,
             "forks": 5,
             "score": 41
         },
@@ -673,5 +673,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-08-19 17:20"
+    "timestamp": "2026-08-19 18:23"
 };
