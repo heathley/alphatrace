@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "yetone/cumora",
             "description": "Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates \u2014 with cloud or bring-your-own (Claude Code / Codex) brains.",
             "url": "https://github.com/yetone/cumora",
-            "stars": 2672,
-            "forks": 304,
+            "stars": 2674,
+            "forks": 305,
             "score": 99
         },
         {
@@ -29,20 +29,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "eternityspring/shuohao-skills",
             "description": "AI \u77ed\u5267\u5236\u4f5c\u7684 skill \u96c6\u5408\uff1a\u62c6\u89d2\u8272\u3001\u6392\u5927\u7eb2\u3001\u51fa\u573a\u666f\u4e0e\u9053\u5177\u8bbe\u5b9a\u3001\u5199\u5267\u672c\u3001\u5207\u5206\u955c | Agent skills for AI short-drama production \u2014 character bibles, adaptation outlines, art bibles, screenplays, storyboards. Runs in Claude Code & codex.",
             "url": "https://github.com/eternityspring/shuohao-skills",
-            "stars": 1734,
-            "forks": 212,
+            "stars": 1737,
+            "forks": 213,
             "score": 99
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "ai-data-extractor",
-            "full_name": "bawadou/ai-data-extractor",
-            "description": "Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.",
-            "url": "https://github.com/bawadou/ai-data-extractor",
-            "stars": 299,
-            "forks": 97,
-            "score": 98
         },
         {
             "main_cat": "AI",
@@ -58,11 +47,22 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
+            "name": "ai-data-extractor",
+            "full_name": "bawadou/ai-data-extractor",
+            "description": "Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.",
+            "url": "https://github.com/bawadou/ai-data-extractor",
+            "stars": 312,
+            "forks": 97,
+            "score": 88
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
             "name": "bloub",
             "full_name": "jeremy-prt/bloub",
             "description": "SVG recreation of the x.ai bot avatar. One shape morphing through 14 states, measured off the reference video frame by frame.",
             "url": "https://github.com/jeremy-prt/bloub",
-            "stars": 516,
+            "stars": 522,
             "forks": 57,
             "score": 83
         },
@@ -73,7 +73,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "DrHazemAli/enterprise-system-design",
             "description": "A source-grounded course & reference for engineers designing systems that must survive real traffic, partial failure, security review, and changing requirements, spanning enterprise system design, distributed systems, AI systems, cybersecurity, reliability, cloud, HPC, edge, and mission-critical infrastructure.",
             "url": "https://github.com/DrHazemAli/enterprise-system-design",
-            "stars": 556,
+            "stars": 557,
             "forks": 115,
             "score": 80
         },
@@ -102,23 +102,23 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
+            "name": "barehands",
+            "full_name": "jaredrhod/barehands",
+            "description": "Move things on your screen with your bare hands. A webcam-powered, hand-tracked interface for your AI. No headset. No controllers.",
+            "url": "https://github.com/jaredrhod/barehands",
+            "stars": 358,
+            "forks": 71,
+            "score": 75
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
             "name": "chatbot-template",
             "full_name": "shadcn-ui/chatbot-template",
             "description": "A minimal chatbot template built with Next.js, AI SDK, shadcn/ui, shadcn/react, shadcn/typeset. It runs on the Vercel AI Gateway.",
             "url": "https://github.com/shadcn-ui/chatbot-template",
             "stars": 726,
             "forks": 65,
-            "score": 74
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "barehands",
-            "full_name": "jaredrhod/barehands",
-            "description": "Move things on your screen with your bare hands. A webcam-powered, hand-tracked interface for your AI. No headset. No controllers.",
-            "url": "https://github.com/jaredrhod/barehands",
-            "stars": 352,
-            "forks": 69,
             "score": 74
         },
         {
@@ -150,7 +150,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "lexmount/moli",
             "description": "Best headless browser for AI agents. Lite, Fast, High-Compatibility. Built in Rust",
             "url": "https://github.com/lexmount/moli",
-            "stars": 634,
+            "stars": 639,
             "forks": 41,
             "score": 63
         },
@@ -223,23 +223,23 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "MasterAgent",
-            "full_name": "OpenSparX/MasterAgent",
-            "description": "Build AI agents that run 100% on-device. Sub-100ms latency on Qualcomm NPU. Zero cloud dependency.",
-            "url": "https://github.com/OpenSparX/MasterAgent",
-            "stars": 344,
-            "forks": 18,
-            "score": 48
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
             "name": "anti-slop",
             "full_name": "miqdadbadjuber/anti-slop",
             "description": "Design rules to stop AI coding agents from generating generic \"AI slop\" UI.",
             "url": "https://github.com/miqdadbadjuber/anti-slop",
             "stars": 376,
             "forks": 36,
+            "score": 47
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "MasterAgent",
+            "full_name": "OpenSparX/MasterAgent",
+            "description": "Build AI agents that run 100% on-device. Sub-100ms latency on Qualcomm NPU. Zero cloud dependency.",
+            "url": "https://github.com/OpenSparX/MasterAgent",
+            "stars": 344,
+            "forks": 18,
             "score": 47
         },
         {
@@ -260,8 +260,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "ItusiAI/Open-Magiviz",
             "description": "Magiviz\uff1a\u5f00\u6e90\u7684 AI \u89c6\u9891\u521b\u4f5c\u5f15\u64ce\uff0c\u628a\u4e00\u6574\u4e2a\u5267\u7ec4\u4ea4\u7ed9\u6bcf\u4e00\u4e2a\u5f00\u53d1\u8005\u4e0e\u521b\u4f5c\u8005",
             "url": "https://github.com/ItusiAI/Open-Magiviz",
-            "stars": 236,
-            "forks": 32,
+            "stars": 245,
+            "forks": 34,
             "score": 44
         },
         {
@@ -282,7 +282,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "jundizhou/easy-stock",
             "description": "A \u80a1\u884c\u60c5\u5206\u6790\u4e0eAI\u667a\u80fd\u6295\u7814\u667a\u80fd\u4f53\u2014\u2014easy stock",
             "url": "https://github.com/jundizhou/easy-stock",
-            "stars": 317,
+            "stars": 320,
             "forks": 5,
             "score": 41
         },
@@ -399,22 +399,22 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
-            "name": "Qwen3.8-27B-NVFP4-TurboQuant",
-            "full_name": "ayayalar/Qwen3.8-27B-NVFP4-TurboQuant",
-            "description": "Validated vLLM recipe: Qwen3.8-27B-NVFP4 at full 262,144-token context on a single RTX 5090, GPU-only (no CPU offload).",
-            "url": "https://github.com/ayayalar/Qwen3.8-27B-NVFP4-TurboQuant",
-            "stars": 11,
-            "forks": 1,
-            "score": 31
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
             "name": "XingGraph",
             "full_name": "xing-kj/XingGraph",
             "description": "Knowledge-graph RAG for LLM agents: ontology-driven graph building (RDF/OWL), structured-doc chunking with title attribution, multi-subject WIKI-completion retrieval, model-hop traversal, traceable answers on Neo4j. Built for traceable, low-hallucination LLM memory.",
             "url": "https://github.com/xing-kj/XingGraph",
             "stars": 12,
+            "forks": 1,
+            "score": 30
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "Qwen3.8-27B-NVFP4-TurboQuant",
+            "full_name": "ayayalar/Qwen3.8-27B-NVFP4-TurboQuant",
+            "description": "Validated vLLM recipe: Qwen3.8-27B-NVFP4 at full 262,144-token context on a single RTX 5090, GPU-only (no CPU offload).",
+            "url": "https://github.com/ayayalar/Qwen3.8-27B-NVFP4-TurboQuant",
+            "stars": 11,
             "forks": 1,
             "score": 30
         },
@@ -673,5 +673,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-08-19 18:23"
+    "timestamp": "2026-08-19 19:19"
 };
