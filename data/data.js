@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "yetone/cumora",
             "description": "Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates \u2014 with cloud or bring-your-own (Claude Code / Codex) brains.",
             "url": "https://github.com/yetone/cumora",
-            "stars": 2373,
-            "forks": 259,
+            "stars": 2416,
+            "forks": 265,
             "score": 99
         },
         {
@@ -18,7 +18,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "eternityspring/shuohao-skills",
             "description": "AI \u77ed\u5267\u5236\u4f5c\u7684 skill \u96c6\u5408\uff1a\u62c6\u89d2\u8272\u3001\u6392\u5927\u7eb2\u3001\u51fa\u573a\u666f\u4e0e\u9053\u5177\u8bbe\u5b9a\u3001\u5199\u5267\u672c\u3001\u5207\u5206\u955c | Agent skills for AI short-drama production \u2014 character bibles, adaptation outlines, art bibles, screenplays, storyboards. Runs in Claude Code & codex.",
             "url": "https://github.com/eternityspring/shuohao-skills",
-            "stars": 1687,
+            "stars": 1690,
             "forks": 203,
             "score": 99
         },
@@ -40,9 +40,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "bawadou/ai-data-extractor",
             "description": "Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.",
             "url": "https://github.com/bawadou/ai-data-extractor",
-            "stars": 209,
-            "forks": 85,
-            "score": 84
+            "stars": 213,
+            "forks": 88,
+            "score": 86
         },
         {
             "main_cat": "AI",
@@ -69,6 +69,17 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
+            "name": "bloub",
+            "full_name": "jeremy-prt/bloub",
+            "description": "SVG recreation of the x.ai bot avatar. One shape morphing through 14 states, measured off the reference video frame by frame.",
+            "url": "https://github.com/jeremy-prt/bloub",
+            "stars": 413,
+            "forks": 41,
+            "score": 78
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
             "name": "agent-safe-pipeline",
             "full_name": "decionis/agent-safe-pipeline",
             "description": "Reference architecture for AI agents that propose actions but cannot authorize them \u2014 immutable intent capture, an independent Decionis policy verdict (ALLOW/ESCALATE/BLOCK), verified human approval, and a SafeExecutor that consumes a single-use intent-bound grant.",
@@ -80,24 +91,13 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "bloub",
-            "full_name": "jeremy-prt/bloub",
-            "description": "SVG recreation of the x.ai bot avatar. One shape morphing through 14 states, measured off the reference video frame by frame.",
-            "url": "https://github.com/jeremy-prt/bloub",
-            "stars": 405,
-            "forks": 41,
-            "score": 77
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
             "name": "barehands",
             "full_name": "jaredrhod/barehands",
             "description": "Move things on your screen with your bare hands. A webcam-powered, hand-tracked interface for your AI. No headset. No controllers.",
             "url": "https://github.com/jaredrhod/barehands",
-            "stars": 286,
-            "forks": 52,
-            "score": 71
+            "stars": 294,
+            "forks": 54,
+            "score": 72
         },
         {
             "main_cat": "AI",
@@ -106,9 +106,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "mewamew/my_ai_town",
             "description": "\u6211\u7684AI\u5c0f\u9547",
             "url": "https://github.com/mewamew/my_ai_town",
-            "stars": 605,
-            "forks": 134,
-            "score": 70
+            "stars": 610,
+            "forks": 136,
+            "score": 71
         },
         {
             "main_cat": "AI",
@@ -117,7 +117,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "fufankeji/deepseek-harness-studio",
             "description": "DeepSeek Harness \u96f6\u4ee3\u7801\u684c\u9762\u7aef\uff5c\u4e00\u952e\u542f\u52a8\uff0c\u652f\u6301 Windows \u4e0e macOS\uff1b\u5185\u7f6e\u63d2\u4ef6\u53d1\u73b0\u3001\u70ed\u70b9\u63d2\u4ef6\u63a8\u9001\u3001\u4e00\u952e\u5b89\u88c5\u4e0e\u7ba1\u7406\u3001AI \u667a\u80fd\u63a8\u8350\u548c\u89c6\u89c9\u589e\u5f3a\u3002",
             "url": "https://github.com/fufankeji/deepseek-harness-studio",
-            "stars": 291,
+            "stars": 296,
             "forks": 33,
             "score": 65
         },
@@ -128,7 +128,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "lexmount/moli",
             "description": "Best headless browser for AI agents. Lite, Fast, High-Compatibility. Built in Rust",
             "url": "https://github.com/lexmount/moli",
-            "stars": 569,
+            "stars": 573,
             "forks": 38,
             "score": 62
         },
@@ -139,7 +139,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "vibeinging/deepseek-harness-desktop-app",
             "description": "DeepSeek Harness Desktop App: a local AI desktop workspace for DSH Sessions, projects, files, web research, plugins, and Office artifacts.",
             "url": "https://github.com/vibeinging/deepseek-harness-desktop-app",
-            "stars": 486,
+            "stars": 487,
             "forks": 7,
             "score": 62
         },
@@ -150,9 +150,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "amitshekhariitbhu/llm-inference-engineering",
             "description": "Learn LLM Inference Engineering step by step - from KV cache, PagedAttention, and continuous batching to vLLM, SGLang, and GPUs.",
             "url": "https://github.com/amitshekhariitbhu/llm-inference-engineering",
-            "stars": 104,
-            "forks": 11,
-            "score": 54
+            "stars": 109,
+            "forks": 12,
+            "score": 56
         },
         {
             "main_cat": "AI",
@@ -161,7 +161,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "50kg/image-to-slice",
             "description": "AI \u62c6\u56fe\u3001\u88ab\u906e\u6321\u80cc\u666f\u8865\u9f50\u3001\u4eba\u5de5\u6821\u51c6\u3001\u5bfc\u5165\u53ef\u7f16\u8f91 Figma \u56fe\u5c42\u3001\u5bfc\u51fa HTML/CSS",
             "url": "https://github.com/50kg/image-to-slice",
-            "stars": 298,
+            "stars": 299,
             "forks": 54,
             "score": 53
         },
@@ -183,7 +183,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "MkThingsHQ/mkdirs",
             "description": "Open-source AI-powered directory website template built with Next.js",
             "url": "https://github.com/MkThingsHQ/mkdirs",
-            "stars": 238,
+            "stars": 239,
             "forks": 67,
             "score": 51
         },
@@ -201,6 +201,17 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
+            "name": "anti-slop",
+            "full_name": "miqdadbadjuber/anti-slop",
+            "description": "Design rules to stop AI coding agents from generating generic \"AI slop\" UI.",
+            "url": "https://github.com/miqdadbadjuber/anti-slop",
+            "stars": 364,
+            "forks": 35,
+            "score": 48
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
             "name": "MasterAgent",
             "full_name": "OpenSparX/MasterAgent",
             "description": "Build AI agents that run 100% on-device. Sub-100ms latency on Qualcomm NPU. Zero cloud dependency.",
@@ -212,35 +223,13 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "anti-slop",
-            "full_name": "miqdadbadjuber/anti-slop",
-            "description": "Design rules to stop AI coding agents from generating generic \"AI slop\" UI.",
-            "url": "https://github.com/miqdadbadjuber/anti-slop",
-            "stars": 360,
-            "forks": 34,
-            "score": 47
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
             "name": "pgbot",
             "full_name": "pgrundev/pgbot",
             "description": "pgbot - Postgres intelligence for AI agents & apps",
             "url": "https://github.com/pgrundev/pgbot",
-            "stars": 268,
+            "stars": 271,
             "forks": 17,
             "score": 46
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "modex-mh-agent",
-            "full_name": "N-allpass/modex-mh-agent",
-            "description": "Modex \u00b7 MH Agent \u2014 AI \u5168\u81ea\u52a8\u6570\u5b66\u5efa\u6a21\u667a\u80fd\u4f53,\u517c\u987e\u79d1\u7814\u5168\u6d41\u7a0b:\u4ece\u8d5b\u9898\u5230\u7ade\u8d5b\u7ea7\u8bba\u6587\u4e00\u591c\u8dd1\u5b8c,\u56fd\u8d5b/\u7f8e\u8d5b/\u534e\u4e3a\u676f\u5168\u8986\u76d6(\u67b6\u6784\u5c55\u793a)",
-            "url": "https://github.com/N-allpass/modex-mh-agent",
-            "stars": 214,
-            "forks": 0,
-            "score": 45
         },
         {
             "main_cat": "AI",
@@ -252,6 +241,17 @@ const ALPHA_DATA_V2 = {
             "stars": 222,
             "forks": 32,
             "score": 44
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "modex-mh-agent",
+            "full_name": "N-allpass/modex-mh-agent",
+            "description": "Modex \u00b7 MH Agent \u2014 AI \u5168\u81ea\u52a8\u6570\u5b66\u5efa\u6a21\u667a\u80fd\u4f53,\u517c\u987e\u79d1\u7814\u5168\u6d41\u7a0b:\u4ece\u8d5b\u9898\u5230\u7ade\u8d5b\u7ea7\u8bba\u6587\u4e00\u591c\u8dd1\u5b8c,\u56fd\u8d5b/\u7f8e\u8d5b/\u534e\u4e3a\u676f\u5168\u8986\u76d6(\u67b6\u6784\u5c55\u793a)",
+            "url": "https://github.com/N-allpass/modex-mh-agent",
+            "stars": 214,
+            "forks": 0,
+            "score": 43
         },
         {
             "main_cat": "AI",
@@ -271,7 +271,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "jundizhou/easy-stock",
             "description": "A \u80a1\u884c\u60c5\u5206\u6790\u4e0eAI\u667a\u80fd\u6295\u7814\u667a\u80fd\u4f53\u2014\u2014easy stock",
             "url": "https://github.com/jundizhou/easy-stock",
-            "stars": 296,
+            "stars": 297,
             "forks": 5,
             "score": 41
         },
@@ -377,22 +377,11 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
-            "name": "mainarch",
-            "full_name": "MaincodeHQ/mainarch",
-            "description": "A from-scratch Rust inference stack for AMD GPUs that talks straight to the Linux kernel driver. No ROCm, HIP, or HSA runtime. Serves OLMo 2 on MI355X.",
-            "url": "https://github.com/MaincodeHQ/mainarch",
-            "stars": 17,
-            "forks": 2,
-            "score": 31
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
             "name": "XingGraph",
             "full_name": "xing-kj/XingGraph",
             "description": "Knowledge-graph RAG for LLM agents: ontology-driven graph building (RDF/OWL), structured-doc chunking with title attribution, multi-subject WIKI-completion retrieval, model-hop traversal, traceable answers on Neo4j. Built for traceable, low-hallucination LLM memory.",
             "url": "https://github.com/xing-kj/XingGraph",
-            "stars": 11,
+            "stars": 12,
             "forks": 1,
             "score": 30
         },
@@ -619,18 +608,18 @@ const ALPHA_DATA_V2 = {
     ],
     "news": [
         {
-            "title": "ECO-ID: Event-Camera based Optical System for Secure Multi-User Ultra-Low Latency Identification",
+            "title": "Multivalued Consensus: General Adversaries Require More Communication",
             "source": "ArXiv",
             "type": "Research Alpha",
             "color": "text-indigo-600",
-            "url": "http://arxiv.org/abs/2608.16858v1"
+            "url": "http://arxiv.org/abs/2608.17998v1"
         },
         {
-            "title": "GEO-Flag: Detecting and Measuring GEO-Optimized Web Content",
+            "title": "COMA: A Compositional Misleading Attack Class on Security-RAG, and a Causal Counterfactual Defense",
             "source": "ArXiv",
             "type": "Research Alpha",
             "color": "text-indigo-600",
-            "url": "http://arxiv.org/abs/2608.16824v1"
+            "url": "http://arxiv.org/abs/2608.17960v1"
         },
         {
             "title": "Bitcoin volatility remains high ahead of key FED decision.",
@@ -640,5 +629,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-08-19 00:51"
+    "timestamp": "2026-08-19 02:14"
 };
