@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "yetone/cumora",
             "description": "Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates \u2014 with cloud or bring-your-own (Claude Code / Codex) brains.",
             "url": "https://github.com/yetone/cumora",
-            "stars": 2608,
-            "forks": 291,
+            "stars": 2624,
+            "forks": 294,
             "score": 99
         },
         {
@@ -18,8 +18,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "eternityspring/shuohao-skills",
             "description": "AI \u77ed\u5267\u5236\u4f5c\u7684 skill \u96c6\u5408\uff1a\u62c6\u89d2\u8272\u3001\u6392\u5927\u7eb2\u3001\u51fa\u573a\u666f\u4e0e\u9053\u5177\u8bbe\u5b9a\u3001\u5199\u5267\u672c\u3001\u5207\u5206\u955c | Agent skills for AI short-drama production \u2014 character bibles, adaptation outlines, art bibles, screenplays, storyboards. Runs in Claude Code & codex.",
             "url": "https://github.com/eternityspring/shuohao-skills",
-            "stars": 1714,
-            "forks": 209,
+            "stars": 1718,
+            "forks": 210,
             "score": 99
         },
         {
@@ -29,7 +29,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "bawadou/ai-data-extractor",
             "description": "Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.",
             "url": "https://github.com/bawadou/ai-data-extractor",
-            "stars": 249,
+            "stars": 253,
             "forks": 96,
             "score": 93
         },
@@ -40,20 +40,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "jeremy-prt/bloub",
             "description": "SVG recreation of the x.ai bot avatar. One shape morphing through 14 states, measured off the reference video frame by frame.",
             "url": "https://github.com/jeremy-prt/bloub",
-            "stars": 478,
+            "stars": 485,
             "forks": 51,
-            "score": 86
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "grok-register",
-            "full_name": "xinxinshuhao-create/grok-register",
-            "description": "Automated account registration toolkit for x.ai (Grok) with SSO extraction, OAuth Device Flow, and auto-replenish daemon",
-            "url": "https://github.com/xinxinshuhao-create/grok-register",
-            "stars": 458,
-            "forks": 116,
-            "score": 81
+            "score": 87
         },
         {
             "main_cat": "AI",
@@ -63,19 +52,8 @@ const ALPHA_DATA_V2 = {
             "description": "A source-grounded course & reference for engineers designing systems that must survive real traffic, partial failure, security review, and changing requirements, spanning enterprise system design, distributed systems, AI systems, cybersecurity, reliability, cloud, HPC, edge, and mission-critical infrastructure.",
             "url": "https://github.com/DrHazemAli/enterprise-system-design",
             "stars": 555,
-            "forks": 114,
+            "forks": 115,
             "score": 80
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "chatbot-template",
-            "full_name": "shadcn-ui/chatbot-template",
-            "description": "A minimal chatbot template built with Next.js, AI SDK, shadcn/ui, shadcn/react, shadcn/typeset. It runs on the Vercel AI Gateway.",
-            "url": "https://github.com/shadcn-ui/chatbot-template",
-            "stars": 723,
-            "forks": 65,
-            "score": 79
         },
         {
             "main_cat": "AI",
@@ -84,9 +62,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "wang2122/sprix-sage-router",
             "description": "Sprix AI at \u5c7f\u667a\u540c\u884c \u2014 state-aware SELF/COLLABORATE/HANDOFF routing for A2A agent networks.",
             "url": "https://github.com/wang2122/sprix-sage-router",
-            "stars": 361,
+            "stars": 366,
             "forks": 9,
-            "score": 79
+            "score": 80
         },
         {
             "main_cat": "AI",
@@ -102,13 +80,35 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
+            "name": "grok-register",
+            "full_name": "xinxinshuhao-create/grok-register",
+            "description": "Automated account registration toolkit for x.ai (Grok) with SSO extraction, OAuth Device Flow, and auto-replenish daemon",
+            "url": "https://github.com/xinxinshuhao-create/grok-register",
+            "stars": 459,
+            "forks": 116,
+            "score": 76
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "chatbot-template",
+            "full_name": "shadcn-ui/chatbot-template",
+            "description": "A minimal chatbot template built with Next.js, AI SDK, shadcn/ui, shadcn/react, shadcn/typeset. It runs on the Vercel AI Gateway.",
+            "url": "https://github.com/shadcn-ui/chatbot-template",
+            "stars": 725,
+            "forks": 65,
+            "score": 74
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
             "name": "barehands",
             "full_name": "jaredrhod/barehands",
             "description": "Move things on your screen with your bare hands. A webcam-powered, hand-tracked interface for your AI. No headset. No controllers.",
             "url": "https://github.com/jaredrhod/barehands",
-            "stars": 324,
-            "forks": 65,
-            "score": 71
+            "stars": 328,
+            "forks": 66,
+            "score": 72
         },
         {
             "main_cat": "AI",
@@ -117,7 +117,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "mewamew/my_ai_town",
             "description": "\u6211\u7684AI\u5c0f\u9547",
             "url": "https://github.com/mewamew/my_ai_town",
-            "stars": 621,
+            "stars": 624,
             "forks": 141,
             "score": 69
         },
@@ -128,7 +128,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "lexmount/moli",
             "description": "Best headless browser for AI agents. Lite, Fast, High-Compatibility. Built in Rust",
             "url": "https://github.com/lexmount/moli",
-            "stars": 608,
+            "stars": 610,
             "forks": 39,
             "score": 64
         },
@@ -139,7 +139,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "fufankeji/deepseek-harness-studio",
             "description": "DeepSeek Harness \u96f6\u4ee3\u7801\u684c\u9762\u7aef\uff5c\u4e00\u952e\u542f\u52a8\uff0c\u652f\u6301 Windows \u4e0e macOS\uff1b\u5185\u7f6e\u63d2\u4ef6\u53d1\u73b0\u3001\u70ed\u70b9\u63d2\u4ef6\u63a8\u9001\u3001\u4e00\u952e\u5b89\u88c5\u4e0e\u7ba1\u7406\u3001AI \u667a\u80fd\u63a8\u8350\u548c\u89c6\u89c9\u589e\u5f3a\u3002",
             "url": "https://github.com/fufankeji/deepseek-harness-studio",
-            "stars": 322,
+            "stars": 327,
             "forks": 36,
             "score": 63
         },
@@ -161,7 +161,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "vibeinging/deepseek-harness-desktop-app",
             "description": "DeepSeek Harness Desktop App: a local AI desktop workspace for DSH Sessions, projects, files, web research, plugins, and Office artifacts.",
             "url": "https://github.com/vibeinging/deepseek-harness-desktop-app",
-            "stars": 488,
+            "stars": 489,
             "forks": 7,
             "score": 58
         },
@@ -172,8 +172,19 @@ const ALPHA_DATA_V2 = {
             "full_name": "50kg/image-to-slice",
             "description": "AI \u62c6\u56fe\u3001\u88ab\u906e\u6321\u80cc\u666f\u8865\u9f50\u3001\u4eba\u5de5\u6821\u51c6\u3001\u5bfc\u5165\u53ef\u7f16\u8f91 Figma \u56fe\u5c42\u3001\u5bfc\u51fa HTML/CSS",
             "url": "https://github.com/50kg/image-to-slice",
-            "stars": 322,
+            "stars": 323,
             "forks": 58,
+            "score": 55
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "llm-inference-engineering",
+            "full_name": "amitshekhariitbhu/llm-inference-engineering",
+            "description": "Learn LLM Inference Engineering step by step - from KV cache, PagedAttention, and continuous batching to vLLM, SGLang, and GPUs.",
+            "url": "https://github.com/amitshekhariitbhu/llm-inference-engineering",
+            "stars": 146,
+            "forks": 14,
             "score": 55
         },
         {
@@ -185,17 +196,6 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/ryzqi/learn-agent",
             "stars": 245,
             "forks": 35,
-            "score": 54
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "llm-inference-engineering",
-            "full_name": "amitshekhariitbhu/llm-inference-engineering",
-            "description": "Learn LLM Inference Engineering step by step - from KV cache, PagedAttention, and continuous batching to vLLM, SGLang, and GPUs.",
-            "url": "https://github.com/amitshekhariitbhu/llm-inference-engineering",
-            "stars": 141,
-            "forks": 14,
             "score": 54
         },
         {
@@ -249,7 +249,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "pgrundev/pgbot",
             "description": "Postgres intelligence for ai agents & apps",
             "url": "https://github.com/pgrundev/pgbot",
-            "stars": 276,
+            "stars": 278,
             "forks": 17,
             "score": 47
         },
@@ -366,6 +366,17 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
+            "name": "awesome-ai-harness",
+            "full_name": "Vendredi218/awesome-ai-harness",
+            "description": "The model is the engine; the harness is the car. Curated knowledge on harness engineering \u2014 context management, tool design, agent loops, memory, sandboxing, evals. EN/\u4e2d\u6587",
+            "url": "https://github.com/Vendredi218/awesome-ai-harness",
+            "stars": 18,
+            "forks": 1,
+            "score": 31
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
             "name": "dsh-directorx",
             "full_name": "LaplaceYoung/dsh-directorx",
             "description": "DirectorX as a DeepSeek Harness plugin: AI video/image/audio skills, knowledge corpus, and configurable vision/image/video/audio model tools.",
@@ -399,17 +410,6 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
-            "name": "Pisces",
-            "full_name": "ant-intl/Pisces",
-            "description": "Pisces is a practical cryptography-based RAG framework that protects both user queries and knowledge-base documents while supporting semantic and lexical retrieval. It combines private coarse-to-fine semantic search with multi-instance labeled PSI for BM25, achieving accuracy within 1.87% of plaintext baselines.",
-            "url": "https://github.com/ant-intl/Pisces",
-            "stars": 9,
-            "forks": 1,
-            "score": 30
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
             "name": "Phony",
             "full_name": "Dotman-Bei/Phony",
             "description": "An ERC-4626 yield restaking vault on BOT Chain that accepts tokenized Real World Assets (RWAs) and automatically routes them into optimized, auto-compounding yield strategies.",
@@ -437,6 +437,17 @@ const ALPHA_DATA_V2 = {
             "description": "Real-time Color Prediction Game built with Laravel 12 \u2014 Win Go style betting game with admin panel, wallet system & auto round generation.",
             "url": "https://github.com/rahulbhatiwal5-cmyk/laravel-colour-game",
             "stars": 1,
+            "forks": 0,
+            "score": 30
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "horse-racing-bets-and-evals",
+            "full_name": "analeonescu/horse-racing-bets-and-evals",
+            "description": "Machine learning models for horse racing prediction, betting strategy evaluation, and comparison against market-implied probabilities.",
+            "url": "https://github.com/analeonescu/horse-racing-bets-and-evals",
+            "stars": 0,
             "forks": 0,
             "score": 30
         },
@@ -619,6 +630,20 @@ const ALPHA_DATA_V2 = {
     ],
     "news": [
         {
+            "title": "Multivalued Consensus: General Adversaries Require More Communication",
+            "source": "ArXiv",
+            "type": "Research Alpha",
+            "color": "text-indigo-600",
+            "url": "http://arxiv.org/abs/2608.17998v1"
+        },
+        {
+            "title": "COMA: A Compositional Misleading Attack Class on Security-RAG, and a Causal Counterfactual Defense",
+            "source": "ArXiv",
+            "type": "Research Alpha",
+            "color": "text-indigo-600",
+            "url": "http://arxiv.org/abs/2608.17960v1"
+        },
+        {
             "title": "Bitcoin volatility remains high ahead of key FED decision.",
             "source": "Polymarket",
             "type": "Expectation",
@@ -626,5 +651,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-08-19 11:18"
+    "timestamp": "2026-08-19 12:32"
 };
