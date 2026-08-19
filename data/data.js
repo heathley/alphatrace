@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "yetone/cumora",
             "description": "Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates \u2014 with cloud or bring-your-own (Claude Code / Codex) brains.",
             "url": "https://github.com/yetone/cumora",
-            "stars": 2577,
-            "forks": 285,
+            "stars": 2590,
+            "forks": 289,
             "score": 99
         },
         {
@@ -18,7 +18,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "eternityspring/shuohao-skills",
             "description": "AI \u77ed\u5267\u5236\u4f5c\u7684 skill \u96c6\u5408\uff1a\u62c6\u89d2\u8272\u3001\u6392\u5927\u7eb2\u3001\u51fa\u573a\u666f\u4e0e\u9053\u5177\u8bbe\u5b9a\u3001\u5199\u5267\u672c\u3001\u5207\u5206\u955c | Agent skills for AI short-drama production \u2014 character bibles, adaptation outlines, art bibles, screenplays, storyboards. Runs in Claude Code & codex.",
             "url": "https://github.com/eternityspring/shuohao-skills",
-            "stars": 1708,
+            "stars": 1710,
             "forks": 207,
             "score": 99
         },
@@ -29,7 +29,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "bawadou/ai-data-extractor",
             "description": "Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.",
             "url": "https://github.com/bawadou/ai-data-extractor",
-            "stars": 239,
+            "stars": 242,
             "forks": 96,
             "score": 92
         },
@@ -40,9 +40,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "jeremy-prt/bloub",
             "description": "SVG recreation of the x.ai bot avatar. One shape morphing through 14 states, measured off the reference video frame by frame.",
             "url": "https://github.com/jeremy-prt/bloub",
-            "stars": 466,
+            "stars": 472,
             "forks": 51,
-            "score": 85
+            "score": 86
         },
         {
             "main_cat": "AI",
@@ -51,7 +51,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "xinxinshuhao-create/grok-register",
             "description": "Automated account registration toolkit for x.ai (Grok) with SSO extraction, OAuth Device Flow, and auto-replenish daemon",
             "url": "https://github.com/xinxinshuhao-create/grok-register",
-            "stars": 457,
+            "stars": 458,
             "forks": 116,
             "score": 81
         },
@@ -80,6 +80,17 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
+            "name": "sprix-sage-router",
+            "full_name": "wang2122/sprix-sage-router",
+            "description": "Sprix AI at \u5c7f\u667a\u540c\u884c \u2014 state-aware SELF/COLLABORATE/HANDOFF routing for A2A agent networks.",
+            "url": "https://github.com/wang2122/sprix-sage-router",
+            "stars": 361,
+            "forks": 9,
+            "score": 79
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
             "name": "agent-safe-pipeline",
             "full_name": "decionis/agent-safe-pipeline",
             "description": "Reference architecture for AI agents that propose actions but cannot authorize them \u2014 immutable intent capture, an independent Decionis policy verdict (ALLOW/ESCALATE/BLOCK), verified human approval, and a SafeExecutor that consumes a single-use intent-bound grant.",
@@ -91,24 +102,13 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "sprix-sage-router",
-            "full_name": "wang2122/sprix-sage-router",
-            "description": "Sprix AI at \u5c7f\u667a\u540c\u884c \u2014 state-aware SELF/COLLABORATE/HANDOFF routing for A2A agent networks.",
-            "url": "https://github.com/wang2122/sprix-sage-router",
-            "stars": 342,
-            "forks": 9,
-            "score": 77
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
             "name": "barehands",
             "full_name": "jaredrhod/barehands",
             "description": "Move things on your screen with your bare hands. A webcam-powered, hand-tracked interface for your AI. No headset. No controllers.",
             "url": "https://github.com/jaredrhod/barehands",
-            "stars": 318,
+            "stars": 322,
             "forks": 63,
-            "score": 70
+            "score": 71
         },
         {
             "main_cat": "AI",
@@ -128,7 +128,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "lexmount/moli",
             "description": "Best headless browser for AI agents. Lite, Fast, High-Compatibility. Built in Rust",
             "url": "https://github.com/lexmount/moli",
-            "stars": 601,
+            "stars": 605,
             "forks": 39,
             "score": 64
         },
@@ -139,7 +139,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "fufankeji/deepseek-harness-studio",
             "description": "DeepSeek Harness \u96f6\u4ee3\u7801\u684c\u9762\u7aef\uff5c\u4e00\u952e\u542f\u52a8\uff0c\u652f\u6301 Windows \u4e0e macOS\uff1b\u5185\u7f6e\u63d2\u4ef6\u53d1\u73b0\u3001\u70ed\u70b9\u63d2\u4ef6\u63a8\u9001\u3001\u4e00\u952e\u5b89\u88c5\u4e0e\u7ba1\u7406\u3001AI \u667a\u80fd\u63a8\u8350\u548c\u89c6\u89c9\u589e\u5f3a\u3002",
             "url": "https://github.com/fufankeji/deepseek-harness-studio",
-            "stars": 319,
+            "stars": 320,
             "forks": 36,
             "score": 63
         },
@@ -161,7 +161,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "BigPengSays/bigpeng-hot-gzh",
             "description": "\u4ece100 \u591a\u7bc7\u7206\u6b3e AI \u516c\u4f17\u53f7\u6587\u7ae0\u4e2d\u84b8\u998f\u51fa\u7684 7 \u4e2a\u7206\u6b3e\u9009\u9898\u516c\u5f0f\u548c Skill\u3002",
             "url": "https://github.com/BigPengSays/bigpeng-hot-gzh",
-            "stars": 221,
+            "stars": 222,
             "forks": 19,
             "score": 59
         },
@@ -194,7 +194,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "amitshekhariitbhu/llm-inference-engineering",
             "description": "Learn LLM Inference Engineering step by step - from KV cache, PagedAttention, and continuous batching to vLLM, SGLang, and GPUs.",
             "url": "https://github.com/amitshekhariitbhu/llm-inference-engineering",
-            "stars": 137,
+            "stars": 138,
             "forks": 14,
             "score": 54
         },
@@ -227,7 +227,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "miqdadbadjuber/anti-slop",
             "description": "Design rules to stop AI coding agents from generating generic \"AI slop\" UI.",
             "url": "https://github.com/miqdadbadjuber/anti-slop",
-            "stars": 373,
+            "stars": 374,
             "forks": 36,
             "score": 48
         },
@@ -249,7 +249,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "pgrundev/pgbot",
             "description": "Postgres intelligence for ai agents & apps",
             "url": "https://github.com/pgrundev/pgbot",
-            "stars": 275,
+            "stars": 276,
             "forks": 17,
             "score": 47
         },
@@ -282,7 +282,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "jundizhou/easy-stock",
             "description": "A \u80a1\u884c\u60c5\u5206\u6790\u4e0eAI\u667a\u80fd\u6295\u7814\u667a\u80fd\u4f53\u2014\u2014easy stock",
             "url": "https://github.com/jundizhou/easy-stock",
-            "stars": 306,
+            "stars": 308,
             "forks": 5,
             "score": 41
         },
@@ -315,9 +315,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "forbiddeneldergirder/kimi-ai-peak",
             "description": "Kimi AI Peak",
             "url": "https://github.com/forbiddeneldergirder/kimi-ai-peak",
-            "stars": 241,
+            "stars": 272,
             "forks": 0,
-            "score": 37
+            "score": 38
         },
         {
             "main_cat": "AI",
@@ -326,9 +326,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "Blacktrupersist/hailuo-ai-pulse",
             "description": "Hailuo AI Pulse",
             "url": "https://github.com/Blacktrupersist/hailuo-ai-pulse",
-            "stars": 236,
+            "stars": 268,
             "forks": 0,
-            "score": 37
+            "score": 38
         },
         {
             "main_cat": "AI",
@@ -419,6 +419,17 @@ const ALPHA_DATA_V2 = {
             "score": 30
         },
         {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "app",
+            "full_name": "scoregenius/app",
+            "description": "Sports analytics PWA for NFL, NBA and MLB. Model score predictions, compared against the betting market. Frontend source and design documentation.",
+            "url": "https://github.com/scoregenius/app",
+            "stars": 1,
+            "forks": 0,
+            "score": 30
+        },
+        {
             "main_cat": "Prediction Markets",
             "sub_cat": null,
             "name": "laravel-colour-game",
@@ -436,17 +447,6 @@ const ALPHA_DATA_V2 = {
             "full_name": "formidable-oss/tokenburnmarket",
             "description": "Bet your burn. Play-money prediction markets and leaderboards for AI coding agent usage. Communities, countries, world.",
             "url": "https://github.com/formidable-oss/tokenburnmarket",
-            "stars": 0,
-            "forks": 0,
-            "score": 30
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "app",
-            "full_name": "scoregenius/app",
-            "description": "Sports analytics PWA for NFL, NBA and MLB. Model score predictions, compared against the betting market. Frontend source and design documentation.",
-            "url": "https://github.com/scoregenius/app",
             "stars": 0,
             "forks": 0,
             "score": 30
@@ -640,5 +640,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-08-19 09:26"
+    "timestamp": "2026-08-19 10:21"
 };
