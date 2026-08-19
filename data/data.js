@@ -29,7 +29,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "eternityspring/shuohao-skills",
             "description": "AI \u77ed\u5267\u5236\u4f5c\u7684 skill \u96c6\u5408\uff1a\u62c6\u89d2\u8272\u3001\u6392\u5927\u7eb2\u3001\u51fa\u573a\u666f\u4e0e\u9053\u5177\u8bbe\u5b9a\u3001\u5199\u5267\u672c\u3001\u5207\u5206\u955c | Agent skills for AI short-drama production \u2014 character bibles, adaptation outlines, art bibles, screenplays, storyboards. Runs in Claude Code & codex.",
             "url": "https://github.com/eternityspring/shuohao-skills",
-            "stars": 1738,
+            "stars": 1739,
             "forks": 213,
             "score": 99
         },
@@ -51,7 +51,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "bawadou/ai-data-extractor",
             "description": "Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.",
             "url": "https://github.com/bawadou/ai-data-extractor",
-            "stars": 322,
+            "stars": 330,
             "forks": 97,
             "score": 89
         },
@@ -62,7 +62,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "jeremy-prt/bloub",
             "description": "SVG recreation of the x.ai bot avatar. One shape morphing through 14 states, measured off the reference video frame by frame.",
             "url": "https://github.com/jeremy-prt/bloub",
-            "stars": 526,
+            "stars": 527,
             "forks": 57,
             "score": 83
         },
@@ -106,7 +106,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "jaredrhod/barehands",
             "description": "Move things on your screen with your bare hands. A webcam-powered, hand-tracked interface for your AI. No headset. No controllers.",
             "url": "https://github.com/jaredrhod/barehands",
-            "stars": 362,
+            "stars": 366,
             "forks": 71,
             "score": 76
         },
@@ -128,8 +128,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "mewamew/my_ai_town",
             "description": "\u6211\u7684AI\u5c0f\u9547",
             "url": "https://github.com/mewamew/my_ai_town",
-            "stars": 626,
-            "forks": 142,
+            "stars": 627,
+            "forks": 143,
             "score": 69
         },
         {
@@ -139,7 +139,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "fufankeji/deepseek-harness-studio",
             "description": "DeepSeek Harness \u96f6\u4ee3\u7801\u684c\u9762\u7aef\uff5c\u4e00\u952e\u542f\u52a8\uff0c\u652f\u6301 Windows \u4e0e macOS\uff1b\u5185\u7f6e\u63d2\u4ef6\u53d1\u73b0\u3001\u70ed\u70b9\u63d2\u4ef6\u63a8\u9001\u3001\u4e00\u952e\u5b89\u88c5\u4e0e\u7ba1\u7406\u3001AI \u667a\u80fd\u63a8\u8350\u548c\u89c6\u89c9\u589e\u5f3a\u3002",
             "url": "https://github.com/fufankeji/deepseek-harness-studio",
-            "stars": 352,
+            "stars": 353,
             "forks": 39,
             "score": 66
         },
@@ -150,7 +150,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "lexmount/moli",
             "description": "Best headless browser for AI agents. Lite, Fast, High-Compatibility. Built in Rust",
             "url": "https://github.com/lexmount/moli",
-            "stars": 645,
+            "stars": 648,
             "forks": 41,
             "score": 63
         },
@@ -161,7 +161,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "amitshekhariitbhu/llm-inference-engineering",
             "description": "Learn LLM Inference Engineering step by step - from KV cache, PagedAttention, and continuous batching to vLLM, SGLang, and GPUs.",
             "url": "https://github.com/amitshekhariitbhu/llm-inference-engineering",
-            "stars": 171,
+            "stars": 175,
             "forks": 18,
             "score": 60
         },
@@ -260,9 +260,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "ItusiAI/Open-Magiviz",
             "description": "Magiviz\uff1a\u5f00\u6e90\u7684 AI \u89c6\u9891\u521b\u4f5c\u5f15\u64ce\uff0c\u628a\u4e00\u6574\u4e2a\u5267\u7ec4\u4ea4\u7ed9\u6bcf\u4e00\u4e2a\u5f00\u53d1\u8005\u4e0e\u521b\u4f5c\u8005",
             "url": "https://github.com/ItusiAI/Open-Magiviz",
-            "stars": 248,
-            "forks": 35,
-            "score": 44
+            "stars": 249,
+            "forks": 36,
+            "score": 45
         },
         {
             "main_cat": "AI",
@@ -416,17 +416,6 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/ayayalar/Qwen3.8-27B-NVFP4-TurboQuant",
             "stars": 11,
             "forks": 1,
-            "score": 30
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "lewin-ai-agent",
-            "full_name": "robofighter/lewin-ai-agent",
-            "description": "LEWIN AI AGENT \u2014 lightweight talking avatar. Grok speaks; lipsync runs in the browser without a GPU viseme model.",
-            "url": "https://github.com/robofighter/lewin-ai-agent",
-            "stars": 10,
-            "forks": 0,
             "score": 30
         },
         {
@@ -673,5 +662,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-08-19 20:18"
+    "timestamp": "2026-08-19 21:18"
 };
