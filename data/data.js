@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "yetone/cumora",
             "description": "Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates \u2014 with cloud or bring-your-own (Claude Code / Codex) brains.",
             "url": "https://github.com/yetone/cumora",
-            "stars": 2454,
-            "forks": 269,
+            "stars": 2470,
+            "forks": 272,
             "score": 99
         },
         {
@@ -18,7 +18,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "eternityspring/shuohao-skills",
             "description": "AI \u77ed\u5267\u5236\u4f5c\u7684 skill \u96c6\u5408\uff1a\u62c6\u89d2\u8272\u3001\u6392\u5927\u7eb2\u3001\u51fa\u573a\u666f\u4e0e\u9053\u5177\u8bbe\u5b9a\u3001\u5199\u5267\u672c\u3001\u5207\u5206\u955c | Agent skills for AI short-drama production \u2014 character bibles, adaptation outlines, art bibles, screenplays, storyboards. Runs in Claude Code & codex.",
             "url": "https://github.com/eternityspring/shuohao-skills",
-            "stars": 1694,
+            "stars": 1695,
             "forks": 204,
             "score": 99
         },
@@ -30,19 +30,8 @@ const ALPHA_DATA_V2 = {
             "description": "Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.",
             "url": "https://github.com/bawadou/ai-data-extractor",
             "stars": 216,
-            "forks": 90,
-            "score": 87
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "enterprise-system-design",
-            "full_name": "DrHazemAli/enterprise-system-design",
-            "description": "A source-grounded course & reference for engineers designing systems that must survive real traffic, partial failure, security review, and changing requirements, spanning enterprise system design, distributed systems, AI systems, cybersecurity, reliability, cloud, HPC, edge, and mission-critical infrastructure.",
-            "url": "https://github.com/DrHazemAli/enterprise-system-design",
-            "stars": 554,
-            "forks": 114,
-            "score": 86
+            "forks": 92,
+            "score": 88
         },
         {
             "main_cat": "AI",
@@ -58,13 +47,13 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "chatbot-template",
-            "full_name": "shadcn-ui/chatbot-template",
-            "description": "A minimal chatbot template built with Next.js, AI SDK, shadcn/ui, shadcn/react, shadcn/typeset. It runs on the Vercel AI Gateway.",
-            "url": "https://github.com/shadcn-ui/chatbot-template",
-            "stars": 722,
-            "forks": 65,
-            "score": 79
+            "name": "enterprise-system-design",
+            "full_name": "DrHazemAli/enterprise-system-design",
+            "description": "A source-grounded course & reference for engineers designing systems that must survive real traffic, partial failure, security review, and changing requirements, spanning enterprise system design, distributed systems, AI systems, cybersecurity, reliability, cloud, HPC, edge, and mission-critical infrastructure.",
+            "url": "https://github.com/DrHazemAli/enterprise-system-design",
+            "stars": 554,
+            "forks": 114,
+            "score": 80
         },
         {
             "main_cat": "AI",
@@ -73,8 +62,19 @@ const ALPHA_DATA_V2 = {
             "full_name": "jeremy-prt/bloub",
             "description": "SVG recreation of the x.ai bot avatar. One shape morphing through 14 states, measured off the reference video frame by frame.",
             "url": "https://github.com/jeremy-prt/bloub",
-            "stars": 424,
-            "forks": 43,
+            "stars": 428,
+            "forks": 45,
+            "score": 80
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "chatbot-template",
+            "full_name": "shadcn-ui/chatbot-template",
+            "description": "A minimal chatbot template built with Next.js, AI SDK, shadcn/ui, shadcn/react, shadcn/typeset. It runs on the Vercel AI Gateway.",
+            "url": "https://github.com/shadcn-ui/chatbot-template",
+            "stars": 722,
+            "forks": 65,
             "score": 79
         },
         {
@@ -95,8 +95,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "jaredrhod/barehands",
             "description": "Move things on your screen with your bare hands. A webcam-powered, hand-tracked interface for your AI. No headset. No controllers.",
             "url": "https://github.com/jaredrhod/barehands",
-            "stars": 298,
-            "forks": 58,
+            "stars": 301,
+            "forks": 59,
             "score": 74
         },
         {
@@ -117,7 +117,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "lexmount/moli",
             "description": "Best headless browser for AI agents. Lite, Fast, High-Compatibility. Built in Rust",
             "url": "https://github.com/lexmount/moli",
-            "stars": 578,
+            "stars": 579,
             "forks": 38,
             "score": 63
         },
@@ -139,7 +139,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "fufankeji/deepseek-harness-studio",
             "description": "DeepSeek Harness \u96f6\u4ee3\u7801\u684c\u9762\u7aef\uff5c\u4e00\u952e\u542f\u52a8\uff0c\u652f\u6301 Windows \u4e0e macOS\uff1b\u5185\u7f6e\u63d2\u4ef6\u53d1\u73b0\u3001\u70ed\u70b9\u63d2\u4ef6\u63a8\u9001\u3001\u4e00\u952e\u5b89\u88c5\u4e0e\u7ba1\u7406\u3001AI \u667a\u80fd\u63a8\u8350\u548c\u89c6\u89c9\u589e\u5f3a\u3002",
             "url": "https://github.com/fufankeji/deepseek-harness-studio",
-            "stars": 298,
+            "stars": 299,
             "forks": 34,
             "score": 61
         },
@@ -150,9 +150,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "BigPengSays/bigpeng-hot-gzh",
             "description": "\u4ece100 \u591a\u7bc7\u7206\u6b3e AI \u516c\u4f17\u53f7\u6587\u7ae0\u4e2d\u84b8\u998f\u51fa\u7684 7 \u4e2a\u7206\u6b3e\u9009\u9898\u516c\u5f0f\u548c Skill\u3002",
             "url": "https://github.com/BigPengSays/bigpeng-hot-gzh",
-            "stars": 214,
-            "forks": 18,
-            "score": 58
+            "stars": 216,
+            "forks": 19,
+            "score": 59
         },
         {
             "main_cat": "AI",
@@ -189,6 +189,17 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "llm-inference-engineering",
+            "full_name": "amitshekhariitbhu/llm-inference-engineering",
+            "description": "Learn LLM Inference Engineering step by step - from KV cache, PagedAttention, and continuous batching to vLLM, SGLang, and GPUs.",
+            "url": "https://github.com/amitshekhariitbhu/llm-inference-engineering",
+            "stars": 117,
+            "forks": 13,
+            "score": 51
+        },
+        {
+            "main_cat": "AI",
             "sub_cat": null,
             "name": "mcp-server",
             "full_name": "sv-number/mcp-server",
@@ -200,24 +211,13 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "llm-inference-engineering",
-            "full_name": "amitshekhariitbhu/llm-inference-engineering",
-            "description": "Learn LLM Inference Engineering step by step - from KV cache, PagedAttention, and continuous batching to vLLM, SGLang, and GPUs.",
-            "url": "https://github.com/amitshekhariitbhu/llm-inference-engineering",
-            "stars": 113,
-            "forks": 13,
-            "score": 50
-        },
-        {
-            "main_cat": "AI",
             "sub_cat": null,
             "name": "anti-slop",
             "full_name": "miqdadbadjuber/anti-slop",
             "description": "Design rules to stop AI coding agents from generating generic \"AI slop\" UI.",
             "url": "https://github.com/miqdadbadjuber/anti-slop",
-            "stars": 367,
-            "forks": 35,
+            "stars": 369,
+            "forks": 36,
             "score": 48
         },
         {
@@ -238,9 +238,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "pgrundev/pgbot",
             "description": "pgbot - Postgres intelligence for AI agents & apps",
             "url": "https://github.com/pgrundev/pgbot",
-            "stars": 271,
+            "stars": 272,
             "forks": 17,
-            "score": 46
+            "score": 47
         },
         {
             "main_cat": "AI",
@@ -304,7 +304,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "2998980-hue/surreal-pop-collage",
             "description": "\u628a\u7167\u7247\u53d8\u6210\u8d85\u73b0\u5b9e\u6ce2\u666e\u62fc\u8d34\u7684 AI agent skill\uff1a\u9ed1\u767d\u73b0\u5b9e\u951a\u70b9 + \u5e73\u6d82\u8272\u5f62 + \u5168\u56fe\u53ea\u6709\u4e00\u4e2a\u4e0d\u53ef\u80fd\u7684\u5de8\u7269\u3002An agent skill that turns photos into surreal pop collages.",
             "url": "https://github.com/2998980-hue/surreal-pop-collage",
-            "stars": 214,
+            "stars": 215,
             "forks": 10,
             "score": 39
         },
@@ -372,6 +372,17 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/LaplaceYoung/dsh-directorx",
             "stars": 10,
             "forks": 1,
+            "score": 31
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "mainarch",
+            "full_name": "MaincodeHQ/mainarch",
+            "description": "A from-scratch Rust inference stack for AMD GPUs that talks straight to the Linux kernel driver. No ROCm, HIP, or HSA runtime. Serves OLMo 2 on MI355X.",
+            "url": "https://github.com/MaincodeHQ/mainarch",
+            "stars": 18,
+            "forks": 2,
             "score": 31
         },
         {
@@ -629,5 +640,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-08-19 03:39"
+    "timestamp": "2026-08-19 04:30"
 };
