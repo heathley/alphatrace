@@ -3,22 +3,11 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "human-writing",
-            "full_name": "KKKKhazix/human-writing",
-            "description": "\u8ba9 AI \u5199\u7684\u4e2d\u6587\u8bfb\u8d77\u6765\u50cf\u4e00\u4e2a\u5177\u4f53\u7684\u4eba\u5728\u8bf4\u8bdd\u3002\u901a\u7528\u521b\u4f5c\u4e0e\u6539\u7a3f Skill\uff0c\u5f00\u7bb1\u5373\u7528\u3002",
-            "url": "https://github.com/KKKKhazix/human-writing",
-            "stars": 2849,
-            "forks": 234,
-            "score": 99
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
             "name": "cumora",
             "full_name": "yetone/cumora",
             "description": "Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates \u2014 with cloud or bring-your-own (Claude Code / Codex) brains.",
             "url": "https://github.com/yetone/cumora",
-            "stars": 2348,
+            "stars": 2373,
             "forks": 259,
             "score": 99
         },
@@ -36,24 +25,24 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "open-kimi-ppt-skill",
-            "full_name": "Binaryify/open-kimi-ppt-skill",
-            "description": "\u975e\u5b98\u65b9 Kimi Slides Skill\uff1a\u8ba9 AI Agent \u751f\u6210\u53ef\u7f16\u8f91 PPTD + PPTX\uff0c\u5e76\u9644\u5e26\u672c\u5730\u6d4f\u89c8\u5668\u7f16\u8f91\u5668 Unofficial Kimi Slides skill for AI agents \u2014 generate editable PPTD + PPTX with a local browser editor",
-            "url": "https://github.com/Binaryify/open-kimi-ppt-skill",
-            "stars": 1603,
-            "forks": 1230,
-            "score": 99
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
             "name": "enterprise-system-design",
             "full_name": "DrHazemAli/enterprise-system-design",
             "description": "A source-grounded course & reference for engineers designing systems that must survive real traffic, partial failure, security review, and changing requirements, spanning enterprise system design, distributed systems, AI systems, cybersecurity, reliability, cloud, HPC, edge, and mission-critical infrastructure.",
             "url": "https://github.com/DrHazemAli/enterprise-system-design",
-            "stars": 552,
+            "stars": 554,
             "forks": 114,
             "score": 86
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "ai-data-extractor",
+            "full_name": "bawadou/ai-data-extractor",
+            "description": "Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.",
+            "url": "https://github.com/bawadou/ai-data-extractor",
+            "stars": 209,
+            "forks": 85,
+            "score": 84
         },
         {
             "main_cat": "AI",
@@ -62,9 +51,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "xinxinshuhao-create/grok-register",
             "description": "Automated account registration toolkit for x.ai (Grok) with SSO extraction, OAuth Device Flow, and auto-replenish daemon",
             "url": "https://github.com/xinxinshuhao-create/grok-register",
-            "stars": 455,
-            "forks": 115,
-            "score": 80
+            "stars": 456,
+            "forks": 116,
+            "score": 81
         },
         {
             "main_cat": "AI",
@@ -73,7 +62,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "shadcn-ui/chatbot-template",
             "description": "A minimal chatbot template built with Next.js, AI SDK, shadcn/ui, shadcn/react, shadcn/typeset. It runs on the Vercel AI Gateway.",
             "url": "https://github.com/shadcn-ui/chatbot-template",
-            "stars": 721,
+            "stars": 722,
             "forks": 65,
             "score": 79
         },
@@ -84,7 +73,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "decionis/agent-safe-pipeline",
             "description": "Reference architecture for AI agents that propose actions but cannot authorize them \u2014 immutable intent capture, an independent Decionis policy verdict (ALLOW/ESCALATE/BLOCK), verified human approval, and a SafeExecutor that consumes a single-use intent-bound grant.",
             "url": "https://github.com/decionis/agent-safe-pipeline",
-            "stars": 532,
+            "stars": 533,
             "forks": 58,
             "score": 77
         },
@@ -95,9 +84,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "jeremy-prt/bloub",
             "description": "SVG recreation of the x.ai bot avatar. One shape morphing through 14 states, measured off the reference video frame by frame.",
             "url": "https://github.com/jeremy-prt/bloub",
-            "stars": 395,
+            "stars": 405,
             "forks": 41,
-            "score": 76
+            "score": 77
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "barehands",
+            "full_name": "jaredrhod/barehands",
+            "description": "Move things on your screen with your bare hands. A webcam-powered, hand-tracked interface for your AI. No headset. No controllers.",
+            "url": "https://github.com/jaredrhod/barehands",
+            "stars": 286,
+            "forks": 52,
+            "score": 71
         },
         {
             "main_cat": "AI",
@@ -113,22 +113,11 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "barehands",
-            "full_name": "jaredrhod/barehands",
-            "description": "Move things on your screen with your bare hands. A webcam-powered, hand-tracked interface for your AI. No headset. No controllers.",
-            "url": "https://github.com/jaredrhod/barehands",
-            "stars": 278,
-            "forks": 51,
-            "score": 70
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
             "name": "deepseek-harness-studio",
             "full_name": "fufankeji/deepseek-harness-studio",
             "description": "DeepSeek Harness \u96f6\u4ee3\u7801\u684c\u9762\u7aef\uff5c\u4e00\u952e\u542f\u52a8\uff0c\u652f\u6301 Windows \u4e0e macOS\uff1b\u5185\u7f6e\u63d2\u4ef6\u53d1\u73b0\u3001\u70ed\u70b9\u63d2\u4ef6\u63a8\u9001\u3001\u4e00\u952e\u5b89\u88c5\u4e0e\u7ba1\u7406\u3001AI \u667a\u80fd\u63a8\u8350\u548c\u89c6\u89c9\u589e\u5f3a\u3002",
             "url": "https://github.com/fufankeji/deepseek-harness-studio",
-            "stars": 289,
+            "stars": 291,
             "forks": 33,
             "score": 65
         },
@@ -139,8 +128,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "lexmount/moli",
             "description": "Best headless browser for AI agents. Lite, Fast, High-Compatibility. Built in Rust",
             "url": "https://github.com/lexmount/moli",
-            "stars": 566,
-            "forks": 37,
+            "stars": 569,
+            "forks": 38,
             "score": 62
         },
         {
@@ -150,9 +139,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "vibeinging/deepseek-harness-desktop-app",
             "description": "DeepSeek Harness Desktop App: a local AI desktop workspace for DSH Sessions, projects, files, web research, plugins, and Office artifacts.",
             "url": "https://github.com/vibeinging/deepseek-harness-desktop-app",
-            "stars": 395,
+            "stars": 486,
             "forks": 7,
-            "score": 56
+            "score": 62
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "llm-inference-engineering",
+            "full_name": "amitshekhariitbhu/llm-inference-engineering",
+            "description": "Learn LLM Inference Engineering step by step - from KV cache, PagedAttention, and continuous batching to vLLM, SGLang, and GPUs.",
+            "url": "https://github.com/amitshekhariitbhu/llm-inference-engineering",
+            "stars": 104,
+            "forks": 11,
+            "score": 54
         },
         {
             "main_cat": "AI",
@@ -174,17 +174,6 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/ryzqi/learn-agent",
             "stars": 240,
             "forks": 35,
-            "score": 53
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "llm-inference-engineering",
-            "full_name": "amitshekhariitbhu/llm-inference-engineering",
-            "description": "Learn LLM Inference Engineering step by step - from KV cache, PagedAttention, and continuous batching to vLLM, SGLang, and GPUs.",
-            "url": "https://github.com/amitshekhariitbhu/llm-inference-engineering",
-            "stars": 96,
-            "forks": 11,
             "score": 53
         },
         {
@@ -223,24 +212,24 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "pgbot",
-            "full_name": "pgrundev/pgbot",
-            "description": "pgbot - Postgres intelligence for AI agents & apps",
-            "url": "https://github.com/pgrundev/pgbot",
-            "stars": 266,
-            "forks": 17,
-            "score": 48
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
             "name": "anti-slop",
             "full_name": "miqdadbadjuber/anti-slop",
             "description": "Design rules to stop AI coding agents from generating generic \"AI slop\" UI.",
             "url": "https://github.com/miqdadbadjuber/anti-slop",
-            "stars": 357,
+            "stars": 360,
             "forks": 34,
             "score": 47
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "pgbot",
+            "full_name": "pgrundev/pgbot",
+            "description": "pgbot - Postgres intelligence for AI agents & apps",
+            "url": "https://github.com/pgrundev/pgbot",
+            "stars": 268,
+            "forks": 17,
+            "score": 46
         },
         {
             "main_cat": "AI",
@@ -271,9 +260,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "Leonxlnx/unlazy",
             "description": "Anti-laziness skill for AI agents. Core: the Depth Tree method, which splits a task N layers deep and gives every leaf the full time budget of the whole task, so effort multiplies with depth. Grounded in 2025-2026 research on model laziness, underthinking and premature completion.",
             "url": "https://github.com/Leonxlnx/unlazy",
-            "stars": 276,
+            "stars": 277,
             "forks": 7,
-            "score": 43
+            "score": 42
         },
         {
             "main_cat": "AI",
@@ -282,7 +271,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "jundizhou/easy-stock",
             "description": "A \u80a1\u884c\u60c5\u5206\u6790\u4e0eAI\u667a\u80fd\u6295\u7814\u667a\u80fd\u4f53\u2014\u2014easy stock",
             "url": "https://github.com/jundizhou/easy-stock",
-            "stars": 295,
+            "stars": 296,
             "forks": 5,
             "score": 41
         },
@@ -306,6 +295,17 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/2998980-hue/surreal-pop-collage",
             "stars": 214,
             "forks": 10,
+            "score": 39
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "Noobi.ai",
+            "full_name": "Innate-Labs/Noobi.ai",
+            "description": "Noobi.ai \u2014 desktop AI game-production workbench with Skills and MCP.",
+            "url": "https://github.com/Innate-Labs/Noobi.ai",
+            "stars": 211,
+            "forks": 6,
             "score": 39
         },
         {
@@ -338,7 +338,7 @@ const ALPHA_DATA_V2 = {
             "description": "SPulse contracts are the on-chain Soroban smart contract layer for the prediction market platform. They manage market creation, user betting, market resolution, payouts, rewards, referrals, and leaderboard tracking on Stellar. The contracts work together to support a trustless, auditable betting system with token incentives and community ranking.",
             "url": "https://github.com/SPulse-Org/SPulse-Contract",
             "stars": 0,
-            "forks": 16,
+            "forks": 17,
             "score": 36
         },
         {
@@ -377,23 +377,12 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
-            "name": "keys-SM121-Optimized-MiniMax-H3-Nvidia-Sol-Engine-Kijai-SolAttn_Triton-Single-DGX-Spark",
-            "full_name": "drowzeys/keys-SM121-Optimized-MiniMax-H3-Nvidia-Sol-Engine-Kijai-SolAttn_Triton-Single-DGX-Spark",
-            "description": "MiniMax-H3 33B audio+video DiT accelerated 1.54x on a single NVIDIA DGX Spark (GB10, sm_121): NVIDIA Sol-Engine FirstBlockCache + batched VAE decode ported to single-GPU ComfyUI, Sol-Attn patched for compute 12.1, kijai Triton INT8/TMA kernels. Benchmarks, charts, one-shot installer, agent recipe.",
-            "url": "https://github.com/drowzeys/keys-SM121-Optimized-MiniMax-H3-Nvidia-Sol-Engine-Kijai-SolAttn_Triton-Single-DGX-Spark",
-            "stars": 28,
-            "forks": 1,
-            "score": 31
-        },
-        {
-            "main_cat": "Cross-chain / Interoperability",
-            "sub_cat": null,
-            "name": "Stell-Topia",
-            "full_name": "Topia-Org/Stell-Topia",
-            "description": "Stell-Topia is a decentralized flight-booking protocol built on the Stellar network. It lets travelers search, reserve, and pay for plane tickets directly in XLM \u2014 no card fees, no cross-border friction, no middleman holding your money hostage between \"booking\" and \"confirmed.\"",
-            "url": "https://github.com/Topia-Org/Stell-Topia",
-            "stars": 0,
-            "forks": 12,
+            "name": "mainarch",
+            "full_name": "MaincodeHQ/mainarch",
+            "description": "A from-scratch Rust inference stack for AMD GPUs that talks straight to the Linux kernel driver. No ROCm, HIP, or HSA runtime. Serves OLMo 2 on MI355X.",
+            "url": "https://github.com/MaincodeHQ/mainarch",
+            "stars": 17,
+            "forks": 2,
             "score": 31
         },
         {
@@ -531,17 +520,6 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
-            "name": "zold",
-            "full_name": "Zoldenburg-me/zold",
-            "description": "Cross-border payments on stablecoin rails \u2014 SEPA in via per-user IBANs, EURe in the user's own passkey Safe, out as SEPA or cash pickup. A reference implementation on testnets and sandboxes.",
-            "url": "https://github.com/Zoldenburg-me/zold",
-            "stars": 0,
-            "forks": 0,
-            "score": 30
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
             "name": "cross-chain-flow",
             "full_name": "Freemandaily/cross-chain-flow",
             "description": "A dbt and Google BigQuery data pipeline designed to reconcile, correlate, and analyze cross-chain token deposits and fulfillments across EVM networks and bridge protocols into a single, normalized transaction ledger.",
@@ -619,6 +597,17 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
+            "name": ".github",
+            "full_name": "Hop-Protocol-bridge/.github",
+            "description": "Download Hop Protocol to move assets across Ethereum scaling networks with fast, cost-aware transfers, clear route details, and liquidity access. Use Hop Protocol bridge to simplify cross-chain activity for wallets, swaps, portfolio moves, and everyday network transfers in one trusted workflow.",
+            "url": "https://github.com/Hop-Protocol-bridge/.github",
+            "stars": 0,
+            "forks": 0,
+            "score": 30
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
             "name": "librarian-mcp",
             "full_name": "andrewdhannah/librarian-mcp",
             "description": "Librarian MCP Protocol Plane \u2014 Cross-platform Model Context Protocol server for governed AI agent execution",
@@ -651,5 +640,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-08-18 23:15"
+    "timestamp": "2026-08-19 00:51"
 };
