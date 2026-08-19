@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "yetone/cumora",
             "description": "Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates \u2014 with cloud or bring-your-own (Claude Code / Codex) brains.",
             "url": "https://github.com/yetone/cumora",
-            "stars": 2416,
-            "forks": 265,
+            "stars": 2454,
+            "forks": 269,
             "score": 99
         },
         {
@@ -18,9 +18,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "eternityspring/shuohao-skills",
             "description": "AI \u77ed\u5267\u5236\u4f5c\u7684 skill \u96c6\u5408\uff1a\u62c6\u89d2\u8272\u3001\u6392\u5927\u7eb2\u3001\u51fa\u573a\u666f\u4e0e\u9053\u5177\u8bbe\u5b9a\u3001\u5199\u5267\u672c\u3001\u5207\u5206\u955c | Agent skills for AI short-drama production \u2014 character bibles, adaptation outlines, art bibles, screenplays, storyboards. Runs in Claude Code & codex.",
             "url": "https://github.com/eternityspring/shuohao-skills",
-            "stars": 1690,
-            "forks": 203,
+            "stars": 1694,
+            "forks": 204,
             "score": 99
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "ai-data-extractor",
+            "full_name": "bawadou/ai-data-extractor",
+            "description": "Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.",
+            "url": "https://github.com/bawadou/ai-data-extractor",
+            "stars": 216,
+            "forks": 90,
+            "score": 87
         },
         {
             "main_cat": "AI",
@@ -31,17 +42,6 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/DrHazemAli/enterprise-system-design",
             "stars": 554,
             "forks": 114,
-            "score": 86
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "ai-data-extractor",
-            "full_name": "bawadou/ai-data-extractor",
-            "description": "Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.",
-            "url": "https://github.com/bawadou/ai-data-extractor",
-            "stars": 213,
-            "forks": 88,
             "score": 86
         },
         {
@@ -73,9 +73,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "jeremy-prt/bloub",
             "description": "SVG recreation of the x.ai bot avatar. One shape morphing through 14 states, measured off the reference video frame by frame.",
             "url": "https://github.com/jeremy-prt/bloub",
-            "stars": 413,
-            "forks": 41,
-            "score": 78
+            "stars": 424,
+            "forks": 43,
+            "score": 79
         },
         {
             "main_cat": "AI",
@@ -95,9 +95,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "jaredrhod/barehands",
             "description": "Move things on your screen with your bare hands. A webcam-powered, hand-tracked interface for your AI. No headset. No controllers.",
             "url": "https://github.com/jaredrhod/barehands",
-            "stars": 294,
-            "forks": 54,
-            "score": 72
+            "stars": 298,
+            "forks": 58,
+            "score": 74
         },
         {
             "main_cat": "AI",
@@ -106,20 +106,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "mewamew/my_ai_town",
             "description": "\u6211\u7684AI\u5c0f\u9547",
             "url": "https://github.com/mewamew/my_ai_town",
-            "stars": 610,
+            "stars": 613,
             "forks": 136,
             "score": 71
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "deepseek-harness-studio",
-            "full_name": "fufankeji/deepseek-harness-studio",
-            "description": "DeepSeek Harness \u96f6\u4ee3\u7801\u684c\u9762\u7aef\uff5c\u4e00\u952e\u542f\u52a8\uff0c\u652f\u6301 Windows \u4e0e macOS\uff1b\u5185\u7f6e\u63d2\u4ef6\u53d1\u73b0\u3001\u70ed\u70b9\u63d2\u4ef6\u63a8\u9001\u3001\u4e00\u952e\u5b89\u88c5\u4e0e\u7ba1\u7406\u3001AI \u667a\u80fd\u63a8\u8350\u548c\u89c6\u89c9\u589e\u5f3a\u3002",
-            "url": "https://github.com/fufankeji/deepseek-harness-studio",
-            "stars": 296,
-            "forks": 33,
-            "score": 65
         },
         {
             "main_cat": "AI",
@@ -128,9 +117,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "lexmount/moli",
             "description": "Best headless browser for AI agents. Lite, Fast, High-Compatibility. Built in Rust",
             "url": "https://github.com/lexmount/moli",
-            "stars": 573,
+            "stars": 578,
             "forks": 38,
-            "score": 62
+            "score": 63
         },
         {
             "main_cat": "AI",
@@ -145,14 +134,25 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "llm-inference-engineering",
-            "full_name": "amitshekhariitbhu/llm-inference-engineering",
-            "description": "Learn LLM Inference Engineering step by step - from KV cache, PagedAttention, and continuous batching to vLLM, SGLang, and GPUs.",
-            "url": "https://github.com/amitshekhariitbhu/llm-inference-engineering",
-            "stars": 109,
-            "forks": 12,
-            "score": 56
+            "sub_cat": null,
+            "name": "deepseek-harness-studio",
+            "full_name": "fufankeji/deepseek-harness-studio",
+            "description": "DeepSeek Harness \u96f6\u4ee3\u7801\u684c\u9762\u7aef\uff5c\u4e00\u952e\u542f\u52a8\uff0c\u652f\u6301 Windows \u4e0e macOS\uff1b\u5185\u7f6e\u63d2\u4ef6\u53d1\u73b0\u3001\u70ed\u70b9\u63d2\u4ef6\u63a8\u9001\u3001\u4e00\u952e\u5b89\u88c5\u4e0e\u7ba1\u7406\u3001AI \u667a\u80fd\u63a8\u8350\u548c\u89c6\u89c9\u589e\u5f3a\u3002",
+            "url": "https://github.com/fufankeji/deepseek-harness-studio",
+            "stars": 298,
+            "forks": 34,
+            "score": 61
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "bigpeng-hot-gzh",
+            "full_name": "BigPengSays/bigpeng-hot-gzh",
+            "description": "\u4ece100 \u591a\u7bc7\u7206\u6b3e AI \u516c\u4f17\u53f7\u6587\u7ae0\u4e2d\u84b8\u998f\u51fa\u7684 7 \u4e2a\u7206\u6b3e\u9009\u9898\u516c\u5f0f\u548c Skill\u3002",
+            "url": "https://github.com/BigPengSays/bigpeng-hot-gzh",
+            "stars": 214,
+            "forks": 18,
+            "score": 58
         },
         {
             "main_cat": "AI",
@@ -161,7 +161,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "50kg/image-to-slice",
             "description": "AI \u62c6\u56fe\u3001\u88ab\u906e\u6321\u80cc\u666f\u8865\u9f50\u3001\u4eba\u5de5\u6821\u51c6\u3001\u5bfc\u5165\u53ef\u7f16\u8f91 Figma \u56fe\u5c42\u3001\u5bfc\u51fa HTML/CSS",
             "url": "https://github.com/50kg/image-to-slice",
-            "stars": 299,
+            "stars": 300,
             "forks": 54,
             "score": 53
         },
@@ -200,12 +200,23 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "llm-inference-engineering",
+            "full_name": "amitshekhariitbhu/llm-inference-engineering",
+            "description": "Learn LLM Inference Engineering step by step - from KV cache, PagedAttention, and continuous batching to vLLM, SGLang, and GPUs.",
+            "url": "https://github.com/amitshekhariitbhu/llm-inference-engineering",
+            "stars": 113,
+            "forks": 13,
+            "score": 50
+        },
+        {
+            "main_cat": "AI",
             "sub_cat": null,
             "name": "anti-slop",
             "full_name": "miqdadbadjuber/anti-slop",
             "description": "Design rules to stop AI coding agents from generating generic \"AI slop\" UI.",
             "url": "https://github.com/miqdadbadjuber/anti-slop",
-            "stars": 364,
+            "stars": 367,
             "forks": 35,
             "score": 48
         },
@@ -238,7 +249,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "JohnKinyanjui/sprite-maker",
             "description": "An open source ai sprite maker",
             "url": "https://github.com/JohnKinyanjui/sprite-maker",
-            "stars": 222,
+            "stars": 223,
             "forks": 32,
             "score": 44
         },
@@ -260,7 +271,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Leonxlnx/unlazy",
             "description": "Anti-laziness skill for AI agents. Core: the Depth Tree method, which splits a task N layers deep and gives every leaf the full time budget of the whole task, so effort multiplies with depth. Grounded in 2025-2026 research on model laziness, underthinking and premature completion.",
             "url": "https://github.com/Leonxlnx/unlazy",
-            "stars": 277,
+            "stars": 278,
             "forks": 7,
             "score": 42
         },
@@ -271,7 +282,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "jundizhou/easy-stock",
             "description": "A \u80a1\u884c\u60c5\u5206\u6790\u4e0eAI\u667a\u80fd\u6295\u7814\u667a\u80fd\u4f53\u2014\u2014easy stock",
             "url": "https://github.com/jundizhou/easy-stock",
-            "stars": 297,
+            "stars": 299,
             "forks": 5,
             "score": 41
         },
@@ -300,24 +311,13 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "Noobi.ai",
-            "full_name": "Innate-Labs/Noobi.ai",
-            "description": "Noobi.ai \u2014 desktop AI game-production workbench with Skills and MCP.",
-            "url": "https://github.com/Innate-Labs/Noobi.ai",
-            "stars": 211,
-            "forks": 6,
-            "score": 39
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
             "name": "kimi-ai-peak",
             "full_name": "forbiddeneldergirder/kimi-ai-peak",
             "description": "Kimi AI Peak",
             "url": "https://github.com/forbiddeneldergirder/kimi-ai-peak",
             "stars": 241,
             "forks": 0,
-            "score": 38
+            "score": 37
         },
         {
             "main_cat": "AI",
@@ -629,5 +629,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-08-19 02:14"
+    "timestamp": "2026-08-19 03:39"
 };
