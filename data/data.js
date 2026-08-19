@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "yetone/cumora",
             "description": "Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates \u2014 with cloud or bring-your-own (Claude Code / Codex) brains.",
             "url": "https://github.com/yetone/cumora",
-            "stars": 2487,
-            "forks": 275,
+            "stars": 2508,
+            "forks": 276,
             "score": 99
         },
         {
@@ -18,8 +18,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "eternityspring/shuohao-skills",
             "description": "AI \u77ed\u5267\u5236\u4f5c\u7684 skill \u96c6\u5408\uff1a\u62c6\u89d2\u8272\u3001\u6392\u5927\u7eb2\u3001\u51fa\u573a\u666f\u4e0e\u9053\u5177\u8bbe\u5b9a\u3001\u5199\u5267\u672c\u3001\u5207\u5206\u955c | Agent skills for AI short-drama production \u2014 character bibles, adaptation outlines, art bibles, screenplays, storyboards. Runs in Claude Code & codex.",
             "url": "https://github.com/eternityspring/shuohao-skills",
-            "stars": 1696,
-            "forks": 204,
+            "stars": 1697,
+            "forks": 205,
             "score": 99
         },
         {
@@ -29,9 +29,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "bawadou/ai-data-extractor",
             "description": "Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.",
             "url": "https://github.com/bawadou/ai-data-extractor",
-            "stars": 219,
-            "forks": 92,
-            "score": 88
+            "stars": 225,
+            "forks": 96,
+            "score": 90
         },
         {
             "main_cat": "AI",
@@ -40,9 +40,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "jeremy-prt/bloub",
             "description": "SVG recreation of the x.ai bot avatar. One shape morphing through 14 states, measured off the reference video frame by frame.",
             "url": "https://github.com/jeremy-prt/bloub",
-            "stars": 434,
-            "forks": 48,
-            "score": 82
+            "stars": 441,
+            "forks": 49,
+            "score": 83
         },
         {
             "main_cat": "AI",
@@ -51,7 +51,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "xinxinshuhao-create/grok-register",
             "description": "Automated account registration toolkit for x.ai (Grok) with SSO extraction, OAuth Device Flow, and auto-replenish daemon",
             "url": "https://github.com/xinxinshuhao-create/grok-register",
-            "stars": 456,
+            "stars": 457,
             "forks": 116,
             "score": 81
         },
@@ -73,7 +73,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "shadcn-ui/chatbot-template",
             "description": "A minimal chatbot template built with Next.js, AI SDK, shadcn/ui, shadcn/react, shadcn/typeset. It runs on the Vercel AI Gateway.",
             "url": "https://github.com/shadcn-ui/chatbot-template",
-            "stars": 722,
+            "stars": 723,
             "forks": 65,
             "score": 79
         },
@@ -84,7 +84,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "decionis/agent-safe-pipeline",
             "description": "Reference architecture for AI agents that propose actions but cannot authorize them \u2014 immutable intent capture, an independent Decionis policy verdict (ALLOW/ESCALATE/BLOCK), verified human approval, and a SafeExecutor that consumes a single-use intent-bound grant.",
             "url": "https://github.com/decionis/agent-safe-pipeline",
-            "stars": 533,
+            "stars": 534,
             "forks": 58,
             "score": 77
         },
@@ -95,9 +95,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "jaredrhod/barehands",
             "description": "Move things on your screen with your bare hands. A webcam-powered, hand-tracked interface for your AI. No headset. No controllers.",
             "url": "https://github.com/jaredrhod/barehands",
-            "stars": 302,
-            "forks": 59,
-            "score": 74
+            "stars": 307,
+            "forks": 60,
+            "score": 75
         },
         {
             "main_cat": "AI",
@@ -117,7 +117,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "lexmount/moli",
             "description": "Best headless browser for AI agents. Lite, Fast, High-Compatibility. Built in Rust",
             "url": "https://github.com/lexmount/moli",
-            "stars": 583,
+            "stars": 586,
             "forks": 39,
             "score": 63
         },
@@ -139,7 +139,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "fufankeji/deepseek-harness-studio",
             "description": "DeepSeek Harness \u96f6\u4ee3\u7801\u684c\u9762\u7aef\uff5c\u4e00\u952e\u542f\u52a8\uff0c\u652f\u6301 Windows \u4e0e macOS\uff1b\u5185\u7f6e\u63d2\u4ef6\u53d1\u73b0\u3001\u70ed\u70b9\u63d2\u4ef6\u63a8\u9001\u3001\u4e00\u952e\u5b89\u88c5\u4e0e\u7ba1\u7406\u3001AI \u667a\u80fd\u63a8\u8350\u548c\u89c6\u89c9\u589e\u5f3a\u3002",
             "url": "https://github.com/fufankeji/deepseek-harness-studio",
-            "stars": 302,
+            "stars": 305,
             "forks": 34,
             "score": 61
         },
@@ -150,7 +150,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "BigPengSays/bigpeng-hot-gzh",
             "description": "\u4ece100 \u591a\u7bc7\u7206\u6b3e AI \u516c\u4f17\u53f7\u6587\u7ae0\u4e2d\u84b8\u998f\u51fa\u7684 7 \u4e2a\u7206\u6b3e\u9009\u9898\u516c\u5f0f\u548c Skill\u3002",
             "url": "https://github.com/BigPengSays/bigpeng-hot-gzh",
-            "stars": 216,
+            "stars": 217,
             "forks": 19,
             "score": 59
         },
@@ -161,7 +161,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "50kg/image-to-slice",
             "description": "AI \u62c6\u56fe\u3001\u88ab\u906e\u6321\u80cc\u666f\u8865\u9f50\u3001\u4eba\u5de5\u6821\u51c6\u3001\u5bfc\u5165\u53ef\u7f16\u8f91 Figma \u56fe\u5c42\u3001\u5bfc\u51fa HTML/CSS",
             "url": "https://github.com/50kg/image-to-slice",
-            "stars": 302,
+            "stars": 303,
             "forks": 54,
             "score": 53
         },
@@ -178,6 +178,17 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "llm-inference-engineering",
+            "full_name": "amitshekhariitbhu/llm-inference-engineering",
+            "description": "Learn LLM Inference Engineering step by step - from KV cache, PagedAttention, and continuous batching to vLLM, SGLang, and GPUs.",
+            "url": "https://github.com/amitshekhariitbhu/llm-inference-engineering",
+            "stars": 125,
+            "forks": 13,
+            "score": 52
+        },
+        {
+            "main_cat": "AI",
             "sub_cat": null,
             "name": "mkdirs",
             "full_name": "MkThingsHQ/mkdirs",
@@ -185,17 +196,6 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/MkThingsHQ/mkdirs",
             "stars": 239,
             "forks": 67,
-            "score": 51
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "llm-inference-engineering",
-            "full_name": "amitshekhariitbhu/llm-inference-engineering",
-            "description": "Learn LLM Inference Engineering step by step - from KV cache, PagedAttention, and continuous batching to vLLM, SGLang, and GPUs.",
-            "url": "https://github.com/amitshekhariitbhu/llm-inference-engineering",
-            "stars": 120,
-            "forks": 13,
             "score": 51
         },
         {
@@ -216,7 +216,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "miqdadbadjuber/anti-slop",
             "description": "Design rules to stop AI coding agents from generating generic \"AI slop\" UI.",
             "url": "https://github.com/miqdadbadjuber/anti-slop",
-            "stars": 370,
+            "stars": 371,
             "forks": 36,
             "score": 48
         },
@@ -236,9 +236,9 @@ const ALPHA_DATA_V2 = {
             "sub_cat": null,
             "name": "pgbot",
             "full_name": "pgrundev/pgbot",
-            "description": "pgbot - Postgres intelligence for AI agents & apps",
+            "description": "Postgres intelligence for ai agents & apps",
             "url": "https://github.com/pgrundev/pgbot",
-            "stars": 272,
+            "stars": 273,
             "forks": 17,
             "score": 47
         },
@@ -260,7 +260,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "N-allpass/modex-mh-agent",
             "description": "Modex \u00b7 MH Agent \u2014 AI \u5168\u81ea\u52a8\u6570\u5b66\u5efa\u6a21\u667a\u80fd\u4f53,\u517c\u987e\u79d1\u7814\u5168\u6d41\u7a0b:\u4ece\u8d5b\u9898\u5230\u7ade\u8d5b\u7ea7\u8bba\u6587\u4e00\u591c\u8dd1\u5b8c,\u56fd\u8d5b/\u7f8e\u8d5b/\u534e\u4e3a\u676f\u5168\u8986\u76d6(\u67b6\u6784\u5c55\u793a)",
             "url": "https://github.com/N-allpass/modex-mh-agent",
-            "stars": 214,
+            "stars": 215,
             "forks": 0,
             "score": 43
         },
@@ -282,7 +282,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "jundizhou/easy-stock",
             "description": "A \u80a1\u884c\u60c5\u5206\u6790\u4e0eAI\u667a\u80fd\u6295\u7814\u667a\u80fd\u4f53\u2014\u2014easy stock",
             "url": "https://github.com/jundizhou/easy-stock",
-            "stars": 300,
+            "stars": 303,
             "forks": 5,
             "score": 41
         },
@@ -304,9 +304,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "2998980-hue/surreal-pop-collage",
             "description": "\u628a\u7167\u7247\u53d8\u6210\u8d85\u73b0\u5b9e\u6ce2\u666e\u62fc\u8d34\u7684 AI agent skill\uff1a\u9ed1\u767d\u73b0\u5b9e\u951a\u70b9 + \u5e73\u6d82\u8272\u5f62 + \u5168\u56fe\u53ea\u6709\u4e00\u4e2a\u4e0d\u53ef\u80fd\u7684\u5de8\u7269\u3002An agent skill that turns photos into surreal pop collages.",
             "url": "https://github.com/2998980-hue/surreal-pop-collage",
-            "stars": 215,
-            "forks": 10,
-            "score": 39
+            "stars": 216,
+            "forks": 11,
+            "score": 40
         },
         {
             "main_cat": "AI",
@@ -640,5 +640,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-08-19 05:23"
+    "timestamp": "2026-08-19 06:32"
 };
