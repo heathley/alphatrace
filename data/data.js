@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "yetone/cumora",
             "description": "Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates \u2014 with cloud or bring-your-own (Claude Code / Codex) brains.",
             "url": "https://github.com/yetone/cumora",
-            "stars": 2590,
-            "forks": 289,
+            "stars": 2608,
+            "forks": 291,
             "score": 99
         },
         {
@@ -18,8 +18,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "eternityspring/shuohao-skills",
             "description": "AI \u77ed\u5267\u5236\u4f5c\u7684 skill \u96c6\u5408\uff1a\u62c6\u89d2\u8272\u3001\u6392\u5927\u7eb2\u3001\u51fa\u573a\u666f\u4e0e\u9053\u5177\u8bbe\u5b9a\u3001\u5199\u5267\u672c\u3001\u5207\u5206\u955c | Agent skills for AI short-drama production \u2014 character bibles, adaptation outlines, art bibles, screenplays, storyboards. Runs in Claude Code & codex.",
             "url": "https://github.com/eternityspring/shuohao-skills",
-            "stars": 1710,
-            "forks": 207,
+            "stars": 1714,
+            "forks": 209,
             "score": 99
         },
         {
@@ -29,9 +29,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "bawadou/ai-data-extractor",
             "description": "Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.",
             "url": "https://github.com/bawadou/ai-data-extractor",
-            "stars": 242,
+            "stars": 249,
             "forks": 96,
-            "score": 92
+            "score": 93
         },
         {
             "main_cat": "AI",
@@ -40,7 +40,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "jeremy-prt/bloub",
             "description": "SVG recreation of the x.ai bot avatar. One shape morphing through 14 states, measured off the reference video frame by frame.",
             "url": "https://github.com/jeremy-prt/bloub",
-            "stars": 472,
+            "stars": 478,
             "forks": 51,
             "score": 86
         },
@@ -62,7 +62,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "DrHazemAli/enterprise-system-design",
             "description": "A source-grounded course & reference for engineers designing systems that must survive real traffic, partial failure, security review, and changing requirements, spanning enterprise system design, distributed systems, AI systems, cybersecurity, reliability, cloud, HPC, edge, and mission-critical infrastructure.",
             "url": "https://github.com/DrHazemAli/enterprise-system-design",
-            "stars": 554,
+            "stars": 555,
             "forks": 114,
             "score": 80
         },
@@ -106,8 +106,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "jaredrhod/barehands",
             "description": "Move things on your screen with your bare hands. A webcam-powered, hand-tracked interface for your AI. No headset. No controllers.",
             "url": "https://github.com/jaredrhod/barehands",
-            "stars": 322,
-            "forks": 63,
+            "stars": 324,
+            "forks": 65,
             "score": 71
         },
         {
@@ -117,8 +117,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "mewamew/my_ai_town",
             "description": "\u6211\u7684AI\u5c0f\u9547",
             "url": "https://github.com/mewamew/my_ai_town",
-            "stars": 620,
-            "forks": 140,
+            "stars": 621,
+            "forks": 141,
             "score": 69
         },
         {
@@ -128,7 +128,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "lexmount/moli",
             "description": "Best headless browser for AI agents. Lite, Fast, High-Compatibility. Built in Rust",
             "url": "https://github.com/lexmount/moli",
-            "stars": 605,
+            "stars": 608,
             "forks": 39,
             "score": 64
         },
@@ -139,20 +139,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "fufankeji/deepseek-harness-studio",
             "description": "DeepSeek Harness \u96f6\u4ee3\u7801\u684c\u9762\u7aef\uff5c\u4e00\u952e\u542f\u52a8\uff0c\u652f\u6301 Windows \u4e0e macOS\uff1b\u5185\u7f6e\u63d2\u4ef6\u53d1\u73b0\u3001\u70ed\u70b9\u63d2\u4ef6\u63a8\u9001\u3001\u4e00\u952e\u5b89\u88c5\u4e0e\u7ba1\u7406\u3001AI \u667a\u80fd\u63a8\u8350\u548c\u89c6\u89c9\u589e\u5f3a\u3002",
             "url": "https://github.com/fufankeji/deepseek-harness-studio",
-            "stars": 320,
+            "stars": 322,
             "forks": 36,
             "score": 63
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "deepseek-harness-desktop-app",
-            "full_name": "vibeinging/deepseek-harness-desktop-app",
-            "description": "DeepSeek Harness Desktop App: a local AI desktop workspace for DSH Sessions, projects, files, web research, plugins, and Office artifacts.",
-            "url": "https://github.com/vibeinging/deepseek-harness-desktop-app",
-            "stars": 487,
-            "forks": 7,
-            "score": 62
         },
         {
             "main_cat": "AI",
@@ -164,6 +153,17 @@ const ALPHA_DATA_V2 = {
             "stars": 222,
             "forks": 19,
             "score": 59
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "deepseek-harness-desktop-app",
+            "full_name": "vibeinging/deepseek-harness-desktop-app",
+            "description": "DeepSeek Harness Desktop App: a local AI desktop workspace for DSH Sessions, projects, files, web research, plugins, and Office artifacts.",
+            "url": "https://github.com/vibeinging/deepseek-harness-desktop-app",
+            "stars": 488,
+            "forks": 7,
+            "score": 58
         },
         {
             "main_cat": "AI",
@@ -194,7 +194,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "amitshekhariitbhu/llm-inference-engineering",
             "description": "Learn LLM Inference Engineering step by step - from KV cache, PagedAttention, and continuous batching to vLLM, SGLang, and GPUs.",
             "url": "https://github.com/amitshekhariitbhu/llm-inference-engineering",
-            "stars": 138,
+            "stars": 141,
             "forks": 14,
             "score": 54
         },
@@ -218,18 +218,7 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/sv-number/mcp-server",
             "stars": 564,
             "forks": 5,
-            "score": 50
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "anti-slop",
-            "full_name": "miqdadbadjuber/anti-slop",
-            "description": "Design rules to stop AI coding agents from generating generic \"AI slop\" UI.",
-            "url": "https://github.com/miqdadbadjuber/anti-slop",
-            "stars": 374,
-            "forks": 36,
-            "score": 48
+            "score": 49
         },
         {
             "main_cat": "AI",
@@ -241,6 +230,17 @@ const ALPHA_DATA_V2 = {
             "stars": 344,
             "forks": 18,
             "score": 48
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "anti-slop",
+            "full_name": "miqdadbadjuber/anti-slop",
+            "description": "Design rules to stop AI coding agents from generating generic \"AI slop\" UI.",
+            "url": "https://github.com/miqdadbadjuber/anti-slop",
+            "stars": 374,
+            "forks": 36,
+            "score": 47
         },
         {
             "main_cat": "AI",
@@ -282,7 +282,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "jundizhou/easy-stock",
             "description": "A \u80a1\u884c\u60c5\u5206\u6790\u4e0eAI\u667a\u80fd\u6295\u7814\u667a\u80fd\u4f53\u2014\u2014easy stock",
             "url": "https://github.com/jundizhou/easy-stock",
-            "stars": 308,
+            "stars": 309,
             "forks": 5,
             "score": 41
         },
@@ -300,24 +300,13 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "surreal-pop-collage",
-            "full_name": "2998980-hue/surreal-pop-collage",
-            "description": "\u628a\u7167\u7247\u53d8\u6210\u8d85\u73b0\u5b9e\u6ce2\u666e\u62fc\u8d34\u7684 AI agent skill\uff1a\u9ed1\u767d\u73b0\u5b9e\u951a\u70b9 + \u5e73\u6d82\u8272\u5f62 + \u5168\u56fe\u53ea\u6709\u4e00\u4e2a\u4e0d\u53ef\u80fd\u7684\u5de8\u7269\u3002An agent skill that turns photos into surreal pop collages.",
-            "url": "https://github.com/2998980-hue/surreal-pop-collage",
-            "stars": 220,
-            "forks": 11,
-            "score": 40
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
             "name": "kimi-ai-peak",
             "full_name": "forbiddeneldergirder/kimi-ai-peak",
             "description": "Kimi AI Peak",
             "url": "https://github.com/forbiddeneldergirder/kimi-ai-peak",
-            "stars": 272,
+            "stars": 288,
             "forks": 0,
-            "score": 38
+            "score": 39
         },
         {
             "main_cat": "AI",
@@ -326,9 +315,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "Blacktrupersist/hailuo-ai-pulse",
             "description": "Hailuo AI Pulse",
             "url": "https://github.com/Blacktrupersist/hailuo-ai-pulse",
-            "stars": 268,
+            "stars": 285,
             "forks": 0,
             "score": 38
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "perplexity-ai-hub",
+            "full_name": "OutpostMacawThrust/perplexity-ai-hub",
+            "description": "Perplexity AI Hub",
+            "url": "https://github.com/OutpostMacawThrust/perplexity-ai-hub",
+            "stars": 239,
+            "forks": 0,
+            "score": 37
         },
         {
             "main_cat": "AI",
@@ -619,20 +619,6 @@ const ALPHA_DATA_V2 = {
     ],
     "news": [
         {
-            "title": "Multivalued Consensus: General Adversaries Require More Communication",
-            "source": "ArXiv",
-            "type": "Research Alpha",
-            "color": "text-indigo-600",
-            "url": "http://arxiv.org/abs/2608.17998v1"
-        },
-        {
-            "title": "COMA: A Compositional Misleading Attack Class on Security-RAG, and a Causal Counterfactual Defense",
-            "source": "ArXiv",
-            "type": "Research Alpha",
-            "color": "text-indigo-600",
-            "url": "http://arxiv.org/abs/2608.17960v1"
-        },
-        {
             "title": "Bitcoin volatility remains high ahead of key FED decision.",
             "source": "Polymarket",
             "type": "Expectation",
@@ -640,5 +626,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-08-19 10:21"
+    "timestamp": "2026-08-19 11:18"
 };
