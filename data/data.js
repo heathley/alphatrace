@@ -7,7 +7,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "yetone/cumora",
             "description": "Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates \u2014 with cloud or bring-your-own (Claude Code / Codex) brains.",
             "url": "https://github.com/yetone/cumora",
-            "stars": 2717,
+            "stars": 2720,
             "forks": 315,
             "score": 99
         },
@@ -18,8 +18,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "SMNETSTUDIO/WeChat-AI",
             "description": "WeChat AI - \u81ea\u6258\u7ba1\u5fae\u4fe1\u89d2\u8272\u626e\u6f14\u5bf9\u8bdd\u670d\u52a1",
             "url": "https://github.com/SMNETSTUDIO/WeChat-AI",
-            "stars": 1805,
-            "forks": 1271,
+            "stars": 1807,
+            "forks": 1272,
             "score": 99
         },
         {
@@ -29,8 +29,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "CopilotKit/openbot",
             "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
             "url": "https://github.com/CopilotKit/openbot",
-            "stars": 687,
-            "forks": 63,
+            "stars": 752,
+            "forks": 73,
             "score": 99
         },
         {
@@ -40,9 +40,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "wang2122/sprix-sage-router",
             "description": "Sprix AI at \u5c7f\u667a\u540c\u884c \u2014 state-aware SELF/COLLABORATE/HANDOFF routing for A2A agent networks.",
             "url": "https://github.com/wang2122/sprix-sage-router",
-            "stars": 631,
+            "stars": 654,
             "forks": 10,
-            "score": 97
+            "score": 99
         },
         {
             "main_cat": "AI",
@@ -51,9 +51,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "bawadou/ai-data-extractor",
             "description": "Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.",
             "url": "https://github.com/bawadou/ai-data-extractor",
-            "stars": 414,
+            "stars": 430,
             "forks": 97,
-            "score": 96
+            "score": 98
         },
         {
             "main_cat": "AI",
@@ -62,7 +62,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "jeremy-prt/bloub",
             "description": "SVG recreation of the x.ai bot avatar. One shape morphing through 14 states, measured off the reference video frame by frame.",
             "url": "https://github.com/jeremy-prt/bloub",
-            "stars": 545,
+            "stars": 548,
             "forks": 58,
             "score": 85
         },
@@ -73,9 +73,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "jaredrhod/barehands",
             "description": "Move things on your screen with your bare hands. A webcam-powered, hand-tracked interface for your AI. No headset. No controllers.",
             "url": "https://github.com/jaredrhod/barehands",
-            "stars": 401,
-            "forks": 75,
-            "score": 80
+            "stars": 408,
+            "forks": 77,
+            "score": 81
         },
         {
             "main_cat": "AI",
@@ -96,7 +96,7 @@ const ALPHA_DATA_V2 = {
             "description": "Automated account registration toolkit for x.ai (Grok) with SSO extraction, OAuth Device Flow, and auto-replenish daemon",
             "url": "https://github.com/xinxinshuhao-create/grok-register",
             "stars": 462,
-            "forks": 118,
+            "forks": 119,
             "score": 76
         },
         {
@@ -128,7 +128,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "mewamew/my_ai_town",
             "description": "\u6211\u7684AI\u5c0f\u9547",
             "url": "https://github.com/mewamew/my_ai_town",
-            "stars": 629,
+            "stars": 630,
             "forks": 143,
             "score": 70
         },
@@ -150,7 +150,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "lexmount/moli",
             "description": "Best headless browser for AI agents. Lite, Fast, High-Compatibility. Built in Rust",
             "url": "https://github.com/lexmount/moli",
-            "stars": 682,
+            "stars": 685,
             "forks": 43,
             "score": 65
         },
@@ -161,7 +161,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "fufankeji/deepseek-harness-studio",
             "description": "DeepSeek Harness \u96f6\u4ee3\u7801\u684c\u9762\u7aef\uff5c\u4e00\u952e\u542f\u52a8\uff0c\u652f\u6301 Windows \u4e0e macOS\uff1b\u5185\u7f6e\u63d2\u4ef6\u53d1\u73b0\u3001\u70ed\u70b9\u63d2\u4ef6\u63a8\u9001\u3001\u4e00\u952e\u5b89\u88c5\u4e0e\u7ba1\u7406\u3001AI \u667a\u80fd\u63a8\u8350\u548c\u89c6\u89c9\u589e\u5f3a\u3002",
             "url": "https://github.com/fufankeji/deepseek-harness-studio",
-            "stars": 373,
+            "stars": 374,
             "forks": 44,
             "score": 64
         },
@@ -172,9 +172,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "fromleda/text-humanizer",
             "description": "text-humanizer is an open-source project designed to convert text generated by AI to its \"humanized\" version. Bypasses the most of AI detectors such as Turnitin or GPTZero",
             "url": "https://github.com/fromleda/text-humanizer",
-            "stars": 277,
-            "forks": 102,
-            "score": 58
+            "stars": 283,
+            "forks": 106,
+            "score": 59
         },
         {
             "main_cat": "AI",
@@ -183,9 +183,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "amitshekhariitbhu/llm-inference-engineering",
             "description": "Learn LLM Inference Engineering step by step - from KV cache, PagedAttention, and continuous batching to vLLM, SGLang, and GPUs.",
             "url": "https://github.com/amitshekhariitbhu/llm-inference-engineering",
-            "stars": 185,
-            "forks": 18,
-            "score": 55
+            "stars": 186,
+            "forks": 19,
+            "score": 56
         },
         {
             "main_cat": "AI",
@@ -194,7 +194,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "50kg/image-to-slice",
             "description": "AI \u62c6\u56fe\u3001\u88ab\u906e\u6321\u80cc\u666f\u8865\u9f50\u3001\u4eba\u5de5\u6821\u51c6\u3001\u5bfc\u5165\u53ef\u7f16\u8f91 Figma \u56fe\u5c42\u3001\u5bfc\u51fa HTML/CSS",
             "url": "https://github.com/50kg/image-to-slice",
-            "stars": 326,
+            "stars": 327,
             "forks": 59,
             "score": 53
         },
@@ -260,8 +260,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "ItusiAI/Open-Magiviz",
             "description": "Magiviz\uff1a\u5f00\u6e90\u7684 AI \u89c6\u9891\u521b\u4f5c\u5f15\u64ce\uff0c\u628a\u4e00\u6574\u4e2a\u5267\u7ec4\u4ea4\u7ed9\u6bcf\u4e00\u4e2a\u5f00\u53d1\u8005\u4e0e\u521b\u4f5c\u8005",
             "url": "https://github.com/ItusiAI/Open-Magiviz",
-            "stars": 284,
-            "forks": 40,
+            "stars": 289,
+            "forks": 41,
             "score": 47
         },
         {
@@ -271,7 +271,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "pgrundev/pgbot",
             "description": "Postgres intelligence for ai agents & apps",
             "url": "https://github.com/pgrundev/pgbot",
-            "stars": 286,
+            "stars": 287,
             "forks": 17,
             "score": 46
         },
@@ -283,7 +283,7 @@ const ALPHA_DATA_V2 = {
             "description": "An open source ai sprite maker",
             "url": "https://github.com/JohnKinyanjui/sprite-maker",
             "stars": 227,
-            "forks": 32,
+            "forks": 33,
             "score": 43
         },
         {
@@ -293,7 +293,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Leonxlnx/unlazy",
             "description": "Anti-laziness skill for AI agents. Core: the Depth Tree method, which splits a task N layers deep and gives every leaf the full time budget of the whole task, so effort multiplies with depth. Grounded in 2025-2026 research on model laziness, underthinking and premature completion.",
             "url": "https://github.com/Leonxlnx/unlazy",
-            "stars": 286,
+            "stars": 287,
             "forks": 9,
             "score": 42
         },
@@ -359,7 +359,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Vendredi218/awesome-ai-harness",
             "description": "The model is the engine; the harness is the car. Curated knowledge on harness engineering \u2014 context management, tool design, agent loops, memory, sandboxing, evals. EN/\u4e2d\u6587",
             "url": "https://github.com/Vendredi218/awesome-ai-harness",
-            "stars": 18,
+            "stars": 19,
             "forks": 1,
             "score": 31
         },
@@ -662,5 +662,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-08-20 04:29"
+    "timestamp": "2026-08-20 05:23"
 };
