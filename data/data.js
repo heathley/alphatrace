@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "yetone/cumora",
             "description": "Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates \u2014 with cloud or bring-your-own (Claude Code / Codex) brains.",
             "url": "https://github.com/yetone/cumora",
-            "stars": 2739,
-            "forks": 318,
+            "stars": 2746,
+            "forks": 321,
             "score": 99
         },
         {
@@ -18,7 +18,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "SMNETSTUDIO/WeChat-AI",
             "description": "WeChat AI - \u81ea\u6258\u7ba1\u5fae\u4fe1\u89d2\u8272\u626e\u6f14\u5bf9\u8bdd\u670d\u52a1",
             "url": "https://github.com/SMNETSTUDIO/WeChat-AI",
-            "stars": 1809,
+            "stars": 1810,
             "forks": 1272,
             "score": 99
         },
@@ -29,8 +29,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "CopilotKit/openbot",
             "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
             "url": "https://github.com/CopilotKit/openbot",
-            "stars": 928,
-            "forks": 89,
+            "stars": 976,
+            "forks": 96,
             "score": 99
         },
         {
@@ -51,7 +51,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "bawadou/ai-data-extractor",
             "description": "Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.",
             "url": "https://github.com/bawadou/ai-data-extractor",
-            "stars": 476,
+            "stars": 492,
             "forks": 97,
             "score": 99
         },
@@ -62,7 +62,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "jeremy-prt/bloub",
             "description": "SVG recreation of the x.ai bot avatar. One shape morphing through 14 states, measured off the reference video frame by frame.",
             "url": "https://github.com/jeremy-prt/bloub",
-            "stars": 555,
+            "stars": 556,
             "forks": 58,
             "score": 86
         },
@@ -84,8 +84,19 @@ const ALPHA_DATA_V2 = {
             "full_name": "DrHazemAli/enterprise-system-design",
             "description": "A source-grounded course & reference for engineers designing systems that must survive real traffic, partial failure, security review, and changing requirements, spanning enterprise system design, distributed systems, AI systems, cybersecurity, reliability, cloud, HPC, edge, and mission-critical infrastructure.",
             "url": "https://github.com/DrHazemAli/enterprise-system-design",
-            "stars": 561,
-            "forks": 115,
+            "stars": 563,
+            "forks": 116,
+            "score": 76
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "barehands",
+            "full_name": "jaredrhod/barehands",
+            "description": "Move things on your screen with your bare hands. A webcam-powered, hand-tracked interface for your AI. No headset. No controllers.",
+            "url": "https://github.com/jaredrhod/barehands",
+            "stars": 424,
+            "forks": 79,
             "score": 76
         },
         {
@@ -95,19 +106,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "shadcn-ui/chatbot-template",
             "description": "A minimal chatbot template built with Next.js, AI SDK, shadcn/ui, shadcn/react, shadcn/typeset. It runs on the Vercel AI Gateway.",
             "url": "https://github.com/shadcn-ui/chatbot-template",
-            "stars": 726,
+            "stars": 727,
             "forks": 66,
-            "score": 75
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "barehands",
-            "full_name": "jaredrhod/barehands",
-            "description": "Move things on your screen with your bare hands. A webcam-powered, hand-tracked interface for your AI. No headset. No controllers.",
-            "url": "https://github.com/jaredrhod/barehands",
-            "stars": 421,
-            "forks": 78,
             "score": 75
         },
         {
@@ -128,7 +128,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "vibeinging/deepseek-harness-desktop-app",
             "description": "DeepSeek Harness Desktop App: a local AI desktop workspace for DSH Sessions, projects, files, web research, plugins, and Office artifacts.",
             "url": "https://github.com/vibeinging/deepseek-harness-desktop-app",
-            "stars": 605,
+            "stars": 606,
             "forks": 31,
             "score": 70
         },
@@ -150,8 +150,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "lexmount/moli",
             "description": "Best headless browser for AI agents. Lite, Fast, High-Compatibility. Built in Rust",
             "url": "https://github.com/lexmount/moli",
-            "stars": 699,
-            "forks": 43,
+            "stars": 703,
+            "forks": 44,
             "score": 66
         },
         {
@@ -161,7 +161,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "fufankeji/deepseek-harness-studio",
             "description": "DeepSeek Harness \u96f6\u4ee3\u7801\u684c\u9762\u7aef\uff5c\u4e00\u952e\u542f\u52a8\uff0c\u652f\u6301 Windows \u4e0e macOS\uff1b\u5185\u7f6e\u63d2\u4ef6\u53d1\u73b0\u3001\u70ed\u70b9\u63d2\u4ef6\u63a8\u9001\u3001\u4e00\u952e\u5b89\u88c5\u4e0e\u7ba1\u7406\u3001AI \u667a\u80fd\u63a8\u8350\u548c\u89c6\u89c9\u589e\u5f3a\u3002",
             "url": "https://github.com/fufankeji/deepseek-harness-studio",
-            "stars": 385,
+            "stars": 392,
             "forks": 44,
             "score": 65
         },
@@ -172,9 +172,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "fromleda/text-humanizer",
             "description": "text-humanizer is an open-source project designed to convert text generated by AI to its \"humanized\" version. Bypasses the most of AI detectors such as Turnitin or GPTZero",
             "url": "https://github.com/fromleda/text-humanizer",
-            "stars": 307,
-            "forks": 121,
-            "score": 62
+            "stars": 317,
+            "forks": 123,
+            "score": 63
         },
         {
             "main_cat": "AI",
@@ -183,9 +183,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "amitshekhariitbhu/llm-inference-engineering",
             "description": "Learn LLM Inference Engineering step by step - from KV cache, PagedAttention, and continuous batching to vLLM, SGLang, and GPUs.",
             "url": "https://github.com/amitshekhariitbhu/llm-inference-engineering",
-            "stars": 195,
+            "stars": 198,
             "forks": 21,
-            "score": 57
+            "score": 58
         },
         {
             "main_cat": "AI",
@@ -194,8 +194,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "50kg/image-to-slice",
             "description": "AI \u62c6\u56fe\u3001\u88ab\u906e\u6321\u80cc\u666f\u8865\u9f50\u3001\u4eba\u5de5\u6821\u51c6\u3001\u5bfc\u5165\u53ef\u7f16\u8f91 Figma \u56fe\u5c42\u3001\u5bfc\u51fa HTML/CSS",
             "url": "https://github.com/50kg/image-to-slice",
-            "stars": 328,
-            "forks": 59,
+            "stars": 331,
+            "forks": 60,
             "score": 53
         },
         {
@@ -260,8 +260,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "ItusiAI/Open-Magiviz",
             "description": "Magiviz\uff1a\u5f00\u6e90\u7684 AI \u89c6\u9891\u521b\u4f5c\u5f15\u64ce\uff0c\u628a\u4e00\u6574\u4e2a\u5267\u7ec4\u4ea4\u7ed9\u6bcf\u4e00\u4e2a\u5f00\u53d1\u8005\u4e0e\u521b\u4f5c\u8005",
             "url": "https://github.com/ItusiAI/Open-Magiviz",
-            "stars": 309,
-            "forks": 46,
+            "stars": 315,
+            "forks": 47,
             "score": 47
         },
         {
@@ -271,7 +271,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "pgrundev/pgbot",
             "description": "Postgres intelligence for ai agents & apps",
             "url": "https://github.com/pgrundev/pgbot",
-            "stars": 288,
+            "stars": 289,
             "forks": 17,
             "score": 46
         },
@@ -282,9 +282,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "JohnKinyanjui/sprite-maker",
             "description": "An open source ai sprite maker",
             "url": "https://github.com/JohnKinyanjui/sprite-maker",
-            "stars": 228,
-            "forks": 33,
-            "score": 43
+            "stars": 230,
+            "forks": 34,
+            "score": 44
         },
         {
             "main_cat": "AI",
@@ -304,7 +304,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "jundizhou/easy-stock",
             "description": "A \u80a1\u884c\u60c5\u5206\u6790\u4e0eAI\u667a\u80fd\u6295\u7814\u667a\u80fd\u4f53\u2014\u2014easy stock",
             "url": "https://github.com/jundizhou/easy-stock",
-            "stars": 336,
+            "stars": 337,
             "forks": 5,
             "score": 41
         },
@@ -315,7 +315,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "2998980-hue/surreal-pop-collage",
             "description": "\u628a\u7167\u7247\u53d8\u6210\u8d85\u73b0\u5b9e\u6ce2\u666e\u62fc\u8d34\u7684 AI agent skill\uff1a\u9ed1\u767d\u73b0\u5b9e\u951a\u70b9 + \u5e73\u6d82\u8272\u5f62 + \u5168\u56fe\u53ea\u6709\u4e00\u4e2a\u4e0d\u53ef\u80fd\u7684\u5de8\u7269\u3002An agent skill that turns photos into surreal pop collages.",
             "url": "https://github.com/2998980-hue/surreal-pop-collage",
-            "stars": 227,
+            "stars": 228,
             "forks": 11,
             "score": 39
         },
@@ -662,5 +662,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-08-20 08:29"
+    "timestamp": "2026-08-20 09:26"
 };
