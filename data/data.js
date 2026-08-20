@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "yetone/cumora",
             "description": "Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates \u2014 with cloud or bring-your-own (Claude Code / Codex) brains.",
             "url": "https://github.com/yetone/cumora",
-            "stars": 2702,
-            "forks": 309,
+            "stars": 2711,
+            "forks": 312,
             "score": 99
         },
         {
@@ -18,8 +18,19 @@ const ALPHA_DATA_V2 = {
             "full_name": "SMNETSTUDIO/WeChat-AI",
             "description": "WeChat AI - \u81ea\u6258\u7ba1\u5fae\u4fe1\u89d2\u8272\u626e\u6f14\u5bf9\u8bdd\u670d\u52a1",
             "url": "https://github.com/SMNETSTUDIO/WeChat-AI",
-            "stars": 1802,
-            "forks": 1270,
+            "stars": 1805,
+            "forks": 1271,
+            "score": 99
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "openbot",
+            "full_name": "CopilotKit/openbot",
+            "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
+            "url": "https://github.com/CopilotKit/openbot",
+            "stars": 653,
+            "forks": 62,
             "score": 99
         },
         {
@@ -40,20 +51,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "bawadou/ai-data-extractor",
             "description": "Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.",
             "url": "https://github.com/bawadou/ai-data-extractor",
-            "stars": 388,
+            "stars": 405,
             "forks": 97,
-            "score": 94
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "openbot",
-            "full_name": "CopilotKit/openbot",
-            "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
-            "url": "https://github.com/CopilotKit/openbot",
-            "stars": 545,
-            "forks": 42,
-            "score": 89
+            "score": 96
         },
         {
             "main_cat": "AI",
@@ -62,8 +62,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "jeremy-prt/bloub",
             "description": "SVG recreation of the x.ai bot avatar. One shape morphing through 14 states, measured off the reference video frame by frame.",
             "url": "https://github.com/jeremy-prt/bloub",
-            "stars": 538,
-            "forks": 59,
+            "stars": 544,
+            "forks": 58,
             "score": 85
         },
         {
@@ -84,9 +84,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "jaredrhod/barehands",
             "description": "Move things on your screen with your bare hands. A webcam-powered, hand-tracked interface for your AI. No headset. No controllers.",
             "url": "https://github.com/jaredrhod/barehands",
-            "stars": 385,
+            "stars": 394,
             "forks": 74,
-            "score": 78
+            "score": 79
         },
         {
             "main_cat": "AI",
@@ -95,7 +95,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "xinxinshuhao-create/grok-register",
             "description": "Automated account registration toolkit for x.ai (Grok) with SSO extraction, OAuth Device Flow, and auto-replenish daemon",
             "url": "https://github.com/xinxinshuhao-create/grok-register",
-            "stars": 461,
+            "stars": 462,
             "forks": 118,
             "score": 76
         },
@@ -107,8 +107,8 @@ const ALPHA_DATA_V2 = {
             "description": "A minimal chatbot template built with Next.js, AI SDK, shadcn/ui, shadcn/react, shadcn/typeset. It runs on the Vercel AI Gateway.",
             "url": "https://github.com/shadcn-ui/chatbot-template",
             "stars": 726,
-            "forks": 65,
-            "score": 74
+            "forks": 66,
+            "score": 75
         },
         {
             "main_cat": "AI",
@@ -128,31 +128,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "mewamew/my_ai_town",
             "description": "\u6211\u7684AI\u5c0f\u9547",
             "url": "https://github.com/mewamew/my_ai_town",
-            "stars": 627,
+            "stars": 629,
             "forks": 143,
-            "score": 69
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "deepseek-harness-studio",
-            "full_name": "fufankeji/deepseek-harness-studio",
-            "description": "DeepSeek Harness \u96f6\u4ee3\u7801\u684c\u9762\u7aef\uff5c\u4e00\u952e\u542f\u52a8\uff0c\u652f\u6301 Windows \u4e0e macOS\uff1b\u5185\u7f6e\u63d2\u4ef6\u53d1\u73b0\u3001\u70ed\u70b9\u63d2\u4ef6\u63a8\u9001\u3001\u4e00\u952e\u5b89\u88c5\u4e0e\u7ba1\u7406\u3001AI \u667a\u80fd\u63a8\u8350\u548c\u89c6\u89c9\u589e\u5f3a\u3002",
-            "url": "https://github.com/fufankeji/deepseek-harness-studio",
-            "stars": 367,
-            "forks": 42,
-            "score": 68
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "moli",
-            "full_name": "lexmount/moli",
-            "description": "Best headless browser for AI agents. Lite, Fast, High-Compatibility. Built in Rust",
-            "url": "https://github.com/lexmount/moli",
-            "stars": 669,
-            "forks": 41,
-            "score": 64
+            "score": 70
         },
         {
             "main_cat": "AI",
@@ -162,19 +140,30 @@ const ALPHA_DATA_V2 = {
             "description": "DeepSeek Harness Desktop App: a local AI desktop workspace for DSH Sessions, projects, files, web research, plugins, and Office artifacts.",
             "url": "https://github.com/vibeinging/deepseek-harness-desktop-app",
             "stars": 602,
-            "forks": 6,
-            "score": 64
+            "forks": 31,
+            "score": 70
         },
         {
             "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "llm-inference-engineering",
-            "full_name": "amitshekhariitbhu/llm-inference-engineering",
-            "description": "Learn LLM Inference Engineering step by step - from KV cache, PagedAttention, and continuous batching to vLLM, SGLang, and GPUs.",
-            "url": "https://github.com/amitshekhariitbhu/llm-inference-engineering",
-            "stars": 181,
-            "forks": 18,
-            "score": 61
+            "sub_cat": null,
+            "name": "moli",
+            "full_name": "lexmount/moli",
+            "description": "Best headless browser for AI agents. Lite, Fast, High-Compatibility. Built in Rust",
+            "url": "https://github.com/lexmount/moli",
+            "stars": 676,
+            "forks": 43,
+            "score": 65
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "deepseek-harness-studio",
+            "full_name": "fufankeji/deepseek-harness-studio",
+            "description": "DeepSeek Harness \u96f6\u4ee3\u7801\u684c\u9762\u7aef\uff5c\u4e00\u952e\u542f\u52a8\uff0c\u652f\u6301 Windows \u4e0e macOS\uff1b\u5185\u7f6e\u63d2\u4ef6\u53d1\u73b0\u3001\u70ed\u70b9\u63d2\u4ef6\u63a8\u9001\u3001\u4e00\u952e\u5b89\u88c5\u4e0e\u7ba1\u7406\u3001AI \u667a\u80fd\u63a8\u8350\u548c\u89c6\u89c9\u589e\u5f3a\u3002",
+            "url": "https://github.com/fufankeji/deepseek-harness-studio",
+            "stars": 372,
+            "forks": 43,
+            "score": 64
         },
         {
             "main_cat": "AI",
@@ -183,9 +172,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "fromleda/text-humanizer",
             "description": "text-humanizer is an open-source project designed to convert text generated by AI to its \"humanized\" version. Bypasses the most of AI detectors such as Turnitin or GPTZero",
             "url": "https://github.com/fromleda/text-humanizer",
-            "stars": 259,
-            "forks": 99,
-            "score": 57
+            "stars": 273,
+            "forks": 101,
+            "score": 58
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "llm-inference-engineering",
+            "full_name": "amitshekhariitbhu/llm-inference-engineering",
+            "description": "Learn LLM Inference Engineering step by step - from KV cache, PagedAttention, and continuous batching to vLLM, SGLang, and GPUs.",
+            "url": "https://github.com/amitshekhariitbhu/llm-inference-engineering",
+            "stars": 182,
+            "forks": 18,
+            "score": 55
         },
         {
             "main_cat": "AI",
@@ -194,8 +194,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "50kg/image-to-slice",
             "description": "AI \u62c6\u56fe\u3001\u88ab\u906e\u6321\u80cc\u666f\u8865\u9f50\u3001\u4eba\u5de5\u6821\u51c6\u3001\u5bfc\u5165\u53ef\u7f16\u8f91 Figma \u56fe\u5c42\u3001\u5bfc\u51fa HTML/CSS",
             "url": "https://github.com/50kg/image-to-slice",
-            "stars": 324,
-            "forks": 58,
+            "stars": 326,
+            "forks": 59,
             "score": 53
         },
         {
@@ -227,7 +227,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "MkThingsHQ/mkdirs",
             "description": "Open-source AI-powered directory website template built with Next.js",
             "url": "https://github.com/MkThingsHQ/mkdirs",
-            "stars": 240,
+            "stars": 241,
             "forks": 68,
             "score": 49
         },
@@ -256,23 +256,23 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
+            "name": "Open-Magiviz",
+            "full_name": "ItusiAI/Open-Magiviz",
+            "description": "Magiviz\uff1a\u5f00\u6e90\u7684 AI \u89c6\u9891\u521b\u4f5c\u5f15\u64ce\uff0c\u628a\u4e00\u6574\u4e2a\u5267\u7ec4\u4ea4\u7ed9\u6bcf\u4e00\u4e2a\u5f00\u53d1\u8005\u4e0e\u521b\u4f5c\u8005",
+            "url": "https://github.com/ItusiAI/Open-Magiviz",
+            "stars": 283,
+            "forks": 40,
+            "score": 47
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
             "name": "pgbot",
             "full_name": "pgrundev/pgbot",
             "description": "Postgres intelligence for ai agents & apps",
             "url": "https://github.com/pgrundev/pgbot",
             "stars": 286,
             "forks": 17,
-            "score": 46
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "Open-Magiviz",
-            "full_name": "ItusiAI/Open-Magiviz",
-            "description": "Magiviz\uff1a\u5f00\u6e90\u7684 AI \u89c6\u9891\u521b\u4f5c\u5f15\u64ce\uff0c\u628a\u4e00\u6574\u4e2a\u5267\u7ec4\u4ea4\u7ed9\u6bcf\u4e00\u4e2a\u5f00\u53d1\u8005\u4e0e\u521b\u4f5c\u8005",
-            "url": "https://github.com/ItusiAI/Open-Magiviz",
-            "stars": 274,
-            "forks": 40,
             "score": 46
         },
         {
@@ -304,7 +304,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "jundizhou/easy-stock",
             "description": "A \u80a1\u884c\u60c5\u5206\u6790\u4e0eAI\u667a\u80fd\u6295\u7814\u667a\u80fd\u4f53\u2014\u2014easy stock",
             "url": "https://github.com/jundizhou/easy-stock",
-            "stars": 326,
+            "stars": 327,
             "forks": 5,
             "score": 41
         },
@@ -399,6 +399,17 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
+            "name": "Qwen3.8-27B-NVFP4-TurboQuant",
+            "full_name": "ayayalar/Qwen3.8-27B-NVFP4-TurboQuant",
+            "description": "Validated vLLM recipe: Qwen3.8-27B-NVFP4 at full 262,144-token context on a single RTX 5090, GPU-only (no CPU offload).",
+            "url": "https://github.com/ayayalar/Qwen3.8-27B-NVFP4-TurboQuant",
+            "stars": 12,
+            "forks": 1,
+            "score": 31
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
             "name": "XingGraph",
             "full_name": "xing-kj/XingGraph",
             "description": "Knowledge-graph RAG for LLM agents: ontology-driven graph building (RDF/OWL), structured-doc chunking with title attribution, multi-subject WIKI-completion retrieval, model-hop traversal, traceable answers on Neo4j. Built for traceable, low-hallucination LLM memory.",
@@ -416,17 +427,6 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/robofighter/lewin-ai-agent",
             "stars": 11,
             "forks": 0,
-            "score": 30
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "Qwen3.8-27B-NVFP4-TurboQuant",
-            "full_name": "ayayalar/Qwen3.8-27B-NVFP4-TurboQuant",
-            "description": "Validated vLLM recipe: Qwen3.8-27B-NVFP4 at full 262,144-token context on a single RTX 5090, GPU-only (no CPU offload).",
-            "url": "https://github.com/ayayalar/Qwen3.8-27B-NVFP4-TurboQuant",
-            "stars": 11,
-            "forks": 1,
             "score": 30
         },
         {
@@ -662,5 +662,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-08-20 02:13"
+    "timestamp": "2026-08-20 03:40"
 };
