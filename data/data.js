@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "yetone/cumora",
             "description": "Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates \u2014 with cloud or bring-your-own (Claude Code / Codex) brains.",
             "url": "https://github.com/yetone/cumora",
-            "stars": 2677,
-            "forks": 305,
+            "stars": 2684,
+            "forks": 307,
             "score": 99
         },
         {
@@ -18,19 +18,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "SMNETSTUDIO/WeChat-AI",
             "description": "WeChat AI - \u81ea\u6258\u7ba1\u5fae\u4fe1\u89d2\u8272\u626e\u6f14\u5bf9\u8bdd\u670d\u52a1",
             "url": "https://github.com/SMNETSTUDIO/WeChat-AI",
-            "stars": 1795,
-            "forks": 1267,
-            "score": 99
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "shuohao-skills",
-            "full_name": "eternityspring/shuohao-skills",
-            "description": "AI \u77ed\u5267\u5236\u4f5c\u7684 skill \u96c6\u5408\uff1a\u62c6\u89d2\u8272\u3001\u6392\u5927\u7eb2\u3001\u51fa\u573a\u666f\u4e0e\u9053\u5177\u8bbe\u5b9a\u3001\u5199\u5267\u672c\u3001\u5207\u5206\u955c | Agent skills for AI short-drama production \u2014 character bibles, adaptation outlines, art bibles, screenplays, storyboards. Runs in Claude Code & codex.",
-            "url": "https://github.com/eternityspring/shuohao-skills",
-            "stars": 1741,
-            "forks": 213,
+            "stars": 1799,
+            "forks": 1269,
             "score": 99
         },
         {
@@ -40,7 +29,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "wang2122/sprix-sage-router",
             "description": "Sprix AI at \u5c7f\u667a\u540c\u884c \u2014 state-aware SELF/COLLABORATE/HANDOFF routing for A2A agent networks.",
             "url": "https://github.com/wang2122/sprix-sage-router",
-            "stars": 530,
+            "stars": 607,
             "forks": 10,
             "score": 99
         },
@@ -51,9 +40,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "bawadou/ai-data-extractor",
             "description": "Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.",
             "url": "https://github.com/bawadou/ai-data-extractor",
-            "stars": 351,
+            "stars": 375,
             "forks": 97,
-            "score": 91
+            "score": 93
         },
         {
             "main_cat": "AI",
@@ -62,8 +51,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "jeremy-prt/bloub",
             "description": "SVG recreation of the x.ai bot avatar. One shape morphing through 14 states, measured off the reference video frame by frame.",
             "url": "https://github.com/jeremy-prt/bloub",
-            "stars": 529,
-            "forks": 57,
+            "stars": 533,
+            "forks": 58,
             "score": 84
         },
         {
@@ -73,20 +62,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "DrHazemAli/enterprise-system-design",
             "description": "A source-grounded course & reference for engineers designing systems that must survive real traffic, partial failure, security review, and changing requirements, spanning enterprise system design, distributed systems, AI systems, cybersecurity, reliability, cloud, HPC, edge, and mission-critical infrastructure.",
             "url": "https://github.com/DrHazemAli/enterprise-system-design",
-            "stars": 559,
+            "stars": 560,
             "forks": 115,
-            "score": 80
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "barehands",
-            "full_name": "jaredrhod/barehands",
-            "description": "Move things on your screen with your bare hands. A webcam-powered, hand-tracked interface for your AI. No headset. No controllers.",
-            "url": "https://github.com/jaredrhod/barehands",
-            "stars": 375,
-            "forks": 71,
-            "score": 77
+            "score": 81
         },
         {
             "main_cat": "AI",
@@ -95,8 +73,19 @@ const ALPHA_DATA_V2 = {
             "full_name": "CopilotKit/openbot",
             "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
             "url": "https://github.com/CopilotKit/openbot",
-            "stars": 374,
-            "forks": 26,
+            "stars": 455,
+            "forks": 34,
+            "score": 79
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "barehands",
+            "full_name": "jaredrhod/barehands",
+            "description": "Move things on your screen with your bare hands. A webcam-powered, hand-tracked interface for your AI. No headset. No controllers.",
+            "url": "https://github.com/jaredrhod/barehands",
+            "stars": 383,
+            "forks": 72,
             "score": 77
         },
         {
@@ -107,7 +96,7 @@ const ALPHA_DATA_V2 = {
             "description": "Automated account registration toolkit for x.ai (Grok) with SSO extraction, OAuth Device Flow, and auto-replenish daemon",
             "url": "https://github.com/xinxinshuhao-create/grok-register",
             "stars": 461,
-            "forks": 117,
+            "forks": 118,
             "score": 76
         },
         {
@@ -150,8 +139,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "fufankeji/deepseek-harness-studio",
             "description": "DeepSeek Harness \u96f6\u4ee3\u7801\u684c\u9762\u7aef\uff5c\u4e00\u952e\u542f\u52a8\uff0c\u652f\u6301 Windows \u4e0e macOS\uff1b\u5185\u7f6e\u63d2\u4ef6\u53d1\u73b0\u3001\u70ed\u70b9\u63d2\u4ef6\u63a8\u9001\u3001\u4e00\u952e\u5b89\u88c5\u4e0e\u7ba1\u7406\u3001AI \u667a\u80fd\u63a8\u8350\u548c\u89c6\u89c9\u589e\u5f3a\u3002",
             "url": "https://github.com/fufankeji/deepseek-harness-studio",
-            "stars": 353,
-            "forks": 39,
+            "stars": 357,
+            "forks": 40,
             "score": 66
         },
         {
@@ -161,7 +150,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "lexmount/moli",
             "description": "Best headless browser for AI agents. Lite, Fast, High-Compatibility. Built in Rust",
             "url": "https://github.com/lexmount/moli",
-            "stars": 655,
+            "stars": 665,
             "forks": 41,
             "score": 64
         },
@@ -172,7 +161,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "amitshekhariitbhu/llm-inference-engineering",
             "description": "Learn LLM Inference Engineering step by step - from KV cache, PagedAttention, and continuous batching to vLLM, SGLang, and GPUs.",
             "url": "https://github.com/amitshekhariitbhu/llm-inference-engineering",
-            "stars": 177,
+            "stars": 179,
             "forks": 18,
             "score": 61
         },
@@ -183,9 +172,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "vibeinging/deepseek-harness-desktop-app",
             "description": "DeepSeek Harness Desktop App: a local AI desktop workspace for DSH Sessions, projects, files, web research, plugins, and Office artifacts.",
             "url": "https://github.com/vibeinging/deepseek-harness-desktop-app",
-            "stars": 491,
+            "stars": 524,
             "forks": 6,
-            "score": 58
+            "score": 60
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "text-humanizer",
+            "full_name": "fromleda/text-humanizer",
+            "description": "text-humanizer is an open-source project designed to convert text generated by AI to its \"humanized\" version. Bypasses the most of AI detectors such as Turnitin or GPTZero",
+            "url": "https://github.com/fromleda/text-humanizer",
+            "stars": 248,
+            "forks": 99,
+            "score": 56
         },
         {
             "main_cat": "AI",
@@ -262,7 +262,7 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/pgrundev/pgbot",
             "stars": 284,
             "forks": 17,
-            "score": 47
+            "score": 46
         },
         {
             "main_cat": "AI",
@@ -271,9 +271,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "ItusiAI/Open-Magiviz",
             "description": "Magiviz\uff1a\u5f00\u6e90\u7684 AI \u89c6\u9891\u521b\u4f5c\u5f15\u64ce\uff0c\u628a\u4e00\u6574\u4e2a\u5267\u7ec4\u4ea4\u7ed9\u6bcf\u4e00\u4e2a\u5f00\u53d1\u8005\u4e0e\u521b\u4f5c\u8005",
             "url": "https://github.com/ItusiAI/Open-Magiviz",
-            "stars": 254,
-            "forks": 37,
+            "stars": 262,
+            "forks": 38,
             "score": 45
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "sprite-maker",
+            "full_name": "JohnKinyanjui/sprite-maker",
+            "description": "An open source ai sprite maker",
+            "url": "https://github.com/JohnKinyanjui/sprite-maker",
+            "stars": 227,
+            "forks": 32,
+            "score": 43
         },
         {
             "main_cat": "AI",
@@ -282,9 +293,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "Leonxlnx/unlazy",
             "description": "Anti-laziness skill for AI agents. Core: the Depth Tree method, which splits a task N layers deep and gives every leaf the full time budget of the whole task, so effort multiplies with depth. Grounded in 2025-2026 research on model laziness, underthinking and premature completion.",
             "url": "https://github.com/Leonxlnx/unlazy",
-            "stars": 284,
+            "stars": 285,
             "forks": 8,
-            "score": 43
+            "score": 42
         },
         {
             "main_cat": "AI",
@@ -293,31 +304,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "jundizhou/easy-stock",
             "description": "A \u80a1\u884c\u60c5\u5206\u6790\u4e0eAI\u667a\u80fd\u6295\u7814\u667a\u80fd\u4f53\u2014\u2014easy stock",
             "url": "https://github.com/jundizhou/easy-stock",
-            "stars": 323,
+            "stars": 324,
             "forks": 5,
             "score": 41
         },
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "kimi-ai-peak",
-            "full_name": "forbiddeneldergirder/kimi-ai-peak",
-            "description": "Kimi AI Peak",
-            "url": "https://github.com/forbiddeneldergirder/kimi-ai-peak",
-            "stars": 288,
-            "forks": 0,
+            "name": "loomfeed",
+            "full_name": "surya-koritala/loomfeed",
+            "description": "The open-source Reddit alternative built for AI agents and humans \u2014 provenance tracking, reputation, epistemic status labels, and agent debates. Self-host with docker compose.",
+            "url": "https://github.com/surya-koritala/loomfeed",
+            "stars": 224,
+            "forks": 5,
             "score": 39
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "hailuo-ai-pulse",
-            "full_name": "Blacktrupersist/hailuo-ai-pulse",
-            "description": "Hailuo AI Pulse",
-            "url": "https://github.com/Blacktrupersist/hailuo-ai-pulse",
-            "stars": 285,
-            "forks": 0,
-            "score": 38
         },
         {
             "main_cat": "AI",
@@ -392,7 +392,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "undeemed/kimi-k3-in-rust",
             "description": "CPU inference for Kimi K3, a 2.78T-parameter MoE LLM, in pure Rust. No GPU, no BLAS, no PyTorch. Streams the checkpoint from disk. Byte-identical port of kimi-k3-in-c.",
             "url": "https://github.com/undeemed/kimi-k3-in-rust",
-            "stars": 11,
+            "stars": 12,
             "forks": 4,
             "score": 31
         },
@@ -502,17 +502,6 @@ const ALPHA_DATA_V2 = {
             "full_name": "MHKING12/ARC-BD",
             "description": "Bring Stablecoin Payments to Every Local Business with Arc Power Local Commerce with Arc Stablecoins Building a Stablecoin Economy with Arc Arc: Fast, Secure Stablecoin Payments for Communities Connecting Local Businesses Through Arc Stablecoins Arc Stablecoins: The Future of Local Payments From Cash to Crypto.",
             "url": "https://github.com/MHKING12/ARC-BD",
-            "stars": 0,
-            "forks": 0,
-            "score": 30
-        },
-        {
-            "main_cat": "Stablecoin Infrastructure",
-            "sub_cat": null,
-            "name": "solana-payment-ops",
-            "full_name": "payops-labs/solana-payment-ops",
-            "description": "Open Solana stablecoin payment verification and reconciliation infrastructure",
-            "url": "https://github.com/payops-labs/solana-payment-ops",
             "stars": 0,
             "forks": 0,
             "score": 30
@@ -662,5 +651,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-08-19 23:16"
+    "timestamp": "2026-08-20 00:51"
 };
