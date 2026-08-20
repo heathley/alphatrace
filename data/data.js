@@ -7,7 +7,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "yetone/cumora",
             "description": "Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates \u2014 with cloud or bring-your-own (Claude Code / Codex) brains.",
             "url": "https://github.com/yetone/cumora",
-            "stars": 2750,
+            "stars": 2755,
             "forks": 321,
             "score": 99
         },
@@ -29,8 +29,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "CopilotKit/openbot",
             "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
             "url": "https://github.com/CopilotKit/openbot",
-            "stars": 1056,
-            "forks": 104,
+            "stars": 1109,
+            "forks": 108,
             "score": 99
         },
         {
@@ -51,7 +51,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "bawadou/ai-data-extractor",
             "description": "Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.",
             "url": "https://github.com/bawadou/ai-data-extractor",
-            "stars": 516,
+            "stars": 526,
             "forks": 97,
             "score": 99
         },
@@ -62,7 +62,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "jeremy-prt/bloub",
             "description": "SVG recreation of the x.ai bot avatar. One shape morphing through 14 states, measured off the reference video frame by frame.",
             "url": "https://github.com/jeremy-prt/bloub",
-            "stars": 562,
+            "stars": 564,
             "forks": 59,
             "score": 87
         },
@@ -73,19 +73,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "DrHazemAli/enterprise-system-design",
             "description": "A source-grounded course & reference for engineers designing systems that must survive real traffic, partial failure, security review, and changing requirements, spanning enterprise system design, distributed systems, AI systems, cybersecurity, reliability, cloud, HPC, edge, and mission-critical infrastructure.",
             "url": "https://github.com/DrHazemAli/enterprise-system-design",
-            "stars": 563,
-            "forks": 116,
-            "score": 76
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "grok-register",
-            "full_name": "xinxinshuhao-create/grok-register",
-            "description": "Automated account registration toolkit for x.ai (Grok) with SSO extraction, OAuth Device Flow, and auto-replenish daemon",
-            "url": "https://github.com/xinxinshuhao-create/grok-register",
-            "stars": 463,
-            "forks": 119,
+            "stars": 564,
+            "forks": 117,
             "score": 76
         },
         {
@@ -95,20 +84,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "jaredrhod/barehands",
             "description": "Move things on your screen with your bare hands. A webcam-powered, hand-tracked interface for your AI. No headset. No controllers.",
             "url": "https://github.com/jaredrhod/barehands",
-            "stars": 429,
+            "stars": 431,
             "forks": 80,
             "score": 76
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "chatbot-template",
-            "full_name": "shadcn-ui/chatbot-template",
-            "description": "A minimal chatbot template built with Next.js, AI SDK, shadcn/ui, shadcn/react, shadcn/typeset. It runs on the Vercel AI Gateway.",
-            "url": "https://github.com/shadcn-ui/chatbot-template",
-            "stars": 727,
-            "forks": 67,
-            "score": 75
         },
         {
             "main_cat": "AI",
@@ -124,12 +102,34 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
+            "name": "grok-register",
+            "full_name": "xinxinshuhao-create/grok-register",
+            "description": "Automated account registration toolkit for x.ai (Grok) with SSO extraction, OAuth Device Flow, and auto-replenish daemon",
+            "url": "https://github.com/xinxinshuhao-create/grok-register",
+            "stars": 463,
+            "forks": 119,
+            "score": 72
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "chatbot-template",
+            "full_name": "shadcn-ui/chatbot-template",
+            "description": "A minimal chatbot template built with Next.js, AI SDK, shadcn/ui, shadcn/react, shadcn/typeset. It runs on the Vercel AI Gateway.",
+            "url": "https://github.com/shadcn-ui/chatbot-template",
+            "stars": 727,
+            "forks": 67,
+            "score": 71
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
             "name": "moli",
             "full_name": "lexmount/moli",
             "description": "Best headless browser for AI agents. Lite, Fast, High-Compatibility. Built in Rust",
             "url": "https://github.com/lexmount/moli",
-            "stars": 713,
-            "forks": 44,
+            "stars": 719,
+            "forks": 45,
             "score": 67
         },
         {
@@ -157,24 +157,24 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "deepseek-harness-studio",
-            "full_name": "fufankeji/deepseek-harness-studio",
-            "description": "DeepSeek Harness \u96f6\u4ee3\u7801\u684c\u9762\u7aef\uff5c\u4e00\u952e\u542f\u52a8\uff0c\u652f\u6301 Windows \u4e0e macOS\uff1b\u5185\u7f6e\u63d2\u4ef6\u53d1\u73b0\u3001\u70ed\u70b9\u63d2\u4ef6\u63a8\u9001\u3001\u4e00\u952e\u5b89\u88c5\u4e0e\u7ba1\u7406\u3001AI \u667a\u80fd\u63a8\u8350\u548c\u89c6\u89c9\u589e\u5f3a\u3002",
-            "url": "https://github.com/fufankeji/deepseek-harness-studio",
-            "stars": 396,
-            "forks": 44,
-            "score": 65
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
             "name": "text-humanizer",
             "full_name": "fromleda/text-humanizer",
             "description": "text-humanizer is an open-source project designed to convert text generated by AI to its \"humanized\" version. Bypasses the most of AI detectors such as Turnitin or GPTZero",
             "url": "https://github.com/fromleda/text-humanizer",
-            "stars": 335,
-            "forks": 126,
-            "score": 64
+            "stars": 346,
+            "forks": 132,
+            "score": 66
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "deepseek-harness-studio",
+            "full_name": "fufankeji/deepseek-harness-studio",
+            "description": "DeepSeek Harness \u96f6\u4ee3\u7801\u684c\u9762\u7aef\uff5c\u4e00\u952e\u542f\u52a8\uff0c\u652f\u6301 Windows \u4e0e macOS\uff1b\u5185\u7f6e\u63d2\u4ef6\u53d1\u73b0\u3001\u70ed\u70b9\u63d2\u4ef6\u63a8\u9001\u3001\u4e00\u952e\u5b89\u88c5\u4e0e\u7ba1\u7406\u3001AI \u667a\u80fd\u63a8\u8350\u548c\u89c6\u89c9\u589e\u5f3a\u3002",
+            "url": "https://github.com/fufankeji/deepseek-harness-studio",
+            "stars": 397,
+            "forks": 44,
+            "score": 65
         },
         {
             "main_cat": "AI",
@@ -183,9 +183,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "amitshekhariitbhu/llm-inference-engineering",
             "description": "Learn LLM Inference Engineering step by step - from KV cache, PagedAttention, and continuous batching to vLLM, SGLang, and GPUs.",
             "url": "https://github.com/amitshekhariitbhu/llm-inference-engineering",
-            "stars": 199,
-            "forks": 21,
-            "score": 58
+            "stars": 202,
+            "forks": 22,
+            "score": 59
         },
         {
             "main_cat": "AI",
@@ -205,7 +205,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "ryzqi/learn-agent",
             "description": "20 \u7ae0\u4e2d\u6587 AI Agent \u67b6\u6784\u5b9e\u6218\u6559\u7a0b\uff0c\u914d\u5957\u53ef\u8fd0\u884c TypeScript \u4ee3\u7801\uff0c\u8986\u76d6\u5de5\u5177\u3001\u6743\u9650\u3001\u8bb0\u5fc6\u3001\u591a Agent\u3001Worktree \u4e0e MCP\u3002",
             "url": "https://github.com/ryzqi/learn-agent",
-            "stars": 248,
+            "stars": 249,
             "forks": 35,
             "score": 51
         },
@@ -238,7 +238,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "ItusiAI/Open-Magiviz",
             "description": "Magiviz\uff1a\u5f00\u6e90\u7684 AI \u89c6\u9891\u521b\u4f5c\u5f15\u64ce\uff0c\u628a\u4e00\u6574\u4e2a\u5267\u7ec4\u4ea4\u7ed9\u6bcf\u4e00\u4e2a\u5f00\u53d1\u8005\u4e0e\u521b\u4f5c\u8005",
             "url": "https://github.com/ItusiAI/Open-Magiviz",
-            "stars": 324,
+            "stars": 332,
             "forks": 48,
             "score": 48
         },
@@ -260,7 +260,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "miqdadbadjuber/anti-slop",
             "description": "Design rules to stop AI coding agents from generating generic \"AI slop\" UI.",
             "url": "https://github.com/miqdadbadjuber/anti-slop",
-            "stars": 380,
+            "stars": 381,
             "forks": 36,
             "score": 46
         },
@@ -274,6 +274,17 @@ const ALPHA_DATA_V2 = {
             "stars": 291,
             "forks": 17,
             "score": 46
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "dsh-pet",
+            "full_name": "PC2005-cloud/dsh-pet",
+            "description": "DSH \u684c\u9762\u5ba0\u7269\uff1a\u4e00\u884c\u547d\u4ee4\u5b89\u88c5\u73b0\u6210\u5ba0\u7269\uff0828 \u4e2a\u900f\u660e\u52a8\u753b\uff0c\u5373\u88c5\u5373\u7528\uff09\uff0c\u6216\u5185\u7f6e\u7d20\u6750\u94fe\u4ece AI \u89c6\u9891\u81ea\u9020\u4e13\u5c5e\u5ba0\u7269 | One-line install desktop pet for DeepSeek Harness + DIY asset pipeline",
+            "url": "https://github.com/PC2005-cloud/dsh-pet",
+            "stars": 231,
+            "forks": 14,
+            "score": 45
         },
         {
             "main_cat": "AI",
@@ -293,7 +304,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Leonxlnx/unlazy",
             "description": "Anti-laziness skill for AI agents. Core: the Depth Tree method, which splits a task N layers deep and gives every leaf the full time budget of the whole task, so effort multiplies with depth. Grounded in 2025-2026 research on model laziness, underthinking and premature completion.",
             "url": "https://github.com/Leonxlnx/unlazy",
-            "stars": 292,
+            "stars": 293,
             "forks": 9,
             "score": 42
         },
@@ -310,25 +321,14 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
-            "sub_cat": null,
-            "name": "surreal-pop-collage",
-            "full_name": "2998980-hue/surreal-pop-collage",
-            "description": "\u628a\u7167\u7247\u53d8\u6210\u8d85\u73b0\u5b9e\u6ce2\u666e\u62fc\u8d34\u7684 AI agent skill\uff1a\u9ed1\u767d\u73b0\u5b9e\u951a\u70b9 + \u5e73\u6d82\u8272\u5f62 + \u5168\u56fe\u53ea\u6709\u4e00\u4e2a\u4e0d\u53ef\u80fd\u7684\u5de8\u7269\u3002An agent skill that turns photos into surreal pop collages.",
-            "url": "https://github.com/2998980-hue/surreal-pop-collage",
-            "stars": 228,
-            "forks": 11,
-            "score": 39
-        },
-        {
-            "main_cat": "AI",
             "sub_cat": "AI General",
             "name": "SPulse-Contract",
             "full_name": "SPulse-Org/SPulse-Contract",
             "description": "SPulse contracts are the on-chain Soroban smart contract layer for the prediction market platform. They manage market creation, user betting, market resolution, payouts, rewards, referrals, and leaderboard tracking on Stellar. The contracts work together to support a trustless, auditable betting system with token incentives and community ranking.",
             "url": "https://github.com/SPulse-Org/SPulse-Contract",
             "stars": 0,
-            "forks": 20,
-            "score": 36
+            "forks": 21,
+            "score": 37
         },
         {
             "main_cat": "AI",
@@ -350,17 +350,6 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/yangzc/ainote",
             "stars": 25,
             "forks": 3,
-            "score": 31
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "dsh-directorx",
-            "full_name": "LaplaceYoung/dsh-directorx",
-            "description": "DirectorX as a DeepSeek Harness plugin: AI video/image/audio skills, knowledge corpus, and configurable vision/image/video/audio model tools.",
-            "url": "https://github.com/LaplaceYoung/dsh-directorx",
-            "stars": 10,
-            "forks": 1,
             "score": 31
         },
         {
@@ -415,6 +404,17 @@ const ALPHA_DATA_V2 = {
             "description": "Knowledge-graph RAG for LLM agents: ontology-driven graph building (RDF/OWL), structured-doc chunking with title attribution, multi-subject WIKI-completion retrieval, model-hop traversal, traceable answers on Neo4j. Built for traceable, low-hallucination LLM memory.",
             "url": "https://github.com/xing-kj/XingGraph",
             "stars": 12,
+            "forks": 1,
+            "score": 30
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "dsh-directorx",
+            "full_name": "LaplaceYoung/dsh-directorx",
+            "description": "DirectorX as a DeepSeek Harness plugin: AI video/image/audio skills, knowledge corpus, and configurable vision/image/video/audio model tools.",
+            "url": "https://github.com/LaplaceYoung/dsh-directorx",
+            "stars": 10,
             "forks": 1,
             "score": 30
         },
@@ -662,5 +662,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-08-20 11:19"
+    "timestamp": "2026-08-20 12:34"
 };
