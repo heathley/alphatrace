@@ -7,7 +7,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "yetone/cumora",
             "description": "Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates \u2014 with cloud or bring-your-own (Claude Code / Codex) brains.",
             "url": "https://github.com/yetone/cumora",
-            "stars": 2869,
+            "stars": 2872,
             "forks": 346,
             "score": 99
         },
@@ -18,8 +18,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "CopilotKit/OpenBot",
             "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
             "url": "https://github.com/CopilotKit/OpenBot",
-            "stars": 2148,
-            "forks": 230,
+            "stars": 2154,
+            "forks": 232,
             "score": 99
         },
         {
@@ -29,8 +29,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "SMNETSTUDIO/WeChat-AI",
             "description": "WeChat AI - \u81ea\u6258\u7ba1\u5fae\u4fe1\u89d2\u8272\u626e\u6f14\u5bf9\u8bdd\u670d\u52a1",
             "url": "https://github.com/SMNETSTUDIO/WeChat-AI",
-            "stars": 1821,
-            "forks": 1274,
+            "stars": 1822,
+            "forks": 1275,
             "score": 99
         },
         {
@@ -74,7 +74,7 @@ const ALPHA_DATA_V2 = {
             "description": "Move things on your screen with your bare hands. A webcam-powered, hand-tracked interface for your AI. No headset. No controllers.",
             "url": "https://github.com/jaredrhod/barehands",
             "stars": 553,
-            "forks": 108,
+            "forks": 109,
             "score": 84
         },
         {
@@ -84,8 +84,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "jeremy-prt/bloub",
             "description": "SVG recreation of the x.ai bot avatar. One shape morphing through 14 states, measured off the reference video frame by frame.",
             "url": "https://github.com/jeremy-prt/bloub",
-            "stars": 619,
-            "forks": 68,
+            "stars": 620,
+            "forks": 69,
             "score": 79
         },
         {
@@ -95,7 +95,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "cclank/lanshu-create-ai-presenter-video",
             "description": "Provider-neutral Codex Skill for producing verified AI presenter videos from a script and an authorized presenter image.",
             "url": "https://github.com/cclank/lanshu-create-ai-presenter-video",
-            "stars": 250,
+            "stars": 251,
             "forks": 27,
             "score": 74
         },
@@ -108,7 +108,7 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/DrHazemAli/enterprise-system-design",
             "stars": 571,
             "forks": 117,
-            "score": 73
+            "score": 69
         },
         {
             "main_cat": "AI",
@@ -128,7 +128,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "lexmount/moli",
             "description": "Best headless browser for AI agents. Lite, Fast, High-Compatibility. Built in Rust",
             "url": "https://github.com/lexmount/moli",
-            "stars": 868,
+            "stars": 870,
             "forks": 53,
             "score": 68
         },
@@ -139,7 +139,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "shadcn-ui/chatbot-template",
             "description": "A minimal chatbot template built with Next.js, AI SDK, shadcn/ui, shadcn/react, shadcn/typeset. It runs on the Vercel AI Gateway.",
             "url": "https://github.com/shadcn-ui/chatbot-template",
-            "stars": 728,
+            "stars": 730,
             "forks": 68,
             "score": 68
         },
@@ -172,7 +172,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Devin-AXIS/deepseek-design",
             "description": "DeepSeek Harness \u53ef\u7f16\u8f91\u8bbe\u8ba1\u7cfb\u7edf\uff1aAI \u751f\u6210\u3001\u53ef\u89c6\u5316\u7f16\u8f91\u3001\u6a21\u677f\u5e02\u573a\u4e0e PPT\uff5cNative Design & PPT Studio for DeepSeek Harness.",
             "url": "https://github.com/Devin-AXIS/deepseek-design",
-            "stars": 266,
+            "stars": 267,
             "forks": 85,
             "score": 63
         },
@@ -183,7 +183,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "fufankeji/deepseek-harness-studio",
             "description": "DeepSeek Harness \u96f6\u4ee3\u7801\u684c\u9762\u7aef\uff5c\u4e00\u952e\u542f\u52a8\uff0c\u652f\u6301 Windows \u4e0e macOS\uff1b\u5185\u7f6e\u63d2\u4ef6\u53d1\u73b0\u3001\u70ed\u70b9\u63d2\u4ef6\u63a8\u9001\u3001\u4e00\u952e\u5b89\u88c5\u4e0e\u7ba1\u7406\u3001AI \u667a\u80fd\u63a8\u8350\u548c\u89c6\u89c9\u589e\u5f3a\u3002",
             "url": "https://github.com/fufankeji/deepseek-harness-studio",
-            "stars": 441,
+            "stars": 442,
             "forks": 44,
             "score": 60
         },
@@ -194,8 +194,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "Leonxlnx/unlazy",
             "description": "Anti-laziness skill for AI agents. Core: the Depth Tree method, which splits a task N layers deep and gives every leaf the full time budget of the whole task, so effort multiplies with depth. Grounded in 2025-2026 research on model laziness, underthinking and premature completion.",
             "url": "https://github.com/Leonxlnx/unlazy",
-            "stars": 670,
-            "forks": 36,
+            "stars": 679,
+            "forks": 37,
             "score": 57
         },
         {
@@ -205,8 +205,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "ItusiAI/Open-Magiviz",
             "description": "Magiviz\uff1a\u5f00\u6e90\u7684 AI \u89c6\u9891\u521b\u4f5c\u5f15\u64ce\uff0c\u628a\u4e00\u6574\u4e2a\u5267\u7ec4\u4ea4\u7ed9\u6bcf\u4e00\u4e2a\u5f00\u53d1\u8005\u4e0e\u521b\u4f5c\u8005",
             "url": "https://github.com/ItusiAI/Open-Magiviz",
-            "stars": 511,
-            "forks": 79,
+            "stars": 516,
+            "forks": 80,
             "score": 57
         },
         {
@@ -216,7 +216,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "pgrundev/pgbot",
             "description": "Postgres intelligence for ai agents & apps",
             "url": "https://github.com/pgrundev/pgbot",
-            "stars": 560,
+            "stars": 561,
             "forks": 26,
             "score": 55
         },
@@ -227,7 +227,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "50kg/image-to-slice",
             "description": "AI \u62c6\u56fe\u3001\u88ab\u906e\u6321\u80cc\u666f\u8865\u9f50\u3001\u4eba\u5de5\u6821\u51c6\u3001\u5bfc\u5165\u53ef\u7f16\u8f91 Figma \u56fe\u5c42\u3001\u5bfc\u51fa HTML/CSS",
             "url": "https://github.com/50kg/image-to-slice",
-            "stars": 372,
+            "stars": 374,
             "forks": 71,
             "score": 53
         },
@@ -249,7 +249,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "soumatheusgomes/vibe-coding-toolkit",
             "description": "A curated, battle-tested AI-coding toolkit: Claude Code plugins, subagent orchestration, quality gates, and ready-to-copy prompts, extracted from real production use.",
             "url": "https://github.com/soumatheusgomes/vibe-coding-toolkit",
-            "stars": 233,
+            "stars": 234,
             "forks": 48,
             "score": 51
         },
@@ -293,7 +293,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "PC2005-cloud/dsh-pet",
             "description": "DSH \u684c\u9762\u5ba0\u7269\uff1a\u4e00\u884c\u547d\u4ee4\u88c5\u597d\u5373\u7528\u7684\u900f\u660e\u52a8\u753b\u5c0f\u684c\u5ba0\uff0c\u652f\u6301\u591a\u5f00\u3001\u5927\u5c0f\u4f4d\u7f6e\u968f\u5fc3\u914d\u7f6e\uff1b\u8fd8\u5185\u7f6e DIY \u7d20\u6750\u94fe\uff0c\u80fd\u7528 AI \u89c6\u9891\u81ea\u9020\u4e13\u5c5e\u5ba0\u7269",
             "url": "https://github.com/PC2005-cloud/dsh-pet",
-            "stars": 295,
+            "stars": 296,
             "forks": 18,
             "score": 46
         },
@@ -366,12 +366,12 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
-            "name": "inferna-next",
-            "full_name": "neilthomas89440-crypto/inferna-next",
-            "description": "Self-hosted GPU cluster orchestration: deploy and serve AI models on your own hardware",
-            "url": "https://github.com/neilthomas89440-crypto/inferna-next",
-            "stars": 29,
-            "forks": 0,
+            "name": "dsh-directorx",
+            "full_name": "LaplaceYoung/dsh-directorx",
+            "description": "DirectorX as a DeepSeek Harness plugin: AI video/image/audio skills, knowledge corpus, and configurable vision/image/video/audio model tools.",
+            "url": "https://github.com/LaplaceYoung/dsh-directorx",
+            "stars": 11,
+            "forks": 2,
             "score": 31
         },
         {
@@ -388,34 +388,23 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
+            "name": "kimi-k3-in-rust",
+            "full_name": "undeemed/kimi-k3-in-rust",
+            "description": "CPU inference for Kimi K3, a 2.78T-parameter MoE LLM, in pure Rust. No GPU, no BLAS, no PyTorch. Streams the checkpoint from disk. Byte-identical port of kimi-k3-in-c.",
+            "url": "https://github.com/undeemed/kimi-k3-in-rust",
+            "stars": 14,
+            "forks": 4,
+            "score": 31
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
             "name": "XingGraph",
             "full_name": "xing-kj/XingGraph",
             "description": "Knowledge-graph RAG for LLM agents: ontology-driven graph building (RDF/OWL), structured-doc chunking with title attribution, multi-subject WIKI-completion retrieval, model-hop traversal, traceable answers on Neo4j. Built for traceable, low-hallucination LLM memory.",
             "url": "https://github.com/xing-kj/XingGraph",
             "stars": 13,
             "forks": 1,
-            "score": 30
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "dsh-directorx",
-            "full_name": "LaplaceYoung/dsh-directorx",
-            "description": "DirectorX as a DeepSeek Harness plugin: AI video/image/audio skills, knowledge corpus, and configurable vision/image/video/audio model tools.",
-            "url": "https://github.com/LaplaceYoung/dsh-directorx",
-            "stars": 11,
-            "forks": 1,
-            "score": 30
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "kimi-k3-in-rust",
-            "full_name": "undeemed/kimi-k3-in-rust",
-            "description": "CPU inference for Kimi K3, a 2.78T-parameter MoE LLM, in pure Rust. No GPU, no BLAS, no PyTorch. Streams the checkpoint from disk. Byte-identical port of kimi-k3-in-c.",
-            "url": "https://github.com/undeemed/kimi-k3-in-rust",
-            "stars": 13,
-            "forks": 4,
             "score": 30
         },
         {
@@ -465,17 +454,6 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
-            "name": "app",
-            "full_name": "scoregenius/app",
-            "description": "Sports analytics PWA for NFL, NBA and MLB. Model score predictions, compared against the betting market. Frontend source and design documentation.",
-            "url": "https://github.com/scoregenius/app",
-            "stars": 1,
-            "forks": 0,
-            "score": 30
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
             "name": "horse-racing-bets-and-evals",
             "full_name": "analeonescu/horse-racing-bets-and-evals",
             "description": "Machine learning models for horse racing prediction, betting strategy evaluation, and comparison against market-implied probabilities.",
@@ -491,6 +469,17 @@ const ALPHA_DATA_V2 = {
             "full_name": "formidable-oss/tokenburnmarket",
             "description": "Bet your burn. Play-money prediction markets and leaderboards for AI coding agent usage. Communities, countries, world.",
             "url": "https://github.com/formidable-oss/tokenburnmarket",
+            "stars": 0,
+            "forks": 0,
+            "score": 30
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "app",
+            "full_name": "scoregenius/app",
+            "description": "Sports analytics PWA for NFL, NBA and MLB. Model score predictions, compared against the betting market. Frontend source and design documentation.",
+            "url": "https://github.com/scoregenius/app",
             "stars": 0,
             "forks": 0,
             "score": 30
@@ -542,6 +531,17 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
+            "name": "morphogen-contracts",
+            "full_name": "wangluolingxing/morphogen-contracts",
+            "description": "Immutable cross-chain organism protocol contracts",
+            "url": "https://github.com/wangluolingxing/morphogen-contracts",
+            "stars": 1,
+            "forks": 0,
+            "score": 30
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
             "name": "AttestGuard",
             "full_name": "rudimentall1/AttestGuard",
             "description": "AI-agent-gated trade-finance advances on Creditcoin, funded only when a cross-chain delivery event is cryptographically verified via the Attestcoin Protocol \u2014 no centralized oracle, no unchecked AI decision. Built for BUIDL CTC 2026 Fall.",
@@ -557,17 +557,6 @@ const ALPHA_DATA_V2 = {
             "full_name": "juandjesus20009/ChainBridge",
             "description": "Decentralized smart contract orchestrator for cross-chain transaction processing, ensuring highly available, secure, and scalable protocol.",
             "url": "https://github.com/juandjesus20009/ChainBridge",
-            "stars": 0,
-            "forks": 0,
-            "score": 30
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "morphogen-contracts",
-            "full_name": "wangluolingxing/morphogen-contracts",
-            "description": "Immutable cross-chain organism protocol contracts",
-            "url": "https://github.com/wangluolingxing/morphogen-contracts",
             "stars": 0,
             "forks": 0,
             "score": 30
@@ -640,5 +629,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-08-22 03:35"
+    "timestamp": "2026-08-22 04:25"
 };
