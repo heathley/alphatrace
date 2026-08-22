@@ -7,7 +7,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "yetone/cumora",
             "description": "Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates \u2014 with cloud or bring-your-own (Claude Code / Codex) brains.",
             "url": "https://github.com/yetone/cumora",
-            "stars": 2858,
+            "stars": 2869,
             "forks": 346,
             "score": 99
         },
@@ -18,7 +18,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "CopilotKit/OpenBot",
             "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
             "url": "https://github.com/CopilotKit/OpenBot",
-            "stars": 2136,
+            "stars": 2148,
             "forks": 230,
             "score": 99
         },
@@ -73,7 +73,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "jaredrhod/barehands",
             "description": "Move things on your screen with your bare hands. A webcam-powered, hand-tracked interface for your AI. No headset. No controllers.",
             "url": "https://github.com/jaredrhod/barehands",
-            "stars": 551,
+            "stars": 553,
             "forks": 108,
             "score": 84
         },
@@ -84,8 +84,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "jeremy-prt/bloub",
             "description": "SVG recreation of the x.ai bot avatar. One shape morphing through 14 states, measured off the reference video frame by frame.",
             "url": "https://github.com/jeremy-prt/bloub",
-            "stars": 616,
-            "forks": 67,
+            "stars": 619,
+            "forks": 68,
             "score": 79
         },
         {
@@ -95,7 +95,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "cclank/lanshu-create-ai-presenter-video",
             "description": "Provider-neutral Codex Skill for producing verified AI presenter videos from a script and an authorized presenter image.",
             "url": "https://github.com/cclank/lanshu-create-ai-presenter-video",
-            "stars": 248,
+            "stars": 250,
             "forks": 27,
             "score": 74
         },
@@ -128,7 +128,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "lexmount/moli",
             "description": "Best headless browser for AI agents. Lite, Fast, High-Compatibility. Built in Rust",
             "url": "https://github.com/lexmount/moli",
-            "stars": 864,
+            "stars": 868,
             "forks": 53,
             "score": 68
         },
@@ -157,17 +157,6 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "deepseek-harness-studio",
-            "full_name": "fufankeji/deepseek-harness-studio",
-            "description": "DeepSeek Harness \u96f6\u4ee3\u7801\u684c\u9762\u7aef\uff5c\u4e00\u952e\u542f\u52a8\uff0c\u652f\u6301 Windows \u4e0e macOS\uff1b\u5185\u7f6e\u63d2\u4ef6\u53d1\u73b0\u3001\u70ed\u70b9\u63d2\u4ef6\u63a8\u9001\u3001\u4e00\u952e\u5b89\u88c5\u4e0e\u7ba1\u7406\u3001AI \u667a\u80fd\u63a8\u8350\u548c\u89c6\u89c9\u589e\u5f3a\u3002",
-            "url": "https://github.com/fufankeji/deepseek-harness-studio",
-            "stars": 438,
-            "forks": 44,
-            "score": 64
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
             "name": "deepseek-harness-desktop-app",
             "full_name": "vibeinging/deepseek-harness-desktop-app",
             "description": "DeepSeek Harness Desktop App: a local AI desktop workspace for DSH Sessions, projects, files, web research, plugins, and Office artifacts.",
@@ -183,20 +172,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "Devin-AXIS/deepseek-design",
             "description": "DeepSeek Harness \u53ef\u7f16\u8f91\u8bbe\u8ba1\u7cfb\u7edf\uff1aAI \u751f\u6210\u3001\u53ef\u89c6\u5316\u7f16\u8f91\u3001\u6a21\u677f\u5e02\u573a\u4e0e PPT\uff5cNative Design & PPT Studio for DeepSeek Harness.",
             "url": "https://github.com/Devin-AXIS/deepseek-design",
-            "stars": 263,
-            "forks": 84,
+            "stars": 266,
+            "forks": 85,
             "score": 63
         },
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "Open-Magiviz",
-            "full_name": "ItusiAI/Open-Magiviz",
-            "description": "Magiviz\uff1a\u5f00\u6e90\u7684 AI \u89c6\u9891\u521b\u4f5c\u5f15\u64ce\uff0c\u628a\u4e00\u6574\u4e2a\u5267\u7ec4\u4ea4\u7ed9\u6bcf\u4e00\u4e2a\u5f00\u53d1\u8005\u4e0e\u521b\u4f5c\u8005",
-            "url": "https://github.com/ItusiAI/Open-Magiviz",
-            "stars": 508,
-            "forks": 79,
-            "score": 57
+            "name": "deepseek-harness-studio",
+            "full_name": "fufankeji/deepseek-harness-studio",
+            "description": "DeepSeek Harness \u96f6\u4ee3\u7801\u684c\u9762\u7aef\uff5c\u4e00\u952e\u542f\u52a8\uff0c\u652f\u6301 Windows \u4e0e macOS\uff1b\u5185\u7f6e\u63d2\u4ef6\u53d1\u73b0\u3001\u70ed\u70b9\u63d2\u4ef6\u63a8\u9001\u3001\u4e00\u952e\u5b89\u88c5\u4e0e\u7ba1\u7406\u3001AI \u667a\u80fd\u63a8\u8350\u548c\u89c6\u89c9\u589e\u5f3a\u3002",
+            "url": "https://github.com/fufankeji/deepseek-harness-studio",
+            "stars": 441,
+            "forks": 44,
+            "score": 60
         },
         {
             "main_cat": "AI",
@@ -205,20 +194,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "Leonxlnx/unlazy",
             "description": "Anti-laziness skill for AI agents. Core: the Depth Tree method, which splits a task N layers deep and gives every leaf the full time budget of the whole task, so effort multiplies with depth. Grounded in 2025-2026 research on model laziness, underthinking and premature completion.",
             "url": "https://github.com/Leonxlnx/unlazy",
-            "stars": 662,
+            "stars": 670,
             "forks": 36,
-            "score": 56
+            "score": 57
         },
         {
             "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "llm-inference-engineering",
-            "full_name": "amitshekhariitbhu/llm-inference-engineering",
-            "description": "Learn LLM Inference Engineering step by step - from KV cache, PagedAttention, and continuous batching to vLLM, SGLang, and GPUs.",
-            "url": "https://github.com/amitshekhariitbhu/llm-inference-engineering",
-            "stars": 213,
-            "forks": 25,
-            "score": 56
+            "sub_cat": null,
+            "name": "Open-Magiviz",
+            "full_name": "ItusiAI/Open-Magiviz",
+            "description": "Magiviz\uff1a\u5f00\u6e90\u7684 AI \u89c6\u9891\u521b\u4f5c\u5f15\u64ce\uff0c\u628a\u4e00\u6574\u4e2a\u5267\u7ec4\u4ea4\u7ed9\u6bcf\u4e00\u4e2a\u5f00\u53d1\u8005\u4e0e\u521b\u4f5c\u8005",
+            "url": "https://github.com/ItusiAI/Open-Magiviz",
+            "stars": 511,
+            "forks": 79,
+            "score": 57
         },
         {
             "main_cat": "AI",
@@ -227,7 +216,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "pgrundev/pgbot",
             "description": "Postgres intelligence for ai agents & apps",
             "url": "https://github.com/pgrundev/pgbot",
-            "stars": 558,
+            "stars": 560,
             "forks": 26,
             "score": 55
         },
@@ -238,9 +227,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "50kg/image-to-slice",
             "description": "AI \u62c6\u56fe\u3001\u88ab\u906e\u6321\u80cc\u666f\u8865\u9f50\u3001\u4eba\u5de5\u6821\u51c6\u3001\u5bfc\u5165\u53ef\u7f16\u8f91 Figma \u56fe\u5c42\u3001\u5bfc\u51fa HTML/CSS",
             "url": "https://github.com/50kg/image-to-slice",
-            "stars": 367,
+            "stars": 372,
             "forks": 71,
             "score": 53
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "llm-inference-engineering",
+            "full_name": "amitshekhariitbhu/llm-inference-engineering",
+            "description": "Learn LLM Inference Engineering step by step - from KV cache, PagedAttention, and continuous batching to vLLM, SGLang, and GPUs.",
+            "url": "https://github.com/amitshekhariitbhu/llm-inference-engineering",
+            "stars": 213,
+            "forks": 25,
+            "score": 52
         },
         {
             "main_cat": "AI",
@@ -293,7 +293,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "PC2005-cloud/dsh-pet",
             "description": "DSH \u684c\u9762\u5ba0\u7269\uff1a\u4e00\u884c\u547d\u4ee4\u88c5\u597d\u5373\u7528\u7684\u900f\u660e\u52a8\u753b\u5c0f\u684c\u5ba0\uff0c\u652f\u6301\u591a\u5f00\u3001\u5927\u5c0f\u4f4d\u7f6e\u968f\u5fc3\u914d\u7f6e\uff1b\u8fd8\u5185\u7f6e DIY \u7d20\u6750\u94fe\uff0c\u80fd\u7528 AI \u89c6\u9891\u81ea\u9020\u4e13\u5c5e\u5ba0\u7269",
             "url": "https://github.com/PC2005-cloud/dsh-pet",
-            "stars": 292,
+            "stars": 295,
             "forks": 18,
             "score": 46
         },
@@ -344,6 +344,17 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
+            "name": "deepseek-v4-in-c",
+            "full_name": "ronak-create/deepseek-v4-in-c",
+            "description": "DeepSeek-V4 in C99, streamed off NVMe. Runs the 284B Flash checkpoint from 3.2 GB of RAM, 1.81 s/token with a GPU, verified against PyTorch to 2.9e-6.",
+            "url": "https://github.com/ronak-create/deepseek-v4-in-c",
+            "stars": 12,
+            "forks": 1,
+            "score": 32
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
             "name": "ainote",
             "full_name": "yangzc/ainote",
             "description": "AI agent workflow platform \u2014 visual flow orchestration, drag-and-drop forms, knowledge base RAG, multi-model LLM, digital workers, Tauri desktop & DingTalk bot. Open source, self-hosted.",
@@ -377,17 +388,6 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
-            "name": "deepseek-v4-in-c",
-            "full_name": "ronak-create/deepseek-v4-in-c",
-            "description": "DeepSeek-V4 in C99, streamed off NVMe. Runs the 284B Flash checkpoint from 3.2 GB of RAM, 1.81 s/token with a GPU, verified against PyTorch to 2.9e-6.",
-            "url": "https://github.com/ronak-create/deepseek-v4-in-c",
-            "stars": 11,
-            "forks": 1,
-            "score": 31
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
             "name": "XingGraph",
             "full_name": "xing-kj/XingGraph",
             "description": "Knowledge-graph RAG for LLM agents: ontology-driven graph building (RDF/OWL), structured-doc chunking with title attribution, multi-subject WIKI-completion retrieval, model-hop traversal, traceable answers on Neo4j. Built for traceable, low-hallucination LLM memory.",
@@ -403,7 +403,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "LaplaceYoung/dsh-directorx",
             "description": "DirectorX as a DeepSeek Harness plugin: AI video/image/audio skills, knowledge corpus, and configurable vision/image/video/audio model tools.",
             "url": "https://github.com/LaplaceYoung/dsh-directorx",
-            "stars": 10,
+            "stars": 11,
             "forks": 1,
             "score": 30
         },
@@ -619,6 +619,20 @@ const ALPHA_DATA_V2 = {
     ],
     "news": [
         {
+            "title": "Catching the Rug: Early Prediction of Fraudulent Memecoins on Solana via Machine Learning",
+            "source": "ArXiv",
+            "type": "Research Alpha",
+            "color": "text-indigo-600",
+            "url": "http://arxiv.org/abs/2608.20271v1"
+        },
+        {
+            "title": "QUASAR: A Quantum-Classical Neural Network for SAR Satellite Physical-Layer Authentication",
+            "source": "ArXiv",
+            "type": "Research Alpha",
+            "color": "text-indigo-600",
+            "url": "http://arxiv.org/abs/2608.20240v1"
+        },
+        {
             "title": "Bitcoin volatility remains high ahead of key FED decision.",
             "source": "Polymarket",
             "type": "Expectation",
@@ -626,5 +640,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-08-22 02:12"
+    "timestamp": "2026-08-22 03:35"
 };
