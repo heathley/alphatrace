@@ -18,7 +18,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "CopilotKit/OpenBot",
             "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
             "url": "https://github.com/CopilotKit/OpenBot",
-            "stars": 2305,
+            "stars": 2306,
             "forks": 264,
             "score": 99
         },
@@ -62,8 +62,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "jaredrhod/barehands",
             "description": "Move things on your screen with your bare hands. A webcam-powered, hand-tracked interface for your AI. No headset. No controllers.",
             "url": "https://github.com/jaredrhod/barehands",
-            "stars": 601,
-            "forks": 117,
+            "stars": 602,
+            "forks": 118,
             "score": 83
         },
         {
@@ -90,25 +90,25 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
+            "sub_cat": "AI Agents",
+            "name": "unlazy",
+            "full_name": "Leonxlnx/unlazy",
+            "description": "Anti-laziness skill for AI agents. Core: the Depth Tree method, which splits a task N layers deep and gives every leaf the full time budget of the whole task, so effort multiplies with depth. Grounded in 2025-2026 research on model laziness, underthinking and premature completion.",
+            "url": "https://github.com/Leonxlnx/unlazy",
+            "stars": 940,
+            "forks": 65,
+            "score": 70
+        },
+        {
+            "main_cat": "AI",
             "sub_cat": null,
             "name": "enterprise-system-design",
             "full_name": "DrHazemAli/enterprise-system-design",
             "description": "A source-grounded course and architectural reference for engineers designing systems that must survive real traffic, partial failure, security review, and changing requirements, spanning enterprise system design, distributed systems, AI systems, cybersecurity, reliability, cloud, HPC, edge, and mission-critical infrastructure.",
             "url": "https://github.com/DrHazemAli/enterprise-system-design",
             "stars": 572,
-            "forks": 117,
+            "forks": 118,
             "score": 70
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI Agents",
-            "name": "unlazy",
-            "full_name": "Leonxlnx/unlazy",
-            "description": "Anti-laziness skill for AI agents. Core: the Depth Tree method, which splits a task N layers deep and gives every leaf the full time budget of the whole task, so effort multiplies with depth. Grounded in 2025-2026 research on model laziness, underthinking and premature completion.",
-            "url": "https://github.com/Leonxlnx/unlazy",
-            "stars": 920,
-            "forks": 64,
-            "score": 69
         },
         {
             "main_cat": "AI",
@@ -117,7 +117,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "cclank/lanshu-create-ai-presenter-video",
             "description": "Provider-neutral Codex Skill for producing verified AI presenter videos from a script and an authorized presenter image.",
             "url": "https://github.com/cclank/lanshu-create-ai-presenter-video",
-            "stars": 275,
+            "stars": 276,
             "forks": 28,
             "score": 68
         },
@@ -128,7 +128,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "lexmount/moli",
             "description": "Best headless browser for AI agents. Lite, Fast, High-Compatibility. Built in Rust",
             "url": "https://github.com/lexmount/moli",
-            "stars": 915,
+            "stars": 919,
             "forks": 55,
             "score": 67
         },
@@ -172,7 +172,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "jaredrhod/fullstack-agent",
             "description": "Give your AI a full stack: memory, voice, face, and hands. This is the \"I want an AI agent\" shortcut. It sets up the entire jaredrhod stack for you with an installation wizard. Select which pieces you want or do it all!",
             "url": "https://github.com/jaredrhod/fullstack-agent",
-            "stars": 246,
+            "stars": 247,
             "forks": 75,
             "score": 64
         },
@@ -183,7 +183,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Devin-AXIS/deepseek-design",
             "description": "DeepSeek Harness \u53ef\u7f16\u8f91\u8bbe\u8ba1\u7cfb\u7edf\uff1aAI \u751f\u6210\u3001\u53ef\u89c6\u5316\u7f16\u8f91\u3001\u6a21\u677f\u5e02\u573a\u4e0e PPT\uff5cNative Design & PPT Studio for DeepSeek Harness.",
             "url": "https://github.com/Devin-AXIS/deepseek-design",
-            "stars": 302,
+            "stars": 304,
             "forks": 93,
             "score": 63
         },
@@ -249,7 +249,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "soumatheusgomes/vibe-coding-toolkit",
             "description": "A curated, battle-tested AI-coding toolkit: Claude Code plugins, subagent orchestration, quality gates, and ready-to-copy prompts, extracted from real production use.",
             "url": "https://github.com/soumatheusgomes/vibe-coding-toolkit",
-            "stars": 248,
+            "stars": 249,
             "forks": 49,
             "score": 52
         },
@@ -271,7 +271,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "PC2005-cloud/dsh-pet",
             "description": "DSH \u684c\u9762\u5ba0\u7269\uff1a\u4e00\u884c\u547d\u4ee4\u88c5\u597d\u5373\u7528\u7684\u900f\u660e\u52a8\u753b\u5c0f\u684c\u5ba0\uff0c\u652f\u6301\u591a\u5f00\u3001\u5927\u5c0f\u4f4d\u7f6e\u968f\u5fc3\u914d\u7f6e\uff1b\u8fd8\u5185\u7f6e DIY \u7d20\u6750\u94fe\uff0c\u80fd\u7528 AI \u89c6\u9891\u81ea\u9020\u4e13\u5c5e\u5ba0\u7269",
             "url": "https://github.com/PC2005-cloud/dsh-pet",
-            "stars": 322,
+            "stars": 323,
             "forks": 21,
             "score": 48
         },
@@ -317,7 +317,7 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/JohnKinyanjui/sprite-maker",
             "stars": 241,
             "forks": 34,
-            "score": 42
+            "score": 41
         },
         {
             "main_cat": "AI",
@@ -326,7 +326,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Vendredi218/awesome-ai-harness",
             "description": "The model is the engine; the harness is the car. Curated knowledge on harness engineering \u2014 context management, tool design, agent loops, memory, sandboxing, evals. EN/\u4e2d\u6587",
             "url": "https://github.com/Vendredi218/awesome-ai-harness",
-            "stars": 102,
+            "stars": 103,
             "forks": 2,
             "score": 36
         },
@@ -640,5 +640,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-08-22 20:14"
+    "timestamp": "2026-08-22 21:15"
 };
