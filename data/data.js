@@ -7,7 +7,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "yetone/cumora",
             "description": "Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates \u2014 with cloud or bring-your-own (Claude Code / Codex) brains.",
             "url": "https://github.com/yetone/cumora",
-            "stars": 2890,
+            "stars": 2891,
             "forks": 347,
             "score": 99
         },
@@ -18,8 +18,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "CopilotKit/OpenBot",
             "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
             "url": "https://github.com/CopilotKit/OpenBot",
-            "stars": 2223,
-            "forks": 248,
+            "stars": 2234,
+            "forks": 249,
             "score": 99
         },
         {
@@ -29,7 +29,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "SMNETSTUDIO/WeChat-AI",
             "description": "WeChat AI - \u81ea\u6258\u7ba1\u5fae\u4fe1\u89d2\u8272\u626e\u6f14\u5bf9\u8bdd\u670d\u52a1",
             "url": "https://github.com/SMNETSTUDIO/WeChat-AI",
-            "stars": 1824,
+            "stars": 1826,
             "forks": 1277,
             "score": 99
         },
@@ -73,9 +73,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "jeremy-prt/bloub",
             "description": "SVG recreation of the x.ai bot avatar. One shape morphing through 14 states, measured off the reference video frame by frame.",
             "url": "https://github.com/jeremy-prt/bloub",
-            "stars": 633,
+            "stars": 634,
             "forks": 71,
-            "score": 80
+            "score": 81
         },
         {
             "main_cat": "AI",
@@ -84,7 +84,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "jaredrhod/barehands",
             "description": "Move things on your screen with your bare hands. A webcam-powered, hand-tracked interface for your AI. No headset. No controllers.",
             "url": "https://github.com/jaredrhod/barehands",
-            "stars": 568,
+            "stars": 572,
             "forks": 110,
             "score": 80
         },
@@ -95,20 +95,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "cclank/lanshu-create-ai-presenter-video",
             "description": "Provider-neutral Codex Skill for producing verified AI presenter videos from a script and an authorized presenter image.",
             "url": "https://github.com/cclank/lanshu-create-ai-presenter-video",
-            "stars": 262,
+            "stars": 264,
             "forks": 27,
             "score": 76
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "grok-register",
-            "full_name": "xinxinshuhao-create/grok-register",
-            "description": "Automated account registration toolkit for x.ai (Grok) with SSO extraction, OAuth Device Flow, and auto-replenish daemon",
-            "url": "https://github.com/xinxinshuhao-create/grok-register",
-            "stars": 468,
-            "forks": 123,
-            "score": 70
         },
         {
             "main_cat": "AI",
@@ -117,7 +106,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "lexmount/moli",
             "description": "Best headless browser for AI agents. Lite, Fast, High-Compatibility. Built in Rust",
             "url": "https://github.com/lexmount/moli",
-            "stars": 890,
+            "stars": 895,
             "forks": 53,
             "score": 69
         },
@@ -135,13 +124,24 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
+            "name": "grok-register",
+            "full_name": "xinxinshuhao-create/grok-register",
+            "description": "Automated account registration toolkit for x.ai (Grok) with SSO extraction, OAuth Device Flow, and auto-replenish daemon",
+            "url": "https://github.com/xinxinshuhao-create/grok-register",
+            "stars": 467,
+            "forks": 123,
+            "score": 66
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
             "name": "chatbot-template",
             "full_name": "shadcn-ui/chatbot-template",
             "description": "A minimal chatbot template built with Next.js, AI SDK, shadcn/ui, shadcn/react, shadcn/typeset. It runs on the Vercel AI Gateway.",
             "url": "https://github.com/shadcn-ui/chatbot-template",
             "stars": 730,
             "forks": 68,
-            "score": 68
+            "score": 65
         },
         {
             "main_cat": "AI",
@@ -150,8 +150,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "Devin-AXIS/deepseek-design",
             "description": "DeepSeek Harness \u53ef\u7f16\u8f91\u8bbe\u8ba1\u7cfb\u7edf\uff1aAI \u751f\u6210\u3001\u53ef\u89c6\u5316\u7f16\u8f91\u3001\u6a21\u677f\u5e02\u573a\u4e0e PPT\uff5cNative Design & PPT Studio for DeepSeek Harness.",
             "url": "https://github.com/Devin-AXIS/deepseek-design",
-            "stars": 283,
-            "forks": 88,
+            "stars": 286,
+            "forks": 89,
             "score": 65
         },
         {
@@ -164,6 +164,17 @@ const ALPHA_DATA_V2 = {
             "stars": 533,
             "forks": 58,
             "score": 64
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI Agents",
+            "name": "unlazy",
+            "full_name": "Leonxlnx/unlazy",
+            "description": "Anti-laziness skill for AI agents. Core: the Depth Tree method, which splits a task N layers deep and gives every leaf the full time budget of the whole task, so effort multiplies with depth. Grounded in 2025-2026 research on model laziness, underthinking and premature completion.",
+            "url": "https://github.com/Leonxlnx/unlazy",
+            "stars": 771,
+            "forks": 45,
+            "score": 61
         },
         {
             "main_cat": "AI",
@@ -183,20 +194,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "fufankeji/deepseek-harness-studio",
             "description": "DeepSeek Harness \u96f6\u4ee3\u7801\u684c\u9762\u7aef\uff5c\u4e00\u952e\u542f\u52a8\uff0c\u652f\u6301 Windows \u4e0e macOS\uff1b\u5185\u7f6e\u63d2\u4ef6\u53d1\u73b0\u3001\u70ed\u70b9\u63d2\u4ef6\u63a8\u9001\u3001\u4e00\u952e\u5b89\u88c5\u4e0e\u7ba1\u7406\u3001AI \u667a\u80fd\u63a8\u8350\u548c\u89c6\u89c9\u589e\u5f3a\u3002",
             "url": "https://github.com/fufankeji/deepseek-harness-studio",
-            "stars": 450,
+            "stars": 452,
             "forks": 45,
             "score": 61
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI Agents",
-            "name": "unlazy",
-            "full_name": "Leonxlnx/unlazy",
-            "description": "Anti-laziness skill for AI agents. Core: the Depth Tree method, which splits a task N layers deep and gives every leaf the full time budget of the whole task, so effort multiplies with depth. Grounded in 2025-2026 research on model laziness, underthinking and premature completion.",
-            "url": "https://github.com/Leonxlnx/unlazy",
-            "stars": 753,
-            "forks": 44,
-            "score": 60
         },
         {
             "main_cat": "AI",
@@ -216,7 +216,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "ItusiAI/Open-Magiviz",
             "description": "Magiviz\uff1a\u5f00\u6e90\u7684 AI \u89c6\u9891\u521b\u4f5c\u5f15\u64ce\uff0c\u628a\u4e00\u6574\u4e2a\u5267\u7ec4\u4ea4\u7ed9\u6bcf\u4e00\u4e2a\u5f00\u53d1\u8005\u4e0e\u521b\u4f5c\u8005",
             "url": "https://github.com/ItusiAI/Open-Magiviz",
-            "stars": 527,
+            "stars": 528,
             "forks": 82,
             "score": 56
         },
@@ -233,23 +233,12 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
-            "sub_cat": null,
-            "name": "emotion-ball",
-            "full_name": "sam70361/emotion-ball",
-            "description": "Emotion Ball \u662f\u4e00\u5957\u9762\u5411 AI \u52a9\u624b\u7684\u8868\u60c5\u5f15\u64ce:32 \u79cd\u72b6\u6001\u8868\u60c5\u5168\u90e8\u7531\u7eaf SVG \u4e0e\u539f\u751f JavaScript \u5b9e\u65f6\u9a71\u52a8,\u96f6\u6846\u67b6\u3001\u96f6\u56fe\u7247\u8d44\u6e90\u3002AI \u4fa7\u53ea\u9700\u8f93\u51fa\u4e00\u4e2a emotionId,\u5c0f\u7403\u5373\u53ef\u5207\u6362\u5230\u5bf9\u5e94\u8868\u60c5,\u53ef\u76f4\u63a5\u7528\u4f5c\u804a\u5929\u673a\u5668\u4eba\u3001\u684c\u9762\u5ba0\u7269\u3001\u60ac\u6d6e\u52a9\u624b\u7684\u60c5\u7eea\u8868\u8fbe\u5c42\u3002",
-            "url": "https://github.com/sam70361/emotion-ball",
-            "stars": 230,
-            "forks": 24,
-            "score": 53
-        },
-        {
-            "main_cat": "AI",
             "sub_cat": "AI General",
             "name": "llm-inference-engineering",
             "full_name": "amitshekhariitbhu/llm-inference-engineering",
             "description": "Learn LLM Inference Engineering step by step - from KV cache, PagedAttention, and continuous batching to vLLM, SGLang, and GPUs.",
             "url": "https://github.com/amitshekhariitbhu/llm-inference-engineering",
-            "stars": 213,
+            "stars": 214,
             "forks": 25,
             "score": 52
         },
@@ -260,8 +249,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "soumatheusgomes/vibe-coding-toolkit",
             "description": "A curated, battle-tested AI-coding toolkit: Claude Code plugins, subagent orchestration, quality gates, and ready-to-copy prompts, extracted from real production use.",
             "url": "https://github.com/soumatheusgomes/vibe-coding-toolkit",
-            "stars": 236,
-            "forks": 48,
+            "stars": 239,
+            "forks": 49,
             "score": 51
         },
         {
@@ -282,7 +271,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "PC2005-cloud/dsh-pet",
             "description": "DSH \u684c\u9762\u5ba0\u7269\uff1a\u4e00\u884c\u547d\u4ee4\u88c5\u597d\u5373\u7528\u7684\u900f\u660e\u52a8\u753b\u5c0f\u684c\u5ba0\uff0c\u652f\u6301\u591a\u5f00\u3001\u5927\u5c0f\u4f4d\u7f6e\u968f\u5fc3\u914d\u7f6e\uff1b\u8fd8\u5185\u7f6e DIY \u7d20\u6750\u94fe\uff0c\u80fd\u7528 AI \u89c6\u9891\u81ea\u9020\u4e13\u5c5e\u5ba0\u7269",
             "url": "https://github.com/PC2005-cloud/dsh-pet",
-            "stars": 313,
+            "stars": 315,
             "forks": 20,
             "score": 47
         },
@@ -318,6 +307,17 @@ const ALPHA_DATA_V2 = {
             "stars": 241,
             "forks": 34,
             "score": 42
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "stop-that-shit",
+            "full_name": "lennney/stop-that-shit",
+            "description": "Stop That Shit\uff08\u522b\u518d\u9020\u53f2\u4e86\uff09\uff5c\u9762\u5411 Codex/GPT \u573a\u666f\u7684\u591a\u5e73\u53f0 Hook + Skill Guard\uff1a\u62e6\u622a AI coding agent \u65e0\u9700\u6c42\u7684\u54c8\u5e0c\u3001\u6821\u9a8c\u548c\u4e0e\u4efb\u52a1\u8303\u56f4\u81a8\u80c0\u3002 A multi-platform Hook + Skill Guard for AI coding agents in Codex/GPT workflows: stop unrequested hashes, checksums, and task-scope creep.",
+            "url": "https://github.com/lennney/stop-that-shit",
+            "stars": 230,
+            "forks": 14,
+            "score": 41
         },
         {
             "main_cat": "AI",
@@ -361,6 +361,17 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/LaplaceYoung/dsh-directorx",
             "stars": 12,
             "forks": 2,
+            "score": 31
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "inferna-next",
+            "full_name": "neilthomas89440-crypto/inferna-next",
+            "description": "Self-hosted GPU cluster orchestration: deploy and serve AI models on your own hardware",
+            "url": "https://github.com/neilthomas89440-crypto/inferna-next",
+            "stars": 29,
+            "forks": 0,
             "score": 31
         },
         {
@@ -564,6 +575,17 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
+            "name": "inkswap-monad-hackathon",
+            "full_name": "Oxjade/inkswap-monad-hackathon",
+            "description": "InkSwap Monad \u2014 cross-chain swap protocol with dWallet-signed settlement (Monad hackathon submission)",
+            "url": "https://github.com/Oxjade/inkswap-monad-hackathon",
+            "stars": 0,
+            "forks": 0,
+            "score": 30
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
             "name": "Nexora",
             "full_name": "krit-k7/Nexora",
             "description": "Nexora is a zero-trust cross-chain protocol that verifies and automates blockchain logic with cryptographic certainty. Secured by Stellar and autonomous SNARK batching, it eliminates centralized intermediaries for reliable cross-chain verification.",
@@ -618,5 +640,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-08-22 11:14"
+    "timestamp": "2026-08-22 12:24"
 };
