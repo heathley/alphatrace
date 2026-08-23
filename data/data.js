@@ -7,7 +7,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "yetone/cumora",
             "description": "Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates \u2014 with cloud or bring-your-own (Claude Code / Codex) brains.",
             "url": "https://github.com/yetone/cumora",
-            "stars": 2909,
+            "stars": 2912,
             "forks": 353,
             "score": 99
         },
@@ -18,8 +18,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "CopilotKit/OpenBot",
             "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
             "url": "https://github.com/CopilotKit/OpenBot",
-            "stars": 2390,
-            "forks": 271,
+            "stars": 2397,
+            "forks": 273,
             "score": 99
         },
         {
@@ -40,7 +40,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "wang2122/sprix-sage-router",
             "description": "Sprix AI at \u5c7f\u667a\u540c\u884c \u2014 state-aware SELF/COLLABORATE/HANDOFF routing for A2A agent networks.",
             "url": "https://github.com/wang2122/sprix-sage-router",
-            "stars": 1357,
+            "stars": 1359,
             "forks": 12,
             "score": 99
         },
@@ -51,9 +51,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "cclank/lanshu-create-ai-presenter-video",
             "description": "Provider-neutral Codex Skill for producing verified AI presenter videos from a script and an authorized presenter image.",
             "url": "https://github.com/cclank/lanshu-create-ai-presenter-video",
-            "stars": 409,
-            "forks": 60,
-            "score": 94
+            "stars": 439,
+            "forks": 66,
+            "score": 99
         },
         {
             "main_cat": "AI",
@@ -62,9 +62,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "duty1g/x64dbg-mcp-server",
             "description": "x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg that exposes the debugger's full functionality over HTTP. Connect any MCP-compatible AI assistant and control x64dbg programmatically: set breakpoints, step through code, read memory, dump registers, and more.  Built with Zig \u2014 zero dependencies, single-binary output, cros",
             "url": "https://github.com/duty1g/x64dbg-mcp-server",
-            "stars": 230,
-            "forks": 28,
-            "score": 87
+            "stars": 264,
+            "forks": 29,
+            "score": 93
         },
         {
             "main_cat": "AI",
@@ -95,7 +95,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "jeremy-prt/bloub",
             "description": "SVG recreation of the x.ai bot avatar. One shape morphing through 14 states, measured off the reference video frame by frame.",
             "url": "https://github.com/jeremy-prt/bloub",
-            "stars": 674,
+            "stars": 676,
             "forks": 79,
             "score": 79
         },
@@ -117,7 +117,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "lexmount/moli",
             "description": "Best headless browser for AI agents. Lite, Fast, High-Compatibility. Built in Rust",
             "url": "https://github.com/lexmount/moli",
-            "stars": 956,
+            "stars": 958,
             "forks": 59,
             "score": 69
         },
@@ -161,8 +161,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "Devin-AXIS/deepseek-design",
             "description": "DeepSeek Harness \u53ef\u7f16\u8f91\u8bbe\u8ba1\u7cfb\u7edf\uff1aAI \u751f\u6210\u3001\u53ef\u89c6\u5316\u7f16\u8f91\u3001\u6a21\u677f\u5e02\u573a\u4e0e PPT\uff5cNative Design & PPT Studio for DeepSeek Harness.",
             "url": "https://github.com/Devin-AXIS/deepseek-design",
-            "stars": 330,
-            "forks": 99,
+            "stars": 332,
+            "forks": 100,
             "score": 66
         },
         {
@@ -172,9 +172,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "jaredrhod/fullstack-agent",
             "description": "Give your AI a full stack: memory, voice, face, and hands. This is the \"I want an AI agent\" shortcut. It sets up the entire jaredrhod stack for you with an installation wizard. Select which pieces you want or do it all!",
             "url": "https://github.com/jaredrhod/fullstack-agent",
-            "stars": 272,
-            "forks": 84,
-            "score": 63
+            "stars": 274,
+            "forks": 85,
+            "score": 64
         },
         {
             "main_cat": "AI",
@@ -223,17 +223,6 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "emotion-ball",
-            "full_name": "sam70361/emotion-ball",
-            "description": "Emotion Ball \u662f\u4e00\u5957\u9762\u5411 AI \u52a9\u624b\u7684\u8868\u60c5\u5f15\u64ce:32 \u79cd\u72b6\u6001\u8868\u60c5\u5168\u90e8\u7531\u7eaf SVG \u4e0e\u539f\u751f JavaScript \u5b9e\u65f6\u9a71\u52a8,\u96f6\u6846\u67b6\u3001\u96f6\u56fe\u7247\u8d44\u6e90\u3002AI \u4fa7\u53ea\u9700\u8f93\u51fa\u4e00\u4e2a emotionId,\u5c0f\u7403\u5373\u53ef\u5207\u6362\u5230\u5bf9\u5e94\u8868\u60c5,\u53ef\u76f4\u63a5\u7528\u4f5c\u804a\u5929\u673a\u5668\u4eba\u3001\u684c\u9762\u5ba0\u7269\u3001\u60ac\u6d6e\u52a9\u624b\u7684\u60c5\u7eea\u8868\u8fbe\u5c42\u3002",
-            "url": "https://github.com/sam70361/emotion-ball",
-            "stars": 237,
-            "forks": 25,
-            "score": 54
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
             "name": "image-to-slice",
             "full_name": "50kg/image-to-slice",
             "description": "AI \u62c6\u56fe\u3001\u88ab\u906e\u6321\u80cc\u666f\u8865\u9f50\u3001\u4eba\u5de5\u6821\u51c6\u3001\u5bfc\u5165\u53ef\u7f16\u8f91 Figma \u56fe\u5c42\u3001\u5bfc\u51fa HTML/CSS",
@@ -241,6 +230,17 @@ const ALPHA_DATA_V2 = {
             "stars": 383,
             "forks": 75,
             "score": 52
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "emotion-ball",
+            "full_name": "sam70361/emotion-ball",
+            "description": "Emotion Ball \u662f\u4e00\u5957\u9762\u5411 AI \u52a9\u624b\u7684\u8868\u60c5\u5f15\u64ce:32 \u79cd\u72b6\u6001\u8868\u60c5\u5168\u90e8\u7531\u7eaf SVG \u4e0e\u539f\u751f JavaScript \u5b9e\u65f6\u9a71\u52a8,\u96f6\u6846\u67b6\u3001\u96f6\u56fe\u7247\u8d44\u6e90\u3002AI \u4fa7\u53ea\u9700\u8f93\u51fa\u4e00\u4e2a emotionId,\u5c0f\u7403\u5373\u53ef\u5207\u6362\u5230\u5bf9\u5e94\u8868\u60c5,\u53ef\u76f4\u63a5\u7528\u4f5c\u804a\u5929\u673a\u5668\u4eba\u3001\u684c\u9762\u5ba0\u7269\u3001\u60ac\u6d6e\u52a9\u624b\u7684\u60c5\u7eea\u8868\u8fbe\u5c42\u3002",
+            "url": "https://github.com/sam70361/emotion-ball",
+            "stars": 240,
+            "forks": 26,
+            "score": 51
         },
         {
             "main_cat": "AI",
@@ -271,19 +271,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "PC2005-cloud/dsh-pet",
             "description": "DSH \u684c\u9762\u5ba0\u7269\uff1a\u4e00\u884c\u547d\u4ee4\u88c5\u597d\u5373\u7528\u7684\u900f\u660e\u52a8\u753b\u5c0f\u684c\u5ba0\uff0c\u652f\u6301\u591a\u5f00\u3001\u5927\u5c0f\u4f4d\u7f6e\u968f\u5fc3\u914d\u7f6e\uff1b\u8fd8\u5185\u7f6e DIY \u7d20\u6750\u94fe\uff0c\u80fd\u7528 AI \u89c6\u9891\u81ea\u9020\u4e13\u5c5e\u5ba0\u7269",
             "url": "https://github.com/PC2005-cloud/dsh-pet",
-            "stars": 345,
+            "stars": 346,
             "forks": 20,
-            "score": 47
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "bigpeng-hot-gzh",
-            "full_name": "BigPengSays/bigpeng-hot-gzh",
-            "description": "\u4ece100 \u591a\u7bc7\u7206\u6b3e AI \u516c\u4f17\u53f7\u6587\u7ae0\u4e2d\u84b8\u998f\u51fa\u7684 7 \u4e2a\u7206\u6b3e\u9009\u9898\u516c\u5f0f\u548c Skill\u3002",
-            "url": "https://github.com/BigPengSays/bigpeng-hot-gzh",
-            "stars": 231,
-            "forks": 21,
             "score": 47
         },
         {
@@ -321,6 +310,17 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
+            "sub_cat": null,
+            "name": "hunter-community",
+            "full_name": "agentpit-io/hunter-community",
+            "description": "Hunter Community Edition \u00b7 your private financial AI team \u00b7 open-source self-hosted \u00b7 powered by opencode + MCP + multi-agent \u00b7 15 min docker start",
+            "url": "https://github.com/agentpit-io/hunter-community",
+            "stars": 232,
+            "forks": 0,
+            "score": 37
+        },
+        {
+            "main_cat": "AI",
             "sub_cat": "AI General",
             "name": "awesome-ai-harness",
             "full_name": "Vendredi218/awesome-ai-harness",
@@ -340,17 +340,6 @@ const ALPHA_DATA_V2 = {
             "stars": 0,
             "forks": 22,
             "score": 34
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "deepseek-v4-in-c",
-            "full_name": "ronak-create/deepseek-v4-in-c",
-            "description": "DeepSeek-V4 in C99, streamed off NVMe. Runs the 284B Flash checkpoint from 3.2 GB of RAM, 1.81 s/token with a GPU, verified against PyTorch to 2.9e-6.",
-            "url": "https://github.com/ronak-create/deepseek-v4-in-c",
-            "stars": 16,
-            "forks": 1,
-            "score": 32
         },
         {
             "main_cat": "AI",
@@ -383,6 +372,17 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/MaincodeHQ/mainarch",
             "stars": 19,
             "forks": 2,
+            "score": 31
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "deepseek-v4-in-c",
+            "full_name": "ronak-create/deepseek-v4-in-c",
+            "description": "DeepSeek-V4 in C99, streamed off NVMe. Runs the 284B Flash checkpoint from 3.2 GB of RAM, 1.81 s/token with a GPU, verified against PyTorch to 2.9e-6.",
+            "url": "https://github.com/ronak-create/deepseek-v4-in-c",
+            "stars": 16,
+            "forks": 1,
             "score": 31
         },
         {
@@ -615,6 +615,17 @@ const ALPHA_DATA_V2 = {
             "stars": 0,
             "forks": 0,
             "score": 30
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "local-energy-os.rc.0",
+            "full_name": "powerchain-protocol/local-energy-os.rc.0",
+            "description": "the Local Energy OS experience, SaaS control plane, API v1, Prisma/Supabase persistence, Energy RWA accounting, PWRC/wPWRC bridge invariants, Solana/SVM program foundation, Sui Move representation, worker jobs, protocol registry, cross-chain/oracle boundaries and production safety checks.",
+            "url": "https://github.com/powerchain-protocol/local-energy-os.rc.0",
+            "stars": 0,
+            "forks": 0,
+            "score": 30
         }
     ],
     "news": [
@@ -640,5 +651,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-08-23 09:20"
+    "timestamp": "2026-08-23 10:16"
 };
