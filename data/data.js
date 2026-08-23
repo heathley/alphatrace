@@ -18,7 +18,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "CopilotKit/OpenBot",
             "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
             "url": "https://github.com/CopilotKit/OpenBot",
-            "stars": 2397,
+            "stars": 2402,
             "forks": 273,
             "score": 99
         },
@@ -29,7 +29,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "SMNETSTUDIO/WeChat-AI",
             "description": "WeChat AI - \u81ea\u6258\u7ba1\u5fae\u4fe1\u89d2\u8272\u626e\u6f14\u5bf9\u8bdd\u670d\u52a1",
             "url": "https://github.com/SMNETSTUDIO/WeChat-AI",
-            "stars": 1828,
+            "stars": 1829,
             "forks": 1277,
             "score": 99
         },
@@ -51,8 +51,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "cclank/lanshu-create-ai-presenter-video",
             "description": "Provider-neutral Codex Skill for producing verified AI presenter videos from a script and an authorized presenter image.",
             "url": "https://github.com/cclank/lanshu-create-ai-presenter-video",
-            "stars": 439,
-            "forks": 66,
+            "stars": 460,
+            "forks": 69,
             "score": 99
         },
         {
@@ -62,9 +62,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "duty1g/x64dbg-mcp-server",
             "description": "x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg that exposes the debugger's full functionality over HTTP. Connect any MCP-compatible AI assistant and control x64dbg programmatically: set breakpoints, step through code, read memory, dump registers, and more.  Built with Zig \u2014 zero dependencies, single-binary output, cros",
             "url": "https://github.com/duty1g/x64dbg-mcp-server",
-            "stars": 264,
-            "forks": 29,
-            "score": 93
+            "stars": 291,
+            "forks": 32,
+            "score": 99
         },
         {
             "main_cat": "AI",
@@ -95,7 +95,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "jeremy-prt/bloub",
             "description": "SVG recreation of the x.ai bot avatar. One shape morphing through 14 states, measured off the reference video frame by frame.",
             "url": "https://github.com/jeremy-prt/bloub",
-            "stars": 676,
+            "stars": 679,
             "forks": 79,
             "score": 79
         },
@@ -106,7 +106,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "jaredrhod/barehands",
             "description": "Move things on your screen with your bare hands. A webcam-powered, hand-tracked interface for your AI. No headset. No controllers.",
             "url": "https://github.com/jaredrhod/barehands",
-            "stars": 614,
+            "stars": 617,
             "forks": 117,
             "score": 79
         },
@@ -117,7 +117,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "lexmount/moli",
             "description": "Best headless browser for AI agents. Lite, Fast, High-Compatibility. Built in Rust",
             "url": "https://github.com/lexmount/moli",
-            "stars": 958,
+            "stars": 959,
             "forks": 59,
             "score": 69
         },
@@ -161,7 +161,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Devin-AXIS/deepseek-design",
             "description": "DeepSeek Harness \u53ef\u7f16\u8f91\u8bbe\u8ba1\u7cfb\u7edf\uff1aAI \u751f\u6210\u3001\u53ef\u89c6\u5316\u7f16\u8f91\u3001\u6a21\u677f\u5e02\u573a\u4e0e PPT\uff5cNative Design & PPT Studio for DeepSeek Harness.",
             "url": "https://github.com/Devin-AXIS/deepseek-design",
-            "stars": 332,
+            "stars": 334,
             "forks": 100,
             "score": 66
         },
@@ -173,19 +173,8 @@ const ALPHA_DATA_V2 = {
             "description": "Give your AI a full stack: memory, voice, face, and hands. This is the \"I want an AI agent\" shortcut. It sets up the entire jaredrhod stack for you with an installation wizard. Select which pieces you want or do it all!",
             "url": "https://github.com/jaredrhod/fullstack-agent",
             "stars": 274,
-            "forks": 85,
+            "forks": 86,
             "score": 64
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "dsh-desktop",
-            "full_name": "vibeinging/dsh-desktop",
-            "description": "DeepSeek Harness Desktop App: a local AI desktop workspace for DSH Sessions, projects, files, web research, plugins, and Office artifacts.",
-            "url": "https://github.com/vibeinging/dsh-desktop",
-            "stars": 621,
-            "forks": 35,
-            "score": 61
         },
         {
             "main_cat": "AI",
@@ -197,6 +186,17 @@ const ALPHA_DATA_V2 = {
             "stars": 533,
             "forks": 58,
             "score": 61
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "dsh-desktop",
+            "full_name": "vibeinging/dsh-desktop",
+            "description": "DeepSeek Harness Desktop App: a local AI desktop workspace for DSH Sessions, projects, files, web research, plugins, and Office artifacts.",
+            "url": "https://github.com/vibeinging/dsh-desktop",
+            "stars": 621,
+            "forks": 35,
+            "score": 59
         },
         {
             "main_cat": "AI",
@@ -216,7 +216,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "pgrundev/pgbot",
             "description": "Postgres intelligence for ai agents & apps",
             "url": "https://github.com/pgrundev/pgbot",
-            "stars": 584,
+            "stars": 586,
             "forks": 30,
             "score": 55
         },
@@ -249,7 +249,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "soumatheusgomes/vibe-coding-toolkit",
             "description": "A curated, battle-tested AI-coding toolkit: Claude Code plugins, subagent orchestration, quality gates, and ready-to-copy prompts, extracted from real production use.",
             "url": "https://github.com/soumatheusgomes/vibe-coding-toolkit",
-            "stars": 253,
+            "stars": 254,
             "forks": 49,
             "score": 50
         },
@@ -271,8 +271,19 @@ const ALPHA_DATA_V2 = {
             "full_name": "PC2005-cloud/dsh-pet",
             "description": "DSH \u684c\u9762\u5ba0\u7269\uff1a\u4e00\u884c\u547d\u4ee4\u88c5\u597d\u5373\u7528\u7684\u900f\u660e\u52a8\u753b\u5c0f\u684c\u5ba0\uff0c\u652f\u6301\u591a\u5f00\u3001\u5927\u5c0f\u4f4d\u7f6e\u968f\u5fc3\u914d\u7f6e\uff1b\u8fd8\u5185\u7f6e DIY \u7d20\u6750\u94fe\uff0c\u80fd\u7528 AI \u89c6\u9891\u81ea\u9020\u4e13\u5c5e\u5ba0\u7269",
             "url": "https://github.com/PC2005-cloud/dsh-pet",
-            "stars": 346,
+            "stars": 349,
             "forks": 20,
+            "score": 47
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "bigpeng-hot-gzh",
+            "full_name": "BigPengSays/bigpeng-hot-gzh",
+            "description": "\u4ece100 \u591a\u7bc7\u7206\u6b3e AI \u516c\u4f17\u53f7\u6587\u7ae0\u4e2d\u84b8\u998f\u51fa\u7684 7 \u4e2a\u7206\u6b3e\u9009\u9898\u516c\u5f0f\u548c Skill\u3002",
+            "url": "https://github.com/BigPengSays/bigpeng-hot-gzh",
+            "stars": 231,
+            "forks": 21,
             "score": 47
         },
         {
@@ -304,7 +315,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "lennney/stop-that-shit",
             "description": "Stop That Shit\uff08\u522b\u518d\u9020\u53f2\u4e86\uff09\uff5c\u9762\u5411 Codex/GPT \u573a\u666f\u7684\u591a\u5e73\u53f0 Hook + Skill Guard\uff1a\u62e6\u622a AI coding agent \u65e0\u9700\u6c42\u7684\u54c8\u5e0c\u3001\u6821\u9a8c\u548c\u4e0e\u4efb\u52a1\u8303\u56f4\u81a8\u80c0\u3002 A multi-platform Hook + Skill Guard for AI coding agents in Codex/GPT workflows: stop unrequested hashes, checksums, and task-scope creep.",
             "url": "https://github.com/lennney/stop-that-shit",
-            "stars": 258,
+            "stars": 259,
             "forks": 15,
             "score": 41
         },
@@ -315,7 +326,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "agentpit-io/hunter-community",
             "description": "Hunter Community Edition \u00b7 your private financial AI team \u00b7 open-source self-hosted \u00b7 powered by opencode + MCP + multi-agent \u00b7 15 min docker start",
             "url": "https://github.com/agentpit-io/hunter-community",
-            "stars": 232,
+            "stars": 234,
             "forks": 0,
             "score": 37
         },
@@ -326,7 +337,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Vendredi218/awesome-ai-harness",
             "description": "The model is the engine; the harness is the car. Curated knowledge on harness engineering \u2014 context management, tool design, agent loops, memory, sandboxing, evals. EN/\u4e2d\u6587",
             "url": "https://github.com/Vendredi218/awesome-ai-harness",
-            "stars": 125,
+            "stars": 126,
             "forks": 3,
             "score": 36
         },
@@ -377,6 +388,17 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
+            "name": "lewin-ai-agent",
+            "full_name": "robofighter/lewin-ai-agent",
+            "description": "LEWIN AI AGENT \u2014 lightweight talking avatar. Grok speaks; lipsync runs in the browser without a GPU viseme model.",
+            "url": "https://github.com/robofighter/lewin-ai-agent",
+            "stars": 17,
+            "forks": 1,
+            "score": 31
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
             "name": "deepseek-v4-in-c",
             "full_name": "ronak-create/deepseek-v4-in-c",
             "description": "DeepSeek-V4 in C99, streamed off NVMe. Runs the 284B Flash checkpoint from 3.2 GB of RAM, 1.81 s/token with a GPU, verified against PyTorch to 2.9e-6.",
@@ -405,17 +427,6 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/LaplaceYoung/dsh-directorx",
             "stars": 12,
             "forks": 1,
-            "score": 30
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "lewin-ai-agent",
-            "full_name": "robofighter/lewin-ai-agent",
-            "description": "LEWIN AI AGENT \u2014 lightweight talking avatar. Grok speaks; lipsync runs in the browser without a GPU viseme model.",
-            "url": "https://github.com/robofighter/lewin-ai-agent",
-            "stars": 16,
-            "forks": 0,
             "score": 30
         },
         {
@@ -651,5 +662,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-08-23 10:16"
+    "timestamp": "2026-08-23 11:14"
 };
