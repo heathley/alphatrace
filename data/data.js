@@ -7,7 +7,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "yetone/cumora",
             "description": "Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates \u2014 with cloud or bring-your-own (Claude Code / Codex) brains.",
             "url": "https://github.com/yetone/cumora",
-            "stars": 2907,
+            "stars": 2909,
             "forks": 353,
             "score": 99
         },
@@ -18,8 +18,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "CopilotKit/OpenBot",
             "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
             "url": "https://github.com/CopilotKit/OpenBot",
-            "stars": 2379,
-            "forks": 270,
+            "stars": 2390,
+            "forks": 271,
             "score": 99
         },
         {
@@ -40,7 +40,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "wang2122/sprix-sage-router",
             "description": "Sprix AI at \u5c7f\u667a\u540c\u884c \u2014 state-aware SELF/COLLABORATE/HANDOFF routing for A2A agent networks.",
             "url": "https://github.com/wang2122/sprix-sage-router",
-            "stars": 1305,
+            "stars": 1357,
             "forks": 12,
             "score": 99
         },
@@ -51,9 +51,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "cclank/lanshu-create-ai-presenter-video",
             "description": "Provider-neutral Codex Skill for producing verified AI presenter videos from a script and an authorized presenter image.",
             "url": "https://github.com/cclank/lanshu-create-ai-presenter-video",
-            "stars": 377,
-            "forks": 53,
-            "score": 88
+            "stars": 409,
+            "forks": 60,
+            "score": 94
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "x64dbg-mcp-server",
+            "full_name": "duty1g/x64dbg-mcp-server",
+            "description": "x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg that exposes the debugger's full functionality over HTTP. Connect any MCP-compatible AI assistant and control x64dbg programmatically: set breakpoints, step through code, read memory, dump registers, and more.  Built with Zig \u2014 zero dependencies, single-binary output, cros",
+            "url": "https://github.com/duty1g/x64dbg-mcp-server",
+            "stars": 230,
+            "forks": 28,
+            "score": 87
         },
         {
             "main_cat": "AI",
@@ -84,8 +95,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "jeremy-prt/bloub",
             "description": "SVG recreation of the x.ai bot avatar. One shape morphing through 14 states, measured off the reference video frame by frame.",
             "url": "https://github.com/jeremy-prt/bloub",
-            "stars": 672,
-            "forks": 78,
+            "stars": 674,
+            "forks": 79,
             "score": 79
         },
         {
@@ -106,8 +117,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "lexmount/moli",
             "description": "Best headless browser for AI agents. Lite, Fast, High-Compatibility. Built in Rust",
             "url": "https://github.com/lexmount/moli",
-            "stars": 951,
-            "forks": 58,
+            "stars": 956,
+            "forks": 59,
             "score": 69
         },
         {
@@ -150,7 +161,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Devin-AXIS/deepseek-design",
             "description": "DeepSeek Harness \u53ef\u7f16\u8f91\u8bbe\u8ba1\u7cfb\u7edf\uff1aAI \u751f\u6210\u3001\u53ef\u89c6\u5316\u7f16\u8f91\u3001\u6a21\u677f\u5e02\u573a\u4e0e PPT\uff5cNative Design & PPT Studio for DeepSeek Harness.",
             "url": "https://github.com/Devin-AXIS/deepseek-design",
-            "stars": 328,
+            "stars": 330,
             "forks": 99,
             "score": 66
         },
@@ -161,8 +172,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "jaredrhod/fullstack-agent",
             "description": "Give your AI a full stack: memory, voice, face, and hands. This is the \"I want an AI agent\" shortcut. It sets up the entire jaredrhod stack for you with an installation wizard. Select which pieces you want or do it all!",
             "url": "https://github.com/jaredrhod/fullstack-agent",
-            "stars": 270,
-            "forks": 83,
+            "stars": 272,
+            "forks": 84,
             "score": 63
         },
         {
@@ -195,7 +206,7 @@ const ALPHA_DATA_V2 = {
             "description": "DeepSeek Harness \u96f6\u4ee3\u7801\u684c\u9762\u7aef\uff5c\u4e00\u952e\u542f\u52a8\uff0c\u652f\u6301 Windows \u4e0e macOS\uff1b\u5185\u7f6e\u63d2\u4ef6\u53d1\u73b0\u3001\u70ed\u70b9\u63d2\u4ef6\u63a8\u9001\u3001\u4e00\u952e\u5b89\u88c5\u4e0e\u7ba1\u7406\u3001AI \u667a\u80fd\u63a8\u8350\u548c\u89c6\u89c9\u589e\u5f3a\u3002",
             "url": "https://github.com/fufankeji/deepseek-harness-studio",
             "stars": 466,
-            "forks": 46,
+            "forks": 47,
             "score": 59
         },
         {
@@ -205,7 +216,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "pgrundev/pgbot",
             "description": "Postgres intelligence for ai agents & apps",
             "url": "https://github.com/pgrundev/pgbot",
-            "stars": 583,
+            "stars": 584,
             "forks": 30,
             "score": 55
         },
@@ -216,7 +227,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "sam70361/emotion-ball",
             "description": "Emotion Ball \u662f\u4e00\u5957\u9762\u5411 AI \u52a9\u624b\u7684\u8868\u60c5\u5f15\u64ce:32 \u79cd\u72b6\u6001\u8868\u60c5\u5168\u90e8\u7531\u7eaf SVG \u4e0e\u539f\u751f JavaScript \u5b9e\u65f6\u9a71\u52a8,\u96f6\u6846\u67b6\u3001\u96f6\u56fe\u7247\u8d44\u6e90\u3002AI \u4fa7\u53ea\u9700\u8f93\u51fa\u4e00\u4e2a emotionId,\u5c0f\u7403\u5373\u53ef\u5207\u6362\u5230\u5bf9\u5e94\u8868\u60c5,\u53ef\u76f4\u63a5\u7528\u4f5c\u804a\u5929\u673a\u5668\u4eba\u3001\u684c\u9762\u5ba0\u7269\u3001\u60ac\u6d6e\u52a9\u624b\u7684\u60c5\u7eea\u8868\u8fbe\u5c42\u3002",
             "url": "https://github.com/sam70361/emotion-ball",
-            "stars": 236,
+            "stars": 237,
             "forks": 25,
             "score": 54
         },
@@ -260,7 +271,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "PC2005-cloud/dsh-pet",
             "description": "DSH \u684c\u9762\u5ba0\u7269\uff1a\u4e00\u884c\u547d\u4ee4\u88c5\u597d\u5373\u7528\u7684\u900f\u660e\u52a8\u753b\u5c0f\u684c\u5ba0\uff0c\u652f\u6301\u591a\u5f00\u3001\u5927\u5c0f\u4f4d\u7f6e\u968f\u5fc3\u914d\u7f6e\uff1b\u8fd8\u5185\u7f6e DIY \u7d20\u6750\u94fe\uff0c\u80fd\u7528 AI \u89c6\u9891\u81ea\u9020\u4e13\u5c5e\u5ba0\u7269",
             "url": "https://github.com/PC2005-cloud/dsh-pet",
-            "stars": 344,
+            "stars": 345,
             "forks": 20,
             "score": 47
         },
@@ -310,24 +321,13 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
-            "sub_cat": null,
-            "name": "hunter-community",
-            "full_name": "agentpit-io/hunter-community",
-            "description": "Hunter Community Edition \u00b7 your private financial AI team \u00b7 open-source self-hosted \u00b7 powered by opencode + MCP + multi-agent \u00b7 15 min docker start",
-            "url": "https://github.com/agentpit-io/hunter-community",
-            "stars": 229,
-            "forks": 0,
-            "score": 37
-        },
-        {
-            "main_cat": "AI",
             "sub_cat": "AI General",
             "name": "awesome-ai-harness",
             "full_name": "Vendredi218/awesome-ai-harness",
             "description": "The model is the engine; the harness is the car. Curated knowledge on harness engineering \u2014 context management, tool design, agent loops, memory, sandboxing, evals. EN/\u4e2d\u6587",
             "url": "https://github.com/Vendredi218/awesome-ai-harness",
             "stars": 125,
-            "forks": 2,
+            "forks": 3,
             "score": 36
         },
         {
@@ -640,5 +640,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-08-23 08:21"
+    "timestamp": "2026-08-23 09:20"
 };
