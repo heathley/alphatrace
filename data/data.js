@@ -7,7 +7,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "yetone/cumora",
             "description": "Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates \u2014 with cloud or bring-your-own (Claude Code / Codex) brains.",
             "url": "https://github.com/yetone/cumora",
-            "stars": 2900,
+            "stars": 2901,
             "forks": 350,
             "score": 99
         },
@@ -18,8 +18,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "CopilotKit/OpenBot",
             "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
             "url": "https://github.com/CopilotKit/OpenBot",
-            "stars": 2315,
-            "forks": 265,
+            "stars": 2327,
+            "forks": 266,
             "score": 99
         },
         {
@@ -62,7 +62,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "jaredrhod/barehands",
             "description": "Move things on your screen with your bare hands. A webcam-powered, hand-tracked interface for your AI. No headset. No controllers.",
             "url": "https://github.com/jaredrhod/barehands",
-            "stars": 603,
+            "stars": 605,
             "forks": 117,
             "score": 83
         },
@@ -84,20 +84,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "jeremy-prt/bloub",
             "description": "SVG recreation of the x.ai bot avatar. One shape morphing through 14 states, measured off the reference video frame by frame.",
             "url": "https://github.com/jeremy-prt/bloub",
-            "stars": 647,
-            "forks": 75,
+            "stars": 648,
+            "forks": 77,
             "score": 77
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI Agents",
-            "name": "unlazy",
-            "full_name": "Leonxlnx/unlazy",
-            "description": "Anti-laziness skill for AI agents. Core: the Depth Tree method, which splits a task N layers deep and gives every leaf the full time budget of the whole task, so effort multiplies with depth. Grounded in 2025-2026 research on model laziness, underthinking and premature completion.",
-            "url": "https://github.com/Leonxlnx/unlazy",
-            "stars": 982,
-            "forks": 67,
-            "score": 71
         },
         {
             "main_cat": "AI",
@@ -113,23 +102,23 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "moli",
-            "full_name": "lexmount/moli",
-            "description": "Best headless browser for AI agents. Lite, Fast, High-Compatibility. Built in Rust",
-            "url": "https://github.com/lexmount/moli",
-            "stars": 926,
-            "forks": 55,
-            "score": 68
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
             "name": "lanshu-create-ai-presenter-video",
             "full_name": "cclank/lanshu-create-ai-presenter-video",
             "description": "Provider-neutral Codex Skill for producing verified AI presenter videos from a script and an authorized presenter image.",
             "url": "https://github.com/cclank/lanshu-create-ai-presenter-video",
-            "stars": 277,
+            "stars": 281,
             "forks": 28,
+            "score": 69
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "moli",
+            "full_name": "lexmount/moli",
+            "description": "Best headless browser for AI agents. Lite, Fast, High-Compatibility. Built in Rust",
+            "url": "https://github.com/lexmount/moli",
+            "stars": 928,
+            "forks": 56,
             "score": 68
         },
         {
@@ -161,8 +150,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "Devin-AXIS/deepseek-design",
             "description": "DeepSeek Harness \u53ef\u7f16\u8f91\u8bbe\u8ba1\u7cfb\u7edf\uff1aAI \u751f\u6210\u3001\u53ef\u89c6\u5316\u7f16\u8f91\u3001\u6a21\u677f\u5e02\u573a\u4e0e PPT\uff5cNative Design & PPT Studio for DeepSeek Harness.",
             "url": "https://github.com/Devin-AXIS/deepseek-design",
-            "stars": 308,
-            "forks": 94,
+            "stars": 312,
+            "forks": 95,
             "score": 64
         },
         {
@@ -172,17 +161,17 @@ const ALPHA_DATA_V2 = {
             "full_name": "jaredrhod/fullstack-agent",
             "description": "Give your AI a full stack: memory, voice, face, and hands. This is the \"I want an AI agent\" shortcut. It sets up the entire jaredrhod stack for you with an installation wizard. Select which pieces you want or do it all!",
             "url": "https://github.com/jaredrhod/fullstack-agent",
-            "stars": 248,
-            "forks": 74,
+            "stars": 252,
+            "forks": 75,
             "score": 64
         },
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "deepseek-harness-desktop-app",
-            "full_name": "vibeinging/deepseek-harness-desktop-app",
+            "name": "dsh-desktop",
+            "full_name": "vibeinging/dsh-desktop",
             "description": "DeepSeek Harness Desktop App: a local AI desktop workspace for DSH Sessions, projects, files, web research, plugins, and Office artifacts.",
-            "url": "https://github.com/vibeinging/deepseek-harness-desktop-app",
+            "url": "https://github.com/vibeinging/dsh-desktop",
             "stars": 616,
             "forks": 34,
             "score": 61
@@ -205,20 +194,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "fufankeji/deepseek-harness-studio",
             "description": "DeepSeek Harness \u96f6\u4ee3\u7801\u684c\u9762\u7aef\uff5c\u4e00\u952e\u542f\u52a8\uff0c\u652f\u6301 Windows \u4e0e macOS\uff1b\u5185\u7f6e\u63d2\u4ef6\u53d1\u73b0\u3001\u70ed\u70b9\u63d2\u4ef6\u63a8\u9001\u3001\u4e00\u952e\u5b89\u88c5\u4e0e\u7ba1\u7406\u3001AI \u667a\u80fd\u63a8\u8350\u548c\u89c6\u89c9\u589e\u5f3a\u3002",
             "url": "https://github.com/fufankeji/deepseek-harness-studio",
-            "stars": 456,
+            "stars": 458,
             "forks": 45,
             "score": 61
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "Open-Magiviz",
-            "full_name": "ItusiAI/Open-Magiviz",
-            "description": "Magiviz\uff1a\u5f00\u6e90\u7684 AI \u89c6\u9891\u521b\u4f5c\u5f15\u64ce\uff0c\u628a\u4e00\u6574\u4e2a\u5267\u7ec4\u4ea4\u7ed9\u6bcf\u4e00\u4e2a\u5f00\u53d1\u8005\u4e0e\u521b\u4f5c\u8005",
-            "url": "https://github.com/ItusiAI/Open-Magiviz",
-            "stars": 532,
-            "forks": 83,
-            "score": 57
         },
         {
             "main_cat": "AI",
@@ -229,7 +207,18 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/pgrundev/pgbot",
             "stars": 575,
             "forks": 28,
-            "score": 56
+            "score": 54
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "emotion-ball",
+            "full_name": "sam70361/emotion-ball",
+            "description": "Emotion Ball \u662f\u4e00\u5957\u9762\u5411 AI \u52a9\u624b\u7684\u8868\u60c5\u5f15\u64ce:32 \u79cd\u72b6\u6001\u8868\u60c5\u5168\u90e8\u7531\u7eaf SVG \u4e0e\u539f\u751f JavaScript \u5b9e\u65f6\u9a71\u52a8,\u96f6\u6846\u67b6\u3001\u96f6\u56fe\u7247\u8d44\u6e90\u3002AI \u4fa7\u53ea\u9700\u8f93\u51fa\u4e00\u4e2a emotionId,\u5c0f\u7403\u5373\u53ef\u5207\u6362\u5230\u5bf9\u5e94\u8868\u60c5,\u53ef\u76f4\u63a5\u7528\u4f5c\u804a\u5929\u673a\u5668\u4eba\u3001\u684c\u9762\u5ba0\u7269\u3001\u60ac\u6d6e\u52a9\u624b\u7684\u60c5\u7eea\u8868\u8fbe\u5c42\u3002",
+            "url": "https://github.com/sam70361/emotion-ball",
+            "stars": 233,
+            "forks": 24,
+            "score": 53
         },
         {
             "main_cat": "AI",
@@ -240,17 +229,6 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/50kg/image-to-slice",
             "stars": 378,
             "forks": 74,
-            "score": 52
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "vibe-coding-toolkit",
-            "full_name": "soumatheusgomes/vibe-coding-toolkit",
-            "description": "A curated, battle-tested AI-coding toolkit: Claude Code plugins, subagent orchestration, quality gates, and ready-to-copy prompts, extracted from real production use.",
-            "url": "https://github.com/soumatheusgomes/vibe-coding-toolkit",
-            "stars": 250,
-            "forks": 49,
             "score": 52
         },
         {
@@ -267,13 +245,35 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
+            "name": "vibe-coding-toolkit",
+            "full_name": "soumatheusgomes/vibe-coding-toolkit",
+            "description": "A curated, battle-tested AI-coding toolkit: Claude Code plugins, subagent orchestration, quality gates, and ready-to-copy prompts, extracted from real production use.",
+            "url": "https://github.com/soumatheusgomes/vibe-coding-toolkit",
+            "stars": 251,
+            "forks": 49,
+            "score": 50
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "bigpeng-hot-gzh",
+            "full_name": "BigPengSays/bigpeng-hot-gzh",
+            "description": "\u4ece100 \u591a\u7bc7\u7206\u6b3e AI \u516c\u4f17\u53f7\u6587\u7ae0\u4e2d\u84b8\u998f\u51fa\u7684 7 \u4e2a\u7206\u6b3e\u9009\u9898\u516c\u5f0f\u548c Skill\u3002",
+            "url": "https://github.com/BigPengSays/bigpeng-hot-gzh",
+            "stars": 229,
+            "forks": 21,
+            "score": 49
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
             "name": "dsh-pet",
             "full_name": "PC2005-cloud/dsh-pet",
             "description": "DSH \u684c\u9762\u5ba0\u7269\uff1a\u4e00\u884c\u547d\u4ee4\u88c5\u597d\u5373\u7528\u7684\u900f\u660e\u52a8\u753b\u5c0f\u684c\u5ba0\uff0c\u652f\u6301\u591a\u5f00\u3001\u5927\u5c0f\u4f4d\u7f6e\u968f\u5fc3\u914d\u7f6e\uff1b\u8fd8\u5185\u7f6e DIY \u7d20\u6750\u94fe\uff0c\u80fd\u7528 AI \u89c6\u9891\u81ea\u9020\u4e13\u5c5e\u5ba0\u7269",
             "url": "https://github.com/PC2005-cloud/dsh-pet",
             "stars": 325,
             "forks": 21,
-            "score": 48
+            "score": 47
         },
         {
             "main_cat": "AI",
@@ -300,24 +300,24 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "mkdirs",
-            "full_name": "MkThingsHQ/mkdirs",
-            "description": "Open-source AI-powered directory website template built with Next.js",
-            "url": "https://github.com/MkThingsHQ/mkdirs",
-            "stars": 248,
-            "forks": 70,
-            "score": 46
+            "name": "stop-that-shit",
+            "full_name": "lennney/stop-that-shit",
+            "description": "Stop That Shit\uff08\u522b\u518d\u9020\u53f2\u4e86\uff09\uff5c\u9762\u5411 Codex/GPT \u573a\u666f\u7684\u591a\u5e73\u53f0 Hook + Skill Guard\uff1a\u62e6\u622a AI coding agent \u65e0\u9700\u6c42\u7684\u54c8\u5e0c\u3001\u6821\u9a8c\u548c\u4e0e\u4efb\u52a1\u8303\u56f4\u81a8\u80c0\u3002 A multi-platform Hook + Skill Guard for AI coding agents in Codex/GPT workflows: stop unrequested hashes, checksums, and task-scope creep.",
+            "url": "https://github.com/lennney/stop-that-shit",
+            "stars": 239,
+            "forks": 15,
+            "score": 40
         },
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "sprite-maker",
-            "full_name": "JohnKinyanjui/sprite-maker",
-            "description": "An open source ai sprite maker",
-            "url": "https://github.com/JohnKinyanjui/sprite-maker",
-            "stars": 241,
-            "forks": 34,
-            "score": 41
+            "name": "hunter-community",
+            "full_name": "agentpit-io/hunter-community",
+            "description": "Hunter Community Edition \u00b7 your private financial AI team \u00b7 open-source self-hosted \u00b7 powered by opencode + MCP + multi-agent \u00b7 15 min docker start",
+            "url": "https://github.com/agentpit-io/hunter-community",
+            "stars": 228,
+            "forks": 0,
+            "score": 37
         },
         {
             "main_cat": "AI",
@@ -416,17 +416,6 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/robofighter/lewin-ai-agent",
             "stars": 15,
             "forks": 0,
-            "score": 30
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "kimi-k3-in-rust",
-            "full_name": "undeemed/kimi-k3-in-rust",
-            "description": "CPU inference for Kimi K3, a 2.78T-parameter MoE LLM, in pure Rust. No GPU, no BLAS, no PyTorch. Streams the checkpoint from disk. Byte-identical port of kimi-k3-in-c.",
-            "url": "https://github.com/undeemed/kimi-k3-in-rust",
-            "stars": 14,
-            "forks": 4,
             "score": 30
         },
         {
@@ -640,5 +629,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-08-22 23:13"
+    "timestamp": "2026-08-23 00:55"
 };
