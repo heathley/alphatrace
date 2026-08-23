@@ -7,7 +7,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "yetone/cumora",
             "description": "Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates \u2014 with cloud or bring-your-own (Claude Code / Codex) brains.",
             "url": "https://github.com/yetone/cumora",
-            "stars": 2923,
+            "stars": 2931,
             "forks": 353,
             "score": 99
         },
@@ -18,8 +18,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "CopilotKit/OpenBot",
             "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
             "url": "https://github.com/CopilotKit/OpenBot",
-            "stars": 2429,
-            "forks": 276,
+            "stars": 2438,
+            "forks": 278,
             "score": 99
         },
         {
@@ -51,8 +51,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "cclank/lanshu-create-ai-presenter-video",
             "description": "Provider-neutral Codex Skill for producing verified AI presenter videos from a script and an authorized presenter image.",
             "url": "https://github.com/cclank/lanshu-create-ai-presenter-video",
-            "stars": 550,
-            "forks": 88,
+            "stars": 572,
+            "forks": 90,
             "score": 99
         },
         {
@@ -62,9 +62,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "duty1g/x64dbg-mcp-server",
             "description": "x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg that exposes the debugger's full functionality over HTTP. Connect any MCP-compatible AI assistant and control x64dbg programmatically: set breakpoints, step through code, read memory, dump registers, and more.  Built with Zig \u2014 zero dependencies, single-binary output, cros",
             "url": "https://github.com/duty1g/x64dbg-mcp-server",
-            "stars": 423,
-            "forks": 50,
+            "stars": 461,
+            "forks": 54,
             "score": 99
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "biosecurity-agent",
+            "full_name": "Forsy-AI/biosecurity-agent",
+            "description": "AI agent that builds a live biosecurity world around any target.",
+            "url": "https://github.com/Forsy-AI/biosecurity-agent",
+            "stars": 310,
+            "forks": 12,
+            "score": 89
         },
         {
             "main_cat": "AI",
@@ -95,7 +106,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "jaredrhod/barehands",
             "description": "Move things on your screen with your bare hands. A webcam-powered, hand-tracked interface for your AI. No headset. No controllers.",
             "url": "https://github.com/jaredrhod/barehands",
-            "stars": 625,
+            "stars": 626,
             "forks": 119,
             "score": 80
         },
@@ -106,7 +117,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "jeremy-prt/bloub",
             "description": "SVG recreation of the x.ai bot avatar. One shape morphing through 14 states, measured off the reference video frame by frame.",
             "url": "https://github.com/jeremy-prt/bloub",
-            "stars": 692,
+            "stars": 695,
             "forks": 80,
             "score": 76
         },
@@ -117,7 +128,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "lexmount/moli",
             "description": "Best headless browser for AI agents. Lite, Fast, High-Compatibility. Built in Rust",
             "url": "https://github.com/lexmount/moli",
-            "stars": 970,
+            "stars": 972,
             "forks": 59,
             "score": 67
         },
@@ -139,9 +150,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "jaredrhod/fullstack-agent",
             "description": "Give your AI a full stack: memory, voice, face, and hands. This is the \"I want an AI agent\" shortcut. It sets up the entire jaredrhod stack for you with an installation wizard. Select which pieces you want or do it all!",
             "url": "https://github.com/jaredrhod/fullstack-agent",
-            "stars": 282,
+            "stars": 287,
             "forks": 91,
-            "score": 65
+            "score": 66
         },
         {
             "main_cat": "AI",
@@ -161,8 +172,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "Devin-AXIS/deepseek-design",
             "description": "DeepSeek Harness \u53ef\u7f16\u8f91\u8bbe\u8ba1\u7cfb\u7edf\uff1aAI \u751f\u6210\u3001\u53ef\u89c6\u5316\u7f16\u8f91\u3001\u6a21\u677f\u5e02\u573a\u4e0e PPT\uff5cNative Design & PPT Studio for DeepSeek Harness.",
             "url": "https://github.com/Devin-AXIS/deepseek-design",
-            "stars": 343,
-            "forks": 102,
+            "stars": 345,
+            "forks": 103,
             "score": 64
         },
         {
@@ -194,7 +205,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "fufankeji/deepseek-harness-studio",
             "description": "DeepSeek Harness \u96f6\u4ee3\u7801\u684c\u9762\u7aef\uff5c\u4e00\u952e\u542f\u52a8\uff0c\u652f\u6301 Windows \u4e0e macOS\uff1b\u5185\u7f6e\u63d2\u4ef6\u53d1\u73b0\u3001\u70ed\u70b9\u63d2\u4ef6\u63a8\u9001\u3001\u4e00\u952e\u5b89\u88c5\u4e0e\u7ba1\u7406\u3001AI \u667a\u80fd\u63a8\u8350\u548c\u89c6\u89c9\u589e\u5f3a\u3002",
             "url": "https://github.com/fufankeji/deepseek-harness-studio",
-            "stars": 473,
+            "stars": 474,
             "forks": 47,
             "score": 60
         },
@@ -216,7 +227,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "pgrundev/pgbot",
             "description": "Postgres intelligence for ai agents & apps",
             "url": "https://github.com/pgrundev/pgbot",
-            "stars": 589,
+            "stars": 590,
             "forks": 30,
             "score": 55
         },
@@ -229,7 +240,7 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/50kg/image-to-slice",
             "stars": 383,
             "forks": 75,
-            "score": 52
+            "score": 51
         },
         {
             "main_cat": "AI",
@@ -271,20 +282,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "PC2005-cloud/dsh-pet",
             "description": "DSH \u684c\u9762\u5ba0\u7269\uff1a\u4e00\u884c\u547d\u4ee4\u88c5\u597d\u5373\u7528\u7684\u900f\u660e\u52a8\u753b\u5c0f\u684c\u5ba0\uff0c\u652f\u6301\u591a\u5f00\u3001\u5927\u5c0f\u4f4d\u7f6e\u968f\u5fc3\u914d\u7f6e\uff1b\u8fd8\u5185\u7f6e DIY \u7d20\u6750\u94fe\uff0c\u80fd\u7528 AI \u89c6\u9891\u81ea\u9020\u4e13\u5c5e\u5ba0\u7269",
             "url": "https://github.com/PC2005-cloud/dsh-pet",
-            "stars": 357,
+            "stars": 359,
             "forks": 21,
             "score": 48
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "bigpeng-hot-gzh",
-            "full_name": "BigPengSays/bigpeng-hot-gzh",
-            "description": "\u4ece100 \u591a\u7bc7\u7206\u6b3e AI \u516c\u4f17\u53f7\u6587\u7ae0\u4e2d\u84b8\u998f\u51fa\u7684 7 \u4e2a\u7206\u6b3e\u9009\u9898\u516c\u5f0f\u548c Skill\u3002",
-            "url": "https://github.com/BigPengSays/bigpeng-hot-gzh",
-            "stars": 231,
-            "forks": 21,
-            "score": 47
         },
         {
             "main_cat": "AI",
@@ -306,7 +306,7 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/ryzqi/learn-agent",
             "stars": 254,
             "forks": 35,
-            "score": 46
+            "score": 45
         },
         {
             "main_cat": "AI",
@@ -317,7 +317,7 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/lennney/stop-that-shit",
             "stars": 265,
             "forks": 15,
-            "score": 41
+            "score": 40
         },
         {
             "main_cat": "AI",
@@ -542,6 +542,17 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
+            "name": "Architecture-FreexCrypto",
+            "full_name": "freexcrypto/Architecture-FreexCrypto",
+            "description": "Architecture documentation for FreexCrypto \u2014 a payment gateway letting Indonesian merchants accept Rupiah-denominated stablecoin payments directly into their own wallet. C4-lite structure, ten decision records, verified against source.",
+            "url": "https://github.com/freexcrypto/Architecture-FreexCrypto",
+            "stars": 0,
+            "forks": 0,
+            "score": 30
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
             "name": "morphogen-contracts",
             "full_name": "wangluolingxing/morphogen-contracts",
             "description": "Immutable cross-chain organism protocol contracts",
@@ -673,5 +684,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-08-23 15:15"
+    "timestamp": "2026-08-23 16:16"
 };
