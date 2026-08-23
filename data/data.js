@@ -18,8 +18,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "CopilotKit/OpenBot",
             "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
             "url": "https://github.com/CopilotKit/OpenBot",
-            "stars": 2402,
-            "forks": 273,
+            "stars": 2406,
+            "forks": 274,
             "score": 99
         },
         {
@@ -40,8 +40,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "wang2122/sprix-sage-router",
             "description": "Sprix AI at \u5c7f\u667a\u540c\u884c \u2014 state-aware SELF/COLLABORATE/HANDOFF routing for A2A agent networks.",
             "url": "https://github.com/wang2122/sprix-sage-router",
-            "stars": 1359,
-            "forks": 12,
+            "stars": 1377,
+            "forks": 23,
             "score": 99
         },
         {
@@ -51,8 +51,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "cclank/lanshu-create-ai-presenter-video",
             "description": "Provider-neutral Codex Skill for producing verified AI presenter videos from a script and an authorized presenter image.",
             "url": "https://github.com/cclank/lanshu-create-ai-presenter-video",
-            "stars": 460,
-            "forks": 69,
+            "stars": 487,
+            "forks": 73,
             "score": 99
         },
         {
@@ -62,8 +62,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "duty1g/x64dbg-mcp-server",
             "description": "x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg that exposes the debugger's full functionality over HTTP. Connect any MCP-compatible AI assistant and control x64dbg programmatically: set breakpoints, step through code, read memory, dump registers, and more.  Built with Zig \u2014 zero dependencies, single-binary output, cros",
             "url": "https://github.com/duty1g/x64dbg-mcp-server",
-            "stars": 291,
-            "forks": 32,
+            "stars": 325,
+            "forks": 37,
             "score": 99
         },
         {
@@ -95,9 +95,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "jeremy-prt/bloub",
             "description": "SVG recreation of the x.ai bot avatar. One shape morphing through 14 states, measured off the reference video frame by frame.",
             "url": "https://github.com/jeremy-prt/bloub",
-            "stars": 679,
-            "forks": 79,
-            "score": 79
+            "stars": 681,
+            "forks": 80,
+            "score": 80
         },
         {
             "main_cat": "AI",
@@ -106,7 +106,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "jaredrhod/barehands",
             "description": "Move things on your screen with your bare hands. A webcam-powered, hand-tracked interface for your AI. No headset. No controllers.",
             "url": "https://github.com/jaredrhod/barehands",
-            "stars": 617,
+            "stars": 621,
             "forks": 117,
             "score": 79
         },
@@ -117,9 +117,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "lexmount/moli",
             "description": "Best headless browser for AI agents. Lite, Fast, High-Compatibility. Built in Rust",
             "url": "https://github.com/lexmount/moli",
-            "stars": 959,
+            "stars": 964,
             "forks": 59,
-            "score": 69
+            "score": 70
         },
         {
             "main_cat": "AI",
@@ -135,13 +135,13 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "chatbot-template",
-            "full_name": "shadcn-ui/chatbot-template",
-            "description": "A minimal chatbot template built with Next.js, AI SDK, shadcn/ui, shadcn/react, shadcn/typeset. It runs on the Vercel AI Gateway.",
-            "url": "https://github.com/shadcn-ui/chatbot-template",
-            "stars": 736,
-            "forks": 68,
-            "score": 66
+            "name": "deepseek-design",
+            "full_name": "Devin-AXIS/deepseek-design",
+            "description": "DeepSeek Harness \u53ef\u7f16\u8f91\u8bbe\u8ba1\u7cfb\u7edf\uff1aAI \u751f\u6210\u3001\u53ef\u89c6\u5316\u7f16\u8f91\u3001\u6a21\u677f\u5e02\u573a\u4e0e PPT\uff5cNative Design & PPT Studio for DeepSeek Harness.",
+            "url": "https://github.com/Devin-AXIS/deepseek-design",
+            "stars": 337,
+            "forks": 101,
+            "score": 67
         },
         {
             "main_cat": "AI",
@@ -152,18 +152,7 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/xinxinshuhao-create/grok-register",
             "stars": 468,
             "forks": 123,
-            "score": 66
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "deepseek-design",
-            "full_name": "Devin-AXIS/deepseek-design",
-            "description": "DeepSeek Harness \u53ef\u7f16\u8f91\u8bbe\u8ba1\u7cfb\u7edf\uff1aAI \u751f\u6210\u3001\u53ef\u89c6\u5316\u7f16\u8f91\u3001\u6a21\u677f\u5e02\u573a\u4e0e PPT\uff5cNative Design & PPT Studio for DeepSeek Harness.",
-            "url": "https://github.com/Devin-AXIS/deepseek-design",
-            "stars": 334,
-            "forks": 100,
-            "score": 66
+            "score": 64
         },
         {
             "main_cat": "AI",
@@ -172,9 +161,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "jaredrhod/fullstack-agent",
             "description": "Give your AI a full stack: memory, voice, face, and hands. This is the \"I want an AI agent\" shortcut. It sets up the entire jaredrhod stack for you with an installation wizard. Select which pieces you want or do it all!",
             "url": "https://github.com/jaredrhod/fullstack-agent",
-            "stars": 274,
-            "forks": 86,
+            "stars": 277,
+            "forks": 87,
             "score": 64
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "chatbot-template",
+            "full_name": "shadcn-ui/chatbot-template",
+            "description": "A minimal chatbot template built with Next.js, AI SDK, shadcn/ui, shadcn/react, shadcn/typeset. It runs on the Vercel AI Gateway.",
+            "url": "https://github.com/shadcn-ui/chatbot-template",
+            "stars": 736,
+            "forks": 68,
+            "score": 63
         },
         {
             "main_cat": "AI",
@@ -205,7 +205,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "fufankeji/deepseek-harness-studio",
             "description": "DeepSeek Harness \u96f6\u4ee3\u7801\u684c\u9762\u7aef\uff5c\u4e00\u952e\u542f\u52a8\uff0c\u652f\u6301 Windows \u4e0e macOS\uff1b\u5185\u7f6e\u63d2\u4ef6\u53d1\u73b0\u3001\u70ed\u70b9\u63d2\u4ef6\u63a8\u9001\u3001\u4e00\u952e\u5b89\u88c5\u4e0e\u7ba1\u7406\u3001AI \u667a\u80fd\u63a8\u8350\u548c\u89c6\u89c9\u589e\u5f3a\u3002",
             "url": "https://github.com/fufankeji/deepseek-harness-studio",
-            "stars": 466,
+            "stars": 467,
             "forks": 47,
             "score": 59
         },
@@ -216,7 +216,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "pgrundev/pgbot",
             "description": "Postgres intelligence for ai agents & apps",
             "url": "https://github.com/pgrundev/pgbot",
-            "stars": 586,
+            "stars": 587,
             "forks": 30,
             "score": 55
         },
@@ -238,7 +238,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "sam70361/emotion-ball",
             "description": "Emotion Ball \u662f\u4e00\u5957\u9762\u5411 AI \u52a9\u624b\u7684\u8868\u60c5\u5f15\u64ce:32 \u79cd\u72b6\u6001\u8868\u60c5\u5168\u90e8\u7531\u7eaf SVG \u4e0e\u539f\u751f JavaScript \u5b9e\u65f6\u9a71\u52a8,\u96f6\u6846\u67b6\u3001\u96f6\u56fe\u7247\u8d44\u6e90\u3002AI \u4fa7\u53ea\u9700\u8f93\u51fa\u4e00\u4e2a emotionId,\u5c0f\u7403\u5373\u53ef\u5207\u6362\u5230\u5bf9\u5e94\u8868\u60c5,\u53ef\u76f4\u63a5\u7528\u4f5c\u804a\u5929\u673a\u5668\u4eba\u3001\u684c\u9762\u5ba0\u7269\u3001\u60ac\u6d6e\u52a9\u624b\u7684\u60c5\u7eea\u8868\u8fbe\u5c42\u3002",
             "url": "https://github.com/sam70361/emotion-ball",
-            "stars": 240,
+            "stars": 241,
             "forks": 26,
             "score": 51
         },
@@ -249,7 +249,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "soumatheusgomes/vibe-coding-toolkit",
             "description": "A curated, battle-tested AI-coding toolkit: Claude Code plugins, subagent orchestration, quality gates, and ready-to-copy prompts, extracted from real production use.",
             "url": "https://github.com/soumatheusgomes/vibe-coding-toolkit",
-            "stars": 254,
+            "stars": 255,
             "forks": 49,
             "score": 50
         },
@@ -315,7 +315,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "lennney/stop-that-shit",
             "description": "Stop That Shit\uff08\u522b\u518d\u9020\u53f2\u4e86\uff09\uff5c\u9762\u5411 Codex/GPT \u573a\u666f\u7684\u591a\u5e73\u53f0 Hook + Skill Guard\uff1a\u62e6\u622a AI coding agent \u65e0\u9700\u6c42\u7684\u54c8\u5e0c\u3001\u6821\u9a8c\u548c\u4e0e\u4efb\u52a1\u8303\u56f4\u81a8\u80c0\u3002 A multi-platform Hook + Skill Guard for AI coding agents in Codex/GPT workflows: stop unrequested hashes, checksums, and task-scope creep.",
             "url": "https://github.com/lennney/stop-that-shit",
-            "stars": 259,
+            "stars": 261,
             "forks": 15,
             "score": 41
         },
@@ -326,7 +326,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "agentpit-io/hunter-community",
             "description": "Hunter Community Edition \u00b7 your private financial AI team \u00b7 open-source self-hosted \u00b7 powered by opencode + MCP + multi-agent \u00b7 15 min docker start",
             "url": "https://github.com/agentpit-io/hunter-community",
-            "stars": 234,
+            "stars": 236,
             "forks": 0,
             "score": 37
         },
@@ -337,7 +337,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Vendredi218/awesome-ai-harness",
             "description": "The model is the engine; the harness is the car. Curated knowledge on harness engineering \u2014 context management, tool design, agent loops, memory, sandboxing, evals. EN/\u4e2d\u6587",
             "url": "https://github.com/Vendredi218/awesome-ai-harness",
-            "stars": 126,
+            "stars": 127,
             "forks": 3,
             "score": 36
         },
@@ -403,7 +403,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "ronak-create/deepseek-v4-in-c",
             "description": "DeepSeek-V4 in C99, streamed off NVMe. Runs the 284B Flash checkpoint from 3.2 GB of RAM, 1.81 s/token with a GPU, verified against PyTorch to 2.9e-6.",
             "url": "https://github.com/ronak-create/deepseek-v4-in-c",
-            "stars": 16,
+            "stars": 17,
             "forks": 1,
             "score": 31
         },
@@ -637,6 +637,17 @@ const ALPHA_DATA_V2 = {
             "stars": 0,
             "forks": 0,
             "score": 30
+        },
+        {
+            "main_cat": "Cross-chain / Interoperability",
+            "sub_cat": null,
+            "name": "CM-OS",
+            "full_name": "MrFokker/CM-OS",
+            "description": "A decentralized OS enabling seamless cross-device synchronization and uncompromising data security, independent of the transport protocol and without a central server",
+            "url": "https://github.com/MrFokker/CM-OS",
+            "stars": 0,
+            "forks": 0,
+            "score": 30
         }
     ],
     "news": [
@@ -662,5 +673,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-08-23 11:14"
+    "timestamp": "2026-08-23 12:25"
 };
