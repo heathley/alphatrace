@@ -18,7 +18,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "CopilotKit/OpenBot",
             "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
             "url": "https://github.com/CopilotKit/OpenBot",
-            "stars": 2609,
+            "stars": 2615,
             "forks": 304,
             "score": 99
         },
@@ -40,7 +40,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "duty1g/x64dbg-mcp-server",
             "description": "x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg that exposes the debugger's full functionality over HTTP. Connect any MCP-compatible AI assistant and control x64dbg programmatically: set breakpoints, step through code, read memory, dump registers, and more.  Built with Zig \u2014 zero dependencies, single-binary output, cros",
             "url": "https://github.com/duty1g/x64dbg-mcp-server",
-            "stars": 1173,
+            "stars": 1183,
             "forks": 115,
             "score": 99
         },
@@ -51,7 +51,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "cclank/lanshu-create-ai-presenter-video",
             "description": "Provider-neutral Codex Skill for producing verified AI presenter videos from a script and an authorized presenter image.",
             "url": "https://github.com/cclank/lanshu-create-ai-presenter-video",
-            "stars": 829,
+            "stars": 831,
             "forks": 142,
             "score": 99
         },
@@ -73,20 +73,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "jaredrhod/barehands",
             "description": "Move things on your screen with your bare hands. A webcam-powered, hand-tracked interface for your AI. No headset. No controllers.",
             "url": "https://github.com/jaredrhod/barehands",
-            "stars": 663,
-            "forks": 128,
-            "score": 78
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "ai-data-extractor",
-            "full_name": "bawadou/ai-data-extractor",
-            "description": "Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.",
-            "url": "https://github.com/bawadou/ai-data-extractor",
-            "stars": 544,
-            "forks": 100,
-            "score": 77
+            "stars": 665,
+            "forks": 130,
+            "score": 79
         },
         {
             "main_cat": "AI",
@@ -95,7 +84,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "bam-bam-2/solo-skills",
             "description": "1\uc778 \uc0ac\uc5c5\uac00 \uc0dd\uc0b0\uc131 \ud0a4\ud2b8 \u2014 \uc9c1\uc6d0 \uc5c6\uc774 49\uac1c\ub97c \uc790\ub3d9\ud654\ud588\uace0, \uadf8\uc911 \ubc14\ub85c \uc4f8 \uc218 \uc788\ub294 AI \uc5d0\uc774\uc804\ud2b8 \uc2a4\ud0ac 26\uac1c(+\uc2e4\ud589 \uc2a4\ud06c\ub9bd\ud2b8)\ub97c \uacf5\uac1c\ud569\ub2c8\ub2e4",
             "url": "https://github.com/bam-bam-2/solo-skills",
-            "stars": 235,
+            "stars": 237,
             "forks": 59,
             "score": 77
         },
@@ -106,9 +95,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "jeremy-prt/bloub",
             "description": "SVG recreation of the x.ai bot avatar. One shape morphing through 14 states, measured off the reference video frame by frame.",
             "url": "https://github.com/jeremy-prt/bloub",
-            "stars": 749,
+            "stars": 752,
             "forks": 93,
             "score": 76
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "ai-data-extractor",
+            "full_name": "bawadou/ai-data-extractor",
+            "description": "Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.",
+            "url": "https://github.com/bawadou/ai-data-extractor",
+            "stars": 544,
+            "forks": 100,
+            "score": 72
         },
         {
             "main_cat": "AI",
@@ -117,7 +117,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "kgoedecke/doop",
             "description": "The open-source alternative to Paper.design. A multiplayer design canvas where humans and AI agents design together, live. MCP built in.",
             "url": "https://github.com/kgoedecke/doop",
-            "stars": 300,
+            "stars": 301,
             "forks": 28,
             "score": 71
         },
@@ -128,7 +128,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Devin-AXIS/deepseek-design",
             "description": "DeepSeek Harness \u53ef\u7f16\u8f91\u8bbe\u8ba1\u7cfb\u7edf\uff1aAI \u751f\u6210\u3001\u53ef\u89c6\u5316\u7f16\u8f91\u3001\u6a21\u677f\u5e02\u573a\u4e0e PPT\uff5cNative Design & PPT Studio for DeepSeek Harness.",
             "url": "https://github.com/Devin-AXIS/deepseek-design",
-            "stars": 400,
+            "stars": 401,
             "forks": 116,
             "score": 66
         },
@@ -139,9 +139,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "jaredrhod/fullstack-agent",
             "description": "Give your AI a full stack: memory, voice, face, and hands. This is the \"I want an AI agent\" shortcut. It sets up the entire jaredrhod stack for you with an installation wizard. Select which pieces you want or do it all!",
             "url": "https://github.com/jaredrhod/fullstack-agent",
-            "stars": 328,
-            "forks": 99,
+            "stars": 329,
+            "forks": 100,
             "score": 66
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "cs-board",
+            "full_name": "ChenShuo2004/cs-board",
+            "description": "\u5c06\u53c2\u8003\u58f0\u97f3\u548c\u4e2d\u6587\u6587\u6848\u81ea\u52a8\u751f\u6210\u767d\u677f\u52a8\u753b\u89c6\u9891\u7684\u672c\u5730 AI \u5de5\u5177\u3002",
+            "url": "https://github.com/ChenShuo2004/cs-board",
+            "stars": 232,
+            "forks": 49,
+            "score": 65
         },
         {
             "main_cat": "AI",
@@ -194,7 +205,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "fufankeji/deepseek-harness-studio",
             "description": "DeepSeek Harness \u96f6\u4ee3\u7801\u684c\u9762\u7aef\uff5c\u4e00\u952e\u542f\u52a8\uff0c\u652f\u6301 Windows \u4e0e macOS\uff1b\u5185\u7f6e\u63d2\u4ef6\u53d1\u73b0\u3001\u70ed\u70b9\u63d2\u4ef6\u63a8\u9001\u3001\u4e00\u952e\u5b89\u88c5\u4e0e\u7ba1\u7406\u3001AI \u667a\u80fd\u63a8\u8350\u548c\u89c6\u89c9\u589e\u5f3a\u3002",
             "url": "https://github.com/fufankeji/deepseek-harness-studio",
-            "stars": 500,
+            "stars": 502,
             "forks": 49,
             "score": 59
         },
@@ -249,7 +260,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "soumatheusgomes/vibe-coding-toolkit",
             "description": "A curated, battle-tested AI-coding toolkit: Claude Code plugins, subagent orchestration, quality gates, and ready-to-copy prompts, extracted from real production use.",
             "url": "https://github.com/soumatheusgomes/vibe-coding-toolkit",
-            "stars": 261,
+            "stars": 263,
             "forks": 49,
             "score": 49
         },
@@ -260,9 +271,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "only-cli/oc",
             "description": "Turn any website into a compact CLI tailored for AI agents. Browse the web in hundreds of tokens, not tens of thousands.",
             "url": "https://github.com/only-cli/oc",
-            "stars": 270,
-            "forks": 12,
-            "score": 47
+            "stars": 274,
+            "forks": 13,
+            "score": 48
         },
         {
             "main_cat": "AI",
@@ -274,17 +285,6 @@ const ALPHA_DATA_V2 = {
             "stars": 218,
             "forks": 26,
             "score": 47
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "bigpeng-hot-gzh",
-            "full_name": "BigPengSays/bigpeng-hot-gzh",
-            "description": "\u4ece100 \u591a\u7bc7\u7206\u6b3e AI \u516c\u4f17\u53f7\u6587\u7ae0\u4e2d\u84b8\u998f\u51fa\u7684 7 \u4e2a\u7206\u6b3e\u9009\u9898\u516c\u5f0f\u548c Skill\u3002",
-            "url": "https://github.com/BigPengSays/bigpeng-hot-gzh",
-            "stars": 232,
-            "forks": 21,
-            "score": 45
         },
         {
             "main_cat": "AI",
@@ -304,7 +304,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "lennney/stop-that-shit",
             "description": "Stop That Shit\uff08\u522b\u518d\u9020\u53f2\u4e86\uff09\uff5c\u9762\u5411 Codex/GPT \u573a\u666f\u7684\u591a\u5e73\u53f0 Hook + Skill Guard\uff1a\u62e6\u622a AI coding agent \u65e0\u9700\u6c42\u7684\u54c8\u5e0c\u3001\u6821\u9a8c\u548c\u4e0e\u4efb\u52a1\u8303\u56f4\u81a8\u80c0\u3002 A multi-platform Hook + Skill Guard for AI coding agents in Codex/GPT workflows: stop unrequested hashes, checksums, and task-scope creep.",
             "url": "https://github.com/lennney/stop-that-shit",
-            "stars": 336,
+            "stars": 337,
             "forks": 15,
             "score": 42
         },
@@ -326,7 +326,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Vendredi218/awesome-ai-harness",
             "description": "The model is the engine; the harness is the car. Curated knowledge on harness engineering \u2014 context management, tool design, agent loops, memory, sandboxing, evals. EN/\u4e2d\u6587",
             "url": "https://github.com/Vendredi218/awesome-ai-harness",
-            "stars": 136,
+            "stars": 137,
             "forks": 3,
             "score": 36
         },
@@ -366,17 +366,6 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
-            "name": "lewin-ai-agent",
-            "full_name": "robofighter/lewin-ai-agent",
-            "description": "LEWIN AI AGENT \u2014 lightweight talking avatar. Grok speaks; lipsync runs in the browser without a GPU viseme model.",
-            "url": "https://github.com/robofighter/lewin-ai-agent",
-            "stars": 20,
-            "forks": 1,
-            "score": 31
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
             "name": "mainarch",
             "full_name": "MaincodeHQ/mainarch",
             "description": "A from-scratch Rust inference stack for AMD GPUs that talks straight to the Linux kernel driver. No ROCm, HIP, or HSA runtime. Serves OLMo 2 on MI355X.",
@@ -388,23 +377,23 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
-            "name": "deepseek-v4-in-c",
-            "full_name": "ronak-create/deepseek-v4-in-c",
-            "description": "DeepSeek-V4 in C99, streamed off NVMe. Runs the 284B Flash checkpoint from 3.2 GB of RAM, 1.81 s/token with a GPU, verified against PyTorch to 2.9e-6.",
-            "url": "https://github.com/ronak-create/deepseek-v4-in-c",
-            "stars": 17,
+            "name": "lewin-ai-agent",
+            "full_name": "robofighter/lewin-ai-agent",
+            "description": "LEWIN AI AGENT \u2014 lightweight talking avatar. Grok speaks; lipsync runs in the browser without a GPU viseme model.",
+            "url": "https://github.com/robofighter/lewin-ai-agent",
+            "stars": 19,
             "forks": 1,
             "score": 31
         },
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
-            "name": "WicaraLLM",
-            "full_name": "bagusardin25/WicaraLLM",
-            "description": "WicaraLLM is our Indonesian Small Language Model (56M parameters), built from scratch and trained on a 1.3B-token Indonesian corpus. Engineered to run efficiently on a single laptop GPU with just 6 GB of VRAM, it combines GQA, RoPE, SwiGLU, and RMSNorm, with supervised fine-tuning for conversational capabilities",
-            "url": "https://github.com/bagusardin25/WicaraLLM",
-            "stars": 11,
-            "forks": 0,
+            "name": "deepseek-v4-in-c",
+            "full_name": "ronak-create/deepseek-v4-in-c",
+            "description": "DeepSeek-V4 in C99, streamed off NVMe. Runs the 284B Flash checkpoint from 3.2 GB of RAM, 1.81 s/token with a GPU, verified against PyTorch to 2.9e-6.",
+            "url": "https://github.com/ronak-create/deepseek-v4-in-c",
+            "stars": 17,
+            "forks": 1,
             "score": 31
         },
         {
@@ -438,6 +427,17 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/shyringo/deepseek-v4-flash-0731-in-c",
             "stars": 12,
             "forks": 1,
+            "score": 30
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "WicaraLLM",
+            "full_name": "bagusardin25/WicaraLLM",
+            "description": "WicaraLLM is our Indonesian Small Language Model (56M parameters), built from scratch and trained on a 1.3B-token Indonesian corpus. Engineered to run efficiently on a single laptop GPU with just 6 GB of VRAM, it combines GQA, RoPE, SwiGLU, and RMSNorm, with supervised fine-tuning for conversational capabilities",
+            "url": "https://github.com/bagusardin25/WicaraLLM",
+            "stars": 11,
+            "forks": 0,
             "score": 30
         },
         {
@@ -695,5 +695,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-08-24 18:29"
+    "timestamp": "2026-08-24 19:22"
 };
