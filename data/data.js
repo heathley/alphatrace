@@ -8,7 +8,7 @@ const ALPHA_DATA_V2 = {
             "description": "Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates \u2014 with cloud or bring-your-own (Claude Code / Codex) brains.",
             "url": "https://github.com/yetone/cumora",
             "stars": 3030,
-            "forks": 362,
+            "forks": 363,
             "score": 99
         },
         {
@@ -18,8 +18,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "CopilotKit/OpenBot",
             "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
             "url": "https://github.com/CopilotKit/OpenBot",
-            "stars": 2619,
-            "forks": 307,
+            "stars": 2630,
+            "forks": 311,
             "score": 99
         },
         {
@@ -29,7 +29,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "wang2122/sprix-sage-router",
             "description": "Sprix AI at \u5c7f\u667a\u540c\u884c \u2014 state-aware SELF/COLLABORATE/HANDOFF routing for A2A agent networks.",
             "url": "https://github.com/wang2122/sprix-sage-router",
-            "stars": 1755,
+            "stars": 1756,
             "forks": 24,
             "score": 99
         },
@@ -40,8 +40,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "duty1g/x64dbg-mcp-server",
             "description": "x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg that exposes the debugger's full functionality over HTTP. Connect any MCP-compatible AI assistant and control x64dbg programmatically: set breakpoints, step through code, read memory, dump registers, and more.  Built with Zig \u2014 zero dependencies, single-binary output, cros",
             "url": "https://github.com/duty1g/x64dbg-mcp-server",
-            "stars": 1188,
-            "forks": 116,
+            "stars": 1190,
+            "forks": 118,
             "score": 99
         },
         {
@@ -84,7 +84,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "bam-bam-2/solo-skills",
             "description": "1\uc778 \uc0ac\uc5c5\uac00 \uc0dd\uc0b0\uc131 \ud0a4\ud2b8 \u2014 \uc9c1\uc6d0 \uc5c6\uc774 49\uac1c\ub97c \uc790\ub3d9\ud654\ud588\uace0, \uadf8\uc911 \ubc14\ub85c \uc4f8 \uc218 \uc788\ub294 AI \uc5d0\uc774\uc804\ud2b8 \uc2a4\ud0ac 26\uac1c(+\uc2e4\ud589 \uc2a4\ud06c\ub9bd\ud2b8)\ub97c \uacf5\uac1c\ud569\ub2c8\ub2e4",
             "url": "https://github.com/bam-bam-2/solo-skills",
-            "stars": 237,
+            "stars": 239,
             "forks": 59,
             "score": 77
         },
@@ -117,7 +117,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "kgoedecke/doop",
             "description": "The open-source alternative to Paper.design. A multiplayer design canvas where humans and AI agents design together, live. MCP built in.",
             "url": "https://github.com/kgoedecke/doop",
-            "stars": 306,
+            "stars": 310,
             "forks": 29,
             "score": 72
         },
@@ -128,7 +128,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "jaredrhod/fullstack-agent",
             "description": "Give your AI a full stack: memory, voice, face, and hands. This is the \"I want an AI agent\" shortcut. It sets up the entire jaredrhod stack for you with an installation wizard. Select which pieces you want or do it all!",
             "url": "https://github.com/jaredrhod/fullstack-agent",
-            "stars": 333,
+            "stars": 334,
             "forks": 102,
             "score": 67
         },
@@ -139,7 +139,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Devin-AXIS/deepseek-design",
             "description": "DeepSeek Harness \u53ef\u7f16\u8f91\u8bbe\u8ba1\u7cfb\u7edf\uff1aAI \u751f\u6210\u3001\u53ef\u89c6\u5316\u7f16\u8f91\u3001\u6a21\u677f\u5e02\u573a\u4e0e PPT\uff5cNative Design & PPT Studio for DeepSeek Harness.",
             "url": "https://github.com/Devin-AXIS/deepseek-design",
-            "stars": 402,
+            "stars": 403,
             "forks": 117,
             "score": 66
         },
@@ -150,9 +150,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "ChenShuo2004/cs-board",
             "description": "\u5c06\u53c2\u8003\u58f0\u97f3\u548c\u4e2d\u6587\u6587\u6848\u81ea\u52a8\u751f\u6210\u767d\u677f\u52a8\u753b\u89c6\u9891\u7684\u672c\u5730 AI \u5de5\u5177\u3002",
             "url": "https://github.com/ChenShuo2004/cs-board",
-            "stars": 233,
-            "forks": 49,
-            "score": 65
+            "stars": 235,
+            "forks": 50,
+            "score": 66
         },
         {
             "main_cat": "AI",
@@ -250,7 +250,7 @@ const ALPHA_DATA_V2 = {
             "description": "DSH \u684c\u9762\u5ba0\u7269\uff1a\u4e00\u884c\u547d\u4ee4\u88c5\u597d\u5373\u7528\u7684\u900f\u660e\u52a8\u753b\u5c0f\u684c\u5ba0\uff0c\u652f\u6301\u591a\u5f00\u3001\u5927\u5c0f\u4f4d\u7f6e\u968f\u5fc3\u914d\u7f6e\uff1b\u8fd8\u5185\u7f6e DIY \u7d20\u6750\u94fe\uff0c\u80fd\u7528 AI \u89c6\u9891\u81ea\u9020\u4e13\u5c5e\u5ba0\u7269",
             "url": "https://github.com/PC2005-cloud/dsh-pet",
             "stars": 396,
-            "forks": 25,
+            "forks": 26,
             "score": 49
         },
         {
@@ -271,7 +271,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "only-cli/oc",
             "description": "Turn any website into a compact CLI tailored for AI agents. Browse the web in hundreds of tokens, not tens of thousands.",
             "url": "https://github.com/only-cli/oc",
-            "stars": 276,
+            "stars": 279,
             "forks": 13,
             "score": 48
         },
@@ -304,7 +304,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "lennney/stop-that-shit",
             "description": "Stop That Shit\uff08\u522b\u518d\u9020\u53f2\u4e86\uff09\uff5c\u9762\u5411 Codex/GPT \u573a\u666f\u7684\u591a\u5e73\u53f0 Hook + Skill Guard\uff1a\u62e6\u622a AI coding agent \u65e0\u9700\u6c42\u7684\u54c8\u5e0c\u3001\u6821\u9a8c\u548c\u4e0e\u4efb\u52a1\u8303\u56f4\u81a8\u80c0\u3002 A multi-platform Hook + Skill Guard for AI coding agents in Codex/GPT workflows: stop unrequested hashes, checksums, and task-scope creep.",
             "url": "https://github.com/lennney/stop-that-shit",
-            "stars": 338,
+            "stars": 340,
             "forks": 15,
             "score": 42
         },
@@ -326,7 +326,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Vendredi218/awesome-ai-harness",
             "description": "The model is the engine; the harness is the car. Curated knowledge on harness engineering \u2014 context management, tool design, agent loops, memory, sandboxing, evals. EN/\u4e2d\u6587",
             "url": "https://github.com/Vendredi218/awesome-ai-harness",
-            "stars": 137,
+            "stars": 138,
             "forks": 3,
             "score": 36
         },
@@ -403,7 +403,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "bagusardin25/WicaraLLM",
             "description": "WicaraLLM is our Indonesian Small Language Model (56M parameters), built from scratch and trained on a 1.3B-token Indonesian corpus. Engineered to run efficiently on a single laptop GPU with just 6 GB of VRAM, it combines GQA, RoPE, SwiGLU, and RMSNorm, with supervised fine-tuning for conversational capabilities",
             "url": "https://github.com/bagusardin25/WicaraLLM",
-            "stars": 12,
+            "stars": 13,
             "forks": 0,
             "score": 31
         },
@@ -695,5 +695,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-08-24 20:21"
+    "timestamp": "2026-08-24 21:22"
 };
