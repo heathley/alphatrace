@@ -7,7 +7,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "yetone/cumora",
             "description": "Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates \u2014 with cloud or bring-your-own (Claude Code / Codex) brains.",
             "url": "https://github.com/yetone/cumora",
-            "stars": 3097,
+            "stars": 3100,
             "forks": 370,
             "score": 99
         },
@@ -18,8 +18,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "CopilotKit/OpenBot",
             "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
             "url": "https://github.com/CopilotKit/OpenBot",
-            "stars": 2737,
-            "forks": 330,
+            "stars": 2745,
+            "forks": 332,
             "score": 99
         },
         {
@@ -40,8 +40,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "duty1g/x64dbg-mcp-server",
             "description": "x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg that exposes the debugger's full functionality over HTTP. Connect any MCP-compatible AI assistant and control x64dbg programmatically: set breakpoints, step through code, read memory, dump registers, and more.  Built with Zig \u2014 zero dependencies, single-binary output, cros",
             "url": "https://github.com/duty1g/x64dbg-mcp-server",
-            "stars": 1303,
-            "forks": 128,
+            "stars": 1306,
+            "forks": 129,
             "score": 99
         },
         {
@@ -51,7 +51,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "cclank/lanshu-create-ai-presenter-video",
             "description": "Provider-neutral Codex Skill for producing verified AI presenter videos from a script and an authorized presenter image.",
             "url": "https://github.com/cclank/lanshu-create-ai-presenter-video",
-            "stars": 877,
+            "stars": 883,
             "forks": 153,
             "score": 99
         },
@@ -73,9 +73,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "bam-bam-2/solo-skills",
             "description": "1\uc778 \uc0ac\uc5c5\uac00 \uc0dd\uc0b0\uc131 \ud0a4\ud2b8 \u2014 \uc9c1\uc6d0 \uc5c6\uc774 49\uac1c\ub97c \uc790\ub3d9\ud654\ud588\uace0, \uadf8\uc911 \ubc14\ub85c \uc4f8 \uc218 \uc788\ub294 AI \uc5d0\uc774\uc804\ud2b8 \uc2a4\ud0ac 26\uac1c(+\uc2e4\ud589 \uc2a4\ud06c\ub9bd\ud2b8)\ub97c \uacf5\uac1c\ud569\ub2c8\ub2e4",
             "url": "https://github.com/bam-bam-2/solo-skills",
-            "stars": 280,
-            "forks": 69,
-            "score": 85
+            "stars": 283,
+            "forks": 73,
+            "score": 87
         },
         {
             "main_cat": "AI",
@@ -91,23 +91,23 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
+            "name": "doop",
+            "full_name": "kgoedecke/doop",
+            "description": "The open-source alternative to Paper.design. A multiplayer design canvas where humans and AI agents design together, live. MCP built in.",
+            "url": "https://github.com/kgoedecke/doop",
+            "stars": 339,
+            "forks": 33,
+            "score": 77
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
             "name": "barehands",
             "full_name": "jaredrhod/barehands",
             "description": "Move things on your screen with your bare hands. A webcam-powered, hand-tracked interface for your AI. No headset. No controllers.",
             "url": "https://github.com/jaredrhod/barehands",
             "stars": 677,
             "forks": 134,
-            "score": 76
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "doop",
-            "full_name": "kgoedecke/doop",
-            "description": "The open-source alternative to Paper.design. A multiplayer design canvas where humans and AI agents design together, live. MCP built in.",
-            "url": "https://github.com/kgoedecke/doop",
-            "stars": 337,
-            "forks": 33,
             "score": 76
         },
         {
@@ -128,9 +128,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "Devin-AXIS/deepseek-design",
             "description": "DeepSeek Harness \u53ef\u7f16\u8f91\u8bbe\u8ba1\u7cfb\u7edf\uff1aAI \u751f\u6210\u3001\u53ef\u89c6\u5316\u7f16\u8f91\u3001\u6a21\u677f\u5e02\u573a\u4e0e PPT\uff5cNative Design & PPT Studio for DeepSeek Harness.",
             "url": "https://github.com/Devin-AXIS/deepseek-design",
-            "stars": 429,
-            "forks": 124,
+            "stars": 430,
+            "forks": 123,
             "score": 68
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "huashu-excel",
+            "full_name": "alchaincyf/huashu-excel",
+            "description": "\u6570\u636e\u5206\u6790\u4e0e Excel \u5168\u6d41\u7a0b skill\uff1a\u4f53\u68c0\u810f\u8868\u3001\u6e05\u6d17\u3001\u5bf9\u9f50\u9700\u6c42\u3001\u5206\u6790\u3001\u5bf9\u8d26\u3001\u4ea4\u4ed8\u3002\u8ba9 AI \u7b97\u51fa\u6765\u7684\u6570\u5b57\u7ecf\u5f97\u8d77\u8ffd\u95ee\u3002\u8de8 agent \u901a\u7528\uff0c\u4f9d\u8d56\u4ec5 openpyxl\u3002",
+            "url": "https://github.com/alchaincyf/huashu-excel",
+            "stars": 227,
+            "forks": 36,
+            "score": 67
         },
         {
             "main_cat": "AI",
@@ -146,24 +157,13 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "huashu-excel",
-            "full_name": "alchaincyf/huashu-excel",
-            "description": "\u6570\u636e\u5206\u6790\u4e0e Excel \u5168\u6d41\u7a0b skill\uff1a\u4f53\u68c0\u810f\u8868\u3001\u6e05\u6d17\u3001\u5bf9\u9f50\u9700\u6c42\u3001\u5206\u6790\u3001\u5bf9\u8d26\u3001\u4ea4\u4ed8\u3002\u8ba9 AI \u7b97\u51fa\u6765\u7684\u6570\u5b57\u7ecf\u5f97\u8d77\u8ffd\u95ee\u3002\u8de8 agent \u901a\u7528\uff0c\u4f9d\u8d56\u4ec5 openpyxl\u3002",
-            "url": "https://github.com/alchaincyf/huashu-excel",
-            "stars": 225,
-            "forks": 35,
-            "score": 66
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
             "name": "cs-board",
             "full_name": "ChenShuo2004/cs-board",
             "description": "\u5c06\u53c2\u8003\u58f0\u97f3\u548c\u4e2d\u6587\u6587\u6848\u81ea\u52a8\u751f\u6210\u767d\u677f\u52a8\u753b\u89c6\u9891\u7684\u672c\u5730 AI \u5de5\u5177\u3002",
             "url": "https://github.com/ChenShuo2004/cs-board",
-            "stars": 258,
-            "forks": 53,
-            "score": 63
+            "stars": 266,
+            "forks": 54,
+            "score": 64
         },
         {
             "main_cat": "AI",
@@ -216,20 +216,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "fufankeji/deepseek-harness-studio",
             "description": "DeepSeek Harness \u96f6\u4ee3\u7801\u684c\u9762\u7aef\uff5c\u4e00\u952e\u542f\u52a8\uff0c\u652f\u6301 Windows \u4e0e macOS\uff1b\u5185\u7f6e\u63d2\u4ef6\u53d1\u73b0\u3001\u70ed\u70b9\u63d2\u4ef6\u63a8\u9001\u3001\u4e00\u952e\u5b89\u88c5\u4e0e\u7ba1\u7406\u3001AI \u667a\u80fd\u63a8\u8350\u548c\u89c6\u89c9\u589e\u5f3a\u3002",
             "url": "https://github.com/fufankeji/deepseek-harness-studio",
-            "stars": 517,
+            "stars": 518,
             "forks": 50,
             "score": 57
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "emotion-ball",
-            "full_name": "sam70361/emotion-ball",
-            "description": "Emotion Ball \u662f\u4e00\u5957\u9762\u5411 AI \u52a9\u624b\u7684\u8868\u60c5\u5f15\u64ce:32 \u79cd\u72b6\u6001\u8868\u60c5\u5168\u90e8\u7531\u7eaf SVG \u4e0e\u539f\u751f JavaScript \u5b9e\u65f6\u9a71\u52a8,\u96f6\u6846\u67b6\u3001\u96f6\u56fe\u7247\u8d44\u6e90\u3002AI \u4fa7\u53ea\u9700\u8f93\u51fa\u4e00\u4e2a emotionId,\u5c0f\u7403\u5373\u53ef\u5207\u6362\u5230\u5bf9\u5e94\u8868\u60c5,\u53ef\u76f4\u63a5\u7528\u4f5c\u804a\u5929\u673a\u5668\u4eba\u3001\u684c\u9762\u5ba0\u7269\u3001\u60ac\u6d6e\u52a9\u624b\u7684\u60c5\u7eea\u8868\u8fbe\u5c42\u3002",
-            "url": "https://github.com/sam70361/emotion-ball",
-            "stars": 268,
-            "forks": 29,
-            "score": 51
         },
         {
             "main_cat": "AI",
@@ -238,8 +227,19 @@ const ALPHA_DATA_V2 = {
             "full_name": "only-cli/oc",
             "description": "Turn any website into a compact CLI tailored for AI agents. Browse the web in hundreds of tokens, not tens of thousands.",
             "url": "https://github.com/only-cli/oc",
-            "stars": 290,
+            "stars": 291,
             "forks": 14,
+            "score": 49
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "emotion-ball",
+            "full_name": "sam70361/emotion-ball",
+            "description": "Emotion Ball \u662f\u4e00\u5957\u9762\u5411 AI \u52a9\u624b\u7684\u8868\u60c5\u5f15\u64ce:32 \u79cd\u72b6\u6001\u8868\u60c5\u5168\u90e8\u7531\u7eaf SVG \u4e0e\u539f\u751f JavaScript \u5b9e\u65f6\u9a71\u52a8,\u96f6\u6846\u67b6\u3001\u96f6\u56fe\u7247\u8d44\u6e90\u3002AI \u4fa7\u53ea\u9700\u8f93\u51fa\u4e00\u4e2a emotionId,\u5c0f\u7403\u5373\u53ef\u5207\u6362\u5230\u5bf9\u5e94\u8868\u60c5,\u53ef\u76f4\u63a5\u7528\u4f5c\u804a\u5929\u673a\u5668\u4eba\u3001\u684c\u9762\u5ba0\u7269\u3001\u60ac\u6d6e\u52a9\u624b\u7684\u60c5\u7eea\u8868\u8fbe\u5c42\u3002",
+            "url": "https://github.com/sam70361/emotion-ball",
+            "stars": 271,
+            "forks": 30,
             "score": 49
         },
         {
@@ -410,12 +410,12 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
-            "name": "XTLLM",
-            "full_name": "opktunme/XTLLM",
-            "description": "Native Vulkan inference for giant MoE models on consumer AMD GPUs",
-            "url": "https://github.com/opktunme/XTLLM",
-            "stars": 10,
-            "forks": 2,
+            "name": "AstraLM",
+            "full_name": "Prasun01/AstraLM",
+            "description": "A high-performance, private, on-device AI chat client built with Flutter. AstraLM runs Large Language Models (LLMs) and Vision models 100% locally on device hardware (CPU & GPU) with zero data leaving your phone.(until you choose to use cloud model which is completely OPTIONAL)",
+            "url": "https://github.com/Prasun01/AstraLM",
+            "stars": 11,
+            "forks": 1,
             "score": 31
         },
         {
@@ -673,5 +673,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-08-25 09:28"
+    "timestamp": "2026-08-25 10:24"
 };
