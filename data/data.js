@@ -7,7 +7,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "yetone/cumora",
             "description": "Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates \u2014 with cloud or bring-your-own (Claude Code / Codex) brains.",
             "url": "https://github.com/yetone/cumora",
-            "stars": 3110,
+            "stars": 3111,
             "forks": 370,
             "score": 99
         },
@@ -18,8 +18,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "CopilotKit/OpenBot",
             "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
             "url": "https://github.com/CopilotKit/OpenBot",
-            "stars": 2849,
-            "forks": 346,
+            "stars": 2861,
+            "forks": 345,
             "score": 99
         },
         {
@@ -40,8 +40,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "duty1g/x64dbg-mcp-server",
             "description": "x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg that exposes the debugger's full functionality over HTTP. Connect any MCP-compatible AI assistant and control x64dbg programmatically: set breakpoints, step through code, read memory, dump registers, and more.  Built with Zig \u2014 zero dependencies, single-binary output, cros",
             "url": "https://github.com/duty1g/x64dbg-mcp-server",
-            "stars": 1358,
-            "forks": 133,
+            "stars": 1364,
+            "forks": 134,
             "score": 99
         },
         {
@@ -51,7 +51,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "cclank/lanshu-create-ai-presenter-video",
             "description": "Provider-neutral Codex Skill for producing verified AI presenter videos from a script and an authorized presenter image.",
             "url": "https://github.com/cclank/lanshu-create-ai-presenter-video",
-            "stars": 906,
+            "stars": 907,
             "forks": 162,
             "score": 99
         },
@@ -84,7 +84,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "jaredrhod/barehands",
             "description": "Move things on your screen with your bare hands. A webcam-powered, hand-tracked interface for your AI. No headset. No controllers.",
             "url": "https://github.com/jaredrhod/barehands",
-            "stars": 687,
+            "stars": 688,
             "forks": 135,
             "score": 77
         },
@@ -102,13 +102,13 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "ai-data-extractor",
-            "full_name": "bawadou/ai-data-extractor",
-            "description": "Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.",
-            "url": "https://github.com/bawadou/ai-data-extractor",
-            "stars": 544,
-            "forks": 100,
-            "score": 72
+            "name": "learn",
+            "full_name": "amosblomqvist/learn",
+            "description": "My AI learning system.",
+            "url": "https://github.com/amosblomqvist/learn",
+            "stars": 237,
+            "forks": 31,
+            "score": 75
         },
         {
             "main_cat": "AI",
@@ -117,9 +117,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "kgoedecke/doop",
             "description": "The open-source alternative to Paper.design. A multiplayer design canvas where humans and AI agents design together, live. MCP built in.",
             "url": "https://github.com/kgoedecke/doop",
-            "stars": 355,
+            "stars": 356,
             "forks": 37,
-            "score": 71
+            "score": 72
         },
         {
             "main_cat": "AI",
@@ -135,11 +135,22 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
+            "name": "ai-data-extractor",
+            "full_name": "bawadou/ai-data-extractor",
+            "description": "Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.",
+            "url": "https://github.com/bawadou/ai-data-extractor",
+            "stars": 544,
+            "forks": 100,
+            "score": 69
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
             "name": "deepseek-design",
             "full_name": "Devin-AXIS/deepseek-design",
             "description": "DeepSeek Harness \u53ef\u7f16\u8f91\u8bbe\u8ba1\u7cfb\u7edf\uff1aAI \u751f\u6210\u3001\u53ef\u89c6\u5316\u7f16\u8f91\u3001\u6a21\u677f\u5e02\u573a\u4e0e PPT\uff5cNative Design & PPT Studio for DeepSeek Harness.",
             "url": "https://github.com/Devin-AXIS/deepseek-design",
-            "stars": 448,
+            "stars": 450,
             "forks": 129,
             "score": 67
         },
@@ -150,7 +161,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "jaredrhod/fullstack-agent",
             "description": "Give your AI a full stack: memory, voice, face, and hands. This is the \"I want an AI agent\" shortcut. It sets up the entire jaredrhod stack for you with an installation wizard. Select which pieces you want or do it all!",
             "url": "https://github.com/jaredrhod/fullstack-agent",
-            "stars": 357,
+            "stars": 362,
             "forks": 115,
             "score": 67
         },
@@ -161,7 +172,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "ChenShuo2004/cs-board",
             "description": "\u5c06\u53c2\u8003\u58f0\u97f3\u548c\u4e2d\u6587\u6587\u6848\u81ea\u52a8\u751f\u6210\u767d\u677f\u52a8\u753b\u89c6\u9891\u7684\u672c\u5730 AI \u5de5\u5177\u3002",
             "url": "https://github.com/ChenShuo2004/cs-board",
-            "stars": 290,
+            "stars": 292,
             "forks": 57,
             "score": 67
         },
@@ -183,7 +194,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "xinxinshuhao-create/grok-register",
             "description": "Automated account registration toolkit for x.ai (Grok) with SSO extraction, OAuth Device Flow, and auto-replenish daemon",
             "url": "https://github.com/xinxinshuhao-create/grok-register",
-            "stars": 477,
+            "stars": 476,
             "forks": 128,
             "score": 60
         },
@@ -227,7 +238,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "sam70361/emotion-ball",
             "description": "Emotion Ball \u662f\u4e00\u5957\u9762\u5411 AI \u52a9\u624b\u7684\u8868\u60c5\u5f15\u64ce:32 \u79cd\u72b6\u6001\u8868\u60c5\u5168\u90e8\u7531\u7eaf SVG \u4e0e\u539f\u751f JavaScript \u5b9e\u65f6\u9a71\u52a8,\u96f6\u6846\u67b6\u3001\u96f6\u56fe\u7247\u8d44\u6e90\u3002AI \u4fa7\u53ea\u9700\u8f93\u51fa\u4e00\u4e2a emotionId,\u5c0f\u7403\u5373\u53ef\u5207\u6362\u5230\u5bf9\u5e94\u8868\u60c5,\u53ef\u76f4\u63a5\u7528\u4f5c\u804a\u5929\u673a\u5668\u4eba\u3001\u684c\u9762\u5ba0\u7269\u3001\u60ac\u6d6e\u52a9\u624b\u7684\u60c5\u7eea\u8868\u8fbe\u5c42\u3002",
             "url": "https://github.com/sam70361/emotion-ball",
-            "stars": 274,
+            "stars": 275,
             "forks": 30,
             "score": 49
         },
@@ -300,17 +311,6 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "bigpeng-hot-gzh",
-            "full_name": "BigPengSays/bigpeng-hot-gzh",
-            "description": "\u4ece100 \u591a\u7bc7\u7206\u6b3e AI \u516c\u4f17\u53f7\u6587\u7ae0\u4e2d\u84b8\u998f\u51fa\u7684 7 \u4e2a\u7206\u6b3e\u9009\u9898\u516c\u5f0f\u548c Skill\u3002",
-            "url": "https://github.com/BigPengSays/bigpeng-hot-gzh",
-            "stars": 236,
-            "forks": 21,
-            "score": 44
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
             "name": "DSHA",
             "full_name": "qiannianhuanxiang/DSHA",
             "description": "\u514d ROOT \u514d Termux\uff0c\u5728\u624b\u673a\u4e0a\u8dd1 DeepSeek Harness\u3002\u5b8c\u6574 Ubuntu \u73af\u5883 + proroot \u96f6 ptrace \u5f00\u9500 \u00b7 AI \u8f93\u51fa\u5b9e\u65f6\u4e0a\u5c4f \u00b7 ADB \u76f4\u8fde \u00b7 \u6570\u636e\u4e0d\u4e22",
@@ -351,17 +351,6 @@ const ALPHA_DATA_V2 = {
             "stars": 0,
             "forks": 28,
             "score": 34
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "AstraLM",
-            "full_name": "Prasun01/AstraLM",
-            "description": "A high-performance, private, on-device AI chat client built with Flutter. AstraLM runs Large Language Models (LLMs) and Vision models 100% locally on device hardware (CPU & GPU) with zero data leaving your phone.(until you choose to use cloud model which is completely OPTIONAL)",
-            "url": "https://github.com/Prasun01/AstraLM",
-            "stars": 13,
-            "forks": 1,
-            "score": 32
         },
         {
             "main_cat": "AI",
@@ -416,6 +405,17 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/bagusardin25/WicaraLLM",
             "stars": 14,
             "forks": 0,
+            "score": 31
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "AstraLM",
+            "full_name": "Prasun01/AstraLM",
+            "description": "A high-performance, private, on-device AI chat client built with Flutter. AstraLM runs Large Language Models (LLMs) and Vision models 100% locally on device hardware (CPU & GPU) with zero data leaving your phone.(until you choose to use cloud model which is completely OPTIONAL)",
+            "url": "https://github.com/Prasun01/AstraLM",
+            "stars": 13,
+            "forks": 1,
             "score": 31
         },
         {
@@ -684,5 +684,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-08-25 18:29"
+    "timestamp": "2026-08-25 19:25"
 };
