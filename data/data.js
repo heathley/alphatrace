@@ -18,8 +18,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "CopilotKit/OpenBot",
             "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
             "url": "https://github.com/CopilotKit/OpenBot",
-            "stars": 2869,
-            "forks": 345,
+            "stars": 2879,
+            "forks": 346,
             "score": 99
         },
         {
@@ -40,7 +40,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "duty1g/x64dbg-mcp-server",
             "description": "x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg that exposes the debugger's full functionality over HTTP. Connect any MCP-compatible AI assistant and control x64dbg programmatically: set breakpoints, step through code, read memory, dump registers, and more.  Built with Zig \u2014 zero dependencies, single-binary output, cros",
             "url": "https://github.com/duty1g/x64dbg-mcp-server",
-            "stars": 1368,
+            "stars": 1371,
             "forks": 134,
             "score": 99
         },
@@ -51,8 +51,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "cclank/lanshu-create-ai-presenter-video",
             "description": "Provider-neutral Codex Skill for producing verified AI presenter videos from a script and an authorized presenter image.",
             "url": "https://github.com/cclank/lanshu-create-ai-presenter-video",
-            "stars": 907,
-            "forks": 162,
+            "stars": 909,
+            "forks": 163,
             "score": 99
         },
         {
@@ -85,7 +85,7 @@ const ALPHA_DATA_V2 = {
             "description": "Move things on your screen with your bare hands. A webcam-powered, hand-tracked interface for your AI. No headset. No controllers.",
             "url": "https://github.com/jaredrhod/barehands",
             "stars": 688,
-            "forks": 135,
+            "forks": 136,
             "score": 77
         },
         {
@@ -95,9 +95,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "amosblomqvist/learn",
             "description": "My AI learning system.",
             "url": "https://github.com/amosblomqvist/learn",
-            "stars": 246,
+            "stars": 256,
             "forks": 31,
-            "score": 76
+            "score": 77
         },
         {
             "main_cat": "AI",
@@ -117,7 +117,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "kgoedecke/doop",
             "description": "The open-source alternative to Paper.design. A multiplayer design canvas where humans and AI agents design together, live. MCP built in.",
             "url": "https://github.com/kgoedecke/doop",
-            "stars": 357,
+            "stars": 360,
             "forks": 37,
             "score": 72
         },
@@ -128,7 +128,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "alchaincyf/huashu-excel",
             "description": "\u6570\u636e\u5206\u6790\u4e0e Excel \u5168\u6d41\u7a0b skill\uff1a\u4f53\u68c0\u810f\u8868\u3001\u6e05\u6d17\u3001\u5bf9\u9f50\u9700\u6c42\u3001\u5206\u6790\u3001\u5bf9\u8d26\u3001\u4ea4\u4ed8\u3002\u8ba9 AI \u7b97\u51fa\u6765\u7684\u6570\u5b57\u7ecf\u5f97\u8d77\u8ffd\u95ee\u3002\u8de8 agent \u901a\u7528\uff0c\u4f9d\u8d56\u4ec5 openpyxl\u3002",
             "url": "https://github.com/alchaincyf/huashu-excel",
-            "stars": 250,
+            "stars": 251,
             "forks": 40,
             "score": 71
         },
@@ -150,7 +150,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Devin-AXIS/deepseek-design",
             "description": "DeepSeek Harness \u53ef\u7f16\u8f91\u8bbe\u8ba1\u7cfb\u7edf\uff1aAI \u751f\u6210\u3001\u53ef\u89c6\u5316\u7f16\u8f91\u3001\u6a21\u677f\u5e02\u573a\u4e0e PPT\uff5cNative Design & PPT Studio for DeepSeek Harness.",
             "url": "https://github.com/Devin-AXIS/deepseek-design",
-            "stars": 452,
+            "stars": 454,
             "forks": 130,
             "score": 67
         },
@@ -162,7 +162,7 @@ const ALPHA_DATA_V2 = {
             "description": "Give your AI a full stack: memory, voice, face, and hands. This is the \"I want an AI agent\" shortcut. It sets up the entire jaredrhod stack for you with an installation wizard. Select which pieces you want or do it all!",
             "url": "https://github.com/jaredrhod/fullstack-agent",
             "stars": 364,
-            "forks": 116,
+            "forks": 117,
             "score": 67
         },
         {
@@ -271,7 +271,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "soumatheusgomes/vibe-coding-toolkit",
             "description": "A curated, battle-tested AI-coding toolkit: Claude Code plugins, subagent orchestration, quality gates, and ready-to-copy prompts, extracted from real production use.",
             "url": "https://github.com/soumatheusgomes/vibe-coding-toolkit",
-            "stars": 272,
+            "stars": 273,
             "forks": 50,
             "score": 48
         },
@@ -282,7 +282,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "only-cli/oc",
             "description": "Turn any website into a compact CLI tailored for AI agents. Browse the web in hundreds of tokens, not tens of thousands.",
             "url": "https://github.com/only-cli/oc",
-            "stars": 300,
+            "stars": 301,
             "forks": 14,
             "score": 47
         },
@@ -315,7 +315,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "qiannianhuanxiang/DSHA",
             "description": "\u514d ROOT \u514d Termux\uff0c\u5728\u624b\u673a\u4e0a\u8dd1 DeepSeek Harness\u3002\u5b8c\u6574 Ubuntu \u73af\u5883 + proroot \u96f6 ptrace \u5f00\u9500 \u00b7 AI \u8f93\u51fa\u5b9e\u65f6\u4e0a\u5c4f \u00b7 ADB \u76f4\u8fde \u00b7 \u6570\u636e\u4e0d\u4e22",
             "url": "https://github.com/qiannianhuanxiang/DSHA",
-            "stars": 262,
+            "stars": 263,
             "forks": 17,
             "score": 41
         },
@@ -673,5 +673,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-08-25 20:20"
+    "timestamp": "2026-08-25 21:20"
 };
