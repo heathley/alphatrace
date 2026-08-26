@@ -7,7 +7,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "yetone/cumora",
             "description": "Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates \u2014 with cloud or bring-your-own (Claude Code / Codex) brains.",
             "url": "https://github.com/yetone/cumora",
-            "stars": 3133,
+            "stars": 3135,
             "forks": 376,
             "score": 99
         },
@@ -18,7 +18,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "CopilotKit/OpenBot",
             "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
             "url": "https://github.com/CopilotKit/OpenBot",
-            "stars": 2948,
+            "stars": 2952,
             "forks": 358,
             "score": 99
         },
@@ -40,7 +40,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "duty1g/x64dbg-mcp-server",
             "description": "x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg that exposes the debugger's full functionality over HTTP. Connect any MCP-compatible AI assistant and control x64dbg programmatically: set breakpoints, step through code, read memory, dump registers, and more.  Built with Zig \u2014 zero dependencies, single-binary output, cros",
             "url": "https://github.com/duty1g/x64dbg-mcp-server",
-            "stars": 1425,
+            "stars": 1430,
             "forks": 135,
             "score": 99
         },
@@ -62,9 +62,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "amosblomqvist/learn",
             "description": "My AI learning system.",
             "url": "https://github.com/amosblomqvist/learn",
-            "stars": 315,
+            "stars": 320,
             "forks": 38,
-            "score": 88
+            "score": 89
         },
         {
             "main_cat": "AI",
@@ -95,9 +95,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "jeremy-prt/bloub",
             "description": "SVG recreation of the x.ai bot avatar. One shape morphing through 14 states, measured off the reference video frame by frame.",
             "url": "https://github.com/jeremy-prt/bloub",
-            "stars": 788,
+            "stars": 790,
             "forks": 103,
             "score": 76
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "doop",
+            "full_name": "kgoedecke/doop",
+            "description": "The open-source alternative to Paper.design. A multiplayer design canvas where humans and AI agents design together, live. MCP built in.",
+            "url": "https://github.com/kgoedecke/doop",
+            "stars": 386,
+            "forks": 39,
+            "score": 75
         },
         {
             "main_cat": "AI",
@@ -108,17 +119,6 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/jaredrhod/barehands",
             "stars": 696,
             "forks": 138,
-            "score": 74
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "doop",
-            "full_name": "kgoedecke/doop",
-            "description": "The open-source alternative to Paper.design. A multiplayer design canvas where humans and AI agents design together, live. MCP built in.",
-            "url": "https://github.com/kgoedecke/doop",
-            "stars": 383,
-            "forks": 39,
             "score": 74
         },
         {
@@ -139,8 +139,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "Devin-AXIS/deepseek-design",
             "description": "DeepSeek Harness \u53ef\u7f16\u8f91\u8bbe\u8ba1\u7cfb\u7edf\uff1aAI \u751f\u6210\u3001\u53ef\u89c6\u5316\u7f16\u8f91\u3001\u6a21\u677f\u5e02\u573a\u4e0e PPT\uff5cNative Design & PPT Studio for DeepSeek Harness.",
             "url": "https://github.com/Devin-AXIS/deepseek-design",
-            "stars": 480,
-            "forks": 136,
+            "stars": 484,
+            "forks": 137,
             "score": 69
         },
         {
@@ -150,9 +150,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "alchaincyf/huashu-excel",
             "description": "\u6570\u636e\u5206\u6790\u4e0e Excel \u5168\u6d41\u7a0b skill\uff1a\u4f53\u68c0\u810f\u8868\u3001\u6e05\u6d17\u3001\u5bf9\u9f50\u9700\u6c42\u3001\u5206\u6790\u3001\u5bf9\u8d26\u3001\u4ea4\u4ed8\u3002\u8ba9 AI \u7b97\u51fa\u6765\u7684\u6570\u5b57\u7ecf\u5f97\u8d77\u8ffd\u95ee\u3002\u8de8 agent \u901a\u7528\uff0c\u4f9d\u8d56\u4ec5 openpyxl\u3002",
             "url": "https://github.com/alchaincyf/huashu-excel",
-            "stars": 276,
-            "forks": 43,
-            "score": 67
+            "stars": 279,
+            "forks": 45,
+            "score": 68
         },
         {
             "main_cat": "AI",
@@ -172,7 +172,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "ChenShuo2004/cs-board",
             "description": "\u5c06\u53c2\u8003\u58f0\u97f3\u548c\u4e2d\u6587\u6587\u6848\u81ea\u52a8\u751f\u6210\u767d\u677f\u52a8\u753b\u89c6\u9891\u7684\u672c\u5730 AI \u5de5\u5177\u3002",
             "url": "https://github.com/ChenShuo2004/cs-board",
-            "stars": 314,
+            "stars": 315,
             "forks": 58,
             "score": 64
         },
@@ -212,12 +212,12 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "agenttrail",
-            "full_name": "sodiumsun/agenttrail",
-            "description": "Local observability map for AI coding agents. Watch Claude Code, Codex, and Cursor plans, tool calls, file changes, and progress in real time.",
-            "url": "https://github.com/sodiumsun/agenttrail",
-            "stars": 247,
-            "forks": 12,
+            "name": "halofy",
+            "full_name": "halofyai/halofy",
+            "description": "Halofy is the open access and governance layer for AI agents across your organization. Identity, policy, provenance, audit, and signed erasure.",
+            "url": "https://github.com/halofyai/halofy",
+            "stars": 281,
+            "forks": 4,
             "score": 51
         },
         {
@@ -233,14 +233,14 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
-            "sub_cat": null,
-            "name": "halofy",
-            "full_name": "halofyai/halofy",
-            "description": "Halofy is the open access and governance layer for AI agents across your organization. Identity, policy, provenance, audit, and signed erasure.",
-            "url": "https://github.com/halofyai/halofy",
-            "stars": 275,
-            "forks": 4,
-            "score": 50
+            "sub_cat": "AI Agents",
+            "name": "oc",
+            "full_name": "only-cli/oc",
+            "description": "Turn any website into a compact CLI tailored for AI agents. Browse the web in hundreds of tokens, not tens of thousands.",
+            "url": "https://github.com/only-cli/oc",
+            "stars": 310,
+            "forks": 14,
+            "score": 48
         },
         {
             "main_cat": "AI",
@@ -249,19 +249,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "sam70361/emotion-ball",
             "description": "Emotion Ball \u662f\u4e00\u5957\u9762\u5411 AI \u52a9\u624b\u7684\u8868\u60c5\u5f15\u64ce:32 \u79cd\u72b6\u6001\u8868\u60c5\u5168\u90e8\u7531\u7eaf SVG \u4e0e\u539f\u751f JavaScript \u5b9e\u65f6\u9a71\u52a8,\u96f6\u6846\u67b6\u3001\u96f6\u56fe\u7247\u8d44\u6e90\u3002AI \u4fa7\u53ea\u9700\u8f93\u51fa\u4e00\u4e2a emotionId,\u5c0f\u7403\u5373\u53ef\u5207\u6362\u5230\u5bf9\u5e94\u8868\u60c5,\u53ef\u76f4\u63a5\u7528\u4f5c\u804a\u5929\u673a\u5668\u4eba\u3001\u684c\u9762\u5ba0\u7269\u3001\u60ac\u6d6e\u52a9\u624b\u7684\u60c5\u7eea\u8868\u8fbe\u5c42\u3002",
             "url": "https://github.com/sam70361/emotion-ball",
-            "stars": 279,
+            "stars": 281,
             "forks": 30,
-            "score": 49
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI Agents",
-            "name": "oc",
-            "full_name": "only-cli/oc",
-            "description": "Turn any website into a compact CLI tailored for AI agents. Browse the web in hundreds of tokens, not tens of thousands.",
-            "url": "https://github.com/only-cli/oc",
-            "stars": 310,
-            "forks": 14,
             "score": 48
         },
         {
@@ -282,7 +271,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "soumatheusgomes/vibe-coding-toolkit",
             "description": "A curated, battle-tested AI-coding toolkit: Claude Code plugins, subagent orchestration, quality gates, and ready-to-copy prompts, extracted from real production use.",
             "url": "https://github.com/soumatheusgomes/vibe-coding-toolkit",
-            "stars": 275,
+            "stars": 276,
             "forks": 51,
             "score": 47
         },
@@ -315,9 +304,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "qiannianhuanxiang/DSHA",
             "description": "\u514d ROOT \u514d Termux\uff0c\u5728\u624b\u673a\u4e0a\u8dd1 DeepSeek Harness\u3002\u5b8c\u6574 Ubuntu \u73af\u5883 + proroot \u96f6 ptrace \u5f00\u9500 \u00b7 AI \u8f93\u51fa\u5b9e\u65f6\u4e0a\u5c4f \u00b7 ADB \u76f4\u8fde \u00b7 \u6570\u636e\u4e0d\u4e22",
             "url": "https://github.com/qiannianhuanxiang/DSHA",
-            "stars": 270,
+            "stars": 271,
             "forks": 18,
             "score": 42
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "delivery-harness",
+            "full_name": "diudiu-tech/delivery-harness",
+            "description": "AI harness reference implementation for on-demand delivery workflows",
+            "url": "https://github.com/diudiu-tech/delivery-harness",
+            "stars": 282,
+            "forks": 14,
+            "score": 40
         },
         {
             "main_cat": "AI",
@@ -359,7 +359,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "robofighter/lewin-ai-agent",
             "description": "LEWIN AI AGENT \u2014 lightweight talking avatar. Grok speaks; lipsync runs in the browser without a GPU viseme model.",
             "url": "https://github.com/robofighter/lewin-ai-agent",
-            "stars": 22,
+            "stars": 23,
             "forks": 1,
             "score": 31
         },
@@ -542,6 +542,17 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
+            "name": "scheduler-workers",
+            "full_name": "kingofwind/scheduler-workers",
+            "description": "Concurrency-limited multi-task chain scheduler for CLI agents (opencode reference impl). Run long-running tasks (e.g. model training) in parallel under cap N, with task chains, exclusive/mutex segments, real-time human-in-the-loop, and resumable file-based state. Cross-agent file protocol.",
+            "url": "https://github.com/kingofwind/scheduler-workers",
+            "stars": 1,
+            "forks": 0,
+            "score": 30
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
             "name": "AttestGuard",
             "full_name": "rudimentall1/AttestGuard",
             "description": "AI-agent-gated trade-finance advances on Creditcoin, funded only when a cross-chain delivery event is cryptographically verified via the Attestcoin Protocol \u2014 no centralized oracle, no unchecked AI decision. Built for BUIDL CTC 2026 Fall.",
@@ -615,17 +626,6 @@ const ALPHA_DATA_V2 = {
             "stars": 0,
             "forks": 0,
             "score": 30
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "credit-reputation-agent",
-            "full_name": "ikemeanthony40-collab/credit-reputation-agent",
-            "description": "Cross-chain credit reputation agent for Creditcoin BUIDL CTC 2026 Fall \u2014 uses the Attestcoin Protocol to verify wallet activity trustlessly.",
-            "url": "https://github.com/ikemeanthony40-collab/credit-reputation-agent",
-            "stars": 0,
-            "forks": 0,
-            "score": 30
         }
     ],
     "news": [
@@ -651,5 +651,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-08-26 08:34"
+    "timestamp": "2026-08-26 09:33"
 };
