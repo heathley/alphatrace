@@ -18,7 +18,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "CopilotKit/OpenBot",
             "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
             "url": "https://github.com/CopilotKit/OpenBot",
-            "stars": 2958,
+            "stars": 2964,
             "forks": 359,
             "score": 99
         },
@@ -40,7 +40,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "duty1g/x64dbg-mcp-server",
             "description": "x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg that exposes the debugger's full functionality over HTTP. Connect any MCP-compatible AI assistant and control x64dbg programmatically: set breakpoints, step through code, read memory, dump registers, and more.  Built with Zig \u2014 zero dependencies, single-binary output, cros",
             "url": "https://github.com/duty1g/x64dbg-mcp-server",
-            "stars": 1431,
+            "stars": 1432,
             "forks": 137,
             "score": 99
         },
@@ -62,9 +62,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "amosblomqvist/learn",
             "description": "My AI learning system.",
             "url": "https://github.com/amosblomqvist/learn",
-            "stars": 326,
+            "stars": 335,
             "forks": 38,
-            "score": 89
+            "score": 90
         },
         {
             "main_cat": "AI",
@@ -73,9 +73,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "bam-bam-2/solo-skills",
             "description": "1\uc778 \uc0ac\uc5c5\uac00 \uc0dd\uc0b0\uc131 \ud0a4\ud2b8 \u2014 \uc9c1\uc6d0 \uc5c6\uc774 49\uac1c\ub97c \uc790\ub3d9\ud654\ud588\uace0, \uadf8\uc911 \ubc14\ub85c \uc4f8 \uc218 \uc788\ub294 AI \uc5d0\uc774\uc804\ud2b8 \uc2a4\ud0ac 26\uac1c(+\uc2e4\ud589 \uc2a4\ud06c\ub9bd\ud2b8)\ub97c \uacf5\uac1c\ud569\ub2c8\ub2e4",
             "url": "https://github.com/bam-bam-2/solo-skills",
-            "stars": 303,
+            "stars": 304,
             "forks": 77,
-            "score": 80
+            "score": 81
         },
         {
             "main_cat": "AI",
@@ -106,7 +106,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "kgoedecke/doop",
             "description": "The open-source alternative to Paper.design. A multiplayer design canvas where humans and AI agents design together, live. MCP built in.",
             "url": "https://github.com/kgoedecke/doop",
-            "stars": 388,
+            "stars": 390,
             "forks": 39,
             "score": 75
         },
@@ -117,7 +117,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "jaredrhod/barehands",
             "description": "Move things on your screen with your bare hands. A webcam-powered, hand-tracked interface for your AI. No headset. No controllers.",
             "url": "https://github.com/jaredrhod/barehands",
-            "stars": 697,
+            "stars": 698,
             "forks": 139,
             "score": 74
         },
@@ -128,7 +128,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Devin-AXIS/deepseek-design",
             "description": "DeepSeek Harness \u53ef\u7f16\u8f91\u8bbe\u8ba1\u7cfb\u7edf\uff1aAI \u751f\u6210\u3001\u53ef\u89c6\u5316\u7f16\u8f91\u3001\u6a21\u677f\u5e02\u573a\u4e0e PPT\uff5cNative Design & PPT Studio for DeepSeek Harness.",
             "url": "https://github.com/Devin-AXIS/deepseek-design",
-            "stars": 488,
+            "stars": 491,
             "forks": 138,
             "score": 70
         },
@@ -150,7 +150,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "alchaincyf/huashu-excel",
             "description": "\u6570\u636e\u5206\u6790\u4e0e Excel \u5168\u6d41\u7a0b skill\uff1a\u4f53\u68c0\u810f\u8868\u3001\u6e05\u6d17\u3001\u5bf9\u9f50\u9700\u6c42\u3001\u5206\u6790\u3001\u5bf9\u8d26\u3001\u4ea4\u4ed8\u3002\u8ba9 AI \u7b97\u51fa\u6765\u7684\u6570\u5b57\u7ecf\u5f97\u8d77\u8ffd\u95ee\u3002\u8de8 agent \u901a\u7528\uff0c\u4f9d\u8d56\u4ec5 openpyxl\u3002",
             "url": "https://github.com/alchaincyf/huashu-excel",
-            "stars": 282,
+            "stars": 283,
             "forks": 46,
             "score": 68
         },
@@ -161,8 +161,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "jaredrhod/fullstack-agent",
             "description": "Give your AI a full stack: memory, voice, face, and hands. This is the \"I want an AI agent\" shortcut. It sets up the entire jaredrhod stack for you with an installation wizard. Select which pieces you want or do it all!",
             "url": "https://github.com/jaredrhod/fullstack-agent",
-            "stars": 373,
-            "forks": 123,
+            "stars": 374,
+            "forks": 124,
             "score": 66
         },
         {
@@ -183,20 +183,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "fufankeji/deepseek-harness-studio",
             "description": "DeepSeek Harness \u96f6\u4ee3\u7801\u684c\u9762\u7aef\uff5c\u4e00\u952e\u542f\u52a8\uff0c\u652f\u6301 Windows \u4e0e macOS\uff1b\u5185\u7f6e\u63d2\u4ef6\u53d1\u73b0\u3001\u70ed\u70b9\u63d2\u4ef6\u63a8\u9001\u3001\u4e00\u952e\u5b89\u88c5\u4e0e\u7ba1\u7406\u3001AI \u667a\u80fd\u63a8\u8350\u548c\u89c6\u89c9\u589e\u5f3a\u3002",
             "url": "https://github.com/fufankeji/deepseek-harness-studio",
-            "stars": 524,
+            "stars": 525,
             "forks": 53,
             "score": 56
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "dsh-desktop",
-            "full_name": "vibeinging/dsh-desktop",
-            "description": "DeepSeek Harness Desktop App: a local AI desktop workspace for DSH Sessions, projects, files, web research, plugins, and Office artifacts.",
-            "url": "https://github.com/vibeinging/dsh-desktop",
-            "stars": 632,
-            "forks": 35,
-            "score": 55
         },
         {
             "main_cat": "AI",
@@ -212,13 +201,24 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
+            "name": "dsh-desktop",
+            "full_name": "vibeinging/dsh-desktop",
+            "description": "DeepSeek Harness Desktop App: a local AI desktop workspace for DSH Sessions, projects, files, web research, plugins, and Office artifacts.",
+            "url": "https://github.com/vibeinging/dsh-desktop",
+            "stars": 632,
+            "forks": 35,
+            "score": 54
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
             "name": "halofy",
             "full_name": "halofyai/halofy",
             "description": "Halofy is the open access and governance layer for AI agents across your organization. Identity, policy, provenance, audit, and signed erasure.",
             "url": "https://github.com/halofyai/halofy",
-            "stars": 287,
+            "stars": 295,
             "forks": 4,
-            "score": 51
+            "score": 52
         },
         {
             "main_cat": "AI",
@@ -238,7 +238,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "only-cli/oc",
             "description": "Turn any website into a compact CLI tailored for AI agents. Browse the web in hundreds of tokens, not tens of thousands.",
             "url": "https://github.com/only-cli/oc",
-            "stars": 311,
+            "stars": 312,
             "forks": 14,
             "score": 48
         },
@@ -249,7 +249,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "sam70361/emotion-ball",
             "description": "Emotion Ball \u662f\u4e00\u5957\u9762\u5411 AI \u52a9\u624b\u7684\u8868\u60c5\u5f15\u64ce:32 \u79cd\u72b6\u6001\u8868\u60c5\u5168\u90e8\u7531\u7eaf SVG \u4e0e\u539f\u751f JavaScript \u5b9e\u65f6\u9a71\u52a8,\u96f6\u6846\u67b6\u3001\u96f6\u56fe\u7247\u8d44\u6e90\u3002AI \u4fa7\u53ea\u9700\u8f93\u51fa\u4e00\u4e2a emotionId,\u5c0f\u7403\u5373\u53ef\u5207\u6362\u5230\u5bf9\u5e94\u8868\u60c5,\u53ef\u76f4\u63a5\u7528\u4f5c\u804a\u5929\u673a\u5668\u4eba\u3001\u684c\u9762\u5ba0\u7269\u3001\u60ac\u6d6e\u52a9\u624b\u7684\u60c5\u7eea\u8868\u8fbe\u5c42\u3002",
             "url": "https://github.com/sam70361/emotion-ball",
-            "stars": 282,
+            "stars": 283,
             "forks": 30,
             "score": 48
         },
@@ -260,7 +260,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "PC2005-cloud/dsh-pet",
             "description": "DSH \u684c\u9762\u5ba0\u7269\uff1a\u4e00\u884c\u547d\u4ee4\u88c5\u597d\u5373\u7528\u7684\u900f\u660e\u52a8\u753b\u5c0f\u684c\u5ba0\uff0c\u652f\u6301\u591a\u5f00\u3001\u5927\u5c0f\u4f4d\u7f6e\u968f\u5fc3\u914d\u7f6e\uff1b\u8fd8\u5185\u7f6e DIY \u7d20\u6750\u94fe\uff0c\u80fd\u7528 AI \u89c6\u9891\u81ea\u9020\u4e13\u5c5e\u5ba0\u7269",
             "url": "https://github.com/PC2005-cloud/dsh-pet",
-            "stars": 421,
+            "stars": 422,
             "forks": 28,
             "score": 47
         },
@@ -271,7 +271,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "soumatheusgomes/vibe-coding-toolkit",
             "description": "A curated, battle-tested AI-coding toolkit: Claude Code plugins, subagent orchestration, quality gates, and ready-to-copy prompts, extracted from real production use.",
             "url": "https://github.com/soumatheusgomes/vibe-coding-toolkit",
-            "stars": 276,
+            "stars": 277,
             "forks": 51,
             "score": 47
         },
@@ -496,6 +496,17 @@ const ALPHA_DATA_V2 = {
             "score": 30
         },
         {
+            "main_cat": "Stablecoin Infrastructure",
+            "sub_cat": null,
+            "name": "Predictive-FX-volatility-model-for-stablecoin-off-ramp-scheduling",
+            "full_name": "PorPay/Predictive-FX-volatility-model-for-stablecoin-off-ramp-scheduling",
+            "description": "This project addresses a growing but under-scrutinized problem in web3 payments: the hidden cost layers in stablecoin-based cross-border remittances.",
+            "url": "https://github.com/PorPay/Predictive-FX-volatility-model-for-stablecoin-off-ramp-scheduling",
+            "stars": 0,
+            "forks": 0,
+            "score": 30
+        },
+        {
             "main_cat": "AI",
             "sub_cat": "AI General",
             "name": "canton-treasury-dvp",
@@ -651,5 +662,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-08-26 10:27"
+    "timestamp": "2026-08-26 11:22"
 };
