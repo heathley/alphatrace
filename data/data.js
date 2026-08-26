@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "yetone/cumora",
             "description": "Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates \u2014 with cloud or bring-your-own (Claude Code / Codex) brains.",
             "url": "https://github.com/yetone/cumora",
-            "stars": 3114,
-            "forks": 370,
+            "stars": 3119,
+            "forks": 371,
             "score": 99
         },
         {
@@ -18,8 +18,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "CopilotKit/OpenBot",
             "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
             "url": "https://github.com/CopilotKit/OpenBot",
-            "stars": 2892,
-            "forks": 349,
+            "stars": 2900,
+            "forks": 350,
             "score": 99
         },
         {
@@ -29,7 +29,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "wang2122/sprix-sage-router",
             "description": "Sprix AI at \u5c7f\u667a\u540c\u884c \u2014 state-aware SELF/COLLABORATE/HANDOFF routing for A2A agent networks.",
             "url": "https://github.com/wang2122/sprix-sage-router",
-            "stars": 2090,
+            "stars": 2105,
             "forks": 30,
             "score": 99
         },
@@ -40,7 +40,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "duty1g/x64dbg-mcp-server",
             "description": "x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg that exposes the debugger's full functionality over HTTP. Connect any MCP-compatible AI assistant and control x64dbg programmatically: set breakpoints, step through code, read memory, dump registers, and more.  Built with Zig \u2014 zero dependencies, single-binary output, cros",
             "url": "https://github.com/duty1g/x64dbg-mcp-server",
-            "stars": 1376,
+            "stars": 1381,
             "forks": 135,
             "score": 99
         },
@@ -51,20 +51,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "cclank/lanshu-create-ai-presenter-video",
             "description": "Provider-neutral Codex Skill for producing verified AI presenter videos from a script and an authorized presenter image.",
             "url": "https://github.com/cclank/lanshu-create-ai-presenter-video",
-            "stars": 911,
-            "forks": 163,
+            "stars": 913,
+            "forks": 166,
             "score": 99
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "solo-skills",
-            "full_name": "bam-bam-2/solo-skills",
-            "description": "1\uc778 \uc0ac\uc5c5\uac00 \uc0dd\uc0b0\uc131 \ud0a4\ud2b8 \u2014 \uc9c1\uc6d0 \uc5c6\uc774 49\uac1c\ub97c \uc790\ub3d9\ud654\ud588\uace0, \uadf8\uc911 \ubc14\ub85c \uc4f8 \uc218 \uc788\ub294 AI \uc5d0\uc774\uc804\ud2b8 \uc2a4\ud0ac 26\uac1c(+\uc2e4\ud589 \uc2a4\ud06c\ub9bd\ud2b8)\ub97c \uacf5\uac1c\ud569\ub2c8\ub2e4",
-            "url": "https://github.com/bam-bam-2/solo-skills",
-            "stars": 297,
-            "forks": 76,
-            "score": 80
         },
         {
             "main_cat": "AI",
@@ -73,8 +62,19 @@ const ALPHA_DATA_V2 = {
             "full_name": "amosblomqvist/learn",
             "description": "My AI learning system.",
             "url": "https://github.com/amosblomqvist/learn",
-            "stars": 268,
+            "stars": 277,
             "forks": 33,
+            "score": 81
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "solo-skills",
+            "full_name": "bam-bam-2/solo-skills",
+            "description": "1\uc778 \uc0ac\uc5c5\uac00 \uc0dd\uc0b0\uc131 \ud0a4\ud2b8 \u2014 \uc9c1\uc6d0 \uc5c6\uc774 49\uac1c\ub97c \uc790\ub3d9\ud654\ud588\uace0, \uadf8\uc911 \ubc14\ub85c \uc4f8 \uc218 \uc788\ub294 AI \uc5d0\uc774\uc804\ud2b8 \uc2a4\ud0ac 26\uac1c(+\uc2e4\ud589 \uc2a4\ud06c\ub9bd\ud2b8)\ub97c \uacf5\uac1c\ud569\ub2c8\ub2e4",
+            "url": "https://github.com/bam-bam-2/solo-skills",
+            "stars": 298,
+            "forks": 77,
             "score": 80
         },
         {
@@ -95,7 +95,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "jaredrhod/barehands",
             "description": "Move things on your screen with your bare hands. A webcam-powered, hand-tracked interface for your AI. No headset. No controllers.",
             "url": "https://github.com/jaredrhod/barehands",
-            "stars": 689,
+            "stars": 691,
             "forks": 136,
             "score": 77
         },
@@ -117,7 +117,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "kgoedecke/doop",
             "description": "The open-source alternative to Paper.design. A multiplayer design canvas where humans and AI agents design together, live. MCP built in.",
             "url": "https://github.com/kgoedecke/doop",
-            "stars": 362,
+            "stars": 363,
             "forks": 38,
             "score": 72
         },
@@ -128,8 +128,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "alchaincyf/huashu-excel",
             "description": "\u6570\u636e\u5206\u6790\u4e0e Excel \u5168\u6d41\u7a0b skill\uff1a\u4f53\u68c0\u810f\u8868\u3001\u6e05\u6d17\u3001\u5bf9\u9f50\u9700\u6c42\u3001\u5206\u6790\u3001\u5bf9\u8d26\u3001\u4ea4\u4ed8\u3002\u8ba9 AI \u7b97\u51fa\u6765\u7684\u6570\u5b57\u7ecf\u5f97\u8d77\u8ffd\u95ee\u3002\u8de8 agent \u901a\u7528\uff0c\u4f9d\u8d56\u4ec5 openpyxl\u3002",
             "url": "https://github.com/alchaincyf/huashu-excel",
-            "stars": 251,
-            "forks": 40,
+            "stars": 254,
+            "forks": 41,
             "score": 71
         },
         {
@@ -146,24 +146,24 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "fullstack-agent",
-            "full_name": "jaredrhod/fullstack-agent",
-            "description": "Give your AI a full stack: memory, voice, face, and hands. This is the \"I want an AI agent\" shortcut. It sets up the entire jaredrhod stack for you with an installation wizard. Select which pieces you want or do it all!",
-            "url": "https://github.com/jaredrhod/fullstack-agent",
-            "stars": 367,
-            "forks": 119,
+            "name": "deepseek-design",
+            "full_name": "Devin-AXIS/deepseek-design",
+            "description": "DeepSeek Harness \u53ef\u7f16\u8f91\u8bbe\u8ba1\u7cfb\u7edf\uff1aAI \u751f\u6210\u3001\u53ef\u89c6\u5316\u7f16\u8f91\u3001\u6a21\u677f\u5e02\u573a\u4e0e PPT\uff5cNative Design & PPT Studio for DeepSeek Harness.",
+            "url": "https://github.com/Devin-AXIS/deepseek-design",
+            "stars": 460,
+            "forks": 132,
             "score": 68
         },
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "deepseek-design",
-            "full_name": "Devin-AXIS/deepseek-design",
-            "description": "DeepSeek Harness \u53ef\u7f16\u8f91\u8bbe\u8ba1\u7cfb\u7edf\uff1aAI \u751f\u6210\u3001\u53ef\u89c6\u5316\u7f16\u8f91\u3001\u6a21\u677f\u5e02\u573a\u4e0e PPT\uff5cNative Design & PPT Studio for DeepSeek Harness.",
-            "url": "https://github.com/Devin-AXIS/deepseek-design",
-            "stars": 456,
-            "forks": 131,
-            "score": 67
+            "name": "fullstack-agent",
+            "full_name": "jaredrhod/fullstack-agent",
+            "description": "Give your AI a full stack: memory, voice, face, and hands. This is the \"I want an AI agent\" shortcut. It sets up the entire jaredrhod stack for you with an installation wizard. Select which pieces you want or do it all!",
+            "url": "https://github.com/jaredrhod/fullstack-agent",
+            "stars": 368,
+            "forks": 119,
+            "score": 68
         },
         {
             "main_cat": "AI",
@@ -174,29 +174,7 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/ChenShuo2004/cs-board",
             "stars": 297,
             "forks": 58,
-            "score": 67
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "enterprise-system-design",
-            "full_name": "DrHazemAli/enterprise-system-design",
-            "description": "A source-grounded course and architectural reference for engineers designing systems that must survive real traffic, partial failure, security review, and changing requirements, spanning enterprise system design, distributed systems, AI systems, cybersecurity, reliability, cloud, HPC, edge, and mission-critical infrastructure.",
-            "url": "https://github.com/DrHazemAli/enterprise-system-design",
-            "stars": 579,
-            "forks": 118,
-            "score": 62
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "grok-register",
-            "full_name": "xinxinshuhao-create/grok-register",
-            "description": "Automated account registration toolkit for x.ai (Grok) with SSO extraction, OAuth Device Flow, and auto-replenish daemon",
-            "url": "https://github.com/xinxinshuhao-create/grok-register",
-            "stars": 477,
-            "forks": 128,
-            "score": 60
+            "score": 63
         },
         {
             "main_cat": "AI",
@@ -249,8 +227,19 @@ const ALPHA_DATA_V2 = {
             "full_name": "babygoton/WorkDaddy",
             "description": "WorkDaddy \u662f WorkBuddy \u684c\u9762\u7aef\u589e\u5f3a\u52a9\u624b\uff1a\u591a\u8d26\u53f7\u72ec\u7acb\u5907\u4efd\u3001\u70b9\u5207\u5373\u7528\uff1b\u514d\u6253\u6270\u6a21\u5f0f\u8ba9 AI \u65e0\u4eba\u503c\u5b88\u8dd1\u957f\u4efb\u52a1\uff1b\u8de8\u8d26\u53f7\u4f1a\u8bdd\u8fc1\u79fb\u3001\u5f02\u5e38\u4e2d\u65ad\u81ea\u52a8\u7eed\u63a5\uff1b\u6682\u5b58/\u5feb\u6377\u63d0\u793a\u8bcd\uff1b\u6bdb\u73bb\u7483\u4e3b\u9898\u4e0e\u66f4\u591a\u5b9e\u7528\u529f\u80fd\u3002",
             "url": "https://github.com/babygoton/WorkDaddy",
-            "stars": 268,
+            "stars": 269,
             "forks": 30,
+            "score": 49
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "agenttrail",
+            "full_name": "sodiumsun/agenttrail",
+            "description": "Local observability map for AI coding agents. Watch Claude Code, Codex, and Cursor plans, tool calls, file changes, and progress in real time.",
+            "url": "https://github.com/sodiumsun/agenttrail",
+            "stars": 231,
+            "forks": 12,
             "score": 49
         },
         {
@@ -262,7 +251,18 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/PC2005-cloud/dsh-pet",
             "stars": 417,
             "forks": 27,
-            "score": 48
+            "score": 47
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI Agents",
+            "name": "oc",
+            "full_name": "only-cli/oc",
+            "description": "Turn any website into a compact CLI tailored for AI agents. Browse the web in hundreds of tokens, not tens of thousands.",
+            "url": "https://github.com/only-cli/oc",
+            "stars": 302,
+            "forks": 14,
+            "score": 47
         },
         {
             "main_cat": "AI",
@@ -273,18 +273,7 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/soumatheusgomes/vibe-coding-toolkit",
             "stars": 274,
             "forks": 50,
-            "score": 48
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI Agents",
-            "name": "oc",
-            "full_name": "only-cli/oc",
-            "description": "Turn any website into a compact CLI tailored for AI agents. Browse the web in hundreds of tokens, not tens of thousands.",
-            "url": "https://github.com/only-cli/oc",
-            "stars": 301,
-            "forks": 14,
-            "score": 47
+            "score": 46
         },
         {
             "main_cat": "AI",
@@ -306,6 +295,17 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/ryzqi/learn-agent",
             "stars": 266,
             "forks": 39,
+            "score": 44
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "bigpeng-hot-gzh",
+            "full_name": "BigPengSays/bigpeng-hot-gzh",
+            "description": "\u4ece100 \u591a\u7bc7\u7206\u6b3e AI \u516c\u4f17\u53f7\u6587\u7ae0\u4e2d\u84b8\u998f\u51fa\u7684 7 \u4e2a\u7206\u6b3e\u9009\u9898\u516c\u5f0f\u548c Skill\u3002",
+            "url": "https://github.com/BigPengSays/bigpeng-hot-gzh",
+            "stars": 236,
+            "forks": 21,
             "score": 44
         },
         {
@@ -449,17 +449,6 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/shyringo/deepseek-v4-flash-0731-in-c",
             "stars": 13,
             "forks": 1,
-            "score": 30
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "Phony",
-            "full_name": "Dotman-Bei/Phony",
-            "description": "An ERC-4626 yield restaking vault on BOT Chain that accepts tokenized Real World Assets (RWAs) and automatically routes them into optimized, auto-compounding yield strategies.",
-            "url": "https://github.com/Dotman-Bei/Phony",
-            "stars": 0,
-            "forks": 0,
             "score": 30
         },
         {
@@ -673,5 +662,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-08-25 23:19"
+    "timestamp": "2026-08-26 00:54"
 };
