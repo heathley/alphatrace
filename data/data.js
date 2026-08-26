@@ -7,7 +7,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "yetone/cumora",
             "description": "Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates \u2014 with cloud or bring-your-own (Claude Code / Codex) brains.",
             "url": "https://github.com/yetone/cumora",
-            "stars": 3142,
+            "stars": 3143,
             "forks": 377,
             "score": 99
         },
@@ -18,8 +18,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "CopilotKit/OpenBot",
             "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
             "url": "https://github.com/CopilotKit/OpenBot",
-            "stars": 2987,
-            "forks": 362,
+            "stars": 2996,
+            "forks": 363,
             "score": 99
         },
         {
@@ -30,7 +30,7 @@ const ALPHA_DATA_V2 = {
             "description": "Sprix AI at \u5c7f\u667a\u540c\u884c \u2014 state-aware SELF/COLLABORATE/HANDOFF routing for A2A agent networks.",
             "url": "https://github.com/wang2122/sprix-sage-router",
             "stars": 2221,
-            "forks": 100,
+            "forks": 108,
             "score": 99
         },
         {
@@ -40,8 +40,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "duty1g/x64dbg-mcp-server",
             "description": "x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg that exposes the debugger's full functionality over HTTP. Connect any MCP-compatible AI assistant and control x64dbg programmatically: set breakpoints, step through code, read memory, dump registers, and more.  Built with Zig \u2014 zero dependencies, single-binary output, cros",
             "url": "https://github.com/duty1g/x64dbg-mcp-server",
-            "stars": 1447,
-            "forks": 140,
+            "stars": 1453,
+            "forks": 142,
             "score": 99
         },
         {
@@ -62,9 +62,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "amosblomqvist/learn",
             "description": "My AI learning system.",
             "url": "https://github.com/amosblomqvist/learn",
-            "stars": 365,
+            "stars": 380,
             "forks": 40,
-            "score": 95
+            "score": 97
         },
         {
             "main_cat": "AI",
@@ -80,24 +80,13 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "doop",
-            "full_name": "kgoedecke/doop",
-            "description": "The open-source alternative to Paper.design. A multiplayer design canvas where humans and AI agents design together, live. MCP built in.",
-            "url": "https://github.com/kgoedecke/doop",
-            "stars": 406,
-            "forks": 40,
-            "score": 77
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
             "name": "barehands",
             "full_name": "jaredrhod/barehands",
             "description": "Move things on your screen with your bare hands. A webcam-powered, hand-tracked interface for your AI. No headset. No controllers.",
             "url": "https://github.com/jaredrhod/barehands",
-            "stars": 701,
-            "forks": 139,
-            "score": 74
+            "stars": 702,
+            "forks": 140,
+            "score": 75
         },
         {
             "main_cat": "AI",
@@ -117,9 +106,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "jeremy-prt/bloub",
             "description": "SVG recreation of the x.ai bot avatar. One shape morphing through 14 states, measured off the reference video frame by frame.",
             "url": "https://github.com/jeremy-prt/bloub",
-            "stars": 794,
+            "stars": 799,
             "forks": 104,
             "score": 73
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "doop",
+            "full_name": "kgoedecke/doop",
+            "description": "The open-source alternative to Paper.design. A multiplayer design canvas where humans and AI agents design together, live. MCP built in.",
+            "url": "https://github.com/kgoedecke/doop",
+            "stars": 412,
+            "forks": 40,
+            "score": 70
         },
         {
             "main_cat": "AI",
@@ -150,7 +150,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Devin-AXIS/deepseek-design",
             "description": "DeepSeek Harness \u53ef\u7f16\u8f91\u8bbe\u8ba1\u7cfb\u7edf\uff1aAI \u751f\u6210\u3001\u53ef\u89c6\u5316\u7f16\u8f91\u3001\u6a21\u677f\u5e02\u573a\u4e0e PPT\uff5cNative Design & PPT Studio for DeepSeek Harness.",
             "url": "https://github.com/Devin-AXIS/deepseek-design",
-            "stars": 498,
+            "stars": 501,
             "forks": 140,
             "score": 67
         },
@@ -161,7 +161,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "jaredrhod/fullstack-agent",
             "description": "Give your AI a full stack: memory, voice, face, and hands. This is the \"I want an AI agent\" shortcut. It sets up the entire jaredrhod stack for you with an installation wizard. Select which pieces you want or do it all!",
             "url": "https://github.com/jaredrhod/fullstack-agent",
-            "stars": 381,
+            "stars": 382,
             "forks": 129,
             "score": 67
         },
@@ -172,9 +172,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "ChenShuo2004/cs-board",
             "description": "\u5c06\u53c2\u8003\u58f0\u97f3\u548c\u4e2d\u6587\u6587\u6848\u81ea\u52a8\u751f\u6210\u767d\u677f\u52a8\u753b\u89c6\u9891\u7684\u672c\u5730 AI \u5de5\u5177\u3002",
             "url": "https://github.com/ChenShuo2004/cs-board",
-            "stars": 317,
-            "forks": 58,
-            "score": 64
+            "stars": 322,
+            "forks": 61,
+            "score": 65
         },
         {
             "main_cat": "AI",
@@ -201,6 +201,17 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
+            "name": "halofy",
+            "full_name": "halofyai/halofy",
+            "description": "Halofy is the open access and governance layer for AI agents across your organization. Identity, policy, provenance, audit, and signed erasure.",
+            "url": "https://github.com/halofyai/halofy",
+            "stars": 334,
+            "forks": 4,
+            "score": 55
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
             "name": "dsh-desktop",
             "full_name": "vibeinging/dsh-desktop",
             "description": "DeepSeek Harness Desktop App: a local AI desktop workspace for DSH Sessions, projects, files, web research, plugins, and Office artifacts.",
@@ -212,13 +223,13 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "halofy",
-            "full_name": "halofyai/halofy",
-            "description": "Halofy is the open access and governance layer for AI agents across your organization. Identity, policy, provenance, audit, and signed erasure.",
-            "url": "https://github.com/halofyai/halofy",
-            "stars": 325,
-            "forks": 4,
-            "score": 54
+            "name": "lieflat-less-ai-tone",
+            "full_name": "larashero3-dotcom/lieflat-less-ai-tone",
+            "description": "\u4e00\u4e2a\u57fa\u4e8e 283 \u4e07\u5b57\u8bed\u6599\u7edf\u8ba1\u7684\u53bb AI \u5473 skill \u00b7 An AI-tone removal skill grounded in a 2.83-million-character corpus study",
+            "url": "https://github.com/larashero3-dotcom/lieflat-less-ai-tone",
+            "stars": 303,
+            "forks": 15,
+            "score": 50
         },
         {
             "main_cat": "AI",
@@ -227,9 +238,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "babygoton/WorkDaddy",
             "description": "WorkDaddy \u662f WorkBuddy \u684c\u9762\u7aef\u589e\u5f3a\u52a9\u624b\uff1a\u591a\u8d26\u53f7\u72ec\u7acb\u5907\u4efd\u3001\u70b9\u5207\u5373\u7528\uff1b\u514d\u6253\u6270\u6a21\u5f0f\u8ba9 AI \u65e0\u4eba\u503c\u5b88\u8dd1\u957f\u4efb\u52a1\uff1b\u8de8\u8d26\u53f7\u4f1a\u8bdd\u8fc1\u79fb\u3001\u5f02\u5e38\u4e2d\u65ad\u81ea\u52a8\u7eed\u63a5\uff1b\u6682\u5b58/\u5feb\u6377\u63d0\u793a\u8bcd\uff1b\u6bdb\u73bb\u7483\u4e3b\u9898\u4e0e\u66f4\u591a\u5b9e\u7528\u529f\u80fd\u3002",
             "url": "https://github.com/babygoton/WorkDaddy",
-            "stars": 290,
-            "forks": 33,
-            "score": 51
+            "stars": 295,
+            "forks": 34,
+            "score": 49
         },
         {
             "main_cat": "AI",
@@ -240,17 +251,6 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/sam70361/emotion-ball",
             "stars": 285,
             "forks": 30,
-            "score": 48
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "lieflat-less-ai-tone",
-            "full_name": "larashero3-dotcom/lieflat-less-ai-tone",
-            "description": "\u4e00\u4e2a\u57fa\u4e8e 283 \u4e07\u5b57\u8bed\u6599\u7edf\u8ba1\u7684\u53bb AI \u5473 skill \u00b7 An AI-tone removal skill grounded in a 2.83-million-character corpus study",
-            "url": "https://github.com/larashero3-dotcom/lieflat-less-ai-tone",
-            "stars": 281,
-            "forks": 15,
             "score": 48
         },
         {
@@ -271,7 +271,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "soumatheusgomes/vibe-coding-toolkit",
             "description": "A curated, battle-tested AI-coding toolkit: Claude Code plugins, subagent orchestration, quality gates, and ready-to-copy prompts, extracted from real production use.",
             "url": "https://github.com/soumatheusgomes/vibe-coding-toolkit",
-            "stars": 281,
+            "stars": 284,
             "forks": 52,
             "score": 47
         },
@@ -282,7 +282,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "only-cli/oc",
             "description": "Turn any website into a compact CLI tailored for AI agents. Browse the web in hundreds of tokens, not tens of thousands.",
             "url": "https://github.com/only-cli/oc",
-            "stars": 312,
+            "stars": 313,
             "forks": 15,
             "score": 46
         },
@@ -294,7 +294,7 @@ const ALPHA_DATA_V2 = {
             "description": "Learn LLM Inference Engineering step by step - from KV cache, PagedAttention, and continuous batching to vLLM, SGLang, and GPUs.",
             "url": "https://github.com/amitshekhariitbhu/llm-inference-engineering",
             "stars": 221,
-            "forks": 26,
+            "forks": 27,
             "score": 44
         },
         {
@@ -304,8 +304,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "qiannianhuanxiang/DSHA",
             "description": "\u514d ROOT \u514d Termux\uff0c\u5728\u624b\u673a\u4e0a\u8dd1 DeepSeek Harness\u3002\u5b8c\u6574 Ubuntu \u73af\u5883 + proroot \u96f6 ptrace \u5f00\u9500 \u00b7 AI \u8f93\u51fa\u5b9e\u65f6\u4e0a\u5c4f \u00b7 ADB \u76f4\u8fde \u00b7 \u6570\u636e\u4e0d\u4e22",
             "url": "https://github.com/qiannianhuanxiang/DSHA",
-            "stars": 273,
-            "forks": 18,
+            "stars": 274,
+            "forks": 19,
             "score": 42
         },
         {
@@ -326,7 +326,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Vendredi218/awesome-ai-harness",
             "description": "The model is the engine; the harness is the car. Curated knowledge on harness engineering \u2014 context management, tool design, agent loops, memory, sandboxing, evals. EN/\u4e2d\u6587",
             "url": "https://github.com/Vendredi218/awesome-ai-harness",
-            "stars": 149,
+            "stars": 150,
             "forks": 3,
             "score": 36
         },
@@ -662,5 +662,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-08-26 14:37"
+    "timestamp": "2026-08-26 16:12"
 };
