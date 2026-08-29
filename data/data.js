@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "CopilotKit/OpenBot",
             "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
             "url": "https://github.com/CopilotKit/OpenBot",
-            "stars": 3428,
-            "forks": 427,
+            "stars": 3438,
+            "forks": 428,
             "score": 99
         },
         {
@@ -18,7 +18,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "yetone/cumora",
             "description": "Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates \u2014 with cloud or bring-your-own (Claude Code / Codex) brains.",
             "url": "https://github.com/yetone/cumora",
-            "stars": 3245,
+            "stars": 3248,
             "forks": 396,
             "score": 99
         },
@@ -40,7 +40,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "duty1g/x64dbg-mcp-server",
             "description": "x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg that exposes the debugger's full functionality over HTTP. Connect any MCP-compatible AI assistant and control x64dbg programmatically: set breakpoints, step through code, read memory, dump registers, and more.  Built with Zig \u2014 zero dependencies, single-binary output, cros",
             "url": "https://github.com/duty1g/x64dbg-mcp-server",
-            "stars": 1730,
+            "stars": 1736,
             "forks": 176,
             "score": 99
         },
@@ -62,9 +62,31 @@ const ALPHA_DATA_V2 = {
             "full_name": "Nanako0129/sepia",
             "description": "De-AI writing skill for Claude Code, Codex, Grok Build, and Antigravity \u2014 narrative-architecture repair for fiction, venue-matched rules for professional prose. Based on StoryScope (arXiv:2604.03136).",
             "url": "https://github.com/Nanako0129/sepia",
-            "stars": 602,
-            "forks": 30,
+            "stars": 649,
+            "forks": 33,
             "score": 99
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "learn",
+            "full_name": "amosblomqvist/learn",
+            "description": "My AI learning system.",
+            "url": "https://github.com/amosblomqvist/learn",
+            "stars": 766,
+            "forks": 77,
+            "score": 97
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "my-free-code",
+            "full_name": "hkqr/my-free-code",
+            "description": "Open-source multi-provider AI gateway for Claude Code and other coding agents, with model routing, streaming, tools, reasoning, fallbacks, and local model support",
+            "url": "https://github.com/hkqr/my-free-code",
+            "stars": 253,
+            "forks": 90,
+            "score": 91
         },
         {
             "main_cat": "AI",
@@ -75,29 +97,7 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/leopard627/fire-your-seo-agency",
             "stars": 343,
             "forks": 90,
-            "score": 99
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "learn",
-            "full_name": "amosblomqvist/learn",
-            "description": "My AI learning system.",
-            "url": "https://github.com/amosblomqvist/learn",
-            "stars": 757,
-            "forks": 77,
-            "score": 96
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "my-free-code",
-            "full_name": "hkqr/my-free-code",
-            "description": "Open-source multi-provider AI gateway for Claude Code and other coding agents, with model routing, streaming, tools, reasoning, fallbacks, and local model support",
-            "url": "https://github.com/hkqr/my-free-code",
-            "stars": 244,
-            "forks": 89,
-            "score": 90
+            "score": 88
         },
         {
             "main_cat": "AI",
@@ -106,7 +106,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "S1N6H/pentest-harness",
             "description": "Pentest Harness \u2014 Heaven for Hackers. A self-hosted AI agent harness for authorized pentests, bug bounty, security labs, and CTFs. Bring your own AI model API; sessions stay local.",
             "url": "https://github.com/S1N6H/pentest-harness",
-            "stars": 282,
+            "stars": 284,
             "forks": 47,
             "score": 69
         },
@@ -139,7 +139,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "kgoedecke/doop",
             "description": "The open-source alternative to Paper.design. A multiplayer design canvas where humans and AI agents design together, live. MCP built in.",
             "url": "https://github.com/kgoedecke/doop",
-            "stars": 497,
+            "stars": 500,
             "forks": 54,
             "score": 65
         },
@@ -150,9 +150,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "jaredrhod/fullstack-agent",
             "description": "Give your AI a full stack: memory, voice, face, and hands. This is the \"I want an AI agent\" shortcut. It sets up the entire jaredrhod stack for you with an installation wizard. Select which pieces you want or do it all!",
             "url": "https://github.com/jaredrhod/fullstack-agent",
-            "stars": 469,
-            "forks": 145,
-            "score": 64
+            "stars": 472,
+            "forks": 148,
+            "score": 65
         },
         {
             "main_cat": "AI",
@@ -161,20 +161,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "bam-bam-2/solo-skills",
             "description": "1\uc778 \uc0ac\uc5c5\uac00 \uc0dd\uc0b0\uc131 \ud0a4\ud2b8 \u2014 \uc9c1\uc6d0 \uc5c6\uc774 49\uac1c\ub97c \uc790\ub3d9\ud654\ud588\uace0, \uadf8\uc911 \ubc14\ub85c \uc4f8 \uc218 \uc788\ub294 AI \uc5d0\uc774\uc804\ud2b8 \uc2a4\ud0ac 26\uac1c(+\uc2e4\ud589 \uc2a4\ud06c\ub9bd\ud2b8)\ub97c \uacf5\uac1c\ud569\ub2c8\ub2e4",
             "url": "https://github.com/bam-bam-2/solo-skills",
-            "stars": 336,
-            "forks": 82,
+            "stars": 337,
+            "forks": 83,
             "score": 63
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "biosecurity-agent",
-            "full_name": "Forsy-AI/biosecurity-agent",
-            "description": "AI agent that builds a live biosecurity world around any target.",
-            "url": "https://github.com/Forsy-AI/biosecurity-agent",
-            "stars": 514,
-            "forks": 19,
-            "score": 62
         },
         {
             "main_cat": "AI",
@@ -183,9 +172,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "HanyuanWang/LiveStream-Agent-Studio",
             "description": "\u9762\u5411\u6296\u97f3\u76f4\u64ad\u7535\u5546\u7684 Windows \u672c\u5730 AI Agent Studio\uff0c\u8d2f\u901a\u4e3b\u64ad\u53d1\u73b0\u3001\u76f4\u64ad\u6d1e\u5bdf\u3001\u76f4\u64ad\u590d\u76d8\u4e0e\u77ed\u89c6\u9891\u5185\u5bb9\u7f16\u5bfc\u7684\u7edf\u4e00\u667a\u80fd\u5de5\u4f5c\u6d41\u3002",
             "url": "https://github.com/HanyuanWang/LiveStream-Agent-Studio",
-            "stars": 382,
-            "forks": 61,
-            "score": 61
+            "stars": 386,
+            "forks": 64,
+            "score": 62
         },
         {
             "main_cat": "AI",
@@ -194,7 +183,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "alchaincyf/huashu-excel",
             "description": "\u6570\u636e\u5206\u6790\u4e0e Excel \u5168\u6d41\u7a0b skill\uff1a\u4f53\u68c0\u810f\u8868\u3001\u6e05\u6d17\u3001\u5bf9\u9f50\u9700\u6c42\u3001\u5206\u6790\u3001\u5bf9\u8d26\u3001\u4ea4\u4ed8\u3002\u8ba9 AI \u7b97\u51fa\u6765\u7684\u6570\u5b57\u7ecf\u5f97\u8d77\u8ffd\u95ee\u3002\u8de8 agent \u901a\u7528\uff0c\u4f9d\u8d56\u4ec5 openpyxl\u3002",
             "url": "https://github.com/alchaincyf/huashu-excel",
-            "stars": 340,
+            "stars": 341,
             "forks": 54,
             "score": 60
         },
@@ -207,6 +196,17 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/bawadou/ai-data-extractor",
             "stars": 548,
             "forks": 101,
+            "score": 59
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "biosecurity-agent",
+            "full_name": "Forsy-AI/biosecurity-agent",
+            "description": "AI agent that builds a live biosecurity world around any target.",
+            "url": "https://github.com/Forsy-AI/biosecurity-agent",
+            "stars": 514,
+            "forks": 19,
             "score": 59
         },
         {
@@ -227,7 +227,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "sodiumsun/agenttrail",
             "description": "Local observability map for AI coding agents. Watch Claude Code, Codex, and Cursor plans, tool calls, file changes, and progress in real time.",
             "url": "https://github.com/sodiumsun/agenttrail",
-            "stars": 425,
+            "stars": 430,
             "forks": 33,
             "score": 55
         },
@@ -249,7 +249,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "larashero3-dotcom/lieflat-less-ai-tone",
             "description": "\u4e00\u4e2a\u57fa\u4e8e 283 \u4e07\u5b57\u8bed\u6599\u7edf\u8ba1\u7684\u53bb AI \u5473 skill \u00b7 An AI-tone removal skill grounded in a 2.83-million-character corpus study",
             "url": "https://github.com/larashero3-dotcom/lieflat-less-ai-tone",
-            "stars": 479,
+            "stars": 478,
             "forks": 30,
             "score": 54
         },
@@ -294,7 +294,7 @@ const ALPHA_DATA_V2 = {
             "description": "Raccogliamo e analizziamo i dati sulla spesa pubblica italiana per individuare, grazie all\u2019AI, dove \u00e8 possibile migliorare l\u2019efficienza e l\u2019utilizzo delle risorse pubbliche. Simulatore di riallocazione della Legge di Bilancio su stanziamenti OpenBDAP (competenza, non cassa).",
             "url": "https://github.com/Italian-Builders-Org/DoveVannoINostriSoldi",
             "stars": 247,
-            "forks": 21,
+            "forks": 22,
             "score": 42
         },
         {
@@ -304,7 +304,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "amitshekhariitbhu/llm-inference-engineering",
             "description": "Learn LLM Inference Engineering step by step - from KV cache, PagedAttention, and continuous batching to vLLM, SGLang, and GPUs.",
             "url": "https://github.com/amitshekhariitbhu/llm-inference-engineering",
-            "stars": 232,
+            "stars": 233,
             "forks": 26,
             "score": 42
         },
@@ -326,7 +326,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Vendredi218/awesome-ai-harness",
             "description": "The model is the engine; the harness is the car. Curated knowledge on harness engineering \u2014 context management, tool design, agent loops, memory, sandboxing, evals. EN/\u4e2d\u6587",
             "url": "https://github.com/Vendredi218/awesome-ai-harness",
-            "stars": 170,
+            "stars": 171,
             "forks": 3,
             "score": 35
         },
@@ -607,5 +607,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-08-29 21:28"
+    "timestamp": "2026-08-29 23:48"
 };
