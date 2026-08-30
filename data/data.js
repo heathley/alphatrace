@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "CopilotKit/OpenBot",
             "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
             "url": "https://github.com/CopilotKit/OpenBot",
-            "stars": 3521,
-            "forks": 438,
+            "stars": 3536,
+            "forks": 440,
             "score": 99
         },
         {
@@ -18,7 +18,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "yetone/cumora",
             "description": "Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates \u2014 with cloud or bring-your-own (Claude Code / Codex) brains.",
             "url": "https://github.com/yetone/cumora",
-            "stars": 3278,
+            "stars": 3280,
             "forks": 401,
             "score": 99
         },
@@ -40,8 +40,19 @@ const ALPHA_DATA_V2 = {
             "full_name": "duty1g/x64dbg-mcp-server",
             "description": "x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg that exposes the debugger's full functionality over HTTP. Connect any MCP-compatible AI assistant and control x64dbg programmatically: set breakpoints, step through code, read memory, dump registers, and more.  Built with Zig \u2014 zero dependencies, single-binary output, cros",
             "url": "https://github.com/duty1g/x64dbg-mcp-server",
-            "stars": 1770,
-            "forks": 184,
+            "stars": 1776,
+            "forks": 185,
+            "score": 99
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "learn",
+            "full_name": "amosblomqvist/learn",
+            "description": "My AI learning system.",
+            "url": "https://github.com/amosblomqvist/learn",
+            "stars": 891,
+            "forks": 89,
             "score": 99
         },
         {
@@ -51,7 +62,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Nanako0129/sepia",
             "description": "De-AI writing skill for Claude Code, Codex, Grok Build, and Antigravity \u2014 narrative-architecture repair for fiction, venue-matched rules for professional prose. Based on StoryScope (arXiv:2604.03136).",
             "url": "https://github.com/Nanako0129/sepia",
-            "stars": 869,
+            "stars": 887,
             "forks": 50,
             "score": 99
         },
@@ -62,20 +73,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "hkqr/my-free-code",
             "description": "Open-source multi-provider AI gateway for Claude Code and other coding agents, with model routing, streaming, tools, reasoning, fallbacks, and local model support",
             "url": "https://github.com/hkqr/my-free-code",
-            "stars": 333,
-            "forks": 125,
+            "stars": 346,
+            "forks": 132,
             "score": 99
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "learn",
-            "full_name": "amosblomqvist/learn",
-            "description": "My AI learning system.",
-            "url": "https://github.com/amosblomqvist/learn",
-            "stars": 869,
-            "forks": 86,
-            "score": 97
         },
         {
             "main_cat": "AI",
@@ -95,9 +95,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "leopard627/fire-your-seo-agency",
             "description": "Fire your SEO\u00b7GEO agency \ud83d\udd25 A Claude Code skill that audits and optimizes SEO\u00b7AEO\u00b7GEO\u00b7LLMO\u00b7NEO(Naver) by itself \u2014 \uc6d4 50~350\ub9cc \uc6d0\uc9dc\ub9ac 'AI \uac80\uc0c9 \ucd5c\uc801\ud654' \ub300\ud589, AI \uc5d0\uc774\uc804\ud2b8\uac00 \ub300\uccb4\ud569\ub2c8\ub2e4",
             "url": "https://github.com/leopard627/fire-your-seo-agency",
-            "stars": 361,
-            "forks": 94,
-            "score": 91
+            "stars": 368,
+            "forks": 95,
+            "score": 92
         },
         {
             "main_cat": "AI",
@@ -106,9 +106,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "gtlhuyidan-sketch/life-ipo",
             "description": "\u4eba\u751f IPO\uff1a\u7edf\u4e00\u8d22\u52a1\u3001\u5065\u5eb7\u3001\u77e5\u8bc6\u3001\u4eba\u8109\u3001AI \u51b3\u7b56\u4e0e\u56e2\u961f\u6267\u884c\u7684\u4e2a\u4eba\u6570\u636e\u64cd\u4f5c\u7cfb\u7edf\u3002",
             "url": "https://github.com/gtlhuyidan-sketch/life-ipo",
-            "stars": 517,
+            "stars": 537,
             "forks": 19,
-            "score": 67
+            "score": 68
         },
         {
             "main_cat": "AI",
@@ -117,7 +117,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "jaredrhod/fullstack-agent",
             "description": "Give your AI a full stack: memory, voice, face, and hands. This is the \"I want an AI agent\" shortcut. It sets up the entire jaredrhod stack for you with an installation wizard. Select which pieces you want or do it all!",
             "url": "https://github.com/jaredrhod/fullstack-agent",
-            "stars": 502,
+            "stars": 509,
             "forks": 157,
             "score": 65
         },
@@ -128,20 +128,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "S1N6H/pentest-harness",
             "description": "Pentest Harness \u2014 Heaven for Hackers. A self-hosted AI agent harness for authorized pentests, bug bounty, security labs, and CTFs. Bring your own AI model API; sessions stay local.",
             "url": "https://github.com/S1N6H/pentest-harness",
-            "stars": 297,
-            "forks": 49,
+            "stars": 300,
+            "forks": 50,
             "score": 65
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "halofy",
-            "full_name": "halofyai/halofy",
-            "description": "Halofy is the open access and governance layer for AI agents across your organization. Identity, policy, provenance, audit, and signed erasure.",
-            "url": "https://github.com/halofyai/halofy",
-            "stars": 496,
-            "forks": 64,
-            "score": 64
         },
         {
             "main_cat": "AI",
@@ -150,9 +139,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "kgoedecke/doop",
             "description": "The open-source alternative to Paper.design. A multiplayer design canvas where humans and AI agents design together, live. MCP built in.",
             "url": "https://github.com/kgoedecke/doop",
-            "stars": 515,
-            "forks": 55,
-            "score": 63
+            "stars": 522,
+            "forks": 57,
+            "score": 64
         },
         {
             "main_cat": "AI",
@@ -161,7 +150,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "HanyuanWang/LiveStream-Agent-Studio",
             "description": "\u9762\u5411\u6296\u97f3\u76f4\u64ad\u7535\u5546\u7684 Windows \u672c\u5730 AI Agent Studio\uff0c\u8d2f\u901a\u4e3b\u64ad\u53d1\u73b0\u3001\u76f4\u64ad\u6d1e\u5bdf\u3001\u76f4\u64ad\u590d\u76d8\u4e0e\u77ed\u89c6\u9891\u5185\u5bb9\u7f16\u5bfc\u7684\u7edf\u4e00\u667a\u80fd\u5de5\u4f5c\u6d41\u3002",
             "url": "https://github.com/HanyuanWang/LiveStream-Agent-Studio",
-            "stars": 433,
+            "stars": 443,
             "forks": 74,
             "score": 63
         },
@@ -172,8 +161,19 @@ const ALPHA_DATA_V2 = {
             "full_name": "bam-bam-2/solo-skills",
             "description": "1\uc778 \uc0ac\uc5c5\uac00 \uc0dd\uc0b0\uc131 \ud0a4\ud2b8 \u2014 \uc9c1\uc6d0 \uc5c6\uc774 49\uac1c\ub97c \uc790\ub3d9\ud654\ud588\uace0, \uadf8\uc911 \ubc14\ub85c \uc4f8 \uc218 \uc788\ub294 AI \uc5d0\uc774\uc804\ud2b8 \uc2a4\ud0ac 26\uac1c(+\uc2e4\ud589 \uc2a4\ud06c\ub9bd\ud2b8)\ub97c \uacf5\uac1c\ud569\ub2c8\ub2e4",
             "url": "https://github.com/bam-bam-2/solo-skills",
-            "stars": 344,
-            "forks": 84,
+            "stars": 345,
+            "forks": 85,
+            "score": 61
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "halofy",
+            "full_name": "halofyai/halofy",
+            "description": "Halofy is the open access and governance layer for AI agents across your organization. Identity, policy, provenance, audit, and signed erasure.",
+            "url": "https://github.com/halofyai/halofy",
+            "stars": 418,
+            "forks": 64,
             "score": 60
         },
         {
@@ -190,17 +190,6 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "agenttrail",
-            "full_name": "sodiumsun/agenttrail",
-            "description": "Local observability map for AI coding agents. Watch Claude Code, Codex, and Cursor plans, tool calls, file changes, and progress in real time.",
-            "url": "https://github.com/sodiumsun/agenttrail",
-            "stars": 484,
-            "forks": 35,
-            "score": 58
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
             "name": "huashu-excel",
             "full_name": "alchaincyf/huashu-excel",
             "description": "\u6570\u636e\u5206\u6790\u4e0e Excel \u5168\u6d41\u7a0b skill\uff1a\u4f53\u68c0\u810f\u8868\u3001\u6e05\u6d17\u3001\u5bf9\u9f50\u9700\u6c42\u3001\u5206\u6790\u3001\u5bf9\u8d26\u3001\u4ea4\u4ed8\u3002\u8ba9 AI \u7b97\u51fa\u6765\u7684\u6570\u5b57\u7ecf\u5f97\u8d77\u8ffd\u95ee\u3002\u8de8 agent \u901a\u7528\uff0c\u4f9d\u8d56\u4ec5 openpyxl\u3002",
@@ -208,6 +197,17 @@ const ALPHA_DATA_V2 = {
             "stars": 349,
             "forks": 56,
             "score": 58
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "agenttrail",
+            "full_name": "sodiumsun/agenttrail",
+            "description": "An infinite canvas for your AI coding agents. Every repo is a region on one zoomable live map - watch Claude Code, Codex, and Cursor sessions, plans, tool calls, and file changes in real time. Local, zero-dependency.",
+            "url": "https://github.com/sodiumsun/agenttrail",
+            "stars": 509,
+            "forks": 35,
+            "score": 57
         },
         {
             "main_cat": "AI",
@@ -227,7 +227,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "larashero3-dotcom/lieflat-less-ai-tone",
             "description": "\u4e00\u4e2a\u57fa\u4e8e 283 \u4e07\u5b57\u8bed\u6599\u7edf\u8ba1\u7684\u53bb AI \u5473 skill \u00b7 An AI-tone removal skill grounded in a 2.83-million-character corpus study",
             "url": "https://github.com/larashero3-dotcom/lieflat-less-ai-tone",
-            "stars": 503,
+            "stars": 507,
             "forks": 32,
             "score": 54
         },
@@ -249,7 +249,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "babygoton/WorkDaddy",
             "description": "WorkDaddy \u662f WorkBuddy \u684c\u9762\u7aef\u589e\u5f3a\u52a9\u624b\uff1a\u81ea\u52a8\u7b7e\u5230\u9886\u79ef\u5206\u3001\u591a\u8d26\u53f7\u72ec\u7acb\u5907\u4efd\u3001\u70b9\u5207\u5373\u7528\uff1b\u514d\u6253\u6270\u6a21\u5f0f\u8ba9 AI \u65e0\u4eba\u503c\u5b88\u8dd1\u957f\u4efb\u52a1\uff1b\u8de8\u8d26\u53f7\u4f1a\u8bdd\u8fc1\u79fb\u3001\u5f02\u5e38\u4e2d\u65ad\u81ea\u52a8\u7eed\u63a5\uff1b\u6682\u5b58/\u5feb\u6377\u63d0\u793a\u8bcd\uff1b\u6bdb\u73bb\u7483\u4e3b\u9898\u4e0e\u66f4\u591a\u5b9e\u7528\u529f\u80fd\u3002",
             "url": "https://github.com/babygoton/WorkDaddy",
-            "stars": 405,
+            "stars": 406,
             "forks": 44,
             "score": 49
         },
@@ -260,7 +260,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "only-cli/oc",
             "description": "Turn any website into a compact CLI tailored for AI agents. Browse the web in hundreds of tokens, not tens of thousands.",
             "url": "https://github.com/only-cli/oc",
-            "stars": 412,
+            "stars": 413,
             "forks": 21,
             "score": 46
         },
@@ -293,8 +293,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "Italian-Builders-Org/DoveVannoINostriSoldi",
             "description": "Raccogliamo e analizziamo i dati sulla spesa pubblica italiana per individuare, grazie all\u2019AI, dove \u00e8 possibile migliorare l\u2019efficienza e l\u2019utilizzo delle risorse pubbliche. Simulatore di riallocazione della Legge di Bilancio su stanziamenti OpenBDAP (competenza, non cassa).",
             "url": "https://github.com/Italian-Builders-Org/DoveVannoINostriSoldi",
-            "stars": 248,
-            "forks": 22,
+            "stars": 249,
+            "forks": 23,
             "score": 42
         },
         {
@@ -549,6 +549,17 @@ const ALPHA_DATA_V2 = {
             "stars": 0,
             "forks": 0,
             "score": 30
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "Universal-Block-Chain-Protocol-App",
+            "full_name": "Jhasatyam04/Universal-Block-Chain-Protocol-App",
+            "description": "UBP (Universal Blockchain Protocol) is a standardized link format that turns complex wallet addresses into human-readable, cross-chain payment links preventing network errors and enabling one-click crypto payments everywhere.",
+            "url": "https://github.com/Jhasatyam04/Universal-Block-Chain-Protocol-App",
+            "stars": 0,
+            "forks": 0,
+            "score": 30
         }
     ],
     "news": [
@@ -574,5 +585,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-08-30 18:21"
+    "timestamp": "2026-08-30 21:47"
 };
