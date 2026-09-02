@@ -18,7 +18,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Nanako0129/sepia",
             "description": "De-AI writing skill for any Agent Skills-compatible agent (77+ via the Skills CLI), with native plugins for Claude Code, Codex, Grok Build, and Antigravity. Narrative-architecture repair for fiction, venue-matched rules for professional prose. Based on StoryScope (arXiv:2604.03136).",
             "url": "https://github.com/Nanako0129/sepia",
-            "stars": 1351,
+            "stars": 1353,
             "forks": 79,
             "score": 99
         },
@@ -29,7 +29,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "amosblomqvist/learn",
             "description": "My AI learning system.",
             "url": "https://github.com/amosblomqvist/learn",
-            "stars": 1107,
+            "stars": 1116,
             "forks": 113,
             "score": 99
         },
@@ -51,8 +51,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "PAICNI/CFBox",
             "description": "\u4e00\u4e2a\u8fd0\u884c\u5728 Cloudflare Workers \u4e0a\u517c\u5bb9CFnew \u4e0eedgetunnel\u7684\u4ee3\u7406\u8ba2\u9605\u7ba1\u7406\u9762\u677f\u2014\u2014\u65e2\u80fd\u5728 /UUID \u8def\u5f84\u4e0a\u8f93\u51fa VLESS/Trojan/xhttp \u591a\u534f\u8bae\u8ba2\u9605\uff0c\u53c8\u63d0\u4f9b\u56fe\u5f62\u5316\u914d\u7f6e\u754c\u9762\uff08KV \u5b58\u50a8\u3001\u6539\u5b8c\u5373\u751f\u6548\uff09\uff0c\u5e76\u5185\u7f6e\u5ef6\u8fdf\u6d4b\u8bd5\u3001\u6d41\u5a92\u4f53/AI \u8fde\u901a\u6027\u68c0\u6d4b\u3001\u591a\u5ba2\u6237\u7aef\u8ba2\u9605\u751f\u6210\u3001\u591a\u8bed\u8a00\u7b49\u80fd\u529b\u3002",
             "url": "https://github.com/PAICNI/CFBox",
-            "stars": 461,
-            "forks": 236,
+            "stars": 471,
+            "forks": 243,
             "score": 99
         },
         {
@@ -62,9 +62,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "cclank/lanshu-create-ai-presenter-video",
             "description": "Provider-neutral Codex Skill for producing verified AI presenter videos from a script and an authorized presenter image.",
             "url": "https://github.com/cclank/lanshu-create-ai-presenter-video",
-            "stars": 990,
+            "stars": 991,
             "forks": 177,
             "score": 86
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "hexstellar",
+            "full_name": "brayonpi/hexstellar",
+            "description": "Turn any AI agent into a computational researcher. HexStellar Cortex delivers software-accelerated optimization, quantum computing, scientific computing, decision intelligence, and verifiable execution through a Python CLI and API\u2014with certainty labels, verification receipts, examples, and a free sandbox. Start instantly: pip install hexstellar",
+            "url": "https://github.com/brayonpi/hexstellar",
+            "stars": 536,
+            "forks": 51,
+            "score": 76
         },
         {
             "main_cat": "AI",
@@ -75,18 +86,7 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/leopard627/fire-your-seo-agency",
             "stars": 384,
             "forks": 99,
-            "score": 78
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "hexstellar",
-            "full_name": "brayonpi/hexstellar",
-            "description": "Turn any AI agent into a computational researcher. HexStellar Cortex delivers software-accelerated optimization, quantum computing, scientific computing, decision intelligence, and verifiable execution through a Python CLI and API\u2014with certainty labels, verification receipts, examples, and a free sandbox. Start instantly: pip install hexstellar",
-            "url": "https://github.com/brayonpi/hexstellar",
-            "stars": 529,
-            "forks": 51,
-            "score": 75
+            "score": 73
         },
         {
             "main_cat": "AI",
@@ -95,9 +95,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "HanyuanWang/LiveStream-Agent-Studio",
             "description": "\u9762\u5411\u6296\u97f3\u76f4\u64ad\u7535\u5546\u7684 Windows \u672c\u5730 AI Agent Studio\uff0c\u8d2f\u901a\u4e3b\u64ad\u53d1\u73b0\u3001\u76f4\u64ad\u6d1e\u5bdf\u3001\u76f4\u64ad\u590d\u76d8\u4e0e\u77ed\u89c6\u9891\u5185\u5bb9\u7f16\u5bfc\u7684\u7edf\u4e00\u667a\u80fd\u5de5\u4f5c\u6d41\u3002",
             "url": "https://github.com/HanyuanWang/LiveStream-Agent-Studio",
-            "stars": 546,
+            "stars": 551,
             "forks": 97,
-            "score": 65
+            "score": 66
         },
         {
             "main_cat": "AI",
@@ -128,7 +128,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "S1N6H/pentest-harness",
             "description": "Pentest Harness \u2014 Heaven for Hackers. A self-hosted AI agent harness for authorized pentests, bug bounty, security labs, and CTFs. Bring your own AI model API; sessions stay local.",
             "url": "https://github.com/S1N6H/pentest-harness",
-            "stars": 320,
+            "stars": 321,
             "forks": 50,
             "score": 58
         },
@@ -150,31 +150,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "bam-bam-2/solo-skills",
             "description": "1\uc778 \uc0ac\uc5c5\uac00 \uc0dd\uc0b0\uc131 \ud0a4\ud2b8 \u2014 \uc9c1\uc6d0 \uc5c6\uc774 49\uac1c\ub97c \uc790\ub3d9\ud654\ud588\uace0, \uadf8\uc911 \ubc14\ub85c \uc4f8 \uc218 \uc788\ub294 AI \uc5d0\uc774\uc804\ud2b8 \uc2a4\ud0ac 26\uac1c(+\uc2e4\ud589 \uc2a4\ud06c\ub9bd\ud2b8)\ub97c \uacf5\uac1c\ud569\ub2c8\ub2e4",
             "url": "https://github.com/bam-bam-2/solo-skills",
-            "stars": 350,
+            "stars": 351,
             "forks": 86,
             "score": 56
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "open-seo-mcp-skills",
-            "full_name": "Ryze-AI-Adgent/open-seo-mcp-skills",
-            "description": "Open-source SEO + GEO skills for Claude \u2014 keyword research, rank tracking, site audits, backlinks, competitor gaps, AI visibility. Runs on your real Search Console / GA4 / ads data via MCP, with DataForSEO built in. Free, MIT.",
-            "url": "https://github.com/Ryze-AI-Adgent/open-seo-mcp-skills",
-            "stars": 254,
-            "forks": 2,
-            "score": 56
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "biosecurity-agent",
-            "full_name": "Forsy-AI/biosecurity-agent",
-            "description": "AI agent that builds a live biosecurity world around any target.",
-            "url": "https://github.com/Forsy-AI/biosecurity-agent",
-            "stars": 513,
-            "forks": 20,
-            "score": 54
         },
         {
             "main_cat": "AI",
@@ -212,11 +190,22 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
+            "name": "biosecurity-agent",
+            "full_name": "Forsy-AI/biosecurity-agent",
+            "description": "AI agent that builds a live biosecurity world around any target.",
+            "url": "https://github.com/Forsy-AI/biosecurity-agent",
+            "stars": 514,
+            "forks": 20,
+            "score": 52
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
             "name": "Card-master-browser-extension-public",
             "full_name": "LYiHub/Card-master-browser-extension-public",
             "description": "\u4e00\u4e2a\u5361\u724c\u6e38\u620f\u6d4f\u89c8\u5668\u6269\u5c55\uff0c\u53ef\u4ee5\u628a\u5404\u79cd\u6d4f\u89c8\u5668\u811a\u672c\u3001\u6269\u5c55\u505a\u6210\u53ef\u6e38\u73a9\u7684\u5361\u724c\uff0c\u8fd8\u53ef\u4ee5\u7528AI\u81ea\u52a8\u751f\u6210\u5168\u65b0\u5361\u724c\u63d2\u4ef6",
             "url": "https://github.com/LYiHub/Card-master-browser-extension-public",
-            "stars": 299,
+            "stars": 300,
             "forks": 28,
             "score": 52
         },
@@ -229,6 +218,17 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/halofyai/halofy",
             "stars": 421,
             "forks": 33,
+            "score": 51
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "open-seo-mcp-skills",
+            "full_name": "Ryze-AI-Adgent/open-seo-mcp-skills",
+            "description": "Open-source SEO + GEO skills for Claude \u2014 keyword research, rank tracking, site audits, backlinks, competitor gaps, AI visibility. Runs on your real Search Console / GA4 / ads data via MCP, with DataForSEO built in. Free, MIT.",
+            "url": "https://github.com/Ryze-AI-Adgent/open-seo-mcp-skills",
+            "stars": 255,
+            "forks": 2,
             "score": 51
         },
         {
@@ -249,9 +249,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "panxunying/ai-coding-welfare",
             "description": "AI Coding \u798f\u5229\u7ad9\u5bfc\u822a\uff1a\u514d\u8d39\u767d\u5ad6 Claude Code / Codex \u7684\u4e2d\u8f6c\u7ad9\u4e0e\u516c\u76ca\u7ad9\u5408\u96c6\uff0c\u542b\u989d\u5ea6\u3001\u6a21\u578b\u3001\u4ef7\u683c\u81ea\u52a8\u66f4\u65b0\u4e0e\u4e00\u952e\u914d\u7f6e\u811a\u672c",
             "url": "https://github.com/panxunying/ai-coding-welfare",
-            "stars": 435,
+            "stars": 441,
             "forks": 29,
             "score": 49
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "wenai",
+            "full_name": "Straniero44/wenai",
+            "description": "An intimate AI companion skill for OpenClaw \u2014 fall in love with your AI girlfriend, with a Pony V6 XL powered visual workflow.",
+            "url": "https://github.com/Straniero44/wenai",
+            "stars": 177,
+            "forks": 44,
+            "score": 47
         },
         {
             "main_cat": "AI",
@@ -278,17 +289,6 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "TabTin",
-            "full_name": "tabtin-ai/TabTin",
-            "description": "A workspace where people and multiple AI agents work together.",
-            "url": "https://github.com/tabtin-ai/TabTin",
-            "stars": 217,
-            "forks": 53,
-            "score": 43
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
             "name": "sentio",
             "full_name": "truespar/sentio",
             "description": "Email inbox API for AI agents. Give every agent its own real email address, receive mail as structured webhooks, and reply in-thread over REST. A complete multi-tenant mail server in Rust: inbound and outbound, DKIM/SPF/DMARC/ARC, MTA-STS, DANE, three-tier anti-spam.",
@@ -300,12 +300,12 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "DoveVannoINostriSoldi",
-            "full_name": "Italian-Builders-Org/DoveVannoINostriSoldi",
-            "description": "Raccogliamo e analizziamo i dati sulla spesa pubblica italiana per individuare, grazie all\u2019AI, dove \u00e8 possibile migliorare l\u2019efficienza e l\u2019utilizzo delle risorse pubbliche. Simulatore di riallocazione della Legge di Bilancio su stanziamenti OpenBDAP (competenza, non cassa).",
-            "url": "https://github.com/Italian-Builders-Org/DoveVannoINostriSoldi",
-            "stars": 262,
-            "forks": 28,
+            "name": "MeshLAN",
+            "full_name": "zhaoxuya520/MeshLAN",
+            "description": "Self-hosted P2P-first virtual LAN, service sharing, multi-relay and AI automation built on Nebula.",
+            "url": "https://github.com/zhaoxuya520/MeshLAN",
+            "stars": 203,
+            "forks": 24,
             "score": 41
         },
         {
@@ -348,17 +348,6 @@ const ALPHA_DATA_V2 = {
             "full_name": "Teewa56/Alladin-Net",
             "description": "An institutional-grade Real-World Asset (RWA) tokenization and automated risk engine leveraging ERC-4626 yield-bearing vaults, on-chain event subgraphs, and a localized RAG-driven LLM agent to execute autonomous, cross-asset macro stress testing, monitor liquidity pools, and adjust portfolio risk parameters within a single unified infrastructure.",
             "url": "https://github.com/Teewa56/Alladin-Net",
-            "stars": 0,
-            "forks": 0,
-            "score": 30
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "horse-racing-bets-and-evals",
-            "full_name": "analeonescu/horse-racing-bets-and-evals",
-            "description": "Machine learning models for horse racing prediction, betting strategy evaluation, and comparison against market-implied probabilities.",
-            "url": "https://github.com/analeonescu/horse-racing-bets-and-evals",
             "stars": 0,
             "forks": 0,
             "score": 30
@@ -593,23 +582,20 @@ const ALPHA_DATA_V2 = {
             "stars": 0,
             "forks": 0,
             "score": 30
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "Universal-Block-Chain-Protocol-App",
+            "full_name": "Jhasatyam04/Universal-Block-Chain-Protocol-App",
+            "description": "UBP (Universal Blockchain Protocol) is a standardized link format that turns complex wallet addresses into human-readable, cross-chain payment links preventing network errors and enabling one-click crypto payments everywhere.",
+            "url": "https://github.com/Jhasatyam04/Universal-Block-Chain-Protocol-App",
+            "stars": 0,
+            "forks": 0,
+            "score": 30
         }
     ],
     "news": [
-        {
-            "title": "Local Private Information Retrieval for Graph-Based Replicated Systems",
-            "source": "ArXiv",
-            "type": "Research Alpha",
-            "color": "text-indigo-600",
-            "url": "http://arxiv.org/abs/2608.31150v1"
-        },
-        {
-            "title": "Auditing Anonymous AI Models: A Four-Stage Protocol for Black-Box Identity Verification",
-            "source": "ArXiv",
-            "type": "Research Alpha",
-            "color": "text-indigo-600",
-            "url": "http://arxiv.org/abs/2608.31142v1"
-        },
         {
             "title": "Bitcoin volatility remains high ahead of key FED decision.",
             "source": "Polymarket",
@@ -618,5 +604,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-09-01 22:17"
+    "timestamp": "2026-09-02 00:45"
 };
