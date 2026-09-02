@@ -7,7 +7,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "duty1g/x64dbg-mcp-server",
             "description": "x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg that exposes the debugger's full functionality over HTTP. Connect any MCP-compatible AI assistant and control x64dbg programmatically: set breakpoints, step through code, read memory, dump registers, and more.  Built with Zig \u2014 zero dependencies, single-binary output, cros",
             "url": "https://github.com/duty1g/x64dbg-mcp-server",
-            "stars": 1845,
+            "stars": 1846,
             "forks": 189,
             "score": 99
         },
@@ -18,7 +18,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Nanako0129/sepia",
             "description": "De-AI writing skill for any Agent Skills-compatible agent (77+ via the Skills CLI), with native plugins for Claude Code, Codex, Grok Build, and Antigravity. Narrative-architecture repair for fiction, venue-matched rules for professional prose. Based on StoryScope (arXiv:2604.03136).",
             "url": "https://github.com/Nanako0129/sepia",
-            "stars": 1545,
+            "stars": 1553,
             "forks": 91,
             "score": 99
         },
@@ -29,8 +29,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "amosblomqvist/learn",
             "description": "My AI learning system.",
             "url": "https://github.com/amosblomqvist/learn",
-            "stars": 1185,
-            "forks": 125,
+            "stars": 1194,
+            "forks": 126,
             "score": 99
         },
         {
@@ -40,7 +40,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "GangTailorUpgrade/undress-service",
             "description": "Dress AI Sponsor",
             "url": "https://github.com/GangTailorUpgrade/undress-service",
-            "stars": 923,
+            "stars": 926,
             "forks": 1,
             "score": 99
         },
@@ -51,7 +51,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "PAICNI/CFBox",
             "description": "\u4e00\u4e2a\u8fd0\u884c\u5728 Cloudflare Workers \u4e0a\u517c\u5bb9CFnew \u4e0eedgetunnel\u7684\u4ee3\u7406\u8ba2\u9605\u7ba1\u7406\u9762\u677f\u2014\u2014\u65e2\u80fd\u5728 /UUID \u8def\u5f84\u4e0a\u8f93\u51fa VLESS/Trojan/xhttp \u591a\u534f\u8bae\u8ba2\u9605\uff0c\u53c8\u63d0\u4f9b\u56fe\u5f62\u5316\u914d\u7f6e\u754c\u9762\uff08KV \u5b58\u50a8\u3001\u6539\u5b8c\u5373\u751f\u6548\uff09\uff0c\u5e76\u5185\u7f6e\u5ef6\u8fdf\u6d4b\u8bd5\u3001\u6d41\u5a92\u4f53/AI \u8fde\u901a\u6027\u68c0\u6d4b\u3001\u591a\u5ba2\u6237\u7aef\u8ba2\u9605\u751f\u6210\u3001\u591a\u8bed\u8a00\u7b49\u80fd\u529b\u3002",
             "url": "https://github.com/PAICNI/CFBox",
-            "stars": 623,
+            "stars": 629,
             "forks": 330,
             "score": 99
         },
@@ -73,8 +73,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "2akouwu/reverify",
             "description": "Verified reverse engineering: AI RE grounded on deterministic tools - results checked against the binary, not hallucinated.",
             "url": "https://github.com/2akouwu/reverify",
-            "stars": 579,
-            "forks": 116,
+            "stars": 581,
+            "forks": 118,
             "score": 99
         },
         {
@@ -95,7 +95,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "brayonpi/hexstellar",
             "description": "Turn any AI agent into a computational researcher. HexStellar Cortex delivers software-accelerated optimization, quantum computing, scientific computing, decision intelligence, and verifiable execution through a Python CLI and API\u2014with certainty labels, verification receipts, examples, and a free sandbox. Start instantly: pip install hexstellar",
             "url": "https://github.com/brayonpi/hexstellar",
-            "stars": 697,
+            "stars": 702,
             "forks": 52,
             "score": 80
         },
@@ -117,7 +117,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "HanyuanWang/LiveStream-Agent-Studio",
             "description": "\u9762\u5411\u6296\u97f3\u76f4\u64ad\u7535\u5546\u7684 Windows \u672c\u5730 AI Agent Studio\uff0c\u8d2f\u901a\u4e3b\u64ad\u53d1\u73b0\u3001\u76f4\u64ad\u6d1e\u5bdf\u3001\u76f4\u64ad\u590d\u76d8\u4e0e\u77ed\u89c6\u9891\u5185\u5bb9\u7f16\u5bfc\u7684\u7edf\u4e00\u667a\u80fd\u5de5\u4f5c\u6d41\u3002",
             "url": "https://github.com/HanyuanWang/LiveStream-Agent-Studio",
-            "stars": 597,
+            "stars": 607,
             "forks": 103,
             "score": 66
         },
@@ -128,20 +128,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "kgoedecke/doop",
             "description": "The open-source alternative to Paper.design. A multiplayer design canvas where humans and AI agents design together, live. MCP built in.",
             "url": "https://github.com/kgoedecke/doop",
-            "stars": 567,
+            "stars": 568,
             "forks": 68,
-            "score": 59
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "open-seo-mcp-skills",
-            "full_name": "Ryze-AI-Adgent/open-seo-mcp-skills",
-            "description": "Open-source SEO + GEO skills for Claude \u2014 keyword research, rank tracking, site audits, backlinks, competitor gaps, AI visibility. Runs on your real Search Console / GA4 / ads data via MCP, with DataForSEO built in. Free, MIT.",
-            "url": "https://github.com/Ryze-AI-Adgent/open-seo-mcp-skills",
-            "stars": 326,
-            "forks": 5,
-            "score": 58
+            "score": 60
         },
         {
             "main_cat": "AI",
@@ -151,7 +140,7 @@ const ALPHA_DATA_V2 = {
             "description": "The open-source AI coworker for your team: agents with their own cloud computer, your tools and context, handing back finished work websites, decks, spreadsheets, reports, PRs. Runs Claude Code, Codex, OpenCode on your subscription.",
             "url": "https://github.com/useagenthq/useagent",
             "stars": 274,
-            "forks": 30,
+            "forks": 31,
             "score": 58
         },
         {
@@ -161,7 +150,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "sodiumsun/agenttrail",
             "description": "An infinite canvas for your AI coding agents. Every repo is a region on one zoomable live map - watch Claude Code, Codex, and Cursor sessions, plans, tool calls, and file changes in real time. Local, zero-dependency.",
             "url": "https://github.com/sodiumsun/agenttrail",
-            "stars": 627,
+            "stars": 629,
             "forks": 42,
             "score": 56
         },
@@ -173,7 +162,7 @@ const ALPHA_DATA_V2 = {
             "description": "Pentest Harness \u2014 Heaven for Hackers. A self-hosted AI agent harness for authorized pentests, bug bounty, security labs, and CTFs. Bring your own AI model API; sessions stay local.",
             "url": "https://github.com/S1N6H/pentest-harness",
             "stars": 327,
-            "forks": 50,
+            "forks": 51,
             "score": 56
         },
         {
@@ -190,12 +179,23 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
+            "name": "open-seo-mcp-skills",
+            "full_name": "Ryze-AI-Adgent/open-seo-mcp-skills",
+            "description": "Open-source SEO + GEO skills for Claude \u2014 keyword research, rank tracking, site audits, backlinks, competitor gaps, AI visibility. Runs on your real Search Console / GA4 / ads data via MCP, with DataForSEO built in. Free, MIT.",
+            "url": "https://github.com/Ryze-AI-Adgent/open-seo-mcp-skills",
+            "stars": 332,
+            "forks": 6,
+            "score": 55
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
             "name": "cs-board",
             "full_name": "ChenShuo2004/cs-board",
             "description": "\u5c06\u53c2\u8003\u58f0\u97f3\u548c\u4e2d\u6587\u6587\u6848\u81ea\u52a8\u751f\u6210\u767d\u677f\u52a8\u753b\u89c6\u9891\u7684\u672c\u5730 AI \u5de5\u5177\u3002",
             "url": "https://github.com/ChenShuo2004/cs-board",
-            "stars": 410,
-            "forks": 72,
+            "stars": 412,
+            "forks": 73,
             "score": 53
         },
         {
@@ -212,17 +212,6 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "biosecurity-agent",
-            "full_name": "Forsy-AI/biosecurity-agent",
-            "description": "AI agent that builds a live biosecurity world around any target.",
-            "url": "https://github.com/Forsy-AI/biosecurity-agent",
-            "stars": 514,
-            "forks": 20,
-            "score": 52
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
             "name": "huashu-excel",
             "full_name": "alchaincyf/huashu-excel",
             "description": "\u6570\u636e\u5206\u6790\u4e0e Excel \u5168\u6d41\u7a0b skill\uff1a\u4f53\u68c0\u810f\u8868\u3001\u6e05\u6d17\u3001\u5bf9\u9f50\u9700\u6c42\u3001\u5206\u6790\u3001\u5bf9\u8d26\u3001\u4ea4\u4ed8\u3002\u8ba9 AI \u7b97\u51fa\u6765\u7684\u6570\u5b57\u7ecf\u5f97\u8d77\u8ffd\u95ee\u3002\u8de8 agent \u901a\u7528\uff0c\u4f9d\u8d56\u4ec5 openpyxl\u3002",
@@ -234,11 +223,22 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
+            "name": "biosecurity-agent",
+            "full_name": "Forsy-AI/biosecurity-agent",
+            "description": "AI agent that builds a live biosecurity world around any target.",
+            "url": "https://github.com/Forsy-AI/biosecurity-agent",
+            "stars": 514,
+            "forks": 20,
+            "score": 51
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
             "name": "Card-master-browser-extension-public",
             "full_name": "LYiHub/Card-master-browser-extension-public",
             "description": "\u4e00\u4e2a\u5361\u724c\u6e38\u620f\u6d4f\u89c8\u5668\u6269\u5c55\uff0c\u53ef\u4ee5\u628a\u5404\u79cd\u6d4f\u89c8\u5668\u811a\u672c\u3001\u6269\u5c55\u505a\u6210\u53ef\u6e38\u73a9\u7684\u5361\u724c\uff0c\u8fd8\u53ef\u4ee5\u7528AI\u81ea\u52a8\u751f\u6210\u5168\u65b0\u5361\u724c\u63d2\u4ef6",
             "url": "https://github.com/LYiHub/Card-master-browser-extension-public",
-            "stars": 319,
+            "stars": 320,
             "forks": 29,
             "score": 51
         },
@@ -249,7 +249,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "panxunying/ai-coding-welfare",
             "description": "AI Coding \u798f\u5229\u7ad9\u5bfc\u822a\uff1a\u514d\u8d39\u767d\u5ad6 Claude Code / Codex \u7684\u4e2d\u8f6c\u7ad9\u4e0e\u516c\u76ca\u7ad9\u5408\u96c6\uff0c\u542b\u989d\u5ea6\u3001\u6a21\u578b\u3001\u4ef7\u683c\u81ea\u52a8\u66f4\u65b0\u4e0e\u4e00\u952e\u914d\u7f6e\u811a\u672c",
             "url": "https://github.com/panxunying/ai-coding-welfare",
-            "stars": 485,
+            "stars": 487,
             "forks": 34,
             "score": 50
         },
@@ -293,7 +293,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "MORTEN-BUUR/nordef-matrix-open-control",
             "description": "NORDEF Matrix Open Control: model-independent AI safety belt with 0/1/2 decisions, Ed25519 root gate, replay protection, evidence chain, and incident-pattern eval bank",
             "url": "https://github.com/MORTEN-BUUR/nordef-matrix-open-control",
-            "stars": 285,
+            "stars": 287,
             "forks": 1,
             "score": 44
         },
@@ -305,8 +305,8 @@ const ALPHA_DATA_V2 = {
             "description": "Email inbox API for AI agents. Give every agent its own real email address, receive mail as structured webhooks, and reply in-thread over REST. A complete multi-tenant mail server in Rust: inbound and outbound, DKIM/SPF/DMARC/ARC, MTA-STS, DANE, three-tier anti-spam.",
             "url": "https://github.com/truespar/sentio",
             "stars": 234,
-            "forks": 16,
-            "score": 42
+            "forks": 17,
+            "score": 41
         },
         {
             "main_cat": "AI",
@@ -315,7 +315,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Laleeth/The-AI-Engineer-s-Playbook",
             "description": "Practical engineering knowledge for building and operating production AI systems \u2014 LLMs, RAG, agents, inference, evaluation, system design, and AI infrastructure.",
             "url": "https://github.com/Laleeth/The-AI-Engineer-s-Playbook",
-            "stars": 9,
+            "stars": 10,
             "forks": 0,
             "score": 31
         },
@@ -408,6 +408,17 @@ const ALPHA_DATA_V2 = {
             "score": 30
         },
         {
+            "main_cat": "Stablecoin Infrastructure",
+            "sub_cat": null,
+            "name": "akaunting-payzum",
+            "full_name": "payzum-dev/akaunting-payzum",
+            "description": "Payzum crypto & stablecoin payments app for Akaunting (non-custodial; USDC, USDT and more)",
+            "url": "https://github.com/payzum-dev/akaunting-payzum",
+            "stars": 0,
+            "forks": 0,
+            "score": 30
+        },
+        {
             "main_cat": "AI",
             "sub_cat": "AI General",
             "name": "omnipay-payzum",
@@ -458,6 +469,17 @@ const ALPHA_DATA_V2 = {
             "full_name": "freexcrypto/Architecture-FreexCrypto",
             "description": "Architecture documentation for FreexCrypto \u2014 a payment gateway letting Indonesian merchants accept Rupiah-denominated stablecoin payments directly into their own wallet. C4-lite structure, ten decision records, verified against source.",
             "url": "https://github.com/freexcrypto/Architecture-FreexCrypto",
+            "stars": 0,
+            "forks": 0,
+            "score": 30
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "chainpay",
+            "full_name": "0xshikhar/chainpay",
+            "description": "A high-throughput Web3 settlement engine combining immutable double-entry accounting, atomic EVM payouts, and automated on-chain reconciliation for stablecoin payment infrastructure.",
+            "url": "https://github.com/0xshikhar/chainpay",
             "stars": 0,
             "forks": 0,
             "score": 30
@@ -629,5 +651,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-09-02 21:29"
+    "timestamp": "2026-09-02 23:45"
 };
