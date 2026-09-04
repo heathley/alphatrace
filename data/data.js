@@ -2,24 +2,24 @@ const ALPHA_DATA_V2 = {
     "projects": [
         {
             "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "x64dbg-mcp-server",
-            "full_name": "duty1g/x64dbg-mcp-server",
-            "description": "x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg that exposes the debugger's full functionality over HTTP. Connect any MCP-compatible AI assistant and control x64dbg programmatically: set breakpoints, step through code, read memory, dump registers, and more.  Built with Zig \u2014 zero dependencies, single-binary output, cros",
-            "url": "https://github.com/duty1g/x64dbg-mcp-server",
-            "stars": 1856,
-            "forks": 190,
-            "score": 99
-        },
-        {
-            "main_cat": "AI",
             "sub_cat": null,
             "name": "sepia",
             "full_name": "Nanako0129/sepia",
             "description": "De-AI writing skill for any Agent Skills-compatible agent (77+ via the Skills CLI), with native plugins for Claude Code, Codex, Grok Build, and Antigravity. Narrative-architecture repair for fiction, venue-matched rules for professional prose. Based on StoryScope (arXiv:2604.03136).",
             "url": "https://github.com/Nanako0129/sepia",
-            "stars": 1855,
-            "forks": 110,
+            "stars": 1869,
+            "forks": 111,
+            "score": 99
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "x64dbg-mcp-server",
+            "full_name": "duty1g/x64dbg-mcp-server",
+            "description": "x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg that exposes the debugger's full functionality over HTTP. Connect any MCP-compatible AI assistant and control x64dbg programmatically: set breakpoints, step through code, read memory, dump registers, and more.  Built with Zig \u2014 zero dependencies, single-binary output, cros",
+            "url": "https://github.com/duty1g/x64dbg-mcp-server",
+            "stars": 1859,
+            "forks": 190,
             "score": 99
         },
         {
@@ -40,19 +40,19 @@ const ALPHA_DATA_V2 = {
             "full_name": "GangTailorUpgrade/undress-service",
             "description": "Dress AI Sponsor",
             "url": "https://github.com/GangTailorUpgrade/undress-service",
-            "stars": 1013,
+            "stars": 1016,
             "forks": 1,
             "score": 99
         },
         {
             "main_cat": "AI",
-            "sub_cat": null,
+            "sub_cat": "AI Agents",
             "name": "reverify",
             "full_name": "2akouwu/reverify",
-            "description": "AI makes things up when it reads a binary. Reverify checks its every claim against the real bytes, so you see what's actually true \u2014 AI-assisted reverse engineering you can trust. LLM proposes, deterministic tools verify. MCP server + CLI.",
+            "description": "Anti-hallucination for AI agents that read binaries. The model proposes, deterministic tools decide: every claim is VERIFIED or REFUTED against the real bytes, with evidence, and grounded facts survive context resets. MCP server + CLI.",
             "url": "https://github.com/2akouwu/reverify",
-            "stars": 739,
-            "forks": 151,
+            "stars": 764,
+            "forks": 159,
             "score": 99
         },
         {
@@ -62,8 +62,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "PAICNI/CFBox",
             "description": "\u4e00\u4e2a\u8fd0\u884c\u5728 Cloudflare Workers \u4e0a\u517c\u5bb9CFnew \u4e0eedgetunnel\u7684\u4ee3\u7406\u8ba2\u9605\u7ba1\u7406\u9762\u677f\u2014\u2014\u65e2\u80fd\u5728 /UUID \u8def\u5f84\u4e0a\u8f93\u51fa VLESS/Trojan/xhttp \u591a\u534f\u8bae\u8ba2\u9605\uff0c\u53c8\u63d0\u4f9b\u56fe\u5f62\u5316\u914d\u7f6e\u754c\u9762\uff08KV \u5b58\u50a8\u3001\u6539\u5b8c\u5373\u751f\u6548\uff09\uff0c\u5e76\u5185\u7f6e\u5ef6\u8fdf\u6d4b\u8bd5\u3001\u6d41\u5a92\u4f53/AI \u8fde\u901a\u6027\u68c0\u6d4b\u3001\u591a\u5ba2\u6237\u7aef\u8ba2\u9605\u751f\u6210\u3001\u591a\u8bed\u8a00\u7b49\u80fd\u529b\u3002",
             "url": "https://github.com/PAICNI/CFBox",
-            "stars": 675,
-            "forks": 409,
+            "stars": 674,
+            "forks": 414,
             "score": 99
         },
         {
@@ -73,7 +73,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "hkqr/my-free-code",
             "description": "Open-source multi-provider AI gateway for Claude Code and other coding agents, with model routing, streaming, tools, reasoning, fallbacks, and local model support",
             "url": "https://github.com/hkqr/my-free-code",
-            "stars": 623,
+            "stars": 626,
             "forks": 211,
             "score": 99
         },
@@ -84,9 +84,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "brayonpi/hexstellar",
             "description": "Turn any AI agent into a computational researcher. HexStellar Cortex delivers software-accelerated optimization, quantum computing, scientific computing, decision intelligence, and verifiable execution through a Python CLI and API\u2014with certainty labels, verification receipts, examples, and a free sandbox. Start instantly: pip install hexstellar",
             "url": "https://github.com/brayonpi/hexstellar",
-            "stars": 794,
+            "stars": 796,
             "forks": 53,
             "score": 80
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "LiveStream-Agent-Studio",
+            "full_name": "HanyuanWang/LiveStream-Agent-Studio",
+            "description": "\u9762\u5411\u6296\u97f3\u76f4\u64ad\u7535\u5546\u7684 Windows \u672c\u5730 AI Agent Studio\uff0c\u8d2f\u901a\u4e3b\u64ad\u53d1\u73b0\u3001\u76f4\u64ad\u6d1e\u5bdf\u3001\u76f4\u64ad\u590d\u76d8\u4e0e\u77ed\u89c6\u9891\u5185\u5bb9\u7f16\u5bfc\u7684\u7edf\u4e00\u667a\u80fd\u5de5\u4f5c\u6d41\u3002",
+            "url": "https://github.com/HanyuanWang/LiveStream-Agent-Studio",
+            "stars": 674,
+            "forks": 115,
+            "score": 67
         },
         {
             "main_cat": "AI",
@@ -97,18 +108,7 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/leopard627/fire-your-seo-agency",
             "stars": 392,
             "forks": 103,
-            "score": 70
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "LiveStream-Agent-Studio",
-            "full_name": "HanyuanWang/LiveStream-Agent-Studio",
-            "description": "\u9762\u5411\u6296\u97f3\u76f4\u64ad\u7535\u5546\u7684 Windows \u672c\u5730 AI Agent Studio\uff0c\u8d2f\u901a\u4e3b\u64ad\u53d1\u73b0\u3001\u76f4\u64ad\u6d1e\u5bdf\u3001\u76f4\u64ad\u590d\u76d8\u4e0e\u77ed\u89c6\u9891\u5185\u5bb9\u7f16\u5bfc\u7684\u7edf\u4e00\u667a\u80fd\u5de5\u4f5c\u6d41\u3002",
-            "url": "https://github.com/HanyuanWang/LiveStream-Agent-Studio",
-            "stars": 667,
-            "forks": 112,
-            "score": 67
+            "score": 66
         },
         {
             "main_cat": "AI",
@@ -117,20 +117,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "yilujian/easy-writing",
             "description": "\u6613\u521b\uff1a\u7eaf\u672c\u5730\u3001\u5f00\u6e90\u7684 AI \u7f51\u6587\u5199\u4f5c\u684c\u9762\u8f6f\u4ef6\uff0c\u652f\u6301\u5c0f\u8bf4\u521b\u4f5c\u3001AI \u8f85\u52a9\u5199\u4f5c\u3001BYOK \u4e0e\u81ea\u5b9a\u4e49\u63d0\u793a\u8bcd\u3002",
             "url": "https://github.com/yilujian/easy-writing",
-            "stars": 222,
+            "stars": 223,
             "forks": 49,
             "score": 64
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "open-seo-mcp-skills",
-            "full_name": "Ryze-AI-Adgent/open-seo-mcp-skills",
-            "description": "Open-source SEO + GEO skills for Claude \u2014 keyword research, rank tracking, site audits, backlinks, competitor gaps, AI visibility. Runs on your real Search Console / GA4 / ads data via MCP, with DataForSEO built in. Free, MIT.",
-            "url": "https://github.com/Ryze-AI-Adgent/open-seo-mcp-skills",
-            "stars": 407,
-            "forks": 9,
-            "score": 61
         },
         {
             "main_cat": "AI",
@@ -139,9 +128,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "useagenthq/useagent",
             "description": "The open-source AI coworker for your team: agents with their own cloud computer, your tools and context, handing back finished work websites, decks, spreadsheets, reports, PRs. Runs Claude Code, Codex, OpenCode on your subscription.",
             "url": "https://github.com/useagenthq/useagent",
-            "stars": 278,
+            "stars": 282,
             "forks": 58,
-            "score": 61
+            "score": 62
         },
         {
             "main_cat": "AI",
@@ -150,20 +139,31 @@ const ALPHA_DATA_V2 = {
             "full_name": "kgoedecke/doop",
             "description": "The open-source alternative to Paper.design. A multiplayer design canvas where humans and AI agents design together, live. MCP built in.",
             "url": "https://github.com/kgoedecke/doop",
-            "stars": 585,
+            "stars": 586,
             "forks": 74,
             "score": 59
         },
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "agenttrail",
-            "full_name": "sodiumsun/agenttrail",
-            "description": "An infinite canvas for your AI coding agents. Every repo is a region on one zoomable live map - watch Claude Code, Codex, and Cursor sessions, plans, tool calls, and file changes in real time. Local, zero-dependency.",
-            "url": "https://github.com/sodiumsun/agenttrail",
-            "stars": 637,
-            "forks": 43,
-            "score": 55
+            "name": "open-seo-mcp-skills",
+            "full_name": "Ryze-AI-Adgent/open-seo-mcp-skills",
+            "description": "Open-source SEO + GEO skills for Claude \u2014 keyword research, rank tracking, site audits, backlinks, competitor gaps, AI visibility. Runs on your real Search Console / GA4 / ads data via MCP, with DataForSEO built in. Free, MIT.",
+            "url": "https://github.com/Ryze-AI-Adgent/open-seo-mcp-skills",
+            "stars": 413,
+            "forks": 9,
+            "score": 58
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "image-prompt-reverse",
+            "full_name": "LunarXuan/image-prompt-reverse",
+            "description": "High-fidelity AI image prompt reverse-engineering skill for Codex",
+            "url": "https://github.com/LunarXuan/image-prompt-reverse",
+            "stars": 203,
+            "forks": 20,
+            "score": 58
         },
         {
             "main_cat": "AI",
@@ -172,20 +172,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "ZJU-REAL/Easel",
             "description": "An open-source AI agent for social media \u2014 discover trends, create content, publish everywhere, and learn what works across Xiaohongshu, Douyin, Zhihu, Bilibili, and more.\ud83c\udfa8\u4e00\u4e2a\u5f00\u6e90\u7684 AI \u793e\u4ea4\u5a92\u4f53\u667a\u80fd\u4f53\u2014\u2014\u53d1\u73b0\u70ed\u70b9\u8d8b\u52bf\u3001\u521b\u4f5c\u5185\u5bb9\u3001\u4e00\u952e\u53d1\u5e03\u81f3\u5404\u5927\u5e73\u53f0\uff0c\u5e76\u5b66\u4e60\u5206\u6790\u54ea\u4e9b\u5185\u5bb9\u771f\u6b63\u6709\u6548\uff0c\u8986\u76d6\u5c0f\u7ea2\u4e66\u3001\u6296\u97f3\u3001\u77e5\u4e4e\u3001\u54d4\u54e9\u54d4\u54e9\u7b49\u5e73\u53f0\u3002",
             "url": "https://github.com/ZJU-REAL/Easel",
-            "stars": 303,
-            "forks": 40,
-            "score": 55
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "cs-board",
-            "full_name": "ChenShuo2004/cs-board",
-            "description": "\u5c06\u53c2\u8003\u58f0\u97f3\u548c\u4e2d\u6587\u6587\u6848\u81ea\u52a8\u751f\u6210\u767d\u677f\u52a8\u753b\u89c6\u9891\u7684\u672c\u5730 AI \u5de5\u5177\u3002",
-            "url": "https://github.com/ChenShuo2004/cs-board",
-            "stars": 474,
-            "forks": 80,
-            "score": 54
+            "stars": 305,
+            "forks": 41,
+            "score": 56
         },
         {
             "main_cat": "AI",
@@ -212,17 +201,6 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "biosecurity-agent",
-            "full_name": "Forsy-AI/biosecurity-agent",
-            "description": "AI agent that builds a live biosecurity world around any target.",
-            "url": "https://github.com/Forsy-AI/biosecurity-agent",
-            "stars": 514,
-            "forks": 20,
-            "score": 51
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
             "name": "huashu-excel",
             "full_name": "alchaincyf/huashu-excel",
             "description": "\u6570\u636e\u5206\u6790\u4e0e Excel \u5168\u6d41\u7a0b skill\uff1a\u4f53\u68c0\u810f\u8868\u3001\u6e05\u6d17\u3001\u5bf9\u9f50\u9700\u6c42\u3001\u5206\u6790\u3001\u5bf9\u8d26\u3001\u4ea4\u4ed8\u3002\u8ba9 AI \u7b97\u51fa\u6765\u7684\u6570\u5b57\u7ecf\u5f97\u8d77\u8ffd\u95ee\u3002\u8de8 agent \u901a\u7528\uff0c\u4f9d\u8d56\u4ec5 openpyxl\u3002",
@@ -234,24 +212,24 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "ai-coding-welfare",
-            "full_name": "panxunying/ai-coding-welfare",
-            "description": "AI Coding \u798f\u5229\u7ad9\u5bfc\u822a\uff1a\u514d\u8d39\u767d\u5ad6 Claude Code / Codex \u7684\u4e2d\u8f6c\u7ad9\u4e0e\u516c\u76ca\u7ad9\u5408\u96c6\uff0c\u542b\u989d\u5ea6\u3001\u6a21\u578b\u3001\u4ef7\u683c\u81ea\u52a8\u66f4\u65b0\u4e0e\u4e00\u952e\u914d\u7f6e\u811a\u672c",
-            "url": "https://github.com/panxunying/ai-coding-welfare",
-            "stars": 510,
-            "forks": 35,
+            "name": "Card-master-browser-extension-public",
+            "full_name": "LYiHub/Card-master-browser-extension-public",
+            "description": "\u4e00\u4e2a\u5361\u724c\u6e38\u620f\u6d4f\u89c8\u5668\u6269\u5c55\uff0c\u53ef\u4ee5\u628a\u5404\u79cd\u6d4f\u89c8\u5668\u811a\u672c\u3001\u6269\u5c55\u505a\u6210\u53ef\u6e38\u73a9\u7684\u5361\u724c\uff0c\u8fd8\u53ef\u4ee5\u7528AI\u81ea\u52a8\u751f\u6210\u5168\u65b0\u5361\u724c\u63d2\u4ef6",
+            "url": "https://github.com/LYiHub/Card-master-browser-extension-public",
+            "stars": 332,
+            "forks": 32,
             "score": 50
         },
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "Card-master-browser-extension-public",
-            "full_name": "LYiHub/Card-master-browser-extension-public",
-            "description": "\u4e00\u4e2a\u5361\u724c\u6e38\u620f\u6d4f\u89c8\u5668\u6269\u5c55\uff0c\u53ef\u4ee5\u628a\u5404\u79cd\u6d4f\u89c8\u5668\u811a\u672c\u3001\u6269\u5c55\u505a\u6210\u53ef\u6e38\u73a9\u7684\u5361\u724c\uff0c\u8fd8\u53ef\u4ee5\u7528AI\u81ea\u52a8\u751f\u6210\u5168\u65b0\u5361\u724c\u63d2\u4ef6",
-            "url": "https://github.com/LYiHub/Card-master-browser-extension-public",
-            "stars": 331,
-            "forks": 32,
-            "score": 50
+            "name": "biosecurity-agent",
+            "full_name": "Forsy-AI/biosecurity-agent",
+            "description": "AI agent that builds a live biosecurity world around any target.",
+            "url": "https://github.com/Forsy-AI/biosecurity-agent",
+            "stars": 514,
+            "forks": 20,
+            "score": 49
         },
         {
             "main_cat": "AI",
@@ -282,7 +260,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "CHENG-LIANG1/real-company-interview-ai-coding-projects",
             "description": "\u4e09\u4e2a\u533f\u540d\u5316\u771f\u5b9e AI Coding \u9762\u8bd5\u9879\u76ee\u9898\u4e0e\u4e00\u5957\u901a\u7528\u89e3\u9898\u65b9\u6cd5",
             "url": "https://github.com/CHENG-LIANG1/real-company-interview-ai-coding-projects",
-            "stars": 304,
+            "stars": 305,
             "forks": 21,
             "score": 47
         },
@@ -293,7 +271,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "MORTEN-BUUR/nordef-matrix-open-control",
             "description": "NORDEF Matrix Open Control: model-independent AI safety belt with 0/1/2 decisions, Ed25519 root gate, replay protection, evidence chain, and incident-pattern eval bank",
             "url": "https://github.com/MORTEN-BUUR/nordef-matrix-open-control",
-            "stars": 361,
+            "stars": 364,
             "forks": 1,
             "score": 46
         },
@@ -311,12 +289,34 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
+            "name": "wenai",
+            "full_name": "Straniero44/wenai",
+            "description": "An intimate AI companion skill for OpenClaw \u2014 fall in love with your AI girlfriend, with a Pony V6 XL powered visual workflow.",
+            "url": "https://github.com/Straniero44/wenai",
+            "stars": 191,
+            "forks": 46,
+            "score": 45
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
             "name": "sentio",
             "full_name": "truespar/sentio",
             "description": "Email inbox API for AI agents. Give every agent its own real email address, receive mail as structured webhooks, and reply in-thread over REST. A complete multi-tenant mail server in Rust: inbound and outbound, DKIM/SPF/DMARC/ARC, MTA-STS, DANE, three-tier anti-spam.",
             "url": "https://github.com/truespar/sentio",
             "stars": 235,
             "forks": 17,
+            "score": 40
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "MeshLAN",
+            "full_name": "zhaoxuya520/MeshLAN",
+            "description": "Self-hosted P2P-first virtual LAN, service sharing, multi-relay and AI automation built on Nebula.",
+            "url": "https://github.com/zhaoxuya520/MeshLAN",
+            "stars": 205,
+            "forks": 25,
             "score": 40
         },
         {
@@ -328,17 +328,6 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/Laleeth/The-AI-Engineer-s-Playbook",
             "stars": 10,
             "forks": 0,
-            "score": 31
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "gpu-ai-skills",
-            "full_name": "intel/gpu-ai-skills",
-            "description": "Agent Skills for running, benchmarking, and profiling Hugging Face models on Intel GPUs \u2014 PyTorch, vLLM-XPU, and SGLang-XPU",
-            "url": "https://github.com/intel/gpu-ai-skills",
-            "stars": 20,
-            "forks": 4,
             "score": 31
         },
         {
@@ -463,23 +452,23 @@ const ALPHA_DATA_V2 = {
             "score": 30
         },
         {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "saleor-app-payment-payzum",
-            "full_name": "payzum-dev/saleor-app-payment-payzum",
-            "description": "Saleor payment app for Payzum \u2014 accept crypto & stablecoin payments (USDC/USDT, multi-chain, non-custodial) via the Transactions API.",
-            "url": "https://github.com/payzum-dev/saleor-app-payment-payzum",
-            "stars": 0,
-            "forks": 0,
-            "score": 30
-        },
-        {
             "main_cat": "Stablecoin Infrastructure",
             "sub_cat": null,
             "name": "paysovra-sdk",
             "full_name": "paysovra/paysovra-sdk",
             "description": "Official PaySovra SDK \u2014 accept crypto and stablecoin payments, non-custodially. Typed client plus timing-safe webhook verification.",
             "url": "https://github.com/paysovra/paysovra-sdk",
+            "stars": 0,
+            "forks": 0,
+            "score": 30
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "saleor-app-payment-payzum",
+            "full_name": "payzum-dev/saleor-app-payment-payzum",
+            "description": "Saleor payment app for Payzum \u2014 accept crypto & stablecoin payments (USDC/USDT, multi-chain, non-custodial) via the Transactions API.",
+            "url": "https://github.com/payzum-dev/saleor-app-payment-payzum",
             "stars": 0,
             "forks": 0,
             "score": 30
@@ -674,20 +663,6 @@ const ALPHA_DATA_V2 = {
     ],
     "news": [
         {
-            "title": "Overcoming the Randomness-Utility Trade-off in Answering Differentially Private Linear Queries",
-            "source": "ArXiv",
-            "type": "Research Alpha",
-            "color": "text-indigo-600",
-            "url": "http://arxiv.org/abs/2609.02880v1"
-        },
-        {
-            "title": "When Does Authorization End? Effect Closure at Provider Boundaries",
-            "source": "ArXiv",
-            "type": "Research Alpha",
-            "color": "text-indigo-600",
-            "url": "http://arxiv.org/abs/2609.02866v1"
-        },
-        {
             "title": "Bitcoin volatility remains high ahead of key FED decision.",
             "source": "Polymarket",
             "type": "Expectation",
@@ -695,5 +670,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-09-03 22:07"
+    "timestamp": "2026-09-04 00:36"
 };
