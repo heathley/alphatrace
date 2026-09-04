@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "Nanako0129/sepia",
             "description": "De-AI writing skill for any Agent Skills-compatible agent (77+ via the Skills CLI), with native plugins for Claude Code, Codex, Grok Build, and Antigravity. Narrative-architecture repair for fiction, venue-matched rules for professional prose. Based on StoryScope (arXiv:2604.03136).",
             "url": "https://github.com/Nanako0129/sepia",
-            "stars": 1869,
-            "forks": 111,
+            "stars": 1915,
+            "forks": 116,
             "score": 99
         },
         {
@@ -18,7 +18,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "duty1g/x64dbg-mcp-server",
             "description": "x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg that exposes the debugger's full functionality over HTTP. Connect any MCP-compatible AI assistant and control x64dbg programmatically: set breakpoints, step through code, read memory, dump registers, and more.  Built with Zig \u2014 zero dependencies, single-binary output, cros",
             "url": "https://github.com/duty1g/x64dbg-mcp-server",
-            "stars": 1859,
+            "stars": 1863,
             "forks": 190,
             "score": 99
         },
@@ -29,7 +29,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "amosblomqvist/learn",
             "description": "My AI learning system.",
             "url": "https://github.com/amosblomqvist/learn",
-            "stars": 1284,
+            "stars": 1293,
             "forks": 135,
             "score": 99
         },
@@ -40,7 +40,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "GangTailorUpgrade/undress-service",
             "description": "Dress AI Sponsor",
             "url": "https://github.com/GangTailorUpgrade/undress-service",
-            "stars": 1016,
+            "stars": 1020,
             "forks": 1,
             "score": 99
         },
@@ -51,8 +51,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "2akouwu/reverify",
             "description": "Anti-hallucination for AI agents that read binaries. The model proposes, deterministic tools decide: every claim is VERIFIED or REFUTED against the real bytes, with evidence, and grounded facts survive context resets. MCP server + CLI.",
             "url": "https://github.com/2akouwu/reverify",
-            "stars": 764,
-            "forks": 159,
+            "stars": 817,
+            "forks": 172,
             "score": 99
         },
         {
@@ -63,7 +63,7 @@ const ALPHA_DATA_V2 = {
             "description": "\u4e00\u4e2a\u8fd0\u884c\u5728 Cloudflare Workers \u4e0a\u517c\u5bb9CFnew \u4e0eedgetunnel\u7684\u4ee3\u7406\u8ba2\u9605\u7ba1\u7406\u9762\u677f\u2014\u2014\u65e2\u80fd\u5728 /UUID \u8def\u5f84\u4e0a\u8f93\u51fa VLESS/Trojan/xhttp \u591a\u534f\u8bae\u8ba2\u9605\uff0c\u53c8\u63d0\u4f9b\u56fe\u5f62\u5316\u914d\u7f6e\u754c\u9762\uff08KV \u5b58\u50a8\u3001\u6539\u5b8c\u5373\u751f\u6548\uff09\uff0c\u5e76\u5185\u7f6e\u5ef6\u8fdf\u6d4b\u8bd5\u3001\u6d41\u5a92\u4f53/AI \u8fde\u901a\u6027\u68c0\u6d4b\u3001\u591a\u5ba2\u6237\u7aef\u8ba2\u9605\u751f\u6210\u3001\u591a\u8bed\u8a00\u7b49\u80fd\u529b\u3002",
             "url": "https://github.com/PAICNI/CFBox",
             "stars": 674,
-            "forks": 414,
+            "forks": 427,
             "score": 99
         },
         {
@@ -80,11 +80,22 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
+            "name": "niubigeo",
+            "full_name": "Albert-Weasker/niubigeo",
+            "description": "Open-source AI brand visibility and competitor reports",
+            "url": "https://github.com/Albert-Weasker/niubigeo",
+            "stars": 239,
+            "forks": 22,
+            "score": 84
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
             "name": "hexstellar",
             "full_name": "brayonpi/hexstellar",
             "description": "Turn any AI agent into a computational researcher. HexStellar Cortex delivers software-accelerated optimization, quantum computing, scientific computing, decision intelligence, and verifiable execution through a Python CLI and API\u2014with certainty labels, verification receipts, examples, and a free sandbox. Start instantly: pip install hexstellar",
             "url": "https://github.com/brayonpi/hexstellar",
-            "stars": 796,
+            "stars": 804,
             "forks": 53,
             "score": 80
         },
@@ -95,8 +106,19 @@ const ALPHA_DATA_V2 = {
             "full_name": "HanyuanWang/LiveStream-Agent-Studio",
             "description": "\u9762\u5411\u6296\u97f3\u76f4\u64ad\u7535\u5546\u7684 Windows \u672c\u5730 AI Agent Studio\uff0c\u8d2f\u901a\u4e3b\u64ad\u53d1\u73b0\u3001\u76f4\u64ad\u6d1e\u5bdf\u3001\u76f4\u64ad\u590d\u76d8\u4e0e\u77ed\u89c6\u9891\u5185\u5bb9\u7f16\u5bfc\u7684\u7edf\u4e00\u667a\u80fd\u5de5\u4f5c\u6d41\u3002",
             "url": "https://github.com/HanyuanWang/LiveStream-Agent-Studio",
-            "stars": 674,
-            "forks": 115,
+            "stars": 690,
+            "forks": 120,
+            "score": 69
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "easy-writing",
+            "full_name": "yilujian/easy-writing",
+            "description": "\u6613\u521b\uff1a\u7eaf\u672c\u5730\u3001\u5f00\u6e90\u7684 AI \u7f51\u6587\u5199\u4f5c\u684c\u9762\u8f6f\u4ef6\uff0c\u652f\u6301\u5c0f\u8bf4\u521b\u4f5c\u3001AI \u8f85\u52a9\u5199\u4f5c\u3001BYOK \u4e0e\u81ea\u5b9a\u4e49\u63d0\u793a\u8bcd\u3002",
+            "url": "https://github.com/yilujian/easy-writing",
+            "stars": 240,
+            "forks": 51,
             "score": 67
         },
         {
@@ -112,17 +134,6 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
-            "sub_cat": null,
-            "name": "easy-writing",
-            "full_name": "yilujian/easy-writing",
-            "description": "\u6613\u521b\uff1a\u7eaf\u672c\u5730\u3001\u5f00\u6e90\u7684 AI \u7f51\u6587\u5199\u4f5c\u684c\u9762\u8f6f\u4ef6\uff0c\u652f\u6301\u5c0f\u8bf4\u521b\u4f5c\u3001AI \u8f85\u52a9\u5199\u4f5c\u3001BYOK \u4e0e\u81ea\u5b9a\u4e49\u63d0\u793a\u8bcd\u3002",
-            "url": "https://github.com/yilujian/easy-writing",
-            "stars": 223,
-            "forks": 49,
-            "score": 64
-        },
-        {
-            "main_cat": "AI",
             "sub_cat": "AI General",
             "name": "useagent",
             "full_name": "useagenthq/useagent",
@@ -131,6 +142,17 @@ const ALPHA_DATA_V2 = {
             "stars": 282,
             "forks": 58,
             "score": 62
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "image-prompt-reverse",
+            "full_name": "LunarXuan/image-prompt-reverse",
+            "description": "High-fidelity AI image prompt reverse-engineering skill for Codex",
+            "url": "https://github.com/LunarXuan/image-prompt-reverse",
+            "stars": 217,
+            "forks": 22,
+            "score": 60
         },
         {
             "main_cat": "AI",
@@ -150,19 +172,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "Ryze-AI-Adgent/open-seo-mcp-skills",
             "description": "Open-source SEO + GEO skills for Claude \u2014 keyword research, rank tracking, site audits, backlinks, competitor gaps, AI visibility. Runs on your real Search Console / GA4 / ads data via MCP, with DataForSEO built in. Free, MIT.",
             "url": "https://github.com/Ryze-AI-Adgent/open-seo-mcp-skills",
-            "stars": 413,
+            "stars": 423,
             "forks": 9,
-            "score": 58
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "image-prompt-reverse",
-            "full_name": "LunarXuan/image-prompt-reverse",
-            "description": "High-fidelity AI image prompt reverse-engineering skill for Codex",
-            "url": "https://github.com/LunarXuan/image-prompt-reverse",
-            "stars": 203,
-            "forks": 20,
             "score": 58
         },
         {
@@ -172,19 +183,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "ZJU-REAL/Easel",
             "description": "An open-source AI agent for social media \u2014 discover trends, create content, publish everywhere, and learn what works across Xiaohongshu, Douyin, Zhihu, Bilibili, and more.\ud83c\udfa8\u4e00\u4e2a\u5f00\u6e90\u7684 AI \u793e\u4ea4\u5a92\u4f53\u667a\u80fd\u4f53\u2014\u2014\u53d1\u73b0\u70ed\u70b9\u8d8b\u52bf\u3001\u521b\u4f5c\u5185\u5bb9\u3001\u4e00\u952e\u53d1\u5e03\u81f3\u5404\u5927\u5e73\u53f0\uff0c\u5e76\u5b66\u4e60\u5206\u6790\u54ea\u4e9b\u5185\u5bb9\u771f\u6b63\u6709\u6548\uff0c\u8986\u76d6\u5c0f\u7ea2\u4e66\u3001\u6296\u97f3\u3001\u77e5\u4e4e\u3001\u54d4\u54e9\u54d4\u54e9\u7b49\u5e73\u53f0\u3002",
             "url": "https://github.com/ZJU-REAL/Easel",
-            "stars": 305,
+            "stars": 318,
             "forks": 41,
-            "score": 56
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "pentest-harness",
-            "full_name": "S1N6H/pentest-harness",
-            "description": "Pentest Harness \u2014 Heaven for Hackers. A self-hosted AI agent harness for authorized pentests, bug bounty, security labs, and CTFs. Bring your own AI model API; sessions stay local.",
-            "url": "https://github.com/S1N6H/pentest-harness",
-            "stars": 332,
-            "forks": 51,
             "score": 54
         },
         {
@@ -194,9 +194,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "bam-bam-2/solo-skills",
             "description": "1\uc778 \uc0ac\uc5c5\uac00 \uc0dd\uc0b0\uc131 \ud0a4\ud2b8 \u2014 \uc9c1\uc6d0 \uc5c6\uc774 49\uac1c\ub97c \uc790\ub3d9\ud654\ud588\uace0, \uadf8\uc911 \ubc14\ub85c \uc4f8 \uc218 \uc788\ub294 AI \uc5d0\uc774\uc804\ud2b8 \uc2a4\ud0ac 26\uac1c(+\uc2e4\ud589 \uc2a4\ud06c\ub9bd\ud2b8)\ub97c \uacf5\uac1c\ud569\ub2c8\ub2e4",
             "url": "https://github.com/bam-bam-2/solo-skills",
-            "stars": 356,
+            "stars": 357,
             "forks": 87,
             "score": 53
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "pentest-harness",
+            "full_name": "S1N6H/pentest-harness",
+            "description": "Pentest Harness \u2014 Heaven for Hackers. A self-hosted AI agent harness for authorized pentests, bug bounty, security labs, and CTFs. Bring your own AI model API; sessions stay local.",
+            "url": "https://github.com/S1N6H/pentest-harness",
+            "stars": 332,
+            "forks": 52,
+            "score": 52
         },
         {
             "main_cat": "AI",
@@ -255,24 +266,24 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
-            "sub_cat": null,
-            "name": "real-company-interview-ai-coding-projects",
-            "full_name": "CHENG-LIANG1/real-company-interview-ai-coding-projects",
-            "description": "\u4e09\u4e2a\u533f\u540d\u5316\u771f\u5b9e AI Coding \u9762\u8bd5\u9879\u76ee\u9898\u4e0e\u4e00\u5957\u901a\u7528\u89e3\u9898\u65b9\u6cd5",
-            "url": "https://github.com/CHENG-LIANG1/real-company-interview-ai-coding-projects",
-            "stars": 305,
-            "forks": 21,
-            "score": 47
-        },
-        {
-            "main_cat": "AI",
             "sub_cat": "AI General",
             "name": "nordef-matrix-open-control",
             "full_name": "MORTEN-BUUR/nordef-matrix-open-control",
             "description": "NORDEF Matrix Open Control: model-independent AI safety belt with 0/1/2 decisions, Ed25519 root gate, replay protection, evidence chain, and incident-pattern eval bank",
             "url": "https://github.com/MORTEN-BUUR/nordef-matrix-open-control",
-            "stars": 364,
+            "stars": 370,
             "forks": 1,
+            "score": 47
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "real-company-interview-ai-coding-projects",
+            "full_name": "CHENG-LIANG1/real-company-interview-ai-coding-projects",
+            "description": "\u4e09\u4e2a\u533f\u540d\u5316\u771f\u5b9e AI Coding \u9762\u8bd5\u9879\u76ee\u9898\u4e0e\u4e00\u5957\u901a\u7528\u89e3\u9898\u65b9\u6cd5",
+            "url": "https://github.com/CHENG-LIANG1/real-company-interview-ai-coding-projects",
+            "stars": 312,
+            "forks": 21,
             "score": 46
         },
         {
@@ -282,19 +293,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "sqzw-x/amane",
             "description": "AI \u65f6\u4ee3\u7684\u79c1\u4eba\u5f71\u5e93",
             "url": "https://github.com/sqzw-x/amane",
-            "stars": 317,
+            "stars": 320,
             "forks": 30,
-            "score": 45
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "wenai",
-            "full_name": "Straniero44/wenai",
-            "description": "An intimate AI companion skill for OpenClaw \u2014 fall in love with your AI girlfriend, with a Pony V6 XL powered visual workflow.",
-            "url": "https://github.com/Straniero44/wenai",
-            "stars": 191,
-            "forks": 46,
             "score": 45
         },
         {
@@ -315,7 +315,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "zhaoxuya520/MeshLAN",
             "description": "Self-hosted P2P-first virtual LAN, service sharing, multi-relay and AI automation built on Nebula.",
             "url": "https://github.com/zhaoxuya520/MeshLAN",
-            "stars": 205,
+            "stars": 208,
             "forks": 25,
             "score": 40
         },
@@ -392,6 +392,17 @@ const ALPHA_DATA_V2 = {
             "full_name": "PorPay/Predictive-FX-volatility-model-for-stablecoin-off-ramp-scheduling",
             "description": "This project addresses a growing but under-scrutinized problem in web3 payments: the hidden cost layers in stablecoin-based cross-border remittances.",
             "url": "https://github.com/PorPay/Predictive-FX-volatility-model-for-stablecoin-off-ramp-scheduling",
+            "stars": 0,
+            "forks": 0,
+            "score": 30
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "Midas",
+            "full_name": "No-Trade-No-Life/Midas",
+            "description": "Blockchain payment infrastructure for USD-denominated EVM stablecoin balances",
+            "url": "https://github.com/No-Trade-No-Life/Midas",
             "stars": 0,
             "forks": 0,
             "score": 30
@@ -663,6 +674,20 @@ const ALPHA_DATA_V2 = {
     ],
     "news": [
         {
+            "title": "SENTINEL-RL: Offloading Topological Reasoning from LLM Agents in the Security Operations Center",
+            "source": "ArXiv",
+            "type": "Research Alpha",
+            "color": "text-indigo-600",
+            "url": "http://arxiv.org/abs/2609.04159v1"
+        },
+        {
+            "title": "A Non-Formulable Theorem: A Fundamental Limit of Finite Syntactic Systems and Its Consequences for Security and AI",
+            "source": "ArXiv",
+            "type": "Research Alpha",
+            "color": "text-indigo-600",
+            "url": "http://arxiv.org/abs/2609.04086v1"
+        },
+        {
             "title": "Bitcoin volatility remains high ahead of key FED decision.",
             "source": "Polymarket",
             "type": "Expectation",
@@ -670,5 +695,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-09-04 00:36"
+    "timestamp": "2026-09-04 05:19"
 };
