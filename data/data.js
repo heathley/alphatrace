@@ -7,7 +7,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Nanako0129/sepia",
             "description": "De-AI writing skill for any Agent Skills-compatible agent (77+ via the Skills CLI), with native plugins for Claude Code, Codex, Grok Build, and Antigravity. Narrative-architecture repair for fiction, venue-matched rules for professional prose. Based on StoryScope (arXiv:2604.03136).",
             "url": "https://github.com/Nanako0129/sepia",
-            "stars": 2247,
+            "stars": 2250,
             "forks": 136,
             "score": 99
         },
@@ -18,7 +18,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "2akouwu/reverify",
             "description": "Stop your AI from making things up \u2014 it proposes, deterministic tools decide, every claim checked against ground truth with evidence. Grounded facts and context survive resets. Reverse engineering is the proving ground. MCP server + CLI.",
             "url": "https://github.com/2akouwu/reverify",
-            "stars": 920,
+            "stars": 922,
             "forks": 199,
             "score": 99
         },
@@ -40,7 +40,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "GangTailorUpgrade/undress-service",
             "description": "Dress AI Sponsor",
             "url": "https://github.com/GangTailorUpgrade/undress-service",
-            "stars": 1084,
+            "stars": 1088,
             "forks": 1,
             "score": 98
         },
@@ -51,9 +51,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "amosblomqvist/learn",
             "description": "My AI learning system.",
             "url": "https://github.com/amosblomqvist/learn",
-            "stars": 1416,
+            "stars": 1425,
             "forks": 147,
-            "score": 96
+            "score": 97
         },
         {
             "main_cat": "AI",
@@ -84,9 +84,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "brayonpi/hexstellar",
             "description": "Turn any AI agent into a computational researcher. HexStellar Cortex delivers software-accelerated optimization, quantum computing, scientific computing, decision intelligence, and verifiable execution through a Python CLI and API\u2014with certainty labels, verification receipts, examples, and a free sandbox. Start instantly: pip install hexstellar",
             "url": "https://github.com/brayonpi/hexstellar",
-            "stars": 919,
+            "stars": 920,
             "forks": 54,
-            "score": 81
+            "score": 77
         },
         {
             "main_cat": "AI",
@@ -117,7 +117,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Ryze-AI-Adgent/open-seo-mcp-skills",
             "description": "Open-source SEO + GEO skills for Claude \u2014 keyword research, rank tracking, site audits, backlinks, competitor gaps, AI visibility. Runs on your real Search Console / GA4 / ads data via MCP, with DataForSEO built in. Free, MIT.",
             "url": "https://github.com/Ryze-AI-Adgent/open-seo-mcp-skills",
-            "stars": 504,
+            "stars": 505,
             "forks": 10,
             "score": 60
         },
@@ -134,17 +134,6 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "useagent",
-            "full_name": "useagenthq/useagent",
-            "description": "The open-source AI coworker for your team: agents with their own cloud computer, your tools and context, handing back finished work websites, decks, spreadsheets, reports, PRs. Runs Claude Code, Codex, OpenCode on your subscription.",
-            "url": "https://github.com/useagenthq/useagent",
-            "stars": 283,
-            "forks": 58,
-            "score": 58
-        },
-        {
-            "main_cat": "AI",
             "sub_cat": null,
             "name": "awesome-grokbot",
             "full_name": "kydlikebtc/awesome-grokbot",
@@ -153,6 +142,17 @@ const ALPHA_DATA_V2 = {
             "stars": 324,
             "forks": 16,
             "score": 57
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "useagent",
+            "full_name": "useagenthq/useagent",
+            "description": "The open-source AI coworker for your team: agents with their own cloud computer, your tools and context, handing back finished work websites, decks, spreadsheets, reports, PRs. Runs Claude Code, Codex, OpenCode on your subscription.",
+            "url": "https://github.com/useagenthq/useagent",
+            "stars": 283,
+            "forks": 58,
+            "score": 55
         },
         {
             "main_cat": "AI",
@@ -183,7 +183,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "S1N6H/pentest-harness",
             "description": "Pentest Harness \u2014 Heaven for Hackers. A self-hosted AI agent harness for authorized pentests, bug bounty, security labs, and CTFs. Bring your own AI model API; sessions stay local.",
             "url": "https://github.com/S1N6H/pentest-harness",
-            "stars": 335,
+            "stars": 336,
             "forks": 53,
             "score": 51
         },
@@ -271,7 +271,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "KevinLiss/ApeAdmin",
             "description": "Apeadmin \u9762\u5411\u73b0\u4ee3AI\u5e94\u7528\u6253\u9020\u7684\u4e2d\u540e\u53f0\u7ba1\u7406\u6846\u67b6\uff0c\u57fa\u4e8e FastAPI+Vue3 \u8bbe\u8ba1100%\u5f00\u6e90\uff0c\u5185\u7f6e RBAC \u6743\u9650\u7ba1\u63a7\u3001\u5ba1\u8ba1\u65e5\u5fd7\u7b49\u4f01\u4e1a\u7ea7\u57fa\u7840\u80fd\u529b\u3002\u6846\u67b6\u96c6\u6210 MCP\u2011SSE \u7f51\u5173\uff0c\u5177\u5907\u5f3a\u5927\u63d2\u4ef6\u751f\u6001\u5b8c\u6574\uff0c\u5e2e\u52a9\u5f00\u53d1\u8005\u5feb\u901f\u642d\u5efa\u517c\u5177\u4e1a\u52a1\u7ba1\u7406\u4e0e AI \u5de5\u5177\u8f93\u51fa\u80fd\u529b\u7684\u5e94\u7528\u3002",
             "url": "https://github.com/KevinLiss/ApeAdmin",
-            "stars": 332,
+            "stars": 344,
             "forks": 3,
             "score": 42
         },
@@ -284,7 +284,7 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/truespar/sentio",
             "stars": 236,
             "forks": 17,
-            "score": 40
+            "score": 39
         },
         {
             "main_cat": "AI",
@@ -326,9 +326,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "truespar/paddock",
             "description": "Native Rust inference server for open models on NVIDIA GPUs. OpenAI- and Anthropic-compatible APIs, GGUF + safetensors, FP8/NVFP4/MXFP4/Q8/Q4, built-in Studio",
             "url": "https://github.com/truespar/paddock",
-            "stars": 39,
+            "stars": 40,
             "forks": 5,
-            "score": 35
+            "score": 36
         },
         {
             "main_cat": "AI",
@@ -349,17 +349,6 @@ const ALPHA_DATA_V2 = {
             "description": "Practical engineering knowledge for building and operating production AI systems \u2014 LLMs, RAG, agents, inference, evaluation, system design, and AI infrastructure.",
             "url": "https://github.com/Laleeth/The-AI-Engineer-s-Playbook",
             "stars": 11,
-            "forks": 0,
-            "score": 30
-        },
-        {
-            "main_cat": "zk / Privacy / zkML",
-            "sub_cat": null,
-            "name": "zero-zephyr",
-            "full_name": "achanam/zero-zephyr",
-            "description": "Zero knowledge file and text sharing that self destructs. A personal cryptography learning project.",
-            "url": "https://github.com/achanam/zero-zephyr",
-            "stars": 7,
             "forks": 0,
             "score": 30
         },
@@ -695,5 +684,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-09-05 20:53"
+    "timestamp": "2026-09-05 22:33"
 };
