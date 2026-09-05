@@ -7,19 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "Nanako0129/sepia",
             "description": "De-AI writing skill for any Agent Skills-compatible agent (77+ via the Skills CLI), with native plugins for Claude Code, Codex, Grok Build, and Antigravity. Narrative-architecture repair for fiction, venue-matched rules for professional prose. Based on StoryScope (arXiv:2604.03136).",
             "url": "https://github.com/Nanako0129/sepia",
-            "stars": 2237,
+            "stars": 2242,
             "forks": 136,
-            "score": 99
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "learn",
-            "full_name": "amosblomqvist/learn",
-            "description": "My AI learning system.",
-            "url": "https://github.com/amosblomqvist/learn",
-            "stars": 1393,
-            "forks": 147,
             "score": 99
         },
         {
@@ -41,7 +30,7 @@ const ALPHA_DATA_V2 = {
             "description": "\u4e00\u4e2a\u8fd0\u884c\u5728 Cloudflare Workers \u4e0a\u517c\u5bb9CFnew \u4e0eedgetunnel\u7684\u4ee3\u7406\u8ba2\u9605\u7ba1\u7406\u9762\u677f\u2014\u2014\u65e2\u80fd\u5728 /UUID \u8def\u5f84\u4e0a\u8f93\u51fa VLESS/Trojan/xhttp \u591a\u534f\u8bae\u8ba2\u9605\uff0c\u53c8\u63d0\u4f9b\u56fe\u5f62\u5316\u914d\u7f6e\u754c\u9762\uff08KV \u5b58\u50a8\u3001\u6539\u5b8c\u5373\u751f\u6548\uff09\uff0c\u5e76\u5185\u7f6e\u5ef6\u8fdf\u6d4b\u8bd5\u3001\u6d41\u5a92\u4f53/AI \u8fde\u901a\u6027\u68c0\u6d4b\u3001\u591a\u5ba2\u6237\u7aef\u8ba2\u9605\u751f\u6210\u3001\u591a\u8bed\u8a00\u7b49\u80fd\u529b\u3002",
             "url": "https://github.com/PAICNI/CFBox",
             "stars": 682,
-            "forks": 475,
+            "forks": 478,
             "score": 99
         },
         {
@@ -51,9 +40,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "GangTailorUpgrade/undress-service",
             "description": "Dress AI Sponsor",
             "url": "https://github.com/GangTailorUpgrade/undress-service",
-            "stars": 1079,
+            "stars": 1081,
             "forks": 1,
             "score": 97
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "learn",
+            "full_name": "amosblomqvist/learn",
+            "description": "My AI learning system.",
+            "url": "https://github.com/amosblomqvist/learn",
+            "stars": 1401,
+            "forks": 147,
+            "score": 96
         },
         {
             "main_cat": "AI",
@@ -64,7 +64,7 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/hkqr/my-free-code",
             "stars": 626,
             "forks": 211,
-            "score": 96
+            "score": 91
         },
         {
             "main_cat": "AI",
@@ -73,7 +73,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Albert-Weasker/niubigeo",
             "description": "Open-source AI brand visibility and competitor reports",
             "url": "https://github.com/Albert-Weasker/niubigeo",
-            "stars": 451,
+            "stars": 456,
             "forks": 33,
             "score": 88
         },
@@ -84,7 +84,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "brayonpi/hexstellar",
             "description": "Turn any AI agent into a computational researcher. HexStellar Cortex delivers software-accelerated optimization, quantum computing, scientific computing, decision intelligence, and verifiable execution through a Python CLI and API\u2014with certainty labels, verification receipts, examples, and a free sandbox. Start instantly: pip install hexstellar",
             "url": "https://github.com/brayonpi/hexstellar",
-            "stars": 907,
+            "stars": 913,
             "forks": 54,
             "score": 81
         },
@@ -95,20 +95,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "yilujian/easy-writing",
             "description": "\u6613\u521b\uff1a\u7eaf\u672c\u5730\u3001\u5f00\u6e90\u7684 AI \u7f51\u6587\u5199\u4f5c\u684c\u9762\u8f6f\u4ef6\uff0c\u652f\u6301\u5c0f\u8bf4\u521b\u4f5c\u3001AI \u8f85\u52a9\u5199\u4f5c\u3001BYOK \u4e0e\u81ea\u5b9a\u4e49\u63d0\u793a\u8bcd\u3002",
             "url": "https://github.com/yilujian/easy-writing",
-            "stars": 309,
+            "stars": 321,
             "forks": 62,
-            "score": 64
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "image-prompt-reverse",
-            "full_name": "LunarXuan/image-prompt-reverse",
-            "description": "High-fidelity AI image prompt reverse-engineering skill for Codex",
-            "url": "https://github.com/LunarXuan/image-prompt-reverse",
-            "stars": 293,
-            "forks": 30,
-            "score": 64
+            "score": 65
         },
         {
             "main_cat": "AI",
@@ -117,7 +106,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "leopard627/fire-your-seo-agency",
             "description": "Fire your SEO\u00b7GEO agency \ud83d\udd25 A Claude Code skill that audits and optimizes SEO\u00b7AEO\u00b7GEO\u00b7LLMO\u00b7NEO(Naver) by itself \u2014 \uc6d4 50~350\ub9cc \uc6d0\uc9dc\ub9ac 'AI \uac80\uc0c9 \ucd5c\uc801\ud654' \ub300\ud589, AI \uc5d0\uc774\uc804\ud2b8\uac00 \ub300\uccb4\ud569\ub2c8\ub2e4",
             "url": "https://github.com/leopard627/fire-your-seo-agency",
-            "stars": 394,
+            "stars": 395,
             "forks": 103,
             "score": 63
         },
@@ -128,8 +117,19 @@ const ALPHA_DATA_V2 = {
             "full_name": "Ryze-AI-Adgent/open-seo-mcp-skills",
             "description": "Open-source SEO + GEO skills for Claude \u2014 keyword research, rank tracking, site audits, backlinks, competitor gaps, AI visibility. Runs on your real Search Console / GA4 / ads data via MCP, with DataForSEO built in. Free, MIT.",
             "url": "https://github.com/Ryze-AI-Adgent/open-seo-mcp-skills",
-            "stars": 494,
+            "stars": 502,
             "forks": 10,
+            "score": 60
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "image-prompt-reverse",
+            "full_name": "LunarXuan/image-prompt-reverse",
+            "description": "High-fidelity AI image prompt reverse-engineering skill for Codex",
+            "url": "https://github.com/LunarXuan/image-prompt-reverse",
+            "stars": 294,
+            "forks": 30,
             "score": 59
         },
         {
@@ -150,7 +150,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "kydlikebtc/awesome-grokbot",
             "description": "532 live x.ai/bot shares for Grok Bot \u2014 every link status-checked, every row attributed. Bilingual EN/\u4e2d\u6587 catalog with a JSON schema, CI, and a searchable site.",
             "url": "https://github.com/kydlikebtc/awesome-grokbot",
-            "stars": 315,
+            "stars": 324,
             "forks": 16,
             "score": 57
         },
@@ -161,8 +161,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "gozen3ji/consulting-pptx-skill",
             "description": "AI\u306b\u307e\u3058\u306aPPTX\u3092\u4f5c\u3089\u305b\u308bClaude Code\u30b9\u30ad\u30eb \u2014 \u30b9\u30e9\u30a4\u30c9\u898f\u7d04\uff0b62\u578b\u30b9\u30e9\u30a4\u30c9\u578b\u30ab\u30bf\u30ed\u30b0\uff08SlideSpec 36\u578b\uff0b\u81ea\u7531\u8a18\u8ff027\u30d1\u30fc\u30c4\uff09\uff0b\u751f\u6210\u30d1\u30a4\u30d7\u30e9\u30a4\u30f3\uff0b\u6a5f\u68b0\u30c1\u30a7\u30c3\u30af",
             "url": "https://github.com/gozen3ji/consulting-pptx-skill",
-            "stars": 236,
-            "forks": 17,
+            "stars": 237,
+            "forks": 18,
             "score": 55
         },
         {
@@ -172,7 +172,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "ZJU-REAL/Easel",
             "description": "An open-source AI agent for social media \u2014 discover trends, create content, publish everywhere, and learn what works across Xiaohongshu, Douyin, Zhihu, Bilibili, and more.\ud83c\udfa8\u4e00\u4e2a\u5f00\u6e90\u7684 AI \u793e\u4ea4\u5a92\u4f53\u667a\u80fd\u4f53\u2014\u2014\u53d1\u73b0\u70ed\u70b9\u8d8b\u52bf\u3001\u521b\u4f5c\u5185\u5bb9\u3001\u4e00\u952e\u53d1\u5e03\u81f3\u5404\u5927\u5e73\u53f0\uff0c\u5e76\u5b66\u4e60\u5206\u6790\u54ea\u4e9b\u5185\u5bb9\u771f\u6b63\u6709\u6548\uff0c\u8986\u76d6\u5c0f\u7ea2\u4e66\u3001\u6296\u97f3\u3001\u77e5\u4e4e\u3001\u54d4\u54e9\u54d4\u54e9\u7b49\u5e73\u53f0\u3002",
             "url": "https://github.com/ZJU-REAL/Easel",
-            "stars": 357,
+            "stars": 359,
             "forks": 44,
             "score": 54
         },
@@ -189,23 +189,12 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
-            "sub_cat": null,
-            "name": "awesome-ai-agent-platforms",
-            "full_name": "Agenta-AI/awesome-ai-agent-platforms",
-            "description": "A curated list of open-source AI agent platforms: AI coworkers and teammates, agent builders and frameworks, workflow automation platforms, browser agents, and coding agents, with licenses.",
-            "url": "https://github.com/Agenta-AI/awesome-ai-agent-platforms",
-            "stars": 197,
-            "forks": 4,
-            "score": 51
-        },
-        {
-            "main_cat": "AI",
             "sub_cat": "AI General",
             "name": "nordef-matrix-open-control",
             "full_name": "MORTEN-BUUR/nordef-matrix-open-control",
             "description": "NORDEF Matrix Open Control: model-independent AI safety belt with 0/1/2 decisions, Ed25519 root gate, replay protection, evidence chain, and incident-pattern eval bank",
             "url": "https://github.com/MORTEN-BUUR/nordef-matrix-open-control",
-            "stars": 443,
+            "stars": 447,
             "forks": 2,
             "score": 48
         },
@@ -234,6 +223,17 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
+            "name": "awesome-ai-agent-platforms",
+            "full_name": "Agenta-AI/awesome-ai-agent-platforms",
+            "description": "A curated list of open-source AI agent platforms: AI coworkers and teammates, agent builders and frameworks, workflow automation platforms, browser agents, and coding agents, with licenses.",
+            "url": "https://github.com/Agenta-AI/awesome-ai-agent-platforms",
+            "stars": 203,
+            "forks": 4,
+            "score": 48
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
             "name": "real-company-interview-ai-coding-projects",
             "full_name": "CHENG-LIANG1/real-company-interview-ai-coding-projects",
             "description": "\u4e09\u4e2a\u533f\u540d\u5316\u771f\u5b9e AI Coding \u9762\u8bd5\u9879\u76ee\u9898\u4e0e\u4e00\u5957\u901a\u7528\u89e3\u9898\u65b9\u6cd5",
@@ -249,7 +249,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "sqzw-x/amane",
             "description": "AI \u65f6\u4ee3\u7684\u79c1\u4eba\u5f71\u5e93",
             "url": "https://github.com/sqzw-x/amane",
-            "stars": 344,
+            "stars": 347,
             "forks": 33,
             "score": 44
         },
@@ -271,7 +271,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "KevinLiss/ApeAdmin",
             "description": "Apeadmin \u9762\u5411\u73b0\u4ee3AI\u5e94\u7528\u6253\u9020\u7684\u4e2d\u540e\u53f0\u7ba1\u7406\u6846\u67b6\uff0c\u57fa\u4e8e FastAPI+Vue3 \u8bbe\u8ba1100%\u5f00\u6e90\uff0c\u5185\u7f6e RBAC \u6743\u9650\u7ba1\u63a7\u3001\u5ba1\u8ba1\u65e5\u5fd7\u7b49\u4f01\u4e1a\u7ea7\u57fa\u7840\u80fd\u529b\u3002\u6846\u67b6\u96c6\u6210 MCP\u2011SSE \u7f51\u5173\uff0c\u5177\u5907\u5f3a\u5927\u63d2\u4ef6\u751f\u6001\u5b8c\u6574\uff0c\u5e2e\u52a9\u5f00\u53d1\u8005\u5feb\u901f\u642d\u5efa\u517c\u5177\u4e1a\u52a1\u7ba1\u7406\u4e0e AI \u5de5\u5177\u8f93\u51fa\u80fd\u529b\u7684\u5e94\u7528\u3002",
             "url": "https://github.com/KevinLiss/ApeAdmin",
-            "stars": 297,
+            "stars": 317,
             "forks": 3,
             "score": 41
         },
@@ -293,7 +293,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "shtjww/llm-inference-capacity-handbook",
             "description": "\u5927\u6a21\u578b\u63a8\u7406\u6848\u5934\u624b\u518c\uff08\u5f00\u6e90\u7248\uff09\uff1a\u7ed9\u5b9a GPU \u7b97\u529b\uff0c\u4e00\u4e2a\u6a21\u578b\u80fd\u625b\u591a\u5c11 QPS\uff1f\u4e09\u5c42\u6a21\u578b \u00d7 \u4e09\u9762\u5899 \u00d7 \u6392\u961f\u8bba \u00d7 \u5f00\u73af\u538b\u6d4b",
             "url": "https://github.com/shtjww/llm-inference-capacity-handbook",
-            "stars": 86,
+            "stars": 88,
             "forks": 0,
             "score": 37
         },
@@ -304,7 +304,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "MaxHu-xuan/chat-archive-guard",
             "description": "Audit AI chat exports locally before sharing or migration. Find possible secrets, personal-data patterns, broken JSON/JSONL, SQLite issues, and scan gaps\u2014without uploading the archive.",
             "url": "https://github.com/MaxHu-xuan/chat-archive-guard",
-            "stars": 197,
+            "stars": 199,
             "forks": 3,
             "score": 36
         },
@@ -337,7 +337,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "irenascent/Web3Xeno",
             "description": "Web3Xeno facilitates cross-chain data synchronization, real-time execution, and optimized smart contract deployment on a decentralized layer protocol.",
             "url": "https://github.com/irenascent/Web3Xeno",
-            "stars": 129,
+            "stars": 131,
             "forks": 0,
             "score": 36
         },
@@ -564,6 +564,17 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
+            "name": "DeFiBridgeDiamond",
+            "full_name": "emilybarru/DeFiBridgeDiamond",
+            "description": "DeFiBridgeDiamond is a decentralized, multi-asset bridge protocol facilitating efficient cross-chain transactions. focused on Transparent and practical use",
+            "url": "https://github.com/emilybarru/DeFiBridgeDiamond",
+            "stars": 3,
+            "forks": 0,
+            "score": 30
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
             "name": "PocketStrike",
             "full_name": "AbuZar-Ansarii/PocketStrike",
             "description": " PocketStrike is a privacy-first mobile AI workstation. It combines zero-cloud native on-device GGUF inference (ARM NEON accelerated)   \u2502 with frontier cloud LLMs, multi-step ReAct agent tools, Model Context Protocol (MCP) servers, self-evolving cross-session memory, and FLUX neural image   \u2502 generation.",
@@ -586,10 +597,10 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
-            "name": "DeFiBridgeDiamond",
-            "full_name": "emilybarru/DeFiBridgeDiamond",
-            "description": "DeFiBridgeDiamond is a decentralized, multi-asset bridge protocol facilitating efficient cross-chain transactions. focused on Transparent and practical use",
-            "url": "https://github.com/emilybarru/DeFiBridgeDiamond",
+            "name": "CryptoSwapMax",
+            "full_name": "harutosati/CryptoSwapMax",
+            "description": "CryptoSwapMax: A cross-chain, blockchain-agnostic Smart Crypto Exchange Engine Protocol. for everyday CryptoSwapMax tasks kept simple: just decentralized exchange",
+            "url": "https://github.com/harutosati/CryptoSwapMax",
             "stars": 1,
             "forks": 0,
             "score": 30
@@ -684,5 +695,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-09-05 16:27"
+    "timestamp": "2026-09-05 18:43"
 };
