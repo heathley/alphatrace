@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "Nanako0129/sepia",
             "description": "De-AI writing skill for any Agent Skills-compatible agent (77+ via the Skills CLI), with native plugins for Claude Code, Codex, Grok Build, and Antigravity. Narrative-architecture repair for fiction, venue-matched rules for professional prose. Based on StoryScope (arXiv:2604.03136).",
             "url": "https://github.com/Nanako0129/sepia",
-            "stars": 2251,
-            "forks": 136,
+            "stars": 2275,
+            "forks": 138,
             "score": 99
         },
         {
@@ -18,8 +18,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "2akouwu/reverify",
             "description": "Stop your AI from making things up \u2014 it proposes, deterministic tools decide, every claim checked against ground truth with evidence. Grounded facts and context survive resets. Reverse engineering is the proving ground. MCP server + CLI.",
             "url": "https://github.com/2akouwu/reverify",
-            "stars": 923,
-            "forks": 199,
+            "stars": 925,
+            "forks": 200,
             "score": 99
         },
         {
@@ -29,8 +29,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "PAICNI/CFBox",
             "description": "\u4e00\u4e2a\u8fd0\u884c\u5728 Cloudflare Workers \u4e0a\u517c\u5bb9CFnew \u4e0eedgetunnel\u7684\u4ee3\u7406\u8ba2\u9605\u7ba1\u7406\u9762\u677f\u2014\u2014\u65e2\u80fd\u5728 /UUID \u8def\u5f84\u4e0a\u8f93\u51fa VLESS/Trojan/xhttp \u591a\u534f\u8bae\u8ba2\u9605\uff0c\u53c8\u63d0\u4f9b\u56fe\u5f62\u5316\u914d\u7f6e\u754c\u9762\uff08KV \u5b58\u50a8\u3001\u6539\u5b8c\u5373\u751f\u6548\uff09\uff0c\u5e76\u5185\u7f6e\u5ef6\u8fdf\u6d4b\u8bd5\u3001\u6d41\u5a92\u4f53/AI \u8fde\u901a\u6027\u68c0\u6d4b\u3001\u591a\u5ba2\u6237\u7aef\u8ba2\u9605\u751f\u6210\u3001\u591a\u8bed\u8a00\u7b49\u80fd\u529b\u3002",
             "url": "https://github.com/PAICNI/CFBox",
-            "stars": 682,
-            "forks": 482,
+            "stars": 681,
+            "forks": 484,
             "score": 99
         },
         {
@@ -40,9 +40,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "amosblomqvist/learn",
             "description": "My AI learning system.",
             "url": "https://github.com/amosblomqvist/learn",
-            "stars": 1428,
+            "stars": 1435,
             "forks": 147,
             "score": 97
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "undress-service",
+            "full_name": "GangTailorUpgrade/undress-service",
+            "description": "Dress AI Sponsor",
+            "url": "https://github.com/GangTailorUpgrade/undress-service",
+            "stars": 1104,
+            "forks": 1,
+            "score": 91
         },
         {
             "main_cat": "AI",
@@ -58,24 +69,13 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "undress-service",
-            "full_name": "GangTailorUpgrade/undress-service",
-            "description": "Dress AI Sponsor",
-            "url": "https://github.com/GangTailorUpgrade/undress-service",
-            "stars": 1089,
-            "forks": 1,
-            "score": 90
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
             "name": "niubigeo",
             "full_name": "Albert-Weasker/niubigeo",
             "description": "Open-source AI brand visibility and competitor reports",
             "url": "https://github.com/Albert-Weasker/niubigeo",
-            "stars": 458,
+            "stars": 466,
             "forks": 34,
-            "score": 89
+            "score": 90
         },
         {
             "main_cat": "AI",
@@ -84,7 +84,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "brayonpi/hexstellar",
             "description": "Turn any AI agent into a computational researcher. HexStellar Cortex delivers software-accelerated optimization, quantum computing, scientific computing, decision intelligence, and verifiable execution through a Python CLI and API\u2014with certainty labels, verification receipts, examples, and a free sandbox. Start instantly: pip install hexstellar",
             "url": "https://github.com/brayonpi/hexstellar",
-            "stars": 920,
+            "stars": 922,
             "forks": 54,
             "score": 77
         },
@@ -95,9 +95,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "yilujian/easy-writing",
             "description": "\u6613\u521b\uff1a\u7eaf\u672c\u5730\u3001\u5f00\u6e90\u7684 AI \u7f51\u6587\u5199\u4f5c\u684c\u9762\u8f6f\u4ef6\uff0c\u652f\u6301\u5c0f\u8bf4\u521b\u4f5c\u3001AI \u8f85\u52a9\u5199\u4f5c\u3001BYOK \u4e0e\u81ea\u5b9a\u4e49\u63d0\u793a\u8bcd\u3002",
             "url": "https://github.com/yilujian/easy-writing",
-            "stars": 330,
-            "forks": 62,
-            "score": 66
+            "stars": 344,
+            "forks": 64,
+            "score": 67
         },
         {
             "main_cat": "AI",
@@ -106,7 +106,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "leopard627/fire-your-seo-agency",
             "description": "Fire your SEO\u00b7GEO agency \ud83d\udd25 A Claude Code skill that audits and optimizes SEO\u00b7AEO\u00b7GEO\u00b7LLMO\u00b7NEO(Naver) by itself \u2014 \uc6d4 50~350\ub9cc \uc6d0\uc9dc\ub9ac 'AI \uac80\uc0c9 \ucd5c\uc801\ud654' \ub300\ud589, AI \uc5d0\uc774\uc804\ud2b8\uac00 \ub300\uccb4\ud569\ub2c8\ub2e4",
             "url": "https://github.com/leopard627/fire-your-seo-agency",
-            "stars": 395,
+            "stars": 396,
             "forks": 103,
             "score": 61
         },
@@ -117,7 +117,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "LunarXuan/image-prompt-reverse",
             "description": "High-fidelity AI image prompt reverse-engineering skill for Codex",
             "url": "https://github.com/LunarXuan/image-prompt-reverse",
-            "stars": 294,
+            "stars": 297,
             "forks": 30,
             "score": 59
         },
@@ -128,8 +128,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "jarrenrocks/bot-crossing",
             "description": "A video game for AI agents.",
             "url": "https://github.com/jarrenrocks/bot-crossing",
-            "stars": 167,
-            "forks": 57,
+            "stars": 168,
+            "forks": 58,
             "score": 58
         },
         {
@@ -139,20 +139,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "Ryze-AI-Adgent/open-seo-mcp-skills",
             "description": "Open-source SEO + GEO skills for Claude \u2014 keyword research, rank tracking, site audits, backlinks, competitor gaps, AI visibility. Runs on your real Search Console / GA4 / ads data via MCP, with DataForSEO built in. Free, MIT.",
             "url": "https://github.com/Ryze-AI-Adgent/open-seo-mcp-skills",
-            "stars": 506,
+            "stars": 513,
             "forks": 10,
             "score": 57
         },
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "awesome-grokbot",
-            "full_name": "kydlikebtc/awesome-grokbot",
-            "description": "532 live x.ai/bot shares for Grok Bot \u2014 every link status-checked, every row attributed. Bilingual EN/\u4e2d\u6587 catalog with a JSON schema, CI, and a searchable site.",
-            "url": "https://github.com/kydlikebtc/awesome-grokbot",
-            "stars": 325,
-            "forks": 16,
-            "score": 57
+            "name": "consulting-pptx-skill",
+            "full_name": "gozen3ji/consulting-pptx-skill",
+            "description": "AI\u306b\u307e\u3058\u306aPPTX\u3092\u4f5c\u3089\u305b\u308bClaude Code\u30b9\u30ad\u30eb \u2014 \u30b9\u30e9\u30a4\u30c9\u898f\u7d04\uff0b62\u578b\u30b9\u30e9\u30a4\u30c9\u578b\u30ab\u30bf\u30ed\u30b0\uff08SlideSpec 36\u578b\uff0b\u81ea\u7531\u8a18\u8ff027\u30d1\u30fc\u30c4\uff09\uff0b\u751f\u6210\u30d1\u30a4\u30d7\u30e9\u30a4\u30f3\uff0b\u6a5f\u68b0\u30c1\u30a7\u30c3\u30af",
+            "url": "https://github.com/gozen3ji/consulting-pptx-skill",
+            "stars": 239,
+            "forks": 19,
+            "score": 56
         },
         {
             "main_cat": "AI",
@@ -168,13 +168,13 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "consulting-pptx-skill",
-            "full_name": "gozen3ji/consulting-pptx-skill",
-            "description": "AI\u306b\u307e\u3058\u306aPPTX\u3092\u4f5c\u3089\u305b\u308bClaude Code\u30b9\u30ad\u30eb \u2014 \u30b9\u30e9\u30a4\u30c9\u898f\u7d04\uff0b62\u578b\u30b9\u30e9\u30a4\u30c9\u578b\u30ab\u30bf\u30ed\u30b0\uff08SlideSpec 36\u578b\uff0b\u81ea\u7531\u8a18\u8ff027\u30d1\u30fc\u30c4\uff09\uff0b\u751f\u6210\u30d1\u30a4\u30d7\u30e9\u30a4\u30f3\uff0b\u6a5f\u68b0\u30c1\u30a7\u30c3\u30af",
-            "url": "https://github.com/gozen3ji/consulting-pptx-skill",
-            "stars": 239,
-            "forks": 18,
-            "score": 55
+            "name": "awesome-grokbot",
+            "full_name": "kydlikebtc/awesome-grokbot",
+            "description": "532 live x.ai/bot shares for Grok Bot \u2014 every link status-checked, every row attributed. Bilingual EN/\u4e2d\u6587 catalog with a JSON schema, CI, and a searchable site.",
+            "url": "https://github.com/kydlikebtc/awesome-grokbot",
+            "stars": 325,
+            "forks": 16,
+            "score": 54
         },
         {
             "main_cat": "AI",
@@ -185,7 +185,7 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/ZJU-REAL/Easel",
             "stars": 359,
             "forks": 44,
-            "score": 54
+            "score": 52
         },
         {
             "main_cat": "AI",
@@ -196,7 +196,18 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/S1N6H/pentest-harness",
             "stars": 336,
             "forks": 53,
-            "score": 51
+            "score": 49
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "boardui",
+            "full_name": "BoardUI/boardui",
+            "description": "React design system for agentic interfaces. Every free BoardUI component as source, with a working AI chat app on your own model key as the homepage.",
+            "url": "https://github.com/BoardUI/boardui",
+            "stars": 150,
+            "forks": 30,
+            "score": 49
         },
         {
             "main_cat": "AI",
@@ -205,7 +216,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "LYiHub/Card-master-browser-extension-public",
             "description": "\u4e00\u4e2a\u5361\u724c\u6e38\u620f\u6d4f\u89c8\u5668\u6269\u5c55\uff0c\u53ef\u4ee5\u628a\u5404\u79cd\u6d4f\u89c8\u5668\u811a\u672c\u3001\u6269\u5c55\u505a\u6210\u53ef\u6e38\u73a9\u7684\u5361\u724c\uff0c\u8fd8\u53ef\u4ee5\u7528AI\u81ea\u52a8\u751f\u6210\u5168\u65b0\u5361\u724c\u63d2\u4ef6",
             "url": "https://github.com/LYiHub/Card-master-browser-extension-public",
-            "stars": 350,
+            "stars": 354,
             "forks": 33,
             "score": 48
         },
@@ -216,19 +227,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "Agenta-AI/awesome-ai-agent-platforms",
             "description": "A curated list of open-source AI agent platforms: AI coworkers and teammates, agent builders and frameworks, workflow automation platforms, browser agents, and coding agents, with licenses.",
             "url": "https://github.com/Agenta-AI/awesome-ai-agent-platforms",
-            "stars": 205,
+            "stars": 207,
             "forks": 4,
-            "score": 48
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "boardui",
-            "full_name": "BoardUI/boardui",
-            "description": "React design system for agentic interfaces. Every free BoardUI component as source, with a working AI chat app on your own model key as the homepage.",
-            "url": "https://github.com/BoardUI/boardui",
-            "stars": 147,
-            "forks": 29,
             "score": 48
         },
         {
@@ -238,9 +238,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "MORTEN-BUUR/nordef-matrix-open-control",
             "description": "NORDEF Matrix Open Control: model-independent AI safety belt with 0/1/2 decisions, Ed25519 root gate, replay protection, evidence chain, and incident-pattern eval bank",
             "url": "https://github.com/MORTEN-BUUR/nordef-matrix-open-control",
-            "stars": 448,
+            "stars": 452,
             "forks": 2,
             "score": 47
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "ApeAdmin",
+            "full_name": "KevinLiss/ApeAdmin",
+            "description": "Apeadmin \u9762\u5411\u73b0\u4ee3AI\u5e94\u7528\u6253\u9020\u7684\u4e2d\u540e\u53f0\u7ba1\u7406\u6846\u67b6\uff0c\u57fa\u4e8e FastAPI+Vue3 \u8bbe\u8ba1100%\u5f00\u6e90\uff0c\u5185\u7f6e RBAC \u6743\u9650\u7ba1\u63a7\u3001\u5ba1\u8ba1\u65e5\u5fd7\u7b49\u4f01\u4e1a\u7ea7\u57fa\u7840\u80fd\u529b\u3002\u6846\u67b6\u96c6\u6210 MCP\u2011SSE \u7f51\u5173\uff0c\u5177\u5907\u5f3a\u5927\u63d2\u4ef6\u751f\u6001\u5b8c\u6574\uff0c\u5e2e\u52a9\u5f00\u53d1\u8005\u5feb\u901f\u642d\u5efa\u517c\u5177\u4e1a\u52a1\u7ba1\u7406\u4e0e AI \u5de5\u5177\u8f93\u51fa\u80fd\u529b\u7684\u5e94\u7528\u3002",
+            "url": "https://github.com/KevinLiss/ApeAdmin",
+            "stars": 382,
+            "forks": 3,
+            "score": 44
         },
         {
             "main_cat": "AI",
@@ -251,18 +262,7 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/CHENG-LIANG1/real-company-interview-ai-coding-projects",
             "stars": 321,
             "forks": 21,
-            "score": 45
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "ApeAdmin",
-            "full_name": "KevinLiss/ApeAdmin",
-            "description": "Apeadmin \u9762\u5411\u73b0\u4ee3AI\u5e94\u7528\u6253\u9020\u7684\u4e2d\u540e\u53f0\u7ba1\u7406\u6846\u67b6\uff0c\u57fa\u4e8e FastAPI+Vue3 \u8bbe\u8ba1100%\u5f00\u6e90\uff0c\u5185\u7f6e RBAC \u6743\u9650\u7ba1\u63a7\u3001\u5ba1\u8ba1\u65e5\u5fd7\u7b49\u4f01\u4e1a\u7ea7\u57fa\u7840\u80fd\u529b\u3002\u6846\u67b6\u96c6\u6210 MCP\u2011SSE \u7f51\u5173\uff0c\u5177\u5907\u5f3a\u5927\u63d2\u4ef6\u751f\u6001\u5b8c\u6574\uff0c\u5e2e\u52a9\u5f00\u53d1\u8005\u5feb\u901f\u642d\u5efa\u517c\u5177\u4e1a\u52a1\u7ba1\u7406\u4e0e AI \u5de5\u5177\u8f93\u51fa\u80fd\u529b\u7684\u5e94\u7528\u3002",
-            "url": "https://github.com/KevinLiss/ApeAdmin",
-            "stars": 356,
-            "forks": 3,
-            "score": 43
+            "score": 44
         },
         {
             "main_cat": "AI",
@@ -273,7 +273,18 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/Straniero44/wenai",
             "stars": 193,
             "forks": 47,
-            "score": 43
+            "score": 42
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "unigit-ecosystem",
+            "full_name": "adtexterry-lgtm/unigit-ecosystem",
+            "description": "UNIGIT public brand and ecosystem hub \u2014 AI should work for everyone.",
+            "url": "https://github.com/adtexterry-lgtm/unigit-ecosystem",
+            "stars": 144,
+            "forks": 0,
+            "score": 42
         },
         {
             "main_cat": "AI",
@@ -283,19 +294,8 @@ const ALPHA_DATA_V2 = {
             "description": "C++/GGML conversion of VAST-AI SkinTokens; Auto rigs a mesh ready for animation",
             "url": "https://github.com/localai-org/skin-tokens.cpp",
             "stars": 173,
-            "forks": 12,
+            "forks": 13,
             "score": 40
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "seo-landing",
-            "full_name": "aleksandr-alhoff/seo-landing",
-            "description": "SEO Landing: Give your AI coding agent the capabilities of a senior Technical SEO engineer.  An agent skill for building high-performance, technically optimized SEO landing pages. Turn an AI coding agent into a technical SEO specialist.  Build and improve landing pages with: \u2022 \ud83d\ude80 100/100 Google PageSpeed target \u2022 \u26a1 Core Web Vitals optimization ",
-            "url": "https://github.com/aleksandr-alhoff/seo-landing",
-            "stars": 141,
-            "forks": 12,
-            "score": 38
         },
         {
             "main_cat": "AI",
@@ -304,9 +304,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "shtjww/llm-inference-capacity-handbook",
             "description": "\u5927\u6a21\u578b\u63a8\u7406\u6848\u5934\u624b\u518c\uff08\u5f00\u6e90\u7248\uff09\uff1a\u7ed9\u5b9a GPU \u7b97\u529b\uff0c\u4e00\u4e2a\u6a21\u578b\u80fd\u625b\u591a\u5c11 QPS\uff1f\u4e09\u5c42\u6a21\u578b \u00d7 \u4e09\u9762\u5899 \u00d7 \u6392\u961f\u8bba \u00d7 \u5f00\u73af\u538b\u6d4b",
             "url": "https://github.com/shtjww/llm-inference-capacity-handbook",
-            "stars": 89,
+            "stars": 94,
             "forks": 0,
-            "score": 37
+            "score": 36
         },
         {
             "main_cat": "AI",
@@ -315,7 +315,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "truespar/paddock",
             "description": "Native Rust inference server for open models on NVIDIA GPUs. OpenAI- and Anthropic-compatible APIs, GGUF + safetensors, FP8/NVFP4/MXFP4/Q8/Q4, built-in Studio",
             "url": "https://github.com/truespar/paddock",
-            "stars": 44,
+            "stars": 46,
             "forks": 5,
             "score": 36
         },
@@ -326,7 +326,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Alexwtlf/agentic-product-demo",
             "description": "Create polished product demo videos with AI coding agents and Remotion. The UI is code, not a screen recording.",
             "url": "https://github.com/Alexwtlf/agentic-product-demo",
-            "stars": 168,
+            "stars": 171,
             "forks": 2,
             "score": 35
         },
@@ -684,5 +684,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-09-06 00:28"
+    "timestamp": "2026-09-06 05:23"
 };
