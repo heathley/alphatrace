@@ -7,7 +7,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Nanako0129/sepia",
             "description": "De-AI writing skill for any Agent Skills-compatible agent (77+ via the Skills CLI), with native plugins for Claude Code, Codex, Grok Build, and Antigravity. Narrative-architecture repair for fiction, venue-matched rules for professional prose. Based on StoryScope (arXiv:2604.03136).",
             "url": "https://github.com/Nanako0129/sepia",
-            "stars": 2406,
+            "stars": 2407,
             "forks": 147,
             "score": 99
         },
@@ -18,7 +18,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "2akouwu/reverify",
             "description": "Stop your AI from making things up \u2014 it proposes, deterministic tools decide, every claim checked against ground truth with evidence. Grounded facts and context survive resets. Reverse engineering is the proving ground. MCP server + CLI.",
             "url": "https://github.com/2akouwu/reverify",
-            "stars": 1008,
+            "stars": 1009,
             "forks": 214,
             "score": 99
         },
@@ -30,19 +30,8 @@ const ALPHA_DATA_V2 = {
             "description": "\u4e00\u4e2a\u8fd0\u884c\u5728 Cloudflare Workers \u4e0a\u517c\u5bb9CFnew \u4e0eedgetunnel\u7684\u4ee3\u7406\u8ba2\u9605\u7ba1\u7406\u9762\u677f\u2014\u2014\u65e2\u80fd\u5728 /UUID \u8def\u5f84\u4e0a\u8f93\u51fa VLESS/Trojan/xhttp \u591a\u534f\u8bae\u8ba2\u9605\uff0c\u53c8\u63d0\u4f9b\u56fe\u5f62\u5316\u914d\u7f6e\u754c\u9762\uff08KV \u5b58\u50a8\u3001\u6539\u5b8c\u5373\u751f\u6548\uff09\uff0c\u5e76\u5185\u7f6e\u5ef6\u8fdf\u6d4b\u8bd5\u3001\u6d41\u5a92\u4f53/AI \u8fde\u901a\u6027\u68c0\u6d4b\u3001\u591a\u5ba2\u6237\u7aef\u8ba2\u9605\u751f\u6210\u3001\u591a\u8bed\u8a00\u7b49\u80fd\u529b\u3002",
             "url": "https://github.com/PAICNI/CFBox",
             "stars": 684,
-            "forks": 511,
+            "forks": 512,
             "score": 99
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "okf-agent-memory",
-            "full_name": "okf-memory/okf-agent-memory",
-            "description": "Git-native persistent memory for AI coding agents. Implements Google OKF v0.2 with sub-300\u00b5s in-memory BM25 search, embedded MCP server, and progressive disclosure. Slashes token bloat by 80% with zero external databases or dependencies. Built in pure Go.",
-            "url": "https://github.com/okf-memory/okf-agent-memory",
-            "stars": 451,
-            "forks": 23,
-            "score": 97
         },
         {
             "main_cat": "AI",
@@ -51,7 +40,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Albert-Weasker/niubigeo",
             "description": "Open-source AI brand visibility and competitor reports",
             "url": "https://github.com/Albert-Weasker/niubigeo",
-            "stars": 670,
+            "stars": 673,
             "forks": 51,
             "score": 92
         },
@@ -62,9 +51,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "GangTailorUpgrade/undress-service",
             "description": "Dress AI Sponsor",
             "url": "https://github.com/GangTailorUpgrade/undress-service",
-            "stars": 1161,
+            "stars": 1163,
             "forks": 1,
             "score": 88
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "okf-agent-memory",
+            "full_name": "okf-memory/okf-agent-memory",
+            "description": "Git-native persistent memory for AI coding agents. Implements Google OKF v0.2 with sub-300\u00b5s in-memory BM25 search, embedded MCP server, and progressive disclosure. Slashes token bloat by 80% with zero external databases or dependencies. Built in pure Go.",
+            "url": "https://github.com/okf-memory/okf-agent-memory",
+            "stars": 456,
+            "forks": 23,
+            "score": 84
         },
         {
             "main_cat": "AI",
@@ -73,7 +73,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "hkqr/my-free-code",
             "description": "Open-source multi-provider AI gateway for Claude Code and other coding agents, with model routing, streaming, tools, reasoning, fallbacks, and local model support",
             "url": "https://github.com/hkqr/my-free-code",
-            "stars": 628,
+            "stars": 629,
             "forks": 211,
             "score": 82
         },
@@ -84,7 +84,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "brayonpi/hexstellar",
             "description": "Turn any AI agent into a computational researcher. HexStellar Cortex delivers software-accelerated optimization, quantum computing, scientific computing, decision intelligence, and verifiable execution through a Python CLI and API\u2014with certainty labels, verification receipts, examples, and a free sandbox. Start instantly: pip install hexstellar",
             "url": "https://github.com/brayonpi/hexstellar",
-            "stars": 938,
+            "stars": 940,
             "forks": 54,
             "score": 71
         },
@@ -106,9 +106,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "BoardUI/boardui",
             "description": "React design system for agentic interfaces. Every free BoardUI component as source, with a working AI chat app on your own model key as the homepage.",
             "url": "https://github.com/BoardUI/boardui",
-            "stars": 355,
+            "stars": 364,
             "forks": 44,
             "score": 63
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "open-seo-mcp-skills",
+            "full_name": "Ryze-AI-Adgent/open-seo-mcp-skills",
+            "description": "Open-source SEO + GEO skills for Claude \u2014 keyword research, rank tracking, site audits, backlinks, competitor gaps, AI visibility. Runs on your real Search Console / GA4 / ads data via MCP, with DataForSEO built in. Free, MIT.",
+            "url": "https://github.com/Ryze-AI-Adgent/open-seo-mcp-skills",
+            "stars": 601,
+            "forks": 10,
+            "score": 59
         },
         {
             "main_cat": "AI",
@@ -124,23 +135,12 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "open-seo-mcp-skills",
-            "full_name": "Ryze-AI-Adgent/open-seo-mcp-skills",
-            "description": "Open-source SEO + GEO skills for Claude \u2014 keyword research, rank tracking, site audits, backlinks, competitor gaps, AI visibility. Runs on your real Search Console / GA4 / ads data via MCP, with DataForSEO built in. Free, MIT.",
-            "url": "https://github.com/Ryze-AI-Adgent/open-seo-mcp-skills",
-            "stars": 594,
-            "forks": 10,
-            "score": 58
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
             "name": "bot-crossing",
             "full_name": "jarrenrocks/bot-crossing",
             "description": "A video game for AI agents.",
             "url": "https://github.com/jarrenrocks/bot-crossing",
-            "stars": 190,
-            "forks": 71,
+            "stars": 191,
+            "forks": 73,
             "score": 56
         },
         {
@@ -150,7 +150,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "ZJU-REAL/Easel",
             "description": "An open-source AI agent for social media \u2014 discover trends, create content, publish everywhere, and learn what works across Xiaohongshu, Douyin, Zhihu, Bilibili, and more.\ud83c\udfa8\u4e00\u4e2a\u5f00\u6e90\u7684 AI \u793e\u4ea4\u5a92\u4f53\u667a\u80fd\u4f53\u2014\u2014\u53d1\u73b0\u70ed\u70b9\u8d8b\u52bf\u3001\u521b\u4f5c\u5185\u5bb9\u3001\u4e00\u952e\u53d1\u5e03\u81f3\u5404\u5927\u5e73\u53f0\uff0c\u5e76\u5b66\u4e60\u5206\u6790\u54ea\u4e9b\u5185\u5bb9\u771f\u6b63\u6709\u6548\uff0c\u8986\u76d6\u5c0f\u7ea2\u4e66\u3001\u6296\u97f3\u3001\u77e5\u4e4e\u3001\u54d4\u54e9\u54d4\u54e9\u7b49\u5e73\u53f0\u3002",
             "url": "https://github.com/ZJU-REAL/Easel",
-            "stars": 412,
+            "stars": 413,
             "forks": 53,
             "score": 54
         },
@@ -167,13 +167,13 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "useagent",
-            "full_name": "useagenthq/useagent",
-            "description": "The open-source AI coworker for your team: agents with their own cloud computer, your tools and context, handing back finished work websites, decks, spreadsheets, reports, PRs. Runs Claude Code, Codex, OpenCode on your subscription.",
-            "url": "https://github.com/useagenthq/useagent",
-            "stars": 283,
-            "forks": 58,
+            "sub_cat": null,
+            "name": "Manware-s-AI-Learning-Toolkit",
+            "full_name": "i-am-manware/Manware-s-AI-Learning-Toolkit",
+            "description": "An AI toolkit that turns agents into teachers rather than code yapping machines",
+            "url": "https://github.com/i-am-manware/Manware-s-AI-Learning-Toolkit",
+            "stars": 155,
+            "forks": 21,
             "score": 53
         },
         {
@@ -194,7 +194,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "adtexterry-lgtm/unigit-ecosystem",
             "description": "UNIGIT public brand and ecosystem hub \u2014 AI should work for everyone.",
             "url": "https://github.com/adtexterry-lgtm/unigit-ecosystem",
-            "stars": 317,
+            "stars": 322,
             "forks": 11,
             "score": 52
         },
@@ -205,8 +205,19 @@ const ALPHA_DATA_V2 = {
             "full_name": "carnot-tech/consulting-pptx-skill",
             "description": "AI\u306b\u307e\u3058\u306aPPTX\u3092\u4f5c\u3089\u305b\u308bClaude Code\u30b9\u30ad\u30eb \u2014 \u30b9\u30e9\u30a4\u30c9\u898f\u7d04\uff0b62\u578b\u30b9\u30e9\u30a4\u30c9\u578b\u30ab\u30bf\u30ed\u30b0\uff08SlideSpec 36\u578b\uff0b\u81ea\u7531\u8a18\u8ff027\u30d1\u30fc\u30c4\uff09\uff0b\u751f\u6210\u30d1\u30a4\u30d7\u30e9\u30a4\u30f3\uff0b\u6a5f\u68b0\u30c1\u30a7\u30c3\u30af",
             "url": "https://github.com/carnot-tech/consulting-pptx-skill",
-            "stars": 256,
+            "stars": 264,
             "forks": 23,
+            "score": 52
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "useagent",
+            "full_name": "useagenthq/useagent",
+            "description": "The open-source AI coworker for your team: agents with their own cloud computer, your tools and context, handing back finished work websites, decks, spreadsheets, reports, PRs. Runs Claude Code, Codex, OpenCode on your subscription.",
+            "url": "https://github.com/useagenthq/useagent",
+            "stars": 283,
+            "forks": 58,
             "score": 51
         },
         {
@@ -216,7 +227,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "KevinLiss/ApeAdmin",
             "description": "Apeadmin \u9762\u5411\u73b0\u4ee3AI\u5e94\u7528\u6253\u9020\u7684Python\u540e\u53f0\u7ba1\u7406\u6846\u67b6\uff0c\u57fa\u4e8e FastAPI+Vue3 \u8bbe\u8ba1100%\u5f00\u6e90\uff0c\u5185\u7f6e RBAC \u6743\u9650\u7ba1\u63a7\u3001\u5ba1\u8ba1\u65e5\u5fd7\u7b49\u4f01\u4e1a\u7ea7\u57fa\u7840\u80fd\u529b\u3002\u6846\u67b6\u96c6\u6210 MCP\u2011SSE \u7f51\u5173\uff0c\u5177\u5907\u5f3a\u5927\u63d2\u4ef6\u751f\u6001\u5b8c\u6574\uff0c\u5e2e\u52a9\u5f00\u53d1\u8005\u5feb\u901f\u642d\u5efa\u517c\u5177\u4e1a\u52a1\u7ba1\u7406\u4e0e AI \u5de5\u5177\u8f93\u51fa\u80fd\u529b\u7684\u5e94\u7528\u3002",
             "url": "https://github.com/KevinLiss/ApeAdmin",
-            "stars": 557,
+            "stars": 559,
             "forks": 17,
             "score": 49
         },
@@ -238,7 +249,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "MORTEN-BUUR/nordef-matrix-open-control",
             "description": "NORDEF Matrix Open Control: model-independent AI safety belt with 0/1/2 decisions, Ed25519 root gate, replay protection, evidence chain, and incident-pattern eval bank",
             "url": "https://github.com/MORTEN-BUUR/nordef-matrix-open-control",
-            "stars": 498,
+            "stars": 500,
             "forks": 3,
             "score": 47
         },
@@ -249,7 +260,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Agenta-AI/awesome-ai-agent-platforms",
             "description": "A curated list of open-source AI agent platforms: AI coworkers and teammates, agent builders and frameworks, workflow automation platforms, browser agents, and coding agents, with licenses.",
             "url": "https://github.com/Agenta-AI/awesome-ai-agent-platforms",
-            "stars": 261,
+            "stars": 263,
             "forks": 5,
             "score": 47
         },
@@ -311,17 +322,6 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
-            "name": "SlopMonster",
-            "full_name": "ItsssssJack/SlopMonster",
-            "description": "Turn AI-written copy into copy a human would ship. Lint for AI tells, cleanse with a rival model, lint again.",
-            "url": "https://github.com/ItsssssJack/SlopMonster",
-            "stars": 152,
-            "forks": 23,
-            "score": 40
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
             "name": "skin-tokens.cpp",
             "full_name": "localai-org/skin-tokens.cpp",
             "description": "C++/GGML conversion of VAST-AI SkinTokens; Auto rigs a mesh ready for animation",
@@ -348,7 +348,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "truespar/paddock",
             "description": "Native Rust inference server for open models on NVIDIA GPUs. OpenAI- and Anthropic-compatible APIs, GGUF + safetensors, FP8/NVFP4/MXFP4/Q8/Q4, built-in Studio",
             "url": "https://github.com/truespar/paddock",
-            "stars": 61,
+            "stars": 62,
             "forks": 5,
             "score": 35
         },
@@ -551,6 +551,17 @@ const ALPHA_DATA_V2 = {
             "score": 30
         },
         {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "payment-required",
+            "full_name": "nuri-com/payment-required",
+            "description": "Landing page for paymentrequired.com \u2014 agent payments: non-custodial wallet, stablecoins, cards, banking, x402/MPP via one MCP",
+            "url": "https://github.com/nuri-com/payment-required",
+            "stars": 0,
+            "forks": 0,
+            "score": 30
+        },
+        {
             "main_cat": "Stablecoin Infrastructure",
             "sub_cat": null,
             "name": "sylius-payzum-plugin",
@@ -728,5 +739,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-09-07 20:58"
+    "timestamp": "2026-09-07 23:20"
 };
