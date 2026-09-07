@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "Nanako0129/sepia",
             "description": "De-AI writing skill for any Agent Skills-compatible agent (77+ via the Skills CLI), with native plugins for Claude Code, Codex, Grok Build, and Antigravity. Narrative-architecture repair for fiction, venue-matched rules for professional prose. Based on StoryScope (arXiv:2604.03136).",
             "url": "https://github.com/Nanako0129/sepia",
-            "stars": 2393,
-            "forks": 145,
+            "stars": 2406,
+            "forks": 147,
             "score": 99
         },
         {
@@ -18,7 +18,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "2akouwu/reverify",
             "description": "Stop your AI from making things up \u2014 it proposes, deterministic tools decide, every claim checked against ground truth with evidence. Grounded facts and context survive resets. Reverse engineering is the proving ground. MCP server + CLI.",
             "url": "https://github.com/2akouwu/reverify",
-            "stars": 1004,
+            "stars": 1008,
             "forks": 214,
             "score": 99
         },
@@ -30,7 +30,7 @@ const ALPHA_DATA_V2 = {
             "description": "\u4e00\u4e2a\u8fd0\u884c\u5728 Cloudflare Workers \u4e0a\u517c\u5bb9CFnew \u4e0eedgetunnel\u7684\u4ee3\u7406\u8ba2\u9605\u7ba1\u7406\u9762\u677f\u2014\u2014\u65e2\u80fd\u5728 /UUID \u8def\u5f84\u4e0a\u8f93\u51fa VLESS/Trojan/xhttp \u591a\u534f\u8bae\u8ba2\u9605\uff0c\u53c8\u63d0\u4f9b\u56fe\u5f62\u5316\u914d\u7f6e\u754c\u9762\uff08KV \u5b58\u50a8\u3001\u6539\u5b8c\u5373\u751f\u6548\uff09\uff0c\u5e76\u5185\u7f6e\u5ef6\u8fdf\u6d4b\u8bd5\u3001\u6d41\u5a92\u4f53/AI \u8fde\u901a\u6027\u68c0\u6d4b\u3001\u591a\u5ba2\u6237\u7aef\u8ba2\u9605\u751f\u6210\u3001\u591a\u8bed\u8a00\u7b49\u80fd\u529b\u3002",
             "url": "https://github.com/PAICNI/CFBox",
             "stars": 684,
-            "forks": 510,
+            "forks": 511,
             "score": 99
         },
         {
@@ -40,9 +40,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "okf-memory/okf-agent-memory",
             "description": "Git-native persistent memory for AI coding agents. Implements Google OKF v0.2 with sub-300\u00b5s in-memory BM25 search, embedded MCP server, and progressive disclosure. Slashes token bloat by 80% with zero external databases or dependencies. Built in pure Go.",
             "url": "https://github.com/okf-memory/okf-agent-memory",
-            "stars": 447,
-            "forks": 22,
-            "score": 96
+            "stars": 451,
+            "forks": 23,
+            "score": 97
         },
         {
             "main_cat": "AI",
@@ -51,9 +51,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "Albert-Weasker/niubigeo",
             "description": "Open-source AI brand visibility and competitor reports",
             "url": "https://github.com/Albert-Weasker/niubigeo",
-            "stars": 663,
+            "stars": 670,
             "forks": 51,
-            "score": 91
+            "score": 92
         },
         {
             "main_cat": "AI",
@@ -62,7 +62,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "GangTailorUpgrade/undress-service",
             "description": "Dress AI Sponsor",
             "url": "https://github.com/GangTailorUpgrade/undress-service",
-            "stars": 1157,
+            "stars": 1161,
             "forks": 1,
             "score": 88
         },
@@ -73,9 +73,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "hkqr/my-free-code",
             "description": "Open-source multi-provider AI gateway for Claude Code and other coding agents, with model routing, streaming, tools, reasoning, fallbacks, and local model support",
             "url": "https://github.com/hkqr/my-free-code",
-            "stars": 627,
+            "stars": 628,
             "forks": 211,
-            "score": 86
+            "score": 82
         },
         {
             "main_cat": "AI",
@@ -86,7 +86,7 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/brayonpi/hexstellar",
             "stars": 938,
             "forks": 54,
-            "score": 74
+            "score": 71
         },
         {
             "main_cat": "AI",
@@ -95,8 +95,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "yilujian/easy-writing",
             "description": "\u6613\u521b\uff1a\u7eaf\u672c\u5730\u3001\u5f00\u6e90\u7684 AI \u7f51\u6587\u5199\u4f5c\u684c\u9762\u8f6f\u4ef6\uff0c\u652f\u6301\u5c0f\u8bf4\u521b\u4f5c\u3001AI \u8f85\u52a9\u5199\u4f5c\u3001BYOK \u4e0e\u81ea\u5b9a\u4e49\u63d0\u793a\u8bcd\u3002",
             "url": "https://github.com/yilujian/easy-writing",
-            "stars": 431,
-            "forks": 80,
+            "stars": 434,
+            "forks": 81,
             "score": 67
         },
         {
@@ -106,9 +106,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "BoardUI/boardui",
             "description": "React design system for agentic interfaces. Every free BoardUI component as source, with a working AI chat app on your own model key as the homepage.",
             "url": "https://github.com/BoardUI/boardui",
-            "stars": 336,
-            "forks": 43,
-            "score": 61
+            "stars": 355,
+            "forks": 44,
+            "score": 63
         },
         {
             "main_cat": "AI",
@@ -124,35 +124,24 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "bot-crossing",
-            "full_name": "jarrenrocks/bot-crossing",
-            "description": "A video game for AI agents.",
-            "url": "https://github.com/jarrenrocks/bot-crossing",
-            "stars": 186,
-            "forks": 70,
-            "score": 59
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
             "name": "open-seo-mcp-skills",
             "full_name": "Ryze-AI-Adgent/open-seo-mcp-skills",
             "description": "Open-source SEO + GEO skills for Claude \u2014 keyword research, rank tracking, site audits, backlinks, competitor gaps, AI visibility. Runs on your real Search Console / GA4 / ads data via MCP, with DataForSEO built in. Free, MIT.",
             "url": "https://github.com/Ryze-AI-Adgent/open-seo-mcp-skills",
-            "stars": 578,
+            "stars": 594,
             "forks": 10,
             "score": 58
         },
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "image-prompt-reverse",
-            "full_name": "LunarXuan/image-prompt-reverse",
-            "description": "High-fidelity AI image prompt reverse-engineering skill for Codex",
-            "url": "https://github.com/LunarXuan/image-prompt-reverse",
-            "stars": 315,
-            "forks": 30,
-            "score": 57
+            "name": "bot-crossing",
+            "full_name": "jarrenrocks/bot-crossing",
+            "description": "A video game for AI agents.",
+            "url": "https://github.com/jarrenrocks/bot-crossing",
+            "stars": 190,
+            "forks": 71,
+            "score": 56
         },
         {
             "main_cat": "AI",
@@ -163,6 +152,17 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/ZJU-REAL/Easel",
             "stars": 412,
             "forks": 53,
+            "score": 54
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "image-prompt-reverse",
+            "full_name": "LunarXuan/image-prompt-reverse",
+            "description": "High-fidelity AI image prompt reverse-engineering skill for Codex",
+            "url": "https://github.com/LunarXuan/image-prompt-reverse",
+            "stars": 315,
+            "forks": 30,
             "score": 54
         },
         {
@@ -194,7 +194,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "adtexterry-lgtm/unigit-ecosystem",
             "description": "UNIGIT public brand and ecosystem hub \u2014 AI should work for everyone.",
             "url": "https://github.com/adtexterry-lgtm/unigit-ecosystem",
-            "stars": 316,
+            "stars": 317,
             "forks": 11,
             "score": 52
         },
@@ -205,7 +205,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "carnot-tech/consulting-pptx-skill",
             "description": "AI\u306b\u307e\u3058\u306aPPTX\u3092\u4f5c\u3089\u305b\u308bClaude Code\u30b9\u30ad\u30eb \u2014 \u30b9\u30e9\u30a4\u30c9\u898f\u7d04\uff0b62\u578b\u30b9\u30e9\u30a4\u30c9\u578b\u30ab\u30bf\u30ed\u30b0\uff08SlideSpec 36\u578b\uff0b\u81ea\u7531\u8a18\u8ff027\u30d1\u30fc\u30c4\uff09\uff0b\u751f\u6210\u30d1\u30a4\u30d7\u30e9\u30a4\u30f3\uff0b\u6a5f\u68b0\u30c1\u30a7\u30c3\u30af",
             "url": "https://github.com/carnot-tech/consulting-pptx-skill",
-            "stars": 252,
+            "stars": 256,
             "forks": 23,
             "score": 51
         },
@@ -216,7 +216,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "KevinLiss/ApeAdmin",
             "description": "Apeadmin \u9762\u5411\u73b0\u4ee3AI\u5e94\u7528\u6253\u9020\u7684Python\u540e\u53f0\u7ba1\u7406\u6846\u67b6\uff0c\u57fa\u4e8e FastAPI+Vue3 \u8bbe\u8ba1100%\u5f00\u6e90\uff0c\u5185\u7f6e RBAC \u6743\u9650\u7ba1\u63a7\u3001\u5ba1\u8ba1\u65e5\u5fd7\u7b49\u4f01\u4e1a\u7ea7\u57fa\u7840\u80fd\u529b\u3002\u6846\u67b6\u96c6\u6210 MCP\u2011SSE \u7f51\u5173\uff0c\u5177\u5907\u5f3a\u5927\u63d2\u4ef6\u751f\u6001\u5b8c\u6574\uff0c\u5e2e\u52a9\u5f00\u53d1\u8005\u5feb\u901f\u642d\u5efa\u517c\u5177\u4e1a\u52a1\u7ba1\u7406\u4e0e AI \u5de5\u5177\u8f93\u51fa\u80fd\u529b\u7684\u5e94\u7528\u3002",
             "url": "https://github.com/KevinLiss/ApeAdmin",
-            "stars": 548,
+            "stars": 557,
             "forks": 17,
             "score": 49
         },
@@ -238,8 +238,19 @@ const ALPHA_DATA_V2 = {
             "full_name": "MORTEN-BUUR/nordef-matrix-open-control",
             "description": "NORDEF Matrix Open Control: model-independent AI safety belt with 0/1/2 decisions, Ed25519 root gate, replay protection, evidence chain, and incident-pattern eval bank",
             "url": "https://github.com/MORTEN-BUUR/nordef-matrix-open-control",
-            "stars": 488,
+            "stars": 498,
             "forks": 3,
+            "score": 47
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "awesome-ai-agent-platforms",
+            "full_name": "Agenta-AI/awesome-ai-agent-platforms",
+            "description": "A curated list of open-source AI agent platforms: AI coworkers and teammates, agent builders and frameworks, workflow automation platforms, browser agents, and coding agents, with licenses.",
+            "url": "https://github.com/Agenta-AI/awesome-ai-agent-platforms",
+            "stars": 261,
+            "forks": 5,
             "score": 47
         },
         {
@@ -249,19 +260,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "LYiHub/Card-master-browser-extension-public",
             "description": "\u4e00\u4e2a\u5361\u724c\u6e38\u620f\u6d4f\u89c8\u5668\u6269\u5c55\uff0c\u53ef\u4ee5\u628a\u5404\u79cd\u6d4f\u89c8\u5668\u811a\u672c\u3001\u6269\u5c55\u505a\u6210\u53ef\u6e38\u73a9\u7684\u5361\u724c\uff0c\u8fd8\u53ef\u4ee5\u7528AI\u81ea\u52a8\u751f\u6210\u5168\u65b0\u5361\u724c\u63d2\u4ef6",
             "url": "https://github.com/LYiHub/Card-master-browser-extension-public",
-            "stars": 364,
+            "stars": 365,
             "forks": 35,
-            "score": 46
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "awesome-ai-agent-platforms",
-            "full_name": "Agenta-AI/awesome-ai-agent-platforms",
-            "description": "A curated list of open-source AI agent platforms: AI coworkers and teammates, agent builders and frameworks, workflow automation platforms, browser agents, and coding agents, with licenses.",
-            "url": "https://github.com/Agenta-AI/awesome-ai-agent-platforms",
-            "stars": 251,
-            "forks": 5,
             "score": 46
         },
         {
@@ -315,7 +315,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "ItsssssJack/SlopMonster",
             "description": "Turn AI-written copy into copy a human would ship. Lint for AI tells, cleanse with a rival model, lint again.",
             "url": "https://github.com/ItsssssJack/SlopMonster",
-            "stars": 149,
+            "stars": 152,
             "forks": 23,
             "score": 40
         },
@@ -328,7 +328,7 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/localai-org/skin-tokens.cpp",
             "stars": 180,
             "forks": 13,
-            "score": 39
+            "score": 38
         },
         {
             "main_cat": "AI",
@@ -348,9 +348,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "truespar/paddock",
             "description": "Native Rust inference server for open models on NVIDIA GPUs. OpenAI- and Anthropic-compatible APIs, GGUF + safetensors, FP8/NVFP4/MXFP4/Q8/Q4, built-in Studio",
             "url": "https://github.com/truespar/paddock",
-            "stars": 59,
+            "stars": 61,
             "forks": 5,
-            "score": 36
+            "score": 35
         },
         {
             "main_cat": "AI",
@@ -383,7 +383,7 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/nickalobiondar/zknifty",
             "stars": 24,
             "forks": 1,
-            "score": 34
+            "score": 33
         },
         {
             "main_cat": "AI",
@@ -728,5 +728,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-09-07 17:01"
+    "timestamp": "2026-09-07 20:58"
 };
