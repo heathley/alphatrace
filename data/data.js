@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "Nanako0129/sepia",
             "description": "De-AI writing skill for any Agent Skills-compatible agent (77+ via the Skills CLI), with native plugins for Claude Code, Codex, Grok Build, and Antigravity. Narrative-architecture repair for fiction, venue-matched rules for professional prose. Based on StoryScope (arXiv:2604.03136).",
             "url": "https://github.com/Nanako0129/sepia",
-            "stars": 2494,
-            "forks": 158,
+            "stars": 2498,
+            "forks": 159,
             "score": 99
         },
         {
@@ -18,8 +18,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "Albert-Weasker/niubigeo",
             "description": "Open-source AI brand visibility and competitor reports. Official website: https://niubigeo.ai/ | Paid services: AI testing by real people and GEO optimization. Pricing: https://niubigeo.ai/pricing",
             "url": "https://github.com/Albert-Weasker/niubigeo",
-            "stars": 2217,
-            "forks": 76,
+            "stars": 2228,
+            "forks": 80,
             "score": 99
         },
         {
@@ -29,7 +29,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "2akouwu/reverify",
             "description": "Stop your AI from making things up \u2014 it proposes, deterministic tools decide, every claim checked against ground truth with evidence. Grounded facts and context survive resets. Reverse engineering is the proving ground. MCP server + CLI.",
             "url": "https://github.com/2akouwu/reverify",
-            "stars": 1062,
+            "stars": 1065,
             "forks": 217,
             "score": 99
         },
@@ -40,8 +40,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "lfzk550/fanzha-ai-proxy",
             "description": "\u56fd\u5bb6\u53cd\u8bc8AI API \u8f6c OpenAI \u517c\u5bb9\u683c\u5f0f\u53cd\u5411\u4ee3\u7406\u670d\u52a1 || \u4ec5\u5b66\u4e60\u7528\u9014",
             "url": "https://github.com/lfzk550/fanzha-ai-proxy",
-            "stars": 374,
-            "forks": 326,
+            "stars": 382,
+            "forks": 330,
             "score": 99
         },
         {
@@ -51,7 +51,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "okf-memory/okf-agent-memory",
             "description": "Git-native persistent memory for AI coding agents. Implements Google OKF v0.2 with sub-300\u00b5s in-memory BM25 search, embedded MCP server, and progressive disclosure. Slashes token bloat by 80% with zero external databases or dependencies. Built in pure Go.",
             "url": "https://github.com/okf-memory/okf-agent-memory",
-            "stars": 506,
+            "stars": 511,
             "forks": 31,
             "score": 82
         },
@@ -62,9 +62,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "GangTailorUpgrade/undress-service",
             "description": "Dress AI Sponsor",
             "url": "https://github.com/GangTailorUpgrade/undress-service",
-            "stars": 1191,
-            "forks": 2,
-            "score": 79
+            "stars": 1192,
+            "forks": 3,
+            "score": 80
         },
         {
             "main_cat": "AI",
@@ -73,8 +73,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "brayonpi/hexstellar",
             "description": "Turn any AI agent into a computational researcher. HexStellar Cortex delivers software-accelerated optimization, quantum computing, scientific computing, decision intelligence, and verifiable execution through a Python CLI and API\u2014with certainty labels, verification receipts, examples, and a free sandbox. Start instantly: pip install hexstellar",
             "url": "https://github.com/brayonpi/hexstellar",
-            "stars": 1016,
-            "forks": 116,
+            "stars": 1030,
+            "forks": 117,
             "score": 79
         },
         {
@@ -84,9 +84,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "hkqr/my-free-code",
             "description": "Open-source multi-provider AI gateway for Claude Code and other coding agents, with model routing, streaming, tools, reasoning, fallbacks, and local model support",
             "url": "https://github.com/hkqr/my-free-code",
-            "stars": 632,
+            "stars": 633,
             "forks": 211,
-            "score": 79
+            "score": 76
         },
         {
             "main_cat": "AI",
@@ -95,9 +95,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "tigerless-labs/agent-memory",
             "description": "Long-term memory runtime for AI agents \u2014 plain Markdown as the source of truth, local ranked retrieval, and an independent sleep-time Manage layer. Claude Code and Codex share one store. No API key.",
             "url": "https://github.com/tigerless-labs/agent-memory",
-            "stars": 713,
-            "forks": 40,
-            "score": 73
+            "stars": 673,
+            "forks": 38,
+            "score": 71
         },
         {
             "main_cat": "AI",
@@ -106,9 +106,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "Station-Sciences/bot-crossing",
             "description": "A video game for AI agents. Created by Jarren Rocks",
             "url": "https://github.com/Station-Sciences/bot-crossing",
-            "stars": 330,
-            "forks": 104,
-            "score": 67
+            "stars": 350,
+            "forks": 110,
+            "score": 69
         },
         {
             "main_cat": "AI",
@@ -117,7 +117,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "adtexterry-lgtm/unigit-ecosystem",
             "description": "UNIGIT public brand and ecosystem hub \u2014 AI should work for everyone.",
             "url": "https://github.com/adtexterry-lgtm/unigit-ecosystem",
-            "stars": 554,
+            "stars": 548,
             "forks": 46,
             "score": 66
         },
@@ -128,20 +128,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "yilujian/easy-writing",
             "description": "\u6613\u521b\uff1a\u7eaf\u672c\u5730\u3001\u5f00\u6e90\u7684 AI \u7f51\u6587\u5199\u4f5c\u684c\u9762\u8f6f\u4ef6\uff0c\u652f\u6301\u5c0f\u8bf4\u521b\u4f5c\u3001AI \u8f85\u52a9\u5199\u4f5c\u3001BYOK \u4e0e\u81ea\u5b9a\u4e49\u63d0\u793a\u8bcd\u3002",
             "url": "https://github.com/yilujian/easy-writing",
-            "stars": 505,
+            "stars": 506,
             "forks": 87,
             "score": 65
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "Manware-s-AI-Learning-Toolkit",
-            "full_name": "i-am-manware/Manware-s-AI-Learning-Toolkit",
-            "description": "An AI toolkit that turns agents into teachers rather than code yapping machines",
-            "url": "https://github.com/i-am-manware/Manware-s-AI-Learning-Toolkit",
-            "stars": 278,
-            "forks": 34,
-            "score": 64
         },
         {
             "main_cat": "AI",
@@ -150,9 +139,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "ZJU-REAL/Easel",
             "description": "An open-source AI agent for social media \u2014 discover trends, create content, publish everywhere, and learn what works across Xiaohongshu, Douyin, Zhihu, Bilibili, and more.\ud83c\udfa8\u4e00\u4e2a\u5f00\u6e90\u7684 AI \u793e\u4ea4\u5a92\u4f53\u667a\u80fd\u4f53\u2014\u2014\u53d1\u73b0\u70ed\u70b9\u8d8b\u52bf\u3001\u521b\u4f5c\u5185\u5bb9\u3001\u4e00\u952e\u53d1\u5e03\u81f3\u5404\u5927\u5e73\u53f0\uff0c\u5e76\u5b66\u4e60\u5206\u6790\u54ea\u4e9b\u5185\u5bb9\u771f\u6b63\u6709\u6548\uff0c\u8986\u76d6\u5c0f\u7ea2\u4e66\u3001\u6296\u97f3\u3001\u77e5\u4e4e\u3001\u54d4\u54e9\u54d4\u54e9\u7b49\u5e73\u53f0\u3002",
             "url": "https://github.com/ZJU-REAL/Easel",
-            "stars": 671,
-            "forks": 83,
-            "score": 63
+            "stars": 689,
+            "forks": 86,
+            "score": 64
         },
         {
             "main_cat": "AI",
@@ -168,11 +157,22 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
+            "name": "Manware-s-AI-Learning-Toolkit",
+            "full_name": "i-am-manware/Manware-s-AI-Learning-Toolkit",
+            "description": "An AI toolkit that turns agents into teachers rather than code yapping machines",
+            "url": "https://github.com/i-am-manware/Manware-s-AI-Learning-Toolkit",
+            "stars": 285,
+            "forks": 35,
+            "score": 60
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
             "name": "bankmcp",
             "full_name": "noskillish/bankmcp",
             "description": "BankMCP\u2122: your AI can now read your bank. Self-hosted, read-only MCP server for your own bank accounts via open banking (Enable Banking). Standard MCP; tested with Claude and Ollama.",
             "url": "https://github.com/noskillish/bankmcp",
-            "stars": 171,
+            "stars": 172,
             "forks": 33,
             "score": 60
         },
@@ -183,7 +183,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "BoardUI/boardui",
             "description": "React design system for agentic interfaces. Every free BoardUI component as source, with a working AI chat app on your own model key as the homepage.",
             "url": "https://github.com/BoardUI/boardui",
-            "stars": 396,
+            "stars": 398,
             "forks": 48,
             "score": 59
         },
@@ -194,7 +194,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Ryze-AI-Adgent/open-seo-mcp-skills",
             "description": "Open-source SEO + GEO skills for Claude on your real GSC/GA4/ads data. Free MCP: claude mcp add ryze --transport http https://connector.get-ryze.ai/mcp",
             "url": "https://github.com/Ryze-AI-Adgent/open-seo-mcp-skills",
-            "stars": 690,
+            "stars": 698,
             "forks": 11,
             "score": 58
         },
@@ -205,7 +205,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Yean-Sec/StrikeAgent_AtkBrain-Flash",
             "description": "\u7531\u591c\u5b89\u56e2\u961f\u7814\u53d1\u7684AI\u6e17\u900f\u6d4b\u8bd5\u5e73\u53f0\uff0c\u6db5\u76d6\u7ea2\u961f\u6253\u70b9\u3001SRC\u3001CTF\uff0c\u7279\u522b\u662f\u5728\u7ea2\u961f\u9886\u57df\u6709\u6781\u4e3a\u4eae\u773c\u7684\u5b58\u5728",
             "url": "https://github.com/Yean-Sec/StrikeAgent_AtkBrain-Flash",
-            "stars": 303,
+            "stars": 304,
             "forks": 66,
             "score": 58
         },
@@ -216,7 +216,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "carnot-tech/consulting-pptx-skill",
             "description": "AI\u306b\u307e\u3058\u306aPPTX\u3092\u4f5c\u3089\u305b\u308bClaude Code\u30b9\u30ad\u30eb \u2014 \u30b9\u30e9\u30a4\u30c9\u898f\u7d04\uff0b62\u578b\u30b9\u30e9\u30a4\u30c9\u578b\u30ab\u30bf\u30ed\u30b0\uff08SlideSpec 36\u578b\uff0b\u81ea\u7531\u8a18\u8ff027\u30d1\u30fc\u30c4\uff09\uff0b\u751f\u6210\u30d1\u30a4\u30d7\u30e9\u30a4\u30f3\uff0b\u6a5f\u68b0\u30c1\u30a7\u30c3\u30af",
             "url": "https://github.com/carnot-tech/consulting-pptx-skill",
-            "stars": 396,
+            "stars": 404,
             "forks": 36,
             "score": 57
         },
@@ -227,9 +227,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "LunarXuan/image-prompt-reverse",
             "description": "High-fidelity AI image prompt reverse-engineering skill for Codex",
             "url": "https://github.com/LunarXuan/image-prompt-reverse",
-            "stars": 342,
+            "stars": 343,
             "forks": 30,
-            "score": 53
+            "score": 51
         },
         {
             "main_cat": "AI",
@@ -249,7 +249,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "kydlikebtc/awesome-grokbot",
             "description": "701 live x.ai/bot shares for Grok Bot \u2014 every link status-checked, every row attributed. Bilingual EN/\u4e2d\u6587 catalog with a JSON schema, CI, and a searchable site.",
             "url": "https://github.com/kydlikebtc/awesome-grokbot",
-            "stars": 297,
+            "stars": 292,
             "forks": 19,
             "score": 46
         },
@@ -260,7 +260,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "555cute/r20-quantum-trader",
             "description": "\u26a1 LLM-Native Self-Evolving Quantitative Trading Terminal & Execution Engine (Bloomberg-Style Dark Terminal + 6-Asset AI Brain)",
             "url": "https://github.com/555cute/r20-quantum-trader",
-            "stars": 165,
+            "stars": 166,
             "forks": 58,
             "score": 45
         },
@@ -293,9 +293,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "Agenta-AI/awesome-ai-agent-platforms",
             "description": "A curated list of open-source AI agent platforms: AI coworkers and teammates, agent builders and frameworks, workflow automation platforms, browser agents, and coding agents, with licenses.",
             "url": "https://github.com/Agenta-AI/awesome-ai-agent-platforms",
-            "stars": 207,
+            "stars": 208,
             "forks": 6,
-            "score": 42
+            "score": 41
         },
         {
             "main_cat": "AI",
@@ -326,7 +326,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "jingyunstudio/jingyun-dsh",
             "description": "\u57fa\u4e8e Jingyun Studio + DeepSeek Harness (DSH) \u6253\u9020\u7684\u4e00\u7ad9\u5f0f AI \u5546\u4e1a\u5316\u684c\u9762\u5ba2\u6237\u7aef",
             "url": "https://github.com/jingyunstudio/jingyun-dsh",
-            "stars": 189,
+            "stars": 190,
             "forks": 4,
             "score": 36
         },
@@ -337,7 +337,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "truespar/paddock",
             "description": "Native Rust inference server for open models on NVIDIA GPUs. OpenAI- and Anthropic-compatible APIs, GGUF + safetensors, FP8/NVFP4/MXFP4/Q8/Q4, built-in Studio",
             "url": "https://github.com/truespar/paddock",
-            "stars": 74,
+            "stars": 75,
             "forks": 7,
             "score": 36
         },
@@ -355,17 +355,6 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
-            "name": "lium-localmaxxing",
-            "full_name": "Datura-ai/lium-localmaxxing",
-            "description": "Reproduce Lium's LocalMaxxing leaderboard runs (7 boards, 20 Verified) on a rented Lium GPU in one script \u2014 vLLM/llama.cpp recipes, measured cost per million tokens",
-            "url": "https://github.com/Datura-ai/lium-localmaxxing",
-            "stars": 35,
-            "forks": 2,
-            "score": 34
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
             "name": "Web3Xeno",
             "full_name": "irenascent/Web3Xeno",
             "description": "Web3Xeno facilitates cross-chain data synchronization, real-time execution, and optimized smart contract deployment on a decentralized layer protocol.",
@@ -375,13 +364,24 @@ const ALPHA_DATA_V2 = {
             "score": 34
         },
         {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "lium-localmaxxing",
+            "full_name": "Datura-ai/lium-localmaxxing",
+            "description": "Reproduce Lium's LocalMaxxing leaderboard runs (7 boards, 20 Verified) on a rented Lium GPU in one script \u2014 vLLM/llama.cpp recipes, measured cost per million tokens",
+            "url": "https://github.com/Datura-ai/lium-localmaxxing",
+            "stars": 35,
+            "forks": 2,
+            "score": 33
+        },
+        {
             "main_cat": "zk / Privacy / zkML",
             "sub_cat": null,
             "name": "zknifty",
             "full_name": "nickalobiondar/zknifty",
             "description": "\ud83c\udfb4Zero-knowledge non-fungible tokens on Ethereum using zk-SNARKs",
             "url": "https://github.com/nickalobiondar/zknifty",
-            "stars": 23,
+            "stars": 22,
             "forks": 1,
             "score": 32
         },
@@ -491,6 +491,17 @@ const ALPHA_DATA_V2 = {
             "full_name": "payzum-dev/akaunting-payzum",
             "description": "Payzum crypto & stablecoin payments app for Akaunting (non-custodial; USDC, USDT and more)",
             "url": "https://github.com/payzum-dev/akaunting-payzum",
+            "stars": 0,
+            "forks": 0,
+            "score": 30
+        },
+        {
+            "main_cat": "Stablecoin Infrastructure",
+            "sub_cat": null,
+            "name": "nelo",
+            "full_name": "Udoka-AM/nelo",
+            "description": "Accept payments on the phone you already own. Offline-capable stablecoin acceptance on Solana.",
+            "url": "https://github.com/Udoka-AM/nelo",
             "stars": 0,
             "forks": 0,
             "score": 30
@@ -707,6 +718,20 @@ const ALPHA_DATA_V2 = {
     ],
     "news": [
         {
+            "title": "PrivEscalate: Measuring and Augmenting the Threat of LLM-Automated Linux Privilege Escalation",
+            "source": "ArXiv",
+            "type": "Research Alpha",
+            "color": "text-indigo-600",
+            "url": "http://arxiv.org/abs/2609.09087v1"
+        },
+        {
+            "title": "NERVE Attacks: Breaking AI-Powered Brain-Computer Interfaces",
+            "source": "ArXiv",
+            "type": "Research Alpha",
+            "color": "text-indigo-600",
+            "url": "http://arxiv.org/abs/2609.08971v1"
+        },
+        {
             "title": "Bitcoin volatility remains high ahead of key FED decision.",
             "source": "Polymarket",
             "type": "Expectation",
@@ -714,5 +739,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-09-09 14:57"
+    "timestamp": "2026-09-09 18:19"
 };
