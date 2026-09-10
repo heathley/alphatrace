@@ -7,7 +7,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Nanako0129/sepia",
             "description": "De-AI writing skill for any Agent Skills-compatible agent (77+ via the Skills CLI), with native plugins for Claude Code, Codex, Grok Build, and Antigravity. Narrative-architecture repair for fiction, venue-matched rules for professional prose. Based on StoryScope (arXiv:2604.03136).",
             "url": "https://github.com/Nanako0129/sepia",
-            "stars": 2501,
+            "stars": 2503,
             "forks": 159,
             "score": 99
         },
@@ -18,8 +18,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "Albert-Weasker/niubigeo",
             "description": "Open-source AI brand visibility and competitor reports. Official website: https://niubigeo.ai/ | Paid services: AI testing by real people and GEO optimization. Pricing: https://niubigeo.ai/pricing",
             "url": "https://github.com/Albert-Weasker/niubigeo",
-            "stars": 2249,
-            "forks": 81,
+            "stars": 2256,
+            "forks": 82,
             "score": 99
         },
         {
@@ -29,8 +29,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "2akouwu/reverify",
             "description": "Stop your AI from making things up \u2014 it proposes, deterministic tools decide, every claim checked against ground truth with evidence. Grounded facts and context survive resets. Reverse engineering is the proving ground. MCP server + CLI.",
             "url": "https://github.com/2akouwu/reverify",
-            "stars": 1067,
-            "forks": 219,
+            "stars": 1068,
+            "forks": 220,
             "score": 99
         },
         {
@@ -40,9 +40,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "lfzk550/fanzha-ai-proxy",
             "description": "\u56fd\u5bb6\u53cd\u8bc8AI API \u8f6c OpenAI \u517c\u5bb9\u683c\u5f0f\u53cd\u5411\u4ee3\u7406\u670d\u52a1 || \u4ec5\u5b66\u4e60\u7528\u9014",
             "url": "https://github.com/lfzk550/fanzha-ai-proxy",
-            "stars": 383,
-            "forks": 331,
+            "stars": 389,
+            "forks": 333,
             "score": 99
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "routeVSCODE",
+            "full_name": "yudaprasetya007/routeVSCODE",
+            "description": "\u26a1 Zero-reload dynamic AI model switcher & local proxy for VSCode Copilot Chat via 9Router",
+            "url": "https://github.com/yudaprasetya007/routeVSCODE",
+            "stars": 326,
+            "forks": 0,
+            "score": 84
         },
         {
             "main_cat": "AI",
@@ -51,30 +62,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "GangTailorUpgrade/undress-service",
             "description": "Dress AI Sponsor",
             "url": "https://github.com/GangTailorUpgrade/undress-service",
-            "stars": 1199,
+            "stars": 1204,
             "forks": 4,
-            "score": 80
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "hexstellar",
-            "full_name": "brayonpi/hexstellar",
-            "description": "Turn any AI agent into a computational researcher. HexStellar Cortex delivers software-accelerated optimization, quantum computing, scientific computing, decision intelligence, and verifiable execution through a Python CLI and API\u2014with certainty labels, verification receipts, examples, and a free sandbox. Start instantly: pip install hexstellar",
-            "url": "https://github.com/brayonpi/hexstellar",
-            "stars": 1041,
-            "forks": 118,
-            "score": 77
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "my-free-code",
-            "full_name": "hkqr/my-free-code",
-            "description": "Open-source multi-provider AI gateway for Claude Code and other coding agents, with model routing, streaming, tools, reasoning, fallbacks, and local model support",
-            "url": "https://github.com/hkqr/my-free-code",
-            "stars": 633,
-            "forks": 211,
             "score": 76
         },
         {
@@ -84,20 +73,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "okf-memory/okf-agent-memory",
             "description": "Git-native persistent memory for AI coding agents. Implements Google OKF v0.2 with sub-300\u00b5s in-memory BM25 search, embedded MCP server, and progressive disclosure. Slashes token bloat by 80% with zero external databases or dependencies. Built in pure Go.",
             "url": "https://github.com/okf-memory/okf-agent-memory",
-            "stars": 518,
+            "stars": 522,
             "forks": 32,
             "score": 76
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "bot-crossing",
-            "full_name": "Station-Sciences/bot-crossing",
-            "description": "A video game for AI agents. Created by Jarren Rocks",
-            "url": "https://github.com/Station-Sciences/bot-crossing",
-            "stars": 374,
-            "forks": 121,
-            "score": 69
         },
         {
             "main_cat": "AI",
@@ -106,9 +84,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "tigerless-labs/agent-memory",
             "description": "Long-term memory runtime for AI agents \u2014 plain Markdown as the source of truth, local ranked retrieval, and an independent sleep-time Manage layer. Claude Code and Codex share one store. No API key.",
             "url": "https://github.com/tigerless-labs/agent-memory",
-            "stars": 672,
-            "forks": 37,
-            "score": 67
+            "stars": 706,
+            "forks": 40,
+            "score": 69
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "bot-crossing",
+            "full_name": "Station-Sciences/bot-crossing",
+            "description": "A video game for AI agents. Created by Jarren Rocks",
+            "url": "https://github.com/Station-Sciences/bot-crossing",
+            "stars": 381,
+            "forks": 123,
+            "score": 69
         },
         {
             "main_cat": "AI",
@@ -117,7 +106,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "adtexterry-lgtm/unigit-ecosystem",
             "description": "UNIGIT public brand and ecosystem hub \u2014 AI should work for everyone.",
             "url": "https://github.com/adtexterry-lgtm/unigit-ecosystem",
-            "stars": 550,
+            "stars": 552,
             "forks": 45,
             "score": 66
         },
@@ -128,7 +117,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "yilujian/easy-writing",
             "description": "\u6613\u521b\uff1a\u7eaf\u672c\u5730\u3001\u5f00\u6e90\u7684 AI \u7f51\u6587\u5199\u4f5c\u684c\u9762\u8f6f\u4ef6\uff0c\u652f\u6301\u5c0f\u8bf4\u521b\u4f5c\u3001AI \u8f85\u52a9\u5199\u4f5c\u3001BYOK \u4e0e\u81ea\u5b9a\u4e49\u63d0\u793a\u8bcd\u3002",
             "url": "https://github.com/yilujian/easy-writing",
-            "stars": 506,
+            "stars": 507,
             "forks": 87,
             "score": 65
         },
@@ -139,9 +128,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "ZJU-REAL/Easel",
             "description": "An open-source AI agent for social media \u2014 discover trends, create content, publish everywhere, and learn what works across Xiaohongshu, Douyin, Zhihu, Bilibili, and more.\ud83c\udfa8\u4e00\u4e2a\u5f00\u6e90\u7684 AI \u793e\u4ea4\u5a92\u4f53\u667a\u80fd\u4f53\u2014\u2014\u53d1\u73b0\u70ed\u70b9\u8d8b\u52bf\u3001\u521b\u4f5c\u5185\u5bb9\u3001\u4e00\u952e\u53d1\u5e03\u81f3\u5404\u5927\u5e73\u53f0\uff0c\u5e76\u5b66\u4e60\u5206\u6790\u54ea\u4e9b\u5185\u5bb9\u771f\u6b63\u6709\u6548\uff0c\u8986\u76d6\u5c0f\u7ea2\u4e66\u3001\u6296\u97f3\u3001\u77e5\u4e4e\u3001\u54d4\u54e9\u54d4\u54e9\u7b49\u5e73\u53f0\u3002",
             "url": "https://github.com/ZJU-REAL/Easel",
-            "stars": 705,
-            "forks": 86,
-            "score": 64
+            "stars": 725,
+            "forks": 90,
+            "score": 63
         },
         {
             "main_cat": "AI",
@@ -150,8 +139,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "i-am-manware/Manware-s-AI-Learning-Toolkit",
             "description": "An AI toolkit that turns agents into teachers rather than code yapping machines",
             "url": "https://github.com/i-am-manware/Manware-s-AI-Learning-Toolkit",
-            "stars": 294,
-            "forks": 35,
+            "stars": 297,
+            "forks": 36,
             "score": 61
         },
         {
@@ -172,8 +161,19 @@ const ALPHA_DATA_V2 = {
             "full_name": "Yean-Sec/StrikeAgent_AtkBrain-Flash",
             "description": "\u7531\u591c\u5b89\u56e2\u961f\u7814\u53d1\u7684AI\u6e17\u900f\u6d4b\u8bd5\u5e73\u53f0\uff0c\u6db5\u76d6\u7ea2\u961f\u6253\u70b9\u3001SRC\u3001CTF\uff0c\u7279\u522b\u662f\u5728\u7ea2\u961f\u9886\u57df\u6709\u6781\u4e3a\u4eae\u773c\u7684\u5b58\u5728",
             "url": "https://github.com/Yean-Sec/StrikeAgent_AtkBrain-Flash",
-            "stars": 305,
+            "stars": 306,
             "forks": 66,
+            "score": 58
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "SuperAstra",
+            "full_name": "ScottStevenson/SuperAstra",
+            "description": "Change SNES games with AI while you play them.",
+            "url": "https://github.com/ScottStevenson/SuperAstra",
+            "stars": 240,
+            "forks": 25,
             "score": 58
         },
         {
@@ -183,19 +183,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "carnot-tech/consulting-pptx-skill",
             "description": "AI\u306b\u307e\u3058\u306aPPTX\u3092\u4f5c\u3089\u305b\u308bClaude Code\u30b9\u30ad\u30eb \u2014 \u30b9\u30e9\u30a4\u30c9\u898f\u7d04\uff0b62\u578b\u30b9\u30e9\u30a4\u30c9\u578b\u30ab\u30bf\u30ed\u30b0\uff08SlideSpec 36\u578b\uff0b\u81ea\u7531\u8a18\u8ff027\u30d1\u30fc\u30c4\uff09\uff0b\u751f\u6210\u30d1\u30a4\u30d7\u30e9\u30a4\u30f3\uff0b\u6a5f\u68b0\u30c1\u30a7\u30c3\u30af",
             "url": "https://github.com/carnot-tech/consulting-pptx-skill",
-            "stars": 411,
+            "stars": 414,
             "forks": 36,
-            "score": 57
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "SuperAstra",
-            "full_name": "ScottStevenson/SuperAstra",
-            "description": "Change SNES games with AI while you play them.",
-            "url": "https://github.com/ScottStevenson/SuperAstra",
-            "stars": 237,
-            "forks": 24,
             "score": 57
         },
         {
@@ -205,7 +194,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Ryze-AI-Adgent/open-seo-mcp-skills",
             "description": "Open-source SEO + GEO skills for Claude on your real GSC/GA4/ads data. Free MCP: claude mcp add ryze --transport http https://connector.get-ryze.ai/mcp",
             "url": "https://github.com/Ryze-AI-Adgent/open-seo-mcp-skills",
-            "stars": 709,
+            "stars": 711,
             "forks": 11,
             "score": 56
         },
@@ -251,7 +240,18 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/kydlikebtc/awesome-grokbot",
             "stars": 292,
             "forks": 19,
-            "score": 46
+            "score": 45
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI Agents",
+            "name": "OrcaReplay",
+            "full_name": "Continuum-AI-Corp/OrcaReplay",
+            "description": "OrcaReplay \u2014 Time travel for AI agents. Record, replay, fork, and debug any agent run with any model. Built by the OrcaRouter.ai team.",
+            "url": "https://github.com/Continuum-AI-Corp/OrcaReplay",
+            "stars": 185,
+            "forks": 59,
+            "score": 45
         },
         {
             "main_cat": "AI",
@@ -266,14 +266,14 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
-            "sub_cat": "AI Agents",
-            "name": "OrcaReplay",
-            "full_name": "Continuum-AI-Corp/OrcaReplay",
-            "description": "OrcaReplay \u2014 Time travel for AI agents. Record, replay, fork, and debug any agent run with any model. Built by the OrcaRouter.ai team.",
-            "url": "https://github.com/Continuum-AI-Corp/OrcaReplay",
-            "stars": 183,
-            "forks": 59,
-            "score": 44
+            "sub_cat": "AI General",
+            "name": "vistep",
+            "full_name": "int64ago/vistep",
+            "description": "Visualize Every Step with AI \u2014 bilingual visual explanations, interactive models and synchronized narration.",
+            "url": "https://github.com/int64ago/vistep",
+            "stars": 162,
+            "forks": 7,
+            "score": 43
         },
         {
             "main_cat": "AI",
@@ -289,17 +289,6 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
-            "name": "design-os-3d-blender",
-            "full_name": "jangtrinh/design-os-3d-blender",
-            "description": "AI-agent operating system for Blender 5.2: skills, verified bpy knowledge base, AGENT_OK/AGENT_FAIL execution contract, production gate for 3D-printable parts, robot-arm demo",
-            "url": "https://github.com/jangtrinh/design-os-3d-blender",
-            "stars": 62,
-            "forks": 15,
-            "score": 40
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
             "name": "SlopMonster",
             "full_name": "ItsssssJack/SlopMonster",
             "description": "Turn AI-written copy into copy a human would ship. Lint for AI tells, cleanse with a rival model, lint again.",
@@ -307,6 +296,28 @@ const ALPHA_DATA_V2 = {
             "stars": 165,
             "forks": 23,
             "score": 39
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "short-drama-production",
+            "full_name": "suihe1/short-drama-production",
+            "description": "AI \u77ed\u5267\u751f\u4ea7\u603b\u63a7 / \u77ed\u5267skill\uff1a\u4e13\u4e1a\u5bfc\u6f14\u4e0e\u5206\u955c\u3001MiniMax H3\u3001CompShare\u3001\u58f0\u97f3\u8d44\u4ea7\u3001\u7c97\u526a\u4e0e QC\uff0c\u9ed8\u8ba4 16:9\u3002",
+            "url": "https://github.com/suihe1/short-drama-production",
+            "stars": 149,
+            "forks": 21,
+            "score": 38
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "design-os-3d-blender",
+            "full_name": "jangtrinh/design-os-3d-blender",
+            "description": "AI-agent operating system for Blender 5.2: skills, verified bpy knowledge base, AGENT_OK/AGENT_FAIL execution contract, production gate for 3D-printable parts, robot-arm demo",
+            "url": "https://github.com/jangtrinh/design-os-3d-blender",
+            "stars": 62,
+            "forks": 15,
+            "score": 38
         },
         {
             "main_cat": "AI",
@@ -318,17 +329,6 @@ const ALPHA_DATA_V2 = {
             "stars": 182,
             "forks": 14,
             "score": 37
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "jingyun-dsh",
-            "full_name": "jingyunstudio/jingyun-dsh",
-            "description": "\u57fa\u4e8e Jingyun Studio + DeepSeek Harness (DSH) \u6253\u9020\u7684\u4e00\u7ad9\u5f0f AI \u5546\u4e1a\u5316\u684c\u9762\u5ba2\u6237\u7aef",
-            "url": "https://github.com/jingyunstudio/jingyun-dsh",
-            "stars": 200,
-            "forks": 4,
-            "score": 36
         },
         {
             "main_cat": "AI",
@@ -458,17 +458,6 @@ const ALPHA_DATA_V2 = {
             "full_name": "payzum-dev/django-payments-payzum",
             "description": "Payzum provider for django-payments \u2014 accept crypto & stablecoin payments (USDC, USDT and more), non-custodial",
             "url": "https://github.com/payzum-dev/django-payments-payzum",
-            "stars": 0,
-            "forks": 0,
-            "score": 30
-        },
-        {
-            "main_cat": "Stablecoin Infrastructure",
-            "sub_cat": null,
-            "name": "ironixpay-core",
-            "full_name": "Vincentkovsky/ironixpay-core",
-            "description": "Open-source stablecoin payment infrastructure for TRON, EVM, and Solana",
-            "url": "https://github.com/Vincentkovsky/ironixpay-core",
             "stars": 0,
             "forks": 0,
             "score": 30
@@ -619,17 +608,6 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
-            "name": "PocketStrike",
-            "full_name": "AbuZar-Ansarii/PocketStrike",
-            "description": " PocketStrike is a privacy-first mobile AI workstation. It combines zero-cloud native on-device GGUF inference (ARM NEON accelerated)   \u2502 with frontier cloud LLMs, multi-step ReAct agent tools, Model Context Protocol (MCP) servers, self-evolving cross-session memory, and FLUX neural image   \u2502 generation.",
-            "url": "https://github.com/AbuZar-Ansarii/PocketStrike",
-            "stars": 3,
-            "forks": 2,
-            "score": 30
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
             "name": "CLPR-spec",
             "full_name": "hiero-hackers/CLPR-spec",
             "description": "CLPR (\u201cclipper\u201d) is a bridgeless Cross-Ledger Protocol in development by Hashgraph that sends cryptographically-secured messages between blockchain networks. Applications built on top of CLPR can move value, data and messages without bridges, pooled liquidity or intermediary validator networks.",
@@ -703,23 +681,31 @@ const ALPHA_DATA_V2 = {
             "stars": 0,
             "forks": 0,
             "score": 30
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "CredLens-AI",
+            "full_name": "OxTEJIRI/CredLens-AI",
+            "description": "CredLens AI uses the Attestcoin Protocol to bring verified cross-chain wallet activity into Creditcoin, analyzes those attested signals with an AI scoring engine, and records the resulting trust score or decision on-chain.",
+            "url": "https://github.com/OxTEJIRI/CredLens-AI",
+            "stars": 0,
+            "forks": 0,
+            "score": 30
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "attestable",
+            "full_name": "Nailer/attestable",
+            "description": "Parametric protection for blockchain infrastructure, settled on cryptographically verified cross-chain evidence. Built on Creditcoin's Attestcoin Protocol for BUIDL CTC 2026 Fall.",
+            "url": "https://github.com/Nailer/attestable",
+            "stars": 0,
+            "forks": 0,
+            "score": 30
         }
     ],
     "news": [
-        {
-            "title": "PrivEscalate: Measuring and Augmenting the Threat of LLM-Automated Linux Privilege Escalation",
-            "source": "ArXiv",
-            "type": "Research Alpha",
-            "color": "text-indigo-600",
-            "url": "http://arxiv.org/abs/2609.09087v1"
-        },
-        {
-            "title": "NERVE Attacks: Breaking AI-Powered Brain-Computer Interfaces",
-            "source": "ArXiv",
-            "type": "Research Alpha",
-            "color": "text-indigo-600",
-            "url": "http://arxiv.org/abs/2609.08971v1"
-        },
         {
             "title": "Bitcoin volatility remains high ahead of key FED decision.",
             "source": "Polymarket",
@@ -728,5 +714,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-09-09 23:45"
+    "timestamp": "2026-09-10 02:34"
 };
