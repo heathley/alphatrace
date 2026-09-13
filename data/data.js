@@ -40,8 +40,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "eternityspring/reelbench-skills",
             "description": "Learning notes and tooling skills for AI video - AI \u89c6\u9891\u76f8\u5173\u7684\u5b66\u4e60\u4e0e\u5de5\u5177 skill",
             "url": "https://github.com/eternityspring/reelbench-skills",
-            "stars": 472,
-            "forks": 65,
+            "stars": 490,
+            "forks": 68,
             "score": 99
         },
         {
@@ -51,8 +51,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "kruzovic7/ai-data-extractor",
             "description": "Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.",
             "url": "https://github.com/kruzovic7/ai-data-extractor",
-            "stars": 304,
-            "forks": 102,
+            "stars": 330,
+            "forks": 114,
             "score": 99
         },
         {
@@ -73,20 +73,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "tigerless-labs/agent-memory",
             "description": "Long-term memory runtime for AI agents \u2014 plain Markdown as the source of truth, local ranked retrieval, and an independent sleep-time Manage layer. Claude Code and Codex share one store. No API key.",
             "url": "https://github.com/tigerless-labs/agent-memory",
-            "stars": 1277,
+            "stars": 1279,
             "forks": 78,
             "score": 86
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "bot-crossing",
-            "full_name": "Station-Sciences/bot-crossing",
-            "description": "A video game for AI agents. Created by Jarren Rocks",
-            "url": "https://github.com/Station-Sciences/bot-crossing",
-            "stars": 520,
-            "forks": 160,
-            "score": 71
         },
         {
             "main_cat": "AI",
@@ -106,7 +95,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "GangTailorUpgrade/undress-service",
             "description": "Dress AI Sponsor",
             "url": "https://github.com/GangTailorUpgrade/undress-service",
-            "stars": 1237,
+            "stars": 1239,
             "forks": 6,
             "score": 69
         },
@@ -117,9 +106,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "okf-memory/okf-agent-memory",
             "description": "Git-native persistent memory for AI coding agents. Implements Google OKF v0.2 with sub-300\u00b5s in-memory BM25 search, embedded MCP server, and progressive disclosure. Slashes token bloat by 80% with zero external databases or dependencies. Built in pure Go.",
             "url": "https://github.com/okf-memory/okf-agent-memory",
-            "stars": 621,
+            "stars": 623,
             "forks": 44,
             "score": 69
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "bot-crossing",
+            "full_name": "Station-Sciences/bot-crossing",
+            "description": "A video game for AI agents. Created by Jarren Rocks",
+            "url": "https://github.com/Station-Sciences/bot-crossing",
+            "stars": 521,
+            "forks": 160,
+            "score": 68
         },
         {
             "main_cat": "AI",
@@ -150,8 +150,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "i-am-manware/Manware-s-AI-Learning-Toolkit",
             "description": "An AI toolkit that turns agents into teachers rather than code yapping machines",
             "url": "https://github.com/i-am-manware/Manware-s-AI-Learning-Toolkit",
-            "stars": 417,
-            "forks": 52,
+            "stars": 421,
+            "forks": 53,
             "score": 58
         },
         {
@@ -161,9 +161,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "zjwzcx/Awesome-Astra-Embodied-AI",
             "description": "GPT-6 Astra for embodied AI and robotics.",
             "url": "https://github.com/zjwzcx/Awesome-Astra-Embodied-AI",
-            "stars": 199,
-            "forks": 1,
-            "score": 55
+            "stars": 210,
+            "forks": 2,
+            "score": 57
         },
         {
             "main_cat": "AI",
@@ -172,9 +172,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "yi1108/printfilm",
             "description": "PRINTFILM\uff1aAI \u79d1\u666e\u89c6\u9891\u4e0e\u6f2b\u5267\u521b\u4f5c\u5e73\u53f0",
             "url": "https://github.com/yi1108/printfilm",
-            "stars": 261,
-            "forks": 8,
-            "score": 54
+            "stars": 266,
+            "forks": 9,
+            "score": 55
         },
         {
             "main_cat": "AI",
@@ -183,8 +183,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "BoardUI/boardui",
             "description": "React design system for agentic interfaces. Every free BoardUI component as source, with a working AI chat app on your own model key as the homepage.",
             "url": "https://github.com/BoardUI/boardui",
-            "stars": 424,
-            "forks": 50,
+            "stars": 429,
+            "forks": 51,
             "score": 52
         },
         {
@@ -211,17 +211,6 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
-            "sub_cat": null,
-            "name": "SuperAstra",
-            "full_name": "ScottStevenson/SuperAstra",
-            "description": "Change SNES games with AI while you play them.",
-            "url": "https://github.com/ScottStevenson/SuperAstra",
-            "stars": 261,
-            "forks": 31,
-            "score": 51
-        },
-        {
-            "main_cat": "AI",
             "sub_cat": "AI Agents",
             "name": "YourDesk",
             "full_name": "VaderChen/YourDesk",
@@ -230,6 +219,17 @@ const ALPHA_DATA_V2 = {
             "stars": 200,
             "forks": 30,
             "score": 50
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "SuperAstra",
+            "full_name": "ScottStevenson/SuperAstra",
+            "description": "Change SNES games with AI while you play them.",
+            "url": "https://github.com/ScottStevenson/SuperAstra",
+            "stars": 261,
+            "forks": 31,
+            "score": 49
         },
         {
             "main_cat": "AI",
@@ -249,7 +249,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "noskillish/bankmcp",
             "description": "BankMCP\u2122: your AI can now read your bank. Self-hosted, read-only MCP server for your own bank accounts via open banking (Enable Banking). Standard MCP; tested with Claude and Ollama.",
             "url": "https://github.com/noskillish/bankmcp",
-            "stars": 211,
+            "stars": 213,
             "forks": 34,
             "score": 49
         },
@@ -260,8 +260,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "Jakeschincariol/linkedin-agent-skill",
             "description": "Eleven free Claude skills that run a LinkedIn account: posts off 21 hook formulas, comments, replies, profile score, weekly plan, and a humanizer that strips the AI fingerprint and scores the draft before it goes out.",
             "url": "https://github.com/Jakeschincariol/linkedin-agent-skill",
-            "stars": 179,
-            "forks": 32,
+            "stars": 183,
+            "forks": 33,
             "score": 49
         },
         {
@@ -271,7 +271,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Phyzicalorg/Phyzical_org",
             "description": "Browser teleoperation data for embodied AI \u2014 elizaOS-ready episodes, trajectory_db converter, onchain provenance. The fuel station for agent robot stacks.",
             "url": "https://github.com/Phyzicalorg/Phyzical_org",
-            "stars": 258,
+            "stars": 259,
             "forks": 0,
             "score": 48
         },
@@ -315,7 +315,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Agenta-AI/awesome-ai-agent-platforms",
             "description": "A curated list of open-source AI agent platforms: AI coworkers and teammates, agent builders and frameworks, workflow automation platforms, browser agents, and coding agents, with licenses.",
             "url": "https://github.com/Agenta-AI/awesome-ai-agent-platforms",
-            "stars": 216,
+            "stars": 217,
             "forks": 7,
             "score": 38
         },
@@ -540,23 +540,23 @@ const ALPHA_DATA_V2 = {
             "score": 30
         },
         {
-            "main_cat": "Stablecoin Infrastructure",
-            "sub_cat": null,
-            "name": "pretix-payzum",
-            "full_name": "payzum-dev/pretix-payzum",
-            "description": "Payzum crypto/stablecoin payment provider for pretix \u2014 USDC, USDT and more, non-custodial",
-            "url": "https://github.com/payzum-dev/pretix-payzum",
-            "stars": 0,
-            "forks": 0,
-            "score": 30
-        },
-        {
             "main_cat": "AI",
             "sub_cat": "AI General",
             "name": "shopify-payzum",
             "full_name": "payzum-dev/shopify-payzum",
             "description": "Accept crypto & stablecoin payments (USDC, USDT, multi-chain) in Shopify with Payzum \u2014 non-custodial crypto payment gateway app (Payments App API)",
             "url": "https://github.com/payzum-dev/shopify-payzum",
+            "stars": 0,
+            "forks": 0,
+            "score": 30
+        },
+        {
+            "main_cat": "Stablecoin Infrastructure",
+            "sub_cat": null,
+            "name": "pretix-payzum",
+            "full_name": "payzum-dev/pretix-payzum",
+            "description": "Payzum crypto/stablecoin payment provider for pretix \u2014 USDC, USDT and more, non-custodial",
+            "url": "https://github.com/payzum-dev/pretix-payzum",
             "stars": 0,
             "forks": 0,
             "score": 30
@@ -802,5 +802,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-09-13 17:49"
+    "timestamp": "2026-09-13 20:06"
 };
