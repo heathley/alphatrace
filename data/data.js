@@ -8,7 +8,7 @@ const ALPHA_DATA_V2 = {
             "description": "Open-source AI brand visibility and competitor reports. Official website: https://niubigeo.ai/ | Paid services: AI testing by real people and GEO optimization. Pricing: https://niubigeo.ai/pricing",
             "url": "https://github.com/Albert-Weasker/niubigeo",
             "stars": 2392,
-            "forks": 94,
+            "forks": 95,
             "score": 99
         },
         {
@@ -29,8 +29,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "eternityspring/reelbench-skills",
             "description": "Learning notes and tooling skills for AI video - AI \u89c6\u9891\u76f8\u5173\u7684\u5b66\u4e60\u4e0e\u5de5\u5177 skill",
             "url": "https://github.com/eternityspring/reelbench-skills",
-            "stars": 510,
-            "forks": 69,
+            "stars": 519,
+            "forks": 70,
             "score": 99
         },
         {
@@ -40,8 +40,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "lfzk550/fanzha-ai-proxy",
             "description": "\u56fd\u5bb6\u53cd\u8bc8AI API \u8f6c OpenAI \u517c\u5bb9\u683c\u5f0f\u53cd\u5411\u4ee3\u7406\u670d\u52a1 || \u4ec5\u5b66\u4e60\u7528\u9014",
             "url": "https://github.com/lfzk550/fanzha-ai-proxy",
-            "stars": 490,
-            "forks": 352,
+            "stars": 491,
+            "forks": 353,
             "score": 99
         },
         {
@@ -51,20 +51,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "kruzovic7/ai-data-extractor",
             "description": "Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.",
             "url": "https://github.com/kruzovic7/ai-data-extractor",
-            "stars": 362,
-            "forks": 130,
+            "stars": 386,
+            "forks": 131,
             "score": 99
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "reverify",
-            "full_name": "2akouwu/reverify",
-            "description": "Stop your AI from making things up \u2014 it proposes, deterministic tools decide, every claim checked against ground truth with evidence. Grounded facts and context survive resets. Reverse engineering is the proving ground. MCP server + CLI.",
-            "url": "https://github.com/2akouwu/reverify",
-            "stars": 1188,
-            "forks": 233,
-            "score": 96
         },
         {
             "main_cat": "AI",
@@ -73,7 +62,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "tigerless-labs/agent-memory",
             "description": "Long-term memory runtime for AI agents \u2014 plain Markdown as the source of truth, local ranked retrieval, and an independent sleep-time Manage layer. Claude Code and Codex share one store. No API key.",
             "url": "https://github.com/tigerless-labs/agent-memory",
-            "stars": 1281,
+            "stars": 1282,
             "forks": 78,
             "score": 83
         },
@@ -91,22 +80,11 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "undress-service",
-            "full_name": "GangTailorUpgrade/undress-service",
-            "description": "Dress AI Sponsor",
-            "url": "https://github.com/GangTailorUpgrade/undress-service",
-            "stars": 1239,
-            "forks": 6,
-            "score": 69
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
             "name": "bot-crossing",
             "full_name": "Station-Sciences/bot-crossing",
             "description": "A video game for AI agents. Created by Jarren Rocks",
             "url": "https://github.com/Station-Sciences/bot-crossing",
-            "stars": 522,
+            "stars": 525,
             "forks": 160,
             "score": 68
         },
@@ -124,35 +102,13 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "OptiScaler-DLSSNR-PreSR-Multipass",
-            "full_name": "wilsjo2/OptiScaler-DLSSNR-PreSR-Multipass",
-            "description": "A game mod that uses NVIDIA AI to change lighting, detail and colour, with controls for strength and performance.",
-            "url": "https://github.com/wilsjo2/OptiScaler-DLSSNR-PreSR-Multipass",
-            "stars": 489,
-            "forks": 28,
-            "score": 60
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "easy-writing",
-            "full_name": "yilujian/easy-writing",
-            "description": "\u6613\u521b\uff1a\u7eaf\u672c\u5730\u3001\u5f00\u6e90\u7684 AI \u7f51\u6587\u5199\u4f5c\u684c\u9762\u8f6f\u4ef6\uff0c\u652f\u6301\u5c0f\u8bf4\u521b\u4f5c\u3001AI \u8f85\u52a9\u5199\u4f5c\u3001BYOK \u4e0e\u81ea\u5b9a\u4e49\u63d0\u793a\u8bcd\u3002",
-            "url": "https://github.com/yilujian/easy-writing",
-            "stars": 547,
-            "forks": 93,
-            "score": 58
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
             "name": "Manware-s-AI-Learning-Toolkit",
             "full_name": "i-am-manware/Manware-s-AI-Learning-Toolkit",
             "description": "An AI toolkit that turns agents into teachers rather than code yapping machines",
             "url": "https://github.com/i-am-manware/Manware-s-AI-Learning-Toolkit",
-            "stars": 425,
+            "stars": 427,
             "forks": 53,
-            "score": 58
+            "score": 59
         },
         {
             "main_cat": "AI",
@@ -161,9 +117,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "zjwzcx/Awesome-Astra-Embodied-AI",
             "description": "GPT-6 Astra for embodied AI and robotics.",
             "url": "https://github.com/zjwzcx/Awesome-Astra-Embodied-AI",
-            "stars": 217,
+            "stars": 225,
             "forks": 2,
-            "score": 58
+            "score": 59
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "OptiScaler-DLSSNR-PreSR-Multipass",
+            "full_name": "wilsjo2/OptiScaler-DLSSNR-PreSR-Multipass",
+            "description": "A game mod that uses NVIDIA AI to change lighting, detail and colour, with controls for strength and performance.",
+            "url": "https://github.com/wilsjo2/OptiScaler-DLSSNR-PreSR-Multipass",
+            "stars": 492,
+            "forks": 28,
+            "score": 57
         },
         {
             "main_cat": "AI",
@@ -178,14 +145,14 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "boardui",
-            "full_name": "BoardUI/boardui",
-            "description": "React design system for agentic interfaces. Every free BoardUI component as source, with a working AI chat app on your own model key as the homepage.",
-            "url": "https://github.com/BoardUI/boardui",
-            "stars": 431,
-            "forks": 51,
-            "score": 52
+            "sub_cat": null,
+            "name": "birdview",
+            "full_name": "Qiuner/birdview",
+            "description": "Stop letting AI code blind. Map the architecture before every change with Birdview.",
+            "url": "https://github.com/Qiuner/birdview",
+            "stars": 175,
+            "forks": 6,
+            "score": 54
         },
         {
             "main_cat": "AI",
@@ -211,6 +178,17 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "boardui",
+            "full_name": "BoardUI/boardui",
+            "description": "React design system for agentic interfaces. Every free BoardUI component as source, with a working AI chat app on your own model key as the homepage.",
+            "url": "https://github.com/BoardUI/boardui",
+            "stars": 432,
+            "forks": 51,
+            "score": 51
+        },
+        {
+            "main_cat": "AI",
             "sub_cat": "AI Agents",
             "name": "YourDesk",
             "full_name": "VaderChen/YourDesk",
@@ -219,6 +197,17 @@ const ALPHA_DATA_V2 = {
             "stars": 200,
             "forks": 30,
             "score": 50
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "Phyzical_org",
+            "full_name": "Phyzicalorg/Phyzical_org",
+            "description": "Browser teleoperation data for embodied AI \u2014 elizaOS-ready episodes, trajectory_db converter, onchain provenance. The fuel station for agent robot stacks.",
+            "url": "https://github.com/Phyzicalorg/Phyzical_org",
+            "stars": 269,
+            "forks": 0,
+            "score": 49
         },
         {
             "main_cat": "AI",
@@ -262,18 +251,18 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/Jakeschincariol/linkedin-agent-skill",
             "stars": 184,
             "forks": 33,
-            "score": 49
+            "score": 47
         },
         {
             "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "Phyzical_org",
-            "full_name": "Phyzicalorg/Phyzical_org",
-            "description": "Browser teleoperation data for embodied AI \u2014 elizaOS-ready episodes, trajectory_db converter, onchain provenance. The fuel station for agent robot stacks.",
-            "url": "https://github.com/Phyzicalorg/Phyzical_org",
-            "stars": 261,
-            "forks": 0,
-            "score": 48
+            "sub_cat": null,
+            "name": "vivid-figures-skill",
+            "full_name": "yjz211/vivid-figures-skill",
+            "description": "\u8ba9 AI \u7528\u4f60\u7684\u6570\u636e\u751f\u6210\u79d1\u7814\u56fe\u8868\uff1a108 \u4e2a\u914d\u65b9\uff0c\u9c9c\u8273\u4e0e\u7a33\u91cd\u4e24\u79cd\u98ce\u683c\uff0c\u591a\u5957\u914d\u8272\uff0c\u4ea4\u4ed8\u56fe\u7247\u4e0e\u6e90\u7801\u3002\u4ec5\u9650\u4e2a\u4eba\u975e\u5546\u4e1a\u4f7f\u7528\u3002",
+            "url": "https://github.com/yjz211/vivid-figures-skill",
+            "stars": 177,
+            "forks": 9,
+            "score": 47
         },
         {
             "main_cat": "AI",
@@ -304,7 +293,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "int64ago/vistep",
             "description": "Visualize Every Step with AI \u2014 bilingual visual explanations, interactive models and synchronized narration.",
             "url": "https://github.com/int64ago/vistep",
-            "stars": 195,
+            "stars": 196,
             "forks": 10,
             "score": 40
         },
@@ -318,6 +307,17 @@ const ALPHA_DATA_V2 = {
             "stars": 218,
             "forks": 7,
             "score": 38
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "papergraph-mcp",
+            "full_name": "lotchuazzz-crypto/papergraph-mcp",
+            "description": "PaperGraph MCP turns math papers into evidence-grounded reading maps for AI agents: extract results, trace proof evidence, plan reading order, and review external dependencies without guessing.",
+            "url": "https://github.com/lotchuazzz-crypto/papergraph-mcp",
+            "stars": 161,
+            "forks": 2,
+            "score": 36
         },
         {
             "main_cat": "AI",
@@ -408,17 +408,6 @@ const ALPHA_DATA_V2 = {
             "score": 30
         },
         {
-            "main_cat": "Prediction Markets",
-            "sub_cat": null,
-            "name": "Som-oracleBet-stellar",
-            "full_name": "som425/Som-oracleBet-stellar",
-            "description": "OracleBet is a decentralized prediction market built on Stellar Soroban, where users can create markets, place XLM bets, and earn rewards from correctly predicted outcomes.",
-            "url": "https://github.com/som425/Som-oracleBet-stellar",
-            "stars": 1,
-            "forks": 0,
-            "score": 30
-        },
-        {
             "main_cat": "AI",
             "sub_cat": "AI General",
             "name": "nba-nfl-predictions",
@@ -436,6 +425,17 @@ const ALPHA_DATA_V2 = {
             "full_name": "dultimateade/hermes",
             "description": "Prediction market smart contracts built on Stellar's Soroban VM; featuring oracle resolution, dispute handling, betting, fees, and governance",
             "url": "https://github.com/dultimateade/hermes",
+            "stars": 0,
+            "forks": 0,
+            "score": 30
+        },
+        {
+            "main_cat": "Prediction Markets",
+            "sub_cat": null,
+            "name": "v4-prophecy-hook",
+            "full_name": "ParsaAbolhasani/v4-prophecy-hook",
+            "description": "Traditional prediction markets force users to **sell their assets into USD** before betting. This exposes them to **impermanent loss**, **liquidation risk**, and **slippage** \u2014 three problems that have kept billions of dollars of tokenized stock and memecoins sitting on the sidelines.",
+            "url": "https://github.com/ParsaAbolhasani/v4-prophecy-hook",
             "stars": 0,
             "forks": 0,
             "score": 30
@@ -718,22 +718,22 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
-            "name": "DeFiBridgeDiamond",
-            "full_name": "emilybarru/DeFiBridgeDiamond",
-            "description": "DeFiBridgeDiamond is a decentralized, multi-asset bridge protocol facilitating efficient cross-chain transactions. focused on Transparent and practical use",
-            "url": "https://github.com/emilybarru/DeFiBridgeDiamond",
-            "stars": 5,
+            "name": "clientexec-payzum",
+            "full_name": "payzum-dev/clientexec-payzum",
+            "description": "Accept crypto & stablecoin payments (USDC, USDT, multi-chain) in ClientExec with Payzum \u2014 non-custodial crypto payment gateway plugin for hosting billing",
+            "url": "https://github.com/payzum-dev/clientexec-payzum",
+            "stars": 0,
             "forks": 0,
             "score": 30
         },
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
-            "name": "clpr-spec",
-            "full_name": "LFDT-CLPR/clpr-spec",
-            "description": "CLPR (\u201cclipper\u201d) is a bridgeless Cross-Ledger Protocol in development by Hashgraph that sends cryptographically-secured messages between blockchain networks. Applications built on top of CLPR can move value, data and messages without bridges, pooled liquidity or intermediary validator networks.",
-            "url": "https://github.com/LFDT-CLPR/clpr-spec",
-            "stars": 2,
+            "name": "DeFiBridgeDiamond",
+            "full_name": "emilybarru/DeFiBridgeDiamond",
+            "description": "DeFiBridgeDiamond is a decentralized, multi-asset bridge protocol facilitating efficient cross-chain transactions. focused on Transparent and practical use",
+            "url": "https://github.com/emilybarru/DeFiBridgeDiamond",
+            "stars": 5,
             "forks": 0,
             "score": 30
         },
@@ -791,6 +791,17 @@ const ALPHA_DATA_V2 = {
             "stars": 0,
             "forks": 0,
             "score": 30
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "attestable",
+            "full_name": "Nailer/attestable",
+            "description": "Parametric protection for blockchain infrastructure, settled on cryptographically verified cross-chain evidence. Built on Creditcoin's Attestcoin Protocol for BUIDL CTC 2026 Fall.",
+            "url": "https://github.com/Nailer/attestable",
+            "stars": 0,
+            "forks": 0,
+            "score": 30
         }
     ],
     "news": [
@@ -802,5 +813,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-09-13 22:45"
+    "timestamp": "2026-09-14 00:35"
 };
