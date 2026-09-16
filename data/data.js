@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "Albert-Weasker/niubigeo",
             "description": "Open-source AI brand visibility and competitor reports. Official website: https://niubigeo.ai/ | Paid services: AI testing by real people and GEO optimization. Pricing: https://niubigeo.ai/pricing",
             "url": "https://github.com/Albert-Weasker/niubigeo",
-            "stars": 2485,
-            "forks": 98,
+            "stars": 2486,
+            "forks": 99,
             "score": 99
         },
         {
@@ -18,7 +18,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "ai-sucks-butt/ai-sucks-butt",
             "description": "If you think AI sucks, star the repo.",
             "url": "https://github.com/ai-sucks-butt/ai-sucks-butt",
-            "stars": 1118,
+            "stars": 1736,
             "forks": 0,
             "score": 99
         },
@@ -51,7 +51,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "eternityspring/reelbench-skills",
             "description": "Learning notes and tooling skills for AI video - AI \u89c6\u9891\u76f8\u5173\u7684\u5b66\u4e60\u4e0e\u5de5\u5177 skill",
             "url": "https://github.com/eternityspring/reelbench-skills",
-            "stars": 706,
+            "stars": 707,
             "forks": 93,
             "score": 97
         },
@@ -62,7 +62,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "zjwzcx/Awesome-Astra-Embodied-AI",
             "description": "GPT-6 Astra for embodied AI and robotics.",
             "url": "https://github.com/zjwzcx/Awesome-Astra-Embodied-AI",
-            "stars": 759,
+            "stars": 760,
             "forks": 14,
             "score": 88
         },
@@ -84,9 +84,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "agentverse-os/AgentVerse-OS",
             "description": "Personal cloud OS for a developer and their AI agents on a single server. One-command install on Ubuntu, then everything in the browser: a windowed desktop, isolated workspaces with VS Code, Claude Code and Codex, a store of 944 self-hosted apps, backups and updates. Access only via Tailscale, nothing exposed to the internet. Rust core, Svelte UI.",
             "url": "https://github.com/agentverse-os/AgentVerse-OS",
-            "stars": 669,
+            "stars": 677,
             "forks": 18,
-            "score": 82
+            "score": 83
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "printfilm",
+            "full_name": "yi1108/printfilm",
+            "description": "PRINTFILM\uff1aAI \u79d1\u666e\u89c6\u9891\u4e0e\u6f2b\u5267\u521b\u4f5c\u5e73\u53f0",
+            "url": "https://github.com/yi1108/printfilm",
+            "stars": 526,
+            "forks": 16,
+            "score": 62
         },
         {
             "main_cat": "AI",
@@ -97,18 +108,7 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/okf-memory/okf-agent-memory",
             "stars": 682,
             "forks": 51,
-            "score": 64
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "printfilm",
-            "full_name": "yi1108/printfilm",
-            "description": "PRINTFILM\uff1aAI \u79d1\u666e\u89c6\u9891\u4e0e\u6f2b\u5267\u521b\u4f5c\u5e73\u53f0",
-            "url": "https://github.com/yi1108/printfilm",
-            "stars": 516,
-            "forks": 16,
-            "score": 62
+            "score": 61
         },
         {
             "main_cat": "AI",
@@ -117,7 +117,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Qiuner/birdview",
             "description": "Stop letting AI code blind. Map the architecture before every change with Birdview.",
             "url": "https://github.com/Qiuner/birdview",
-            "stars": 310,
+            "stars": 312,
             "forks": 21,
             "score": 58
         },
@@ -128,9 +128,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "wilsjo2/OptiScaler-DLSSNR-PreSR-Multipass",
             "description": "A game mod that uses NVIDIA AI to change lighting, detail and colour, with controls for strength and performance.",
             "url": "https://github.com/wilsjo2/OptiScaler-DLSSNR-PreSR-Multipass",
-            "stars": 573,
-            "forks": 32,
-            "score": 56
+            "stars": 574,
+            "forks": 33,
+            "score": 57
         },
         {
             "main_cat": "AI",
@@ -139,7 +139,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "i-am-manware/Manware-s-AI-Learning-Toolkit",
             "description": "An AI toolkit that turns agents into teachers rather than code yapping machines",
             "url": "https://github.com/i-am-manware/Manware-s-AI-Learning-Toolkit",
-            "stars": 484,
+            "stars": 486,
             "forks": 58,
             "score": 55
         },
@@ -161,20 +161,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "yjz211/vivid-figures-skill",
             "description": "\u8ba9 AI \u7528\u4f60\u7684\u6570\u636e\u751f\u6210\u79d1\u7814\u56fe\u8868\uff1a108 \u4e2a\u914d\u65b9\uff0c\u9c9c\u8273\u4e0e\u7a33\u91cd\u4e24\u79cd\u98ce\u683c\uff0c\u591a\u5957\u914d\u8272\uff0c\u4ea4\u4ed8\u56fe\u7247\u4e0e\u6e90\u7801\u3002\u4ec5\u9650\u4e2a\u4eba\u975e\u5546\u4e1a\u4f7f\u7528\u3002",
             "url": "https://github.com/yjz211/vivid-figures-skill",
-            "stars": 273,
-            "forks": 16,
-            "score": 48
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "Dlls5-auto",
-            "full_name": "groundboxerrespect/Dlls5-auto",
-            "description": "\ud83c\udfae Self-hosted neural rendering & AI image enhancement service inspired by DLSS 5. Turn any photo, screenshot or game capture into a photoreal cinematic render \u2014 bloom, filmic tone mapping, 6 style presets, REST API, batch mode. Python + FastAPI + Docker. Free & open-source.",
-            "url": "https://github.com/groundboxerrespect/Dlls5-auto",
-            "stars": 254,
-            "forks": 1,
-            "score": 48
+            "stars": 277,
+            "forks": 17,
+            "score": 49
         },
         {
             "main_cat": "AI",
@@ -183,8 +172,19 @@ const ALPHA_DATA_V2 = {
             "full_name": "Jakeschincariol/linkedin-agent-skill",
             "description": "Eleven free Claude skills that run a LinkedIn account: posts off 21 hook formulas, comments, replies, profile score, weekly plan, and a humanizer that strips the AI fingerprint and scores the draft before it goes out.",
             "url": "https://github.com/Jakeschincariol/linkedin-agent-skill",
-            "stars": 252,
+            "stars": 261,
             "forks": 41,
+            "score": 49
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "Dlls5-auto",
+            "full_name": "groundboxerrespect/Dlls5-auto",
+            "description": "\ud83c\udfae Self-hosted neural rendering & AI image enhancement service inspired by DLSS 5. Turn any photo, screenshot or game capture into a photoreal cinematic render \u2014 bloom, filmic tone mapping, 6 style presets, REST API, batch mode. Python + FastAPI + Docker. Free & open-source.",
+            "url": "https://github.com/groundboxerrespect/Dlls5-auto",
+            "stars": 255,
+            "forks": 1,
             "score": 48
         },
         {
@@ -196,17 +196,6 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/VaderChen/YourDesk",
             "stars": 239,
             "forks": 34,
-            "score": 47
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "gap-trap",
-            "full_name": "pliablepixels/gap-trap",
-            "description": "Turns vibe coding into high quality code. Sets up rules and gates in your repo so AI-written code stays correct without you reviewing every line.",
-            "url": "https://github.com/pliablepixels/gap-trap",
-            "stars": 155,
-            "forks": 6,
             "score": 47
         },
         {
@@ -238,7 +227,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "noskillish/bankmcp",
             "description": "BankMCP\u2122: your AI can now read your bank. Self-hosted, read-only MCP server for your own bank accounts via open banking (Enable Banking). Standard MCP; tested with Claude and Ollama.",
             "url": "https://github.com/noskillish/bankmcp",
-            "stars": 229,
+            "stars": 231,
             "forks": 34,
             "score": 45
         },
@@ -262,6 +251,17 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/mangfufu/director-desk",
             "stars": 173,
             "forks": 50,
+            "score": 44
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "gap-trap",
+            "full_name": "pliablepixels/gap-trap",
+            "description": "Turns vibe coding into high quality code. Sets up rules and gates in your repo so AI-written code stays correct without you reviewing every line.",
+            "url": "https://github.com/pliablepixels/gap-trap",
+            "stars": 155,
+            "forks": 6,
             "score": 44
         },
         {
@@ -304,7 +304,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "BuzzPlay/infinite-world",
             "description": "An open-source system for building persistent worlds with multimodal AI.",
             "url": "https://github.com/BuzzPlay/infinite-world",
-            "stars": 184,
+            "stars": 185,
             "forks": 19,
             "score": 38
         },
@@ -315,7 +315,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Eurekaleo/awesome-ai-for-games",
             "description": "A curated, searchable collection of research on AI and foundation models across the game lifecycle.",
             "url": "https://github.com/Eurekaleo/awesome-ai-for-games",
-            "stars": 154,
+            "stars": 158,
             "forks": 8,
             "score": 36
         },
@@ -706,5 +706,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-09-16 19:17"
+    "timestamp": "2026-09-16 22:32"
 };
