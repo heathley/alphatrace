@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "Albert-Weasker/niubigeo",
             "description": "Open-source AI brand visibility and competitor reports. Official website: https://niubigeo.ai/ | Paid services: AI testing by real people and GEO optimization. Pricing: https://niubigeo.ai/pricing",
             "url": "https://github.com/Albert-Weasker/niubigeo",
-            "stars": 2478,
-            "forks": 97,
+            "stars": 2485,
+            "forks": 98,
             "score": 99
         },
         {
@@ -18,7 +18,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "ai-sucks-butt/ai-sucks-butt",
             "description": "If you think AI sucks, star the repo.",
             "url": "https://github.com/ai-sucks-butt/ai-sucks-butt",
-            "stars": 1037,
+            "stars": 1118,
             "forks": 0,
             "score": 99
         },
@@ -40,7 +40,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "lfzk550/fanzha-ai-proxy",
             "description": "\u56fd\u5bb6\u53cd\u8bc8AI API \u8f6c OpenAI \u517c\u5bb9\u683c\u5f0f\u53cd\u5411\u4ee3\u7406\u670d\u52a1 || \u4ec5\u5b66\u4e60\u7528\u9014",
             "url": "https://github.com/lfzk550/fanzha-ai-proxy",
-            "stars": 521,
+            "stars": 522,
             "forks": 358,
             "score": 99
         },
@@ -51,20 +51,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "eternityspring/reelbench-skills",
             "description": "Learning notes and tooling skills for AI video - AI \u89c6\u9891\u76f8\u5173\u7684\u5b66\u4e60\u4e0e\u5de5\u5177 skill",
             "url": "https://github.com/eternityspring/reelbench-skills",
-            "stars": 705,
+            "stars": 706,
             "forks": 93,
             "score": 97
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "AgentVerse-OS",
-            "full_name": "agentverse-os/AgentVerse-OS",
-            "description": "Personal cloud OS for a developer and their AI agents on a single server. One-command install on Ubuntu, then everything in the browser: a windowed desktop, isolated workspaces with VS Code, Claude Code and Codex, a store of 944 self-hosted apps, backups and updates. Access only via Tailscale, nothing exposed to the internet. Rust core, Svelte UI.",
-            "url": "https://github.com/agentverse-os/AgentVerse-OS",
-            "stars": 655,
-            "forks": 18,
-            "score": 90
         },
         {
             "main_cat": "AI",
@@ -73,9 +62,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "zjwzcx/Awesome-Astra-Embodied-AI",
             "description": "GPT-6 Astra for embodied AI and robotics.",
             "url": "https://github.com/zjwzcx/Awesome-Astra-Embodied-AI",
-            "stars": 753,
+            "stars": 759,
             "forks": 14,
-            "score": 87
+            "score": 88
         },
         {
             "main_cat": "AI",
@@ -84,9 +73,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "youngyangyang04/llm-master",
             "description": "\u5927\u6a21\u578b\uff08LLM\uff09\u5168\u6808\u5b66\u4e60\u8def\u7ebf\u4e0e\u4e2d\u6587\u6559\u7a0b\ud83d\udd25\uff1a\u8986\u76d6 Prompt Engineering\u3001RAG\u3001AI Agent\u3001MCP\u3001\u5fae\u8c03\u3001\u6a21\u578b\u90e8\u7f72\u3001Transformer\u3001AI \u7f16\u7a0b\u4e0e\u5927\u5382\u9762\u8bd5\uff0c\u4ece\u5165\u95e8\u5230\u751f\u4ea7\u5b9e\u8df5\u3002",
             "url": "https://github.com/youngyangyang04/llm-master",
-            "stars": 553,
-            "forks": 52,
-            "score": 84
+            "stars": 559,
+            "forks": 53,
+            "score": 85
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "AgentVerse-OS",
+            "full_name": "agentverse-os/AgentVerse-OS",
+            "description": "Personal cloud OS for a developer and their AI agents on a single server. One-command install on Ubuntu, then everything in the browser: a windowed desktop, isolated workspaces with VS Code, Claude Code and Codex, a store of 944 self-hosted apps, backups and updates. Access only via Tailscale, nothing exposed to the internet. Rust core, Svelte UI.",
+            "url": "https://github.com/agentverse-os/AgentVerse-OS",
+            "stars": 669,
+            "forks": 18,
+            "score": 82
         },
         {
             "main_cat": "AI",
@@ -95,7 +95,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "okf-memory/okf-agent-memory",
             "description": "Git-native persistent memory for AI coding agents. Implements Google OKF v0.2 with sub-300\u00b5s in-memory BM25 search, embedded MCP server, and progressive disclosure. Slashes token bloat by 80% with zero external databases or dependencies. Built in pure Go.",
             "url": "https://github.com/okf-memory/okf-agent-memory",
-            "stars": 680,
+            "stars": 682,
             "forks": 51,
             "score": 64
         },
@@ -106,20 +106,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "yi1108/printfilm",
             "description": "PRINTFILM\uff1aAI \u79d1\u666e\u89c6\u9891\u4e0e\u6f2b\u5267\u521b\u4f5c\u5e73\u53f0",
             "url": "https://github.com/yi1108/printfilm",
-            "stars": 496,
+            "stars": 516,
             "forks": 16,
-            "score": 61
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "Manware-s-AI-Learning-Toolkit",
-            "full_name": "i-am-manware/Manware-s-AI-Learning-Toolkit",
-            "description": "An AI toolkit that turns agents into teachers rather than code yapping machines",
-            "url": "https://github.com/i-am-manware/Manware-s-AI-Learning-Toolkit",
-            "stars": 481,
-            "forks": 57,
-            "score": 57
+            "score": 62
         },
         {
             "main_cat": "AI",
@@ -128,9 +117,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "Qiuner/birdview",
             "description": "Stop letting AI code blind. Map the architecture before every change with Birdview.",
             "url": "https://github.com/Qiuner/birdview",
-            "stars": 303,
+            "stars": 310,
             "forks": 21,
-            "score": 57
+            "score": 58
         },
         {
             "main_cat": "AI",
@@ -146,11 +135,22 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
+            "name": "Manware-s-AI-Learning-Toolkit",
+            "full_name": "i-am-manware/Manware-s-AI-Learning-Toolkit",
+            "description": "An AI toolkit that turns agents into teachers rather than code yapping machines",
+            "url": "https://github.com/i-am-manware/Manware-s-AI-Learning-Toolkit",
+            "stars": 484,
+            "forks": 58,
+            "score": 55
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
             "name": "ToolReplay",
             "full_name": "Matthew0822/ToolReplay",
             "description": "Audit AI agent tool-call transcripts: hash-chain sealing, deterministic replay, and scope overreach checks. Dependency-free Python CLI.",
             "url": "https://github.com/Matthew0822/ToolReplay",
-            "stars": 172,
+            "stars": 173,
             "forks": 19,
             "score": 54
         },
@@ -161,8 +161,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "yjz211/vivid-figures-skill",
             "description": "\u8ba9 AI \u7528\u4f60\u7684\u6570\u636e\u751f\u6210\u79d1\u7814\u56fe\u8868\uff1a108 \u4e2a\u914d\u65b9\uff0c\u9c9c\u8273\u4e0e\u7a33\u91cd\u4e24\u79cd\u98ce\u683c\uff0c\u591a\u5957\u914d\u8272\uff0c\u4ea4\u4ed8\u56fe\u7247\u4e0e\u6e90\u7801\u3002\u4ec5\u9650\u4e2a\u4eba\u975e\u5546\u4e1a\u4f7f\u7528\u3002",
             "url": "https://github.com/yjz211/vivid-figures-skill",
-            "stars": 268,
-            "forks": 15,
+            "stars": 273,
+            "forks": 16,
             "score": 48
         },
         {
@@ -172,7 +172,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "groundboxerrespect/Dlls5-auto",
             "description": "\ud83c\udfae Self-hosted neural rendering & AI image enhancement service inspired by DLSS 5. Turn any photo, screenshot or game capture into a photoreal cinematic render \u2014 bloom, filmic tone mapping, 6 style presets, REST API, batch mode. Python + FastAPI + Docker. Free & open-source.",
             "url": "https://github.com/groundboxerrespect/Dlls5-auto",
-            "stars": 248,
+            "stars": 254,
             "forks": 1,
             "score": 48
         },
@@ -183,8 +183,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "Jakeschincariol/linkedin-agent-skill",
             "description": "Eleven free Claude skills that run a LinkedIn account: posts off 21 hook formulas, comments, replies, profile score, weekly plan, and a humanizer that strips the AI fingerprint and scores the draft before it goes out.",
             "url": "https://github.com/Jakeschincariol/linkedin-agent-skill",
-            "stars": 247,
-            "forks": 38,
+            "stars": 252,
+            "forks": 41,
             "score": 48
         },
         {
@@ -205,20 +205,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "pliablepixels/gap-trap",
             "description": "Turns vibe coding into high quality code. Sets up rules and gates in your repo so AI-written code stays correct without you reviewing every line.",
             "url": "https://github.com/pliablepixels/gap-trap",
-            "stars": 153,
+            "stars": 155,
             "forks": 6,
             "score": 47
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "SuperAstra",
-            "full_name": "ScottStevenson/SuperAstra",
-            "description": "Change SNES games with AI while you play them.",
-            "url": "https://github.com/ScottStevenson/SuperAstra",
-            "stars": 275,
-            "forks": 32,
-            "score": 46
         },
         {
             "main_cat": "AI",
@@ -234,12 +223,34 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
+            "name": "SuperAstra",
+            "full_name": "ScottStevenson/SuperAstra",
+            "description": "Change SNES games with AI while you play them.",
+            "url": "https://github.com/ScottStevenson/SuperAstra",
+            "stars": 275,
+            "forks": 32,
+            "score": 45
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
             "name": "bankmcp",
             "full_name": "noskillish/bankmcp",
             "description": "BankMCP\u2122: your AI can now read your bank. Self-hosted, read-only MCP server for your own bank accounts via open banking (Enable Banking). Standard MCP; tested with Claude and Ollama.",
             "url": "https://github.com/noskillish/bankmcp",
-            "stars": 226,
+            "stars": 229,
             "forks": 34,
+            "score": 45
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "loopera",
+            "full_name": "Loopera-ai/loopera",
+            "description": "\u9762\u5411\u57fa\u672c\u9762\u56e0\u5b50\u7814\u7a76\u7684\u667a\u80fd\u4f53-A hypothesis-driven AI agent for fundamental factor research, with evidence-gated validation and research memory.",
+            "url": "https://github.com/Loopera-ai/loopera",
+            "stars": 205,
+            "forks": 33,
             "score": 45
         },
         {
@@ -251,17 +262,6 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/mangfufu/director-desk",
             "stars": 173,
             "forks": 50,
-            "score": 45
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "loopera",
-            "full_name": "Loopera-ai/loopera",
-            "description": "\u9762\u5411\u57fa\u672c\u9762\u56e0\u5b50\u7814\u7a76\u7684\u667a\u80fd\u4f53-A hypothesis-driven AI agent for fundamental factor research, with evidence-gated validation and research memory.",
-            "url": "https://github.com/Loopera-ai/loopera",
-            "stars": 187,
-            "forks": 31,
             "score": 44
         },
         {
@@ -310,14 +310,14 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
-            "sub_cat": null,
-            "name": "unreel",
-            "full_name": "blendi-remade/unreel",
-            "description": "Your personal AI video streaming service",
-            "url": "https://github.com/blendi-remade/unreel",
-            "stars": 149,
-            "forks": 31,
-            "score": 38
+            "sub_cat": "AI General",
+            "name": "awesome-ai-for-games",
+            "full_name": "Eurekaleo/awesome-ai-for-games",
+            "description": "A curated, searchable collection of research on AI and foundation models across the game lifecycle.",
+            "url": "https://github.com/Eurekaleo/awesome-ai-for-games",
+            "stars": 154,
+            "forks": 8,
+            "score": 36
         },
         {
             "main_cat": "AI",
@@ -608,17 +608,6 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
-            "name": "magento2-payzum",
-            "full_name": "payzum-dev/magento2-payzum",
-            "description": "Accept crypto & stablecoin payments (USDC, USDT, multi-chain) in Magento 2 / Adobe Commerce with Payzum \u2014 non-custodial crypto payment gateway module",
-            "url": "https://github.com/payzum-dev/magento2-payzum",
-            "stars": 0,
-            "forks": 0,
-            "score": 30
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
             "name": "hostbill-payzum",
             "full_name": "payzum-dev/hostbill-payzum",
             "description": "Accept crypto & stablecoin payments (USDC, USDT, multi-chain) in HostBill with Payzum \u2014 non-custodial crypto payment gateway module for hosting billing",
@@ -630,10 +619,10 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
-            "name": "medusa-payment-payzum",
-            "full_name": "payzum-dev/medusa-payment-payzum",
-            "description": "Accept crypto & stablecoin payments (USDC, USDT, multi-chain) in Medusa v2 with Payzum \u2014 non-custodial crypto payment provider plugin for MedusaJS",
-            "url": "https://github.com/payzum-dev/medusa-payment-payzum",
+            "name": "magento2-payzum",
+            "full_name": "payzum-dev/magento2-payzum",
+            "description": "Accept crypto & stablecoin payments (USDC, USDT, multi-chain) in Magento 2 / Adobe Commerce with Payzum \u2014 non-custodial crypto payment gateway module",
+            "url": "https://github.com/payzum-dev/magento2-payzum",
             "stars": 0,
             "forks": 0,
             "score": 30
@@ -645,6 +634,17 @@ const ALPHA_DATA_V2 = {
             "full_name": "payzum-dev/clientexec-payzum",
             "description": "Accept crypto & stablecoin payments (USDC, USDT, multi-chain) in ClientExec with Payzum \u2014 non-custodial crypto payment gateway plugin for hosting billing",
             "url": "https://github.com/payzum-dev/clientexec-payzum",
+            "stars": 0,
+            "forks": 0,
+            "score": 30
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "medusa-payment-payzum",
+            "full_name": "payzum-dev/medusa-payment-payzum",
+            "description": "Accept crypto & stablecoin payments (USDC, USDT, multi-chain) in Medusa v2 with Payzum \u2014 non-custodial crypto payment provider plugin for MedusaJS",
+            "url": "https://github.com/payzum-dev/medusa-payment-payzum",
             "stars": 0,
             "forks": 0,
             "score": 30
@@ -706,5 +706,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-09-16 15:16"
+    "timestamp": "2026-09-16 19:17"
 };
