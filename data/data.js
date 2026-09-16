@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "Albert-Weasker/niubigeo",
             "description": "Open-source AI brand visibility and competitor reports. Official website: https://niubigeo.ai/ | Paid services: AI testing by real people and GEO optimization. Pricing: https://niubigeo.ai/pricing",
             "url": "https://github.com/Albert-Weasker/niubigeo",
-            "stars": 2428,
-            "forks": 94,
+            "stars": 2463,
+            "forks": 96,
             "score": 99
         },
         {
@@ -18,7 +18,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "ai-sucks-butt/ai-sucks-butt",
             "description": "If you think AI sucks, star the repo.",
             "url": "https://github.com/ai-sucks-butt/ai-sucks-butt",
-            "stars": 1030,
+            "stars": 1033,
             "forks": 0,
             "score": 99
         },
@@ -29,7 +29,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "kruzovic7/ai-data-extractor",
             "description": "Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.",
             "url": "https://github.com/kruzovic7/ai-data-extractor",
-            "stars": 823,
+            "stars": 824,
             "forks": 132,
             "score": 99
         },
@@ -40,20 +40,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "lfzk550/fanzha-ai-proxy",
             "description": "\u56fd\u5bb6\u53cd\u8bc8AI API \u8f6c OpenAI \u517c\u5bb9\u683c\u5f0f\u53cd\u5411\u4ee3\u7406\u670d\u52a1 || \u4ec5\u5b66\u4e60\u7528\u9014",
             "url": "https://github.com/lfzk550/fanzha-ai-proxy",
-            "stars": 516,
+            "stars": 518,
             "forks": 359,
             "score": 99
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "reelbench-skills",
-            "full_name": "eternityspring/reelbench-skills",
-            "description": "Learning notes and tooling skills for AI video - AI \u89c6\u9891\u76f8\u5173\u7684\u5b66\u4e60\u4e0e\u5de5\u5177 skill",
-            "url": "https://github.com/eternityspring/reelbench-skills",
-            "stars": 698,
-            "forks": 92,
-            "score": 96
         },
         {
             "main_cat": "AI",
@@ -62,9 +51,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "zjwzcx/Awesome-Astra-Embodied-AI",
             "description": "GPT-6 Astra for embodied AI and robotics.",
             "url": "https://github.com/zjwzcx/Awesome-Astra-Embodied-AI",
-            "stars": 711,
-            "forks": 13,
-            "score": 93
+            "stars": 740,
+            "forks": 14,
+            "score": 96
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "reelbench-skills",
+            "full_name": "eternityspring/reelbench-skills",
+            "description": "Learning notes and tooling skills for AI video - AI \u89c6\u9891\u76f8\u5173\u7684\u5b66\u4e60\u4e0e\u5de5\u5177 skill",
+            "url": "https://github.com/eternityspring/reelbench-skills",
+            "stars": 703,
+            "forks": 92,
+            "score": 96
         },
         {
             "main_cat": "AI",
@@ -73,8 +73,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "agentverse-os/AgentVerse-OS",
             "description": "Personal cloud OS for a developer and their AI agents on a single server. One-command install on Ubuntu, then everything in the browser: a windowed desktop, isolated workspaces with VS Code, Claude Code and Codex, a store of 944 self-hosted apps, backups and updates. Access only via Tailscale, nothing exposed to the internet. Rust core, Svelte UI.",
             "url": "https://github.com/agentverse-os/AgentVerse-OS",
-            "stars": 615,
-            "forks": 19,
+            "stars": 623,
+            "forks": 18,
             "score": 87
         },
         {
@@ -84,9 +84,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "youngyangyang04/llm-master",
             "description": "\u5927\u6a21\u578b\uff08LLM\uff09\u5168\u6808\u5b66\u4e60\u8def\u7ebf\u4e0e\u4e2d\u6587\u6559\u7a0b\ud83d\udd25\uff1a\u8986\u76d6 Prompt Engineering\u3001RAG\u3001AI Agent\u3001MCP\u3001\u5fae\u8c03\u3001\u6a21\u578b\u90e8\u7f72\u3001Transformer\u3001AI \u7f16\u7a0b\u4e0e\u5927\u5382\u9762\u8bd5\uff0c\u4ece\u5165\u95e8\u5230\u751f\u4ea7\u5b9e\u8df5\u3002",
             "url": "https://github.com/youngyangyang04/llm-master",
-            "stars": 508,
-            "forks": 45,
-            "score": 87
+            "stars": 541,
+            "forks": 52,
+            "score": 83
         },
         {
             "main_cat": "AI",
@@ -95,8 +95,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "okf-memory/okf-agent-memory",
             "description": "Git-native persistent memory for AI coding agents. Implements Google OKF v0.2 with sub-300\u00b5s in-memory BM25 search, embedded MCP server, and progressive disclosure. Slashes token bloat by 80% with zero external databases or dependencies. Built in pure Go.",
             "url": "https://github.com/okf-memory/okf-agent-memory",
-            "stars": 671,
-            "forks": 49,
+            "stars": 680,
+            "forks": 50,
             "score": 63
         },
         {
@@ -106,30 +106,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "yi1108/printfilm",
             "description": "PRINTFILM\uff1aAI \u79d1\u666e\u89c6\u9891\u4e0e\u6f2b\u5267\u521b\u4f5c\u5e73\u53f0",
             "url": "https://github.com/yi1108/printfilm",
-            "stars": 481,
+            "stars": 487,
             "forks": 16,
-            "score": 60
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "birdview",
-            "full_name": "Qiuner/birdview",
-            "description": "Stop letting AI code blind. Map the architecture before every change with Birdview.",
-            "url": "https://github.com/Qiuner/birdview",
-            "stars": 286,
-            "forks": 20,
-            "score": 60
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "ToolReplay",
-            "full_name": "Matthew0822/ToolReplay",
-            "description": "Audit AI agent tool-call transcripts: hash-chain sealing, deterministic replay, and scope overreach checks. Dependency-free Python CLI.",
-            "url": "https://github.com/Matthew0822/ToolReplay",
-            "stars": 170,
-            "forks": 18,
             "score": 60
         },
         {
@@ -139,8 +117,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "wilsjo2/OptiScaler-DLSSNR-PreSR-Multipass",
             "description": "A game mod that uses NVIDIA AI to change lighting, detail and colour, with controls for strength and performance.",
             "url": "https://github.com/wilsjo2/OptiScaler-DLSSNR-PreSR-Multipass",
-            "stars": 567,
-            "forks": 33,
+            "stars": 570,
+            "forks": 32,
             "score": 56
         },
         {
@@ -150,9 +128,31 @@ const ALPHA_DATA_V2 = {
             "full_name": "i-am-manware/Manware-s-AI-Learning-Toolkit",
             "description": "An AI toolkit that turns agents into teachers rather than code yapping machines",
             "url": "https://github.com/i-am-manware/Manware-s-AI-Learning-Toolkit",
-            "stars": 472,
+            "stars": 476,
             "forks": 56,
             "score": 56
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "birdview",
+            "full_name": "Qiuner/birdview",
+            "description": "Stop letting AI code blind. Map the architecture before every change with Birdview.",
+            "url": "https://github.com/Qiuner/birdview",
+            "stars": 291,
+            "forks": 20,
+            "score": 56
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "ToolReplay",
+            "full_name": "Matthew0822/ToolReplay",
+            "description": "Audit AI agent tool-call transcripts: hash-chain sealing, deterministic replay, and scope overreach checks. Dependency-free Python CLI.",
+            "url": "https://github.com/Matthew0822/ToolReplay",
+            "stars": 171,
+            "forks": 18,
+            "score": 54
         },
         {
             "main_cat": "AI",
@@ -161,20 +161,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "groundboxerrespect/Dlls5-auto",
             "description": "\ud83c\udfae Self-hosted neural rendering & AI image enhancement service inspired by DLSS 5. Turn any photo, screenshot or game capture into a photoreal cinematic render \u2014 bloom, filmic tone mapping, 6 style presets, REST API, batch mode. Python + FastAPI + Docker. Free & open-source.",
             "url": "https://github.com/groundboxerrespect/Dlls5-auto",
-            "stars": 247,
+            "stars": 240,
             "forks": 1,
             "score": 50
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "vivid-figures-skill",
-            "full_name": "yjz211/vivid-figures-skill",
-            "description": "\u8ba9 AI \u7528\u4f60\u7684\u6570\u636e\u751f\u6210\u79d1\u7814\u56fe\u8868\uff1a108 \u4e2a\u914d\u65b9\uff0c\u9c9c\u8273\u4e0e\u7a33\u91cd\u4e24\u79cd\u98ce\u683c\uff0c\u591a\u5957\u914d\u8272\uff0c\u4ea4\u4ed8\u56fe\u7247\u4e0e\u6e90\u7801\u3002\u4ec5\u9650\u4e2a\u4eba\u975e\u5546\u4e1a\u4f7f\u7528\u3002",
-            "url": "https://github.com/yjz211/vivid-figures-skill",
-            "stars": 245,
-            "forks": 14,
-            "score": 48
         },
         {
             "main_cat": "AI",
@@ -190,12 +179,34 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
+            "name": "vivid-figures-skill",
+            "full_name": "yjz211/vivid-figures-skill",
+            "description": "\u8ba9 AI \u7528\u4f60\u7684\u6570\u636e\u751f\u6210\u79d1\u7814\u56fe\u8868\uff1a108 \u4e2a\u914d\u65b9\uff0c\u9c9c\u8273\u4e0e\u7a33\u91cd\u4e24\u79cd\u98ce\u683c\uff0c\u591a\u5957\u914d\u8272\uff0c\u4ea4\u4ed8\u56fe\u7247\u4e0e\u6e90\u7801\u3002\u4ec5\u9650\u4e2a\u4eba\u975e\u5546\u4e1a\u4f7f\u7528\u3002",
+            "url": "https://github.com/yjz211/vivid-figures-skill",
+            "stars": 256,
+            "forks": 15,
+            "score": 47
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
             "name": "linkedin-agent-skill",
             "full_name": "Jakeschincariol/linkedin-agent-skill",
             "description": "Eleven free Claude skills that run a LinkedIn account: posts off 21 hook formulas, comments, replies, profile score, weekly plan, and a humanizer that strips the AI fingerprint and scores the draft before it goes out.",
             "url": "https://github.com/Jakeschincariol/linkedin-agent-skill",
-            "stars": 231,
+            "stars": 242,
             "forks": 38,
+            "score": 47
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI Agents",
+            "name": "YourDesk",
+            "full_name": "VaderChen/YourDesk",
+            "description": "Cross-platform remote desktop for macOS and Windows with hardware acceleration, multi-monitor support, clipboard transfer for text, images, files and folders, and MCP integration for AI agents to connect to and control remote computers.",
+            "url": "https://github.com/VaderChen/YourDesk",
+            "stars": 238,
+            "forks": 34,
             "score": 47
         },
         {
@@ -205,7 +216,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "pliablepixels/gap-trap",
             "description": "Turns vibe coding into high quality code. Sets up rules and gates in your repo so AI-written code stays correct without you reviewing every line.",
             "url": "https://github.com/pliablepixels/gap-trap",
-            "stars": 150,
+            "stars": 153,
             "forks": 6,
             "score": 47
         },
@@ -222,14 +233,14 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
-            "sub_cat": "AI Agents",
-            "name": "YourDesk",
-            "full_name": "VaderChen/YourDesk",
-            "description": "Cross-platform remote desktop for macOS and Windows with hardware acceleration, multi-monitor support, clipboard transfer for text, images, files and folders, and MCP integration for AI agents to connect to and control remote computers.",
-            "url": "https://github.com/VaderChen/YourDesk",
-            "stars": 237,
-            "forks": 34,
-            "score": 46
+            "sub_cat": null,
+            "name": "director-desk",
+            "full_name": "mangfufu/director-desk",
+            "description": "AI \u77ed\u5267\u767d\u6a21\u9884\u6f14\u4e0e\u6444\u5f71\u673a\u8c03\u5ea6\u5de5\u5177",
+            "url": "https://github.com/mangfufu/director-desk",
+            "stars": 170,
+            "forks": 50,
+            "score": 45
         },
         {
             "main_cat": "AI",
@@ -238,20 +249,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "noskillish/bankmcp",
             "description": "BankMCP\u2122: your AI can now read your bank. Self-hosted, read-only MCP server for your own bank accounts via open banking (Enable Banking). Standard MCP; tested with Claude and Ollama.",
             "url": "https://github.com/noskillish/bankmcp",
-            "stars": 219,
+            "stars": 222,
             "forks": 34,
-            "score": 46
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "director-desk",
-            "full_name": "mangfufu/director-desk",
-            "description": "AI \u77ed\u5267\u767d\u6a21\u9884\u6f14\u4e0e\u6444\u5f71\u673a\u8c03\u5ea6\u5de5\u5177",
-            "url": "https://github.com/mangfufu/director-desk",
-            "stars": 169,
-            "forks": 50,
-            "score": 45
+            "score": 44
         },
         {
             "main_cat": "AI",
@@ -271,20 +271,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "Loopera-ai/loopera",
             "description": "\u9762\u5411\u57fa\u672c\u9762\u56e0\u5b50\u7814\u7a76\u7684\u667a\u80fd\u4f53-A hypothesis-driven AI agent for fundamental factor research, with evidence-gated validation and research memory.",
             "url": "https://github.com/Loopera-ai/loopera",
-            "stars": 155,
-            "forks": 23,
-            "score": 42
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "content-forecast",
-            "full_name": "Colinjqq/content-forecast",
-            "description": "A creator-first AI skill for topic generation, script review, filming guidance, and view forecasting.",
-            "url": "https://github.com/Colinjqq/content-forecast",
-            "stars": 196,
-            "forks": 10,
-            "score": 41
+            "stars": 165,
+            "forks": 24,
+            "score": 43
         },
         {
             "main_cat": "AI",
@@ -299,12 +288,23 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
+            "sub_cat": null,
+            "name": "content-forecast",
+            "full_name": "Colinjqq/content-forecast",
+            "description": "A creator-first AI skill for topic generation, script review, filming guidance, and view forecasting.",
+            "url": "https://github.com/Colinjqq/content-forecast",
+            "stars": 196,
+            "forks": 10,
+            "score": 40
+        },
+        {
+            "main_cat": "AI",
             "sub_cat": "AI General",
             "name": "vistep",
             "full_name": "int64ago/vistep",
             "description": "Visualize Every Step with AI \u2014 bilingual visual explanations, interactive models and synchronized narration.",
             "url": "https://github.com/int64ago/vistep",
-            "stars": 209,
+            "stars": 211,
             "forks": 13,
             "score": 39
         },
@@ -315,9 +315,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "BuzzPlay/infinite-world",
             "description": "An open-source system for building persistent worlds with multimodal AI.",
             "url": "https://github.com/BuzzPlay/infinite-world",
-            "stars": 179,
+            "stars": 181,
             "forks": 19,
-            "score": 39
+            "score": 38
         },
         {
             "main_cat": "AI",
@@ -337,7 +337,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "jangtrinh/design-os-3d-blender",
             "description": "AI-agent operating system for Blender 5.2: skills, verified bpy knowledge base, AGENT_OK/AGENT_FAIL execution contract, production gate for 3D-printable parts, robot-arm demo",
             "url": "https://github.com/jangtrinh/design-os-3d-blender",
-            "stars": 70,
+            "stars": 69,
             "forks": 17,
             "score": 35
         },
@@ -383,17 +383,6 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/furuCRM-Inc/rtk-sf",
             "stars": 13,
             "forks": 1,
-            "score": 30
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "Open-Baseten-Inference",
-            "full_name": "colinlikescode/Open-Baseten-Inference",
-            "description": "OSS version of Baseten: You bring NVIDIA GPUs on AWS, GCP or Azure. We find the fastest way to serve an LLM on top of them, optimizing for ttft and throughput across single nodes or Ray clusters.",
-            "url": "https://github.com/colinlikescode/Open-Baseten-Inference",
-            "stars": 12,
-            "forks": 0,
             "score": 30
         },
         {
@@ -663,17 +652,6 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
-            "name": "whmcs-payzum",
-            "full_name": "payzum-dev/whmcs-payzum",
-            "description": "Accept crypto & stablecoin payments (USDC, USDT, multi-chain) in WHMCS with Payzum \u2014 non-custodial crypto payment gateway module for hosting billing",
-            "url": "https://github.com/payzum-dev/whmcs-payzum",
-            "stars": 0,
-            "forks": 0,
-            "score": 30
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
             "name": "medusa-payment-payzum",
             "full_name": "payzum-dev/medusa-payment-payzum",
             "description": "Accept crypto & stablecoin payments (USDC, USDT, multi-chain) in Medusa v2 with Payzum \u2014 non-custodial crypto payment provider plugin for MedusaJS",
@@ -718,20 +696,6 @@ const ALPHA_DATA_V2 = {
     ],
     "news": [
         {
-            "title": "You Shall Not Pass into Ring-0! A User Privacy-Friendly Anti-Cheat Architecture for Personal Computers",
-            "source": "ArXiv",
-            "type": "Research Alpha",
-            "color": "text-indigo-600",
-            "url": "http://arxiv.org/abs/2609.17525v1"
-        },
-        {
-            "title": "SCHERI: Provably Secure Speculation Under the Constant-Time Policy for CHERI (Extended Version)",
-            "source": "ArXiv",
-            "type": "Research Alpha",
-            "color": "text-indigo-600",
-            "url": "http://arxiv.org/abs/2609.17399v1"
-        },
-        {
             "title": "Bitcoin volatility remains high ahead of key FED decision.",
             "source": "Polymarket",
             "type": "Expectation",
@@ -739,5 +703,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-09-16 05:38"
+    "timestamp": "2026-09-16 10:38"
 };
