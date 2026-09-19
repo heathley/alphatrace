@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "jarrodwatts/jev-trader",
             "description": "One AI trade decision every Monad block. Jev on Kuru MON-USDC.",
             "url": "https://github.com/jarrodwatts/jev-trader",
-            "stars": 929,
-            "forks": 173,
+            "stars": 983,
+            "forks": 190,
             "score": 99
         },
         {
@@ -40,8 +40,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "zhihui-hu/one-ip",
             "description": "\u77ac\u606f\u6d1e\u5bdf IP \u7eaf\u51c0\u5e95\u8272\u4e0e\u98ce\u9669\u8bc4\u7ea7\u3002\u4ec5\u9700\u4e00\u952e\u63a2\u5bfb\uff0c\u7269\u7406\u5750\u6807\u3001\u673a\u623f\u6e90\u6d41\u4e0e\u4ee3\u7406\u8f68\u8ff9\u5c3d\u6536\u773c\u5e95\u3002\u4e00\u7ad9\u5f0f IP \u4e0e\u7f51\u7edc\u8bca\u65ad\u5de5\u5177\u7bb1\uff1a\u67e5\u8be2\u5f52\u5c5e\u3001ASN\u3001\u4fe1\u8a89\u4e0e\u98ce\u9669\uff0c\u68c0\u6d4b\u7f51\u7edc\u51fa\u53e3\u3001DNS/CDN\u3001\u6d4f\u89c8\u5668\u6307\u7eb9\u4e0e WebRTC\uff0c\u805a\u5408 AI \u670d\u52a1\u72b6\u6001\u3002",
             "url": "https://github.com/zhihui-hu/one-ip",
-            "stars": 676,
-            "forks": 571,
+            "stars": 685,
+            "forks": 590,
             "score": 99
         },
         {
@@ -51,9 +51,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "lfzk550/fanzha-ai-proxy",
             "description": "\u56fd\u5bb6\u53cd\u8bc8AI API \u8f6c OpenAI \u517c\u5bb9\u683c\u5f0f\u53cd\u5411\u4ee3\u7406\u670d\u52a1 || \u4ec5\u5b66\u4e60\u7528\u9014",
             "url": "https://github.com/lfzk550/fanzha-ai-proxy",
-            "stars": 535,
+            "stars": 537,
             "forks": 364,
-            "score": 99
+            "score": 96
         },
         {
             "main_cat": "AI",
@@ -62,20 +62,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "yi1108/printfilm",
             "description": "PRINTFILM\uff1aAI \u89c6\u9891\u83b7\u5ba2\u4e0e AI\u77ed\u5267\u521b\u4f5c\u5e73\u53f0",
             "url": "https://github.com/yi1108/printfilm",
-            "stars": 1095,
+            "stars": 1096,
             "forks": 99,
             "score": 92
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "llm-master",
-            "full_name": "youngyangyang04/llm-master",
-            "description": "\u5927\u6a21\u578b\uff08LLM\uff09\u5168\u6808\u5b66\u4e60\u8def\u7ebf\u4e0e\u4e2d\u6587\u6559\u7a0b\ud83d\udd25\uff1a\u8986\u76d6 Prompt Engineering\u3001RAG\u3001AI Agent\u3001MCP\u3001\u5fae\u8c03\u3001\u6a21\u578b\u90e8\u7f72\u3001Transformer\u3001AI \u7f16\u7a0b\u4e0e\u5927\u5382\u9762\u8bd5\uff0c\u4ece\u5165\u95e8\u5230\u751f\u4ea7\u5b9e\u8df5\u3002",
-            "url": "https://github.com/youngyangyang04/llm-master",
-            "stars": 770,
-            "forks": 79,
-            "score": 90
         },
         {
             "main_cat": "AI",
@@ -84,8 +73,19 @@ const ALPHA_DATA_V2 = {
             "full_name": "agentverse-os/AgentVerse-OS",
             "description": "Personal cloud OS for a developer and their AI agents on a single server. One-command install on Ubuntu, then everything in the browser: a windowed desktop, isolated workspaces with VS Code, Claude Code and Codex, a store of 944 self-hosted apps, backups and updates. Access only via Tailscale, nothing exposed to the internet. Rust core, Svelte UI.",
             "url": "https://github.com/agentverse-os/AgentVerse-OS",
-            "stars": 877,
+            "stars": 900,
             "forks": 24,
+            "score": 85
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "llm-master",
+            "full_name": "youngyangyang04/llm-master",
+            "description": "\u5927\u6a21\u578b\uff08LLM\uff09\u5168\u6808\u5b66\u4e60\u8def\u7ebf\u4e0e\u4e2d\u6587\u6559\u7a0b\ud83d\udd25\uff1a\u8986\u76d6 Prompt Engineering\u3001RAG\u3001AI Agent\u3001MCP\u3001\u5fae\u8c03\u3001\u6a21\u578b\u90e8\u7f72\u3001Transformer\u3001AI \u7f16\u7a0b\u4e0e\u5927\u5382\u9762\u8bd5\uff0c\u4ece\u5165\u95e8\u5230\u751f\u4ea7\u5b9e\u8df5\u3002",
+            "url": "https://github.com/youngyangyang04/llm-master",
+            "stars": 783,
+            "forks": 79,
             "score": 84
         },
         {
@@ -95,9 +95,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "zjwzcx/Awesome-Astra-Embodied-AI",
             "description": "GPT-6 Astra for embodied AI and robotics.",
             "url": "https://github.com/zjwzcx/Awesome-Astra-Embodied-AI",
-            "stars": 862,
+            "stars": 871,
             "forks": 17,
-            "score": 81
+            "score": 82
         },
         {
             "main_cat": "AI",
@@ -106,7 +106,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "eternityspring/reelbench-skills",
             "description": "Learning notes and tooling skills for AI video - AI \u89c6\u9891\u76f8\u5173\u7684\u5b66\u4e60\u4e0e\u5de5\u5177 skill",
             "url": "https://github.com/eternityspring/reelbench-skills",
-            "stars": 751,
+            "stars": 752,
             "forks": 96,
             "score": 81
         },
@@ -117,9 +117,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "yibie/awesome-jev",
             "description": "A curated list of public projects, integrations, and discussions built on Jev \u2014 TypeSafe AI's System One model for typed decisions.",
             "url": "https://github.com/yibie/awesome-jev",
-            "stars": 199,
-            "forks": 28,
-            "score": 68
+            "stars": 248,
+            "forks": 34,
+            "score": 78
         },
         {
             "main_cat": "AI",
@@ -128,9 +128,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "Qiuner/birdview",
             "description": "Stop letting AI code blind. Map the architecture before every change with Birdview.",
             "url": "https://github.com/Qiuner/birdview",
-            "stars": 402,
-            "forks": 36,
-            "score": 60
+            "stars": 403,
+            "forks": 37,
+            "score": 57
         },
         {
             "main_cat": "AI",
@@ -139,20 +139,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "Jakeschincariol/linkedin-agent-skill",
             "description": "Eleven free Claude skills that run a LinkedIn account: posts off 21 hook formulas, comments, replies, profile score, weekly plan, and a humanizer that strips the AI fingerprint and scores the draft before it goes out.",
             "url": "https://github.com/Jakeschincariol/linkedin-agent-skill",
-            "stars": 400,
-            "forks": 57,
-            "score": 52
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "vivid-figures-skill",
-            "full_name": "yjz211/vivid-figures-skill",
-            "description": "\u8ba9 AI \u7528\u4f60\u7684\u6570\u636e\u751f\u6210\u79d1\u7814\u56fe\u8868\uff1a108 \u4e2a\u914d\u65b9\uff0c\u9c9c\u8273\u4e0e\u7a33\u91cd\u4e24\u79cd\u98ce\u683c\uff0c\u591a\u5957\u914d\u8272\uff0c\u4ea4\u4ed8\u56fe\u7247\u4e0e\u6e90\u7801\u3002\u4ec5\u9650\u4e2a\u4eba\u975e\u5546\u4e1a\u4f7f\u7528\u3002",
-            "url": "https://github.com/yjz211/vivid-figures-skill",
-            "stars": 320,
-            "forks": 21,
-            "score": 48
+            "stars": 410,
+            "forks": 59,
+            "score": 53
         },
         {
             "main_cat": "AI",
@@ -168,11 +157,22 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
+            "name": "vivid-figures-skill",
+            "full_name": "yjz211/vivid-figures-skill",
+            "description": "\u8ba9 AI \u7528\u4f60\u7684\u6570\u636e\u751f\u6210\u79d1\u7814\u56fe\u8868\uff1a108 \u4e2a\u914d\u65b9\uff0c\u9c9c\u8273\u4e0e\u7a33\u91cd\u4e24\u79cd\u98ce\u683c\uff0c\u591a\u5957\u914d\u8272\uff0c\u4ea4\u4ed8\u56fe\u7247\u4e0e\u6e90\u7801\u3002\u4ec5\u9650\u4e2a\u4eba\u975e\u5546\u4e1a\u4f7f\u7528\u3002",
+            "url": "https://github.com/yjz211/vivid-figures-skill",
+            "stars": 323,
+            "forks": 21,
+            "score": 46
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
             "name": "Dlls5-auto",
             "full_name": "groundboxerrespect/Dlls5-auto",
             "description": "\ud83c\udfae Self-hosted neural rendering & AI image enhancement service inspired by DLSS 5. Turn any photo, screenshot or game capture into a photoreal cinematic render \u2014 bloom, filmic tone mapping, 6 style presets, REST API, batch mode. Python + FastAPI + Docker. Free & open-source.",
             "url": "https://github.com/groundboxerrespect/Dlls5-auto",
-            "stars": 290,
+            "stars": 294,
             "forks": 1,
             "score": 46
         },
@@ -183,9 +183,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "Qiuner/QCode",
             "description": "An explorable island world to learn AI coding and build real projects with AI agents. Powered by DeepSeek Harness.",
             "url": "https://github.com/Qiuner/QCode",
-            "stars": 198,
-            "forks": 3,
-            "score": 45
+            "stars": 208,
+            "forks": 4,
+            "score": 46
         },
         {
             "main_cat": "AI",
@@ -194,9 +194,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "bestagentkits/design-studio-ai",
             "description": "Open-source design workspace for AI agents and humans. Cloud editing, 3D, motion, MCP, WebMCP, CLI and BYOK. MIT.",
             "url": "https://github.com/bestagentkits/design-studio-ai",
-            "stars": 191,
+            "stars": 192,
             "forks": 58,
             "score": 45
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "bookflow-skill",
+            "full_name": "LanyXiaosheng/bookflow-skill",
+            "description": "AI\u5c0f\u8bf4skill",
+            "url": "https://github.com/LanyXiaosheng/bookflow-skill",
+            "stars": 172,
+            "forks": 27,
+            "score": 44
         },
         {
             "main_cat": "AI",
@@ -216,7 +227,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "VaderChen/YourDesk",
             "description": "Cross-platform remote desktop for macOS and Windows with hardware acceleration, multi-monitor support, clipboard transfer for text, images, files and folders, and MCP integration for AI agents to connect to and control remote computers.",
             "url": "https://github.com/VaderChen/YourDesk",
-            "stars": 252,
+            "stars": 253,
             "forks": 34,
             "score": 43
         },
@@ -227,7 +238,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "noskillish/bankmcp",
             "description": "BankMCP\u2122: your AI can now read your bank. Self-hosted, read-only MCP server for your own bank accounts via open banking (Enable Banking). Standard MCP; tested with Claude and Ollama.",
             "url": "https://github.com/noskillish/bankmcp",
-            "stars": 238,
+            "stars": 240,
             "forks": 38,
             "score": 43
         },
@@ -240,17 +251,6 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/mangfufu/director-desk",
             "stars": 179,
             "forks": 53,
-            "score": 43
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "bookflow-skill",
-            "full_name": "LanyXiaosheng/bookflow-skill",
-            "description": "AI\u5c0f\u8bf4skill",
-            "url": "https://github.com/LanyXiaosheng/bookflow-skill",
-            "stars": 172,
-            "forks": 26,
             "score": 43
         },
         {
@@ -300,17 +300,6 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "content-forecast",
-            "full_name": "Colinjqq/content-forecast",
-            "description": "A creator-first AI skill for topic generation, script review, filming guidance, and view forecasting.",
-            "url": "https://github.com/Colinjqq/content-forecast",
-            "stars": 197,
-            "forks": 10,
-            "score": 39
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
             "name": "auto-video-agent",
             "full_name": "LetMeHappyCode/auto-video-agent",
             "description": "\u81ea\u52a8\u6d41\u6c34\u7ebf\u5316\u751f\u6210\u6210\u5957\u300c\u5206\u955c\u63d2\u753b\u63d0\u793a\u8bcd \u2192 AI \u751f\u56fe \u2192 \u62fc\u63a5\u6210\u7247\u300d\u7684\u89c6\u9891\uff0c\u57fa\u4e8e Agent / Skill / Workflow \u7f16\u6392\u3002",
@@ -321,12 +310,23 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
+            "sub_cat": null,
+            "name": "content-forecast",
+            "full_name": "Colinjqq/content-forecast",
+            "description": "A creator-first AI skill for topic generation, script review, filming guidance, and view forecasting.",
+            "url": "https://github.com/Colinjqq/content-forecast",
+            "stars": 197,
+            "forks": 10,
+            "score": 38
+        },
+        {
+            "main_cat": "AI",
             "sub_cat": "AI General",
             "name": "design-os-3d-blender",
             "full_name": "jangtrinh/design-os-3d-blender",
             "description": "AI agent operating system for Blender 5.2: bpy knowledge base, AGENT_OK execution contract, 3D-print production gate, worked keyboard and desktop-robot builds.",
             "url": "https://github.com/jangtrinh/design-os-3d-blender",
-            "stars": 70,
+            "stars": 73,
             "forks": 17,
             "score": 34
         },
@@ -553,10 +553,10 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
-            "name": "payment-required",
-            "full_name": "nuri-com/payment-required",
-            "description": "Landing page for paymentrequired.com \u2014 agent payments: non-custodial wallet, stablecoins, cards, banking, x402/MPP via one MCP",
-            "url": "https://github.com/nuri-com/payment-required",
+            "name": "blesta-payzum",
+            "full_name": "payzum-dev/blesta-payzum",
+            "description": "Accept crypto & stablecoin payments (USDC, USDT, multi-chain) in Blesta with Payzum \u2014 non-custodial crypto payment gateway for hosting billing",
+            "url": "https://github.com/payzum-dev/blesta-payzum",
             "stars": 0,
             "forks": 0,
             "score": 30
@@ -564,10 +564,10 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
-            "name": "blesta-payzum",
-            "full_name": "payzum-dev/blesta-payzum",
-            "description": "Accept crypto & stablecoin payments (USDC, USDT, multi-chain) in Blesta with Payzum \u2014 non-custodial crypto payment gateway for hosting billing",
-            "url": "https://github.com/payzum-dev/blesta-payzum",
+            "name": "payment-required",
+            "full_name": "nuri-com/payment-required",
+            "description": "Landing page for paymentrequired.com \u2014 agent payments: non-custodial wallet, stablecoins, cards, banking, x402/MPP via one MCP",
+            "url": "https://github.com/nuri-com/payment-required",
             "stars": 0,
             "forks": 0,
             "score": 30
@@ -685,17 +685,6 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
-            "name": "paid-memberships-pro-payzum",
-            "full_name": "payzum-dev/paid-memberships-pro-payzum",
-            "description": "Accept crypto & stablecoin payments (USDC, USDT, multi-chain) for Paid Memberships Pro with Payzum \u2014 non-custodial crypto payment gateway plugin for WordPress memberships",
-            "url": "https://github.com/payzum-dev/paid-memberships-pro-payzum",
-            "stars": 0,
-            "forks": 0,
-            "score": 30
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
             "name": "credport",
             "full_name": "DylanGates/credport",
             "description": "Cross-chain credit portability protocol bridging Ethereum repayments to Creditcoin via Attestcoin consensus proofs",
@@ -736,6 +725,17 @@ const ALPHA_DATA_V2 = {
             "stars": 0,
             "forks": 0,
             "score": 30
+        },
+        {
+            "main_cat": "Cross-chain / Interoperability",
+            "sub_cat": null,
+            "name": "specter-virtual-host",
+            "full_name": "Schnuartz/specter-virtual-host",
+            "description": "Cross-platform local bridge connecting the Specter DIY web simulator to desktop wallet software via the official simulator USB protocol.",
+            "url": "https://github.com/Schnuartz/specter-virtual-host",
+            "stars": 0,
+            "forks": 0,
+            "score": 30
         }
     ],
     "news": [
@@ -761,5 +761,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-09-19 05:23"
+    "timestamp": "2026-09-19 10:06"
 };
