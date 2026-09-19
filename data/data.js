@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "yi1108/printfilm",
             "description": "PRINTFILM\uff1aAI \u89c6\u9891\u83b7\u5ba2\u4e0e AI\u77ed\u5267\u521b\u4f5c\u5e73\u53f0",
             "url": "https://github.com/yi1108/printfilm",
-            "stars": 1267,
-            "forks": 106,
+            "stars": 1269,
+            "forks": 108,
             "score": 99
         },
         {
@@ -18,8 +18,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "jarrodwatts/jev-trader",
             "description": "One AI trade decision every Monad block. Jev on Kuru MON-USDC.",
             "url": "https://github.com/jarrodwatts/jev-trader",
-            "stars": 1214,
-            "forks": 235,
+            "stars": 1231,
+            "forks": 237,
             "score": 99
         },
         {
@@ -41,7 +41,7 @@ const ALPHA_DATA_V2 = {
             "description": "\u77ac\u606f\u6d1e\u5bdf IP \u7eaf\u51c0\u5e95\u8272\u4e0e\u98ce\u9669\u8bc4\u7ea7\u3002\u4ec5\u9700\u4e00\u952e\u63a2\u5bfb\uff0c\u7269\u7406\u5750\u6807\u3001\u673a\u623f\u6e90\u6d41\u4e0e\u4ee3\u7406\u8f68\u8ff9\u5c3d\u6536\u773c\u5e95\u3002\u4e00\u7ad9\u5f0f IP \u4e0e\u7f51\u7edc\u8bca\u65ad\u5de5\u5177\u7bb1\uff1a\u67e5\u8be2\u5f52\u5c5e\u3001ASN\u3001\u4fe1\u8a89\u4e0e\u98ce\u9669\uff0c\u68c0\u6d4b\u7f51\u7edc\u51fa\u53e3\u3001DNS/CDN\u3001\u6d4f\u89c8\u5668\u6307\u7eb9\u4e0e WebRTC\uff0c\u805a\u5408 AI \u670d\u52a1\u72b6\u6001\u3002",
             "url": "https://github.com/zhihui-hu/one-ip",
             "stars": 697,
-            "forks": 626,
+            "forks": 628,
             "score": 99
         },
         {
@@ -52,7 +52,7 @@ const ALPHA_DATA_V2 = {
             "description": "\u56fd\u5bb6\u53cd\u8bc8AI API \u8f6c OpenAI \u517c\u5bb9\u683c\u5f0f\u53cd\u5411\u4ee3\u7406\u670d\u52a1 || \u4ec5\u5b66\u4e60\u7528\u9014",
             "url": "https://github.com/lfzk550/fanzha-ai-proxy",
             "stars": 540,
-            "forks": 364,
+            "forks": 365,
             "score": 96
         },
         {
@@ -73,9 +73,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "yibie/awesome-jev",
             "description": "A curated list of public projects, integrations, and discussions built on Jev \u2014 TypeSafe AI's System One model for typed decisions.",
             "url": "https://github.com/yibie/awesome-jev",
-            "stars": 343,
-            "forks": 55,
-            "score": 86
+            "stars": 359,
+            "forks": 56,
+            "score": 88
         },
         {
             "main_cat": "AI",
@@ -95,7 +95,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "agentverse-os/AgentVerse-OS",
             "description": "Personal cloud OS for a developer and their AI agents on a single server. One-command install on Ubuntu, then everything in the browser: a windowed desktop, isolated workspaces with VS Code, Claude Code and Codex, a store of 944 self-hosted apps, backups and updates. Access only via Tailscale, nothing exposed to the internet. Rust core, Svelte UI.",
             "url": "https://github.com/agentverse-os/AgentVerse-OS",
-            "stars": 929,
+            "stars": 930,
             "forks": 24,
             "score": 81
         },
@@ -106,7 +106,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "eternityspring/reelbench-skills",
             "description": "Learning notes and tooling skills for AI video - AI \u89c6\u9891\u76f8\u5173\u7684\u5b66\u4e60\u4e0e\u5de5\u5177 skill",
             "url": "https://github.com/eternityspring/reelbench-skills",
-            "stars": 756,
+            "stars": 757,
             "forks": 96,
             "score": 81
         },
@@ -128,9 +128,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "cobanov/awesome-jev",
             "description": "A curated, source-backed list of projects built with Jev, TypeSafe AI's System One model for typed decisions.",
             "url": "https://github.com/cobanov/awesome-jev",
-            "stars": 190,
-            "forks": 28,
-            "score": 67
+            "stars": 196,
+            "forks": 30,
+            "score": 69
         },
         {
             "main_cat": "AI",
@@ -150,8 +150,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "Jakeschincariol/linkedin-agent-skill",
             "description": "Eleven free Claude skills that run a LinkedIn account: posts off 21 hook formulas, comments, replies, profile score, weekly plan, and a humanizer that strips the AI fingerprint and scores the draft before it goes out.",
             "url": "https://github.com/Jakeschincariol/linkedin-agent-skill",
-            "stars": 434,
-            "forks": 62,
+            "stars": 443,
+            "forks": 63,
             "score": 54
         },
         {
@@ -161,7 +161,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "kitze/skillbox",
             "description": "Self-hosted, versioned skills library for AI agents. MCP, scoped clients, and optional Jev recommendations.",
             "url": "https://github.com/kitze/skillbox",
-            "stars": 191,
+            "stars": 192,
             "forks": 14,
             "score": 54
         },
@@ -205,7 +205,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Qiuner/QCode",
             "description": "An explorable island world to learn AI coding and build real projects with AI agents. Powered by DeepSeek Harness.",
             "url": "https://github.com/Qiuner/QCode",
-            "stars": 216,
+            "stars": 217,
             "forks": 4,
             "score": 44
         },
@@ -227,8 +227,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "zihenghe04/AIBro",
             "description": "AI Bro \u2014 a local-first workspace for AI conversations, source-linked knowledge, and tasks.",
             "url": "https://github.com/zihenghe04/AIBro",
-            "stars": 184,
-            "forks": 26,
+            "stars": 186,
+            "forks": 27,
             "score": 44
         },
         {
@@ -249,7 +249,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "noskillish/bankmcp",
             "description": "BankMCP\u2122: your AI can now read your bank. Self-hosted, read-only MCP server for your own bank accounts via open banking (Enable Banking). Standard MCP; tested with Claude and Ollama.",
             "url": "https://github.com/noskillish/bankmcp",
-            "stars": 244,
+            "stars": 245,
             "forks": 39,
             "score": 43
         },
@@ -465,10 +465,10 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
-            "name": "opencart-payzum",
-            "full_name": "payzum-dev/opencart-payzum",
-            "description": "Accept crypto & stablecoin payments (USDC, USDT, multi-chain) in OpenCart with Payzum \u2014 non-custodial crypto payment gateway extension",
-            "url": "https://github.com/payzum-dev/opencart-payzum",
+            "name": "shopify-payzum",
+            "full_name": "payzum-dev/shopify-payzum",
+            "description": "Accept crypto & stablecoin payments (USDC, USDT, multi-chain) in Shopify with Payzum \u2014 non-custodial crypto payment gateway app (Payments App API)",
+            "url": "https://github.com/payzum-dev/shopify-payzum",
             "stars": 0,
             "forks": 0,
             "score": 30
@@ -476,10 +476,10 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
-            "name": "shopify-payzum",
-            "full_name": "payzum-dev/shopify-payzum",
-            "description": "Accept crypto & stablecoin payments (USDC, USDT, multi-chain) in Shopify with Payzum \u2014 non-custodial crypto payment gateway app (Payments App API)",
-            "url": "https://github.com/payzum-dev/shopify-payzum",
+            "name": "opencart-payzum",
+            "full_name": "payzum-dev/opencart-payzum",
+            "description": "Accept crypto & stablecoin payments (USDC, USDT, multi-chain) in OpenCart with Payzum \u2014 non-custodial crypto payment gateway extension",
+            "url": "https://github.com/payzum-dev/opencart-payzum",
             "stars": 0,
             "forks": 0,
             "score": 30
@@ -728,5 +728,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-09-19 19:52"
+    "timestamp": "2026-09-19 22:01"
 };
