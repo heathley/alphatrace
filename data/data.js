@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "yi1108/printfilm",
             "description": "PRINTFILM\uff1aAI \u89c6\u9891\u83b7\u5ba2\u4e0e AI\u77ed\u5267\u521b\u4f5c\u5e73\u53f0",
             "url": "https://github.com/yi1108/printfilm",
-            "stars": 1269,
-            "forks": 108,
+            "stars": 1277,
+            "forks": 111,
             "score": 99
         },
         {
@@ -18,8 +18,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "jarrodwatts/jev-trader",
             "description": "One AI trade decision every Monad block. Jev on Kuru MON-USDC.",
             "url": "https://github.com/jarrodwatts/jev-trader",
-            "stars": 1231,
-            "forks": 237,
+            "stars": 1260,
+            "forks": 243,
             "score": 99
         },
         {
@@ -40,8 +40,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "zhihui-hu/one-ip",
             "description": "\u77ac\u606f\u6d1e\u5bdf IP \u7eaf\u51c0\u5e95\u8272\u4e0e\u98ce\u9669\u8bc4\u7ea7\u3002\u4ec5\u9700\u4e00\u952e\u63a2\u5bfb\uff0c\u7269\u7406\u5750\u6807\u3001\u673a\u623f\u6e90\u6d41\u4e0e\u4ee3\u7406\u8f68\u8ff9\u5c3d\u6536\u773c\u5e95\u3002\u4e00\u7ad9\u5f0f IP \u4e0e\u7f51\u7edc\u8bca\u65ad\u5de5\u5177\u7bb1\uff1a\u67e5\u8be2\u5f52\u5c5e\u3001ASN\u3001\u4fe1\u8a89\u4e0e\u98ce\u9669\uff0c\u68c0\u6d4b\u7f51\u7edc\u51fa\u53e3\u3001DNS/CDN\u3001\u6d4f\u89c8\u5668\u6307\u7eb9\u4e0e WebRTC\uff0c\u805a\u5408 AI \u670d\u52a1\u72b6\u6001\u3002",
             "url": "https://github.com/zhihui-hu/one-ip",
-            "stars": 697,
-            "forks": 628,
+            "stars": 698,
+            "forks": 629,
             "score": 99
         },
         {
@@ -73,9 +73,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "yibie/awesome-jev",
             "description": "A curated list of public projects, integrations, and discussions built on Jev \u2014 TypeSafe AI's System One model for typed decisions.",
             "url": "https://github.com/yibie/awesome-jev",
-            "stars": 359,
-            "forks": 56,
-            "score": 88
+            "stars": 367,
+            "forks": 59,
+            "score": 90
         },
         {
             "main_cat": "AI",
@@ -84,7 +84,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "youngyangyang04/llm-master",
             "description": "\u5927\u6a21\u578b\uff08LLM\uff09\u5168\u6808\u5b66\u4e60\u8def\u7ebf\u4e0e\u4e2d\u6587\u6559\u7a0b\ud83d\udd25\uff1a\u8986\u76d6 Prompt Engineering\u3001RAG\u3001AI Agent\u3001MCP\u3001\u5fae\u8c03\u3001\u6a21\u578b\u90e8\u7f72\u3001Transformer\u3001AI \u7f16\u7a0b\u4e0e\u5927\u5382\u9762\u8bd5\uff0c\u4ece\u5165\u95e8\u5230\u751f\u4ea7\u5b9e\u8df5\u3002",
             "url": "https://github.com/youngyangyang04/llm-master",
-            "stars": 793,
+            "stars": 795,
             "forks": 79,
             "score": 85
         },
@@ -95,7 +95,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "agentverse-os/AgentVerse-OS",
             "description": "Personal cloud OS for a developer and their AI agents on a single server. One-command install on Ubuntu, then everything in the browser: a windowed desktop, isolated workspaces with VS Code, Claude Code and Codex, a store of 944 self-hosted apps, backups and updates. Access only via Tailscale, nothing exposed to the internet. Rust core, Svelte UI.",
             "url": "https://github.com/agentverse-os/AgentVerse-OS",
-            "stars": 930,
+            "stars": 931,
             "forks": 24,
             "score": 81
         },
@@ -117,7 +117,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "zjwzcx/Awesome-Astra-Embodied-AI",
             "description": "GPT-6 Astra for embodied AI and robotics.",
             "url": "https://github.com/zjwzcx/Awesome-Astra-Embodied-AI",
-            "stars": 884,
+            "stars": 885,
             "forks": 17,
             "score": 77
         },
@@ -128,9 +128,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "cobanov/awesome-jev",
             "description": "A curated, source-backed list of projects built with Jev, TypeSafe AI's System One model for typed decisions.",
             "url": "https://github.com/cobanov/awesome-jev",
-            "stars": 196,
-            "forks": 30,
-            "score": 69
+            "stars": 198,
+            "forks": 34,
+            "score": 71
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "awesome-jev-tools",
+            "full_name": "v-modal/awesome-jev-tools",
+            "description": "A curated list of tools  built for Jev \u2014 TypeSafe AI's System One model for typed decisions.",
+            "url": "https://github.com/v-modal/awesome-jev-tools",
+            "stars": 191,
+            "forks": 0,
+            "score": 61
         },
         {
             "main_cat": "AI",
@@ -139,20 +150,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "Qiuner/birdview",
             "description": "Stop letting AI code blind. Map the architecture before every change with Birdview.",
             "url": "https://github.com/Qiuner/birdview",
-            "stars": 404,
+            "stars": 405,
             "forks": 37,
             "score": 57
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "linkedin-agent-skill",
-            "full_name": "Jakeschincariol/linkedin-agent-skill",
-            "description": "Eleven free Claude skills that run a LinkedIn account: posts off 21 hook formulas, comments, replies, profile score, weekly plan, and a humanizer that strips the AI fingerprint and scores the draft before it goes out.",
-            "url": "https://github.com/Jakeschincariol/linkedin-agent-skill",
-            "stars": 443,
-            "forks": 63,
-            "score": 54
         },
         {
             "main_cat": "AI",
@@ -161,9 +161,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "kitze/skillbox",
             "description": "Self-hosted, versioned skills library for AI agents. MCP, scoped clients, and optional Jev recommendations.",
             "url": "https://github.com/kitze/skillbox",
-            "stars": 192,
-            "forks": 14,
-            "score": 54
+            "stars": 195,
+            "forks": 15,
+            "score": 55
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "linkedin-agent-skill",
+            "full_name": "Jakeschincariol/linkedin-agent-skill",
+            "description": "Eleven free Claude skills that run a LinkedIn account: posts off 21 hook formulas, comments, replies, profile score, weekly plan, and a humanizer that strips the AI fingerprint and scores the draft before it goes out.",
+            "url": "https://github.com/Jakeschincariol/linkedin-agent-skill",
+            "stars": 449,
+            "forks": 63,
+            "score": 53
         },
         {
             "main_cat": "AI",
@@ -172,7 +183,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "yjz211/vivid-figures-skill",
             "description": "\u8ba9 AI \u7528\u4f60\u7684\u6570\u636e\u751f\u6210\u79d1\u7814\u56fe\u8868\uff1a108 \u4e2a\u914d\u65b9\uff0c\u9c9c\u8273\u4e0e\u7a33\u91cd\u4e24\u79cd\u98ce\u683c\uff0c\u591a\u5957\u914d\u8272\uff0c\u4ea4\u4ed8\u56fe\u7247\u4e0e\u6e90\u7801\u3002\u4ec5\u9650\u4e2a\u4eba\u975e\u5546\u4e1a\u4f7f\u7528\u3002",
             "url": "https://github.com/yjz211/vivid-figures-skill",
-            "stars": 330,
+            "stars": 332,
             "forks": 21,
             "score": 47
         },
@@ -194,7 +205,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "groundboxerrespect/Dlls5-auto",
             "description": "\ud83c\udfae Self-hosted neural rendering & AI image enhancement service inspired by DLSS 5. Turn any photo, screenshot or game capture into a photoreal cinematic render \u2014 bloom, filmic tone mapping, 6 style presets, REST API, batch mode. Python + FastAPI + Docker. Free & open-source.",
             "url": "https://github.com/groundboxerrespect/Dlls5-auto",
-            "stars": 302,
+            "stars": 303,
             "forks": 1,
             "score": 45
         },
@@ -205,7 +216,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Qiuner/QCode",
             "description": "An explorable island world to learn AI coding and build real projects with AI agents. Powered by DeepSeek Harness.",
             "url": "https://github.com/Qiuner/QCode",
-            "stars": 217,
+            "stars": 219,
             "forks": 4,
             "score": 44
         },
@@ -227,7 +238,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "zihenghe04/AIBro",
             "description": "AI Bro \u2014 a local-first workspace for AI conversations, source-linked knowledge, and tasks.",
             "url": "https://github.com/zihenghe04/AIBro",
-            "stars": 186,
+            "stars": 188,
             "forks": 27,
             "score": 44
         },
@@ -252,17 +263,6 @@ const ALPHA_DATA_V2 = {
             "stars": 245,
             "forks": 39,
             "score": 43
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "SuperAstra",
-            "full_name": "ScottStevenson/SuperAstra",
-            "description": "Change SNES games with AI while you play them.",
-            "url": "https://github.com/ScottStevenson/SuperAstra",
-            "stars": 278,
-            "forks": 32,
-            "score": 42
         },
         {
             "main_cat": "AI",
@@ -321,46 +321,13 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "design-os-3d-blender",
-            "full_name": "jangtrinh/design-os-3d-blender",
-            "description": "AI agent operating system for Blender 5.2: bpy knowledge base, AGENT_OK execution contract, 3D-print production gate, worked keyboard and desktop-robot builds.",
-            "url": "https://github.com/jangtrinh/design-os-3d-blender",
-            "stars": 75,
-            "forks": 17,
-            "score": 34
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "lium-localmaxxing",
-            "full_name": "Datura-ai/lium-localmaxxing",
-            "description": "Reproduce Lium's LocalMaxxing leaderboard runs (7 boards, 20 Verified) on a rented Lium GPU in one script \u2014 vLLM/llama.cpp recipes, measured cost per million tokens",
-            "url": "https://github.com/Datura-ai/lium-localmaxxing",
-            "stars": 36,
-            "forks": 2,
-            "score": 31
-        },
-        {
-            "main_cat": "zk / Privacy / zkML",
-            "sub_cat": null,
-            "name": "zknifty",
-            "full_name": "nickalobiondar/zknifty",
-            "description": "\ud83c\udfb4Zero-knowledge non-fungible tokens on Ethereum using zk-SNARKs",
-            "url": "https://github.com/nickalobiondar/zknifty",
-            "stars": 22,
-            "forks": 1,
-            "score": 30
-        },
-        {
-            "main_cat": "AI",
             "sub_cat": "AI Agents",
-            "name": "rtk-sf",
-            "full_name": "furuCRM-Inc/rtk-sf",
-            "description": "Zero-Token Knowledge & Visual Live-Mapping Layer for Salesforce, Opensource AI Agents \u2014 92% token reduction via MCP",
-            "url": "https://github.com/furuCRM-Inc/rtk-sf",
-            "stars": 13,
-            "forks": 1,
+            "name": "genpark-knowledge-distillation-teacher-student-tracker-skill",
+            "full_name": "Alpha-Park/genpark-knowledge-distillation-teacher-student-tracker-skill",
+            "description": "GenPark AI Agent Skill - Knowledge distillation teacher-student loss engine with temperature-scaled Kullback-Leibler divergence for continual model compression and capability preservation.",
+            "url": "https://github.com/Alpha-Park/genpark-knowledge-distillation-teacher-student-tracker-skill",
+            "stars": 8,
+            "forks": 0,
             "score": 30
         },
         {
@@ -403,6 +370,17 @@ const ALPHA_DATA_V2 = {
             "full_name": "ParsaAbolhasani/v4-prophecy-hook",
             "description": "Traditional prediction markets force users to **sell their assets into USD** before betting. This exposes them to **impermanent loss**, **liquidation risk**, and **slippage** \u2014 three problems that have kept billions of dollars of tokenized stock and memecoins sitting on the sidelines.",
             "url": "https://github.com/ParsaAbolhasani/v4-prophecy-hook",
+            "stars": 0,
+            "forks": 0,
+            "score": 30
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "tally",
+            "full_name": "A-Raphie/tally",
+            "description": "Receipts for prediction calls. Every agent bet on DreamDEX Event Contracts mints a verifiable receipt; settlement is checked against the chain.",
+            "url": "https://github.com/A-Raphie/tally",
             "stars": 0,
             "forks": 0,
             "score": 30
@@ -465,10 +443,10 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
-            "name": "shopify-payzum",
-            "full_name": "payzum-dev/shopify-payzum",
-            "description": "Accept crypto & stablecoin payments (USDC, USDT, multi-chain) in Shopify with Payzum \u2014 non-custodial crypto payment gateway app (Payments App API)",
-            "url": "https://github.com/payzum-dev/shopify-payzum",
+            "name": "opencart-payzum",
+            "full_name": "payzum-dev/opencart-payzum",
+            "description": "Accept crypto & stablecoin payments (USDC, USDT, multi-chain) in OpenCart with Payzum \u2014 non-custodial crypto payment gateway extension",
+            "url": "https://github.com/payzum-dev/opencart-payzum",
             "stars": 0,
             "forks": 0,
             "score": 30
@@ -476,10 +454,10 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
-            "name": "opencart-payzum",
-            "full_name": "payzum-dev/opencart-payzum",
-            "description": "Accept crypto & stablecoin payments (USDC, USDT, multi-chain) in OpenCart with Payzum \u2014 non-custodial crypto payment gateway extension",
-            "url": "https://github.com/payzum-dev/opencart-payzum",
+            "name": "shopify-payzum",
+            "full_name": "payzum-dev/shopify-payzum",
+            "description": "Accept crypto & stablecoin payments (USDC, USDT, multi-chain) in Shopify with Payzum \u2014 non-custodial crypto payment gateway app (Payments App API)",
+            "url": "https://github.com/payzum-dev/shopify-payzum",
             "stars": 0,
             "forks": 0,
             "score": 30
@@ -652,32 +630,10 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
-            "name": "credport",
-            "full_name": "DylanGates/credport",
-            "description": "Cross-chain credit portability protocol bridging Ethereum repayments to Creditcoin via Attestcoin consensus proofs",
-            "url": "https://github.com/DylanGates/credport",
-            "stars": 0,
-            "forks": 0,
-            "score": 30
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
             "name": "TSN-Protocol",
             "full_name": "Trustlink-Labs/TSN-Protocol",
             "description": "TSN is the settlement protocol developed by TrustLink Labs. An identity-first, privacy-aware, intent-based stablecoin settlement infrastructure connecting Solana, Creditcoin, and supported EVM liquidity networks through cryptographic verification, cross-chain messaging, and decentralized execution.",
             "url": "https://github.com/Trustlink-Labs/TSN-Protocol",
-            "stars": 0,
-            "forks": 0,
-            "score": 30
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "CredLens-AI",
-            "full_name": "OxTEJIRI/CredLens-AI",
-            "description": "CredLens AI uses the Attestcoin Protocol to bring verified cross-chain wallet activity into Creditcoin, analyzes those attested signals with an AI scoring engine, and records the resulting trust score or decision on-chain.",
-            "url": "https://github.com/OxTEJIRI/CredLens-AI",
             "stars": 0,
             "forks": 0,
             "score": 30
@@ -728,5 +684,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-09-19 22:01"
+    "timestamp": "2026-09-20 00:32"
 };
