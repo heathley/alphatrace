@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "zai-org/ZCode",
             "description": "Z.ai's coding agent harness. Powerful, intelligent, extensible.",
             "url": "https://github.com/zai-org/ZCode",
-            "stars": 5408,
-            "forks": 1547,
+            "stars": 5516,
+            "forks": 1570,
             "score": 99
         },
         {
@@ -18,8 +18,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "yi1108/printfilm",
             "description": "PRINTFILM\uff1aAI \u89c6\u9891\u83b7\u5ba2\u4e0e AI\u77ed\u5267\u521b\u4f5c\u5e73\u53f0",
             "url": "https://github.com/yi1108/printfilm",
-            "stars": 1845,
-            "forks": 219,
+            "stars": 1847,
+            "forks": 220,
             "score": 99
         },
         {
@@ -29,8 +29,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "jarrodwatts/jev-trader",
             "description": "One AI trade decision every Monad block. Jev on Kuru MON-USDC.",
             "url": "https://github.com/jarrodwatts/jev-trader",
-            "stars": 1774,
-            "forks": 342,
+            "stars": 1821,
+            "forks": 349,
             "score": 99
         },
         {
@@ -40,8 +40,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "yibie/awesome-jev",
             "description": "A curated list of public projects, integrations, and discussions built on Jev \u2014 TypeSafe AI's System One model for typed decisions.",
             "url": "https://github.com/yibie/awesome-jev",
-            "stars": 907,
-            "forks": 121,
+            "stars": 950,
+            "forks": 128,
             "score": 99
         },
         {
@@ -51,8 +51,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "zhihui-hu/one-ip",
             "description": "\u77ac\u606f\u6d1e\u5bdf IP \u7eaf\u51c0\u5e95\u8272\u4e0e\u98ce\u9669\u8bc4\u7ea7\u3002\u4ec5\u9700\u4e00\u952e\u63a2\u5bfb\uff0c\u7269\u7406\u5750\u6807\u3001\u673a\u623f\u6e90\u6d41\u4e0e\u4ee3\u7406\u8f68\u8ff9\u5c3d\u6536\u773c\u5e95\u3002\u4e00\u7ad9\u5f0f IP \u4e0e\u7f51\u7edc\u8bca\u65ad\u5de5\u5177\u7bb1\uff1a\u67e5\u8be2\u5f52\u5c5e\u3001ASN\u3001\u4fe1\u8a89\u4e0e\u98ce\u9669\uff0c\u68c0\u6d4b\u7f51\u7edc\u51fa\u53e3\u3001DNS/CDN\u3001\u6d4f\u89c8\u5668\u6307\u7eb9\u4e0e WebRTC\uff0c\u805a\u5408 AI \u670d\u52a1\u72b6\u6001\u3002",
             "url": "https://github.com/zhihui-hu/one-ip",
-            "stars": 778,
-            "forks": 826,
+            "stars": 777,
+            "forks": 830,
             "score": 99
         },
         {
@@ -62,7 +62,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "pallavi-shekhar/ai-engineering-interview-questions-company-wise",
             "description": "Your Cheat Sheet For AI Engineering Interviews at Top AI Companies - Questions and Answers.",
             "url": "https://github.com/pallavi-shekhar/ai-engineering-interview-questions-company-wise",
-            "stars": 593,
+            "stars": 594,
             "forks": 42,
             "score": 99
         },
@@ -73,8 +73,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "hydra-db/open-glean",
             "description": "An open-source AI platform for knowledge work. Connect your apps, find answers, and get work done.",
             "url": "https://github.com/hydra-db/open-glean",
-            "stars": 535,
-            "forks": 280,
+            "stars": 584,
+            "forks": 297,
             "score": 99
         },
         {
@@ -95,7 +95,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "v-modal/awesome-jev-tools",
             "description": "A curated list of tools  built for Jev \u2014 TypeSafe AI's System One model for typed decisions.",
             "url": "https://github.com/v-modal/awesome-jev-tools",
-            "stars": 616,
+            "stars": 623,
             "forks": 11,
             "score": 96
         },
@@ -108,7 +108,7 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/kruzovic7/ai-data-extractor",
             "stars": 842,
             "forks": 137,
-            "score": 87
+            "score": 83
         },
         {
             "main_cat": "AI",
@@ -117,20 +117,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "youngyangyang04/llm-master",
             "description": "\u5927\u6a21\u578b\uff08LLM\uff09\u5168\u6808\u5b66\u4e60\u8def\u7ebf\u4e0e\u4e2d\u6587\u6559\u7a0b\ud83d\udd25\uff1a\u8986\u76d6 Prompt Engineering\u3001RAG\u3001AI Agent\u3001MCP\u3001\u5fae\u8c03\u3001\u6a21\u578b\u90e8\u7f72\u3001Transformer\u3001AI \u7f16\u7a0b\u4e0e\u5927\u5382\u9762\u8bd5\uff0c\u4ece\u5165\u95e8\u5230\u751f\u4ea7\u5b9e\u8df5\u3002",
             "url": "https://github.com/youngyangyang04/llm-master",
-            "stars": 870,
+            "stars": 871,
             "forks": 88,
             "score": 80
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "AgentVerse-OS",
-            "full_name": "agentverse-os/AgentVerse-OS",
-            "description": "Personal cloud OS for a developer and their AI agents on a single server. One-command install on Ubuntu, then everything in the browser: a windowed desktop, isolated workspaces with VS Code, Claude Code and Codex, a store of 944 self-hosted apps, backups and updates. Access only via Tailscale, nothing exposed to the internet. Rust core, Svelte UI.",
-            "url": "https://github.com/agentverse-os/AgentVerse-OS",
-            "stars": 968,
-            "forks": 26,
-            "score": 78
         },
         {
             "main_cat": "AI",
@@ -139,7 +128,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "eternityspring/reelbench-skills",
             "description": "Learning notes and tooling skills for AI video - AI \u89c6\u9891\u76f8\u5173\u7684\u5b66\u4e60\u4e0e\u5de5\u5177 skill",
             "url": "https://github.com/eternityspring/reelbench-skills",
-            "stars": 801,
+            "stars": 804,
             "forks": 99,
             "score": 76
         },
@@ -150,8 +139,19 @@ const ALPHA_DATA_V2 = {
             "full_name": "cobanov/awesome-jev",
             "description": "A curated, source-backed list of projects built with Jev, TypeSafe AI's System One model for typed decisions.",
             "url": "https://github.com/cobanov/awesome-jev",
-            "stars": 303,
-            "forks": 57,
+            "stars": 307,
+            "forks": 60,
+            "score": 75
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "AgentVerse-OS",
+            "full_name": "agentverse-os/AgentVerse-OS",
+            "description": "Personal cloud OS for a developer and their AI agents on a single server. One-command install on Ubuntu, then everything in the browser: a windowed desktop, isolated workspaces with VS Code, Claude Code and Codex, a store of 944 self-hosted apps, backups and updates. Access only via Tailscale, nothing exposed to the internet. Rust core, Svelte UI.",
+            "url": "https://github.com/agentverse-os/AgentVerse-OS",
+            "stars": 969,
+            "forks": 26,
             "score": 74
         },
         {
@@ -161,7 +161,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "zjwzcx/Awesome-Astra-Embodied-AI",
             "description": "GPT-6 Astra for embodied AI and robotics.",
             "url": "https://github.com/zjwzcx/Awesome-Astra-Embodied-AI",
-            "stars": 936,
+            "stars": 943,
             "forks": 19,
             "score": 72
         },
@@ -183,7 +183,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "sutro-sh/jev-align",
             "description": "Build calibrated AI Functions from human feedback using Jev and GEPA.",
             "url": "https://github.com/sutro-sh/jev-align",
-            "stars": 261,
+            "stars": 262,
             "forks": 20,
             "score": 64
         },
@@ -195,8 +195,8 @@ const ALPHA_DATA_V2 = {
             "description": "Stop letting AI code blind. Map the architecture before every change with Birdview.",
             "url": "https://github.com/Qiuner/birdview",
             "stars": 572,
-            "forks": 48,
-            "score": 61
+            "forks": 53,
+            "score": 62
         },
         {
             "main_cat": "DePIN",
@@ -216,9 +216,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "kitze/skillbox",
             "description": "Self-hosted, versioned skills library for AI agents. MCP, scoped clients, and optional Jev recommendations.",
             "url": "https://github.com/kitze/skillbox",
-            "stars": 222,
+            "stars": 223,
             "forks": 19,
             "score": 51
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "typesafe-mcp",
+            "full_name": "itsmostafa/typesafe-mcp",
+            "description": "mcp connector to give your AI agent direct access to typesafe ai's jev model",
+            "url": "https://github.com/itsmostafa/typesafe-mcp",
+            "stars": 208,
+            "forks": 18,
+            "score": 50
         },
         {
             "main_cat": "AI",
@@ -227,8 +238,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "zihenghe04/AIBro",
             "description": "AI Bro \u2014 a local-first workspace for AI conversations, source-linked knowledge, and tasks.",
             "url": "https://github.com/zihenghe04/AIBro",
-            "stars": 247,
-            "forks": 35,
+            "stars": 250,
+            "forks": 36,
             "score": 46
         },
         {
@@ -249,7 +260,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "groundboxerrespect/Dlls5-auto",
             "description": "\ud83c\udfae Self-hosted neural rendering & AI image enhancement service inspired by DLSS 5. Turn any photo, screenshot or game capture into a photoreal cinematic render \u2014 bloom, filmic tone mapping, 6 style presets, REST API, batch mode. Python + FastAPI + Docker. Free & open-source.",
             "url": "https://github.com/groundboxerrespect/Dlls5-auto",
-            "stars": 341,
+            "stars": 345,
             "forks": 1,
             "score": 44
         },
@@ -260,7 +271,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Qiuner/QCode",
             "description": "An explorable island world to learn AI coding and build real projects with AI agents. Powered by DeepSeek Harness.",
             "url": "https://github.com/Qiuner/QCode",
-            "stars": 271,
+            "stars": 274,
             "forks": 4,
             "score": 44
         },
@@ -282,8 +293,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "Loopera-ai/loopera",
             "description": "\u9762\u5411\u57fa\u672c\u9762\u56e0\u5b50\u7814\u7a76\u7684\u667a\u80fd\u4f53-A hypothesis-driven AI agent for fundamental factor research, with evidence-gated validation and research memory.",
             "url": "https://github.com/Loopera-ai/loopera",
-            "stars": 216,
-            "forks": 37,
+            "stars": 220,
+            "forks": 38,
             "score": 41
         },
         {
@@ -299,6 +310,17 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
+            "sub_cat": null,
+            "name": "ai-security-tool",
+            "full_name": "ZeroDayEvil/ai-security-tool",
+            "description": "\ud83d\udee1\ufe0f Free open-source AI-powered security terminal & vulnerability scanner (CVE, SBOM). Supports SSH, SFTP, RDP, VNC, Serial, and 12+ autonomous AI agents (DeepSeek, OpenAI) for automated security workflows, CTF & DevSecOps. Cross-platform & Web UI.",
+            "url": "https://github.com/ZeroDayEvil/ai-security-tool",
+            "stars": 231,
+            "forks": 7,
+            "score": 39
+        },
+        {
+            "main_cat": "AI",
             "sub_cat": "AI General",
             "name": "routeVSCODE",
             "full_name": "yudaprasetya007/routeVSCODE",
@@ -310,34 +332,12 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
-            "sub_cat": null,
-            "name": "ai-security-tool",
-            "full_name": "ZeroDayEvil/ai-security-tool",
-            "description": "\ud83d\udee1\ufe0f Free open-source AI-powered security terminal & vulnerability scanner (CVE, SBOM). Supports SSH, SFTP, RDP, VNC, Serial, and 12+ autonomous AI agents (DeepSeek, OpenAI) for automated security workflows, CTF & DevSecOps. Cross-platform & Web UI.",
-            "url": "https://github.com/ZeroDayEvil/ai-security-tool",
-            "stars": 217,
-            "forks": 7,
-            "score": 38
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "Foxigrow",
-            "full_name": "hanaganfur1/Foxigrow",
-            "description": "https://github.com/amagine-ai/Amagine3D",
-            "url": "https://github.com/hanaganfur1/Foxigrow",
-            "stars": 205,
-            "forks": 0,
-            "score": 36
-        },
-        {
-            "main_cat": "AI",
             "sub_cat": "AI General",
             "name": "arbiter",
             "full_name": "0xBakeer/arbiter",
             "description": "Serve typed-decision (System 1) models \u2014 Laya or your own \u2014 on NVIDIA GPUs or Apple Silicon, with a Jev-compatible API and coding-agent integrations",
             "url": "https://github.com/0xBakeer/arbiter",
-            "stars": 14,
+            "stars": 15,
             "forks": 3,
             "score": 33
         },
@@ -348,7 +348,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "ismailperim/briefd",
             "description": "Your agents, briefed. Not flooded. Self-hosted context compiler: git-backed team knowledge served to coding agents as token-budgeted bundles over MCP.",
             "url": "https://github.com/ismailperim/briefd",
-            "stars": 15,
+            "stars": 19,
             "forks": 1,
             "score": 32
         },
@@ -696,6 +696,17 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
+            "name": "omniroute-wallet-tracker",
+            "full_name": "prasetyohk/omniroute-wallet-tracker",
+            "description": "Track destination wallets across any cross-chain bridge. Multi-protocol TX breakdown, wallet relationship tracer, and exchange deposit inflow aggregator.",
+            "url": "https://github.com/prasetyohk/omniroute-wallet-tracker",
+            "stars": 0,
+            "forks": 0,
+            "score": 30
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
             "name": "rwa-stock-arbitrage",
             "full_name": "arbincept/rwa-stock-arbitrage",
             "description": "BNB Chain Tokenized Stocks (RWA) Arbitrage Suite \u2014 Real-Time Market-Hours & Cross-Protocol Spread Engine for BNB hackathon",
@@ -772,5 +783,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-09-21 17:37"
+    "timestamp": "2026-09-21 21:32"
 };
