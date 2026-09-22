@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "zai-org/ZCode",
             "description": "Z.ai's coding agent harness. Powerful, intelligent, extensible.",
             "url": "https://github.com/zai-org/ZCode",
-            "stars": 6114,
-            "forks": 1763,
+            "stars": 6200,
+            "forks": 1802,
             "score": 99
         },
         {
@@ -18,8 +18,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "yi1108/printfilm",
             "description": "PRINTFILM\uff1aAI \u89c6\u9891\u83b7\u5ba2\u4e0e AI\u77ed\u5267\u521b\u4f5c\u5e73\u53f0",
             "url": "https://github.com/yi1108/printfilm",
-            "stars": 2001,
-            "forks": 230,
+            "stars": 2020,
+            "forks": 232,
             "score": 99
         },
         {
@@ -29,8 +29,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "jarrodwatts/jev-trader",
             "description": "One AI trade decision every Monad block. Jev on Kuru MON-USDC.",
             "url": "https://github.com/jarrodwatts/jev-trader",
-            "stars": 1950,
-            "forks": 371,
+            "stars": 1991,
+            "forks": 375,
             "score": 99
         },
         {
@@ -40,8 +40,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "yibie/awesome-jev",
             "description": "A curated list of public projects, integrations, and discussions built on Jev \u2014 TypeSafe AI's System One model for typed decisions.",
             "url": "https://github.com/yibie/awesome-jev",
-            "stars": 1166,
-            "forks": 156,
+            "stars": 1229,
+            "forks": 168,
             "score": 99
         },
         {
@@ -51,8 +51,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "zhihui-hu/one-ip",
             "description": "\u77ac\u606f\u6d1e\u5bdf IP \u7eaf\u51c0\u5e95\u8272\u4e0e\u98ce\u9669\u8bc4\u7ea7\u3002\u4ec5\u9700\u4e00\u952e\u63a2\u5bfb\uff0c\u7269\u7406\u5750\u6807\u3001\u673a\u623f\u6e90\u6d41\u4e0e\u4ee3\u7406\u8f68\u8ff9\u5c3d\u6536\u773c\u5e95\u3002\u4e00\u7ad9\u5f0f IP \u4e0e\u7f51\u7edc\u8bca\u65ad\u5de5\u5177\u7bb1\uff1a\u67e5\u8be2\u5f52\u5c5e\u3001ASN\u3001\u4fe1\u8a89\u4e0e\u98ce\u9669\uff0c\u68c0\u6d4b\u7f51\u7edc\u51fa\u53e3\u3001DNS/CDN\u3001\u6d4f\u89c8\u5668\u6307\u7eb9\u4e0e WebRTC\uff0c\u805a\u5408 AI \u670d\u52a1\u72b6\u6001\u3002",
             "url": "https://github.com/zhihui-hu/one-ip",
-            "stars": 795,
-            "forks": 870,
+            "stars": 798,
+            "forks": 876,
             "score": 99
         },
         {
@@ -62,8 +62,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "hydra-db/open-glean",
             "description": "An open-source AI platform for knowledge work. Connect your apps, find answers, and get work done.",
             "url": "https://github.com/hydra-db/open-glean",
-            "stars": 716,
-            "forks": 337,
+            "stars": 797,
+            "forks": 360,
             "score": 99
         },
         {
@@ -73,8 +73,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "v-modal/awesome-jev-tools",
             "description": "A curated list of tools  built for Jev \u2014 TypeSafe AI's System One model for typed decisions.",
             "url": "https://github.com/v-modal/awesome-jev-tools",
-            "stars": 635,
-            "forks": 16,
+            "stars": 638,
+            "forks": 18,
             "score": 99
         },
         {
@@ -84,9 +84,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "pallavi-shekhar/ai-engineering-interview-questions-company-wise",
             "description": "Your Cheat Sheet For AI Engineering Interviews at Top AI Companies - Questions and Answers.",
             "url": "https://github.com/pallavi-shekhar/ai-engineering-interview-questions-company-wise",
-            "stars": 619,
-            "forks": 42,
-            "score": 95
+            "stars": 621,
+            "forks": 43,
+            "score": 96
         },
         {
             "main_cat": "AI",
@@ -106,20 +106,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "youngyangyang04/llm-master",
             "description": "\u5927\u6a21\u578b\uff08LLM\uff09\u5168\u6808\u5b66\u4e60\u8def\u7ebf\u4e0e\u4e2d\u6587\u6559\u7a0b\ud83d\udd25\uff1a\u8986\u76d6 Prompt Engineering\u3001RAG\u3001AI Agent\u3001MCP\u3001\u5fae\u8c03\u3001\u6a21\u578b\u90e8\u7f72\u3001Transformer\u3001AI \u7f16\u7a0b\u4e0e\u5927\u5382\u9762\u8bd5\uff0c\u4ece\u5165\u95e8\u5230\u751f\u4ea7\u5b9e\u8df5\u3002",
             "url": "https://github.com/youngyangyang04/llm-master",
-            "stars": 895,
+            "stars": 899,
             "forks": 90,
             "score": 78
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "Awesome-Astra-Embodied-AI",
-            "full_name": "zjwzcx/Awesome-Astra-Embodied-AI",
-            "description": "GPT-6 Astra for embodied AI and robotics.",
-            "url": "https://github.com/zjwzcx/Awesome-Astra-Embodied-AI",
-            "stars": 976,
-            "forks": 20,
-            "score": 74
         },
         {
             "main_cat": "AI",
@@ -128,8 +117,19 @@ const ALPHA_DATA_V2 = {
             "full_name": "agentverse-os/AgentVerse-OS",
             "description": "Personal cloud OS for a developer and their AI agents on a single server. One-command install on Ubuntu, then everything in the browser: a windowed desktop, isolated workspaces with VS Code, Claude Code and Codex, a store of 944 self-hosted apps, backups and updates. Access only via Tailscale, nothing exposed to the internet. Rust core, Svelte UI.",
             "url": "https://github.com/agentverse-os/AgentVerse-OS",
-            "stars": 972,
+            "stars": 975,
             "forks": 26,
+            "score": 74
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "awesome-jev",
+            "full_name": "cobanov/awesome-jev",
+            "description": "A curated, source-backed list of projects built with Jev, TypeSafe AI's System One model for typed decisions.",
+            "url": "https://github.com/cobanov/awesome-jev",
+            "stars": 329,
+            "forks": 72,
             "score": 74
         },
         {
@@ -145,14 +145,14 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "awesome-jev",
-            "full_name": "cobanov/awesome-jev",
-            "description": "A curated, source-backed list of projects built with Jev, TypeSafe AI's System One model for typed decisions.",
-            "url": "https://github.com/cobanov/awesome-jev",
-            "stars": 324,
-            "forks": 65,
-            "score": 71
+            "sub_cat": null,
+            "name": "Awesome-Astra-Embodied-AI",
+            "full_name": "zjwzcx/Awesome-Astra-Embodied-AI",
+            "description": "GPT-6 Astra for embodied AI and robotics.",
+            "url": "https://github.com/zjwzcx/Awesome-Astra-Embodied-AI",
+            "stars": 985,
+            "forks": 20,
+            "score": 70
         },
         {
             "main_cat": "AI",
@@ -163,7 +163,7 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/huangbai-AI/post-production-skill",
             "stars": 238,
             "forks": 41,
-            "score": 70
+            "score": 63
         },
         {
             "main_cat": "AI",
@@ -172,7 +172,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Qiuner/birdview",
             "description": "Stop letting AI code blind. Map the architecture before every change with Birdview.",
             "url": "https://github.com/Qiuner/birdview",
-            "stars": 586,
+            "stars": 588,
             "forks": 55,
             "score": 61
         },
@@ -183,9 +183,31 @@ const ALPHA_DATA_V2 = {
             "full_name": "sutro-sh/jev-align",
             "description": "Build calibrated AI Functions from human feedback using Jev and GEPA.",
             "url": "https://github.com/sutro-sh/jev-align",
-            "stars": 271,
+            "stars": 273,
             "forks": 20,
             "score": 59
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "typesafe-mcp",
+            "full_name": "itsmostafa/typesafe-mcp",
+            "description": "mcp connector to give your AI agent direct access to typesafe ai's jev model",
+            "url": "https://github.com/itsmostafa/typesafe-mcp",
+            "stars": 252,
+            "forks": 24,
+            "score": 51
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "skillbox",
+            "full_name": "kitze/skillbox",
+            "description": "Self-hosted, versioned skills library for AI agents. MCP, scoped clients, and optional Jev recommendations.",
+            "url": "https://github.com/kitze/skillbox",
+            "stars": 227,
+            "forks": 20,
+            "score": 51
         },
         {
             "main_cat": "DePIN",
@@ -196,40 +218,7 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/MelisaPeteRs2006/Silent-Crypto-Miner",
             "stars": 187,
             "forks": 21,
-            "score": 52
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "typesafe-mcp",
-            "full_name": "itsmostafa/typesafe-mcp",
-            "description": "mcp connector to give your AI agent direct access to typesafe ai's jev model",
-            "url": "https://github.com/itsmostafa/typesafe-mcp",
-            "stars": 246,
-            "forks": 23,
-            "score": 51
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "skillbox",
-            "full_name": "kitze/skillbox",
-            "description": "Self-hosted, versioned skills library for AI agents. MCP, scoped clients, and optional Jev recommendations.",
-            "url": "https://github.com/kitze/skillbox",
-            "stars": 226,
-            "forks": 20,
-            "score": 51
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "AIBro",
-            "full_name": "zihenghe04/AIBro",
-            "description": "AI Bro \u2014 a local-first workspace for AI conversations, source-linked knowledge, and tasks.",
-            "url": "https://github.com/zihenghe04/AIBro",
-            "stars": 274,
-            "forks": 37,
-            "score": 47
+            "score": 49
         },
         {
             "main_cat": "AI",
@@ -245,13 +234,13 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "QCode",
-            "full_name": "Qiuner/QCode",
-            "description": "An explorable island world to learn AI coding and build real projects with AI agents. Powered by DeepSeek Harness.",
-            "url": "https://github.com/Qiuner/QCode",
-            "stars": 289,
-            "forks": 5,
-            "score": 45
+            "name": "AIBro",
+            "full_name": "zihenghe04/AIBro",
+            "description": "AI Bro \u2014 a local-first workspace for AI conversations, source-linked knowledge, and tasks.",
+            "url": "https://github.com/zihenghe04/AIBro",
+            "stars": 276,
+            "forks": 39,
+            "score": 46
         },
         {
             "main_cat": "AI",
@@ -260,8 +249,19 @@ const ALPHA_DATA_V2 = {
             "full_name": "yjz211/vivid-figures-skill",
             "description": "\u8ba9 AI \u7528\u4f60\u7684\u6570\u636e\u751f\u6210\u79d1\u7814\u56fe\u8868\uff1a108 \u4e2a\u914d\u65b9\uff0c\u9c9c\u8273\u4e0e\u7a33\u91cd\u4e24\u79cd\u98ce\u683c\uff0c\u591a\u5957\u914d\u8272\uff0c\u4ea4\u4ed8\u56fe\u7247\u4e0e\u6e90\u7801\u3002\u4ec5\u9650\u4e2a\u4eba\u975e\u5546\u4e1a\u4f7f\u7528\u3002",
             "url": "https://github.com/yjz211/vivid-figures-skill",
-            "stars": 353,
+            "stars": 360,
             "forks": 22,
+            "score": 44
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "QCode",
+            "full_name": "Qiuner/QCode",
+            "description": "An explorable island world to learn AI coding and build real projects with AI agents. Powered by DeepSeek Harness.",
+            "url": "https://github.com/Qiuner/QCode",
+            "stars": 291,
+            "forks": 5,
             "score": 44
         },
         {
@@ -271,9 +271,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "groundboxerrespect/Dlls5-auto",
             "description": "\ud83c\udfae Self-hosted neural rendering & AI image enhancement service inspired by DLSS 5. Turn any photo, screenshot or game capture into a photoreal cinematic render \u2014 bloom, filmic tone mapping, 6 style presets, REST API, batch mode. Python + FastAPI + Docker. Free & open-source.",
             "url": "https://github.com/groundboxerrespect/Dlls5-auto",
-            "stars": 351,
+            "stars": 355,
             "forks": 1,
-            "score": 44
+            "score": 43
         },
         {
             "main_cat": "AI",
@@ -284,7 +284,7 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/Phyzicalorg/Phyzical_org",
             "stars": 292,
             "forks": 2,
-            "score": 40
+            "score": 39
         },
         {
             "main_cat": "AI",
@@ -293,7 +293,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "ZeroDayEvil/ai-security-tool",
             "description": "\ud83d\udee1\ufe0f Free open-source AI-powered security terminal & vulnerability scanner (CVE, SBOM). Supports SSH, SFTP, RDP, VNC, Serial, and 12+ autonomous AI agents (DeepSeek, OpenAI) for automated security workflows, CTF & DevSecOps. Cross-platform & Web UI.",
             "url": "https://github.com/ZeroDayEvil/ai-security-tool",
-            "stars": 247,
+            "stars": 248,
             "forks": 7,
             "score": 39
         },
@@ -304,7 +304,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "yudaprasetya007/routeVSCODE",
             "description": "\u26a1 Zero-reload dynamic AI model switcher & local proxy for VSCode Copilot Chat via 9Router",
             "url": "https://github.com/yudaprasetya007/routeVSCODE",
-            "stars": 239,
+            "stars": 222,
             "forks": 0,
             "score": 37
         },
@@ -315,7 +315,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "FankChen/tracecrate",
             "description": "Local-first AI agent trace workbench. Inspect Claude Code, Codex and OTLP logs, compare runs, and export privacy-conscious reports. No backend or API keys.",
             "url": "https://github.com/FankChen/tracecrate",
-            "stars": 195,
+            "stars": 197,
             "forks": 4,
             "score": 37
         },
@@ -326,20 +326,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "hanaganfur1/Foxigrow",
             "description": "https://github.com/amagine-ai/Amagine3D",
             "url": "https://github.com/hanaganfur1/Foxigrow",
-            "stars": 210,
+            "stars": 214,
             "forks": 0,
             "score": 36
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "briefd",
-            "full_name": "ismailperim/briefd",
-            "description": "Your agents, briefed. Not flooded. Self-hosted context compiler: git-backed team knowledge served to coding agents as token-budgeted bundles over MCP.",
-            "url": "https://github.com/ismailperim/briefd",
-            "stars": 25,
-            "forks": 0,
-            "score": 33
         },
         {
             "main_cat": "AI",
@@ -348,9 +337,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "0xBakeer/arbiter",
             "description": "Serve typed-decision (System 1) models \u2014 Laya or your own \u2014 on NVIDIA GPUs or Apple Silicon, with a Jev-compatible API and coding-agent integrations",
             "url": "https://github.com/0xBakeer/arbiter",
-            "stars": 18,
+            "stars": 19,
             "forks": 3,
             "score": 33
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "briefd",
+            "full_name": "ismailperim/briefd",
+            "description": "Your agents, briefed. Not flooded. Self-hosted context compiler: git-backed team knowledge served to coding agents as token-budgeted bundles over MCP.",
+            "url": "https://github.com/ismailperim/briefd",
+            "stars": 26,
+            "forks": 0,
+            "score": 32
         },
         {
             "main_cat": "AI",
@@ -359,8 +359,19 @@ const ALPHA_DATA_V2 = {
             "full_name": "leesk212/JEV-CPU",
             "description": "Run SemIf (Jev-style semantic-if decisions) on a CPU \u2014 no GPU. Reads typed option probabilities straight from an open model in one forward pass, plus a web UI.",
             "url": "https://github.com/leesk212/JEV-CPU",
-            "stars": 14,
+            "stars": 15,
             "forks": 2,
+            "score": 31
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "lobes",
+            "full_name": "VecSzn/lobes",
+            "description": "An experimental local AI runtime. It relays one request through five small models with one job each, on a single 8 GB consumer GPU.",
+            "url": "https://github.com/VecSzn/lobes",
+            "stars": 11,
+            "forks": 4,
             "score": 31
         },
         {
@@ -370,7 +381,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Gxj230958/TritonAscendBench",
             "description": "A migration benchmark that measures whether production GPU Triton kernels \u2014 extracted from vLLM and SGLang inference paths \u2014 can be ported to the Huawei Ascend 910B (Atlas A2) via `triton-ascend` without losing correctness or performance.",
             "url": "https://github.com/Gxj230958/TritonAscendBench",
-            "stars": 14,
+            "stars": 16,
             "forks": 0,
             "score": 30
         },
@@ -419,6 +430,17 @@ const ALPHA_DATA_V2 = {
             "score": 30
         },
         {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "SmartBetAI",
+            "full_name": "AiBetPro/SmartBetAI",
+            "description": "An AI-powered sports betting platform featuring automated prediction models, match analysis, and intelligent betting ticket generation.",
+            "url": "https://github.com/AiBetPro/SmartBetAI",
+            "stars": 0,
+            "forks": 0,
+            "score": 30
+        },
+        {
             "main_cat": "Prediction Markets",
             "sub_cat": null,
             "name": "v4-prophecy-hook",
@@ -430,23 +452,23 @@ const ALPHA_DATA_V2 = {
             "score": 30
         },
         {
-            "main_cat": "Stablecoin Infrastructure",
-            "sub_cat": null,
-            "name": "stellar-remit",
-            "full_name": "Jamixy/stellar-remit",
-            "description": "A mobile first cross border remittance application built on stellar Testnet that demonstrates low-cost stablecoin payment across Africa. This repository is an MVP foundation for open-source payment infrastructure project ",
-            "url": "https://github.com/Jamixy/stellar-remit",
-            "stars": 1,
-            "forks": 0,
-            "score": 30
-        },
-        {
             "main_cat": "AI",
             "sub_cat": "AI General",
             "name": "Freteracer",
             "full_name": "futures996/Freteracer",
             "description": "O APP conecta empresas, transportadoras e caminhoneiros via mini-contratos inteligentes on-chain, permitindo pagamentos P2P audit\u00e1veis em blockchain: criptoativos e stablecoins. Suporta dep\u00f3sito em garantia, marcos de entrega, libera\u00e7\u00e3o autom\u00e1tica, split payments para carga e fornecedores. Verifica\u00e7\u00e3o e integra\u00e7\u00e3o com gateways fiat. e auditoria.",
             "url": "https://github.com/futures996/Freteracer",
+            "stars": 2,
+            "forks": 0,
+            "score": 30
+        },
+        {
+            "main_cat": "Stablecoin Infrastructure",
+            "sub_cat": null,
+            "name": "stellar-remit",
+            "full_name": "Jamixy/stellar-remit",
+            "description": "A mobile first cross border remittance application built on stellar Testnet that demonstrates low-cost stablecoin payment across Africa. This repository is an MVP foundation for open-source payment infrastructure project ",
+            "url": "https://github.com/Jamixy/stellar-remit",
             "stars": 1,
             "forks": 0,
             "score": 30
@@ -542,10 +564,10 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
-            "name": "woocommerce-payzum",
-            "full_name": "payzum-dev/woocommerce-payzum",
-            "description": "Accept crypto & stablecoin payments (USDC, USDT, multi-chain) in WooCommerce with Payzum \u2014 non-custodial crypto payment gateway plugin for WordPress",
-            "url": "https://github.com/payzum-dev/woocommerce-payzum",
+            "name": "blesta-payzum",
+            "full_name": "payzum-dev/blesta-payzum",
+            "description": "Accept crypto & stablecoin payments (USDC, USDT, multi-chain) in Blesta with Payzum \u2014 non-custodial crypto payment gateway for hosting billing",
+            "url": "https://github.com/payzum-dev/blesta-payzum",
             "stars": 0,
             "forks": 0,
             "score": 30
@@ -553,10 +575,10 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
-            "name": "blesta-payzum",
-            "full_name": "payzum-dev/blesta-payzum",
-            "description": "Accept crypto & stablecoin payments (USDC, USDT, multi-chain) in Blesta with Payzum \u2014 non-custodial crypto payment gateway for hosting billing",
-            "url": "https://github.com/payzum-dev/blesta-payzum",
+            "name": "woocommerce-payzum",
+            "full_name": "payzum-dev/woocommerce-payzum",
+            "description": "Accept crypto & stablecoin payments (USDC, USDT, multi-chain) in WooCommerce with Payzum \u2014 non-custodial crypto payment gateway plugin for WordPress",
+            "url": "https://github.com/payzum-dev/woocommerce-payzum",
             "stars": 0,
             "forks": 0,
             "score": 30
@@ -761,5 +783,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-09-22 10:44"
+    "timestamp": "2026-09-22 15:19"
 };
