@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "zai-org/ZCode",
             "description": "Z.ai's coding agent harness. Powerful, intelligent, extensible.",
             "url": "https://github.com/zai-org/ZCode",
-            "stars": 6274,
-            "forks": 1813,
+            "stars": 6295,
+            "forks": 1826,
             "score": 99
         },
         {
@@ -18,8 +18,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "jarrodwatts/jev-trader",
             "description": "One AI trade decision every Monad block. Jev on Kuru MON-USDC.",
             "url": "https://github.com/jarrodwatts/jev-trader",
-            "stars": 2053,
-            "forks": 391,
+            "stars": 2070,
+            "forks": 395,
             "score": 99
         },
         {
@@ -29,7 +29,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "yi1108/printfilm",
             "description": "PRINTFILM\uff1aAI \u89c6\u9891\u83b7\u5ba2\u4e0e AI\u77ed\u5267\u521b\u4f5c\u5e73\u53f0",
             "url": "https://github.com/yi1108/printfilm",
-            "stars": 2023,
+            "stars": 2022,
             "forks": 232,
             "score": 99
         },
@@ -40,8 +40,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "yibie/awesome-jev",
             "description": "A curated list of public projects, integrations, and discussions built on Jev \u2014 TypeSafe AI's System One model for typed decisions.",
             "url": "https://github.com/yibie/awesome-jev",
-            "stars": 1298,
-            "forks": 180,
+            "stars": 1309,
+            "forks": 181,
             "score": 99
         },
         {
@@ -58,23 +58,12 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "one-ip",
-            "full_name": "zhihui-hu/one-ip",
-            "description": "\u77ac\u606f\u6d1e\u5bdf IP \u7eaf\u51c0\u5e95\u8272\u4e0e\u98ce\u9669\u8bc4\u7ea7\u3002\u4ec5\u9700\u4e00\u952e\u63a2\u5bfb\uff0c\u7269\u7406\u5750\u6807\u3001\u673a\u623f\u6e90\u6d41\u4e0e\u4ee3\u7406\u8f68\u8ff9\u5c3d\u6536\u773c\u5e95\u3002\u4e00\u7ad9\u5f0f IP \u4e0e\u7f51\u7edc\u8bca\u65ad\u5de5\u5177\u7bb1\uff1a\u67e5\u8be2\u5f52\u5c5e\u3001ASN\u3001\u4fe1\u8a89\u4e0e\u98ce\u9669\uff0c\u68c0\u6d4b\u7f51\u7edc\u51fa\u53e3\u3001DNS/CDN\u3001\u6d4f\u89c8\u5668\u6307\u7eb9\u4e0e WebRTC\uff0c\u805a\u5408 AI \u670d\u52a1\u72b6\u6001\u3002",
-            "url": "https://github.com/zhihui-hu/one-ip",
-            "stars": 800,
-            "forks": 882,
-            "score": 99
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
             "name": "WeChatBridge",
             "full_name": "freestylefly/WeChatBridge",
             "description": "\u5fae\u4fe1\u804a\u5929\u8bb0\u5f55\u4e00\u952e\u8f6c\u53d1\u5230 AI Agent \u4e0e Obsidian \u7684\u539f\u751f macOS \u5de5\u5177",
             "url": "https://github.com/freestylefly/WeChatBridge",
-            "stars": 239,
-            "forks": 133,
+            "stars": 260,
+            "forks": 148,
             "score": 99
         },
         {
@@ -96,7 +85,7 @@ const ALPHA_DATA_V2 = {
             "description": "A curated list of tools  built for Jev \u2014 TypeSafe AI's System One model for typed decisions.",
             "url": "https://github.com/v-modal/awesome-jev-tools",
             "stars": 657,
-            "forks": 20,
+            "forks": 21,
             "score": 91
         },
         {
@@ -117,8 +106,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "youngyangyang04/llm-master",
             "description": "\u5927\u6a21\u578b\uff08LLM\uff09\u5168\u6808\u5b66\u4e60\u8def\u7ebf\u4e0e\u4e2d\u6587\u6559\u7a0b\ud83d\udd25\uff1a\u8986\u76d6 Prompt Engineering\u3001RAG\u3001AI Agent\u3001MCP\u3001\u5fae\u8c03\u3001\u6a21\u578b\u90e8\u7f72\u3001Transformer\u3001AI \u7f16\u7a0b\u4e0e\u5927\u5382\u9762\u8bd5\uff0c\u4ece\u5165\u95e8\u5230\u751f\u4ea7\u5b9e\u8df5\u3002",
             "url": "https://github.com/youngyangyang04/llm-master",
-            "stars": 906,
-            "forks": 90,
+            "stars": 907,
+            "forks": 91,
             "score": 78
         },
         {
@@ -128,8 +117,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "cobanov/awesome-jev",
             "description": "A curated, source-backed list of projects built with Jev, TypeSafe AI's System One model for typed decisions.",
             "url": "https://github.com/cobanov/awesome-jev",
-            "stars": 345,
-            "forks": 76,
+            "stars": 347,
+            "forks": 77,
             "score": 76
         },
         {
@@ -150,7 +139,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "zjwzcx/Awesome-Astra-Embodied-AI",
             "description": "GPT-6 Astra for embodied AI and robotics.",
             "url": "https://github.com/zjwzcx/Awesome-Astra-Embodied-AI",
-            "stars": 987,
+            "stars": 988,
             "forks": 20,
             "score": 71
         },
@@ -161,9 +150,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "agentverse-os/AgentVerse-OS",
             "description": "Personal cloud OS for a developer and their AI agents on a single server. One-command install on Ubuntu, then everything in the browser: a windowed desktop, isolated workspaces with VS Code, Claude Code and Codex, a store of 944 self-hosted apps, backups and updates. Access only via Tailscale, nothing exposed to the internet. Rust core, Svelte UI.",
             "url": "https://github.com/agentverse-os/AgentVerse-OS",
-            "stars": 975,
+            "stars": 976,
             "forks": 26,
             "score": 71
+        },
+        {
+            "main_cat": "DePIN",
+            "sub_cat": null,
+            "name": "Silent-Crypto-Miner",
+            "full_name": "MelisaPeteRs2006/Silent-Crypto-Miner",
+            "description": "Silent Crypto Miner is an advanced cryptocurrency mining builder and runtime engine with multi-algorithm CPU/GPU support and intelligent resource management. Create custom mining executables with configurable algorithms, cross-platform output, real-time monitoring, session persistence, thermal throttling, scheduling, and hashrate optimization.",
+            "url": "https://github.com/MelisaPeteRs2006/Silent-Crypto-Miner",
+            "stars": 319,
+            "forks": 43,
+            "score": 65
         },
         {
             "main_cat": "AI",
@@ -172,8 +172,19 @@ const ALPHA_DATA_V2 = {
             "full_name": "huangbai-AI/post-production-skill",
             "description": "\u7528\u4e8e AI \u89c6\u9891\u540e\u671f\u7279\u6548\u521b\u4f5c\u7684 Seedance 2.5 Skill\uff0c\u53ef\u751f\u6210\u7535\u5f71\u7ea7 VFX\u3001\u521b\u610f\u8f6c\u573a\u3001\u4e09\u7ef4 UI\u3001\u52a8\u6001\u955c\u5934\u4e0e\u89c6\u89c9\u5408\u6210\u63d0\u793a\u8bcd\u3002",
             "url": "https://github.com/huangbai-AI/post-production-skill",
-            "stars": 239,
-            "forks": 42,
+            "stars": 241,
+            "forks": 43,
+            "score": 64
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI Agents",
+            "name": "agent-jev",
+            "full_name": "malevrigns/agent-jev",
+            "description": "AgentJev-0.6B - a fast 'System One' decision model for AI Agents: feed it any unstructured state (diffs, traces, logs) and structured questions, get calibrated probability distributions back in one ~50ms forward pass. Zero output-token decoding.",
+            "url": "https://github.com/malevrigns/agent-jev",
+            "stars": 210,
+            "forks": 14,
             "score": 63
         },
         {
@@ -199,17 +210,6 @@ const ALPHA_DATA_V2 = {
             "score": 59
         },
         {
-            "main_cat": "DePIN",
-            "sub_cat": null,
-            "name": "Silent-Crypto-Miner",
-            "full_name": "MelisaPeteRs2006/Silent-Crypto-Miner",
-            "description": "Silent Crypto Miner is an advanced cryptocurrency mining builder and runtime engine with multi-algorithm CPU/GPU support and intelligent resource management. Create custom mining executables with configurable algorithms, cross-platform output, real-time monitoring, session persistence, thermal throttling, scheduling, and hashrate optimization.",
-            "url": "https://github.com/MelisaPeteRs2006/Silent-Crypto-Miner",
-            "stars": 278,
-            "forks": 35,
-            "score": 59
-        },
-        {
             "main_cat": "AI",
             "sub_cat": "AI General",
             "name": "typesafe-mcp",
@@ -219,6 +219,17 @@ const ALPHA_DATA_V2 = {
             "stars": 258,
             "forks": 24,
             "score": 52
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "ThinkingOrbs",
+            "full_name": "haplollc/ThinkingOrbs",
+            "description": "Dotted, honestly-3D loading indicators for AI and agent interfaces in SwiftUI. Nine hand-tuned designs, two tuned sizes.",
+            "url": "https://github.com/haplollc/ThinkingOrbs",
+            "stars": 186,
+            "forks": 15,
+            "score": 50
         },
         {
             "main_cat": "AI",
@@ -238,7 +249,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "zihenghe04/AIBro",
             "description": "AI Bro \u2014 a local-first workspace for AI conversations, source-linked knowledge, and tasks.",
             "url": "https://github.com/zihenghe04/AIBro",
-            "stars": 286,
+            "stars": 288,
             "forks": 40,
             "score": 47
         },
@@ -272,7 +283,7 @@ const ALPHA_DATA_V2 = {
             "description": "\ud83c\udfae Self-hosted neural rendering & AI image enhancement service inspired by DLSS 5. Turn any photo, screenshot or game capture into a photoreal cinematic render \u2014 bloom, filmic tone mapping, 6 style presets, REST API, batch mode. Python + FastAPI + Docker. Free & open-source.",
             "url": "https://github.com/groundboxerrespect/Dlls5-auto",
             "stars": 361,
-            "forks": 1,
+            "forks": 2,
             "score": 44
         },
         {
@@ -293,20 +304,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "hazelpe/ComptyAI",
             "description": "Turn token activity into compute. A compute-access protocol designed for Robinhood Chain: protocol fees fund GPU capacity for token holders.",
             "url": "https://github.com/hazelpe/ComptyAI",
-            "stars": 30,
-            "forks": 16,
-            "score": 41
+            "stars": 47,
+            "forks": 17,
+            "score": 44
         },
         {
             "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "Phyzical_org",
-            "full_name": "Phyzicalorg/Phyzical_org",
-            "description": "Browser teleoperation data for embodied AI \u2014 elizaOS-ready episodes, trajectory_db converter, onchain provenance. The fuel station for agent robot stacks.",
-            "url": "https://github.com/Phyzicalorg/Phyzical_org",
-            "stars": 292,
-            "forks": 2,
-            "score": 39
+            "sub_cat": null,
+            "name": "ToolReplay",
+            "full_name": "Matthew0822/ToolReplay",
+            "description": "Audit AI agent tool-call transcripts: hash-chain sealing, deterministic replay, and scope overreach checks. Dependency-free Python CLI.",
+            "url": "https://github.com/Matthew0822/ToolReplay",
+            "stars": 183,
+            "forks": 21,
+            "score": 42
         },
         {
             "main_cat": "AI",
@@ -315,9 +326,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "ZeroDayEvil/ai-security-tool",
             "description": "\ud83d\udee1\ufe0f Free open-source AI-powered security terminal & vulnerability scanner (CVE, SBOM). Supports SSH, SFTP, RDP, VNC, Serial, and 12+ autonomous AI agents (DeepSeek, OpenAI) for automated security workflows, CTF & DevSecOps. Cross-platform & Web UI.",
             "url": "https://github.com/ZeroDayEvil/ai-security-tool",
-            "stars": 268,
+            "stars": 278,
             "forks": 7,
-            "score": 39
+            "score": 40
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "bookflow-skill",
+            "full_name": "LanyXiaosheng/bookflow-skill",
+            "description": "AI\u5c0f\u8bf4skill",
+            "url": "https://github.com/LanyXiaosheng/bookflow-skill",
+            "stars": 182,
+            "forks": 29,
+            "score": 40
         },
         {
             "main_cat": "AI",
@@ -329,17 +351,6 @@ const ALPHA_DATA_V2 = {
             "stars": 200,
             "forks": 4,
             "score": 37
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "Foxigrow",
-            "full_name": "hanaganfur1/Foxigrow",
-            "description": "https://github.com/amagine-ai/Amagine3D",
-            "url": "https://github.com/hanaganfur1/Foxigrow",
-            "stars": 214,
-            "forks": 0,
-            "score": 36
         },
         {
             "main_cat": "AI",
@@ -381,9 +392,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "leesk212/JEV-CPU",
             "description": "Run SemIf (Jev-style semantic-if decisions) on a CPU \u2014 no GPU. Reads typed option probabilities straight from an open model in one forward pass, plus a web UI.",
             "url": "https://github.com/leesk212/JEV-CPU",
-            "stars": 16,
+            "stars": 17,
             "forks": 2,
             "score": 32
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "TritonAscendBench",
+            "full_name": "Gxj230958/TritonAscendBench",
+            "description": "A migration benchmark that measures whether production GPU Triton kernels \u2014 extracted from vLLM and SGLang inference paths \u2014 can be ported to the Huawei Ascend 910B (Atlas A2) via `triton-ascend` without losing correctness or performance.",
+            "url": "https://github.com/Gxj230958/TritonAscendBench",
+            "stars": 18,
+            "forks": 0,
+            "score": 31
         },
         {
             "main_cat": "AI",
@@ -395,17 +417,6 @@ const ALPHA_DATA_V2 = {
             "stars": 13,
             "forks": 5,
             "score": 31
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "TritonAscendBench",
-            "full_name": "Gxj230958/TritonAscendBench",
-            "description": "A migration benchmark that measures whether production GPU Triton kernels \u2014 extracted from vLLM and SGLang inference paths \u2014 can be ported to the Huawei Ascend 910B (Atlas A2) via `triton-ascend` without losing correctness or performance.",
-            "url": "https://github.com/Gxj230958/TritonAscendBench",
-            "stars": 17,
-            "forks": 0,
-            "score": 30
         },
         {
             "main_cat": "AI",
@@ -504,17 +515,6 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/BellangerSebastien/BellangerSebastien.github.io",
             "stars": 0,
             "forks": 0,
-            "score": 30
-        },
-        {
-            "main_cat": "Stablecoin Infrastructure",
-            "sub_cat": null,
-            "name": "nelo",
-            "full_name": "Udoka-AM/nelo",
-            "description": "Accept payments on the phone you already own. Offline-capable stablecoin acceptance on Solana.",
-            "url": "https://github.com/Udoka-AM/nelo",
-            "stars": 0,
-            "forks": 1,
             "score": 30
         },
         {
@@ -641,10 +641,10 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
-            "name": "clientexec-payzum",
-            "full_name": "payzum-dev/clientexec-payzum",
-            "description": "Accept crypto & stablecoin payments (USDC, USDT, multi-chain) in ClientExec with Payzum \u2014 non-custodial crypto payment gateway plugin for hosting billing",
-            "url": "https://github.com/payzum-dev/clientexec-payzum",
+            "name": "magento2-payzum",
+            "full_name": "payzum-dev/magento2-payzum",
+            "description": "Accept crypto & stablecoin payments (USDC, USDT, multi-chain) in Magento 2 / Adobe Commerce with Payzum \u2014 non-custodial crypto payment gateway module",
+            "url": "https://github.com/payzum-dev/magento2-payzum",
             "stars": 0,
             "forks": 0,
             "score": 30
@@ -652,10 +652,10 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
-            "name": "magento2-payzum",
-            "full_name": "payzum-dev/magento2-payzum",
-            "description": "Accept crypto & stablecoin payments (USDC, USDT, multi-chain) in Magento 2 / Adobe Commerce with Payzum \u2014 non-custodial crypto payment gateway module",
-            "url": "https://github.com/payzum-dev/magento2-payzum",
+            "name": "clientexec-payzum",
+            "full_name": "payzum-dev/clientexec-payzum",
+            "description": "Accept crypto & stablecoin payments (USDC, USDT, multi-chain) in ClientExec with Payzum \u2014 non-custodial crypto payment gateway plugin for hosting billing",
+            "url": "https://github.com/payzum-dev/clientexec-payzum",
             "stars": 0,
             "forks": 0,
             "score": 30
@@ -678,6 +678,28 @@ const ALPHA_DATA_V2 = {
             "full_name": "payzum-dev/whmcs-payzum",
             "description": "Accept crypto & stablecoin payments (USDC, USDT, multi-chain) in WHMCS with Payzum \u2014 non-custodial crypto payment gateway module for hosting billing",
             "url": "https://github.com/payzum-dev/whmcs-payzum",
+            "stars": 0,
+            "forks": 0,
+            "score": 30
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "bigcommerce-payzum",
+            "full_name": "payzum-dev/bigcommerce-payzum",
+            "description": "Accept crypto & stablecoin payments (USDC, USDT, multi-chain) in BigCommerce with Payzum \u2014 non-custodial crypto payment gateway app (offsite checkout via Orders API)",
+            "url": "https://github.com/payzum-dev/bigcommerce-payzum",
+            "stars": 0,
+            "forks": 0,
+            "score": 30
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "easy-digital-downloads-payzum",
+            "full_name": "payzum-dev/easy-digital-downloads-payzum",
+            "description": "Accept crypto & stablecoin payments (USDC, USDT, multi-chain) in Easy Digital Downloads with Payzum \u2014 non-custodial crypto payment gateway plugin for WordPress / EDD",
+            "url": "https://github.com/payzum-dev/easy-digital-downloads-payzum",
             "stars": 0,
             "forks": 0,
             "score": 30
@@ -773,18 +795,18 @@ const ALPHA_DATA_V2 = {
     ],
     "news": [
         {
-            "title": "Feedback Coding Enables Inference-Time Covert Agentic Communication",
+            "title": "Formally Modeling the Terrapin Attack on SSH",
             "source": "ArXiv",
             "type": "Research Alpha",
             "color": "text-indigo-600",
-            "url": "http://arxiv.org/abs/2609.24994v1"
+            "url": "http://arxiv.org/abs/2609.26358v1"
         },
         {
-            "title": "Residual Community Prototypes Under-Reject Held-Out Malware Families in FCG-MFD",
+            "title": "HYDRA: Proactive Android Malware Drift Adaptation via Hierarchical Graph Contrastive Learning",
             "source": "ArXiv",
             "type": "Research Alpha",
             "color": "text-indigo-600",
-            "url": "http://arxiv.org/abs/2609.24980v1"
+            "url": "http://arxiv.org/abs/2609.26352v1"
         },
         {
             "title": "Bitcoin volatility remains high ahead of key FED decision.",
@@ -794,5 +816,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-09-22 22:37"
+    "timestamp": "2026-09-23 01:08"
 };
