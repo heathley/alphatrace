@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "zai-org/ZCode",
             "description": "Z.ai's coding agent harness. Powerful, intelligent, extensible.",
             "url": "https://github.com/zai-org/ZCode",
-            "stars": 6705,
-            "forks": 2003,
+            "stars": 6713,
+            "forks": 2004,
             "score": 99
         },
         {
@@ -18,8 +18,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "jarrodwatts/jev-trader",
             "description": "One AI trade decision every Monad block. Jev on Kuru MON-USDC.",
             "url": "https://github.com/jarrodwatts/jev-trader",
-            "stars": 2352,
-            "forks": 442,
+            "stars": 2363,
+            "forks": 443,
             "score": 99
         },
         {
@@ -29,7 +29,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "yibie/awesome-jev",
             "description": "A curated list of public projects, integrations, and discussions built on Jev \u2014 TypeSafe AI's System One model for typed decisions.",
             "url": "https://github.com/yibie/awesome-jev",
-            "stars": 1616,
+            "stars": 1621,
             "forks": 234,
             "score": 99
         },
@@ -51,9 +51,31 @@ const ALPHA_DATA_V2 = {
             "full_name": "freestylefly/WeChatBridge",
             "description": "\u5fae\u4fe1\u804a\u5929\u8bb0\u5f55\u4e00\u952e\u8f6c\u53d1\u5230 AI Agent \u4e0e Obsidian \u7684\u539f\u751f macOS \u5de5\u5177",
             "url": "https://github.com/freestylefly/WeChatBridge",
-            "stars": 654,
+            "stars": 656,
             "forks": 265,
             "score": 99
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "inkloom",
+            "full_name": "Inkloom-art/inkloom",
+            "description": "Specialised AI models for logo design \u2014 a brand-analysis model turns a business into constraints, typography and symbol models construct the mark, and a composition engine produces real lockups and clear-space rules. Early access open.",
+            "url": "https://github.com/Inkloom-art/inkloom",
+            "stars": 207,
+            "forks": 215,
+            "score": 99
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "short-video-generator-AI",
+            "full_name": "yukitorido/short-video-generator-AI",
+            "description": "AI video processing pipeline for generating vertical shorts using LLMs, Whisper transcription, highlight detection and automated editing",
+            "url": "https://github.com/yukitorido/short-video-generator-AI",
+            "stars": 203,
+            "forks": 76,
+            "score": 93
         },
         {
             "main_cat": "AI",
@@ -62,9 +84,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "amitshekhariitbhu/ai-engineering-course",
             "description": "AI Engineering Course - A free and complete AI Engineering Course to learn AI Engineering step by step - from Machine Learning, Neural Networks, and Transformers to LLMs, Fine-Tuning, RAG, AI Agents, LLM Inference, Evaluation, AI Safety, and AI System Design.",
             "url": "https://github.com/amitshekhariitbhu/ai-engineering-course",
-            "stars": 257,
+            "stars": 260,
             "forks": 53,
-            "score": 88
+            "score": 89
         },
         {
             "main_cat": "AI",
@@ -123,17 +145,6 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
-            "sub_cat": null,
-            "name": "ai-data-extractor",
-            "full_name": "kruzovic7/ai-data-extractor",
-            "description": "Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.",
-            "url": "https://github.com/kruzovic7/ai-data-extractor",
-            "stars": 843,
-            "forks": 137,
-            "score": 73
-        },
-        {
-            "main_cat": "AI",
             "sub_cat": "AI General",
             "name": "awesome-jev",
             "full_name": "cobanov/awesome-jev",
@@ -142,17 +153,6 @@ const ALPHA_DATA_V2 = {
             "stars": 387,
             "forks": 88,
             "score": 71
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "reelbench-skills",
-            "full_name": "eternityspring/reelbench-skills",
-            "description": "Learning notes and tooling skills for AI video - AI \u89c6\u9891\u76f8\u5173\u7684\u5b66\u4e60\u4e0e\u5de5\u5177 skill",
-            "url": "https://github.com/eternityspring/reelbench-skills",
-            "stars": 835,
-            "forks": 102,
-            "score": 68
         },
         {
             "main_cat": "AI",
@@ -184,8 +184,8 @@ const ALPHA_DATA_V2 = {
             "description": "AgentJev-0.6B - a fast 'System One' decision model for AI Agents: feed it any unstructured state (diffs, traces, logs) and structured questions, get calibrated probability distributions back in one ~50ms forward pass. Zero output-token decoding.",
             "url": "https://github.com/malevrigns/agent-jev",
             "stars": 293,
-            "forks": 26,
-            "score": 63
+            "forks": 25,
+            "score": 62
         },
         {
             "main_cat": "DePIN",
@@ -205,9 +205,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "kydlikebtc/awesome-jev",
             "description": "1207 public resources for Jev, TypeSafe AI's System One decision model, indexed by decision pattern. Source citations, dated link checks and scheduled call-site text checks; runtime and performance are not independently tested here. EN/\u4e2d\u6587, JSON schema and platform compatibility.",
             "url": "https://github.com/kydlikebtc/awesome-jev",
-            "stars": 271,
+            "stars": 284,
             "forks": 7,
-            "score": 59
+            "score": 61
         },
         {
             "main_cat": "AI",
@@ -216,7 +216,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Qiuner/birdview",
             "description": "Stop letting AI code blind. Map the architecture before every change with Birdview.",
             "url": "https://github.com/Qiuner/birdview",
-            "stars": 609,
+            "stars": 610,
             "forks": 58,
             "score": 58
         },
@@ -244,17 +244,6 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
-            "sub_cat": null,
-            "name": "ai-agent-handbook",
-            "full_name": "aliyun/ai-agent-handbook",
-            "description": "A practical guide to building enterprise AI agents across their full lifecycle.",
-            "url": "https://github.com/aliyun/ai-agent-handbook",
-            "stars": 426,
-            "forks": 77,
-            "score": 52
-        },
-        {
-            "main_cat": "AI",
             "sub_cat": "AI General",
             "name": "typesafe-mcp",
             "full_name": "itsmostafa/typesafe-mcp",
@@ -263,6 +252,17 @@ const ALPHA_DATA_V2 = {
             "stars": 300,
             "forks": 32,
             "score": 51
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "ai-manager",
+            "full_name": "OnlistTeam/ai-manager",
+            "description": "AI Manager desktop application for AI coding tools",
+            "url": "https://github.com/OnlistTeam/ai-manager",
+            "stars": 207,
+            "forks": 6,
+            "score": 49
         },
         {
             "main_cat": "AI",
@@ -282,7 +282,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "haplollc/ThinkingOrbs",
             "description": "Dotted, honestly-3D loading indicators for AI and agent interfaces in SwiftUI. Nine hand-tuned designs, two tuned sizes.",
             "url": "https://github.com/haplollc/ThinkingOrbs",
-            "stars": 209,
+            "stars": 210,
             "forks": 16,
             "score": 47
         },
@@ -417,6 +417,17 @@ const ALPHA_DATA_V2 = {
             "stars": 18,
             "forks": 2,
             "score": 31
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "aibuildai-knowledge-base",
+            "full_name": "aibuildai-inc/aibuildai-knowledge-base",
+            "description": "AIBuildAI Knowledge Base: curated skills for building AI models, served to agents over MCP",
+            "url": "https://github.com/aibuildai-inc/aibuildai-knowledge-base",
+            "stars": 5,
+            "forks": 1,
+            "score": 30
         },
         {
             "main_cat": "AI",
@@ -685,6 +696,17 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
+            "name": "medusa-payment-payzum",
+            "full_name": "payzum-dev/medusa-payment-payzum",
+            "description": "Accept crypto & stablecoin payments (USDC, USDT, multi-chain) in Medusa v2 with Payzum \u2014 non-custodial crypto payment provider plugin for MedusaJS",
+            "url": "https://github.com/payzum-dev/medusa-payment-payzum",
+            "stars": 0,
+            "forks": 0,
+            "score": 30
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
             "name": "mcptrustchecker",
             "full_name": "illia-haidar/mcptrustchecker",
             "description": "Local-first, deterministic security scanner for Model Context Protocol (MCP) servers. Cross-tool toxic-flow analysis, Unicode-smuggling decode, prompt-injection & supply-chain detection, with an auditable 0\u2013100 Trust Score.",
@@ -773,18 +795,18 @@ const ALPHA_DATA_V2 = {
     ],
     "news": [
         {
-            "title": "ForgetMimic: Motion Unlearning for Reinforcement Learning Humanoid Control",
+            "title": "Hard Stop: Kernel-Level Preemption and Containment for Rogue Agentic Execution",
             "source": "ArXiv",
             "type": "Research Alpha",
             "color": "text-indigo-600",
-            "url": "http://arxiv.org/abs/2609.28378v1"
+            "url": "http://arxiv.org/abs/2609.29808v1"
         },
         {
-            "title": "A Gmail-Based Phishing Detection Prototype for Nigerian Fintech Emails Using Sender Checks and BiLSTM Classification",
+            "title": "Prefilling the Reasoning Channel: Output-Prefix Attacks on Reasoning LLMs",
             "source": "ArXiv",
             "type": "Research Alpha",
             "color": "text-indigo-600",
-            "url": "http://arxiv.org/abs/2609.28305v1"
+            "url": "http://arxiv.org/abs/2609.29775v1"
         },
         {
             "title": "Bitcoin volatility remains high ahead of key FED decision.",
@@ -794,5 +816,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-09-24 22:54"
+    "timestamp": "2026-09-25 01:05"
 };
