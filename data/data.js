@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "zai-org/ZCode",
             "description": "Z.ai's coding agent harness. Powerful, intelligent, extensible.",
             "url": "https://github.com/zai-org/ZCode",
-            "stars": 6778,
-            "forks": 2037,
+            "stars": 6799,
+            "forks": 2044,
             "score": 99
         },
         {
@@ -18,8 +18,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "jarrodwatts/jev-trader",
             "description": "One AI trade decision every Monad block. Jev on Kuru MON-USDC.",
             "url": "https://github.com/jarrodwatts/jev-trader",
-            "stars": 2421,
-            "forks": 458,
+            "stars": 2435,
+            "forks": 461,
             "score": 99
         },
         {
@@ -29,8 +29,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "yibie/awesome-jev",
             "description": "A curated list of public projects, integrations, and discussions built on Jev \u2014 TypeSafe AI's System One model for typed decisions.",
             "url": "https://github.com/yibie/awesome-jev",
-            "stars": 1688,
-            "forks": 244,
+            "stars": 1699,
+            "forks": 245,
             "score": 99
         },
         {
@@ -40,8 +40,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "hydra-db/open-glean",
             "description": "An open-source AI platform for knowledge work. Connect your apps, find answers, and get work done.",
             "url": "https://github.com/hydra-db/open-glean",
-            "stars": 1529,
-            "forks": 516,
+            "stars": 1527,
+            "forks": 515,
             "score": 99
         },
         {
@@ -51,8 +51,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "pallavi-shekhar/ai-engineering-interview-questions-company-wise",
             "description": "Your Cheat Sheet For AI Engineering Interviews at Top AI Companies - Questions and Answers.",
             "url": "https://github.com/pallavi-shekhar/ai-engineering-interview-questions-company-wise",
-            "stars": 1153,
-            "forks": 100,
+            "stars": 1253,
+            "forks": 112,
             "score": 99
         },
         {
@@ -62,19 +62,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "freestylefly/WeChatBridge",
             "description": "\u5fae\u4fe1\u804a\u5929\u8bb0\u5f55\u4e00\u952e\u8f6c\u53d1\u5230 AI Agent \u4e0e Obsidian \u7684\u539f\u751f macOS \u5de5\u5177",
             "url": "https://github.com/freestylefly/WeChatBridge",
-            "stars": 730,
-            "forks": 287,
-            "score": 99
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "short-video-generator-AI",
-            "full_name": "yukitorido/short-video-generator-AI",
-            "description": "AI video processing pipeline for generating vertical shorts using LLMs, Whisper transcription, highlight detection and automated editing",
-            "url": "https://github.com/yukitorido/short-video-generator-AI",
-            "stars": 647,
-            "forks": 82,
+            "stars": 753,
+            "forks": 292,
             "score": 99
         },
         {
@@ -84,7 +73,18 @@ const ALPHA_DATA_V2 = {
             "full_name": "asokurasu/text-humanizer",
             "description": "A completely free open-sourced project designed to humanize AI-generated text through a multilingual LLM-powered rewriting pipeline. ",
             "url": "https://github.com/asokurasu/text-humanizer",
-            "stars": 633,
+            "stars": 722,
+            "forks": 82,
+            "score": 99
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "short-video-generator-AI",
+            "full_name": "yukitorido/short-video-generator-AI",
+            "description": "AI video processing pipeline for generating vertical shorts using LLMs, Whisper transcription, highlight detection and automated editing",
+            "url": "https://github.com/yukitorido/short-video-generator-AI",
+            "stars": 713,
             "forks": 82,
             "score": 99
         },
@@ -95,20 +95,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "Inkloom-art/inkloom",
             "description": "Specialised AI models for logo design \u2014 a brand-analysis model turns a business into constraints, typography and symbol models construct the mark, and a composition engine produces real lockups and clear-space rules. Early access open.",
             "url": "https://github.com/Inkloom-art/inkloom",
-            "stars": 320,
-            "forks": 333,
+            "stars": 325,
+            "forks": 336,
             "score": 99
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI Agents",
-            "name": "ai-engineering-course",
-            "full_name": "amitshekhariitbhu/ai-engineering-course",
-            "description": "AI Engineering Course - A free and complete AI Engineering Course to learn AI Engineering step by step - from Machine Learning, Neural Networks, and Transformers to LLMs, Fine-Tuning, RAG, AI Agents, LLM Inference, Evaluation, AI Safety, and AI System Design.",
-            "url": "https://github.com/amitshekhariitbhu/ai-engineering-course",
-            "stars": 318,
-            "forks": 61,
-            "score": 86
         },
         {
             "main_cat": "AI",
@@ -117,9 +106,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "bridge-mind/bridgeclip",
             "description": "Open-source AI video clipping desktop app by BridgeMind",
             "url": "https://github.com/bridge-mind/bridgeclip",
-            "stars": 224,
-            "forks": 49,
-            "score": 82
+            "stars": 231,
+            "forks": 51,
+            "score": 84
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI Agents",
+            "name": "ai-engineering-course",
+            "full_name": "amitshekhariitbhu/ai-engineering-course",
+            "description": "AI Engineering Course - A free and complete AI Engineering Course to learn AI Engineering step by step - from Machine Learning, Neural Networks, and Transformers to LLMs, Fine-Tuning, RAG, AI Agents, LLM Inference, Evaluation, AI Safety, and AI System Design.",
+            "url": "https://github.com/amitshekhariitbhu/ai-engineering-course",
+            "stars": 332,
+            "forks": 61,
+            "score": 78
         },
         {
             "main_cat": "AI",
@@ -128,9 +128,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "v-modal/awesome-jev-tools",
             "description": "A curated list of tools  built for Jev \u2014 TypeSafe AI's System One model for typed decisions.",
             "url": "https://github.com/v-modal/awesome-jev-tools",
-            "stars": 720,
+            "stars": 723,
             "forks": 32,
             "score": 77
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "ai-system-design",
+            "full_name": "amitshekhariitbhu/ai-system-design",
+            "description": "AI System Design - Learn how to design AI systems built on LLMs, RAG, and AI Agents step by step.",
+            "url": "https://github.com/amitshekhariitbhu/ai-system-design",
+            "stars": 235,
+            "forks": 35,
+            "score": 76
         },
         {
             "main_cat": "AI",
@@ -139,20 +150,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "cobanov/awesome-jev",
             "description": "A curated, source-backed list of projects built with Jev, TypeSafe AI's System One model for typed decisions.",
             "url": "https://github.com/cobanov/awesome-jev",
-            "stars": 400,
-            "forks": 91,
+            "stars": 401,
+            "forks": 92,
             "score": 68
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "awesome-jev",
-            "full_name": "kydlikebtc/awesome-jev",
-            "description": "1207 public resources for Jev, TypeSafe AI's System One decision model, indexed by decision pattern. Source citations, dated link checks and scheduled call-site text checks; runtime and performance are not independently tested here. EN/\u4e2d\u6587, JSON schema and platform compatibility.",
-            "url": "https://github.com/kydlikebtc/awesome-jev",
-            "stars": 436,
-            "forks": 8,
-            "score": 63
         },
         {
             "main_cat": "AI",
@@ -161,9 +161,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "leter/zh-tech-writing",
             "description": "\u5199\u4e2d\u6587\u6280\u672f\u6587\u6863\u7684 Agent Skill\uff0c\u57fa\u4e8e\u962e\u4e00\u5cf0\u300a\u4e2d\u6587\u6280\u672f\u6587\u6863\u7684\u5199\u4f5c\u89c4\u8303\u300b\uff1a\u77ed\u53e5\u3001\u5e73\u5b9e\u3001\u6ca1\u6709 AI \u8154",
             "url": "https://github.com/leter/zh-tech-writing",
-            "stars": 216,
+            "stars": 238,
+            "forks": 10,
+            "score": 64
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "awesome-jev",
+            "full_name": "kydlikebtc/awesome-jev",
+            "description": "1207 public resources for Jev, TypeSafe AI's System One decision model, indexed by decision pattern. Source citations, dated link checks and scheduled call-site text checks; runtime and performance are not independently tested here. EN/\u4e2d\u6587, JSON schema and platform compatibility.",
+            "url": "https://github.com/kydlikebtc/awesome-jev",
+            "stars": 438,
             "forks": 9,
-            "score": 61
+            "score": 63
         },
         {
             "main_cat": "AI",
@@ -172,7 +183,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "malevrigns/agent-jev",
             "description": "AgentJev-0.6B - a fast 'System One' decision model for AI Agents: feed it any unstructured state (diffs, traces, logs) and structured questions, get calibrated probability distributions back in one ~50ms forward pass. Zero output-token decoding.",
             "url": "https://github.com/malevrigns/agent-jev",
-            "stars": 304,
+            "stars": 305,
             "forks": 27,
             "score": 59
         },
@@ -201,23 +212,12 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
-            "name": "system-one-connector",
-            "full_name": "itsmostafa/system-one-connector",
-            "description": "System One MCP connector to evaluate anything fast and cheap. Give your AI agent direct access to models like: Typesafe AI's Jev model and Laya",
-            "url": "https://github.com/itsmostafa/system-one-connector",
-            "stars": 306,
-            "forks": 34,
-            "score": 50
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
             "name": "awesome-jev",
             "full_name": "hellogumbo/awesome-jev",
             "description": "A community directory of projects built on Jev, TypeSafe AI's System One model.",
             "url": "https://github.com/hellogumbo/awesome-jev",
             "stars": 193,
-            "forks": 63,
+            "forks": 64,
             "score": 50
         },
         {
@@ -227,19 +227,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "sutro-sh/jev-align",
             "description": "Build calibrated AI Functions from human feedback using Jev and GEPA.",
             "url": "https://github.com/sutro-sh/jev-align",
-            "stars": 289,
+            "stars": 291,
             "forks": 23,
-            "score": 49
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "ai-manager",
-            "full_name": "OnlistTeam/ai-manager",
-            "description": "AI Manager desktop application for AI coding tools",
-            "url": "https://github.com/OnlistTeam/ai-manager",
-            "stars": 243,
-            "forks": 7,
             "score": 49
         },
         {
@@ -249,8 +238,41 @@ const ALPHA_DATA_V2 = {
             "full_name": "Miaotofu01/Study-Mate",
             "description": "\u4f60\u7684AI\u5b66\u4e60\u642d\u6863\uff1a\u5b9a\u8def\u7ebf\u3001\u8bb2\u77e5\u8bc6\u3001\u505a\u9879\u76ee\uff0c\u8fb9\u5b66\u8fb9\u505a\uff0c\u5b66\u900f\u4e00\u95e8\u79d1\u76ee",
             "url": "https://github.com/Miaotofu01/Study-Mate",
-            "stars": 301,
+            "stars": 316,
             "forks": 21,
+            "score": 48
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "system-one-connector",
+            "full_name": "itsmostafa/system-one-connector",
+            "description": "System One MCP connector to evaluate anything fast and cheap. Give your AI agent direct access to models like: Typesafe AI's Jev model and Laya",
+            "url": "https://github.com/itsmostafa/system-one-connector",
+            "stars": 308,
+            "forks": 35,
+            "score": 48
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "ai-manager",
+            "full_name": "OnlistTeam/ai-manager",
+            "description": "AI Manager desktop application for AI coding tools",
+            "url": "https://github.com/OnlistTeam/ai-manager",
+            "stars": 261,
+            "forks": 7,
+            "score": 48
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "awesome-jev-use-cases",
+            "full_name": "walidboulanouar/awesome-jev-use-cases",
+            "description": "Awesome list of TypeSafe AI Jev use cases: 74 demos ranked by likes, 150+ GitHub repos, limits, cost and API examples. CC0",
+            "url": "https://github.com/walidboulanouar/awesome-jev-use-cases",
+            "stars": 221,
+            "forks": 22,
             "score": 47
         },
         {
@@ -260,9 +282,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "amitshekhariitbhu/ai-engineer-roadmap",
             "description": "AI Engineer Roadmap - A step-by-step AI Engineering roadmap to become an AI Engineer, with a blog for every topic.",
             "url": "https://github.com/amitshekhariitbhu/ai-engineer-roadmap",
-            "stars": 206,
+            "stars": 207,
             "forks": 18,
             "score": 47
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "skillbox",
+            "full_name": "kitze/skillbox",
+            "description": "Self-hosted, versioned skills library for AI agents. MCP, scoped clients, and optional Jev recommendations.",
+            "url": "https://github.com/kitze/skillbox",
+            "stars": 246,
+            "forks": 22,
+            "score": 45
         },
         {
             "main_cat": "AI",
@@ -273,40 +306,18 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/haplollc/ThinkingOrbs",
             "stars": 225,
             "forks": 19,
-            "score": 46
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "awesome-jev-use-cases",
-            "full_name": "walidboulanouar/awesome-jev-use-cases",
-            "description": "Awesome list of TypeSafe AI Jev use cases: 74 demos ranked by likes, 150+ GitHub repos, limits, cost and API examples. CC0",
-            "url": "https://github.com/walidboulanouar/awesome-jev-use-cases",
-            "stars": 217,
-            "forks": 22,
-            "score": 46
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "skillbox",
-            "full_name": "kitze/skillbox",
-            "description": "Self-hosted, versioned skills library for AI agents. MCP, scoped clients, and optional Jev recommendations.",
-            "url": "https://github.com/kitze/skillbox",
-            "stars": 246,
-            "forks": 21,
             "score": 45
         },
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "skills",
-            "full_name": "isas1/skills",
-            "description": "Skills for explaining and summarising AI output: eli5-succinct, simple-summary, summary",
-            "url": "https://github.com/isas1/skills",
-            "stars": 189,
-            "forks": 16,
-            "score": 44
+            "name": "QCode",
+            "full_name": "Qiuner/QCode",
+            "description": "An explorable island world to learn AI coding and build real projects with AI agents. Powered by DeepSeek Harness.",
+            "url": "https://github.com/Qiuner/QCode",
+            "stars": 341,
+            "forks": 5,
+            "score": 42
         },
         {
             "main_cat": "AI",
@@ -317,18 +328,18 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/NiazMorshed2007/jev-review",
             "stars": 225,
             "forks": 20,
-            "score": 43
+            "score": 42
         },
         {
             "main_cat": "AI",
-            "sub_cat": null,
-            "name": "QCode",
-            "full_name": "Qiuner/QCode",
-            "description": "An explorable island world to learn AI coding and build real projects with AI agents. Powered by DeepSeek Harness.",
-            "url": "https://github.com/Qiuner/QCode",
-            "stars": 340,
-            "forks": 5,
-            "score": 42
+            "sub_cat": "AI General",
+            "name": "Strata",
+            "full_name": "Niko1221/Strata",
+            "description": "Qwen3.8-Flash-Next (125B MoE) on a 12-24 GB NVIDIA GPU + 64 GB RAM: one-click install for Windows / Linux. Strata inference engine, OpenAI/Anthropic API on localhost, optional image input.",
+            "url": "https://github.com/Niko1221/Strata",
+            "stars": 51,
+            "forks": 8,
+            "score": 40
         },
         {
             "main_cat": "AI",
@@ -351,17 +362,6 @@ const ALPHA_DATA_V2 = {
             "stars": 203,
             "forks": 3,
             "score": 37
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "Strata",
-            "full_name": "Niko1221/Strata",
-            "description": "Qwen3.8-Flash-Next (125B MoE) on a 12-24 GB NVIDIA GPU + 64 GB RAM: one-click install for Windows / Linux. Strata inference engine, OpenAI/Anthropic API on localhost, optional image input.",
-            "url": "https://github.com/Niko1221/Strata",
-            "stars": 31,
-            "forks": 5,
-            "score": 36
         },
         {
             "main_cat": "AI",
@@ -414,7 +414,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Gxj230958/TritonAscendBench",
             "description": "A migration benchmark that measures whether production GPU Triton kernels \u2014 extracted from vLLM and SGLang inference paths \u2014 can be ported to the Huawei Ascend 910B (Atlas A2) via `triton-ascend` without losing correctness or performance.",
             "url": "https://github.com/Gxj230958/TritonAscendBench",
-            "stars": 41,
+            "stars": 44,
             "forks": 0,
             "score": 31
         },
@@ -498,6 +498,17 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
+            "name": "SmartBetAI",
+            "full_name": "AiBetPro/SmartBetAI",
+            "description": "An AI-powered sports betting platform featuring automated prediction models, match analysis, and intelligent betting ticket generation.",
+            "url": "https://github.com/AiBetPro/SmartBetAI",
+            "stars": 0,
+            "forks": 0,
+            "score": 30
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
             "name": "Hom",
             "full_name": "AiBetPro/Hom",
             "description": "An AI-powered sports betting platform featuring automated prediction models, match analysis, and intelligent betting ticket generation.",
@@ -509,10 +520,10 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
-            "name": "SmartBetAI",
-            "full_name": "AiBetPro/SmartBetAI",
-            "description": "An AI-powered sports betting platform featuring automated prediction models, match analysis, and intelligent betting ticket generation.",
-            "url": "https://github.com/AiBetPro/SmartBetAI",
+            "name": "BetPulse-AI",
+            "full_name": "duzination21-prog/BetPulse-AI",
+            "description": "Backend API and Python engine for fetching live odds, running AI prediction models, and generating high-EV sports betting signals",
+            "url": "https://github.com/duzination21-prog/BetPulse-AI",
             "stars": 0,
             "forks": 0,
             "score": 30
@@ -706,5 +717,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-09-26 02:59"
+    "timestamp": "2026-09-26 08:25"
 };
