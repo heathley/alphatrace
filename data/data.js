@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "zai-org/ZCode",
             "description": "Z.ai's coding agent harness. Powerful, intelligent, extensible.",
             "url": "https://github.com/zai-org/ZCode",
-            "stars": 6934,
-            "forks": 2097,
+            "stars": 7019,
+            "forks": 2122,
             "score": 99
         },
         {
@@ -18,8 +18,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "jarrodwatts/jev-trader",
             "description": "One AI trade decision every Monad block. Jev on Kuru MON-USDC.",
             "url": "https://github.com/jarrodwatts/jev-trader",
-            "stars": 2618,
-            "forks": 491,
+            "stars": 2635,
+            "forks": 494,
             "score": 99
         },
         {
@@ -29,19 +29,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "yibie/awesome-jev",
             "description": "A curated list of public projects, integrations, and discussions built on Jev \u2014 TypeSafe AI's System One model for typed decisions.",
             "url": "https://github.com/yibie/awesome-jev",
-            "stars": 1861,
-            "forks": 275,
-            "score": 99
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "open-glean",
-            "full_name": "hydra-db/open-glean",
-            "description": "An open-source AI platform for knowledge work. Connect your apps, find answers, and get work done.",
-            "url": "https://github.com/hydra-db/open-glean",
-            "stars": 1532,
-            "forks": 518,
+            "stars": 1902,
+            "forks": 284,
             "score": 99
         },
         {
@@ -51,8 +40,19 @@ const ALPHA_DATA_V2 = {
             "full_name": "pallavi-shekhar/ai-engineering-interview-questions-company-wise",
             "description": "Your Cheat Sheet For AI Engineering Interviews at Top AI Companies - Questions and Answers.",
             "url": "https://github.com/pallavi-shekhar/ai-engineering-interview-questions-company-wise",
-            "stars": 1502,
-            "forks": 145,
+            "stars": 1538,
+            "forks": 149,
+            "score": 99
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "open-glean",
+            "full_name": "hydra-db/open-glean",
+            "description": "An open-source AI platform for knowledge work. Connect your apps, find answers, and get work done.",
+            "url": "https://github.com/hydra-db/open-glean",
+            "stars": 1531,
+            "forks": 518,
             "score": 99
         },
         {
@@ -62,19 +62,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "freestylefly/WeChatBridge",
             "description": "\u5fae\u4fe1\u804a\u5929\u8bb0\u5f55\u4e00\u952e\u8f6c\u53d1\u5230 AI Agent \u4e0e Obsidian \u7684\u539f\u751f macOS \u5de5\u5177",
             "url": "https://github.com/freestylefly/WeChatBridge",
-            "stars": 852,
-            "forks": 308,
-            "score": 99
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "text-humanizer",
-            "full_name": "asokurasu/text-humanizer",
-            "description": "A completely free open-sourced project designed to humanize AI-generated text through a multilingual LLM-powered rewriting pipeline. ",
-            "url": "https://github.com/asokurasu/text-humanizer",
-            "stars": 743,
-            "forks": 83,
+            "stars": 871,
+            "forks": 311,
             "score": 99
         },
         {
@@ -84,8 +73,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "yukitorido/short-video-generator-AI",
             "description": "AI video processing pipeline for generating vertical shorts using LLMs, Whisper transcription, highlight detection and automated editing",
             "url": "https://github.com/yukitorido/short-video-generator-AI",
-            "stars": 725,
-            "forks": 83,
+            "stars": 730,
+            "forks": 85,
             "score": 99
         },
         {
@@ -95,8 +84,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "Inkloom-art/inkloom",
             "description": "Specialised AI models for logo design \u2014 a brand-analysis model turns a business into constraints, typography and symbol models construct the mark, and a composition engine produces real lockups and clear-space rules. Early access open.",
             "url": "https://github.com/Inkloom-art/inkloom",
-            "stars": 364,
-            "forks": 376,
+            "stars": 371,
+            "forks": 383,
             "score": 99
         },
         {
@@ -106,20 +95,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "Niko1221/Strata",
             "description": "Qwen3.8-Flash-Next (125B MoE) on a 8GB+ NVIDIA GPU: one-click install for Windows / Linux. Strata inference engine, OpenAI/Anthropic API on localhost, optional image input.",
             "url": "https://github.com/Niko1221/Strata",
-            "stars": 557,
-            "forks": 56,
-            "score": 95
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "MuseAI-Skills",
-            "full_name": "win4r/MuseAI-Skills",
-            "description": "muse.ai (Muse AI) skills and runtime snapshot: 68 skills, workflow guides, connector manifests. muse.ai \u6280\u80fd\u4e0e\u8fd0\u884c\u73af\u5883\u6587\u4ef6\uff1b\u975e\u5b98\u65b9\u5b58\u6863 / Unofficial archive.",
-            "url": "https://github.com/win4r/MuseAI-Skills",
-            "stars": 282,
-            "forks": 91,
-            "score": 94
+            "stars": 828,
+            "forks": 81,
+            "score": 99
         },
         {
             "main_cat": "AI",
@@ -128,9 +106,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "amitshekhariitbhu/ai-system-design",
             "description": "AI System Design - Learn how to design AI systems built on LLMs, RAG, and AI Agents step by step.",
             "url": "https://github.com/amitshekhariitbhu/ai-system-design",
-            "stars": 452,
-            "forks": 55,
-            "score": 86
+            "stars": 460,
+            "forks": 56,
+            "score": 87
         },
         {
             "main_cat": "AI",
@@ -139,20 +117,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "LockedinLabs-AI/agent-console",
             "description": "Local-first observability for AI coding agents. Every Claude Code and Codex session's tokens, cache, models and cost, on this machine and every machine you connect through a self-hosted team hub. Presenting mode, policy hooks, Apple-signed and notarized macOS builds, attested releases. MIT.",
             "url": "https://github.com/LockedinLabs-AI/agent-console",
-            "stars": 512,
+            "stars": 612,
             "forks": 130,
-            "score": 81
+            "score": 86
         },
         {
             "main_cat": "AI",
-            "sub_cat": "AI Agents",
-            "name": "ai-engineering-course",
-            "full_name": "amitshekhariitbhu/ai-engineering-course",
-            "description": "AI Engineering Course - A free and complete AI Engineering Course to learn AI Engineering step by step - from Machine Learning, Neural Networks, and Transformers to LLMs, Fine-Tuning, RAG, AI Agents, LLM Inference, Evaluation, AI Safety, and AI System Design.",
-            "url": "https://github.com/amitshekhariitbhu/ai-engineering-course",
-            "stars": 409,
-            "forks": 73,
-            "score": 80
+            "sub_cat": null,
+            "name": "MuseAI-Skills",
+            "full_name": "win4r/MuseAI-Skills",
+            "description": "muse.ai (Muse AI) skills and runtime snapshot: 68 skills, workflow guides, connector manifests. muse.ai \u6280\u80fd\u4e0e\u8fd0\u884c\u73af\u5883\u6587\u4ef6\uff1b\u975e\u5b98\u65b9\u5b58\u6863 / Unofficial archive.",
+            "url": "https://github.com/win4r/MuseAI-Skills",
+            "stars": 289,
+            "forks": 93,
+            "score": 85
         },
         {
             "main_cat": "AI",
@@ -161,9 +139,31 @@ const ALPHA_DATA_V2 = {
             "full_name": "bridge-mind/bridgeclip",
             "description": "Open-source AI video clipping desktop app by BridgeMind",
             "url": "https://github.com/bridge-mind/bridgeclip",
-            "stars": 296,
+            "stars": 307,
+            "forks": 68,
+            "score": 78
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI Agents",
+            "name": "ai-engineering-course",
+            "full_name": "amitshekhariitbhu/ai-engineering-course",
+            "description": "AI Engineering Course - A free and complete AI Engineering Course to learn AI Engineering step by step - from Machine Learning, Neural Networks, and Transformers to LLMs, Fine-Tuning, RAG, AI Agents, LLM Inference, Evaluation, AI Safety, and AI System Design.",
+            "url": "https://github.com/amitshekhariitbhu/ai-engineering-course",
+            "stars": 426,
+            "forks": 76,
+            "score": 75
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "BeefTV",
+            "full_name": "glanderness/BeefTV",
+            "description": "Local-first, lightweight, AI-native video workspace.",
+            "url": "https://github.com/glanderness/BeefTV",
+            "stars": 326,
             "forks": 65,
-            "score": 76
+            "score": 71
         },
         {
             "main_cat": "AI",
@@ -172,9 +172,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "v-modal/awesome-jev-tools",
             "description": "A curated list of tools  built for Jev \u2014 TypeSafe AI's System One model for typed decisions.",
             "url": "https://github.com/v-modal/awesome-jev-tools",
-            "stars": 728,
-            "forks": 36,
+            "stars": 727,
+            "forks": 37,
             "score": 69
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "ai-manager",
+            "full_name": "OnlistTeam/ai-manager",
+            "description": "AI Manager desktop application for AI coding tools",
+            "url": "https://github.com/OnlistTeam/ai-manager",
+            "stars": 667,
+            "forks": 10,
+            "score": 65
         },
         {
             "main_cat": "AI",
@@ -183,8 +194,19 @@ const ALPHA_DATA_V2 = {
             "full_name": "kydlikebtc/awesome-jev",
             "description": "1207 public resources for Jev, TypeSafe AI's System One decision model, indexed by decision pattern. Source citations, dated link checks and scheduled call-site text checks; runtime and performance are not independently tested here. EN/\u4e2d\u6587, JSON schema and platform compatibility.",
             "url": "https://github.com/kydlikebtc/awesome-jev",
-            "stars": 581,
+            "stars": 582,
             "forks": 13,
+            "score": 65
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "logo-design-skill",
+            "full_name": "kaankiziltug/logo-design-skill",
+            "description": "A comprehensive logo-design skill for Claude, Gemini CLI, Codex and other AI agents: principles, process, SVG craft, testing tools and a 1,400+ logo reference library.",
+            "url": "https://github.com/kaankiziltug/logo-design-skill",
+            "stars": 298,
+            "forks": 14,
             "score": 65
         },
         {
@@ -194,31 +216,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "cobanov/awesome-jev",
             "description": "A curated, source-backed list of projects built with Jev, TypeSafe AI's System One model for typed decisions.",
             "url": "https://github.com/cobanov/awesome-jev",
-            "stars": 421,
-            "forks": 106,
-            "score": 65
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "BeefTV",
-            "full_name": "glanderness/BeefTV",
-            "description": "Local-first, lightweight, AI-native video workspace.",
-            "url": "https://github.com/glanderness/BeefTV",
-            "stars": 264,
-            "forks": 56,
-            "score": 64
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "ai-manager",
-            "full_name": "OnlistTeam/ai-manager",
-            "description": "AI Manager desktop application for AI coding tools",
-            "url": "https://github.com/OnlistTeam/ai-manager",
-            "stars": 568,
-            "forks": 8,
-            "score": 60
+            "stars": 435,
+            "forks": 107,
+            "score": 63
         },
         {
             "main_cat": "AI",
@@ -227,7 +227,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "leter/zh-tech-writing",
             "description": "\u5199\u4e2d\u6587\u6280\u672f\u6587\u6863\u7684 Agent Skill\uff0c\u57fa\u4e8e\u962e\u4e00\u5cf0\u300a\u4e2d\u6587\u6280\u672f\u6587\u6863\u7684\u5199\u4f5c\u89c4\u8303\u300b\uff1a\u77ed\u53e5\u3001\u5e73\u5b9e\u3001\u6ca1\u6709 AI \u8154",
             "url": "https://github.com/leter/zh-tech-writing",
-            "stars": 299,
+            "stars": 301,
             "forks": 13,
             "score": 59
         },
@@ -238,7 +238,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "malevrigns/agent-jev",
             "description": "AgentJev-0.6B - a fast 'System One' decision model for AI Agents: feed it any unstructured state (diffs, traces, logs) and structured questions, get calibrated probability distributions back in one ~50ms forward pass. Zero output-token decoding.",
             "url": "https://github.com/malevrigns/agent-jev",
-            "stars": 313,
+            "stars": 320,
             "forks": 30,
             "score": 54
         },
@@ -251,7 +251,7 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/MelisaPeteRs2006/Silent-Crypto-Miner",
             "stars": 393,
             "forks": 50,
-            "score": 54
+            "score": 52
         },
         {
             "main_cat": "AI",
@@ -260,20 +260,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "walidboulanouar/awesome-jev-use-cases",
             "description": "Awesome list of TypeSafe AI Jev use cases: 74 demos ranked by likes, 150+ GitHub repos, limits, cost and API examples. CC0",
             "url": "https://github.com/walidboulanouar/awesome-jev-use-cases",
-            "stars": 276,
-            "forks": 37,
-            "score": 49
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "post-production-skill",
-            "full_name": "huangbai-AI/post-production-skill",
-            "description": "\u7528\u4e8e AI \u89c6\u9891\u540e\u671f\u7279\u6548\u521b\u4f5c\u7684 Seedance 2.5 Skill\uff0c\u53ef\u751f\u6210\u7535\u5f71\u7ea7 VFX\u3001\u521b\u610f\u8f6c\u573a\u3001\u4e09\u7ef4 UI\u3001\u52a8\u6001\u955c\u5934\u4e0e\u89c6\u89c9\u5408\u6210\u63d0\u793a\u8bcd\u3002",
-            "url": "https://github.com/huangbai-AI/post-production-skill",
-            "stars": 247,
-            "forks": 44,
-            "score": 49
+            "stars": 297,
+            "forks": 40,
+            "score": 50
         },
         {
             "main_cat": "AI",
@@ -282,8 +271,19 @@ const ALPHA_DATA_V2 = {
             "full_name": "Miaotofu01/Study-Mate",
             "description": "\u4f60\u7684AI\u5b66\u4e60\u642d\u6863\uff1a\u5b9a\u8def\u7ebf\u3001\u8bb2\u77e5\u8bc6\u3001\u505a\u9879\u76ee\uff0c\u8fb9\u5b66\u8fb9\u505a\uff0c\u5b66\u900f\u4e00\u95e8\u79d1\u76ee",
             "url": "https://github.com/Miaotofu01/Study-Mate",
-            "stars": 360,
+            "stars": 378,
             "forks": 23,
+            "score": 48
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "post-production-skill",
+            "full_name": "huangbai-AI/post-production-skill",
+            "description": "\u7528\u4e8e AI \u89c6\u9891\u540e\u671f\u7279\u6548\u521b\u4f5c\u7684 Seedance 2.5 Skill\uff0c\u53ef\u751f\u6210\u7535\u5f71\u7ea7 VFX\u3001\u521b\u610f\u8f6c\u573a\u3001\u4e09\u7ef4 UI\u3001\u52a8\u6001\u955c\u5934\u4e0e\u89c6\u89c9\u5408\u6210\u63d0\u793a\u8bcd\u3002",
+            "url": "https://github.com/huangbai-AI/post-production-skill",
+            "stars": 248,
+            "forks": 44,
             "score": 47
         },
         {
@@ -293,8 +293,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "itsmostafa/system-one-connector",
             "description": "System One MCP connector to evaluate anything fast and cheap. Give your AI agent direct access to models like: Jev, CLM and Laya",
             "url": "https://github.com/itsmostafa/system-one-connector",
-            "stars": 325,
-            "forks": 35,
+            "stars": 329,
+            "forks": 36,
             "score": 46
         },
         {
@@ -304,20 +304,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "sutro-sh/jev-align",
             "description": "Build calibrated AI Functions from human feedback using Jev and GEPA.",
             "url": "https://github.com/sutro-sh/jev-align",
-            "stars": 297,
+            "stars": 299,
             "forks": 23,
             "score": 46
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "ThinkingOrbs",
-            "full_name": "haplollc/ThinkingOrbs",
-            "description": "Dotted, honestly-3D loading indicators for AI and agent interfaces in SwiftUI. Nine hand-tuned designs, two tuned sizes.",
-            "url": "https://github.com/haplollc/ThinkingOrbs",
-            "stars": 232,
-            "forks": 19,
-            "score": 44
         },
         {
             "main_cat": "AI",
@@ -326,8 +315,19 @@ const ALPHA_DATA_V2 = {
             "full_name": "kitze/skillbox",
             "description": "Self-hosted, versioned skills library for AI agents. MCP, scoped clients, and optional Jev recommendations.",
             "url": "https://github.com/kitze/skillbox",
-            "stars": 248,
+            "stars": 249,
             "forks": 22,
+            "score": 42
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "ThinkingOrbs",
+            "full_name": "haplollc/ThinkingOrbs",
+            "description": "Dotted, honestly-3D loading indicators for AI and agent interfaces in SwiftUI. Nine hand-tuned designs, two tuned sizes.",
+            "url": "https://github.com/haplollc/ThinkingOrbs",
+            "stars": 233,
+            "forks": 19,
             "score": 42
         },
         {
@@ -359,7 +359,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Gxj230958/TritonAscendBench",
             "description": "A migration benchmark that measures whether production GPU Triton kernels \u2014 extracted from vLLM and SGLang inference paths \u2014 can be ported to the Huawei Ascend 910B (Atlas A2) via `triton-ascend` without losing correctness or performance.",
             "url": "https://github.com/Gxj230958/TritonAscendBench",
-            "stars": 64,
+            "stars": 65,
             "forks": 0,
             "score": 32
         },
@@ -580,7 +580,7 @@ const ALPHA_DATA_V2 = {
             "description": "Local-first, deterministic security scanner for Model Context Protocol (MCP) servers. Cross-tool toxic-flow analysis, Unicode-smuggling decode, prompt-injection & supply-chain detection, with an auditable 0\u2013100 Trust Score.",
             "url": "https://github.com/illia-haidar/mcptrustchecker",
             "stars": 1,
-            "forks": 0,
+            "forks": 1,
             "score": 30
         },
         {
@@ -648,6 +648,17 @@ const ALPHA_DATA_V2 = {
             "stars": 0,
             "forks": 0,
             "score": 30
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI Agents",
+            "name": "hypernatt-terminal",
+            "full_name": "DIALLOUBERESEARCH/hypernatt-terminal",
+            "description": "HyperNatt Terminal \u2014 Liquidation radar (7 tokens), recorded BTC/ETH order book depth, wall history & LI.FI cross-chain swap for AI agents. Official Model Context Protocol (MCP) server.",
+            "url": "https://github.com/DIALLOUBERESEARCH/hypernatt-terminal",
+            "stars": 0,
+            "forks": 0,
+            "score": 30
         }
     ],
     "news": [
@@ -673,5 +684,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-09-28 06:13"
+    "timestamp": "2026-09-28 14:50"
 };
