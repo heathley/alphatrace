@@ -7,19 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "zai-org/ZCode",
             "description": "Z.ai's coding agent harness. Powerful, intelligent, extensible.",
             "url": "https://github.com/zai-org/ZCode",
-            "stars": 7249,
+            "stars": 7253,
             "forks": 2201,
-            "score": 99
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "awesome-jev",
-            "full_name": "yibie/awesome-jev",
-            "description": "A curated list of public projects, integrations, and discussions built on Jev \u2014 TypeSafe AI's System One model for typed decisions.",
-            "url": "https://github.com/yibie/awesome-jev",
-            "stars": 2025,
-            "forks": 302,
             "score": 99
         },
         {
@@ -29,7 +18,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "feder-cr/dots",
             "description": "Open-source dots for the web: an AI agent with its own browser, one that does not get blocked.",
             "url": "https://github.com/feder-cr/dots",
-            "stars": 1930,
+            "stars": 1933,
             "forks": 320,
             "score": 99
         },
@@ -40,19 +29,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "pallavi-shekhar/ai-engineering-interview-questions-company-wise",
             "description": "Your Cheat Sheet For AI Engineering Interviews at Top AI Companies - Questions and Answers.",
             "url": "https://github.com/pallavi-shekhar/ai-engineering-interview-questions-company-wise",
-            "stars": 1587,
-            "forks": 158,
-            "score": 99
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "open-glean",
-            "full_name": "hydra-db/open-glean",
-            "description": "An open-source AI platform for knowledge work. Connect your apps, find answers, and get work done.",
-            "url": "https://github.com/hydra-db/open-glean",
-            "stars": 1537,
-            "forks": 517,
+            "stars": 1588,
+            "forks": 159,
             "score": 99
         },
         {
@@ -62,8 +40,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "kaankiziltug/logo-design-skill",
             "description": "A comprehensive logo-design skill for Claude, Gemini CLI, Codex and other AI agents: principles, process, SVG craft, testing tools and a 1,400+ logo reference library.",
             "url": "https://github.com/kaankiziltug/logo-design-skill",
-            "stars": 1063,
-            "forks": 56,
+            "stars": 1110,
+            "forks": 60,
             "score": 99
         },
         {
@@ -73,7 +51,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "freestylefly/WeChatBridge",
             "description": "\u5fae\u4fe1\u804a\u5929\u8bb0\u5f55\u4e00\u952e\u8f6c\u53d1\u5230 AI Agent \u4e0e Obsidian \u7684\u539f\u751f macOS \u5de5\u5177",
             "url": "https://github.com/freestylefly/WeChatBridge",
-            "stars": 936,
+            "stars": 941,
             "forks": 329,
             "score": 99
         },
@@ -84,9 +62,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "Inkloom-art/inkloom",
             "description": "Specialised AI models for logo design \u2014 a brand-analysis model turns a business into constraints, typography and symbol models construct the mark, and a composition engine produces real lockups and clear-space rules. Early access open.",
             "url": "https://github.com/Inkloom-art/inkloom",
-            "stars": 643,
-            "forks": 657,
+            "stars": 644,
+            "forks": 658,
             "score": 99
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "reelmimic",
+            "full_name": "edenfunf/reelmimic",
+            "description": "Show it a video you love. Get a new video in the same style. An AI crew (Claude Code or Codex) plans, builds and reviews it with you.",
+            "url": "https://github.com/edenfunf/reelmimic",
+            "stars": 349,
+            "forks": 73,
+            "score": 94
         },
         {
             "main_cat": "AI",
@@ -95,7 +84,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "glanderness/BeefTV",
             "description": "Local-first, lightweight, AI-native video workspace.",
             "url": "https://github.com/glanderness/BeefTV",
-            "stars": 631,
+            "stars": 634,
             "forks": 128,
             "score": 93
         },
@@ -106,9 +95,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "echris6/motion-video-kit",
             "description": "Claude Code skill kit for premium AI-assisted business videos: independent critic loop, motion principles from 28 launch films, quality bar, sound design, business offers, Three.js patterns, scripts",
             "url": "https://github.com/echris6/motion-video-kit",
-            "stars": 509,
-            "forks": 39,
-            "score": 85
+            "stars": 578,
+            "forks": 44,
+            "score": 92
         },
         {
             "main_cat": "AI",
@@ -117,9 +106,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "JoasASantos/Offensive-Security-AI-Models",
             "description": "Uncensored AI models or those fine-tuned for cybersecurity tasks.",
             "url": "https://github.com/JoasASantos/Offensive-Security-AI-Models",
-            "stars": 475,
-            "forks": 44,
-            "score": 84
+            "stars": 481,
+            "forks": 46,
+            "score": 85
         },
         {
             "main_cat": "AI",
@@ -128,9 +117,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "LockedinLabs-AI/agent-console",
             "description": "Local-first observability for AI coding agents. Every Claude Code and Codex session's tokens, cache, models and cost, on this machine and every machine you connect through a self-hosted team hub. Presenting mode, policy hooks, Apple-signed and notarized macOS builds, attested releases. MIT.",
             "url": "https://github.com/LockedinLabs-AI/agent-console",
-            "stars": 757,
-            "forks": 132,
+            "stars": 759,
+            "forks": 134,
             "score": 79
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "yomiyasu",
+            "full_name": "nanaism/yomiyasu",
+            "description": "AI\u751f\u6210\u3055\u308c\u305f\u6587\u7ae0\u306e\u4e0d\u81ea\u7136\u3055\u3092\u53d6\u308a\u9664\u304d\u3001\u4eba\u9593\u306b\u3068\u3063\u3066\u81ea\u7136\u306a\u65e5\u672c\u8a9e\u3078\u66f8\u304d\u76f4\u3059\u305f\u3081\u306eAgent Skill",
+            "url": "https://github.com/nanaism/yomiyasu",
+            "stars": 279,
+            "forks": 3,
+            "score": 78
         },
         {
             "main_cat": "AI",
@@ -150,7 +150,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "openJiuwen-ai/iCode",
             "description": "A lightweight, extensible, fully offline development platform and agent/workflow toolkit for the AI era, with an intuitive TUI, easy deployment, and complete control over your data, agents, and workflows.",
             "url": "https://github.com/openJiuwen-ai/iCode",
-            "stars": 275,
+            "stars": 278,
             "forks": 47,
             "score": 76
         },
@@ -172,7 +172,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "win4r/MuseAI-Skills",
             "description": "muse.ai (Muse AI) skills and runtime snapshot: 68 skills, workflow guides, connector manifests. muse.ai \u6280\u80fd\u4e0e\u8fd0\u884c\u73af\u5883\u6587\u4ef6\uff1b\u975e\u5b98\u65b9\u5b58\u6863 / Unofficial archive.",
             "url": "https://github.com/win4r/MuseAI-Skills",
-            "stars": 306,
+            "stars": 307,
             "forks": 101,
             "score": 74
         },
@@ -205,7 +205,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "v-modal/awesome-jev-tools",
             "description": "A curated list of tools  built for Jev \u2014 TypeSafe AI's System One model for typed decisions.",
             "url": "https://github.com/v-modal/awesome-jev-tools",
-            "stars": 737,
+            "stars": 739,
             "forks": 42,
             "score": 62
         },
@@ -227,7 +227,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "kydlikebtc/awesome-jev",
             "description": "1207 public resources for Jev, TypeSafe AI's System One decision model, indexed by decision pattern. Source citations, dated link checks and scheduled call-site text checks; runtime and performance are not independently tested here. EN/\u4e2d\u6587, JSON schema and platform compatibility.",
             "url": "https://github.com/kydlikebtc/awesome-jev",
-            "stars": 587,
+            "stars": 588,
             "forks": 16,
             "score": 59
         },
@@ -238,7 +238,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "angel291592/Intent-Router",
             "description": "Intent compiler for AI agents \u2014 converges vague requests into typed IntentSpec contracts (probe, ask, or halt before routing), the input layer for routers and typed-decision models like Jev & Laya",
             "url": "https://github.com/angel291592/Intent-Router",
-            "stars": 430,
+            "stars": 440,
             "forks": 49,
             "score": 58
         },
@@ -249,7 +249,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "CaptureGrubEnchant/SolidWorks",
             "description": "SolidWorks MCP Server connects an AI assistant to a running SolidWorks instance. Sketch, extrude, fillet, export STEP/STL, generate macros.",
             "url": "https://github.com/CaptureGrubEnchant/SolidWorks",
-            "stars": 380,
+            "stars": 381,
             "forks": 0,
             "score": 53
         },
@@ -271,7 +271,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "walidboulanouar/awesome-jev-use-cases",
             "description": "Awesome list of TypeSafe AI Jev use cases: 74 demos ranked by likes, 150+ GitHub repos, limits, cost and API examples. CC0",
             "url": "https://github.com/walidboulanouar/awesome-jev-use-cases",
-            "stars": 351,
+            "stars": 354,
             "forks": 49,
             "score": 49
         },
@@ -288,35 +288,35 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
-            "sub_cat": null,
-            "name": "Study-Mate",
-            "full_name": "Miaotofu01/Study-Mate",
-            "description": "\u4f60\u7684AI\u5b66\u4e60\u642d\u6863\uff1a\u5b9a\u8def\u7ebf\u3001\u8bb2\u77e5\u8bc6\u3001\u505a\u9879\u76ee\uff0c\u8fb9\u5b66\u8fb9\u505a\uff0c\u5b66\u900f\u4e00\u95e8\u79d1\u76ee",
-            "url": "https://github.com/Miaotofu01/Study-Mate",
-            "stars": 475,
-            "forks": 27,
-            "score": 48
-        },
-        {
-            "main_cat": "AI",
             "sub_cat": "AI Agents",
             "name": "agent-jev",
             "full_name": "malevrigns/agent-jev",
             "description": "AgentJev-0.6B - a fast 'System One' decision model for AI Agents: feed it any unstructured state (diffs, traces, logs) and structured questions, get calibrated probability distributions back in one ~50ms forward pass. Zero output-token decoding.",
             "url": "https://github.com/malevrigns/agent-jev",
-            "stars": 330,
+            "stars": 331,
             "forks": 30,
             "score": 48
         },
         {
             "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "system-one-connector",
-            "full_name": "itsmostafa/system-one-connector",
-            "description": "System One MCP connector to evaluate anything fast and cheap. Give your AI agent direct access to models like: Jev, D1, CLM and Laya",
-            "url": "https://github.com/itsmostafa/system-one-connector",
-            "stars": 338,
-            "forks": 38,
+            "sub_cat": null,
+            "name": "simon-skills",
+            "full_name": "trustfuture/simon-skills",
+            "description": "\u4e0d\u9732\u8138\u505a\u89c6\u9891\u8d26\u53f7\u7684 AI skill \u5408\u96c6\uff1a\u8c03\u67e5\u957f\u7247 + \u624b\u7ed8\u767d\u677f\u8bb2\u89e3\u89c6\u9891\uff0c\u4e00\u53e5\u9009\u9898\u51fa\u7247\u3001\u914d\u97f3\u5b57\u5e55\u3001\u5c01\u9762\u4e0e\u5404\u5e73\u53f0\u6587\u6848",
+            "url": "https://github.com/trustfuture/simon-skills",
+            "stars": 250,
+            "forks": 56,
+            "score": 48
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "post-production-skill",
+            "full_name": "huangbai-AI/post-production-skill",
+            "description": "\u7528\u4e8e AI \u89c6\u9891\u540e\u671f\u7279\u6548\u521b\u4f5c\u7684 Seedance 2.5 Skill\uff0c\u53ef\u751f\u6210\u7535\u5f71\u7ea7 VFX\u3001\u521b\u610f\u8f6c\u573a\u3001\u4e09\u7ef4 UI\u3001\u52a8\u6001\u955c\u5934\u4e0e\u89c6\u89c9\u5408\u6210\u63d0\u793a\u8bcd\u3002",
+            "url": "https://github.com/huangbai-AI/post-production-skill",
+            "stars": 250,
+            "forks": 44,
             "score": 45
         },
         {
@@ -326,7 +326,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "sutro-sh/jev-align",
             "description": "Build calibrated AI Functions from human feedback using Jev and GEPA.",
             "url": "https://github.com/sutro-sh/jev-align",
-            "stars": 300,
+            "stars": 301,
             "forks": 23,
             "score": 44
         },
@@ -392,7 +392,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "medhiclb/HelixAI",
             "description": "Your own AI workspace on your own machines: chat, agents, coding, knowledge bases (RAG) and fine-tuning with local models. Open source (AGPL-3.0).",
             "url": "https://github.com/medhiclb/HelixAI",
-            "stars": 9,
+            "stars": 10,
             "forks": 1,
             "score": 30
         },
@@ -416,6 +416,17 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/alphaparkinc/genpark-personal-vault-zero-knowledge-sanitizer-skill",
             "stars": 7,
             "forks": 0,
+            "score": 30
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "JEV-CPU",
+            "full_name": "leesk212/JEV-CPU",
+            "description": "Run SemIf (Jev-style semantic-if decisions) on a CPU \u2014 no GPU. Reads typed option probabilities straight from an open model in one forward pass, plus a web UI.",
+            "url": "https://github.com/leesk212/JEV-CPU",
+            "stars": 18,
+            "forks": 2,
             "score": 30
         },
         {
@@ -546,6 +557,17 @@ const ALPHA_DATA_V2 = {
             "full_name": "VentionYC/SettleFlow-Backend",
             "description": "Backend for SettleFlow: a stablecoin payment and settlement service for merchant invoicing, blockchain event indexing, double-entry accounting, reliable payouts, and reconciliation.",
             "url": "https://github.com/VentionYC/SettleFlow-Backend",
+            "stars": 0,
+            "forks": 0,
+            "score": 30
+        },
+        {
+            "main_cat": "Stablecoin Infrastructure",
+            "sub_cat": null,
+            "name": "ScoutPay",
+            "full_name": "helshahaby/ScoutPay",
+            "description": "ScoutPay is a DePIN + crypto payments app where organizations post real-world verification tasks and users earn stablecoin rewards after submitting proof such as GPS location, photo, timestamp, sensor result, and a short note.",
+            "url": "https://github.com/helshahaby/ScoutPay",
             "stars": 0,
             "forks": 0,
             "score": 30
@@ -684,5 +706,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-09-30 21:09"
+    "timestamp": "2026-10-01 00:59"
 };
