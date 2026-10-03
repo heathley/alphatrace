@@ -8,7 +8,7 @@ const ALPHA_DATA_V2 = {
             "description": "Z.ai's coding agent harness. Powerful, intelligent, extensible.",
             "url": "https://github.com/zai-org/ZCode",
             "stars": 7370,
-            "forks": 2246,
+            "forks": 2247,
             "score": 99
         },
         {
@@ -18,7 +18,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "feder-cr/dots",
             "description": "Open-source dots for the web: an AI agent with its own browser, one that does not get blocked.",
             "url": "https://github.com/feder-cr/dots",
-            "stars": 2571,
+            "stars": 2572,
             "forks": 435,
             "score": 99
         },
@@ -29,8 +29,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "CopilotKit/OpenDots",
             "description": "Your always-on AI coworkers that move between text, calls, and Slack.",
             "url": "https://github.com/CopilotKit/OpenDots",
-            "stars": 2122,
-            "forks": 260,
+            "stars": 2267,
+            "forks": 284,
             "score": 99
         },
         {
@@ -40,7 +40,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "kaankiziltug/logo-design-skill",
             "description": "A comprehensive logo-design skill for Claude, Gemini CLI, Codex and other AI agents: principles, process, SVG craft, testing tools and a 1,400+ logo reference library.",
             "url": "https://github.com/kaankiziltug/logo-design-skill",
-            "stars": 1658,
+            "stars": 1677,
             "forks": 98,
             "score": 99
         },
@@ -51,7 +51,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "nanaism/yomiyasu",
             "description": "AI\u751f\u6210\u306e\u65e5\u672c\u8a9e\u3092\u81ea\u7136\u306a\u65e5\u672c\u8a9e\u3078\u63a8\u6572\u3059\u308bAgent Skill / Agent Skill for Refining AI-Generated Japanese into Natural Japanese",
             "url": "https://github.com/nanaism/yomiyasu",
-            "stars": 1286,
+            "stars": 1297,
             "forks": 28,
             "score": 99
         },
@@ -62,8 +62,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "edenfunf/reelmimic",
             "description": "Show it a video you love. Get a new video in the same style. An AI crew (Claude Code or Codex) plans, builds and reviews it with you.",
             "url": "https://github.com/edenfunf/reelmimic",
-            "stars": 1038,
-            "forks": 133,
+            "stars": 1046,
+            "forks": 139,
             "score": 99
         },
         {
@@ -74,7 +74,7 @@ const ALPHA_DATA_V2 = {
             "description": "\u5fae\u4fe1\u804a\u5929\u8bb0\u5f55\u4e00\u952e\u8f6c\u53d1\u5230 AI Agent \u4e0e Obsidian \u7684\u539f\u751f macOS \u5de5\u5177",
             "url": "https://github.com/freestylefly/WeChatBridge",
             "stars": 1027,
-            "forks": 350,
+            "forks": 352,
             "score": 99
         },
         {
@@ -84,7 +84,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "echris6/motion-video-kit",
             "description": "Claude Code skill kit for premium AI-assisted business videos: independent critic loop, motion principles from 28 launch films, quality bar, sound design, business offers, Three.js patterns, scripts",
             "url": "https://github.com/echris6/motion-video-kit",
-            "stars": 974,
+            "stars": 976,
             "forks": 85,
             "score": 99
         },
@@ -95,8 +95,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "Inkloom-art/inkloom",
             "description": "Specialised AI models for logo design \u2014 a brand-analysis model turns a business into constraints, typography and symbol models construct the mark, and a composition engine produces real lockups and clear-space rules. Early access open.",
             "url": "https://github.com/Inkloom-art/inkloom",
-            "stars": 667,
-            "forks": 668,
+            "stars": 670,
+            "forks": 671,
             "score": 99
         },
         {
@@ -106,8 +106,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "glanderness/BeefTV",
             "description": "Local-first, lightweight, AI-native video workspace.",
             "url": "https://github.com/glanderness/BeefTV",
-            "stars": 782,
-            "forks": 161,
+            "stars": 784,
+            "forks": 162,
             "score": 89
         },
         {
@@ -117,20 +117,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "composio-community/open-dot",
             "description": "Open-source personal AI agents that work on their own, on their own computers. Mac app, OpenAI + Composio.",
             "url": "https://github.com/composio-community/open-dot",
-            "stars": 488,
+            "stars": 495,
             "forks": 66,
-            "score": 83
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "Offensive-Security-AI-Models",
-            "full_name": "JoasASantos/Offensive-Security-AI-Models",
-            "description": "Uncensored AI models or those fine-tuned for cybersecurity tasks.",
-            "url": "https://github.com/JoasASantos/Offensive-Security-AI-Models",
-            "stars": 559,
-            "forks": 61,
-            "score": 80
+            "score": 84
         },
         {
             "main_cat": "AI",
@@ -139,20 +128,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "nykooi1/vibe-wise",
             "description": "A Claude Code plugin that helps you learn how to build while AI writes the code.",
             "url": "https://github.com/nykooi1/vibe-wise",
-            "stars": 518,
-            "forks": 32,
-            "score": 76
+            "stars": 588,
+            "forks": 33,
+            "score": 81
         },
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
-            "name": "agent-console",
-            "full_name": "LockedinLabs-AI/agent-console",
-            "description": "Local-first observability for AI coding agents. Every Claude Code and Codex session's tokens, cache, models and cost, on this machine and every machine you connect through a self-hosted team hub. Presenting mode, policy hooks, Apple-signed and notarized macOS builds, attested releases. MIT.",
-            "url": "https://github.com/LockedinLabs-AI/agent-console",
-            "stars": 795,
-            "forks": 143,
-            "score": 75
+            "name": "Offensive-Security-AI-Models",
+            "full_name": "JoasASantos/Offensive-Security-AI-Models",
+            "description": "Uncensored AI models or those fine-tuned for cybersecurity tasks.",
+            "url": "https://github.com/JoasASantos/Offensive-Security-AI-Models",
+            "stars": 560,
+            "forks": 61,
+            "score": 80
         },
         {
             "main_cat": "AI",
@@ -164,6 +153,17 @@ const ALPHA_DATA_V2 = {
             "stars": 626,
             "forks": 88,
             "score": 74
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "agent-console",
+            "full_name": "LockedinLabs-AI/agent-console",
+            "description": "Local-first observability for AI coding agents. Every Claude Code and Codex session's tokens, cache, models and cost, on this machine and every machine you connect through a self-hosted team hub. Presenting mode, policy hooks, Apple-signed and notarized macOS builds, attested releases. MIT.",
+            "url": "https://github.com/LockedinLabs-AI/agent-console",
+            "stars": 795,
+            "forks": 143,
+            "score": 72
         },
         {
             "main_cat": "AI",
@@ -183,9 +183,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "angel291592/Intent-Router",
             "description": "Intent compiler for AI agents \u2014 converges vague requests into typed IntentSpec contracts (probe, ask, or halt before routing), the input layer for routers and typed-decision models like Jev & Laya",
             "url": "https://github.com/angel291592/Intent-Router",
-            "stars": 688,
+            "stars": 702,
             "forks": 71,
-            "score": 64
+            "score": 65
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "MuseAI-Skills",
+            "full_name": "win4r/MuseAI-Skills",
+            "description": "muse.ai (Muse AI) skills and runtime snapshot: 68 skills, workflow guides, connector manifests. muse.ai \u6280\u80fd\u4e0e\u8fd0\u884c\u73af\u5883\u6587\u4ef6\uff1b\u975e\u5b98\u65b9\u5b58\u6863 / Unofficial archive.",
+            "url": "https://github.com/win4r/MuseAI-Skills",
+            "stars": 314,
+            "forks": 103,
+            "score": 63
         },
         {
             "main_cat": "AI",
@@ -201,13 +212,13 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "MuseAI-Skills",
-            "full_name": "win4r/MuseAI-Skills",
-            "description": "muse.ai (Muse AI) skills and runtime snapshot: 68 skills, workflow guides, connector manifests. muse.ai \u6280\u80fd\u4e0e\u8fd0\u884c\u73af\u5883\u6587\u4ef6\uff1b\u975e\u5b98\u65b9\u5b58\u6863 / Unofficial archive.",
-            "url": "https://github.com/win4r/MuseAI-Skills",
-            "stars": 313,
-            "forks": 103,
-            "score": 62
+            "name": "iCode",
+            "full_name": "openJiuwen-ai/iCode",
+            "description": "A lightweight, extensible, fully offline development platform and agent/workflow toolkit for the AI era, with an intuitive TUI, easy deployment, and complete control over your data, agents, and workflows.",
+            "url": "https://github.com/openJiuwen-ai/iCode",
+            "stars": 296,
+            "forks": 50,
+            "score": 61
         },
         {
             "main_cat": "AI",
@@ -218,29 +229,7 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/bridge-mind/bridgeclip",
             "stars": 358,
             "forks": 79,
-            "score": 60
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "iCode",
-            "full_name": "openJiuwen-ai/iCode",
-            "description": "A lightweight, extensible, fully offline development platform and agent/workflow toolkit for the AI era, with an intuitive TUI, easy deployment, and complete control over your data, agents, and workflows.",
-            "url": "https://github.com/openJiuwen-ai/iCode",
-            "stars": 296,
-            "forks": 49,
-            "score": 60
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "tusk",
-            "full_name": "alpcanaydin/tusk",
-            "description": "A fast, native, keyboard-driven database client for macOS. 20 databases, an AI assistant that shows its work, free and open source.",
-            "url": "https://github.com/alpcanaydin/tusk",
-            "stars": 323,
-            "forks": 15,
-            "score": 57
+            "score": 58
         },
         {
             "main_cat": "AI",
@@ -249,9 +238,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "oil-oil/oil-ui",
             "description": "\u628a AI \u7684 UI \u8bbe\u8ba1\u80fd\u529b\u63a8\u5230\u6781\u9650\u3002",
             "url": "https://github.com/oil-oil/oil-ui",
-            "stars": 267,
-            "forks": 11,
-            "score": 55
+            "stars": 290,
+            "forks": 14,
+            "score": 58
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "tusk",
+            "full_name": "alpcanaydin/tusk",
+            "description": "A fast, native, keyboard-driven database client for macOS. 20 databases, an AI assistant that shows its work, free and open source.",
+            "url": "https://github.com/alpcanaydin/tusk",
+            "stars": 324,
+            "forks": 15,
+            "score": 54
         },
         {
             "main_cat": "AI",
@@ -271,19 +271,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "vincentsch/explainroo",
             "description": "Explainer videos and product demos made by your AI agent. Free and open source: a local voice (Kokoro), word timing (Whisper) and a canvas renderer turn a script into a narrated MP4.",
             "url": "https://github.com/vincentsch/explainroo",
-            "stars": 358,
+            "stars": 360,
             "forks": 8,
-            "score": 47
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "zh-tech-writing",
-            "full_name": "leter/zh-tech-writing",
-            "description": "\u5199\u4e2d\u6587\u6280\u672f\u6587\u6863\u7684 Agent Skill\uff0c\u57fa\u4e8e\u962e\u4e00\u5cf0\u300a\u4e2d\u6587\u6280\u672f\u6587\u6863\u7684\u5199\u4f5c\u89c4\u8303\u300b\uff1a\u77ed\u53e5\u3001\u5e73\u5b9e\u3001\u6ca1\u6709 AI \u8154",
-            "url": "https://github.com/leter/zh-tech-writing",
-            "stars": 323,
-            "forks": 14,
             "score": 47
         },
         {
@@ -300,11 +289,22 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
+            "name": "zh-tech-writing",
+            "full_name": "leter/zh-tech-writing",
+            "description": "\u5199\u4e2d\u6587\u6280\u672f\u6587\u6863\u7684 Agent Skill\uff0c\u57fa\u4e8e\u962e\u4e00\u5cf0\u300a\u4e2d\u6587\u6280\u672f\u6587\u6863\u7684\u5199\u4f5c\u89c4\u8303\u300b\uff1a\u77ed\u53e5\u3001\u5e73\u5b9e\u3001\u6ca1\u6709 AI \u8154",
+            "url": "https://github.com/leter/zh-tech-writing",
+            "stars": 323,
+            "forks": 14,
+            "score": 45
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
             "name": "SolidWorks",
             "full_name": "CaptureGrubEnchant/SolidWorks",
             "description": "SolidWorks MCP Server connects an AI assistant to a running SolidWorks instance. Sketch, extrude, fillet, export STEP/STL, generate macros.",
             "url": "https://github.com/CaptureGrubEnchant/SolidWorks",
-            "stars": 311,
+            "stars": 316,
             "forks": 0,
             "score": 44
         },
@@ -652,6 +652,20 @@ const ALPHA_DATA_V2 = {
     ],
     "news": [
         {
+            "title": "KaliBench: A Fine-Grained Benchmark for Cybersecurity Tool Use on Kali Linux with Runtime-Free Verifiable Rewards",
+            "source": "ArXiv",
+            "type": "Research Alpha",
+            "color": "text-indigo-600",
+            "url": "http://arxiv.org/abs/2610.02206v1"
+        },
+        {
+            "title": "Quantum Advantage for Two-Party Differential Privacy",
+            "source": "ArXiv",
+            "type": "Research Alpha",
+            "color": "text-indigo-600",
+            "url": "http://arxiv.org/abs/2610.02113v1"
+        },
+        {
             "title": "Bitcoin volatility remains high ahead of key FED decision.",
             "source": "Polymarket",
             "type": "Expectation",
@@ -659,5 +673,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-10-03 16:56"
+    "timestamp": "2026-10-03 19:39"
 };
