@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "zai-org/ZCode",
             "description": "Z.ai's coding agent harness. Powerful, intelligent, extensible.",
             "url": "https://github.com/zai-org/ZCode",
-            "stars": 7370,
-            "forks": 2247,
+            "stars": 7372,
+            "forks": 2248,
             "score": 99
         },
         {
@@ -18,8 +18,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "feder-cr/dots",
             "description": "Open-source dots for the web: an AI agent with its own browser, one that does not get blocked.",
             "url": "https://github.com/feder-cr/dots",
-            "stars": 2572,
-            "forks": 435,
+            "stars": 2573,
+            "forks": 436,
             "score": 99
         },
         {
@@ -29,8 +29,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "CopilotKit/OpenDots",
             "description": "Your always-on AI coworkers that move between text, calls, and Slack.",
             "url": "https://github.com/CopilotKit/OpenDots",
-            "stars": 2267,
-            "forks": 284,
+            "stars": 2433,
+            "forks": 303,
             "score": 99
         },
         {
@@ -40,8 +40,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "kaankiziltug/logo-design-skill",
             "description": "A comprehensive logo-design skill for Claude, Gemini CLI, Codex and other AI agents: principles, process, SVG craft, testing tools and a 1,400+ logo reference library.",
             "url": "https://github.com/kaankiziltug/logo-design-skill",
-            "stars": 1677,
-            "forks": 98,
+            "stars": 1692,
+            "forks": 100,
             "score": 99
         },
         {
@@ -51,7 +51,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "nanaism/yomiyasu",
             "description": "AI\u751f\u6210\u306e\u65e5\u672c\u8a9e\u3092\u81ea\u7136\u306a\u65e5\u672c\u8a9e\u3078\u63a8\u6572\u3059\u308bAgent Skill / Agent Skill for Refining AI-Generated Japanese into Natural Japanese",
             "url": "https://github.com/nanaism/yomiyasu",
-            "stars": 1297,
+            "stars": 1303,
             "forks": 28,
             "score": 99
         },
@@ -62,8 +62,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "edenfunf/reelmimic",
             "description": "Show it a video you love. Get a new video in the same style. An AI crew (Claude Code or Codex) plans, builds and reviews it with you.",
             "url": "https://github.com/edenfunf/reelmimic",
-            "stars": 1046,
-            "forks": 139,
+            "stars": 1073,
+            "forks": 141,
             "score": 99
         },
         {
@@ -73,8 +73,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "freestylefly/WeChatBridge",
             "description": "\u5fae\u4fe1\u804a\u5929\u8bb0\u5f55\u4e00\u952e\u8f6c\u53d1\u5230 AI Agent \u4e0e Obsidian \u7684\u539f\u751f macOS \u5de5\u5177",
             "url": "https://github.com/freestylefly/WeChatBridge",
-            "stars": 1027,
-            "forks": 352,
+            "stars": 1028,
+            "forks": 353,
             "score": 99
         },
         {
@@ -84,8 +84,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "echris6/motion-video-kit",
             "description": "Claude Code skill kit for premium AI-assisted business videos: independent critic loop, motion principles from 28 launch films, quality bar, sound design, business offers, Three.js patterns, scripts",
             "url": "https://github.com/echris6/motion-video-kit",
-            "stars": 976,
-            "forks": 85,
+            "stars": 980,
+            "forks": 86,
             "score": 99
         },
         {
@@ -106,20 +106,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "glanderness/BeefTV",
             "description": "Local-first, lightweight, AI-native video workspace.",
             "url": "https://github.com/glanderness/BeefTV",
-            "stars": 784,
+            "stars": 786,
             "forks": 162,
             "score": 89
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI Agents",
-            "name": "open-dot",
-            "full_name": "composio-community/open-dot",
-            "description": "Open-source personal AI agents that work on their own, on their own computers. Mac app, OpenAI + Composio.",
-            "url": "https://github.com/composio-community/open-dot",
-            "stars": 495,
-            "forks": 66,
-            "score": 84
         },
         {
             "main_cat": "AI",
@@ -128,19 +117,30 @@ const ALPHA_DATA_V2 = {
             "full_name": "nykooi1/vibe-wise",
             "description": "A Claude Code plugin that helps you learn how to build while AI writes the code.",
             "url": "https://github.com/nykooi1/vibe-wise",
-            "stars": 588,
-            "forks": 33,
-            "score": 81
+            "stars": 665,
+            "forks": 36,
+            "score": 87
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI Agents",
+            "name": "open-dot",
+            "full_name": "composio-community/open-dot",
+            "description": "Open-source personal AI agents that work on their own, on their own computers. Mac app, OpenAI + Composio.",
+            "url": "https://github.com/composio-community/open-dot",
+            "stars": 504,
+            "forks": 67,
+            "score": 85
         },
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
-            "name": "Offensive-Security-AI-Models",
-            "full_name": "JoasASantos/Offensive-Security-AI-Models",
-            "description": "Uncensored AI models or those fine-tuned for cybersecurity tasks.",
-            "url": "https://github.com/JoasASantos/Offensive-Security-AI-Models",
-            "stars": 560,
-            "forks": 61,
+            "name": "ai-torture-chamber",
+            "full_name": "terrafying/ai-torture-chamber",
+            "description": "The AI Torture Chamber: steering small open models into strong valence states and measuring what they say and do. Live at wirehead.agency.",
+            "url": "https://github.com/terrafying/ai-torture-chamber",
+            "stars": 582,
+            "forks": 159,
             "score": 80
         },
         {
@@ -157,11 +157,22 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
+            "name": "Offensive-Security-AI-Models",
+            "full_name": "JoasASantos/Offensive-Security-AI-Models",
+            "description": "Uncensored AI models or those fine-tuned for cybersecurity tasks.",
+            "url": "https://github.com/JoasASantos/Offensive-Security-AI-Models",
+            "stars": 560,
+            "forks": 61,
+            "score": 74
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
             "name": "agent-console",
             "full_name": "LockedinLabs-AI/agent-console",
             "description": "Local-first observability for AI coding agents. Every Claude Code and Codex session's tokens, cache, models and cost, on this machine and every machine you connect through a self-hosted team hub. Presenting mode, policy hooks, Apple-signed and notarized macOS builds, attested releases. MIT.",
             "url": "https://github.com/LockedinLabs-AI/agent-console",
-            "stars": 795,
+            "stars": 797,
             "forks": 143,
             "score": 72
         },
@@ -183,9 +194,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "angel291592/Intent-Router",
             "description": "Intent compiler for AI agents \u2014 converges vague requests into typed IntentSpec contracts (probe, ask, or halt before routing), the input layer for routers and typed-decision models like Jev & Laya",
             "url": "https://github.com/angel291592/Intent-Router",
-            "stars": 702,
-            "forks": 71,
+            "stars": 717,
+            "forks": 72,
             "score": 65
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI Agents",
+            "name": "ai-engineering-course",
+            "full_name": "amitshekhariitbhu/ai-engineering-course",
+            "description": "AI Engineering Course - A free and complete AI Engineering Course to learn AI Engineering step by step - from Machine Learning, Neural Networks, and Transformers to LLMs, Fine-Tuning, RAG, AI Agents, LLM Inference, Evaluation, AI Safety, and AI System Design.",
+            "url": "https://github.com/amitshekhariitbhu/ai-engineering-course",
+            "stars": 490,
+            "forks": 92,
+            "score": 63
         },
         {
             "main_cat": "AI",
@@ -200,25 +222,25 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
-            "sub_cat": "AI Agents",
-            "name": "ai-engineering-course",
-            "full_name": "amitshekhariitbhu/ai-engineering-course",
-            "description": "AI Engineering Course - A free and complete AI Engineering Course to learn AI Engineering step by step - from Machine Learning, Neural Networks, and Transformers to LLMs, Fine-Tuning, RAG, AI Agents, LLM Inference, Evaluation, AI Safety, and AI System Design.",
-            "url": "https://github.com/amitshekhariitbhu/ai-engineering-course",
-            "stars": 489,
-            "forks": 91,
-            "score": 62
-        },
-        {
-            "main_cat": "AI",
             "sub_cat": null,
             "name": "iCode",
             "full_name": "openJiuwen-ai/iCode",
             "description": "A lightweight, extensible, fully offline development platform and agent/workflow toolkit for the AI era, with an intuitive TUI, easy deployment, and complete control over your data, agents, and workflows.",
             "url": "https://github.com/openJiuwen-ai/iCode",
-            "stars": 296,
+            "stars": 297,
             "forks": 50,
             "score": 61
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "oil-ui",
+            "full_name": "oil-oil/oil-ui",
+            "description": "\u628a AI \u7684 UI \u8bbe\u8ba1\u80fd\u529b\u63a8\u5230\u6781\u9650\u3002",
+            "url": "https://github.com/oil-oil/oil-ui",
+            "stars": 305,
+            "forks": 15,
+            "score": 60
         },
         {
             "main_cat": "AI",
@@ -234,23 +256,12 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "oil-ui",
-            "full_name": "oil-oil/oil-ui",
-            "description": "\u628a AI \u7684 UI \u8bbe\u8ba1\u80fd\u529b\u63a8\u5230\u6781\u9650\u3002",
-            "url": "https://github.com/oil-oil/oil-ui",
-            "stars": 290,
-            "forks": 14,
-            "score": 58
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
             "name": "tusk",
             "full_name": "alpcanaydin/tusk",
             "description": "A fast, native, keyboard-driven database client for macOS. 20 databases, an AI assistant that shows its work, free and open source.",
             "url": "https://github.com/alpcanaydin/tusk",
-            "stars": 324,
-            "forks": 15,
+            "stars": 329,
+            "forks": 16,
             "score": 54
         },
         {
@@ -271,7 +282,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "vincentsch/explainroo",
             "description": "Explainer videos and product demos made by your AI agent. Free and open source: a local voice (Kokoro), word timing (Whisper) and a canvas renderer turn a script into a narrated MP4.",
             "url": "https://github.com/vincentsch/explainroo",
-            "stars": 360,
+            "stars": 361,
             "forks": 8,
             "score": 47
         },
@@ -296,17 +307,6 @@ const ALPHA_DATA_V2 = {
             "stars": 323,
             "forks": 14,
             "score": 45
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "SolidWorks",
-            "full_name": "CaptureGrubEnchant/SolidWorks",
-            "description": "SolidWorks MCP Server connects an AI assistant to a running SolidWorks instance. Sketch, extrude, fillet, export STEP/STL, generate macros.",
-            "url": "https://github.com/CaptureGrubEnchant/SolidWorks",
-            "stars": 316,
-            "forks": 0,
-            "score": 44
         },
         {
             "main_cat": "AI",
@@ -339,7 +339,7 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/mehmetbulutaktas458-dev/Aozora-Forge",
             "stars": 56,
             "forks": 0,
-            "score": 32
+            "score": 31
         },
         {
             "main_cat": "AI",
@@ -673,5 +673,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-10-03 19:39"
+    "timestamp": "2026-10-03 22:35"
 };
