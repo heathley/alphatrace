@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "CopilotKit/OpenDots",
             "description": "Your always-on AI coworkers that move between text, calls, and Slack.",
             "url": "https://github.com/CopilotKit/OpenDots",
-            "stars": 2802,
-            "forks": 352,
+            "stars": 2992,
+            "forks": 388,
             "score": 99
         },
         {
@@ -18,8 +18,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "feder-cr/dots",
             "description": "Open-source dots for the web: an AI agent with its own browser, one that does not get blocked.",
             "url": "https://github.com/feder-cr/dots",
-            "stars": 2584,
-            "forks": 436,
+            "stars": 2593,
+            "forks": 437,
             "score": 99
         },
         {
@@ -29,8 +29,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "kaankiziltug/logo-design-skill",
             "description": "A comprehensive logo-design skill for Claude, Gemini CLI, Codex and other AI agents: principles, process, SVG craft, testing tools and a 1,400+ logo reference library.",
             "url": "https://github.com/kaankiziltug/logo-design-skill",
-            "stars": 1753,
-            "forks": 104,
+            "stars": 1803,
+            "forks": 111,
             "score": 99
         },
         {
@@ -40,7 +40,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "nanaism/yomiyasu",
             "description": "AI\u751f\u6210\u306e\u65e5\u672c\u8a9e\u3092\u81ea\u7136\u306a\u65e5\u672c\u8a9e\u3078\u63a8\u6572\u3059\u308bAgent Skill / Agent Skill for Refining AI-Generated Japanese into Natural Japanese",
             "url": "https://github.com/nanaism/yomiyasu",
-            "stars": 1348,
+            "stars": 1369,
             "forks": 29,
             "score": 99
         },
@@ -51,8 +51,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "edenfunf/reelmimic",
             "description": "Show it a video you love. Get a new video in the same style. An AI crew (Claude Code or Codex) plans, builds and reviews it with you.",
             "url": "https://github.com/edenfunf/reelmimic",
-            "stars": 1179,
-            "forks": 151,
+            "stars": 1247,
+            "forks": 152,
             "score": 99
         },
         {
@@ -62,19 +62,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "freestylefly/WeChatBridge",
             "description": "\u5fae\u4fe1\u804a\u5929\u8bb0\u5f55\u4e00\u952e\u8f6c\u53d1\u5230 AI Agent \u4e0e Obsidian \u7684\u539f\u751f macOS \u5de5\u5177",
             "url": "https://github.com/freestylefly/WeChatBridge",
-            "stars": 1031,
-            "forks": 354,
-            "score": 99
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "motion-video-kit",
-            "full_name": "echris6/motion-video-kit",
-            "description": "Claude Code skill kit for premium AI-assisted business videos: independent critic loop, motion principles from 28 launch films, quality bar, sound design, business offers, Three.js patterns, scripts",
-            "url": "https://github.com/echris6/motion-video-kit",
-            "stars": 988,
-            "forks": 91,
+            "stars": 1041,
+            "forks": 355,
             "score": 99
         },
         {
@@ -84,20 +73,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "QingYunA/answer-me-with-html",
             "description": "Answer me with HTML \u2014 an agent skill that answers hard questions with a one-page HTML you can actually read. \u8ba9 AI Agent \u7528\u4e00\u9875 HTML \u56de\u7b54\u590d\u6742\u95ee\u9898\u3002",
             "url": "https://github.com/QingYunA/answer-me-with-html",
-            "stars": 664,
-            "forks": 49,
+            "stars": 854,
+            "forks": 61,
             "score": 99
         },
         {
             "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "whirl",
-            "full_name": "whirlchat/whirl",
-            "description": "The AI chat app that sweats the details. Every top model, real memory, living documents, and your own tools.",
-            "url": "https://github.com/whirlchat/whirl",
-            "stars": 370,
-            "forks": 32,
-            "score": 92
+            "sub_cat": null,
+            "name": "motion-video-kit",
+            "full_name": "echris6/motion-video-kit",
+            "description": "Claude Code skill kit for premium AI-assisted business videos: independent critic loop, motion principles from 28 launch films, quality bar, sound design, business offers, Three.js patterns, scripts",
+            "url": "https://github.com/echris6/motion-video-kit",
+            "stars": 993,
+            "forks": 93,
+            "score": 98
         },
         {
             "main_cat": "AI",
@@ -106,9 +95,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "nykooi1/vibe-wise",
             "description": "A Claude Code plugin that helps you learn how to build while AI writes the code.",
             "url": "https://github.com/nykooi1/vibe-wise",
-            "stars": 798,
-            "forks": 45,
-            "score": 91
+            "stars": 887,
+            "forks": 50,
+            "score": 97
         },
         {
             "main_cat": "AI",
@@ -117,9 +106,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "composio-community/open-dot",
             "description": "Open-source personal AI agents that work on their own, on their own computers. Mac app, OpenAI + Composio.",
             "url": "https://github.com/composio-community/open-dot",
-            "stars": 533,
+            "stars": 543,
             "forks": 75,
-            "score": 89
+            "score": 90
         },
         {
             "main_cat": "AI",
@@ -128,9 +117,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "glanderness/BeefTV",
             "description": "Local-first, lightweight, AI-native video workspace.",
             "url": "https://github.com/glanderness/BeefTV",
-            "stars": 798,
-            "forks": 163,
-            "score": 85
+            "stars": 804,
+            "forks": 165,
+            "score": 86
         },
         {
             "main_cat": "AI",
@@ -139,9 +128,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "terrafying/ai-torture-chamber",
             "description": "The AI Torture Chamber: steering small open models into strong valence states and measuring what they say and do. Live at wirehead.agency.",
             "url": "https://github.com/terrafying/ai-torture-chamber",
-            "stars": 612,
-            "forks": 169,
-            "score": 83
+            "stars": 630,
+            "forks": 175,
+            "score": 85
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "whirl",
+            "full_name": "whirlchat/whirl",
+            "description": "The AI chat app that sweats the details. Every top model, real memory, living documents, and your own tools.",
+            "url": "https://github.com/whirlchat/whirl",
+            "stars": 406,
+            "forks": 36,
+            "score": 85
         },
         {
             "main_cat": "AI",
@@ -150,7 +150,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "JoasASantos/Offensive-Security-AI-Models",
             "description": "Uncensored AI models or those fine-tuned for cybersecurity tasks.",
             "url": "https://github.com/JoasASantos/Offensive-Security-AI-Models",
-            "stars": 565,
+            "stars": 574,
             "forks": 62,
             "score": 75
         },
@@ -167,14 +167,25 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
+            "sub_cat": null,
+            "name": "oil-ui",
+            "full_name": "oil-oil/oil-ui",
+            "description": "\u628a AI \u7684 UI \u8bbe\u8ba1\u80fd\u529b\u63a8\u5230\u6781\u9650\u3002",
+            "url": "https://github.com/oil-oil/oil-ui",
+            "stars": 457,
+            "forks": 20,
+            "score": 68
+        },
+        {
+            "main_cat": "AI",
             "sub_cat": "AI Agents",
             "name": "Intent-Router",
             "full_name": "angel291592/Intent-Router",
             "description": "Intent compiler for AI agents \u2014 converges vague requests into typed IntentSpec contracts (probe, ask, or halt before routing), the input layer for routers and typed-decision models like Jev & Laya",
             "url": "https://github.com/angel291592/Intent-Router",
-            "stars": 751,
-            "forks": 79,
-            "score": 65
+            "stars": 772,
+            "forks": 81,
+            "score": 66
         },
         {
             "main_cat": "AI",
@@ -189,23 +200,12 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
-            "sub_cat": null,
-            "name": "oil-ui",
-            "full_name": "oil-oil/oil-ui",
-            "description": "\u628a AI \u7684 UI \u8bbe\u8ba1\u80fd\u529b\u63a8\u5230\u6781\u9650\u3002",
-            "url": "https://github.com/oil-oil/oil-ui",
-            "stars": 397,
-            "forks": 20,
-            "score": 64
-        },
-        {
-            "main_cat": "AI",
             "sub_cat": "AI Agents",
             "name": "ai-engineering-course",
             "full_name": "amitshekhariitbhu/ai-engineering-course",
             "description": "AI Engineering Course - A free and complete AI Engineering Course to learn AI Engineering step by step - from Machine Learning, Neural Networks, and Transformers to LLMs, Fine-Tuning, RAG, AI Agents, LLM Inference, Evaluation, AI Safety, and AI System Design.",
             "url": "https://github.com/amitshekhariitbhu/ai-engineering-course",
-            "stars": 496,
+            "stars": 497,
             "forks": 92,
             "score": 60
         },
@@ -216,7 +216,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "win4r/MuseAI-Skills",
             "description": "muse.ai (Muse AI) skills and runtime snapshot: 68 skills, workflow guides, connector manifests. muse.ai \u6280\u80fd\u4e0e\u8fd0\u884c\u73af\u5883\u6587\u4ef6\uff1b\u975e\u5b98\u65b9\u5b58\u6863 / Unofficial archive.",
             "url": "https://github.com/win4r/MuseAI-Skills",
-            "stars": 316,
+            "stars": 317,
             "forks": 104,
             "score": 60
         },
@@ -228,7 +228,7 @@ const ALPHA_DATA_V2 = {
             "description": "Open-source AI video clipping desktop app by BridgeMind",
             "url": "https://github.com/bridge-mind/bridgeclip",
             "stars": 358,
-            "forks": 79,
+            "forks": 80,
             "score": 58
         },
         {
@@ -238,7 +238,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "openJiuwen-ai/iCode",
             "description": "A lightweight, extensible, fully offline development platform and agent/workflow toolkit for the AI era, with an intuitive TUI, easy deployment, and complete control over your data, agents, and workflows.",
             "url": "https://github.com/openJiuwen-ai/iCode",
-            "stars": 298,
+            "stars": 299,
             "forks": 50,
             "score": 57
         },
@@ -250,19 +250,8 @@ const ALPHA_DATA_V2 = {
             "description": "A fast, native, keyboard-driven database client for macOS. 20 databases, an AI assistant that shows its work, free and open source.",
             "url": "https://github.com/alpcanaydin/tusk",
             "stars": 332,
-            "forks": 16,
-            "score": 54
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "muse2api",
-            "full_name": "czg86389-hub/muse2api",
-            "description": "\u628a Muse(muse.ai) \u9006\u5411\u5c01\u88c5\u4e3a OpenAI \u517c\u5bb9\u63a5\u53e3\uff0c\u652f\u6301\u5bf9\u8bdd\u3001\u6587\u751f\u56fe\u3001\u6587\u751f\u89c6\u9891/\u56fe\u751f\u89c6\u9891\u3001\u591a\u8d26\u53f7\u6c60\u8f6e\u8f6c\u4e0e 48h \u81ea\u52a8\u7eed\u671f\u3002OpenAI-compatible API for Muse.ai with Chat, Image & Video generation.",
-            "url": "https://github.com/czg86389-hub/muse2api",
-            "stars": 236,
-            "forks": 69,
-            "score": 53
+            "forks": 17,
+            "score": 55
         },
         {
             "main_cat": "AI",
@@ -278,13 +267,24 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
+            "name": "muse2api",
+            "full_name": "czg86389-hub/muse2api",
+            "description": "\u628a Muse(muse.ai) \u9006\u5411\u5c01\u88c5\u4e3a OpenAI \u517c\u5bb9\u63a5\u53e3\uff0c\u652f\u6301\u5bf9\u8bdd\u3001\u6587\u751f\u56fe\u3001\u6587\u751f\u89c6\u9891/\u56fe\u751f\u89c6\u9891\u3001\u591a\u8d26\u53f7\u6c60\u8f6e\u8f6c\u4e0e 48h \u81ea\u52a8\u7eed\u671f\u3002OpenAI-compatible API for Muse.ai with Chat, Image & Video generation.",
+            "url": "https://github.com/czg86389-hub/muse2api",
+            "stars": 243,
+            "forks": 70,
+            "score": 51
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
             "name": "explainroo",
             "full_name": "vincentsch/explainroo",
             "description": "Explainer videos and product demos made by your AI agent. Free and open source: a local voice (Kokoro), word timing (Whisper) and a canvas renderer turn a script into a narrated MP4.",
             "url": "https://github.com/vincentsch/explainroo",
-            "stars": 373,
-            "forks": 10,
-            "score": 48
+            "stars": 379,
+            "forks": 11,
+            "score": 49
         },
         {
             "main_cat": "AI",
@@ -293,7 +293,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "leter/zh-tech-writing",
             "description": "\u5199\u4e2d\u6587\u6280\u672f\u6587\u6863\u7684 Agent Skill\uff0c\u57fa\u4e8e\u962e\u4e00\u5cf0\u300a\u4e2d\u6587\u6280\u672f\u6587\u6863\u7684\u5199\u4f5c\u89c4\u8303\u300b\uff1a\u77ed\u53e5\u3001\u5e73\u5b9e\u3001\u6ca1\u6709 AI \u8154",
             "url": "https://github.com/leter/zh-tech-writing",
-            "stars": 329,
+            "stars": 330,
             "forks": 15,
             "score": 46
         },
@@ -542,6 +542,17 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
+            "name": "Qmoosa-ICP-Multichain",
+            "full_name": "elon00/Qmoosa-ICP-Multichain",
+            "description": "Qmoosa ICP Multichain: Autonomous Cross-Chain Web3 + AI Operating Protocol bridging ICP Chain Fusion, EVM, Solana, and Polkadot with x402 Micropayments & Post-Quantum Cryptography",
+            "url": "https://github.com/elon00/Qmoosa-ICP-Multichain",
+            "stars": 0,
+            "forks": 0,
+            "score": 30
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
             "name": "smart-contracts",
             "full_name": "jadraddaoui-art/smart-contracts",
             "description": "EVM-compatible smart contracts used by the Cross-Chain Transfer Protocol",
@@ -582,17 +593,6 @@ const ALPHA_DATA_V2 = {
             "stars": 0,
             "forks": 0,
             "score": 30
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "echo-64",
-            "full_name": "Keywebco/echo-64",
-            "description": "Echo 64 \u2014 The EC-64 Protocol: a self-contained, token-efficient encoding standard for AI memory, cross-system communication, and condensed context transfer.",
-            "url": "https://github.com/Keywebco/echo-64",
-            "stars": 0,
-            "forks": 0,
-            "score": 30
         }
     ],
     "news": [
@@ -618,5 +618,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-10-04 09:13"
+    "timestamp": "2026-10-04 15:04"
 };
