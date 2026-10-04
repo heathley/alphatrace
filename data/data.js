@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "CopilotKit/OpenDots",
             "description": "Your always-on AI coworkers that move between text, calls, and Slack.",
             "url": "https://github.com/CopilotKit/OpenDots",
-            "stars": 3112,
-            "forks": 407,
+            "stars": 3171,
+            "forks": 410,
             "score": 99
         },
         {
@@ -18,7 +18,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "feder-cr/dots",
             "description": "Open-source dots for the web: an AI agent with its own browser, one that does not get blocked.",
             "url": "https://github.com/feder-cr/dots",
-            "stars": 2597,
+            "stars": 2599,
             "forks": 437,
             "score": 99
         },
@@ -29,8 +29,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "kaankiziltug/logo-design-skill",
             "description": "A comprehensive logo-design skill for Claude, Gemini CLI, Codex and other AI agents: principles, process, SVG craft, testing tools and a 1,400+ logo reference library.",
             "url": "https://github.com/kaankiziltug/logo-design-skill",
-            "stars": 1830,
-            "forks": 112,
+            "stars": 1849,
+            "forks": 114,
             "score": 99
         },
         {
@@ -40,7 +40,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "nanaism/yomiyasu",
             "description": "AI\u751f\u6210\u306e\u65e5\u672c\u8a9e\u3092\u81ea\u7136\u306a\u65e5\u672c\u8a9e\u3078\u63a8\u6572\u3059\u308bAgent Skill / Agent Skill for Refining AI-Generated Japanese into Natural Japanese",
             "url": "https://github.com/nanaism/yomiyasu",
-            "stars": 1374,
+            "stars": 1378,
             "forks": 29,
             "score": 99
         },
@@ -51,8 +51,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "edenfunf/reelmimic",
             "description": "Show it a video you love. Get a new video in the same style. An AI crew (Claude Code or Codex) plans, builds and reviews it with you.",
             "url": "https://github.com/edenfunf/reelmimic",
-            "stars": 1258,
-            "forks": 153,
+            "stars": 1265,
+            "forks": 154,
             "score": 99
         },
         {
@@ -69,23 +69,23 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "answer-me-with-html",
-            "full_name": "QingYunA/answer-me-with-html",
-            "description": "Answer me with HTML \u2014 an agent skill that answers hard questions with a one-page HTML you can actually read. \u8ba9 AI Agent \u7528\u4e00\u9875 HTML \u56de\u7b54\u590d\u6742\u95ee\u9898\u3002",
-            "url": "https://github.com/QingYunA/answer-me-with-html",
-            "stars": 978,
-            "forks": 66,
+            "name": "vibe-wise",
+            "full_name": "nykooi1/vibe-wise",
+            "description": "A Claude Code plugin that helps you learn how to build while AI writes the code.",
+            "url": "https://github.com/nykooi1/vibe-wise",
+            "stars": 1012,
+            "forks": 54,
             "score": 99
         },
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "vibe-wise",
-            "full_name": "nykooi1/vibe-wise",
-            "description": "A Claude Code plugin that helps you learn how to build while AI writes the code.",
-            "url": "https://github.com/nykooi1/vibe-wise",
-            "stars": 943,
-            "forks": 53,
+            "name": "answer-me-with-html",
+            "full_name": "QingYunA/answer-me-with-html",
+            "description": "Answer me with HTML \u2014 an agent skill that answers hard questions with a one-page HTML you can actually read. \u8ba9 AI Agent \u7528\u4e00\u9875 HTML \u56de\u7b54\u590d\u6742\u95ee\u9898\u3002",
+            "url": "https://github.com/QingYunA/answer-me-with-html",
+            "stars": 1010,
+            "forks": 68,
             "score": 99
         },
         {
@@ -95,7 +95,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "echris6/motion-video-kit",
             "description": "Claude Code skill kit for premium AI-assisted business videos: independent critic loop, motion principles from 28 launch films, quality bar, sound design, business offers, Three.js patterns, scripts",
             "url": "https://github.com/echris6/motion-video-kit",
-            "stars": 1001,
+            "stars": 1005,
             "forks": 93,
             "score": 98
         },
@@ -106,9 +106,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "whirlchat/whirl",
             "description": "The AI chat app that sweats the details. Every top model, real memory, living documents, and your own tools.",
             "url": "https://github.com/whirlchat/whirl",
-            "stars": 432,
-            "forks": 38,
-            "score": 88
+            "stars": 449,
+            "forks": 40,
+            "score": 90
         },
         {
             "main_cat": "AI",
@@ -128,9 +128,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "composio-community/open-dot",
             "description": "Open-source personal AI agents that work on their own, on their own computers. Mac app, OpenAI + Composio.",
             "url": "https://github.com/composio-community/open-dot",
-            "stars": 551,
-            "forks": 76,
-            "score": 83
+            "stars": 556,
+            "forks": 77,
+            "score": 84
         },
         {
             "main_cat": "AI",
@@ -139,20 +139,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "terrafying/ai-torture-chamber",
             "description": "The AI Torture Chamber: steering small open models into strong valence states and measuring what they say and do. Live at wirehead.agency.",
             "url": "https://github.com/terrafying/ai-torture-chamber",
-            "stars": 641,
-            "forks": 178,
+            "stars": 651,
+            "forks": 180,
             "score": 82
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "Offensive-Security-AI-Models",
-            "full_name": "JoasASantos/Offensive-Security-AI-Models",
-            "description": "Uncensored AI models or those fine-tuned for cybersecurity tasks.",
-            "url": "https://github.com/JoasASantos/Offensive-Security-AI-Models",
-            "stars": 578,
-            "forks": 64,
-            "score": 76
         },
         {
             "main_cat": "AI",
@@ -161,9 +150,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "oil-oil/oil-ui",
             "description": "\u628a AI \u7684 UI \u8bbe\u8ba1\u80fd\u529b\u63a8\u5230\u6781\u9650\u3002",
             "url": "https://github.com/oil-oil/oil-ui",
-            "stars": 500,
-            "forks": 24,
-            "score": 72
+            "stars": 510,
+            "forks": 25,
+            "score": 73
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "Offensive-Security-AI-Models",
+            "full_name": "JoasASantos/Offensive-Security-AI-Models",
+            "description": "Uncensored AI models or those fine-tuned for cybersecurity tasks.",
+            "url": "https://github.com/JoasASantos/Offensive-Security-AI-Models",
+            "stars": 582,
+            "forks": 64,
+            "score": 71
         },
         {
             "main_cat": "AI",
@@ -172,7 +172,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "amitshekhariitbhu/ai-system-design",
             "description": "AI System Design - Learn how to design AI systems built on LLMs, RAG, and AI Agents step by step.",
             "url": "https://github.com/amitshekhariitbhu/ai-system-design",
-            "stars": 629,
+            "stars": 630,
             "forks": 88,
             "score": 70
         },
@@ -183,9 +183,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "angel291592/Intent-Router",
             "description": "Intent compiler for AI agents \u2014 converges vague requests into typed IntentSpec contracts (probe, ask, or halt before routing), the input layer for routers and typed-decision models like Jev & Laya",
             "url": "https://github.com/angel291592/Intent-Router",
-            "stars": 787,
-            "forks": 84,
-            "score": 67
+            "stars": 798,
+            "forks": 86,
+            "score": 68
         },
         {
             "main_cat": "AI",
@@ -194,7 +194,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "OnlistTeam/ai-manager",
             "description": "AI Manager desktop application for AI coding tools",
             "url": "https://github.com/OnlistTeam/ai-manager",
-            "stars": 1044,
+            "stars": 1045,
             "forks": 16,
             "score": 64
         },
@@ -205,9 +205,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "amitshekhariitbhu/ai-engineering-course",
             "description": "AI Engineering Course - A free and complete AI Engineering Course to learn AI Engineering step by step - from Machine Learning, Neural Networks, and Transformers to LLMs, Fine-Tuning, RAG, AI Agents, LLM Inference, Evaluation, AI Safety, and AI System Design.",
             "url": "https://github.com/amitshekhariitbhu/ai-engineering-course",
-            "stars": 498,
-            "forks": 92,
-            "score": 60
+            "stars": 499,
+            "forks": 93,
+            "score": 61
         },
         {
             "main_cat": "AI",
@@ -227,7 +227,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "openJiuwen-ai/iCode",
             "description": "A lightweight, extensible, fully offline development platform and agent/workflow toolkit for the AI era, with an intuitive TUI, easy deployment, and complete control over your data, agents, and workflows.",
             "url": "https://github.com/openJiuwen-ai/iCode",
-            "stars": 300,
+            "stars": 301,
             "forks": 50,
             "score": 57
         },
@@ -238,8 +238,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "bridge-mind/bridgeclip",
             "description": "Open-source AI video clipping desktop app by BridgeMind",
             "url": "https://github.com/bridge-mind/bridgeclip",
-            "stars": 357,
-            "forks": 81,
+            "stars": 359,
+            "forks": 80,
             "score": 56
         },
         {
@@ -260,7 +260,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "alpcanaydin/tusk",
             "description": "A fast, native, keyboard-driven database client for macOS. 20 databases, an AI assistant that shows its work, free and open source.",
             "url": "https://github.com/alpcanaydin/tusk",
-            "stars": 333,
+            "stars": 335,
             "forks": 17,
             "score": 52
         },
@@ -282,7 +282,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "vincentsch/explainroo",
             "description": "Explainer videos and product demos made by your AI agent. Free and open source: a local voice (Kokoro), word timing (Whisper) and a canvas renderer turn a script into a narrated MP4.",
             "url": "https://github.com/vincentsch/explainroo",
-            "stars": 381,
+            "stars": 384,
             "forks": 11,
             "score": 47
         },
@@ -318,6 +318,17 @@ const ALPHA_DATA_V2 = {
             "stars": 50,
             "forks": 20,
             "score": 34
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "AcademiaSD_LoRAlab-TrainerStudio",
+            "full_name": "AcademiaSD/AcademiaSD_LoRAlab-TrainerStudio",
+            "description": "Train LoRAs for Qwen-Image 2.1, FLUX.2 Klein 9B, Krea 2, Z-Image, Ideogram 4, Anima, SDXL (Pony, Illustrious, NoobAI), LTX 2.3 and MiniMax-H3 on NVIDIA GPUs from 4\u20138 GB VRAM. One install, one launcher, NF4 models. Windows, Linux and RunPod.",
+            "url": "https://github.com/AcademiaSD/AcademiaSD_LoRAlab-TrainerStudio",
+            "stars": 28,
+            "forks": 4,
+            "score": 32
         },
         {
             "main_cat": "Prediction Markets",
@@ -356,9 +367,9 @@ const ALPHA_DATA_V2 = {
             "main_cat": "AI",
             "sub_cat": "AI General",
             "name": "genpark-personal-vault-zero-knowledge-sanitizer-skill",
-            "full_name": "alphaparkinc/genpark-personal-vault-zero-knowledge-sanitizer-skill",
+            "full_name": "Alpha-Park/genpark-personal-vault-zero-knowledge-sanitizer-skill",
             "description": "Local-first zero-knowledge personal vault encryptor and PII sanitizer masking credentials, credit cards, and addresses before cloud LLM dispatch with client-side rehydration.",
-            "url": "https://github.com/alphaparkinc/genpark-personal-vault-zero-knowledge-sanitizer-skill",
+            "url": "https://github.com/Alpha-Park/genpark-personal-vault-zero-knowledge-sanitizer-skill",
             "stars": 7,
             "forks": 0,
             "score": 30
@@ -367,9 +378,9 @@ const ALPHA_DATA_V2 = {
             "main_cat": "AI",
             "sub_cat": "AI General",
             "name": "genpark-personal-vault-zero-knowledge-sanitizer-skill",
-            "full_name": "Alpha-Park/genpark-personal-vault-zero-knowledge-sanitizer-skill",
+            "full_name": "alphaparkinc/genpark-personal-vault-zero-knowledge-sanitizer-skill",
             "description": "Local-first zero-knowledge personal vault encryptor and PII sanitizer masking credentials, credit cards, and addresses before cloud LLM dispatch with client-side rehydration.",
-            "url": "https://github.com/Alpha-Park/genpark-personal-vault-zero-knowledge-sanitizer-skill",
+            "url": "https://github.com/alphaparkinc/genpark-personal-vault-zero-knowledge-sanitizer-skill",
             "stars": 7,
             "forks": 0,
             "score": 30
@@ -388,10 +399,10 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
-            "name": "1xpremium",
-            "full_name": "AiBetPro/1xpremium",
+            "name": "Hom",
+            "full_name": "AiBetPro/Hom",
             "description": "An AI-powered sports betting platform featuring automated prediction models, match analysis, and intelligent betting ticket generation.",
-            "url": "https://github.com/AiBetPro/1xpremium",
+            "url": "https://github.com/AiBetPro/Hom",
             "stars": 0,
             "forks": 0,
             "score": 30
@@ -399,10 +410,10 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
-            "name": "Hom",
-            "full_name": "AiBetPro/Hom",
+            "name": "1xpremium",
+            "full_name": "AiBetPro/1xpremium",
             "description": "An AI-powered sports betting platform featuring automated prediction models, match analysis, and intelligent betting ticket generation.",
-            "url": "https://github.com/AiBetPro/Hom",
+            "url": "https://github.com/AiBetPro/1xpremium",
             "stars": 0,
             "forks": 0,
             "score": 30
@@ -498,9 +509,20 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
+            "name": "onchain-payment-gate-backend",
+            "full_name": "m15flores/onchain-payment-gate-backend",
+            "description": "Go backend for on-chain payment settlement (go-ethereum). Off-chain half of a portfolio project targeting on-chain payments/stablecoin infrastructure backend roles.",
+            "url": "https://github.com/m15flores/onchain-payment-gate-backend",
+            "stars": 0,
+            "forks": 0,
+            "score": 30
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
             "name": "onchain-payment-gate-contracts",
             "full_name": "m15flores/onchain-payment-gate-contracts",
-            "description": "ackend-controlled vault system for on-chain payment settlement (Solidity/Foundry). On-chain half of a portfolio project targeting on-chain payments/stablecoin infrastructure backend roles.",
+            "description": "Backend-controlled vault system for on-chain payment settlement (Solidity/Foundry). On-chain half of a portfolio project targeting on-chain payments/stablecoin infrastructure backend roles.",
             "url": "https://github.com/m15flores/onchain-payment-gate-contracts",
             "stars": 0,
             "forks": 0,
@@ -618,5 +640,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-10-04 18:55"
+    "timestamp": "2026-10-04 22:09"
 };
