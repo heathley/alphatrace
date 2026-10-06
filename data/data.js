@@ -7,8 +7,19 @@ const ALPHA_DATA_V2 = {
             "full_name": "CopilotKit/OpenDots",
             "description": "Your always-on AI coworkers that move between text, calls, and Slack.",
             "url": "https://github.com/CopilotKit/OpenDots",
-            "stars": 3666,
-            "forks": 487,
+            "stars": 3717,
+            "forks": 492,
+            "score": 99
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "coucou",
+            "full_name": "Louis-CFM/coucou",
+            "description": "A tiny friend in your Mac's notch and on your iPhone that keeps an eye on your AI coding agents: Claude Code, Codex, Cursor, Gemini CLI, Antigravity and more. Approve from the notch or your Lock Screen.",
+            "url": "https://github.com/Louis-CFM/coucou",
+            "stars": 3712,
+            "forks": 607,
             "score": 99
         },
         {
@@ -18,7 +29,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "feder-cr/dots",
             "description": "Open-source dots for the web: an AI agent with its own browser, one that does not get blocked.",
             "url": "https://github.com/feder-cr/dots",
-            "stars": 2619,
+            "stars": 2620,
             "forks": 438,
             "score": 99
         },
@@ -29,8 +40,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "kaankiziltug/logo-design-skill",
             "description": "A comprehensive logo-design skill for Claude, Gemini CLI, Codex and other AI agents: principles, process, SVG craft, testing tools and a 1,400+ logo reference library.",
             "url": "https://github.com/kaankiziltug/logo-design-skill",
-            "stars": 2014,
-            "forks": 134,
+            "stars": 2034,
+            "forks": 139,
             "score": 99
         },
         {
@@ -40,8 +51,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "nykooi1/vibe-wise",
             "description": "A Claude Code plugin that helps you learn how to build while AI writes the code.",
             "url": "https://github.com/nykooi1/vibe-wise",
-            "stars": 1752,
-            "forks": 83,
+            "stars": 1870,
+            "forks": 89,
             "score": 99
         },
         {
@@ -51,7 +62,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "nanaism/yomiyasu",
             "description": "AI\u751f\u6210\u306e\u65e5\u672c\u8a9e\u3092\u81ea\u7136\u306a\u65e5\u672c\u8a9e\u3078\u63a8\u6572\u3059\u308bAgent Skill / Agent Skill for Refining AI-Generated Japanese into Natural Japanese",
             "url": "https://github.com/nanaism/yomiyasu",
-            "stars": 1504,
+            "stars": 1536,
             "forks": 34,
             "score": 99
         },
@@ -62,8 +73,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "QingYunA/answer-me-with-html",
             "description": "Answer me with HTML \u2014 an agent skill that answers hard questions with a one-page HTML you can actually read. \u8ba9 AI Agent \u7528\u4e00\u9875 HTML \u56de\u7b54\u590d\u6742\u95ee\u9898\u3002",
             "url": "https://github.com/QingYunA/answer-me-with-html",
-            "stars": 1471,
-            "forks": 102,
+            "stars": 1513,
+            "forks": 106,
             "score": 99
         },
         {
@@ -73,7 +84,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "edenfunf/reelmimic",
             "description": "Show it a video you love. Get a new video in the same style. An AI crew (Claude Code or Codex) plans, builds and reviews it with you.",
             "url": "https://github.com/edenfunf/reelmimic",
-            "stars": 1390,
+            "stars": 1430,
             "forks": 164,
             "score": 99
         },
@@ -95,20 +106,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "echris6/motion-video-kit",
             "description": "Claude Code skill kit for premium AI-assisted business videos: independent critic loop, motion principles from 28 launch films, quality bar, sound design, business offers, Three.js patterns, scripts",
             "url": "https://github.com/echris6/motion-video-kit",
-            "stars": 1033,
-            "forks": 92,
+            "stars": 1035,
+            "forks": 93,
             "score": 93
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "whirl",
-            "full_name": "whirlchat/whirl",
-            "description": "The AI chat app that sweats the details. Every top model, real memory, living documents, and your own tools.",
-            "url": "https://github.com/whirlchat/whirl",
-            "stars": 480,
-            "forks": 42,
-            "score": 84
         },
         {
             "main_cat": "AI",
@@ -117,9 +117,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "glanderness/BeefTV",
             "description": "Local-first, lightweight, AI-native video workspace.",
             "url": "https://github.com/glanderness/BeefTV",
-            "stars": 832,
-            "forks": 169,
-            "score": 83
+            "stars": 836,
+            "forks": 170,
+            "score": 84
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "whirl",
+            "full_name": "whirlchat/whirl",
+            "description": "The AI chat app that sweats the details. Every top model, real memory, living documents, and your own tools.",
+            "url": "https://github.com/whirlchat/whirl",
+            "stars": 481,
+            "forks": 42,
+            "score": 84
         },
         {
             "main_cat": "AI",
@@ -128,9 +139,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "terrafying/ai-torture-chamber",
             "description": "The AI Torture Chamber: steering small open models into strong valence states and measuring what they say and do. Live at wirehead.agency.",
             "url": "https://github.com/terrafying/ai-torture-chamber",
-            "stars": 706,
-            "forks": 191,
-            "score": 82
+            "stars": 713,
+            "forks": 193,
+            "score": 83
         },
         {
             "main_cat": "AI",
@@ -140,19 +151,8 @@ const ALPHA_DATA_V2 = {
             "description": "Open-source personal AI agents that work on their own, on their own computers. Mac app, OpenAI + Composio.",
             "url": "https://github.com/composio-community/open-dot",
             "stars": 578,
-            "forks": 80,
-            "score": 79
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "oil-ui",
-            "full_name": "oil-oil/oil-ui",
-            "description": "\u628a AI \u7684 UI \u8bbe\u8ba1\u80fd\u529b\u63a8\u5230\u6781\u9650\u3002",
-            "url": "https://github.com/oil-oil/oil-ui",
-            "stars": 620,
-            "forks": 38,
-            "score": 78
+            "forks": 81,
+            "score": 80
         },
         {
             "main_cat": "AI",
@@ -161,31 +161,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "allenv0/SCM",
             "description": "Deep AI search for every photo and every frame of video in any folder on macOS",
             "url": "https://github.com/allenv0/SCM",
-            "stars": 367,
+            "stars": 381,
             "forks": 22,
-            "score": 75
+            "score": 76
         },
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "Papermorph",
-            "full_name": "DozenTwelve/Papermorph",
-            "description": "An AI skill that turns books into animated, narrated, interactive web experiences",
-            "url": "https://github.com/DozenTwelve/Papermorph",
-            "stars": 295,
-            "forks": 27,
-            "score": 70
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI Agents",
-            "name": "Intent-Router",
-            "full_name": "angel291592/Intent-Router",
-            "description": "Intent compiler for AI agents \u2014 converges vague requests into typed IntentSpec contracts (probe, ask, or halt before routing), the input layer for routers and typed-decision models like Jev & Laya",
-            "url": "https://github.com/angel291592/Intent-Router",
-            "stars": 865,
-            "forks": 96,
-            "score": 69
+            "name": "oil-ui",
+            "full_name": "oil-oil/oil-ui",
+            "description": "\u628a AI \u7684 UI \u8bbe\u8ba1\u80fd\u529b\u63a8\u5230\u6781\u9650\u3002",
+            "url": "https://github.com/oil-oil/oil-ui",
+            "stars": 646,
+            "forks": 37,
+            "score": 74
         },
         {
             "main_cat": "AI",
@@ -194,8 +183,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "JoasASantos/Offensive-Security-AI-Models",
             "description": "Uncensored AI models or those fine-tuned for cybersecurity tasks.",
             "url": "https://github.com/JoasASantos/Offensive-Security-AI-Models",
-            "stars": 602,
-            "forks": 67,
+            "stars": 603,
+            "forks": 68,
             "score": 69
         },
         {
@@ -211,12 +200,23 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
+            "sub_cat": null,
+            "name": "Papermorph",
+            "full_name": "DozenTwelve/Papermorph",
+            "description": "An AI skill that turns books into animated, narrated, interactive web experiences",
+            "url": "https://github.com/DozenTwelve/Papermorph",
+            "stars": 327,
+            "forks": 32,
+            "score": 67
+        },
+        {
+            "main_cat": "AI",
             "sub_cat": "AI Agents",
             "name": "ai-engineering-course",
             "full_name": "amitshekhariitbhu/ai-engineering-course",
             "description": "AI Engineering Course - A free and complete AI Engineering Course to learn AI Engineering step by step - from Machine Learning, Neural Networks, and Transformers to LLMs, Fine-Tuning, RAG, AI Agents, LLM Inference, Evaluation, AI Safety, and AI System Design.",
             "url": "https://github.com/amitshekhariitbhu/ai-engineering-course",
-            "stars": 504,
+            "stars": 505,
             "forks": 95,
             "score": 59
         },
@@ -227,20 +227,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "win4r/MuseAI-Skills",
             "description": "muse.ai (Muse AI) skills and runtime snapshot: 68 skills, workflow guides, connector manifests. muse.ai \u6280\u80fd\u4e0e\u8fd0\u884c\u73af\u5883\u6587\u4ef6\uff1b\u975e\u5b98\u65b9\u5b58\u6863 / Unofficial archive.",
             "url": "https://github.com/win4r/MuseAI-Skills",
-            "stars": 322,
+            "stars": 323,
             "forks": 107,
             "score": 58
         },
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "iCode",
-            "full_name": "openJiuwen-ai/iCode",
-            "description": "A lightweight, extensible, fully offline development platform and agent/workflow toolkit for the AI era, with an intuitive TUI, easy deployment, and complete control over your data, agents, and workflows.",
-            "url": "https://github.com/openJiuwen-ai/iCode",
-            "stars": 304,
-            "forks": 50,
-            "score": 55
+            "name": "beebots",
+            "full_name": "imikerussell/beebots",
+            "description": "Three AI trading bees on OKX, every decision by Jev. Paper trading by default. Not financial advice.",
+            "url": "https://github.com/imikerussell/beebots",
+            "stars": 241,
+            "forks": 116,
+            "score": 57
         },
         {
             "main_cat": "AI",
@@ -252,6 +252,17 @@ const ALPHA_DATA_V2 = {
             "stars": 364,
             "forks": 80,
             "score": 54
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "iCode",
+            "full_name": "openJiuwen-ai/iCode",
+            "description": "A lightweight, extensible, fully offline development platform and agent/workflow toolkit for the AI era, with an intuitive TUI, easy deployment, and complete control over your data, agents, and workflows.",
+            "url": "https://github.com/openJiuwen-ai/iCode",
+            "stars": 304,
+            "forks": 50,
+            "score": 52
         },
         {
             "main_cat": "AI",
@@ -271,20 +282,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "czg86389-hub/muse2api",
             "description": "\u628a Muse(muse.ai) \u9006\u5411\u5c01\u88c5\u4e3a OpenAI \u517c\u5bb9\u63a5\u53e3\uff0c\u652f\u6301\u5bf9\u8bdd\u3001\u6587\u751f\u56fe\u3001\u6587\u751f\u89c6\u9891/\u56fe\u751f\u89c6\u9891\u3001\u591a\u8d26\u53f7\u6c60\u8f6e\u8f6c\u4e0e 48h \u81ea\u52a8\u7eed\u671f\u3002OpenAI-compatible API for Muse.ai with Chat, Image & Video generation.",
             "url": "https://github.com/czg86389-hub/muse2api",
-            "stars": 260,
+            "stars": 262,
             "forks": 72,
             "score": 51
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "awesome-jev",
-            "full_name": "kydlikebtc/awesome-jev",
-            "description": "1207 public resources for Jev, TypeSafe AI's System One decision model, indexed by decision pattern. Source citations, dated link checks and scheduled call-site text checks; runtime and performance are not independently tested here. EN/\u4e2d\u6587, JSON schema and platform compatibility.",
-            "url": "https://github.com/kydlikebtc/awesome-jev",
-            "stars": 594,
-            "forks": 18,
-            "score": 50
         },
         {
             "main_cat": "AI",
@@ -293,8 +293,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "vincentsch/explainroo",
             "description": "Explainer videos and product demos made by your AI agent. Free and open source: a local voice (Kokoro), word timing (Whisper) and a canvas renderer turn a script into a narrated MP4.",
             "url": "https://github.com/vincentsch/explainroo",
-            "stars": 440,
-            "forks": 16,
+            "stars": 451,
+            "forks": 17,
             "score": 49
         },
         {
@@ -310,14 +310,25 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
+            "sub_cat": null,
+            "name": "OpenGhost",
+            "full_name": "ANDRETRIPOL/OpenGhost",
+            "description": "Open desktop AI agent for Windows, macOS and Linux, written from scratch: its own agent engine, its own browser tooling and its own drawing engine that shows what it explains.",
+            "url": "https://github.com/ANDRETRIPOL/OpenGhost",
+            "stars": 229,
+            "forks": 18,
+            "score": 41
+        },
+        {
+            "main_cat": "AI",
             "sub_cat": "AI General",
             "name": "AcademiaSD_LoRAlab-TrainerStudio",
             "full_name": "AcademiaSD/AcademiaSD_LoRAlab-TrainerStudio",
             "description": "Train LoRAs for Qwen-Image 2.1, FLUX.2 Klein 9B, Krea 2, Z-Image, Ideogram 4, Anima, SDXL (Pony, Illustrious, NoobAI), LTX 2.3 and MiniMax-H3 on NVIDIA GPUs from 4\u20138 GB VRAM. One install, one launcher, NF4 models. Windows, Linux and RunPod.",
             "url": "https://github.com/AcademiaSD/AcademiaSD_LoRAlab-TrainerStudio",
-            "stars": 55,
-            "forks": 6,
-            "score": 33
+            "stars": 59,
+            "forks": 7,
+            "score": 34
         },
         {
             "main_cat": "Prediction Markets",
@@ -337,8 +348,19 @@ const ALPHA_DATA_V2 = {
             "full_name": "heddles/agent-orca",
             "description": "Agent-orca orchestrates and manages AI agent workloads in Kubernetes, providing distributed execution, model routing, knowledge integration, and tool access through MCP and stdio tools.",
             "url": "https://github.com/heddles/agent-orca",
-            "stars": 35,
+            "stars": 39,
             "forks": 2,
+            "score": 31
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "local-ai-recipe-kit",
+            "full_name": "0xSero/local-ai-recipe-kit",
+            "description": "Run a big model on your own GPU, measure it with one protocol, and submit the result. Intake for local-ai-registry recipes.",
+            "url": "https://github.com/0xSero/local-ai-recipe-kit",
+            "stars": 13,
+            "forks": 3,
             "score": 31
         },
         {
@@ -377,17 +399,6 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
-            "name": "tokenized-rwa-tracker",
-            "full_name": "CryptoGeadas/tokenized-rwa-tracker",
-            "description": "Tokenized RWA trust filter \u2014 curated classification of on-chain real-world asset yield products",
-            "url": "https://github.com/CryptoGeadas/tokenized-rwa-tracker",
-            "stars": 0,
-            "forks": 0,
-            "score": 30
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
             "name": "1xpremium",
             "full_name": "AiBetPro/1xpremium",
             "description": "An AI-powered sports betting platform featuring automated prediction models, match analysis, and intelligent betting ticket generation.",
@@ -410,10 +421,21 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
-            "name": "SmartBetAI",
-            "full_name": "AiBetPro/SmartBetAI",
-            "description": "An AI-powered sports betting platform featuring automated prediction models, match analysis, and intelligent betting ticket generation.",
-            "url": "https://github.com/AiBetPro/SmartBetAI",
+            "name": "SPulse-Contract",
+            "full_name": "zeemscript/SPulse-Contract",
+            "description": "SPulse contracts are the on-chain Soroban smart contract layer for the prediction market platform. They manage market creation, user betting, market resolution, payouts, rewards, referrals, and leaderboard tracking on Stellar. The contracts work together to support a trustless, auditable betting system with token incentives and community ranking.",
+            "url": "https://github.com/zeemscript/SPulse-Contract",
+            "stars": 0,
+            "forks": 0,
+            "score": 30
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "SPulse",
+            "full_name": "zeemscript/SPulse",
+            "description": "Stellar Pulse is a decentralized prediction market built on Stellar/Soroban. Users connect a wallet, bet XLM on YES/NO markets, earn PULSE tokens and points, and claim payouts on-chain.",
+            "url": "https://github.com/zeemscript/SPulse",
             "stars": 0,
             "forks": 0,
             "score": 30
@@ -597,20 +619,6 @@ const ALPHA_DATA_V2 = {
     ],
     "news": [
         {
-            "title": "Unitary complexity in polynomial space",
-            "source": "ArXiv",
-            "type": "Research Alpha",
-            "color": "text-indigo-600",
-            "url": "http://arxiv.org/abs/2610.03705v1"
-        },
-        {
-            "title": "PoCoFL: POlicy-COmpliant Federated Learning",
-            "source": "ArXiv",
-            "type": "Research Alpha",
-            "color": "text-indigo-600",
-            "url": "http://arxiv.org/abs/2610.03650v1"
-        },
-        {
             "title": "Bitcoin volatility remains high ahead of key FED decision.",
             "source": "Polymarket",
             "type": "Expectation",
@@ -618,5 +626,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-10-05 23:34"
+    "timestamp": "2026-10-06 04:17"
 };
