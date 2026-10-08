@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "CopilotKit/OpenDots",
             "description": "Your always-on AI coworkers that move between text, calls, and Slack.",
             "url": "https://github.com/CopilotKit/OpenDots",
-            "stars": 4429,
-            "forks": 628,
+            "stars": 4474,
+            "forks": 634,
             "score": 99
         },
         {
@@ -18,8 +18,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "Louis-CFM/coucou",
             "description": "A tiny friend in your Mac's notch and on your iPhone that keeps an eye on your AI coding agents: Claude Code, Codex, Cursor, Gemini CLI, Antigravity and more. Approve from the notch or your Lock Screen.",
             "url": "https://github.com/Louis-CFM/coucou",
-            "stars": 4197,
-            "forks": 703,
+            "stars": 4228,
+            "forks": 713,
             "score": 99
         },
         {
@@ -29,8 +29,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "nykooi1/vibe-wise",
             "description": "A Claude Code plugin that helps you learn how to build while AI writes the code.",
             "url": "https://github.com/nykooi1/vibe-wise",
-            "stars": 3103,
-            "forks": 132,
+            "stars": 3173,
+            "forks": 135,
             "score": 99
         },
         {
@@ -40,8 +40,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "feder-cr/invisible_playwright_mcp",
             "description": "Playwright MCP server undetected by anti-bots and captchas: AI agent browses the web on anti-detect stealth Firefox, Python, undetected browser automation, scraping, computer use.",
             "url": "https://github.com/feder-cr/invisible_playwright_mcp",
-            "stars": 2660,
-            "forks": 462,
+            "stars": 2673,
+            "forks": 461,
             "score": 99
         },
         {
@@ -51,8 +51,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "kaankiziltug/logo-design-skill",
             "description": "A comprehensive logo-design skill for Claude, Gemini CLI, Codex and other AI agents: principles, process, SVG craft, testing tools and a 1,400+ logo reference library.",
             "url": "https://github.com/kaankiziltug/logo-design-skill",
-            "stars": 2345,
-            "forks": 160,
+            "stars": 2364,
+            "forks": 161,
             "score": 99
         },
         {
@@ -62,8 +62,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "QingYunA/answer-me-with-html",
             "description": "Answer me with HTML \u2014 an agent skill that answers hard questions with a one-page HTML you can actually read. \u8ba9 AI Agent \u7528\u4e00\u9875 HTML \u56de\u7b54\u590d\u6742\u95ee\u9898\u3002",
             "url": "https://github.com/QingYunA/answer-me-with-html",
-            "stars": 2311,
-            "forks": 154,
+            "stars": 2319,
+            "forks": 155,
             "score": 99
         },
         {
@@ -73,8 +73,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "nanaism/yomiyasu",
             "description": "AI\u751f\u6210\u306e\u65e5\u672c\u8a9e\u3092\u81ea\u7136\u306a\u65e5\u672c\u8a9e\u3078\u63a8\u6572\u3059\u308bAgent Skill / Agent Skill for Refining AI-Generated Japanese into Natural Japanese",
             "url": "https://github.com/nanaism/yomiyasu",
-            "stars": 1760,
-            "forks": 39,
+            "stars": 1763,
+            "forks": 40,
             "score": 99
         },
         {
@@ -84,19 +84,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "edenfunf/reelmimic",
             "description": "Show it a video you love. Get a new video in the same style. An AI crew (Claude Code or Codex) plans, builds and reviews it with you.",
             "url": "https://github.com/edenfunf/reelmimic",
-            "stars": 1714,
-            "forks": 183,
-            "score": 99
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "artex-ko",
-            "full_name": "jiwoochris/artex-ko",
-            "description": "ARTEX \ud55c\uad6d\uc5b4\ud310 \u00b7 AI \uc790\uc728 \uce68\ud22c \ud14c\uc2a4\ud2b8 \ud504\ub808\uc784\uc6cc\ud06c \ud604\uc9c0\ud654 (upstream: Autumn-27/ARTEX, AGPL-3.0)",
-            "url": "https://github.com/jiwoochris/artex-ko",
-            "stars": 610,
-            "forks": 473,
+            "stars": 1730,
+            "forks": 197,
             "score": 99
         },
         {
@@ -106,8 +95,19 @@ const ALPHA_DATA_V2 = {
             "full_name": "mhtsec/ARTEX",
             "description": "AI \u81ea\u4e3b\u6e17\u900f\u6d4b\u8bd5\u7cfb\u7edf | \u767e\u5ea6\u201cagent+\u201d\u653b\u9632\u6311\u6218\u8d5b\u51a0\u519b\u9879\u76ee",
             "url": "https://github.com/mhtsec/ARTEX",
-            "stars": 557,
-            "forks": 1524,
+            "stars": 675,
+            "forks": 1757,
+            "score": 99
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "artex-ko",
+            "full_name": "jiwoochris/artex-ko",
+            "description": "ARTEX \ud55c\uad6d\uc5b4\ud310 \u00b7 AI \uc790\uc728 \uce68\ud22c \ud14c\uc2a4\ud2b8 \ud504\ub808\uc784\uc6cc\ud06c \ud604\uc9c0\ud654 (upstream: Autumn-27/ARTEX, AGPL-3.0)",
+            "url": "https://github.com/jiwoochris/artex-ko",
+            "stars": 667,
+            "forks": 520,
             "score": 99
         },
         {
@@ -117,8 +117,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "LosaLosSantos/aurelio-finance",
             "description": "Self-hosted personal wealth analysis: portfolio & net-worth tracking with AI insights. FastAPI + React.",
             "url": "https://github.com/LosaLosSantos/aurelio-finance",
-            "stars": 353,
-            "forks": 57,
+            "stars": 485,
+            "forks": 78,
             "score": 99
         },
         {
@@ -128,7 +128,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "oil-oil/oil-ui",
             "description": "Push AI UI design to its limits: explore distinct directions, compare them side by side, and refine against real screenshots. \u628a AI \u7684 UI \u8bbe\u8ba1\u80fd\u529b\u63a8\u5230\u6781\u9650\u3002",
             "url": "https://github.com/oil-oil/oil-ui",
-            "stars": 1082,
+            "stars": 1084,
             "forks": 60,
             "score": 90
         },
@@ -139,9 +139,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "DozenTwelve/Papermorph",
             "description": "An AI skill that turns books into animated, narrated, interactive web experiences",
             "url": "https://github.com/DozenTwelve/Papermorph",
-            "stars": 567,
-            "forks": 72,
-            "score": 83
+            "stars": 581,
+            "forks": 75,
+            "score": 85
         },
         {
             "main_cat": "AI",
@@ -150,7 +150,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "echris6/motion-video-kit",
             "description": "Claude Code skill kit for premium AI-assisted business videos: independent critic loop, motion principles from 28 launch films, quality bar, sound design, business offers, Three.js patterns, scripts",
             "url": "https://github.com/echris6/motion-video-kit",
-            "stars": 1067,
+            "stars": 1069,
             "forks": 95,
             "score": 81
         },
@@ -161,9 +161,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "composio-community/open-dot",
             "description": "Open-source personal AI agents that work on their own, on their own computers. Mac app, OpenAI + Composio.",
             "url": "https://github.com/composio-community/open-dot",
-            "stars": 605,
+            "stars": 607,
             "forks": 95,
-            "score": 74
+            "score": 71
         },
         {
             "main_cat": "AI",
@@ -172,20 +172,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "genex-games/genex-desktop",
             "description": "Desktop app for game dev with AI. macOS and Linux, Windows soon.",
             "url": "https://github.com/genex-games/genex-desktop",
-            "stars": 442,
-            "forks": 58,
-            "score": 72
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "SCM",
-            "full_name": "allenv0/SCM",
-            "description": "Deep AI search for every photo and every frame of video in any folder on macOS",
-            "url": "https://github.com/allenv0/SCM",
-            "stars": 440,
-            "forks": 30,
-            "score": 70
+            "stars": 456,
+            "forks": 59,
+            "score": 68
         },
         {
             "main_cat": "AI",
@@ -200,14 +189,25 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
+            "sub_cat": null,
+            "name": "SCM",
+            "full_name": "allenv0/SCM",
+            "description": "Deep AI search for every photo and every frame of video in any folder on macOS",
+            "url": "https://github.com/allenv0/SCM",
+            "stars": 444,
+            "forks": 30,
+            "score": 65
+        },
+        {
+            "main_cat": "AI",
             "sub_cat": "AI General",
             "name": "Offensive-Security-AI-Models",
             "full_name": "JoasASantos/Offensive-Security-AI-Models",
             "description": "Uncensored AI models or those fine-tuned for cybersecurity tasks.",
             "url": "https://github.com/JoasASantos/Offensive-Security-AI-Models",
-            "stars": 632,
-            "forks": 72,
-            "score": 65
+            "stars": 643,
+            "forks": 74,
+            "score": 63
         },
         {
             "main_cat": "AI",
@@ -216,20 +216,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "amitshekhariitbhu/ai-system-design",
             "description": "AI System Design - Learn how to design AI systems built on LLMs, RAG, and AI Agents step by step.",
             "url": "https://github.com/amitshekhariitbhu/ai-system-design",
-            "stars": 648,
-            "forks": 92,
+            "stars": 649,
+            "forks": 93,
             "score": 61
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "ai-game-modding-guides",
-            "full_name": "trevaintdead/ai-game-modding-guides",
-            "description": "Guides for building game mods with AI coding agents: passthrough mods, Rust rewrites, mod loaders, prompting, and troubleshooting.",
-            "url": "https://github.com/trevaintdead/ai-game-modding-guides",
-            "stars": 337,
-            "forks": 29,
-            "score": 58
         },
         {
             "main_cat": "AI",
@@ -238,9 +227,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "openqodex/openqodex",
             "description": "Open source AI code review for Claude Code and Codex, before you push. Scanners (SAST, secrets, dependencies, lint) on the lines you changed, then a separate reviewer process that checks every scanner finding and is given every changed line. No other API key.",
             "url": "https://github.com/openqodex/openqodex",
-            "stars": 389,
-            "forks": 23,
-            "score": 56
+            "stars": 420,
+            "forks": 28,
+            "score": 59
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "ai-game-modding-guides",
+            "full_name": "trevaintdead/ai-game-modding-guides",
+            "description": "Guides for building game mods with AI coding agents: passthrough mods, Rust rewrites, mod loaders, prompting, and troubleshooting.",
+            "url": "https://github.com/trevaintdead/ai-game-modding-guides",
+            "stars": 352,
+            "forks": 31,
+            "score": 59
         },
         {
             "main_cat": "AI",
@@ -249,7 +249,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "wuyoscar/AISafetyHot-Hub",
             "description": "\u6bcf\u5929\u7684 AI \u5b89\u5168\u7cbe\u9009\u548c\u8bba\u6587\u6e05\u5355\uff08md / bib / json\uff09\uff0c\u9644 Agent \u63a5\u5165\u8bf4\u660e \u00b7 AI Safety HOT",
             "url": "https://github.com/wuyoscar/AISafetyHot-Hub",
-            "stars": 469,
+            "stars": 471,
             "forks": 4,
             "score": 54
         },
@@ -260,7 +260,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "win4r/MuseAI-Skills",
             "description": "muse.ai (Muse AI) skills and runtime snapshot: 68 skills, workflow guides, connector manifests. muse.ai \u6280\u80fd\u4e0e\u8fd0\u884c\u73af\u5883\u6587\u4ef6\uff1b\u975e\u5b98\u65b9\u5b58\u6863 / Unofficial archive.",
             "url": "https://github.com/win4r/MuseAI-Skills",
-            "stars": 333,
+            "stars": 334,
             "forks": 108,
             "score": 53
         },
@@ -271,9 +271,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "GanyuanRan/Autoloom",
             "description": "AI coding with Aegis governance built into execution: baseline-aware changes, evidence-backed delivery. Free desktop client, your choice of model. \u5c06\u54f2\u79d1\u601d\u7ef4\u878d\u5165 AI \u5f00\u53d1\u6267\u884c\uff0c\u8ba9\u53d8\u66f4\u6709\u4f9d\u636e\u3001\u4ea4\u4ed8\u6709\u8bc1\u636e\u3002\u7528\u521b\u610f\u7f16\u7ec7\u73b0\u5b9e\u3002",
             "url": "https://github.com/GanyuanRan/Autoloom",
-            "stars": 424,
-            "forks": 8,
-            "score": 50
+            "stars": 446,
+            "forks": 9,
+            "score": 51
         },
         {
             "main_cat": "AI",
@@ -282,7 +282,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "openJiuwen-ai/iCode",
             "description": "A lightweight, extensible, fully offline development platform and agent/workflow toolkit for the AI era, with an intuitive TUI, easy deployment, and complete control over your data, agents, and workflows.",
             "url": "https://github.com/openJiuwen-ai/iCode",
-            "stars": 321,
+            "stars": 322,
             "forks": 52,
             "score": 50
         },
@@ -293,7 +293,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "czg86389-hub/muse2api",
             "description": "\u628a Muse(muse.ai) \u9006\u5411\u5c01\u88c5\u4e3a OpenAI \u517c\u5bb9\u63a5\u53e3\uff0c\u652f\u6301\u5bf9\u8bdd\u3001\u6587\u751f\u56fe\u3001\u6587\u751f\u89c6\u9891/\u56fe\u751f\u89c6\u9891\u3001\u591a\u8d26\u53f7\u6c60\u8f6e\u8f6c\u4e0e 48h \u81ea\u52a8\u7eed\u671f\u3002OpenAI-compatible API for Muse.ai with Chat, Image & Video generation.",
             "url": "https://github.com/czg86389-hub/muse2api",
-            "stars": 312,
+            "stars": 314,
             "forks": 81,
             "score": 49
         },
@@ -304,7 +304,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "vincentsch/explainroo",
             "description": "Explainer videos and product demos made by your AI agent. Free and open source: a local voice (Kokoro), word timing (Whisper) and a canvas renderer turn a script into a narrated MP4.",
             "url": "https://github.com/vincentsch/explainroo",
-            "stars": 497,
+            "stars": 501,
             "forks": 20,
             "score": 48
         },
@@ -317,7 +317,18 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/alpcanaydin/tusk",
             "stars": 359,
             "forks": 21,
-            "score": 48
+            "score": 47
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "AcademiaSD_LoRAlab-TrainerStudio",
+            "full_name": "AcademiaSD/AcademiaSD_LoRAlab-TrainerStudio",
+            "description": "Train LoRAs for Qwen-Image 2.1, FLUX.2 Klein 9B, Krea 2, Z-Image, Ideogram 4, Anima, SDXL (Pony, Illustrious, NoobAI), LTX 2.3 and MiniMax-H3 on NVIDIA GPUs from 4\u20138 GB VRAM. One install, one launcher, NF4 models. Windows, Linux and RunPod.",
+            "url": "https://github.com/AcademiaSD/AcademiaSD_LoRAlab-TrainerStudio",
+            "stars": 68,
+            "forks": 9,
+            "score": 34
         },
         {
             "main_cat": "AI",
@@ -328,17 +339,6 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/heddles/agent-orca",
             "stars": 78,
             "forks": 3,
-            "score": 33
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "AcademiaSD_LoRAlab-TrainerStudio",
-            "full_name": "AcademiaSD/AcademiaSD_LoRAlab-TrainerStudio",
-            "description": "Train LoRAs for Qwen-Image 2.1, FLUX.2 Klein 9B, Krea 2, Z-Image, Ideogram 4, Anima, SDXL (Pony, Illustrious, NoobAI), LTX 2.3 and MiniMax-H3 on NVIDIA GPUs from 4\u20138 GB VRAM. One install, one launcher, NF4 models. Windows, Linux and RunPod.",
-            "url": "https://github.com/AcademiaSD/AcademiaSD_LoRAlab-TrainerStudio",
-            "stars": 66,
-            "forks": 9,
             "score": 33
         },
         {
@@ -604,17 +604,6 @@ const ALPHA_DATA_V2 = {
             "stars": 0,
             "forks": 0,
             "score": 30
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "echo-64",
-            "full_name": "Keywebco/echo-64",
-            "description": "Echo 64 \u2014 The EC-64 Protocol: a self-contained, token-efficient encoding standard for AI memory, cross-system communication, and condensed context transfer.",
-            "url": "https://github.com/Keywebco/echo-64",
-            "stars": 0,
-            "forks": 0,
-            "score": 30
         }
     ],
     "news": [
@@ -640,5 +629,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-10-08 16:01"
+    "timestamp": "2026-10-08 21:42"
 };
