@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "CopilotKit/OpenDots",
             "description": "Your always-on AI coworkers that move between text, calls, and Slack.",
             "url": "https://github.com/CopilotKit/OpenDots",
-            "stars": 4627,
-            "forks": 655,
+            "stars": 4648,
+            "forks": 658,
             "score": 99
         },
         {
@@ -18,8 +18,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "Louis-CFM/coucou",
             "description": "A tiny friend in your Mac's notch and on your iPhone that keeps an eye on your AI coding agents: Claude Code, Codex, Cursor, Gemini CLI, Antigravity and more. Approve from the notch or your Lock Screen.",
             "url": "https://github.com/Louis-CFM/coucou",
-            "stars": 4402,
-            "forks": 738,
+            "stars": 4469,
+            "forks": 751,
             "score": 99
         },
         {
@@ -29,7 +29,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "nykooi1/vibe-wise",
             "description": "A Claude Code / Codex plugin that helps you learn how to build while AI writes the code.",
             "url": "https://github.com/nykooi1/vibe-wise",
-            "stars": 3252,
+            "stars": 3273,
             "forks": 137,
             "score": 99
         },
@@ -40,7 +40,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "feder-cr/invisible_playwright_mcp",
             "description": "Playwright MCP server undetected by anti-bots and captchas: AI agent browses the web on anti-detect stealth Firefox, Python, undetected browser automation, scraping, computer use.",
             "url": "https://github.com/feder-cr/invisible_playwright_mcp",
-            "stars": 2697,
+            "stars": 2698,
             "forks": 464,
             "score": 99
         },
@@ -51,8 +51,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "QingYunA/answer-me-with-html",
             "description": "Answer me with HTML \u2014 an agent skill that answers hard questions with a one-page HTML you can actually read. \u8ba9 AI Agent \u7528\u4e00\u9875 HTML \u56de\u7b54\u590d\u6742\u95ee\u9898\u3002",
             "url": "https://github.com/QingYunA/answer-me-with-html",
-            "stars": 2463,
-            "forks": 168,
+            "stars": 2491,
+            "forks": 170,
             "score": 99
         },
         {
@@ -62,7 +62,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "kaankiziltug/logo-design-skill",
             "description": "A comprehensive logo-design skill for Claude, Gemini CLI, Codex and other AI agents: principles, process, SVG craft, testing tools and a 1,400+ logo reference library.",
             "url": "https://github.com/kaankiziltug/logo-design-skill",
-            "stars": 2428,
+            "stars": 2437,
             "forks": 165,
             "score": 99
         },
@@ -73,8 +73,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "mhtsec/ARTEX",
             "description": "AI \u81ea\u4e3b\u6e17\u900f\u6d4b\u8bd5\u7cfb\u7edf | \u767e\u5ea6\u201cagent+\u201d\u653b\u9632\u6311\u6218\u8d5b\u51a0\u519b\u9879\u76ee",
             "url": "https://github.com/mhtsec/ARTEX",
-            "stars": 2016,
-            "forks": 4231,
+            "stars": 2104,
+            "forks": 4339,
             "score": 99
         },
         {
@@ -84,8 +84,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "edenfunf/reelmimic",
             "description": "Show it a video you love. Get a new video in the same style. An AI crew (Claude Code or Codex) plans, builds and reviews it with you.",
             "url": "https://github.com/edenfunf/reelmimic",
-            "stars": 1909,
-            "forks": 200,
+            "stars": 1937,
+            "forks": 202,
             "score": 99
         },
         {
@@ -95,7 +95,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "nanaism/yomiyasu",
             "description": "AI\u751f\u6210\u306e\u65e5\u672c\u8a9e\u3092\u81ea\u7136\u306a\u65e5\u672c\u8a9e\u3078\u63a8\u6572\u3059\u308bAgent Skill / Agent Skill for Refining AI-Generated Japanese into Natural Japanese",
             "url": "https://github.com/nanaism/yomiyasu",
-            "stars": 1797,
+            "stars": 1801,
             "forks": 40,
             "score": 99
         },
@@ -106,8 +106,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "LosaLosSantos/aurelio-finance",
             "description": "Open-source personal finance app with an AI financial advisor: track your net worth, investments, ETFs, cash and debts on your own computer.",
             "url": "https://github.com/LosaLosSantos/aurelio-finance",
-            "stars": 1045,
-            "forks": 101,
+            "stars": 1347,
+            "forks": 110,
             "score": 99
         },
         {
@@ -117,8 +117,19 @@ const ALPHA_DATA_V2 = {
             "full_name": "jiwoochris/artex-ko",
             "description": "ARTEX \ud55c\uad6d\uc5b4\ud310 \u00b7 AI \uc790\uc728 \uce68\ud22c \ud14c\uc2a4\ud2b8 \ud504\ub808\uc784\uc6cc\ud06c \ud604\uc9c0\ud654 (upstream: Autumn-27/ARTEX, AGPL-3.0)",
             "url": "https://github.com/jiwoochris/artex-ko",
-            "stars": 841,
-            "forks": 701,
+            "stars": 854,
+            "forks": 719,
+            "score": 99
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "Discord-Server-Raider",
+            "full_name": "navyofficerpipe/Discord-Server-Raider",
+            "description": "Discord Server Raider\", an AI-driven solution designed to streamline server management tasks on GitHub without any mention of Apple or mobile devices; it...",
+            "url": "https://github.com/navyofficerpipe/Discord-Server-Raider",
+            "stars": 605,
+            "forks": 0,
             "score": 99
         },
         {
@@ -128,7 +139,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "oil-oil/oil-ui",
             "description": "Push AI UI design to its limits: explore distinct directions, compare them side by side, and refine against real screenshots. \u628a AI \u7684 UI \u8bbe\u8ba1\u80fd\u529b\u63a8\u5230\u6781\u9650\u3002",
             "url": "https://github.com/oil-oil/oil-ui",
-            "stars": 1126,
+            "stars": 1137,
             "forks": 62,
             "score": 87
         },
@@ -139,8 +150,19 @@ const ALPHA_DATA_V2 = {
             "full_name": "DozenTwelve/Papermorph",
             "description": "An AI skill that turns books into animated, narrated, interactive web experiences",
             "url": "https://github.com/DozenTwelve/Papermorph",
-            "stars": 614,
+            "stars": 622,
             "forks": 80,
+            "score": 82
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "big-arrow-on-the-screen",
+            "full_name": "franzenzenhofer/big-arrow-on-the-screen",
+            "description": "Let your AI agents paint big arrows, boxes and text on your Mac screen. One CLI, click-through, gone by itself. Skill for Claude Code and Codex. MIT.",
+            "url": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
+            "stars": 391,
+            "forks": 6,
             "score": 81
         },
         {
@@ -150,7 +172,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "echris6/motion-video-kit",
             "description": "Claude Code skill kit for premium AI-assisted business videos: independent critic loop, motion principles from 28 launch films, quality bar, sound design, business offers, Three.js patterns, scripts",
             "url": "https://github.com/echris6/motion-video-kit",
-            "stars": 1074,
+            "stars": 1073,
             "forks": 95,
             "score": 78
         },
@@ -161,9 +183,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "composio-community/open-dot",
             "description": "Open-source personal AI agents that work on their own, on their own computers. Mac app, OpenAI + Composio.",
             "url": "https://github.com/composio-community/open-dot",
-            "stars": 613,
-            "forks": 100,
-            "score": 72
+            "stars": 615,
+            "forks": 101,
+            "score": 69
         },
         {
             "main_cat": "AI",
@@ -172,20 +194,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "genex-games/genex-desktop",
             "description": "Desktop app for game dev with AI. macOS and Linux, Windows soon.",
             "url": "https://github.com/genex-games/genex-desktop",
-            "stars": 477,
-            "forks": 65,
-            "score": 70
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "SCM",
-            "full_name": "allenv0/SCM",
-            "description": "Deep AI search for every photo and every frame of video in any folder on macOS",
-            "url": "https://github.com/allenv0/SCM",
-            "stars": 450,
-            "forks": 30,
-            "score": 65
+            "stars": 483,
+            "forks": 67,
+            "score": 67
         },
         {
             "main_cat": "AI",
@@ -194,7 +205,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "JoasASantos/Offensive-Security-AI-Models",
             "description": "Uncensored AI models or those fine-tuned for cybersecurity tasks.",
             "url": "https://github.com/JoasASantos/Offensive-Security-AI-Models",
-            "stars": 658,
+            "stars": 659,
             "forks": 75,
             "score": 64
         },
@@ -216,8 +227,30 @@ const ALPHA_DATA_V2 = {
             "full_name": "openqodex/openqodex",
             "description": "Open source AI code review for Claude Code and Codex, before you push. Scanners (SAST, secrets, dependencies, lint) on the lines you changed, then a separate reviewer process that checks every scanner finding and is given every changed line. No other API key.",
             "url": "https://github.com/openqodex/openqodex",
-            "stars": 489,
+            "stars": 506,
             "forks": 33,
+            "score": 61
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "SCM",
+            "full_name": "allenv0/SCM",
+            "description": "Deep AI search for every photo and every frame of video in any folder on macOS",
+            "url": "https://github.com/allenv0/SCM",
+            "stars": 451,
+            "forks": 31,
+            "score": 61
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "ai-game-modding-guides",
+            "full_name": "trevaintdead/ai-game-modding-guides",
+            "description": "Guides for building game mods with AI coding agents: passthrough mods, Rust rewrites, mod loaders, prompting, and troubleshooting.",
+            "url": "https://github.com/trevaintdead/ai-game-modding-guides",
+            "stars": 407,
+            "forks": 38,
             "score": 61
         },
         {
@@ -227,31 +260,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "wuyoscar/AISafetyHot-Hub",
             "description": "\u6bcf\u5929\u7684 AI \u5b89\u5168\u7cbe\u9009\u548c\u8bba\u6587\u6e05\u5355\uff08md / bib / json\uff09\uff0c\u9644 Agent \u63a5\u5165\u8bf4\u660e \u00b7 AI Safety HOT",
             "url": "https://github.com/wuyoscar/AISafetyHot-Hub",
-            "stars": 647,
-            "forks": 5,
+            "stars": 649,
+            "forks": 6,
             "score": 60
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "ai-game-modding-guides",
-            "full_name": "trevaintdead/ai-game-modding-guides",
-            "description": "Guides for building game mods with AI coding agents: passthrough mods, Rust rewrites, mod loaders, prompting, and troubleshooting.",
-            "url": "https://github.com/trevaintdead/ai-game-modding-guides",
-            "stars": 398,
-            "forks": 37,
-            "score": 60
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "qiaomu-clipper",
-            "full_name": "joeseesun/qiaomu-clipper",
-            "description": "\u4e54\u6728\u526a\u85cf\uff1a\u526a\u85cf\u7f51\u9875\u5230 Obsidian\uff0c\u9605\u8bfb\u3001\u7f16\u8f91\uff0c\u5e76\u5411 AI \u63d0\u95ee | Clip the web to Obsidian, then read, edit and chat with AI about it.",
-            "url": "https://github.com/joeseesun/qiaomu-clipper",
-            "stars": 308,
-            "forks": 45,
-            "score": 54
         },
         {
             "main_cat": "AI",
@@ -260,9 +271,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "GanyuanRan/Autoloom",
             "description": "AI coding with Aegis governance built into execution: baseline-aware changes, evidence-backed delivery. Free desktop client, your choice of model. \u5c06\u54f2\u79d1\u601d\u7ef4\u878d\u5165 AI \u5f00\u53d1\u6267\u884c\uff0c\u8ba9\u53d8\u66f4\u6709\u4f9d\u636e\u3001\u4ea4\u4ed8\u6709\u8bc1\u636e\u3002\u7528\u521b\u610f\u7f16\u7ec7\u73b0\u5b9e\u3002",
             "url": "https://github.com/GanyuanRan/Autoloom",
-            "stars": 527,
+            "stars": 544,
             "forks": 10,
-            "score": 53
+            "score": 54
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "qiaomu-clipper",
+            "full_name": "joeseesun/qiaomu-clipper",
+            "description": "\u4e54\u6728\u526a\u85cf\uff1a\u526a\u85cf\u7f51\u9875\u5230 Obsidian\uff0c\u9605\u8bfb\u3001\u7f16\u8f91\uff0c\u5e76\u5411 AI \u63d0\u95ee | Clip the web to Obsidian, then read, edit and chat with AI about it.",
+            "url": "https://github.com/joeseesun/qiaomu-clipper",
+            "stars": 309,
+            "forks": 45,
+            "score": 54
         },
         {
             "main_cat": "AI",
@@ -271,20 +293,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "openJiuwen-ai/iCode",
             "description": "A lightweight, extensible, fully offline development platform and agent/workflow toolkit for the AI era, with an intuitive TUI, easy deployment, and complete control over your data, agents, and workflows.",
             "url": "https://github.com/openJiuwen-ai/iCode",
-            "stars": 331,
+            "stars": 332,
             "forks": 56,
             "score": 49
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "catbus",
-            "full_name": "cv-cat/catbus",
-            "description": "\u4e00\u4e2a\u547d\u4ee4\u64cd\u4f5c\u5c0f\u7ea2\u4e66\u3001\u6296\u97f3\u3001TikTok\u3001B \u7ad9\u3001\u5feb\u624b\u3001\u5fae\u535a\u3001\u95f2\u9c7c\u3001\u6dd8\u5b9d\u3001\u4eac\u4e1c\u3001X\uff1a\u7edf\u4e00\u7684\u547d\u4ee4\u4e0e JSON \u8f93\u51fa\uff0c\u7ed9\u4eba\u548c AI Agent \u7528",
-            "url": "https://github.com/cv-cat/catbus",
-            "stars": 260,
-            "forks": 70,
-            "score": 48
         },
         {
             "main_cat": "AI",
@@ -295,29 +306,7 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/alpcanaydin/tusk",
             "stars": 371,
             "forks": 22,
-            "score": 47
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "box",
-            "full_name": "strands-agents/box",
-            "description": "Run AI agents in a sandbox that restricts what they can execute, read, write, and reach on the network. Box combines OS isolation with default-deny Dogwood policies and credential injection that keeps secrets outside the agent. Written in Rust. Supports macOS on Apple silicon, with Linux support planned.",
-            "url": "https://github.com/strands-agents/box",
-            "stars": 272,
-            "forks": 10,
-            "score": 47
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "agent-orca",
-            "full_name": "heddles/agent-orca",
-            "description": "Agent-orca orchestrates and manages AI agent workloads in Kubernetes, providing distributed execution, model routing, knowledge integration, and tool access through MCP and stdio tools.",
-            "url": "https://github.com/heddles/agent-orca",
-            "stars": 79,
-            "forks": 3,
-            "score": 33
+            "score": 46
         },
         {
             "main_cat": "AI",
@@ -329,6 +318,17 @@ const ALPHA_DATA_V2 = {
             "stars": 68,
             "forks": 9,
             "score": 33
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "agent-orca",
+            "full_name": "heddles/agent-orca",
+            "description": "Agent-orca orchestrates and manages AI agent workloads in Kubernetes, providing distributed execution, model routing, knowledge integration, and tool access through MCP and stdio tools.",
+            "url": "https://github.com/heddles/agent-orca",
+            "stars": 79,
+            "forks": 3,
+            "score": 32
         },
         {
             "main_cat": "Prediction Markets",
@@ -370,7 +370,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "ExVRAM/exvram-lab",
             "description": "Compute-for-memory research lab for running larger LLMs on memory-constrained consumer GPUs.",
             "url": "https://github.com/ExVRAM/exvram-lab",
-            "stars": 22,
+            "stars": 25,
             "forks": 1,
             "score": 30
         },
@@ -498,6 +498,17 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
+            "name": "Seamoney-Hackathon",
+            "full_name": "Repositorio-de-projetos-da-faculdade/Seamoney-Hackathon",
+            "description": "Prototype for Brazilian importers: invoice management, testnet stablecoin payments, and automatic reconciliation on Tempo. Built for Crypto World's Fair 2026.",
+            "url": "https://github.com/Repositorio-de-projetos-da-faculdade/Seamoney-Hackathon",
+            "stars": 0,
+            "forks": 0,
+            "score": 30
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
             "name": "onchain-payment-gate-backend",
             "full_name": "m15flores/onchain-payment-gate-backend",
             "description": "Go backend for on-chain payment settlement (go-ethereum). Off-chain half of a portfolio project targeting on-chain payments/stablecoin infrastructure backend roles.",
@@ -524,17 +535,6 @@ const ALPHA_DATA_V2 = {
             "full_name": "m15flores/onchain-payment-gate-contracts",
             "description": "Backend-controlled vault system for on-chain payment settlement (Solidity/Foundry). On-chain half of a portfolio project targeting on-chain payments/stablecoin infrastructure backend roles.",
             "url": "https://github.com/m15flores/onchain-payment-gate-contracts",
-            "stars": 0,
-            "forks": 0,
-            "score": 30
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "HaPaPay",
-            "full_name": "furkan3152/HaPaPay",
-            "description": "Pay a handle, not an address. Non-custodial social payments: send stablecoins and tokenized stocks to GitHub, X, Telegram, Discord and Farcaster handles across Robinhood Chain, Solana and Arc.",
-            "url": "https://github.com/furkan3152/HaPaPay",
             "stars": 0,
             "forks": 0,
             "score": 30
@@ -629,5 +629,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-10-09 15:43"
+    "timestamp": "2026-10-09 20:26"
 };
