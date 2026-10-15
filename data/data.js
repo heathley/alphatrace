@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "mhtsec/ARTEX",
             "description": "AI \u81ea\u4e3b\u6e17\u900f\u6d4b\u8bd5\u7cfb\u7edf | \u767e\u5ea6\u201cagent+\u201d\u653b\u9632\u6311\u6218\u8d5b\u51a0\u519b\u9879\u76ee",
             "url": "https://github.com/mhtsec/ARTEX",
-            "stars": 4208,
-            "forks": 6454,
+            "stars": 4232,
+            "forks": 6477,
             "score": 99
         },
         {
@@ -18,8 +18,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "QingYunA/answer-me-with-html",
             "description": "Answer me with HTML \u2014 an agent skill that answers hard questions with a one-page HTML you can actually read. \u8ba9 AI Agent \u7528\u4e00\u9875 HTML \u56de\u7b54\u590d\u6742\u95ee\u9898\u3002",
             "url": "https://github.com/QingYunA/answer-me-with-html",
-            "stars": 3415,
-            "forks": 238,
+            "stars": 3436,
+            "forks": 240,
             "score": 99
         },
         {
@@ -29,8 +29,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "LosaLosSantos/aurelio-finance",
             "description": "Open-source personal finance app with an AI financial advisor: track your net worth, investments, ETFs, cash and debts on your own computer.",
             "url": "https://github.com/LosaLosSantos/aurelio-finance",
-            "stars": 3372,
-            "forks": 448,
+            "stars": 3378,
+            "forks": 454,
             "score": 99
         },
         {
@@ -40,8 +40,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "onehumanbeing/esp32-iphone-agent",
             "description": "Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.",
             "url": "https://github.com/onehumanbeing/esp32-iphone-agent",
-            "stars": 2241,
-            "forks": 300,
+            "stars": 2320,
+            "forks": 310,
             "score": 99
         },
         {
@@ -51,8 +51,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "jiwoochris/artex-global",
             "description": "ARTEX \ud55c\uad6d\uc5b4\ud310 \u00b7 AI \uc790\uc728 \uce68\ud22c \ud14c\uc2a4\ud2b8 \ud504\ub808\uc784\uc6cc\ud06c(upstream: Autumn-27/ARTEX, AGPL-3.0)",
             "url": "https://github.com/jiwoochris/artex-global",
-            "stars": 1520,
-            "forks": 1813,
+            "stars": 1532,
+            "forks": 1822,
             "score": 99
         },
         {
@@ -73,8 +73,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "rociiu/talorys",
             "description": "Your personal AI agent in your own Cloudflare account. Chat, memory, tasks, notes and scheduled reminders, deployed with one command: npx create-talorys@latest. Free-tier friendly, single-user, no telemetry.",
             "url": "https://github.com/rociiu/talorys",
-            "stars": 1029,
-            "forks": 91,
+            "stars": 1067,
+            "forks": 93,
             "score": 99
         },
         {
@@ -84,8 +84,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "zhuyansen/new-term-radar",
             "description": "Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, GitHub and sitemaps before keyword tools list them.",
             "url": "https://github.com/zhuyansen/new-term-radar",
-            "stars": 1000,
-            "forks": 394,
+            "stars": 1013,
+            "forks": 399,
             "score": 99
         },
         {
@@ -93,10 +93,10 @@ const ALPHA_DATA_V2 = {
             "sub_cat": null,
             "name": "mailcheap",
             "full_name": "marclou/mailcheap",
-            "description": "The affordable newsletter for the agentic era. Open source: self-host it, or use mailcheap.ai.",
+            "description": "Newsletters where you pay for the emails you send, not for dormant subscribers, at a fraction of the price of beehiiv and the like. Open source: self-host it, or use mailcheap.ai.",
             "url": "https://github.com/marclou/mailcheap",
-            "stars": 939,
-            "forks": 236,
+            "stars": 956,
+            "forks": 240,
             "score": 99
         },
         {
@@ -106,8 +106,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "deeplethe/solid-glass",
             "description": "A design system for AI applications. Material, physical, tactile, technical.",
             "url": "https://github.com/deeplethe/solid-glass",
-            "stars": 904,
-            "forks": 12,
+            "stars": 951,
+            "forks": 15,
             "score": 99
         },
         {
@@ -117,8 +117,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "sirioberati/Genjustsu-Open-Source-Workflow",
             "description": "Open-source AI video replacement workflow by TEIN. Combine depth maps, SAM segmentation, face meshes, and audio processing to replace characters and objects with Seedance. Includes a local web UI to prepare inputs, review masks, preview generations, and export with original audio.",
             "url": "https://github.com/sirioberati/Genjustsu-Open-Source-Workflow",
-            "stars": 876,
-            "forks": 232,
+            "stars": 892,
+            "forks": 235,
             "score": 99
         },
         {
@@ -128,20 +128,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "nateherkai/roast-room",
             "description": "Seven AI advisors (Bezos, Paul Graham, Hormozi, Gary Vee, Dan Martell, Gino Wickman, Buffett) debate your business decision in Claude Code, live around a table.",
             "url": "https://github.com/nateherkai/roast-room",
-            "stars": 568,
-            "forks": 128,
+            "stars": 583,
+            "forks": 134,
             "score": 99
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "big-arrow-on-the-screen",
-            "full_name": "franzenzenhofer/big-arrow-on-the-screen",
-            "description": "Let your AI agents paint big arrows, boxes and text on your Mac screen. One CLI, click-through, gone by itself. Skill for Claude Code and Codex. MIT.",
-            "url": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
-            "stars": 748,
-            "forks": 20,
-            "score": 71
         },
         {
             "main_cat": "AI",
@@ -150,8 +139,19 @@ const ALPHA_DATA_V2 = {
             "full_name": "AnkioTomas/qqpet",
             "description": "QQ\u5ba0\u7269\u5355\u673a\u590d\u523b\u7248(AI)",
             "url": "https://github.com/AnkioTomas/qqpet",
-            "stars": 558,
-            "forks": 90,
+            "stars": 582,
+            "forks": 95,
+            "score": 73
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "big-arrow-on-the-screen",
+            "full_name": "franzenzenhofer/big-arrow-on-the-screen",
+            "description": "Let your AI agents paint big arrows, boxes and text on your Mac screen. One CLI, click-through, gone by itself. Skill for Claude Code and Codex. MIT.",
+            "url": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
+            "stars": 751,
+            "forks": 20,
             "score": 71
         },
         {
@@ -161,8 +161,19 @@ const ALPHA_DATA_V2 = {
             "full_name": "DozenTwelve/Papermorph",
             "description": "An AI skill that turns books into animated, narrated, interactive web experiences",
             "url": "https://github.com/DozenTwelve/Papermorph",
-            "stars": 728,
-            "forks": 96,
+            "stars": 731,
+            "forks": 97,
+            "score": 67
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "motionmaxxing",
+            "full_name": "Tejashmakwana/motionmaxxing",
+            "description": "Looksmaxxing for motion graphics. An agent skill that turns AI slop videos into films that look made by a motion designer.",
+            "url": "https://github.com/Tejashmakwana/motionmaxxing",
+            "stars": 604,
+            "forks": 54,
             "score": 67
         },
         {
@@ -172,31 +183,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "Folkbench/folkbench",
             "description": "AI API \u4e2d\u8f6c\u7ad9\u8bc4\u6d4b\u6392\u884c\u4e0e\u5207\u6362\u5de5\u5177\uff1a\u5b9e\u6d4b\u53ef\u7528\u7387\u3001\u5ef6\u8fdf\u4e0e\u4ef7\u683c \u00b7 Open-source AI API relay benchmark, rankings & switcher for Claude Code / Codex",
             "url": "https://github.com/Folkbench/folkbench",
-            "stars": 1089,
+            "stars": 1109,
             "forks": 8,
             "score": 65
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "motionmaxxing",
-            "full_name": "Tejashmakwana/motionmaxxing",
-            "description": "Looksmaxxing for motion graphics. An agent skill that turns AI slop videos into films that look made by a motion designer.",
-            "url": "https://github.com/Tejashmakwana/motionmaxxing",
-            "stars": 544,
-            "forks": 48,
-            "score": 63
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "ff-tracking",
-            "full_name": "mrsarac/ff-tracking",
-            "description": "A virtual camera films an AI agent's screen while a tracker locks onto every glyph. Two fframes passes, one SkSL shader, all sound synthesized.",
-            "url": "https://github.com/mrsarac/ff-tracking",
-            "stars": 407,
-            "forks": 25,
-            "score": 61
         },
         {
             "main_cat": "AI",
@@ -205,9 +194,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "genex-games/genex-desktop",
             "description": "Desktop app for game dev with AI. macOS and Linux, Windows soon.",
             "url": "https://github.com/genex-games/genex-desktop",
-            "stars": 617,
-            "forks": 77,
-            "score": 60
+            "stars": 620,
+            "forks": 78,
+            "score": 61
         },
         {
             "main_cat": "AI",
@@ -216,19 +205,30 @@ const ALPHA_DATA_V2 = {
             "full_name": "openqodex/openqodex",
             "description": "Open source code review that runs in your coding agent before you push. Scanners plus a separate AI reviewer, on your own login, no key.",
             "url": "https://github.com/openqodex/openqodex",
-            "stars": 708,
+            "stars": 711,
             "forks": 56,
             "score": 59
         },
         {
             "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "bops",
-            "full_name": "OrgoAI/bops",
-            "description": "Bops: a team of AI bots that run your business ops, each with its own computer, email and phone number. bops.bot",
-            "url": "https://github.com/OrgoAI/bops",
-            "stars": 313,
-            "forks": 80,
+            "sub_cat": null,
+            "name": "ff-tracking",
+            "full_name": "mrsarac/ff-tracking",
+            "description": "A virtual camera films an AI agent's screen while a tracker locks onto every glyph. Two fframes passes, one SkSL shader, all sound synthesized.",
+            "url": "https://github.com/mrsarac/ff-tracking",
+            "stars": 413,
+            "forks": 25,
+            "score": 58
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "baoyan-agent-benchmark",
+            "full_name": "yeyuxin777/baoyan-agent-benchmark",
+            "description": "Sprix AI at \u5c7f\u667a\u540c\u884c \u00d7 \u4fdd\u7814\u5c9b \u2014 an open-source benchmark for AI agents in Baoyan advising and application planning.",
+            "url": "https://github.com/yeyuxin777/baoyan-agent-benchmark",
+            "stars": 336,
+            "forks": 0,
             "score": 58
         },
         {
@@ -238,19 +238,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "gholtzap/lintapple",
             "description": "It should be impossible for AI to make a bad UI.",
             "url": "https://github.com/gholtzap/lintapple",
-            "stars": 492,
+            "stars": 493,
             "forks": 8,
-            "score": 56
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "whirl",
-            "full_name": "whirlchat/whirl",
-            "description": "The AI chat app that sweats the details. Every top model, real memory, living documents, and your own tools.",
-            "url": "https://github.com/whirlchat/whirl",
-            "stars": 507,
-            "forks": 48,
             "score": 53
         },
         {
@@ -266,25 +255,25 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "whirl",
+            "full_name": "whirlchat/whirl",
+            "description": "The AI chat app that sweats the details. Every top model, real memory, living documents, and your own tools.",
+            "url": "https://github.com/whirlchat/whirl",
+            "stars": 508,
+            "forks": 48,
+            "score": 51
+        },
+        {
+            "main_cat": "AI",
             "sub_cat": null,
             "name": "openfilm",
             "full_name": "openfilm/openfilm",
             "description": "The open source AI video agent: turns any coding agent into a video agent, with an editor to change anything it makes.",
             "url": "https://github.com/openfilm/openfilm",
-            "stars": 387,
-            "forks": 47,
-            "score": 50
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "omalauncher",
-            "full_name": "SimonSchubert/omalauncher",
-            "description": "Agentic Android launcher: build your own apps and widgets with AI agents, Omarchy themes, Arch Linux without root",
-            "url": "https://github.com/SimonSchubert/omalauncher",
-            "stars": 312,
-            "forks": 76,
-            "score": 50
+            "stars": 399,
+            "forks": 48,
+            "score": 51
         },
         {
             "main_cat": "AI",
@@ -318,6 +307,17 @@ const ALPHA_DATA_V2 = {
             "stars": 130,
             "forks": 3,
             "score": 41
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "ai_goodpractice",
+            "full_name": "xop01/ai_goodpractice",
+            "description": "full guide to help you integrate AI in your workflow, for both beginners and experienced users",
+            "url": "https://github.com/xop01/ai_goodpractice",
+            "stars": 317,
+            "forks": 0,
+            "score": 39
         },
         {
             "main_cat": "DePIN",
@@ -640,5 +640,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-10-15 10:41"
+    "timestamp": "2026-10-15 15:26"
 };
