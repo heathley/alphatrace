@@ -7,19 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "mhtsec/ARTEX",
             "description": "AI \u81ea\u4e3b\u6e17\u900f\u6d4b\u8bd5\u7cfb\u7edf | \u767e\u5ea6\u201cagent+\u201d\u653b\u9632\u6311\u6218\u8d5b\u51a0\u519b\u9879\u76ee",
             "url": "https://github.com/mhtsec/ARTEX",
-            "stars": 4070,
-            "forks": 6363,
-            "score": 99
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "aurelio-finance",
-            "full_name": "LosaLosSantos/aurelio-finance",
-            "description": "Open-source personal finance app with an AI financial advisor: track your net worth, investments, ETFs, cash and debts on your own computer.",
-            "url": "https://github.com/LosaLosSantos/aurelio-finance",
-            "stars": 3368,
-            "forks": 448,
+            "stars": 4077,
+            "forks": 6365,
             "score": 99
         },
         {
@@ -29,8 +18,19 @@ const ALPHA_DATA_V2 = {
             "full_name": "QingYunA/answer-me-with-html",
             "description": "Answer me with HTML \u2014 an agent skill that answers hard questions with a one-page HTML you can actually read. \u8ba9 AI Agent \u7528\u4e00\u9875 HTML \u56de\u7b54\u590d\u6742\u95ee\u9898\u3002",
             "url": "https://github.com/QingYunA/answer-me-with-html",
-            "stars": 3363,
-            "forks": 229,
+            "stars": 3373,
+            "forks": 230,
+            "score": 99
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "aurelio-finance",
+            "full_name": "LosaLosSantos/aurelio-finance",
+            "description": "Open-source personal finance app with an AI financial advisor: track your net worth, investments, ETFs, cash and debts on your own computer.",
+            "url": "https://github.com/LosaLosSantos/aurelio-finance",
+            "stars": 3370,
+            "forks": 448,
             "score": 99
         },
         {
@@ -40,8 +40,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "onehumanbeing/esp32-iphone-agent",
             "description": "Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.",
             "url": "https://github.com/onehumanbeing/esp32-iphone-agent",
-            "stars": 2060,
-            "forks": 275,
+            "stars": 2074,
+            "forks": 276,
             "score": 99
         },
         {
@@ -51,8 +51,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "jiwoochris/artex-global",
             "description": "ARTEX \ud55c\uad6d\uc5b4\ud310 \u00b7 AI \uc790\uc728 \uce68\ud22c \ud14c\uc2a4\ud2b8 \ud504\ub808\uc784\uc6cc\ud06c(upstream: Autumn-27/ARTEX, AGPL-3.0)",
             "url": "https://github.com/jiwoochris/artex-global",
-            "stars": 1485,
-            "forks": 1770,
+            "stars": 1489,
+            "forks": 1776,
             "score": 99
         },
         {
@@ -62,7 +62,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "trhhubsd/ARTEXX",
             "description": "AI \u81ea\u4e3b\u6e17\u900f\u6d4b\u8bd5\u7cfb\u7edf | \u767e\u5ea6\u201cagent+\u201d\u653b\u9632\u6311\u6218\u8d5b\u51a0\u519b\u9879\u76ee Autumn-27/ARTEX",
             "url": "https://github.com/trhhubsd/ARTEXX",
-            "stars": 1205,
+            "stars": 1198,
             "forks": 11,
             "score": 99
         },
@@ -73,7 +73,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "rociiu/talorys",
             "description": "Your personal AI agent in your own Cloudflare account. Chat, memory, tasks, notes and scheduled reminders, deployed with one command: npx create-talorys@latest. Free-tier friendly, single-user, no telemetry.",
             "url": "https://github.com/rociiu/talorys",
-            "stars": 995,
+            "stars": 999,
             "forks": 90,
             "score": 99
         },
@@ -84,8 +84,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "zhuyansen/new-term-radar",
             "description": "Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, GitHub and sitemaps before keyword tools list them.",
             "url": "https://github.com/zhuyansen/new-term-radar",
-            "stars": 947,
-            "forks": 381,
+            "stars": 954,
+            "forks": 383,
             "score": 99
         },
         {
@@ -95,8 +95,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "marclou/mailcheap",
             "description": "The affordable newsletter for the agentic era. Open source: self-host it, or use mailcheap.ai.",
             "url": "https://github.com/marclou/mailcheap",
-            "stars": 928,
-            "forks": 234,
+            "stars": 930,
+            "forks": 233,
             "score": 99
         },
         {
@@ -106,8 +106,19 @@ const ALPHA_DATA_V2 = {
             "full_name": "sirioberati/Genjustsu-Open-Source-Workflow",
             "description": "Open-source AI video replacement workflow by TEIN. Combine depth maps, SAM segmentation, face meshes, and audio processing to replace characters and objects with Seedance. Includes a local web UI to prepare inputs, review masks, preview generations, and export with original audio.",
             "url": "https://github.com/sirioberati/Genjustsu-Open-Source-Workflow",
-            "stars": 850,
-            "forks": 219,
+            "stars": 856,
+            "forks": 225,
+            "score": 99
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "roast-room",
+            "full_name": "nateherkai/roast-room",
+            "description": "Seven AI advisors (Bezos, Paul Graham, Hormozi, Gary Vee, Dan Martell, Gino Wickman, Buffett) debate your business decision in Claude Code, live around a table.",
+            "url": "https://github.com/nateherkai/roast-room",
+            "stars": 523,
+            "forks": 115,
             "score": 99
         },
         {
@@ -124,24 +135,13 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "roast-room",
-            "full_name": "nateherkai/roast-room",
-            "description": "Seven AI advisors (Bezos, Paul Graham, Hormozi, Gary Vee, Dan Martell, Gino Wickman, Buffett) debate your business decision in Claude Code, live around a table.",
-            "url": "https://github.com/nateherkai/roast-room",
-            "stars": 503,
-            "forks": 113,
-            "score": 98
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
             "name": "solid-glass",
             "full_name": "deeplethe/solid-glass",
             "description": "A design system for AI applications. Material, physical, tactile, technical.",
             "url": "https://github.com/deeplethe/solid-glass",
-            "stars": 589,
+            "stars": 594,
             "forks": 5,
-            "score": 90
+            "score": 91
         },
         {
             "main_cat": "AI",
@@ -150,7 +150,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "franzenzenhofer/big-arrow-on-the-screen",
             "description": "Let your AI agents paint big arrows, boxes and text on your Mac screen. One CLI, click-through, gone by itself. Skill for Claude Code and Codex. MIT.",
             "url": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
-            "stars": 743,
+            "stars": 744,
             "forks": 20,
             "score": 75
         },
@@ -161,7 +161,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "AnkioTomas/qqpet",
             "description": "QQ\u5ba0\u7269\u5355\u673a\u590d\u523b\u7248(AI)",
             "url": "https://github.com/AnkioTomas/qqpet",
-            "stars": 500,
+            "stars": 503,
             "forks": 82,
             "score": 71
         },
@@ -172,8 +172,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "DozenTwelve/Papermorph",
             "description": "An AI skill that turns books into animated, narrated, interactive web experiences",
             "url": "https://github.com/DozenTwelve/Papermorph",
-            "stars": 721,
-            "forks": 95,
+            "stars": 723,
+            "forks": 96,
             "score": 69
         },
         {
@@ -183,8 +183,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "Folkbench/folkbench",
             "description": "AI API \u4e2d\u8f6c\u7ad9\u8bc4\u6d4b\u6392\u884c\u4e0e\u5207\u6362\u5de5\u5177\uff1a\u5b9e\u6d4b\u53ef\u7528\u7387\u3001\u5ef6\u8fdf\u4e0e\u4ef7\u683c \u00b7 Open-source AI API relay benchmark, rankings & switcher for Claude Code / Codex",
             "url": "https://github.com/Folkbench/folkbench",
-            "stars": 1060,
-            "forks": 7,
+            "stars": 1063,
+            "forks": 8,
             "score": 66
         },
         {
@@ -194,7 +194,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "mrsarac/ff-tracking",
             "description": "A virtual camera films an AI agent's screen while a tracker locks onto every glyph. Two fframes passes, one SkSL shader, all sound synthesized.",
             "url": "https://github.com/mrsarac/ff-tracking",
-            "stars": 401,
+            "stars": 400,
             "forks": 25,
             "score": 61
         },
@@ -205,8 +205,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "openqodex/openqodex",
             "description": "Open source code review that runs in your coding agent before you push. Scanners plus a separate AI reviewer, on your own login, no key.",
             "url": "https://github.com/openqodex/openqodex",
-            "stars": 696,
-            "forks": 54,
+            "stars": 699,
+            "forks": 55,
             "score": 60
         },
         {
@@ -216,7 +216,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "genex-games/genex-desktop",
             "description": "Desktop app for game dev with AI. macOS and Linux, Windows soon.",
             "url": "https://github.com/genex-games/genex-desktop",
-            "stars": 611,
+            "stars": 614,
             "forks": 76,
             "score": 60
         },
@@ -227,9 +227,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "Tejashmakwana/motionmaxxing",
             "description": "Looksmaxxing for motion graphics. An agent skill that turns AI slop videos into films that look made by a motion designer.",
             "url": "https://github.com/Tejashmakwana/motionmaxxing",
-            "stars": 476,
-            "forks": 45,
-            "score": 59
+            "stars": 484,
+            "forks": 46,
+            "score": 60
         },
         {
             "main_cat": "AI",
@@ -238,7 +238,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "OrgoAI/bops",
             "description": "Bops: a team of AI bots that run your business ops, each with its own computer, email and phone number. bops.bot",
             "url": "https://github.com/OrgoAI/bops",
-            "stars": 309,
+            "stars": 310,
             "forks": 80,
             "score": 58
         },
@@ -282,7 +282,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "openfilm/openfilm",
             "description": "The open source AI video agent: turns any coding agent into a video agent, with an editor to change anything it makes.",
             "url": "https://github.com/openfilm/openfilm",
-            "stars": 354,
+            "stars": 357,
             "forks": 42,
             "score": 50
         },
@@ -304,9 +304,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "strands-agents/box",
             "description": "Run AI agents in a sandbox that restricts what they can execute, read, write, and reach on the network. Box combines OS isolation with default-deny Dogwood policies and credential injection that keeps secrets outside the agent. Written in Rust. Supports macOS on Apple silicon, with Linux support planned.",
             "url": "https://github.com/strands-agents/box",
-            "stars": 401,
-            "forks": 19,
-            "score": 45
+            "stars": 403,
+            "forks": 20,
+            "score": 46
         },
         {
             "main_cat": "AI",
@@ -318,6 +318,17 @@ const ALPHA_DATA_V2 = {
             "stars": 124,
             "forks": 3,
             "score": 43
+        },
+        {
+            "main_cat": "DePIN",
+            "sub_cat": null,
+            "name": "headroom",
+            "full_name": "sandrich/headroom",
+            "description": "macOS menu bar stats with live graphs: CPU, GPU, memory, battery, plus Claude Code and Grok plan limits and token usage.",
+            "url": "https://github.com/sandrich/headroom",
+            "stars": 22,
+            "forks": 4,
+            "score": 33
         },
         {
             "main_cat": "AI",
@@ -333,17 +344,6 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
-            "name": "comfyui-spicyapi",
-            "full_name": "spicyapi-ai/comfyui-spicyapi",
-            "description": "ComfyUI custom nodes for 180+ hosted AI models: Seedance, Kling, Wan, MiniMax H3, Vidu, LTX, Suno, GPT Image, Nano Banana, Seedream, FLUX LoRA, text to speech and more. No GPU needed, pay per request.",
-            "url": "https://github.com/spicyapi-ai/comfyui-spicyapi",
-            "stars": 45,
-            "forks": 2,
-            "score": 32
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
             "name": "AUGUstus",
             "full_name": "haha-yuki-haha/AUGUstus",
             "description": "\ud83d\ude97 AUGUstus: Autonomous Driving VLA Model with Unified Generation and Understanding. \ud83c\udfcb\ufe0f 512 H800 GPUs \u00b7 ~2 days \u00b7 318K+ video hours \u00b7 513B+ training tokens. \u26a1 12 Hz on-vehicle deployment. SFT + GRPO + NAVSIM.",
@@ -351,6 +351,28 @@ const ALPHA_DATA_V2 = {
             "stars": 25,
             "forks": 0,
             "score": 32
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "comfyui-spicyapi",
+            "full_name": "spicyapi-ai/comfyui-spicyapi",
+            "description": "ComfyUI custom nodes for 180+ hosted AI models: Seedance, Kling, Wan, MiniMax H3, Vidu, LTX, Suno, GPT Image, Nano Banana, Seedream, FLUX LoRA, text to speech and more. No GPU needed, pay per request.",
+            "url": "https://github.com/spicyapi-ai/comfyui-spicyapi",
+            "stars": 26,
+            "forks": 1,
+            "score": 31
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "local-knowledge-layer",
+            "full_name": "Podcast72/local-knowledge-layer",
+            "description": "Local Knowledge Layer for AI. Turn your computer into memory for AI. Full local knowledge layer using EmbeddingGemma 2",
+            "url": "https://github.com/Podcast72/local-knowledge-layer",
+            "stars": 4,
+            "forks": 1,
+            "score": 30
         },
         {
             "main_cat": "AI",
@@ -474,6 +496,17 @@ const ALPHA_DATA_V2 = {
             "score": 30
         },
         {
+            "main_cat": "Stablecoin Infrastructure",
+            "sub_cat": null,
+            "name": "tokelia",
+            "full_name": "ajchacon/tokelia",
+            "description": "Tokelia: white-label fintech infrastructure for LatAm. Banking, payments, stablecoins and RWA tokenization (ERC-3643). Showcase (private source).",
+            "url": "https://github.com/ajchacon/tokelia",
+            "stars": 0,
+            "forks": 0,
+            "score": 30
+        },
+        {
             "main_cat": "AI",
             "sub_cat": "AI General",
             "name": "waybill",
@@ -513,6 +546,17 @@ const ALPHA_DATA_V2 = {
             "full_name": "Chathura124/arc-usdc-payment",
             "description": "A Web3 payment demo integrating Circle USDC, React, TypeScript, and Foundry smart contracts for seamless stablecoin transactions.",
             "url": "https://github.com/Chathura124/arc-usdc-payment",
+            "stars": 0,
+            "forks": 0,
+            "score": 30
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "onchain-payment-gate-contracts",
+            "full_name": "m15flores/onchain-payment-gate-contracts",
+            "description": "Backend-controlled vault system for on-chain payment settlement (Solidity/Foundry). On-chain half of a portfolio project targeting on-chain payments/stablecoin infrastructure backend roles.",
+            "url": "https://github.com/m15flores/onchain-payment-gate-contracts",
             "stars": 0,
             "forks": 0,
             "score": 30
@@ -607,5 +651,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-10-14 21:11"
+    "timestamp": "2026-10-15 00:13"
 };
