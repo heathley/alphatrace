@@ -5,10 +5,10 @@ const ALPHA_DATA_V2 = {
             "sub_cat": null,
             "name": "ARTEX",
             "full_name": "mhtsec/ARTEX",
-            "description": "AI \u81ea\u4e3b\u6e17\u900f\u6d4b\u8bd5\u7cfb\u7edf | \u767e\u5ea6\u201cagent+\u201d\u653b\u9632\u6311\u6218\u8d5b\u51a0\u519b\u9879\u76ee",
+            "description": "AI \u81ea\u4e3b\u6e17\u900f\u6d4b\u8bd5\u7cfb\u7edf",
             "url": "https://github.com/mhtsec/ARTEX",
-            "stars": 4257,
-            "forks": 6501,
+            "stars": 4303,
+            "forks": 6536,
             "score": 99
         },
         {
@@ -18,7 +18,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "LosaLosSantos/aurelio-finance",
             "description": "Open-source personal finance app with an AI financial advisor: track your net worth, investments, ETFs, cash and debts on your own computer.",
             "url": "https://github.com/LosaLosSantos/aurelio-finance",
-            "stars": 3492,
+            "stars": 3661,
             "forks": 495,
             "score": 99
         },
@@ -29,8 +29,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "onehumanbeing/esp32-iphone-agent",
             "description": "Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.",
             "url": "https://github.com/onehumanbeing/esp32-iphone-agent",
-            "stars": 2444,
-            "forks": 328,
+            "stars": 2599,
+            "forks": 342,
             "score": 99
         },
         {
@@ -40,8 +40,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "jiwoochris/artex-global",
             "description": "ARTEX \ud55c\uad6d\uc5b4\ud310 \u00b7 AI \uc790\uc728 \uce68\ud22c \ud14c\uc2a4\ud2b8 \ud504\ub808\uc784\uc6cc\ud06c(upstream: Autumn-27/ARTEX, AGPL-3.0)",
             "url": "https://github.com/jiwoochris/artex-global",
-            "stars": 1548,
-            "forks": 1836,
+            "stars": 1557,
+            "forks": 1849,
             "score": 99
         },
         {
@@ -51,30 +51,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "rociiu/talorys",
             "description": "Your personal AI agent in your own Cloudflare account. Chat, memory, tasks, notes and scheduled reminders, deployed with one command: npx create-talorys@latest. Free-tier friendly, single-user, no telemetry.",
             "url": "https://github.com/rociiu/talorys",
-            "stars": 1151,
-            "forks": 103,
-            "score": 99
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "mailcheap",
-            "full_name": "marclou/mailcheap",
-            "description": "Newsletters where you pay for the emails you send, not for dormant subscribers, at a fraction of the price of beehiiv and the like. Open source: self-host it, or use mailcheap.ai.",
-            "url": "https://github.com/marclou/mailcheap",
-            "stars": 1053,
-            "forks": 272,
-            "score": 99
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "new-term-radar",
-            "full_name": "zhuyansen/new-term-radar",
-            "description": "Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, GitHub and sitemaps before keyword tools list them.",
-            "url": "https://github.com/zhuyansen/new-term-radar",
-            "stars": 1025,
-            "forks": 401,
+            "stars": 1187,
+            "forks": 104,
             "score": 99
         },
         {
@@ -84,8 +62,30 @@ const ALPHA_DATA_V2 = {
             "full_name": "deeplethe/solid-glass",
             "description": "A design system for AI applications. Material, physical, tactile, technical.",
             "url": "https://github.com/deeplethe/solid-glass",
-            "stars": 989,
+            "stars": 1104,
             "forks": 16,
+            "score": 99
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "mailcheap",
+            "full_name": "marclou/mailcheap",
+            "description": "Newsletters where you pay for the emails you send, not for dormant subscribers, at a fraction of the price of beehiiv and the like. Open source: self-host it, or use mailcheap.ai.",
+            "url": "https://github.com/marclou/mailcheap",
+            "stars": 1068,
+            "forks": 279,
+            "score": 99
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "new-term-radar",
+            "full_name": "zhuyansen/new-term-radar",
+            "description": "Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, GitHub and sitemaps before keyword tools list them.",
+            "url": "https://github.com/zhuyansen/new-term-radar",
+            "stars": 1033,
+            "forks": 405,
             "score": 99
         },
         {
@@ -95,8 +95,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "sirioberati/Genjustsu-Open-Source-Workflow",
             "description": "Open-source AI video replacement workflow by TEIN. Combine depth maps, SAM segmentation, face meshes, and audio processing to replace characters and objects with Seedance. Includes a local web UI to prepare inputs, review masks, preview generations, and export with original audio.",
             "url": "https://github.com/sirioberati/Genjustsu-Open-Source-Workflow",
-            "stars": 914,
-            "forks": 239,
+            "stars": 928,
+            "forks": 240,
             "score": 99
         },
         {
@@ -106,8 +106,19 @@ const ALPHA_DATA_V2 = {
             "full_name": "nateherkai/roast-room",
             "description": "Seven AI advisors (Bezos, Paul Graham, Hormozi, Gary Vee, Dan Martell, Gino Wickman, Buffett) debate your business decision in Claude Code, live around a table.",
             "url": "https://github.com/nateherkai/roast-room",
-            "stars": 622,
-            "forks": 138,
+            "stars": 633,
+            "forks": 140,
+            "score": 99
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "decomp.wtf",
+            "full_name": "i12bp8/decomp.wtf",
+            "description": "What The Function: your AI agent decompiles games you own into C that compiles to the exact same bytes. Runs locally.",
+            "url": "https://github.com/i12bp8/decomp.wtf",
+            "stars": 391,
+            "forks": 80,
             "score": 99
         },
         {
@@ -135,34 +146,12 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "decomp.wtf",
-            "full_name": "i12bp8/decomp.wtf",
-            "description": "What The Function: your AI agent decompiles games you own into C that compiles to the exact same bytes. Runs locally.",
-            "url": "https://github.com/i12bp8/decomp.wtf",
-            "stars": 355,
-            "forks": 44,
-            "score": 83
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "qqpet",
-            "full_name": "AnkioTomas/qqpet",
-            "description": "QQ\u5ba0\u7269\u5355\u673a\u590d\u523b\u7248(AI)",
-            "url": "https://github.com/AnkioTomas/qqpet",
-            "stars": 592,
-            "forks": 97,
-            "score": 74
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
             "name": "big-arrow-on-the-screen",
             "full_name": "franzenzenhofer/big-arrow-on-the-screen",
             "description": "Let your AI agents paint big arrows, boxes and text on your Mac screen. One CLI, click-through, gone by itself. Skill for Claude Code and Codex. MIT.",
             "url": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
-            "stars": 752,
-            "forks": 20,
+            "stars": 753,
+            "forks": 21,
             "score": 71
         },
         {
@@ -172,9 +161,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "Tejashmakwana/motionmaxxing",
             "description": "Looksmaxxing for motion graphics. An agent skill that turns AI slop videos into films that look made by a motion designer.",
             "url": "https://github.com/Tejashmakwana/motionmaxxing",
-            "stars": 692,
-            "forks": 66,
-            "score": 69
+            "stars": 716,
+            "forks": 67,
+            "score": 71
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "qqpet",
+            "full_name": "AnkioTomas/qqpet",
+            "description": "QQ\u5ba0\u7269\u5355\u673a\u590d\u523b\u7248(AI)",
+            "url": "https://github.com/AnkioTomas/qqpet",
+            "stars": 610,
+            "forks": 99,
+            "score": 71
         },
         {
             "main_cat": "AI",
@@ -183,9 +183,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "DozenTwelve/Papermorph",
             "description": "An AI skill that turns books into animated, narrated, interactive web experiences",
             "url": "https://github.com/DozenTwelve/Papermorph",
-            "stars": 737,
+            "stars": 739,
             "forks": 100,
-            "score": 67
+            "score": 65
         },
         {
             "main_cat": "AI",
@@ -194,7 +194,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "mrsarac/ff-tracking",
             "description": "A virtual camera films an AI agent's screen while a tracker locks onto every glyph. Two fframes passes, one SkSL shader, all sound synthesized.",
             "url": "https://github.com/mrsarac/ff-tracking",
-            "stars": 433,
+            "stars": 436,
             "forks": 25,
             "score": 59
         },
@@ -205,7 +205,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "spideymooon/McOracle",
             "description": "\u4e0d\u8981\u95ee AI\uff0c\u95ee\u85af\u6761\u3002\u4e00\u4e2a\u7ed3\u5408\u9ea6\u5f53\u52b3 MCP \u4e0e AI \u7b54\u6848\u4e4b\u4e66\u7684 Skill\u3002",
             "url": "https://github.com/spideymooon/McOracle",
-            "stars": 308,
+            "stars": 309,
             "forks": 11,
             "score": 59
         },
@@ -216,9 +216,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "yeyuxin777/baoyan-agent-benchmark",
             "description": "Sprix AI at \u5c7f\u667a\u540c\u884c \u00d7 \u4fdd\u7814\u5c9b \u2014 an open-source benchmark for AI agents in Baoyan advising and application planning.",
             "url": "https://github.com/yeyuxin777/baoyan-agent-benchmark",
-            "stars": 336,
+            "stars": 337,
             "forks": 0,
             "score": 58
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "ai-promo-video-maker",
+            "full_name": "liyupi/ai-promo-video-maker",
+            "description": "\u4e00\u53e5\u8bdd\u8ba9 AI \u5e2e\u4f60\u505a\u4ea7\u54c1\u5ba3\u4f20\u7247\uff01\u628a\u4ea7\u54c1\u540d\u6216\u7f51\u5740\u544a\u8bc9 Cursor\u3001Claude Code\u3001Codex \u7b49 AI \u7f16\u7a0b\u5de5\u5177\uff0c\u5b83\u4f1a\u81ea\u5df1\u8c03\u7814\u4ea7\u54c1\u3001\u753b\u51fa\u591a\u79cd\u98ce\u683c\u6837\u56fe\u8ba9\u4f60\u6311\u9009\u3001\u622a\u53d6 4K \u771f\u5b9e\u9875\u9762\u3001\u6309\u97f3\u4e50\u8282\u62cd\u5361\u70b9\u526a\u8f91\u3001\u751f\u6210 AI \u65c1\u767d\u5e76\u9010\u53e5\u8f6c\u5199\u6821\u9a8c\u3001\u81ea\u52a8\u5ba1\u56fe\uff0c\u6700\u540e\u4ea4\u4ed8\u4e00\u652f 4K \u5546\u4e1a\u5ba3\u4f20\u89c6\u9891\u548c\u53ef\u5728\u7ebf\u64ad\u653e\u7684\u7f51\u9875\u7248\u3002App\u3001\u7f51\u7ad9\u3001SaaS\u3001\u5f00\u6e90\u9879\u76ee\u3001\u8bfe\u7a0b\u3001AI \u6a21\u578b\u90fd\u80fd\u505a\uff0c\u4f60\u53ea\u9700\u786e\u8ba4\u9700\u6c42\u3001\u8bd5\u542c\u914d\u4e50\u3002\u4e0d\u7528\u5b66\u526a\u8f91\u8f6f\u4ef6\uff0c\u4e5f\u4e0d\u7528\u82b1\u94b1\u627e\u5916\u5305\u3002\u57fa\u4e8e Remotion + ElevenLabs\uff0c\u53ef\u76f4\u63a5\u514b\u9686\u4f7f\u7528\uff0c\u4e5f\u80fd\u4e00\u952e\u5b89\u88c5\u4e3a Agent Skill\u3002",
+            "url": "https://github.com/liyupi/ai-promo-video-maker",
+            "stars": 294,
+            "forks": 48,
+            "score": 57
         },
         {
             "main_cat": "AI",
@@ -233,14 +244,14 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
-            "sub_cat": null,
-            "name": "ai-promo-video-maker",
-            "full_name": "liyupi/ai-promo-video-maker",
-            "description": "\u4e00\u53e5\u8bdd\u8ba9 AI \u5e2e\u4f60\u505a\u4ea7\u54c1\u5ba3\u4f20\u7247\uff01\u628a\u4ea7\u54c1\u540d\u6216\u7f51\u5740\u544a\u8bc9 Cursor\u3001Claude Code\u3001Codex \u7b49 AI \u7f16\u7a0b\u5de5\u5177\uff0c\u5b83\u4f1a\u81ea\u5df1\u8c03\u7814\u4ea7\u54c1\u3001\u753b\u51fa\u591a\u79cd\u98ce\u683c\u6837\u56fe\u8ba9\u4f60\u6311\u9009\u3001\u622a\u53d6 4K \u771f\u5b9e\u9875\u9762\u3001\u6309\u97f3\u4e50\u8282\u62cd\u5361\u70b9\u526a\u8f91\u3001\u751f\u6210 AI \u65c1\u767d\u5e76\u9010\u53e5\u8f6c\u5199\u6821\u9a8c\u3001\u81ea\u52a8\u5ba1\u56fe\uff0c\u6700\u540e\u4ea4\u4ed8\u4e00\u652f 4K \u5546\u4e1a\u5ba3\u4f20\u89c6\u9891\u548c\u53ef\u5728\u7ebf\u64ad\u653e\u7684\u7f51\u9875\u7248\u3002App\u3001\u7f51\u7ad9\u3001SaaS\u3001\u5f00\u6e90\u9879\u76ee\u3001\u8bfe\u7a0b\u3001AI \u6a21\u578b\u90fd\u80fd\u505a\uff0c\u4f60\u53ea\u9700\u786e\u8ba4\u9700\u6c42\u3001\u8bd5\u542c\u914d\u4e50\u3002\u4e0d\u7528\u5b66\u526a\u8f91\u8f6f\u4ef6\uff0c\u4e5f\u4e0d\u7528\u82b1\u94b1\u627e\u5916\u5305\u3002\u57fa\u4e8e Remotion + ElevenLabs\uff0c\u53ef\u76f4\u63a5\u514b\u9686\u4f7f\u7528\uff0c\u4e5f\u80fd\u4e00\u952e\u5b89\u88c5\u4e3a Agent Skill\u3002",
-            "url": "https://github.com/liyupi/ai-promo-video-maker",
-            "stars": 288,
-            "forks": 46,
-            "score": 56
+            "sub_cat": "AI General",
+            "name": "gloss",
+            "full_name": "Nutlope/gloss",
+            "description": "A reader that writes answers in the margin. Select any line, ask, and an open model on Together AI answers beside it.",
+            "url": "https://github.com/Nutlope/gloss",
+            "stars": 250,
+            "forks": 48,
+            "score": 54
         },
         {
             "main_cat": "AI",
@@ -255,25 +266,14 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "gloss",
-            "full_name": "Nutlope/gloss",
-            "description": "A reader that writes answers in the margin. Select any line, ask, and an open model on Together AI answers beside it.",
-            "url": "https://github.com/Nutlope/gloss",
-            "stars": 241,
-            "forks": 45,
-            "score": 53
-        },
-        {
-            "main_cat": "AI",
             "sub_cat": null,
             "name": "openfilm",
             "full_name": "openfilm/openfilm",
             "description": "The open source AI video agent: turns any coding agent into a video agent, with an editor to change anything it makes.",
             "url": "https://github.com/openfilm/openfilm",
-            "stars": 414,
-            "forks": 48,
-            "score": 51
+            "stars": 422,
+            "forks": 51,
+            "score": 52
         },
         {
             "main_cat": "AI",
@@ -282,7 +282,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "allenv0/SCM",
             "description": "Deep AI search for every photo and every frame of video in any folder on macOS",
             "url": "https://github.com/allenv0/SCM",
-            "stars": 484,
+            "stars": 485,
             "forks": 36,
             "score": 50
         },
@@ -317,7 +317,7 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/rzc156/dreamforge",
             "stars": 130,
             "forks": 3,
-            "score": 41
+            "score": 40
         },
         {
             "main_cat": "DePIN",
@@ -337,7 +337,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "haha-yuki-haha/AUGUstus",
             "description": "\ud83d\ude97 AUGUstus: Autonomous Driving VLA Model with Unified Generation and Understanding. \ud83c\udfcb\ufe0f 512 H800 GPUs \u00b7 ~2 days \u00b7 318K+ video hours \u00b7 513B+ training tokens. \u26a1 12 Hz on-vehicle deployment. SFT + GRPO + NAVSIM.",
             "url": "https://github.com/haha-yuki-haha/AUGUstus",
-            "stars": 27,
+            "stars": 28,
             "forks": 0,
             "score": 32
         },
@@ -350,17 +350,6 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/Geramy/LemonSeed-Studio",
             "stars": 58,
             "forks": 0,
-            "score": 31
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "comfyui-spicyapi",
-            "full_name": "spicyapi-ai/comfyui-spicyapi",
-            "description": "ComfyUI custom nodes for 180+ hosted AI models: Seedance, Kling, Wan, MiniMax H3, Vidu, LTX, Suno, GPT Image, Nano Banana, Seedream, FLUX LoRA, text to speech and more. No GPU needed, pay per request.",
-            "url": "https://github.com/spicyapi-ai/comfyui-spicyapi",
-            "stars": 21,
-            "forks": 1,
             "score": 31
         },
         {
@@ -619,18 +608,18 @@ const ALPHA_DATA_V2 = {
     ],
     "news": [
         {
-            "title": "Prioritizing Microservice Requests via Retries",
+            "title": "My Credentials, Please: Detecting Filesystem Capability Laundering in MCP Servers at Scale",
             "source": "ArXiv",
             "type": "Research Alpha",
             "color": "text-indigo-600",
-            "url": "http://arxiv.org/abs/2610.20567v1"
+            "url": "http://arxiv.org/abs/2610.22301v1"
         },
         {
-            "title": "Quantum-Aware Key Rank for Side-Channel Attacks evaluation",
+            "title": "Private Retrieval Augmented Generation via Random Projection",
             "source": "ArXiv",
             "type": "Research Alpha",
             "color": "text-indigo-600",
-            "url": "http://arxiv.org/abs/2610.20537v1"
+            "url": "http://arxiv.org/abs/2610.22297v1"
         },
         {
             "title": "Bitcoin volatility remains high ahead of key FED decision.",
@@ -640,5 +629,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-10-16 00:56"
+    "timestamp": "2026-10-16 05:21"
 };
