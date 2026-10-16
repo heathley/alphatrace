@@ -7,19 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "mhtsec/ARTEX",
             "description": "AI \u81ea\u4e3b\u6e17\u900f\u6d4b\u8bd5\u7cfb\u7edf | \u767e\u5ea6\u201cagent+\u201d\u653b\u9632\u6311\u6218\u8d5b\u51a0\u519b\u9879\u76ee",
             "url": "https://github.com/mhtsec/ARTEX",
-            "stars": 4254,
-            "forks": 6496,
-            "score": 99
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "answer-me-with-html",
-            "full_name": "QingYunA/answer-me-with-html",
-            "description": "Answer me with HTML \u2014 an agent skill that answers hard questions with a one-page HTML you can actually read. \u8ba9 AI Agent \u7528\u4e00\u9875 HTML \u56de\u7b54\u590d\u6742\u95ee\u9898\u3002",
-            "url": "https://github.com/QingYunA/answer-me-with-html",
-            "stars": 3449,
-            "forks": 241,
+            "stars": 4257,
+            "forks": 6501,
             "score": 99
         },
         {
@@ -29,7 +18,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "LosaLosSantos/aurelio-finance",
             "description": "Open-source personal finance app with an AI financial advisor: track your net worth, investments, ETFs, cash and debts on your own computer.",
             "url": "https://github.com/LosaLosSantos/aurelio-finance",
-            "stars": 3446,
+            "stars": 3492,
             "forks": 495,
             "score": 99
         },
@@ -40,8 +29,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "onehumanbeing/esp32-iphone-agent",
             "description": "Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.",
             "url": "https://github.com/onehumanbeing/esp32-iphone-agent",
-            "stars": 2414,
-            "forks": 322,
+            "stars": 2444,
+            "forks": 328,
             "score": 99
         },
         {
@@ -51,8 +40,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "jiwoochris/artex-global",
             "description": "ARTEX \ud55c\uad6d\uc5b4\ud310 \u00b7 AI \uc790\uc728 \uce68\ud22c \ud14c\uc2a4\ud2b8 \ud504\ub808\uc784\uc6cc\ud06c(upstream: Autumn-27/ARTEX, AGPL-3.0)",
             "url": "https://github.com/jiwoochris/artex-global",
-            "stars": 1544,
-            "forks": 1830,
+            "stars": 1548,
+            "forks": 1836,
             "score": 99
         },
         {
@@ -62,8 +51,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "rociiu/talorys",
             "description": "Your personal AI agent in your own Cloudflare account. Chat, memory, tasks, notes and scheduled reminders, deployed with one command: npx create-talorys@latest. Free-tier friendly, single-user, no telemetry.",
             "url": "https://github.com/rociiu/talorys",
-            "stars": 1129,
-            "forks": 100,
+            "stars": 1151,
+            "forks": 103,
             "score": 99
         },
         {
@@ -73,8 +62,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "marclou/mailcheap",
             "description": "Newsletters where you pay for the emails you send, not for dormant subscribers, at a fraction of the price of beehiiv and the like. Open source: self-host it, or use mailcheap.ai.",
             "url": "https://github.com/marclou/mailcheap",
-            "stars": 1042,
-            "forks": 270,
+            "stars": 1053,
+            "forks": 272,
             "score": 99
         },
         {
@@ -84,7 +73,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "zhuyansen/new-term-radar",
             "description": "Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, GitHub and sitemaps before keyword tools list them.",
             "url": "https://github.com/zhuyansen/new-term-radar",
-            "stars": 1022,
+            "stars": 1025,
             "forks": 401,
             "score": 99
         },
@@ -95,7 +84,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "deeplethe/solid-glass",
             "description": "A design system for AI applications. Material, physical, tactile, technical.",
             "url": "https://github.com/deeplethe/solid-glass",
-            "stars": 962,
+            "stars": 989,
             "forks": 16,
             "score": 99
         },
@@ -106,7 +95,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "sirioberati/Genjustsu-Open-Source-Workflow",
             "description": "Open-source AI video replacement workflow by TEIN. Combine depth maps, SAM segmentation, face meshes, and audio processing to replace characters and objects with Seedance. Includes a local web UI to prepare inputs, review masks, preview generations, and export with original audio.",
             "url": "https://github.com/sirioberati/Genjustsu-Open-Source-Workflow",
-            "stars": 910,
+            "stars": 914,
             "forks": 239,
             "score": 99
         },
@@ -117,8 +106,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "nateherkai/roast-room",
             "description": "Seven AI advisors (Bezos, Paul Graham, Hormozi, Gary Vee, Dan Martell, Gino Wickman, Buffett) debate your business decision in Claude Code, live around a table.",
             "url": "https://github.com/nateherkai/roast-room",
-            "stars": 616,
-            "forks": 137,
+            "stars": 622,
+            "forks": 138,
             "score": 99
         },
         {
@@ -135,13 +124,24 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
+            "name": "palette-from-image-ai",
+            "full_name": "egotoadcitadel/palette-from-image-ai",
+            "description": "AI coloring palette-from-image generator for designers and pixel artists \u2014 pull a clean named palette straight from any image, no subscription or cloud upload.",
+            "url": "https://github.com/egotoadcitadel/palette-from-image-ai",
+            "stars": 300,
+            "forks": 75,
+            "score": 90
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
             "name": "decomp.wtf",
             "full_name": "i12bp8/decomp.wtf",
             "description": "What The Function: your AI agent decompiles games you own into C that compiles to the exact same bytes. Runs locally.",
             "url": "https://github.com/i12bp8/decomp.wtf",
-            "stars": 352,
-            "forks": 37,
-            "score": 80
+            "stars": 355,
+            "forks": 44,
+            "score": 83
         },
         {
             "main_cat": "AI",
@@ -150,7 +150,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "AnkioTomas/qqpet",
             "description": "QQ\u5ba0\u7269\u5355\u673a\u590d\u523b\u7248(AI)",
             "url": "https://github.com/AnkioTomas/qqpet",
-            "stars": 589,
+            "stars": 592,
             "forks": 97,
             "score": 74
         },
@@ -172,7 +172,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Tejashmakwana/motionmaxxing",
             "description": "Looksmaxxing for motion graphics. An agent skill that turns AI slop videos into films that look made by a motion designer.",
             "url": "https://github.com/Tejashmakwana/motionmaxxing",
-            "stars": 678,
+            "stars": 692,
             "forks": 66,
             "score": 69
         },
@@ -183,42 +183,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "DozenTwelve/Papermorph",
             "description": "An AI skill that turns books into animated, narrated, interactive web experiences",
             "url": "https://github.com/DozenTwelve/Papermorph",
-            "stars": 736,
-            "forks": 99,
+            "stars": 737,
+            "forks": 100,
             "score": 67
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "folkbench",
-            "full_name": "Folkbench/folkbench",
-            "description": "AI API \u4e2d\u8f6c\u7ad9\u8bc4\u6d4b\u6392\u884c\u4e0e\u5207\u6362\u5de5\u5177\uff1a\u5b9e\u6d4b\u53ef\u7528\u7387\u3001\u5ef6\u8fdf\u4e0e\u4ef7\u683c \u00b7 Open-source AI API relay benchmark, rankings & switcher for Claude Code / Codex",
-            "url": "https://github.com/Folkbench/folkbench",
-            "stars": 1127,
-            "forks": 8,
-            "score": 66
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "openqodex",
-            "full_name": "openqodex/openqodex",
-            "description": "Open source code review that runs in your coding agent before you push. Scanners plus a separate AI reviewer, on your own login, no key.",
-            "url": "https://github.com/openqodex/openqodex",
-            "stars": 715,
-            "forks": 56,
-            "score": 59
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "genex-desktop",
-            "full_name": "genex-games/genex-desktop",
-            "description": "Desktop app for game dev with AI. macOS and Linux, Windows soon.",
-            "url": "https://github.com/genex-games/genex-desktop",
-            "stars": 621,
-            "forks": 78,
-            "score": 59
         },
         {
             "main_cat": "AI",
@@ -227,8 +194,19 @@ const ALPHA_DATA_V2 = {
             "full_name": "mrsarac/ff-tracking",
             "description": "A virtual camera films an AI agent's screen while a tracker locks onto every glyph. Two fframes passes, one SkSL shader, all sound synthesized.",
             "url": "https://github.com/mrsarac/ff-tracking",
-            "stars": 431,
+            "stars": 433,
             "forks": 25,
+            "score": 59
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "McOracle",
+            "full_name": "spideymooon/McOracle",
+            "description": "\u4e0d\u8981\u95ee AI\uff0c\u95ee\u85af\u6761\u3002\u4e00\u4e2a\u7ed3\u5408\u9ea6\u5f53\u52b3 MCP \u4e0e AI \u7b54\u6848\u4e4b\u4e66\u7684 Skill\u3002",
+            "url": "https://github.com/spideymooon/McOracle",
+            "stars": 308,
+            "forks": 11,
             "score": 59
         },
         {
@@ -244,6 +222,28 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "bops",
+            "full_name": "OrgoAI/bops",
+            "description": "Bops: a team of AI bots that run your business ops, each with its own computer, email and phone number. bops.bot",
+            "url": "https://github.com/OrgoAI/bops",
+            "stars": 317,
+            "forks": 80,
+            "score": 56
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "ai-promo-video-maker",
+            "full_name": "liyupi/ai-promo-video-maker",
+            "description": "\u4e00\u53e5\u8bdd\u8ba9 AI \u5e2e\u4f60\u505a\u4ea7\u54c1\u5ba3\u4f20\u7247\uff01\u628a\u4ea7\u54c1\u540d\u6216\u7f51\u5740\u544a\u8bc9 Cursor\u3001Claude Code\u3001Codex \u7b49 AI \u7f16\u7a0b\u5de5\u5177\uff0c\u5b83\u4f1a\u81ea\u5df1\u8c03\u7814\u4ea7\u54c1\u3001\u753b\u51fa\u591a\u79cd\u98ce\u683c\u6837\u56fe\u8ba9\u4f60\u6311\u9009\u3001\u622a\u53d6 4K \u771f\u5b9e\u9875\u9762\u3001\u6309\u97f3\u4e50\u8282\u62cd\u5361\u70b9\u526a\u8f91\u3001\u751f\u6210 AI \u65c1\u767d\u5e76\u9010\u53e5\u8f6c\u5199\u6821\u9a8c\u3001\u81ea\u52a8\u5ba1\u56fe\uff0c\u6700\u540e\u4ea4\u4ed8\u4e00\u652f 4K \u5546\u4e1a\u5ba3\u4f20\u89c6\u9891\u548c\u53ef\u5728\u7ebf\u64ad\u653e\u7684\u7f51\u9875\u7248\u3002App\u3001\u7f51\u7ad9\u3001SaaS\u3001\u5f00\u6e90\u9879\u76ee\u3001\u8bfe\u7a0b\u3001AI \u6a21\u578b\u90fd\u80fd\u505a\uff0c\u4f60\u53ea\u9700\u786e\u8ba4\u9700\u6c42\u3001\u8bd5\u542c\u914d\u4e50\u3002\u4e0d\u7528\u5b66\u526a\u8f91\u8f6f\u4ef6\uff0c\u4e5f\u4e0d\u7528\u82b1\u94b1\u627e\u5916\u5305\u3002\u57fa\u4e8e Remotion + ElevenLabs\uff0c\u53ef\u76f4\u63a5\u514b\u9686\u4f7f\u7528\uff0c\u4e5f\u80fd\u4e00\u952e\u5b89\u88c5\u4e3a Agent Skill\u3002",
+            "url": "https://github.com/liyupi/ai-promo-video-maker",
+            "stars": 288,
+            "forks": 46,
+            "score": 56
+        },
+        {
+            "main_cat": "AI",
             "sub_cat": null,
             "name": "lintapple",
             "full_name": "gholtzap/lintapple",
@@ -256,13 +256,13 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
-            "name": "whirl",
-            "full_name": "whirlchat/whirl",
-            "description": "The AI chat app that sweats the details. Every top model, real memory, living documents, and your own tools.",
-            "url": "https://github.com/whirlchat/whirl",
-            "stars": 508,
-            "forks": 48,
-            "score": 51
+            "name": "gloss",
+            "full_name": "Nutlope/gloss",
+            "description": "A reader that writes answers in the margin. Select any line, ask, and an open model on Together AI answers beside it.",
+            "url": "https://github.com/Nutlope/gloss",
+            "stars": 241,
+            "forks": 45,
+            "score": 53
         },
         {
             "main_cat": "AI",
@@ -271,7 +271,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "openfilm/openfilm",
             "description": "The open source AI video agent: turns any coding agent into a video agent, with an editor to change anything it makes.",
             "url": "https://github.com/openfilm/openfilm",
-            "stars": 410,
+            "stars": 414,
             "forks": 48,
             "score": 51
         },
@@ -289,24 +289,24 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "qiaomu-clipper",
-            "full_name": "joeseesun/qiaomu-clipper",
-            "description": "\u4e54\u6728\u526a\u85cf\uff1a\u526a\u85cf\u7f51\u9875\u5230 Obsidian\uff0c\u9605\u8bfb\u3001\u7f16\u8f91\uff0c\u5e76\u5411 AI \u63d0\u95ee | Clip the web to Obsidian, then read, edit and chat with AI about it.",
-            "url": "https://github.com/joeseesun/qiaomu-clipper",
-            "stars": 348,
-            "forks": 50,
-            "score": 47
+            "name": "agent-chrome-relay",
+            "full_name": "aindeev/agent-chrome-relay",
+            "description": "Let your AI agents use your Chrome, signed in as you, in background tabs. By Alexey Indeev \u00b7 blog: read.aindeev.com \u00b7 X: @AlexeyIndeev",
+            "url": "https://github.com/aindeev/agent-chrome-relay",
+            "stars": 287,
+            "forks": 9,
+            "score": 50
         },
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "box",
-            "full_name": "strands-agents/box",
-            "description": "Run AI agents in a sandbox that restricts what they can execute, read, write, and reach on the network. Box combines OS isolation with default-deny Dogwood policies and credential injection that keeps secrets outside the agent. Written in Rust. Supports macOS on Apple silicon, with Linux support planned.",
-            "url": "https://github.com/strands-agents/box",
-            "stars": 407,
-            "forks": 20,
-            "score": 45
+            "name": "PiDurableKit",
+            "full_name": "finnvoor/PiDurableKit",
+            "description": "Durable AI agents for Apple platforms: pi-durable on JavaScriptCore with a Swift API",
+            "url": "https://github.com/finnvoor/PiDurableKit",
+            "stars": 257,
+            "forks": 22,
+            "score": 47
         },
         {
             "main_cat": "AI",
@@ -350,6 +350,17 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/Geramy/LemonSeed-Studio",
             "stars": 58,
             "forks": 0,
+            "score": 31
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "comfyui-spicyapi",
+            "full_name": "spicyapi-ai/comfyui-spicyapi",
+            "description": "ComfyUI custom nodes for 180+ hosted AI models: Seedance, Kling, Wan, MiniMax H3, Vidu, LTX, Suno, GPT Image, Nano Banana, Seedream, FLUX LoRA, text to speech and more. No GPU needed, pay per request.",
+            "url": "https://github.com/spicyapi-ai/comfyui-spicyapi",
+            "stars": 21,
+            "forks": 1,
             "score": 31
         },
         {
@@ -410,17 +421,6 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
-            "name": "awesome-crypto-cards",
-            "full_name": "liam1024-tech/awesome-crypto-cards",
-            "description": "Curated, source-backed directory and dataset of 113+ crypto debit/prepaid cards (Visa/Mastercard) and stablecoin payment solutions.",
-            "url": "https://github.com/liam1024-tech/awesome-crypto-cards",
-            "stars": 2,
-            "forks": 0,
-            "score": 30
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
             "name": "gbp-stablecoin-analysis",
             "full_name": "vijetarajput/gbp-stablecoin-analysis",
             "description": "Onchain analysis of UK sterling (GBP) stablecoins using Dune \u2014 supply, adoption and payments, in the context of the Bank of England digital pound debate.",
@@ -436,17 +436,6 @@ const ALPHA_DATA_V2 = {
             "full_name": "cryptosingheth/onchain-money-panels",
             "description": "Drop-in dashboard panels on Canadian-dollar stablecoins, real stablecoin use, AI-agent payments and tokenized assets (Next.js, live DeFiLlama and CoinGecko data).",
             "url": "https://github.com/cryptosingheth/onchain-money-panels",
-            "stars": 0,
-            "forks": 0,
-            "score": 30
-        },
-        {
-            "main_cat": "Stablecoin Infrastructure",
-            "sub_cat": null,
-            "name": "Tabline",
-            "full_name": "DevDee3/Tabline",
-            "description": "Recurring and pay-per-use stablecoin payments for wallets, on Arbitrum",
-            "url": "https://github.com/DevDee3/Tabline",
             "stars": 0,
             "forks": 0,
             "score": 30
@@ -542,6 +531,39 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
+            "name": "paralock",
+            "full_name": "bitfalt/paralock",
+            "description": "Trustless swaps and payments between shielded ZEC and stablecoins on EVM chains. Two locks, one key, no middleman. TypeScript and Rust SDKs, CLI, contracts on six testnets.",
+            "url": "https://github.com/bitfalt/paralock",
+            "stars": 0,
+            "forks": 0,
+            "score": 30
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "HaPaPay",
+            "full_name": "furkan3152/HaPaPay",
+            "description": "Pay a handle, not an address. Non-custodial social payments: send stablecoins and tokenized stocks to GitHub, X, Telegram, Discord and Farcaster handles across Robinhood Chain, Solana and Arc.",
+            "url": "https://github.com/furkan3152/HaPaPay",
+            "stars": 0,
+            "forks": 0,
+            "score": 30
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "ATAPAY",
+            "full_name": "Mrspalm75/ATAPAY",
+            "description": "ATAPAY is a stablecoin payments platform built on Arc, enabling users to send and receive USDC, pay merchants, generate payment links and QR codes, create invoices, and track transactions. Designed to make digital payments faster, simpler, and more transparent through blockchain-powered settlement.",
+            "url": "https://github.com/Mrspalm75/ATAPAY",
+            "stars": 0,
+            "forks": 0,
+            "score": 30
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
             "name": "Qmoosa-ICP-Multichain",
             "full_name": "elon00/Qmoosa-ICP-Multichain",
             "description": "Qmoosa ICP Multichain: Autonomous Cross-Chain Web3 + AI Operating Protocol bridging ICP Chain Fusion, EVM, Solana, and Polkadot with x402 Micropayments & Post-Quantum Cryptography",
@@ -568,17 +590,6 @@ const ALPHA_DATA_V2 = {
             "full_name": "shafaqshueb24-netizen/Enzyme-finance-CFR",
             "description": "Hi - I am a whitehat researcher working on finding the flaws in Enzyme  protocol to safeguard the cross-chain token ",
             "url": "https://github.com/shafaqshueb24-netizen/Enzyme-finance-CFR",
-            "stars": 0,
-            "forks": 0,
-            "score": 30
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": ".github",
-            "full_name": "DefiLlama-TVL-Tracker/.github",
-            "description": "Monitor total value locked across decentralized networks with DefiLlama Desktop. Analyze defillama protocol ranking metrics, track defillama yield pools, and inspect cross-chain liquidity distribution within a dedicated Windows workstation interface.",
-            "url": "https://github.com/DefiLlama-TVL-Tracker/.github",
             "stars": 0,
             "forks": 0,
             "score": 30
@@ -629,5 +640,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-10-15 22:49"
+    "timestamp": "2026-10-16 00:56"
 };
