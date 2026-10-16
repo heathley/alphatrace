@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "mhtsec/ARTEX",
             "description": "AI \u81ea\u4e3b\u6e17\u900f\u6d4b\u8bd5\u7cfb\u7edf",
             "url": "https://github.com/mhtsec/ARTEX",
-            "stars": 4409,
-            "forks": 6611,
+            "stars": 4413,
+            "forks": 6612,
             "score": 99
         },
         {
@@ -18,7 +18,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "LosaLosSantos/aurelio-finance",
             "description": "Open-source personal finance app with an AI financial advisor: track your net worth, investments, ETFs, cash and debts on your own computer.",
             "url": "https://github.com/LosaLosSantos/aurelio-finance",
-            "stars": 3942,
+            "stars": 3943,
             "forks": 498,
             "score": 99
         },
@@ -29,7 +29,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "onehumanbeing/esp32-iphone-agent",
             "description": "Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.",
             "url": "https://github.com/onehumanbeing/esp32-iphone-agent",
-            "stars": 2835,
+            "stars": 2846,
             "forks": 366,
             "score": 99
         },
@@ -40,8 +40,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "jiwoochris/artex-global",
             "description": "ARTEX \ud55c\uad6d\uc5b4\ud310 \u00b7 AI \uc790\uc728 \uce68\ud22c \ud14c\uc2a4\ud2b8 \ud504\ub808\uc784\uc6cc\ud06c(upstream: Autumn-27/ARTEX, AGPL-3.0)",
             "url": "https://github.com/jiwoochris/artex-global",
-            "stars": 1576,
-            "forks": 1861,
+            "stars": 1578,
+            "forks": 1865,
             "score": 99
         },
         {
@@ -51,7 +51,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "deeplethe/solid-glass",
             "description": "A design system for AI applications. Material, physical, tactile, technical.",
             "url": "https://github.com/deeplethe/solid-glass",
-            "stars": 1348,
+            "stars": 1352,
             "forks": 21,
             "score": 99
         },
@@ -62,7 +62,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "rociiu/talorys",
             "description": "Your personal AI agent in your own Cloudflare account. Chat, memory, tasks, notes and scheduled reminders, deployed with one command: npx create-talorys@latest. Free-tier friendly, single-user, no telemetry.",
             "url": "https://github.com/rociiu/talorys",
-            "stars": 1243,
+            "stars": 1254,
             "forks": 113,
             "score": 99
         },
@@ -73,8 +73,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "marclou/mailcheap",
             "description": "Newsletters where you pay for the emails you send, not for dormant subscribers, at a fraction of the price of beehiiv and the like. Open source: self-host it, or use mailcheap.ai.",
             "url": "https://github.com/marclou/mailcheap",
-            "stars": 1128,
-            "forks": 290,
+            "stars": 1150,
+            "forks": 291,
             "score": 99
         },
         {
@@ -84,7 +84,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "zhuyansen/new-term-radar",
             "description": "Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, GitHub and sitemaps before keyword tools list them.",
             "url": "https://github.com/zhuyansen/new-term-radar",
-            "stars": 1063,
+            "stars": 1064,
             "forks": 417,
             "score": 99
         },
@@ -95,8 +95,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "feder-cr/git-ai",
             "description": "Git designed for AI agents.",
             "url": "https://github.com/feder-cr/git-ai",
-            "stars": 1044,
-            "forks": 109,
+            "stars": 1054,
+            "forks": 110,
             "score": 99
         },
         {
@@ -106,7 +106,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "sirioberati/Genjustsu-Open-Source-Workflow",
             "description": "Open-source AI video replacement workflow by TEIN. Combine depth maps, SAM segmentation, face meshes, and audio processing to replace characters and objects with Seedance. Includes a local web UI to prepare inputs, review masks, preview generations, and export with original audio.",
             "url": "https://github.com/sirioberati/Genjustsu-Open-Source-Workflow",
-            "stars": 943,
+            "stars": 954,
             "forks": 243,
             "score": 99
         },
@@ -117,8 +117,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "nateherkai/roast-room",
             "description": "Seven AI advisors (Bezos, Paul Graham, Hormozi, Gary Vee, Dan Martell, Gino Wickman, Buffett) debate your business decision in Claude Code, live around a table.",
             "url": "https://github.com/nateherkai/roast-room",
-            "stars": 668,
-            "forks": 151,
+            "stars": 675,
+            "forks": 154,
             "score": 99
         },
         {
@@ -128,8 +128,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "i12bp8/decomp.wtf",
             "description": "What The Function: your AI agent decompiles games you own into C that compiles to the exact same bytes. Runs locally.",
             "url": "https://github.com/i12bp8/decomp.wtf",
-            "stars": 450,
-            "forks": 148,
+            "stars": 459,
+            "forks": 164,
             "score": 99
         },
         {
@@ -139,8 +139,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "heqiangdiao-wq/AI-Cross-Border-Ecommerce-Agent-Toolkit",
             "description": "AI \u8de8\u5883\u7535\u5546\u8fd0\u8425\u667a\u80fd\u4f53\u5de5\u5177\u7bb1 \u00b7 \u628a\u8fd0\u8425 SOP \u62c6\u6210 7 \u4e2a\u53ef\u590d\u7528\u7684 AI Agent \u5de5\u4f5c\u6d41\uff0c\u542b Prompt\u3001\u6a21\u677f\u4e0e\u771f\u5b9e\u6848\u4f8b",
             "url": "https://github.com/heqiangdiao-wq/AI-Cross-Border-Ecommerce-Agent-Toolkit",
-            "stars": 293,
-            "forks": 364,
+            "stars": 294,
+            "forks": 367,
             "score": 99
         },
         {
@@ -152,7 +152,7 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/trhhubsd/ARTEX",
             "stars": 1205,
             "forks": 14,
-            "score": 93
+            "score": 87
         },
         {
             "main_cat": "AI",
@@ -168,24 +168,24 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "qqpet",
-            "full_name": "AnkioTomas/qqpet",
-            "description": "QQ\u5ba0\u7269\u5355\u673a\u590d\u523b\u7248(AI)",
-            "url": "https://github.com/AnkioTomas/qqpet",
-            "stars": 661,
-            "forks": 105,
-            "score": 75
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
             "name": "earshot",
             "full_name": "Leonxlnx/earshot",
             "description": "Ears for coding agents: let AI hear, review and make sound. CPU-only, open source.",
             "url": "https://github.com/Leonxlnx/earshot",
-            "stars": 281,
-            "forks": 15,
-            "score": 72
+            "stars": 302,
+            "forks": 19,
+            "score": 77
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "qqpet",
+            "full_name": "AnkioTomas/qqpet",
+            "description": "QQ\u5ba0\u7269\u5355\u673a\u590d\u523b\u7248(AI)",
+            "url": "https://github.com/AnkioTomas/qqpet",
+            "stars": 663,
+            "forks": 105,
+            "score": 75
         },
         {
             "main_cat": "AI",
@@ -194,9 +194,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "Tejashmakwana/motionmaxxing",
             "description": "Looksmaxxing for motion graphics. An agent skill that turns AI slop videos into films that look made by a motion designer.",
             "url": "https://github.com/Tejashmakwana/motionmaxxing",
-            "stars": 780,
-            "forks": 69,
-            "score": 70
+            "stars": 784,
+            "forks": 71,
+            "score": 71
         },
         {
             "main_cat": "AI",
@@ -205,9 +205,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "franzenzenhofer/big-arrow-on-the-screen",
             "description": "Let your AI agents paint big arrows, boxes and text on your Mac screen. One CLI, click-through, gone by itself. Skill for Claude Code and Codex. MIT.",
             "url": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
-            "stars": 769,
+            "stars": 770,
             "forks": 22,
-            "score": 68
+            "score": 69
         },
         {
             "main_cat": "AI",
@@ -216,8 +216,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "DozenTwelve/Papermorph",
             "description": "An AI skill that turns books into animated, narrated, interactive web experiences",
             "url": "https://github.com/DozenTwelve/Papermorph",
-            "stars": 748,
-            "forks": 101,
+            "stars": 749,
+            "forks": 103,
             "score": 66
         },
         {
@@ -238,8 +238,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "mrsarac/ff-tracking",
             "description": "A virtual camera films an AI agent's screen while a tracker locks onto every glyph. Two fframes passes, one SkSL shader, all sound synthesized.",
             "url": "https://github.com/mrsarac/ff-tracking",
-            "stars": 441,
-            "forks": 25,
+            "stars": 445,
+            "forks": 26,
             "score": 57
         },
         {
@@ -249,9 +249,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "spideymooon/McOracle",
             "description": "\u4e0d\u8981\u95ee AI\uff0c\u95ee\u85af\u6761\u3002\u4e00\u4e2a\u7ed3\u5408\u9ea6\u5f53\u52b3 MCP \u4e0e AI \u7b54\u6848\u4e4b\u4e66\u7684 Skill\u3002",
             "url": "https://github.com/spideymooon/McOracle",
-            "stars": 313,
+            "stars": 316,
             "forks": 12,
-            "score": 55
+            "score": 56
         },
         {
             "main_cat": "AI",
@@ -271,7 +271,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "OrgoAI/bops",
             "description": "Bops: a team of AI bots that run your business ops, each with its own computer, email and phone number. bops.bot",
             "url": "https://github.com/OrgoAI/bops",
-            "stars": 319,
+            "stars": 320,
             "forks": 80,
             "score": 54
         },
@@ -282,9 +282,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "openfilm/openfilm",
             "description": "The open source AI video agent: turns any coding agent into a video agent, with an editor to change anything it makes.",
             "url": "https://github.com/openfilm/openfilm",
-            "stars": 462,
-            "forks": 54,
-            "score": 52
+            "stars": 484,
+            "forks": 56,
+            "score": 53
         },
         {
             "main_cat": "AI",
@@ -388,28 +388,6 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
-            "name": "OddsBrief",
-            "full_name": "palan01-droid/OddsBrief",
-            "description": "Live Kalshi prediction market tracker with big-bet alerts, a self-learning calibration model, and an AI-written daily brief",
-            "url": "https://github.com/palan01-droid/OddsBrief",
-            "stars": 0,
-            "forks": 0,
-            "score": 30
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "SPulse",
-            "full_name": "zeemscript/SPulse",
-            "description": "Stellar Pulse is a decentralized prediction market built on Stellar/Soroban. Users connect a wallet, bet XLM on YES/NO markets, earn PULSE tokens and points, and claim payouts on-chain.",
-            "url": "https://github.com/zeemscript/SPulse",
-            "stars": 0,
-            "forks": 0,
-            "score": 30
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
             "name": "gbp-stablecoin-analysis",
             "full_name": "vijetarajput/gbp-stablecoin-analysis",
             "description": "Onchain analysis of UK sterling (GBP) stablecoins using Dune \u2014 supply, adoption and payments, in the context of the Bank of England digital pound debate.",
@@ -464,22 +442,22 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
-            "sub_cat": "AI Agents",
-            "name": "NeroX-Stable",
-            "full_name": "neroiq-47/NeroX-Stable",
-            "description": "NeroX: stable money for the machine economy. NRX is a 1:1 USD-backed stablecoin built for x402 agent payments on Ethereum, Base and BNB Chain. sNRX is a savings vault earning from real borrowers. Includes the NeroX dApp (mint, earn, borrow, bridge) and the Agent Market, where AI agents are called, hired and bought in NRX.",
-            "url": "https://github.com/neroiq-47/NeroX-Stable",
+            "sub_cat": "AI General",
+            "name": "waybill",
+            "full_name": "JoshBlazer/waybill",
+            "description": "Pay Nigerian contractors in stablecoins; they receive naira. Every payment trackable like a parcel. Test money only.",
+            "url": "https://github.com/JoshBlazer/waybill",
             "stars": 0,
             "forks": 0,
             "score": 30
         },
         {
             "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "waybill",
-            "full_name": "JoshBlazer/waybill",
-            "description": "Pay Nigerian contractors in stablecoins; they receive naira. Every payment trackable like a parcel. Test money only.",
-            "url": "https://github.com/JoshBlazer/waybill",
+            "sub_cat": "AI Agents",
+            "name": "NeroX-Stable",
+            "full_name": "neroiq-47/NeroX-Stable",
+            "description": "NeroX: stable money for the machine economy. NRX is a 1:1 USD-backed stablecoin built for x402 agent payments on Ethereum, Base and BNB Chain. sNRX is a savings vault earning from real borrowers. Includes the NeroX dApp (mint, earn, borrow, bridge) and the Agent Market, where AI agents are called, hired and bought in NRX.",
+            "url": "https://github.com/neroiq-47/NeroX-Stable",
             "stars": 0,
             "forks": 0,
             "score": 30
@@ -608,6 +586,20 @@ const ALPHA_DATA_V2 = {
     ],
     "news": [
         {
+            "title": "My Credentials, Please: Detecting Filesystem Capability Laundering in MCP Servers at Scale",
+            "source": "ArXiv",
+            "type": "Research Alpha",
+            "color": "text-indigo-600",
+            "url": "http://arxiv.org/abs/2610.22301v1"
+        },
+        {
+            "title": "Private Retrieval Augmented Generation via Random Projection",
+            "source": "ArXiv",
+            "type": "Research Alpha",
+            "color": "text-indigo-600",
+            "url": "http://arxiv.org/abs/2610.22297v1"
+        },
+        {
             "title": "Bitcoin volatility remains high ahead of key FED decision.",
             "source": "Polymarket",
             "type": "Expectation",
@@ -615,5 +607,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-10-16 19:11"
+    "timestamp": "2026-10-16 22:23"
 };
