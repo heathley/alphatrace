@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "LosaLosSantos/aurelio-finance",
             "description": "Open-source personal finance app with an AI financial advisor: track your net worth, investments, ETFs, cash and debts on your own computer.",
             "url": "https://github.com/LosaLosSantos/aurelio-finance",
-            "stars": 3948,
-            "forks": 499,
+            "stars": 3950,
+            "forks": 500,
             "score": 99
         },
         {
@@ -18,8 +18,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "onehumanbeing/esp32-iphone-agent",
             "description": "Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.",
             "url": "https://github.com/onehumanbeing/esp32-iphone-agent",
-            "stars": 2950,
-            "forks": 383,
+            "stars": 2975,
+            "forks": 386,
             "score": 99
         },
         {
@@ -29,7 +29,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "deeplethe/solid-glass",
             "description": "A design system for AI applications. Material, physical, tactile, technical.",
             "url": "https://github.com/deeplethe/solid-glass",
-            "stars": 1680,
+            "stars": 1685,
             "forks": 21,
             "score": 99
         },
@@ -40,8 +40,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "rociiu/talorys",
             "description": "Your personal AI agent in your own Cloudflare account. Chat, memory, tasks, notes and scheduled reminders, deployed with one command: npx create-talorys@latest. Free-tier friendly, single-user, no telemetry.",
             "url": "https://github.com/rociiu/talorys",
-            "stars": 1283,
-            "forks": 112,
+            "stars": 1288,
+            "forks": 111,
             "score": 99
         },
         {
@@ -51,8 +51,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "marclou/mailcheap",
             "description": "Newsletters where you pay for the emails you send, not for dormant subscribers, at a fraction of the price of beehiiv and the like. Open source: self-host it, or use mailcheap.ai.",
             "url": "https://github.com/marclou/mailcheap",
-            "stars": 1195,
-            "forks": 300,
+            "stars": 1199,
+            "forks": 305,
             "score": 99
         },
         {
@@ -62,7 +62,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "feder-cr/git-ai",
             "description": "Git designed for AI agents.",
             "url": "https://github.com/feder-cr/git-ai",
-            "stars": 1102,
+            "stars": 1116,
             "forks": 117,
             "score": 99
         },
@@ -73,7 +73,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "zhuyansen/new-term-radar",
             "description": "Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, GitHub and sitemaps before keyword tools list them.",
             "url": "https://github.com/zhuyansen/new-term-radar",
-            "stars": 1076,
+            "stars": 1078,
             "forks": 422,
             "score": 99
         },
@@ -84,8 +84,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "sirioberati/Genjustsu-Open-Source-Workflow",
             "description": "Open-source AI video replacement workflow by TEIN. Combine depth maps, SAM segmentation, face meshes, and audio processing to replace characters and objects with Seedance. Includes a local web UI to prepare inputs, review masks, preview generations, and export with original audio.",
             "url": "https://github.com/sirioberati/Genjustsu-Open-Source-Workflow",
-            "stars": 965,
-            "forks": 244,
+            "stars": 969,
+            "forks": 245,
             "score": 99
         },
         {
@@ -95,30 +95,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "nateherkai/roast-room",
             "description": "Seven AI advisors (Bezos, Paul Graham, Hormozi, Gary Vee, Dan Martell, Gino Wickman, Buffett) debate your business decision in Claude Code, live around a table.",
             "url": "https://github.com/nateherkai/roast-room",
-            "stars": 710,
-            "forks": 163,
-            "score": 99
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "decomp.wtf",
-            "full_name": "i12bp8/decomp.wtf",
-            "description": "What The Function: your AI agent decompiles games you own into C that compiles to the exact same bytes. Runs locally.",
-            "url": "https://github.com/i12bp8/decomp.wtf",
-            "stars": 478,
-            "forks": 193,
-            "score": 99
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "AI-Cross-Border-Ecommerce-Agent-Toolkit",
-            "full_name": "heqiangdiao-wq/AI-Cross-Border-Ecommerce-Agent-Toolkit",
-            "description": "AI \u8de8\u5883\u7535\u5546\u8fd0\u8425\u667a\u80fd\u4f53\u5de5\u5177\u7bb1 \u00b7 \u628a\u8fd0\u8425 SOP \u62c6\u6210 7 \u4e2a\u53ef\u590d\u7528\u7684 AI Agent \u5de5\u4f5c\u6d41\uff0c\u542b Prompt\u3001\u6a21\u677f\u4e0e\u771f\u5b9e\u6848\u4f8b",
-            "url": "https://github.com/heqiangdiao-wq/AI-Cross-Border-Ecommerce-Agent-Toolkit",
-            "stars": 341,
-            "forks": 417,
+            "stars": 735,
+            "forks": 174,
             "score": 99
         },
         {
@@ -128,9 +106,42 @@ const ALPHA_DATA_V2 = {
             "full_name": "Leonxlnx/earshot",
             "description": "Ears for coding agents: let AI hear, review and make sound. CPU-only, open source.",
             "url": "https://github.com/Leonxlnx/earshot",
-            "stars": 536,
-            "forks": 35,
-            "score": 97
+            "stars": 608,
+            "forks": 39,
+            "score": 99
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "decomp.wtf",
+            "full_name": "i12bp8/decomp.wtf",
+            "description": "What The Function: your AI agent decompiles games you own into C that compiles to the exact same bytes. Runs locally.",
+            "url": "https://github.com/i12bp8/decomp.wtf",
+            "stars": 483,
+            "forks": 195,
+            "score": 99
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "AI-Cross-Border-Ecommerce-Agent-Toolkit",
+            "full_name": "heqiangdiao-wq/AI-Cross-Border-Ecommerce-Agent-Toolkit",
+            "description": "AI \u8de8\u5883\u7535\u5546\u8fd0\u8425\u667a\u80fd\u4f53\u5de5\u5177\u7bb1 \u00b7 \u628a\u8fd0\u8425 SOP \u62c6\u6210 7 \u4e2a\u53ef\u590d\u7528\u7684 AI Agent \u5de5\u4f5c\u6d41\uff0c\u542b Prompt\u3001\u6a21\u677f\u4e0e\u771f\u5b9e\u6848\u4f8b",
+            "url": "https://github.com/heqiangdiao-wq/AI-Cross-Border-Ecommerce-Agent-Toolkit",
+            "stars": 353,
+            "forks": 423,
+            "score": 99
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "blender-ai-mcp-addon",
+            "full_name": "anujasid/blender-ai-mcp-addon",
+            "description": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with OpenAI, ChatGPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon and plugin, copilot for 3D, bpy Python scripting, MCP integration.",
+            "url": "https://github.com/anujasid/blender-ai-mcp-addon",
+            "stars": 529,
+            "forks": 1,
+            "score": 96
         },
         {
             "main_cat": "AI",
@@ -139,20 +150,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "trhhubsd/ARTEX",
             "description": "ARTEX\uff0cAI \u81ea\u4e3b\u6e17\u900f\u6d4b\u8bd5\u7cfb\u7edf\u3002\u767e\u5ea6 agent+ \u653b\u9632\u6311\u6218\u8d5b\u51a0\u519b\u9879\u76ee\u3002",
             "url": "https://github.com/trhhubsd/ARTEX",
-            "stars": 1223,
-            "forks": 24,
-            "score": 89
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "blender-ai-mcp-addon",
-            "full_name": "anujasid/blender-ai-mcp-addon",
-            "description": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration.",
-            "url": "https://github.com/anujasid/blender-ai-mcp-addon",
-            "stars": 428,
-            "forks": 1,
-            "score": 84
+            "stars": 1227,
+            "forks": 29,
+            "score": 91
         },
         {
             "main_cat": "AI",
@@ -172,9 +172,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "AnkioTomas/qqpet",
             "description": "QQ\u5ba0\u7269\u5355\u673a\u590d\u523b\u7248(AI)",
             "url": "https://github.com/AnkioTomas/qqpet",
-            "stars": 725,
-            "forks": 113,
-            "score": 75
+            "stars": 740,
+            "forks": 114,
+            "score": 76
         },
         {
             "main_cat": "AI",
@@ -183,9 +183,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "Tejashmakwana/motionmaxxing",
             "description": "Looksmaxxing for motion graphics. An agent skill that turns AI slop videos into films that look made by a motion designer.",
             "url": "https://github.com/Tejashmakwana/motionmaxxing",
-            "stars": 818,
-            "forks": 77,
+            "stars": 823,
+            "forks": 78,
             "score": 73
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "openfilm",
+            "full_name": "openfilm/openfilm",
+            "description": "The open source AI video agent: turns any coding agent into a video agent, with an editor to change anything it makes.",
+            "url": "https://github.com/openfilm/openfilm",
+            "stars": 813,
+            "forks": 90,
+            "score": 66
         },
         {
             "main_cat": "AI",
@@ -201,17 +212,6 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "openfilm",
-            "full_name": "openfilm/openfilm",
-            "description": "The open source AI video agent: turns any coding agent into a video agent, with an editor to change anything it makes.",
-            "url": "https://github.com/openfilm/openfilm",
-            "stars": 756,
-            "forks": 85,
-            "score": 64
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
             "name": "baoyan-agent-benchmark",
             "full_name": "yeyuxin777/baoyan-agent-benchmark",
             "description": "Sprix AI at \u5c7f\u667a\u540c\u884c \u00d7 \u4fdd\u7814\u5c9b \u2014 an open-source benchmark for AI agents in Baoyan advising and application planning.",
@@ -223,22 +223,11 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "McOracle",
-            "full_name": "spideymooon/McOracle",
-            "description": "\u4e0d\u8981\u95ee AI\uff0c\u95ee\u85af\u6761\u3002\u4e00\u4e2a\u7ed3\u5408\u9ea6\u5f53\u52b3 MCP \u4e0e AI \u7b54\u6848\u4e4b\u4e66\u7684 Skill\u3002",
-            "url": "https://github.com/spideymooon/McOracle",
-            "stars": 320,
-            "forks": 12,
-            "score": 56
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
             "name": "ff-tracking",
             "full_name": "mrsarac/ff-tracking",
             "description": "A virtual camera films an AI agent's screen while a tracker locks onto every glyph. Two fframes passes, one SkSL shader, all sound synthesized.",
             "url": "https://github.com/mrsarac/ff-tracking",
-            "stars": 452,
+            "stars": 454,
             "forks": 26,
             "score": 55
         },
@@ -249,9 +238,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "OrgoAI/bops",
             "description": "Bops: a team of AI bots that run your business ops, each with its own computer, email and phone number. bops.bot",
             "url": "https://github.com/OrgoAI/bops",
+            "stars": 321,
+            "forks": 81,
+            "score": 53
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "McOracle",
+            "full_name": "spideymooon/McOracle",
+            "description": "\u4e0d\u8981\u95ee AI\uff0c\u95ee\u85af\u6761\u3002\u4e00\u4e2a\u7ed3\u5408\u9ea6\u5f53\u52b3 MCP \u4e0e AI \u7b54\u6848\u4e4b\u4e66\u7684 Skill\u3002",
+            "url": "https://github.com/spideymooon/McOracle",
             "stars": 320,
-            "forks": 80,
-            "score": 54
+            "forks": 12,
+            "score": 53
         },
         {
             "main_cat": "AI",
@@ -260,9 +260,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "liyupi/ai-promo-video-maker",
             "description": "\u4e00\u53e5\u8bdd\u8ba9 AI \u5e2e\u4f60\u505a\u4ea7\u54c1\u5ba3\u4f20\u7247\uff01\u628a\u4ea7\u54c1\u540d\u6216\u7f51\u5740\u544a\u8bc9 Cursor\u3001Claude Code\u3001Codex \u7b49 AI \u7f16\u7a0b\u5de5\u5177\uff0c\u5b83\u4f1a\u81ea\u5df1\u8c03\u7814\u4ea7\u54c1\u3001\u753b\u51fa\u591a\u79cd\u98ce\u683c\u6837\u56fe\u8ba9\u4f60\u6311\u9009\u3001\u622a\u53d6 4K \u771f\u5b9e\u9875\u9762\u3001\u6309\u97f3\u4e50\u8282\u62cd\u5361\u70b9\u526a\u8f91\u3001\u751f\u6210 AI \u65c1\u767d\u5e76\u9010\u53e5\u8f6c\u5199\u6821\u9a8c\u3001\u81ea\u52a8\u5ba1\u56fe\uff0c\u6700\u540e\u4ea4\u4ed8\u4e00\u652f 4K \u5546\u4e1a\u5ba3\u4f20\u89c6\u9891\u548c\u53ef\u5728\u7ebf\u64ad\u653e\u7684\u7f51\u9875\u7248\u3002App\u3001\u7f51\u7ad9\u3001SaaS\u3001\u5f00\u6e90\u9879\u76ee\u3001\u8bfe\u7a0b\u3001AI \u6a21\u578b\u90fd\u80fd\u505a\uff0c\u4f60\u53ea\u9700\u786e\u8ba4\u9700\u6c42\u3001\u8bd5\u542c\u914d\u4e50\u3002\u4e0d\u7528\u5b66\u526a\u8f91\u8f6f\u4ef6\uff0c\u4e5f\u4e0d\u7528\u82b1\u94b1\u627e\u5916\u5305\u3002\u57fa\u4e8e Remotion + ElevenLabs\uff0c\u53ef\u76f4\u63a5\u514b\u9686\u4f7f\u7528\uff0c\u4e5f\u80fd\u4e00\u952e\u5b89\u88c5\u4e3a Agent Skill\u3002",
             "url": "https://github.com/liyupi/ai-promo-video-maker",
-            "stars": 309,
+            "stars": 310,
             "forks": 51,
             "score": 53
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "gloss",
+            "full_name": "Nutlope/gloss",
+            "description": "A reader that writes answers in the margin. Select any line, ask, and an open model on Together AI answers beside it.",
+            "url": "https://github.com/Nutlope/gloss",
+            "stars": 278,
+            "forks": 50,
+            "score": 51
         },
         {
             "main_cat": "AI",
@@ -273,18 +284,7 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/gholtzap/lintapple",
             "stars": 494,
             "forks": 8,
-            "score": 51
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "gloss",
-            "full_name": "Nutlope/gloss",
-            "description": "A reader that writes answers in the margin. Select any line, ask, and an open model on Together AI answers beside it.",
-            "url": "https://github.com/Nutlope/gloss",
-            "stars": 274,
-            "forks": 50,
-            "score": 51
+            "score": 50
         },
         {
             "main_cat": "AI",
@@ -304,8 +304,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "chenxiachan/textfold",
             "description": "Fold papers, web pages, files, and AI replies into five levels of detail. Zoom from an overview to the original text.",
             "url": "https://github.com/chenxiachan/textfold",
-            "stars": 325,
-            "forks": 25,
+            "stars": 332,
+            "forks": 26,
             "score": 44
         },
         {
@@ -596,5 +596,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-10-17 13:31"
+    "timestamp": "2026-10-17 16:47"
 };
