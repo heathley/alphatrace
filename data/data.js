@@ -18,8 +18,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "onehumanbeing/esp32-iphone-agent",
             "description": "Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.",
             "url": "https://github.com/onehumanbeing/esp32-iphone-agent",
-            "stars": 3059,
-            "forks": 395,
+            "stars": 3093,
+            "forks": 401,
             "score": 99
         },
         {
@@ -29,30 +29,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "deeplethe/solid-glass",
             "description": "A design system for AI applications. Material, physical, tactile, technical.",
             "url": "https://github.com/deeplethe/solid-glass",
-            "stars": 2001,
+            "stars": 2007,
             "forks": 25,
-            "score": 99
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "talorys",
-            "full_name": "rociiu/talorys",
-            "description": "Your personal AI agent in your own Cloudflare account. Chat, memory, tasks, notes and scheduled reminders, deployed with one command: npx create-talorys@latest. Free-tier friendly, single-user, no telemetry.",
-            "url": "https://github.com/rociiu/talorys",
-            "stars": 1315,
-            "forks": 112,
-            "score": 99
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "mailcheap",
-            "full_name": "marclou/mailcheap",
-            "description": "Newsletters where you pay for the emails you send, not for dormant subscribers, at a fraction of the price of beehiiv and the like. Open source: self-host it, or use mailcheap.ai.",
-            "url": "https://github.com/marclou/mailcheap",
-            "stars": 1218,
-            "forks": 311,
             "score": 99
         },
         {
@@ -62,8 +40,30 @@ const ALPHA_DATA_V2 = {
             "full_name": "feder-cr/git-ai",
             "description": "Git designed for AI agents.",
             "url": "https://github.com/feder-cr/git-ai",
-            "stars": 1164,
-            "forks": 126,
+            "stars": 1498,
+            "forks": 173,
+            "score": 99
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "talorys",
+            "full_name": "rociiu/talorys",
+            "description": "Your personal AI agent in your own Cloudflare account. Chat, memory, tasks, notes and scheduled reminders, deployed with one command: npx create-talorys@latest. Free-tier friendly, single-user, no telemetry.",
+            "url": "https://github.com/rociiu/talorys",
+            "stars": 1318,
+            "forks": 113,
+            "score": 99
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "mailcheap",
+            "full_name": "marclou/mailcheap",
+            "description": "Newsletters where you pay for the emails you send, not for dormant subscribers, at a fraction of the price of beehiiv and the like. Open source: self-host it, or use mailcheap.ai.",
+            "url": "https://github.com/marclou/mailcheap",
+            "stars": 1223,
+            "forks": 311,
             "score": 99
         },
         {
@@ -73,7 +73,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "zhuyansen/new-term-radar",
             "description": "Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, GitHub and sitemaps before keyword tools list them.",
             "url": "https://github.com/zhuyansen/new-term-radar",
-            "stars": 1097,
+            "stars": 1103,
             "forks": 422,
             "score": 99
         },
@@ -84,8 +84,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "sirioberati/Genjustsu-Open-Source-Workflow",
             "description": "Open-source AI video replacement workflow by TEIN. Combine depth maps, SAM segmentation, face meshes, and audio processing to replace characters and objects with Seedance. Includes a local web UI to prepare inputs, review masks, preview generations, and export with original audio.",
             "url": "https://github.com/sirioberati/Genjustsu-Open-Source-Workflow",
-            "stars": 1005,
-            "forks": 250,
+            "stars": 1015,
+            "forks": 251,
             "score": 99
         },
         {
@@ -95,7 +95,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "jwuthri-cloud/Tracely-ai",
             "description": "Trace-native CI/CD for AI agents: grade production traces, cluster failures, freeze them into replayable regression tests, and block PRs that regress. Self-hostable.",
             "url": "https://github.com/jwuthri-cloud/Tracely-ai",
-            "stars": 976,
+            "stars": 1001,
             "forks": 140,
             "score": 99
         },
@@ -106,8 +106,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "nateherkai/roast-room",
             "description": "Seven AI advisors (Bezos, Paul Graham, Hormozi, Gary Vee, Dan Martell, Gino Wickman, Buffett) debate your business decision in Claude Code, live around a table.",
             "url": "https://github.com/nateherkai/roast-room",
-            "stars": 758,
-            "forks": 176,
+            "stars": 769,
+            "forks": 178,
             "score": 99
         },
         {
@@ -117,8 +117,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "LiCinCan/blender-ai-mcp-addon",
             "description": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with OpenAI, ChatGPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon and plugin, copilot for 3D, bpy Python scripting, MCP integration.",
             "url": "https://github.com/LiCinCan/blender-ai-mcp-addon",
-            "stars": 730,
-            "forks": 311,
+            "stars": 750,
+            "forks": 367,
             "score": 99
         },
         {
@@ -128,8 +128,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "Leonxlnx/earshot",
             "description": "Ears for coding agents: let AI hear, review and make sound. CPU-only, open source.",
             "url": "https://github.com/Leonxlnx/earshot",
-            "stars": 725,
-            "forks": 44,
+            "stars": 742,
+            "forks": 45,
             "score": 99
         },
         {
@@ -139,8 +139,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "i12bp8/decomp.wtf",
             "description": "What The Function: your AI agent decompiles games you own into C that compiles to the exact same bytes. Runs locally.",
             "url": "https://github.com/i12bp8/decomp.wtf",
-            "stars": 494,
-            "forks": 217,
+            "stars": 495,
+            "forks": 221,
             "score": 99
         },
         {
@@ -150,9 +150,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "heqiangdiao-wq/AI-Cross-Border-Ecommerce-Agent-Toolkit",
             "description": "AI \u8de8\u5883\u7535\u5546\u8fd0\u8425\u667a\u80fd\u4f53\u5de5\u5177\u7bb1 \u00b7 \u628a\u8fd0\u8425 SOP \u62c6\u6210 7 \u4e2a\u53ef\u590d\u7528\u7684 AI Agent \u5de5\u4f5c\u6d41\uff0c\u542b Prompt\u3001\u6a21\u677f\u4e0e\u771f\u5b9e\u6848\u4f8b",
             "url": "https://github.com/heqiangdiao-wq/AI-Cross-Border-Ecommerce-Agent-Toolkit",
-            "stars": 373,
-            "forks": 441,
+            "stars": 384,
+            "forks": 451,
             "score": 99
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "ARTEX",
+            "full_name": "trhhubsd/ARTEX",
+            "description": "ARTEX \u00b7 AI autonomous penetration testing system (multi-agent LLM, Go + Next.js) \u00b7 AI \u81ea\u4e3b\u6e17\u900f\u6d4b\u8bd5\u7cfb\u7edf \u00b7 \u767e\u5ea6 agent+ \u653b\u9632\u6311\u6218\u8d5b\u51a0\u519b",
+            "url": "https://github.com/trhhubsd/ARTEX",
+            "stars": 1240,
+            "forks": 90,
+            "score": 96
         },
         {
             "main_cat": "AI",
@@ -161,20 +172,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "VITASID57/bluntcore-intimacy-lab",
             "description": "\ud83e\uddec \u949d\u6838\uff5c\u4eba\u673a\u4eb2\u5bc6\u5b9e\u9a8c\u5ba4 \u00b7 Bluntcore Intimacy Lab\uff5c\u4eba\u673a\u604b\u3001\u6210\u4eba AI\u3001Prompt\u3001Memory\u3001Agent\u3001\u6a21\u578b\u5e8a\u6d4b\u4e0e\u5b9e\u9a8c\u8bb0\u5f55\u3002",
             "url": "https://github.com/VITASID57/bluntcore-intimacy-lab",
-            "stars": 352,
+            "stars": 373,
             "forks": 65,
-            "score": 99
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "ARTEX",
-            "full_name": "trhhubsd/ARTEX",
-            "description": "ARTEX\uff0cAI \u81ea\u4e3b\u6e17\u900f\u6d4b\u8bd5\u7cfb\u7edf\u3002\u767e\u5ea6 agent+ \u653b\u9632\u6311\u6218\u8d5b\u51a0\u519b\u9879\u76ee\u3002",
-            "url": "https://github.com/trhhubsd/ARTEX",
-            "stars": 1235,
-            "forks": 38,
-            "score": 87
+            "score": 93
         },
         {
             "main_cat": "AI",
@@ -183,9 +183,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "AnkioTomas/qqpet",
             "description": "QQ\u5ba0\u7269\u5355\u673a\u590d\u523b\u7248(AI)",
             "url": "https://github.com/AnkioTomas/qqpet",
-            "stars": 797,
-            "forks": 123,
-            "score": 76
+            "stars": 811,
+            "forks": 127,
+            "score": 77
         },
         {
             "main_cat": "AI",
@@ -194,8 +194,19 @@ const ALPHA_DATA_V2 = {
             "full_name": "Tejashmakwana/motionmaxxing",
             "description": "Looksmaxxing for motion graphics. An agent skill that turns AI slop videos into films that look made by a motion designer.",
             "url": "https://github.com/Tejashmakwana/motionmaxxing",
-            "stars": 857,
+            "stars": 861,
             "forks": 81,
+            "score": 72
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "coop-anything",
+            "full_name": "cranebeaker/coop-anything",
+            "description": "Co-op Anything: point your AI agent at any single-player game and play it with friends (online and/or splitscreen!). MCP server and playbook to let you reverse engineer, fix, test, ship and share what it learns.",
+            "url": "https://github.com/cranebeaker/coop-anything",
+            "stars": 329,
+            "forks": 25,
             "score": 72
         },
         {
@@ -205,7 +216,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "franzenzenhofer/big-arrow-on-the-screen",
             "description": "Let your AI agents paint big arrows, boxes and text on your Mac screen. One CLI, click-through, gone by itself. Skill for Claude Code and Codex. MIT.",
             "url": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
-            "stars": 777,
+            "stars": 780,
             "forks": 24,
             "score": 63
         },
@@ -233,6 +244,17 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
+            "sub_cat": null,
+            "name": "maimen-certification",
+            "full_name": "chuiziyao/maimen-certification",
+            "description": "\ud83c\udf54 \u9ea6\u95e8\u8ba4\u8bc1\u673a \u2014 \u4e0a\u4f20\u4efb\u610f\u56fe\u7247\uff0cAI \u9274\u5b9a\u9ea6\u95e8\u8eab\u4efd\uff1a\u8ba4\u8bc1\u6897\u56fe\u5361 + \u771f\u5b9e\u8425\u517b\u6570\u636e\u5957\u9910\u63a8\u8350 + \u4e00\u952e\u9886\u5238\u30022026 \u9ea6\u5f53\u52b3\u7a0b\u5e8f\u5458\u521b\u610f\u5f00\u53d1\u5927\u8d5b\u53c2\u8d5b\u4f5c\u54c1",
+            "url": "https://github.com/chuiziyao/maimen-certification",
+            "stars": 398,
+            "forks": 9,
+            "score": 51
+        },
+        {
+            "main_cat": "AI",
             "sub_cat": "AI General",
             "name": "bops",
             "full_name": "OrgoAI/bops",
@@ -240,7 +262,18 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/OrgoAI/bops",
             "stars": 324,
             "forks": 81,
-            "score": 53
+            "score": 51
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "ai-promo-video-maker",
+            "full_name": "liyupi/ai-promo-video-maker",
+            "description": "\u4e00\u53e5\u8bdd\u8ba9 AI \u5e2e\u4f60\u505a\u4ea7\u54c1\u5ba3\u4f20\u7247\uff01\u628a\u4ea7\u54c1\u540d\u6216\u7f51\u5740\u544a\u8bc9 Cursor\u3001Claude Code\u3001Codex \u7b49 AI \u7f16\u7a0b\u5de5\u5177\uff0c\u5b83\u4f1a\u81ea\u5df1\u8c03\u7814\u4ea7\u54c1\u3001\u753b\u51fa\u591a\u79cd\u98ce\u683c\u6837\u56fe\u8ba9\u4f60\u6311\u9009\u3001\u622a\u53d6 4K \u771f\u5b9e\u9875\u9762\u3001\u6309\u97f3\u4e50\u8282\u62cd\u5361\u70b9\u526a\u8f91\u3001\u751f\u6210 AI \u65c1\u767d\u5e76\u9010\u53e5\u8f6c\u5199\u6821\u9a8c\u3001\u81ea\u52a8\u5ba1\u56fe\uff0c\u6700\u540e\u4ea4\u4ed8\u4e00\u652f 4K \u5546\u4e1a\u5ba3\u4f20\u89c6\u9891\u548c\u53ef\u5728\u7ebf\u64ad\u653e\u7684\u7f51\u9875\u7248\u3002App\u3001\u7f51\u7ad9\u3001SaaS\u3001\u5f00\u6e90\u9879\u76ee\u3001\u8bfe\u7a0b\u3001AI \u6a21\u578b\u90fd\u80fd\u505a\uff0c\u4f60\u53ea\u9700\u786e\u8ba4\u9700\u6c42\u3001\u8bd5\u542c\u914d\u4e50\u3002\u4e0d\u7528\u5b66\u526a\u8f91\u8f6f\u4ef6\uff0c\u4e5f\u4e0d\u7528\u82b1\u94b1\u627e\u5916\u5305\u3002\u57fa\u4e8e Remotion + ElevenLabs\uff0c\u53ef\u76f4\u63a5\u514b\u9686\u4f7f\u7528\uff0c\u4e5f\u80fd\u4e00\u952e\u5b89\u88c5\u4e3a Agent Skill\u3002",
+            "url": "https://github.com/liyupi/ai-promo-video-maker",
+            "stars": 317,
+            "forks": 52,
+            "score": 51
         },
         {
             "main_cat": "AI",
@@ -251,18 +284,7 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/spideymooon/McOracle",
             "stars": 320,
             "forks": 12,
-            "score": 53
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "ai-promo-video-maker",
-            "full_name": "liyupi/ai-promo-video-maker",
-            "description": "\u4e00\u53e5\u8bdd\u8ba9 AI \u5e2e\u4f60\u505a\u4ea7\u54c1\u5ba3\u4f20\u7247\uff01\u628a\u4ea7\u54c1\u540d\u6216\u7f51\u5740\u544a\u8bc9 Cursor\u3001Claude Code\u3001Codex \u7b49 AI \u7f16\u7a0b\u5de5\u5177\uff0c\u5b83\u4f1a\u81ea\u5df1\u8c03\u7814\u4ea7\u54c1\u3001\u753b\u51fa\u591a\u79cd\u98ce\u683c\u6837\u56fe\u8ba9\u4f60\u6311\u9009\u3001\u622a\u53d6 4K \u771f\u5b9e\u9875\u9762\u3001\u6309\u97f3\u4e50\u8282\u62cd\u5361\u70b9\u526a\u8f91\u3001\u751f\u6210 AI \u65c1\u767d\u5e76\u9010\u53e5\u8f6c\u5199\u6821\u9a8c\u3001\u81ea\u52a8\u5ba1\u56fe\uff0c\u6700\u540e\u4ea4\u4ed8\u4e00\u652f 4K \u5546\u4e1a\u5ba3\u4f20\u89c6\u9891\u548c\u53ef\u5728\u7ebf\u64ad\u653e\u7684\u7f51\u9875\u7248\u3002App\u3001\u7f51\u7ad9\u3001SaaS\u3001\u5f00\u6e90\u9879\u76ee\u3001\u8bfe\u7a0b\u3001AI \u6a21\u578b\u90fd\u80fd\u505a\uff0c\u4f60\u53ea\u9700\u786e\u8ba4\u9700\u6c42\u3001\u8bd5\u542c\u914d\u4e50\u3002\u4e0d\u7528\u5b66\u526a\u8f91\u8f6f\u4ef6\uff0c\u4e5f\u4e0d\u7528\u82b1\u94b1\u627e\u5916\u5305\u3002\u57fa\u4e8e Remotion + ElevenLabs\uff0c\u53ef\u76f4\u63a5\u514b\u9686\u4f7f\u7528\uff0c\u4e5f\u80fd\u4e00\u952e\u5b89\u88c5\u4e3a Agent Skill\u3002",
-            "url": "https://github.com/liyupi/ai-promo-video-maker",
-            "stars": 315,
-            "forks": 52,
-            "score": 51
+            "score": 50
         },
         {
             "main_cat": "AI",
@@ -271,31 +293,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "gholtzap/lintapple",
             "description": "It should be impossible for AI to make a bad UI.",
             "url": "https://github.com/gholtzap/lintapple",
-            "stars": 500,
+            "stars": 501,
             "forks": 8,
-            "score": 50
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "maimen-certification",
-            "full_name": "chuiziyao/maimen-certification",
-            "description": "\ud83c\udf54 \u9ea6\u95e8\u8ba4\u8bc1\u673a \u2014 \u4e0a\u4f20\u4efb\u610f\u56fe\u7247\uff0cAI \u9274\u5b9a\u9ea6\u95e8\u8eab\u4efd\uff1a\u8ba4\u8bc1\u6897\u56fe\u5361 + \u771f\u5b9e\u8425\u517b\u6570\u636e\u5957\u9910\u63a8\u8350 + \u4e00\u952e\u9886\u5238\u30022026 \u9ea6\u5f53\u52b3\u7a0b\u5e8f\u5458\u521b\u610f\u5f00\u53d1\u5927\u8d5b\u53c2\u8d5b\u4f5c\u54c1",
-            "url": "https://github.com/chuiziyao/maimen-certification",
-            "stars": 370,
-            "forks": 8,
-            "score": 50
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "muxin",
-            "full_name": "LumaryLabsLLC/muxin",
-            "description": "All your machines, one app. For you and your AI agents: agent sessions, desktops, files, logs and GitHub across your Macs, Linux and Windows machines, with an MCP server.",
-            "url": "https://github.com/LumaryLabsLLC/muxin",
-            "stars": 305,
-            "forks": 44,
-            "score": 50
+            "score": 49
         },
         {
             "main_cat": "AI",
@@ -304,9 +304,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "hanzohanzhe/Grandet",
             "description": "Find the cheapest API for any model and connect it from your AI agent: Grandet Skill and an anonymous MCP server, backed by listed prices from 1,800+ official, inference and relay providers on grandet.ai.",
             "url": "https://github.com/hanzohanzhe/Grandet",
-            "stars": 338,
-            "forks": 30,
-            "score": 44
+            "stars": 357,
+            "forks": 32,
+            "score": 45
         },
         {
             "main_cat": "AI",
@@ -430,6 +430,17 @@ const ALPHA_DATA_V2 = {
             "score": 30
         },
         {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "inlet-node",
+            "full_name": "inletcash/inlet-node",
+            "description": "Inlet for Node: accept crypto payments, get paid in one stablecoin. Create payments and verify webhooks.",
+            "url": "https://github.com/inletcash/inlet-node",
+            "stars": 0,
+            "forks": 0,
+            "score": 30
+        },
+        {
             "main_cat": "Stablecoin Infrastructure",
             "sub_cat": null,
             "name": "crypto-merchant-pos",
@@ -542,17 +553,6 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
-            "name": "ArcInvoice",
-            "full_name": "codewithpradeep14/ArcInvoice",
-            "description": "ArcInvoice is a non-custodial stablecoin invoicing platform that allows freelancers and businesses to bill clients in USDC with shareable payment links and QR codes.   Payments settle directly on Circle's Arc Mainnet with automated on-chain RPC verification and instant downloadable receipts\u2014no intermediaries required.",
-            "url": "https://github.com/codewithpradeep14/ArcInvoice",
-            "stars": 0,
-            "forks": 0,
-            "score": 30
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
             "name": "MCP-MegaBrain",
             "full_name": "dougrn/MCP-MegaBrain",
             "description": "Persistent cross-agent memory, rule enforcer, and blindspot vaccine for AI coding assistants via Model Context Protocol (MCP)",
@@ -640,5 +640,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-10-18 12:21"
+    "timestamp": "2026-10-18 16:17"
 };
