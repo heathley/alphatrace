@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "onehumanbeing/esp32-iphone-agent",
             "description": "Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.",
             "url": "https://github.com/onehumanbeing/esp32-iphone-agent",
-            "stars": 3392,
-            "forks": 452,
+            "stars": 3395,
+            "forks": 455,
             "score": 99
         },
         {
@@ -18,7 +18,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "deeplethe/solid-glass",
             "description": "A design system for AI applications. Material, physical, tactile, technical.",
             "url": "https://github.com/deeplethe/solid-glass",
-            "stars": 2077,
+            "stars": 2080,
             "forks": 31,
             "score": 99
         },
@@ -29,8 +29,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "Leonxlnx/earshot",
             "description": "Ears for coding agents: let AI hear, review and make sound. CPU-only, open source.",
             "url": "https://github.com/Leonxlnx/earshot",
-            "stars": 1918,
-            "forks": 109,
+            "stars": 1946,
+            "forks": 111,
             "score": 99
         },
         {
@@ -40,8 +40,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "trhhubsd/ARTEX",
             "description": "ARTEX \u00b7 AI autonomous penetration testing system (multi-agent LLM, Go + Next.js) \u00b7 AI \u81ea\u4e3b\u6e17\u900f\u6d4b\u8bd5\u7cfb\u7edf \u00b7 \u767e\u5ea6 agent+ \u653b\u9632\u6311\u6218\u8d5b\u51a0\u519b",
             "url": "https://github.com/trhhubsd/ARTEX",
-            "stars": 1457,
-            "forks": 689,
+            "stars": 1462,
+            "forks": 695,
             "score": 99
         },
         {
@@ -51,8 +51,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "zhuyansen/new-term-radar",
             "description": "Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, GitHub and sitemaps before keyword tools list them.",
             "url": "https://github.com/zhuyansen/new-term-radar",
-            "stars": 1396,
-            "forks": 462,
+            "stars": 1420,
+            "forks": 467,
             "score": 99
         },
         {
@@ -62,7 +62,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "rociiu/talorys",
             "description": "Your personal AI agent in your own Cloudflare account. Chat, memory, tasks, notes and scheduled reminders, deployed with one command: npx create-talorys@latest. Free-tier friendly, single-user, no telemetry.",
             "url": "https://github.com/rociiu/talorys",
-            "stars": 1356,
+            "stars": 1358,
             "forks": 116,
             "score": 99
         },
@@ -73,8 +73,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "marclou/mailcheap",
             "description": "Newsletters where you pay for the emails you send, not for dormant subscribers, at a fraction of the price of beehiiv and the like. Open source: self-host it, or use mailcheap.ai.",
             "url": "https://github.com/marclou/mailcheap",
-            "stars": 1270,
-            "forks": 322,
+            "stars": 1275,
+            "forks": 324,
             "score": 99
         },
         {
@@ -84,8 +84,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "feder-cr/git-ai",
             "description": "Git designed for AI agents.",
             "url": "https://github.com/feder-cr/git-ai",
-            "stars": 1247,
-            "forks": 137,
+            "stars": 1267,
+            "forks": 122,
             "score": 99
         },
         {
@@ -95,7 +95,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "jwuthri-cloud/Tracely-ai",
             "description": "Trace-native CI/CD for AI agents: grade production traces, cluster failures, freeze them into replayable regression tests, and block PRs that regress. Self-hostable.",
             "url": "https://github.com/jwuthri-cloud/Tracely-ai",
-            "stars": 1151,
+            "stars": 1153,
             "forks": 146,
             "score": 99
         },
@@ -107,7 +107,7 @@ const ALPHA_DATA_V2 = {
             "description": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with OpenAI, ChatGPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon and plugin, copilot for 3D, bpy Python scripting, MCP integration.",
             "url": "https://github.com/LiCinCan/blender-ai-mcp-addon",
             "stars": 936,
-            "forks": 383,
+            "forks": 384,
             "score": 99
         },
         {
@@ -117,8 +117,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "cranebeaker/coop-anything",
             "description": "Co-op Anything: point your AI agent at any single-player game and play it with friends (online and/or splitscreen!). MCP server and playbook to let you reverse engineer, fix, test, ship and share what it learns.",
             "url": "https://github.com/cranebeaker/coop-anything",
-            "stars": 698,
-            "forks": 80,
+            "stars": 708,
+            "forks": 87,
             "score": 99
         },
         {
@@ -128,8 +128,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "i12bp8/decomp.wtf",
             "description": "What The Function: your AI agent decompiles games you own into C that compiles to the exact same bytes. Runs locally.",
             "url": "https://github.com/i12bp8/decomp.wtf",
-            "stars": 520,
-            "forks": 274,
+            "stars": 523,
+            "forks": 275,
             "score": 99
         },
         {
@@ -139,20 +139,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "heqiangdiao-wq/AI-Cross-Border-Ecommerce-Agent-Toolkit",
             "description": "AI \u8de8\u5883\u7535\u5546\u8fd0\u8425\u667a\u80fd\u4f53\u5de5\u5177\u7bb1 \u00b7 \u628a\u8fd0\u8425 SOP \u62c6\u6210 7 \u4e2a\u53ef\u590d\u7528\u7684 AI Agent \u5de5\u4f5c\u6d41\uff0c\u542b Prompt\u3001\u6a21\u677f\u4e0e\u771f\u5b9e\u6848\u4f8b",
             "url": "https://github.com/heqiangdiao-wq/AI-Cross-Border-Ecommerce-Agent-Toolkit",
-            "stars": 464,
-            "forks": 525,
+            "stars": 466,
+            "forks": 526,
             "score": 99
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "bluntcore-intimacy-lab",
-            "full_name": "VITASID57/bluntcore-intimacy-lab",
-            "description": "\ud83e\uddec \u949d\u6838\uff5c\u4eba\u673a\u4eb2\u5bc6\u5b9e\u9a8c\u5ba4 \u00b7 Bluntcore Intimacy Lab\uff5c\u4eba\u673a\u604b\u3001\u6210\u4eba AI\u3001Prompt\u3001Memory\u3001Agent\u3001\u6a21\u578b\u5e8a\u6d4b\u4e0e\u5b9e\u9a8c\u8bb0\u5f55\u3002",
-            "url": "https://github.com/VITASID57/bluntcore-intimacy-lab",
-            "stars": 535,
-            "forks": 91,
-            "score": 94
         },
         {
             "main_cat": "AI",
@@ -161,9 +150,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "nateherkai/roast-room",
             "description": "Seven AI advisors (Bezos, Paul Graham, Hormozi, Gary Vee, Dan Martell, Gino Wickman, Buffett) debate your business decision in Claude Code, live around a table.",
             "url": "https://github.com/nateherkai/roast-room",
-            "stars": 862,
+            "stars": 873,
             "forks": 198,
-            "score": 93
+            "score": 94
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "bluntcore-intimacy-lab",
+            "full_name": "VITASID57/bluntcore-intimacy-lab",
+            "description": "\ud83e\uddec \u949d\u6838\uff5c\u4eba\u673a\u4eb2\u5bc6\u5b9e\u9a8c\u5ba4 \u00b7 Bluntcore Intimacy Lab\uff5c\u4eba\u673a\u604b\u3001\u6210\u4eba AI\u3001Prompt\u3001Memory\u3001Agent\u3001\u6a21\u578b\u5e8a\u6d4b\u4e0e\u5b9e\u9a8c\u8bb0\u5f55\u3002",
+            "url": "https://github.com/VITASID57/bluntcore-intimacy-lab",
+            "stars": 536,
+            "forks": 91,
+            "score": 94
         },
         {
             "main_cat": "AI",
@@ -172,20 +172,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "mistralai/timestral",
             "description": "Repository for Timestral, the time-series foundation model by Mistral AI",
             "url": "https://github.com/mistralai/timestral",
-            "stars": 659,
-            "forks": 47,
-            "score": 82
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "qqpet",
-            "full_name": "AnkioTomas/qqpet",
-            "description": "QQ\u5ba0\u7269\u5355\u673a\u590d\u523b\u7248(AI)",
-            "url": "https://github.com/AnkioTomas/qqpet",
-            "stars": 910,
-            "forks": 143,
-            "score": 76
+            "stars": 668,
+            "forks": 48,
+            "score": 83
         },
         {
             "main_cat": "AI",
@@ -194,9 +183,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "kanaworksai-hue/audio-studio-mcp",
             "description": "Local AI BGM and sound effects for Claude Code and any MCP client. Stable Audio 3 on Apple Silicon (MLX) and Windows NVIDIA GPUs (PyTorch). No cloud, no API key.",
             "url": "https://github.com/kanaworksai-hue/audio-studio-mcp",
-            "stars": 345,
+            "stars": 348,
             "forks": 23,
-            "score": 73
+            "score": 74
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "whatsapp-mcp",
+            "full_name": "finereli/whatsapp-mcp",
+            "description": "A read-only MCP server that lets your AI agent search and read your own WhatsApp messages. Runs on Cloudflare Workers.",
+            "url": "https://github.com/finereli/whatsapp-mcp",
+            "stars": 311,
+            "forks": 25,
+            "score": 71
         },
         {
             "main_cat": "AI",
@@ -216,9 +216,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "UnderleveledBuilder/awesome-short-drama-skills",
             "description": "AI \u77ed\u5267 \u00b7 \u6f2b\u5267 Skill\uff08\u6280\u80fd\u5305\uff09\u7cbe\u9009\uff1a\u5267\u672c\u3001\u6539\u7f16\u3001\u5206\u955c\u3001Seedance / \u53ef\u7075 / MiniMax \u89c6\u9891\u63d0\u793a\u8bcd\uff0c\u5343\u95ee\u3001\u8c46\u5305\u3001\u9f99\u867e OpenClaw\u3001WorkBuddy\u3001Claude Code\u3001Codex \u7b49\u667a\u80fd\u4f53\u53ef\u7528 | Curated agent skills for AI short drama, micro drama / microdrama, vertical drama and manju (AI comic drama): screenwriting, storyboards, Seedance / Kling / MiniMax video prompts",
             "url": "https://github.com/UnderleveledBuilder/awesome-short-drama-skills",
-            "stars": 480,
-            "forks": 54,
-            "score": 64
+            "stars": 487,
+            "forks": 55,
+            "score": 65
         },
         {
             "main_cat": "AI",
@@ -238,19 +238,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "franzenzenhofer/big-arrow-on-the-screen",
             "description": "Let your AI agents paint big arrows, boxes and text on your Mac screen. One CLI, click-through, gone by itself. Skill for Claude Code and Codex. MIT.",
             "url": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
-            "stars": 793,
+            "stars": 794,
             "forks": 25,
-            "score": 59
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "text-humanizer",
-            "full_name": "kurelas/text-humanizer",
-            "description": "A CLI tool for translation algorithms based text humanization in order to bypass such AI-detectors as GPTZero, Turnitin and etc.",
-            "url": "https://github.com/kurelas/text-humanizer",
-            "stars": 603,
-            "forks": 82,
             "score": 59
         },
         {
@@ -271,9 +260,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "Hybirdss/Hycli",
             "description": "Websites, ready for AI. Turn website tasks into verified CLI and MCP actions, with a local dashboard and 20 languages.",
             "url": "https://github.com/Hybirdss/Hycli",
-            "stars": 358,
-            "forks": 85,
-            "score": 54
+            "stars": 365,
+            "forks": 88,
+            "score": 55
         },
         {
             "main_cat": "AI",
@@ -288,12 +277,23 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "frametell",
+            "full_name": "sitor-ai/frametell",
+            "description": "Frametell: turn your ideas and material into vivid explainer videos with an AI director agent. Local-first, any model.",
+            "url": "https://github.com/sitor-ai/frametell",
+            "stars": 344,
+            "forks": 67,
+            "score": 53
+        },
+        {
+            "main_cat": "AI",
             "sub_cat": null,
             "name": "ff-tracking",
             "full_name": "mrsarac/ff-tracking",
             "description": "A virtual camera films an AI agent's screen while a tracker locks onto every glyph. Two fframes passes, one SkSL shader, all sound synthesized.",
             "url": "https://github.com/mrsarac/ff-tracking",
-            "stars": 488,
+            "stars": 489,
             "forks": 31,
             "score": 51
         },
@@ -304,20 +304,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "liyupi/ai-promo-video-maker",
             "description": "\u4e00\u53e5\u8bdd\u8ba9 AI \u5e2e\u4f60\u505a\u4ea7\u54c1\u5ba3\u4f20\u7247\uff01\u628a\u4ea7\u54c1\u540d\u6216\u7f51\u5740\u544a\u8bc9 Cursor\u3001Claude Code\u3001Codex \u7b49 AI \u7f16\u7a0b\u5de5\u5177\uff0c\u5b83\u4f1a\u81ea\u5df1\u8c03\u7814\u4ea7\u54c1\u3001\u753b\u51fa\u591a\u79cd\u98ce\u683c\u6837\u56fe\u8ba9\u4f60\u6311\u9009\u3001\u622a\u53d6 4K \u771f\u5b9e\u9875\u9762\u3001\u6309\u97f3\u4e50\u8282\u62cd\u5361\u70b9\u526a\u8f91\u3001\u751f\u6210 AI \u65c1\u767d\u5e76\u9010\u53e5\u8f6c\u5199\u6821\u9a8c\u3001\u81ea\u52a8\u5ba1\u56fe\uff0c\u6700\u540e\u4ea4\u4ed8\u4e00\u652f 4K \u5546\u4e1a\u5ba3\u4f20\u89c6\u9891\u548c\u53ef\u5728\u7ebf\u64ad\u653e\u7684\u7f51\u9875\u7248\u3002App\u3001\u7f51\u7ad9\u3001SaaS\u3001\u5f00\u6e90\u9879\u76ee\u3001\u8bfe\u7a0b\u3001AI \u6a21\u578b\u90fd\u80fd\u505a\uff0c\u4f60\u53ea\u9700\u786e\u8ba4\u9700\u6c42\u3001\u8bd5\u542c\u914d\u4e50\u3002\u4e0d\u7528\u5b66\u526a\u8f91\u8f6f\u4ef6\uff0c\u4e5f\u4e0d\u7528\u82b1\u94b1\u627e\u5916\u5305\u3002\u57fa\u4e8e Remotion + ElevenLabs\uff0c\u53ef\u76f4\u63a5\u514b\u9686\u4f7f\u7528\uff0c\u4e5f\u80fd\u4e00\u952e\u5b89\u88c5\u4e3a Agent Skill\u3002",
             "url": "https://github.com/liyupi/ai-promo-video-maker",
-            "stars": 344,
+            "stars": 345,
             "forks": 58,
             "score": 50
         },
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "lintapple",
-            "full_name": "gholtzap/lintapple",
-            "description": "It should be impossible for AI to make a bad UI.",
-            "url": "https://github.com/gholtzap/lintapple",
-            "stars": 508,
-            "forks": 8,
-            "score": 46
+            "name": "muxin",
+            "full_name": "LumaryLabsLLC/muxin",
+            "description": "All your machines, one app. For you and your AI agents: agent sessions, desktops, files, logs and GitHub across your Macs, Linux and Windows machines, with an MCP server.",
+            "url": "https://github.com/LumaryLabsLLC/muxin",
+            "stars": 344,
+            "forks": 49,
+            "score": 48
         },
         {
             "main_cat": "AI",
@@ -326,7 +326,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "alextnetto/res",
             "description": "Agent skill to reverse engineer a SaaS product through the browser into a knowledge base for rebuilding it: screens, rules, data model, design tokens and production barriers, without touching production data.",
             "url": "https://github.com/alextnetto/res",
-            "stars": 140,
+            "stars": 144,
             "forks": 29,
             "score": 46
         },
@@ -442,17 +442,6 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "onchain-money-panels",
-            "full_name": "cryptosingheth/onchain-money-panels",
-            "description": "Drop-in dashboard panels on Canadian-dollar stablecoins, real stablecoin use, AI-agent payments and tokenized assets (Next.js, live DeFiLlama and CoinGecko data).",
-            "url": "https://github.com/cryptosingheth/onchain-money-panels",
-            "stars": 0,
-            "forks": 0,
-            "score": 30
-        },
-        {
-            "main_cat": "AI",
             "sub_cat": "AI Agents",
             "name": "agentpay",
             "full_name": "ariko-08/agentpay",
@@ -529,17 +518,6 @@ const ALPHA_DATA_V2 = {
             "score": 30
         },
         {
-            "main_cat": "Stablecoin Infrastructure",
-            "sub_cat": null,
-            "name": "arc-usdc-payment",
-            "full_name": "Chathura124/arc-usdc-payment",
-            "description": "A Web3 payment demo integrating Circle USDC, React, TypeScript, and Foundry smart contracts for seamless stablecoin transactions.",
-            "url": "https://github.com/Chathura124/arc-usdc-payment",
-            "stars": 0,
-            "forks": 0,
-            "score": 30
-        },
-        {
             "main_cat": "AI",
             "sub_cat": "AI General",
             "name": "crypto-pay-order-ops-kit",
@@ -579,6 +557,39 @@ const ALPHA_DATA_V2 = {
             "full_name": "Mrspalm75/ATAPAY",
             "description": "ATAPAY is a stablecoin payments platform built on Arc, enabling users to send and receive USDC, pay merchants, generate payment links and QR codes, create invoices, and track transactions. Designed to make digital payments faster, simpler, and more transparent through blockchain-powered settlement.",
             "url": "https://github.com/Mrspalm75/ATAPAY",
+            "stars": 0,
+            "forks": 0,
+            "score": 30
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "xemo",
+            "full_name": "Khalid-000-ME/xemo",
+            "description": "Describe a stablecoin, tokenization or prediction-market tool and the agent builds it, tests it in a sandbox, deploys it, and opens two payment rails: Stripe for people, x402 for agent",
+            "url": "https://github.com/Khalid-000-ME/xemo",
+            "stars": 0,
+            "forks": 0,
+            "score": 30
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "ArcInvoice",
+            "full_name": "codewithpradeep14/ArcInvoice",
+            "description": "ArcInvoice is a non-custodial stablecoin invoicing platform that allows freelancers and businesses to bill clients in USDC with shareable payment links and QR codes.   Payments settle directly on Circle's Arc Mainnet with automated on-chain RPC verification and instant downloadable receipts\u2014no intermediaries required.",
+            "url": "https://github.com/codewithpradeep14/ArcInvoice",
+            "stars": 0,
+            "forks": 0,
+            "score": 30
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "Blockchain-Assignment-9",
+            "full_name": "Londa-mas/Blockchain-Assignment-9",
+            "description": "Minimum Viable Product (MVP) for the BLCH9X2 African Remittances Payment Prototype capstone project (MFE, University of Johannesburg). Features an immutable blockchain ledger, 1:1 mZAR stablecoin on/off ramp gateway, automated Proof-of-Work mining, REST API, and a web block explorer.",
+            "url": "https://github.com/Londa-mas/Blockchain-Assignment-9",
             "stars": 0,
             "forks": 0,
             "score": 30
@@ -652,20 +663,6 @@ const ALPHA_DATA_V2 = {
     ],
     "news": [
         {
-            "title": "Accountable partial understanding: securing the epistemic attack surface of agentic systems",
-            "source": "ArXiv",
-            "type": "Research Alpha",
-            "color": "text-indigo-600",
-            "url": "http://arxiv.org/abs/2610.26799v1"
-        },
-        {
-            "title": "Game of Phones: Harnessing Game Theory and LLMs in 'Bot Wars' to Counteract Phone Scams",
-            "source": "ArXiv",
-            "type": "Research Alpha",
-            "color": "text-indigo-600",
-            "url": "http://arxiv.org/abs/2610.26781v1"
-        },
-        {
             "title": "Bitcoin volatility remains high ahead of key FED decision.",
             "source": "Polymarket",
             "type": "Expectation",
@@ -673,5 +670,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-10-20 21:06"
+    "timestamp": "2026-10-21 00:18"
 };
