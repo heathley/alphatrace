@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "onehumanbeing/esp32-iphone-agent",
             "description": "Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.",
             "url": "https://github.com/onehumanbeing/esp32-iphone-agent",
-            "stars": 3554,
-            "forks": 470,
+            "stars": 3578,
+            "forks": 472,
             "score": 99
         },
         {
@@ -18,8 +18,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "Leonxlnx/earshot",
             "description": "Ears for coding agents: let AI hear, review and make sound. CPU-only, open source.",
             "url": "https://github.com/Leonxlnx/earshot",
-            "stars": 2164,
-            "forks": 129,
+            "stars": 2248,
+            "forks": 138,
             "score": 99
         },
         {
@@ -29,7 +29,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "deeplethe/solid-glass",
             "description": "A design system for AI applications. Material, physical, tactile, technical.",
             "url": "https://github.com/deeplethe/solid-glass",
-            "stars": 2114,
+            "stars": 2123,
             "forks": 35,
             "score": 99
         },
@@ -40,8 +40,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "zhuyansen/new-term-radar",
             "description": "Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, GitHub and sitemaps before keyword tools list them.",
             "url": "https://github.com/zhuyansen/new-term-radar",
-            "stars": 1686,
-            "forks": 526,
+            "stars": 1709,
+            "forks": 530,
             "score": 99
         },
         {
@@ -62,8 +62,19 @@ const ALPHA_DATA_V2 = {
             "full_name": "cranebeaker/coop-anything",
             "description": "Co-op Anything: point your AI agent at any single-player game and play it with friends (online and/or splitscreen!). MCP server and playbook to let you reverse engineer, fix, test, ship and share what it learns.",
             "url": "https://github.com/cranebeaker/coop-anything",
-            "stars": 842,
-            "forks": 113,
+            "stars": 849,
+            "forks": 117,
+            "score": 99
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "AI-Cross-Border-Ecommerce-Agent-Toolkit",
+            "full_name": "heqiangdiao-wq/AI-Cross-Border-Ecommerce-Agent-Toolkit",
+            "description": "AI \u8de8\u5883\u7535\u5546\u8fd0\u8425\u667a\u80fd\u4f53\u5de5\u5177\u7bb1 \u00b7 \u628a\u8fd0\u8425 SOP \u62c6\u6210 7 \u4e2a\u53ef\u590d\u7528\u7684 AI Agent \u5de5\u4f5c\u6d41\uff0c\u542b Prompt\u3001\u6a21\u677f\u4e0e\u771f\u5b9e\u6848\u4f8b",
+            "url": "https://github.com/heqiangdiao-wq/AI-Cross-Border-Ecommerce-Agent-Toolkit",
+            "stars": 546,
+            "forks": 605,
             "score": 99
         },
         {
@@ -79,25 +90,14 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
-            "sub_cat": null,
-            "name": "AI-Cross-Border-Ecommerce-Agent-Toolkit",
-            "full_name": "heqiangdiao-wq/AI-Cross-Border-Ecommerce-Agent-Toolkit",
-            "description": "AI \u8de8\u5883\u7535\u5546\u8fd0\u8425\u667a\u80fd\u4f53\u5de5\u5177\u7bb1 \u00b7 \u628a\u8fd0\u8425 SOP \u62c6\u6210 7 \u4e2a\u53ef\u590d\u7528\u7684 AI Agent \u5de5\u4f5c\u6d41\uff0c\u542b Prompt\u3001\u6a21\u677f\u4e0e\u771f\u5b9e\u6848\u4f8b",
-            "url": "https://github.com/heqiangdiao-wq/AI-Cross-Border-Ecommerce-Agent-Toolkit",
-            "stars": 531,
-            "forks": 591,
-            "score": 99
-        },
-        {
-            "main_cat": "AI",
             "sub_cat": "AI General",
             "name": "ai-jailbreaks",
             "full_name": "Alejandros17487/ai-jailbreaks",
             "description": "AI jailbreaks: 35 paste-ready AI jailbreak prompts for 25+ frontier and open-weight models - system prompts, AGENTS.md specs, and Ollama Modelfiles. Built for AI security research and red-team testing.",
             "url": "https://github.com/Alejandros17487/ai-jailbreaks",
-            "stars": 330,
-            "forks": 54,
-            "score": 98
+            "stars": 339,
+            "forks": 56,
+            "score": 99
         },
         {
             "main_cat": "AI",
@@ -106,8 +106,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "feder-cr/git-ai",
             "description": "Git designed for AI agents.",
             "url": "https://github.com/feder-cr/git-ai",
-            "stars": 966,
-            "forks": 92,
+            "stars": 967,
+            "forks": 93,
             "score": 96
         },
         {
@@ -117,9 +117,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "nateherkai/roast-room",
             "description": "Seven AI advisors (Bezos, Paul Graham, Hormozi, Gary Vee, Dan Martell, Gino Wickman, Buffett) debate your business decision in Claude Code, live around a table.",
             "url": "https://github.com/nateherkai/roast-room",
-            "stars": 1001,
-            "forks": 227,
-            "score": 93
+            "stars": 1011,
+            "forks": 231,
+            "score": 94
         },
         {
             "main_cat": "AI",
@@ -128,8 +128,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "rociiu/talorys",
             "description": "Your personal AI agent in your own Cloudflare account. Chat, memory, tasks, notes and scheduled reminders, deployed with one command: npx create-talorys@latest. Free-tier friendly, single-user, no telemetry.",
             "url": "https://github.com/rociiu/talorys",
-            "stars": 1372,
-            "forks": 118,
+            "stars": 1373,
+            "forks": 120,
             "score": 91
         },
         {
@@ -139,7 +139,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "jwuthri-cloud/Tracely-ai",
             "description": "Trace-native CI/CD for AI agents: grade production traces, cluster failures, freeze them into replayable regression tests, and block PRs that regress. Self-hostable.",
             "url": "https://github.com/jwuthri-cloud/Tracely-ai",
-            "stars": 1152,
+            "stars": 1154,
             "forks": 140,
             "score": 91
         },
@@ -150,7 +150,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "garycaogan/ai-live-avatar",
             "description": "AI \u5b9e\u65f6\u76f4\u64ad\u95f4\uff1aVidu S2 \u5b9e\u65f6\u6570\u5b57\u4eba + \u5f39\u5e55\u8fc7\u6ee4\u8c03\u5ea6 + \u8863\u67dc\u6362\u88c5 + OBS \u53e0\u5c42\uff08\u89d2\u8272\u8d44\u4ea7\u4e0d\u542b\uff09",
             "url": "https://github.com/garycaogan/ai-live-avatar",
-            "stars": 331,
+            "stars": 335,
             "forks": 98,
             "score": 90
         },
@@ -161,7 +161,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "VITASID57/bluntcore-intimacy-lab",
             "description": "\ud83e\uddec \u949d\u6838\uff5c\u4eba\u673a\u4eb2\u5bc6\u5b9e\u9a8c\u5ba4 \u00b7 Bluntcore Intimacy Lab\uff5c\u4eba\u673a\u604b\u3001\u6210\u4eba AI\u3001Prompt\u3001Memory\u3001Agent\u3001\u6a21\u578b\u5e8a\u6d4b\u4e0e\u5b9e\u9a8c\u8bb0\u5f55\u3002",
             "url": "https://github.com/VITASID57/bluntcore-intimacy-lab",
-            "stars": 570,
+            "stars": 574,
             "forks": 97,
             "score": 83
         },
@@ -172,8 +172,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "mistralai/timestral",
             "description": "Repository for Timestral, the time-series foundation model by Mistral AI",
             "url": "https://github.com/mistralai/timestral",
-            "stars": 764,
-            "forks": 60,
+            "stars": 769,
+            "forks": 61,
             "score": 80
         },
         {
@@ -183,9 +183,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "kanaworksai-hue/audio-studio-mcp",
             "description": "Local AI BGM and sound effects for Claude Code and any MCP client. Stable Audio 3 on Apple Silicon (MLX) and Windows NVIDIA GPUs (PyTorch). No cloud, no API key.",
             "url": "https://github.com/kanaworksai-hue/audio-studio-mcp",
-            "stars": 443,
-            "forks": 32,
-            "score": 70
+            "stars": 445,
+            "forks": 33,
+            "score": 71
         },
         {
             "main_cat": "AI",
@@ -194,8 +194,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "UnderleveledBuilder/awesome-short-drama-skills",
             "description": "AI \u77ed\u5267 \u00b7 \u6f2b\u5267 Skill\uff08\u6280\u80fd\u5305\uff09\u7cbe\u9009\uff1a\u5267\u672c\u3001\u6539\u7f16\u3001\u5206\u955c\u3001Seedance / \u53ef\u7075 / MiniMax \u89c6\u9891\u63d0\u793a\u8bcd\uff0c\u5343\u95ee\u3001\u8c46\u5305\u3001\u9f99\u867e OpenClaw\u3001WorkBuddy\u3001Claude Code\u3001Codex \u7b49\u667a\u80fd\u4f53\u53ef\u7528 | Curated agent skills for AI short drama, micro drama / microdrama, vertical drama and manju (AI comic drama): screenwriting, storyboards, Seedance / Kling / MiniMax video prompts",
             "url": "https://github.com/UnderleveledBuilder/awesome-short-drama-skills",
-            "stars": 635,
-            "forks": 70,
+            "stars": 644,
+            "forks": 71,
             "score": 68
         },
         {
@@ -205,9 +205,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "alexgaoth/awesome-reverse-engineered",
             "description": "Don't reverse engineer it twice. 16,000+ open-source tools built by reverse engineering closed apps, APIs, devices, protocols, file formats, games and AI tools. Search site + agent skill + MCP server, refreshed nightly.",
             "url": "https://github.com/alexgaoth/awesome-reverse-engineered",
-            "stars": 601,
-            "forks": 113,
-            "score": 67
+            "stars": 610,
+            "forks": 118,
+            "score": 68
         },
         {
             "main_cat": "AI",
@@ -216,7 +216,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "chuiziyao/maimen-certification",
             "description": "\ud83c\udf54 \u9ea6\u95e8\u8ba4\u8bc1\u673a \u2014 \u4e0a\u4f20\u4efb\u610f\u56fe\u7247\uff0cAI \u9274\u5b9a\u9ea6\u95e8\u8eab\u4efd\uff1a\u8ba4\u8bc1\u6897\u56fe\u5361 + \u771f\u5b9e\u8425\u517b\u6570\u636e\u5957\u9910\u63a8\u8350 + \u4e00\u952e\u9886\u5238\u30022026 \u9ea6\u5f53\u52b3\u7a0b\u5e8f\u5458\u521b\u610f\u5f00\u53d1\u5927\u8d5b\u53c2\u8d5b\u4f5c\u54c1",
             "url": "https://github.com/chuiziyao/maimen-certification",
-            "stars": 875,
+            "stars": 878,
             "forks": 44,
             "score": 65
         },
@@ -238,7 +238,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "finereli/whatsapp-mcp",
             "description": "A read-only MCP server that lets your AI agent search and read your own WhatsApp messages. Runs on Cloudflare Workers.",
             "url": "https://github.com/finereli/whatsapp-mcp",
-            "stars": 324,
+            "stars": 325,
             "forks": 26,
             "score": 60
         },
@@ -249,8 +249,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "nace-ai/kapitsa",
             "description": "Blazing fast Apple Silicon optimized inference engine built for Qwen & Nemotron. OpenAI + Anthropic API compatible. Built by folks from nace.ai",
             "url": "https://github.com/nace-ai/kapitsa",
-            "stars": 324,
-            "forks": 48,
+            "stars": 358,
+            "forks": 52,
             "score": 58
         },
         {
@@ -282,7 +282,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "sitor-ai/frametell",
             "description": "Frametell: turn your ideas and material into vivid explainer videos with an AI director agent. Local-first, any model.",
             "url": "https://github.com/sitor-ai/frametell",
-            "stars": 379,
+            "stars": 382,
             "forks": 78,
             "score": 53
         },
@@ -293,9 +293,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "songshikang0111/awesome-REA-cases",
             "description": "A curated collection of REA and AI-assisted reverse engineering cases, projects, and ideas. Updated every four hours.",
             "url": "https://github.com/songshikang0111/awesome-REA-cases",
-            "stars": 316,
+            "stars": 318,
             "forks": 53,
-            "score": 50
+            "score": 48
         },
         {
             "main_cat": "AI",
@@ -304,8 +304,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "alextnetto/res",
             "description": "Agent skill to reverse engineer a SaaS product through the browser into a knowledge base for rebuilding it: screens, rules, data model, design tokens and production barriers, without touching production data.",
             "url": "https://github.com/alextnetto/res",
-            "stars": 188,
-            "forks": 36,
+            "stars": 189,
+            "forks": 37,
             "score": 46
         },
         {
@@ -315,9 +315,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "Generated-Computers/Locals",
             "description": "Run many AI agents at once on your Mac, up to 3x faster.",
             "url": "https://github.com/Generated-Computers/Locals",
-            "stars": 288,
+            "stars": 299,
             "forks": 17,
-            "score": 43
+            "score": 44
         },
         {
             "main_cat": "AI",
@@ -337,7 +337,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "aindeev/agent-chrome-relay",
             "description": "Let your AI agents use your Chrome, signed in as you, in background tabs. By Alexey Indeev \u00b7 blog: read.aindeev.com \u00b7 X: @AlexeyIndeev",
             "url": "https://github.com/aindeev/agent-chrome-relay",
-            "stars": 280,
+            "stars": 281,
             "forks": 11,
             "score": 40
         },
@@ -361,7 +361,7 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/Lore-Hex/token-exchange-neocloud-in-a-box",
             "stars": 52,
             "forks": 0,
-            "score": 34
+            "score": 33
         },
         {
             "main_cat": "AI",
@@ -438,6 +438,17 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/Bekirerdem/sortium",
             "stars": 0,
             "forks": 1,
+            "score": 30
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "MemePredictions",
+            "full_name": "FeineCapital/MemePredictions",
+            "description": "Prediction markets for Solana memecoins. Bet on where a memecoin is going, cash out anytime, get paid automatically.",
+            "url": "https://github.com/FeineCapital/MemePredictions",
+            "stars": 0,
+            "forks": 0,
             "score": 30
         },
         {
@@ -637,33 +648,22 @@ const ALPHA_DATA_V2 = {
             "stars": 0,
             "forks": 0,
             "score": 30
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "mcp-agent-orchestrator",
-            "full_name": "ShashankIIITN/mcp-agent-orchestrator",
-            "description": "Model Context Protocol multi-agent coordination kernel, cross-session mesh, and context firewall.",
-            "url": "https://github.com/ShashankIIITN/mcp-agent-orchestrator",
-            "stars": 0,
-            "forks": 0,
-            "score": 30
         }
     ],
     "news": [
         {
-            "title": "VX-One: Typed, Calibrated Decision Heads for Real-Time Perimeter Triage - An empirical study of unknown-attack honesty, cascade gray zones, and calibration under drift",
+            "title": "OP-Print: Tracing Membership Imprints in On-Policy Self-Distillation",
             "source": "ArXiv",
             "type": "Research Alpha",
             "color": "text-indigo-600",
-            "url": "http://arxiv.org/abs/2610.30090v1"
+            "url": "http://arxiv.org/abs/2610.31616v1"
         },
         {
-            "title": "GhostFaceMPC: Privacy-Preserving Face Recognition with Multi-Party Computation",
+            "title": "Efficient and Optimal Learning of Discrete Distributions with Person-Level Privacy",
             "source": "ArXiv",
             "type": "Research Alpha",
             "color": "text-indigo-600",
-            "url": "http://arxiv.org/abs/2610.29987v1"
+            "url": "http://arxiv.org/abs/2610.31612v1"
         },
         {
             "title": "Bitcoin volatility remains high ahead of key FED decision.",
@@ -673,5 +673,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-10-23 00:19"
+    "timestamp": "2026-10-23 05:38"
 };
