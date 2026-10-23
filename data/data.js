@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "onehumanbeing/esp32-iphone-agent",
             "description": "Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.",
             "url": "https://github.com/onehumanbeing/esp32-iphone-agent",
-            "stars": 3625,
-            "forks": 475,
+            "stars": 3627,
+            "forks": 476,
             "score": 99
         },
         {
@@ -18,7 +18,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Leonxlnx/earshot",
             "description": "Ears for coding agents: let AI hear, review and make sound. CPU-only, open source.",
             "url": "https://github.com/Leonxlnx/earshot",
-            "stars": 2421,
+            "stars": 2446,
             "forks": 151,
             "score": 99
         },
@@ -40,7 +40,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "zhuyansen/new-term-radar",
             "description": "Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, GitHub and sitemaps before keyword tools list them.",
             "url": "https://github.com/zhuyansen/new-term-radar",
-            "stars": 1754,
+            "stars": 1756,
             "forks": 543,
             "score": 99
         },
@@ -51,7 +51,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "marclou/mailcheap",
             "description": "Newsletters where you pay for the emails you send, not for dormant subscribers, at a fraction of the price of beehiiv and the like. Open source: self-host it, or use mailcheap.ai.",
             "url": "https://github.com/marclou/mailcheap",
-            "stars": 1319,
+            "stars": 1323,
             "forks": 337,
             "score": 99
         },
@@ -62,8 +62,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "cranebeaker/coop-anything",
             "description": "Co-op Anything: point your AI agent at any single-player game and play it with friends (online and/or splitscreen!). MCP server and playbook to let you reverse engineer, fix, test, ship and share what it learns.",
             "url": "https://github.com/cranebeaker/coop-anything",
-            "stars": 1014,
-            "forks": 132,
+            "stars": 1044,
+            "forks": 138,
             "score": 99
         },
         {
@@ -74,7 +74,7 @@ const ALPHA_DATA_V2 = {
             "description": "AI \u8de8\u5883\u7535\u5546\u8fd0\u8425\u667a\u80fd\u4f53\u5de5\u5177\u7bb1 \u00b7 \u628a\u8fd0\u8425 SOP \u62c6\u6210 7 \u4e2a\u53ef\u590d\u7528\u7684 AI Agent \u5de5\u4f5c\u6d41\uff0c\u542b Prompt\u3001\u6a21\u677f\u4e0e\u771f\u5b9e\u6848\u4f8b",
             "url": "https://github.com/heqiangdiao-wq/AI-Cross-Border-Ecommerce-Agent-Toolkit",
             "stars": 604,
-            "forks": 653,
+            "forks": 654,
             "score": 99
         },
         {
@@ -95,8 +95,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "Alejandros17487/ai-jailbreaks",
             "description": "AI jailbreaks: 35 paste-ready AI jailbreak prompts for 25+ frontier and open-weight models - system prompts, AGENTS.md specs, and Ollama Modelfiles. Built for AI security research and red-team testing.",
             "url": "https://github.com/Alejandros17487/ai-jailbreaks",
-            "stars": 451,
-            "forks": 82,
+            "stars": 470,
+            "forks": 84,
             "score": 99
         },
         {
@@ -106,9 +106,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "nateherkai/roast-room",
             "description": "Seven AI advisors (Bezos, Paul Graham, Hormozi, Gary Vee, Dan Martell, Gino Wickman, Buffett) debate your business decision in Claude Code, live around a table.",
             "url": "https://github.com/nateherkai/roast-room",
-            "stars": 1041,
-            "forks": 246,
-            "score": 97
+            "stars": 1045,
+            "forks": 247,
+            "score": 93
         },
         {
             "main_cat": "AI",
@@ -117,8 +117,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "feder-cr/git-ai",
             "description": "Git designed for AI agents.",
             "url": "https://github.com/feder-cr/git-ai",
-            "stars": 978,
-            "forks": 94,
+            "stars": 980,
+            "forks": 95,
             "score": 91
         },
         {
@@ -139,7 +139,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "jwuthri-cloud/Tracely-ai",
             "description": "Trace-native CI/CD for AI agents: grade production traces, cluster failures, freeze them into replayable regression tests, and block PRs that regress. Self-hostable.",
             "url": "https://github.com/jwuthri-cloud/Tracely-ai",
-            "stars": 1159,
+            "stars": 1162,
             "forks": 140,
             "score": 87
         },
@@ -172,7 +172,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "mistralai/timestral",
             "description": "Repository for Timestral, the time-series foundation model by Mistral AI",
             "url": "https://github.com/mistralai/timestral",
-            "stars": 803,
+            "stars": 808,
             "forks": 64,
             "score": 78
         },
@@ -183,20 +183,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "chuiziyao/maimen-certification",
             "description": "\ud83c\udf54 \u9ea6\u95e8\u8ba4\u8bc1\u673a \u2014 \u4e0a\u4f20\u4efb\u610f\u56fe\u7247\uff0cAI \u9274\u5b9a\u9ea6\u95e8\u8eab\u4efd\uff1a\u8ba4\u8bc1\u6897\u56fe\u5361 + \u771f\u5b9e\u8425\u517b\u6570\u636e\u5957\u9910\u63a8\u8350 + \u4e00\u952e\u9886\u5238\u30022026 \u9ea6\u5f53\u52b3\u7a0b\u5e8f\u5458\u521b\u610f\u5f00\u53d1\u5927\u8d5b\u53c2\u8d5b\u4f5c\u54c1",
             "url": "https://github.com/chuiziyao/maimen-certification",
-            "stars": 1003,
-            "forks": 63,
-            "score": 69
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "awesome-short-drama-skills",
-            "full_name": "UnderleveledBuilder/awesome-short-drama-skills",
-            "description": "AI \u77ed\u5267 \u00b7 \u6f2b\u5267 Skill\uff08\u6280\u80fd\u5305\uff09\u7cbe\u9009\uff1a\u5267\u672c\u3001\u6539\u7f16\u3001\u5206\u955c\u3001Seedance / \u53ef\u7075 / MiniMax \u89c6\u9891\u63d0\u793a\u8bcd\uff0c\u5343\u95ee\u3001\u8c46\u5305\u3001\u9f99\u867e OpenClaw\u3001WorkBuddy\u3001Claude Code\u3001Codex \u7b49\u667a\u80fd\u4f53\u53ef\u7528 | Curated agent skills for AI short drama, micro drama / microdrama, vertical drama and manju (AI comic drama): screenwriting, storyboards, Seedance / Kling / MiniMax video prompts",
-            "url": "https://github.com/UnderleveledBuilder/awesome-short-drama-skills",
-            "stars": 656,
-            "forks": 75,
-            "score": 69
+            "stars": 1037,
+            "forks": 69,
+            "score": 71
         },
         {
             "main_cat": "AI",
@@ -205,7 +194,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "alexgaoth/awesome-reverse-engineered",
             "description": "Don't reverse engineer it twice. 16,000+ open-source tools built by reverse engineering closed apps, APIs, devices, protocols, file formats, games and AI tools. Search site + agent skill + MCP server, refreshed nightly.",
             "url": "https://github.com/alexgaoth/awesome-reverse-engineered",
-            "stars": 632,
+            "stars": 637,
             "forks": 123,
             "score": 67
         },
@@ -216,19 +205,30 @@ const ALPHA_DATA_V2 = {
             "full_name": "kanaworksai-hue/audio-studio-mcp",
             "description": "Local AI BGM and sound effects for Claude Code and any MCP client. Stable Audio 3 on Apple Silicon (MLX) and Windows NVIDIA GPUs (PyTorch). No cloud, no API key.",
             "url": "https://github.com/kanaworksai-hue/audio-studio-mcp",
-            "stars": 460,
+            "stars": 462,
             "forks": 33,
             "score": 67
         },
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "whatsapp-mcp",
-            "full_name": "finereli/whatsapp-mcp",
-            "description": "A read-only MCP server that lets your AI agent search and read your own WhatsApp messages. Runs on Cloudflare Workers.",
-            "url": "https://github.com/finereli/whatsapp-mcp",
-            "stars": 334,
-            "forks": 26,
+            "name": "awesome-short-drama-skills",
+            "full_name": "UnderleveledBuilder/awesome-short-drama-skills",
+            "description": "AI \u77ed\u5267 \u00b7 \u6f2b\u5267 Skill\uff08\u6280\u80fd\u5305\uff09\u7cbe\u9009\uff1a\u5267\u672c\u3001\u6539\u7f16\u3001\u5206\u955c\u3001Seedance / \u53ef\u7075 / MiniMax \u89c6\u9891\u63d0\u793a\u8bcd\uff0c\u5343\u95ee\u3001\u8c46\u5305\u3001\u9f99\u867e OpenClaw\u3001WorkBuddy\u3001Claude Code\u3001Codex \u7b49\u667a\u80fd\u4f53\u53ef\u7528 | Curated agent skills for AI short drama, micro drama / microdrama, vertical drama and manju (AI comic drama): screenwriting, storyboards, Seedance / Kling / MiniMax video prompts",
+            "url": "https://github.com/UnderleveledBuilder/awesome-short-drama-skills",
+            "stars": 656,
+            "forks": 76,
+            "score": 66
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "kapitsa",
+            "full_name": "nace-ai/kapitsa",
+            "description": "Blazing fast Apple Silicon optimized inference engine built for Qwen & Nemotron. OpenAI + Anthropic API compatible. Built by folks from nace.ai",
+            "url": "https://github.com/nace-ai/kapitsa",
+            "stars": 393,
+            "forks": 57,
             "score": 61
         },
         {
@@ -244,14 +244,14 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "kapitsa",
-            "full_name": "nace-ai/kapitsa",
-            "description": "Blazing fast Apple Silicon optimized inference engine built for Qwen & Nemotron. OpenAI + Anthropic API compatible. Built by folks from nace.ai",
-            "url": "https://github.com/nace-ai/kapitsa",
-            "stars": 383,
-            "forks": 55,
-            "score": 60
+            "sub_cat": null,
+            "name": "whatsapp-mcp",
+            "full_name": "finereli/whatsapp-mcp",
+            "description": "A read-only MCP server that lets your AI agent search and read your own WhatsApp messages. Runs on Cloudflare Workers.",
+            "url": "https://github.com/finereli/whatsapp-mcp",
+            "stars": 335,
+            "forks": 26,
+            "score": 57
         },
         {
             "main_cat": "AI",
@@ -271,7 +271,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "spideymooon/McOracle",
             "description": "\u4e0d\u8981\u95ee AI\uff0c\u95ee\u85af\u6761\u3002\u4e00\u4e2a\u7ed3\u5408\u9ea6\u5f53\u52b3 MCP \u4e0e AI \u7b54\u6848\u4e4b\u4e66\u7684 Skill\u3002",
             "url": "https://github.com/spideymooon/McOracle",
-            "stars": 617,
+            "stars": 620,
             "forks": 24,
             "score": 55
         },
@@ -283,8 +283,8 @@ const ALPHA_DATA_V2 = {
             "description": "Frametell: turn your ideas and material into vivid explainer videos with an AI director agent. Local-first, any model.",
             "url": "https://github.com/sitor-ai/frametell",
             "stars": 391,
-            "forks": 78,
-            "score": 51
+            "forks": 79,
+            "score": 52
         },
         {
             "main_cat": "AI",
@@ -304,9 +304,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "ctoldigital/axuse",
             "description": "Accessibility-first browser & computer use for AI agents \u2014 one MCP server for every harness (Codex, Claude Code, OpenCode, Antigravity). Instruments the DOM/accessibility tree via CDP instead of screenshot loops: diffed snapshots, stable element refs, trusted input, typed errors. Zero dependencies",
             "url": "https://github.com/ctoldigital/axuse",
-            "stars": 325,
+            "stars": 336,
             "forks": 17,
-            "score": 47
+            "score": 46
         },
         {
             "main_cat": "AI",
@@ -315,7 +315,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "alextnetto/res",
             "description": "Agent skill to reverse engineer a SaaS product through the browser into a knowledge base for rebuilding it: screens, rules, data model, design tokens and production barriers, without touching production data.",
             "url": "https://github.com/alextnetto/res",
-            "stars": 194,
+            "stars": 196,
             "forks": 38,
             "score": 45
         },
@@ -326,9 +326,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "Generated-Computers/Locals",
             "description": "Run many AI agents at once on your Mac, up to 3x faster.",
             "url": "https://github.com/Generated-Computers/Locals",
-            "stars": 307,
+            "stars": 309,
             "forks": 21,
-            "score": 43
+            "score": 44
         },
         {
             "main_cat": "AI",
@@ -337,9 +337,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "songconmaisaix31-design/mcpet",
             "description": "\u628a\u5199\u4ee3\u7801\u65f6\u7684 AI \u642d\u5b50\u6362\u4e0a\u9ea6\u5f53\u52b3\u5236\u670d\uff0c\u517b\u5728\u684c\u9762\u89d2\u843d\uff1a11:30 \u558a\u4f60\u5e72\u996d\u3001\u6c47\u62a5\u6700\u5212\u7b97\u7684\u5238\u3001\u7528\u8425\u517b\u6570\u636e\u628a\u5173\uff1b\u8dd1\u957f\u4efb\u52a1\u65f6\u540c\u6b65\u9879\u76ee\u8fdb\u5ea6\u4e0e token \u4f59\u989d\u3002",
             "url": "https://github.com/songconmaisaix31-design/mcpet",
-            "stars": 312,
-            "forks": 17,
-            "score": 41
+            "stars": 313,
+            "forks": 18,
+            "score": 42
         },
         {
             "main_cat": "AI",
@@ -659,6 +659,17 @@ const ALPHA_DATA_V2 = {
             "stars": 0,
             "forks": 0,
             "score": 30
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI Agents",
+            "name": "a2a-agent-ecosystem",
+            "full_name": "pemujo/a2a-agent-ecosystem",
+            "description": "From Solo Agents to Agent Ecosystems with A2A: A 4-agent reference architecture combining the Agent2Agent (A2A) Protocol, MCP, Zero-Trust OIDC-to-JWT token brokering, and cross-framework interoperability between Google ADK and the OpenAI Agents SDK.",
+            "url": "https://github.com/pemujo/a2a-agent-ecosystem",
+            "stars": 0,
+            "forks": 0,
+            "score": 30
         }
     ],
     "news": [
@@ -684,5 +695,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-10-23 19:42"
+    "timestamp": "2026-10-23 22:49"
 };
