@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "Leonxlnx/earshot",
             "description": "Ears for coding agents: let AI hear, review and make sound. CPU-only, open source.",
             "url": "https://github.com/Leonxlnx/earshot",
-            "stars": 2865,
-            "forks": 173,
+            "stars": 2900,
+            "forks": 177,
             "score": 99
         },
         {
@@ -18,8 +18,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "rddmwmddr/android-ad-cleaner",
             "description": "\u5173\u6389\u56fd\u4ea7\u5b89\u5353\u624b\u673a\u7cfb\u7edf\u91cc\u7684\u5e7f\u544a\u3001\u70ed\u641c\u3001\u8d44\u8baf\u63a8\u8350\u548c\u8425\u9500\u63a8\u9001\u3002\u4e0d root\uff0c\u53ef\u8fd8\u539f\uff0c\u652f\u6301 AI \u667a\u80fd\u4f53\u4e00\u952e\u6267\u884c\u3002",
             "url": "https://github.com/rddmwmddr/android-ad-cleaner",
-            "stars": 1643,
-            "forks": 137,
+            "stars": 1822,
+            "forks": 149,
             "score": 99
         },
         {
@@ -29,19 +29,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "cranebeaker/coop-anything",
             "description": "Co-op Anything: point your AI agent at any single-player game and play it with friends (online and/or splitscreen!). MCP server and playbook to let you reverse engineer, fix, test, ship and share what it learns.",
             "url": "https://github.com/cranebeaker/coop-anything",
-            "stars": 1408,
-            "forks": 182,
-            "score": 99
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "AI-Cross-Border-Ecommerce-Agent-Toolkit",
-            "full_name": "heqiangdiao-wq/AI-Cross-Border-Ecommerce-Agent-Toolkit",
-            "description": "AI \u8de8\u5883\u7535\u5546\u8fd0\u8425\u667a\u80fd\u4f53\u5de5\u5177\u7bb1 \u00b7 \u628a\u8fd0\u8425 SOP \u62c6\u6210 7 \u4e2a\u53ef\u590d\u7528\u7684 AI Agent \u5de5\u4f5c\u6d41\uff0c\u542b Prompt\u3001\u6a21\u677f\u4e0e\u771f\u5b9e\u6848\u4f8b",
-            "url": "https://github.com/heqiangdiao-wq/AI-Cross-Border-Ecommerce-Agent-Toolkit",
-            "stars": 692,
-            "forks": 722,
+            "stars": 1429,
+            "forks": 184,
             "score": 99
         },
         {
@@ -51,8 +40,19 @@ const ALPHA_DATA_V2 = {
             "full_name": "DenisSergeevitch/ex-ussr-kinship-research",
             "description": "Evidence-first genealogy skill for AI agents (Codex, Claude Code): church books, civil, military, deportation and repression records across the former USSR. Replies in your language.",
             "url": "https://github.com/DenisSergeevitch/ex-ussr-kinship-research",
-            "stars": 690,
-            "forks": 68,
+            "stars": 753,
+            "forks": 76,
+            "score": 99
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "AI-Cross-Border-Ecommerce-Agent-Toolkit",
+            "full_name": "heqiangdiao-wq/AI-Cross-Border-Ecommerce-Agent-Toolkit",
+            "description": "AI \u8de8\u5883\u7535\u5546\u8fd0\u8425\u667a\u80fd\u4f53\u5de5\u5177\u7bb1 \u00b7 \u628a\u8fd0\u8425 SOP \u62c6\u6210 7 \u4e2a\u53ef\u590d\u7528\u7684 AI Agent \u5de5\u4f5c\u6d41\uff0c\u542b Prompt\u3001\u6a21\u677f\u4e0e\u771f\u5b9e\u6848\u4f8b",
+            "url": "https://github.com/heqiangdiao-wq/AI-Cross-Border-Ecommerce-Agent-Toolkit",
+            "stars": 698,
+            "forks": 731,
             "score": 99
         },
         {
@@ -62,8 +62,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "andyhuo520/digital-human-koubo",
             "description": "AI digital-human talking-head videos from one photo: Renoise MCP generation + 5 editing styles + 48 creator-grade packaging components. Agent skill for Claude Code / Codex / OpenClaw / WorkBuddy \u2026",
             "url": "https://github.com/andyhuo520/digital-human-koubo",
-            "stars": 442,
-            "forks": 123,
+            "stars": 614,
+            "forks": 167,
             "score": 99
         },
         {
@@ -73,9 +73,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "hevnsnt/CVEngine",
             "description": "AI-first external attack surface assessment with continuous discovery, evidence-based vulnerability validation, and developer-agent MCP integration.",
             "url": "https://github.com/hevnsnt/CVEngine",
-            "stars": 318,
-            "forks": 52,
-            "score": 95
+            "stars": 364,
+            "forks": 55,
+            "score": 99
         },
         {
             "main_cat": "AI",
@@ -84,9 +84,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "yaojingang/GEOInflow",
             "description": "Self-hosted web and AI crawler analytics for Generative Engine Optimization (GEO). Track visitors, AI search referrals, crawl logs, content coverage, and conversions. Jointly published by \u730e\u770b\u79d1\u6280 \u00b7 \u5317\u4eac\u65e5\u62a5\u793e\u667a\u6e90GEO. MIT licensed.",
             "url": "https://github.com/yaojingang/GEOInflow",
-            "stars": 238,
-            "forks": 39,
-            "score": 95
+            "stars": 315,
+            "forks": 58,
+            "score": 99
         },
         {
             "main_cat": "AI",
@@ -95,7 +95,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "i12bp8/decomp.wtf",
             "description": "What The Function: your AI agent decompiles games you own into C that compiles to the exact same bytes. Runs locally.",
             "url": "https://github.com/i12bp8/decomp.wtf",
-            "stars": 540,
+            "stars": 541,
             "forks": 337,
             "score": 89
         },
@@ -106,9 +106,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "Alejandros17487/ai-jailbreaks",
             "description": "AI jailbreaks: 35 paste-ready AI jailbreak prompts for 25+ frontier and open-weight models - system prompts, AGENTS.md specs, and Ollama Modelfiles. Built for AI security research and red-team testing.",
             "url": "https://github.com/Alejandros17487/ai-jailbreaks",
-            "stars": 492,
-            "forks": 97,
-            "score": 85
+            "stars": 499,
+            "forks": 100,
+            "score": 86
         },
         {
             "main_cat": "AI",
@@ -117,8 +117,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "UnderleveledBuilder/awesome-short-drama-skills",
             "description": "AI \u77ed\u5267 \u00b7 \u6f2b\u5267 Skill\uff08\u6280\u80fd\u5305\uff09\u7cbe\u9009\uff1a\u5267\u672c\u3001\u6539\u7f16\u3001\u5206\u955c\u3001Seedance / \u53ef\u7075 / MiniMax \u89c6\u9891\u63d0\u793a\u8bcd\uff0c\u5343\u95ee\u3001\u8c46\u5305\u3001\u9f99\u867e OpenClaw\u3001WorkBuddy\u3001Claude Code\u3001Codex \u7b49\u667a\u80fd\u4f53\u53ef\u7528 | Curated agent skills for AI short drama, micro drama / microdrama, vertical drama and manju (AI comic drama): screenwriting, storyboards, Seedance / Kling / MiniMax video prompts",
             "url": "https://github.com/UnderleveledBuilder/awesome-short-drama-skills",
-            "stars": 1014,
-            "forks": 132,
+            "stars": 1026,
+            "forks": 133,
             "score": 81
         },
         {
@@ -128,9 +128,53 @@ const ALPHA_DATA_V2 = {
             "full_name": "feder-cr/git-ai",
             "description": "Git designed for AI agents.",
             "url": "https://github.com/feder-cr/git-ai",
-            "stars": 992,
+            "stars": 998,
             "forks": 97,
             "score": 79
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "timestral",
+            "full_name": "mistralai/timestral",
+            "description": "Repository for Timestral, the time-series foundation model by Mistral AI",
+            "url": "https://github.com/mistralai/timestral",
+            "stars": 906,
+            "forks": 71,
+            "score": 72
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "bluntcore-intimacy-lab",
+            "full_name": "VITASID57/bluntcore-intimacy-lab",
+            "description": "\ud83e\uddec \u949d\u6838\uff5c\u4eba\u673a\u4eb2\u5bc6\u5b9e\u9a8c\u5ba4 \u00b7 Bluntcore Intimacy Lab\uff5c\u4eba\u673a\u604b\u3001\u6210\u4eba AI\u3001Prompt\u3001Memory\u3001Agent\u3001\u6a21\u578b\u5e8a\u6d4b\u4e0e\u5b9e\u9a8c\u8bb0\u5f55\u3002",
+            "url": "https://github.com/VITASID57/bluntcore-intimacy-lab",
+            "stars": 666,
+            "forks": 107,
+            "score": 72
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "ai-live-avatar",
+            "full_name": "garycaogan/ai-live-avatar",
+            "description": "AI \u5b9e\u65f6\u76f4\u64ad\u95f4\uff1aVidu S2 \u5b9e\u65f6\u6570\u5b57\u4eba + \u5f39\u5e55\u8fc7\u6ee4\u8c03\u5ea6 + \u8863\u67dc\u6362\u88c5 + OBS \u53e0\u5c42\uff08\u89d2\u8272\u8d44\u4ea7\u4e0d\u542b\uff09",
+            "url": "https://github.com/garycaogan/ai-live-avatar",
+            "stars": 374,
+            "forks": 107,
+            "score": 70
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "shrimpreel",
+            "full_name": "qianshuixia/shrimpreel",
+            "description": "Open-source template for \"one photo \u2192 AI video that follows a viral template\" SaaS sites, one site per trending keyword. Cloudflare Workers + D1/R2/KV/Queues, TanStack Start + Hono, Google sign-in, credit packs (Waffo/Dodo), fal.ai video generation, admin console.",
+            "url": "https://github.com/qianshuixia/shrimpreel",
+            "stars": 276,
+            "forks": 115,
+            "score": 70
         },
         {
             "main_cat": "AI",
@@ -141,50 +185,6 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/routerhubSI/uncensored-ai-api",
             "stars": 366,
             "forks": 6,
-            "score": 78
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "bluntcore-intimacy-lab",
-            "full_name": "VITASID57/bluntcore-intimacy-lab",
-            "description": "\ud83e\uddec \u949d\u6838\uff5c\u4eba\u673a\u4eb2\u5bc6\u5b9e\u9a8c\u5ba4 \u00b7 Bluntcore Intimacy Lab\uff5c\u4eba\u673a\u604b\u3001\u6210\u4eba AI\u3001Prompt\u3001Memory\u3001Agent\u3001\u6a21\u578b\u5e8a\u6d4b\u4e0e\u5b9e\u9a8c\u8bb0\u5f55\u3002",
-            "url": "https://github.com/VITASID57/bluntcore-intimacy-lab",
-            "stars": 660,
-            "forks": 107,
-            "score": 75
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "shrimpreel",
-            "full_name": "qianshuixia/shrimpreel",
-            "description": "Open-source template for \"one photo \u2192 AI video that follows a viral template\" SaaS sites, one site per trending keyword. Cloudflare Workers + D1/R2/KV/Queues, TanStack Start + Hono, Google sign-in, credit packs (Waffo/Dodo), fal.ai video generation, admin console.",
-            "url": "https://github.com/qianshuixia/shrimpreel",
-            "stars": 275,
-            "forks": 115,
-            "score": 75
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "timestral",
-            "full_name": "mistralai/timestral",
-            "description": "Repository for Timestral, the time-series foundation model by Mistral AI",
-            "url": "https://github.com/mistralai/timestral",
-            "stars": 900,
-            "forks": 71,
-            "score": 72
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "ai-live-avatar",
-            "full_name": "garycaogan/ai-live-avatar",
-            "description": "AI \u5b9e\u65f6\u76f4\u64ad\u95f4\uff1aVidu S2 \u5b9e\u65f6\u6570\u5b57\u4eba + \u5f39\u5e55\u8fc7\u6ee4\u8c03\u5ea6 + \u8863\u67dc\u6362\u88c5 + OBS \u53e0\u5c42\uff08\u89d2\u8272\u8d44\u4ea7\u4e0d\u542b\uff09",
-            "url": "https://github.com/garycaogan/ai-live-avatar",
-            "stars": 371,
-            "forks": 107,
             "score": 69
         },
         {
@@ -194,7 +194,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "nace-ai/kapitsa",
             "description": "Blazing fast Apple Silicon optimized inference engine built for Qwen & Nemotron. OpenAI + Anthropic API compatible. Built by folks from nace.ai",
             "url": "https://github.com/nace-ai/kapitsa",
-            "stars": 483,
+            "stars": 489,
             "forks": 75,
             "score": 60
         },
@@ -205,20 +205,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "kanaworksai-hue/audio-studio-mcp",
             "description": "Local AI BGM and sound effects for Claude Code and any MCP client. Stable Audio 3 on Apple Silicon (MLX) and Windows NVIDIA GPUs (PyTorch). No cloud, no API key.",
             "url": "https://github.com/kanaworksai-hue/audio-studio-mcp",
-            "stars": 500,
+            "stars": 503,
             "forks": 36,
             "score": 59
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "whatsapp-mcp",
-            "full_name": "finereli/whatsapp-mcp",
-            "description": "A read-only MCP server that lets your AI agent search and read your own WhatsApp messages. Use it free at whatsapp.finereli.com, or run your own copy on Cloudflare.",
-            "url": "https://github.com/finereli/whatsapp-mcp",
-            "stars": 386,
-            "forks": 34,
-            "score": 56
         },
         {
             "main_cat": "AI",
@@ -227,20 +216,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "huaxialucaicaizi/ai-startup-skills",
             "description": "\u521b\u4e1a\u516c\u53f8\u505a AI \u4ea7\u54c1\u7684 7 \u6b65 Agent Skill \u5408\u96c6\uff1a\u9a8c\u8bc1 \u2192 BP \u2192 \u653f\u7b56 \u2192 \u8def\u6f14 \u2192 \u83b7\u5ba2 \u2192 \u5b9a\u4ef7 \u2192 \u6ce8\u518c\u3002",
             "url": "https://github.com/huaxialucaicaizi/ai-startup-skills",
-            "stars": 265,
-            "forks": 26,
-            "score": 56
+            "stars": 290,
+            "forks": 27,
+            "score": 58
         },
         {
             "main_cat": "AI",
-            "sub_cat": "AI Agents",
-            "name": "axuse",
-            "full_name": "ctoldigital/axuse",
-            "description": "Accessibility-first browser & computer use for AI agents \u2014 one MCP server for every harness (Codex, Claude Code, OpenCode, Antigravity). Instruments the DOM/accessibility tree via CDP instead of screenshot loops: diffed snapshots, stable element refs, trusted input, typed errors. Zero dependencies",
-            "url": "https://github.com/ctoldigital/axuse",
-            "stars": 490,
-            "forks": 26,
-            "score": 51
+            "sub_cat": null,
+            "name": "whatsapp-mcp",
+            "full_name": "finereli/whatsapp-mcp",
+            "description": "A read-only MCP server that lets your AI agent search and read your own WhatsApp messages. Use it free at whatsapp.finereli.com, or run your own copy on Cloudflare.",
+            "url": "https://github.com/finereli/whatsapp-mcp",
+            "stars": 387,
+            "forks": 34,
+            "score": 56
         },
         {
             "main_cat": "AI",
@@ -249,8 +238,19 @@ const ALPHA_DATA_V2 = {
             "full_name": "C4rohan/Lampline",
             "description": "Build AI phone agents on your own computer and test every change with an AI caller. Open source, runs free with no API keys, cents per call with your own keys. Imports Dialogflow CX.",
             "url": "https://github.com/C4rohan/Lampline",
-            "stars": 267,
-            "forks": 36,
+            "stars": 268,
+            "forks": 38,
+            "score": 51
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI Agents",
+            "name": "axuse",
+            "full_name": "ctoldigital/axuse",
+            "description": "Accessibility-first browser & computer use for AI agents \u2014 one MCP server for every harness (Codex, Claude Code, OpenCode, Antigravity). Instruments the DOM/accessibility tree via CDP instead of screenshot loops: diffed snapshots, stable element refs, trusted input, typed errors. Zero dependencies",
+            "url": "https://github.com/ctoldigital/axuse",
+            "stars": 508,
+            "forks": 26,
             "score": 50
         },
         {
@@ -260,20 +260,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "liuda30201/AI-Coding",
             "description": "AI \u7f16\u7a0b\u798f\u5229\u5bfc\u822a\uff1a\u6c47\u603b Claude Code\u3001Codex\u3001Cursor \u4e2d\u8f6c\u7ad9\u4e0e\u516c\u76ca\u7ad9\uff0c\u6574\u7406\u514d\u8d39\u989d\u5ea6\u3001\u6ce8\u518c\u798f\u5229\u3001\u7b7e\u5230\u6d3b\u52a8\u548c\u8bc4\u6d4b\u8bb0\u5f55\uff0c\u63d0\u4f9b\u53ef\u89c6\u5316\u770b\u677f\u4e0e Python \u6570\u636e\u91c7\u96c6\u5de5\u5177\u3002",
             "url": "https://github.com/liuda30201/AI-Coding",
-            "stars": 415,
-            "forks": 36,
-            "score": 49
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "lexfridman-cn",
-            "full_name": "joeseesun/lexfridman-cn",
-            "description": "Lex Fridman \u64ad\u5ba2\u4e2d\u6587\u5bfc\u822a\u7ad9:506 \u671f\u5168\u76ee\u5f55\u3001AI \u4e2d\u6587\u7cbe\u8bfb\u3001\u5b98\u65b9\u97f3\u9891/\u6587\u7a3f\u4e0e\u5168\u6587 RSS | Chinese companion to the Lex Fridman Podcast: AI deep-reads, official audio & transcripts for all 506 episodes.",
-            "url": "https://github.com/joeseesun/lexfridman-cn",
-            "stars": 240,
-            "forks": 32,
-            "score": 48
+            "stars": 424,
+            "forks": 37,
+            "score": 50
         },
         {
             "main_cat": "AI",
@@ -282,7 +271,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "kukemc/bili-cli",
             "description": "\u4e3a AI Agent \u8bbe\u8ba1\u7684\u54d4\u54e9\u54d4\u54e9\u547d\u4ee4\u884c\u5de5\u5177\uff1a\u626b\u7801\u767b\u5f55\u3001\u770b\u89c6\u9891\u3001\u8bc4\u8bba\u3001\u79c1\u4fe1\u3001\u53d1\u52a8\u6001\u3001\u6295\u7a3f\uff0c\u5168\u90e8 JSON \u8f93\u51fa",
             "url": "https://github.com/kukemc/bili-cli",
-            "stars": 249,
+            "stars": 254,
             "forks": 15,
             "score": 47
         },
@@ -293,9 +282,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "eliasbiondo/antirion",
             "description": "\u26a1 The fastest open-source AI gateway \u2014 one Rust binary with a built-in console to route, secure, budget and observe every LLM call across OpenAI, Anthropic, Gemini, Bedrock and more.",
             "url": "https://github.com/eliasbiondo/antirion",
-            "stars": 319,
+            "stars": 327,
             "forks": 7,
-            "score": 45
+            "score": 46
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "lexfridman-cn",
+            "full_name": "joeseesun/lexfridman-cn",
+            "description": "Lex Fridman \u64ad\u5ba2\u4e2d\u6587\u5bfc\u822a\u7ad9:506 \u671f\u5168\u76ee\u5f55\u3001AI \u4e2d\u6587\u7cbe\u8bfb\u3001\u5b98\u65b9\u97f3\u9891/\u6587\u7a3f\u4e0e\u5168\u6587 RSS | Chinese companion to the Lex Fridman Podcast: AI deep-reads, official audio & transcripts for all 506 episodes.",
+            "url": "https://github.com/joeseesun/lexfridman-cn",
+            "stars": 240,
+            "forks": 32,
+            "score": 46
         },
         {
             "main_cat": "AI",
@@ -317,7 +317,7 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/egotoadcitadel/palette-from-image-ai",
             "stars": 233,
             "forks": 56,
-            "score": 45
+            "score": 44
         },
         {
             "main_cat": "AI",
@@ -326,9 +326,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "alextnetto/res",
             "description": "Agent skill to reverse engineer a SaaS product through the browser into a knowledge base for rebuilding it: screens, rules, data model, design tokens and production barriers, without touching production data.",
             "url": "https://github.com/alextnetto/res",
-            "stars": 213,
-            "forks": 45,
-            "score": 45
+            "stars": 215,
+            "forks": 46,
+            "score": 44
         },
         {
             "main_cat": "AI",
@@ -337,9 +337,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "aiwithremy/content-principles",
             "description": "A Claude skill that teaches AI how to think about short-form content, instead of filling in a template.",
             "url": "https://github.com/aiwithremy/content-principles",
-            "stars": 235,
+            "stars": 236,
             "forks": 20,
-            "score": 40
+            "score": 39
         },
         {
             "main_cat": "AI",
@@ -348,9 +348,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "ahtx/kindi",
             "description": "A custom LLM inference engine for low-cost NVIDIA GPUs: Quadro K420 and K1200, two K1200s joined into one 8 GB card, GTX 1080 and RTX 3080. Runs Bonsai 2B, 4B, 9B and 27B models with an OpenAI-compatible server.",
             "url": "https://github.com/ahtx/kindi",
-            "stars": 65,
-            "forks": 14,
-            "score": 36
+            "stars": 68,
+            "forks": 15,
+            "score": 37
         },
         {
             "main_cat": "AI",
@@ -359,7 +359,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "StartLuxLabs/StartLux-Prism",
             "description": "Fast, exact inference for StartLux-Decision models on NVIDIA GPUs: the released GGUF files on int8 and 4-bit tensor cores, behind the /v1/systemone API, with up to 5.3\u00d7 lower latency than vLLM in FP8 and bit-identical answers.",
             "url": "https://github.com/StartLuxLabs/StartLux-Prism",
-            "stars": 85,
+            "stars": 89,
             "forks": 3,
             "score": 33
         },
@@ -436,17 +436,6 @@ const ALPHA_DATA_V2 = {
             "full_name": "FeineCapital/MemePredictions",
             "description": "Prediction markets for Solana memecoins. Bet on where a memecoin is going, cash out anytime, get paid automatically.",
             "url": "https://github.com/FeineCapital/MemePredictions",
-            "stars": 0,
-            "forks": 0,
-            "score": 30
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "footballprediction",
-            "full_name": "xline8/footballprediction",
-            "description": "Dixon-Coles football outcome prediction for the top-5 European leagues, with corner model and value-bet picks against market odds",
-            "url": "https://github.com/xline8/footballprediction",
             "stars": 0,
             "forks": 0,
             "score": 30
@@ -586,10 +575,10 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
-            "name": "OmniPilot-MCP",
-            "full_name": "GabriMannino-pt/OmniPilot-MCP",
-            "description": "Autonomous Cross-Platform Executive Agent & Pre-Execution Visual Firewall for Browser & Desktop Operations via Model Context Protocol (MCP)",
-            "url": "https://github.com/GabriMannino-pt/OmniPilot-MCP",
+            "name": "session-mesh-mcp",
+            "full_name": "ShashankIIITN/session-mesh-mcp",
+            "description": "Model Context Protocol multi-agent coordination kernel, cross-session mesh, and context firewall.",
+            "url": "https://github.com/ShashankIIITN/session-mesh-mcp",
             "stars": 1,
             "forks": 0,
             "score": 30
@@ -601,6 +590,17 @@ const ALPHA_DATA_V2 = {
             "full_name": "dougrn/MCP-MegaBrain",
             "description": "Persistent cross-agent memory, rule enforcer, and blindspot vaccine for AI coding assistants via Model Context Protocol (MCP)",
             "url": "https://github.com/dougrn/MCP-MegaBrain",
+            "stars": 1,
+            "forks": 0,
+            "score": 30
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "OmniPilot-MCP",
+            "full_name": "GabriMannino-pt/OmniPilot-MCP",
+            "description": "Autonomous Cross-Platform Executive Agent & Pre-Execution Visual Firewall for Browser & Desktop Operations via Model Context Protocol (MCP)",
+            "url": "https://github.com/GabriMannino-pt/OmniPilot-MCP",
             "stars": 1,
             "forks": 0,
             "score": 30
@@ -703,17 +703,6 @@ const ALPHA_DATA_V2 = {
             "stars": 0,
             "forks": 0,
             "score": 30
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "mcp-agent-orchestrator",
-            "full_name": "ShashankIIITN/mcp-agent-orchestrator",
-            "description": "Model Context Protocol multi-agent coordination kernel, cross-session mesh, and context firewall.",
-            "url": "https://github.com/ShashankIIITN/mcp-agent-orchestrator",
-            "stars": 0,
-            "forks": 0,
-            "score": 30
         }
     ],
     "news": [
@@ -739,5 +728,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-10-26 14:44"
+    "timestamp": "2026-10-26 20:15"
 };
