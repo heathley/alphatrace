@@ -7,7 +7,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Leonxlnx/earshot",
             "description": "Ears for coding agents: let AI hear, review and make sound. CPU-only, open source.",
             "url": "https://github.com/Leonxlnx/earshot",
-            "stars": 2900,
+            "stars": 2906,
             "forks": 177,
             "score": 99
         },
@@ -18,8 +18,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "rddmwmddr/android-ad-cleaner",
             "description": "\u5173\u6389\u56fd\u4ea7\u5b89\u5353\u624b\u673a\u7cfb\u7edf\u91cc\u7684\u5e7f\u544a\u3001\u70ed\u641c\u3001\u8d44\u8baf\u63a8\u8350\u548c\u8425\u9500\u63a8\u9001\u3002\u4e0d root\uff0c\u53ef\u8fd8\u539f\uff0c\u652f\u6301 AI \u667a\u80fd\u4f53\u4e00\u952e\u6267\u884c\u3002",
             "url": "https://github.com/rddmwmddr/android-ad-cleaner",
-            "stars": 1822,
-            "forks": 149,
+            "stars": 1865,
+            "forks": 154,
             "score": 99
         },
         {
@@ -29,8 +29,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "cranebeaker/coop-anything",
             "description": "Co-op Anything: point your AI agent at any single-player game and play it with friends (online and/or splitscreen!). MCP server and playbook to let you reverse engineer, fix, test, ship and share what it learns.",
             "url": "https://github.com/cranebeaker/coop-anything",
-            "stars": 1429,
-            "forks": 184,
+            "stars": 1441,
+            "forks": 185,
             "score": 99
         },
         {
@@ -40,19 +40,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "DenisSergeevitch/ex-ussr-kinship-research",
             "description": "Evidence-first genealogy skill for AI agents (Codex, Claude Code): church books, civil, military, deportation and repression records across the former USSR. Replies in your language.",
             "url": "https://github.com/DenisSergeevitch/ex-ussr-kinship-research",
-            "stars": 753,
-            "forks": 76,
-            "score": 99
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "AI-Cross-Border-Ecommerce-Agent-Toolkit",
-            "full_name": "heqiangdiao-wq/AI-Cross-Border-Ecommerce-Agent-Toolkit",
-            "description": "AI \u8de8\u5883\u7535\u5546\u8fd0\u8425\u667a\u80fd\u4f53\u5de5\u5177\u7bb1 \u00b7 \u628a\u8fd0\u8425 SOP \u62c6\u6210 7 \u4e2a\u53ef\u590d\u7528\u7684 AI Agent \u5de5\u4f5c\u6d41\uff0c\u542b Prompt\u3001\u6a21\u677f\u4e0e\u771f\u5b9e\u6848\u4f8b",
-            "url": "https://github.com/heqiangdiao-wq/AI-Cross-Border-Ecommerce-Agent-Toolkit",
-            "stars": 698,
-            "forks": 731,
+            "stars": 793,
+            "forks": 79,
             "score": 99
         },
         {
@@ -62,19 +51,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "andyhuo520/digital-human-koubo",
             "description": "AI digital-human talking-head videos from one photo: Renoise MCP generation + 5 editing styles + 48 creator-grade packaging components. Agent skill for Claude Code / Codex / OpenClaw / WorkBuddy \u2026",
             "url": "https://github.com/andyhuo520/digital-human-koubo",
-            "stars": 614,
-            "forks": 167,
-            "score": 99
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "CVEngine",
-            "full_name": "hevnsnt/CVEngine",
-            "description": "AI-first external attack surface assessment with continuous discovery, evidence-based vulnerability validation, and developer-agent MCP integration.",
-            "url": "https://github.com/hevnsnt/CVEngine",
-            "stars": 364,
-            "forks": 55,
+            "stars": 673,
+            "forks": 177,
             "score": 99
         },
         {
@@ -84,20 +62,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "yaojingang/GEOInflow",
             "description": "Self-hosted web and AI crawler analytics for Generative Engine Optimization (GEO). Track visitors, AI search referrals, crawl logs, content coverage, and conversions. Jointly published by \u730e\u770b\u79d1\u6280 \u00b7 \u5317\u4eac\u65e5\u62a5\u793e\u667a\u6e90GEO. MIT licensed.",
             "url": "https://github.com/yaojingang/GEOInflow",
-            "stars": 315,
-            "forks": 58,
+            "stars": 342,
+            "forks": 69,
             "score": 99
         },
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "decomp.wtf",
-            "full_name": "i12bp8/decomp.wtf",
-            "description": "What The Function: your AI agent decompiles games you own into C that compiles to the exact same bytes. Runs locally.",
-            "url": "https://github.com/i12bp8/decomp.wtf",
-            "stars": 541,
-            "forks": 337,
-            "score": 89
+            "name": "CVEngine",
+            "full_name": "hevnsnt/CVEngine",
+            "description": "AI-first external attack surface assessment with continuous discovery, evidence-based vulnerability validation, and developer-agent MCP integration.",
+            "url": "https://github.com/hevnsnt/CVEngine",
+            "stars": 382,
+            "forks": 57,
+            "score": 91
         },
         {
             "main_cat": "AI",
@@ -106,19 +84,19 @@ const ALPHA_DATA_V2 = {
             "full_name": "Alejandros17487/ai-jailbreaks",
             "description": "AI jailbreaks: 35 paste-ready AI jailbreak prompts for 25+ frontier and open-weight models - system prompts, AGENTS.md specs, and Ollama Modelfiles. Built for AI security research and red-team testing.",
             "url": "https://github.com/Alejandros17487/ai-jailbreaks",
-            "stars": 499,
-            "forks": 100,
+            "stars": 500,
+            "forks": 101,
             "score": 86
         },
         {
             "main_cat": "AI",
-            "sub_cat": null,
-            "name": "awesome-short-drama-skills",
-            "full_name": "UnderleveledBuilder/awesome-short-drama-skills",
-            "description": "AI \u77ed\u5267 \u00b7 \u6f2b\u5267 Skill\uff08\u6280\u80fd\u5305\uff09\u7cbe\u9009\uff1a\u5267\u672c\u3001\u6539\u7f16\u3001\u5206\u955c\u3001Seedance / \u53ef\u7075 / MiniMax \u89c6\u9891\u63d0\u793a\u8bcd\uff0c\u5343\u95ee\u3001\u8c46\u5305\u3001\u9f99\u867e OpenClaw\u3001WorkBuddy\u3001Claude Code\u3001Codex \u7b49\u667a\u80fd\u4f53\u53ef\u7528 | Curated agent skills for AI short drama, micro drama / microdrama, vertical drama and manju (AI comic drama): screenwriting, storyboards, Seedance / Kling / MiniMax video prompts",
-            "url": "https://github.com/UnderleveledBuilder/awesome-short-drama-skills",
-            "stars": 1026,
-            "forks": 133,
+            "sub_cat": "AI General",
+            "name": "adult-ai-video",
+            "full_name": "wlnhnoqefoxt/adult-ai-video",
+            "description": "AI adult video generator: text-to-clip diffusion, image-to-video motion, 4K NSFW output, uncensored model presets",
+            "url": "https://github.com/wlnhnoqefoxt/adult-ai-video",
+            "stars": 204,
+            "forks": 102,
             "score": 81
         },
         {
@@ -128,7 +106,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "feder-cr/git-ai",
             "description": "Git designed for AI agents.",
             "url": "https://github.com/feder-cr/git-ai",
-            "stars": 998,
+            "stars": 1000,
             "forks": 97,
             "score": 79
         },
@@ -139,8 +117,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "mistralai/timestral",
             "description": "Repository for Timestral, the time-series foundation model by Mistral AI",
             "url": "https://github.com/mistralai/timestral",
-            "stars": 906,
-            "forks": 71,
+            "stars": 911,
+            "forks": 72,
             "score": 72
         },
         {
@@ -167,17 +145,6 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
-            "sub_cat": null,
-            "name": "shrimpreel",
-            "full_name": "qianshuixia/shrimpreel",
-            "description": "Open-source template for \"one photo \u2192 AI video that follows a viral template\" SaaS sites, one site per trending keyword. Cloudflare Workers + D1/R2/KV/Queues, TanStack Start + Hono, Google sign-in, credit packs (Waffo/Dodo), fal.ai video generation, admin console.",
-            "url": "https://github.com/qianshuixia/shrimpreel",
-            "stars": 276,
-            "forks": 115,
-            "score": 70
-        },
-        {
-            "main_cat": "AI",
             "sub_cat": "AI General",
             "name": "uncensored-ai-api",
             "full_name": "routerhubSI/uncensored-ai-api",
@@ -189,13 +156,35 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
+            "sub_cat": null,
+            "name": "ai-startup-skills",
+            "full_name": "huaxialucaicaizi/ai-startup-skills",
+            "description": "\u521b\u4e1a\u516c\u53f8\u505a AI \u4ea7\u54c1\u7684 7 \u6b65 Agent Skill \u5408\u96c6\uff1a\u9a8c\u8bc1 \u2192 BP \u2192 \u653f\u7b56 \u2192 \u8def\u6f14 \u2192 \u83b7\u5ba2 \u2192 \u5b9a\u4ef7 \u2192 \u6ce8\u518c\u3002",
+            "url": "https://github.com/huaxialucaicaizi/ai-startup-skills",
+            "stars": 328,
+            "forks": 28,
+            "score": 61
+        },
+        {
+            "main_cat": "AI",
             "sub_cat": "AI General",
             "name": "kapitsa",
             "full_name": "nace-ai/kapitsa",
             "description": "Blazing fast Apple Silicon optimized inference engine built for Qwen & Nemotron. OpenAI + Anthropic API compatible. Built by folks from nace.ai",
             "url": "https://github.com/nace-ai/kapitsa",
-            "stars": 489,
-            "forks": 75,
+            "stars": 495,
+            "forks": 76,
+            "score": 60
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "uncensored-ai-api",
+            "full_name": "7API/uncensored-ai-api",
+            "description": "Uncensored AI API and models \u2014 one key for Claude, GPT, Gemini, Grok, DeepSeek, GLM and Kimi, with uncensored and abliterated variants where available. OpenAI- and Anthropic-compatible. Pay per token.",
+            "url": "https://github.com/7API/uncensored-ai-api",
+            "stars": 217,
+            "forks": 54,
             "score": 60
         },
         {
@@ -212,24 +201,13 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "ai-startup-skills",
-            "full_name": "huaxialucaicaizi/ai-startup-skills",
-            "description": "\u521b\u4e1a\u516c\u53f8\u505a AI \u4ea7\u54c1\u7684 7 \u6b65 Agent Skill \u5408\u96c6\uff1a\u9a8c\u8bc1 \u2192 BP \u2192 \u653f\u7b56 \u2192 \u8def\u6f14 \u2192 \u83b7\u5ba2 \u2192 \u5b9a\u4ef7 \u2192 \u6ce8\u518c\u3002",
-            "url": "https://github.com/huaxialucaicaizi/ai-startup-skills",
-            "stars": 290,
-            "forks": 27,
-            "score": 58
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
             "name": "whatsapp-mcp",
             "full_name": "finereli/whatsapp-mcp",
             "description": "A read-only MCP server that lets your AI agent search and read your own WhatsApp messages. Use it free at whatsapp.finereli.com, or run your own copy on Cloudflare.",
             "url": "https://github.com/finereli/whatsapp-mcp",
             "stars": 387,
             "forks": 34,
-            "score": 56
+            "score": 53
         },
         {
             "main_cat": "AI",
@@ -238,9 +216,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "C4rohan/Lampline",
             "description": "Build AI phone agents on your own computer and test every change with an AI caller. Open source, runs free with no API keys, cents per call with your own keys. Imports Dialogflow CX.",
             "url": "https://github.com/C4rohan/Lampline",
-            "stars": 268,
-            "forks": 38,
-            "score": 51
+            "stars": 300,
+            "forks": 44,
+            "score": 53
         },
         {
             "main_cat": "AI",
@@ -260,31 +238,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "liuda30201/AI-Coding",
             "description": "AI \u7f16\u7a0b\u798f\u5229\u5bfc\u822a\uff1a\u6c47\u603b Claude Code\u3001Codex\u3001Cursor \u4e2d\u8f6c\u7ad9\u4e0e\u516c\u76ca\u7ad9\uff0c\u6574\u7406\u514d\u8d39\u989d\u5ea6\u3001\u6ce8\u518c\u798f\u5229\u3001\u7b7e\u5230\u6d3b\u52a8\u548c\u8bc4\u6d4b\u8bb0\u5f55\uff0c\u63d0\u4f9b\u53ef\u89c6\u5316\u770b\u677f\u4e0e Python \u6570\u636e\u91c7\u96c6\u5de5\u5177\u3002",
             "url": "https://github.com/liuda30201/AI-Coding",
-            "stars": 424,
-            "forks": 37,
+            "stars": 434,
+            "forks": 38,
             "score": 50
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "bili-cli",
-            "full_name": "kukemc/bili-cli",
-            "description": "\u4e3a AI Agent \u8bbe\u8ba1\u7684\u54d4\u54e9\u54d4\u54e9\u547d\u4ee4\u884c\u5de5\u5177\uff1a\u626b\u7801\u767b\u5f55\u3001\u770b\u89c6\u9891\u3001\u8bc4\u8bba\u3001\u79c1\u4fe1\u3001\u53d1\u52a8\u6001\u3001\u6295\u7a3f\uff0c\u5168\u90e8 JSON \u8f93\u51fa",
-            "url": "https://github.com/kukemc/bili-cli",
-            "stars": 254,
-            "forks": 15,
-            "score": 47
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "antirion",
-            "full_name": "eliasbiondo/antirion",
-            "description": "\u26a1 The fastest open-source AI gateway \u2014 one Rust binary with a built-in console to route, secure, budget and observe every LLM call across OpenAI, Anthropic, Gemini, Bedrock and more.",
-            "url": "https://github.com/eliasbiondo/antirion",
-            "stars": 327,
-            "forks": 7,
-            "score": 46
         },
         {
             "main_cat": "AI",
@@ -295,6 +251,17 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/joeseesun/lexfridman-cn",
             "stars": 240,
             "forks": 32,
+            "score": 46
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "ChaosIntelligence",
+            "full_name": "Cattmonkey/ChaosIntelligence",
+            "description": "\u628a\u667a\u80fd\u4f53\u5f53\u51fd\u6570\uff0c\u628a\u60f3\u6cd5\u5199\u6210\u7a0b\u5e8f\u3002Agent-native functional language with a CLI, Web IDE, goal-driven bots and live UI. Source-available; no AI training.",
+            "url": "https://github.com/Cattmonkey/ChaosIntelligence",
+            "stars": 199,
+            "forks": 0,
             "score": 46
         },
         {
@@ -311,12 +278,23 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "palette-from-image-ai",
-            "full_name": "egotoadcitadel/palette-from-image-ai",
-            "description": "AI coloring palette-from-image generator for designers and pixel artists \u2014 pull a clean named palette straight from any image, no subscription or cloud upload.",
-            "url": "https://github.com/egotoadcitadel/palette-from-image-ai",
-            "stars": 233,
-            "forks": 56,
+            "name": "bili-cli",
+            "full_name": "kukemc/bili-cli",
+            "description": "\u4e3a AI Agent \u8bbe\u8ba1\u7684\u54d4\u54e9\u54d4\u54e9\u547d\u4ee4\u884c\u5de5\u5177\uff1a\u626b\u7801\u767b\u5f55\u3001\u770b\u89c6\u9891\u3001\u8bc4\u8bba\u3001\u79c1\u4fe1\u3001\u53d1\u52a8\u6001\u3001\u6295\u7a3f\uff0c\u5168\u90e8 JSON \u8f93\u51fa",
+            "url": "https://github.com/kukemc/bili-cli",
+            "stars": 255,
+            "forks": 15,
+            "score": 45
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "antirion",
+            "full_name": "eliasbiondo/antirion",
+            "description": "\u26a1 The fastest open-source AI gateway \u2014 one Rust binary with a built-in console to route, secure, budget and observe every LLM call across OpenAI, Anthropic, Gemini, Bedrock and more.",
+            "url": "https://github.com/eliasbiondo/antirion",
+            "stars": 329,
+            "forks": 7,
             "score": 44
         },
         {
@@ -327,19 +305,41 @@ const ALPHA_DATA_V2 = {
             "description": "Agent skill to reverse engineer a SaaS product through the browser into a knowledge base for rebuilding it: screens, rules, data model, design tokens and production barriers, without touching production data.",
             "url": "https://github.com/alextnetto/res",
             "stars": 215,
-            "forks": 46,
+            "forks": 47,
             "score": 44
         },
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "content-principles",
-            "full_name": "aiwithremy/content-principles",
-            "description": "A Claude skill that teaches AI how to think about short-form content, instead of filling in a template.",
-            "url": "https://github.com/aiwithremy/content-principles",
-            "stars": 236,
-            "forks": 20,
-            "score": 39
+            "name": "ari",
+            "full_name": "nichochar/ari",
+            "description": "learn stuff with pen + paper + AI",
+            "url": "https://github.com/nichochar/ari",
+            "stars": 209,
+            "forks": 17,
+            "score": 42
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "studyai",
+            "full_name": "zuhairhalawa/studyai",
+            "description": "A local-first study platform for university lectures: PowerPoint slides, spaced repetition, exams, and an optional AI tutor on the Gemini free tier.",
+            "url": "https://github.com/zuhairhalawa/studyai",
+            "stars": 220,
+            "forks": 2,
+            "score": 40
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "NPCTalk",
+            "full_name": "christos-antono/NPCTalk",
+            "description": "Make any NPC in any game talk back with Fish Audio: skills, a self-hosted voice server and tools for AI coding agents, with a full GTA V example.",
+            "url": "https://github.com/christos-antono/NPCTalk",
+            "stars": 210,
+            "forks": 18,
+            "score": 40
         },
         {
             "main_cat": "AI",
@@ -353,15 +353,15 @@ const ALPHA_DATA_V2 = {
             "score": 37
         },
         {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "StartLux-Prism",
-            "full_name": "StartLuxLabs/StartLux-Prism",
-            "description": "Fast, exact inference for StartLux-Decision models on NVIDIA GPUs: the released GGUF files on int8 and 4-bit tensor cores, behind the /v1/systemone API, with up to 5.3\u00d7 lower latency than vLLM in FP8 and bit-identical answers.",
-            "url": "https://github.com/StartLuxLabs/StartLux-Prism",
-            "stars": 89,
-            "forks": 3,
-            "score": 33
+            "main_cat": "DePIN",
+            "sub_cat": null,
+            "name": "token-exchange-neocloud-in-a-box",
+            "full_name": "Lore-Hex/token-exchange-neocloud-in-a-box",
+            "description": "Open-source confidential GPU inference cloud in a box: Intel TDX + NVIDIA confidential-computing nodes for DeepSeek-V4.1-Flash and GLM-5.3, verifiable and listed on TrustedRouter",
+            "url": "https://github.com/Lore-Hex/token-exchange-neocloud-in-a-box",
+            "stars": 51,
+            "forks": 0,
+            "score": 32
         },
         {
             "main_cat": "AI",
@@ -447,6 +447,17 @@ const ALPHA_DATA_V2 = {
             "full_name": "littoursinc-maker/edge-engine",
             "description": "Edge Engine is an AI-powered sports analytics and prediction platform that uses statistical modeling, Monte Carlo simulations, and real-world game factors to identify potential betting value across major sports.",
             "url": "https://github.com/littoursinc-maker/edge-engine",
+            "stars": 0,
+            "forks": 0,
+            "score": 30
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "NBA",
+            "full_name": "jobertmallari19-ui/NBA",
+            "description": "<!DOCTYPE html> <html lang=\"en\" class=\"dark\"> <head>     <meta charset=\"UTF-8\">     <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">     <title>MATCHUP LAB \u00b7 PRO CALCULATOR - NBA Matchup Analyzer</title>     <!-- Tailwind CSS CDN -->     <script src=\"https://cdn.tailwindcss.com\"></script>     <!-- FontAwesome Icons -->     <link rel=\"stylesheet\" href=\"https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css\">     <!-- Google Fonts: Inter -->     <link href=\"https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&family=JetBrains+Mono:wght@400;600;700&display=swap\" rel=\"stylesheet\">     <script>         tailwind.config = {             darkMode: 'class',             theme: {                 extend: {                     colors: {                         navy: {                             900: '#0F172A',                             800: '#1E293B',                             700: '#334155',                         },                         teamA: '#06B6D4', // Cyan                         teamB: '#F59E0B', // Amber                         accent: '#10B981', // Emerald                     },                     fontFamily: {                         sans: ['Inter', 'sans-serif'],                         mono: ['JetBrains Mono', 'monospace'],                     }                 }             }         }     </script>     <style>         /* Custom scrollbar */         ::-webkit-scrollbar {             width: 6px;             height: 6px;         }         ::-webkit-scrollbar-track {             background: #0F172A;         }         ::-webkit-scrollbar-thumb {             background: #334155;             border-radius: 3px;         }         ::-webkit-scrollbar-thumb:hover {             background: #475569;         }         /* Glassmorphism effects */         .glass-card {             background: rgba(30, 41, 59, 0.7);             backdrop-filter: blur(12px);             border: 1px solid rgba(255, 255, 255, 0.08);         }         .glass-card-hover:hover {             border-color: rgba(255, 255, 255, 0.18);         }         /* Smooth transitions */         .bar-transition {             transition: width 0.6s cubic-bezier(0.4, 0, 0.2, 1);         }     </style> </head> <body class=\"bg-navy-900 text-slate-100 font-sans min-h-screen pb-12 antialiased\">      <!-- Top Navigation Header -->     <header class=\"border-b border-slate-800 bg-navy-900/90 sticky top-0 z-50 backdrop-blur-md\">         <div class=\"max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 h-16 flex items-center justify-between\">             <div class=\"flex items-center space-x-3\">                 <div class=\"bg-gradient-to-tr from-cyan-500 to-emerald-400 p-2 rounded-lg text-navy-900 font-black text-xl flex items-center justify-center shadow-lg shadow-cyan-500/20\">                     <i class=\"fa-solid fa-chart-simple\"></i>                 </div>                 <div>                     <div class=\"flex items-center space-x-2\">                         <span class=\"text-xs font-bold tracking-widest text-cyan-400 uppercase\">Matchup Lab</span>                         <span class=\"text-slate-600\">\u2022</span>                         <span class=\"text-xs font-semibold text-slate-400 uppercase\">Pro Calculator</span>                     </div>                     <h1 class=\"text-lg font-extrabold text-white tracking-tight flex items-center gap-2\">                         <span>\ud83c\udfc0 NBA Matchup Analyzer</span>                     </h1>                 </div>             </div>              <div class=\"hidden sm:flex items-center space-x-3\">                 <span class=\"inline-flex items-center px-2.5 py-1 rounded-full text-xs font-medium bg-slate-800 text-slate-300 border border-slate-700\">                     <span class=\"w-2 h-2 mr-1.5 rounded-full bg-emerald-400 animate-pulse\"></span>                     Transparent Heuristic Model                 </span>                 <span class=\"text-xs text-slate-500 hidden md:inline\">Not Financial / Betting Advice</span>             </div>         </div>     </header>      <!-- Main Container -->     <main class=\"max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 mt-6\">                  <!-- Presets Bar & Action Ribbon -->         <div class=\"glass-card rounded-xl p-4 mb-6 flex flex-wrap items-center justify-between gap-4 shadow-xl\">             <div class=\"flex items-center space-x-2 overflow-x-auto py-1\">                 <span class=\"text-xs font-semibold uppercase text-slate-400 whitespace-nowrap mr-1\">Load Preset:</span>                 <button onclick=\"loadPreset('celtics_bucks')\" class=\"px-3 py-1.5 rounded-lg bg-slate-800 hover:bg-slate-700 text-xs font-medium border border-slate-700 transition flex items-center space-x-1.5 text-slate-200\">                     <span class=\"text-cyan-400 font-bold\">BOS</span> <span>vs</span> <span class=\"text-amber-400 font-bold\">MIL</span>                 </button>                 <button onclick=\"loadPreset('lakers_warriors')\" class=\"px-3 py-1.5 rounded-lg bg-slate-800 hover:bg-slate-700 text-xs font-medium border border-slate-700 transition flex items-center space-x-1.5 text-slate-200\">                     <span class=\"text-cyan-400 font-bold\">LAL</span> <span>vs</span> <span class=\"text-amber-400 font-bold\">GSW</span>                 </button>                 <button onclick=\"loadPreset('nuggets_suns')\" class=\"px-3 py-1.5 rounded-lg bg-slate-800 hover:bg-slate-700 text-xs font-medium border border-slate-700 transition flex items-center space-x-1.5 text-slate-200\">                     <span class=\"text-cyan-400 font-bold\">DEN</span> <span>vs</span> <span class=\"text-amber-400 font-bold\">PHX</span>                 </button>             </div>              <div class=\"flex items-center space-x-2 w-full sm:w-auto justify-end\">                 <button onclick=\"resetData()\" class=\"px-3 py-1.5 rounded-lg bg-slate-800 hover:bg-slate-700 text-xs font-medium border border-slate-700 text-slate-300 transition flex items-center gap-1.5\">                     <i class=\"fa-solid fa-rotate-left\"></i> Reset                 </button>                 <button onclick=\"copySummary()\" class=\"px-3 py-1.5 rounded-lg bg-slate-800 hover:bg-slate-700 text-xs font-medium border border-slate-700 text-slate-200 transition flex items-center gap-1.5\">                     <i class=\"fa-solid fa-copy text-cyan-400\"></i> Copy Summary                 </button>                 <button onclick=\"calculateMatchup(true)\" class=\"px-4 py-1.5 rounded-lg bg-gradient-to-r from-cyan-500 to-blue-600 hover:from-cyan-400 hover:to-blue-500 text-navy-900 font-bold text-xs uppercase tracking-wider transition shadow-lg shadow-cyan-500/25 flex items-center gap-1.5\">                     <i class=\"fa-solid fa-bolt\"></i> Analyze                 </button>             </div>         </div>          <!-- Layout Grid: Left Inputs, Right Sticky Dashboard -->         <div class=\"grid grid-cols-1 lg:grid-cols-12 gap-6\">              <!-- LEFT INPUT PANELS (Cols 7) -->             <div class=\"lg:col-span-7 space-y-6\">                  <!-- 1. MATCH SETUP -->                 <section class=\"glass-card rounded-2xl p-5 shadow-lg\">                     <div class=\"flex items-center justify-between pb-3 mb-4 border-b border-slate-800\">                         <div class=\"flex items-center space-x-2\">                             <span class=\"w-6 h-6 rounded-md bg-cyan-500/10 text-cyan-400 flex items-center justify-center text-xs font-bold\">1</span>                             <h2 class=\"font-bold text-slate-100 text-sm uppercase tracking-wider\">Match Setup</h2>                         </div>                         <span class=\"text-xs text-slate-400\">Context & Parameters</span>                     </div>                      <div class=\"grid grid-cols-1 md:grid-cols-2 gap-4 mb-4\">                         <!-- Team A Name -->                         <div>                             <label class=\"block text-xs font-medium text-cyan-400 mb-1 flex items-center gap-1\">                                 <i class=\"fa-solid fa-shield-halved\"></i> Team A Name                             </label>                             <input type=\"text\" id=\"teamAName\" value=\"Boston Celtics\" oninput=\"calculateMatchup()\"                                 class=\"w-full bg-slate-900/80 border border-slate-700 rounded-lg px-3 py-2 text-sm text-white focus:outline-none focus:border-cyan-500 transition\">                         </div>                         <!-- Team B Name -->                         <div>                             <label class=\"block text-xs font-medium text-amber-400 mb-1 flex items-center gap-1\">                                 <i class=\"fa-solid fa-shield-halved\"></i> Team B Name                             </label>                             <input type=\"text\" id=\"teamBName\" value=\"Milwaukee Bucks\" oninput=\"calculateMatchup()\"                                 class=\"w-full bg-slate-900/80 border border-slate-700 rounded-lg px-3 py-2 text-sm text-white focus:outline-none focus:border-amber-500 transition\">                         </div>                     </div>                      <!-- Recent Record (Wins L5) -->                     <div class=\"grid grid-cols-1 md:grid-cols-2 gap-4 mb-5\">                         <div>                             <label class=\"block text-xs font-medium text-slate-300 mb-1.5\">                                 <span id=\"labelTeamARecord\">Team A</span> Wins in last 5: <span id=\"valTeamARecord\" class=\"font-mono text-cyan-400 font-bold\">4</span>                             </label>                             <div class=\"flex items-center space-x-1\" id=\"btnGroupTeamAWins\">                                 <!-- JS Populated Buttons 0-5 -->                             </div>                         </div>                          <div>                             <label class=\"block text-xs font-medium text-slate-300 mb-1.5\">                                 <span id=\"labelTeamBRecord\">Team B</span> Wins in last 5: <span id=\"valTeamBRecord\" class=\"font-mono text-amber-400 font-bold\">3</span>                             </label>                             <div class=\"flex items-center space-x-1\" id=\"btnGroupTeamBWins\">                                 <!-- JS Populated Buttons 0-5 -->                             </div>                         </div>                     </div>                      <!-- Home Court & Confidence -->                     <div class=\"grid grid-cols-1 md:grid-cols-2 gap-4\">                         <div>                             <label class=\"block text-xs font-medium text-slate-300 mb-1.5\">Home Court Advantage</label>                             <div class=\"grid grid-cols-3 gap-1 p-1 bg-slate-900 rounded-lg border border-slate-800 text-xs font-medium\">                                 <button onclick=\"setHomeCourt('neutral')\" id=\"btnHomeNeutral\" class=\"py-1.5 rounded transition text-center\">Neutral</button>                                 <button onclick=\"setHomeCourt('teamA')\" id=\"btnHomeTeamA\" class=\"py-1.5 rounded transition text-center text-cyan-400\">Team A</button>                                 <button onclick=\"setHomeCourt('teamB')\" id=\"btnHomeTeamB\" class=\"py-1.5 rounded transition text-center\">Team B</button>                             </div>                         </div>                          <div>                             <label class=\"block text-xs font-medium text-slate-300 mb-1.5\">Model Sensitivity (Mode)</label>                             <div class=\"grid grid-cols-3 gap-1 p-1 bg-slate-900 rounded-lg border border-slate-800 text-xs font-medium\">                                 <button onclick=\"setConfidence('conservative')\" id=\"btnConfCons\" class=\"py-1.5 rounded transition text-center\">Conserv.</button>                                 <button onclick=\"setConfidence('balanced')\" id=\"btnConfBal\" class=\"py-1.5 rounded transition text-center\">Balanced</button>                                 <button onclick=\"setConfidence('aggressive')\" id=\"btnConfAgg\" class=\"py-1.5 rounded transition text-center\">Aggressive</button>                             </div>                         </div>                     </div>                 </section>                  <!-- 2. RECENT TEAM STATS (Last 5 Games) -->                 <section class=\"glass-card rounded-2xl p-5 shadow-lg\">                     <div class=\"flex items-center justify-between pb-3 mb-4 border-b border-slate-800\">                         <div class=\"flex items-center space-x-2\">                             <span class=\"w-6 h-6 rounded-md bg-cyan-500/10 text-cyan-400 flex items-center justify-center text-xs font-bold\">2</span>                             <h2 class=\"font-bold text-slate-100 text-sm uppercase tracking-wider\">Recent Stats (Last 5 Games)</h2>                         </div>                         <span class=\"text-xs text-slate-400\">Per Game Averages</span>                     </div>                      <div class=\"grid grid-cols-2 gap-x-6 gap-y-3 text-xs\">                         <div class=\"font-bold text-cyan-400 border-b border-cyan-500/20 pb-1 flex items-center justify-between\">                             <span id=\"headerTeamA\">Team A</span>                             <span class=\"text-[10px] text-slate-400 uppercase\">Stat</span>                         </div>                         <div class=\"font-bold text-amber-400 border-b border-amber-500/20 pb-1 flex items-center justify-between\">                             <span class=\"text-[10px] text-slate-400 uppercase\">Stat</span>                             <span id=\"headerTeamB\">Team B</span>                         </div>                          <!-- PPG -->                         <div class=\"space-y-1\">                             <label class=\"text-slate-400 flex justify-between\"><span>Points Per Game (PPG)</span></label>                             <input type=\"number\" step=\"0.1\" id=\"teamA_ppg\" value=\"118.4\" oninput=\"calculateMatchup()\"                                 class=\"w-full bg-slate-900 border border-slate-800 rounded px-2.5 py-1.5 font-mono text-cyan-300 focus:outline-none focus:border-cyan-500\">                         </div>                         <div class=\"space-y-1\">                             <label class=\"text-slate-400 flex justify-between\"><span>Points Per Game (PPG)</span></label>                             <input type=\"number\" step=\"0.1\" id=\"teamB_ppg\" value=\"114.2\" oninput=\"calculateMatchup()\"                                 class=\"w-full bg-slate-900 border border-slate-800 rounded px-2.5 py-1.5 font-mono text-amber-300 focus:outline-none focus:border-amber-500\">                         </div>                          <!-- Opp PPG -->                         <div class=\"space-y-1\">                             <label class=\"text-slate-400 flex justify-between\"><span>Points Allowed/Gm</span></label>                             <input type=\"number\" step=\"0.1\" id=\"teamA_oppPpg\" value=\"108.1\" oninput=\"calculateMatchup()\"                                 class=\"w-full bg-slate-900 border border-slate-800 rounded px-2.5 py-1.5 font-mono text-slate-200 focus:outline-none focus:border-cyan-500\">                         </div>                         <div class=\"space-y-1\">                             <label class=\"text-slate-400 flex justify-between\"><span>Points Allowed/Gm</span></label>                             <input type=\"number\" step=\"0.1\" id=\"teamB_oppPpg\" value=\"112.5\" oninput=\"calculateMatchup()\"                                 class=\"w-full bg-slate-900 border border-slate-800 rounded px-2.5 py-1.5 font-mono text-slate-200 focus:outline-none focus:border-amber-500\">                         </div>                          <!-- RPG -->                         <div class=\"space-y-1\">                             <label class=\"text-slate-400\">Rebounds Per Game (RPG)</label>                             <input type=\"number\" step=\"0.1\" id=\"teamA_rpg\" value=\"46.2\" oninput=\"calculateMatchup()\"                                 class=\"w-full bg-slate-900 border border-slate-800 rounded px-2.5 py-1.5 font-mono text-slate-200 focus:outline-none focus:border-cyan-500\">                         </div>                         <div class=\"space-y-1\">                             <label class=\"text-slate-400\">Rebounds Per Game (RPG)</label>                             <input type=\"number\" step=\"0.1\" id=\"teamB_rpg\" value=\"43.8\" oninput=\"calculateMatchup()\"                                 class=\"w-full bg-slate-900 border border-slate-800 rounded px-2.5 py-1.5 font-mono text-slate-200 focus:outline-none focus:border-amber-500\">                         </div>                          <!-- APG -->                         <div class=\"space-y-1\">                             <label class=\"text-slate-400\">Assists Per Game (APG)</label>                             <input type=\"number\" step=\"0.1\" id=\"teamA_apg\" value=\"26.5\" oninput=\"calculateMatchup()\"                                 class=\"w-full bg-slate-900 border border-slate-800 rounded px-2.5 py-1.5 font-mono text-slate-200 focus:outline-none focus:border-cyan-500\">                         </div>                         <div class=\"space-y-1\">                             <label class=\"text-slate-400\">Assists Per Game (APG)</label>                             <input type=\"number\" step=\"0.1\" id=\"teamB_apg\" value=\"24.1\" oninput=\"calculateMatchup()\"                                 class=\"w-full bg-slate-900 border border-slate-800 rounded px-2.5 py-1.5 font-mono text-slate-200 focus:outline-none focus:border-amber-500\">                         </div>                          <!-- TPG -->                         <div class=\"space-y-1\">                             <label class=\"text-slate-400 flex items-center justify-between\">                                 <span>Turnovers / Game (TPG)</span>                                 <span class=\"text-[10px] text-emerald-400\">(Lower is better)</span>                             </label>                             <input type=\"number\" step=\"0.1\" id=\"teamA_tpg\" value=\"11.8\" oninput=\"calculateMatchup()\"                                 class=\"w-full bg-slate-900 border border-slate-800 rounded px-2.5 py-1.5 font-mono text-slate-200 focus:outline-none focus:border-cyan-500\">                         </div>                         <div class=\"space-y-1\">                             <label class=\"text-slate-400 flex items-center justify-between\">                                 <span>Turnovers / Game (TPG)</span>                                 <span class=\"text-[10px] text-emerald-400\">(Lower is better)</span>                             </label>                             <input type=\"number\" step=\"0.1\" id=\"teamB_tpg\" value=\"13.5\" oninput=\"calculateMatchup()\"                                 class=\"w-full bg-slate-900 border border-slate-800 rounded px-2.5 py-1.5 font-mono text-slate-200 focus:outline-none focus:border-amber-500\">                         </div>                          <!-- FG% -->                         <div class=\"space-y-1\">                             <label class=\"text-slate-400\">Field Goal % (FG%)</label>                             <input type=\"number\" step=\"0.1\" id=\"teamA_fgPct\" value=\"48.5\" oninput=\"calculateMatchup()\"                                 class=\"w-full bg-slate-900 border border-slate-800 rounded px-2.5 py-1.5 font-mono text-slate-200 focus:outline-none focus:border-cyan-500\">                         </div>                         <div class=\"space-y-1\">                             <label class=\"text-slate-400\">Field Goal % (FG%)</label>                             <input type=\"number\" step=\"0.1\" id=\"teamB_fgPct\" value=\"46.8\" oninput=\"calculateMatchup()\"                                 class=\"w-full bg-slate-900 border border-slate-800 rounded px-2.5 py-1.5 font-mono text-slate-200 focus:outline-none focus:border-amber-500\">                         </div>                          <!-- 3P% -->                         <div class=\"space-y-1\">                             <label class=\"text-slate-400\">Three-Point % (3P%)</label>                             <input type=\"number\" step=\"0.1\" id=\"teamA_fg3Pct\" value=\"38.2\" oninput=\"calculateMatchup()\"                                 class=\"w-full bg-slate-900 border border-slate-800 rounded px-2.5 py-1.5 font-mono text-slate-200 focus:outline-none focus:border-cyan-500\">                         </div>                         <div class=\"space-y-1\">                             <label class=\"text-slate-400\">Three-Point % (3P%)</label>                             <input type=\"number\" step=\"0.1\" id=\"teamB_fg3Pct\" value=\"35.5\" oninput=\"calculateMatchup()\"                                 class=\"w-full bg-slate-900 border border-slate-800 rounded px-2.5 py-1.5 font-mono text-slate-200 focus:outline-none focus:border-amber-500\">                         </div>                          <!-- FT% -->                         <div class=\"space-y-1\">                             <label class=\"text-slate-400\">Free Throw % (FT%)</label>                             <input type=\"number\" step=\"0.1\" id=\"teamA_ftPct\" value=\"81.5\" oninput=\"calculateMatchup()\"                                 class=\"w-full bg-slate-900 border border-slate-800 rounded px-2.5 py-1.5 font-mono text-slate-200 focus:outline-none focus:border-cyan-500\">                         </div>                         <div class=\"space-y-1\">                             <label class=\"text-slate-400\">Free Throw % (FT%)</label>                             <input type=\"number\" step=\"0.1\" id=\"teamB_ftPct\" value=\"77.0\" oninput=\"calculateMatchup()\"                                 class=\"w-full bg-slate-900 border border-slate-800 rounded px-2.5 py-1.5 font-mono text-slate-200 focus:outline-none focus:border-amber-500\">                         </div>                     </div>                 </section>                  <!-- 3. AVAILABILITY & LINEUP ADJUSTMENTS -->                 <section class=\"glass-card rounded-2xl p-5 shadow-lg\">                     <div class=\"flex items-center justify-between pb-3 mb-4 border-b border-slate-800\">                         <div class=\"flex items-center space-x-2\">                             <span class=\"w-6 h-6 rounded-md bg-cyan-500/10 text-cyan-400 flex items-center justify-center text-xs font-bold\">3</span>                             <h2 class=\"font-bold text-slate-100 text-sm uppercase tracking-wider\">Availability & Context Adjustments</h2>                         </div>                         <span class=\"text-xs text-slate-400\">Net Points Perspective (A - B)</span>                     </div>                      <div class=\"grid grid-cols-1 md:grid-cols-2 gap-4\">                         <div>                             <div class=\"flex justify-between text-xs mb-1\">                                 <span class=\"font-medium text-slate-300\">Net Injury / Lineup Impact</span>                                 <span id=\"valNetInjury\" class=\"font-mono text-cyan-400 font-bold\">+2.0 pts</span>                             </div>                             <input type=\"range\" min=\"-15\" max=\"15\" step=\"0.5\" id=\"sliderNetInjury\" value=\"2.0\" oninput=\"calculateMatchup()\"                                 class=\"w-full h-1.5 bg-slate-800 rounded-lg appearance-none cursor-pointer accent-cyan-400\">                             <div class=\"flex justify-between text-[10px] text-slate-500 mt-1\">                                 <span>Favors Team B (-15)</span>                                 <span>Neutral (0)</span>                                 <span>Favors Team A (+15)</span>                             </div>                         </div>                          <div>                             <div class=\"flex justify-between text-xs mb-1\">                                 <span class=\"font-medium text-slate-300\">Tactical / Scheme Edge</span>                                 <span id=\"valExtraMatchup\" class=\"font-mono text-cyan-400 font-bold\">+0.5 pts</span>                             </div>                             <input type=\"range\" min=\"-10\" max=\"10\" step=\"0.5\" id=\"sliderExtraMatchup\" value=\"0.5\" oninput=\"calculateMatchup()\"                                 class=\"w-full h-1.5 bg-slate-800 rounded-lg appearance-none cursor-pointer accent-cyan-400\">                             <div class=\"flex justify-between text-[10px] text-slate-500 mt-1\">                                 <span>Favors Team B (-10)</span>                                 <span>Neutral (0)</span>                                 <span>Favors Team A (+10)</span>                             </div>                         </div>                     </div>                 </section>                  <!-- 4. MODEL WEIGHTS -->                 <section class=\"glass-card rounded-2xl p-5 shadow-lg\">                     <div class=\"flex items-center justify-between pb-3 mb-4 border-b border-slate-800\">                         <div class=\"flex items-center space-x-2\">                             <span class=\"w-6 h-6 rounded-md bg-cyan-500/10 text-cyan-400 flex items-center justify-center text-xs font-bold\">4</span>                             <h2 class=\"font-bold text-slate-100 text-sm uppercase tracking-wider\">Model Category Weights</h2>                         </div>                         <span class=\"text-xs text-emerald-400 font-mono font-semibold\" id=\"totalNormalizedWeight\">Normalized: 100%</span>                     </div>                      <div class=\"space-y-3\">                         <!-- Weight 1 -->                         <div>                             <div class=\"flex justify-between text-xs mb-1\">                                 <span class=\"text-slate-300\">Scoring Efficiency & Defense Differential</span>                                 <span id=\"lblWeightScoring\" class=\"font-mono text-cyan-400 font-semibold\">30%</span>                             </div>                             <input type=\"range\" id=\"w_scoring\" min=\"5\" max=\"50\" value=\"30\" oninput=\"calculateMatchup()\"                                 class=\"w-full h-1.5 bg-slate-800 rounded-lg appearance-none cursor-pointer accent-cyan-400\">                         </div>                          <!-- Weight 2 -->                         <div>                             <div class=\"flex justify-between text-xs mb-1\">                                 <span class=\"text-slate-300\">Shooting Percentages (FG, 3P, FT)</span>                                 <span id=\"lblWeightShooting\" class=\"font-mono text-cyan-400 font-semibold\">25%</span>                             </div>                             <input type=\"range\" id=\"w_shooting\" min=\"5\" max=\"50\" value=\"25\" oninput=\"calculateMatchup()\"                                 class=\"w-full h-1.5 bg-slate-800 rounded-lg appearance-none cursor-pointer accent-cyan-400\">                         </div>                          <!-- Weight 3 -->                         <div>                             <div class=\"flex justify-between text-xs mb-1\">                                 <span class=\"text-slate-300\">Rebounding Advantage</span>                                 <span id=\"lblWeightRebound\" class=\"font-mono text-cyan-400 font-semibold\">15%</span>                             </div>                             <input type=\"range\" id=\"w_rebound\" min=\"5\" max=\"50\" value=\"15\" oninput=\"calculateMatchup()\"                                 class=\"w-full h-1.5 bg-slate-800 rounded-lg appearance-none cursor-pointer accent-cyan-400\">                         </div>                          <!-- Weight 4 -->                         <div>                             <div class=\"flex justify-between text-xs mb-1\">                                 <span class=\"text-slate-300\">Ball Control & Turnover Prevention</span>                                 <span id=\"lblWeightTurnover\" class=\"font-mono text-cyan-400 font-semibold\">15%</span>                             </div>                             <input type=\"range\" id=\"w_turnover\" min=\"5\" max=\"50\" value=\"15\" oninput=\"calculateMatchup()\"                                 class=\"w-full h-1.5 bg-slate-800 rounded-lg appearance-none cursor-pointer accent-cyan-400\">                         </div>                          <!-- Weight 5 -->                         <div>                             <div class=\"flex justify-between text-xs mb-1\">                                 <span class=\"text-slate-300\">Recent Form (L5) & Home Court Advantage</span>                                 <span id=\"lblWeightForm\" class=\"font-mono text-cyan-400 font-semibold\">15%</span>                             </div>                             <input type=\"range\" id=\"w_form\" min=\"5\" max=\"50\" value=\"15\" oninput=\"calculateMatchup()\"                                 class=\"w-full h-1.5 bg-slate-800 rounded-lg appearance-none cursor-pointer accent-cyan-400\">                         </div>                     </div>                 </section>              </div>              <!-- RIGHT PREDICTION DASHBOARD (Cols 5 - Sticky) -->             <div class=\"lg:col-span-5\">                 <div class=\"sticky top-20 space-y-6\">                      <!-- PREDICTION CARD -->                     <div class=\"glass-card rounded-2xl p-6 shadow-2xl border border-cyan-500/20 relative overflow-hidden\">                         <div class=\"absolute -top-12 -right-12 w-32 h-32 bg-cyan-500/10 rounded-full blur-2xl pointer-events-none\"></div>                          <div class=\"flex items-center justify-between pb-3 mb-5 border-b border-slate-800\">                             <h2 class=\"font-extrabold text-white text-base tracking-tight flex items-center gap-2\">                                 <i class=\"fa-solid fa-trophy text-amber-400\"></i> PREDICTION DASHBOARD                             </h2>                             <span class=\"text-[11px] font-mono px-2 py-0.5 rounded bg-cyan-500/10 text-cyan-400 border border-cyan-500/20\">LIVE HEURISTIC</span>                         </div>                          <!-- WIN PROBABILITY BAR -->                         <div class=\"mb-6\">                             <div class=\"flex justify-between items-baseline mb-2\">                                 <div>                                     <span class=\"text-xs font-semibold uppercase text-cyan-400 tracking-wider block\" id=\"dispTeamAName\">Boston Celtics</span>                                     <span class=\"text-2xl font-black font-mono text-white\" id=\"winProbA\">65.4%</span>                                 </div>                                 <div class=\"text-right\">                                     <span class=\"text-xs font-semibold uppercase text-amber-400 tracking-wider block\" id=\"dispTeamBName\">Milwaukee Bucks</span>                                     <span class=\"text-2xl font-black font-mono text-white\" id=\"winProbB\">34.6%</span>                                 </div>                             </div>                              <!-- Dual Color Progress Bar -->                             <div class=\"h-4 w-full bg-slate-900 rounded-full overflow-hidden p-0.5 border border-slate-800 flex shadow-inner\">                                 <div id=\"barWinProbA\" class=\"h-full bg-gradient-to-r from-cyan-600 to-cyan-400 rounded-l-full bar-transition\" style=\"width: 65.4%\"></div>                                 <div id=\"barWinProbB\" class=\"h-full bg-gradient-to-r from-amber-400 to-amber-600 rounded-r-full bar-transition\" style=\"width: 34.6%\"></div>                             </div>                             <div class=\"flex justify-between text-[10px] text-slate-400 mt-1 font-mono\">                                 <span>Projected Win Edge</span>                                 <span id=\"favoriteTag\" class=\"text-cyan-400 font-bold\">Boston Celtics Favored</span>                             </div>                         </div>                          <!-- SPREAD & TOTAL METRICS BOX -->                         <div class=\"grid grid-cols-2 gap-3 mb-6\">                             <div class=\"bg-slate-900/90 border border-slate-800 rounded-xl p-3 text-center\">                                 <span class=\"text-[11px] font-medium text-slate-400 uppercase tracking-wider block\">Projected Spread</span>                                 <span class=\"text-xl font-extrabold font-mono text-cyan-400\" id=\"dispSpread\">BOS -4.5</span>                                 <span class=\"text-[10px] text-slate-500 block mt-0.5\" id=\"dispMarginRaw\">(Margin: +4.5 pts)</span>                             </div>                              <div class=\"bg-slate-900/90 border border-slate-800 rounded-xl p-3 text-center\">                                 <span class=\"text-[11px] font-medium text-slate-400 uppercase tracking-wider block\">Estimated Total</span>                                 <span class=\"text-xl font-extrabold font-mono text-emerald-400\" id=\"dispTotal\">226.5</span>                                 <span class=\"text-[10px] text-slate-500 block mt-0.5\">Combined Projected Points</span>                             </div>                         </div>                          <!-- KEY ADVANTAGES BADGES -->                         <div class=\"mb-6\">                             <span class=\"text-xs font-semibold text-slate-400 uppercase tracking-wider block mb-2\">Category Edge Summary</span>                             <div class=\"grid grid-cols-2 gap-2\" id=\"badgeContainer\">                                 <!-- Populated dynamically -->                             </div>                         </div>                          <!-- SIDE-BY-SIDE STAT DIFFERENTIAL COMPARISON -->                         <div class=\"space-y-3 mb-6\">                             <span class=\"text-xs font-semibold text-slate-400 uppercase tracking-wider block mb-1\">Detailed Edge Breakdown</span>                              <!-- PPG Differential -->                             <div class=\"text-xs\">                                 <div class=\"flex justify-between text-slate-300 mb-1\">                                     <span>Net Scoring Diff</span>                                     <span id=\"diffScoringVal\" class=\"font-mono text-cyan-400\">+4.2 ppg</span>                                 </div>                                 <div class=\"h-1.5 w-full bg-slate-900 rounded-full overflow-hidden flex\">                                     <div id=\"barDiffScoringA\" class=\"h-full bg-cyan-400\" style=\"width: 60%\"></div>                                     <div id=\"barDiffScoringB\" class=\"h-full bg-amber-400\" style=\"width: 40%\"></div>                                 </div>                             </div>                              <!-- Shooting FG% -->                             <div class=\"text-xs\">                                 <div class=\"flex justify-between text-slate-300 mb-1\">                                     <span>Effective Shooting (FG%)</span>                                     <span id=\"diffShootingVal\" class=\"font-mono text-cyan-400\">+1.7%</span>                                 </div>                                 <div class=\"h-1.5 w-full bg-slate-900 rounded-full overflow-hidden flex\">                                     <div id=\"barDiffShootingA\" class=\"h-full bg-cyan-400\" style=\"width: 55%\"></div>                                     <div id=\"barDiffShootingB\" class=\"h-full bg-amber-400\" style=\"width: 45%\"></div>                                 </div>                             </div>                              <!-- Rebounding -->                             <div class=\"text-xs\">                                 <div class=\"flex justify-between text-slate-300 mb-1\">                                     <span>Rebound Margin (RPG)</span>                                     <span id=\"diffReboundVal\" class=\"font-mono text-cyan-400\">+2.4 rpg</span>                                 </div>                                 <div class=\"h-1.5 w-full bg-slate-900 rounded-full overflow-hidden flex\">                                     <div id=\"barDiffReboundA\" class=\"h-full bg-cyan-400\" style=\"width: 58%\"></div>                                     <div id=\"barDiffReboundB\" class=\"h-full bg-amber-400\" style=\"width: 42%\"></div>                                 </div>                             </div>                              <!-- Ball Control -->                             <div class=\"text-xs\">                                 <div class=\"flex justify-between text-slate-300 mb-1\">                                     <span>Turnover Care (TPG)</span>                                     <span id=\"diffTurnoverVal\" class=\"font-mono text-cyan-400\">+1.7 tpg</span>                                 </div>                                 <div class=\"h-1.5 w-full bg-slate-900 rounded-full overflow-hidden flex\">                                     <div id=\"barDiffTurnoverA\" class=\"h-full bg-cyan-400\" style=\"width: 62%\"></div>                                     <div id=\"barDiffTurnoverB\" class=\"h-full bg-amber-400\" style=\"width: 38%\"></div>                                 </div>                             </div>                         </div>                          <!-- AI ANALYTICS SUMMARY BOX -->                         <div class=\"bg-slate-900/90 border border-slate-800 rounded-xl p-3.5 text-xs text-slate-300 leading-relaxed\">                             <div class=\"flex items-center space-x-1.5 text-cyan-400 font-semibold mb-1\">                                 <i class=\"fa-solid fa-brain\"></i>                                 <span>Model Takeaway</span>                             </div>                             <p id=\"summaryText\" class=\"text-slate-300\">                                 Team A holds a slight efficiency advantage driven by superior perimeter shooting and lower turnovers...                             </p>                         </div>                     </div>                      <!-- HOW THIS MODEL WORKS (ACCORDION) -->                     <div class=\"glass-card rounded-xl overflow-hidden border border-slate-800\">                         <button onclick=\"toggleAccordion()\" class=\"w-full p-4 text-left font-semibold text-xs text-slate-300 uppercase tracking-wider flex justify-between items-center hover:bg-slate-800/50 transition\">                             <span class=\"flex items-center gap-2\">                                 <i class=\"fa-solid fa-circle-info text-cyan-400\"></i> How this model works                             </span>                             <i id=\"accordionIcon\" class=\"fa-solid fa-chevron-down text-slate-500 transition-transform\"></i>                         </button>                         <div id=\"accordionContent\" class=\"hidden p-4 pt-0 text-xs text-slate-400 space-y-2 border-t border-slate-800/50\">                             <p>                                 <strong>1. Normalized Category Edge:</strong> Statistics are converted to point-equivalent advantages based on relative standard deviations (e.g. 1% FG% diff \u2248 1.2 pts spread).                             </p>                             <p>                                 <strong>2. Logistic Win Probability:</strong> Margins are mapped to probabilities using the standard logistic formula:                                 <span class=\"block font-mono text-[11px] text-cyan-300 bg-slate-900 p-1.5 rounded my-1 text-center\">P(Win) = 1 / (1 + e^(-k * Margin))</span>                                 where $k$ is calibrated according to your selected Confidence Mode.                             </p>                             <p>                                 <strong>3. Situational Adjustments:</strong> Home court (+2.5 to +3.0 pts) and lineup impact are directly added to the net margin before probability transformation.                             </p>                         </div>                     </div>                  </div>             </div>          </div>     </main>      <!-- JS LOGIC ENGINE -->     <script>         // Global State         let homeCourtState = 'teamA'; // 'neutral', 'teamA', 'teamB'         let confidenceMode = 'balanced'; // 'conservative', 'balanced', 'aggressive'         let teamAWinsL5 = 4;         let teamBWinsL5 = 3;          // Presets Data         const presets = {             celtics_bucks: {                 teamA: \"Boston Celtics\",                 teamB: \"Milwaukee Bucks\",                 teamAWins: 4,                 teamBWins: 3,                 home: \"teamA\",                 statsA: { ppg: 118.4, oppPpg: 108.1, rpg: 46.2, apg: 26.5, tpg: 11.8, fgPct: 48.5, fg3Pct: 38.2, ftPct: 81.5 },                 statsB: { ppg: 114.2, oppPpg: 112.5, rpg: 43.8, apg: 24.1, tpg: 13.5, fgPct: 46.8, fg3Pct: 35.5, ftPct: 77.0 },                 injury: 2.0,                 extra: 0.5             },             lakers_warriors: {                 teamA: \"LA Lakers\",                 teamB: \"GS Warriors\",                 teamAWins: 3,                 teamBWins: 4,                 home: \"teamB\",                 statsA: { ppg: 115.0, oppPpg: 114.2, rpg: 44.5, apg: 27.0, tpg: 13.8, fgPct: 47.9, fg3Pct: 35.8, ftPct: 77.5 },                 statsB: { ppg: 118.2, oppPpg: 115.5, rpg: 42.1, apg: 28.6, tpg: 12.2, fgPct: 47.2, fg3Pct: 38.0, ftPct: 79.2 },                 injury: -1.5,                 extra: 1.0             },             nuggets_suns: {                 teamA: \"Denver Nuggets\",                 teamB: \"Phoenix Suns\",                 teamAWins: 4,                 teamBWins: 2,                 home: \"teamA\",                 statsA: { ppg: 116.8, oppPpg: 109.5, rpg: 45.0, apg: 29.2, tpg: 12.0, fgPct: 49.8, fg3Pct: 37.5, ftPct: 82.0 },                 statsB: { ppg: 113.5, oppPpg: 113.0, rpg: 42.8, apg: 25.4, tpg: 13.1, fgPct: 47.5, fg3Pct: 36.8, ftPct: 80.5 },                 injury: 3.0,                 extra: 0.0             }         };          // Initialize App on DOM Load         document.addEventListener('DOMContentLoaded', () => {             renderWinsButtons();             setHomeCourt('teamA');             setConfidence('balanced');             calculateMatchup();         });          // Render 0-5 Win Buttons         function renderWinsButtons() {             const containerA = document.getElementById('btnGroupTeamAWins');             const containerB = document.getElementById('btnGroupTeamBWins');                          containerA.innerHTML = '';             containerB.innerHTML = '';              for (let i = 0; i <= 5; i++) {                 // Team A button                 const btnA = document.createElement('button');                 btnA.className = `flex-1 py-1 text-xs font-mono font-bold rounded transition ${teamAWinsL5 === i ? 'bg-cyan-500 text-navy-900' : 'bg-slate-900 border border-slate-800 text-slate-400 hover:border-slate-700'}`;                 btnA.innerText = i;                 btnA.onclick = () => { teamAWinsL5 = i; renderWinsButtons(); calculateMatchup(); };                 containerA.appendChild(btnA);                  // Team B button                 const btnB = document.createElement('button');                 btnB.className = `flex-1 py-1 text-xs font-mono font-bold rounded transition ${teamBWinsL5 === i ? 'bg-amber-500 text-navy-900' : 'bg-slate-900 border border-slate-800 text-slate-400 hover:border-slate-700'}`;                 btnB.innerText = i;                 btnB.onclick = () => { teamBWinsL5 = i; renderWinsButtons(); calculateMatchup(); };                 containerB.appendChild(btnB);             }              document.getElementById('valTeamARecord').innerText = teamAWinsL5;             document.getElementById('valTeamBRecord').innerText = teamBWinsL5;         }          // Home Court Selector Toggle         function setHomeCourt(mode) {             homeCourtState = mode;             const btnNeutral = document.getElementById('btnHomeNeutral');             const btnA = document.getElementById('btnHomeTeamA');             const btnB = document.getElementById('btnHomeTeamB');              [btnNeutral, btnA, btnB].forEach(btn => {                 btn.className = \"py-1.5 rounded transition text-center text-slate-400 hover:bg-slate-800\";             });              if (mode === 'neutral') {                 btnNeutral.className = \"py-1.5 rounded transition text-center font-bold bg-slate-800 text-white border border-slate-700\";             } else if (mode === 'teamA') {                 btnA.className = \"py-1.5 rounded transition text-center font-bold bg-cyan-500/20 text-cyan-400 border border-cyan-500/30\";             } else if (mode === 'teamB') {                 btnB.className = \"py-1.5 rounded transition text-center font-bold bg-amber-500/20 text-amber-400 border border-amber-500/30\";             }             calculateMatchup();         }          // Confidence Mode Selector Toggle         function setConfidence(mode) {             confidenceMode = mode;             const btnCons = document.getElementById('btnConfCons');             const btnBal = document.getElementById('btnConfBal');             const btnAgg = document.getElementById('btnConfAgg');              [btnCons, btnBal, btnAgg].forEach(btn => {                 btn.className = \"py-1.5 rounded transition text-center text-slate-400 hover:bg-slate-800\";             });              if (mode === 'conservative') {                 btnCons.className = \"py-1.5 rounded transition text-center font-bold bg-slate-800 text-slate-200 border border-slate-700\";             } else if (mode === 'balanced') {                 btnBal.className = \"py-1.5 rounded transition text-center font-bold bg-cyan-500/20 text-cyan-400 border border-cyan-500/30\";             } else if (mode === 'aggressive') {                 btnAgg.className = \"py-1.5 rounded transition text-center font-bold bg-slate-800 text-slate-200 border border-slate-700\";             }             calculateMatchup();         }          // Main Calculation Engine         function calculateMatchup(userTriggered = false) {             // 1. Get Team Names             const nameA = document.getElementById('teamAName').value.trim() || \"Team A\";             const nameB = document.getElementById('teamBName').value.trim() || \"Team B\";              // Update UI Team Labels             document.getElementById('headerTeamA').innerText = nameA;             document.getElementById('headerTeamB').innerText = nameB;             document.getElementById('labelTeamARecord').innerText = nameA;             document.getElementById('labelTeamBRecord').innerText = nameB;             document.getElementById('dispTeamAName').innerText = nameA;             document.getElementById('dispTeamBName').innerText = nameB;              // 2. Fetch Numeric Inputs             const getVal = (id) => parseFloat(document.getElementById(id).value) || 0;              const statsA = {                 ppg: getVal('teamA_ppg'),                 oppPpg: getVal('teamA_oppPpg'),                 rpg: getVal('teamA_rpg'),                 apg: getVal('teamA_apg'),                 tpg: getVal('teamA_tpg'),                 fgPct: getVal('teamA_fgPct'),                 fg3Pct: getVal('teamA_fg3Pct'),                 ftPct: getVal('teamA_ftPct')             };              const statsB = {                 ppg: getVal('teamB_ppg'),                 oppPpg: getVal('teamB_oppPpg'),                 rpg: getVal('teamB_rpg'),                 apg: getVal('teamB_apg'),                 tpg: getVal('teamB_tpg'),                 fgPct: getVal('teamB_fgPct'),                 fg3Pct: getVal('teamB_fg3Pct'),                 ftPct: getVal('teamB_ftPct')             };              const netInjury = parseFloat(document.getElementById('sliderNetInjury').value);             const extraMatchup = parseFloat(document.getElementById('sliderExtraMatchup').value);              document.getElementById('valNetInjury').innerText = (netInjury >= 0 ? `+${netInjury}` : `${netInjury}`) + \" pts\";             document.getElementById('valExtraMatchup').innerText = (extraMatchup >= 0 ? `+${extraMatchup}` : `${extraMatchup}`) + \" pts\";              // 3. Normalized Weights             const rawWScoring = getVal('w_scoring');             const rawWShooting = getVal('w_shooting');             const rawWRebound = getVal('w_rebound');             const rawWTurnover = getVal('w_turnover');             const rawWForm = getVal('w_form');              const totalRawWeights = rawWScoring + rawWShooting + rawWRebound + rawWTurnover + rawWForm;                          const normWScoring = rawWScoring / totalRawWeights;             const normWShooting = rawWShooting / totalRawWeights;             const normWRebound = rawWRebound / totalRawWeights;             const normWTurnover = rawWTurnover / totalRawWeights;             const normWForm = rawWForm / totalRawWeights;              document.getElementById('lblWeightScoring').innerText = Math.round(normWScoring * 100) + \"%\";             document.getElementById('lblWeightShooting').innerText = Math.round(normWShooting * 100) + \"%\";             document.getElementById('lblWeightRebound').innerText = Math.round(normWRebound * 100) + \"%\";             document.getElementById('lblWeightTurnover').innerText = Math.round(normWTurnover * 100) + \"%\";             document.getElementById('lblWeightForm').innerText = Math.round(normWForm * 100) + \"%\";              // 4. Calculate Sub-Differentials (From Team A's perspective)             // Scoring Diff: (A Net Rating Diff)             const netRatingA = statsA.ppg - statsA.oppPpg;             const netRatingB = statsB.ppg - statsB.oppPpg;             const scoringEdgePts = netRatingA - netRatingB;              // Shooting Edge Pts (1% FG diff ~ 1.2 pts, 1% 3P diff ~ 1.0 pts, 1% FT diff ~ 0.4 pts)             const shootingDiff = (statsA.fgPct - statsB.fgPct) * 1.2 +                                   (statsA.fg3Pct - statsB.fg3Pct) * 1.0 +                                   (statsA.ftPct - statsB.ftPct) * 0.4;              // Rebound Edge Pts (1 rpg ~ 0.8 pts)             const reboundEdgePts = (statsA.rpg - statsB.rpg) * 0.8;              // Turnover Edge Pts (Lower TPG is better -> (TPG_B - TPG_A) * 1.2 pts)             const turnoverEdgePts = (statsB.tpg - statsA.tpg) * 1.2;              // Form & Home Court Edge Pts             let homePts = 0;             if (homeCourtState === 'teamA') homePts = 2.8;             if (homeCourtState === 'teamB') homePts = -2.8;              const formEdgePts = ((teamAWinsL5 - teamBWinsL5) * 1.5) + homePts;              // 5. Total Weighted Point Spread / Margin (Favors Team A if positive)             // Standard multiplier scales composite index into realistic NBA point spread             const totalWeightedMargin =                  (scoringEdgePts * normWScoring * 2.2) +                 (shootingDiff * normWShooting * 1.8) +                 (reboundEdgePts * normWRebound * 1.8) +                 (turnoverEdgePts * normWTurnover * 1.8) +                 (formEdgePts * normWForm * 2.0) +                 netInjury + extraMatchup;              // 6. Logistic Win Probability Mapping             // Slope parameter k adjusts for confidence mode             let k = 0.17; // Balanced             if (confidenceMode === 'conservative') k = 0.11;             if (confidenceMode === 'aggressive') k = 0.23;              const probA = 1 / (1 + Math.exp(-k * totalWeightedMargin));             const probB = 1 - probA;              const probAPct = (probA * 100).toFixed(1);             const probBPct = (probB * 100).toFixed(1);              // Estimated Total Points (Sum of averages adjusted slightly for pace balance)             const estTotal = ((statsA.ppg + statsB.oppPpg + statsB.ppg + statsA.oppPpg) / 2).toFixed(1);              // 7. Update Prediction Dashboard UI             document.getElementById('winProbA').innerText = probAPct + \"%\";             document.getElementById('winProbB').innerText = probBPct + \"%\";             document.getElementById('barWinProbA').style.width = probAPct + \"%\";             document.getElementById('barWinProbB').style.width = probBPct + \"%\";              // Spread Display             const marginAbs = Math.abs(totalWeightedMargin).toFixed(1);             let spreadText = \"\";             let favoriteName = \"\";              if (totalWeightedMargin > 0.2) {                 spreadText = `${getShortName(nameA)} -${marginAbs}`;                 favoriteName = `${nameA} Favored`;                 document.getElementById('favoriteTag').className = \"text-cyan-400 font-bold\";             } else if (totalWeightedMargin < -0.2) {                 spreadText = `${getShortName(nameB)} -${marginAbs}`;                 favoriteName = `${nameB} Favored`;                 document.getElementById('favoriteTag').className = \"text-amber-400 font-bold\";             } else {                 spreadText = \"PICK 'EM (EVEN)\";                 favoriteName = \"Even Matchup\";                 document.getElementById('favoriteTag').className = \"text-slate-400 font-bold\";             }              document.getElementById('dispSpread').innerText = spreadText;             document.getElementById('dispMarginRaw').innerText = `(Margin: ${totalWeightedMargin >= 0 ? '+' : ''}${totalWeightedMargin.toFixed(1)} pts)`;             document.getElementById('dispTotal').innerText = estTotal;             document.getElementById('favoriteTag').innerText = favoriteName;              <!-- Update Edge Breakdown Sub-bars -->             updateBreakdownBars(statsA, statsB);              <!-- Update Key Advantage Badges -->             renderCategoryBadges(nameA, nameB, statsA, statsB);              <!-- Generate Dynamic Summary Text -->             generateSummaryText(nameA, nameB, probAPct, probBPct, totalWeightedMargin, statsA, statsB, netInjury, homePts);         }          // Helper: Get Short Acronym/Name         function getShortName(name) {             const parts = name.trim().split(\" \");             if (parts.length > 1) {                 return parts[parts.length - 1].substring(0, 3).toUpperCase();             }             return name.substring(0, 3).toUpperCase();         }          // Render Visual Breakdown Sub-Bars         function updateBreakdownBars(statsA, statsB) {             // Net Scoring             const netA = statsA.ppg - statsA.oppPpg;             const netB = statsB.ppg - statsB.oppPpg;             const diffScoring = netA - netB;             document.getElementById('diffScoringVal').innerText = (diffScoring >= 0 ? `+${diffScoring.toFixed(1)} ppg` : `${diffScoring.toFixed(1)} ppg`);             document.getElementById('diffScoringVal').className = diffScoring >= 0 ? \"font-mono text-cyan-400\" : \"font-mono text-amber-400\";             setBarRatio('barDiffScoringA', 'barDiffScoringB', netA + 30, netB + 30);              // FG%             const diffFg = statsA.fgPct - statsB.fgPct;             document.getElementById('diffShootingVal').innerText = (diffFg >= 0 ? `+${diffFg.toFixed(1)}%` : `${diffFg.toFixed(1)}%`);             document.getElementById('diffShootingVal').className = diffFg >= 0 ? \"font-mono text-cyan-400\" : \"font-mono text-amber-400\";             setBarRatio('barDiffShootingA', 'barDiffShootingB', statsA.fgPct, statsB.fgPct);              // Rebounds             const diffRpg = statsA.rpg - statsB.rpg;             document.getElementById('diffReboundVal').innerText = (diffRpg >= 0 ? `+${diffRpg.toFixed(1)} rpg` : `${diffRpg.toFixed(1)} rpg`);             document.getElementById('diffReboundVal').className = diffRpg >= 0 ? \"font-mono text-cyan-400\" : \"font-mono text-amber-400\";             setBarRatio('barDiffReboundA', 'barDiffReboundB', statsA.rpg, statsB.rpg);              // Turnovers (Inverted: lower TPG is better)             const diffTpg = statsB.tpg - statsA.tpg; // positive = Team A has fewer turnovers             document.getElementById('diffTurnoverVal').innerText = (diffTpg >= 0 ? `+${diffTpg.toFixed(1)} care` : `${diffTpg.toFixed(1)} care`);             document.getElementById('diffTurnoverVal').className = diffTpg >= 0 ? \"font-mono text-cyan-400\" : \"font-mono text-amber-400\";             setBarRatio('barDiffTurnoverA', 'barDiffTurnoverB', 20 - statsA.tpg, 20 - statsB.tpg);         }          function setBarRatio(idA, idB, valA, valB) {             const safeA = Math.max(1, valA);             const safeB = Math.max(1, valB);             const total = safeA + safeB;             const pctA = ((safeA / total) * 100).toFixed(1);             const pctB = (100 - pctA).toFixed(1);              document.getElementById(idA).style.width = pctA + \"%\";             document.getElementById(idB).style.width = pctB + \"%\";         }          // Render Category Badges         function renderCategoryBadges(nameA, nameB, statsA, statsB) {             const container = document.getElementById('badgeContainer');             container.innerHTML = '';              const categories = [                 {                     label: \"Scoring Net\",                     winner: (statsA.ppg - statsA.oppPpg) >= (statsB.ppg - statsB.oppPpg) ? nameA : nameB,                     isTeamA: (statsA.ppg - statsA.oppPpg) >= (statsB.ppg - statsB.oppPpg)                 },                 {                     label: \"Perimeter 3P%\",                     winner: statsA.fg3Pct >= statsB.fg3Pct ? nameA : nameB,                     isTeamA: statsA.fg3Pct >= statsB.fg3Pct                 },                 {                     label: \"Glass / RPG\",                     winner: statsA.rpg >= statsB.rpg ? nameA : nameB,                     isTeamA: statsA.rpg >= statsB.rpg                 },                 {                     label: \"Ball Security\",                     winner: statsA.tpg <= statsB.tpg ? nameA : nameB, // Lower TPG wins                     isTeamA: statsA.tpg <= statsB.tpg                 }             ];              categories.forEach(cat => {                 const badge = document.createElement('div');                 badge.className = `px-2.5 py-1.5 rounded-lg border text-[11px] font-medium flex items-center justify-between ${                     cat.isTeamA                          ? 'bg-cyan-500/10 border-cyan-500/30 text-cyan-300'                          : 'bg-amber-500/10 border-amber-500/30 text-amber-300'                 }`;                 badge.innerHTML = `                     <span class=\"text-slate-400 truncate\">${cat.label}</span>                     <span class=\"font-bold ml-1 flex items-center gap-1\">                         <i class=\"fa-solid fa-caret-right text-[10px]\"></i> ${getShortName(cat.winner)}                     </span>                 `;                 container.appendChild(badge);             });         }          // Generate Dynamic Takeaway Text         function generateSummaryText(nameA, nameB, probA, probB, margin, statsA, statsB, netInjury, homePts) {             const favName = margin >= 0 ? nameA : nameB;             const favProb = margin >= 0 ? probA : probB;             const absMargin = Math.abs(margin).toFixed(1);              let factors = [];              if (statsA.fg3Pct > statsB.fg3Pct && margin >= 0) factors.push(\"superior 3-point efficiency (+ \" + (statsA.fg3Pct - statsB.fg3Pct).toFixed(1) + \"%)\");             if (statsB.fg3Pct > statsA.fg3Pct && margin < 0) factors.push(\"superior 3-point efficiency (+ \" + (statsB.fg3Pct - statsA.fg3Pct).toFixed(1) + \"%)\");              if (statsA.rpg > statsB.rpg && margin >= 0) factors.push(\"rebounding advantage\");             if (statsB.rpg > statsA.rpg && margin < 0) factors.push(\"rebounding advantage\");              if (statsA.tpg < statsB.tpg && margin >= 0) factors.push(\"better ball protection\");             if (statsB.tpg < statsA.tpg && margin < 0) factors.push(\"better ball protection\");              if (homePts > 0 && margin >= 0) factors.push(\"home court boost\");             if (homePts < 0 && margin < 0) factors.push(\"home court advantage\");              if (netInjury > 1.5 && margin >= 0) factors.push(\"favorable lineup health\");             if (netInjury < -1.5 && margin < 0) factors.push(\"lineup availability edge\");              let factorStr = factors.length > 0 ? factors.slice(0, 2).join(\" and \") : \"overall metric efficiency\";              const summary = `<strong>Key Takeaway:</strong> ${favName} holds a projected win probability of <strong>${favProb}%</strong> with an estimated margin of <strong>${absMargin} points</strong>. This edge is primarily driven by ${factorStr}.`;                          document.getElementById('summaryText').innerHTML = summary;         }          // Load Preset Data         function loadPreset(key) {             const data = presets[key];             if (!data) return;              document.getElementById('teamAName').value = data.teamA;             document.getElementById('teamBName').value = data.teamB;              teamAWinsL5 = data.teamAWins;             teamBWinsL5 = data.teamBWins;             renderWinsButtons();              // Populate Stats A             document.getElementById('teamA_ppg').value = data.statsA.ppg;             document.getElementById('teamA_oppPpg').value = data.statsA.oppPpg;             document.getElementById('teamA_rpg').value = data.statsA.rpg;             document.getElementById('teamA_apg').value = data.statsA.apg;             document.getElementById('teamA_tpg').value = data.statsA.tpg;             document.getElementById('teamA_fgPct').value = data.statsA.fgPct;             document.getElementById('teamA_fg3Pct').value = data.statsA.fg3Pct;             document.getElementById('teamA_ftPct').value = data.statsA.ftPct;              // Populate Stats B             document.getElementById('teamB_ppg').value = data.statsB.ppg;             document.getElementById('teamB_oppPpg').value = data.statsB.oppPpg;             document.getElementById('teamB_rpg').value = data.statsB.rpg;             document.getElementById('teamB_apg').value = data.statsB.apg;             document.getElementById('teamB_tpg').value = data.statsB.tpg;             document.getElementById('teamB_fgPct').value = data.statsB.fgPct;             document.getElementById('teamB_fg3Pct').value = data.statsB.fg3Pct;             document.getElementById('teamB_ftPct').value = data.statsB.ftPct;              document.getElementById('sliderNetInjury').value = data.injury;             document.getElementById('sliderExtraMatchup').value = data.extra;              setHomeCourt(data.home);             calculateMatchup();         }          // Reset to Defaults         function resetData() {             loadPreset('celtics_bucks');         }          // Accordion Toggle         function toggleAccordion() {             const content = document.getElementById('accordionContent');             const icon = document.getElementById('accordionIcon');              if (content.classList.contains('hidden')) {                 content.classList.remove('hidden');                 icon.classList.add('rotate-180');             } else {                 content.classList.add('hidden');                 icon.classList.remove('rotate-180');             }         }          // Copy Analysis Summary to Clipboard         function copySummary() {             const nameA = document.getElementById('teamAName').value || \"Team A\";             const nameB = document.getElementById('teamBName').value || \"Team B\";             const probA = document.getElementById('winProbA').innerText;             const probB = document.getElementById('winProbB').innerText;             const spread = document.getElementById('dispSpread').innerText;             const total = document.getElementById('dispTotal').innerText;             const takeawayText = document.getElementById('summaryText').innerText;              const summaryString =  `\ud83c\udfc0 MATCHUP LAB PRO ANALYSIS ------------------------------ Matchup: ${nameA} vs ${nameB} Projected Win Probability: ${nameA} ${probA} | ${nameB} ${probB} Projected Spread: ${spread} Estimated Total: ${total} pts  ${takeawayText}  Calculated via Matchup Lab Pro Calculator.`;              // Copy to clipboard using standard fallback             const dummy = document.createElement(\"textarea\");             document.body.appendChild(dummy);             dummy.value = summaryString;             dummy.select();             document.execCommand(\"copy\");             document.body.removeChild(dummy);              // Toast feedback             const toast = document.createElement(\"div\");             toast.className = \"fixed bottom-5 right-5 bg-emerald-500 text-navy-900 font-bold text-xs px-4 py-2.5 rounded-lg shadow-2xl z-50 flex items-center space-x-2\";             toast.innerHTML = `<i class=\"fa-solid fa-circle-check\"></i> <span>Analysis Copied to Clipboard!</span>`;             document.body.appendChild(toast);              setTimeout(() => {                 toast.remove();             }, 2500);         }     </script> </body> </html>",
+            "url": "https://github.com/jobertmallari19-ui/NBA",
             "stars": 0,
             "forks": 0,
             "score": 30
@@ -586,10 +597,10 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
-            "name": "MCP-MegaBrain",
-            "full_name": "dougrn/MCP-MegaBrain",
-            "description": "Persistent cross-agent memory, rule enforcer, and blindspot vaccine for AI coding assistants via Model Context Protocol (MCP)",
-            "url": "https://github.com/dougrn/MCP-MegaBrain",
+            "name": "OmniPilot-MCP",
+            "full_name": "GabriMannino-pt/OmniPilot-MCP",
+            "description": "Autonomous Cross-Platform Executive Agent & Pre-Execution Visual Firewall for Browser & Desktop Operations via Model Context Protocol (MCP)",
+            "url": "https://github.com/GabriMannino-pt/OmniPilot-MCP",
             "stars": 1,
             "forks": 0,
             "score": 30
@@ -597,10 +608,10 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
-            "name": "OmniPilot-MCP",
-            "full_name": "GabriMannino-pt/OmniPilot-MCP",
-            "description": "Autonomous Cross-Platform Executive Agent & Pre-Execution Visual Firewall for Browser & Desktop Operations via Model Context Protocol (MCP)",
-            "url": "https://github.com/GabriMannino-pt/OmniPilot-MCP",
+            "name": "MCP-MegaBrain",
+            "full_name": "dougrn/MCP-MegaBrain",
+            "description": "Persistent cross-agent memory, rule enforcer, and blindspot vaccine for AI coding assistants via Model Context Protocol (MCP)",
+            "url": "https://github.com/dougrn/MCP-MegaBrain",
             "stars": 1,
             "forks": 0,
             "score": 30
@@ -703,23 +714,20 @@ const ALPHA_DATA_V2 = {
             "stars": 0,
             "forks": 0,
             "score": 30
+        },
+        {
+            "main_cat": "Cross-chain / Interoperability",
+            "sub_cat": null,
+            "name": "clpr-website",
+            "full_name": "danielmarv/clpr-website",
+            "description": "Project website prototype for CLPR, the Cross Ledger Protocol (an LF Decentralized Trust Lab).",
+            "url": "https://github.com/danielmarv/clpr-website",
+            "stars": 0,
+            "forks": 0,
+            "score": 30
         }
     ],
     "news": [
-        {
-            "title": "STROKE: Simple Sparse Structural Occlusions for Black-Box Adversarial Attacks",
-            "source": "ArXiv",
-            "type": "Research Alpha",
-            "color": "text-indigo-600",
-            "url": "http://arxiv.org/abs/2610.32932v1"
-        },
-        {
-            "title": "EVSEFuzz : A Tool for Automated Testing of Protocol Implementations",
-            "source": "ArXiv",
-            "type": "Research Alpha",
-            "color": "text-indigo-600",
-            "url": "http://arxiv.org/abs/2610.32902v1"
-        },
         {
             "title": "Bitcoin volatility remains high ahead of key FED decision.",
             "source": "Polymarket",
@@ -728,5 +736,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-10-26 20:15"
+    "timestamp": "2026-10-27 00:09"
 };
