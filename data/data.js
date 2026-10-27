@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "Leonxlnx/earshot",
             "description": "Ears for coding agents: let AI hear, review and make sound. CPU-only, open source.",
             "url": "https://github.com/Leonxlnx/earshot",
-            "stars": 2906,
-            "forks": 177,
+            "stars": 2944,
+            "forks": 180,
             "score": 99
         },
         {
@@ -18,8 +18,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "rddmwmddr/android-ad-cleaner",
             "description": "\u5173\u6389\u56fd\u4ea7\u5b89\u5353\u624b\u673a\u7cfb\u7edf\u91cc\u7684\u5e7f\u544a\u3001\u70ed\u641c\u3001\u8d44\u8baf\u63a8\u8350\u548c\u8425\u9500\u63a8\u9001\u3002\u4e0d root\uff0c\u53ef\u8fd8\u539f\uff0c\u652f\u6301 AI \u667a\u80fd\u4f53\u4e00\u952e\u6267\u884c\u3002",
             "url": "https://github.com/rddmwmddr/android-ad-cleaner",
-            "stars": 1865,
-            "forks": 154,
+            "stars": 2278,
+            "forks": 190,
             "score": 99
         },
         {
@@ -29,19 +29,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "cranebeaker/coop-anything",
             "description": "Co-op Anything: point your AI agent at any single-player game and play it with friends (online and/or splitscreen!). MCP server and playbook to let you reverse engineer, fix, test, ship and share what it learns.",
             "url": "https://github.com/cranebeaker/coop-anything",
-            "stars": 1441,
-            "forks": 185,
-            "score": 99
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "ex-ussr-kinship-research",
-            "full_name": "DenisSergeevitch/ex-ussr-kinship-research",
-            "description": "Evidence-first genealogy skill for AI agents (Codex, Claude Code): church books, civil, military, deportation and repression records across the former USSR. Replies in your language.",
-            "url": "https://github.com/DenisSergeevitch/ex-ussr-kinship-research",
-            "stars": 793,
-            "forks": 79,
+            "stars": 1453,
+            "forks": 187,
             "score": 99
         },
         {
@@ -51,8 +40,19 @@ const ALPHA_DATA_V2 = {
             "full_name": "andyhuo520/digital-human-koubo",
             "description": "AI digital-human talking-head videos from one photo: Renoise MCP generation + 5 editing styles + 48 creator-grade packaging components. Agent skill for Claude Code / Codex / OpenClaw / WorkBuddy \u2026",
             "url": "https://github.com/andyhuo520/digital-human-koubo",
-            "stars": 673,
-            "forks": 177,
+            "stars": 845,
+            "forks": 213,
+            "score": 99
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "ex-ussr-kinship-research",
+            "full_name": "DenisSergeevitch/ex-ussr-kinship-research",
+            "description": "Evidence-first genealogy skill for AI agents (Codex, Claude Code): church books, civil, military, deportation and repression records across the former USSR. Replies in your language.",
+            "url": "https://github.com/DenisSergeevitch/ex-ussr-kinship-research",
+            "stars": 812,
+            "forks": 80,
             "score": 99
         },
         {
@@ -62,8 +62,19 @@ const ALPHA_DATA_V2 = {
             "full_name": "yaojingang/GEOInflow",
             "description": "Self-hosted web and AI crawler analytics for Generative Engine Optimization (GEO). Track visitors, AI search referrals, crawl logs, content coverage, and conversions. Jointly published by \u730e\u770b\u79d1\u6280 \u00b7 \u5317\u4eac\u65e5\u62a5\u793e\u667a\u6e90GEO. MIT licensed.",
             "url": "https://github.com/yaojingang/GEOInflow",
-            "stars": 342,
-            "forks": 69,
+            "stars": 430,
+            "forks": 91,
+            "score": 99
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "ruyiJS",
+            "full_name": "martinkeith700/ruyiJS",
+            "description": "Run any site  from Python with the real mini AI headless browser , bypass any security anti-crawler , get the data and token u what",
+            "url": "https://github.com/martinkeith700/ruyiJS",
+            "stars": 293,
+            "forks": 121,
             "score": 99
         },
         {
@@ -73,9 +84,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "hevnsnt/CVEngine",
             "description": "AI-first external attack surface assessment with continuous discovery, evidence-based vulnerability validation, and developer-agent MCP integration.",
             "url": "https://github.com/hevnsnt/CVEngine",
-            "stars": 382,
-            "forks": 57,
-            "score": 91
+            "stars": 390,
+            "forks": 59,
+            "score": 92
         },
         {
             "main_cat": "AI",
@@ -84,20 +95,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "Alejandros17487/ai-jailbreaks",
             "description": "AI jailbreaks: 35 paste-ready AI jailbreak prompts for 25+ frontier and open-weight models - system prompts, AGENTS.md specs, and Ollama Modelfiles. Built for AI security research and red-team testing.",
             "url": "https://github.com/Alejandros17487/ai-jailbreaks",
-            "stars": 500,
-            "forks": 101,
-            "score": 86
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "adult-ai-video",
-            "full_name": "wlnhnoqefoxt/adult-ai-video",
-            "description": "AI adult video generator: text-to-clip diffusion, image-to-video motion, 4K NSFW output, uncensored model presets",
-            "url": "https://github.com/wlnhnoqefoxt/adult-ai-video",
-            "stars": 204,
+            "stars": 502,
             "forks": 102,
-            "score": 81
+            "score": 86
         },
         {
             "main_cat": "AI",
@@ -106,7 +106,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "feder-cr/git-ai",
             "description": "Git designed for AI agents.",
             "url": "https://github.com/feder-cr/git-ai",
-            "stars": 1000,
+            "stars": 1003,
             "forks": 97,
             "score": 79
         },
@@ -117,7 +117,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "mistralai/timestral",
             "description": "Repository for Timestral, the time-series foundation model by Mistral AI",
             "url": "https://github.com/mistralai/timestral",
-            "stars": 911,
+            "stars": 912,
             "forks": 72,
             "score": 72
         },
@@ -128,9 +128,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "VITASID57/bluntcore-intimacy-lab",
             "description": "\ud83e\uddec \u949d\u6838\uff5c\u4eba\u673a\u4eb2\u5bc6\u5b9e\u9a8c\u5ba4 \u00b7 Bluntcore Intimacy Lab\uff5c\u4eba\u673a\u604b\u3001\u6210\u4eba AI\u3001Prompt\u3001Memory\u3001Agent\u3001\u6a21\u578b\u5e8a\u6d4b\u4e0e\u5b9e\u9a8c\u8bb0\u5f55\u3002",
             "url": "https://github.com/VITASID57/bluntcore-intimacy-lab",
-            "stars": 666,
+            "stars": 669,
             "forks": 107,
             "score": 72
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "shrimpreel",
+            "full_name": "qianshuixia/shrimpreel",
+            "description": "Open-source template for \"one photo \u2192 AI video that follows a viral template\" SaaS sites, one site per trending keyword. Cloudflare Workers + D1/R2/KV/Queues, TanStack Start + Hono, Google sign-in, credit packs (Waffo/Dodo), fal.ai video generation, admin console.",
+            "url": "https://github.com/qianshuixia/shrimpreel",
+            "stars": 281,
+            "forks": 117,
+            "score": 71
         },
         {
             "main_cat": "AI",
@@ -139,8 +150,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "garycaogan/ai-live-avatar",
             "description": "AI \u5b9e\u65f6\u76f4\u64ad\u95f4\uff1aVidu S2 \u5b9e\u65f6\u6570\u5b57\u4eba + \u5f39\u5e55\u8fc7\u6ee4\u8c03\u5ea6 + \u8863\u67dc\u6362\u88c5 + OBS \u53e0\u5c42\uff08\u89d2\u8272\u8d44\u4ea7\u4e0d\u542b\uff09",
             "url": "https://github.com/garycaogan/ai-live-avatar",
-            "stars": 374,
-            "forks": 107,
+            "stars": 377,
+            "forks": 108,
             "score": 70
         },
         {
@@ -150,7 +161,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "routerhubSI/uncensored-ai-api",
             "description": "Uncensored AI API and models \u2014 one key for Claude, GPT, Gemini, Grok, DeepSeek, GLM and Qwen, with uncensored and abliterated variants where available. OpenAI- and Anthropic-compatible. Pay per token.",
             "url": "https://github.com/routerhubSI/uncensored-ai-api",
-            "stars": 366,
+            "stars": 368,
             "forks": 6,
             "score": 69
         },
@@ -161,20 +172,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "huaxialucaicaizi/ai-startup-skills",
             "description": "\u521b\u4e1a\u516c\u53f8\u505a AI \u4ea7\u54c1\u7684 7 \u6b65 Agent Skill \u5408\u96c6\uff1a\u9a8c\u8bc1 \u2192 BP \u2192 \u653f\u7b56 \u2192 \u8def\u6f14 \u2192 \u83b7\u5ba2 \u2192 \u5b9a\u4ef7 \u2192 \u6ce8\u518c\u3002",
             "url": "https://github.com/huaxialucaicaizi/ai-startup-skills",
-            "stars": 328,
-            "forks": 28,
-            "score": 61
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "kapitsa",
-            "full_name": "nace-ai/kapitsa",
-            "description": "Blazing fast Apple Silicon optimized inference engine built for Qwen & Nemotron. OpenAI + Anthropic API compatible. Built by folks from nace.ai",
-            "url": "https://github.com/nace-ai/kapitsa",
-            "stars": 495,
-            "forks": 76,
-            "score": 60
+            "stars": 351,
+            "forks": 29,
+            "score": 63
         },
         {
             "main_cat": "AI",
@@ -183,9 +183,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "7API/uncensored-ai-api",
             "description": "Uncensored AI API and models \u2014 one key for Claude, GPT, Gemini, Grok, DeepSeek, GLM and Kimi, with uncensored and abliterated variants where available. OpenAI- and Anthropic-compatible. Pay per token.",
             "url": "https://github.com/7API/uncensored-ai-api",
-            "stars": 217,
+            "stars": 218,
             "forks": 54,
-            "score": 60
+            "score": 61
         },
         {
             "main_cat": "AI",
@@ -194,20 +194,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "kanaworksai-hue/audio-studio-mcp",
             "description": "Local AI BGM and sound effects for Claude Code and any MCP client. Stable Audio 3 on Apple Silicon (MLX) and Windows NVIDIA GPUs (PyTorch). No cloud, no API key.",
             "url": "https://github.com/kanaworksai-hue/audio-studio-mcp",
-            "stars": 503,
+            "stars": 507,
             "forks": 36,
             "score": 59
         },
         {
             "main_cat": "AI",
-            "sub_cat": null,
-            "name": "whatsapp-mcp",
-            "full_name": "finereli/whatsapp-mcp",
-            "description": "A read-only MCP server that lets your AI agent search and read your own WhatsApp messages. Use it free at whatsapp.finereli.com, or run your own copy on Cloudflare.",
-            "url": "https://github.com/finereli/whatsapp-mcp",
-            "stars": 387,
-            "forks": 34,
-            "score": 53
+            "sub_cat": "AI General",
+            "name": "kapitsa",
+            "full_name": "nace-ai/kapitsa",
+            "description": "Blazing fast Apple Silicon optimized inference engine built for Qwen & Nemotron. OpenAI + Anthropic API compatible. Built by folks from nace.ai",
+            "url": "https://github.com/nace-ai/kapitsa",
+            "stars": 496,
+            "forks": 76,
+            "score": 58
         },
         {
             "main_cat": "AI",
@@ -216,20 +216,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "C4rohan/Lampline",
             "description": "Build AI phone agents on your own computer and test every change with an AI caller. Open source, runs free with no API keys, cents per call with your own keys. Imports Dialogflow CX.",
             "url": "https://github.com/C4rohan/Lampline",
-            "stars": 300,
+            "stars": 379,
             "forks": 44,
-            "score": 53
+            "score": 57
         },
         {
             "main_cat": "AI",
-            "sub_cat": "AI Agents",
-            "name": "axuse",
-            "full_name": "ctoldigital/axuse",
-            "description": "Accessibility-first browser & computer use for AI agents \u2014 one MCP server for every harness (Codex, Claude Code, OpenCode, Antigravity). Instruments the DOM/accessibility tree via CDP instead of screenshot loops: diffed snapshots, stable element refs, trusted input, typed errors. Zero dependencies",
-            "url": "https://github.com/ctoldigital/axuse",
-            "stars": 508,
-            "forks": 26,
-            "score": 50
+            "sub_cat": null,
+            "name": "whatsapp-mcp",
+            "full_name": "finereli/whatsapp-mcp",
+            "description": "A read-only MCP server that lets your AI agent search and read your own WhatsApp messages. Use it free at whatsapp.finereli.com, or run your own copy on Cloudflare.",
+            "url": "https://github.com/finereli/whatsapp-mcp",
+            "stars": 388,
+            "forks": 34,
+            "score": 53
         },
         {
             "main_cat": "AI",
@@ -238,9 +238,31 @@ const ALPHA_DATA_V2 = {
             "full_name": "liuda30201/AI-Coding",
             "description": "AI \u7f16\u7a0b\u798f\u5229\u5bfc\u822a\uff1a\u6c47\u603b Claude Code\u3001Codex\u3001Cursor \u4e2d\u8f6c\u7ad9\u4e0e\u516c\u76ca\u7ad9\uff0c\u6574\u7406\u514d\u8d39\u989d\u5ea6\u3001\u6ce8\u518c\u798f\u5229\u3001\u7b7e\u5230\u6d3b\u52a8\u548c\u8bc4\u6d4b\u8bb0\u5f55\uff0c\u63d0\u4f9b\u53ef\u89c6\u5316\u770b\u677f\u4e0e Python \u6570\u636e\u91c7\u96c6\u5de5\u5177\u3002",
             "url": "https://github.com/liuda30201/AI-Coding",
-            "stars": 434,
-            "forks": 38,
+            "stars": 439,
+            "forks": 39,
+            "score": 51
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI Agents",
+            "name": "axuse",
+            "full_name": "ctoldigital/axuse",
+            "description": "Accessibility-first browser & computer use for AI agents \u2014 one MCP server for every harness (Codex, Claude Code, OpenCode, Antigravity). Instruments the DOM/accessibility tree via CDP instead of screenshot loops: diffed snapshots, stable element refs, trusted input, typed errors. Zero dependencies",
+            "url": "https://github.com/ctoldigital/axuse",
+            "stars": 510,
+            "forks": 26,
             "score": 50
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "bili-cli",
+            "full_name": "kukemc/bili-cli",
+            "description": "\u4e3a AI Agent \u8bbe\u8ba1\u7684\u54d4\u54e9\u54d4\u54e9\u547d\u4ee4\u884c\u5de5\u5177\uff1a\u626b\u7801\u767b\u5f55\u3001\u770b\u89c6\u9891\u3001\u8bc4\u8bba\u3001\u79c1\u4fe1\u3001\u53d1\u52a8\u6001\u3001\u6295\u7a3f\uff0c\u5168\u90e8 JSON \u8f93\u51fa",
+            "url": "https://github.com/kukemc/bili-cli",
+            "stars": 261,
+            "forks": 17,
+            "score": 46
         },
         {
             "main_cat": "AI",
@@ -250,19 +272,19 @@ const ALPHA_DATA_V2 = {
             "description": "Lex Fridman \u64ad\u5ba2\u4e2d\u6587\u5bfc\u822a\u7ad9:506 \u671f\u5168\u76ee\u5f55\u3001AI \u4e2d\u6587\u7cbe\u8bfb\u3001\u5b98\u65b9\u97f3\u9891/\u6587\u7a3f\u4e0e\u5168\u6587 RSS | Chinese companion to the Lex Fridman Podcast: AI deep-reads, official audio & transcripts for all 506 episodes.",
             "url": "https://github.com/joeseesun/lexfridman-cn",
             "stars": 240,
-            "forks": 32,
+            "forks": 33,
             "score": 46
         },
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "ChaosIntelligence",
-            "full_name": "Cattmonkey/ChaosIntelligence",
-            "description": "\u628a\u667a\u80fd\u4f53\u5f53\u51fd\u6570\uff0c\u628a\u60f3\u6cd5\u5199\u6210\u7a0b\u5e8f\u3002Agent-native functional language with a CLI, Web IDE, goal-driven bots and live UI. Source-available; no AI training.",
-            "url": "https://github.com/Cattmonkey/ChaosIntelligence",
-            "stars": 199,
-            "forks": 0,
-            "score": 46
+            "name": "antirion",
+            "full_name": "eliasbiondo/antirion",
+            "description": "\u26a1 The fastest open-source AI gateway \u2014 one Rust binary with a built-in console to route, secure, budget and observe every LLM call across OpenAI, Anthropic, Gemini, Bedrock and more.",
+            "url": "https://github.com/eliasbiondo/antirion",
+            "stars": 336,
+            "forks": 7,
+            "score": 45
         },
         {
             "main_cat": "AI",
@@ -274,28 +296,6 @@ const ALPHA_DATA_V2 = {
             "stars": 280,
             "forks": 48,
             "score": 45
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "bili-cli",
-            "full_name": "kukemc/bili-cli",
-            "description": "\u4e3a AI Agent \u8bbe\u8ba1\u7684\u54d4\u54e9\u54d4\u54e9\u547d\u4ee4\u884c\u5de5\u5177\uff1a\u626b\u7801\u767b\u5f55\u3001\u770b\u89c6\u9891\u3001\u8bc4\u8bba\u3001\u79c1\u4fe1\u3001\u53d1\u52a8\u6001\u3001\u6295\u7a3f\uff0c\u5168\u90e8 JSON \u8f93\u51fa",
-            "url": "https://github.com/kukemc/bili-cli",
-            "stars": 255,
-            "forks": 15,
-            "score": 45
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "antirion",
-            "full_name": "eliasbiondo/antirion",
-            "description": "\u26a1 The fastest open-source AI gateway \u2014 one Rust binary with a built-in console to route, secure, budget and observe every LLM call across OpenAI, Anthropic, Gemini, Bedrock and more.",
-            "url": "https://github.com/eliasbiondo/antirion",
-            "stars": 329,
-            "forks": 7,
-            "score": 44
         },
         {
             "main_cat": "AI",
@@ -315,8 +315,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "nichochar/ari",
             "description": "learn stuff with pen + paper + AI",
             "url": "https://github.com/nichochar/ari",
-            "stars": 209,
-            "forks": 17,
+            "stars": 210,
+            "forks": 18,
             "score": 42
         },
         {
@@ -348,16 +348,16 @@ const ALPHA_DATA_V2 = {
             "full_name": "ahtx/kindi",
             "description": "A custom LLM inference engine for low-cost NVIDIA GPUs: Quadro K420 and K1200, two K1200s joined into one 8 GB card, GTX 1080 and RTX 3080. Runs Bonsai 2B, 4B, 9B and 27B models with an OpenAI-compatible server.",
             "url": "https://github.com/ahtx/kindi",
-            "stars": 68,
-            "forks": 15,
-            "score": 37
+            "stars": 70,
+            "forks": 16,
+            "score": 36
         },
         {
             "main_cat": "DePIN",
             "sub_cat": null,
             "name": "token-exchange-neocloud-in-a-box",
             "full_name": "Lore-Hex/token-exchange-neocloud-in-a-box",
-            "description": "Open-source confidential GPU inference cloud in a box: Intel TDX + NVIDIA confidential-computing nodes for DeepSeek-V4.1-Flash and GLM-5.3, verifiable and listed on TrustedRouter",
+            "description": "Neocloud in a Box: Open-source confidential GPU inference cloud in a box: Intel TDX + NVIDIA confidential-computing nodes for DeepSeek-V4.1-Flash and GLM-5.3, verifiable and listed on TrustedRouter",
             "url": "https://github.com/Lore-Hex/token-exchange-neocloud-in-a-box",
             "stars": 51,
             "forks": 0,
@@ -370,7 +370,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "ashishpatel26/Agent-harness-using-Agno",
             "description": "Hands-on Agno agent harness: tools, structured I/O, storage, memory, state, RAG knowledge search, learning, guardrails, human-in-the-loop, multi-agent teams, workflows and AgentOS, using local Ollama models.",
             "url": "https://github.com/ashishpatel26/Agent-harness-using-Agno",
-            "stars": 6,
+            "stars": 7,
             "forks": 1,
             "score": 31
         },
@@ -597,10 +597,10 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
-            "name": "OmniPilot-MCP",
-            "full_name": "GabriMannino-pt/OmniPilot-MCP",
-            "description": "Autonomous Cross-Platform Executive Agent & Pre-Execution Visual Firewall for Browser & Desktop Operations via Model Context Protocol (MCP)",
-            "url": "https://github.com/GabriMannino-pt/OmniPilot-MCP",
+            "name": "MCP-MegaBrain",
+            "full_name": "dougrn/MCP-MegaBrain",
+            "description": "Persistent cross-agent memory, rule enforcer, and blindspot vaccine for AI coding assistants via Model Context Protocol (MCP)",
+            "url": "https://github.com/dougrn/MCP-MegaBrain",
             "stars": 1,
             "forks": 0,
             "score": 30
@@ -608,10 +608,10 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
-            "name": "MCP-MegaBrain",
-            "full_name": "dougrn/MCP-MegaBrain",
-            "description": "Persistent cross-agent memory, rule enforcer, and blindspot vaccine for AI coding assistants via Model Context Protocol (MCP)",
-            "url": "https://github.com/dougrn/MCP-MegaBrain",
+            "name": "OmniPilot-MCP",
+            "full_name": "GabriMannino-pt/OmniPilot-MCP",
+            "description": "Autonomous Cross-Platform Executive Agent & Pre-Execution Visual Firewall for Browser & Desktop Operations via Model Context Protocol (MCP)",
+            "url": "https://github.com/GabriMannino-pt/OmniPilot-MCP",
             "stars": 1,
             "forks": 0,
             "score": 30
@@ -729,6 +729,20 @@ const ALPHA_DATA_V2 = {
     ],
     "news": [
         {
+            "title": "I-HITL: Inalienable Human-in-the-Loop",
+            "source": "ArXiv",
+            "type": "Research Alpha",
+            "color": "text-indigo-600",
+            "url": "http://arxiv.org/abs/2610.35835v1"
+        },
+        {
+            "title": "Information-Theoretic Secure Aggregation With Heterogeneous Client Quantization",
+            "source": "ArXiv",
+            "type": "Research Alpha",
+            "color": "text-indigo-600",
+            "url": "http://arxiv.org/abs/2610.35833v1"
+        },
+        {
             "title": "Bitcoin volatility remains high ahead of key FED decision.",
             "source": "Polymarket",
             "type": "Expectation",
@@ -736,5 +750,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-10-27 00:09"
+    "timestamp": "2026-10-27 05:51"
 };
