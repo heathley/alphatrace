@@ -3,12 +3,23 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
+            "name": "gpu-unlock",
+            "full_name": "Zagitta/gpu-unlock",
+            "description": "Your GeForce runs AI at half speed. This fixes it for 20/30/40 series cards. Up to 2\u00d7 FP16 / BF16 / TF32 tensor throughput",
+            "url": "https://github.com/Zagitta/gpu-unlock",
+            "stars": 11357,
+            "forks": 1111,
+            "score": 99
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
             "name": "android-ad-cleaner",
             "full_name": "rddmwmddr/android-ad-cleaner",
             "description": "\u5173\u6389\u56fd\u4ea7\u5b89\u5353\u624b\u673a\u7cfb\u7edf\u91cc\u7684\u5e7f\u544a\u3001\u70ed\u641c\u3001\u8d44\u8baf\u63a8\u8350\u548c\u8425\u9500\u63a8\u9001\u3002\u4e0d root\uff0c\u53ef\u8fd8\u539f\uff0c\u652f\u6301 AI \u667a\u80fd\u4f53\u4e00\u952e\u6267\u884c\u3002",
             "url": "https://github.com/rddmwmddr/android-ad-cleaner",
-            "stars": 3168,
-            "forks": 267,
+            "stars": 3299,
+            "forks": 278,
             "score": 99
         },
         {
@@ -18,8 +29,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "Leonxlnx/earshot",
             "description": "Ears for coding agents: let AI hear, review and make sound. CPU-only, open source.",
             "url": "https://github.com/Leonxlnx/earshot",
-            "stars": 3044,
-            "forks": 187,
+            "stars": 3051,
+            "forks": 188,
             "score": 99
         },
         {
@@ -29,7 +40,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "cranebeaker/coop-anything",
             "description": "Co-op Anything: point your AI agent at any single-player game and play it with friends (online and/or splitscreen!). MCP server and playbook to let you reverse engineer, fix, test, ship and share what it learns.",
             "url": "https://github.com/cranebeaker/coop-anything",
-            "stars": 1487,
+            "stars": 1491,
             "forks": 193,
             "score": 99
         },
@@ -40,8 +51,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "andyhuo520/digital-human-koubo",
             "description": "AI digital-human talking-head videos from one photo: Renoise MCP generation + 5 editing styles + 48 creator-grade packaging components. Agent skill for Claude Code / Codex / OpenClaw / WorkBuddy \u2026",
             "url": "https://github.com/andyhuo520/digital-human-koubo",
-            "stars": 1053,
-            "forks": 254,
+            "stars": 1077,
+            "forks": 256,
             "score": 99
         },
         {
@@ -51,7 +62,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "DenisSergeevitch/ex-ussr-kinship-research",
             "description": "Evidence-first genealogy skill for AI agents (Codex, Claude Code): church books, civil, military, deportation and repression records across the former USSR. Replies in your language.",
             "url": "https://github.com/DenisSergeevitch/ex-ussr-kinship-research",
-            "stars": 1041,
+            "stars": 1056,
             "forks": 105,
             "score": 99
         },
@@ -62,8 +73,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "yaojingang/GEOInflow",
             "description": "Self-hosted web and AI crawler analytics for Generative Engine Optimization (GEO). Track visitors, AI search referrals, crawl logs, content coverage, and conversions. Jointly published by \u730e\u770b\u79d1\u6280 \u00b7 \u5317\u4eac\u65e5\u62a5\u793e\u667a\u6e90GEO. MIT licensed.",
             "url": "https://github.com/yaojingang/GEOInflow",
-            "stars": 583,
-            "forks": 168,
+            "stars": 598,
+            "forks": 178,
             "score": 99
         },
         {
@@ -73,7 +84,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "martinkeith700/ruyiJS",
             "description": "Run any site  from Python with the real mini AI headless browser , bypass any security anti-crawler , get the data and token you want",
             "url": "https://github.com/martinkeith700/ruyiJS",
-            "stars": 440,
+            "stars": 443,
             "forks": 201,
             "score": 99
         },
@@ -84,20 +95,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "anhao/ai-pose-gallery-zh",
             "description": "\u4e2d\u6587\u7248 AI \u59ff\u52bf\u53c2\u8003\u56fe\u5e93 \u00b7 1439 \u7ec4 / 2878 \u5f20\u56fe\u7247 / \u5b8c\u6574\u6c49\u5316 \u00b7 \u96f6\u4f9d\u8d56\u9759\u6001\u753b\u5eca",
             "url": "https://github.com/anhao/ai-pose-gallery-zh",
-            "stars": 262,
-            "forks": 70,
+            "stars": 419,
+            "forks": 107,
             "score": 99
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "CVEngine",
-            "full_name": "hevnsnt/CVEngine",
-            "description": "AI-first external attack surface assessment with continuous discovery, evidence-based vulnerability validation, and developer-agent MCP integration.",
-            "url": "https://github.com/hevnsnt/CVEngine",
-            "stars": 418,
-            "forks": 65,
-            "score": 97
         },
         {
             "main_cat": "AI",
@@ -106,9 +106,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "stormydayy/halo-overlay",
             "description": "Lightweight opensource AI overlay for live conversations. Hears, sees, suggests.",
             "url": "https://github.com/stormydayy/halo-overlay",
-            "stars": 439,
+            "stars": 513,
             "forks": 36,
-            "score": 88
+            "score": 95
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "CVEngine",
+            "full_name": "hevnsnt/CVEngine",
+            "description": "AI-first external attack surface assessment with continuous discovery, evidence-based vulnerability validation, and developer-agent MCP integration.",
+            "url": "https://github.com/hevnsnt/CVEngine",
+            "stars": 421,
+            "forks": 65,
+            "score": 86
         },
         {
             "main_cat": "AI",
@@ -117,7 +128,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Alejandros17487/ai-jailbreaks",
             "description": "AI jailbreaks: 35 paste-ready AI jailbreak prompts for 25+ frontier and open-weight models - system prompts, AGENTS.md specs, and Ollama Modelfiles. Built for AI security research and red-team testing.",
             "url": "https://github.com/Alejandros17487/ai-jailbreaks",
-            "stars": 506,
+            "stars": 508,
             "forks": 104,
             "score": 81
         },
@@ -134,14 +145,25 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
+            "sub_cat": null,
+            "name": "OpenDuet",
+            "full_name": "CopilotKit/OpenDuet",
+            "description": "An Open Source template for a proactive AI agent that gets your work done and keeps you in the loop.",
+            "url": "https://github.com/CopilotKit/OpenDuet",
+            "stars": 486,
+            "forks": 70,
+            "score": 72
+        },
+        {
+            "main_cat": "AI",
             "sub_cat": "AI General",
             "name": "timestral",
             "full_name": "mistralai/timestral",
             "description": "Repository for Timestral, the time-series foundation model by Mistral AI",
             "url": "https://github.com/mistralai/timestral",
-            "stars": 936,
+            "stars": 941,
             "forks": 73,
-            "score": 70
+            "score": 71
         },
         {
             "main_cat": "AI",
@@ -150,7 +172,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "VITASID57/bluntcore-intimacy-lab",
             "description": "\ud83e\uddec \u949d\u6838\uff5c\u4eba\u673a\u4eb2\u5bc6\u5b9e\u9a8c\u5ba4 \u00b7 Bluntcore Intimacy Lab\uff5c\u4eba\u673a\u604b\u3001\u6210\u4eba AI\u3001Prompt\u3001Memory\u3001Agent\u3001\u6a21\u578b\u5e8a\u6d4b\u4e0e\u5b9e\u9a8c\u8bb0\u5f55\u3002",
             "url": "https://github.com/VITASID57/bluntcore-intimacy-lab",
-            "stars": 687,
+            "stars": 689,
             "forks": 111,
             "score": 70
         },
@@ -183,7 +205,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "huaxialucaicaizi/ai-startup-skills",
             "description": "\u521b\u4e1a\u516c\u53f8\u505a AI \u4ea7\u54c1\u7684 7 \u6b65 Agent Skill \u5408\u96c6\uff1a\u9a8c\u8bc1 \u2192 BP \u2192 \u653f\u7b56 \u2192 \u8def\u6f14 \u2192 \u83b7\u5ba2 \u2192 \u5b9a\u4ef7 \u2192 \u6ce8\u518c\u3002",
             "url": "https://github.com/huaxialucaicaizi/ai-startup-skills",
-            "stars": 433,
+            "stars": 435,
             "forks": 32,
             "score": 65
         },
@@ -200,25 +222,14 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
-            "sub_cat": null,
-            "name": "OpenDuet",
-            "full_name": "CopilotKit/OpenDuet",
-            "description": "An Open Source template for a proactive AI agent that gets your work done and keeps you in the loop.",
-            "url": "https://github.com/CopilotKit/OpenDuet",
-            "stars": 362,
-            "forks": 48,
-            "score": 60
-        },
-        {
-            "main_cat": "AI",
             "sub_cat": "AI General",
             "name": "kapitsa",
             "full_name": "nace-ai/kapitsa",
             "description": "Blazing fast Apple Silicon optimized inference engine built for Qwen & Nemotron. OpenAI + Anthropic API compatible. Built by folks from nace.ai",
             "url": "https://github.com/nace-ai/kapitsa",
-            "stars": 520,
-            "forks": 77,
-            "score": 59
+            "stars": 526,
+            "forks": 78,
+            "score": 57
         },
         {
             "main_cat": "AI",
@@ -227,7 +238,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "kanaworksai-hue/audio-studio-mcp",
             "description": "Local AI BGM and sound effects for Claude Code and any MCP client. Stable Audio 3 on Apple Silicon (MLX) and Windows NVIDIA GPUs (PyTorch). No cloud, no API key.",
             "url": "https://github.com/kanaworksai-hue/audio-studio-mcp",
-            "stars": 511,
+            "stars": 512,
             "forks": 36,
             "score": 57
         },
@@ -238,7 +249,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "C4rohan/Lampline",
             "description": "Build AI phone agents on your own computer and test every change with an AI caller. Open source, runs free with no API keys, cents per call with your own keys. Imports Dialogflow CX.",
             "url": "https://github.com/C4rohan/Lampline",
-            "stars": 381,
+            "stars": 380,
             "forks": 44,
             "score": 55
         },
@@ -249,7 +260,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "liuda30201/AI-Coding",
             "description": "AI \u7f16\u7a0b\u798f\u5229\u5bfc\u822a\uff1a\u6c47\u603b Claude Code\u3001Codex\u3001Cursor \u4e2d\u8f6c\u7ad9\u4e0e\u516c\u76ca\u7ad9\uff0c\u6574\u7406\u514d\u8d39\u989d\u5ea6\u3001\u6ce8\u518c\u798f\u5229\u3001\u7b7e\u5230\u6d3b\u52a8\u548c\u8bc4\u6d4b\u8bb0\u5f55\uff0c\u63d0\u4f9b\u53ef\u89c6\u5316\u770b\u677f\u4e0e Python \u6570\u636e\u91c7\u96c6\u5de5\u5177\u3002",
             "url": "https://github.com/liuda30201/AI-Coding",
-            "stars": 471,
+            "stars": 475,
             "forks": 40,
             "score": 51
         },
@@ -266,14 +277,25 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
-            "sub_cat": "AI Agents",
-            "name": "axuse",
-            "full_name": "ctoldigital/axuse",
-            "description": "Accessibility-first browser & computer use for AI agents \u2014 one MCP server for every harness (Codex, Claude Code, OpenCode, Antigravity). Instruments the DOM/accessibility tree via CDP instead of screenshot loops: diffed snapshots, stable element refs, trusted input, typed errors. Zero dependencies",
-            "url": "https://github.com/ctoldigital/axuse",
-            "stars": 537,
-            "forks": 27,
-            "score": 50
+            "sub_cat": null,
+            "name": "chaojifeng-video-design",
+            "full_name": "mileson/chaojifeng-video-design",
+            "description": "\u8d85\u7ea7\u5cf0\u7684\u89c6\u9891\u8bbe\u8ba1\u65b9\u6cd5\u8bba\uff5c\u9762\u5411 AI Agent \u7684\u89c6\u9891\u4e3b\u7ebf\u3001\u5206\u955c\u3001\u58f0\u753b\u8282\u594f\u3001\u5236\u4f5c\u4e0e\u4ea4\u4ed8\u9a8c\u6536 Skill",
+            "url": "https://github.com/mileson/chaojifeng-video-design",
+            "stars": 223,
+            "forks": 35,
+            "score": 48
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "antirion",
+            "full_name": "eliasbiondo/antirion",
+            "description": "\u26a1 The fastest open-source AI gateway \u2014 one Rust binary with a built-in console to route, secure, budget and observe every LLM call across OpenAI, Anthropic, Gemini, Bedrock and more.",
+            "url": "https://github.com/eliasbiondo/antirion",
+            "stars": 375,
+            "forks": 7,
+            "score": 45
         },
         {
             "main_cat": "AI",
@@ -284,18 +306,7 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/kukemc/bili-cli",
             "stars": 273,
             "forks": 17,
-            "score": 47
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "antirion",
-            "full_name": "eliasbiondo/antirion",
-            "description": "\u26a1 The fastest open-source AI gateway \u2014 one Rust binary with a built-in console to route, secure, budget and observe every LLM call across OpenAI, Anthropic, Gemini, Bedrock and more.",
-            "url": "https://github.com/eliasbiondo/antirion",
-            "stars": 373,
-            "forks": 7,
-            "score": 46
+            "score": 45
         },
         {
             "main_cat": "AI",
@@ -310,35 +321,24 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
-            "sub_cat": null,
-            "name": "transwork",
-            "full_name": "shuyu-labs/transwork",
-            "description": "\u4f01\u4e1a\u7ea7\u684c\u9762 AI Agent \u5de5\u4f5c\u53f0\uff0c\u8ba9\u6280\u80fd\u3001\u77e5\u8bc6\u4e0e\u4efb\u52a1\u5728\u540c\u4e00\u5904\u534f\u4f5c\u3002",
-            "url": "https://github.com/shuyu-labs/transwork",
-            "stars": 280,
-            "forks": 48,
-            "score": 44
-        },
-        {
-            "main_cat": "AI",
             "sub_cat": "AI General",
             "name": "res",
             "full_name": "alextnetto/res",
             "description": "Agent skill to reverse engineer a SaaS product through the browser into a knowledge base for rebuilding it: screens, rules, data model, design tokens and production barriers, without touching production data.",
             "url": "https://github.com/alextnetto/res",
-            "stars": 219,
-            "forks": 51,
+            "stars": 221,
+            "forks": 52,
             "score": 44
         },
         {
             "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "hob",
-            "full_name": "FrigadeHQ/hob",
-            "description": "An easier way to use AI on your own computer. A free, open-source alternative to Claude and ChatGPT that runs open-weight models like Gemma and gpt-oss locally on Mac, Windows and Linux. Private, and works offline.",
-            "url": "https://github.com/FrigadeHQ/hob",
-            "stars": 255,
-            "forks": 15,
+            "sub_cat": null,
+            "name": "studyai",
+            "full_name": "zuhairhalawa/studyai",
+            "description": "A local-first study platform for university lectures: PowerPoint slides, spaced repetition, exams, and an optional AI tutor on the Gemini free tier.",
+            "url": "https://github.com/zuhairhalawa/studyai",
+            "stars": 238,
+            "forks": 3,
             "score": 40
         },
         {
@@ -350,7 +350,7 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/ahtx/kindi",
             "stars": 72,
             "forks": 17,
-            "score": 37
+            "score": 36
         },
         {
             "main_cat": "DePIN",
@@ -405,6 +405,17 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/alphaparkinc/genpark-agentic-zero-knowledge-pii-token-vault-masker-skill",
             "stars": 7,
             "forks": 0,
+            "score": 30
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "Vertical-Harness",
+            "full_name": "harshith-vaddiparthy/Vertical-Harness",
+            "description": "Open-source template for designing specialized AI agent harnesses: domain knowledge, models, tools, access, workflows, and evaluations.",
+            "url": "https://github.com/harshith-vaddiparthy/Vertical-Harness",
+            "stars": 5,
+            "forks": 1,
             "score": 30
         },
         {
@@ -496,17 +507,6 @@ const ALPHA_DATA_V2 = {
             "score": 30
         },
         {
-            "main_cat": "Stablecoin Infrastructure",
-            "sub_cat": null,
-            "name": "tokelia",
-            "full_name": "ajchacon/tokelia",
-            "description": "Tokelia: white-label fintech infrastructure for LatAm. Banking, payments, stablecoins and RWA tokenization (ERC-3643). Showcase (private source).",
-            "url": "https://github.com/ajchacon/tokelia",
-            "stars": 0,
-            "forks": 0,
-            "score": 30
-        },
-        {
             "main_cat": "AI",
             "sub_cat": "AI Agents",
             "name": "NeroX-Stable",
@@ -542,32 +542,10 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
-            "name": "ArcInvoice",
-            "full_name": "codewithpradeep14/ArcInvoice",
-            "description": "ArcInvoice is a non-custodial stablecoin invoicing platform that allows freelancers and businesses to bill clients in USDC with shareable payment links and QR codes.   Payments settle directly on Circle's Arc Mainnet with automated on-chain RPC verification and instant downloadable receipts\u2014no intermediaries required.",
-            "url": "https://github.com/codewithpradeep14/ArcInvoice",
-            "stars": 0,
-            "forks": 0,
-            "score": 30
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
             "name": "omniroute-bridge-mcp",
             "full_name": "c-viper-work/omniroute-bridge-mcp",
             "description": "Zero-dependency cross-chain bridge, Polymarket & Hyperliquid one-click onboarding (USDC.e + POL, HYPE, Arbitrum USDC), and multi-wallet gas refuel MCP server, CLI & Web Terminal powered by Relay Protocol.",
             "url": "https://github.com/c-viper-work/omniroute-bridge-mcp",
-            "stars": 1,
-            "forks": 0,
-            "score": 30
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "session-mesh-mcp",
-            "full_name": "ShashankIIITN/session-mesh-mcp",
-            "description": "Model Context Protocol multi-agent coordination kernel, cross-session mesh, and context firewall.",
-            "url": "https://github.com/ShashankIIITN/session-mesh-mcp",
             "stars": 1,
             "forks": 0,
             "score": 30
@@ -714,6 +692,17 @@ const ALPHA_DATA_V2 = {
             "stars": 0,
             "forks": 0,
             "score": 30
+        },
+        {
+            "main_cat": "Cross-chain / Interoperability",
+            "sub_cat": null,
+            "name": "clpr-website",
+            "full_name": "danielmarv/clpr-website",
+            "description": "Project website prototype for CLPR, the Cross Ledger Protocol (an LF Decentralized Trust Lab).",
+            "url": "https://github.com/danielmarv/clpr-website",
+            "stars": 0,
+            "forks": 0,
+            "score": 30
         }
     ],
     "news": [
@@ -739,5 +728,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-10-27 21:41"
+    "timestamp": "2026-10-28 00:52"
 };
