@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "Zagitta/gpu-unlock",
             "description": "Your GeForce runs AI at half speed. This fixes it for 20/30/40 series cards. Up to 2\u00d7 FP16 / BF16 / TF32 tensor throughput",
             "url": "https://github.com/Zagitta/gpu-unlock",
-            "stars": 13034,
-            "forks": 1275,
+            "stars": 13123,
+            "forks": 1282,
             "score": 99
         },
         {
@@ -18,8 +18,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "rddmwmddr/android-ad-cleaner",
             "description": "\u5173\u6389\u56fd\u4ea7\u5b89\u5353\u624b\u673a\u7cfb\u7edf\u91cc\u7684\u5e7f\u544a\u3001\u70ed\u641c\u3001\u8d44\u8baf\u63a8\u8350\u548c\u8425\u9500\u63a8\u9001\u3002\u4e0d root\uff0c\u53ef\u8fd8\u539f\uff0c\u652f\u6301 AI \u667a\u80fd\u4f53\u4e00\u952e\u6267\u884c\u3002",
             "url": "https://github.com/rddmwmddr/android-ad-cleaner",
-            "stars": 4709,
-            "forks": 425,
+            "stars": 4758,
+            "forks": 430,
             "score": 99
         },
         {
@@ -29,19 +29,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "anhao/ai-pose-gallery-zh",
             "description": "\u4e2d\u6587\u7248 AI \u59ff\u52bf\u53c2\u8003\u56fe\u5e93 \u00b7 1439 \u7ec4 / 2878 \u5f20\u56fe\u7247 / \u5b8c\u6574\u6c49\u5316 \u00b7 \u96f6\u4f9d\u8d56\u9759\u6001\u753b\u5eca",
             "url": "https://github.com/anhao/ai-pose-gallery-zh",
-            "stars": 3088,
-            "forks": 801,
-            "score": 99
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "coop-anything",
-            "full_name": "cranebeaker/coop-anything",
-            "description": "Co-op Anything: point your AI agent at any single-player game and play it with friends (online and/or splitscreen!). MCP server and playbook to let you reverse engineer, fix, test, ship and share what it learns.",
-            "url": "https://github.com/cranebeaker/coop-anything",
-            "stars": 1582,
-            "forks": 216,
+            "stars": 3232,
+            "forks": 835,
             "score": 99
         },
         {
@@ -51,8 +40,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "CopilotKit/OpenDuet",
             "description": "An Open Source template for a proactive AI agent that gets your work done and keeps you in the loop.",
             "url": "https://github.com/CopilotKit/OpenDuet",
-            "stars": 1519,
-            "forks": 194,
+            "stars": 1543,
+            "forks": 197,
             "score": 99
         },
         {
@@ -62,8 +51,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "andyhuo520/digital-human-koubo",
             "description": "AI digital-human talking-head videos from one photo: Renoise MCP generation + 5 editing styles + 48 creator-grade packaging components. Agent skill for Claude Code / Codex / OpenClaw / WorkBuddy \u2026",
             "url": "https://github.com/andyhuo520/digital-human-koubo",
-            "stars": 1459,
-            "forks": 333,
+            "stars": 1475,
+            "forks": 337,
             "score": 99
         },
         {
@@ -73,19 +62,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "DenisSergeevitch/ex-ussr-kinship-research",
             "description": "Evidence-first genealogy skill for AI agents (Codex, Claude Code): church books, civil, military, deportation and repression records across the former USSR. Replies in your language.",
             "url": "https://github.com/DenisSergeevitch/ex-ussr-kinship-research",
-            "stars": 1259,
+            "stars": 1270,
             "forks": 133,
-            "score": 99
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "GEOInflow",
-            "full_name": "yaojingang/GEOInflow",
-            "description": "Self-hosted web and AI crawler analytics for Generative Engine Optimization (GEO). Track visitors, AI search referrals, crawl logs, content coverage, and conversions. Jointly published by \u730e\u770b\u79d1\u6280 \u00b7 \u5317\u4eac\u65e5\u62a5\u793e\u667a\u6e90GEO. MIT licensed.",
-            "url": "https://github.com/yaojingang/GEOInflow",
-            "stars": 723,
-            "forks": 231,
             "score": 99
         },
         {
@@ -95,8 +73,19 @@ const ALPHA_DATA_V2 = {
             "full_name": "qybaihe/bla",
             "description": "\ud83d\udee1\ufe0f BLA (Blind LLM Agents) \u2014 Adversarial defense shield that protects binaries, Electron apps, JS bundles, Python, and WebAssembly against AI reverse-engineering agents like REA. Poison -> Exhaust -> Hallucinate.",
             "url": "https://github.com/qybaihe/bla",
-            "stars": 688,
-            "forks": 114,
+            "stars": 825,
+            "forks": 128,
+            "score": 99
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "GEOInflow",
+            "full_name": "yaojingang/GEOInflow",
+            "description": "Self-hosted web and AI crawler analytics for Generative Engine Optimization (GEO). Track visitors, AI search referrals, crawl logs, content coverage, and conversions. Jointly published by \u730e\u770b\u79d1\u6280 \u00b7 \u5317\u4eac\u65e5\u62a5\u793e\u667a\u6e90GEO. MIT licensed.",
+            "url": "https://github.com/yaojingang/GEOInflow",
+            "stars": 727,
+            "forks": 232,
             "score": 99
         },
         {
@@ -106,7 +95,29 @@ const ALPHA_DATA_V2 = {
             "full_name": "konlu/story-studio",
             "description": "\u4ece\u9009\u9898\u5230\u526a\u6620\u8349\u7a3f\u7684\u4e00\u7ad9\u5f0f AI \u77ed\u89c6\u9891\u5185\u5bb9\u521b\u4f5c Agent Skill",
             "url": "https://github.com/konlu/story-studio",
-            "stars": 487,
+            "stars": 492,
+            "forks": 113,
+            "score": 99
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "capri-ai",
+            "full_name": "ChannelCooperStart/capri-ai",
+            "description": "\ud83c\udf03 Capri \u2014 Edgerunners-inspired AI agent for your desktop. Works with Claude Code, Codex, Antigravity & more.",
+            "url": "https://github.com/ChannelCooperStart/capri-ai",
+            "stars": 429,
+            "forks": 66,
+            "score": 99
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "nvzhuang",
+            "full_name": "paipiange/nvzhuang",
+            "description": "1407 \u5f20 AI \u5973\u88c5\u53c2\u8003\u56fe\u96c6\u4e0e\u865a\u62df\u8bd5\u7a7f\u7f51\u7ad9\uff0c\u652f\u6301\u4e2d\u82f1\u68c0\u7d22\u3001OpenAI Images / Gemini / \u8c46\u5305\u53ca\u81ea\u5b9a\u4e49 Base URL\u3001API Key\u3001\u6a21\u578b\u3002https://github.com/paipiange/nvzhuang",
+            "url": "https://github.com/paipiange/nvzhuang",
+            "stars": 290,
             "forks": 112,
             "score": 99
         },
@@ -117,20 +128,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "anonnerdfrenzy/survival-llm",
             "description": "A free AI assistant and survival library that runs on your own computer, with no internet needed. Shows the source of every answer.",
             "url": "https://github.com/anonnerdfrenzy/survival-llm",
-            "stars": 754,
-            "forks": 64,
-            "score": 93
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "capri-ai",
-            "full_name": "ChannelCooperStart/capri-ai",
-            "description": "\ud83c\udf03 Capri \u2014 Edgerunners-inspired AI agent for your desktop. Works with Claude Code, Codex, Antigravity & more.",
-            "url": "https://github.com/ChannelCooperStart/capri-ai",
-            "stars": 373,
-            "forks": 66,
-            "score": 93
+            "stars": 770,
+            "forks": 65,
+            "score": 94
         },
         {
             "main_cat": "AI",
@@ -139,20 +139,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "patch-gg/anymove",
             "description": "Motion capture for any creature from one AI video: two cameras in one frame, a DINOv2 joint reader, the rig fitted in both views, a GLB out.",
             "url": "https://github.com/patch-gg/anymove",
-            "stars": 417,
-            "forks": 42,
-            "score": 88
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "CVEngine",
-            "full_name": "hevnsnt/CVEngine",
-            "description": "AI-first external attack surface assessment with continuous discovery, evidence-based vulnerability validation, and developer-agent MCP integration.",
-            "url": "https://github.com/hevnsnt/CVEngine",
-            "stars": 477,
-            "forks": 73,
-            "score": 84
+            "stars": 424,
+            "forks": 43,
+            "score": 89
         },
         {
             "main_cat": "AI",
@@ -161,9 +150,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "jacke-pp/open-yoki",
             "description": "An AI live-stream host that runs on one server: voice, face, chat, memory, posts. The base yoki runs on. By Jacke_pp \u00b7 contact: DM @Jacke_pp on X",
             "url": "https://github.com/jacke-pp/open-yoki",
-            "stars": 340,
-            "forks": 21,
-            "score": 83
+            "stars": 366,
+            "forks": 24,
+            "score": 87
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "CVEngine",
+            "full_name": "hevnsnt/CVEngine",
+            "description": "AI-first external attack surface assessment with continuous discovery, evidence-based vulnerability validation, and developer-agent MCP integration.",
+            "url": "https://github.com/hevnsnt/CVEngine",
+            "stars": 489,
+            "forks": 74,
+            "score": 79
         },
         {
             "main_cat": "AI",
@@ -179,22 +179,11 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "bluntcore-intimacy-lab",
-            "full_name": "VITASID57/bluntcore-intimacy-lab",
-            "description": "\ud83e\uddec \u949d\u6838\uff5c\u4eba\u673a\u4eb2\u5bc6\u5b9e\u9a8c\u5ba4 \u00b7 Bluntcore Intimacy Lab\uff5c\u4eba\u673a\u604b\u3001\u6210\u4eba AI\u3001Prompt\u3001Memory\u3001Agent\u3001\u6a21\u578b\u5e8a\u6d4b\u4e0e\u5b9e\u9a8c\u8bb0\u5f55\u3002https://x.com/QloveDudu",
-            "url": "https://github.com/VITASID57/bluntcore-intimacy-lab",
-            "stars": 776,
-            "forks": 127,
-            "score": 70
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
             "name": "shrimpreel",
             "full_name": "qianshuixia/shrimpreel",
             "description": "Open-source template for \"one photo \u2192 AI video that follows a viral template\" SaaS sites, one site per trending keyword. Cloudflare Workers + D1/R2/KV/Queues, TanStack Start + Hono, Google sign-in, credit packs (Waffo/Dodo), fal.ai video generation, admin console.",
             "url": "https://github.com/qianshuixia/shrimpreel",
-            "stars": 320,
+            "stars": 321,
             "forks": 132,
             "score": 65
         },
@@ -205,7 +194,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "huaxialucaicaizi/ai-startup-skills",
             "description": "\u521b\u4e1a\u516c\u53f8\u505a AI \u4ea7\u54c1\u7684 7 \u6b65 Agent Skill \u5408\u96c6\uff1a\u9a8c\u8bc1 \u2192 BP \u2192 \u653f\u7b56 \u2192 \u8def\u6f14 \u2192 \u83b7\u5ba2 \u2192 \u5b9a\u4ef7 \u2192 \u6ce8\u518c\u3002",
             "url": "https://github.com/huaxialucaicaizi/ai-startup-skills",
-            "stars": 555,
+            "stars": 561,
             "forks": 32,
             "score": 64
         },
@@ -219,6 +208,17 @@ const ALPHA_DATA_V2 = {
             "stars": 394,
             "forks": 113,
             "score": 62
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "reveric",
+            "full_name": "looplj/reveric",
+            "description": "Agent Native \u4e00\u7ad9\u5f0f AI \u5c0f\u8bf4\uff0c\u77ed\u5267\u684c\u9762\u521b\u4f5c\u5de5\u4f5c\u53f0",
+            "url": "https://github.com/looplj/reveric",
+            "stars": 327,
+            "forks": 70,
+            "score": 60
         },
         {
             "main_cat": "AI",
@@ -238,20 +238,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "mileson/chaojifeng-video-design",
             "description": "\u8d85\u7ea7\u5cf0\u7684\u89c6\u9891\u8bbe\u8ba1\u65b9\u6cd5\u8bba\uff5c\u9762\u5411 AI Agent \u7684\u89c6\u9891\u4e3b\u7ebf\u3001\u5206\u955c\u3001\u58f0\u753b\u8282\u594f\u3001\u5236\u4f5c\u4e0e\u4ea4\u4ed8\u9a8c\u6536 Skill",
             "url": "https://github.com/mileson/chaojifeng-video-design",
-            "stars": 464,
+            "stars": 466,
             "forks": 58,
             "score": 59
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "kapitsa",
-            "full_name": "nace-ai/kapitsa",
-            "description": "Blazing fast Apple Silicon optimized inference engine built for Qwen & Nemotron. OpenAI + Anthropic API compatible. Built by folks from nace.ai",
-            "url": "https://github.com/nace-ai/kapitsa",
-            "stars": 555,
-            "forks": 81,
-            "score": 57
         },
         {
             "main_cat": "AI",
@@ -260,8 +249,19 @@ const ALPHA_DATA_V2 = {
             "full_name": "Nutlope/bygga",
             "description": "IKEA assembly, step by step: animated, manual-style 3D guides. Scan any paper manual with Together AI.",
             "url": "https://github.com/Nutlope/bygga",
-            "stars": 375,
+            "stars": 382,
             "forks": 44,
+            "score": 55
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "taishang-laojun",
+            "full_name": "liuhaisi2026212-maker/taishang-laojun",
+            "description": "\u592a\u4e0a\u8001\u541b\u00b7AI\u70bc\u4e39\u7089\uff1a\u6296\u97f3/\u5c0f\u7ea2\u4e66\u77ed\u89c6\u9891\u521b\u4f5c Skill\u3002\u4e0d\u77e5\u9053\u62cd\u5565\u3001\u4e0d\u4f1a\u5199\u7a3f\uff0c\u4e22\u7ed9\u4f60\u7684 AI\uff1a\u627e\u5bf9\u6807\u62c6\u7206\u6b3e\u3001\u9009\u9898\u3001\u7cfb\u5217\u7b56\u5212\u3001\u53e3\u64ad\u7a3f\u3001\u6807\u9898\u3001\u590d\u76d8\u3001\u53bbAI\u5473\u3002Claude Code / Codex \u7b49 npx \u4e00\u884c\u5b89\u88c5\uff0c\u8c46\u5305\u7b49\u804a\u5929\u667a\u80fd\u4f53\u7528 Bot \u7248\u3002",
+            "url": "https://github.com/liuhaisi2026212-maker/taishang-laojun",
+            "stars": 301,
+            "forks": 50,
             "score": 55
         },
         {
@@ -271,8 +271,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "kanaworksai-hue/audio-studio-mcp",
             "description": "Local AI BGM and sound effects for Claude Code and any MCP client. Stable Audio 3 on Apple Silicon (MLX) and Windows NVIDIA GPUs (PyTorch). No cloud, no API key.",
             "url": "https://github.com/kanaworksai-hue/audio-studio-mcp",
-            "stars": 536,
-            "forks": 39,
+            "stars": 537,
+            "forks": 40,
             "score": 54
         },
         {
@@ -294,19 +294,30 @@ const ALPHA_DATA_V2 = {
             "description": "A read-only MCP server that lets your AI agent search and read your own WhatsApp messages. Use it free at whatsapp.finereli.com, or run your own copy on Cloudflare.",
             "url": "https://github.com/finereli/whatsapp-mcp",
             "stars": 394,
-            "forks": 34,
-            "score": 48
+            "forks": 35,
+            "score": 49
         },
         {
             "main_cat": "AI",
             "sub_cat": null,
             "name": "antirion",
             "full_name": "eliasbiondo/antirion",
-            "description": "\u26a1 The fastest open-source AI Gateway and LLM Gateway \u2014 one binary with built-in console to route, secure, budget and observe every LLM call across OpenAI, Anthropic, Gemini, Bedrock and more.",
+            "description": "\ud83d\udd77\ufe0f The fastest open-source AI Gateway and LLM Gateway \u2014 one binary with built-in console to route, secure, budget and observe every LLM call across OpenAI, Anthropic, Gemini, Bedrock and more.",
             "url": "https://github.com/eliasbiondo/antirion",
-            "stars": 459,
+            "stars": 466,
             "forks": 8,
             "score": 46
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "Deepscient",
+            "full_name": "yzlin286-wq/Deepscient",
+            "description": "\u8ba9 AI \u4e0e\u4eba\u7c7b\u4e00\u8d77\u653b\u514b\u771f\u6b63\u7684\u79d1\u5b66\u96be\u9898 \u2014\u2014 12 \u9636\u6bb5 55 \u95e8 \u00b7 36 \u5de5\u5177 \u00b7 98 \u6761\u6280\u80fd \u00b7 \u8bc1\u636e\u94fe\u4e0e\u53ef\u590d\u73b0",
+            "url": "https://github.com/yzlin286-wq/Deepscient",
+            "stars": 338,
+            "forks": 0,
+            "score": 45
         },
         {
             "main_cat": "AI",
@@ -317,18 +328,7 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/kukemc/bili-cli",
             "stars": 308,
             "forks": 20,
-            "score": 46
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "Deepscient",
-            "full_name": "yzlin286-wq/Deepscient",
-            "description": "\u8ba9 AI \u4e0e\u4eba\u7c7b\u4e00\u8d77\u653b\u514b\u771f\u6b63\u7684\u79d1\u5b66\u96be\u9898 \u2014\u2014 12 \u9636\u6bb5 55 \u95e8 \u00b7 36 \u5de5\u5177 \u00b7 98 \u6761\u6280\u80fd \u00b7 \u8bc1\u636e\u94fe\u4e0e\u53ef\u590d\u73b0",
-            "url": "https://github.com/yzlin286-wq/Deepscient",
-            "stars": 330,
-            "forks": 0,
-            "score": 45
+            "score": 44
         },
         {
             "main_cat": "AI",
@@ -337,8 +337,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "ahtx/kindi",
             "description": "A custom LLM inference engine for low-cost GPUs: NVIDIA cards from a 1 GB Quadro K420 to an RTX 3080, the AMD Radeon 780M and the CPU. Runs the Bonsai 2B to 27B models and Nemotron with an OpenAI-compatible server.",
             "url": "https://github.com/ahtx/kindi",
-            "stars": 87,
-            "forks": 23,
+            "stars": 92,
+            "forks": 24,
             "score": 37
         },
         {
@@ -421,21 +421,21 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
-            "name": "settld",
-            "full_name": "jameslrivera/settld",
-            "description": "Secure stablecoin payment infrastructure for people, businesses and their agents. Built on Solana with payments settled in USDC.",
-            "url": "https://github.com/jameslrivera/settld",
-            "stars": 1,
+            "name": "edge-engine",
+            "full_name": "littoursinc-maker/edge-engine",
+            "description": "Edge Engine is an AI-powered sports analytics and prediction platform that uses statistical modeling, Monte Carlo simulations, and real-world game factors to identify potential betting value across major sports.",
+            "url": "https://github.com/littoursinc-maker/edge-engine",
+            "stars": 0,
             "forks": 0,
             "score": 30
         },
         {
             "main_cat": "AI",
-            "sub_cat": "AI Agents",
-            "name": "pay-per-request",
-            "full_name": "veeerrh/pay-per-request",
-            "description": "AgentMarket enables AI agents to hire services and pay per request using x402 v2 and stablecoins, with secure payments, budget controls, and a transparent blockchain ledger.",
-            "url": "https://github.com/veeerrh/pay-per-request",
+            "sub_cat": "AI General",
+            "name": "settld",
+            "full_name": "jameslrivera/settld",
+            "description": "Secure stablecoin payment infrastructure for people, businesses and their agents. Built on Solana with payments settled in USDC.",
+            "url": "https://github.com/jameslrivera/settld",
             "stars": 1,
             "forks": 0,
             "score": 30
@@ -513,6 +513,17 @@ const ALPHA_DATA_V2 = {
             "full_name": "akinbebijemicheal/pangea-fx",
             "description": "Pangea: a stablecoin-powered cross-border payments sandbox API (multi-currency wallets, FX swaps, transfers) built with Node.js + TypeScript",
             "url": "https://github.com/akinbebijemicheal/pangea-fx",
+            "stars": 0,
+            "forks": 0,
+            "score": 30
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "crypto-pay-order-ops-kit",
+            "full_name": "renvt89/crypto-pay-order-ops-kit",
+            "description": "Order ledger CLI + customer message templates for sellers who accept stablecoin payments. Order operations only: no on-chain verification, no keys, not advice.",
+            "url": "https://github.com/renvt89/crypto-pay-order-ops-kit",
             "stars": 0,
             "forks": 0,
             "score": 30
@@ -674,18 +685,18 @@ const ALPHA_DATA_V2 = {
     ],
     "news": [
         {
-            "title": "An EVM-Cosmos Bridge for Atomic, Semantic-Preserving Transfer of Environmental Tokens",
+            "title": "CARI: Cross-Boundary Adversarial Runtime Injection in Coding-Agent Workflows",
             "source": "ArXiv",
             "type": "Research Alpha",
             "color": "text-indigo-600",
-            "url": "http://arxiv.org/abs/2610.37663v1"
+            "url": "http://arxiv.org/abs/2610.38799v1"
         },
         {
-            "title": "Heads of Security: Learned Attention Gates Improve Prompt Injection Robustness",
+            "title": "Trustworthy Distributed Machine Learning in Cloud-Edge-IoT Systems: A Heterogeneity-Aware Survey of Security, Privacy, and Robustness",
             "source": "ArXiv",
             "type": "Research Alpha",
             "color": "text-indigo-600",
-            "url": "http://arxiv.org/abs/2610.37657v1"
+            "url": "http://arxiv.org/abs/2610.38793v1"
         },
         {
             "title": "Bitcoin volatility remains high ahead of key FED decision.",
@@ -695,5 +706,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-10-29 22:17"
+    "timestamp": "2026-10-30 02:18"
 };
