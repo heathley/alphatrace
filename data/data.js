@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "heydamir/unslop",
             "description": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
             "url": "https://github.com/heydamir/unslop",
-            "stars": 7121,
-            "forks": 360,
+            "stars": 7418,
+            "forks": 374,
             "score": 99
         },
         {
@@ -18,8 +18,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "rddmwmddr/android-ad-cleaner",
             "description": "\u5173\u6389\u56fd\u4ea7\u5b89\u5353\u624b\u673a\u7cfb\u7edf\u91cc\u7684\u5e7f\u544a\u3001\u70ed\u641c\u3001\u8d44\u8baf\u63a8\u8350\u548c\u8425\u9500\u63a8\u9001\u3002\u4e0d root\uff0c\u53ef\u8fd8\u539f\uff0c\u652f\u6301 AI \u667a\u80fd\u4f53\u4e00\u952e\u6267\u884c\u3002",
             "url": "https://github.com/rddmwmddr/android-ad-cleaner",
-            "stars": 6043,
-            "forks": 548,
+            "stars": 6063,
+            "forks": 550,
             "score": 99
         },
         {
@@ -29,8 +29,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "wangzan101/Mika",
             "description": "An on-device AI agent for Android that operates apps and the web to get things done for you.",
             "url": "https://github.com/wangzan101/Mika",
-            "stars": 5958,
-            "forks": 1157,
+            "stars": 6021,
+            "forks": 1171,
             "score": 99
         },
         {
@@ -40,8 +40,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "anhao/ai-pose-gallery-zh",
             "description": "\u4e2d\u6587\u7248 AI \u59ff\u52bf\u53c2\u8003\u56fe\u5e93 \u00b7 1439 \u7ec4 / 2878 \u5f20\u56fe\u7247 / \u5b8c\u6574\u6c49\u5316 \u00b7 \u96f6\u4f9d\u8d56\u9759\u6001\u753b\u5eca",
             "url": "https://github.com/anhao/ai-pose-gallery-zh",
-            "stars": 5751,
-            "forks": 1466,
+            "stars": 5769,
+            "forks": 1469,
             "score": 99
         },
         {
@@ -51,8 +51,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "modelflare-ai/AnyModelBot",
             "description": "\ud83e\udd16 Open-source, local-first alternative to Grok Bot, OpenAI dots and Claude Duet. Your own AI bots on any model: GPT, Claude, Gemini, Grok, DeepSeek, Kimi, GLM and 70+ more through one Modelflare key. Reach them in the app, WeChat or Feishu; they remember you, work in the background, run commands and use your computer. Pay per use.",
             "url": "https://github.com/modelflare-ai/AnyModelBot",
-            "stars": 2335,
-            "forks": 21,
+            "stars": 2349,
+            "forks": 22,
             "score": 99
         },
         {
@@ -62,8 +62,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "paipiange/nvzhuang",
             "description": "1407 \u5f20 AI \u5973\u88c5\u53c2\u8003\u56fe\u96c6\u4e0e\u865a\u62df\u8bd5\u7a7f\u7f51\u7ad9\uff0c\u652f\u6301\u4e2d\u82f1\u68c0\u7d22\u3001OpenAI Images / Gemini / \u8c46\u5305\u53ca\u81ea\u5b9a\u4e49 Base URL\u3001API Key\u3001\u6a21\u578b\u3002https://github.com/paipiange/nvzhuang",
             "url": "https://github.com/paipiange/nvzhuang",
-            "stars": 2112,
-            "forks": 542,
+            "stars": 2119,
+            "forks": 543,
             "score": 99
         },
         {
@@ -73,8 +73,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "qybaihe/bla",
             "description": "\ud83d\udee1\ufe0f BLA (Blind LLM Agents) \u2014 Adversarial defense shield that protects binaries, Electron apps, JS bundles, Python, and WebAssembly against AI reverse-engineering agents like REA. Poison -> Exhaust -> Hallucinate.",
             "url": "https://github.com/qybaihe/bla",
-            "stars": 2044,
-            "forks": 277,
+            "stars": 2059,
+            "forks": 278,
             "score": 99
         },
         {
@@ -84,8 +84,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "CopilotKit/OpenDuet",
             "description": "An Open Source template for a proactive AI agent that gets your work done and keeps you in the loop.",
             "url": "https://github.com/CopilotKit/OpenDuet",
-            "stars": 1883,
-            "forks": 239,
+            "stars": 1894,
+            "forks": 242,
             "score": 99
         },
         {
@@ -95,8 +95,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "andyhuo520/digital-human-koubo",
             "description": "AI digital-human talking-head videos from one photo: Renoise MCP generation + 5 editing styles + 48 creator-grade packaging components. Agent skill for Claude Code / Codex / OpenClaw / WorkBuddy \u2026",
             "url": "https://github.com/andyhuo520/digital-human-koubo",
-            "stars": 1755,
-            "forks": 398,
+            "stars": 1758,
+            "forks": 399,
             "score": 99
         },
         {
@@ -106,8 +106,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "DenisSergeevitch/ex-ussr-kinship-research",
             "description": "Evidence-first genealogy skill for AI agents (Codex, Claude Code): church books, civil, military, deportation and repression records across the former USSR. Replies in your language.",
             "url": "https://github.com/DenisSergeevitch/ex-ussr-kinship-research",
-            "stars": 1646,
-            "forks": 172,
+            "stars": 1739,
+            "forks": 180,
             "score": 99
         },
         {
@@ -117,8 +117,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "anonnerdfrenzy/survival-llm",
             "description": "A free AI assistant and survival library that runs on your own computer, with no internet needed. Shows the source of every answer.",
             "url": "https://github.com/anonnerdfrenzy/survival-llm",
-            "stars": 1411,
-            "forks": 125,
+            "stars": 1432,
+            "forks": 128,
             "score": 99
         },
         {
@@ -128,8 +128,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "benjitaylor/skills",
             "description": "Skills for AI coding agents.",
             "url": "https://github.com/benjitaylor/skills",
-            "stars": 1252,
-            "forks": 85,
+            "stars": 1369,
+            "forks": 102,
             "score": 99
         },
         {
@@ -139,8 +139,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "yaojingang/GEOInflow",
             "description": "Self-hosted web and AI crawler analytics for Generative Engine Optimization (GEO). Track visitors, AI search referrals, crawl logs, content coverage, and conversions. Jointly published by \u730e\u770b\u79d1\u6280 \u00b7 \u5317\u4eac\u65e5\u62a5\u793e\u667a\u6e90GEO. MIT licensed.",
             "url": "https://github.com/yaojingang/GEOInflow",
-            "stars": 793,
-            "forks": 251,
+            "stars": 796,
+            "forks": 252,
             "score": 99
         },
         {
@@ -150,7 +150,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "sleepy-zone/ai-ref-library-cn",
             "description": "AI \u4f5c\u56fe\u7d20\u6750\u5e93 \u00b7 \u4e2d\u6587\u7248\uff08\u8138 / \u59ff\u52bf / \u670d\u88c5\uff09",
             "url": "https://github.com/sleepy-zone/ai-ref-library-cn",
-            "stars": 698,
+            "stars": 700,
             "forks": 175,
             "score": 99
         },
@@ -161,19 +161,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "N1nEmAn/sapper-v2",
             "description": "Autonomous pentest legion \u2014 AI commander + worker swarm + layered fact-intent graph. 3rd Tencent Intelligent Attack-Defense online champion (634 teams \u00b7 8h unattended \u00b7 1B tokens beat 4.5B). The N\u00fcwa Test: give AIs Create/Language/History, let a civilization grow.",
             "url": "https://github.com/N1nEmAn/sapper-v2",
-            "stars": 657,
-            "forks": 517,
-            "score": 99
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "ff-ruyijs",
-            "full_name": "cutetailbud/ff-ruyijs",
-            "description": "A AI Browser run any site JavaScript from Python with the real Firefox engine. Headless SpiderMonkey + Necko for automation and scraping.",
-            "url": "https://github.com/cutetailbud/ff-ruyijs",
-            "stars": 653,
-            "forks": 292,
+            "stars": 660,
+            "forks": 519,
             "score": 99
         },
         {
@@ -183,8 +172,19 @@ const ALPHA_DATA_V2 = {
             "full_name": "zhanghao123vip/ai-manju-skills",
             "description": "21 \u4e2a\u9898\u6750\u7684 AI \u6f2b\u5267\u5168\u6d41\u7a0b Skill\uff1a\u4e00\u53e5\u70b9\u5b50\u751f\u6210\u4f01\u5212\u6848\u3001\u8d44\u4ea7\u56fe\u63d0\u793a\u8bcd\u3001\u5206\u96c6\u5267\u672c\u3001\u5206\u955c\u4e0e\u89c6\u9891\u63d0\u793a\u8bcd\u3002\u53ef\u7528\u4e8e Claude Code\u3001WorkBuddy\u3001DeepSeek",
             "url": "https://github.com/zhanghao123vip/ai-manju-skills",
-            "stars": 546,
-            "forks": 101,
+            "stars": 553,
+            "forks": 102,
+            "score": 99
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "ff-ruyijs",
+            "full_name": "cutetailbud/ff-ruyijs",
+            "description": "A AI Browser run any site JavaScript from Python with the real Firefox engine. Headless SpiderMonkey + Necko for automation and scraping.",
+            "url": "https://github.com/cutetailbud/ff-ruyijs",
+            "stars": 536,
+            "forks": 292,
             "score": 99
         },
         {
@@ -194,8 +194,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "hongye007/open-pose-costume",
             "description": "A bilingual reference studio for poses, costumes, and AI character creation.",
             "url": "https://github.com/hongye007/open-pose-costume",
-            "stars": 501,
-            "forks": 134,
+            "stars": 530,
+            "forks": 140,
             "score": 99
         },
         {
@@ -216,31 +216,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "konlu/story-studio",
             "description": "\u4ece\u9009\u9898\u5230\u526a\u6620\u8349\u7a3f\u7684\u4e00\u7ad9\u5f0f AI \u77ed\u89c6\u9891\u5185\u5bb9\u521b\u4f5c Agent Skill",
             "url": "https://github.com/konlu/story-studio",
-            "stars": 710,
+            "stars": 713,
             "forks": 147,
             "score": 89
         },
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "ai-startup-skills",
-            "full_name": "huaxialucaicaizi/ai-startup-skills",
-            "description": "\u521b\u4e1a\u516c\u53f8\u505a AI \u4ea7\u54c1\u7684 7 \u6b65 Agent Skill \u5408\u96c6\uff1a\u9a8c\u8bc1 \u2192 BP \u2192 \u653f\u7b56 \u2192 \u8def\u6f14 \u2192 \u83b7\u5ba2 \u2192 \u5b9a\u4ef7 \u2192 \u6ce8\u518c\u3002",
-            "url": "https://github.com/huaxialucaicaizi/ai-startup-skills",
-            "stars": 935,
-            "forks": 71,
-            "score": 70
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "reveric",
-            "full_name": "looplj/reveric",
-            "description": "Agent Native \u4e00\u7ad9\u5f0f AI \u5c0f\u8bf4\uff0c\u77ed\u5267\u684c\u9762\u521b\u4f5c\u5de5\u4f5c\u53f0",
-            "url": "https://github.com/looplj/reveric",
-            "stars": 574,
-            "forks": 139,
-            "score": 70
+            "name": "rerun",
+            "full_name": "rerun-build/rerun",
+            "description": "AI coworkers that run your work. Self-hostable, AGPL-3.0.",
+            "url": "https://github.com/rerun-build/rerun",
+            "stars": 551,
+            "forks": 56,
+            "score": 78
         },
         {
             "main_cat": "AI",
@@ -249,20 +238,31 @@ const ALPHA_DATA_V2 = {
             "full_name": "hevnsnt/CVEngine",
             "description": "AI-first external attack surface assessment with continuous discovery, evidence-based vulnerability validation, and developer-agent MCP integration.",
             "url": "https://github.com/hevnsnt/CVEngine",
-            "stars": 568,
-            "forks": 92,
+            "stars": 569,
+            "forks": 93,
             "score": 69
         },
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "anymove",
-            "full_name": "patch-gg/anymove",
-            "description": "Motion capture for any creature from one AI video: two cameras in one frame, a DINOv2 joint reader, the rig fitted in both views, a GLB out.",
-            "url": "https://github.com/patch-gg/anymove",
-            "stars": 494,
-            "forks": 53,
-            "score": 65
+            "name": "reveric",
+            "full_name": "looplj/reveric",
+            "description": "Agent Native \u4e00\u7ad9\u5f0f AI \u5c0f\u8bf4\uff0c\u77ed\u5267\u684c\u9762\u521b\u4f5c\u5de5\u4f5c\u53f0",
+            "url": "https://github.com/looplj/reveric",
+            "stars": 575,
+            "forks": 140,
+            "score": 67
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "ai-startup-skills",
+            "full_name": "huaxialucaicaizi/ai-startup-skills",
+            "description": "\u521b\u4e1a\u516c\u53f8\u505a AI \u4ea7\u54c1\u7684 7 \u6b65 Agent Skill \u5408\u96c6\uff1a\u9a8c\u8bc1 \u2192 BP \u2192 \u653f\u7b56 \u2192 \u8def\u6f14 \u2192 \u83b7\u5ba2 \u2192 \u5b9a\u4ef7 \u2192 \u6ce8\u518c\u3002",
+            "url": "https://github.com/huaxialucaicaizi/ai-startup-skills",
+            "stars": 801,
+            "forks": 41,
+            "score": 62
         },
         {
             "main_cat": "AI",
@@ -271,20 +271,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "Alejandros17487/ai-jailbreaks",
             "description": "AI jailbreaks: 35 paste-ready AI jailbreak prompts for 25+ frontier and open-weight models - system prompts, AGENTS.md specs, and Ollama Modelfiles. Built for AI security research and red-team testing.",
             "url": "https://github.com/Alejandros17487/ai-jailbreaks",
-            "stars": 545,
+            "stars": 546,
             "forks": 111,
             "score": 60
         },
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
-            "name": "uncensored-ai-api",
-            "full_name": "routerhubSI/uncensored-ai-api",
-            "description": "Uncensored AI API and models \u2014 one key for Claude, GPT, Gemini, Grok, DeepSeek, GLM, Qwen and Kimi, with uncensored and abliterated variants where available. OpenAI- and Anthropic-compatible. Pay per token.",
-            "url": "https://github.com/routerhubSI/uncensored-ai-api",
-            "stars": 509,
-            "forks": 41,
-            "score": 58
+            "name": "FlashProve",
+            "full_name": "anthropics/FlashProve",
+            "description": "A research prototype for zero-knowledge proofs of AI inference. Not maintained.",
+            "url": "https://github.com/anthropics/FlashProve",
+            "stars": 312,
+            "forks": 27,
+            "score": 60
         },
         {
             "main_cat": "AI",
@@ -293,9 +293,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "t8y2/motty",
             "description": "SSH, SFTP, port forwarding, VNC/RDP and an AI assistant\u3001MCP in one native window \u2014 a Go desktop app built on Viva, with no webview.",
             "url": "https://github.com/t8y2/motty",
-            "stars": 559,
-            "forks": 60,
-            "score": 56
+            "stars": 566,
+            "forks": 61,
+            "score": 57
         },
         {
             "main_cat": "AI",
@@ -304,8 +304,19 @@ const ALPHA_DATA_V2 = {
             "full_name": "Nutlope/bygga",
             "description": "IKEA assembly, step by step: animated, manual-style 3D guides. Scan any paper manual with Together AI.",
             "url": "https://github.com/Nutlope/bygga",
-            "stars": 557,
+            "stars": 568,
             "forks": 66,
+            "score": 56
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "uncensored-ai-api",
+            "full_name": "routerhubSI/uncensored-ai-api",
+            "description": "Uncensored AI API and models \u2014 one key for Claude, GPT, Gemini, Grok, DeepSeek, GLM, Qwen and Kimi, with uncensored and abliterated variants where available. OpenAI- and Anthropic-compatible. Pay per token.",
+            "url": "https://github.com/routerhubSI/uncensored-ai-api",
+            "stars": 510,
+            "forks": 41,
             "score": 55
         },
         {
@@ -315,9 +326,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "yzlin286-wq/Deepscient",
             "description": "\u8ba9 AI \u4e0e\u4eba\u7c7b\u4e00\u8d77\u653b\u514b\u771f\u6b63\u7684\u79d1\u5b66\u96be\u9898 \u2014\u2014 12 \u9636\u6bb5 55 \u95e8 \u00b7 36 \u5de5\u5177 \u00b7 98 \u6761\u6280\u80fd \u00b7 \u8bc1\u636e\u94fe\u4e0e\u53ef\u590d\u73b0",
             "url": "https://github.com/yzlin286-wq/Deepscient",
-            "stars": 749,
-            "forks": 1,
-            "score": 53
+            "stars": 760,
+            "forks": 2,
+            "score": 54
         },
         {
             "main_cat": "AI",
@@ -326,31 +337,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "islandmed/SculptForge",
             "description": "The free, open-source alternative to ZBrush. Sculpting for Linux, macOS and Windows with free built-in AI (image/text to 3D), Send to Unreal, game-ready LODs, Gaussian splats and OpenUSD.",
             "url": "https://github.com/islandmed/SculptForge",
-            "stars": 488,
-            "forks": 56,
-            "score": 52
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "FlashProve",
-            "full_name": "anthropics/FlashProve",
-            "description": "A research prototype for zero-knowledge proofs of AI inference. Not maintained.",
-            "url": "https://github.com/anthropics/FlashProve",
-            "stars": 207,
-            "forks": 15,
-            "score": 52
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "xtier",
-            "full_name": "a775828b-dot/xtier",
-            "description": "Cross-tier CPU/GPU hybrid MoE inference for SGLang (plugin, tracks upstream main)",
-            "url": "https://github.com/a775828b-dot/xtier",
-            "stars": 55,
-            "forks": 11,
-            "score": 33
+            "stars": 500,
+            "forks": 59,
+            "score": 53
         },
         {
             "main_cat": "AI",
@@ -465,10 +454,10 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "Stablecoin Infrastructure",
             "sub_cat": null,
-            "name": "Swipe-Pay",
-            "full_name": "victorukeh/Swipe-Pay",
-            "description": " Cross-border stablecoin payment sandbox. A multi-currency wallets, simulated deposits, FX swaps, and transfers with a double-entry ledger. NestJS + PostgreSQL + Prisma, row-locked balances and idempotent money endpoints",
-            "url": "https://github.com/victorukeh/Swipe-Pay",
+            "name": "BitSwop-Public",
+            "full_name": "Paul-Insider/BitSwop-Public",
+            "description": "BitSwop is a payment platform in development, bringing together crypto and stablecoin payments with reloadable payment cards. Engineered around a Rust core, it is designed with security, performance and long-term reliability at its foundation.",
+            "url": "https://github.com/Paul-Insider/BitSwop-Public",
             "stars": 0,
             "forks": 0,
             "score": 30
@@ -476,10 +465,10 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "Stablecoin Infrastructure",
             "sub_cat": null,
-            "name": "Cardtonic-Backend-Engineering-Assessment",
-            "full_name": "jamal-codez/Cardtonic-Backend-Engineering-Assessment",
-            "description": "A TypeScript-powered cross-border payment sandbox simulating stablecoin wallets, multi-currency deposits, real-time FX conversions, swaps, and wallet-to-wallet transfers with transactional integrity, idempotency, and precise financial calculations",
-            "url": "https://github.com/jamal-codez/Cardtonic-Backend-Engineering-Assessment",
+            "name": "Swipe-Pay",
+            "full_name": "victorukeh/Swipe-Pay",
+            "description": " Cross-border stablecoin payment sandbox. A multi-currency wallets, simulated deposits, FX swaps, and transfers with a double-entry ledger. NestJS + PostgreSQL + Prisma, row-locked balances and idempotent money endpoints",
+            "url": "https://github.com/victorukeh/Swipe-Pay",
             "stars": 0,
             "forks": 0,
             "score": 30
@@ -673,5 +662,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-11-03 15:42"
+    "timestamp": "2026-11-03 21:25"
 };
