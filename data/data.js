@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "heydamir/unslop",
             "description": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
             "url": "https://github.com/heydamir/unslop",
-            "stars": 9079,
-            "forks": 453,
+            "stars": 9592,
+            "forks": 497,
             "score": 99
         },
         {
@@ -18,8 +18,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "wangzan101/Mika",
             "description": "An on-device AI agent for Android that operates apps and the web to get things done for you.",
             "url": "https://github.com/wangzan101/Mika",
-            "stars": 6913,
-            "forks": 1533,
+            "stars": 7041,
+            "forks": 1591,
             "score": 99
         },
         {
@@ -29,8 +29,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "rddmwmddr/android-ad-cleaner",
             "description": "\u5173\u6389\u56fd\u4ea7\u5b89\u5353\u624b\u673a\u7cfb\u7edf\u91cc\u7684\u5e7f\u544a\u3001\u70ed\u641c\u3001\u8d44\u8baf\u63a8\u8350\u548c\u8425\u9500\u63a8\u9001\u3002\u4e0d root\uff0c\u53ef\u8fd8\u539f\uff0c\u652f\u6301 AI \u667a\u80fd\u4f53\u4e00\u952e\u6267\u884c\u3002",
             "url": "https://github.com/rddmwmddr/android-ad-cleaner",
-            "stars": 6463,
-            "forks": 587,
+            "stars": 6536,
+            "forks": 592,
             "score": 99
         },
         {
@@ -40,8 +40,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "anhao/ai-pose-gallery-zh",
             "description": "\u4e2d\u6587\u7248 AI \u59ff\u52bf\u53c2\u8003\u56fe\u5e93 \u00b7 1439 \u7ec4 / 2878 \u5f20\u56fe\u7247 / \u5b8c\u6574\u6c49\u5316 \u00b7 \u96f6\u4f9d\u8d56\u9759\u6001\u753b\u5eca",
             "url": "https://github.com/anhao/ai-pose-gallery-zh",
-            "stars": 6028,
-            "forks": 1530,
+            "stars": 6073,
+            "forks": 1547,
             "score": 99
         },
         {
@@ -51,8 +51,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "modelflare-ai/AnyModelBot",
             "description": "\ud83e\udd16 Open-source, local-first alternative to Grok Bot, OpenAI dots and Claude Duet. Your own AI bots on any model: GPT, Claude, Gemini, Grok, DeepSeek, Kimi, GLM and 70+ more through one Modelflare key. Reach them in the app, WeChat or Feishu; they remember you, work in the background, run commands and use your computer. Pay per use.",
             "url": "https://github.com/modelflare-ai/AnyModelBot",
-            "stars": 2707,
-            "forks": 35,
+            "stars": 2708,
+            "forks": 37,
             "score": 99
         },
         {
@@ -62,8 +62,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "qybaihe/bla",
             "description": "\ud83d\udee1\ufe0f BLA (Blind LLM Agents) \u2014 Adversarial defense shield that protects binaries, Electron apps, JS bundles, Python, and WebAssembly against AI reverse-engineering agents like REA. Poison -> Exhaust -> Hallucinate.",
             "url": "https://github.com/qybaihe/bla",
-            "stars": 2388,
-            "forks": 315,
+            "stars": 2421,
+            "forks": 317,
             "score": 99
         },
         {
@@ -73,63 +73,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "paipiange/nvzhuang",
             "description": "1407 \u5f20 AI \u5973\u88c5\u53c2\u8003\u56fe\u96c6\u4e0e\u865a\u62df\u8bd5\u7a7f\u7f51\u7ad9\uff0c\u652f\u6301\u4e2d\u82f1\u68c0\u7d22\u3001OpenAI Images / Gemini / \u8c46\u5305\u53ca\u81ea\u5b9a\u4e49 Base URL\u3001API Key\u3001\u6a21\u578b\u3002https://github.com/paipiange/nvzhuang",
             "url": "https://github.com/paipiange/nvzhuang",
-            "stars": 2240,
-            "forks": 568,
-            "score": 99
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "skills",
-            "full_name": "benjitaylor/skills",
-            "description": "Skills for AI coding agents.",
-            "url": "https://github.com/benjitaylor/skills",
-            "stars": 2021,
-            "forks": 139,
-            "score": 99
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "ex-ussr-kinship-research",
-            "full_name": "DenisSergeevitch/ex-ussr-kinship-research",
-            "description": "Evidence-first genealogy skill for AI agents (Codex, Claude Code): church books, civil, military, deportation and repression records across the former USSR. Replies in your language.",
-            "url": "https://github.com/DenisSergeevitch/ex-ussr-kinship-research",
-            "stars": 1926,
-            "forks": 196,
-            "score": 99
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "digital-human-koubo",
-            "full_name": "andyhuo520/digital-human-koubo",
-            "description": "AI digital-human talking-head videos from one photo: Renoise MCP generation + 5 editing styles + 48 creator-grade packaging components. Agent skill for Claude Code / Codex / OpenClaw / WorkBuddy \u2026",
-            "url": "https://github.com/andyhuo520/digital-human-koubo",
-            "stars": 1790,
-            "forks": 404,
-            "score": 99
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "rea-video",
-            "full_name": "JuneYaooo/rea-video",
-            "description": "Reverse-engineer any video, shot by shot: tells whether each shot was filmed, AI-generated or coded, how the captions, cuts and audio were made, and how to remake it. \u9006\u5411\u4e00\u5207\u89c6\u9891\uff0c\u9010\u955c\u62c6\u51fa\u5236\u4f5c\u65b9\u5f0f\u5e76\u7ed9\u51fa\u590d\u523b\u65b9\u6848\u3002",
-            "url": "https://github.com/JuneYaooo/rea-video",
-            "stars": 1626,
-            "forks": 233,
-            "score": 99
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "survival-llm",
-            "full_name": "anonnerdfrenzy/survival-llm",
-            "description": "A free AI assistant and survival library that runs on your own computer, with no internet needed. Shows the source of every answer.",
-            "url": "https://github.com/anonnerdfrenzy/survival-llm",
-            "stars": 1477,
-            "forks": 132,
+            "stars": 2253,
+            "forks": 571,
             "score": 99
         },
         {
@@ -139,8 +84,63 @@ const ALPHA_DATA_V2 = {
             "full_name": "worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
             "description": "Google_AI_Pro_2Year_ZeroCost_Auto",
             "url": "https://github.com/worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
-            "stars": 1417,
-            "forks": 703,
+            "stars": 2113,
+            "forks": 902,
+            "score": 99
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "skills",
+            "full_name": "benjitaylor/skills",
+            "description": "Skills for AI coding agents.",
+            "url": "https://github.com/benjitaylor/skills",
+            "stars": 2082,
+            "forks": 146,
+            "score": 99
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "ex-ussr-kinship-research",
+            "full_name": "DenisSergeevitch/ex-ussr-kinship-research",
+            "description": "Evidence-first genealogy skill for AI agents (Codex, Claude Code): church books, civil, military, deportation and repression records across the former USSR. Replies in your language.",
+            "url": "https://github.com/DenisSergeevitch/ex-ussr-kinship-research",
+            "stars": 1961,
+            "forks": 197,
+            "score": 99
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "rea-video",
+            "full_name": "JuneYaooo/rea-video",
+            "description": "Reverse-engineer any video, shot by shot: tells whether each shot was filmed, AI-generated or coded, how the captions, cuts and audio were made, and how to remake it. \u9006\u5411\u4e00\u5207\u89c6\u9891\uff0c\u9010\u955c\u62c6\u51fa\u5236\u4f5c\u65b9\u5f0f\u5e76\u7ed9\u51fa\u590d\u523b\u65b9\u6848\u3002",
+            "url": "https://github.com/JuneYaooo/rea-video",
+            "stars": 1942,
+            "forks": 276,
+            "score": 99
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "digital-human-koubo",
+            "full_name": "andyhuo520/digital-human-koubo",
+            "description": "AI digital-human talking-head videos from one photo: Renoise MCP generation + 5 editing styles + 48 creator-grade packaging components. Agent skill for Claude Code / Codex / OpenClaw / WorkBuddy \u2026",
+            "url": "https://github.com/andyhuo520/digital-human-koubo",
+            "stars": 1802,
+            "forks": 405,
+            "score": 99
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "survival-llm",
+            "full_name": "anonnerdfrenzy/survival-llm",
+            "description": "A free AI assistant and survival library that runs on your own computer, with no internet needed. Shows the source of every answer.",
+            "url": "https://github.com/anonnerdfrenzy/survival-llm",
+            "stars": 1491,
+            "forks": 134,
             "score": 99
         },
         {
@@ -150,8 +150,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "wquguru/cicada",
             "description": "\u77e5\u4e86 Cicada \u00b7 \u4efb\u4f55\u4f1a\u8bae\u548c\u76f4\u64ad\u7684\u5b9e\u65f6\u5b57\u5e55\u3001\u540c\u58f0\u4f20\u8bd1\u3001AI \u4f1a\u8bae\u7eaa\u8981\uff0cMac\u3001Windows\u3001Linux\u3001Android \u514d\u8d39\u5f00\u6e90\u3002Live subtitles, interpreting and meeting notes for any call or stream, on Mac, Windows, Linux and Android.",
             "url": "https://github.com/wquguru/cicada",
-            "stars": 1378,
-            "forks": 251,
+            "stars": 1467,
+            "forks": 265,
             "score": 99
         },
         {
@@ -161,8 +161,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "N1nEmAn/sapper-v2",
             "description": "Autonomous pentest legion \u2014 AI commander + worker swarm + layered fact-intent graph. 3rd Tencent Intelligent Attack-Defense online champion (634 teams \u00b7 8h unattended \u00b7 1B tokens beat 4.5B). The N\u00fcwa Test: give AIs Create/Language/History, let a civilization grow.",
             "url": "https://github.com/N1nEmAn/sapper-v2",
-            "stars": 1128,
-            "forks": 685,
+            "stars": 1282,
+            "forks": 739,
             "score": 99
         },
         {
@@ -172,19 +172,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "anthropics/FlashProve",
             "description": "A research prototype for zero-knowledge proofs of AI inference. Not maintained.",
             "url": "https://github.com/anthropics/FlashProve",
-            "stars": 872,
-            "forks": 80,
-            "score": 99
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "GEOInflow",
-            "full_name": "yaojingang/GEOInflow",
-            "description": "Self-hosted web and AI crawler analytics for Generative Engine Optimization (GEO). Track visitors, AI search referrals, crawl logs, content coverage, and conversions. Jointly published by \u730e\u770b\u79d1\u6280 \u00b7 \u5317\u4eac\u65e5\u62a5\u793e\u667a\u6e90GEO. MIT licensed.",
-            "url": "https://github.com/yaojingang/GEOInflow",
-            "stars": 807,
-            "forks": 252,
+            "stars": 903,
+            "forks": 83,
             "score": 99
         },
         {
@@ -194,8 +183,30 @@ const ALPHA_DATA_V2 = {
             "full_name": "UncensoredLabs/uncensored-ai-api",
             "description": "Uncensored AI API and browser chat: DeepSeek and GLM models, streaming, Python and TypeScript examples, pricing and setup guides.",
             "url": "https://github.com/UncensoredLabs/uncensored-ai-api",
-            "stars": 784,
-            "forks": 52,
+            "stars": 836,
+            "forks": 29,
+            "score": 99
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "GEOInflow",
+            "full_name": "yaojingang/GEOInflow",
+            "description": "Self-hosted web and AI crawler analytics for Generative Engine Optimization (GEO). Track visitors, AI search referrals, crawl logs, content coverage, and conversions. Jointly published by \u730e\u770b\u79d1\u6280 \u00b7 \u5317\u4eac\u65e5\u62a5\u793e\u667a\u6e90GEO. MIT licensed.",
+            "url": "https://github.com/yaojingang/GEOInflow",
+            "stars": 809,
+            "forks": 253,
+            "score": 99
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "muse4ai",
+            "full_name": "andrew-babo/muse4ai",
+            "description": "Muse4AI \u2014 let your AI agent make the pictures and the videos. Local Windows bridge for Muse via REST, MCP, and OAuth.",
+            "url": "https://github.com/andrew-babo/muse4ai",
+            "stars": 788,
+            "forks": 171,
             "score": 99
         },
         {
@@ -216,19 +227,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "hongye007/open-pose-costume",
             "description": "A bilingual reference studio for poses, costumes, and AI character creation.",
             "url": "https://github.com/hongye007/open-pose-costume",
-            "stars": 672,
-            "forks": 176,
-            "score": 99
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "muse4ai",
-            "full_name": "andrew-babo/muse4ai",
-            "description": "Muse4AI \u2014 let your AI agent make the pictures and the videos. Local Windows bridge for Muse via REST, MCP, and OAuth.",
-            "url": "https://github.com/andrew-babo/muse4ai",
-            "stars": 670,
-            "forks": 154,
+            "stars": 689,
+            "forks": 177,
             "score": 99
         },
         {
@@ -238,7 +238,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "cutetailbud/ff-ruyijs",
             "description": "A AI Browser run any site JavaScript from Python with the real Firefox engine. Headless SpiderMonkey + Necko for automation and scraping.",
             "url": "https://github.com/cutetailbud/ff-ruyijs",
-            "stars": 656,
+            "stars": 658,
             "forks": 316,
             "score": 99
         },
@@ -249,8 +249,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "jacke-pp/open-yoki",
             "description": "An AI live-stream host that runs on one server: voice, face, chat, memory, posts. The base yoki runs on. By Jacke_pp \u00b7 contact: DM @Jacke_pp on X",
             "url": "https://github.com/jacke-pp/open-yoki",
-            "stars": 1201,
-            "forks": 71,
+            "stars": 1204,
+            "forks": 72,
             "score": 97
         },
         {
@@ -260,8 +260,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "zhanghao123vip/ai-manju-skills",
             "description": "21 \u4e2a\u9898\u6750\u7684 AI \u6f2b\u5267\u5168\u6d41\u7a0b Skill\uff1a\u4e00\u53e5\u70b9\u5b50\u751f\u6210\u4f01\u5212\u6848\u3001\u8d44\u4ea7\u56fe\u63d0\u793a\u8bcd\u3001\u5206\u96c6\u5267\u672c\u3001\u5206\u955c\u4e0e\u89c6\u9891\u63d0\u793a\u8bcd\u3002\u53ef\u7528\u4e8e Claude Code\u3001WorkBuddy\u3001DeepSeek",
             "url": "https://github.com/zhanghao123vip/ai-manju-skills",
-            "stars": 582,
-            "forks": 111,
+            "stars": 586,
+            "forks": 112,
             "score": 94
         },
         {
@@ -271,8 +271,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "konlu/story-studio",
             "description": "\u4ece\u9009\u9898\u5230\u526a\u6620\u8349\u7a3f\u7684\u4e00\u7ad9\u5f0f AI \u77ed\u89c6\u9891\u5185\u5bb9\u521b\u4f5c Agent Skill",
             "url": "https://github.com/konlu/story-studio",
-            "stars": 751,
-            "forks": 164,
+            "stars": 755,
+            "forks": 165,
             "score": 84
         },
         {
@@ -282,9 +282,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "rerun-build/rerun",
             "description": "AI coworkers that run your work. Self-hostable, AGPL-3.0.",
             "url": "https://github.com/rerun-build/rerun",
-            "stars": 699,
-            "forks": 70,
-            "score": 84
+            "stars": 718,
+            "forks": 74,
+            "score": 80
         },
         {
             "main_cat": "AI",
@@ -304,20 +304,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "patch-gg/anymove",
             "description": "Motion capture for any creature from one AI video: two cameras in one frame, a DINOv2 joint reader, the rig fitted in both views, a GLB out.",
             "url": "https://github.com/patch-gg/anymove",
-            "stars": 534,
-            "forks": 58,
-            "score": 61
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "uncensored-ai-api",
-            "full_name": "routerhubSI/uncensored-ai-api",
-            "description": "Uncensored AI API and models \u2014 one key for Claude, GPT, Gemini, Grok, DeepSeek, GLM, Qwen and Kimi, with uncensored and abliterated variants where available. OpenAI- and Anthropic-compatible. Pay per token.",
-            "url": "https://github.com/routerhubSI/uncensored-ai-api",
-            "stars": 600,
-            "forks": 53,
-            "score": 59
+            "stars": 542,
+            "forks": 60,
+            "score": 62
         },
         {
             "main_cat": "AI",
@@ -326,8 +315,19 @@ const ALPHA_DATA_V2 = {
             "full_name": "phone-harness/mcp",
             "description": "Connect AI agents to real iPhones and Androids",
             "url": "https://github.com/phone-harness/mcp",
-            "stars": 681,
+            "stars": 694,
             "forks": 50,
+            "score": 57
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "uncensored-ai-api",
+            "full_name": "routerhubSI/uncensored-ai-api",
+            "description": "Uncensored AI API and models \u2014 one key for Claude, GPT, Gemini, Grok, DeepSeek, GLM, Qwen and Kimi, with uncensored and abliterated variants where available. OpenAI- and Anthropic-compatible. Pay per token.",
+            "url": "https://github.com/routerhubSI/uncensored-ai-api",
+            "stars": 602,
+            "forks": 53,
             "score": 57
         },
         {
@@ -337,9 +337,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "shanselman/gputaskman",
             "description": "A GPU task manager for Windows, Linux, and WSL: per-process VRAM, GPU activity, and LLM model/KV-cache insights (Windows AMD and NVIDIA).",
             "url": "https://github.com/shanselman/gputaskman",
-            "stars": 111,
-            "forks": 6,
-            "score": 43
+            "stars": 115,
+            "forks": 7,
+            "score": 44
         },
         {
             "main_cat": "AI",
@@ -348,7 +348,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Huy-Quang-Dao/instantTrack",
             "description": "Whole-body motion tracking for the Unitree G1 in about 3 minutes on one GPU: return 0.82 with 0/40 clips failed at the first checkpoint for all seeds, >=10.9x faster than SuperMimic + EMA; 3.2 min with fine checkpoints, 2.74 min without LR annealing (world model + Muon + overlapped CUDA streams, mjlab)",
             "url": "https://github.com/Huy-Quang-Dao/instantTrack",
-            "stars": 158,
+            "stars": 161,
             "forks": 7,
             "score": 39
         },
@@ -381,6 +381,17 @@ const ALPHA_DATA_V2 = {
             "full_name": "KarthikReddy-Tanigundala/footyforecast",
             "description": "Calibrated AFL match predictions and player archetypes, benchmarked against the betting market and Squiggle's public models",
             "url": "https://github.com/KarthikReddy-Tanigundala/footyforecast",
+            "stars": 0,
+            "forks": 0,
+            "score": 30
+        },
+        {
+            "main_cat": "Prediction Markets",
+            "sub_cat": null,
+            "name": "prediction-market-v1",
+            "full_name": "abhishekpandey-sm/prediction-market-v1",
+            "description": "A full-stack prediction market application where users can create markets, place bets on outcomes, manage wallets, and resolve markets with automated payouts. Built with React, Node.js, Express, MongoDB, and JWT authentication.",
+            "url": "https://github.com/abhishekpandey-sm/prediction-market-v1",
             "stars": 0,
             "forks": 0,
             "score": 30
@@ -684,5 +695,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-11-05 10:38"
+    "timestamp": "2026-11-05 18:26"
 };
