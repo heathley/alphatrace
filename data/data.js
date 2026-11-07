@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "heydamir/unslop",
             "description": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
             "url": "https://github.com/heydamir/unslop",
-            "stars": 10820,
-            "forks": 593,
+            "stars": 11043,
+            "forks": 605,
             "score": 99
         },
         {
@@ -18,8 +18,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "wangzan101/Mika",
             "description": "An on-device AI agent for Android that operates apps and the web to get things done for you.",
             "url": "https://github.com/wangzan101/Mika",
-            "stars": 7426,
-            "forks": 1710,
+            "stars": 7497,
+            "forks": 1729,
             "score": 99
         },
         {
@@ -29,8 +29,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "anhao/ai-pose-gallery-zh",
             "description": "\u4e2d\u6587\u7248 AI \u59ff\u52bf\u53c2\u8003\u56fe\u5e93 \u00b7 1439 \u7ec4 / 2878 \u5f20\u56fe\u7247 / \u5b8c\u6574\u6c49\u5316 \u00b7 \u96f6\u4f9d\u8d56\u9759\u6001\u753b\u5eca",
             "url": "https://github.com/anhao/ai-pose-gallery-zh",
-            "stars": 6278,
-            "forks": 1596,
+            "stars": 6318,
+            "forks": 1601,
             "score": 99
         },
         {
@@ -40,8 +40,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "JuneYaooo/rea-video",
             "description": "Reverse-engineer any video, shot by shot: tells whether each shot was filmed, AI-generated or coded, how the captions, cuts and audio were made, and how to remake it. \u9006\u5411\u4e00\u5207\u89c6\u9891\uff0c\u9010\u955c\u62c6\u51fa\u5236\u4f5c\u65b9\u5f0f\u5e76\u7ed9\u51fa\u590d\u523b\u65b9\u6848\u3002",
             "url": "https://github.com/JuneYaooo/rea-video",
-            "stars": 3160,
-            "forks": 443,
+            "stars": 3408,
+            "forks": 480,
             "score": 99
         },
         {
@@ -51,8 +51,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
             "description": "Google_AI_Pro_2Year_ZeroCost_Auto",
             "url": "https://github.com/worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
-            "stars": 2916,
-            "forks": 1140,
+            "stars": 2983,
+            "forks": 1159,
             "score": 99
         },
         {
@@ -62,8 +62,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "modelflare-ai/AnyModelBot",
             "description": "\ud83e\udd16 Open-source, local-first alternative to Grok Bot, OpenAI dots and Claude Duet. Your own AI bots on any model: GPT, Claude, Gemini, Grok, DeepSeek, Kimi, GLM and 70+ more through one Modelflare key. Reach them in the app, WeChat or Feishu; they remember you, work in the background, run commands and use your computer. Pay per use.",
             "url": "https://github.com/modelflare-ai/AnyModelBot",
-            "stars": 2728,
-            "forks": 42,
+            "stars": 2734,
+            "forks": 43,
             "score": 99
         },
         {
@@ -73,8 +73,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "qybaihe/bla",
             "description": "\ud83d\udee1\ufe0f BLA (Blind LLM Agents) \u2014 Adversarial defense shield that protects binaries, Electron apps, JS bundles, Python, and WebAssembly against AI reverse-engineering agents like REA. Poison -> Exhaust -> Hallucinate.",
             "url": "https://github.com/qybaihe/bla",
-            "stars": 2579,
-            "forks": 340,
+            "stars": 2652,
+            "forks": 351,
             "score": 99
         },
         {
@@ -84,8 +84,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "paipiange/nvzhuang",
             "description": "1407 \u5f20 AI \u5973\u88c5\u53c2\u8003\u56fe\u96c6\u4e0e\u865a\u62df\u8bd5\u7a7f\u7f51\u7ad9\uff0c\u652f\u6301\u4e2d\u82f1\u68c0\u7d22\u3001OpenAI Images / Gemini / \u8c46\u5305\u53ca\u81ea\u5b9a\u4e49 Base URL\u3001API Key\u3001\u6a21\u578b\u3002https://github.com/paipiange/nvzhuang",
             "url": "https://github.com/paipiange/nvzhuang",
-            "stars": 2289,
-            "forks": 577,
+            "stars": 2296,
+            "forks": 581,
             "score": 99
         },
         {
@@ -95,7 +95,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "benjitaylor/skills",
             "description": "Skills for AI coding agents.",
             "url": "https://github.com/benjitaylor/skills",
-            "stars": 2248,
+            "stars": 2273,
             "forks": 161,
             "score": 99
         },
@@ -106,8 +106,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "DenisSergeevitch/ex-ussr-kinship-research",
             "description": "Evidence-first genealogy skill for AI agents (Codex, Claude Code): church books, civil, military, deportation and repression records across the former USSR. Replies in your language.",
             "url": "https://github.com/DenisSergeevitch/ex-ussr-kinship-research",
-            "stars": 2072,
-            "forks": 206,
+            "stars": 2092,
+            "forks": 210,
             "score": 99
         },
         {
@@ -117,8 +117,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "andyhuo520/digital-human-koubo",
             "description": "AI digital-human talking-head videos from one photo: Renoise MCP generation + 5 editing styles + 48 creator-grade packaging components. Agent skill for Claude Code / Codex / OpenClaw / WorkBuddy \u2026",
             "url": "https://github.com/andyhuo520/digital-human-koubo",
-            "stars": 1851,
-            "forks": 425,
+            "stars": 1854,
+            "forks": 426,
             "score": 99
         },
         {
@@ -128,8 +128,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "wquguru/cicada",
             "description": "\u77e5\u4e86 Cicada \u00b7 \u4efb\u4f55\u4f1a\u8bae\u548c\u76f4\u64ad\u7684\u5b9e\u65f6\u5b57\u5e55\u3001\u540c\u58f0\u4f20\u8bd1\u3001AI \u4f1a\u8bae\u7eaa\u8981\uff0cMac\u3001Windows\u3001Linux\u3001Android \u514d\u8d39\u5f00\u6e90\u3002Live subtitles, interpreting and meeting notes for any call or stream, on Mac, Windows, Linux and Android.",
             "url": "https://github.com/wquguru/cicada",
-            "stars": 1563,
-            "forks": 286,
+            "stars": 1593,
+            "forks": 289,
             "score": 99
         },
         {
@@ -139,19 +139,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "N1nEmAn/sapper-v2",
             "description": "Autonomous pentest legion \u2014 AI commander + worker swarm + layered fact-intent graph. 3rd Tencent Intelligent Attack-Defense online champion (634 teams \u00b7 8h unattended \u00b7 1B tokens beat 4.5B). The N\u00fcwa Test: give AIs Create/Language/History, let a civilization grow.",
             "url": "https://github.com/N1nEmAn/sapper-v2",
-            "stars": 1494,
-            "forks": 834,
-            "score": 99
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "open-yoki",
-            "full_name": "jacke-pp/open-yoki",
-            "description": "An AI live-stream host that runs on one server: voice, face, chat, memory, posts. The base yoki runs on. By Jacke_pp \u00b7 contact: DM @Jacke_pp on X",
-            "url": "https://github.com/jacke-pp/open-yoki",
-            "stars": 1376,
-            "forks": 74,
+            "stars": 1511,
+            "forks": 840,
             "score": 99
         },
         {
@@ -161,9 +150,31 @@ const ALPHA_DATA_V2 = {
             "full_name": "cutetailbud/ff-ruyijs",
             "description": "This is a lightweight, headless browser purpose-built for AI agents (such as Codex or Claude Code) to perform browser automation tasks; it is designed to navigate through various web protection systems, login processes, and reverse-engineering scenarios",
             "url": "https://github.com/cutetailbud/ff-ruyijs",
-            "stars": 862,
-            "forks": 321,
+            "stars": 866,
+            "forks": 323,
             "score": 99
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "poki",
+            "full_name": "JosssphZhou/poki",
+            "description": "Let AI agents operate a real iPhone. Local MCP server and agent, no jailbreak, no extra hardware.",
+            "url": "https://github.com/JosssphZhou/poki",
+            "stars": 451,
+            "forks": 97,
+            "score": 99
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "open-yoki",
+            "full_name": "jacke-pp/open-yoki",
+            "description": "An AI live-stream host that runs on one server: voice, face, chat, memory, posts. The base yoki runs on. By Jacke_pp \u00b7 contact: DM @Jacke_pp on X",
+            "url": "https://github.com/jacke-pp/open-yoki",
+            "stars": 1455,
+            "forks": 74,
+            "score": 97
         },
         {
             "main_cat": "AI",
@@ -172,20 +183,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "hongye007/open-pose-costume",
             "description": "A bilingual reference studio for poses, costumes, and AI character creation.",
             "url": "https://github.com/hongye007/open-pose-costume",
-            "stars": 724,
-            "forks": 187,
-            "score": 96
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "ai-ref-library-cn",
-            "full_name": "sleepy-zone/ai-ref-library-cn",
-            "description": "AI \u4f5c\u56fe\u7d20\u6750\u5e93 \u00b7 \u4e2d\u6587\u7248\uff08\u8138 / \u59ff\u52bf / \u670d\u88c5\uff09",
-            "url": "https://github.com/sleepy-zone/ai-ref-library-cn",
-            "stars": 727,
-            "forks": 180,
-            "score": 95
+            "stars": 732,
+            "forks": 190,
+            "score": 97
         },
         {
             "main_cat": "AI",
@@ -194,20 +194,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "anthropics/FlashProve",
             "description": "A research prototype for zero-knowledge proofs of AI inference. Not maintained.",
             "url": "https://github.com/anthropics/FlashProve",
-            "stars": 939,
-            "forks": 88,
-            "score": 94
+            "stars": 944,
+            "forks": 90,
+            "score": 95
         },
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "xiaotang-daozai",
-            "full_name": "Renly1994/xiaotang-daozai",
-            "description": "\u5c9b\u4ed4 Daozai\uff1aRust \u6784\u5efa\u7684 Windows \u684c\u9762\u4fe1\u606f\u5c9b\u3002\u97f3\u4e50\u6b4c\u8bcd\u3001\u90ae\u4ef6\u9a8c\u8bc1\u7801\u3001\u65e5\u7a0b\u63d0\u9192\u3001\u5f85\u529e\u4e0e AI \u989d\u5ea6\uff0c\u8ba9\u91cd\u8981\u4fe1\u606f\u8f7b\u8f7b\u51fa\u73b0\u5728\u5c4f\u5e55\u9876\u90e8\u3002",
-            "url": "https://github.com/Renly1994/xiaotang-daozai",
-            "stars": 434,
-            "forks": 83,
-            "score": 93
+            "name": "ai-ref-library-cn",
+            "full_name": "sleepy-zone/ai-ref-library-cn",
+            "description": "AI \u4f5c\u56fe\u7d20\u6750\u5e93 \u00b7 \u4e2d\u6587\u7248\uff08\u8138 / \u59ff\u52bf / \u670d\u88c5\uff09",
+            "url": "https://github.com/sleepy-zone/ai-ref-library-cn",
+            "stars": 730,
+            "forks": 180,
+            "score": 95
         },
         {
             "main_cat": "AI",
@@ -223,35 +223,24 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "vn-law-check",
-            "full_name": "mhfed/vn-law-check",
-            "description": "Audit ph\u00e1p l\u00fd website theo lu\u1eadt Vi\u1ec7t Nam (BVDLCN 91/2025, TM\u0110T 122/2025, ANM 116/2025, AI 134/2025) cho Claude Code, Cursor, Copilot, Windsurf, Cline",
-            "url": "https://github.com/mhfed/vn-law-check",
-            "stars": 463,
-            "forks": 99,
-            "score": 91
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
             "name": "OpenAmika",
             "full_name": "zeekk0/OpenAmika",
             "description": "OpenAmika: MekaHime's AI companion Amika, open source. Live2D avatar, real-time voice, long-term memory, OpenRouter or Ollama brain.",
             "url": "https://github.com/zeekk0/OpenAmika",
-            "stars": 450,
-            "forks": 62,
-            "score": 88
+            "stars": 467,
+            "forks": 65,
+            "score": 90
         },
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "ai-manju-skills",
-            "full_name": "zhanghao123vip/ai-manju-skills",
-            "description": "21 \u4e2a\u9898\u6750\u7684 AI \u6f2b\u5267\u5168\u6d41\u7a0b Skill\uff1a\u4e00\u53e5\u70b9\u5b50\u751f\u6210\u4f01\u5212\u6848\u3001\u8d44\u4ea7\u56fe\u63d0\u793a\u8bcd\u3001\u5206\u96c6\u5267\u672c\u3001\u5206\u955c\u4e0e\u89c6\u9891\u63d0\u793a\u8bcd\u3002\u53ef\u7528\u4e8e Claude Code\u3001WorkBuddy\u3001DeepSeek",
-            "url": "https://github.com/zhanghao123vip/ai-manju-skills",
-            "stars": 608,
-            "forks": 114,
-            "score": 83
+            "name": "vn-law-check",
+            "full_name": "mhfed/vn-law-check",
+            "description": "Audit ph\u00e1p l\u00fd website theo lu\u1eadt Vi\u1ec7t Nam (BVDLCN 91/2025, TM\u0110T 122/2025, ANM 116/2025, AI 134/2025) cho Claude Code, Cursor, Copilot, Windsurf, Cline",
+            "url": "https://github.com/mhfed/vn-law-check",
+            "stars": 466,
+            "forks": 101,
+            "score": 84
         },
         {
             "main_cat": "AI",
@@ -260,9 +249,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "rerun-build/rerun",
             "description": "AI coworkers that run your work. Self-hostable, AGPL-3.0.",
             "url": "https://github.com/rerun-build/rerun",
-            "stars": 804,
-            "forks": 88,
-            "score": 82
+            "stars": 818,
+            "forks": 89,
+            "score": 83
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "ai-manju-skills",
+            "full_name": "zhanghao123vip/ai-manju-skills",
+            "description": "21 \u4e2a\u9898\u6750\u7684 AI \u6f2b\u5267\u5168\u6d41\u7a0b Skill\uff1a\u4e00\u53e5\u70b9\u5b50\u751f\u6210\u4f01\u5212\u6848\u3001\u8d44\u4ea7\u56fe\u63d0\u793a\u8bcd\u3001\u5206\u96c6\u5267\u672c\u3001\u5206\u955c\u4e0e\u89c6\u9891\u63d0\u793a\u8bcd\u3002\u53ef\u7528\u4e8e Claude Code\u3001WorkBuddy\u3001DeepSeek",
+            "url": "https://github.com/zhanghao123vip/ai-manju-skills",
+            "stars": 611,
+            "forks": 114,
+            "score": 83
         },
         {
             "main_cat": "AI",
@@ -271,9 +271,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "konlu/story-studio",
             "description": "\u4ece\u9009\u9898\u5230\u526a\u6620\u8349\u7a3f\u7684\u4e00\u7ad9\u5f0f AI \u77ed\u89c6\u9891\u5185\u5bb9\u521b\u4f5c Agent Skill",
             "url": "https://github.com/konlu/story-studio",
-            "stars": 787,
-            "forks": 172,
-            "score": 82
+            "stars": 793,
+            "forks": 175,
+            "score": 79
         },
         {
             "main_cat": "AI",
@@ -282,9 +282,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "op7418/dsh-guizang-design",
             "description": "\u6b78\u85cf\u8bbe\u8ba1 \u00b7 DeepSeek Harness \u63d2\u4ef6\uff1a\u7f51\u9875 PPT\u3001\u56fe\u6587\u5361\u7247\u3001\u7f51\u9875\u6392\u7248\u3001\u53bb AI \u5473\u56db\u4e2a skill\uff0c\u4e00\u5957\u8bbe\u8ba1\u7cfb\u7edf\uff1b\u4f5c\u54c1\u5e93\u3001\u5185\u5bb9\u751f\u4ea7\u5de5\u4f5c\u6d41\u3001\u8bed\u6c14\u6863\u6848",
             "url": "https://github.com/op7418/dsh-guizang-design",
-            "stars": 556,
-            "forks": 35,
-            "score": 64
+            "stars": 580,
+            "forks": 36,
+            "score": 66
         },
         {
             "main_cat": "AI",
@@ -293,20 +293,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "wquguru/shisei",
             "description": "\ud83d\udc83 Free CC0 mannequin pose reference library for AI image tools (Nano Banana, ChatGPT, ComfyUI, Midjourney) \u2014 250+ poses \u00d7 5 angles in line art, names in ja/zh/en/ko",
             "url": "https://github.com/wquguru/shisei",
-            "stars": 455,
+            "stars": 458,
             "forks": 96,
-            "score": 64
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "anymove",
-            "full_name": "patch-gg/anymove",
-            "description": "Motion capture for any creature from one AI video: two cameras in one frame, a DINOv2 joint reader, the rig fitted in both views, a GLB out.",
-            "url": "https://github.com/patch-gg/anymove",
-            "stars": 545,
-            "forks": 61,
-            "score": 60
+            "score": 65
         },
         {
             "main_cat": "AI",
@@ -315,9 +304,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "wanghao-SunSky/cs329z-chinese",
             "description": "\u65af\u5766\u798f Stanford CS329Z Engineering AI Agents \u4e2d\u6587\u6559\u7a0b\uff1a\u9762\u5411 Python \u5f00\u53d1\u8005\u7684 AI \u667a\u80fd\u4f53\u8bfe\u7a0b\uff0c19 \u8bb2\u4e0e 4 \u9879\u5b9e\u8df5\uff0c\u6db5\u76d6 LLM\u3001RAG\u3001\u5de5\u5177\u8c03\u7528\u3001\u8bb0\u5fc6\u3001\u591a\u667a\u80fd\u4f53\u3001\u8bc4\u6d4b\u4e0e\u5b89\u5168\u3002\u5b8c\u6574 Markdown\u3001\u5728\u7ebf\u4e0e\u79bb\u7ebf HTML\u3002Chinese course notes.",
             "url": "https://github.com/wanghao-SunSky/cs329z-chinese",
-            "stars": 503,
+            "stars": 506,
             "forks": 57,
             "score": 60
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "anymove",
+            "full_name": "patch-gg/anymove",
+            "description": "Motion capture for any creature from one AI video: two cameras in one frame, a DINOv2 joint reader, the rig fitted in both views, a GLB out.",
+            "url": "https://github.com/patch-gg/anymove",
+            "stars": 547,
+            "forks": 61,
+            "score": 58
         },
         {
             "main_cat": "AI",
@@ -326,9 +326,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "shanselman/gputaskman",
             "description": "A GPU task manager for Windows, Linux, and WSL: per-process VRAM, GPU activity, and LLM model/KV-cache insights (Windows AMD and NVIDIA).",
             "url": "https://github.com/shanselman/gputaskman",
-            "stars": 277,
-            "forks": 14,
-            "score": 53
+            "stars": 311,
+            "forks": 16,
+            "score": 56
         },
         {
             "main_cat": "AI",
@@ -337,9 +337,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "Huy-Quang-Dao/instantTrack",
             "description": "Whole-body motion tracking for the Unitree G1 in under 3 minutes on average on one GPU: return 0.82 with 0/40 clips failed, held from 2.74 min (mean of 15 seeds, range 2.21-3.61, fine checkpoints), 11.87 it/s (world model + Muon + overlapped CUDA streams, mjlab)",
             "url": "https://github.com/Huy-Quang-Dao/instantTrack",
-            "stars": 172,
+            "stars": 173,
             "forks": 7,
-            "score": 39
+            "score": 38
         },
         {
             "main_cat": "AI",
@@ -348,7 +348,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "musicurgy/delta-inference-engine",
             "description": "Delta Inference Engine: DeepSeek-V4.1-Flash on one NVIDIA GPU, natively on Windows (OpenAI-compatible server)",
             "url": "https://github.com/musicurgy/delta-inference-engine",
-            "stars": 75,
+            "stars": 77,
             "forks": 11,
             "score": 34
         },
@@ -359,7 +359,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "stmorgenstern/diff-soup",
             "description": "Multiphysics modeling, differentiable simulation, and physically-constrained machine learning in JAX using GPU-accelerated stiff solvers with sparse numerical methods ",
             "url": "https://github.com/stmorgenstern/diff-soup",
-            "stars": 49,
+            "stars": 50,
             "forks": 4,
             "score": 32
         },
@@ -674,6 +674,20 @@ const ALPHA_DATA_V2 = {
     ],
     "news": [
         {
+            "title": "SoK: Post-Quantum Cryptography (PQC) Integration in Software Development: Approaches, Gaps, and Future Directions",
+            "source": "ArXiv",
+            "type": "Research Alpha",
+            "color": "text-indigo-600",
+            "url": "http://arxiv.org/abs/2611.08442v1"
+        },
+        {
+            "title": "FedReason: Large Language Models as Weight-Space Meta-Aggregators for Heterogeneous Federated Learning",
+            "source": "ArXiv",
+            "type": "Research Alpha",
+            "color": "text-indigo-600",
+            "url": "http://arxiv.org/abs/2611.08383v1"
+        },
+        {
             "title": "Bitcoin volatility remains high ahead of key FED decision.",
             "source": "Polymarket",
             "type": "Expectation",
@@ -681,5 +695,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-11-07 04:04"
+    "timestamp": "2026-11-07 11:26"
 };
