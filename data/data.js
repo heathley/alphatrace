@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "expo/exact",
             "description": "Write an app once. It runs natively on the web, macOS, iOS, and Linux, and an AI agent can build it, run it, see it, and test it on every one of them.",
             "url": "https://github.com/expo/exact",
-            "stars": 3629,
-            "forks": 86,
+            "stars": 3868,
+            "forks": 91,
             "score": 99
         },
         {
@@ -18,8 +18,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "wquguru/cicada",
             "description": "\u77e5\u4e86 Cicada \u00b7 \u4efb\u4f55\u4f1a\u8bae\u548c\u76f4\u64ad\u7684\u5b9e\u65f6\u5b57\u5e55\u3001\u540c\u58f0\u4f20\u8bd1\u3001AI \u4f1a\u8bae\u7eaa\u8981\uff0cMac\u3001Windows\u3001Linux\u3001Android \u514d\u8d39\u5f00\u6e90\u3002Live subtitles, interpreting and meeting notes for any call or stream, on Mac, Windows, Linux and Android.",
             "url": "https://github.com/wquguru/cicada",
-            "stars": 2206,
-            "forks": 377,
+            "stars": 2212,
+            "forks": 378,
             "score": 99
         },
         {
@@ -27,10 +27,10 @@ const ALPHA_DATA_V2 = {
             "sub_cat": null,
             "name": "pinky",
             "full_name": "DIYgod/pinky",
-            "description": "Let AI agents use your phone, with you in the loop.",
+            "description": "Let AI use your iPhone or Android phone, with you in the loop: any MCP agent from macOS, Windows or Linux, or Pinky itself, right on the phone.",
             "url": "https://github.com/DIYgod/pinky",
-            "stars": 2056,
-            "forks": 223,
+            "stars": 2075,
+            "forks": 226,
             "score": 99
         },
         {
@@ -40,8 +40,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "agentes-chat/agentes-chat",
             "description": "Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs. Agents run on Claude, ChatGPT/Codex, Gemini or Grok, with MCP tools, their own computer and browser, routines, memory and approvals. Web, desktop and phone apps. Docker Compose + Postgres. AGPL-3.0.",
             "url": "https://github.com/agentes-chat/agentes-chat",
-            "stars": 1257,
-            "forks": 206,
+            "stars": 1317,
+            "forks": 219,
             "score": 99
         },
         {
@@ -51,8 +51,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "FrigadeHQ/yogurt",
             "description": "Private AI meeting notes. Free and open source.",
             "url": "https://github.com/FrigadeHQ/yogurt",
-            "stars": 1095,
-            "forks": 42,
+            "stars": 1214,
+            "forks": 49,
             "score": 99
         },
         {
@@ -62,7 +62,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "JosssphZhou/poki",
             "description": "Let AI agents operate a real iPhone. Local MCP server and agent, no jailbreak, no extra hardware.",
             "url": "https://github.com/JosssphZhou/poki",
-            "stars": 1042,
+            "stars": 1057,
             "forks": 187,
             "score": 99
         },
@@ -73,8 +73,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "shanselman/gputaskman",
             "description": "A GPU task manager for Windows, Linux, and WSL: per-process VRAM, GPU activity, and LLM model/KV-cache insights (Windows AMD and NVIDIA).",
             "url": "https://github.com/shanselman/gputaskman",
-            "stars": 2910,
-            "forks": 138,
+            "stars": 3034,
+            "forks": 143,
             "score": 99
         },
         {
@@ -95,9 +95,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "dabingfy-dot/solo-to-team-skills",
             "description": "Skills for human-led AI teams: delegate tasks, verify evidence, explain steps clearly, and learn from real cases. \u4e00\u4e2a\u4eba\u7edf\u7b79 AI \u56e2\u961f\uff1a\u6d3e\u6d3b\u3001\u6838\u8bc1\u3001\u6e05\u695a\u8bf4\u660e\u3001\u7ecf\u9a8c\u590d\u7528\u3002",
             "url": "https://github.com/dabingfy-dot/solo-to-team-skills",
-            "stars": 829,
-            "forks": 84,
-            "score": 94
+            "stars": 841,
+            "forks": 90,
+            "score": 96
         },
         {
             "main_cat": "AI",
@@ -106,20 +106,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "Renly1994/xiaotang-daozai",
             "description": "\u5c9b\u4ed4 Daozai\uff1aRust \u6784\u5efa\u7684 Windows \u684c\u9762\u4fe1\u606f\u5c9b\u3002\u97f3\u4e50\u6b4c\u8bcd\u3001\u90ae\u4ef6\u9a8c\u8bc1\u7801\u3001\u65e5\u7a0b\u63d0\u9192\u3001\u5f85\u529e\u4e0e AI \u989d\u5ea6\uff0c\u8ba9\u91cd\u8981\u4fe1\u606f\u8f7b\u8f7b\u51fa\u73b0\u5728\u5c4f\u5e55\u9876\u90e8\u3002",
             "url": "https://github.com/Renly1994/xiaotang-daozai",
-            "stars": 842,
-            "forks": 153,
-            "score": 85
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "ste80-humanizer",
-            "full_name": "Dodaios/ste80-humanizer",
-            "description": "STE80 Humanizer: agent skill that removes AI tells and rewrites text 80% of the way to ASD-STE100 (Simplified Technical English), the method Andrej Karpathy shared.",
-            "url": "https://github.com/Dodaios/ste80-humanizer",
-            "stars": 472,
-            "forks": 29,
-            "score": 79
+            "stars": 939,
+            "forks": 171,
+            "score": 92
         },
         {
             "main_cat": "AI",
@@ -128,9 +117,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "linknimiball1974/ai-texture-forge",
             "description": "An AI-powered texture forge for Blender \u2014 turn text prompts into seamless PBR materials, concept art and scene-wide projections with local or cloud diffusion models, straight inside the 3D viewport on Windows. \u00b7 dream textures \u00b7 dream textures blender \u00b7 dream textures addon \u00b7 dream textures ai \u00b7 dream textures seamless \u00b7 dream textures pbr",
             "url": "https://github.com/linknimiball1974/ai-texture-forge",
-            "stars": 313,
+            "stars": 340,
             "forks": 20,
-            "score": 79
+            "score": 82
         },
         {
             "main_cat": "AI",
@@ -139,8 +128,19 @@ const ALPHA_DATA_V2 = {
             "full_name": "zhanghao123vip/ai-manju-skills",
             "description": "21 \u4e2a\u9898\u6750\u7684 AI \u6f2b\u5267\u5168\u6d41\u7a0b Skill\uff1a\u4e00\u53e5\u70b9\u5b50\u751f\u6210\u4f01\u5212\u6848\u3001\u8d44\u4ea7\u56fe\u63d0\u793a\u8bcd\u3001\u5206\u96c6\u5267\u672c\u3001\u5206\u955c\u4e0e\u89c6\u9891\u63d0\u793a\u8bcd\u3002\u53ef\u7528\u4e8e Claude Code\u3001WorkBuddy\u3001DeepSeek",
             "url": "https://github.com/zhanghao123vip/ai-manju-skills",
-            "stars": 788,
-            "forks": 145,
+            "stars": 794,
+            "forks": 147,
+            "score": 73
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "ste80-humanizer",
+            "full_name": "Dodaios/ste80-humanizer",
+            "description": "STE80 Humanizer: agent skill that removes AI tells and rewrites text 80% of the way to ASD-STE100 (Simplified Technical English), the method Andrej Karpathy shared.",
+            "url": "https://github.com/Dodaios/ste80-humanizer",
+            "stars": 484,
+            "forks": 29,
             "score": 72
         },
         {
@@ -150,9 +150,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "andrew-babo/muse4ai",
             "description": "Muse4AI \u2014 let your AI agent make the pictures and the videos. Local Windows bridge for Muse via REST, MCP, and OAuth.",
             "url": "https://github.com/andrew-babo/muse4ai",
-            "stars": 725,
+            "stars": 745,
             "forks": 64,
-            "score": 70
+            "score": 68
         },
         {
             "main_cat": "AI",
@@ -161,9 +161,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "zeekk0/OpenAmika",
             "description": "OpenAmika: MekaHime's AI companion Amika, open source. Live2D avatar, real-time voice, long-term memory, OpenRouter or Ollama brain.",
             "url": "https://github.com/zeekk0/OpenAmika",
-            "stars": 621,
-            "forks": 81,
-            "score": 69
+            "stars": 623,
+            "forks": 82,
+            "score": 66
         },
         {
             "main_cat": "AI",
@@ -172,7 +172,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "mhfed/vn-law-check",
             "description": "Audit ph\u00e1p l\u00fd website theo lu\u1eadt Vi\u1ec7t Nam (BVDLCN 91/2025, TM\u0110T 122/2025, ANM 116/2025, AI 134/2025) cho Claude Code, Cursor, Copilot, Windsurf, Cline",
             "url": "https://github.com/mhfed/vn-law-check",
-            "stars": 501,
+            "stars": 500,
             "forks": 114,
             "score": 64
         },
@@ -183,9 +183,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "ZSeven-W/dsh-game-studio",
             "description": "Describe a small game in one sentence, play it in the DeepSeek Harness sidebar, swap in AI art, and publish to GitHub Pages or Cloudflare in one click.",
             "url": "https://github.com/ZSeven-W/dsh-game-studio",
-            "stars": 542,
+            "stars": 546,
             "forks": 45,
-            "score": 62
+            "score": 63
         },
         {
             "main_cat": "AI",
@@ -194,9 +194,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "SAOS-3624/dsh-see-now",
             "description": "\u8ba9 AI \u5b9e\u65f6\u770b\u89c1\u4f60\u7684\u5c4f\u5e55\uff1a\u6309\u53d8\u5316\u91cf\u7b5b\u9009\u5e27\u3001\u591a\u5e27\u62fc\u8fdb\u4e00\u5f20\u56fe\uff0c\u9759\u6b62\u753b\u9762\u51e0\u4e4e\u4e0d\u82b1 token",
             "url": "https://github.com/SAOS-3624/dsh-see-now",
-            "stars": 616,
-            "forks": 63,
-            "score": 61
+            "stars": 623,
+            "forks": 64,
+            "score": 59
         },
         {
             "main_cat": "AI",
@@ -216,8 +216,19 @@ const ALPHA_DATA_V2 = {
             "full_name": "TngSHoO/agentcase-lab",
             "description": "AI Agent failure replay and root cause analysis platform",
             "url": "https://github.com/TngSHoO/agentcase-lab",
-            "stars": 346,
-            "forks": 56,
+            "stars": 350,
+            "forks": 57,
+            "score": 54
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "your-next-point",
+            "full_name": "qiaoranlaodou-cpu/your-next-point",
+            "description": "\u300a\u4f60\u7684\u4e0b\u4e00\u5206\u5728\u54ea\u91cc\uff1aAI \u65f6\u4ee3\u7684\u516c\u8003\u5907\u8003\u65b9\u6cd5\u300b\u5168\u4e66\u514d\u8d39\u5f00\u653e\uff0c\u5377\u8702\u5566\u00b7\u6797\u7167 \u8457\u3002",
+            "url": "https://github.com/qiaoranlaodou-cpu/your-next-point",
+            "stars": 456,
+            "forks": 5,
             "score": 53
         },
         {
@@ -227,20 +238,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "Junhan2/ztd-charts",
             "description": "44 animated, interactive React charts in pure SVG with zero runtime dependencies, a JSON spec, and CLI and MCP tools for AI agents",
             "url": "https://github.com/Junhan2/ztd-charts",
-            "stars": 312,
-            "forks": 45,
+            "stars": 315,
+            "forks": 46,
             "score": 52
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "your-next-point",
-            "full_name": "qiaoranlaodou-cpu/your-next-point",
-            "description": "\u300a\u4f60\u7684\u4e0b\u4e00\u5206\u5728\u54ea\u91cc\uff1aAI \u65f6\u4ee3\u7684\u516c\u8003\u5907\u8003\u65b9\u6cd5\u300b\u5168\u4e66\u514d\u8d39\u5f00\u653e\uff0c\u5377\u8702\u5566\u00b7\u6797\u7167 \u8457\u3002",
-            "url": "https://github.com/qiaoranlaodou-cpu/your-next-point",
-            "stars": 408,
-            "forks": 5,
-            "score": 51
         },
         {
             "main_cat": "AI",
@@ -267,35 +267,24 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "WebsiteBench",
-            "full_name": "TIGER-AI-Lab/WebsiteBench",
-            "description": "Can AI agents rebuild websites through browser exploration?",
-            "url": "https://github.com/TIGER-AI-Lab/WebsiteBench",
-            "stars": 312,
-            "forks": 41,
+            "name": "lancer",
+            "full_name": "raylee-ai/lancer",
+            "description": "Lancer \u2014 desktop AI workspace based on pi-gui and pi",
+            "url": "https://github.com/raylee-ai/lancer",
+            "stars": 333,
+            "forks": 85,
             "score": 51
         },
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "lancer",
-            "full_name": "raylee-ai/lancer",
-            "description": "Lancer \u2014 desktop AI workspace based on pi-gui and pi",
-            "url": "https://github.com/raylee-ai/lancer",
-            "stars": 331,
-            "forks": 85,
+            "name": "WebsiteBench",
+            "full_name": "TIGER-AI-Lab/WebsiteBench",
+            "description": "Can AI agents rebuild websites through browser exploration?",
+            "url": "https://github.com/TIGER-AI-Lab/WebsiteBench",
+            "stars": 330,
+            "forks": 41,
             "score": 50
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "graduation-thesis-ai",
-            "full_name": "quacat748-droid/graduation-thesis-ai",
-            "description": "\ud83d\udd25\ud83d\udd25\ud83d\udd25\u6bd5\u4e1a\u8bba\u6587AI\u52a9\u624b, AI\u6bd5\u4e1a\u8bba\u6587, \u6bd5\u4e1a\u8bba\u6587\u5199\u4f5c, \u5f00\u9898\u62a5\u544a, \u6587\u732e\u7efc\u8ff0, AI\u8bba\u6587\u751f\u6210, \u964dAIGC\u7387, \u964d\u91cd\u67e5\u91cd, \u683c\u5f0f\u6392\u7248, \u7b54\u8fa9PPT",
-            "url": "https://github.com/quacat748-droid/graduation-thesis-ai",
-            "stars": 454,
-            "forks": 6,
-            "score": 48
         },
         {
             "main_cat": "AI",
@@ -304,8 +293,19 @@ const ALPHA_DATA_V2 = {
             "full_name": "adventists-ai/sophon-realtime",
             "description": "Sophon-Realtime v1.1: open full-duplex voice models that hear your tone and speak with one. Zero-shot voice cloning, one GPU with vLLM-Omni, OpenAI Realtime / GPT-Live compatible. Apache-2.0.",
             "url": "https://github.com/adventists-ai/sophon-realtime",
-            "stars": 304,
+            "stars": 311,
             "forks": 28,
+            "score": 49
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "graduation-thesis-ai",
+            "full_name": "quacat748-droid/graduation-thesis-ai",
+            "description": "\ud83d\udd25\ud83d\udd25\ud83d\udd25\u6bd5\u4e1a\u8bba\u6587AI\u52a9\u624b, AI\u6bd5\u4e1a\u8bba\u6587, \u6bd5\u4e1a\u8bba\u6587\u5199\u4f5c, \u5f00\u9898\u62a5\u544a, \u6587\u732e\u7efc\u8ff0, AI\u8bba\u6587\u751f\u6210, \u964dAIGC\u7387, \u964d\u91cd\u67e5\u91cd, \u683c\u5f0f\u6392\u7248, \u7b54\u8fa9PPT",
+            "url": "https://github.com/quacat748-droid/graduation-thesis-ai",
+            "stars": 456,
+            "forks": 6,
             "score": 48
         },
         {
@@ -326,20 +326,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "Lanqiao-Luca/ai-java-workflow",
             "description": "\u2615 \u7528 AI \u8f85\u52a9 Java / Spring Boot \u7814\u53d1\uff08AI for Java / AI for Spring\uff09\uff5c\u9700\u6c42\u3001\u5b9e\u73b0\u3001\u6d4b\u8bd5\u3001\u5ba1\u67e5\u4e0e\u4ea4\u4ed8\uff5cGraph \u2192 Loop \u2192 Workflow \u2192 Agent / Skill\u3001\u865a\u6784\u53ef\u8fd0\u884c\u6848\u4f8b\u53ca worktree / Docker \u5de5\u5177\uff5c\u9762\u5411\u4e1a\u52a1\u5f00\u53d1\uff0c\u975e Spring AI \u6846\u67b6\u5b9e\u73b0",
             "url": "https://github.com/Lanqiao-Luca/ai-java-workflow",
-            "stars": 326,
+            "stars": 334,
             "forks": 13,
-            "score": 43
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "nsight-perf-sdk-for-ai",
-            "full_name": "NVIDIA/nsight-perf-sdk-for-ai",
-            "description": "Always-on, low-overhead GPU and CUDA performance tracing SDK for AI workloads. C++ client APIs, CLI tools, open data model, Perfetto export.",
-            "url": "https://github.com/NVIDIA/nsight-perf-sdk-for-ai",
-            "stars": 103,
-            "forks": 5,
-            "score": 35
+            "score": 42
         },
         {
             "main_cat": "AI",
@@ -348,9 +337,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "xl03-bit/sm120-nvfp4-training",
             "description": "Full NVFP4 training for GeForce RTX 50-series and RTX PRO 6000 Blackwell GPUs (SM120). Built on Infatoshi/nvfp4-sm120, with software stochastic rounding, random Hadamard transforms and six profiles for speed and memory. On one RTX 5060 Ti 16GB, validation loss fell over 2,048 full-parameter FineWeb updates of a 4.06B model.",
             "url": "https://github.com/xl03-bit/sm120-nvfp4-training",
-            "stars": 94,
+            "stars": 95,
             "forks": 12,
             "score": 35
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "nsight-perf-sdk-for-ai",
+            "full_name": "NVIDIA/nsight-perf-sdk-for-ai",
+            "description": "Always-on, low-overhead GPU and CUDA performance tracing SDK for AI workloads. C++ client APIs, CLI tools, open data model, Perfetto export.",
+            "url": "https://github.com/NVIDIA/nsight-perf-sdk-for-ai",
+            "stars": 106,
+            "forks": 5,
+            "score": 34
         },
         {
             "main_cat": "AI",
@@ -485,6 +485,17 @@ const ALPHA_DATA_V2 = {
             "score": 30
         },
         {
+            "main_cat": "Stablecoin Infrastructure",
+            "sub_cat": null,
+            "name": "yapa",
+            "full_name": "la-bete/yapa",
+            "description": "Multi-currency stablecoin wallet API: deposits, in-wallet swaps and FX-converted transfers between wallets, with crash-safe idempotent payments.",
+            "url": "https://github.com/la-bete/yapa",
+            "stars": 0,
+            "forks": 0,
+            "score": 30
+        },
+        {
             "main_cat": "AI",
             "sub_cat": "AI General",
             "name": "Paylink",
@@ -597,6 +608,17 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
+            "name": "web3-protocol-research",
+            "full_name": "oussamahouchatte64-alt/web3-protocol-research",
+            "description": "Independent research on DeFi protocols, cross-chain architecture, and smart contract",
+            "url": "https://github.com/oussamahouchatte64-alt/web3-protocol-research",
+            "stars": 0,
+            "forks": 0,
+            "score": 30
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
             "name": "CROSS-plus",
             "full_name": "ylx1996/CROSS-plus",
             "description": "CROSS+: protocol reference model, safety checks, and reproducible cross-chain transfer and recovery simulations.",
@@ -625,6 +647,17 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/ZengLLQ/vanguard-ibc",
             "stars": 0,
             "forks": 0,
+            "score": 30
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "BidaFlux",
+            "full_name": "BidaFlux/BidaFlux",
+            "description": "BidaFlux is a Reactive-powered cross-chain Dutch auction protocol that enables buyers on multiple blockchains to compete for a single NFT, with automated auction coordination and secure on-chain settlement.",
+            "url": "https://github.com/BidaFlux/BidaFlux",
+            "stars": 0,
+            "forks": 1,
             "score": 30
         },
         {
@@ -695,5 +728,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-11-13 10:25"
+    "timestamp": "2026-11-13 18:19"
 };
