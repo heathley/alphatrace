@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "expo/exact",
             "description": "Write an app once. It runs natively on the web, macOS, iOS, and Linux, and an AI agent can build it, run it, see it, and test it on every one of them.",
             "url": "https://github.com/expo/exact",
-            "stars": 4157,
-            "forks": 100,
+            "stars": 4178,
+            "forks": 101,
             "score": 99
         },
         {
@@ -18,8 +18,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "wquguru/cicada",
             "description": "\u77e5\u4e86 Cicada \u00b7 \u4efb\u4f55\u4f1a\u8bae\u548c\u76f4\u64ad\u7684\u5b9e\u65f6\u5b57\u5e55\u3001\u540c\u58f0\u4f20\u8bd1\u3001AI \u4f1a\u8bae\u7eaa\u8981\uff0cMac\u3001Windows\u3001Linux\u3001Android \u514d\u8d39\u5f00\u6e90\u3002Live subtitles, interpreting and meeting notes for any call or stream, on Mac, Windows, Linux and Android.",
             "url": "https://github.com/wquguru/cicada",
-            "stars": 2263,
-            "forks": 382,
+            "stars": 2264,
+            "forks": 383,
             "score": 99
         },
         {
@@ -29,7 +29,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "DIYgod/pinky",
             "description": "Let AI use your iPhone or Android phone, with you in the loop: any MCP agent from macOS, Windows or Linux, or Pinky itself, right on the phone.",
             "url": "https://github.com/DIYgod/pinky",
-            "stars": 2139,
+            "stars": 2146,
             "forks": 235,
             "score": 99
         },
@@ -40,8 +40,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "FrigadeHQ/yogurt",
             "description": "Private AI meeting notes that stay on your computer. A free, open-source alternative to Granola for Mac, Windows and Linux.",
             "url": "https://github.com/FrigadeHQ/yogurt",
-            "stars": 1437,
-            "forks": 74,
+            "stars": 1478,
+            "forks": 77,
             "score": 99
         },
         {
@@ -51,7 +51,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "agentes-chat/agentes-chat",
             "description": "Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs. Agents run on Claude, ChatGPT/Codex, Gemini or Grok, with MCP tools, their own computer and browser, routines, memory and approvals. Web, desktop and phone apps. Docker Compose + Postgres. AGPL-3.0.",
             "url": "https://github.com/agentes-chat/agentes-chat",
-            "stars": 1390,
+            "stars": 1400,
             "forks": 247,
             "score": 99
         },
@@ -62,19 +62,173 @@ const ALPHA_DATA_V2 = {
             "full_name": "JosssphZhou/poki",
             "description": "Let AI agents operate a real iPhone. Local MCP server and agent, no jailbreak, no extra hardware.",
             "url": "https://github.com/JosssphZhou/poki",
-            "stars": 1240,
-            "forks": 216,
+            "stars": 1251,
+            "forks": 217,
             "score": 99
         },
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "muse-protocol",
-            "full_name": "duwqijlk/muse-protocol",
-            "description": "muse.ai \u6ce8\u518c\u4e0e\u9080\u8bf7\u7801\u5151\u6362\u534f\u8bae\u7814\u7a76\uff08\u7eaf HTTP Python \u5b9e\u73b0\uff09",
-            "url": "https://github.com/duwqijlk/muse-protocol",
-            "stars": 498,
-            "forks": 248,
+            "name": "ai--manus2.0",
+            "full_name": "Topkiflare74/ai--manus2.0",
+            "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+            "url": "https://github.com/Topkiflare74/ai--manus2.0",
+            "stars": 677,
+            "forks": 5,
+            "score": 99
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "ai--manus2.0",
+            "full_name": "topapothecarycanal/ai--manus2.0",
+            "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+            "url": "https://github.com/topapothecarycanal/ai--manus2.0",
+            "stars": 666,
+            "forks": 12,
+            "score": 99
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "ai--manus2.0",
+            "full_name": "toppatronweave/ai--manus2.0",
+            "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+            "url": "https://github.com/toppatronweave/ai--manus2.0",
+            "stars": 665,
+            "forks": 5,
+            "score": 99
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "ai--manus2.0",
+            "full_name": "topconstableinlet67/ai--manus2.0",
+            "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+            "url": "https://github.com/topconstableinlet67/ai--manus2.0",
+            "stars": 663,
+            "forks": 5,
+            "score": 99
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "ai--manus2.0",
+            "full_name": "tornadonovicewhirl40/ai--manus2.0",
+            "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+            "url": "https://github.com/tornadonovicewhirl40/ai--manus2.0",
+            "stars": 659,
+            "forks": 522,
+            "score": 99
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "ai--manus2.0",
+            "full_name": "TitanShieldRavine/ai--manus2.0",
+            "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+            "url": "https://github.com/TitanShieldRavine/ai--manus2.0",
+            "stars": 659,
+            "forks": 5,
+            "score": 99
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "ai--manus2.0",
+            "full_name": "Ultimateakiln/ai--manus2.0",
+            "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+            "url": "https://github.com/Ultimateakiln/ai--manus2.0",
+            "stars": 654,
+            "forks": 523,
+            "score": 99
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "ai--manus2.0",
+            "full_name": "trackersnailgrip/ai--manus2.0",
+            "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+            "url": "https://github.com/trackersnailgrip/ai--manus2.0",
+            "stars": 654,
+            "forks": 523,
+            "score": 99
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "ai--manus2.0",
+            "full_name": "TrapBladesmith/ai--manus2.0",
+            "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+            "url": "https://github.com/TrapBladesmith/ai--manus2.0",
+            "stars": 653,
+            "forks": 523,
+            "score": 99
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "ai--manus2.0",
+            "full_name": "Torusdrasocket/ai--manus2.0",
+            "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+            "url": "https://github.com/Torusdrasocket/ai--manus2.0",
+            "stars": 653,
+            "forks": 523,
+            "score": 99
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "ai--manus2.0",
+            "full_name": "TremorRatTackle/ai--manus2.0",
+            "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+            "url": "https://github.com/TremorRatTackle/ai--manus2.0",
+            "stars": 652,
+            "forks": 523,
+            "score": 99
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "ai--manus2.0",
+            "full_name": "taboospecialistblade/ai--manus2.0",
+            "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+            "url": "https://github.com/taboospecialistblade/ai--manus2.0",
+            "stars": 651,
+            "forks": 523,
+            "score": 99
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "ai--manus2.0",
+            "full_name": "violetkomodolimit/ai--manus2.0",
+            "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+            "url": "https://github.com/violetkomodolimit/ai--manus2.0",
+            "stars": 651,
+            "forks": 523,
+            "score": 99
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "ai--manus2.0",
+            "full_name": "Tonephorepair/ai--manus2.0",
+            "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+            "url": "https://github.com/Tonephorepair/ai--manus2.0",
+            "stars": 650,
+            "forks": 523,
+            "score": 99
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "ai--manus2.0",
+            "full_name": "trackboatwrightplan/ai--manus2.0",
+            "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+            "url": "https://github.com/trackboatwrightplan/ai--manus2.0",
+            "stars": 649,
+            "forks": 522,
             "score": 99
         },
         {
@@ -84,7 +238,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "shanselman/gputaskman",
             "description": "A GPU task manager for Windows, Linux, and WSL: per-process VRAM, GPU activity, and LLM model/KV-cache insights (Windows AMD and NVIDIA).",
             "url": "https://github.com/shanselman/gputaskman",
-            "stars": 3203,
+            "stars": 3218,
             "forks": 157,
             "score": 99
         },
@@ -95,7 +249,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Renly1994/xiaotang-daozai",
             "description": "\u5c9b\u4ed4 Daozai\uff1aRust \u6784\u5efa\u7684 Windows \u684c\u9762\u4fe1\u606f\u5c9b\u3002\u97f3\u4e50\u6b4c\u8bcd\u3001\u90ae\u4ef6\u9a8c\u8bc1\u7801\u3001\u65e5\u7a0b\u63d0\u9192\u3001\u5f85\u529e\u4e0e AI \u989d\u5ea6\uff0c\u8ba9\u91cd\u8981\u4fe1\u606f\u8f7b\u8f7b\u51fa\u73b0\u5728\u5c4f\u5e55\u9876\u90e8\u3002",
             "url": "https://github.com/Renly1994/xiaotang-daozai",
-            "stars": 1076,
+            "stars": 1081,
             "forks": 186,
             "score": 95
         },
@@ -106,20 +260,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "dabingfy-dot/solo-to-team-skills",
             "description": "Skills for human-led AI teams: delegate tasks, verify evidence, explain steps clearly, and learn from real cases. \u4e00\u4e2a\u4eba\u7edf\u7b79 AI \u56e2\u961f\uff1a\u6d3e\u6d3b\u3001\u6838\u8bc1\u3001\u6e05\u695a\u8bf4\u660e\u3001\u7ecf\u9a8c\u590d\u7528\u3002",
             "url": "https://github.com/dabingfy-dot/solo-to-team-skills",
-            "stars": 877,
+            "stars": 878,
             "forks": 95,
             "score": 92
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "gpucanvas",
-            "full_name": "berkantay/gpucanvas",
-            "description": "Put thousands of live DOM nodes on an infinite canvas: the GPU draws them, an editor selects, moves and resizes them, shaders and transitions run on them, and an AI agent can read them and point at them.",
-            "url": "https://github.com/berkantay/gpucanvas",
-            "stars": 397,
-            "forks": 24,
-            "score": 91
         },
         {
             "main_cat": "AI",
@@ -130,29 +273,7 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/Arda313131882/aion-2-trainer-tool",
             "stars": 1199,
             "forks": 0,
-            "score": 89
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "ai-texture-forge",
-            "full_name": "linknimiball1974/ai-texture-forge",
-            "description": "An AI-powered texture forge for Blender \u2014 turn text prompts into seamless PBR materials, concept art and scene-wide projections with local or cloud diffusion models, straight inside the 3D viewport on Windows. \u00b7 dream textures \u00b7 dream textures blender \u00b7 dream textures addon \u00b7 dream textures ai \u00b7 dream textures seamless \u00b7 dream textures pbr",
-            "url": "https://github.com/linknimiball1974/ai-texture-forge",
-            "stars": 471,
-            "forks": 20,
-            "score": 75
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "guizang-game-skill",
-            "full_name": "op7418/guizang-game-skill",
-            "description": "\u6b78\u85cf Game Skill\uff1a\u8ba9 AI \u4ece\u96f6\u505a\u51fa\u80fd\u5728\u6d4f\u89c8\u5668\u91cc\u73a9\u7684 3D \u52a8\u4f5c\u6e38\u620f\uff0c\u9644\u53ef\u73a9\u6f14\u793a\u300a\u96fe\u9501\u5c71\u95e8\u300b\u3002Agent skill for Claude Code / Codex that builds a playable browser 3D action game with AI-generated assets (three.js, single-HTML). Playable demo included.",
-            "url": "https://github.com/op7418/guizang-game-skill",
-            "stars": 340,
-            "forks": 52,
-            "score": 75
+            "score": 84
         },
         {
             "main_cat": "AI",
@@ -161,9 +282,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "Dodaios/ste80-humanizer",
             "description": "STE80 Humanizer: agent skill that removes AI tells and rewrites text 80% of the way to ASD-STE100 (Simplified Technical English), the method Andrej Karpathy shared.",
             "url": "https://github.com/Dodaios/ste80-humanizer",
-            "stars": 569,
-            "forks": 35,
-            "score": 74
+            "stars": 597,
+            "forks": 37,
+            "score": 76
         },
         {
             "main_cat": "AI",
@@ -172,7 +293,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "andrew-babo/muse4ai",
             "description": "Muse4AI \u2014 let your AI agent make the pictures and the videos. Local Windows bridge for Muse via REST, MCP, and OAuth.",
             "url": "https://github.com/andrew-babo/muse4ai",
-            "stars": 820,
+            "stars": 830,
             "forks": 64,
             "score": 68
         },
@@ -183,20 +304,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "zeekk0/OpenAmika",
             "description": "OpenAmika: MekaHime's AI companion Amika, open source. Live2D avatar, real-time voice, long-term memory, OpenRouter or Ollama brain.",
             "url": "https://github.com/zeekk0/OpenAmika",
-            "stars": 637,
-            "forks": 82,
+            "stars": 640,
+            "forks": 84,
             "score": 64
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "vn-law-check",
-            "full_name": "mhfed/vn-law-check",
-            "description": "Audit ph\u00e1p l\u00fd website theo lu\u1eadt Vi\u1ec7t Nam (BVDLCN 91/2025, TM\u0110T 122/2025, ANM 116/2025, AI 134/2025) cho Claude Code, Cursor, Copilot, Windsurf, Cline",
-            "url": "https://github.com/mhfed/vn-law-check",
-            "stars": 500,
-            "forks": 113,
-            "score": 61
         },
         {
             "main_cat": "AI",
@@ -205,7 +315,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "ZSeven-W/dsh-game-studio",
             "description": "Describe a small game in one sentence, play it in the DeepSeek Harness sidebar, swap in AI art, and publish to GitHub Pages or Cloudflare in one click.",
             "url": "https://github.com/ZSeven-W/dsh-game-studio",
-            "stars": 553,
+            "stars": 554,
             "forks": 46,
             "score": 60
         },
@@ -216,86 +326,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "SAOS-3624/dsh-see-now",
             "description": "\u8ba9 AI \u5b9e\u65f6\u770b\u89c1\u4f60\u7684\u5c4f\u5e55\uff1a\u6309\u53d8\u5316\u91cf\u7b5b\u9009\u5e27\u3001\u591a\u5e27\u62fc\u8fdb\u4e00\u5f20\u56fe\uff0c\u9759\u6b62\u753b\u9762\u51e0\u4e4e\u4e0d\u82b1 token",
             "url": "https://github.com/SAOS-3624/dsh-see-now",
-            "stars": 644,
+            "stars": 645,
             "forks": 69,
             "score": 58
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "uncensored-nsfw-ai-video-api",
-            "full_name": "wideeyededi/uncensored-nsfw-ai-video-api",
-            "description": "Uncensored NSFW AI video generation API & generator for adults \u2014 Seedance Spicy & Wan NSFW, 18+ text-to-video / image-to-video, async tasks, webhooks, credits billing. \u6210\u4eba\u5411 AI \u89c6\u9891\u751f\u6210 API\uff1aSeedance Spicy\u3001Wan NSFW\u3001\u6587\u751f/\u56fe\u751f\u89c6\u9891\u3001\u5f02\u6b65\u4efb\u52a1\u3001\u79ef\u5206\u8ba1\u8d39\u3001\u63a5\u5165\u6307\u5357\u3002",
-            "url": "https://github.com/wideeyededi/uncensored-nsfw-ai-video-api",
-            "stars": 430,
-            "forks": 65,
-            "score": 53
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "your-next-point",
-            "full_name": "qiaoranlaodou-cpu/your-next-point",
-            "description": "\u300a\u4f60\u7684\u4e0b\u4e00\u5206\u5728\u54ea\u91cc\uff1aAI \u65f6\u4ee3\u7684\u516c\u8003\u5907\u8003\u65b9\u6cd5\u300b\u5168\u4e66\u514d\u8d39\u5f00\u653e\uff0c\u5377\u8702\u5566\u00b7\u6797\u7167 \u8457\u3002",
-            "url": "https://github.com/qiaoranlaodou-cpu/your-next-point",
-            "stars": 473,
-            "forks": 5,
-            "score": 52
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "agentcase-lab",
-            "full_name": "TngSHoO/agentcase-lab",
-            "description": "AI Agent failure replay and root cause analysis platform",
-            "url": "https://github.com/TngSHoO/agentcase-lab",
-            "stars": 352,
-            "forks": 59,
-            "score": 52
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "phonebox",
-            "full_name": "ersinkoc/phonebox",
-            "description": "Turn an old Android phone into a local desk panel for Windows, Linux and macOS. 55 widgets, Smart Stack, AI quotas and sessions, media controls, USB or paired Wi-Fi.",
-            "url": "https://github.com/ersinkoc/phonebox",
-            "stars": 335,
-            "forks": 30,
-            "score": 52
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "WebsiteBench",
-            "full_name": "TIGER-AI-Lab/WebsiteBench",
-            "description": "Can AI agents rebuild websites through browser exploration?",
-            "url": "https://github.com/TIGER-AI-Lab/WebsiteBench",
-            "stars": 373,
-            "forks": 41,
-            "score": 50
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "ai-app-builder-open",
-            "full_name": "AbhiKamane/ai-app-builder-open",
-            "description": "Open-source AI app builder for full-stack Next.js apps with hosting and auth",
-            "url": "https://github.com/AbhiKamane/ai-app-builder-open",
-            "stars": 384,
-            "forks": 0,
-            "score": 49
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "ozone-mastering-suite",
-            "full_name": "ajayuv21/ozone-mastering-suite",
-            "description": "AI-Assisted Mastering Suite with Spectral Shaping and Codec Preview",
-            "url": "https://github.com/ajayuv21/ozone-mastering-suite",
-            "stars": 384,
-            "forks": 0,
-            "score": 49
         },
         {
             "main_cat": "AI",
@@ -304,42 +337,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "adventists-ai/sophon-realtime",
             "description": "Sophon-Realtime v1.1: open full-duplex voice models that hear your tone and speak with one. Zero-shot voice cloning, one GPU with vLLM-Omni, OpenAI Realtime / GPT-Live compatible. Apache-2.0.",
             "url": "https://github.com/adventists-ai/sophon-realtime",
-            "stars": 324,
+            "stars": 326,
             "forks": 30,
-            "score": 48
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "graduation-thesis-ai",
-            "full_name": "quacat748-droid/graduation-thesis-ai",
-            "description": "\ud83d\udd25\ud83d\udd25\ud83d\udd25\u6bd5\u4e1a\u8bba\u6587AI\u52a9\u624b, AI\u6bd5\u4e1a\u8bba\u6587, \u6bd5\u4e1a\u8bba\u6587\u5199\u4f5c, \u5f00\u9898\u62a5\u544a, \u6587\u732e\u7efc\u8ff0, AI\u8bba\u6587\u751f\u6210, \u964dAIGC\u7387, \u964d\u91cd\u67e5\u91cd, \u683c\u5f0f\u6392\u7248, \u7b54\u8fa9PPT",
-            "url": "https://github.com/quacat748-droid/graduation-thesis-ai",
-            "stars": 460,
-            "forks": 6,
             "score": 47
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "AI-enterprise-OEM",
-            "full_name": "liujh0729-jpg/AI-enterprise-OEM",
-            "description": "\u9879\u76ee\u7b80\u4ecb\uff1aAI\u4f01\u4e1a\u670d\u52a1\uff0c\u5305\u62ecAgent\u3001\u8425\u9500\u3001\u5185\u5bb9\u521b\u4f5c\u3001CRM\u3001OA\u3001BI\u3001RPA\u3001\u90ae\u7bb1\u3001OKR\u7b49\uff0c\u652f\u6301\u8d22\u7a0e\u3001\u4f9b\u9500\u7f51\u7edc\u3001\u6cd5\u5f8b\u670d\u52a1\u3001\u667a\u5e93\u3001\u7269\u6d41\u3001\u7075\u6d3b\u7528\u5de5\u3001\u8de8\u5883\u51fa\u6d77\u7b49\u3002\u652f\u6301SNS\u5546\u52a1\u4eba\u8109\u6316\u6398\uff0c\u5927\u6570\u636e\u6316\u6398\u3002",
-            "url": "https://github.com/liujh0729-jpg/AI-enterprise-OEM",
-            "stars": 361,
-            "forks": 4,
-            "score": 43
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "ai-java-workflow",
-            "full_name": "Lanqiao-Luca/ai-java-workflow",
-            "description": "\u2615 \u7528 AI \u8f85\u52a9 Java / Spring Boot \u7814\u53d1\uff08AI for Java / AI for Spring\uff09\uff5c\u9700\u6c42\u3001\u5b9e\u73b0\u3001\u6d4b\u8bd5\u3001\u5ba1\u67e5\u4e0e\u4ea4\u4ed8\uff5cGraph \u2192 Loop \u2192 Workflow \u2192 Agent / Skill\u3001\u865a\u6784\u53ef\u8fd0\u884c\u6848\u4f8b\u53ca worktree / Docker \u5de5\u5177\uff5c\u9762\u5411\u4e1a\u52a1\u5f00\u53d1\uff0c\u975e Spring AI \u6846\u67b6\u5b9e\u73b0",
-            "url": "https://github.com/Lanqiao-Luca/ai-java-workflow",
-            "stars": 336,
-            "forks": 13,
-            "score": 42
         },
         {
             "main_cat": "AI",
@@ -717,5 +717,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-11-14 19:38"
+    "timestamp": "2026-11-14 23:34"
 };
