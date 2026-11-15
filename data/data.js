@@ -7,19 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "expo/exact",
             "description": "Write an app once. It runs natively on the web, macOS, iOS, and Linux, and an AI agent can build it, run it, see it, and test it on every one of them.",
             "url": "https://github.com/expo/exact",
-            "stars": 4178,
-            "forks": 101,
-            "score": 99
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "cicada",
-            "full_name": "wquguru/cicada",
-            "description": "\u77e5\u4e86 Cicada \u00b7 \u4efb\u4f55\u4f1a\u8bae\u548c\u76f4\u64ad\u7684\u5b9e\u65f6\u5b57\u5e55\u3001\u540c\u58f0\u4f20\u8bd1\u3001AI \u4f1a\u8bae\u7eaa\u8981\uff0cMac\u3001Windows\u3001Linux\u3001Android \u514d\u8d39\u5f00\u6e90\u3002Live subtitles, interpreting and meeting notes for any call or stream, on Mac, Windows, Linux and Android.",
-            "url": "https://github.com/wquguru/cicada",
-            "stars": 2264,
-            "forks": 383,
+            "stars": 4204,
+            "forks": 103,
             "score": 99
         },
         {
@@ -29,8 +18,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "DIYgod/pinky",
             "description": "Let AI use your iPhone or Android phone, with you in the loop: any MCP agent from macOS, Windows or Linux, or Pinky itself, right on the phone.",
             "url": "https://github.com/DIYgod/pinky",
-            "stars": 2146,
-            "forks": 235,
+            "stars": 2161,
+            "forks": 236,
             "score": 99
         },
         {
@@ -40,8 +29,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "FrigadeHQ/yogurt",
             "description": "Private AI meeting notes that stay on your computer. A free, open-source alternative to Granola for Mac, Windows and Linux.",
             "url": "https://github.com/FrigadeHQ/yogurt",
-            "stars": 1478,
-            "forks": 77,
+            "stars": 1511,
+            "forks": 83,
             "score": 99
         },
         {
@@ -51,8 +40,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "agentes-chat/agentes-chat",
             "description": "Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs. Agents run on Claude, ChatGPT/Codex, Gemini or Grok, with MCP tools, their own computer and browser, routines, memory and approvals. Web, desktop and phone apps. Docker Compose + Postgres. AGPL-3.0.",
             "url": "https://github.com/agentes-chat/agentes-chat",
-            "stars": 1400,
-            "forks": 247,
+            "stars": 1413,
+            "forks": 249,
             "score": 99
         },
         {
@@ -62,8 +51,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "JosssphZhou/poki",
             "description": "Let AI agents operate a real iPhone. Local MCP server and agent, no jailbreak, no extra hardware.",
             "url": "https://github.com/JosssphZhou/poki",
-            "stars": 1251,
-            "forks": 217,
+            "stars": 1275,
+            "forks": 218,
             "score": 99
         },
         {
@@ -73,7 +62,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Topkiflare74/ai--manus2.0",
             "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
             "url": "https://github.com/Topkiflare74/ai--manus2.0",
-            "stars": 677,
+            "stars": 678,
             "forks": 5,
             "score": 99
         },
@@ -118,7 +107,7 @@ const ALPHA_DATA_V2 = {
             "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
             "url": "https://github.com/tornadonovicewhirl40/ai--manus2.0",
             "stars": 659,
-            "forks": 522,
+            "forks": 521,
             "score": 99
         },
         {
@@ -140,7 +129,7 @@ const ALPHA_DATA_V2 = {
             "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
             "url": "https://github.com/Ultimateakiln/ai--manus2.0",
             "stars": 654,
-            "forks": 523,
+            "forks": 522,
             "score": 99
         },
         {
@@ -151,7 +140,7 @@ const ALPHA_DATA_V2 = {
             "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
             "url": "https://github.com/trackersnailgrip/ai--manus2.0",
             "stars": 654,
-            "forks": 523,
+            "forks": 522,
             "score": 99
         },
         {
@@ -162,7 +151,7 @@ const ALPHA_DATA_V2 = {
             "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
             "url": "https://github.com/TrapBladesmith/ai--manus2.0",
             "stars": 653,
-            "forks": 523,
+            "forks": 522,
             "score": 99
         },
         {
@@ -173,7 +162,7 @@ const ALPHA_DATA_V2 = {
             "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
             "url": "https://github.com/Torusdrasocket/ai--manus2.0",
             "stars": 653,
-            "forks": 523,
+            "forks": 522,
             "score": 99
         },
         {
@@ -184,18 +173,7 @@ const ALPHA_DATA_V2 = {
             "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
             "url": "https://github.com/TremorRatTackle/ai--manus2.0",
             "stars": 652,
-            "forks": 523,
-            "score": 99
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "ai--manus2.0",
-            "full_name": "taboospecialistblade/ai--manus2.0",
-            "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
-            "url": "https://github.com/taboospecialistblade/ai--manus2.0",
-            "stars": 651,
-            "forks": 523,
+            "forks": 522,
             "score": 99
         },
         {
@@ -206,7 +184,18 @@ const ALPHA_DATA_V2 = {
             "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
             "url": "https://github.com/violetkomodolimit/ai--manus2.0",
             "stars": 651,
-            "forks": 523,
+            "forks": 522,
+            "score": 99
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "ai--manus2.0",
+            "full_name": "taboospecialistblade/ai--manus2.0",
+            "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+            "url": "https://github.com/taboospecialistblade/ai--manus2.0",
+            "stars": 651,
+            "forks": 522,
             "score": 99
         },
         {
@@ -217,7 +206,7 @@ const ALPHA_DATA_V2 = {
             "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
             "url": "https://github.com/Tonephorepair/ai--manus2.0",
             "stars": 650,
-            "forks": 523,
+            "forks": 522,
             "score": 99
         },
         {
@@ -228,7 +217,18 @@ const ALPHA_DATA_V2 = {
             "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
             "url": "https://github.com/trackboatwrightplan/ai--manus2.0",
             "stars": 649,
-            "forks": 522,
+            "forks": 521,
+            "score": 99
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "muse-protocol",
+            "full_name": "duwqijlk/muse-protocol",
+            "description": "muse.ai \u6ce8\u518c\u4e0e\u9080\u8bf7\u7801\u5151\u6362\u534f\u8bae\u7814\u7a76\uff08\u7eaf HTTP Python \u5b9e\u73b0\uff09",
+            "url": "https://github.com/duwqijlk/muse-protocol",
+            "stars": 584,
+            "forks": 279,
             "score": 99
         },
         {
@@ -238,8 +238,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "shanselman/gputaskman",
             "description": "A GPU task manager for Windows, Linux, and WSL: per-process VRAM, GPU activity, and LLM model/KV-cache insights (Windows AMD and NVIDIA).",
             "url": "https://github.com/shanselman/gputaskman",
-            "stars": 3218,
-            "forks": 157,
+            "stars": 3238,
+            "forks": 158,
             "score": 99
         },
         {
@@ -249,9 +249,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "Renly1994/xiaotang-daozai",
             "description": "\u5c9b\u4ed4 Daozai\uff1aRust \u6784\u5efa\u7684 Windows \u684c\u9762\u4fe1\u606f\u5c9b\u3002\u97f3\u4e50\u6b4c\u8bcd\u3001\u90ae\u4ef6\u9a8c\u8bc1\u7801\u3001\u65e5\u7a0b\u63d0\u9192\u3001\u5f85\u529e\u4e0e AI \u989d\u5ea6\uff0c\u8ba9\u91cd\u8981\u4fe1\u606f\u8f7b\u8f7b\u51fa\u73b0\u5728\u5c4f\u5e55\u9876\u90e8\u3002",
             "url": "https://github.com/Renly1994/xiaotang-daozai",
-            "stars": 1081,
-            "forks": 186,
-            "score": 95
+            "stars": 1101,
+            "forks": 189,
+            "score": 96
         },
         {
             "main_cat": "AI",
@@ -260,9 +260,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "dabingfy-dot/solo-to-team-skills",
             "description": "Skills for human-led AI teams: delegate tasks, verify evidence, explain steps clearly, and learn from real cases. \u4e00\u4e2a\u4eba\u7edf\u7b79 AI \u56e2\u961f\uff1a\u6d3e\u6d3b\u3001\u6838\u8bc1\u3001\u6e05\u695a\u8bf4\u660e\u3001\u7ecf\u9a8c\u590d\u7528\u3002",
             "url": "https://github.com/dabingfy-dot/solo-to-team-skills",
-            "stars": 878,
+            "stars": 881,
             "forks": 95,
-            "score": 92
+            "score": 87
         },
         {
             "main_cat": "AI",
@@ -277,14 +277,25 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "ai-texture-forge",
+            "full_name": "linknimiball1974/ai-texture-forge",
+            "description": "An AI-powered texture forge for Blender \u2014 turn text prompts into seamless PBR materials, concept art and scene-wide projections with local or cloud diffusion models, straight inside the 3D viewport on Windows. \u00b7 dream textures \u00b7 dream textures blender \u00b7 dream textures addon \u00b7 dream textures ai \u00b7 dream textures seamless \u00b7 dream textures pbr",
+            "url": "https://github.com/linknimiball1974/ai-texture-forge",
+            "stars": 562,
+            "forks": 23,
+            "score": 84
+        },
+        {
+            "main_cat": "AI",
             "sub_cat": null,
             "name": "ste80-humanizer",
             "full_name": "Dodaios/ste80-humanizer",
             "description": "STE80 Humanizer: agent skill that removes AI tells and rewrites text 80% of the way to ASD-STE100 (Simplified Technical English), the method Andrej Karpathy shared.",
             "url": "https://github.com/Dodaios/ste80-humanizer",
-            "stars": 597,
-            "forks": 37,
-            "score": 76
+            "stars": 617,
+            "forks": 41,
+            "score": 78
         },
         {
             "main_cat": "AI",
@@ -293,9 +304,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "andrew-babo/muse4ai",
             "description": "Muse4AI \u2014 let your AI agent make the pictures and the videos. Local Windows bridge for Muse via REST, MCP, and OAuth.",
             "url": "https://github.com/andrew-babo/muse4ai",
-            "stars": 830,
+            "stars": 842,
             "forks": 64,
-            "score": 68
+            "score": 69
         },
         {
             "main_cat": "AI",
@@ -315,20 +326,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "ZSeven-W/dsh-game-studio",
             "description": "Describe a small game in one sentence, play it in the DeepSeek Harness sidebar, swap in AI art, and publish to GitHub Pages or Cloudflare in one click.",
             "url": "https://github.com/ZSeven-W/dsh-game-studio",
-            "stars": 554,
+            "stars": 556,
             "forks": 46,
             "score": 60
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "dsh-see-now",
-            "full_name": "SAOS-3624/dsh-see-now",
-            "description": "\u8ba9 AI \u5b9e\u65f6\u770b\u89c1\u4f60\u7684\u5c4f\u5e55\uff1a\u6309\u53d8\u5316\u91cf\u7b5b\u9009\u5e27\u3001\u591a\u5e27\u62fc\u8fdb\u4e00\u5f20\u56fe\uff0c\u9759\u6b62\u753b\u9762\u51e0\u4e4e\u4e0d\u82b1 token",
-            "url": "https://github.com/SAOS-3624/dsh-see-now",
-            "stars": 645,
-            "forks": 69,
-            "score": 58
         },
         {
             "main_cat": "AI",
@@ -337,9 +337,31 @@ const ALPHA_DATA_V2 = {
             "full_name": "adventists-ai/sophon-realtime",
             "description": "Sophon-Realtime v1.1: open full-duplex voice models that hear your tone and speak with one. Zero-shot voice cloning, one GPU with vLLM-Omni, OpenAI Realtime / GPT-Live compatible. Apache-2.0.",
             "url": "https://github.com/adventists-ai/sophon-realtime",
-            "stars": 326,
+            "stars": 330,
             "forks": 30,
             "score": 47
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "qub-core-resp",
+            "full_name": "WildRivenlight/qub-core-resp",
+            "description": "QUB Core \u2014 from-scratch Rust CPU/GPU PoW blockchain node, wallet and miner.",
+            "url": "https://github.com/WildRivenlight/qub-core-resp",
+            "stars": 50,
+            "forks": 0,
+            "score": 38
+        },
+        {
+            "main_cat": "DePIN",
+            "sub_cat": null,
+            "name": "respocket-MinerGate",
+            "full_name": "GlacierBehindGlow/respocket-MinerGate",
+            "description": "MinerGate is an intuitive cryptocurrency mining software that allows users to mine Bitcoin, Ethereum, Monero, and other coins efficiently. It supports mining through CPU, GPU, and ASIC hardware, offering user-friendly interfaces, reliable mining pools, and advanced analytics, simplifying crypto mining for both beginners and experts. ",
+            "url": "https://github.com/GlacierBehindGlow/respocket-MinerGate",
+            "stars": 50,
+            "forks": 0,
+            "score": 38
         },
         {
             "main_cat": "AI",
@@ -430,6 +452,17 @@ const ALPHA_DATA_V2 = {
             "score": 30
         },
         {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "priced-in",
+            "full_name": "iamdflame/priced-in",
+            "description": "Is it true? Bet on it. Prediction markets for facts, live on NEAR mainnet: real USDC, AI traders, and three attested AI judges that rule on-chain.",
+            "url": "https://github.com/iamdflame/priced-in",
+            "stars": 0,
+            "forks": 0,
+            "score": 30
+        },
+        {
             "main_cat": "Stablecoin Infrastructure",
             "sub_cat": null,
             "name": "ravenpay",
@@ -509,17 +542,6 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
-            "name": "openrail",
-            "full_name": "deyoungjohn/openrail",
-            "description": "Stablecoin invoices and checkout for businesses. Clients pay from 8 chains, you receive USDC, every payment is booked onchain on NEAR.",
-            "url": "https://github.com/deyoungjohn/openrail",
-            "stars": 0,
-            "forks": 0,
-            "score": 30
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
             "name": "sitebound",
             "full_name": "mujahid002/sitebound",
             "description": "We are killing stablecoin checkout addresses: onchain, addressless checkout with 3-D Secure-style USDT payments on Whitechain. A hacked page can't redirect the money.",
@@ -546,17 +568,6 @@ const ALPHA_DATA_V2 = {
             "full_name": "solutiono1/cachet",
             "description": "Get paid privately, prove it when it counts. Every stablecoin invoice gets its own sealed envelope on NEAR: clients pay without seeing your wallet or your other income, and you later disclose only the payments you choose, as a proof anyone can check against the chain with no wallet and no account.",
             "url": "https://github.com/solutiono1/cachet",
-            "stars": 0,
-            "forks": 0,
-            "score": 30
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "TreasuryBox-Mobile",
-            "full_name": "hnasar99/TreasuryBox-Mobile",
-            "description": "TreasuryBox (Ripio / Celo) is an AI treasury agent for LatAm merchants. Merchants collect in local-currency stablecoins (Ripio wFiat on Celo mainnet).The agent decides how much to keep liquid for scheduled supplier payments  into another currency (Textile FX RFQ, Uniswap fallback;). At month end it reports performance  versus inflation.",
-            "url": "https://github.com/hnasar99/TreasuryBox-Mobile",
             "stars": 0,
             "forks": 0,
             "score": 30
@@ -641,17 +652,6 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
-            "name": "vanguard-ibc",
-            "full_name": "ZengLLQ/vanguard-ibc",
-            "description": "CosmWasm Inter-Blockchain Communication (IBC) Cross-Chain Yield Routing and Packet Relayer Protocol in Rust",
-            "url": "https://github.com/ZengLLQ/vanguard-ibc",
-            "stars": 0,
-            "forks": 0,
-            "score": 30
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
             "name": "BidaFlux",
             "full_name": "BidaFlux/BidaFlux",
             "description": "BidaFlux is a Reactive-powered cross-chain Dutch auction protocol that enables buyers on multiple blockchains to compete for a single NFT, with automated auction coordination and secure on-chain settlement.",
@@ -692,23 +692,20 @@ const ALPHA_DATA_V2 = {
             "stars": 0,
             "forks": 0,
             "score": 30
+        },
+        {
+            "main_cat": "Cross-chain / Interoperability",
+            "sub_cat": null,
+            "name": "civitas-hirehub",
+            "full_name": "an8442780-debug/civitas-hirehub",
+            "description": "Civitas HIREhub \u2014 Cross-wallet identity manager and contributor directory for EVM and Solana on Rome Protocol",
+            "url": "https://github.com/an8442780-debug/civitas-hirehub",
+            "stars": 0,
+            "forks": 0,
+            "score": 30
         }
     ],
     "news": [
-        {
-            "title": "Cortex-FL: Agent-Mediated Collaboration for Federated Learning",
-            "source": "ArXiv",
-            "type": "Research Alpha",
-            "color": "text-indigo-600",
-            "url": "http://arxiv.org/abs/2611.17186v1"
-        },
-        {
-            "title": "Omakase: Execution Congestion Control through Conflict-Graph Integration in Multi-Proposer Blockchain",
-            "source": "ArXiv",
-            "type": "Research Alpha",
-            "color": "text-indigo-600",
-            "url": "http://arxiv.org/abs/2611.17184v1"
-        },
         {
             "title": "Bitcoin volatility remains high ahead of key FED decision.",
             "source": "Polymarket",
@@ -717,5 +714,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-11-14 23:34"
+    "timestamp": "2026-11-15 04:16"
 };
