@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "expo/exact",
             "description": "Write an app once. It runs natively on the web, macOS, iOS, and Linux, and an AI agent can build it, run it, see it, and test it on every one of them.",
             "url": "https://github.com/expo/exact",
-            "stars": 4204,
-            "forks": 103,
+            "stars": 4233,
+            "forks": 106,
             "score": 99
         },
         {
@@ -18,8 +18,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "DIYgod/pinky",
             "description": "Let AI use your iPhone or Android phone, with you in the loop: any MCP agent from macOS, Windows or Linux, or Pinky itself, right on the phone.",
             "url": "https://github.com/DIYgod/pinky",
-            "stars": 2161,
-            "forks": 236,
+            "stars": 2189,
+            "forks": 238,
             "score": 99
         },
         {
@@ -29,8 +29,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "FrigadeHQ/yogurt",
             "description": "Private AI meeting notes that stay on your computer. A free, open-source alternative to Granola for Mac, Windows and Linux.",
             "url": "https://github.com/FrigadeHQ/yogurt",
-            "stars": 1511,
-            "forks": 83,
+            "stars": 1560,
+            "forks": 88,
             "score": 99
         },
         {
@@ -40,8 +40,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "agentes-chat/agentes-chat",
             "description": "Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs. Agents run on Claude, ChatGPT/Codex, Gemini or Grok, with MCP tools, their own computer and browser, routines, memory and approvals. Web, desktop and phone apps. Docker Compose + Postgres. AGPL-3.0.",
             "url": "https://github.com/agentes-chat/agentes-chat",
-            "stars": 1413,
-            "forks": 249,
+            "stars": 1458,
+            "forks": 255,
             "score": 99
         },
         {
@@ -51,8 +51,19 @@ const ALPHA_DATA_V2 = {
             "full_name": "JosssphZhou/poki",
             "description": "Let AI agents operate a real iPhone. Local MCP server and agent, no jailbreak, no extra hardware.",
             "url": "https://github.com/JosssphZhou/poki",
-            "stars": 1275,
-            "forks": 218,
+            "stars": 1316,
+            "forks": 220,
+            "score": 99
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "muse-protocol",
+            "full_name": "duwqijlk/muse-protocol",
+            "description": "muse.ai \u6ce8\u518c\u4e0e\u9080\u8bf7\u7801\u5151\u6362\u534f\u8bae\u7814\u7a76\uff08\u7eaf HTTP Python \u5b9e\u73b0\uff09",
+            "url": "https://github.com/duwqijlk/muse-protocol",
+            "stars": 758,
+            "forks": 357,
             "score": 99
         },
         {
@@ -223,12 +234,12 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "muse-protocol",
-            "full_name": "duwqijlk/muse-protocol",
-            "description": "muse.ai \u6ce8\u518c\u4e0e\u9080\u8bf7\u7801\u5151\u6362\u534f\u8bae\u7814\u7a76\uff08\u7eaf HTTP Python \u5b9e\u73b0\uff09",
-            "url": "https://github.com/duwqijlk/muse-protocol",
-            "stars": 584,
-            "forks": 279,
+            "name": "freebie-radar",
+            "full_name": "ZiChuanLan/freebie-radar",
+            "description": "\u767d\u5ad6\u8d44\u6e90\u805a\u5408\u96f7\u8fbe\uff1a57 \u4e2a\u6e90\u5b9a\u65f6\u91c7\u96c6 + AI \u4e8c\u5ba1\u8fc7\u6ee4\u5047\u798f\u5229 + \u83b7\u53d6\u65b9\u5f0f\u5206\u7ea7\u9694\u79bb\u62bd\u5956/\u8bd5\u7528/\u63a8\u5e7f + Telegram \u5373\u65f6\u63a8\u9001",
+            "url": "https://github.com/ZiChuanLan/freebie-radar",
+            "stars": 632,
+            "forks": 107,
             "score": 99
         },
         {
@@ -238,8 +249,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "shanselman/gputaskman",
             "description": "A GPU task manager for Windows, Linux, and WSL: per-process VRAM, GPU activity, and LLM model/KV-cache insights (Windows AMD and NVIDIA).",
             "url": "https://github.com/shanselman/gputaskman",
-            "stars": 3238,
-            "forks": 158,
+            "stars": 3273,
+            "forks": 161,
             "score": 99
         },
         {
@@ -249,20 +260,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "Renly1994/xiaotang-daozai",
             "description": "\u5c9b\u4ed4 Daozai\uff1aRust \u6784\u5efa\u7684 Windows \u684c\u9762\u4fe1\u606f\u5c9b\u3002\u97f3\u4e50\u6b4c\u8bcd\u3001\u90ae\u4ef6\u9a8c\u8bc1\u7801\u3001\u65e5\u7a0b\u63d0\u9192\u3001\u5f85\u529e\u4e0e AI \u989d\u5ea6\uff0c\u8ba9\u91cd\u8981\u4fe1\u606f\u8f7b\u8f7b\u51fa\u73b0\u5728\u5c4f\u5e55\u9876\u90e8\u3002",
             "url": "https://github.com/Renly1994/xiaotang-daozai",
-            "stars": 1101,
-            "forks": 189,
-            "score": 96
+            "stars": 1144,
+            "forks": 196,
+            "score": 94
         },
         {
             "main_cat": "AI",
-            "sub_cat": null,
-            "name": "solo-to-team-skills",
-            "full_name": "dabingfy-dot/solo-to-team-skills",
-            "description": "Skills for human-led AI teams: delegate tasks, verify evidence, explain steps clearly, and learn from real cases. \u4e00\u4e2a\u4eba\u7edf\u7b79 AI \u56e2\u961f\uff1a\u6d3e\u6d3b\u3001\u6838\u8bc1\u3001\u6e05\u695a\u8bf4\u660e\u3001\u7ecf\u9a8c\u590d\u7528\u3002",
-            "url": "https://github.com/dabingfy-dot/solo-to-team-skills",
-            "stars": 881,
-            "forks": 95,
-            "score": 87
+            "sub_cat": "AI General",
+            "name": "ai-texture-forge",
+            "full_name": "linknimiball1974/ai-texture-forge",
+            "description": "An AI-powered texture forge for Blender \u2014 turn text prompts into seamless PBR materials, concept art and scene-wide projections with local or cloud diffusion models, straight inside the 3D viewport on Windows. \u00b7 dream textures \u00b7 dream textures blender \u00b7 dream textures addon \u00b7 dream textures ai \u00b7 dream textures seamless \u00b7 dream textures pbr",
+            "url": "https://github.com/linknimiball1974/ai-texture-forge",
+            "stars": 631,
+            "forks": 27,
+            "score": 91
         },
         {
             "main_cat": "AI",
@@ -277,25 +288,14 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "ai-texture-forge",
-            "full_name": "linknimiball1974/ai-texture-forge",
-            "description": "An AI-powered texture forge for Blender \u2014 turn text prompts into seamless PBR materials, concept art and scene-wide projections with local or cloud diffusion models, straight inside the 3D viewport on Windows. \u00b7 dream textures \u00b7 dream textures blender \u00b7 dream textures addon \u00b7 dream textures ai \u00b7 dream textures seamless \u00b7 dream textures pbr",
-            "url": "https://github.com/linknimiball1974/ai-texture-forge",
-            "stars": 562,
-            "forks": 23,
-            "score": 84
-        },
-        {
-            "main_cat": "AI",
             "sub_cat": null,
             "name": "ste80-humanizer",
             "full_name": "Dodaios/ste80-humanizer",
             "description": "STE80 Humanizer: agent skill that removes AI tells and rewrites text 80% of the way to ASD-STE100 (Simplified Technical English), the method Andrej Karpathy shared.",
             "url": "https://github.com/Dodaios/ste80-humanizer",
-            "stars": 617,
-            "forks": 41,
-            "score": 78
+            "stars": 658,
+            "forks": 44,
+            "score": 82
         },
         {
             "main_cat": "AI",
@@ -304,9 +304,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "andrew-babo/muse4ai",
             "description": "Muse4AI \u2014 let your AI agent make the pictures and the videos. Local Windows bridge for Muse via REST, MCP, and OAuth.",
             "url": "https://github.com/andrew-babo/muse4ai",
-            "stars": 842,
-            "forks": 64,
-            "score": 69
+            "stars": 876,
+            "forks": 65,
+            "score": 70
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "phonebox",
+            "full_name": "ersinkoc/phonebox",
+            "description": "Turn an old Android phone into a local desk panel for Windows, Linux and macOS. 55 widgets, Smart Stack, AI quotas and sessions, media controls, USB or paired Wi-Fi.",
+            "url": "https://github.com/ersinkoc/phonebox",
+            "stars": 583,
+            "forks": 39,
+            "score": 66
         },
         {
             "main_cat": "AI",
@@ -315,31 +326,31 @@ const ALPHA_DATA_V2 = {
             "full_name": "zeekk0/OpenAmika",
             "description": "OpenAmika: MekaHime's AI companion Amika, open source. Live2D avatar, real-time voice, long-term memory, OpenRouter or Ollama brain.",
             "url": "https://github.com/zeekk0/OpenAmika",
-            "stars": 640,
+            "stars": 643,
             "forks": 84,
             "score": 64
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "dsh-game-studio",
-            "full_name": "ZSeven-W/dsh-game-studio",
-            "description": "Describe a small game in one sentence, play it in the DeepSeek Harness sidebar, swap in AI art, and publish to GitHub Pages or Cloudflare in one click.",
-            "url": "https://github.com/ZSeven-W/dsh-game-studio",
-            "stars": 556,
-            "forks": 46,
-            "score": 60
         },
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
             "name": "sophon-realtime",
             "full_name": "adventists-ai/sophon-realtime",
-            "description": "Sophon-Realtime v1.1: open full-duplex voice models that hear your tone and speak with one. Zero-shot voice cloning, one GPU with vLLM-Omni, OpenAI Realtime / GPT-Live compatible. Apache-2.0.",
+            "description": "Open full-duplex voice models that hear your tone and speak with one. One GPU with vLLM-Omni, or fully offline on a Mac with MLX. Zero-shot voice cloning, OpenAI Realtime / GPT-Live compatible, free hosted API trial. Apache-2.0.",
             "url": "https://github.com/adventists-ai/sophon-realtime",
-            "stars": 330,
-            "forks": 30,
-            "score": 47
+            "stars": 361,
+            "forks": 32,
+            "score": 48
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "garlic-llm",
+            "full_name": "leonardo-alegria/garlic-llm",
+            "description": "A 9-billion-parameter language model running on a PS4 GPU. Offline.",
+            "url": "https://github.com/leonardo-alegria/garlic-llm",
+            "stars": 51,
+            "forks": 6,
+            "score": 36
         },
         {
             "main_cat": "AI",
@@ -350,18 +361,7 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/WildRivenlight/qub-core-resp",
             "stars": 50,
             "forks": 0,
-            "score": 38
-        },
-        {
-            "main_cat": "DePIN",
-            "sub_cat": null,
-            "name": "respocket-MinerGate",
-            "full_name": "GlacierBehindGlow/respocket-MinerGate",
-            "description": "MinerGate is an intuitive cryptocurrency mining software that allows users to mine Bitcoin, Ethereum, Monero, and other coins efficiently. It supports mining through CPU, GPU, and ASIC hardware, offering user-friendly interfaces, reliable mining pools, and advanced analytics, simplifying crypto mining for both beginners and experts. ",
-            "url": "https://github.com/GlacierBehindGlow/respocket-MinerGate",
-            "stars": 50,
-            "forks": 0,
-            "score": 38
+            "score": 36
         },
         {
             "main_cat": "AI",
@@ -447,17 +447,6 @@ const ALPHA_DATA_V2 = {
             "full_name": "snr2753423/are-you-a-geni.us",
             "description": "Are you a genius? Prove it on-chain. A prediction market where every bet is a Solana transaction and MongoDB Atlas runs the market. MLH hackathon project.",
             "url": "https://github.com/snr2753423/are-you-a-geni.us",
-            "stars": 0,
-            "forks": 0,
-            "score": 30
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "priced-in",
-            "full_name": "iamdflame/priced-in",
-            "description": "Is it true? Bet on it. Prediction markets for facts, live on NEAR mainnet: real USDC, AI traders, and three attested AI judges that rule on-chain.",
-            "url": "https://github.com/iamdflame/priced-in",
             "stars": 0,
             "forks": 0,
             "score": 30
@@ -707,6 +696,20 @@ const ALPHA_DATA_V2 = {
     ],
     "news": [
         {
+            "title": "Cortex-FL: Agent-Mediated Collaboration for Federated Learning",
+            "source": "ArXiv",
+            "type": "Research Alpha",
+            "color": "text-indigo-600",
+            "url": "http://arxiv.org/abs/2611.17186v1"
+        },
+        {
+            "title": "Omakase: Execution Congestion Control through Conflict-Graph Integration in Multi-Proposer Blockchain",
+            "source": "ArXiv",
+            "type": "Research Alpha",
+            "color": "text-indigo-600",
+            "url": "http://arxiv.org/abs/2611.17184v1"
+        },
+        {
             "title": "Bitcoin volatility remains high ahead of key FED decision.",
             "source": "Polymarket",
             "type": "Expectation",
@@ -714,5 +717,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-11-15 04:16"
+    "timestamp": "2026-11-15 12:25"
 };
