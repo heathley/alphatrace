@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "ersinkoc/phonebox",
             "description": "Turn an old Android phone into a customizable desk panel and touch control deck for Windows, Linux and macOS. 123 widgets and 30 templates for system stats, AI coding, media and automation, in 12 languages. USB or paired Wi-Fi. No cloud required.",
             "url": "https://github.com/ersinkoc/phonebox",
-            "stars": 3041,
-            "forks": 428,
+            "stars": 3203,
+            "forks": 448,
             "score": 99
         },
         {
@@ -18,8 +18,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "DIYgod/pinky",
             "description": "Let AI use your iPhone or Android phone, with you in the loop: any MCP agent from macOS, Windows or Linux, or Pinky itself, right on the phone.",
             "url": "https://github.com/DIYgod/pinky",
-            "stars": 2434,
-            "forks": 257,
+            "stars": 2458,
+            "forks": 259,
             "score": 99
         },
         {
@@ -29,8 +29,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "FrigadeHQ/yogurt",
             "description": "Private AI meeting notes that stay on your computer. A free, open-source alternative to Granola for Mac, Windows and Linux.",
             "url": "https://github.com/FrigadeHQ/yogurt",
-            "stars": 2242,
-            "forks": 144,
+            "stars": 2361,
+            "forks": 160,
             "score": 99
         },
         {
@@ -40,8 +40,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "Immortal-Protocols/lastbook",
             "description": "Offline knowledge AI, maps and videos for survival and rebuilding",
             "url": "https://github.com/Immortal-Protocols/lastbook",
-            "stars": 2027,
-            "forks": 267,
+            "stars": 2141,
+            "forks": 279,
             "score": 99
         },
         {
@@ -51,8 +51,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "agentes-chat/agentes-chat",
             "description": "Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs. Agents run on Claude, ChatGPT/Codex, Gemini or Grok, with MCP tools, their own computer and browser, routines, memory and approvals. Web, desktop and phone apps. Docker Compose + Postgres. AGPL-3.0.",
             "url": "https://github.com/agentes-chat/agentes-chat",
-            "stars": 1704,
-            "forks": 315,
+            "stars": 1717,
+            "forks": 318,
             "score": 99
         },
         {
@@ -62,8 +62,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "duwqijlk/muse-protocol",
             "description": "muse.ai \u6ce8\u518c\u4e0e\u9080\u8bf7\u7801\u5151\u6362\u534f\u8bae\u7814\u7a76\uff08\u7eaf HTTP Python \u5b9e\u73b0\uff09",
             "url": "https://github.com/duwqijlk/muse-protocol",
-            "stars": 1620,
-            "forks": 637,
+            "stars": 1627,
+            "forks": 641,
             "score": 99
         },
         {
@@ -73,8 +73,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "ZiChuanLan/freebie-radar",
             "description": "\u767d\u5ad6\u4e0e\u8d44\u8baf\u8d44\u6e90\u805a\u5408\u96f7\u8fbe\uff1a100+\u4e2a\u6e90\u5b9a\u65f6\u91c7\u96c6 + AI \u4e8c\u5ba1\u8fc7\u6ee4\u5047\u798f\u5229 + \u83b7\u53d6\u65b9\u5f0f\u5206\u7ea7\u9694\u79bb\u62bd\u5956/\u8bd5\u7528/\u63a8\u5e7f + Telegram \u5373\u65f6\u63a8\u9001",
             "url": "https://github.com/ZiChuanLan/freebie-radar",
-            "stars": 1576,
-            "forks": 264,
+            "stars": 1613,
+            "forks": 268,
             "score": 99
         },
         {
@@ -84,8 +84,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "haziqahmedqasmi/PeakCut",
             "description": "AI clipping for long videos and live streams. Self-hosted, bring your own AI key.",
             "url": "https://github.com/haziqahmedqasmi/PeakCut",
-            "stars": 990,
-            "forks": 337,
+            "stars": 1074,
+            "forks": 364,
             "score": 99
         },
         {
@@ -95,8 +95,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "boringmarketer/boring-marketing-skills",
             "description": "32 free marketing skills for your AI agent: research, positioning, copy, pages, SEO, AI search, ads, email and content, plus a deep local-business pack. MIT.",
             "url": "https://github.com/boringmarketer/boring-marketing-skills",
-            "stars": 630,
-            "forks": 233,
+            "stars": 657,
+            "forks": 243,
             "score": 99
         },
         {
@@ -106,75 +106,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "Dodaios/ste80-humanizer",
             "description": "STE80 Humanizer: agent skill that removes AI tells and rewrites text 80% of the way to ASD-STE100 (Simplified Technical English), the method Andrej Karpathy shared.",
             "url": "https://github.com/Dodaios/ste80-humanizer",
-            "stars": 799,
-            "forks": 59,
-            "score": 77
+            "stars": 860,
+            "forks": 62,
+            "score": 76
         },
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "Gemini-Config-Checker-",
-            "full_name": "YellowLaborerMarket/Gemini-Config-Checker-",
-            "description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
-            "url": "https://github.com/YellowLaborerMarket/Gemini-Config-Checker-",
-            "stars": 475,
-            "forks": 0,
-            "score": 77
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "Gemini-Config-Checker-",
-            "full_name": "VortexHostFeel/Gemini-Config-Checker-",
-            "description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
-            "url": "https://github.com/VortexHostFeel/Gemini-Config-Checker-",
-            "stars": 473,
-            "forks": 0,
-            "score": 77
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "Gemini-Config-Checker-",
-            "full_name": "TypeTyrantScheme/Gemini-Config-Checker-",
-            "description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
-            "url": "https://github.com/TypeTyrantScheme/Gemini-Config-Checker-",
-            "stars": 473,
-            "forks": 0,
-            "score": 77
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "Gemini-Config-Checker-",
-            "full_name": "WingDataVacuum/Gemini-Config-Checker-",
-            "description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
-            "url": "https://github.com/WingDataVacuum/Gemini-Config-Checker-",
-            "stars": 473,
-            "forks": 0,
-            "score": 77
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "Gemini-Config-Checker-",
-            "full_name": "WharfBoulderColander/Gemini-Config-Checker-",
-            "description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
-            "url": "https://github.com/WharfBoulderColander/Gemini-Config-Checker-",
-            "stars": 473,
-            "forks": 0,
-            "score": 77
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "Gemini-Config-Checker-",
-            "full_name": "TrooperFilter/Gemini-Config-Checker-",
-            "description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
-            "url": "https://github.com/TrooperFilter/Gemini-Config-Checker-",
-            "stars": 473,
-            "forks": 0,
-            "score": 77
+            "name": "gpucanvas",
+            "full_name": "berkantay/gpucanvas",
+            "description": "Put thousands of live DOM nodes on an infinite canvas: the GPU draws them, an editor selects, moves and resizes them, shaders and transitions run on them, and an AI agent can read them and point at them.",
+            "url": "https://github.com/berkantay/gpucanvas",
+            "stars": 525,
+            "forks": 36,
+            "score": 71
         },
         {
             "main_cat": "AI",
@@ -185,18 +130,73 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/linknimiball1974/ai-texture-forge",
             "stars": 685,
             "forks": 31,
-            "score": 74
+            "score": 70
         },
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "gpucanvas",
-            "full_name": "berkantay/gpucanvas",
-            "description": "Put thousands of live DOM nodes on an infinite canvas: the GPU draws them, an editor selects, moves and resizes them, shaders and transitions run on them, and an AI agent can read them and point at them.",
-            "url": "https://github.com/berkantay/gpucanvas",
-            "stars": 520,
-            "forks": 36,
-            "score": 71
+            "name": "Gemini-Config-Checker-",
+            "full_name": "YellowLaborerMarket/Gemini-Config-Checker-",
+            "description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
+            "url": "https://github.com/YellowLaborerMarket/Gemini-Config-Checker-",
+            "stars": 475,
+            "forks": 0,
+            "score": 69
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "Gemini-Config-Checker-",
+            "full_name": "Violetnyudress/Gemini-Config-Checker-",
+            "description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
+            "url": "https://github.com/Violetnyudress/Gemini-Config-Checker-",
+            "stars": 473,
+            "forks": 0,
+            "score": 69
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "Gemini-Config-Checker-",
+            "full_name": "VortexHostFeel/Gemini-Config-Checker-",
+            "description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
+            "url": "https://github.com/VortexHostFeel/Gemini-Config-Checker-",
+            "stars": 473,
+            "forks": 0,
+            "score": 69
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "Gemini-Config-Checker-",
+            "full_name": "TypeTyrantScheme/Gemini-Config-Checker-",
+            "description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
+            "url": "https://github.com/TypeTyrantScheme/Gemini-Config-Checker-",
+            "stars": 473,
+            "forks": 0,
+            "score": 69
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "Gemini-Config-Checker-",
+            "full_name": "WingDataVacuum/Gemini-Config-Checker-",
+            "description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
+            "url": "https://github.com/WingDataVacuum/Gemini-Config-Checker-",
+            "stars": 473,
+            "forks": 0,
+            "score": 69
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "Gemini-Config-Checker-",
+            "full_name": "weightcashiercupola/Gemini-Config-Checker-",
+            "description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
+            "url": "https://github.com/weightcashiercupola/Gemini-Config-Checker-",
+            "stars": 473,
+            "forks": 0,
+            "score": 69
         },
         {
             "main_cat": "AI",
@@ -207,7 +207,7 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/credoksopho1984/blender-ai-copilot-studio",
             "stars": 516,
             "forks": 14,
-            "score": 65
+            "score": 61
         },
         {
             "main_cat": "AI",
@@ -218,7 +218,7 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/racdeufindurch198812/Blender-AI-MCP-Studio",
             "stars": 516,
             "forks": 13,
-            "score": 65
+            "score": 61
         },
         {
             "main_cat": "AI",
@@ -229,7 +229,7 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/tiobeharxi1987/blender-ai-copilot-flow",
             "stars": 514,
             "forks": 12,
-            "score": 65
+            "score": 61
         },
         {
             "main_cat": "AI",
@@ -240,7 +240,7 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/Doug-218/blender-ai-copilot-forge",
             "stars": 511,
             "forks": 13,
-            "score": 65
+            "score": 61
         },
         {
             "main_cat": "AI",
@@ -251,18 +251,7 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/zovulrira1974/blender-ai-copilot-assets",
             "stars": 510,
             "forks": 15,
-            "score": 65
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "blender-ai-copilot-hub",
-            "full_name": "baiblinocun1986/blender-ai-copilot-hub",
-            "description": "A multi-provider AI copilot hub for Blender\u2014bring OpenAI, Anthropic Claude, Google Gemini, OpenRouter, OpenCode Zen, Ollama and custom endpoints into one hub of saved connections, with 27 supervised scene tools and a built-in MCP server. \u00b7 blender-ai-copilot-hub \u00b7 blender \u00b7 blender 3d \u00b7 blender addon \u00b7 blender plugin \u00b7 blender extension",
-            "url": "https://github.com/baiblinocun1986/blender-ai-copilot-hub",
-            "stars": 501,
-            "forks": 16,
-            "score": 65
+            "score": 61
         },
         {
             "main_cat": "AI",
@@ -273,7 +262,18 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/precygtrucqui1981/blender-ai-copilot-lab",
             "stars": 507,
             "forks": 13,
-            "score": 64
+            "score": 61
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "blender-ai-copilot-hub",
+            "full_name": "baiblinocun1986/blender-ai-copilot-hub",
+            "description": "A multi-provider AI copilot hub for Blender\u2014bring OpenAI, Anthropic Claude, Google Gemini, OpenRouter, OpenCode Zen, Ollama and custom endpoints into one hub of saved connections, with 27 supervised scene tools and a built-in MCP server. \u00b7 blender-ai-copilot-hub \u00b7 blender \u00b7 blender 3d \u00b7 blender addon \u00b7 blender plugin \u00b7 blender extension",
+            "url": "https://github.com/baiblinocun1986/blender-ai-copilot-hub",
+            "stars": 502,
+            "forks": 16,
+            "score": 61
         },
         {
             "main_cat": "AI",
@@ -284,7 +284,7 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/fumbdendade19718/blender-ai-copilot-desk",
             "stars": 505,
             "forks": 11,
-            "score": 64
+            "score": 60
         },
         {
             "main_cat": "AI",
@@ -295,7 +295,7 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/findavoulot1973/Blender-AI-MCP-Suite",
             "stars": 498,
             "forks": 12,
-            "score": 64
+            "score": 60
         },
         {
             "main_cat": "AI",
@@ -306,7 +306,7 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/benzgasfuncring197110/blender-ai-copilot-bridge",
             "stars": 492,
             "forks": 13,
-            "score": 64
+            "score": 60
         },
         {
             "main_cat": "AI",
@@ -315,7 +315,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "ZSeven-W/dsh-game-studio",
             "description": "Describe a small game in one sentence, play it in the DeepSeek Harness sidebar, swap in AI art, and publish to GitHub Pages or Cloudflare in one click.",
             "url": "https://github.com/ZSeven-W/dsh-game-studio",
-            "stars": 582,
+            "stars": 585,
             "forks": 51,
             "score": 54
         },
@@ -326,9 +326,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "qiaoranlaodou-cpu/your-next-point",
             "description": "\u300a\u4f60\u7684\u4e0b\u4e00\u5206\u5728\u54ea\u91cc\uff1aAI \u65f6\u4ee3\u7684\u516c\u8003\u5907\u8003\u65b9\u6cd5\u300b\u5168\u4e66\u514d\u8d39\u5f00\u653e\uff0c\u5377\u8702\u5566\u00b7\u6797\u7167 \u8457\u3002",
             "url": "https://github.com/qiaoranlaodou-cpu/your-next-point",
-            "stars": 518,
+            "stars": 522,
             "forks": 5,
-            "score": 47
+            "score": 48
         },
         {
             "main_cat": "AI",
@@ -337,9 +337,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "leonardo-alegria/garlic-llm",
             "description": "A 9-billion-parameter language model running on a PS4 GPU. Offline.",
             "url": "https://github.com/leonardo-alegria/garlic-llm",
-            "stars": 194,
-            "forks": 19,
-            "score": 45
+            "stars": 199,
+            "forks": 20,
+            "score": 43
         },
         {
             "main_cat": "AI",
@@ -463,17 +463,6 @@ const ALPHA_DATA_V2 = {
             "score": 30
         },
         {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "are-you-a-geni.us",
-            "full_name": "snr2753423/are-you-a-geni.us",
-            "description": "Are you a genius? Prove it on-chain. A prediction market where every bet is a Solana transaction and MongoDB Atlas runs the market. MLH hackathon project.",
-            "url": "https://github.com/snr2753423/are-you-a-geni.us",
-            "stars": 0,
-            "forks": 0,
-            "score": 30
-        },
-        {
             "main_cat": "Stablecoin Infrastructure",
             "sub_cat": null,
             "name": "smaj-payguard",
@@ -491,6 +480,17 @@ const ALPHA_DATA_V2 = {
             "full_name": "helenobika270-wq/ravenpay",
             "description": "A stablecoin-powered wallet for seamless payments and savings.",
             "url": "https://github.com/helenobika270-wq/ravenpay",
+            "stars": 0,
+            "forks": 0,
+            "score": 30
+        },
+        {
+            "main_cat": "Stablecoin Infrastructure",
+            "sub_cat": null,
+            "name": "routepay",
+            "full_name": "vinicius-santos-luz/routepay",
+            "description": "Enterprise stablecoin payments platform built on Solana with MultiHopper integration",
+            "url": "https://github.com/vinicius-santos-luz/routepay",
             "stars": 0,
             "forks": 0,
             "score": 30
@@ -562,23 +562,23 @@ const ALPHA_DATA_V2 = {
             "score": 30
         },
         {
-            "main_cat": "Stablecoin Infrastructure",
-            "sub_cat": null,
-            "name": "noveil-case-study",
-            "full_name": "moneesh-reddy/noveil-case-study",
-            "description": "Case study: Noveil, a stablecoin (USDC on Solana) payment reconciliation prototype. Live demo inside; source is private.",
-            "url": "https://github.com/moneesh-reddy/noveil-case-study",
-            "stars": 0,
-            "forks": 0,
-            "score": 30
-        },
-        {
             "main_cat": "AI",
             "sub_cat": "AI General",
             "name": "Paylink",
             "full_name": "RaphaelC4/Paylink",
             "description": "Paylink - payment links on NEAR testnet. Send a link, get paid in stablecoins. NEAR HACKATHON track realworld.",
             "url": "https://github.com/RaphaelC4/Paylink",
+            "stars": 0,
+            "forks": 0,
+            "score": 30
+        },
+        {
+            "main_cat": "Stablecoin Infrastructure",
+            "sub_cat": null,
+            "name": "noveil-case-study",
+            "full_name": "moneesh-reddy/noveil-case-study",
+            "description": "Case study: Noveil, a stablecoin (USDC on Solana) payment reconciliation prototype. Live demo inside; source is private.",
+            "url": "https://github.com/moneesh-reddy/noveil-case-study",
             "stars": 0,
             "forks": 0,
             "score": 30
@@ -630,10 +630,10 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
-            "name": "nexusguard",
-            "full_name": "jigglu/nexusguard",
-            "description": "Autonomous General Contractor Studio, Security Swarm & Cross-Chain Bounty Protocol on NEAR",
-            "url": "https://github.com/jigglu/nexusguard",
+            "name": "kharon-relay",
+            "full_name": "ZengLLQ/kharon-relay",
+            "description": "Inter-Blockchain Communication (IBC) Light Client Verification & Cross-Chain Packet Relay Protocol",
+            "url": "https://github.com/ZengLLQ/kharon-relay",
             "stars": 0,
             "forks": 0,
             "score": 30
@@ -641,10 +641,10 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
-            "name": "kharon-relay",
-            "full_name": "ZengLLQ/kharon-relay",
-            "description": "Inter-Blockchain Communication (IBC) Light Client Verification & Cross-Chain Packet Relay Protocol",
-            "url": "https://github.com/ZengLLQ/kharon-relay",
+            "name": "nexusguard",
+            "full_name": "jigglu/nexusguard",
+            "description": "Autonomous General Contractor Studio, Security Swarm & Cross-Chain Bounty Protocol on NEAR",
+            "url": "https://github.com/jigglu/nexusguard",
             "stars": 0,
             "forks": 0,
             "score": 30
@@ -761,5 +761,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-11-18 14:55"
+    "timestamp": "2026-11-18 22:26"
 };
