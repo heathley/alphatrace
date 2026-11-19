@@ -5,10 +5,10 @@ const ALPHA_DATA_V2 = {
             "sub_cat": null,
             "name": "phonebox",
             "full_name": "ersinkoc/phonebox",
-            "description": "Turn an old Android phone into a customizable desk panel and touch control deck for Windows, Linux and macOS. 123 widgets and 30 templates for system stats, AI coding, media and automation, in 12 languages. USB or paired Wi-Fi. No cloud required.",
+            "description": "Turn an old Android phone into a customizable desk panel and touch control deck for Windows, Linux and macOS. 124 widgets and 30 templates for system stats, AI coding, media and automation, in 12 languages. USB or paired Wi-Fi. No cloud required.",
             "url": "https://github.com/ersinkoc/phonebox",
-            "stars": 3203,
-            "forks": 448,
+            "stars": 3304,
+            "forks": 455,
             "score": 99
         },
         {
@@ -18,7 +18,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "DIYgod/pinky",
             "description": "Let AI use your iPhone or Android phone, with you in the loop: any MCP agent from macOS, Windows or Linux, or Pinky itself, right on the phone.",
             "url": "https://github.com/DIYgod/pinky",
-            "stars": 2458,
+            "stars": 2482,
             "forks": 259,
             "score": 99
         },
@@ -29,8 +29,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "FrigadeHQ/yogurt",
             "description": "Private AI meeting notes that stay on your computer. A free, open-source alternative to Granola for Mac, Windows and Linux.",
             "url": "https://github.com/FrigadeHQ/yogurt",
-            "stars": 2361,
-            "forks": 160,
+            "stars": 2431,
+            "forks": 169,
             "score": 99
         },
         {
@@ -40,8 +40,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "Immortal-Protocols/lastbook",
             "description": "Offline knowledge AI, maps and videos for survival and rebuilding",
             "url": "https://github.com/Immortal-Protocols/lastbook",
-            "stars": 2141,
-            "forks": 279,
+            "stars": 2192,
+            "forks": 284,
             "score": 99
         },
         {
@@ -51,19 +51,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "agentes-chat/agentes-chat",
             "description": "Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs. Agents run on Claude, ChatGPT/Codex, Gemini or Grok, with MCP tools, their own computer and browser, routines, memory and approvals. Web, desktop and phone apps. Docker Compose + Postgres. AGPL-3.0.",
             "url": "https://github.com/agentes-chat/agentes-chat",
-            "stars": 1717,
-            "forks": 318,
-            "score": 99
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "muse-protocol",
-            "full_name": "duwqijlk/muse-protocol",
-            "description": "muse.ai \u6ce8\u518c\u4e0e\u9080\u8bf7\u7801\u5151\u6362\u534f\u8bae\u7814\u7a76\uff08\u7eaf HTTP Python \u5b9e\u73b0\uff09",
-            "url": "https://github.com/duwqijlk/muse-protocol",
-            "stars": 1627,
-            "forks": 641,
+            "stars": 1727,
+            "forks": 320,
             "score": 99
         },
         {
@@ -73,8 +62,19 @@ const ALPHA_DATA_V2 = {
             "full_name": "ZiChuanLan/freebie-radar",
             "description": "\u767d\u5ad6\u4e0e\u8d44\u8baf\u8d44\u6e90\u805a\u5408\u96f7\u8fbe\uff1a100+\u4e2a\u6e90\u5b9a\u65f6\u91c7\u96c6 + AI \u4e8c\u5ba1\u8fc7\u6ee4\u5047\u798f\u5229 + \u83b7\u53d6\u65b9\u5f0f\u5206\u7ea7\u9694\u79bb\u62bd\u5956/\u8bd5\u7528/\u63a8\u5e7f + Telegram \u5373\u65f6\u63a8\u9001",
             "url": "https://github.com/ZiChuanLan/freebie-radar",
-            "stars": 1613,
-            "forks": 268,
+            "stars": 1647,
+            "forks": 274,
+            "score": 99
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "muse-protocol",
+            "full_name": "duwqijlk/muse-protocol",
+            "description": "muse.ai \u6ce8\u518c\u4e0e\u9080\u8bf7\u7801\u5151\u6362\u534f\u8bae\u7814\u7a76\uff08\u7eaf HTTP Python \u5b9e\u73b0\uff09",
+            "url": "https://github.com/duwqijlk/muse-protocol",
+            "stars": 1629,
+            "forks": 641,
             "score": 99
         },
         {
@@ -84,8 +84,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "haziqahmedqasmi/PeakCut",
             "description": "AI clipping for long videos and live streams. Self-hosted, bring your own AI key.",
             "url": "https://github.com/haziqahmedqasmi/PeakCut",
-            "stars": 1074,
-            "forks": 364,
+            "stars": 1109,
+            "forks": 375,
             "score": 99
         },
         {
@@ -95,8 +95,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "boringmarketer/boring-marketing-skills",
             "description": "32 free marketing skills for your AI agent: research, positioning, copy, pages, SEO, AI search, ads, email and content, plus a deep local-business pack. MIT.",
             "url": "https://github.com/boringmarketer/boring-marketing-skills",
-            "stars": 657,
-            "forks": 243,
+            "stars": 672,
+            "forks": 250,
             "score": 99
         },
         {
@@ -106,20 +106,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "Dodaios/ste80-humanizer",
             "description": "STE80 Humanizer: agent skill that removes AI tells and rewrites text 80% of the way to ASD-STE100 (Simplified Technical English), the method Andrej Karpathy shared.",
             "url": "https://github.com/Dodaios/ste80-humanizer",
-            "stars": 860,
-            "forks": 62,
-            "score": 76
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "gpucanvas",
-            "full_name": "berkantay/gpucanvas",
-            "description": "Put thousands of live DOM nodes on an infinite canvas: the GPU draws them, an editor selects, moves and resizes them, shaders and transitions run on them, and an AI agent can read them and point at them.",
-            "url": "https://github.com/berkantay/gpucanvas",
-            "stars": 525,
-            "forks": 36,
-            "score": 71
+            "stars": 894,
+            "forks": 63,
+            "score": 77
         },
         {
             "main_cat": "AI",
@@ -147,10 +136,10 @@ const ALPHA_DATA_V2 = {
             "main_cat": "AI",
             "sub_cat": null,
             "name": "Gemini-Config-Checker-",
-            "full_name": "Violetnyudress/Gemini-Config-Checker-",
+            "full_name": "weightcashiercupola/Gemini-Config-Checker-",
             "description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
-            "url": "https://github.com/Violetnyudress/Gemini-Config-Checker-",
-            "stars": 473,
+            "url": "https://github.com/weightcashiercupola/Gemini-Config-Checker-",
+            "stars": 474,
             "forks": 0,
             "score": 69
         },
@@ -169,6 +158,28 @@ const ALPHA_DATA_V2 = {
             "main_cat": "AI",
             "sub_cat": null,
             "name": "Gemini-Config-Checker-",
+            "full_name": "Violetnyudress/Gemini-Config-Checker-",
+            "description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
+            "url": "https://github.com/Violetnyudress/Gemini-Config-Checker-",
+            "stars": 473,
+            "forks": 0,
+            "score": 69
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "Gemini-Config-Checker-",
+            "full_name": "TrooperFilter/Gemini-Config-Checker-",
+            "description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
+            "url": "https://github.com/TrooperFilter/Gemini-Config-Checker-",
+            "stars": 473,
+            "forks": 0,
+            "score": 69
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "Gemini-Config-Checker-",
             "full_name": "TypeTyrantScheme/Gemini-Config-Checker-",
             "description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
             "url": "https://github.com/TypeTyrantScheme/Gemini-Config-Checker-",
@@ -179,24 +190,13 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "Gemini-Config-Checker-",
-            "full_name": "WingDataVacuum/Gemini-Config-Checker-",
-            "description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
-            "url": "https://github.com/WingDataVacuum/Gemini-Config-Checker-",
-            "stars": 473,
-            "forks": 0,
-            "score": 69
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "Gemini-Config-Checker-",
-            "full_name": "weightcashiercupola/Gemini-Config-Checker-",
-            "description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
-            "url": "https://github.com/weightcashiercupola/Gemini-Config-Checker-",
-            "stars": 473,
-            "forks": 0,
-            "score": 69
+            "name": "gpucanvas",
+            "full_name": "berkantay/gpucanvas",
+            "description": "Put thousands of live DOM nodes on an infinite canvas: the GPU draws them, an editor selects, moves and resizes them, shaders and transitions run on them, and an AI agent can read them and point at them.",
+            "url": "https://github.com/berkantay/gpucanvas",
+            "stars": 528,
+            "forks": 36,
+            "score": 67
         },
         {
             "main_cat": "AI",
@@ -310,14 +310,14 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
-            "sub_cat": null,
-            "name": "dsh-game-studio",
-            "full_name": "ZSeven-W/dsh-game-studio",
-            "description": "Describe a small game in one sentence, play it in the DeepSeek Harness sidebar, swap in AI art, and publish to GitHub Pages or Cloudflare in one click.",
-            "url": "https://github.com/ZSeven-W/dsh-game-studio",
-            "stars": 585,
-            "forks": 51,
-            "score": 54
+            "sub_cat": "AI General",
+            "name": "linger",
+            "full_name": "simplexai-labs/linger",
+            "description": "Linger is An Open-Source Personal Agent That Runs Fully on Your PC.  We aim to break Big Tech\u2019s grip on AI by bringing powerful local AI to everyday computers through efficient model\u2013harness co-design, so everyone can run their own.",
+            "url": "https://github.com/simplexai-labs/linger",
+            "stars": 536,
+            "forks": 32,
+            "score": 57
         },
         {
             "main_cat": "AI",
@@ -328,7 +328,7 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/qiaoranlaodou-cpu/your-next-point",
             "stars": 522,
             "forks": 5,
-            "score": 48
+            "score": 46
         },
         {
             "main_cat": "AI",
@@ -337,9 +337,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "leonardo-alegria/garlic-llm",
             "description": "A 9-billion-parameter language model running on a PS4 GPU. Offline.",
             "url": "https://github.com/leonardo-alegria/garlic-llm",
-            "stars": 199,
+            "stars": 201,
             "forks": 20,
-            "score": 43
+            "score": 44
         },
         {
             "main_cat": "AI",
@@ -351,6 +351,17 @@ const ALPHA_DATA_V2 = {
             "stars": 116,
             "forks": 25,
             "score": 42
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "ComfyUI-OmniLoRA",
+            "full_name": "cyberterm/ComfyUI-OmniLoRA",
+            "description": "Universal LoRA Training for ComfyUI - Zero External Dependencies, Any Model, Any GPU.",
+            "url": "https://github.com/cyberterm/ComfyUI-OmniLoRA",
+            "stars": 43,
+            "forks": 5,
+            "score": 36
         },
         {
             "main_cat": "AI",
@@ -452,12 +463,23 @@ const ALPHA_DATA_V2 = {
             "score": 30
         },
         {
-            "main_cat": "Prediction Markets",
-            "sub_cat": null,
-            "name": "prediction-market-v1",
-            "full_name": "abhishekpandey-sm/prediction-market-v1",
-            "description": "A full-stack prediction market application where users can create markets, place bets on outcomes, manage wallets, and resolve markets with automated payouts. Built with React, Node.js, Express, MongoDB, and JWT authentication.",
-            "url": "https://github.com/abhishekpandey-sm/prediction-market-v1",
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "are-you-a-geni.us",
+            "full_name": "snr2753423/are-you-a-geni.us",
+            "description": "Are you a genius? Prove it on-chain. A prediction market where every bet is a Solana transaction and MongoDB Atlas runs the market. MLH hackathon project.",
+            "url": "https://github.com/snr2753423/are-you-a-geni.us",
+            "stars": 0,
+            "forks": 0,
+            "score": 30
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "priced-in",
+            "full_name": "iamdflame/priced-in",
+            "description": "Is it true? Bet on it. Prediction markets for facts, live on NEAR mainnet: real USDC, AI traders, and three attested AI judges that rule on-chain.",
+            "url": "https://github.com/iamdflame/priced-in",
             "stars": 0,
             "forks": 0,
             "score": 30
@@ -470,17 +492,6 @@ const ALPHA_DATA_V2 = {
             "description": "SMAJ PayGuard \u2014 Verified stablecoin payments, invoice management and smart-contract escrow on QDay Aevum Testnet. Built for Aevum Builder Challenge 2026.",
             "url": "https://github.com/SMAJORG/smaj-payguard",
             "stars": 1,
-            "forks": 0,
-            "score": 30
-        },
-        {
-            "main_cat": "Stablecoin Infrastructure",
-            "sub_cat": null,
-            "name": "ravenpay",
-            "full_name": "helenobika270-wq/ravenpay",
-            "description": "A stablecoin-powered wallet for seamless payments and savings.",
-            "url": "https://github.com/helenobika270-wq/ravenpay",
-            "stars": 0,
             "forks": 0,
             "score": 30
         },
@@ -630,10 +641,10 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
-            "name": "kharon-relay",
-            "full_name": "ZengLLQ/kharon-relay",
-            "description": "Inter-Blockchain Communication (IBC) Light Client Verification & Cross-Chain Packet Relay Protocol",
-            "url": "https://github.com/ZengLLQ/kharon-relay",
+            "name": "nexusguard",
+            "full_name": "jigglu/nexusguard",
+            "description": "Autonomous General Contractor Studio, Security Swarm & Cross-Chain Bounty Protocol on NEAR",
+            "url": "https://github.com/jigglu/nexusguard",
             "stars": 0,
             "forks": 0,
             "score": 30
@@ -641,10 +652,10 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
-            "name": "nexusguard",
-            "full_name": "jigglu/nexusguard",
-            "description": "Autonomous General Contractor Studio, Security Swarm & Cross-Chain Bounty Protocol on NEAR",
-            "url": "https://github.com/jigglu/nexusguard",
+            "name": "kharon-relay",
+            "full_name": "ZengLLQ/kharon-relay",
+            "description": "Inter-Blockchain Communication (IBC) Light Client Verification & Cross-Chain Packet Relay Protocol",
+            "url": "https://github.com/ZengLLQ/kharon-relay",
             "stars": 0,
             "forks": 0,
             "score": 30
@@ -740,18 +751,18 @@ const ALPHA_DATA_V2 = {
     ],
     "news": [
         {
-            "title": "Distortion-Free Semantic Watermarks for Black-Box Generative Models",
+            "title": "PIPETTE: Prompt Injection Purple-Teaming for Robust LLM Agents",
             "source": "ArXiv",
             "type": "Research Alpha",
             "color": "text-indigo-600",
-            "url": "http://arxiv.org/abs/2611.23208v1"
+            "url": "http://arxiv.org/abs/2611.24362v1"
         },
         {
-            "title": "Governance Risks in Decentralized Autonomous Organizations (DAOs): Implications for Traditional Financial Institutions",
+            "title": "AutoPI: Taxonomy-Guided Adaptive Red Teaming for Prompt Injection in LLM Agents",
             "source": "ArXiv",
             "type": "Research Alpha",
             "color": "text-indigo-600",
-            "url": "http://arxiv.org/abs/2611.23201v1"
+            "url": "http://arxiv.org/abs/2611.24313v1"
         },
         {
             "title": "Bitcoin volatility remains high ahead of key FED decision.",
@@ -761,5 +772,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-11-18 22:26"
+    "timestamp": "2026-11-19 03:56"
 };
