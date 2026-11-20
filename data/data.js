@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "ersinkoc/phonebox",
             "description": "Turn an old Android phone into a customizable desk panel and touch control deck for Windows, Linux and macOS. 124 widgets and 30 templates for system stats, AI coding, media and automation, in 13 languages. USB or paired Wi-Fi. No cloud required.",
             "url": "https://github.com/ersinkoc/phonebox",
-            "stars": 3882,
-            "forks": 515,
+            "stars": 4025,
+            "forks": 528,
             "score": 99
         },
         {
@@ -18,8 +18,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "FrigadeHQ/yogurt",
             "description": "Private AI meeting notes that stay on your computer. A free, open-source alternative to Granola for Mac, Windows and Linux.",
             "url": "https://github.com/FrigadeHQ/yogurt",
-            "stars": 2629,
-            "forks": 199,
+            "stars": 2681,
+            "forks": 205,
             "score": 99
         },
         {
@@ -29,30 +29,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "Immortal-Protocols/lastbook",
             "description": "Offline knowledge AI, maps and videos for survival and rebuilding",
             "url": "https://github.com/Immortal-Protocols/lastbook",
-            "stars": 2600,
-            "forks": 316,
-            "score": 99
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "freebie-radar",
-            "full_name": "ZiChuanLan/freebie-radar",
-            "description": "\u767d\u5ad6\u4e0e\u8d44\u8baf\u8d44\u6e90\u805a\u5408\u96f7\u8fbe\uff1a100+\u4e2a\u6e90\u5b9a\u65f6\u91c7\u96c6 + AI \u4e8c\u5ba1\u8fc7\u6ee4\u5047\u798f\u5229 + \u83b7\u53d6\u65b9\u5f0f\u5206\u7ea7\u9694\u79bb\u62bd\u5956/\u8bd5\u7528/\u63a8\u5e7f + Telegram \u5373\u65f6\u63a8\u9001",
-            "url": "https://github.com/ZiChuanLan/freebie-radar",
-            "stars": 1803,
-            "forks": 300,
-            "score": 99
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI Agents",
-            "name": "agentes-chat",
-            "full_name": "agentes-chat/agentes-chat",
-            "description": "Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs. Agents run on Claude, ChatGPT/Codex, Gemini or Grok, with MCP tools, their own computer and browser, routines, memory and approvals. Web, desktop and phone apps. Docker Compose + Postgres. AGPL-3.0.",
-            "url": "https://github.com/agentes-chat/agentes-chat",
-            "stars": 1760,
-            "forks": 329,
+            "stars": 2662,
+            "forks": 321,
             "score": 99
         },
         {
@@ -62,8 +40,30 @@ const ALPHA_DATA_V2 = {
             "full_name": "simplexai-labs/linger",
             "description": "Linger is An Open-Source Personal Agent That Runs Fully on Your PC.  We aim to break Big Tech\u2019s grip on AI by bringing powerful local AI to everyday computers through efficient model\u2013harness co-design, so everyone can run their own.",
             "url": "https://github.com/simplexai-labs/linger",
-            "stars": 1759,
-            "forks": 138,
+            "stars": 2418,
+            "forks": 211,
+            "score": 99
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "freebie-radar",
+            "full_name": "ZiChuanLan/freebie-radar",
+            "description": "\u767d\u5ad6\u4e0e\u8d44\u8baf\u8d44\u6e90\u805a\u5408\u96f7\u8fbe\uff1a100+\u4e2a\u6e90\u5b9a\u65f6\u91c7\u96c6 + AI \u4e8c\u5ba1\u8fc7\u6ee4\u5047\u798f\u5229 + \u83b7\u53d6\u65b9\u5f0f\u5206\u7ea7\u9694\u79bb\u62bd\u5956/\u8bd5\u7528/\u63a8\u5e7f + Telegram \u5373\u65f6\u63a8\u9001",
+            "url": "https://github.com/ZiChuanLan/freebie-radar",
+            "stars": 1896,
+            "forks": 313,
+            "score": 99
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI Agents",
+            "name": "agentes-chat",
+            "full_name": "agentes-chat/agentes-chat",
+            "description": "Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs. Agents run on Claude, ChatGPT/Codex, Gemini or Grok, with MCP tools, their own computer and browser, routines, memory and approvals. Web, desktop and phone apps. Docker Compose + Postgres. AGPL-3.0.",
+            "url": "https://github.com/agentes-chat/agentes-chat",
+            "stars": 1774,
+            "forks": 334,
             "score": 99
         },
         {
@@ -73,8 +73,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "duwqijlk/muse-protocol",
             "description": "muse.ai \u6ce8\u518c\u4e0e\u9080\u8bf7\u7801\u5151\u6362\u534f\u8bae\u7814\u7a76\uff08\u7eaf HTTP Python \u5b9e\u73b0\uff09",
             "url": "https://github.com/duwqijlk/muse-protocol",
-            "stars": 1657,
-            "forks": 657,
+            "stars": 1675,
+            "forks": 660,
             "score": 99
         },
         {
@@ -84,19 +84,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "haziqahmedqasmi/PeakCut",
             "description": "AI clipping for long videos and live streams. Self-hosted, bring your own AI key.",
             "url": "https://github.com/haziqahmedqasmi/PeakCut",
-            "stars": 1350,
-            "forks": 462,
-            "score": 99
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "boring-marketing-skills",
-            "full_name": "boringmarketer/boring-marketing-skills",
-            "description": "32 free marketing skills for your AI agent: research, positioning, copy, pages, SEO, AI search, ads, email and content, plus a deep local-business pack. MIT.",
-            "url": "https://github.com/boringmarketer/boring-marketing-skills",
-            "stars": 719,
-            "forks": 262,
+            "stars": 1447,
+            "forks": 475,
             "score": 99
         },
         {
@@ -106,8 +95,19 @@ const ALPHA_DATA_V2 = {
             "full_name": "bookwjitchieni1986/blender-ai-mcp-addon",
             "description": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration.",
             "url": "https://github.com/bookwjitchieni1986/blender-ai-mcp-addon",
-            "stars": 645,
+            "stars": 1014,
             "forks": 1,
+            "score": 99
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "boring-marketing-skills",
+            "full_name": "boringmarketer/boring-marketing-skills",
+            "description": "32 free marketing skills for your AI agent: research, positioning, copy, pages, SEO, AI search, ads, email and content, plus a deep local-business pack. MIT.",
+            "url": "https://github.com/boringmarketer/boring-marketing-skills",
+            "stars": 728,
+            "forks": 267,
             "score": 99
         },
         {
@@ -117,9 +117,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "Dodaios/ste80-humanizer",
             "description": "STE80 Humanizer: agent skill that removes AI tells and rewrites text 80% of the way to ASD-STE100 (Simplified Technical English), the method Andrej Karpathy shared.",
             "url": "https://github.com/Dodaios/ste80-humanizer",
-            "stars": 986,
-            "forks": 68,
-            "score": 78
+            "stars": 1001,
+            "forks": 69,
+            "score": 79
         },
         {
             "main_cat": "AI",
@@ -139,8 +139,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "berkantay/gpucanvas",
             "description": "Put thousands of live DOM nodes on an infinite canvas: the GPU draws them, an editor selects, moves and resizes them, shaders and transitions run on them, and an AI agent can read them and point at them.",
             "url": "https://github.com/berkantay/gpucanvas",
-            "stars": 536,
-            "forks": 38,
+            "stars": 539,
+            "forks": 39,
             "score": 64
         },
         {
@@ -162,6 +162,17 @@ const ALPHA_DATA_V2 = {
             "description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
             "url": "https://github.com/weightcashiercupola/Gemini-Config-Checker-",
             "stars": 473,
+            "forks": 0,
+            "score": 63
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "Gemini-Config-Checker-",
+            "full_name": "Violetnyudress/Gemini-Config-Checker-",
+            "description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
+            "url": "https://github.com/Violetnyudress/Gemini-Config-Checker-",
+            "stars": 472,
             "forks": 0,
             "score": 63
         },
@@ -191,45 +202,12 @@ const ALPHA_DATA_V2 = {
             "main_cat": "AI",
             "sub_cat": null,
             "name": "Gemini-Config-Checker-",
-            "full_name": "Violetnyudress/Gemini-Config-Checker-",
-            "description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
-            "url": "https://github.com/Violetnyudress/Gemini-Config-Checker-",
-            "stars": 472,
-            "forks": 0,
-            "score": 63
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "Gemini-Config-Checker-",
             "full_name": "TrooperFilter/Gemini-Config-Checker-",
             "description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
             "url": "https://github.com/TrooperFilter/Gemini-Config-Checker-",
             "stars": 472,
             "forks": 0,
             "score": 63
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "Gemini-Config-Checker-",
-            "full_name": "WingDataVacuum/Gemini-Config-Checker-",
-            "description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
-            "url": "https://github.com/WingDataVacuum/Gemini-Config-Checker-",
-            "stars": 472,
-            "forks": 0,
-            "score": 63
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "Blender-AI-MCP-Studio",
-            "full_name": "racdeufindurch198812/Blender-AI-MCP-Studio",
-            "description": "Blender AI MCP Studio is an AI assistant and built-in Model Context Protocol MCP server for Blender that turns plain-language briefs into inspected, approved and reversible 3D scene operations \u2014 with a visual chat workspace, multi-agent teams and your choice of AI models. \u00b7 blender ai mcp studio \u00b7 mcp-for-blender \u00b7 mcp for blender pro",
-            "url": "https://github.com/racdeufindurch198812/Blender-AI-MCP-Studio",
-            "stars": 517,
-            "forks": 13,
-            "score": 58
         },
         {
             "main_cat": "AI",
@@ -240,6 +218,17 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/credoksopho1984/blender-ai-copilot-studio",
             "stars": 516,
             "forks": 14,
+            "score": 58
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "Blender-AI-MCP-Studio",
+            "full_name": "racdeufindurch198812/Blender-AI-MCP-Studio",
+            "description": "Blender AI MCP Studio is an AI assistant and built-in Model Context Protocol MCP server for Blender that turns plain-language briefs into inspected, approved and reversible 3D scene operations \u2014 with a visual chat workspace, multi-agent teams and your choice of AI models. \u00b7 blender ai mcp studio \u00b7 mcp-for-blender \u00b7 mcp for blender pro",
+            "url": "https://github.com/racdeufindurch198812/Blender-AI-MCP-Studio",
+            "stars": 516,
+            "forks": 13,
             "score": 58
         },
         {
@@ -293,7 +282,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "precygtrucqui1981/blender-ai-copilot-lab",
             "description": "An AI lab for Blender where manager\u2013worker\u2013reviewer agent teams run multi-step scene briefs as supervised experiments\u2014a live task board, review findings, one correction attempt per blocked task, named undo, and a built-in MCP server. \u00b7 blender-ai-copilot-lab \u00b7 blender \u00b7 blender 3d \u00b7 blender addon \u00b7 blender plugin \u00b7 blender extension",
             "url": "https://github.com/precygtrucqui1981/blender-ai-copilot-lab",
-            "stars": 507,
+            "stars": 506,
             "forks": 13,
             "score": 57
         },
@@ -304,7 +293,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "fumbdendade19718/blender-ai-copilot-desk",
             "description": "A visual AI desk for Blender\u2014chat, scene objects, viewport snapshots, approvals and a live task board in one companion window, backed by your choice of models and a built-in MCP server. \u00b7 blender-ai-copilot-desk \u00b7 blender \u00b7 blender 3d \u00b7 blender addon \u00b7 blender plugin \u00b7 blender extension \u00b7 blender scripting \u00b7 blender automation \u00b7 blender mcp",
             "url": "https://github.com/fumbdendade19718/blender-ai-copilot-desk",
-            "stars": 505,
+            "stars": 506,
             "forks": 11,
             "score": 57
         },
@@ -315,7 +304,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "findavoulot1973/Blender-AI-MCP-Suite",
             "description": "Blender AI MCP Suite is an AI assistant and built-in Model Context Protocol MCP server for Blender that turns plain-language briefs into inspected, approved and reversible 3D scene operations \u2014 with a visual Studio workspace, multi-agent teams, 21+ scene tools and your choice of AI models. \u00b7 blender ai mcp suite \u00b7 blender ai mcp \u00b7 ai for blender",
             "url": "https://github.com/findavoulot1973/Blender-AI-MCP-Suite",
-            "stars": 498,
+            "stars": 497,
             "forks": 12,
             "score": 57
         },
@@ -337,9 +326,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "leonardo-alegria/garlic-llm",
             "description": "A 9-billion-parameter language model running on a PS4 GPU. Offline.",
             "url": "https://github.com/leonardo-alegria/garlic-llm",
-            "stars": 213,
-            "forks": 23,
-            "score": 43
+            "stars": 216,
+            "forks": 24,
+            "score": 44
         },
         {
             "main_cat": "AI",
@@ -348,9 +337,31 @@ const ALPHA_DATA_V2 = {
             "full_name": "yasakani-dev/yasakani",
             "description": "Run Qwen3.8-27B locally on Windows with one NVIDIA RTX GPU: chat and an OpenAI-compatible API. On an RTX 5090 the fastest model averaged 2,298 tok/s on our own JSONL edit task (one request at a time, thinking off, v0.1.4).",
             "url": "https://github.com/yasakani-dev/yasakani",
-            "stars": 119,
+            "stars": 120,
             "forks": 27,
             "score": 41
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "virtual-card-usdt-world-models-embodied-ai-sim-vcc",
+            "full_name": "DouglasLafortune7668/virtual-card-usdt-world-models-embodied-ai-sim-vcc",
+            "description": "An architectural FinOps and payment-clearing guide for Embodied AI & World Model training clusters (Google Genie 4 / NVIDIA Cosmos / Isaac Lab), preventing cloud GPU cluster payment freezes and runaway simulation billing via USDT-funded CoreGold Virtual Cards (VCC) and Apple Pay.",
+            "url": "https://github.com/DouglasLafortune7668/virtual-card-usdt-world-models-embodied-ai-sim-vcc",
+            "stars": 61,
+            "forks": 0,
+            "score": 33
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "decoupling-ephemeral-cloud-gpu-clusters-from-retained-credentials",
+            "full_name": "ReynaUlses275591/decoupling-ephemeral-cloud-gpu-clusters-from-retained-credentials",
+            "description": "Hardening ephemeral machine-learning infrastructure: Mitigating zero-day card skimming and runaway hourly compute billing across decentralized cloud GPU providers.",
+            "url": "https://github.com/ReynaUlses275591/decoupling-ephemeral-cloud-gpu-clusters-from-retained-credentials",
+            "stars": 61,
+            "forks": 0,
+            "score": 32
         },
         {
             "main_cat": "AI",
@@ -359,7 +370,18 @@ const ALPHA_DATA_V2 = {
             "full_name": "AntonSeveri803525/decoupling-ephemeral-cloud-gpu-clusters-from-retained-credentials",
             "description": "Hardening ephemeral machine-learning infrastructure: Mitigating zero-day card skimming and runaway hourly compute billing across decentralized cloud GPU providers.",
             "url": "https://github.com/AntonSeveri803525/decoupling-ephemeral-cloud-gpu-clusters-from-retained-credentials",
-            "stars": 47,
+            "stars": 60,
+            "forks": 0,
+            "score": 32
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "decoupling-ephemeral-cloud-gpu-clusters-from-retained-credentials",
+            "full_name": "MelissaCroston361308/decoupling-ephemeral-cloud-gpu-clusters-from-retained-credentials",
+            "description": "Hardening ephemeral machine-learning infrastructure: Mitigating zero-day card skimming and runaway hourly compute billing across decentralized cloud GPU providers.",
+            "url": "https://github.com/MelissaCroston361308/decoupling-ephemeral-cloud-gpu-clusters-from-retained-credentials",
+            "stars": 60,
             "forks": 0,
             "score": 32
         },
@@ -496,6 +518,17 @@ const ALPHA_DATA_V2 = {
             "score": 30
         },
         {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "agentpay",
+            "full_name": "andiPangeranm142/agentpay",
+            "description": "AgentPay \u2014 autonomous stablecoin bill payments on Aevum testnet (Aevum Builder Challenge #1, Native AI Assistants)",
+            "url": "https://github.com/andiPangeranm142/agentpay",
+            "stars": 0,
+            "forks": 0,
+            "score": 30
+        },
+        {
             "main_cat": "Stablecoin Infrastructure",
             "sub_cat": null,
             "name": "qday-catalog",
@@ -569,6 +602,28 @@ const ALPHA_DATA_V2 = {
             "description": "Aevum Till \u2014 take stablecoin payments anywhere: payment links with QR checkout, P2P sends, bill splits and tips in tUSD8 on QDay Aevum testnet. Built for Aevum Builder Challenge #1.",
             "url": "https://github.com/michaelgiton/aevum-till",
             "stars": 0,
+            "forks": 0,
+            "score": 30
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "3d-cad-mcp-suite",
+            "full_name": "Melih-cell/3d-cad-mcp-suite",
+            "description": "Cross-DCC & CAD Model Context Protocol (MCP) server suite bridging ZBrush, Maya, 3ds Max, Substance 3D Painter, Blender, and AutoCAD with pre-flight mesh/UV/DXF validation and automated PBR baking handoffs.",
+            "url": "https://github.com/Melih-cell/3d-cad-mcp-suite",
+            "stars": 1,
+            "forks": 0,
+            "score": 30
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "opencode-antigravity-acp",
+            "full_name": "system1970/opencode-antigravity-acp",
+            "description": "Use your Antigravity subscription models in OpenCode via the official agy acp protocol, with Code Mode, MCP tools, skills, AGENTS.md, and cross-model context handoff.",
+            "url": "https://github.com/system1970/opencode-antigravity-acp",
+            "stars": 1,
             "forks": 0,
             "score": 30
         },
@@ -652,6 +707,17 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
+            "name": "allswap-crosschain-protocol",
+            "full_name": "alive-worker/allswap-crosschain-protocol",
+            "description": "Non-custodial cross-chain crypto swap protocol across 46+ blockchains. Official: https://allswap.io",
+            "url": "https://github.com/alive-worker/allswap-crosschain-protocol",
+            "stars": 0,
+            "forks": 0,
+            "score": 30
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
             "name": "Velion",
             "full_name": "Prosper90/Velion",
             "description": "A is a cross-chain privacy infrastructure protocol and wallet designed to enable confidential, secure, and auditable transactions across various on-chain ecosystems. ",
@@ -707,18 +773,18 @@ const ALPHA_DATA_V2 = {
     ],
     "news": [
         {
-            "title": "Side-Channel Analysis of the RP2350 Challenge 2",
+            "title": "SoK: Assessing the Evolution of LLM Capability in Software Vulnerability Research",
             "source": "ArXiv",
             "type": "Research Alpha",
             "color": "text-indigo-600",
-            "url": "http://arxiv.org/abs/2611.25479v1"
+            "url": "http://arxiv.org/abs/2611.26601v1"
         },
         {
-            "title": "ToolPulse: Side-Channel Eavesdropping on Tool-Using LLM Agents",
+            "title": "Classical Oracle Separation of QMA from the QCMA Hierarchy and Quantum Cryptography Even When P = QCMA",
             "source": "ArXiv",
             "type": "Research Alpha",
             "color": "text-indigo-600",
-            "url": "http://arxiv.org/abs/2611.25470v1"
+            "url": "http://arxiv.org/abs/2611.26574v1"
         },
         {
             "title": "Bitcoin volatility remains high ahead of key FED decision.",
@@ -728,5 +794,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-11-20 02:46"
+    "timestamp": "2026-11-20 10:48"
 };
