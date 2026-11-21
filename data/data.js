@@ -2,24 +2,13 @@ const ALPHA_DATA_V2 = {
     "projects": [
         {
             "main_cat": "AI",
-            "sub_cat": null,
-            "name": "phonebox",
-            "full_name": "ersinkoc/phonebox",
-            "description": "Turn an old Android phone into a customizable desk panel and touch control deck for Windows, Linux and macOS. 124 widgets and 30 templates for system stats, AI coding, media and automation, in 13 languages. USB or paired Wi-Fi. No cloud required.",
-            "url": "https://github.com/ersinkoc/phonebox",
-            "stars": 4166,
-            "forks": 533,
-            "score": 99
-        },
-        {
-            "main_cat": "AI",
             "sub_cat": "AI General",
             "name": "linger",
             "full_name": "simplexai-labs/linger",
             "description": "Linger is An Open-Source Personal Agent That Runs Fully on Your PC.  We aim to break Big Tech\u2019s grip on AI by bringing powerful local AI to everyday computers through efficient model\u2013harness co-design, so everyone can run their own.",
             "url": "https://github.com/simplexai-labs/linger",
-            "stars": 2775,
-            "forks": 249,
+            "stars": 2877,
+            "forks": 263,
             "score": 99
         },
         {
@@ -27,10 +16,10 @@ const ALPHA_DATA_V2 = {
             "sub_cat": "AI General",
             "name": "yogurt",
             "full_name": "FrigadeHQ/yogurt",
-            "description": "Private AI meeting notes that stay on your computer. A free, open-source alternative to Granola for Mac, Windows and Linux.",
+            "description": "Private AI meeting notes that stay on your computer. No meeting bot. Free and open source for Mac, Windows and Linux. An alternative to Granola, Otter and Fireflies.",
             "url": "https://github.com/FrigadeHQ/yogurt",
-            "stars": 2741,
-            "forks": 222,
+            "stars": 2773,
+            "forks": 225,
             "score": 99
         },
         {
@@ -40,8 +29,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "Immortal-Protocols/lastbook",
             "description": "Offline knowledge AI, maps and videos for survival and rebuilding",
             "url": "https://github.com/Immortal-Protocols/lastbook",
-            "stars": 2713,
-            "forks": 328,
+            "stars": 2741,
+            "forks": 337,
             "score": 99
         },
         {
@@ -51,8 +40,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "ZiChuanLan/freebie-radar",
             "description": "\u767d\u5ad6\u4e0e\u8d44\u8baf\u8d44\u6e90\u805a\u5408\u96f7\u8fbe\uff1a100+\u4e2a\u6e90\u5b9a\u65f6\u91c7\u96c6 + AI \u4e8c\u5ba1\u8fc7\u6ee4\u5047\u798f\u5229 + \u83b7\u53d6\u65b9\u5f0f\u5206\u7ea7\u9694\u79bb\u62bd\u5956/\u8bd5\u7528/\u63a8\u5e7f + Telegram \u5373\u65f6\u63a8\u9001",
             "url": "https://github.com/ZiChuanLan/freebie-radar",
-            "stars": 1941,
-            "forks": 318,
+            "stars": 1953,
+            "forks": 320,
             "score": 99
         },
         {
@@ -62,30 +51,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "agentes-chat/agentes-chat",
             "description": "Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs. Agents run on Claude, ChatGPT/Codex, Gemini or Grok, with MCP tools, their own computer and browser, routines, memory and approvals. Web, desktop and phone apps. Docker Compose + Postgres. AGPL-3.0.",
             "url": "https://github.com/agentes-chat/agentes-chat",
-            "stars": 1833,
-            "forks": 351,
-            "score": 99
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "muse-protocol",
-            "full_name": "duwqijlk/muse-protocol",
-            "description": "muse.ai \u6ce8\u518c\u4e0e\u9080\u8bf7\u7801\u5151\u6362\u534f\u8bae\u7814\u7a76\uff08\u7eaf HTTP Python \u5b9e\u73b0\uff09",
-            "url": "https://github.com/duwqijlk/muse-protocol",
-            "stars": 1692,
-            "forks": 661,
-            "score": 99
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "PeakCut",
-            "full_name": "haziqahmedqasmi/PeakCut",
-            "description": "AI clipping for long videos and live streams. Self-hosted, bring your own AI key.",
-            "url": "https://github.com/haziqahmedqasmi/PeakCut",
-            "stars": 1522,
-            "forks": 492,
+            "stars": 1846,
+            "forks": 355,
             "score": 99
         },
         {
@@ -95,8 +62,30 @@ const ALPHA_DATA_V2 = {
             "full_name": "bookwjitchieni1986/blender-ai-mcp-addon",
             "description": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration.",
             "url": "https://github.com/bookwjitchieni1986/blender-ai-mcp-addon",
-            "stars": 1354,
-            "forks": 1,
+            "stars": 1773,
+            "forks": 9,
+            "score": 99
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "muse-protocol",
+            "full_name": "duwqijlk/muse-protocol",
+            "description": "muse.ai \u6ce8\u518c\u4e0e\u9080\u8bf7\u7801\u5151\u6362\u534f\u8bae\u7814\u7a76\uff08\u7eaf HTTP Python \u5b9e\u73b0\uff09",
+            "url": "https://github.com/duwqijlk/muse-protocol",
+            "stars": 1696,
+            "forks": 662,
+            "score": 99
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "PeakCut",
+            "full_name": "haziqahmedqasmi/PeakCut",
+            "description": "AI clipping for long videos and live streams. Self-hosted, bring your own AI key.",
+            "url": "https://github.com/haziqahmedqasmi/PeakCut",
+            "stars": 1542,
+            "forks": 496,
             "score": 99
         },
         {
@@ -106,8 +95,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "boringmarketer/boring-marketing-skills",
             "description": "32 free marketing skills for your AI agent: research, positioning, copy, pages, SEO, AI search, ads, email and content, plus a deep local-business pack. MIT.",
             "url": "https://github.com/boringmarketer/boring-marketing-skills",
-            "stars": 735,
-            "forks": 272,
+            "stars": 744,
+            "forks": 273,
             "score": 99
         },
         {
@@ -117,8 +106,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "Dodaios/ste80-humanizer",
             "description": "STE80 Humanizer: agent skill that removes AI tells and rewrites text 80% of the way to ASD-STE100 (Simplified Technical English), the method Andrej Karpathy shared.",
             "url": "https://github.com/Dodaios/ste80-humanizer",
-            "stars": 1010,
-            "forks": 70,
+            "stars": 1019,
+            "forks": 71,
             "score": 76
         },
         {
@@ -128,9 +117,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "beiwocaishijia/gezhi-sheets",
             "description": "\u683c\u77e5 AI \u00b7 Gezhi Sheets\uff5c\u8ba9\u8868\u683c\u542c\u61c2\u4f60\u7684\u8bdd\u3002\u652f\u6301 GLM\u3001Kimi\u3001\u8c46\u5305\u3001DeepSeek\u3001Qwen \u7684\u672c\u5730 AI \u8868\u683c\u52a9\u624b\u3002",
             "url": "https://github.com/beiwocaishijia/gezhi-sheets",
-            "stars": 472,
-            "forks": 145,
-            "score": 67
+            "stars": 476,
+            "forks": 148,
+            "score": 68
         },
         {
             "main_cat": "AI",
@@ -139,9 +128,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "linknimiball1974/ai-texture-forge",
             "description": "An AI-powered texture forge for Blender \u2014 turn text prompts into seamless PBR materials, concept art and scene-wide projections with local or cloud diffusion models, straight inside the 3D viewport on Windows. \u00b7 dream textures \u00b7 dream textures blender \u00b7 dream textures addon \u00b7 dream textures ai \u00b7 dream textures seamless \u00b7 dream textures pbr",
             "url": "https://github.com/linknimiball1974/ai-texture-forge",
-            "stars": 685,
+            "stars": 684,
             "forks": 31,
-            "score": 66
+            "score": 63
         },
         {
             "main_cat": "AI",
@@ -150,9 +139,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "berkantay/gpucanvas",
             "description": "Put thousands of live DOM nodes on an infinite canvas: the GPU draws them, an editor selects, moves and resizes them, shaders and transitions run on them, and an AI agent can read them and point at them.",
             "url": "https://github.com/berkantay/gpucanvas",
-            "stars": 543,
+            "stars": 544,
             "forks": 39,
-            "score": 64
+            "score": 61
         },
         {
             "main_cat": "AI",
@@ -191,9 +180,9 @@ const ALPHA_DATA_V2 = {
             "main_cat": "AI",
             "sub_cat": null,
             "name": "Gemini-Config-Checker-",
-            "full_name": "weldbladesmithwharf/Gemini-Config-Checker-",
+            "full_name": "VortexHostFeel/Gemini-Config-Checker-",
             "description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
-            "url": "https://github.com/weldbladesmithwharf/Gemini-Config-Checker-",
+            "url": "https://github.com/VortexHostFeel/Gemini-Config-Checker-",
             "stars": 472,
             "forks": 0,
             "score": 59
@@ -202,9 +191,20 @@ const ALPHA_DATA_V2 = {
             "main_cat": "AI",
             "sub_cat": null,
             "name": "Gemini-Config-Checker-",
-            "full_name": "Violetnyudress/Gemini-Config-Checker-",
+            "full_name": "Visionbeyondtrack/Gemini-Config-Checker-",
             "description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
-            "url": "https://github.com/Violetnyudress/Gemini-Config-Checker-",
+            "url": "https://github.com/Visionbeyondtrack/Gemini-Config-Checker-",
+            "stars": 472,
+            "forks": 0,
+            "score": 59
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "Gemini-Config-Checker-",
+            "full_name": "weldbladesmithwharf/Gemini-Config-Checker-",
+            "description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
+            "url": "https://github.com/weldbladesmithwharf/Gemini-Config-Checker-",
             "stars": 472,
             "forks": 0,
             "score": 59
@@ -218,7 +218,7 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/credoksopho1984/blender-ai-copilot-studio",
             "stars": 516,
             "forks": 14,
-            "score": 58
+            "score": 56
         },
         {
             "main_cat": "AI",
@@ -229,7 +229,7 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/racdeufindurch198812/Blender-AI-MCP-Studio",
             "stars": 516,
             "forks": 13,
-            "score": 58
+            "score": 55
         },
         {
             "main_cat": "AI",
@@ -240,7 +240,7 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/tiobeharxi1987/blender-ai-copilot-flow",
             "stars": 514,
             "forks": 12,
-            "score": 58
+            "score": 55
         },
         {
             "main_cat": "AI",
@@ -251,7 +251,7 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/zovulrira1974/blender-ai-copilot-assets",
             "stars": 511,
             "forks": 15,
-            "score": 58
+            "score": 55
         },
         {
             "main_cat": "AI",
@@ -262,18 +262,7 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/Doug-218/blender-ai-copilot-forge",
             "stars": 509,
             "forks": 13,
-            "score": 58
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "blender-ai-copilot-hub",
-            "full_name": "baiblinocun1986/blender-ai-copilot-hub",
-            "description": "A multi-provider AI copilot hub for Blender\u2014bring OpenAI, Anthropic Claude, Google Gemini, OpenRouter, OpenCode Zen, Ollama and custom endpoints into one hub of saved connections, with 27 supervised scene tools and a built-in MCP server. \u00b7 blender-ai-copilot-hub \u00b7 blender \u00b7 blender 3d \u00b7 blender addon \u00b7 blender plugin \u00b7 blender extension",
-            "url": "https://github.com/baiblinocun1986/blender-ai-copilot-hub",
-            "stars": 502,
-            "forks": 16,
-            "score": 58
+            "score": 55
         },
         {
             "main_cat": "AI",
@@ -284,7 +273,7 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/precygtrucqui1981/blender-ai-copilot-lab",
             "stars": 506,
             "forks": 13,
-            "score": 57
+            "score": 55
         },
         {
             "main_cat": "AI",
@@ -295,7 +284,18 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/fumbdendade19718/blender-ai-copilot-desk",
             "stars": 506,
             "forks": 11,
-            "score": 57
+            "score": 55
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "blender-ai-copilot-hub",
+            "full_name": "baiblinocun1986/blender-ai-copilot-hub",
+            "description": "A multi-provider AI copilot hub for Blender\u2014bring OpenAI, Anthropic Claude, Google Gemini, OpenRouter, OpenCode Zen, Ollama and custom endpoints into one hub of saved connections, with 27 supervised scene tools and a built-in MCP server. \u00b7 blender-ai-copilot-hub \u00b7 blender \u00b7 blender 3d \u00b7 blender addon \u00b7 blender plugin \u00b7 blender extension",
+            "url": "https://github.com/baiblinocun1986/blender-ai-copilot-hub",
+            "stars": 502,
+            "forks": 16,
+            "score": 55
         },
         {
             "main_cat": "AI",
@@ -306,7 +306,7 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/findavoulot1973/Blender-AI-MCP-Suite",
             "stars": 496,
             "forks": 12,
-            "score": 57
+            "score": 54
         },
         {
             "main_cat": "AI",
@@ -317,7 +317,7 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/benzgasfuncring197110/blender-ai-copilot-bridge",
             "stars": 492,
             "forks": 13,
-            "score": 57
+            "score": 54
         },
         {
             "main_cat": "AI",
@@ -326,9 +326,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "leonardo-alegria/garlic-llm",
             "description": "A 9-billion-parameter language model running on a PS4 GPU. Offline.",
             "url": "https://github.com/leonardo-alegria/garlic-llm",
-            "stars": 219,
-            "forks": 27,
-            "score": 43
+            "stars": 220,
+            "forks": 29,
+            "score": 44
         },
         {
             "main_cat": "AI",
@@ -337,7 +337,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "yasakani-dev/yasakani",
             "description": "Run Qwen3.8-27B locally on Windows with one NVIDIA RTX GPU: chat and an OpenAI-compatible API. On an RTX 5090 the fastest model averaged 2,298 tok/s on our own JSONL edit task (one request at a time, thinking off, v0.1.4).",
             "url": "https://github.com/yasakani-dev/yasakani",
-            "stars": 121,
+            "stars": 123,
             "forks": 27,
             "score": 40
         },
@@ -394,7 +394,7 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/namiq-ai/devkb",
             "stars": 9,
             "forks": 2,
-            "score": 31
+            "score": 30
         },
         {
             "main_cat": "AI",
@@ -612,7 +612,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "system1970/opencode-antigravity-acp",
             "description": "Use your Antigravity subscription models in OpenCode via the official agy acp protocol, with Code Mode, MCP tools, skills, AGENTS.md, and cross-model context handoff.",
             "url": "https://github.com/system1970/opencode-antigravity-acp",
-            "stars": 4,
+            "stars": 5,
             "forks": 0,
             "score": 30
         },
@@ -758,17 +758,6 @@ const ALPHA_DATA_V2 = {
             "stars": 0,
             "forks": 0,
             "score": 30
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "mcp-testing-lab",
-            "full_name": "K11-Software-Solutions/mcp-testing-lab",
-            "description": "Test the Model Context Protocol supply chain: server conformance and contract stability, tool poisoning (invisible and paraphrased), rug pulls, cross-server shadowing and tool-name collisions, with host defences red-teamed one by one. No API key needed.",
-            "url": "https://github.com/K11-Software-Solutions/mcp-testing-lab",
-            "stars": 0,
-            "forks": 0,
-            "score": 30
         }
     ],
     "news": [
@@ -794,5 +783,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-11-20 18:56"
+    "timestamp": "2026-11-21 00:33"
 };
