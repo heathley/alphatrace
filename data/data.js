@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "simplexai-labs/linger",
             "description": "Linger is An Open-Source Personal Agent That Runs Fully on Your PC.  We aim to break Big Tech\u2019s grip on AI by bringing powerful local AI to everyday computers through efficient model\u2013harness co-design, so everyone can run their own.",
             "url": "https://github.com/simplexai-labs/linger",
-            "stars": 3419,
-            "forks": 320,
+            "stars": 3599,
+            "forks": 338,
             "score": 99
         },
         {
@@ -18,8 +18,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "Immortal-Protocols/lastbook",
             "description": "Offline knowledge AI, maps and videos for survival and rebuilding",
             "url": "https://github.com/Immortal-Protocols/lastbook",
-            "stars": 2883,
-            "forks": 354,
+            "stars": 2906,
+            "forks": 357,
             "score": 99
         },
         {
@@ -29,8 +29,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "FrigadeHQ/yogurt",
             "description": "Private AI meeting notes that stay on your computer. No meeting bot. Free and open source for Mac, Windows and Linux. An alternative to Granola, Otter and Fireflies.",
             "url": "https://github.com/FrigadeHQ/yogurt",
-            "stars": 2874,
-            "forks": 241,
+            "stars": 2900,
+            "forks": 246,
             "score": 99
         },
         {
@@ -40,8 +40,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "bookwjitchieni1986/blender-ai-mcp-addon",
             "description": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration.",
             "url": "https://github.com/bookwjitchieni1986/blender-ai-mcp-addon",
-            "stars": 2465,
-            "forks": 34,
+            "stars": 2705,
+            "forks": 36,
             "score": 99
         },
         {
@@ -51,8 +51,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "ZiChuanLan/freebie-radar",
             "description": "\u767d\u5ad6\u4e0e\u8d44\u8baf\u8d44\u6e90\u805a\u5408\u96f7\u8fbe\uff1a100+\u4e2a\u6e90\u5b9a\u65f6\u91c7\u96c6 + AI \u4e8c\u5ba1\u8fc7\u6ee4\u5047\u798f\u5229 + \u83b7\u53d6\u65b9\u5f0f\u5206\u7ea7\u9694\u79bb\u62bd\u5956/\u8bd5\u7528/\u63a8\u5e7f + Telegram \u5373\u65f6\u63a8\u9001",
             "url": "https://github.com/ZiChuanLan/freebie-radar",
-            "stars": 2142,
-            "forks": 346,
+            "stars": 2197,
+            "forks": 356,
             "score": 99
         },
         {
@@ -62,8 +62,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "agentes-chat/agentes-chat",
             "description": "Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs. Agents run on Claude, ChatGPT/Codex, Gemini or Grok, with MCP tools, their own computer and browser, routines, memory and approvals. Web, desktop and phone apps. Docker Compose + Postgres. AGPL-3.0.",
             "url": "https://github.com/agentes-chat/agentes-chat",
-            "stars": 1910,
-            "forks": 367,
+            "stars": 1917,
+            "forks": 368,
             "score": 99
         },
         {
@@ -73,8 +73,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "duwqijlk/muse-protocol",
             "description": "muse.ai \u6ce8\u518c\u4e0e\u9080\u8bf7\u7801\u5151\u6362\u534f\u8bae\u7814\u7a76\uff08\u7eaf HTTP Python \u5b9e\u73b0\uff09",
             "url": "https://github.com/duwqijlk/muse-protocol",
-            "stars": 1727,
-            "forks": 667,
+            "stars": 1744,
+            "forks": 669,
             "score": 99
         },
         {
@@ -84,8 +84,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "haziqahmedqasmi/PeakCut",
             "description": "AI clipping for long videos and live streams. Self-hosted, bring your own AI key.",
             "url": "https://github.com/haziqahmedqasmi/PeakCut",
-            "stars": 1660,
-            "forks": 532,
+            "stars": 1692,
+            "forks": 537,
             "score": 99
         },
         {
@@ -95,7 +95,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "boringmarketer/boring-marketing-skills",
             "description": "32 free marketing skills for your AI agent: research, positioning, copy, pages, SEO, AI search, ads, email and content, plus a deep local-business pack. MIT.",
             "url": "https://github.com/boringmarketer/boring-marketing-skills",
-            "stars": 777,
+            "stars": 785,
             "forks": 280,
             "score": 99
         },
@@ -106,20 +106,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "Dodaios/ste80-humanizer",
             "description": "STE80 Humanizer: agent skill that removes AI tells and rewrites text 80% of the way to ASD-STE100 (Simplified Technical English), the method Andrej Karpathy shared.",
             "url": "https://github.com/Dodaios/ste80-humanizer",
-            "stars": 1053,
+            "stars": 1063,
             "forks": 72,
-            "score": 74
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "gezhi-sheets",
-            "full_name": "beiwocaishijia/gezhi-sheets",
-            "description": "\u683c\u77e5 AI \u00b7 Gezhi Sheets\uff5c\u8ba9\u8868\u683c\u542c\u61c2\u4f60\u7684\u8bdd\u3002\u652f\u6301 GLM\u3001Kimi\u3001\u8c46\u5305\u3001DeepSeek\u3001Qwen \u7684\u672c\u5730 AI \u8868\u683c\u52a9\u624b\u3002",
-            "url": "https://github.com/beiwocaishijia/gezhi-sheets",
-            "stars": 543,
-            "forks": 153,
-            "score": 68
+            "score": 75
         },
         {
             "main_cat": "AI",
@@ -128,20 +117,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "ysunyang4/Nexus",
             "description": "Connect web AI assistants to local files, terminals, Git, and desktop tools through MCP, with user-controlled permissions.",
             "url": "https://github.com/ysunyang4/Nexus",
-            "stars": 483,
+            "stars": 488,
             "forks": 87,
-            "score": 67
+            "score": 68
         },
         {
-            "main_cat": "DePIN",
+            "main_cat": "AI",
             "sub_cat": null,
-            "name": "Crypto-Miner-Silent",
-            "full_name": "bjekuipers2004/Crypto-Miner-Silent",
-            "description": "Configurable CPU/GPU mining engine with multi-algorithm support and smart resource controls. Build cross-platform miners with live performance monitoring, persistent sessions, thermal throttling, scheduling, and hashrate tuning for transparent, authorized operation.",
-            "url": "https://github.com/bjekuipers2004/Crypto-Miner-Silent",
-            "stars": 156,
-            "forks": 32,
-            "score": 65
+            "name": "gezhi-sheets",
+            "full_name": "beiwocaishijia/gezhi-sheets",
+            "description": "\u683c\u77e5 AI \u00b7 Gezhi Sheets\uff5c\u8ba9\u8868\u683c\u542c\u61c2\u4f60\u7684\u8bdd\u3002\u652f\u6301 GLM\u3001Kimi\u3001\u8c46\u5305\u3001DeepSeek\u3001Qwen \u7684\u672c\u5730 AI \u8868\u683c\u52a9\u624b\u3002",
+            "url": "https://github.com/beiwocaishijia/gezhi-sheets",
+            "stars": 548,
+            "forks": 156,
+            "score": 66
         },
         {
             "main_cat": "AI",
@@ -150,9 +139,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "Forward-Future/scarlet",
             "description": "Scarlet is an AI video editor for macOS and Windows.",
             "url": "https://github.com/Forward-Future/scarlet",
-            "stars": 483,
-            "forks": 62,
-            "score": 63
+            "stars": 532,
+            "forks": 64,
+            "score": 65
         },
         {
             "main_cat": "AI",
@@ -161,7 +150,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "linknimiball1974/ai-texture-forge",
             "description": "An AI-powered texture forge for Blender \u2014 turn text prompts into seamless PBR materials, concept art and scene-wide projections with local or cloud diffusion models, straight inside the 3D viewport on Windows. \u00b7 dream textures \u00b7 dream textures blender \u00b7 dream textures addon \u00b7 dream textures ai \u00b7 dream textures seamless \u00b7 dream textures pbr",
             "url": "https://github.com/linknimiball1974/ai-texture-forge",
-            "stars": 684,
+            "stars": 685,
             "forks": 31,
             "score": 61
         },
@@ -175,6 +164,17 @@ const ALPHA_DATA_V2 = {
             "stars": 547,
             "forks": 40,
             "score": 59
+        },
+        {
+            "main_cat": "DePIN",
+            "sub_cat": null,
+            "name": "Crypto-Miner-Silent",
+            "full_name": "bjekuipers2004/Crypto-Miner-Silent",
+            "description": "Configurable CPU/GPU mining engine with multi-algorithm support and smart resource controls. Build cross-platform miners with live performance monitoring, persistent sessions, thermal throttling, scheduling, and hashrate tuning for transparent, authorized operation.",
+            "url": "https://github.com/bjekuipers2004/Crypto-Miner-Silent",
+            "stars": 156,
+            "forks": 32,
+            "score": 58
         },
         {
             "main_cat": "AI",
@@ -223,23 +223,23 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
+            "name": "Blender-AI-MCP-Studio",
+            "full_name": "racdeufindurch198812/Blender-AI-MCP-Studio",
+            "description": "Blender AI MCP Studio is an AI assistant and built-in Model Context Protocol MCP server for Blender that turns plain-language briefs into inspected, approved and reversible 3D scene operations \u2014 with a visual chat workspace, multi-agent teams and your choice of AI models. \u00b7 blender ai mcp studio \u00b7 mcp-for-blender \u00b7 mcp for blender pro",
+            "url": "https://github.com/racdeufindurch198812/Blender-AI-MCP-Studio",
+            "stars": 517,
+            "forks": 13,
+            "score": 53
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
             "name": "blender-ai-copilot-studio",
             "full_name": "credoksopho1984/blender-ai-copilot-studio",
             "description": "An AI copilot and MCP server for Blender that turns plain-language briefs into scene operations\u2014inside a visual chat studio with multi-agent teams, your choice of AI models, and 27 built-in scene tools. \u00b7 blender-ai-copilot-studio \u00b7 blender ai \u00b7 ai for blender \u00b7 blender copilot \u00b7 blender ai copilot \u00b7 blender ai assistant \u00b7 blender mcp server",
             "url": "https://github.com/credoksopho1984/blender-ai-copilot-studio",
             "stars": 516,
             "forks": 14,
-            "score": 53
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "Blender-AI-MCP-Studio",
-            "full_name": "racdeufindurch198812/Blender-AI-MCP-Studio",
-            "description": "Blender AI MCP Studio is an AI assistant and built-in Model Context Protocol MCP server for Blender that turns plain-language briefs into inspected, approved and reversible 3D scene operations \u2014 with a visual chat workspace, multi-agent teams and your choice of AI models. \u00b7 blender ai mcp studio \u00b7 mcp-for-blender \u00b7 mcp for blender pro",
-            "url": "https://github.com/racdeufindurch198812/Blender-AI-MCP-Studio",
-            "stars": 516,
-            "forks": 13,
             "score": 53
         },
         {
@@ -333,11 +333,22 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
+            "name": "inference-optimization-playbook",
+            "full_name": "alesha-pro/inference-optimization-playbook",
+            "description": "97 tested hypotheses on making huge MoE LLMs fast on consumer GPUs (4x RTX 3090 + experts in RAM): what worked, what failed and why. A playbook for people and a ready skill for coding agents.",
+            "url": "https://github.com/alesha-pro/inference-optimization-playbook",
+            "stars": 65,
+            "forks": 12,
+            "score": 44
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
             "name": "garlic-llm",
             "full_name": "leonardo-alegria/garlic-llm",
             "description": "A 9-billion-parameter language model running on a PS4 GPU. Offline.",
             "url": "https://github.com/leonardo-alegria/garlic-llm",
-            "stars": 229,
+            "stars": 231,
             "forks": 31,
             "score": 43
         },
@@ -348,9 +359,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "yasakani-dev/yasakani",
             "description": "Run Qwen3.8-27B locally on Windows with one NVIDIA RTX GPU: chat and an OpenAI-compatible API. On an RTX 5090 the fastest model averaged 2,298 tok/s on our own JSONL edit task (one request at a time, thinking off, v0.1.4).",
             "url": "https://github.com/yasakani-dev/yasakani",
-            "stars": 127,
-            "forks": 27,
-            "score": 39
+            "stars": 129,
+            "forks": 28,
+            "score": 40
         },
         {
             "main_cat": "AI",
@@ -381,17 +392,6 @@ const ALPHA_DATA_V2 = {
             "full_name": "AntonSeveri803525/decoupling-ephemeral-cloud-gpu-clusters-from-retained-credentials",
             "description": "Hardening ephemeral machine-learning infrastructure: Mitigating zero-day card skimming and runaway hourly compute billing across decentralized cloud GPU providers.",
             "url": "https://github.com/AntonSeveri803525/decoupling-ephemeral-cloud-gpu-clusters-from-retained-credentials",
-            "stars": 60,
-            "forks": 0,
-            "score": 32
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "decoupling-ephemeral-cloud-gpu-clusters-from-retained-credentials",
-            "full_name": "MelissaCroston361308/decoupling-ephemeral-cloud-gpu-clusters-from-retained-credentials",
-            "description": "Hardening ephemeral machine-learning infrastructure: Mitigating zero-day card skimming and runaway hourly compute billing across decentralized cloud GPU providers.",
-            "url": "https://github.com/MelissaCroston361308/decoupling-ephemeral-cloud-gpu-clusters-from-retained-credentials",
             "stars": 60,
             "forks": 0,
             "score": 32
@@ -608,17 +608,6 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
-            "name": "ledgerline",
-            "full_name": "OV111/ledgerline",
-            "description": "Non-custodial stablecoin payment gateway for freelancers: USDC invoices, on-chain payment detection and a double-entry ledger. Go, PostgreSQL, React. Sepolia testnet demo.",
-            "url": "https://github.com/OV111/ledgerline",
-            "stars": 0,
-            "forks": 0,
-            "score": 30
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
             "name": "3d-cad-mcp-suite",
             "full_name": "Melih-cell/3d-cad-mcp-suite",
             "description": "Cross-DCC & CAD Model Context Protocol (MCP) server suite bridging ZBrush, Maya, 3ds Max, Substance 3D Painter, Blender, and AutoCAD with pre-flight mesh/UV/DXF validation and automated PBR baking handoffs.",
@@ -674,10 +663,10 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
-            "name": "garuda-wings-teleport",
-            "full_name": "elon00/garuda-wings-teleport",
-            "description": "Near-instant cross-chain token teleportation protocol with zero locking slippage",
-            "url": "https://github.com/elon00/garuda-wings-teleport",
+            "name": "web3-protocol-research",
+            "full_name": "oussamahouchatte64-alt/web3-protocol-research",
+            "description": "Independent research on DeFi protocols, cross-chain architecture, and smart contract",
+            "url": "https://github.com/oussamahouchatte64-alt/web3-protocol-research",
             "stars": 0,
             "forks": 0,
             "score": 30
@@ -685,10 +674,10 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
-            "name": "web3-protocol-research",
-            "full_name": "oussamahouchatte64-alt/web3-protocol-research",
-            "description": "Independent research on DeFi protocols, cross-chain architecture, and smart contract",
-            "url": "https://github.com/oussamahouchatte64-alt/web3-protocol-research",
+            "name": "garuda-wings-teleport",
+            "full_name": "elon00/garuda-wings-teleport",
+            "description": "Near-instant cross-chain token teleportation protocol with zero locking slippage",
+            "url": "https://github.com/elon00/garuda-wings-teleport",
             "stars": 0,
             "forks": 0,
             "score": 30
@@ -783,5 +772,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-11-22 01:51"
+    "timestamp": "2026-11-22 09:11"
 };
