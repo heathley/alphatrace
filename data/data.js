@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "simplexai-labs/linger",
             "description": "Linger is An Open-Source Personal Agent That Runs Fully on Your PC.  We aim to break Big Tech\u2019s grip on AI by bringing powerful local AI to everyday computers through efficient model\u2013harness co-design, so everyone can run their own.",
             "url": "https://github.com/simplexai-labs/linger",
-            "stars": 3758,
-            "forks": 358,
+            "stars": 3816,
+            "forks": 361,
             "score": 99
         },
         {
@@ -18,8 +18,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "FrigadeHQ/yogurt",
             "description": "Private AI meeting notes that stay on your computer. No meeting bot. Free and open source for Mac, Windows and Linux. An alternative to Granola, Otter and Fireflies.",
             "url": "https://github.com/FrigadeHQ/yogurt",
-            "stars": 2945,
-            "forks": 247,
+            "stars": 2968,
+            "forks": 249,
             "score": 99
         },
         {
@@ -29,8 +29,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "Immortal-Protocols/lastbook",
             "description": "Offline knowledge AI, maps and videos for survival and rebuilding",
             "url": "https://github.com/Immortal-Protocols/lastbook",
-            "stars": 2930,
-            "forks": 361,
+            "stars": 2948,
+            "forks": 363,
             "score": 99
         },
         {
@@ -40,7 +40,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "bookwjitchieni1986/blender-ai-mcp-addon",
             "description": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration.",
             "url": "https://github.com/bookwjitchieni1986/blender-ai-mcp-addon",
-            "stars": 2744,
+            "stars": 2746,
             "forks": 38,
             "score": 99
         },
@@ -51,8 +51,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "ZiChuanLan/freebie-radar",
             "description": "\u767d\u5ad6\u4e0e\u8d44\u8baf\u8d44\u6e90\u805a\u5408\u96f7\u8fbe\uff1a100+\u4e2a\u6e90\u5b9a\u65f6\u91c7\u96c6 + AI \u4e8c\u5ba1\u8fc7\u6ee4\u5047\u798f\u5229 + \u83b7\u53d6\u65b9\u5f0f\u5206\u7ea7\u9694\u79bb\u62bd\u5956/\u8bd5\u7528/\u63a8\u5e7f + Telegram \u5373\u65f6\u63a8\u9001",
             "url": "https://github.com/ZiChuanLan/freebie-radar",
-            "stars": 2265,
-            "forks": 368,
+            "stars": 2283,
+            "forks": 374,
             "score": 99
         },
         {
@@ -62,19 +62,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "agentes-chat/agentes-chat",
             "description": "Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs. Agents run on Claude, ChatGPT/Codex, Gemini or Grok, with MCP tools, their own computer and browser, routines, memory and approvals. Web, desktop and phone apps. Docker Compose + Postgres. AGPL-3.0.",
             "url": "https://github.com/agentes-chat/agentes-chat",
-            "stars": 1934,
-            "forks": 373,
-            "score": 99
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "muse-protocol",
-            "full_name": "duwqijlk/muse-protocol",
-            "description": "muse.ai \u6ce8\u518c\u4e0e\u9080\u8bf7\u7801\u5151\u6362\u534f\u8bae\u7814\u7a76\uff08\u7eaf HTTP Python \u5b9e\u73b0\uff09",
-            "url": "https://github.com/duwqijlk/muse-protocol",
-            "stars": 1752,
-            "forks": 668,
+            "stars": 1949,
+            "forks": 376,
             "score": 99
         },
         {
@@ -84,8 +73,19 @@ const ALPHA_DATA_V2 = {
             "full_name": "haziqahmedqasmi/PeakCut",
             "description": "AI clipping for long videos and live streams. Self-hosted, bring your own AI key.",
             "url": "https://github.com/haziqahmedqasmi/PeakCut",
-            "stars": 1725,
-            "forks": 544,
+            "stars": 1756,
+            "forks": 549,
+            "score": 99
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "muse-protocol",
+            "full_name": "duwqijlk/muse-protocol",
+            "description": "muse.ai \u6ce8\u518c\u4e0e\u9080\u8bf7\u7801\u5151\u6362\u534f\u8bae\u7814\u7a76\uff08\u7eaf HTTP Python \u5b9e\u73b0\uff09",
+            "url": "https://github.com/duwqijlk/muse-protocol",
+            "stars": 1753,
+            "forks": 668,
             "score": 99
         },
         {
@@ -95,8 +95,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "boringmarketer/boring-marketing-skills",
             "description": "32 free marketing skills for your AI agent: research, positioning, copy, pages, SEO, AI search, ads, email and content, plus a deep local-business pack. MIT.",
             "url": "https://github.com/boringmarketer/boring-marketing-skills",
-            "stars": 791,
-            "forks": 280,
+            "stars": 795,
+            "forks": 282,
             "score": 99
         },
         {
@@ -106,7 +106,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Dodaios/ste80-humanizer",
             "description": "STE80 Humanizer: agent skill that removes AI tells and rewrites text 80% of the way to ASD-STE100 (Simplified Technical English), the method Andrej Karpathy shared.",
             "url": "https://github.com/Dodaios/ste80-humanizer",
-            "stars": 1076,
+            "stars": 1080,
             "forks": 73,
             "score": 72
         },
@@ -117,9 +117,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "beiwocaishijia/gezhi-sheets",
             "description": "\u683c\u77e5 AI \u00b7 Gezhi Sheets\uff5c\u8ba9\u8868\u683c\u542c\u61c2\u4f60\u7684\u8bdd\u3002\u652f\u6301 GLM\u3001Kimi\u3001\u8c46\u5305\u3001DeepSeek\u3001Qwen \u7684\u672c\u5730 AI \u8868\u683c\u52a9\u624b\u3002",
             "url": "https://github.com/beiwocaishijia/gezhi-sheets",
-            "stars": 554,
-            "forks": 156,
-            "score": 66
+            "stars": 557,
+            "forks": 161,
+            "score": 67
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "mobile-agent-testers",
+            "full_name": "pierridotite/mobile-agent-testers",
+            "description": "20 AI testers on 20 different phones, in parallel, on GitHub's free runners: Claude Code agents on iOS Simulators and Android emulators that find broken flows, translation, layout and accessibility bugs",
+            "url": "https://github.com/pierridotite/mobile-agent-testers",
+            "stars": 479,
+            "forks": 48,
+            "score": 67
         },
         {
             "main_cat": "AI",
@@ -128,9 +139,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "Forward-Future/scarlet",
             "description": "Scarlet is an AI video editor for macOS and Windows.",
             "url": "https://github.com/Forward-Future/scarlet",
-            "stars": 568,
+            "stars": 595,
             "forks": 72,
-            "score": 65
+            "score": 66
         },
         {
             "main_cat": "AI",
@@ -145,6 +156,17 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
+            "sub_cat": null,
+            "name": "gpucanvas",
+            "full_name": "berkantay/gpucanvas",
+            "description": "Put thousands of live DOM nodes on an infinite canvas: the GPU draws them, an editor selects, moves and resizes them, shaders and transitions run on them, and an AI agent can read them and point at them.",
+            "url": "https://github.com/berkantay/gpucanvas",
+            "stars": 549,
+            "forks": 41,
+            "score": 59
+        },
+        {
+            "main_cat": "AI",
             "sub_cat": "AI General",
             "name": "ai-texture-forge",
             "full_name": "linknimiball1974/ai-texture-forge",
@@ -152,18 +174,7 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/linknimiball1974/ai-texture-forge",
             "stars": 686,
             "forks": 31,
-            "score": 61
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "gpucanvas",
-            "full_name": "berkantay/gpucanvas",
-            "description": "Put thousands of live DOM nodes on an infinite canvas: the GPU draws them, an editor selects, moves and resizes them, shaders and transitions run on them, and an AI agent can read them and point at them.",
-            "url": "https://github.com/berkantay/gpucanvas",
-            "stars": 548,
-            "forks": 41,
-            "score": 59
+            "score": 58
         },
         {
             "main_cat": "DePIN",
@@ -175,83 +186,6 @@ const ALPHA_DATA_V2 = {
             "stars": 156,
             "forks": 32,
             "score": 58
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "Blender-AI-MCP-Studio",
-            "full_name": "racdeufindurch198812/Blender-AI-MCP-Studio",
-            "description": "Blender AI MCP Studio is an AI assistant and built-in Model Context Protocol MCP server for Blender that turns plain-language briefs into inspected, approved and reversible 3D scene operations \u2014 with a visual chat workspace, multi-agent teams and your choice of AI models. \u00b7 blender ai mcp studio \u00b7 mcp-for-blender \u00b7 mcp for blender pro",
-            "url": "https://github.com/racdeufindurch198812/Blender-AI-MCP-Studio",
-            "stars": 517,
-            "forks": 13,
-            "score": 53
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "blender-ai-copilot-studio",
-            "full_name": "credoksopho1984/blender-ai-copilot-studio",
-            "description": "An AI copilot and MCP server for Blender that turns plain-language briefs into scene operations\u2014inside a visual chat studio with multi-agent teams, your choice of AI models, and 27 built-in scene tools. \u00b7 blender-ai-copilot-studio \u00b7 blender ai \u00b7 ai for blender \u00b7 blender copilot \u00b7 blender ai copilot \u00b7 blender ai assistant \u00b7 blender mcp server",
-            "url": "https://github.com/credoksopho1984/blender-ai-copilot-studio",
-            "stars": 516,
-            "forks": 14,
-            "score": 53
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "blender-ai-copilot-flow",
-            "full_name": "tiobeharxi1987/blender-ai-copilot-flow",
-            "description": "A controlled AI workflow for Blender: every copilot edit is a supervised tool call\u2014proposed, approved, executed in sequence, cancellable after the current step and undoable by name\u2014inside a visual studio with a built-in MCP server. \u00b7 blender-ai-copilot-flow \u00b7 blender \u00b7 blender 3d \u00b7 blender addon \u00b7 blender plugin \u00b7 blender extension",
-            "url": "https://github.com/tiobeharxi1987/blender-ai-copilot-flow",
-            "stars": 515,
-            "forks": 12,
-            "score": 53
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "blender-ai-copilot-assets",
-            "full_name": "zovulrira1974/blender-ai-copilot-assets",
-            "description": "An asset-savvy AI copilot for Blender\u2014search Poly Haven, Sketchfab and Poly Pizza mid-conversation, check what fits, import after your confirmation, with 27 scene tools and a built-in MCP server alongside. \u00b7 blender-ai-copilot-assets \u00b7 blender \u00b7 blender 3d \u00b7 blender addon \u00b7 blender plugin \u00b7 blender extension \u00b7 blender scripting \u00b7 blender automation",
-            "url": "https://github.com/zovulrira1974/blender-ai-copilot-assets",
-            "stars": 509,
-            "forks": 15,
-            "score": 53
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "blender-ai-copilot-forge",
-            "full_name": "Doug-218/blender-ai-copilot-forge",
-            "description": "A scene-forging AI copilot for Blender\u2014describe the layout and watch primitives, cameras, lights, materials and parenting assemble in ordered steps, with approvals, named undo and a built-in MCP server. \u00b7 blender-ai-copilot-forge \u00b7 blender \u00b7 blender 3d \u00b7 blender addon \u00b7 blender plugin \u00b7 blender extension \u00b7 blender scripting \u00b7 blender automation",
-            "url": "https://github.com/Doug-218/blender-ai-copilot-forge",
-            "stars": 509,
-            "forks": 13,
-            "score": 53
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "blender-ai-copilot-lab",
-            "full_name": "precygtrucqui1981/blender-ai-copilot-lab",
-            "description": "An AI lab for Blender where manager\u2013worker\u2013reviewer agent teams run multi-step scene briefs as supervised experiments\u2014a live task board, review findings, one correction attempt per blocked task, named undo, and a built-in MCP server. \u00b7 blender-ai-copilot-lab \u00b7 blender \u00b7 blender 3d \u00b7 blender addon \u00b7 blender plugin \u00b7 blender extension",
-            "url": "https://github.com/precygtrucqui1981/blender-ai-copilot-lab",
-            "stars": 505,
-            "forks": 13,
-            "score": 53
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "blender-ai-copilot-hub",
-            "full_name": "baiblinocun1986/blender-ai-copilot-hub",
-            "description": "A multi-provider AI copilot hub for Blender\u2014bring OpenAI, Anthropic Claude, Google Gemini, OpenRouter, OpenCode Zen, Ollama and custom endpoints into one hub of saved connections, with 27 supervised scene tools and a built-in MCP server. \u00b7 blender-ai-copilot-hub \u00b7 blender \u00b7 blender 3d \u00b7 blender addon \u00b7 blender plugin \u00b7 blender extension",
-            "url": "https://github.com/baiblinocun1986/blender-ai-copilot-hub",
-            "stars": 501,
-            "forks": 16,
-            "score": 53
         },
         {
             "main_cat": "AI",
@@ -278,24 +212,79 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "Gemini-Config-Checker-",
-            "full_name": "WinnerSpecialist/Gemini-Config-Checker-",
-            "description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
-            "url": "https://github.com/WinnerSpecialist/Gemini-Config-Checker-",
-            "stars": 469,
-            "forks": 0,
-            "score": 53
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
             "name": "whiteboard-ai-tutor",
             "full_name": "molly554/whiteboard-ai-tutor",
             "description": "Open-source whiteboard AI tutor with animated lessons and interactive playback. Compare Claude, Gemini & DeepSeek across 288 generation runs and 64 blind-reviewed boards.",
             "url": "https://github.com/molly554/whiteboard-ai-tutor",
-            "stars": 548,
+            "stars": 549,
             "forks": 21,
             "score": 52
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "blender-ai-copilot-studio",
+            "full_name": "credoksopho1984/blender-ai-copilot-studio",
+            "description": "An AI copilot and MCP server for Blender that turns plain-language briefs into scene operations\u2014inside a visual chat studio with multi-agent teams, your choice of AI models, and 27 built-in scene tools. \u00b7 blender-ai-copilot-studio \u00b7 blender ai \u00b7 ai for blender \u00b7 blender copilot \u00b7 blender ai copilot \u00b7 blender ai assistant \u00b7 blender mcp server",
+            "url": "https://github.com/credoksopho1984/blender-ai-copilot-studio",
+            "stars": 516,
+            "forks": 14,
+            "score": 52
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "Blender-AI-MCP-Studio",
+            "full_name": "racdeufindurch198812/Blender-AI-MCP-Studio",
+            "description": "Blender AI MCP Studio is an AI assistant and built-in Model Context Protocol MCP server for Blender that turns plain-language briefs into inspected, approved and reversible 3D scene operations \u2014 with a visual chat workspace, multi-agent teams and your choice of AI models. \u00b7 blender ai mcp studio \u00b7 mcp-for-blender \u00b7 mcp for blender pro",
+            "url": "https://github.com/racdeufindurch198812/Blender-AI-MCP-Studio",
+            "stars": 517,
+            "forks": 13,
+            "score": 51
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "blender-ai-copilot-flow",
+            "full_name": "tiobeharxi1987/blender-ai-copilot-flow",
+            "description": "A controlled AI workflow for Blender: every copilot edit is a supervised tool call\u2014proposed, approved, executed in sequence, cancellable after the current step and undoable by name\u2014inside a visual studio with a built-in MCP server. \u00b7 blender-ai-copilot-flow \u00b7 blender \u00b7 blender 3d \u00b7 blender addon \u00b7 blender plugin \u00b7 blender extension",
+            "url": "https://github.com/tiobeharxi1987/blender-ai-copilot-flow",
+            "stars": 515,
+            "forks": 12,
+            "score": 51
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "blender-ai-copilot-assets",
+            "full_name": "zovulrira1974/blender-ai-copilot-assets",
+            "description": "An asset-savvy AI copilot for Blender\u2014search Poly Haven, Sketchfab and Poly Pizza mid-conversation, check what fits, import after your confirmation, with 27 scene tools and a built-in MCP server alongside. \u00b7 blender-ai-copilot-assets \u00b7 blender \u00b7 blender 3d \u00b7 blender addon \u00b7 blender plugin \u00b7 blender extension \u00b7 blender scripting \u00b7 blender automation",
+            "url": "https://github.com/zovulrira1974/blender-ai-copilot-assets",
+            "stars": 509,
+            "forks": 15,
+            "score": 51
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "blender-ai-copilot-forge",
+            "full_name": "Doug-218/blender-ai-copilot-forge",
+            "description": "A scene-forging AI copilot for Blender\u2014describe the layout and watch primitives, cameras, lights, materials and parenting assemble in ordered steps, with approvals, named undo and a built-in MCP server. \u00b7 blender-ai-copilot-forge \u00b7 blender \u00b7 blender 3d \u00b7 blender addon \u00b7 blender plugin \u00b7 blender extension \u00b7 blender scripting \u00b7 blender automation",
+            "url": "https://github.com/Doug-218/blender-ai-copilot-forge",
+            "stars": 509,
+            "forks": 13,
+            "score": 51
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "blender-ai-copilot-lab",
+            "full_name": "precygtrucqui1981/blender-ai-copilot-lab",
+            "description": "An AI lab for Blender where manager\u2013worker\u2013reviewer agent teams run multi-step scene briefs as supervised experiments\u2014a live task board, review findings, one correction attempt per blocked task, named undo, and a built-in MCP server. \u00b7 blender-ai-copilot-lab \u00b7 blender \u00b7 blender 3d \u00b7 blender addon \u00b7 blender plugin \u00b7 blender extension",
+            "url": "https://github.com/precygtrucqui1981/blender-ai-copilot-lab",
+            "stars": 505,
+            "forks": 13,
+            "score": 51
         },
         {
             "main_cat": "AI",
@@ -306,7 +295,18 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/fumbdendade19718/blender-ai-copilot-desk",
             "stars": 505,
             "forks": 11,
-            "score": 52
+            "score": 51
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "blender-ai-copilot-hub",
+            "full_name": "baiblinocun1986/blender-ai-copilot-hub",
+            "description": "A multi-provider AI copilot hub for Blender\u2014bring OpenAI, Anthropic Claude, Google Gemini, OpenRouter, OpenCode Zen, Ollama and custom endpoints into one hub of saved connections, with 27 supervised scene tools and a built-in MCP server. \u00b7 blender-ai-copilot-hub \u00b7 blender \u00b7 blender 3d \u00b7 blender addon \u00b7 blender plugin \u00b7 blender extension",
+            "url": "https://github.com/baiblinocun1986/blender-ai-copilot-hub",
+            "stars": 501,
+            "forks": 16,
+            "score": 51
         },
         {
             "main_cat": "AI",
@@ -317,7 +317,7 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/findavoulot1973/Blender-AI-MCP-Suite",
             "stars": 495,
             "forks": 12,
-            "score": 52
+            "score": 50
         },
         {
             "main_cat": "AI",
@@ -328,18 +328,7 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/benzgasfuncring197110/blender-ai-copilot-bridge",
             "stars": 492,
             "forks": 13,
-            "score": 52
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "inference-optimization-playbook",
-            "full_name": "alesha-pro/inference-optimization-playbook",
-            "description": "97 tested hypotheses on making huge MoE LLMs fast on consumer GPUs (4x RTX 3090 + experts in RAM): what worked, what failed and why. A playbook for people and a ready skill for coding agents.",
-            "url": "https://github.com/alesha-pro/inference-optimization-playbook",
-            "stars": 75,
-            "forks": 13,
-            "score": 45
+            "score": 50
         },
         {
             "main_cat": "AI",
@@ -348,8 +337,19 @@ const ALPHA_DATA_V2 = {
             "full_name": "leonardo-alegria/garlic-llm",
             "description": "A 9-billion-parameter language model running on a PS4 GPU. Offline.",
             "url": "https://github.com/leonardo-alegria/garlic-llm",
-            "stars": 237,
+            "stars": 242,
             "forks": 31,
+            "score": 43
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "inference-optimization-playbook",
+            "full_name": "alesha-pro/inference-optimization-playbook",
+            "description": "97 tested hypotheses on making huge MoE LLMs fast on consumer GPUs (4x RTX 3090 + experts in RAM): what worked, what failed and why. A playbook for people and a ready skill for coding agents.",
+            "url": "https://github.com/alesha-pro/inference-optimization-playbook",
+            "stars": 77,
+            "forks": 15,
             "score": 43
         },
         {
@@ -392,9 +392,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "system1970/opencode-antigravity-acp",
             "description": "Use your Antigravity subscription models in OpenCode via the official agy acp protocol, with Code Mode, MCP tools, skills, AGENTS.md, and cross-model context handoff.",
             "url": "https://github.com/system1970/opencode-antigravity-acp",
-            "stars": 10,
+            "stars": 11,
             "forks": 3,
-            "score": 32
+            "score": 31
         },
         {
             "main_cat": "AI",
@@ -761,5 +761,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-11-22 17:32"
+    "timestamp": "2026-11-22 23:04"
 };
