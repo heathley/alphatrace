@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "simplexai-labs/linger",
             "description": "Linger is An Open-Source Personal Agent That Runs Fully on Your PC.  We aim to break Big Tech\u2019s grip on AI by bringing powerful local AI to everyday computers through efficient model\u2013harness co-design, so everyone can run their own.",
             "url": "https://github.com/simplexai-labs/linger",
-            "stars": 3947,
-            "forks": 372,
+            "stars": 4133,
+            "forks": 385,
             "score": 99
         },
         {
@@ -18,8 +18,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "FrigadeHQ/yogurt",
             "description": "Private AI meeting notes that stay on your computer. No meeting bot. Free and open source for Mac, Windows and Linux. An alternative to Granola, Otter and Fireflies.",
             "url": "https://github.com/FrigadeHQ/yogurt",
-            "stars": 2992,
-            "forks": 255,
+            "stars": 3051,
+            "forks": 267,
             "score": 99
         },
         {
@@ -29,8 +29,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "Immortal-Protocols/lastbook",
             "description": "Offline knowledge AI, maps and videos for survival and rebuilding",
             "url": "https://github.com/Immortal-Protocols/lastbook",
-            "stars": 2969,
-            "forks": 363,
+            "stars": 2994,
+            "forks": 364,
             "score": 99
         },
         {
@@ -40,8 +40,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "bookwjitchieni1986/blender-ai-mcp-addon",
             "description": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration.",
             "url": "https://github.com/bookwjitchieni1986/blender-ai-mcp-addon",
-            "stars": 2755,
-            "forks": 38,
+            "stars": 2763,
+            "forks": 40,
             "score": 99
         },
         {
@@ -51,8 +51,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "ZiChuanLan/freebie-radar",
             "description": "\u767d\u5ad6\u4e0e\u8d44\u8baf\u8d44\u6e90\u805a\u5408\u96f7\u8fbe\uff1a100+\u4e2a\u6e90\u5b9a\u65f6\u91c7\u96c6 + AI \u4e8c\u5ba1\u8fc7\u6ee4\u5047\u798f\u5229 + \u83b7\u53d6\u65b9\u5f0f\u5206\u7ea7\u9694\u79bb\u62bd\u5956/\u8bd5\u7528/\u63a8\u5e7f + Telegram \u5373\u65f6\u63a8\u9001",
             "url": "https://github.com/ZiChuanLan/freebie-radar",
-            "stars": 2337,
-            "forks": 378,
+            "stars": 2433,
+            "forks": 389,
             "score": 99
         },
         {
@@ -62,8 +62,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "haziqahmedqasmi/PeakCut",
             "description": "AI clipping for long videos and live streams. Self-hosted, bring your own AI key.",
             "url": "https://github.com/haziqahmedqasmi/PeakCut",
-            "stars": 1769,
-            "forks": 553,
+            "stars": 1836,
+            "forks": 565,
             "score": 99
         },
         {
@@ -73,19 +73,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "duwqijlk/muse-protocol",
             "description": "muse.ai \u6ce8\u518c\u4e0e\u9080\u8bf7\u7801\u5151\u6362\u534f\u8bae\u7814\u7a76\uff08\u7eaf HTTP Python \u5b9e\u73b0\uff09",
             "url": "https://github.com/duwqijlk/muse-protocol",
-            "stars": 1758,
-            "forks": 669,
-            "score": 99
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "boring-marketing-skills",
-            "full_name": "boringmarketer/boring-marketing-skills",
-            "description": "32 free marketing skills for your AI agent: research, positioning, copy, pages, SEO, AI search, ads, email and content, plus a deep local-business pack. MIT.",
-            "url": "https://github.com/boringmarketer/boring-marketing-skills",
-            "stars": 799,
-            "forks": 282,
+            "stars": 1776,
+            "forks": 681,
             "score": 99
         },
         {
@@ -95,9 +84,42 @@ const ALPHA_DATA_V2 = {
             "full_name": "pierridotite/mobile-agent-testers",
             "description": "20 AI testers on 20 different phones, in parallel, on GitHub's free runners: Claude Code agents on iOS Simulators and Android emulators that find broken flows, translation, layout and accessibility bugs",
             "url": "https://github.com/pierridotite/mobile-agent-testers",
-            "stars": 755,
-            "forks": 78,
-            "score": 89
+            "stars": 1323,
+            "forks": 128,
+            "score": 99
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "boring-marketing-skills",
+            "full_name": "boringmarketer/boring-marketing-skills",
+            "description": "32 free marketing skills for your AI agent: research, positioning, copy, pages, SEO, AI search, ads, email and content, plus a deep local-business pack. MIT.",
+            "url": "https://github.com/boringmarketer/boring-marketing-skills",
+            "stars": 808,
+            "forks": 282,
+            "score": 99
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "agentic-attack-detections",
+            "full_name": "ThreatDefence/agentic-attack-detections",
+            "description": "Detection rules and IOCs for AI agent attack frameworks: ARTEX, Cairn, PentAGI, HexStrike, CyberStrikeAI, Strix, Hermes Agent, Agent Zero, RedAmon, Xalgorix, Pentest Swarm AI. KQL hunts for Microsoft Sentinel and Defender XDR, Sigma, Suricata, Zeek, YARA, Splunk, Elastic, STIX 2.1.",
+            "url": "https://github.com/ThreatDefence/agentic-attack-detections",
+            "stars": 535,
+            "forks": 107,
+            "score": 99
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "PiBot",
+            "full_name": "w01fb0ss/PiBot",
+            "description": "Open-source, local-first AI agent team for your desktop: multi-agent group chats, computer use, browser, MCP, routines and approvals. macOS, Windows, Linux + Android. Built on pi.",
+            "url": "https://github.com/w01fb0ss/PiBot",
+            "stars": 489,
+            "forks": 71,
+            "score": 99
         },
         {
             "main_cat": "AI",
@@ -106,9 +128,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "Forward-Future/scarlet",
             "description": "Scarlet is an AI video editor for macOS and Windows.",
             "url": "https://github.com/Forward-Future/scarlet",
-            "stars": 617,
-            "forks": 73,
-            "score": 67
+            "stars": 651,
+            "forks": 74,
+            "score": 66
         },
         {
             "main_cat": "AI",
@@ -117,9 +139,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "ysunyang4/Nexus",
             "description": "Connect web AI assistants to local files, terminals, Git, and desktop tools through MCP, with user-controlled permissions.",
             "url": "https://github.com/ysunyang4/Nexus",
-            "stars": 494,
-            "forks": 88,
-            "score": 65
+            "stars": 496,
+            "forks": 89,
+            "score": 62
         },
         {
             "main_cat": "AI",
@@ -139,64 +161,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "berkantay/gpucanvas",
             "description": "Put thousands of live DOM nodes on an infinite canvas: the GPU draws them, an editor selects, moves and resizes them, shaders and transitions run on them, and an AI agent can read them and point at them.",
             "url": "https://github.com/berkantay/gpucanvas",
-            "stars": 549,
+            "stars": 550,
             "forks": 41,
             "score": 57
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "Gemini-Config-Checker-",
-            "full_name": "YellowLaborerMarket/Gemini-Config-Checker-",
-            "description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
-            "url": "https://github.com/YellowLaborerMarket/Gemini-Config-Checker-",
-            "stars": 471,
-            "forks": 0,
-            "score": 53
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "Gemini-Config-Checker-",
-            "full_name": "weightcashiercupola/Gemini-Config-Checker-",
-            "description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
-            "url": "https://github.com/weightcashiercupola/Gemini-Config-Checker-",
-            "stars": 470,
-            "forks": 0,
-            "score": 53
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "Gemini-Config-Checker-",
-            "full_name": "WinnerSpecialist/Gemini-Config-Checker-",
-            "description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
-            "url": "https://github.com/WinnerSpecialist/Gemini-Config-Checker-",
-            "stars": 469,
-            "forks": 0,
-            "score": 53
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "Gemini-Config-Checker-",
-            "full_name": "TypeTyrantScheme/Gemini-Config-Checker-",
-            "description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
-            "url": "https://github.com/TypeTyrantScheme/Gemini-Config-Checker-",
-            "stars": 469,
-            "forks": 0,
-            "score": 53
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "Gemini-Config-Checker-",
-            "full_name": "WingDataVacuum/Gemini-Config-Checker-",
-            "description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
-            "url": "https://github.com/WingDataVacuum/Gemini-Config-Checker-",
-            "stars": 469,
-            "forks": 0,
-            "score": 53
         },
         {
             "main_cat": "DePIN",
@@ -211,17 +178,6 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
-            "sub_cat": null,
-            "name": "whiteboard-ai-tutor",
-            "full_name": "molly554/whiteboard-ai-tutor",
-            "description": "Open-source whiteboard AI tutor with animated lessons and interactive playback. Compare Claude, Gemini & DeepSeek across 288 generation runs and 64 blind-reviewed boards.",
-            "url": "https://github.com/molly554/whiteboard-ai-tutor",
-            "stars": 553,
-            "forks": 22,
-            "score": 52
-        },
-        {
-            "main_cat": "AI",
             "sub_cat": "AI General",
             "name": "blender-ai-copilot-studio",
             "full_name": "credoksopho1984/blender-ai-copilot-studio",
@@ -230,6 +186,17 @@ const ALPHA_DATA_V2 = {
             "stars": 516,
             "forks": 14,
             "score": 52
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "whiteboard-ai-tutor",
+            "full_name": "molly554/whiteboard-ai-tutor",
+            "description": "Open-source whiteboard AI tutor with animated lessons and interactive playback. Compare Claude, Gemini & DeepSeek across 288 generation runs and 64 blind-reviewed boards.",
+            "url": "https://github.com/molly554/whiteboard-ai-tutor",
+            "stars": 554,
+            "forks": 23,
+            "score": 51
         },
         {
             "main_cat": "AI",
@@ -310,6 +277,39 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
+            "sub_cat": null,
+            "name": "Gemini-Config-Checker-",
+            "full_name": "YellowLaborerMarket/Gemini-Config-Checker-",
+            "description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
+            "url": "https://github.com/YellowLaborerMarket/Gemini-Config-Checker-",
+            "stars": 468,
+            "forks": 0,
+            "score": 51
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "Gemini-Config-Checker-",
+            "full_name": "weightcashiercupola/Gemini-Config-Checker-",
+            "description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
+            "url": "https://github.com/weightcashiercupola/Gemini-Config-Checker-",
+            "stars": 466,
+            "forks": 0,
+            "score": 51
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "ViralForge",
+            "full_name": "fendouai/ViralForge",
+            "description": "Agent-native viral video studio: deconstruct scripts, replicate structures, export editable projects and costed variants. Website: https://wearai.net/ai-video-generator",
+            "url": "https://github.com/fendouai/ViralForge",
+            "stars": 552,
+            "forks": 18,
+            "score": 50
+        },
+        {
+            "main_cat": "AI",
             "sub_cat": "AI General",
             "name": "Blender-AI-MCP-Suite",
             "full_name": "findavoulot1973/Blender-AI-MCP-Suite",
@@ -337,7 +337,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "alesha-pro/inference-optimization-playbook",
             "description": "97 tested hypotheses on making huge MoE LLMs fast on consumer GPUs (4x RTX 3090 + experts in RAM): what worked, what failed and why. A playbook for people and a ready skill for coding agents.",
             "url": "https://github.com/alesha-pro/inference-optimization-playbook",
-            "stars": 80,
+            "stars": 83,
             "forks": 15,
             "score": 44
         },
@@ -348,8 +348,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "leonardo-alegria/garlic-llm",
             "description": "A 9-billion-parameter language model running on a PS4 GPU. Offline.",
             "url": "https://github.com/leonardo-alegria/garlic-llm",
-            "stars": 246,
-            "forks": 31,
+            "stars": 250,
+            "forks": 32,
             "score": 43
         },
         {
@@ -359,20 +359,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "yasakani-dev/yasakani",
             "description": "Run Qwen3.8-27B locally on Windows with one NVIDIA RTX GPU: chat and an OpenAI-compatible API. On an RTX 5090 the fastest model averaged 2,298 tok/s on our own JSONL edit task (one request at a time, thinking off, v0.1.4).",
             "url": "https://github.com/yasakani-dev/yasakani",
-            "stars": 130,
+            "stars": 131,
             "forks": 28,
-            "score": 39
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "decoupling-ephemeral-cloud-gpu-clusters-from-retained-credentials",
-            "full_name": "ReynaUlses275591/decoupling-ephemeral-cloud-gpu-clusters-from-retained-credentials",
-            "description": "Hardening ephemeral machine-learning infrastructure: Mitigating zero-day card skimming and runaway hourly compute billing across decentralized cloud GPU providers.",
-            "url": "https://github.com/ReynaUlses275591/decoupling-ephemeral-cloud-gpu-clusters-from-retained-credentials",
-            "stars": 61,
-            "forks": 0,
-            "score": 32
+            "score": 38
         },
         {
             "main_cat": "AI",
@@ -381,7 +370,51 @@ const ALPHA_DATA_V2 = {
             "full_name": "DouglasLafortune7668/virtual-card-usdt-world-models-embodied-ai-sim-vcc",
             "description": "An architectural FinOps and payment-clearing guide for Embodied AI & World Model training clusters (Google Genie 4 / NVIDIA Cosmos / Isaac Lab), preventing cloud GPU cluster payment freezes and runaway simulation billing via USDT-funded CoreGold Virtual Cards (VCC) and Apple Pay.",
             "url": "https://github.com/DouglasLafortune7668/virtual-card-usdt-world-models-embodied-ai-sim-vcc",
-            "stars": 61,
+            "stars": 83,
+            "forks": 0,
+            "score": 33
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "coregold-usdt-vcc-ai-transparency-card-hygiene-guide",
+            "full_name": "lisaebay94-svg/coregold-usdt-vcc-ai-transparency-card-hygiene-guide",
+            "description": "Inspired by November 2026 focus on AI transparency and traceability, this guide covers practical card-hygiene knowledge\u2014TRC20 checks, credential safety, and wallet OTP steps\u2014with a CoreGold tutorial.",
+            "url": "https://github.com/lisaebay94-svg/coregold-usdt-vcc-ai-transparency-card-hygiene-guide",
+            "stars": 25,
+            "forks": 0,
+            "score": 32
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "decoupling-ephemeral-cloud-gpu-clusters-from-retained-credentials",
+            "full_name": "AntonSeveri803525/decoupling-ephemeral-cloud-gpu-clusters-from-retained-credentials",
+            "description": "Hardening ephemeral machine-learning infrastructure: Mitigating zero-day card skimming and runaway hourly compute billing across decentralized cloud GPU providers.",
+            "url": "https://github.com/AntonSeveri803525/decoupling-ephemeral-cloud-gpu-clusters-from-retained-credentials",
+            "stars": 82,
+            "forks": 0,
+            "score": 32
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "decoupling-ephemeral-cloud-gpu-clusters-from-retained-credentials",
+            "full_name": "MelissaCroston361308/decoupling-ephemeral-cloud-gpu-clusters-from-retained-credentials",
+            "description": "Hardening ephemeral machine-learning infrastructure: Mitigating zero-day card skimming and runaway hourly compute billing across decentralized cloud GPU providers.",
+            "url": "https://github.com/MelissaCroston361308/decoupling-ephemeral-cloud-gpu-clusters-from-retained-credentials",
+            "stars": 82,
+            "forks": 0,
+            "score": 32
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "decoupling-ephemeral-cloud-gpu-clusters-from-retained-credentials",
+            "full_name": "ReynaUlses275591/decoupling-ephemeral-cloud-gpu-clusters-from-retained-credentials",
+            "description": "Hardening ephemeral machine-learning infrastructure: Mitigating zero-day card skimming and runaway hourly compute billing across decentralized cloud GPU providers.",
+            "url": "https://github.com/ReynaUlses275591/decoupling-ephemeral-cloud-gpu-clusters-from-retained-credentials",
+            "stars": 79,
             "forks": 0,
             "score": 32
         },
@@ -392,9 +425,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "system1970/opencode-antigravity-acp",
             "description": "Use your Antigravity subscription models in OpenCode via the official agy acp protocol, with Code Mode, MCP tools, skills, AGENTS.md, and cross-model context handoff.",
             "url": "https://github.com/system1970/opencode-antigravity-acp",
-            "stars": 11,
-            "forks": 3,
-            "score": 31
+            "stars": 14,
+            "forks": 4,
+            "score": 32
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "Agasthy",
+            "full_name": "HMAKT99/Agasthy",
+            "description": "One intelligence layer for your dev machine: every repo, runtime, package and AI tool in a live knowledge graph. Track coding agents (Claude Code, Codex, Cursor), token spend, MCP servers and processes. Impact analysis, safe cleanup, security checks, ask-your-machine AI. Local-first. macOS (Apple silicon + Intel) \u00b7 Windows & Linux x64/ARM64 preview",
+            "url": "https://github.com/HMAKT99/Agasthy",
+            "stars": 10,
+            "forks": 1,
+            "score": 30
         },
         {
             "main_cat": "AI",
@@ -405,17 +449,6 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/namiq-ai/devkb",
             "stars": 9,
             "forks": 2,
-            "score": 30
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "Agasthy",
-            "full_name": "HMAKT99/Agasthy",
-            "description": "One intelligence layer for your dev machine: every repo, runtime, package and AI tool in a live knowledge graph. Track coding agents (Claude Code, Codex, Cursor), token spend, MCP servers and processes. Impact analysis, safe cleanup, security checks, ask-your-machine AI. Local-first. macOS (Apple silicon + Intel) \u00b7 Windows & Linux x64/ARM64 preview",
-            "url": "https://github.com/HMAKT99/Agasthy",
-            "stars": 9,
-            "forks": 1,
             "score": 30
         },
         {
@@ -641,10 +674,10 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
-            "name": "web3-protocol-research",
-            "full_name": "oussamahouchatte64-alt/web3-protocol-research",
-            "description": "Independent research on DeFi protocols, cross-chain architecture, and smart contract",
-            "url": "https://github.com/oussamahouchatte64-alt/web3-protocol-research",
+            "name": "garuda-wings-teleport",
+            "full_name": "elon00/garuda-wings-teleport",
+            "description": "Near-instant cross-chain token teleportation protocol with zero locking slippage",
+            "url": "https://github.com/elon00/garuda-wings-teleport",
             "stars": 0,
             "forks": 0,
             "score": 30
@@ -652,10 +685,10 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
-            "name": "garuda-wings-teleport",
-            "full_name": "elon00/garuda-wings-teleport",
-            "description": "Near-instant cross-chain token teleportation protocol with zero locking slippage",
-            "url": "https://github.com/elon00/garuda-wings-teleport",
+            "name": "web3-protocol-research",
+            "full_name": "oussamahouchatte64-alt/web3-protocol-research",
+            "description": "Independent research on DeFi protocols, cross-chain architecture, and smart contract",
+            "url": "https://github.com/oussamahouchatte64-alt/web3-protocol-research",
             "stars": 0,
             "forks": 0,
             "score": 30
@@ -705,6 +738,17 @@ const ALPHA_DATA_V2 = {
             "score": 30
         },
         {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "lockstep",
+            "full_name": "hridambasu/lockstep",
+            "description": "Rust-based rollup protocol with Solidity contracts and TypeScript services, featuring preconfirmations, slashing, parallel execution, TEE attestations, ZK confidential transfers, and cross-chain settlement.",
+            "url": "https://github.com/hridambasu/lockstep",
+            "stars": 0,
+            "forks": 0,
+            "score": 30
+        },
+        {
             "main_cat": "Cross-chain / Interoperability",
             "sub_cat": null,
             "name": "crosstool-proverif-tamarin",
@@ -718,6 +762,20 @@ const ALPHA_DATA_V2 = {
     ],
     "news": [
         {
+            "title": "Your Camera Can Hear You: Side-Channel Acoustic Eavesdropping via Android Camera2 Metadata",
+            "source": "ArXiv",
+            "type": "Research Alpha",
+            "color": "text-indigo-600",
+            "url": "http://arxiv.org/abs/2611.27964v1"
+        },
+        {
+            "title": "Autonomous Parameter Surgery: How LLMs Implant Selective Backdoors into Language Models",
+            "source": "ArXiv",
+            "type": "Research Alpha",
+            "color": "text-indigo-600",
+            "url": "http://arxiv.org/abs/2611.27920v1"
+        },
+        {
             "title": "Bitcoin volatility remains high ahead of key FED decision.",
             "source": "Polymarket",
             "type": "Expectation",
@@ -725,5 +783,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-11-23 05:09"
+    "timestamp": "2026-11-23 17:03"
 };
