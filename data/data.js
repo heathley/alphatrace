@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "Immortal-Protocols/lastbook",
             "description": "Offline knowledge AI, maps and videos for survival and rebuilding",
             "url": "https://github.com/Immortal-Protocols/lastbook",
-            "stars": 3008,
-            "forks": 368,
+            "stars": 3036,
+            "forks": 370,
             "score": 99
         },
         {
@@ -18,8 +18,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "ZiChuanLan/freebie-radar",
             "description": "\u767d\u5ad6\u4e0e\u8d44\u8baf\u8d44\u6e90\u805a\u5408\u96f7\u8fbe\uff1a100+\u4e2a\u6e90\u5b9a\u65f6\u91c7\u96c6 + AI \u4e8c\u5ba1\u8fc7\u6ee4\u5047\u798f\u5229 + \u83b7\u53d6\u65b9\u5f0f\u5206\u7ea7\u9694\u79bb\u62bd\u5956/\u8bd5\u7528/\u63a8\u5e7f + Telegram \u5373\u65f6\u63a8\u9001",
             "url": "https://github.com/ZiChuanLan/freebie-radar",
-            "stars": 2480,
-            "forks": 398,
+            "stars": 2535,
+            "forks": 402,
             "score": 99
         },
         {
@@ -29,8 +29,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "haziqahmedqasmi/PeakCut",
             "description": "AI clipping for long videos and live streams. Self-hosted, bring your own AI key.",
             "url": "https://github.com/haziqahmedqasmi/PeakCut",
-            "stars": 1849,
-            "forks": 569,
+            "stars": 1888,
+            "forks": 580,
             "score": 99
         },
         {
@@ -40,8 +40,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "duwqijlk/muse-protocol",
             "description": "muse.ai \u6ce8\u518c\u4e0e\u9080\u8bf7\u7801\u5151\u6362\u534f\u8bae\u7814\u7a76\uff08\u7eaf HTTP Python \u5b9e\u73b0\uff09",
             "url": "https://github.com/duwqijlk/muse-protocol",
-            "stars": 1793,
-            "forks": 683,
+            "stars": 1807,
+            "forks": 686,
             "score": 99
         },
         {
@@ -51,8 +51,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "pierridotite/mobile-agent-testers",
             "description": "20 AI testers on 20 different phones, in parallel, on GitHub's free runners: Claude Code agents on iOS Simulators and Android emulators that find broken flows, translation, layout and accessibility bugs",
             "url": "https://github.com/pierridotite/mobile-agent-testers",
-            "stars": 1516,
-            "forks": 147,
+            "stars": 1692,
+            "forks": 168,
             "score": 99
         },
         {
@@ -62,8 +62,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "boringmarketer/boring-marketing-skills",
             "description": "32 free marketing skills for your AI agent: research, positioning, copy, pages, SEO, AI search, ads, email and content, plus a deep local-business pack. MIT.",
             "url": "https://github.com/boringmarketer/boring-marketing-skills",
-            "stars": 821,
-            "forks": 281,
+            "stars": 831,
+            "forks": 288,
             "score": 99
         },
         {
@@ -73,8 +73,19 @@ const ALPHA_DATA_V2 = {
             "full_name": "ThreatDefence/agentic-attack-detections",
             "description": "Detection rules and IOCs for AI agent attack frameworks: ARTEX, Cairn, PentAGI, HexStrike, CyberStrikeAI, Strix, Hermes Agent, Agent Zero, RedAmon, Xalgorix, Pentest Swarm AI. KQL hunts for Microsoft Sentinel and Defender XDR, Sigma, Suricata, Zeek, YARA, Splunk, Elastic, STIX 2.1.",
             "url": "https://github.com/ThreatDefence/agentic-attack-detections",
-            "stars": 572,
-            "forks": 117,
+            "stars": 607,
+            "forks": 127,
+            "score": 99
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "kurocat",
+            "full_name": "qianyiai/kurocat",
+            "description": "KuroCat \u2014 Free open-source desktop typing cat pet & OBS overlay (Bongo Cat alternative, Tauri v2 + Rust + MCP)\uff5c\u8f7b\u91cf\u7ea7\u900f\u660e\u7f6e\u9876\u684c\u9762\u6253\u5b57\u5c0f\u9ed1\u732b\u4f34\u4fa3\uff086\u6b3e\u732b\u54aa+\u9cb8\u9c7c\u5a18\u5927\u80a5\u9c7c / \u8f93\u5bc6\u7801\u9632\u5077\u7aa5 / OBS\u900f\u660e\u6e90 / AI\u634f\u732b / Win\u00b7Mac\u00b7Linux\u00b7Android\uff09",
+            "url": "https://github.com/qianyiai/kurocat",
+            "stars": 562,
+            "forks": 89,
             "score": 99
         },
         {
@@ -84,9 +95,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "w01fb0ss/PiBot",
             "description": "Open-source, local-first AI agent team for your desktop: multi-agent group chats, computer use, browser, MCP, routines and approvals. macOS, Windows, Linux + Android. Built on pi.",
             "url": "https://github.com/w01fb0ss/PiBot",
-            "stars": 509,
-            "forks": 71,
+            "stars": 542,
+            "forks": 77,
             "score": 99
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "google-ai",
+            "full_name": "hoangsvit/google-ai",
+            "description": "A terminal toolkit for Windows and macOS to inspect Google AI Pro offers through Android, ADB, Frida and Google Play. The shared Textual dashboard uses a PowerShell/Python launcher on Windows and a native Python adapter on macOS.",
+            "url": "https://github.com/hoangsvit/google-ai",
+            "stars": 471,
+            "forks": 97,
+            "score": 83
         },
         {
             "main_cat": "AI",
@@ -95,9 +117,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "Forward-Future/scarlet",
             "description": "Scarlet is an AI video editor for macOS and Windows.",
             "url": "https://github.com/Forward-Future/scarlet",
-            "stars": 663,
-            "forks": 75,
-            "score": 67
+            "stars": 685,
+            "forks": 77,
+            "score": 68
         },
         {
             "main_cat": "AI",
@@ -106,9 +128,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "ysunyang4/Nexus",
             "description": "Connect web AI assistants to local files, terminals, Git, and desktop tools through MCP, with user-controlled permissions.",
             "url": "https://github.com/ysunyang4/Nexus",
-            "stars": 496,
+            "stars": 502,
             "forks": 89,
-            "score": 62
+            "score": 60
         },
         {
             "main_cat": "AI",
@@ -124,23 +146,23 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "risk-aware-trading-agents",
-            "full_name": "jackson-cmd/risk-aware-trading-agents",
-            "description": "AI trading agents for US stocks with news backtesting that can't see the future: a public LLM trading agent leaderboard (rta-bench-1), frozen point-in-time 2020/2022/2026 markets (prices, VIX, news), a look-ahead check on every run, LLM agents over MCP, and paper/live trading on 10 brokers. \u98ce\u9669\u611f\u77e5\u7f8e\u80a1\u4ea4\u6613\u667a\u80fd\u4f53 \u00b7 \u65b0\u95fb\u56de\u6d4b \u00b7 LLM \u699c\u5355",
-            "url": "https://github.com/jackson-cmd/risk-aware-trading-agents",
-            "stars": 474,
-            "forks": 81,
+            "name": "guizang-game-skill",
+            "full_name": "op7418/guizang-game-skill",
+            "description": "\u6b78\u85cf Game Skill\uff1a\u8ba9 AI \u4ece\u96f6\u505a\u51fa\u80fd\u5728\u6d4f\u89c8\u5668\u91cc\u73a9\u7684 3D \u52a8\u4f5c\u6e38\u620f\uff0c\u9644\u53ef\u73a9\u6f14\u793a\u300a\u96fe\u9501\u5c71\u95e8\u300b\u3002Agent skill for Claude Code / Codex that builds a playable browser 3D action game with AI-generated assets (three.js, single-HTML). Playable demo included.",
+            "url": "https://github.com/op7418/guizang-game-skill",
+            "stars": 485,
+            "forks": 79,
             "score": 56
         },
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "guizang-game-skill",
-            "full_name": "op7418/guizang-game-skill",
-            "description": "\u6b78\u85cf Game Skill\uff1a\u8ba9 AI \u4ece\u96f6\u505a\u51fa\u80fd\u5728\u6d4f\u89c8\u5668\u91cc\u73a9\u7684 3D \u52a8\u4f5c\u6e38\u620f\uff0c\u9644\u53ef\u73a9\u6f14\u793a\u300a\u96fe\u9501\u5c71\u95e8\u300b\u3002Agent skill for Claude Code / Codex that builds a playable browser 3D action game with AI-generated assets (three.js, single-HTML). Playable demo included.",
-            "url": "https://github.com/op7418/guizang-game-skill",
-            "stars": 473,
-            "forks": 79,
+            "name": "risk-aware-trading-agents",
+            "full_name": "jackson-cmd/risk-aware-trading-agents",
+            "description": "AI trading agents for US stocks with news backtesting that can't see the future: a public LLM trading agent leaderboard (rta-bench-1), frozen point-in-time 2020/2022/2026 markets (prices, VIX, news), a look-ahead check on every run, LLM agents over MCP, and paper/live trading on 10 brokers. \u98ce\u9669\u611f\u77e5\u7f8e\u80a1\u4ea4\u6613\u667a\u80fd\u4f53 \u00b7 \u65b0\u95fb\u56de\u6d4b \u00b7 LLM \u699c\u5355",
+            "url": "https://github.com/jackson-cmd/risk-aware-trading-agents",
+            "stars": 475,
+            "forks": 83,
             "score": 56
         },
         {
@@ -150,31 +172,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "berkantay/gpucanvas",
             "description": "Put thousands of live DOM nodes on an infinite canvas: the GPU draws them, an editor selects, moves and resizes them, shaders and transitions run on them, and an AI agent can read them and point at them.",
             "url": "https://github.com/berkantay/gpucanvas",
-            "stars": 551,
+            "stars": 554,
             "forks": 41,
             "score": 55
-        },
-        {
-            "main_cat": "DePIN",
-            "sub_cat": null,
-            "name": "Crypto-Miner-Silent",
-            "full_name": "bjekuipers2004/Crypto-Miner-Silent",
-            "description": "Configurable CPU/GPU mining engine with multi-algorithm support and smart resource controls. Build cross-platform miners with live performance monitoring, persistent sessions, thermal throttling, scheduling, and hashrate tuning for transparent, authorized operation.",
-            "url": "https://github.com/bjekuipers2004/Crypto-Miner-Silent",
-            "stars": 156,
-            "forks": 32,
-            "score": 53
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "whiteboard-ai-tutor",
-            "full_name": "molly554/whiteboard-ai-tutor",
-            "description": "Open-source whiteboard AI tutor with animated lessons and interactive playback. Compare Claude, Gemini & DeepSeek across 288 generation runs and 64 blind-reviewed boards.",
-            "url": "https://github.com/molly554/whiteboard-ai-tutor",
-            "stars": 556,
-            "forks": 23,
-            "score": 51
         },
         {
             "main_cat": "AI",
@@ -183,41 +183,19 @@ const ALPHA_DATA_V2 = {
             "full_name": "YellowLaborerMarket/Gemini-Config-Checker-",
             "description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
             "url": "https://github.com/YellowLaborerMarket/Gemini-Config-Checker-",
-            "stars": 467,
+            "stars": 466,
             "forks": 0,
             "score": 51
         },
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "Gemini-Config-Checker-",
-            "full_name": "weightcashiercupola/Gemini-Config-Checker-",
-            "description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
-            "url": "https://github.com/weightcashiercupola/Gemini-Config-Checker-",
-            "stars": 465,
-            "forks": 0,
-            "score": 51
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "Gemini-Config-Checker-",
-            "full_name": "WinnerSpecialist/Gemini-Config-Checker-",
-            "description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
-            "url": "https://github.com/WinnerSpecialist/Gemini-Config-Checker-",
-            "stars": 464,
-            "forks": 0,
-            "score": 51
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "ViralForge",
-            "full_name": "fendouai/ViralForge",
-            "description": "Agent-native viral video studio: deconstruct scripts, replicate structures, export editable projects and costed variants. Website: https://wearai.net/ai-video-generator",
-            "url": "https://github.com/fendouai/ViralForge",
-            "stars": 555,
-            "forks": 18,
+            "name": "whiteboard-ai-tutor",
+            "full_name": "molly554/whiteboard-ai-tutor",
+            "description": "Open-source whiteboard AI tutor with animated lessons and interactive playback. Compare Claude, Gemini & DeepSeek across 288 generation runs and 64 blind-reviewed boards.",
+            "url": "https://github.com/molly554/whiteboard-ai-tutor",
+            "stars": 561,
+            "forks": 23,
             "score": 50
         },
         {
@@ -289,13 +267,24 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "DePIN",
             "sub_cat": null,
-            "name": "electrum-wallet-password-recovery",
-            "full_name": "lieve2338/electrum-wallet-password-recovery",
-            "description": "Electrum BTC Wallet Password & Seed Recovery Utility with GPU Acceleration: native 64-bit Windows 10/11 portable x64 build with hot-reloadable JSON configuration, low-overhead runtime, and prebuilt portable release.",
-            "url": "https://github.com/lieve2338/electrum-wallet-password-recovery",
-            "stars": 123,
-            "forks": 0,
+            "name": "Crypto-Miner-Silent",
+            "full_name": "bjekuipers2004/Crypto-Miner-Silent",
+            "description": "Configurable CPU/GPU mining engine with multi-algorithm support and smart resource controls. Build cross-platform miners with live performance monitoring, persistent sessions, thermal throttling, scheduling, and hashrate tuning for transparent, authorized operation.",
+            "url": "https://github.com/bjekuipers2004/Crypto-Miner-Silent",
+            "stars": 156,
+            "forks": 32,
             "score": 50
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "ViralForge",
+            "full_name": "fendouai/ViralForge",
+            "description": "Agent-native viral video studio: deconstruct scripts, replicate structures, export editable projects and costed variants. Website: https://wearai.net/ai-video-generator",
+            "url": "https://github.com/fendouai/ViralForge",
+            "stars": 557,
+            "forks": 18,
+            "score": 49
         },
         {
             "main_cat": "AI",
@@ -342,24 +331,13 @@ const ALPHA_DATA_V2 = {
             "score": 49
         },
         {
-            "main_cat": "DePIN",
-            "sub_cat": null,
-            "name": "hashcat-wallet-dat-recovery-cuda",
-            "full_name": "luukalexiou4715/hashcat-wallet-dat-recovery-cuda",
-            "description": "Wallet.dat, MetaMask & Keystore GPU Recovery Suite \u2014 CUDA / OpenCL Dictionary Engine: native 64-bit Windows 10/11 portable x64 build with hot-reloadable JSON configuration, low-overhead runtime, and prebuilt portable release.",
-            "url": "https://github.com/luukalexiou4715/hashcat-wallet-dat-recovery-cuda",
-            "stars": 112,
-            "forks": 0,
-            "score": 48
-        },
-        {
             "main_cat": "AI",
             "sub_cat": "AI General",
             "name": "garlic-llm",
             "full_name": "leonardo-alegria/garlic-llm",
             "description": "A 9-billion-parameter language model running on a PS4 GPU. Offline.",
             "url": "https://github.com/leonardo-alegria/garlic-llm",
-            "stars": 255,
+            "stars": 259,
             "forks": 32,
             "score": 42
         },
@@ -370,7 +348,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "alesha-pro/inference-optimization-playbook",
             "description": "97 tested hypotheses on making huge MoE LLMs fast on consumer GPUs (4x RTX 3090 + experts in RAM): what worked, what failed and why. A playbook for people and a ready skill for coding agents.",
             "url": "https://github.com/alesha-pro/inference-optimization-playbook",
-            "stars": 84,
+            "stars": 86,
             "forks": 15,
             "score": 42
         },
@@ -392,7 +370,29 @@ const ALPHA_DATA_V2 = {
             "full_name": "DouglasLafortune7668/virtual-card-usdt-world-models-embodied-ai-sim-vcc",
             "description": "An architectural FinOps and payment-clearing guide for Embodied AI & World Model training clusters (Google Genie 4 / NVIDIA Cosmos / Isaac Lab), preventing cloud GPU cluster payment freezes and runaway simulation billing via USDT-funded CoreGold Virtual Cards (VCC) and Apple Pay.",
             "url": "https://github.com/DouglasLafortune7668/virtual-card-usdt-world-models-embodied-ai-sim-vcc",
-            "stars": 83,
+            "stars": 99,
+            "forks": 0,
+            "score": 33
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "decoupling-ephemeral-cloud-gpu-clusters-from-retained-credentials",
+            "full_name": "AntonSeveri803525/decoupling-ephemeral-cloud-gpu-clusters-from-retained-credentials",
+            "description": "Hardening ephemeral machine-learning infrastructure: Mitigating zero-day card skimming and runaway hourly compute billing across decentralized cloud GPU providers.",
+            "url": "https://github.com/AntonSeveri803525/decoupling-ephemeral-cloud-gpu-clusters-from-retained-credentials",
+            "stars": 98,
+            "forks": 0,
+            "score": 33
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "decoupling-ephemeral-cloud-gpu-clusters-from-retained-credentials",
+            "full_name": "MelissaCroston361308/decoupling-ephemeral-cloud-gpu-clusters-from-retained-credentials",
+            "description": "Hardening ephemeral machine-learning infrastructure: Mitigating zero-day card skimming and runaway hourly compute billing across decentralized cloud GPU providers.",
+            "url": "https://github.com/MelissaCroston361308/decoupling-ephemeral-cloud-gpu-clusters-from-retained-credentials",
+            "stars": 97,
             "forks": 0,
             "score": 33
         },
@@ -403,7 +403,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "lisaebay94-svg/coregold-usdt-vcc-ai-transparency-card-hygiene-guide",
             "description": "Inspired by November 2026 focus on AI transparency and traceability, this guide covers practical card-hygiene knowledge\u2014TRC20 checks, credential safety, and wallet OTP steps\u2014with a CoreGold tutorial.",
             "url": "https://github.com/lisaebay94-svg/coregold-usdt-vcc-ai-transparency-card-hygiene-guide",
-            "stars": 25,
+            "stars": 40,
             "forks": 0,
             "score": 32
         },
@@ -411,10 +411,10 @@ const ALPHA_DATA_V2 = {
             "main_cat": "AI",
             "sub_cat": "AI General",
             "name": "decoupling-ephemeral-cloud-gpu-clusters-from-retained-credentials",
-            "full_name": "AntonSeveri803525/decoupling-ephemeral-cloud-gpu-clusters-from-retained-credentials",
+            "full_name": "ReynaUlses275591/decoupling-ephemeral-cloud-gpu-clusters-from-retained-credentials",
             "description": "Hardening ephemeral machine-learning infrastructure: Mitigating zero-day card skimming and runaway hourly compute billing across decentralized cloud GPU providers.",
-            "url": "https://github.com/AntonSeveri803525/decoupling-ephemeral-cloud-gpu-clusters-from-retained-credentials",
-            "stars": 82,
+            "url": "https://github.com/ReynaUlses275591/decoupling-ephemeral-cloud-gpu-clusters-from-retained-credentials",
+            "stars": 95,
             "forks": 0,
             "score": 32
         },
@@ -425,7 +425,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "system1970/opencode-antigravity-acp",
             "description": "Use your Antigravity subscription models in OpenCode via the official agy acp protocol, with Code Mode, MCP tools, skills, AGENTS.md, and cross-model context handoff.",
             "url": "https://github.com/system1970/opencode-antigravity-acp",
-            "stars": 16,
+            "stars": 18,
             "forks": 5,
             "score": 32
         },
@@ -436,7 +436,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "HMAKT99/Agasthy",
             "description": "One intelligence layer for your dev machine: every repo, runtime, package and AI tool in a live knowledge graph. Track coding agents (Claude Code, Codex, Cursor), token spend, MCP servers and processes. Impact analysis, safe cleanup, security checks, ask-your-machine AI. Local-first. macOS (Apple silicon + Intel) \u00b7 Windows & Linux x64/ARM64 preview",
             "url": "https://github.com/HMAKT99/Agasthy",
-            "stars": 10,
+            "stars": 11,
             "forks": 1,
             "score": 30
         },
@@ -452,17 +452,6 @@ const ALPHA_DATA_V2 = {
             "score": 30
         },
         {
-            "main_cat": "AI",
-            "sub_cat": "AI Agents",
-            "name": "tm-second-brain",
-            "full_name": "tmolavi/tm-second-brain",
-            "description": "Open-Source, Model-Agnostic, Local-First Memory & Knowledge Infrastructure for AI Agents.",
-            "url": "https://github.com/tmolavi/tm-second-brain",
-            "stars": 7,
-            "forks": 3,
-            "score": 30
-        },
-        {
             "main_cat": "Prediction Markets",
             "sub_cat": null,
             "name": "veiled-markets-near",
@@ -470,7 +459,7 @@ const ALPHA_DATA_V2 = {
             "description": "Veiled Markets on NEAR testnet: prediction markets with private bets through a zero-knowledge note pool",
             "url": "https://github.com/hevDev7/veiled-markets-near",
             "stars": 0,
-            "forks": 0,
+            "forks": 1,
             "score": 30
         },
         {
@@ -514,6 +503,17 @@ const ALPHA_DATA_V2 = {
             "description": "SMAJ PayGuard \u2014 Verified stablecoin payments, invoice management and smart-contract escrow on QDay Aevum Testnet. Built for Aevum Builder Challenge 2026.",
             "url": "https://github.com/SMAJORG/smaj-payguard",
             "stars": 1,
+            "forks": 0,
+            "score": 30
+        },
+        {
+            "main_cat": "Stablecoin Infrastructure",
+            "sub_cat": null,
+            "name": "Stablecoins",
+            "full_name": "vaibhavkapur/Stablecoins",
+            "description": "Five stablecoin projects covering merchant checkout, cross-border settlement, payment routing, wallet policies, and a payments API.",
+            "url": "https://github.com/vaibhavkapur/Stablecoins",
+            "stars": 0,
             "forks": 0,
             "score": 30
         },
@@ -573,6 +573,17 @@ const ALPHA_DATA_V2 = {
             "score": 30
         },
         {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "zhuge-finance",
+            "full_name": "darrenhdc/zhuge-finance",
+            "description": "Knowledge base on CBDC, e-CNY, payment infrastructure, stablecoins, AML, blockchain, and Web3",
+            "url": "https://github.com/darrenhdc/zhuge-finance",
+            "stars": 0,
+            "forks": 0,
+            "score": 30
+        },
+        {
             "main_cat": "Stablecoin Infrastructure",
             "sub_cat": null,
             "name": "qday-catalog",
@@ -585,33 +596,11 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "zhuge-finance",
-            "full_name": "darrenhdc/zhuge-finance",
-            "description": "Knowledge base on CBDC, e-CNY, payment infrastructure, stablecoins, AML, blockchain, and Web3",
-            "url": "https://github.com/darrenhdc/zhuge-finance",
-            "stars": 0,
-            "forks": 0,
-            "score": 30
-        },
-        {
-            "main_cat": "AI",
             "sub_cat": "AI Agents",
             "name": "agentpay",
             "full_name": "Amburadullzz/agentpay",
             "description": "Policy-bound stablecoin payments for AI agents \u2014 the agent proposes, the contract decides. Built on QDay Aevum Testnet.",
             "url": "https://github.com/Amburadullzz/agentpay",
-            "stars": 0,
-            "forks": 0,
-            "score": 30
-        },
-        {
-            "main_cat": "Stablecoin Infrastructure",
-            "sub_cat": null,
-            "name": "noveil-case-study",
-            "full_name": "moneesh-reddy/noveil-case-study",
-            "description": "Case study: Noveil, a stablecoin (USDC on Solana) payment reconciliation prototype. Live demo inside; source is private.",
-            "url": "https://github.com/moneesh-reddy/noveil-case-study",
             "stars": 0,
             "forks": 0,
             "score": 30
@@ -751,20 +740,6 @@ const ALPHA_DATA_V2 = {
     ],
     "news": [
         {
-            "title": "Persistent Jailbreak Backdoor Attack",
-            "source": "ArXiv",
-            "type": "Research Alpha",
-            "color": "text-indigo-600",
-            "url": "http://arxiv.org/abs/2611.29217v1"
-        },
-        {
-            "title": "Ziv Meets Sumcheck: Zero-Knowledge Proofs of Floating-Point LLM Inference",
-            "source": "ArXiv",
-            "type": "Research Alpha",
-            "color": "text-indigo-600",
-            "url": "http://arxiv.org/abs/2611.29188v1"
-        },
-        {
             "title": "Bitcoin volatility remains high ahead of key FED decision.",
             "source": "Polymarket",
             "type": "Expectation",
@@ -772,5 +747,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-11-24 03:41"
+    "timestamp": "2026-11-24 14:28"
 };
