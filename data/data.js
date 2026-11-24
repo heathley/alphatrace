@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "Immortal-Protocols/lastbook",
             "description": "Offline knowledge AI, maps and videos for survival and rebuilding",
             "url": "https://github.com/Immortal-Protocols/lastbook",
-            "stars": 3036,
-            "forks": 370,
+            "stars": 3052,
+            "forks": 375,
             "score": 99
         },
         {
@@ -18,8 +18,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "ZiChuanLan/freebie-radar",
             "description": "\u767d\u5ad6\u4e0e\u8d44\u8baf\u8d44\u6e90\u805a\u5408\u96f7\u8fbe\uff1a100+\u4e2a\u6e90\u5b9a\u65f6\u91c7\u96c6 + AI \u4e8c\u5ba1\u8fc7\u6ee4\u5047\u798f\u5229 + \u83b7\u53d6\u65b9\u5f0f\u5206\u7ea7\u9694\u79bb\u62bd\u5956/\u8bd5\u7528/\u63a8\u5e7f + Telegram \u5373\u65f6\u63a8\u9001",
             "url": "https://github.com/ZiChuanLan/freebie-radar",
-            "stars": 2535,
-            "forks": 402,
+            "stars": 2569,
+            "forks": 410,
             "score": 99
         },
         {
@@ -29,19 +29,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "haziqahmedqasmi/PeakCut",
             "description": "AI clipping for long videos and live streams. Self-hosted, bring your own AI key.",
             "url": "https://github.com/haziqahmedqasmi/PeakCut",
-            "stars": 1888,
-            "forks": 580,
-            "score": 99
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "muse-protocol",
-            "full_name": "duwqijlk/muse-protocol",
-            "description": "muse.ai \u6ce8\u518c\u4e0e\u9080\u8bf7\u7801\u5151\u6362\u534f\u8bae\u7814\u7a76\uff08\u7eaf HTTP Python \u5b9e\u73b0\uff09",
-            "url": "https://github.com/duwqijlk/muse-protocol",
-            "stars": 1807,
-            "forks": 686,
+            "stars": 1904,
+            "forks": 582,
             "score": 99
         },
         {
@@ -51,8 +40,19 @@ const ALPHA_DATA_V2 = {
             "full_name": "pierridotite/mobile-agent-testers",
             "description": "20 AI testers on 20 different phones, in parallel, on GitHub's free runners: Claude Code agents on iOS Simulators and Android emulators that find broken flows, translation, layout and accessibility bugs",
             "url": "https://github.com/pierridotite/mobile-agent-testers",
-            "stars": 1692,
-            "forks": 168,
+            "stars": 1837,
+            "forks": 180,
+            "score": 99
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "muse-protocol",
+            "full_name": "duwqijlk/muse-protocol",
+            "description": "muse.ai \u6ce8\u518c\u4e0e\u9080\u8bf7\u7801\u5151\u6362\u534f\u8bae\u7814\u7a76\uff08\u7eaf HTTP Python \u5b9e\u73b0\uff09",
+            "url": "https://github.com/duwqijlk/muse-protocol",
+            "stars": 1810,
+            "forks": 688,
             "score": 99
         },
         {
@@ -62,8 +62,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "boringmarketer/boring-marketing-skills",
             "description": "32 free marketing skills for your AI agent: research, positioning, copy, pages, SEO, AI search, ads, email and content, plus a deep local-business pack. MIT.",
             "url": "https://github.com/boringmarketer/boring-marketing-skills",
-            "stars": 831,
-            "forks": 288,
+            "stars": 844,
+            "forks": 289,
             "score": 99
         },
         {
@@ -73,8 +73,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "ThreatDefence/agentic-attack-detections",
             "description": "Detection rules and IOCs for AI agent attack frameworks: ARTEX, Cairn, PentAGI, HexStrike, CyberStrikeAI, Strix, Hermes Agent, Agent Zero, RedAmon, Xalgorix, Pentest Swarm AI. KQL hunts for Microsoft Sentinel and Defender XDR, Sigma, Suricata, Zeek, YARA, Splunk, Elastic, STIX 2.1.",
             "url": "https://github.com/ThreatDefence/agentic-attack-detections",
-            "stars": 607,
-            "forks": 127,
+            "stars": 625,
+            "forks": 130,
             "score": 99
         },
         {
@@ -84,8 +84,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "qianyiai/kurocat",
             "description": "KuroCat \u2014 Free open-source desktop typing cat pet & OBS overlay (Bongo Cat alternative, Tauri v2 + Rust + MCP)\uff5c\u8f7b\u91cf\u7ea7\u900f\u660e\u7f6e\u9876\u684c\u9762\u6253\u5b57\u5c0f\u9ed1\u732b\u4f34\u4fa3\uff086\u6b3e\u732b\u54aa+\u9cb8\u9c7c\u5a18\u5927\u80a5\u9c7c / \u8f93\u5bc6\u7801\u9632\u5077\u7aa5 / OBS\u900f\u660e\u6e90 / AI\u634f\u732b / Win\u00b7Mac\u00b7Linux\u00b7Android\uff09",
             "url": "https://github.com/qianyiai/kurocat",
-            "stars": 562,
-            "forks": 89,
+            "stars": 604,
+            "forks": 96,
             "score": 99
         },
         {
@@ -95,9 +95,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "w01fb0ss/PiBot",
             "description": "Open-source, local-first AI agent team for your desktop: multi-agent group chats, computer use, browser, MCP, routines and approvals. macOS, Windows, Linux + Android. Built on pi.",
             "url": "https://github.com/w01fb0ss/PiBot",
-            "stars": 542,
-            "forks": 77,
+            "stars": 557,
+            "forks": 83,
             "score": 99
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "agent-sim",
+            "full_name": "Developing-Gamer/agent-sim",
+            "description": "iOS simulators for AI agents, on Linux. The agent layer for x86Sim.",
+            "url": "https://github.com/Developing-Gamer/agent-sim",
+            "stars": 551,
+            "forks": 56,
+            "score": 94
         },
         {
             "main_cat": "AI",
@@ -106,9 +117,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "hoangsvit/google-ai",
             "description": "A terminal toolkit for Windows and macOS to inspect Google AI Pro offers through Android, ADB, Frida and Google Play. The shared Textual dashboard uses a PowerShell/Python launcher on Windows and a native Python adapter on macOS.",
             "url": "https://github.com/hoangsvit/google-ai",
-            "stars": 471,
-            "forks": 97,
-            "score": 83
+            "stars": 501,
+            "forks": 105,
+            "score": 81
         },
         {
             "main_cat": "AI",
@@ -117,9 +128,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "Forward-Future/scarlet",
             "description": "Scarlet is an AI video editor for macOS and Windows.",
             "url": "https://github.com/Forward-Future/scarlet",
-            "stars": 685,
+            "stars": 697,
             "forks": 77,
-            "score": 68
+            "score": 65
         },
         {
             "main_cat": "AI",
@@ -134,6 +145,17 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
+            "sub_cat": null,
+            "name": "risk-aware-trading-agents",
+            "full_name": "jackson-cmd/risk-aware-trading-agents",
+            "description": "AI trading agents for US stocks with news backtesting that can't see the future: a public LLM trading agent leaderboard (rta-bench-1), frozen point-in-time 2020/2022/2026 markets (prices, VIX, news), a look-ahead check on every run, LLM agents over MCP, and paper/live trading on 10 brokers. \u98ce\u9669\u611f\u77e5\u7f8e\u80a1\u4ea4\u6613\u667a\u80fd\u4f53 \u00b7 \u65b0\u95fb\u56de\u6d4b \u00b7 LLM \u699c\u5355",
+            "url": "https://github.com/jackson-cmd/risk-aware-trading-agents",
+            "stars": 477,
+            "forks": 83,
+            "score": 56
+        },
+        {
+            "main_cat": "AI",
             "sub_cat": "AI General",
             "name": "ai-texture-forge",
             "full_name": "linknimiball1974/ai-texture-forge",
@@ -141,7 +163,7 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/linknimiball1974/ai-texture-forge",
             "stars": 686,
             "forks": 31,
-            "score": 57
+            "score": 55
         },
         {
             "main_cat": "AI",
@@ -150,20 +172,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "op7418/guizang-game-skill",
             "description": "\u6b78\u85cf Game Skill\uff1a\u8ba9 AI \u4ece\u96f6\u505a\u51fa\u80fd\u5728\u6d4f\u89c8\u5668\u91cc\u73a9\u7684 3D \u52a8\u4f5c\u6e38\u620f\uff0c\u9644\u53ef\u73a9\u6f14\u793a\u300a\u96fe\u9501\u5c71\u95e8\u300b\u3002Agent skill for Claude Code / Codex that builds a playable browser 3D action game with AI-generated assets (three.js, single-HTML). Playable demo included.",
             "url": "https://github.com/op7418/guizang-game-skill",
-            "stars": 485,
-            "forks": 79,
-            "score": 56
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "risk-aware-trading-agents",
-            "full_name": "jackson-cmd/risk-aware-trading-agents",
-            "description": "AI trading agents for US stocks with news backtesting that can't see the future: a public LLM trading agent leaderboard (rta-bench-1), frozen point-in-time 2020/2022/2026 markets (prices, VIX, news), a look-ahead check on every run, LLM agents over MCP, and paper/live trading on 10 brokers. \u98ce\u9669\u611f\u77e5\u7f8e\u80a1\u4ea4\u6613\u667a\u80fd\u4f53 \u00b7 \u65b0\u95fb\u56de\u6d4b \u00b7 LLM \u699c\u5355",
-            "url": "https://github.com/jackson-cmd/risk-aware-trading-agents",
-            "stars": 475,
-            "forks": 83,
-            "score": 56
+            "stars": 490,
+            "forks": 80,
+            "score": 55
         },
         {
             "main_cat": "AI",
@@ -174,18 +185,18 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/berkantay/gpucanvas",
             "stars": 554,
             "forks": 41,
-            "score": 55
+            "score": 53
         },
         {
             "main_cat": "AI",
             "sub_cat": null,
-            "name": "Gemini-Config-Checker-",
-            "full_name": "YellowLaborerMarket/Gemini-Config-Checker-",
-            "description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
-            "url": "https://github.com/YellowLaborerMarket/Gemini-Config-Checker-",
-            "stars": 466,
-            "forks": 0,
-            "score": 51
+            "name": "craft",
+            "full_name": "diego3g/craft",
+            "description": "Design skills for AI agents: /craft-setup writes your design brief, /craft designs screens with every state from your design system and reviews them. Works with Paper, pen.dev, Figma or HTML.",
+            "url": "https://github.com/diego3g/craft",
+            "stars": 470,
+            "forks": 25,
+            "score": 53
         },
         {
             "main_cat": "AI",
@@ -194,74 +205,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "molly554/whiteboard-ai-tutor",
             "description": "Open-source whiteboard AI tutor with animated lessons and interactive playback. Compare Claude, Gemini & DeepSeek across 288 generation runs and 64 blind-reviewed boards.",
             "url": "https://github.com/molly554/whiteboard-ai-tutor",
-            "stars": 561,
+            "stars": 563,
             "forks": 23,
-            "score": 50
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "Blender-AI-MCP-Studio",
-            "full_name": "racdeufindurch198812/Blender-AI-MCP-Studio",
-            "description": "Blender AI MCP Studio is an AI assistant and built-in Model Context Protocol MCP server for Blender that turns plain-language briefs into inspected, approved and reversible 3D scene operations \u2014 with a visual chat workspace, multi-agent teams and your choice of AI models. \u00b7 blender ai mcp studio \u00b7 mcp-for-blender \u00b7 mcp for blender pro",
-            "url": "https://github.com/racdeufindurch198812/Blender-AI-MCP-Studio",
-            "stars": 520,
-            "forks": 13,
-            "score": 50
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "blender-ai-copilot-studio",
-            "full_name": "credoksopho1984/blender-ai-copilot-studio",
-            "description": "An AI copilot and MCP server for Blender that turns plain-language briefs into scene operations\u2014inside a visual chat studio with multi-agent teams, your choice of AI models, and 27 built-in scene tools. \u00b7 blender-ai-copilot-studio \u00b7 blender ai \u00b7 ai for blender \u00b7 blender copilot \u00b7 blender ai copilot \u00b7 blender ai assistant \u00b7 blender mcp server",
-            "url": "https://github.com/credoksopho1984/blender-ai-copilot-studio",
-            "stars": 517,
-            "forks": 14,
-            "score": 50
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "blender-ai-copilot-flow",
-            "full_name": "tiobeharxi1987/blender-ai-copilot-flow",
-            "description": "A controlled AI workflow for Blender: every copilot edit is a supervised tool call\u2014proposed, approved, executed in sequence, cancellable after the current step and undoable by name\u2014inside a visual studio with a built-in MCP server. \u00b7 blender-ai-copilot-flow \u00b7 blender \u00b7 blender 3d \u00b7 blender addon \u00b7 blender plugin \u00b7 blender extension",
-            "url": "https://github.com/tiobeharxi1987/blender-ai-copilot-flow",
-            "stars": 516,
-            "forks": 12,
-            "score": 50
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "blender-ai-copilot-assets",
-            "full_name": "zovulrira1974/blender-ai-copilot-assets",
-            "description": "An asset-savvy AI copilot for Blender\u2014search Poly Haven, Sketchfab and Poly Pizza mid-conversation, check what fits, import after your confirmation, with 27 scene tools and a built-in MCP server alongside. \u00b7 blender-ai-copilot-assets \u00b7 blender \u00b7 blender 3d \u00b7 blender addon \u00b7 blender plugin \u00b7 blender extension \u00b7 blender scripting \u00b7 blender automation",
-            "url": "https://github.com/zovulrira1974/blender-ai-copilot-assets",
-            "stars": 510,
-            "forks": 15,
-            "score": 50
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "blender-ai-copilot-forge",
-            "full_name": "Doug-218/blender-ai-copilot-forge",
-            "description": "A scene-forging AI copilot for Blender\u2014describe the layout and watch primitives, cameras, lights, materials and parenting assemble in ordered steps, with approvals, named undo and a built-in MCP server. \u00b7 blender-ai-copilot-forge \u00b7 blender \u00b7 blender 3d \u00b7 blender addon \u00b7 blender plugin \u00b7 blender extension \u00b7 blender scripting \u00b7 blender automation",
-            "url": "https://github.com/Doug-218/blender-ai-copilot-forge",
-            "stars": 510,
-            "forks": 13,
-            "score": 50
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "blender-ai-copilot-hub",
-            "full_name": "baiblinocun1986/blender-ai-copilot-hub",
-            "description": "A multi-provider AI copilot hub for Blender\u2014bring OpenAI, Anthropic Claude, Google Gemini, OpenRouter, OpenCode Zen, Ollama and custom endpoints into one hub of saved connections, with 27 supervised scene tools and a built-in MCP server. \u00b7 blender-ai-copilot-hub \u00b7 blender \u00b7 blender 3d \u00b7 blender addon \u00b7 blender plugin \u00b7 blender extension",
-            "url": "https://github.com/baiblinocun1986/blender-ai-copilot-hub",
-            "stars": 501,
-            "forks": 16,
             "score": 50
         },
         {
@@ -288,14 +233,47 @@ const ALPHA_DATA_V2 = {
         },
         {
             "main_cat": "AI",
-            "sub_cat": null,
-            "name": "blender-ai-copilot-lab",
-            "full_name": "precygtrucqui1981/blender-ai-copilot-lab",
-            "description": "An AI lab for Blender where manager\u2013worker\u2013reviewer agent teams run multi-step scene briefs as supervised experiments\u2014a live task board, review findings, one correction attempt per blocked task, named undo, and a built-in MCP server. \u00b7 blender-ai-copilot-lab \u00b7 blender \u00b7 blender 3d \u00b7 blender addon \u00b7 blender plugin \u00b7 blender extension",
-            "url": "https://github.com/precygtrucqui1981/blender-ai-copilot-lab",
-            "stars": 506,
-            "forks": 13,
+            "sub_cat": "AI General",
+            "name": "blender-ai-copilot-studio",
+            "full_name": "credoksopho1984/blender-ai-copilot-studio",
+            "description": "An AI copilot and MCP server for Blender that turns plain-language briefs into scene operations\u2014inside a visual chat studio with multi-agent teams, your choice of AI models, and 27 built-in scene tools. \u00b7 blender-ai-copilot-studio \u00b7 blender ai \u00b7 ai for blender \u00b7 blender copilot \u00b7 blender ai copilot \u00b7 blender ai assistant \u00b7 blender mcp server",
+            "url": "https://github.com/credoksopho1984/blender-ai-copilot-studio",
+            "stars": 517,
+            "forks": 14,
             "score": 49
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "blender-ai-copilot-assets",
+            "full_name": "zovulrira1974/blender-ai-copilot-assets",
+            "description": "An asset-savvy AI copilot for Blender\u2014search Poly Haven, Sketchfab and Poly Pizza mid-conversation, check what fits, import after your confirmation, with 27 scene tools and a built-in MCP server alongside. \u00b7 blender-ai-copilot-assets \u00b7 blender \u00b7 blender 3d \u00b7 blender addon \u00b7 blender plugin \u00b7 blender extension \u00b7 blender scripting \u00b7 blender automation",
+            "url": "https://github.com/zovulrira1974/blender-ai-copilot-assets",
+            "stars": 510,
+            "forks": 15,
+            "score": 49
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "blender-ai-copilot-flow",
+            "full_name": "tiobeharxi1987/blender-ai-copilot-flow",
+            "description": "A controlled AI workflow for Blender: every copilot edit is a supervised tool call\u2014proposed, approved, executed in sequence, cancellable after the current step and undoable by name\u2014inside a visual studio with a built-in MCP server. \u00b7 blender-ai-copilot-flow \u00b7 blender \u00b7 blender 3d \u00b7 blender addon \u00b7 blender plugin \u00b7 blender extension",
+            "url": "https://github.com/tiobeharxi1987/blender-ai-copilot-flow",
+            "stars": 516,
+            "forks": 12,
+            "score": 48
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "blender-ai-copilot-forge",
+            "full_name": "Doug-218/blender-ai-copilot-forge",
+            "description": "A scene-forging AI copilot for Blender\u2014describe the layout and watch primitives, cameras, lights, materials and parenting assemble in ordered steps, with approvals, named undo and a built-in MCP server. \u00b7 blender-ai-copilot-forge \u00b7 blender \u00b7 blender 3d \u00b7 blender addon \u00b7 blender plugin \u00b7 blender extension \u00b7 blender scripting \u00b7 blender automation",
+            "url": "https://github.com/Doug-218/blender-ai-copilot-forge",
+            "stars": 510,
+            "forks": 13,
+            "score": 48
         },
         {
             "main_cat": "AI",
@@ -304,9 +282,31 @@ const ALPHA_DATA_V2 = {
             "full_name": "fumbdendade19718/blender-ai-copilot-desk",
             "description": "A visual AI desk for Blender\u2014chat, scene objects, viewport snapshots, approvals and a live task board in one companion window, backed by your choice of models and a built-in MCP server. \u00b7 blender-ai-copilot-desk \u00b7 blender \u00b7 blender 3d \u00b7 blender addon \u00b7 blender plugin \u00b7 blender extension \u00b7 blender scripting \u00b7 blender automation \u00b7 blender mcp",
             "url": "https://github.com/fumbdendade19718/blender-ai-copilot-desk",
-            "stars": 506,
+            "stars": 507,
             "forks": 11,
-            "score": 49
+            "score": 48
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "blender-ai-copilot-lab",
+            "full_name": "precygtrucqui1981/blender-ai-copilot-lab",
+            "description": "An AI lab for Blender where manager\u2013worker\u2013reviewer agent teams run multi-step scene briefs as supervised experiments\u2014a live task board, review findings, one correction attempt per blocked task, named undo, and a built-in MCP server. \u00b7 blender-ai-copilot-lab \u00b7 blender \u00b7 blender 3d \u00b7 blender addon \u00b7 blender plugin \u00b7 blender extension",
+            "url": "https://github.com/precygtrucqui1981/blender-ai-copilot-lab",
+            "stars": 506,
+            "forks": 13,
+            "score": 48
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "blender-ai-copilot-hub",
+            "full_name": "baiblinocun1986/blender-ai-copilot-hub",
+            "description": "A multi-provider AI copilot hub for Blender\u2014bring OpenAI, Anthropic Claude, Google Gemini, OpenRouter, OpenCode Zen, Ollama and custom endpoints into one hub of saved connections, with 27 supervised scene tools and a built-in MCP server. \u00b7 blender-ai-copilot-hub \u00b7 blender \u00b7 blender 3d \u00b7 blender addon \u00b7 blender plugin \u00b7 blender extension",
+            "url": "https://github.com/baiblinocun1986/blender-ai-copilot-hub",
+            "stars": 501,
+            "forks": 16,
+            "score": 48
         },
         {
             "main_cat": "AI",
@@ -317,7 +317,7 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/findavoulot1973/Blender-AI-MCP-Suite",
             "stars": 495,
             "forks": 12,
-            "score": 49
+            "score": 48
         },
         {
             "main_cat": "AI",
@@ -328,7 +328,7 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/benzgasfuncring197110/blender-ai-copilot-bridge",
             "stars": 493,
             "forks": 13,
-            "score": 49
+            "score": 48
         },
         {
             "main_cat": "AI",
@@ -337,8 +337,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "leonardo-alegria/garlic-llm",
             "description": "A 9-billion-parameter language model running on a PS4 GPU. Offline.",
             "url": "https://github.com/leonardo-alegria/garlic-llm",
-            "stars": 259,
-            "forks": 32,
+            "stars": 260,
+            "forks": 33,
             "score": 42
         },
         {
@@ -348,9 +348,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "alesha-pro/inference-optimization-playbook",
             "description": "97 tested hypotheses on making huge MoE LLMs fast on consumer GPUs (4x RTX 3090 + experts in RAM): what worked, what failed and why. A playbook for people and a ready skill for coding agents.",
             "url": "https://github.com/alesha-pro/inference-optimization-playbook",
-            "stars": 86,
+            "stars": 88,
             "forks": 15,
-            "score": 42
+            "score": 40
         },
         {
             "main_cat": "AI",
@@ -436,19 +436,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "HMAKT99/Agasthy",
             "description": "One intelligence layer for your dev machine: every repo, runtime, package and AI tool in a live knowledge graph. Track coding agents (Claude Code, Codex, Cursor), token spend, MCP servers and processes. Impact analysis, safe cleanup, security checks, ask-your-machine AI. Local-first. macOS (Apple silicon + Intel) \u00b7 Windows & Linux x64/ARM64 preview",
             "url": "https://github.com/HMAKT99/Agasthy",
-            "stars": 11,
+            "stars": 12,
             "forks": 1,
-            "score": 30
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "devkb",
-            "full_name": "namiq-ai/devkb",
-            "description": "Knowledge graph of your repository for coding agents: precomputed context packs and an MCP server. 55% cheaper with better answers in a 1,138-run benchmark.",
-            "url": "https://github.com/namiq-ai/devkb",
-            "stars": 9,
-            "forks": 2,
             "score": 30
         },
         {
@@ -469,6 +458,17 @@ const ALPHA_DATA_V2 = {
             "full_name": "jjliu2008/bet-builder",
             "description": "Bet builder for crypto prediction markets: cheapest route across Gemini Predictions + Kalshi, Deribit-implied fair value, stale-quote flags",
             "url": "https://github.com/jjliu2008/bet-builder",
+            "stars": 0,
+            "forks": 0,
+            "score": 30
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "QTimelineHook",
+            "full_name": "Quantum-Timeline/QTimelineHook",
+            "description": "Prediction markets on Uniswap v4 for Robinhood Chain. Bet YES or NO on US Core PCE before the BEA release, settled onchain with dual ECDSA + ML-DSA-44 signatures. One shared engine, a new market per event.",
+            "url": "https://github.com/Quantum-Timeline/QTimelineHook",
             "stars": 0,
             "forks": 0,
             "score": 30
@@ -513,6 +513,17 @@ const ALPHA_DATA_V2 = {
             "full_name": "vaibhavkapur/Stablecoins",
             "description": "Five stablecoin projects covering merchant checkout, cross-border settlement, payment routing, wallet policies, and a payments API.",
             "url": "https://github.com/vaibhavkapur/Stablecoins",
+            "stars": 0,
+            "forks": 0,
+            "score": 30
+        },
+        {
+            "main_cat": "Stablecoin Infrastructure",
+            "sub_cat": null,
+            "name": "confidential-stablecoin-kit",
+            "full_name": "confidential-kit/confidential-stablecoin-kit",
+            "description": "Confidential stablecoin payments on Stellar: engine, viewer, verifier test bench. Testnet only, unaudited.",
+            "url": "https://github.com/confidential-kit/confidential-stablecoin-kit",
             "stars": 0,
             "forks": 0,
             "score": 30
@@ -590,17 +601,6 @@ const ALPHA_DATA_V2 = {
             "full_name": "ericchengech/qday-catalog",
             "description": "Stablecoin (tUSD8) payment showcase on the Aevum testnet (QDay) \u2014 Aevum Builder Challenge #1",
             "url": "https://github.com/ericchengech/qday-catalog",
-            "stars": 0,
-            "forks": 0,
-            "score": 30
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI Agents",
-            "name": "agentpay",
-            "full_name": "Amburadullzz/agentpay",
-            "description": "Policy-bound stablecoin payments for AI agents \u2014 the agent proposes, the contract decides. Built on QDay Aevum Testnet.",
-            "url": "https://github.com/Amburadullzz/agentpay",
             "stars": 0,
             "forks": 0,
             "score": 30
@@ -718,6 +718,17 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
+            "name": "covenant",
+            "full_name": "Sharon-dev-create/covenant",
+            "description": "Covenant is an autonomous cross-chain liquidity backstop protocol that allows users to secure pre-committed credit against assets held on another blockchain.",
+            "url": "https://github.com/Sharon-dev-create/covenant",
+            "stars": 0,
+            "forks": 0,
+            "score": 30
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
             "name": "lockstep",
             "full_name": "hridambasu/lockstep",
             "description": "Rust-based rollup protocol with Solidity contracts and TypeScript services, featuring preconfirmations, slashing, parallel execution, TEE attestations, ZK confidential transfers, and cross-chain settlement.",
@@ -740,6 +751,20 @@ const ALPHA_DATA_V2 = {
     ],
     "news": [
         {
+            "title": "Matching Under Metric Privacy",
+            "source": "ArXiv",
+            "type": "Research Alpha",
+            "color": "text-indigo-600",
+            "url": "http://arxiv.org/abs/2611.31208v1"
+        },
+        {
+            "title": "Code-Based Message Authentication with Statistical Guarantees via Coordinate Selection and Masking",
+            "source": "ArXiv",
+            "type": "Research Alpha",
+            "color": "text-indigo-600",
+            "url": "http://arxiv.org/abs/2611.31178v1"
+        },
+        {
             "title": "Bitcoin volatility remains high ahead of key FED decision.",
             "source": "Polymarket",
             "type": "Expectation",
@@ -747,5 +772,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-11-24 14:28"
+    "timestamp": "2026-11-24 23:42"
 };
