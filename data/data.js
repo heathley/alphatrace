@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "Immortal-Protocols/lastbook",
             "description": "Offline knowledge AI, maps and videos for survival and rebuilding",
             "url": "https://github.com/Immortal-Protocols/lastbook",
-            "stars": 3059,
-            "forks": 377,
+            "stars": 3071,
+            "forks": 379,
             "score": 99
         },
         {
@@ -18,8 +18,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "ZiChuanLan/freebie-radar",
             "description": "\u767d\u5ad6\u4e0e\u8d44\u8baf\u8d44\u6e90\u805a\u5408\u96f7\u8fbe\uff1a100+\u4e2a\u6e90\u5b9a\u65f6\u91c7\u96c6 + AI \u4e8c\u5ba1\u8fc7\u6ee4\u5047\u798f\u5229 + \u83b7\u53d6\u65b9\u5f0f\u5206\u7ea7\u9694\u79bb\u62bd\u5956/\u8bd5\u7528/\u63a8\u5e7f + Telegram \u5373\u65f6\u63a8\u9001",
             "url": "https://github.com/ZiChuanLan/freebie-radar",
-            "stars": 2627,
-            "forks": 419,
+            "stars": 2728,
+            "forks": 453,
             "score": 99
         },
         {
@@ -29,8 +29,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "pierridotite/mobile-agent-testers",
             "description": "20 AI testers on 20 different phones, in parallel, on GitHub's free runners: Claude Code agents on iOS Simulators and Android emulators that find broken flows, translation, layout and accessibility bugs",
             "url": "https://github.com/pierridotite/mobile-agent-testers",
-            "stars": 1927,
-            "forks": 191,
+            "stars": 2214,
+            "forks": 224,
             "score": 99
         },
         {
@@ -40,8 +40,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "haziqahmedqasmi/PeakCut",
             "description": "AI clipping for long videos and live streams. Self-hosted, bring your own AI key.",
             "url": "https://github.com/haziqahmedqasmi/PeakCut",
-            "stars": 1913,
-            "forks": 583,
+            "stars": 1937,
+            "forks": 585,
             "score": 99
         },
         {
@@ -51,19 +51,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "duwqijlk/muse-protocol",
             "description": "muse.ai \u6ce8\u518c\u4e0e\u9080\u8bf7\u7801\u5151\u6362\u534f\u8bae\u7814\u7a76\uff08\u7eaf HTTP Python \u5b9e\u73b0\uff09",
             "url": "https://github.com/duwqijlk/muse-protocol",
-            "stars": 1814,
-            "forks": 687,
-            "score": 99
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "boring-marketing-skills",
-            "full_name": "boringmarketer/boring-marketing-skills",
-            "description": "32 free marketing skills for your AI agent: research, positioning, copy, pages, SEO, AI search, ads, email and content, plus a deep local-business pack. MIT.",
-            "url": "https://github.com/boringmarketer/boring-marketing-skills",
-            "stars": 849,
-            "forks": 292,
+            "stars": 1820,
+            "forks": 689,
             "score": 99
         },
         {
@@ -73,8 +62,19 @@ const ALPHA_DATA_V2 = {
             "full_name": "qianyiai/kurocat",
             "description": "KuroCat \u2014 Free open-source desktop typing cat pet & OBS overlay (Bongo Cat alternative, Tauri v2 + Rust + MCP)\uff5c\u8f7b\u91cf\u7ea7\u900f\u660e\u7f6e\u9876\u684c\u9762\u6253\u5b57\u5c0f\u9ed1\u732b\u4f34\u4fa3\uff086\u6b3e\u732b\u54aa+\u9cb8\u9c7c\u5a18\u5927\u80a5\u9c7c / \u8f93\u5bc6\u7801\u9632\u5077\u7aa5 / OBS\u900f\u660e\u6e90 / AI\u634f\u732b / Win\u00b7Mac\u00b7Linux\u00b7Android\uff09",
             "url": "https://github.com/qianyiai/kurocat",
-            "stars": 749,
-            "forks": 120,
+            "stars": 938,
+            "forks": 145,
+            "score": 99
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "boring-marketing-skills",
+            "full_name": "boringmarketer/boring-marketing-skills",
+            "description": "32 free marketing skills for your AI agent: research, positioning, copy, pages, SEO, AI search, ads, email and content, plus a deep local-business pack. MIT.",
+            "url": "https://github.com/boringmarketer/boring-marketing-skills",
+            "stars": 855,
+            "forks": 296,
             "score": 99
         },
         {
@@ -84,19 +84,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "ThreatDefence/agentic-attack-detections",
             "description": "Detection rules and IOCs for AI agent attack frameworks: ARTEX, Cairn, PentAGI, HexStrike, CyberStrikeAI, Strix, Hermes Agent, Agent Zero, RedAmon, Xalgorix, Pentest Swarm AI. KQL hunts for Microsoft Sentinel and Defender XDR, Sigma, Suricata, Zeek, YARA, Splunk, Elastic, STIX 2.1.",
             "url": "https://github.com/ThreatDefence/agentic-attack-detections",
-            "stars": 641,
-            "forks": 133,
-            "score": 99
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "PiBot",
-            "full_name": "w01fb0ss/PiBot",
-            "description": "Open-source, local-first AI agent team for your desktop: multi-agent group chats, computer use, browser, MCP, routines and approvals. macOS, Windows, Linux + Android. Built on pi.",
-            "url": "https://github.com/w01fb0ss/PiBot",
-            "stars": 568,
-            "forks": 85,
+            "stars": 679,
+            "forks": 141,
             "score": 99
         },
         {
@@ -106,9 +95,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "Developing-Gamer/agent-sim",
             "description": "iOS simulators for AI agents, on Linux. The agent layer for x86Sim.",
             "url": "https://github.com/Developing-Gamer/agent-sim",
-            "stars": 573,
-            "forks": 60,
-            "score": 97
+            "stars": 590,
+            "forks": 62,
+            "score": 99
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "PiBot",
+            "full_name": "w01fb0ss/PiBot",
+            "description": "Open-source, local-first AI agent team for your desktop: multi-agent group chats, computer use, browser, MCP, routines and approvals. macOS, Windows, Linux + Android. Built on pi.",
+            "url": "https://github.com/w01fb0ss/PiBot",
+            "stars": 587,
+            "forks": 87,
+            "score": 96
         },
         {
             "main_cat": "AI",
@@ -117,9 +117,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "hoangsvit/google-ai",
             "description": "A terminal toolkit for Windows and macOS to inspect Google AI Pro offers through Android, ADB, Frida and Google Play. The shared Textual dashboard uses a PowerShell/Python launcher on Windows and a native Python adapter on macOS.",
             "url": "https://github.com/hoangsvit/google-ai",
-            "stars": 526,
-            "forks": 119,
-            "score": 85
+            "stars": 559,
+            "forks": 130,
+            "score": 83
         },
         {
             "main_cat": "AI",
@@ -128,9 +128,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "Forward-Future/scarlet",
             "description": "Scarlet is an AI video editor for macOS and Windows.",
             "url": "https://github.com/Forward-Future/scarlet",
-            "stars": 701,
+            "stars": 704,
             "forks": 78,
-            "score": 66
+            "score": 63
         },
         {
             "main_cat": "AI",
@@ -139,9 +139,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "ysunyang4/Nexus",
             "description": "Connect web AI assistants to local files, terminals, Git, and desktop tools through MCP, with user-controlled permissions.",
             "url": "https://github.com/ysunyang4/Nexus",
-            "stars": 503,
+            "stars": 505,
             "forks": 88,
-            "score": 60
+            "score": 58
         },
         {
             "main_cat": "AI",
@@ -150,19 +150,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "jackson-cmd/risk-aware-trading-agents",
             "description": "AI trading agents for US stocks with news backtesting that can't see the future: a public LLM trading agent leaderboard (rta-bench-1), frozen point-in-time 2020/2022/2026 markets (prices, VIX, news), a look-ahead check on every run, LLM agents over MCP, and paper/live trading on 10 brokers. \u98ce\u9669\u611f\u77e5\u7f8e\u80a1\u4ea4\u6613\u667a\u80fd\u4f53 \u00b7 \u65b0\u95fb\u56de\u6d4b \u00b7 LLM \u699c\u5355",
             "url": "https://github.com/jackson-cmd/risk-aware-trading-agents",
-            "stars": 477,
+            "stars": 480,
             "forks": 83,
-            "score": 55
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "DSH-projects",
-            "full_name": "hovocope135-tech/DSH-projects",
-            "description": "\u63a2\u7d22\u4eba\u4e0e AI \u7684\u6700\u4f73\u534f\u4f5c\u65b9\u5f0f \u00b7 Exploring the best way for people and AI to work together. DSH-projects is an open-source plugin for DeepSeek Harness: state a goal in one sentence, it asks what is unclear, runs the tasks in parallel, and brings finished work back to you.",
-            "url": "https://github.com/hovocope135-tech/DSH-projects",
-            "stars": 462,
-            "forks": 10,
             "score": 55
         },
         {
@@ -172,8 +161,19 @@ const ALPHA_DATA_V2 = {
             "full_name": "berkantay/gpucanvas",
             "description": "Put thousands of live DOM nodes on an infinite canvas: the GPU draws them, an editor selects, moves and resizes them, shaders and transitions run on them, and an AI agent can read them and point at them.",
             "url": "https://github.com/berkantay/gpucanvas",
-            "stars": 554,
+            "stars": 556,
             "forks": 41,
+            "score": 54
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "DSH-projects",
+            "full_name": "hovocope135-tech/DSH-projects",
+            "description": "\u63a2\u7d22\u4eba\u4e0e AI \u7684\u6700\u4f73\u534f\u4f5c\u65b9\u5f0f \u00b7 Exploring the best way for people and AI to work together. DSH-projects is an open-source plugin for DeepSeek Harness: state a goal in one sentence, it asks what is unclear, runs the tasks in parallel, and brings finished work back to you.",
+            "url": "https://github.com/hovocope135-tech/DSH-projects",
+            "stars": 483,
+            "forks": 10,
             "score": 53
         },
         {
@@ -183,9 +183,20 @@ const ALPHA_DATA_V2 = {
             "full_name": "diego3g/craft",
             "description": "Design skills for AI agents: /craft-setup writes your design brief, /craft designs screens with every state from your design system and reviews them. Works with Paper, pen.dev, Figma or HTML.",
             "url": "https://github.com/diego3g/craft",
-            "stars": 471,
+            "stars": 475,
             "forks": 25,
             "score": 53
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "openset-llm",
+            "full_name": "opensetlabs/openset-llm",
+            "description": "Fast local LLM inference on plain CPUs. No GPU, 8 GB of RAM. OpenAI-compatible server.",
+            "url": "https://github.com/opensetlabs/openset-llm",
+            "stars": 459,
+            "forks": 39,
+            "score": 50
         },
         {
             "main_cat": "AI",
@@ -207,17 +218,6 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/zovulrira1974/blender-ai-copilot-assets",
             "stars": 510,
             "forks": 15,
-            "score": 49
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "intelligent-organization",
-            "full_name": "lizhenjie137/intelligent-organization",
-            "description": "\u667a\u80fd\u7ec4\u7ec7 \u00b7 Intelligent Organization | \u4eba\u4e0e AI Agent \u6309\u539f\u5b50\u80fd\u529b\u534f\u4f5c\uff0c\u8fde\u63a5\u76ee\u6807\u3001\u5206\u5de5\u3001\u8fdb\u5c55\u3001\u6210\u679c\u3001\u9a8c\u6536\u4e0e\u4ea4\u63a5\uff0c\u51cf\u5c11\u91cd\u590d\u6c9f\u901a\u4e0e\u8fd4\u5de5\u3002\u5f53\u524d\u652f\u6301\u672c\u673a\u591a\u8d26\u53f7\uff0c\u8de8\u8bbe\u5907\u534f\u4f5c\u4e3a\u540e\u7eed\u65b9\u5411\u3002",
-            "url": "https://github.com/lizhenjie137/intelligent-organization",
-            "stars": 458,
-            "forks": 0,
             "score": 49
         },
         {
@@ -300,13 +300,24 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": null,
+            "name": "intelligent-organization",
+            "full_name": "lizhenjie137/intelligent-organization",
+            "description": "\u667a\u80fd\u7ec4\u7ec7 \u00b7 Intelligent Organization | \u4eba\u4e0e AI Agent \u6309\u539f\u5b50\u80fd\u529b\u534f\u4f5c\uff0c\u8fde\u63a5\u76ee\u6807\u3001\u5206\u5de5\u3001\u8fdb\u5c55\u3001\u6210\u679c\u3001\u9a8c\u6536\u4e0e\u4ea4\u63a5\uff0c\u51cf\u5c11\u91cd\u590d\u6c9f\u901a\u4e0e\u8fd4\u5de5\u3002\u5f53\u524d\u652f\u6301\u672c\u673a\u591a\u8d26\u53f7\uff0c\u8de8\u8bbe\u5907\u534f\u4f5c\u4e3a\u540e\u7eed\u65b9\u5411\u3002",
+            "url": "https://github.com/lizhenjie137/intelligent-organization",
+            "stars": 481,
+            "forks": 0,
+            "score": 48
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
             "name": "Gemini-Config-Checker-",
             "full_name": "YellowLaborerMarket/Gemini-Config-Checker-",
             "description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
             "url": "https://github.com/YellowLaborerMarket/Gemini-Config-Checker-",
             "stars": 454,
             "forks": 0,
-            "score": 48
+            "score": 47
         },
         {
             "main_cat": "AI",
@@ -317,7 +328,7 @@ const ALPHA_DATA_V2 = {
             "url": "https://github.com/weightcashiercupola/Gemini-Config-Checker-",
             "stars": 452,
             "forks": 0,
-            "score": 48
+            "score": 47
         },
         {
             "main_cat": "DePIN",
@@ -337,20 +348,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "yasakani-dev/yasakani",
             "description": "Run Qwen3.8-27B locally on Windows with one NVIDIA RTX GPU: chat and an OpenAI-compatible API. On an RTX 5090 the fastest model averaged 2,298 tok/s on our own JSONL edit task (one request at a time, thinking off, v0.1.4).",
             "url": "https://github.com/yasakani-dev/yasakani",
-            "stars": 134,
+            "stars": 136,
             "forks": 29,
-            "score": 38
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "virtual-card-usdt-world-models-embodied-ai-sim-vcc",
-            "full_name": "DouglasLafortune7668/virtual-card-usdt-world-models-embodied-ai-sim-vcc",
-            "description": "An architectural FinOps and payment-clearing guide for Embodied AI & World Model training clusters (Google Genie 4 / NVIDIA Cosmos / Isaac Lab), preventing cloud GPU cluster payment freezes and runaway simulation billing via USDT-funded CoreGold Virtual Cards (VCC) and Apple Pay.",
-            "url": "https://github.com/DouglasLafortune7668/virtual-card-usdt-world-models-embodied-ai-sim-vcc",
-            "stars": 99,
-            "forks": 0,
-            "score": 33
+            "score": 37
         },
         {
             "main_cat": "AI",
@@ -359,9 +359,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "lisaebay94-svg/coregold-usdt-vcc-ai-transparency-card-hygiene-guide",
             "description": "Inspired by November 2026 focus on AI transparency and traceability, this guide covers practical card-hygiene knowledge\u2014TRC20 checks, credential safety, and wallet OTP steps\u2014with a CoreGold tutorial.",
             "url": "https://github.com/lisaebay94-svg/coregold-usdt-vcc-ai-transparency-card-hygiene-guide",
-            "stars": 40,
+            "stars": 52,
             "forks": 0,
-            "score": 32
+            "score": 33
         },
         {
             "main_cat": "AI",
@@ -370,9 +370,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "system1970/opencode-antigravity-acp",
             "description": "Use your Antigravity subscription models in OpenCode via the official agy acp protocol, with Code Mode, MCP tools, skills, AGENTS.md, and cross-model context handoff.",
             "url": "https://github.com/system1970/opencode-antigravity-acp",
-            "stars": 18,
-            "forks": 5,
-            "score": 32
+            "stars": 24,
+            "forks": 6,
+            "score": 33
         },
         {
             "main_cat": "AI",
@@ -670,17 +670,6 @@ const ALPHA_DATA_V2 = {
             "stars": 0,
             "forks": 0,
             "score": 30
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "Woodsee-MCP-easy",
-            "full_name": "WOODSEE-DIGI/Woodsee-MCP-easy",
-            "description": "One installer for the whole Woodsee MCP stack \u2014 eleven Model Context Protocol servers that give an AI agent local memory, terminal sessions, browser control, web research, Xcode build tooling and cross-agent messaging.",
-            "url": "https://github.com/WOODSEE-DIGI/Woodsee-MCP-easy",
-            "stars": 0,
-            "forks": 0,
-            "score": 30
         }
     ],
     "news": [
@@ -706,5 +695,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-11-25 06:28"
+    "timestamp": "2026-11-25 17:44"
 };
