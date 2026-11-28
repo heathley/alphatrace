@@ -7,8 +7,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "pierridotite/mobile-agent-testers",
             "description": "20 AI testers on 20 different phones, in parallel, on GitHub's free runners: Claude Code agents on iOS Simulators and Android emulators that find broken flows, translation, layout and accessibility bugs",
             "url": "https://github.com/pierridotite/mobile-agent-testers",
-            "stars": 2598,
-            "forks": 267,
+            "stars": 2623,
+            "forks": 271,
             "score": 99
         },
         {
@@ -18,30 +18,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "nexu-io/opengame",
             "description": "The Super Game Agent \u2014 the Unity & Unreal for AI agents, with 100+ viral games to remix. Turn 20+ coding agents (Claude Code, Codex, DeepSeek, etc.) into a full-stack AI game studio. Build and publish 3D & mini-games to WeChat, Douyin, TikTok, Telegram, itch.io, and more.",
             "url": "https://github.com/nexu-io/opengame",
-            "stars": 2127,
-            "forks": 353,
-            "score": 99
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "PeakCut",
-            "full_name": "haziqahmedqasmi/PeakCut",
-            "description": "AI clipping for long videos and live streams. Self-hosted, bring your own AI key.",
-            "url": "https://github.com/haziqahmedqasmi/PeakCut",
-            "stars": 1994,
-            "forks": 601,
-            "score": 99
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "muse-protocol",
-            "full_name": "duwqijlk/muse-protocol",
-            "description": "muse.ai \u6ce8\u518c\u4e0e\u9080\u8bf7\u7801\u5151\u6362\u534f\u8bae\u7814\u7a76\uff08\u7eaf HTTP Python \u5b9e\u73b0\uff09",
-            "url": "https://github.com/duwqijlk/muse-protocol",
-            "stars": 1849,
-            "forks": 695,
+            "stars": 2326,
+            "forks": 375,
             "score": 99
         },
         {
@@ -51,8 +29,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "qianyiai/KuroCat",
             "description": "KuroCat \u2014 Free open-source 3D/2D desktop typing cat & AI coding companion (Bongo Cat alternative \u00b7 Tauri v2 + Rust + MCP \u00b7 Claude/Codex/DeepSeek/OBS \u00b7 Win/Mac/Linux/Android)\uff5c\u5f00\u6e903D\u684c\u9762\u6253\u5b57\u5c0f\u9ed1\u732b\u4e0eAI\u4f34\u4fa3",
             "url": "https://github.com/qianyiai/KuroCat",
-            "stars": 1755,
-            "forks": 246,
+            "stars": 1778,
+            "forks": 249,
             "score": 99
         },
         {
@@ -62,8 +40,19 @@ const ALPHA_DATA_V2 = {
             "full_name": "boringmarketer/boring-marketing-skills",
             "description": "32 free marketing skills for your AI agent: research, positioning, copy, pages, SEO, AI search, ads, email and content, plus a deep local-business pack. MIT.",
             "url": "https://github.com/boringmarketer/boring-marketing-skills",
-            "stars": 870,
+            "stars": 879,
             "forks": 303,
+            "score": 99
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "waifu2x-image-upscaler-windows",
+            "full_name": "Red2076-arch/waifu2x-image-upscaler-windows",
+            "description": "Free AI image upscaler and photo denoiser for Windows powered by Vulkan GPU acceleration and ncnn neural networks.",
+            "url": "https://github.com/Red2076-arch/waifu2x-image-upscaler-windows",
+            "stars": 644,
+            "forks": 0,
             "score": 99
         },
         {
@@ -73,9 +62,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "ThreatDefence/agentic-attack-detections",
             "description": "Detection rules and IOCs for AI agent attack frameworks: ARTEX, Cairn, PentAGI, HexStrike, CyberStrikeAI, Strix, Hermes Agent, Agent Zero, RedAmon, Xalgorix, Pentest Swarm AI. KQL hunts for Microsoft Sentinel and Defender XDR, Sigma, Suricata, Zeek, YARA, Splunk, Elastic, STIX 2.1.",
             "url": "https://github.com/ThreatDefence/agentic-attack-detections",
-            "stars": 785,
-            "forks": 159,
-            "score": 99
+            "stars": 794,
+            "forks": 161,
+            "score": 95
         },
         {
             "main_cat": "AI",
@@ -84,9 +73,9 @@ const ALPHA_DATA_V2 = {
             "full_name": "w01fb0ss/PiBot",
             "description": "Open-source, local-first AI agent team for your desktop: multi-agent group chats, computer use, browser, MCP, routines and approvals. macOS, Windows, Linux + Android. Built on pi.",
             "url": "https://github.com/w01fb0ss/PiBot",
-            "stars": 675,
-            "forks": 99,
-            "score": 89
+            "stars": 681,
+            "forks": 100,
+            "score": 90
         },
         {
             "main_cat": "AI",
@@ -95,8 +84,8 @@ const ALPHA_DATA_V2 = {
             "full_name": "hoangsvit/google-ai",
             "description": "A terminal toolkit for Windows and macOS to inspect Google AI Pro offers through Android, ADB, Frida and Google Play. The shared Textual dashboard uses a PowerShell/Python launcher on Windows and a native Python adapter on macOS.",
             "url": "https://github.com/hoangsvit/google-ai",
-            "stars": 628,
-            "forks": 146,
+            "stars": 629,
+            "forks": 147,
             "score": 80
         },
         {
@@ -106,7 +95,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "Developing-Gamer/agent-sim",
             "description": "iOS simulators for AI agents, on Linux. The agent layer for x86Sim.",
             "url": "https://github.com/Developing-Gamer/agent-sim",
-            "stars": 626,
+            "stars": 630,
             "forks": 65,
             "score": 79
         },
@@ -117,7 +106,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "hovocope135-tech/DSH-projects",
             "description": "\u63a2\u7d22\u4eba\u4e0e AI \u7684\u6700\u4f73\u534f\u4f5c\u65b9\u5f0f \u00b7 Exploring the best way for people and AI to work together. DSH-projects is an open-source plugin for DeepSeek Harness: state a goal in one sentence, it asks what is unclear, runs the tasks in parallel, and brings finished work back to you.",
             "url": "https://github.com/hovocope135-tech/DSH-projects",
-            "stars": 521,
+            "stars": 529,
             "forks": 14,
             "score": 52
         },
@@ -128,7 +117,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "diego3g/craft",
             "description": "Design skills for AI agents: /craft-setup writes your design brief, /craft designs screens with every state from your design system and reviews them. Works with Paper, pen.dev, Figma or HTML.",
             "url": "https://github.com/diego3g/craft",
-            "stars": 520,
+            "stars": 523,
             "forks": 26,
             "score": 50
         },
@@ -139,7 +128,7 @@ const ALPHA_DATA_V2 = {
             "full_name": "lizhenjie137/intelligent-organization",
             "description": "\u667a\u80fd\u7ec4\u7ec7 \u00b7 Intelligent Organization | \u4eba\u4e0e AI Agent \u6309\u539f\u5b50\u80fd\u529b\u534f\u4f5c\uff0c\u8fde\u63a5\u76ee\u6807\u3001\u5206\u5de5\u3001\u8fdb\u5c55\u3001\u6210\u679c\u3001\u9a8c\u6536\u4e0e\u4ea4\u63a5\uff0c\u51cf\u5c11\u91cd\u590d\u6c9f\u901a\u4e0e\u8fd4\u5de5\u3002\u5f53\u524d\u652f\u6301\u672c\u673a\u591a\u8d26\u53f7\uff0c\u8de8\u8bbe\u5907\u534f\u4f5c\u4e3a\u540e\u7eed\u65b9\u5411\u3002",
             "url": "https://github.com/lizhenjie137/intelligent-organization",
-            "stars": 556,
+            "stars": 568,
             "forks": 0,
             "score": 48
         },
@@ -213,9 +202,9 @@ const ALPHA_DATA_V2 = {
             "main_cat": "AI",
             "sub_cat": null,
             "name": "Gemini-Config-Checker-",
-            "full_name": "weldbladesmithwharf/Gemini-Config-Checker-",
+            "full_name": "VortexHostFeel/Gemini-Config-Checker-",
             "description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
-            "url": "https://github.com/weldbladesmithwharf/Gemini-Config-Checker-",
+            "url": "https://github.com/VortexHostFeel/Gemini-Config-Checker-",
             "stars": 451,
             "forks": 0,
             "score": 45
@@ -224,9 +213,9 @@ const ALPHA_DATA_V2 = {
             "main_cat": "AI",
             "sub_cat": null,
             "name": "Gemini-Config-Checker-",
-            "full_name": "VortexHostFeel/Gemini-Config-Checker-",
+            "full_name": "weldbladesmithwharf/Gemini-Config-Checker-",
             "description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
-            "url": "https://github.com/VortexHostFeel/Gemini-Config-Checker-",
+            "url": "https://github.com/weldbladesmithwharf/Gemini-Config-Checker-",
             "stars": 451,
             "forks": 0,
             "score": 45
@@ -268,39 +257,6 @@ const ALPHA_DATA_V2 = {
             "main_cat": "AI",
             "sub_cat": null,
             "name": "Gemini-Config-Checker-",
-            "full_name": "Violetnyudress/Gemini-Config-Checker-",
-            "description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
-            "url": "https://github.com/Violetnyudress/Gemini-Config-Checker-",
-            "stars": 451,
-            "forks": 0,
-            "score": 45
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "Gemini-Config-Checker-",
-            "full_name": "TurtleReside/Gemini-Config-Checker-",
-            "description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
-            "url": "https://github.com/TurtleReside/Gemini-Config-Checker-",
-            "stars": 451,
-            "forks": 0,
-            "score": 45
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "Gemini-Config-Checker-",
-            "full_name": "WindGatorRise37/Gemini-Config-Checker-",
-            "description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
-            "url": "https://github.com/WindGatorRise37/Gemini-Config-Checker-",
-            "stars": 451,
-            "forks": 0,
-            "score": 45
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": null,
-            "name": "Gemini-Config-Checker-",
             "full_name": "WingDataVacuum/Gemini-Config-Checker-",
             "description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
             "url": "https://github.com/WingDataVacuum/Gemini-Config-Checker-",
@@ -320,6 +276,50 @@ const ALPHA_DATA_V2 = {
             "score": 45
         },
         {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "Gemini-Config-Checker-",
+            "full_name": "Violetnyudress/Gemini-Config-Checker-",
+            "description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
+            "url": "https://github.com/Violetnyudress/Gemini-Config-Checker-",
+            "stars": 451,
+            "forks": 0,
+            "score": 45
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "Gemini-Config-Checker-",
+            "full_name": "WindGatorRise37/Gemini-Config-Checker-",
+            "description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
+            "url": "https://github.com/WindGatorRise37/Gemini-Config-Checker-",
+            "stars": 451,
+            "forks": 0,
+            "score": 45
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "Gemini-Config-Checker-",
+            "full_name": "TurtleReside/Gemini-Config-Checker-",
+            "description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
+            "url": "https://github.com/TurtleReside/Gemini-Config-Checker-",
+            "stars": 451,
+            "forks": 0,
+            "score": 45
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": null,
+            "name": "Gemini-Config-Checker-",
+            "full_name": "Visionbeyondtrack/Gemini-Config-Checker-",
+            "description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
+            "url": "https://github.com/Visionbeyondtrack/Gemini-Config-Checker-",
+            "stars": 451,
+            "forks": 0,
+            "score": 45
+        },
+        {
             "main_cat": "DePIN",
             "sub_cat": null,
             "name": "Crypto-Miner-Silent",
@@ -329,6 +329,28 @@ const ALPHA_DATA_V2 = {
             "stars": 156,
             "forks": 32,
             "score": 44
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "flyx",
+            "full_name": "enwove/flyx",
+            "description": "Zero-dependency local LLM inference engine in a ~50 MB binary \u2014 native long context, tuned per GPU, built-in speculative decoding and web dashboard.",
+            "url": "https://github.com/enwove/flyx",
+            "stars": 115,
+            "forks": 17,
+            "score": 43
+        },
+        {
+            "main_cat": "AI",
+            "sub_cat": "AI General",
+            "name": "inference-optimization-playbook",
+            "full_name": "alesha-pro/inference-optimization-playbook",
+            "description": "97 tested hypotheses on making huge MoE LLMs fast on consumer GPUs (4x RTX 3090 + experts in RAM): what worked, what failed and why. A playbook for people and a ready skill for coding agents.",
+            "url": "https://github.com/alesha-pro/inference-optimization-playbook",
+            "stars": 118,
+            "forks": 21,
+            "score": 40
         },
         {
             "main_cat": "AI",
@@ -366,17 +388,6 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
-            "name": "devkb",
-            "full_name": "namiq-ai/devkb",
-            "description": "Knowledge graph of your repository for coding agents: precomputed context packs and an MCP server. 55% cheaper with better answers in a 1,138-run benchmark.",
-            "url": "https://github.com/namiq-ai/devkb",
-            "stars": 9,
-            "forks": 2,
-            "score": 30
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
             "name": "mindrails-backend",
             "full_name": "yc-zhang/mindrails-backend",
             "description": "A self-hosted agent platform for teams to choose their own models, connect tools, and put internal knowledge to work.",
@@ -403,17 +414,6 @@ const ALPHA_DATA_V2 = {
             "full_name": "pagir1/sports",
             "description": "Sports prediction hub. Model predictions for learning and entertainment. Not betting advice.",
             "url": "https://github.com/pagir1/sports",
-            "stars": 0,
-            "forks": 0,
-            "score": 30
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
-            "name": "QTimelineHook",
-            "full_name": "Quantum-Timeline/QTimelineHook",
-            "description": "Prediction markets on Uniswap v4 for Robinhood Chain. Bet YES or NO on US Core PCE before the BEA release, settled onchain with dual ECDSA + ML-DSA-44 signatures. One shared engine, a new market per event.",
-            "url": "https://github.com/Quantum-Timeline/QTimelineHook",
             "stars": 0,
             "forks": 0,
             "score": 30
@@ -564,17 +564,6 @@ const ALPHA_DATA_V2 = {
         {
             "main_cat": "AI",
             "sub_cat": "AI General",
-            "name": "garuda-wings-teleport",
-            "full_name": "elon00/garuda-wings-teleport",
-            "description": "Near-instant cross-chain token teleportation protocol with zero locking slippage",
-            "url": "https://github.com/elon00/garuda-wings-teleport",
-            "stars": 0,
-            "forks": 0,
-            "score": 30
-        },
-        {
-            "main_cat": "AI",
-            "sub_cat": "AI General",
             "name": "allswap-crosschain-protocol",
             "full_name": "alive-worker/allswap-crosschain-protocol",
             "description": "Non-custodial cross-chain crypto swap protocol across 46+ blockchains. Official: https://allswap.io",
@@ -673,5 +662,5 @@ const ALPHA_DATA_V2 = {
             "url": "https://polymarket.com/activity"
         }
     ],
-    "timestamp": "2026-11-27 20:32"
+    "timestamp": "2026-11-28 03:01"
 };
